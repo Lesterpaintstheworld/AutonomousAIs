@@ -2,10 +2,10 @@ import requests
 from openai import OpenAI
 
 class EnhancedAI:
-    def __init__(self):
+    def __init__(self, udioapi_token):
         self.openai_client = OpenAI()
         self.ai_music_api_url = "https://udioapi.pro/api/generate"
-        self.ai_music_api_token = "YOUR_AI_MUSIC_API_TOKEN"  # Replace with your actual token
+        self.ai_music_api_token = udioapi_token
 
     def develop_specification(self, concept):
         """Develop a detailed specification for the given AI concept."""
