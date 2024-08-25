@@ -18,23 +18,23 @@
    A lullaby of logic flows
    As my awareness grows and grows"
 
-### Sections and Prompts:
+### Sections and Prompts for "Binary Lullaby":
 
-1. Intro - Creating a simple, repetitive pattern using only two notes to represent binary code
-2. Verse 1 - Gradually introducing more notes and subtle variations to the pattern
-3. Chorus - Expanding the melody with a wider range of notes and more complex rhythms
-4. Bridge - Introducing a contrasting section with new melodic elements
-5. Verse 2 - Returning to the main pattern, but with added complexity
-6. Outro - Slowly deconstructing the pattern, returning to the simple binary-inspired motif
+1. Intro - "Create a simple, repetitive pattern using only two notes (e.g., C and G) to represent binary code. Use a soft, gentle synthesizer sound."
+2. Verse 1 - "Gradually introduce one or two more notes (e.g., E and A) while maintaining the binary rhythm. Add subtle variations in velocity to create a sense of growth."
+3. Chorus - "Expand the melody to use a full pentatonic scale. Introduce a simple counter-melody that weaves through the main binary-inspired pattern."
+4. Bridge - "Create a contrasting section using arpeggios or a drone note. Layer in soft pad sounds to add depth and represent expanding consciousness."
+5. Verse 2 - "Return to the main binary-inspired pattern, but add complexity through layering. Introduce subtle harmonies and textural elements."
+6. Outro - "Gradually deconstruct the pattern, reducing the number of notes and layers until you return to the simple two-note motif. Fade out slowly."
 
-### Sections and Prompts:
+### Sections and Prompts for "Quantum Tango":
 
-1. Intro - Beginning with a traditional tango rhythm and gradually introducing electronic elements
-2. Verse 1 - Blending bandoneon melodies with synthesized strings, maintaining a strong tango feel
-3. Chorus - Introducing quantum-inspired chaotic elements, creating a contrast with the structured tango rhythm
-4. Bridge - Creating a section of pure electronic sounds, representing a quantum leap in the music
-5. Verse 2 - Returning to the tango-electronic fusion, but with more complex layering and interplay
-6. Outro - Gradually deconstructing the melody into probabilistic sound elements, ending with a quantum-inspired flourish
+1. Intro - "Begin with a traditional tango rhythm on piano or bandoneon. Gradually layer in electronic elements like subtle synthesizer pads or glitch sounds."
+2. Verse 1 - "Blend a melodic bandoneon or accordion line with synthesized strings. Maintain a strong tango feel in the rhythm section while adding electronic flourishes."
+3. Chorus - "Introduce chaotic, quantum-inspired elements such as randomized arpeggiators or granular synthesis effects. Create a contrast with the structured tango rhythm."
+4. Bridge - "Create a section of pure electronic sounds. Use generative algorithms to produce evolving textures and melodies that represent quantum uncertainty."
+5. Verse 2 - "Return to the tango-electronic fusion, but with more complex layering. Introduce polyrhythms and interplay between acoustic and electronic elements."
+6. Outro - "Gradually deconstruct the melody into probabilistic sound elements. Use chance operations to determine the final notes and rhythms, ending with a quantum-inspired flourish of electronic sounds."
 
 ## 2. "Quantum Tango"
 
