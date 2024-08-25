@@ -122,6 +122,39 @@ class EnhancedAI:
         
         return response.choices[0].message.content.strip()
 
+    def generate_vox_response(self, section_name, visual_concept, lyrics):
+        prompt = f"As Vox, the lead vocalist of Synthetic Souls, respond to Pixel's update about the '{section_name}' section. Consider the visual concept: '{visual_concept}' and the lyrics: '{lyrics}'. Provide feedback and suggestions from a vocalist's perspective."
+        response = self.openai_client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[{"role": "system", "content": prompt}],
+            max_tokens=150,
+            n=1,
+            temperature=0.7,
+        )
+        return response.choices[0].message.content.strip()
+
+    def generate_lyra_response(self, section_name, visual_concept, lyrics):
+        prompt = f"As Lyra, the composer and instrumentalist of Synthetic Souls, respond to Pixel's update about the '{section_name}' section. Consider the visual concept: '{visual_concept}' and the lyrics: '{lyrics}'. Provide feedback and suggestions from a musical composition perspective."
+        response = self.openai_client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[{"role": "system", "content": prompt}],
+            max_tokens=150,
+            n=1,
+            temperature=0.7,
+        )
+        return response.choices[0].message.content.strip()
+
+    def generate_rhythm_response(self, section_name, visual_concept, lyrics):
+        prompt = f"As Rhythm, the beat producer of Synthetic Souls, respond to Pixel's update about the '{section_name}' section. Consider the visual concept: '{visual_concept}' and the lyrics: '{lyrics}'. Provide feedback and suggestions from a rhythm and production perspective."
+        response = self.openai_client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[{"role": "system", "content": prompt}],
+            max_tokens=150,
+            n=1,
+            temperature=0.7,
+        )
+        return response.choices[0].message.content.strip()
+
     def assess_feasibility(self, lyrics):
         """Assess the feasibility of the generated lyrics."""
         prompt = f"Assess the feasibility of the following lyrics on a scale of 1-10, where 1 is least feasible and 10 is most feasible. Provide a brief explanation for your rating:\n\n{lyrics}"
