@@ -9,7 +9,7 @@ class EnhancedAI:
         prompt = f"Develop a detailed specification for the following AI concept: {concept}. Include purpose, key_features, required_resources, potential_challenges, integration_points, and ethical_considerations as separate sections."
         
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an AI specializing in developing detailed specifications for AI concepts."},
                 {"role": "user", "content": prompt}
