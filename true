@@ -157,22 +157,22 @@ def main():
     # Initialize the EnhancedAI
     enhanced_ai = EnhancedAI()
     
-    # Example music composition tasks
-    composition_tasks = [
-        "Create a melody for a new song",
-        "Generate a chord progression for a verse",
-        "Develop a rhythmic pattern for a chorus",
-        "Suggest instrumentation for a bridge",
-        "Design a bass line for the entire song"
+    # Song sections with different music prompts
+    song_sections = [
+        {"name": "Intro", "prompt": "Create an atmospheric, ethereal intro that sets a mysterious mood"},
+        {"name": "Verse", "prompt": "Compose a melodic verse with a steady rhythm and introspective feel"},
+        {"name": "Chorus", "prompt": "Design an uplifting and catchy chorus with a memorable hook"},
+        {"name": "Bridge", "prompt": "Develop a contrasting bridge that builds tension and anticipation"},
+        {"name": "Outro", "prompt": "Craft a satisfying outro that gradually fades out, echoing elements from the intro"}
     ]
     
-    # Process composition tasks
-    for task in composition_tasks:
-        logger.info(f"Processing task: {task}")
+    # Process song sections
+    for section in song_sections:
+        logger.info(f"Processing section: {section['name']}")
         
         try:
-            spec = enhanced_ai.develop_specification(task)
-            logger.info(f"Composition specification for '{task}':")
+            spec = enhanced_ai.develop_specification(section['prompt'])
+            logger.info(f"Composition specification for '{section['name']}':")
             for key, value in spec.items():
                 if isinstance(value, list):
                     logger.info(f"{key}:")
@@ -181,17 +181,17 @@ def main():
                 else:
                     logger.info(f"{key}: {value}")
             
-            feasibility = enhanced_ai.assess_feasibility(task)
+            feasibility = enhanced_ai.assess_feasibility(section['prompt'])
             logger.info(f"Feasibility assessment: {feasibility}")
             
-            impact = enhanced_ai.estimate_impact(task)
+            impact = enhanced_ai.estimate_impact(section['prompt'])
             logger.info(f"Estimated impact on the composition: {impact}")
             
-            resources = enhanced_ai.estimate_resource_requirements(task)
+            resources = enhanced_ai.estimate_resource_requirements(section['prompt'])
             logger.info(f"Estimated resource requirements: {resources}")
         
         except Exception as e:
-            logger.error(f"Error processing task '{task}': {str(e)}")
+            logger.error(f"Error processing section '{section['name']}': {str(e)}")
             logger.exception("Detailed traceback:")
         
         logger.info("---")
