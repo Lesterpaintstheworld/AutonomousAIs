@@ -2,6 +2,8 @@ import os
 import fnmatch
 import subprocess
 import sys
+import subprocess
+import sys
 
 def install_playwright():
     subprocess.check_call([sys.executable, "-m", "pip", "install", "playwright"])
@@ -25,3 +27,6 @@ def list_files(startpath='.'):
         for file in files:
             if not any(fnmatch.fnmatch(os.path.join(root, file), pattern) for pattern in ignored_patterns):
                 print(f'{subindent}{file}')
+def install_playwright():
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "playwright"])
+    subprocess.check_call([sys.executable, "-m", "playwright", "install"])

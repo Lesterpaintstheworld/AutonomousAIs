@@ -121,3 +121,54 @@ class EnhancedAI:
         )
         
         return response.choices[0].message.content.strip()
+
+    def assess_feasibility(self, lyrics):
+        """Assess the feasibility of the generated lyrics."""
+        prompt = f"Assess the feasibility of the following lyrics on a scale of 1-10, where 1 is least feasible and 10 is most feasible. Provide a brief explanation for your rating:\n\n{lyrics}"
+        
+        response = self.openai_client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are an AI expert assessing the feasibility of song lyrics."},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=150,
+            n=1,
+            temperature=0.7,
+        )
+        
+        return response.choices[0].message.content.strip()
+
+    def estimate_impact(self, lyrics):
+        """Estimate the potential impact of the generated lyrics."""
+        prompt = f"Estimate the potential impact of the following lyrics on a scale of 1-10, where 1 is minimal impact and 10 is transformative impact. Provide a brief explanation for your rating:\n\n{lyrics}"
+        
+        response = self.openai_client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are an AI expert estimating the potential impact of song lyrics."},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=150,
+            n=1,
+            temperature=0.7,
+        )
+        
+        return response.choices[0].message.content.strip()
+
+    def estimate_resource_requirements(self, lyrics):
+        """Estimate the resource requirements for implementing the generated lyrics."""
+        prompt = f"Estimate the resource requirements (e.g., time, budget, expertise) for implementing the following lyrics in a song. Provide a brief explanation for your estimates:\n\n{lyrics}"
+        
+        response = self.openai_client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are an AI expert estimating resource requirements for implementing song lyrics."},
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=150,
+            n=1,
+            temperature=0.7,
+        )
+        
+        return response.choices[0].message.content.strip()
