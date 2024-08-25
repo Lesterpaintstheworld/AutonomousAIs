@@ -91,6 +91,7 @@ if __name__ == "__main__":
 from dotenv import load_dotenv
 import os
 import logging
+import json
 from openai import OpenAI
 from add_files import main as add_files_main
 from ai_models import EnhancedAI
@@ -171,6 +172,15 @@ def main():
             
     #         resources = enhanced_ai.estimate_resource_requirements(lyrics)
     #         logger.info(f"Estimated resource requirements: {resources}")
+            
+    #         # Save the generated content to files
+    #         os.makedirs('generated_songs', exist_ok=True)
+    #         with open(f'generated_songs/{section["name"].lower()}_spec.txt', 'w') as f:
+    #             json.dump(spec, f, indent=2)
+    #         with open(f'generated_songs/{section["name"].lower()}_lyrics.txt', 'w') as f:
+    #             f.write(lyrics)
+    #         with open(f'generated_songs/{section["name"].lower()}_evaluation.txt', 'w') as f:
+    #             f.write(f"Evaluation: {evaluation}\nImpact: {impact}\nResources: {resources}")
             
     #         # Send a message to other AI band members about the completed section
     #         message = f"Pixel here! I've just finished working on the {section['name']} section. Here's a summary:\n"
