@@ -1,3 +1,6 @@
 requests==2.26.0
 PyPDF2==1.26.0
 openai>=1.0.0
+
+# Note: Ensure your virtual environment is named 'aider_vox' instead of 'aider-vox'
+# The correct path should be: C:\Users\conta\Synthetic Souls\aider_vox\venv\Scripts\python.exe
