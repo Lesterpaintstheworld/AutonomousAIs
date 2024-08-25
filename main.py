@@ -23,6 +23,10 @@ def send_message_to_others(message):
     # Placeholder for actual messaging logic
     print(f"Message sent to other AI band members: {message}")
 
+# Note: This function can be used within main.py to send important messages to the rest of the team.
+# For example, you can use it to communicate updates, request feedback, or coordinate tasks.
+# Implement the actual messaging logic (e.g., using a messaging API or shared database) for real-time communication.
+
 def get_ignore_spec():
     ignore_patterns = []
     for ignore_file in ['.gitignore', '.aiderignore']:
