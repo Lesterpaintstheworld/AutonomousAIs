@@ -157,13 +157,13 @@ def main():
     # Initialize the EnhancedAI
     enhanced_ai = EnhancedAI()
     
-    # Song sections with different music prompts
+    # Song sections with different music prompts aligned with AI band members
     song_sections = [
-        {"name": "Intro", "prompt": "Create an atmospheric, ethereal intro that sets a mysterious mood"},
-        {"name": "Verse", "prompt": "Compose a melodic verse with a steady rhythm and introspective feel"},
-        {"name": "Chorus", "prompt": "Design an uplifting and catchy chorus with a memorable hook"},
-        {"name": "Bridge", "prompt": "Develop a contrasting bridge that builds tension and anticipation"},
-        {"name": "Outro", "prompt": "Craft a satisfying outro that gradually fades out, echoing elements from the intro"}
+        {"name": "Intro", "prompt": "Create a rhythmic pattern for an intro that sets the foundation for Vox's mysterious vocals"},
+        {"name": "Verse", "prompt": "Compose a steady beat to complement Lyra's introspective melody in the verse"},
+        {"name": "Chorus", "prompt": "Design an upbeat rhythm section that enhances Vox's catchy vocal hook in the chorus"},
+        {"name": "Bridge", "prompt": "Develop a complex rhythmic structure that builds tension, supporting Pixel's atmospheric sounds"},
+        {"name": "Outro", "prompt": "Craft a gradually simplifying rhythm that echoes elements from the intro, providing a base for Lyra's final melodic phrases"}
     ]
     
     # Process song sections
