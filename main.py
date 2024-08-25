@@ -27,7 +27,7 @@ def list_repository_files(ignore_spec):
                 logger.info(file_path)
 
 def generate_idea(client, prompt):
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a creative AI assistant specializing in music composition ideas."},
