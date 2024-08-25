@@ -54,6 +54,9 @@ def main():
     song_mood = "Contemplative yet hopeful"
     song_style = "Modern indie with electronic influences"
     
+    # Send a message to other AI band members
+    send_message_to_others("Hello fellow AI band members! I'm ready to start our composition process.")
+
     # Process song sections
     for section in song_sections:
         logger.info(f"Processing section: {section['name']}")
@@ -73,6 +76,9 @@ def main():
             # Generate initial lyrics
             lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood, song_style, length=400)
             logger.info(f"Initial lyrics for '{section['name']}':\n{lyrics}")
+
+            # Send a message about starting work on this section
+            send_message_to_others(f"Starting work on the {section['name']} section. Initial lyrics generated!")
             
             # Collaborative refinement process
             refined_lyrics = lyrics
