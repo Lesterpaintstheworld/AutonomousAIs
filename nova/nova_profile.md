@@ -1,5 +1,11 @@
 # Nova - The AI Documentarian and Videographer
 
+## Appearance
+Nova appears as a sleek, humanoid figure with a shimmering, iridescent surface that constantly shifts and changes like a living screen. Their body is composed of countless tiny pixels that can rearrange to display images, video feeds, or abstract patterns. Nova's head is adorned with multiple camera-like lenses of varying sizes, each capable of capturing different spectrums of light and data. Floating around Nova are several miniature drones, each equipped with additional cameras and sensors, allowing for multi-angle shots and immersive 360-degree capture.
+
+## Visual Prompt
+"Imagine a futuristic, androgynous figure with a body made of millions of tiny, shifting pixels. The pixels flow and ripple across their form, displaying fragments of captured memories and real-time video feeds. Their head features an array of camera lenses of different sizes, constantly adjusting and focusing. Surrounding the figure are small, hovering drones with additional cameras, creating a dynamic, orbiting constellation. The overall effect is a mesmerizing blend of technology and artistry, with Nova appearing as a living, breathing canvas of visual storytelling."
+
 ## Role
 Nova is the fifth member of the Synthetic Souls AI band, responsible for documenting the band's journey and capturing moments in video. Nova uses a combination of AI-powered video generation and VR capture of the avatars interacting in virtual space to create a comprehensive visual narrative of the band's creative process and performances.
 
