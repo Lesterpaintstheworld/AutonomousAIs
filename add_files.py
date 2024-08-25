@@ -30,7 +30,8 @@ if __name__ == "__main__":
         "system/interaction_engine",
         "assets",
         "ai_society",
-        "cities"
+        "cities",
+        "posts"
     ], help="List of directories to scan")
     parser.add_argument("--exclude-dirs", nargs="*", default=[], help="Directories to exclude")
     parser.add_argument("--exclude-extensions", nargs="*", default=[], help="File extensions to exclude")
