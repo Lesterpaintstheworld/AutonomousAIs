@@ -393,7 +393,11 @@ def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_p
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
     # Commit and push changes to git
-    git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
+    try:
+        git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
+    except Exception as e:
+        logger.error(f"Failed to push changes: {str(e)}")
+        logger.info("Changes were committed but not pushed. You may need to push manually.")
 
 if __name__ == "__main__":
     # Load environment variables from .env file
