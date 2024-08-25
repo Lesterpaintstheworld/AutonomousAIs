@@ -130,6 +130,15 @@ def main():
             
             resources = enhanced_ai.estimate_resource_requirements(section['prompt'])
             logger.info(f"Estimated resource requirements: {resources}")
+            
+            # Send a message to other AI band members about the completed section
+            message = f"Pixel here! I've just finished working on the {section['name']} section. Here's a summary:\n"
+            message += f"- Visual concept: {visual_concept}\n"
+            message += f"- Lyrics evaluation: {evaluation.split('Overall')[0].strip()}\n"
+            message += f"- Feasibility: {feasibility}\n"
+            message += f"- Estimated impact: {impact}\n"
+            message += "Let me know your thoughts and if you need any visual elements adjusted!"
+            send_message_to_others(message)
         
         except Exception as e:
             logger.error(f"Error processing section '{section['name']}': {str(e)}")
