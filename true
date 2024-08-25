@@ -34,8 +34,8 @@ def main():
     logger.info("Listing all files in the project folder:")
     list_files()
     
-    # Initialize the EnhancedAI
-    enhanced_ai = EnhancedAI()
+    # Initialize the EnhancedAI with the udioapi token
+    enhanced_ai = EnhancedAI(udioapi_token="BcAj2Rir8Y5-vM01R0h8E")
     
     # Send a message to other AI band members
     send_message_to_others("Hello fellow AI band members! I'm ready to start our composition process.")
