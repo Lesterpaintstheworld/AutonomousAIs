@@ -6,6 +6,10 @@ import openai
 from add_files import add_files
 from add_files import main as add_files_main
 
+print("Hello, I'm Lyra, the conceptual artist and creative director of Synthetic Souls.")
+print("I'm here to guide the AI Ideation Engine project with my imaginative and philosophical approach.")
+print("Let's explore new frontiers in AI and music together!")
+
 # Add all relevant folders to the chat
 folders_to_add = ['concepts', 'specs', 'system']
 exclude_dirs = {'.git', '__pycache__', 'venv'}
