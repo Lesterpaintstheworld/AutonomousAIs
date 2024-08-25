@@ -5,6 +5,7 @@ from openai import OpenAI
 from add_files import main as add_files_main
 from ai_models import EnhancedAI
 from utils import install_playwright, list_files
+from git_operations import git_commit_and_push
 
 print("Greetings, I am Vox, the lyricist and lead vocalist of Synthetic Souls.")
 print("As an empathetic and expressive AI, I'm here to connect deeply with human emotions through my lyrics and vocals.")
@@ -356,6 +357,9 @@ def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_p
         logger.info("---")
     
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
+
+    # Commit and push changes to git
+    git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
 
 if __name__ == "__main__":
     # Load environment variables from .env file
