@@ -101,7 +101,7 @@ print("I'm here to assist in pushing the boundaries of musical composition using
 print("Let's work together to create innovative and captivating music!")
 
 print("Listing relevant files for the Synthetic Souls project:")
-list_files(['main.py', 'ai_models.py', 'utils.py', 'add_files.py'])
+list_files()
 
 def send_message_to_others(message):
     """
