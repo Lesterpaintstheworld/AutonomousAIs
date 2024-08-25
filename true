@@ -58,12 +58,12 @@ def main():
                     logger.info(f"{key}: {value}")
             
             # Generate initial lyrics
-            lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood, song_style, length=300)
+            lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood, song_style, length=400)
             logger.info(f"Initial lyrics for '{section['name']}':\n{lyrics}")
             
             # Collaborative refinement process
             refined_lyrics = lyrics
-            for i in range(5):  # Perform 5 refinement iterations
+            for i in range(7):  # Perform 7 refinement iterations
                 # Vox's perspective
                 vox_feedback = enhanced_ai.get_vox_feedback(refined_lyrics, section['name'], song_theme, song_mood)
                 
@@ -74,7 +74,7 @@ def main():
                 pixel_feedback = enhanced_ai.get_pixel_feedback(refined_lyrics, section['name'], song_theme, song_mood)
             
                 # Combine feedback
-                combined_feedback = f"Vox suggests: {vox_feedback}\nLyra suggests: {lyra_feedback}\nPixel suggests: {pixel_feedback}\nMake the lyrics more {section['name'].lower()}-like, emphasize the {song_mood} mood, enhance the imagery related to {song_theme}, and ensure coherence with the overall song concept and visual elements."
+                combined_feedback = f"Vox suggests: {vox_feedback}\nLyra suggests: {lyra_feedback}\nPixel suggests: {pixel_feedback}\nMake the lyrics more {section['name'].lower()}-like, emphasize the {song_mood} mood, enhance the imagery related to {song_theme}, and ensure coherence with the overall song concept and visual elements. Focus on creating vivid metaphors and emotionally resonant phrases."
             
                 refined_lyrics = enhanced_ai.refine_lyrics(refined_lyrics, combined_feedback, iteration=i+1)
                 logger.info(f"Refined lyrics (iteration {i+1}) for '{section['name']}':\n{refined_lyrics}")
@@ -87,23 +87,27 @@ def main():
             evaluation = enhanced_ai.evaluate_lyrics(refined_lyrics)
             logger.info(f"Lyrics evaluation for '{section['name']}':\n{evaluation}")
             
-            # If the evaluation score is below 8, perform additional refinement
+            # If the evaluation score is below 8.5, perform additional refinement
             if 'overall impact' in evaluation.lower() and 'score: ' in evaluation.lower():
                 overall_score = float(evaluation.lower().split('overall impact')[1].split('score: ')[1].split()[0])
-                if overall_score < 8:
+                if overall_score < 8.5:
                     # Get final collaborative feedback
                     vox_final_feedback = enhanced_ai.get_vox_final_feedback(refined_lyrics, section['name'], song_theme, song_mood)
                     lyra_final_feedback = enhanced_ai.get_lyra_final_feedback(refined_lyrics, section['name'], song_theme, song_mood)
                     pixel_final_feedback = enhanced_ai.get_pixel_final_feedback(refined_lyrics, section['name'], song_theme, song_mood)
                     
-                    combined_final_feedback = f"The current lyrics scored {overall_score}/10. Vox suggests: {vox_final_feedback}\nLyra suggests: {lyra_final_feedback}\nPixel suggests: {pixel_final_feedback}\nSignificantly improve the imagery, emotional depth, and coherence while maintaining the {section['name'].lower()} structure and {song_mood} mood."
+                    combined_final_feedback = f"The current lyrics scored {overall_score}/10. Vox suggests: {vox_final_feedback}\nLyra suggests: {lyra_final_feedback}\nPixel suggests: {pixel_final_feedback}\nSignificantly improve the imagery, emotional depth, and coherence while maintaining the {section['name'].lower()} structure and {song_mood} mood. Focus on creating a unique and memorable lyrical experience that blends human and AI perspectives."
                     
-                    refined_lyrics = enhanced_ai.refine_lyrics(refined_lyrics, combined_final_feedback, iteration=6)
+                    refined_lyrics = enhanced_ai.refine_lyrics(refined_lyrics, combined_final_feedback, iteration=8)
                     logger.info(f"Additional refinement for '{section['name']}':\n{refined_lyrics}")
                     
                     # Re-evaluate the lyrics after additional refinement
                     evaluation = enhanced_ai.evaluate_lyrics(refined_lyrics)
                     logger.info(f"Updated lyrics evaluation for '{section['name']}':\n{evaluation}")
+                
+            # Perform a final polish on the lyrics
+            polished_lyrics = enhanced_ai.polish_lyrics(refined_lyrics, song_theme, song_mood, song_style)
+            logger.info(f"Final polished lyrics for '{section['name']}':\n{polished_lyrics}")
             
             feasibility = enhanced_ai.assess_feasibility(section['prompt'])
             logger.info(f"Feasibility assessment: {feasibility}")
