@@ -119,9 +119,7 @@ def main():
 
     logger.info("Synthetic Souls AI Composition Engine started")
     
-    # Log all files in the folder
-    logger.info("Listing all files in the project folder:")
-    list_files()
+    # Removed file listing to reduce output
     
     # Initialize the EnhancedAI
     enhanced_ai = EnhancedAI()
