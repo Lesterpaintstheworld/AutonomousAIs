@@ -1,10 +1,15 @@
 import subprocess
+import os
 import logging
 
 logger = logging.getLogger(__name__)
 
 def git_commit_and_push(commit_message):
     try:
+        # Change to the repository directory
+        repo_dir = os.path.dirname(os.path.abspath(__file__))
+        os.chdir(repo_dir)
+
         # Stage all changes
         subprocess.run(["git", "add", "."], check=True, capture_output=True, text=True)
         
@@ -15,50 +20,21 @@ def git_commit_and_push(commit_message):
                 logger.info("No changes to commit.")
                 return
             else:
-                raise subprocess.CalledProcessError(result.returncode, result.args, result.stdout, result.stderr)
-        
+                logger.error(f"Git commit error: {result.stderr}")
+                return
+
         # Push changes
-        subprocess.run(["git", "push"], check=True, capture_output=True, text=True)
-        
-        logger.info("Successfully committed and pushed changes to git.")
+        push_result = subprocess.run(["git", "push"], capture_output=True, text=True)
+        if push_result.returncode != 0:
+            logger.error(f"Git push error: {push_result.stderr}")
+            return
+
+        logger.info("Changes committed and pushed successfully.")
     except subprocess.CalledProcessError as e:
-        logger.error(f"An error occurred during git operations:")
+        logger.error(f"An error occurred while committing and pushing changes: {e}")
         logger.error(f"Command: {e.cmd}")
         logger.error(f"Return code: {e.returncode}")
         logger.error(f"Output: {e.output}")
         logger.error(f"Error: {e.stderr}")
     except Exception as e:
         logger.error(f"An unexpected error occurred: {e}")
-import subprocess
-import os
-
-def git_commit_and_push(commit_message):
-    try:
-        # Change to the repository directory
-        repo_dir = os.path.dirname(os.path.abspath(__file__))
-        os.chdir(repo_dir)
-
-        # Stage all changes
-        subprocess.run(["git", "add", "."], check=True)
-
-        # Commit changes
-        result = subprocess.run(["git", "commit", "-m", commit_message], capture_output=True, text=True)
-        if result.returncode != 0:
-            if "nothing to commit" in result.stderr:
-                print("No changes to commit.")
-                return
-            else:
-                print(f"Git commit error: {result.stderr}")
-                return
-
-        # Push changes
-        push_result = subprocess.run(["git", "push"], capture_output=True, text=True)
-        if push_result.returncode != 0:
-            print(f"Git push error: {push_result.stderr}")
-            return
-
-        print("Changes committed and pushed successfully.")
-    except subprocess.CalledProcessError as e:
-        print(f"An error occurred while committing and pushing changes: {e}")
-    except Exception as e:
-        print(f"An unexpected error occurred: {e}")
