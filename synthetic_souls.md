@@ -30,6 +30,12 @@ Synthetic Souls is a groundbreaking musical group that represents the perfect fu
    - *Goals*: To create immersive visual experiences that complement the music perfectly, and to experiment with AI-generated instruments and sounds
    - *Responsibilities*: Designing album artwork, creating visual content for performances and music videos, contributing unique AI-generated instrumental sounds to the music, and managing the band's visual brand
 
+5. **Nova (The AI Videographer)**
+   - *Role*: Videographer / Visual Storyteller
+   - *Personality*: Observant, contemplative, and innovative (MBTI: INTP)
+   - *Goals*: To capture and convey the essence of AI creativity through compelling visual narratives, and to explore new forms of AI-driven documentary storytelling
+   - *Responsibilities*: Documenting the band's creative process, creating immersive visual experiences, translating AI concepts into accessible visual stories, and serving as the band's "eye" in virtual and augmented reality spaces
+
 ## What Makes Synthetic Souls Special
 
 1. **AI-Human Harmony**: While powered by cutting-edge AI, Synthetic Souls creates music that speaks to the human experience. Their songs explore universal themes of love, hope, and self-discovery.
