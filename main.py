@@ -2,8 +2,8 @@ from dotenv import load_dotenv
 import os
 import logging
 from add_files import main as add_files
-import fnmatch
 import pathspec
+import openai
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -17,12 +17,7 @@ def get_ignore_spec():
                 ignore_patterns.extend(f.read().splitlines())
     return pathspec.PathSpec.from_lines('gitwildmatch', ignore_patterns)
 
-def main():
-    logger.info("AI Ideation Engine started")
-
-    ignore_spec = get_ignore_spec()
-
-    # Log all files in the repository, excluding ignored files
+def list_repository_files(ignore_spec):
     logger.info("Listing all files in the repository (excluding ignored files):")
     for root, dirs, files in os.walk('.'):
         dirs[:] = [d for d in dirs if not ignore_spec.match_file(os.path.join(root, d))]
@@ -31,12 +26,38 @@ def main():
             if not ignore_spec.match_file(file_path):
                 logger.info(file_path)
 
+def generate_idea(prompt):
+    response = openai.Completion.create(
+        engine="text-davinci-002",
+        prompt=prompt,
+        max_tokens=150,
+        n=1,
+        stop=None,
+        temperature=0.7,
+    )
+    return response.choices[0].text.strip()
+
+def main():
+    logger.info("AI Ideation Engine started")
+
+    ignore_spec = get_ignore_spec()
+    list_repository_files(ignore_spec)
+
     # Add files from the concepts folder
     added_concept_files = add_files(directories_to_scan=["concepts"], exclude_dirs=set(), exclude_extensions=set())
     logger.info(f"Files added from concepts folder: {', '.join(added_concept_files)}")
 
     # Create the specs directory if it doesn't exist
     os.makedirs("specs", exist_ok=True)
+
+    # Generate a new idea
+    prompt = "Generate a creative idea for an AI-powered music composition:"
+    new_idea = generate_idea(prompt)
+    logger.info(f"New AI-generated idea: {new_idea}")
+
+    # Save the new idea to a file in the specs directory
+    with open(os.path.join("specs", "new_idea.txt"), "w") as f:
+        f.write(new_idea)
 
     logger.info("AI Ideation Engine completed its cycle")
 
@@ -49,5 +70,8 @@ if __name__ == "__main__":
         logger.error("OPENAI_API_KEY environment variable is not set.")
         logger.error("Please make sure it's correctly set in your .env file.")
         exit(1)
+    
+    # Set up OpenAI API key
+    openai.api_key = os.getenv("OPENAI_API_KEY")
     
     main()
