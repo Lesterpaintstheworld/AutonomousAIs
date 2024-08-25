@@ -143,8 +143,16 @@ def main():
             logger.info(f"Discussion result for '{section['name']}':\n{discussion_result}")
 
             # Create Nova's visual storytelling elements
-            visual_story, immersive_experience = nova_visual_storytelling(section['name'], visual_concept, refined_lyrics)
-            logger.info(f"Nova's visual storytelling elements for '{section['name']}':\nVisual Story: {visual_story}\nImmersive Experience: {immersive_experience}")
+            visual_story, immersive_experience, storyboard, vr_scene = nova_visual_storytelling(section['name'], visual_concept, refined_lyrics, spec, lyra_feedback)
+            logger.info(f"Nova's visual storytelling elements for '{section['name']}':")
+            logger.info(f"Visual Story: {visual_story}")
+            logger.info(f"Immersive Experience: {immersive_experience}")
+            logger.info(f"Storyboard: {storyboard}")
+            logger.info(f"VR Scene Description: {vr_scene}")
+
+            # Incorporate Nova's input into the band discussion
+            nova_input = enhanced_ai.generate_nova_input(visual_story, immersive_experience, storyboard, vr_scene)
+            discussion_result += f"Nova's Input: {nova_input}\n"
 
 def discuss_with_band_members(section_name, visual_concept, evaluation, feasibility, impact, lyrics):
     """
@@ -176,18 +184,26 @@ def discuss_with_band_members(section_name, visual_concept, evaluation, feasibil
 
     return discussion_result
 
-def nova_visual_storytelling(section_name, visual_concept, lyrics):
+def nova_visual_storytelling(section_name, visual_concept, lyrics, rhythm_spec, melody):
     """
-    Nova's function to create visual narratives based on the song section.
+    Nova's function to create visual narratives and immersive experiences based on the song section.
     """
     visual_story = enhanced_ai.generate_nova_visual_story(section_name, visual_concept, lyrics)
     logger.info(f"Nova's visual story for '{section_name}':\n{visual_story}")
     
-    # Simulate Nova's creative process
-    immersive_experience = enhanced_ai.create_immersive_experience(visual_story)
+    # Create an immersive experience that integrates audio and visual elements
+    immersive_experience = enhanced_ai.create_immersive_experience(visual_story, rhythm_spec, melody)
     logger.info(f"Nova's immersive experience concept for '{section_name}':\n{immersive_experience}")
     
-    return visual_story, immersive_experience
+    # Generate a storyboard for the visual narrative
+    storyboard = enhanced_ai.generate_storyboard(visual_story, section_name)
+    logger.info(f"Nova's storyboard for '{section_name}':\n{storyboard}")
+    
+    # Create a virtual reality scene description
+    vr_scene = enhanced_ai.create_vr_scene(immersive_experience, section_name)
+    logger.info(f"Nova's VR scene description for '{section_name}':\n{vr_scene}")
+    
+    return visual_story, immersive_experience, storyboard, vr_scene
         
         except Exception as e:
             logger.error(f"Error processing section '{section['name']}': {str(e)}")
