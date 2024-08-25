@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 import os
 import logging
 from openai import OpenAI
-from add_files import add_files, main as add_files_main
+from add_files import main as add_files_main
 from ai_models import EnhancedAI
 from utils import install_playwright, list_files
 
