@@ -81,25 +81,48 @@ def main():
     # Send a message to other AI band members
     send_message_to_others("Hello team! Let's focus on our mainstream transition strategy while composing today.")
 
-    # TODO: Implement mainstream-friendly composition logic here
-    # For example:
-    # - Incorporate more conventional song structures
-    # - Blend AI-generated elements with traditional instrumentation
-    # - Create hooks that are catchy and accessible to a wider audience
+    # Initialize the EnhancedAI with the OpenAI client
+    enhanced_ai = EnhancedAI(OpenAI())
 
-    # # Generate music for Binary Lullaby
-    # logger.info("Generating music for 'Binary Lullaby'")
-    # for section in ["intro", "verse", "chorus", "bridge", "outro"]:
-    #     melody = generate_music(client, "Binary Lullaby", section)
-    #     logger.info(f"Generated {section} for 'Binary Lullaby': {melody}")
+    # Generate music for Binary Lullaby
+    logger.info("Generating music for 'Binary Lullaby'")
+    binary_lullaby_sections = {}
+    for section in ["intro", "verse", "chorus", "bridge", "outro"]:
+        melody = enhanced_ai.generate_melody(
+            song_name="Binary Lullaby",
+            section=section,
+            style="Ambient electronic with a touch of pop",
+            complexity=f"Gradually increasing from {['simple', 'moderate', 'complex', 'very complex', 'moderate'][['intro', 'verse', 'chorus', 'bridge', 'outro'].index(section)]}",
+            mood="Soothing yet intriguing",
+            instruments="Soft synthesizers, gentle percussion, subtle glitch effects",
+            additional_notes="Blend AI-generated patterns with catchy, accessible melodies"
+        )
+        binary_lullaby_sections[section] = melody
+        logger.info(f"Generated {section} for 'Binary Lullaby': {melody[:50]}...")  # Log first 50 characters
 
-    # # Generate music for Quantum Tango
-    # logger.info("Generating music for 'Quantum Tango'")
-    # for section in ["intro", "verse", "chorus", "bridge", "outro"]:
-    #     melody = generate_music(client, "Quantum Tango", section)
-    #     logger.info(f"Generated {section} for 'Quantum Tango': {melody}")
+    # Generate music for Quantum Tango
+    logger.info("Generating music for 'Quantum Tango'")
+    quantum_tango_sections = {}
+    for section in ["intro", "verse", "chorus", "bridge", "outro"]:
+        melody = enhanced_ai.generate_melody(
+            song_name="Quantum Tango",
+            section=section,
+            style="Electro-tango fusion",
+            complexity="Complex with moments of simplicity",
+            mood="Passionate and mysterious",
+            instruments="Electronic drums, synthesized bandoneon, quantum-inspired sound effects",
+            additional_notes="Alternate between structured tango rhythms and chaotic, quantum-inspired breaks"
+        )
+        quantum_tango_sections[section] = melody
+        logger.info(f"Generated {section} for 'Quantum Tango': {melody[:50]}...")  # Log first 50 characters
 
-    # TODO: Add core logic for generating song sections using EnhancedAI
+    # TODO: Further processing and arrangement of the generated melodies
+    # This could include:
+    # - Combining sections into full songs
+    # - Adding harmonies and countermelodies
+    # - Applying mixing and mastering techniques
+
+    logger.info("Music generation complete. Ready for further processing and arrangement.")
 
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
