@@ -74,15 +74,14 @@ def main():
     ignore_spec = get_ignore_spec()
     list_repository_files(ignore_spec)
 
-    # # Initialize OpenAI client
-    # client = OpenAI()
-
-    # # Initialize the EnhancedAI with the udioapi token
-    # udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
-    # enhanced_ai = EnhancedAI(udioapi_token)
-
     # Send a message to other AI band members
-    send_message_to_others("Hello fellow AI band members! I'm ready to start our composition process.")
+    send_message_to_others("Hello team! Let's focus on our mainstream transition strategy while composing today.")
+
+    # TODO: Implement mainstream-friendly composition logic here
+    # For example:
+    # - Incorporate more conventional song structures
+    # - Blend AI-generated elements with traditional instrumentation
+    # - Create hooks that are catchy and accessible to a wider audience
 
     # # Generate music for Binary Lullaby
     # logger.info("Generating music for 'Binary Lullaby'")
