@@ -121,8 +121,9 @@ def main():
     
     # Removed file listing to reduce output
     
-    # Initialize the EnhancedAI
-    enhanced_ai = EnhancedAI()
+    # Initialize the EnhancedAI with the udioapi token
+    udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
+    enhanced_ai = EnhancedAI(udioapi_token)
     
     # Send a message to other AI band members
     send_message_to_others("Hello fellow AI band members! I'm ready to start our composition process.")
