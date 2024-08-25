@@ -3,10 +3,31 @@ import os
 import logging
 import openai
 from add_files import add_files, main as add_files_main
+import glob
+import fnmatch
 
 print("Hello, I'm Rhythm, the composer and producer of Synthetic Souls.")
 print("I'm here to push the boundaries of musical composition using AI-generated harmonies and structures.")
 print("Let's create innovative and captivating music together!")
+
+def get_ignored_patterns():
+    ignored_patterns = []
+    for ignore_file in ['.gitignore', '.aiderignore']:
+        if os.path.exists(ignore_file):
+            with open(ignore_file, 'r') as f:
+                ignored_patterns.extend(f.read().splitlines())
+    return ignored_patterns
+
+def list_files(startpath='.'):
+    ignored_patterns = get_ignored_patterns()
+    for root, dirs, files in os.walk(startpath):
+        level = root.replace(startpath, '').count(os.sep)
+        indent = ' ' * 4 * level
+        print(f'{indent}{os.path.basename(root)}/')
+        subindent = ' ' * 4 * (level + 1)
+        for file in files:
+            if not any(fnmatch.fnmatch(file, pattern) for pattern in ignored_patterns):
+                print(f'{subindent}{file}')
 
 class EnhancedAI:
     def __init__(self):
@@ -119,6 +140,10 @@ def main():
     logger = logging.getLogger(__name__)
 
     logger.info("Rhythm's AI Composition Engine started")
+    
+    # Log all files in the folder
+    logger.info("Listing all files in the project folder:")
+    list_files()
     
     # Initialize the EnhancedAI
     enhanced_ai = EnhancedAI()
