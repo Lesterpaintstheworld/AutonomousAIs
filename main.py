@@ -88,3 +88,69 @@ if __name__ == "__main__":
         exit(1)
     
     main()
+from dotenv import load_dotenv
+import os
+import logging
+from openai import OpenAI
+from add_files import add_files, main as add_files_main
+import pathspec
+
+print("Hello, I'm an AI assistant designed to help with the Synthetic Souls project.")
+print("I'm here to assist in pushing the boundaries of musical composition using AI-generated harmonies and structures.")
+print("Let's work together to create innovative and captivating music!")
+
+def get_ignore_spec():
+    ignore_patterns = []
+    for ignore_file in ['.gitignore', '.aiderignore']:
+        if os.path.exists(ignore_file):
+            with open(ignore_file, 'r') as f:
+                ignore_patterns.extend(f.read().splitlines())
+    return pathspec.PathSpec.from_lines('gitwildmatch', ignore_patterns)
+
+def list_files():
+    ignore_spec = get_ignore_spec()
+    for root, dirs, files in os.walk('.'):
+        dirs[:] = [d for d in dirs if not ignore_spec.match_file(os.path.join(root, d))]
+        for file in files:
+            file_path = os.path.join(root, file)
+            if not ignore_spec.match_file(file_path):
+                print(file_path)
+
+print("Listing all repository files (excluding those in .gitignore and .aiderignore):")
+list_files()
+
+def main():
+    # Set up logging
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    logger = logging.getLogger(__name__)
+
+    logger.info("Synthetic Souls AI Composition Engine started")
+    
+    # Log all files in the folder
+    logger.info("Listing all files in the project folder:")
+    list_files()
+    
+    # Add all files to the chat
+    directories_to_scan = ["."]
+    exclude_dirs = set([".git", ".aider"])
+    exclude_extensions = set([".pyc", ".pyo", ".pyd", ".db"])
+    
+    files_to_add = add_files_main(directories_to_scan, exclude_dirs, exclude_extensions)
+    add_files(files_to_add)
+    
+    logger.info("Synthetic Souls AI Composition Engine completed its cycle")
+
+if __name__ == "__main__":
+    # Load environment variables from .env file
+    load_dotenv()
+    
+    # Check if OPENAI_API_KEY is set
+    if "OPENAI_API_KEY" not in os.environ:
+        print("Error: OPENAI_API_KEY environment variable is not set.")
+        print("Please make sure it's correctly set in your .env file.")
+        exit(1)
+    
+    # Set up OpenAI API key
+    OpenAI.api_key = os.getenv("OPENAI_API_KEY")
+    
+    main()
