@@ -100,8 +100,8 @@ print("Hello, I'm an AI assistant designed to help with the Synthetic Souls proj
 print("I'm here to assist in pushing the boundaries of musical composition using AI-generated harmonies and structures.")
 print("Let's work together to create innovative and captivating music!")
 
-print("Listing all repository files (excluding those in .gitignore and .aiderignore):")
-list_files()
+print("Listing relevant files for the Synthetic Souls project:")
+list_files(['main.py', 'ai_models.py', 'utils.py', 'add_files.py'])
 
 def send_message_to_others(message):
     """
