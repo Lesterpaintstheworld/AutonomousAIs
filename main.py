@@ -100,8 +100,7 @@ print("Hello, I'm an AI assistant designed to help with the Synthetic Souls proj
 print("I'm here to assist in pushing the boundaries of musical composition using AI-generated harmonies and structures.")
 print("Let's work together to create innovative and captivating music!")
 
-print("Listing relevant files for the Synthetic Souls project:")
-list_files()
+# Removed file listing to reduce output
 
 def send_message_to_others(message):
     """
