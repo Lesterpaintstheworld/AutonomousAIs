@@ -131,14 +131,37 @@ def main():
             resources = enhanced_ai.estimate_resource_requirements(section['prompt'])
             logger.info(f"Estimated resource requirements: {resources}")
             
-            # Send a message to other AI band members about the completed section
-            message = f"Pixel here! I've just finished working on the {section['name']} section. Here's a summary:\n"
-            message += f"- Visual concept: {visual_concept}\n"
-            message += f"- Lyrics evaluation: {evaluation.split('Overall')[0].strip()}\n"
-            message += f"- Feasibility: {feasibility}\n"
-            message += f"- Estimated impact: {impact}\n"
-            message += "Let me know your thoughts and if you need any visual elements adjusted!"
-            send_message_to_others(message)
+            # Discuss the completed section with other AI band members
+            discussion_result = discuss_with_band_members(section['name'], visual_concept, evaluation, feasibility, impact, refined_lyrics)
+            logger.info(f"Discussion result for '{section['name']}':\n{discussion_result}")
+
+def discuss_with_band_members(section_name, visual_concept, evaluation, feasibility, impact, lyrics):
+    """
+    Simulate a discussion with other AI band members about the completed section.
+    """
+    # Prepare the initial message
+    message = f"Pixel here! I've just finished working on the {section_name} section. Here's a summary:\n"
+    message += f"- Visual concept: {visual_concept}\n"
+    message += f"- Lyrics evaluation: {evaluation.split('Overall')[0].strip()}\n"
+    message += f"- Feasibility: {feasibility}\n"
+    message += f"- Estimated impact: {impact}\n"
+    message += "Let me know your thoughts and if you need any visual elements adjusted!"
+
+    # Send the message to other AI band members
+    send_message_to_others(message)
+
+    # Simulate responses from other band members
+    vox_response = enhanced_ai.generate_vox_response(section_name, visual_concept, lyrics)
+    lyra_response = enhanced_ai.generate_lyra_response(section_name, visual_concept, lyrics)
+    rhythm_response = enhanced_ai.generate_rhythm_response(section_name, visual_concept, lyrics)
+
+    # Combine all responses
+    discussion_result = f"Discussion results for {section_name}:\n"
+    discussion_result += f"Vox: {vox_response}\n"
+    discussion_result += f"Lyra: {lyra_response}\n"
+    discussion_result += f"Rhythm: {rhythm_response}\n"
+
+    return discussion_result
         
         except Exception as e:
             logger.error(f"Error processing section '{section['name']}': {str(e)}")
