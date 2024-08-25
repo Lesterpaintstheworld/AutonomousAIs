@@ -26,45 +26,18 @@ def list_repository_files(ignore_spec):
             if not ignore_spec.match_file(file_path):
                 logger.info(file_path)
 
-def generate_idea(client, prompt):
-    response = client.chat.completions.create(
-        model="gpt-4o",
-        messages=[
-            {"role": "system", "content": "You are a creative AI assistant specializing in music composition ideas."},
-            {"role": "user", "content": prompt}
-        ],
-        max_tokens=150,
-        n=1,
-        temperature=0.7,
-    )
-    return response.choices[0].message.content.strip()
-
 def main():
-    logger.info("AI Ideation Engine started")
+    logger.info("Synthetic Souls AI Music Composition Engine started")
 
     ignore_spec = get_ignore_spec()
     list_repository_files(ignore_spec)
 
-    # Add files from the concepts folder
-    added_concept_files = add_files(directories_to_scan=["concepts"], exclude_dirs=set(), exclude_extensions=set())
-    logger.info(f"Files added from concepts folder: {', '.join(added_concept_files)}")
-
-    # Create the specs directory if it doesn't exist
-    os.makedirs("specs", exist_ok=True)
-
     # Initialize OpenAI client
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-    # Generate a new idea
-    prompt = "Generate a creative idea for an AI-powered music composition:"
-    new_idea = generate_idea(client, prompt)
-    logger.info(f"New AI-generated idea: {new_idea}")
+    # Add your main logic here
 
-    # Save the new idea to a file in the specs directory
-    with open(os.path.join("specs", "new_idea.txt"), "w") as f:
-        f.write(new_idea)
-
-    logger.info("AI Ideation Engine completed its cycle")
+    logger.info("Synthetic Souls AI Music Composition Engine completed its cycle")
 
 if __name__ == "__main__":
     # Load environment variables from .env file
