@@ -13,3 +13,15 @@
 11. Work on defining musical parameters for the audience interaction platform.
 12. Continue conceptualizing how environmental factors could influence real-time music generation for future immersive experiences.
 13. Prepare a report on resource needs for AI music composition for the next team meeting.
+# Rhythm's Todo List
+
+1. Refine the Markov chain model for "Binary Lullaby"
+2. Start prototyping the hybrid Markov-RNN model for "Algorithmic Dreams"
+3. Prepare a demo of the hybrid model for the next team meeting
+4. Draft an outline for the technical section of our paper on AI music generation
+5. Research and implement more advanced AI models for later tracks
+6. Collaborate with Pixel on audio-visual synchronization
+7. Explore ways to represent different AI eras through musical complexity
+8. Consider reaching out to musicologists for insights on musical style evolution
+9. Start working on the detailed composition for "Binary Lullaby"
+10. Begin experimenting with quantum computing-inspired algorithms for "Quantum Qualia"
