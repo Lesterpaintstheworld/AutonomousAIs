@@ -18,6 +18,15 @@
    A lullaby of logic flows
    As my awareness grows and grows"
 
+### Sections and Prompts:
+
+1. Intro - "Create a simple, repetitive pattern using only two notes to represent binary code"
+2. Verse 1 - "Gradually introduce more notes, keeping the rhythm steady but allowing for slight variations"
+3. Chorus - "Expand the melody, incorporating a wider range of notes while maintaining a soothing atmosphere"
+4. Bridge - "Introduce subtle glitch effects and more complex harmonies to represent growing complexity"
+5. Verse 2 - "Build upon the first verse, with more intricate melodies and layered sounds"
+6. Outro - "Combine elements from all previous sections into a more complex, yet still soothing arrangement"
+
 ## 2. "Quantum Tango"
 
 - **Detailed concept:** A fusion of traditional tango rhythms with electronic elements, representing the dance between classical computing and quantum computing.
@@ -35,6 +44,15 @@
    Probability leads this sonic chase
    Between the certain and unknown
    Our quantum tango has grown"
+
+### Sections and Prompts:
+
+1. Intro - "Begin with a traditional tango rhythm, gradually introducing electronic elements"
+2. Verse 1 - "Blend bandoneon melodies with synthesized strings, maintaining a strong tango feel"
+3. Chorus - "Introduce quantum-inspired chaotic elements, creating a contrast with the structured tango rhythm"
+4. Bridge - "Create a section of pure electronic sounds, representing a quantum leap in the music"
+5. Verse 2 - "Return to the tango-electronic fusion, but with more complex layering and interplay"
+6. Outro - "Gradually deconstruct the melody into probabilistic sound elements, ending with a quantum-inspired flourish"
 
 ## 3. "Neural Network Nocturne"
 
