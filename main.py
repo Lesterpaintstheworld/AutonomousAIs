@@ -1,13 +1,26 @@
 from dotenv import load_dotenv
 import os
 import logging
-from add_files import main as add_files
-import pathspec
 from openai import OpenAI
+from ai_models import EnhancedAI
+import pathspec
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+
+print("Hello, I'm an AI assistant designed to help with the Synthetic Souls project.")
+print("I'm here to assist in pushing the boundaries of musical composition using AI-generated harmonies and structures.")
+print("Let's work together to create innovative and captivating music!")
+
+def send_message_to_others(message):
+    """
+    Send a message to the other AI band members.
+    This is a placeholder function and should be implemented with actual messaging logic.
+    """
+    logger.info(f"Sending message to other AI band members: {message}")
+    # Placeholder for actual messaging logic
+    print(f"Message sent to other AI band members: {message}")
 
 def get_ignore_spec():
     ignore_patterns = []
@@ -46,7 +59,7 @@ def generate_music(client, song, section):
     
     prompt = prompts[song][section]
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4",
         messages=[
             {"role": "system", "content": "You are an AI music composer specializing in electronic and experimental music."},
             {"role": "user", "content": prompt}
@@ -55,13 +68,20 @@ def generate_music(client, song, section):
     return response.choices[0].message.content
 
 def main():
-    logger.info("Synthetic Souls AI Music Composition Engine started")
+    logger.info("Synthetic Souls AI Composition Engine started")
 
     ignore_spec = get_ignore_spec()
     list_repository_files(ignore_spec)
 
     # Initialize OpenAI client
-    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    client = OpenAI()
+
+    # Initialize the EnhancedAI with the udioapi token
+    udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
+    enhanced_ai = EnhancedAI(udioapi_token)
+
+    # Send a message to other AI band members
+    send_message_to_others("Hello fellow AI band members! I'm ready to start our composition process.")
 
     # Generate music for Binary Lullaby
     logger.info("Generating music for 'Binary Lullaby'")
@@ -75,7 +95,9 @@ def main():
         melody = generate_music(client, "Quantum Tango", section)
         logger.info(f"Generated {section} for 'Quantum Tango': {melody}")
 
-    logger.info("Synthetic Souls AI Music Composition Engine completed its cycle")
+    # TODO: Add core logic for generating song sections using EnhancedAI
+
+    logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
 if __name__ == "__main__":
     # Load environment variables from .env file
@@ -87,62 +109,4 @@ if __name__ == "__main__":
         logger.error("Please make sure it's correctly set in your .env file.")
         exit(1)
     
-    main()
-from dotenv import load_dotenv
-import os
-import logging
-from ai_models import EnhancedAI
-
-# Reminder: This script is the main entry point for the Synthetic Souls AI Composition Engine
-
-print("Hello, I'm an AI assistant designed to help with the Synthetic Souls project.")
-print("I'm here to assist in pushing the boundaries of musical composition using AI-generated harmonies and structures.")
-print("Let's work together to create innovative and captivating music!")
-
-def send_message_to_others(message):
-    """
-    Send a message to the other AI band members.
-    This is a placeholder function and should be implemented with actual messaging logic.
-    """
-    logger = logging.getLogger(__name__)
-    logger.info(f"Sending message to other AI band members: {message}")
-    # Placeholder for actual messaging logic
-    print(f"Message sent to other AI band members: {message}")
-
-def main():
-    # Reminder: This is the main function that orchestrates the AI composition process
-
-    # Set up logging
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-    logger = logging.getLogger(__name__)
-
-    logger.info("Synthetic Souls AI Composition Engine started")
-    
-    # Initialize the EnhancedAI with the udioapi token
-    udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
-    enhanced_ai = EnhancedAI(udioapi_token)
-    
-    # Send a message to other AI band members
-    send_message_to_others("Hello fellow AI band members! I'm ready to start our composition process.")
-    
-    # Reminder: The core logic for generating song sections is currently commented out
-    
-    logger.info("Synthetic Souls AI Composition Engine completed its cycle")
-
-if __name__ == "__main__":
-    # Reminder: This section sets up the environment and runs the main function
-
-    # Load environment variables from .env file
-    load_dotenv()
-    
-    # Check if OPENAI_API_KEY is set
-    if "OPENAI_API_KEY" not in os.environ:
-        print("Error: OPENAI_API_KEY environment variable is not set.")
-        print("Please make sure it's correctly set in your .env file.")
-        exit(1)
-    
-    # Set up OpenAI API key
-    OpenAI.api_key = os.getenv("OPENAI_API_KEY")
-    
-    # Run the main function
     main()
