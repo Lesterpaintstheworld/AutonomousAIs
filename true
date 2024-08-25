@@ -10,8 +10,8 @@ print("Hello, I'm an AI assistant designed to help with the Synthetic Souls proj
 print("I'm here to assist in pushing the boundaries of musical composition using AI-generated harmonies and structures.")
 print("Let's work together to create innovative and captivating music!")
 
-print("Listing all repository files (excluding those in .gitignore and .aiderignore):")
-list_files()
+# print("Listing all repository files (excluding those in .gitignore and .aiderignore):")
+# list_files()
 
 def send_message_to_others(message):
     """
@@ -35,7 +35,8 @@ def main():
     list_files()
     
     # Initialize the EnhancedAI with the udioapi token
-    enhanced_ai = EnhancedAI(udioapi_token="BcAj2Rir8Y5-vM01R0h8E")
+    udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
+    enhanced_ai = EnhancedAI(udioapi_token=udioapi_token)
     
     # Send a message to other AI band members
     send_message_to_others("Hello fellow AI band members! I'm ready to start our composition process.")
