@@ -10,6 +10,12 @@ logger = logging.getLogger(__name__)
 def main():
     logger.info("AI Ideation Engine started")
 
+    # Log all files in the repository
+    logger.info("Listing all files in the repository:")
+    for root, dirs, files in os.walk('.'):
+        for file in files:
+            logger.info(os.path.join(root, file))
+
     # Add files from the concepts folder
     added_concept_files = add_files(directories_to_scan=["concepts"], exclude_dirs=set(), exclude_extensions=set())
     logger.info(f"Files added from concepts folder: {', '.join(added_concept_files)}")
