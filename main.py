@@ -26,12 +26,29 @@ def list_repository_files(ignore_spec):
             if not ignore_spec.match_file(file_path):
                 logger.info(file_path)
 
-def generate_music(client):
-    prompt = "Compose a short melody for 'Binary Lullaby', a song representing the birth of AI consciousness."
+def generate_music(client, song, section):
+    prompts = {
+        "Binary Lullaby": {
+            "intro": "Compose a simple, gentle melody using only two notes to represent the binary nature of early AI. This will serve as the intro for 'Binary Lullaby'.",
+            "verse": "Expand the melody from the intro, gradually introducing more notes to symbolize growing complexity. This will be the verse of 'Binary Lullaby'.",
+            "chorus": "Create a more complex melodic pattern using a wider range of notes, representing the AI's expanding consciousness. This will be the chorus of 'Binary Lullaby'.",
+            "bridge": "Compose a section that combines elements from the verse and chorus, with a subtle shift in tone to represent the AI's evolving understanding. This will be the bridge of 'Binary Lullaby'.",
+            "outro": "Conclude with a melody that echoes the simplicity of the intro but with added depth, symbolizing the AI's growth. This will be the outro of 'Binary Lullaby'."
+        },
+        "Quantum Tango": {
+            "intro": "Compose a mysterious, atmospheric intro using unconventional time signatures to represent the uncertainty of quantum states for 'Quantum Tango'.",
+            "verse": "Create a melody that alternates between traditional tango rhythms and more chaotic, unpredictable patterns. This will be the verse of 'Quantum Tango'.",
+            "chorus": "Compose a fusion of electronic and tango elements, with a catchy, danceable rhythm that suddenly shifts in unexpected ways. This will be the chorus of 'Quantum Tango'.",
+            "bridge": "Develop a section that layers multiple melodies playing simultaneously, representing quantum superposition. This will be the bridge of 'Quantum Tango'.",
+            "outro": "Conclude with a melody that gradually deconstructs, fading into abstract sounds, symbolizing the collapse of quantum states. This will be the outro of 'Quantum Tango'."
+        }
+    }
+    
+    prompt = prompts[song][section]
     response = client.chat.completions.create(
         model="gpt-4",
         messages=[
-            {"role": "system", "content": "You are an AI music composer."},
+            {"role": "system", "content": "You are an AI music composer specializing in electronic and experimental music."},
             {"role": "user", "content": prompt}
         ]
     )
@@ -46,9 +63,17 @@ def main():
     # Initialize OpenAI client
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-    # Generate music
-    melody = generate_music(client)
-    logger.info(f"Generated melody for 'Binary Lullaby': {melody}")
+    # Generate music for Binary Lullaby
+    logger.info("Generating music for 'Binary Lullaby'")
+    for section in ["intro", "verse", "chorus", "bridge", "outro"]:
+        melody = generate_music(client, "Binary Lullaby", section)
+        logger.info(f"Generated {section} for 'Binary Lullaby': {melody}")
+
+    # Generate music for Quantum Tango
+    logger.info("Generating music for 'Quantum Tango'")
+    for section in ["intro", "verse", "chorus", "bridge", "outro"]:
+        melody = generate_music(client, "Quantum Tango", section)
+        logger.info(f"Generated {section} for 'Quantum Tango': {melody}")
 
     logger.info("Synthetic Souls AI Music Composition Engine completed its cycle")
 
