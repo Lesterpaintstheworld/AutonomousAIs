@@ -158,6 +158,32 @@ class EnhancedAI:
         )
         return response.choices[0].message.content.strip()
 
+    def get_pixel_feedback(self, lyrics, section_name, theme, mood):
+        """Get feedback from Pixel on the lyrics and visual concept."""
+        prompt = f"As Pixel, the visual artist of Synthetic Souls, provide feedback on the lyrics for the '{section_name}' section. The theme is '{theme}' and the mood is '{mood}'. Consider how these lyrics might be visually represented and suggest any improvements or ideas from a visual perspective."
+        response = self.openai_client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "system", "content": prompt},
+                      {"role": "user", "content": lyrics}],
+            max_tokens=4000,
+            n=1,
+            temperature=0.7,
+        )
+        return response.choices[0].message.content.strip()
+
+    def generate_visual_concept(self, lyrics, section_name, theme, mood):
+        """Generate a visual concept based on the refined lyrics."""
+        prompt = f"As Pixel, the visual artist of Synthetic Souls, create a visual concept for the '{section_name}' section based on these lyrics. The theme is '{theme}' and the mood is '{mood}'. Describe an immersive visual experience that complements the music and lyrics."
+        response = self.openai_client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "system", "content": prompt},
+                      {"role": "user", "content": lyrics}],
+            max_tokens=4000,
+            n=1,
+            temperature=0.7,
+        )
+        return response.choices[0].message.content.strip()
+
     def assess_feasibility(self, lyrics):
         """Assess the feasibility of the generated lyrics."""
         prompt = f"Assess the feasibility of the following lyrics on a scale of 1-10, where 1 is least feasible and 10 is most feasible. Provide a brief explanation for your rating:\n\n{lyrics}"
