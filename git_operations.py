@@ -5,6 +5,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 def git_commit_and_push(commit_message):
+    original_dir = os.getcwd()
     try:
         # Change to the repository directory
         repo_dir = os.path.dirname(os.path.abspath(__file__))
@@ -40,9 +41,10 @@ def git_commit_and_push(commit_message):
         logger.error(f"An unexpected error occurred: {e}")
     finally:
         # Ensure we always return to the original directory
-        os.chdir(os.path.dirname(os.path.abspath(__file__)))
+        os.chdir(original_dir)
 
 def test_git_push():
+    original_dir = os.getcwd()
     try:
         # Change to the repository directory
         repo_dir = os.path.dirname(os.path.abspath(__file__))
@@ -61,4 +63,4 @@ def test_git_push():
         return False
     finally:
         # Ensure we always return to the original directory
-        os.chdir(os.path.dirname(os.path.abspath(__file__)))
+        os.chdir(original_dir)
