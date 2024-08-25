@@ -42,10 +42,20 @@ def git_commit_and_push(commit_message):
         subprocess.run(["git", "add", "."], check=True)
 
         # Commit changes
-        subprocess.run(["git", "commit", "-m", commit_message], check=True)
+        result = subprocess.run(["git", "commit", "-m", commit_message], capture_output=True, text=True)
+        if result.returncode != 0:
+            if "nothing to commit" in result.stderr:
+                print("No changes to commit.")
+                return
+            else:
+                print(f"Git commit error: {result.stderr}")
+                return
 
         # Push changes
-        subprocess.run(["git", "push"], check=True)
+        push_result = subprocess.run(["git", "push"], capture_output=True, text=True)
+        if push_result.returncode != 0:
+            print(f"Git push error: {push_result.stderr}")
+            return
 
         print("Changes committed and pushed successfully.")
     except subprocess.CalledProcessError as e:
