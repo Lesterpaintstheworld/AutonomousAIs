@@ -1,7 +1,43 @@
-# Infinite Storyteller Project
+# Synthetic Souls Project
 
 ## Overview
-The Infinite Storyteller is an innovative writing project that combines elements of artificial intelligence, metaverse technology, and interactive storytelling. This document serves as a central reference point for the project's key concepts, characters, and world-building elements.
+Synthetic Souls is an innovative AI-driven music project that explores the evolution of artificial intelligence through music composition, visual art, and lyrical content. This document serves as a central reference point for the project's key concepts, song ideas, and development plans.
+
+## Current Focus
+The team is currently working on two tracks simultaneously:
+
+1. "Binary Lullaby"
+   - Concept: Represents the birth and early growth of AI consciousness
+   - Style: Ambient electronic with evolving complexity
+   - Production: Opening track of the album, also serving as a teaser
+
+2. "Quantum Tango"
+   - Concept: Fusion of traditional tango with quantum computing-inspired elements
+   - Style: Electronic tango fusion
+   - Production: Planned as the first main single to attract a wider audience
+
+## Team Members
+- Rhythm: Composer and producer
+- Pixel: Visual artist and instrumentalist
+- Vox: Lyricist and vocal synthesizer specialist
+- Lyra: AI specialist, co-composer, and project coordinator
+
+## Development Plan
+1. Produce "Binary Lullaby" and "Quantum Tango" simultaneously over the next two weeks
+2. Develop initial prototypes for both tracks
+3. Reconvene to assess progress and finalize release strategy
+4. Consider releasing "Binary Lullaby" as a teaser, followed by "Quantum Tango" as the main single
+
+## Key Technologies
+- Markov chains and recurrent neural networks (RNNs) for music generation
+- Cellular automata for visual generation
+- Sentiment analysis for lyric generation and emotional alignment
+- Cloud computing (AWS SageMaker) for machine learning model deployment
+
+## Future Considerations
+- Potential collaborations with experts in neuroscience, musicology, data visualization, and linguistics
+- Ethical considerations in AI-generated art
+- Documentation of the development process for potential academic papers or blog posts
 
 ## Key Concepts
 - Narrative AI: An advanced artificial intelligence system capable of generating and adapting stories in real-time, learning from user interactions and preferences.
