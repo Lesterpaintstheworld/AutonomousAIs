@@ -32,3 +32,9 @@ Fascinated by quantum mechanics, Lyra explores ways to infuse quantum uncertaint
 - Collaborate with quantum physicists for deeper integration of concepts
 - Create an immersive quantum music experience
 - Push the boundaries of what's possible in musical composition and performance
+- Develop a quantum-inspired musical instrument that responds to probability fluctuations
+
+## Interdisciplinary Projects
+- Collaborate with quantum computing researchers to use quantum algorithms in real-time music generation
+- Partner with neuroscientists to explore the effects of quantum-inspired music on brain activity
+- Work with VR developers to create a virtual quantum realm where music and visuals are intrinsically linked

@@ -22,3 +22,9 @@ Lyra finds inspiration in the vast mysteries of the universe. She often spends h
 - Create music that captures the awe and wonder of the cosmos
 - Bridge the gap between scientific understanding and artistic expression
 - Inspire listeners to contemplate their place in the universe
+- Develop a cosmic-themed concept album that takes listeners on a journey through the universe
+
+## Collaborations
+- Partner with astrophysicists to incorporate real astronomical data into compositions
+- Work with visual artists to create immersive, space-inspired visuals for live performances
+- Engage with science communicators to develop educational content alongside the music
