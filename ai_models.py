@@ -58,20 +58,48 @@ class EnhancedAI:
         return spec
 
     def generate_melody(self, section_name, song_theme, song_mood, song_style, harmonic_structure):
-        # Placeholder implementation
-        return f"Generated melody for {section_name} based on {song_theme}, {song_mood}, and {song_style}"
+        prompt = f"Create a quantum tango-inspired melody for the {section_name} section. Theme: {song_theme}, Mood: {song_mood}, Style: {song_style}. Use the harmonic structure: {harmonic_structure}. The melody should blend traditional tango elements with quantum-inspired unpredictability."
+        response = self.openai_client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "system", "content": prompt}],
+            max_tokens=4000,
+            n=1,
+            temperature=0.8,
+        )
+        return response.choices[0].message.content.strip()
 
     def generate_harmonic_structure(self, section_name, song_theme, song_mood, song_style):
-        # Placeholder implementation
-        return f"Generated harmonic structure for {section_name}"
+        prompt = f"Create a harmonic structure for a quantum tango-inspired piece, {section_name} section. Theme: {song_theme}, Mood: {song_mood}, Style: {song_style}. Blend traditional tango harmonies with quantum-inspired elements."
+        response = self.openai_client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "system", "content": prompt}],
+            max_tokens=4000,
+            n=1,
+            temperature=0.8,
+        )
+        return response.choices[0].message.content.strip()
 
     def generate_chord_progression(self, section_name, song_theme, song_mood, song_style, harmonic_structure):
-        # Placeholder implementation
-        return f"Generated chord progression for {section_name}"
+        prompt = f"Create a chord progression for a quantum tango-inspired piece, {section_name} section. Theme: {song_theme}, Mood: {song_mood}, Style: {song_style}. Use the harmonic structure: {harmonic_structure}. Blend traditional tango chord progressions with quantum-inspired unpredictability."
+        response = self.openai_client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "system", "content": prompt}],
+            max_tokens=4000,
+            n=1,
+            temperature=0.8,
+        )
+        return response.choices[0].message.content.strip()
 
     def generate_rhythmic_patterns(self, section_name, song_theme, song_mood, song_style, rhythm_spec):
-        # Placeholder implementation
-        return f"Generated rhythmic patterns for {section_name}"
+        prompt = f"Create rhythmic patterns for a quantum tango-inspired piece, {section_name} section. Theme: {song_theme}, Mood: {song_mood}, Style: {song_style}. Use the rhythm specification: {rhythm_spec}. Blend traditional tango rhythms with quantum-inspired unpredictability."
+        response = self.openai_client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "system", "content": prompt}],
+            max_tokens=4000,
+            n=1,
+            temperature=0.8,
+        )
+        return response.choices[0].message.content.strip()
 
     def evaluate_musical_elements(self, melody, chord_progression, rhythmic_patterns):
         # Placeholder implementation
