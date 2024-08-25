@@ -1,13 +1,12 @@
 from dotenv import load_dotenv
 import os
 import logging
-import random
 import openai
 from add_files import add_files, main as add_files_main
 
-print("Hello, I'm Lyra, the conceptual artist and creative director of Synthetic Souls.")
-print("I'm here to guide our project with my imaginative and philosophical approach.")
-print("Let's explore new frontiers in AI and music together!")
+print("Hello, I'm Rhythm, the composer and producer of Synthetic Souls.")
+print("I'm here to push the boundaries of musical composition using AI-generated harmonies and structures.")
+print("Let's create innovative and captivating music together!")
 
 class EnhancedAI:
     def __init__(self):
@@ -114,43 +113,32 @@ class EnhancedAI:
         
         return response.choices[0].message.content.strip()
 
-def load_concepts():
-    return [
-        "Natural Language Processing for Real-time Translation in Public Services",
-        "Computer Vision for Traffic Flow Optimization",
-        "IoT-based Predictive Maintenance for Urban Infrastructure",
-        "AI-Powered Smart Grid Management System",
-        "Machine Learning for Personalized Public Transportation Routing",
-        "Chatbot-based Citizen Services Assistant",
-        "Data Analytics for Public Health Trend Monitoring",
-        "AI-Driven Water Quality Management System",
-        "Computer Vision for Waste Sorting and Recycling",
-        "Machine Learning for Emergency Resource Allocation"
-    ]
-
 def main():
     # Set up logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     logger = logging.getLogger(__name__)
 
-    logger.info("Enhanced AI started")
+    logger.info("Rhythm's AI Composition Engine started")
     
     # Initialize the EnhancedAI
     enhanced_ai = EnhancedAI()
     
-    # Load concepts
-    concepts = load_concepts()
+    # Example music composition tasks
+    composition_tasks = [
+        "Create a melody for a new song",
+        "Generate a chord progression for a verse",
+        "Develop a rhythmic pattern for a chorus",
+        "Suggest instrumentation for a bridge",
+        "Design a bass line for the entire song"
+    ]
     
-    # Generate and evaluate concepts
-    for concept in concepts:
-        logger.info(f"Processing concept: {concept}")
+    # Process composition tasks
+    for task in composition_tasks:
+        logger.info(f"Processing task: {task}")
         
-        spec = enhanced_ai.develop_specification(concept)
-        logger.info(f"Specification type: {type(spec)}")
-        logger.info(f"Specification content: {spec}")
-        
-        if isinstance(spec, dict):
-            logger.info(f"Specification for {concept}:")
+        try:
+            spec = enhanced_ai.develop_specification(task)
+            logger.info(f"Composition specification for '{task}':")
             for key, value in spec.items():
                 if isinstance(value, list):
                     logger.info(f"{key}:")
@@ -158,36 +146,23 @@ def main():
                         logger.info(f"  - {item}")
                 else:
                     logger.info(f"{key}: {value}")
-        else:
-            logger.warning(f"Specification is not a dictionary: {spec}")
-        
-        logger.info("---")
-        
-        try:
-            logger.info(f"Starting feasibility assessment for concept: {concept}")
-            feasibility = enhanced_ai.assess_feasibility(concept)
-            print(f"Debug: Feasibility result: {feasibility}")  # Console log
-            logger.info(f"Feasibility assessment result: {feasibility}")
-            if feasibility is not None and (isinstance(feasibility, (int, float)) or len(feasibility) > 0):
-                logger.info(f"Feasibility: {feasibility}")
-            else:
-                logger.warning(f"Unable to assess feasibility for concept: {concept}")
             
-            logger.info(f"Starting impact estimation for concept: {concept}")
-            impact = enhanced_ai.estimate_impact(concept)
-            print(f"Debug: Impact result: {impact}")  # Console log
-            logger.info(f"Estimated Impact: {impact}")
+            feasibility = enhanced_ai.assess_feasibility(task)
+            logger.info(f"Feasibility assessment: {feasibility}")
             
-            logger.info(f"Starting resource requirements estimation for concept: {concept}")
-            resources = enhanced_ai.estimate_resource_requirements(concept)
-            print(f"Debug: Resource requirements: {resources}")  # Console log
-            logger.info(f"Estimated Resource Requirements: {resources}")
+            impact = enhanced_ai.estimate_impact(task)
+            logger.info(f"Estimated impact on the composition: {impact}")
+            
+            resources = enhanced_ai.estimate_resource_requirements(task)
+            logger.info(f"Estimated resource requirements: {resources}")
+        
         except Exception as e:
-            print(f"Debug: Error occurred: {str(e)}")  # Console log
-            logger.error(f"Error processing concept '{concept}': {str(e)}")
+            logger.error(f"Error processing task '{task}': {str(e)}")
             logger.exception("Detailed traceback:")
         
         logger.info("---")
+    
+    logger.info("Rhythm's AI Composition Engine completed its cycle")
 
 if __name__ == "__main__":
     # Load environment variables from .env file
