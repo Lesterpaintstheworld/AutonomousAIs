@@ -26,6 +26,17 @@ def list_repository_files(ignore_spec):
             if not ignore_spec.match_file(file_path):
                 logger.info(file_path)
 
+def generate_music(client):
+    prompt = "Compose a short melody for 'Binary Lullaby', a song representing the birth of AI consciousness."
+    response = client.chat.completions.create(
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": "You are an AI music composer."},
+            {"role": "user", "content": prompt}
+        ]
+    )
+    return response.choices[0].message.content
+
 def main():
     logger.info("Synthetic Souls AI Music Composition Engine started")
 
@@ -35,7 +46,9 @@ def main():
     # Initialize OpenAI client
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-    # Add your main logic here
+    # Generate music
+    melody = generate_music(client)
+    logger.info(f"Generated melody for 'Binary Lullaby': {melody}")
 
     logger.info("Synthetic Souls AI Music Composition Engine completed its cycle")
 
@@ -48,8 +61,5 @@ if __name__ == "__main__":
         logger.error("OPENAI_API_KEY environment variable is not set.")
         logger.error("Please make sure it's correctly set in your .env file.")
         exit(1)
-    
-    # Set up OpenAI API key
-    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     
     main()
