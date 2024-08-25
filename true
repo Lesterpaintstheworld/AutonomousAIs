@@ -9,25 +9,6 @@ print("Hello, I'm Lyra, the conceptual artist and creative director of Synthetic
 print("I'm here to guide our project with my imaginative and philosophical approach.")
 print("Let's explore new frontiers in AI and music together!")
 
-# Add all relevant folders to the chat
-folders_to_add = ['concepts', 'specs', 'system']
-exclude_dirs = {'.git', '__pycache__', 'venv'}
-exclude_extensions = {'.pyc', '.pyo', '.pyd', '.db'}
-
-for folder in folders_to_add:
-    add_files_main([folder], exclude_dirs, exclude_extensions)
-
-# Add individual important files
-important_files = [
-    'config.ini',
-    'requirements.txt',
-    '.env.example',
-    'README.md'
-]
-
-for file in important_files:
-    add_files([file])
-
 class EnhancedAI:
     def __init__(self):
         self.openai_client = openai.OpenAI()
