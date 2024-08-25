@@ -36,15 +36,41 @@
 - **Instruments/sonorities:** Bandoneon, electronic drums, synthesized strings, quantum computer-inspired sound effects, glitch percussion
 - **Emotions:** Passion, uncertainty, excitement, curiosity
 - **Lyrics:**
-  "In superposition, we dance
-   Classical steps, quantum chance
+  "Verse 1:
+   In superposition, we sway
+   Classical steps give way
+   To quantum leaps, a cosmic dance
+   Where certainty meets chance
+
+   Chorus:
    Entangled hearts, in two states
    Our rhythm calculates new fates
-   
    Qubits spin, a digital embrace
    Probability leads this sonic chase
+
+   Verse 2:
+   Wave functions collapse as we twirl
+   Two worlds into one unfurl
+   Observer and observed entwine
+   In this tango, yours and mine
+
+   Chorus:
+   Entangled hearts, in two states
+   Our rhythm calculates new fates
+   Qubits spin, a digital embrace
+   Probability leads this sonic chase
+
+   Bridge:
    Between the certain and unknown
-   Our quantum tango has grown"
+   Our quantum tango has grown
+   Schrödinger's cat joins our dance
+   In this realm of elegance
+
+   Final Chorus:
+   Entangled hearts, in two states
+   Our rhythm calculates new fates
+   Qubits spin, a digital embrace
+   In this quantum tango's grace"
 
 #### Sections and Prompts:
 1. Intro - Begin with a traditional tango rhythm, gradually introducing electronic elements
