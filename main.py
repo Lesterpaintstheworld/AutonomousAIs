@@ -46,7 +46,7 @@ def generate_music(client, song, section):
     
     prompt = prompts[song][section]
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": "You are an AI music composer specializing in electronic and experimental music."},
             {"role": "user", "content": prompt}
