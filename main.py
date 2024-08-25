@@ -220,7 +220,7 @@ if __name__ == "__main__":
     OpenAI.api_key = os.getenv("OPENAI_API_KEY")
     
     # Install Playwright
-    install_playwright()
+    # install_playwright()
     
     # Run the main function
-    main()
+    # main()
