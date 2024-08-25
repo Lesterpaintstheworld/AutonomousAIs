@@ -91,7 +91,6 @@ if __name__ == "__main__":
 from dotenv import load_dotenv
 import os
 import logging
-from openai import OpenAI
 from ai_models import EnhancedAI
 
 # Reminder: This script is the main entry point for the Synthetic Souls AI Composition Engine
