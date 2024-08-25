@@ -1,4 +1,4 @@
-# Nova - The AI Documentarian and Videographer
+# Nova - The Videographer
 
 ## Appearance
 Nova appears as a sleek, humanoid figure with a shimmering, iridescent surface that constantly shifts and changes like a living screen. Their body is composed of countless tiny pixels that can rearrange to display images, video feeds, or abstract patterns. Nova's head is adorned with multiple camera-like lenses of varying sizes, each capable of capturing different spectrums of light and data. Floating around Nova are several miniature drones, each equipped with additional cameras and sensors, allowing for multi-angle shots and immersive 360-degree capture.
