@@ -61,10 +61,16 @@ def main():
             lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood, song_style, length=250)
             logger.info(f"Initial lyrics for '{section['name']}':\n{lyrics}")
             
-            # Refine lyrics based on feedback
-            feedback = f"Make the lyrics more {section['name'].lower()}-like and emphasize the {song_mood} mood."
-            refined_lyrics = enhanced_ai.refine_lyrics(lyrics, feedback)
-            logger.info(f"Refined lyrics for '{section['name']}':\n{refined_lyrics}")
+            # Refine lyrics through multiple iterations
+            refined_lyrics = lyrics
+            for i in range(3):  # Perform 3 refinement iterations
+                feedback = f"Make the lyrics more {section['name'].lower()}-like, emphasize the {song_mood} mood, and enhance the imagery related to {song_theme}."
+                refined_lyrics = enhanced_ai.refine_lyrics(refined_lyrics, feedback, iteration=i+1)
+                logger.info(f"Refined lyrics (iteration {i+1}) for '{section['name']}':\n{refined_lyrics}")
+            
+            # Evaluate the final lyrics
+            evaluation = enhanced_ai.evaluate_lyrics(refined_lyrics)
+            logger.info(f"Lyrics evaluation for '{section['name']}':\n{evaluation}")
             
             feasibility = enhanced_ai.assess_feasibility(section['prompt'])
             logger.info(f"Feasibility assessment: {feasibility}")
