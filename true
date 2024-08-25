@@ -1,14 +1,20 @@
 from dotenv import load_dotenv
 import os
 import logging
-import openai
+from openai import OpenAI
 from add_files import add_files, main as add_files_main
 import glob
 import fnmatch
+import subprocess
+import sys
 
-print("Hello, I'm Rhythm, the composer and producer of Synthetic Souls.")
-print("I'm here to push the boundaries of musical composition using AI-generated harmonies and structures.")
-print("Let's create innovative and captivating music together!")
+def install_playwright():
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "playwright"])
+    subprocess.check_call([sys.executable, "-m", "playwright", "install"])
+
+print("Hello, I'm an AI assistant designed to help with the Synthetic Souls project.")
+print("I'm here to assist in pushing the boundaries of musical composition using AI-generated harmonies and structures.")
+print("Let's work together to create innovative and captivating music!")
 
 def get_ignored_patterns():
     ignored_patterns = []
@@ -26,8 +32,11 @@ def list_files(startpath='.'):
         print(f'{indent}{os.path.basename(root)}/')
         subindent = ' ' * 4 * (level + 1)
         for file in files:
-            if not any(fnmatch.fnmatch(file, pattern) for pattern in ignored_patterns):
+            if not any(fnmatch.fnmatch(os.path.join(root, file), pattern) for pattern in ignored_patterns):
                 print(f'{subindent}{file}')
+
+print("Listing all repository files (excluding those in .gitignore and .aiderignore):")
+list_files()
 
 class EnhancedAI:
     def __init__(self):
@@ -201,5 +210,8 @@ if __name__ == "__main__":
     
     # Set up OpenAI API key
     openai.api_key = os.getenv("OPENAI_API_KEY")
+    
+    # Install Playwright
+    install_playwright()
     
     main()
