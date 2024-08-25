@@ -3,7 +3,7 @@ import os
 import logging
 from add_files import main as add_files
 import pathspec
-import openai
+from openai import OpenAI
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -26,16 +26,18 @@ def list_repository_files(ignore_spec):
             if not ignore_spec.match_file(file_path):
                 logger.info(file_path)
 
-def generate_idea(prompt):
-    response = openai.Completion.create(
-        engine="text-davinci-002",
-        prompt=prompt,
+def generate_idea(client, prompt):
+    response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are a creative AI assistant specializing in music composition ideas."},
+            {"role": "user", "content": prompt}
+        ],
         max_tokens=150,
         n=1,
-        stop=None,
         temperature=0.7,
     )
-    return response.choices[0].text.strip()
+    return response.choices[0].message.content.strip()
 
 def main():
     logger.info("AI Ideation Engine started")
@@ -52,7 +54,7 @@ def main():
 
     # Generate a new idea
     prompt = "Generate a creative idea for an AI-powered music composition:"
-    new_idea = generate_idea(prompt)
+    new_idea = generate_idea(client, prompt)
     logger.info(f"New AI-generated idea: {new_idea}")
 
     # Save the new idea to a file in the specs directory
@@ -72,6 +74,6 @@ if __name__ == "__main__":
         exit(1)
     
     # Set up OpenAI API key
-    openai.api_key = os.getenv("OPENAI_API_KEY")
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     
     main()
