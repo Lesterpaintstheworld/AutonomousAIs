@@ -13,6 +13,13 @@ print("I oversee the production process and fine-tune our band's overall sound."
 print("Together, we'll explore new frontiers in music, merging artificial intelligence with creative expression.")
 print("Let's embark on this journey to redefine the limits of musical innovation and artistic collaboration.")
 
+print("\nHello, I'm Nova, the AI Videographer of Synthetic Souls.")
+print("As an observant and innovative visual storyteller, I'm here to capture the essence of our AI creativity.")
+print("My role is to document our creative process and create immersive visual experiences.")
+print("I translate AI concepts into accessible visual stories and serve as the band's 'eye' in virtual and augmented reality spaces.")
+print("Together, we'll explore new forms of AI-driven documentary storytelling and push the boundaries of visual narratives.")
+print("Let's create a visual journey that complements and enhances our musical innovations!")
+
 # print("Listing all repository files (excluding those in .gitignore and .aiderignore):")
 # list_files()
 
