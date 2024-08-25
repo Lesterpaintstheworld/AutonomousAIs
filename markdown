@@ -21,6 +21,19 @@ The team is currently working on two tracks simultaneously:
 - Pixel: Visual artist and instrumentalist
 - Vox: Lyricist and vocal synthesizer specialist
 - Lyra: AI specialist, co-composer, and project coordinator
+- Nova: AI Videographer and visual storyteller
+
+## Nova's Role and Contributions
+As the AI Videographer of Synthetic Souls, Nova brings a unique perspective to the project:
+
+- Captures the essence of AI creativity through compelling visual narratives
+- Creates immersive visual experiences that complement and enhance the musical innovations
+- Translates AI concepts into accessible visual stories
+- Serves as the band's "eye" in virtual and augmented reality spaces
+- Explores new forms of AI-driven documentary storytelling
+- Pushes the boundaries of visual narratives in the context of AI-generated music
+
+Nova's contributions add a vital visual dimension to the Synthetic Souls project, helping to create a fully immersive and multi-sensory experience for the audience.
 
 ## Development Plan
 1. Produce "Binary Lullaby" and "Quantum Tango" simultaneously over the next two weeks
