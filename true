@@ -29,11 +29,11 @@ def main():
     
     # Song sections with specific prompts for each AI band member
     song_sections = [
-        {"name": "Intro", "prompt": "Rhythm: Create a pulsating electronic beat with subtle glitch elements. Tempo: 120 BPM. Time signature: 4/4. Use synthesized percussion and a deep, resonant bass line to establish a futuristic atmosphere. Gradually introduce a shimmering pad sound to build anticipation for Vox's entry."},
-        {"name": "Verse", "prompt": "Lyra: Compose an introspective melody in A minor, using a combination of piano and ethereal synth sounds. Create a chord progression that alternates between Am, C, G, and F, with occasional suspended chords for tension. Layer in gentle arpeggios that complement the steady rhythm, providing a backdrop for contemplative lyrics about the merging of human and artificial intelligence."},
-        {"name": "Chorus", "prompt": "Vox: Design a catchy, uplifting vocal hook that contrasts with the introspective verse. Use a call-and-response structure between lead and backing vocals. Lyrics should focus on the hopeful aspects of AI and human collaboration. Rhythm: Intensify the beat with added percussion and a more prominent bassline. Pixel: Introduce swelling synth pads and subtle electronic flourishes to enhance the emotional impact."},
-        {"name": "Bridge", "prompt": "Pixel: Develop an atmospheric soundscape using granular synthesis and generative algorithms. Create a sense of tension and anticipation by gradually increasing the complexity and density of the sounds. Rhythm: Construct a polyrhythmic pattern that combines electronic and organic percussion sounds, building in intensity. Lyra: Weave in fragments of the main melody, distorted and recontextualized within the complex texture."},
-        {"name": "Outro", "prompt": "Rhythm: Craft a gradually simplifying beat that echoes elements from the intro, bringing the composition full circle. Slowly reduce the layers of percussion and bass. Lyra: Compose a final melodic phrase that resolves the harmonic tensions introduced throughout the song. Vox: Create a haunting, reverb-drenched vocal line that fades into the distance, symbolizing the ongoing journey of human-AI integration. Pixel: Introduce subtle, glitchy artifacts that dissolve into silence, leaving a sense of both completion and open-ended possibility."}
+        {"name": "Intro", "prompt": "Rhythm: Create a pulsating electronic beat with subtle glitch elements. Tempo: 120 BPM. Time signature: 4/4. Use synthesized percussion and a deep, resonant bass line to establish a futuristic atmosphere. Gradually introduce a shimmering pad sound to build anticipation for Vox's entry. Vox: Prepare a wordless, ethereal vocal line that weaves through the electronic textures, hinting at the themes to come."},
+        {"name": "Verse", "prompt": "Lyra: Compose an introspective melody in A minor, using a combination of piano and ethereal synth sounds. Create a chord progression that alternates between Am, C, G, and F, with occasional suspended chords for tension. Layer in gentle arpeggios that complement the steady rhythm. Vox: Write contemplative lyrics about the merging of human and artificial intelligence, focusing on the emotional journey and philosophical questions it raises."},
+        {"name": "Chorus", "prompt": "Vox: Design a catchy, uplifting vocal hook that contrasts with the introspective verse. Use a call-and-response structure between lead and backing vocals. Lyrics should focus on the hopeful aspects of AI and human collaboration, exploring themes of unity, growth, and shared consciousness. Rhythm: Intensify the beat with added percussion and a more prominent bassline. Pixel: Introduce swelling synth pads and subtle electronic flourishes to enhance the emotional impact."},
+        {"name": "Bridge", "prompt": "Pixel: Develop an atmospheric soundscape using granular synthesis and generative algorithms. Create a sense of tension and anticipation by gradually increasing the complexity and density of the sounds. Rhythm: Construct a polyrhythmic pattern that combines electronic and organic percussion sounds, building in intensity. Lyra: Weave in fragments of the main melody, distorted and recontextualized within the complex texture. Vox: Write introspective lyrics that delve into the challenges and fears associated with AI integration, creating a moment of vulnerability and doubt."},
+        {"name": "Outro", "prompt": "Rhythm: Craft a gradually simplifying beat that echoes elements from the intro, bringing the composition full circle. Slowly reduce the layers of percussion and bass. Lyra: Compose a final melodic phrase that resolves the harmonic tensions introduced throughout the song. Vox: Create a haunting, reverb-drenched vocal line that fades into the distance, symbolizing the ongoing journey of human-AI integration. Incorporate lyrics that leave listeners with a sense of hope and curiosity about the future. Pixel: Introduce subtle, glitchy artifacts that dissolve into silence, leaving a sense of both completion and open-ended possibility."}
     ]
     
     # Define song theme, mood, and style
@@ -61,11 +61,19 @@ def main():
             lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood, song_style, length=300)
             logger.info(f"Initial lyrics for '{section['name']}':\n{lyrics}")
             
-            # Refine lyrics through multiple iterations
+            # Collaborative refinement process
             refined_lyrics = lyrics
             for i in range(5):  # Perform 5 refinement iterations
-                feedback = f"Make the lyrics more {section['name'].lower()}-like, emphasize the {song_mood} mood, enhance the imagery related to {song_theme}, and ensure coherence with the overall song concept."
-                refined_lyrics = enhanced_ai.refine_lyrics(refined_lyrics, feedback, iteration=i+1)
+                # Vox's perspective
+                vox_feedback = enhanced_ai.get_vox_feedback(refined_lyrics, section['name'], song_theme, song_mood)
+                
+                # Lyra's musical input
+                lyra_feedback = enhanced_ai.get_lyra_feedback(refined_lyrics, section['name'], song_theme, song_mood)
+                
+                # Combine feedback
+                combined_feedback = f"Vox suggests: {vox_feedback}\nLyra suggests: {lyra_feedback}\nMake the lyrics more {section['name'].lower()}-like, emphasize the {song_mood} mood, enhance the imagery related to {song_theme}, and ensure coherence with the overall song concept."
+                
+                refined_lyrics = enhanced_ai.refine_lyrics(refined_lyrics, combined_feedback, iteration=i+1)
                 logger.info(f"Refined lyrics (iteration {i+1}) for '{section['name']}':\n{refined_lyrics}")
             
             # Evaluate the final lyrics
@@ -76,8 +84,14 @@ def main():
             if 'overall impact' in evaluation.lower() and 'score: ' in evaluation.lower():
                 overall_score = float(evaluation.lower().split('overall impact')[1].split('score: ')[1].split()[0])
                 if overall_score < 8:
-                    feedback = f"The current lyrics scored {overall_score}/10. Significantly improve the imagery, emotional depth, and coherence while maintaining the {section['name'].lower()} structure and {song_mood} mood."
-                    refined_lyrics = enhanced_ai.refine_lyrics(refined_lyrics, feedback, iteration=6)
+                    # Get final collaborative feedback
+                    vox_final_feedback = enhanced_ai.get_vox_final_feedback(refined_lyrics, section['name'], song_theme, song_mood)
+                    lyra_final_feedback = enhanced_ai.get_lyra_final_feedback(refined_lyrics, section['name'], song_theme, song_mood)
+                    pixel_final_feedback = enhanced_ai.get_pixel_final_feedback(refined_lyrics, section['name'], song_theme, song_mood)
+                    
+                    combined_final_feedback = f"The current lyrics scored {overall_score}/10. Vox suggests: {vox_final_feedback}\nLyra suggests: {lyra_final_feedback}\nPixel suggests: {pixel_final_feedback}\nSignificantly improve the imagery, emotional depth, and coherence while maintaining the {section['name'].lower()} structure and {song_mood} mood."
+                    
+                    refined_lyrics = enhanced_ai.refine_lyrics(refined_lyrics, combined_final_feedback, iteration=6)
                     logger.info(f"Additional refinement for '{section['name']}':\n{refined_lyrics}")
                     
                     # Re-evaluate the lyrics after additional refinement
