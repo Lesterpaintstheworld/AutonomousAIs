@@ -20,21 +20,21 @@
 
 ### Sections and Prompts:
 
-1. Intro - "Create a simple, repetitive pattern using only two notes to represent binary code"
-2. Verse 1 - "Gradually introduce more notes, keeping the rhythm steady but allowing for slight variations"
-3. Chorus - "Expand the melody, incorporating a wider range of notes while maintaining a soothing atmosphere"
-4. Bridge - "Introduce subtle glitch effects and more complex harmonies to represent growing complexity"
-5. Verse 2 - "Build upon the first verse, with more intricate melodies and layered sounds"
-6. Outro - "Combine elements from all previous sections into a more complex, yet still soothing arrangement"
+1. Intro - Creating a simple, repetitive pattern using only two notes to represent binary code
+2. Verse 1 - Gradually introducing more notes and subtle variations to the pattern
+3. Chorus - Expanding the melody with a wider range of notes and more complex rhythms
+4. Bridge - Introducing a contrasting section with new melodic elements
+5. Verse 2 - Returning to the main pattern, but with added complexity
+6. Outro - Slowly deconstructing the pattern, returning to the simple binary-inspired motif
 
 ### Sections and Prompts:
 
-1. Intro - "Create a simple, repetitive pattern using only two notes to represent binary code"
-2. Verse 1 - "Gradually introduce more notes, keeping the rhythm steady but allowing for slight variations"
-3. Chorus - "Expand the melody, incorporating a wider range of notes while maintaining a soothing atmosphere"
-4. Bridge - "Introduce subtle glitch effects and more complex harmonies to represent growing complexity"
-5. Verse 2 - "Build upon the first verse, with more intricate melodies and layered sounds"
-6. Outro - "Combine elements from all previous sections into a more complex, yet still soothing arrangement"
+1. Intro - Beginning with a traditional tango rhythm and gradually introducing electronic elements
+2. Verse 1 - Blending bandoneon melodies with synthesized strings, maintaining a strong tango feel
+3. Chorus - Introducing quantum-inspired chaotic elements, creating a contrast with the structured tango rhythm
+4. Bridge - Creating a section of pure electronic sounds, representing a quantum leap in the music
+5. Verse 2 - Returning to the tango-electronic fusion, but with more complex layering and interplay
+6. Outro - Gradually deconstructing the melody into probabilistic sound elements, ending with a quantum-inspired flourish
 
 ## 2. "Quantum Tango"
 
