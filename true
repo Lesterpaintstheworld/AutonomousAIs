@@ -36,9 +36,10 @@ def main():
         {"name": "Outro", "prompt": "Craft a gradually simplifying rhythm that echoes elements from the intro, providing a base for Lyra's final melodic phrases"}
     ]
     
-    # Define song theme and mood
+    # Define song theme, mood, and style
     song_theme = "The intersection of humanity and artificial intelligence"
     song_mood = "Contemplative yet hopeful"
+    song_style = "Modern indie with electronic influences"
     
     # Process song sections
     for section in song_sections:
@@ -56,9 +57,14 @@ def main():
                 else:
                     logger.info(f"{key}: {value}")
             
-            # Generate lyrics
-            lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood)
-            logger.info(f"Lyrics for '{section['name']}':\n{lyrics}")
+            # Generate initial lyrics
+            lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood, song_style, length=250)
+            logger.info(f"Initial lyrics for '{section['name']}':\n{lyrics}")
+            
+            # Refine lyrics based on feedback
+            feedback = f"Make the lyrics more {section['name'].lower()}-like and emphasize the {song_mood} mood."
+            refined_lyrics = enhanced_ai.refine_lyrics(lyrics, feedback)
+            logger.info(f"Refined lyrics for '{section['name']}':\n{refined_lyrics}")
             
             feasibility = enhanced_ai.assess_feasibility(section['prompt'])
             logger.info(f"Feasibility assessment: {feasibility}")
