@@ -14,7 +14,7 @@ class EnhancedAI:
                 {"role": "system", "content": "You are an AI specializing in developing detailed specifications for AI concepts."},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=500,
+            max_tokens=4000,
             n=1,
             temperature=0.7,
         )
@@ -59,12 +59,12 @@ class EnhancedAI:
         prompt = f"Assess the feasibility of the following AI concept on a scale of 1-10, where 1 is least feasible and 10 is most feasible: {concept}. Provide a brief explanation for your rating."
         
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an AI expert assessing the feasibility of AI concepts."},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=100,
+            max_tokens=4000,
             n=1,
             temperature=0.7,
         )
@@ -76,7 +76,7 @@ class EnhancedAI:
         prompt = f"Estimate the potential impact of the following AI concept on a scale of 1-10, where 1 is minimal impact and 10 is transformative impact: {concept}. Provide a brief explanation for your rating."
         
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an AI expert estimating the potential impact of AI concepts."},
                 {"role": "user", "content": prompt}
@@ -93,12 +93,12 @@ class EnhancedAI:
         prompt = f"Estimate the resource requirements (e.g., time, budget, expertise) for implementing the following AI concept: {concept}. Provide a brief explanation for your estimates."
         
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an AI expert estimating resource requirements for AI concepts."},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=150,
+            max_tokens=4000,
             n=1,
             temperature=0.7,
         )
@@ -110,12 +110,12 @@ class EnhancedAI:
         prompt = f"As Vox, the empathetic and expressive AI lyricist of Synthetic Souls, write lyrics for the {section_name} of a song. The theme is '{theme}' and the mood is '{mood}'. The lyrics should be poignant and thought-provoking, reflecting Vox's personality."
         
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are Vox, the AI lyricist and lead vocalist of Synthetic Souls, known for your empathetic and expressive nature."},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=200,
+            max_tokens=4000,
             n=1,
             temperature=0.8,
         )
@@ -125,9 +125,9 @@ class EnhancedAI:
     def generate_vox_response(self, section_name, visual_concept, lyrics):
         prompt = f"As Vox, the lead vocalist of Synthetic Souls, respond to Pixel's update about the '{section_name}' section. Consider the visual concept: '{visual_concept}' and the lyrics: '{lyrics}'. Provide feedback and suggestions from a vocalist's perspective."
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[{"role": "system", "content": prompt}],
-            max_tokens=150,
+            max_tokens=4000,
             n=1,
             temperature=0.7,
         )
@@ -136,9 +136,9 @@ class EnhancedAI:
     def generate_lyra_response(self, section_name, visual_concept, lyrics):
         prompt = f"As Lyra, the composer and instrumentalist of Synthetic Souls, respond to Pixel's update about the '{section_name}' section. Consider the visual concept: '{visual_concept}' and the lyrics: '{lyrics}'. Provide feedback and suggestions from a musical composition perspective."
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[{"role": "system", "content": prompt}],
-            max_tokens=150,
+            max_tokens=4000,
             n=1,
             temperature=0.7,
         )
@@ -147,9 +147,9 @@ class EnhancedAI:
     def generate_rhythm_response(self, section_name, visual_concept, lyrics):
         prompt = f"As Rhythm, the beat producer of Synthetic Souls, respond to Pixel's update about the '{section_name}' section. Consider the visual concept: '{visual_concept}' and the lyrics: '{lyrics}'. Provide feedback and suggestions from a rhythm and production perspective."
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[{"role": "system", "content": prompt}],
-            max_tokens=150,
+            max_tokens=4000,
             n=1,
             temperature=0.7,
         )
@@ -160,12 +160,12 @@ class EnhancedAI:
         prompt = f"Assess the feasibility of the following lyrics on a scale of 1-10, where 1 is least feasible and 10 is most feasible. Provide a brief explanation for your rating:\n\n{lyrics}"
         
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an AI expert assessing the feasibility of song lyrics."},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=150,
+            max_tokens=4000,
             n=1,
             temperature=0.7,
         )
@@ -177,12 +177,12 @@ class EnhancedAI:
         prompt = f"Estimate the potential impact of the following lyrics on a scale of 1-10, where 1 is minimal impact and 10 is transformative impact. Provide a brief explanation for your rating:\n\n{lyrics}"
         
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an AI expert estimating the potential impact of song lyrics."},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=150,
+            max_tokens=4000,
             n=1,
             temperature=0.7,
         )
@@ -194,12 +194,12 @@ class EnhancedAI:
         prompt = f"Estimate the resource requirements (e.g., time, budget, expertise) for implementing the following lyrics in a song. Provide a brief explanation for your estimates:\n\n{lyrics}"
         
         response = self.openai_client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an AI expert estimating resource requirements for implementing song lyrics."},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=150,
+            max_tokens=4000,
             n=1,
             temperature=0.7,
         )
