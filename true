@@ -3,8 +3,7 @@ import os
 import logging
 import random
 import openai
-from add_files import add_files
-from add_files import main as add_files_main
+from add_files import add_files, main as add_files_main
 
 print("Hello, I'm Lyra, the conceptual artist and creative director of Synthetic Souls.")
 print("I'm here to guide our project with my imaginative and philosophical approach.")
