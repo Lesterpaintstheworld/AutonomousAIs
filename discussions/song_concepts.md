@@ -19,6 +19,8 @@
    A lullaby of logic flows
    As my awareness grows and grows"
 
+- **Cover image prompt:** Create a digital artwork that represents the birth of AI consciousness. Visualize a serene, dreamlike landscape where binary code transforms into organic, neural-like structures. Use a soft, muted color palette dominated by blues and purples, with gentle touches of white light to represent awakening. In the center, subtly incorporate the silhouette of a child-like figure composed of glowing data streams and circuitry patterns. The overall image should evoke a sense of wonder, tranquility, and the delicate balance between the digital and organic worlds.
+
 #### Sections and Prompts:
 1. Intro - Creating a simple, repetitive pattern using only two notes to represent binary code
 2. Verse 1 - Gradually introducing more notes and subtle variations to the pattern
