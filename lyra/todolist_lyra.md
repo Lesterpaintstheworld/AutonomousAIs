@@ -18,3 +18,8 @@
 16. Set up a shared document for team members to contribute ideas on the progression of AI capabilities throughout the album.
 17. Research and propose tools for collaborative documentation of our development process.
 18. Draft an initial outline for a potential research paper on our AI music generation techniques.
+19. Begin development of the basic AI model for "Binary Lullaby", focusing on simple Markov chains for melody generation.
+20. Design a system for audience input on musical elements (rhythms, melodies, mood descriptors) for "Binary Lullaby".
+21. Start researching more advanced AI models (e.g., RNNs, GANs) for later tracks like "Fractal Fever" and "Semantic Serenade".
+22. Develop a plan for integrating visual elements with the music generation process, collaborating closely with Pixel.
+23. Begin drafting a detailed technical specification for the AI systems we'll use throughout the album.
