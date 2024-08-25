@@ -28,7 +28,7 @@ def list_repository_files(ignore_spec):
 
 def generate_idea(client, prompt):
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": "You are a creative AI assistant specializing in music composition ideas."},
             {"role": "user", "content": prompt}
@@ -51,6 +51,9 @@ def main():
 
     # Create the specs directory if it doesn't exist
     os.makedirs("specs", exist_ok=True)
+
+    # Initialize OpenAI client
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
     # Generate a new idea
     prompt = "Generate a creative idea for an AI-powered music composition:"
