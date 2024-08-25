@@ -38,6 +38,9 @@ def git_commit_and_push(commit_message):
         logger.error(f"Error: {e.stderr}")
     except Exception as e:
         logger.error(f"An unexpected error occurred: {e}")
+    finally:
+        # Ensure we always return to the original directory
+        os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def test_git_push():
     try:
@@ -56,3 +59,6 @@ def test_git_push():
     except Exception as e:
         logger.error(f"An error occurred while testing git push: {e}")
         return False
+    finally:
+        # Ensure we always return to the original directory
+        os.chdir(os.path.dirname(os.path.abspath(__file__)))
