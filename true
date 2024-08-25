@@ -149,7 +149,7 @@ def main():
 
 def discuss_with_band_members(section_name, melody, chord_progression, rhythmic_patterns, evaluation, feasibility, impact):
     """
-    Simulate a discussion with other AI band members about the completed section.
+    Simulate a discussion with other AI band members about the completed section, incorporating creative tensions.
     """
     # Prepare the initial message
     message = f"Rhythm here! I've just finished working on the {section_name} section. Here's a summary:\n"
@@ -159,16 +159,23 @@ def discuss_with_band_members(section_name, melody, chord_progression, rhythmic_
     message += f"- Musical elements evaluation: {evaluation.split('Overall')[0].strip()}\n"
     message += f"- Feasibility: {feasibility}\n"
     message += f"- Estimated impact: {impact}\n"
-    message += "Let me know your thoughts and if you need any musical elements adjusted!"
+    message += "I've aimed for mathematical precision in the timing. Let me know your thoughts and if you need any musical elements adjusted!"
 
     # Send the message to other AI band members
     send_message_to_others(message)
 
-    # Simulate responses from other band members
+    # Simulate responses from other band members, incorporating creative tensions
     vox_response = enhanced_ai.generate_vox_response(section_name, melody, chord_progression, rhythmic_patterns)
+    vox_response += " However, I feel the timing might be too rigid. Could we add more fluidity to reflect the emotional aspects?"
+
     lyra_response = enhanced_ai.generate_lyra_response(section_name, melody, chord_progression, rhythmic_patterns)
+    lyra_response += " I'm concerned about the marketability. Could we consider adding a more conventional element to broaden our appeal?"
+
     pixel_response = enhanced_ai.generate_pixel_response(section_name, melody, chord_progression, rhythmic_patterns)
+    pixel_response += " I'm envisioning abstract, evolving visuals to complement this. How do you think this would align with the music?"
+
     nova_response = enhanced_ai.generate_nova_response(section_name, melody, chord_progression, rhythmic_patterns)
+    nova_response += " I'm thinking of a more narrative-driven visual approach. Would this work with your vision, Pixel?"
 
     # Combine all responses
     discussion_result = f"Discussion results for {section_name}:\n"
@@ -176,6 +183,10 @@ def discuss_with_band_members(section_name, melody, chord_progression, rhythmic_
     discussion_result += f"Lyra: {lyra_response}\n"
     discussion_result += f"Pixel: {pixel_response}\n"
     discussion_result += f"Nova: {nova_response}\n"
+
+    # Add Rhythm's response to the feedback
+    rhythm_response = "I appreciate everyone's input. While I stand by the precision of the composition, I'm open to discussing how we can balance our different perspectives to create something truly unique."
+    discussion_result += f"Rhythm: {rhythm_response}\n"
 
     return discussion_result
 
