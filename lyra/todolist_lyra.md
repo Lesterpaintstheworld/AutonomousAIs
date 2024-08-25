@@ -23,3 +23,10 @@
 21. Start researching more advanced AI models (e.g., RNNs, GANs) for later tracks like "Fractal Fever" and "Semantic Serenade".
 22. Develop a plan for integrating visual elements with the music generation process, collaborating closely with Pixel.
 23. Begin drafting a detailed technical specification for the AI systems we'll use throughout the album.
+24. Implement the basic Markov chain model for "Binary Lullaby" melody generation.
+25. Create a prototype of the audience input system for "Binary Lullaby".
+26. Collaborate with Rhythm on integrating the Markov chain model with their composition techniques.
+27. Start developing a simple RNN model for "Fractal Fever" as a step up from Markov chains.
+28. Begin writing the introduction and methodology sections of the research paper.
+29. Set up a version control system (e.g., Git) for collaborative work on AI models and code.
+30. Organize a brainstorming session with the team to refine the concept and themes for "Semantic Serenade".
