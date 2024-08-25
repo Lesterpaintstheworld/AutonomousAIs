@@ -92,7 +92,7 @@ from dotenv import load_dotenv
 import os
 import logging
 from openai import OpenAI
-from add_files import add_files, main as add_files_main
+from add_files import main as add_files_main
 import pathspec
 
 print("Hello, I'm an AI assistant designed to help with the Synthetic Souls project.")
@@ -136,7 +136,8 @@ def main():
     exclude_extensions = set([".pyc", ".pyo", ".pyd", ".db"])
     
     files_to_add = add_files_main(directories_to_scan, exclude_dirs, exclude_extensions)
-    add_files(files_to_add)
+    # The add_files function is not available, so we'll comment out this line
+    # add_files(files_to_add)
     
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
