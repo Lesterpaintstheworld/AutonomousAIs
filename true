@@ -19,7 +19,6 @@ for folder in folders_to_add:
 
 # Add individual important files
 important_files = [
-    'ai_ideation_engine.py',
     'config.ini',
     'requirements.txt',
     '.env.example',
