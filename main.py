@@ -1,7 +1,6 @@
 from dotenv import load_dotenv
 import os
 import logging
-from ai_ideation_engine import EnhancedAIIdeationEngine
 from add_files import main as add_files
 
 # Set up logging
