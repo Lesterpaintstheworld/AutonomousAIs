@@ -93,6 +93,8 @@ def main():
         logger.info(f"Processing section: {section['name']}")
         
         try:
+            # Comment out time-consuming operations
+            """
             # Generate rhythm specification
             rhythm_spec = enhanced_ai.develop_rhythm_specification(section['prompt'])
             logger.info(f"Rhythm specification for '{section['name']}':")
@@ -211,6 +213,9 @@ def main():
             # Generate sheet music
             sheet_music_path = enhanced_ai.generate_sheet_music(final_arrangement, section['name'])
             logger.info(f"Sheet music generated for '{section['name']}': {sheet_music_path}")
+            """
+            # Placeholder for commented-out operations
+            logger.info(f"Processing for section '{section['name']}' has been commented out to save time.")
 
 def discuss_with_band_members(section_name, melody, chord_progression, rhythmic_patterns, evaluation, feasibility, impact):
     """
