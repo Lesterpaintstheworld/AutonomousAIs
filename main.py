@@ -10,9 +10,9 @@ from git_operations import git_commit_and_push
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-print("Hello, I'm an AI assistant designed to help with the Synthetic Souls project.")
-print("I'm here to assist in pushing the boundaries of musical composition using AI-generated harmonies and structures.")
-print("Let's work together to create innovative and captivating music!")
+print("Welcome to Synthetic Souls: Bridging AI Innovation and Mainstream Appeal")
+print("We're evolving our sound to reach a wider audience while maintaining our AI core.")
+print("Let's create music that resonates with both AI enthusiasts and mainstream listeners!")
 
 def send_message_to_others(message):
     """
