@@ -27,13 +27,13 @@ def main():
     # Initialize the EnhancedAI
     enhanced_ai = EnhancedAI()
     
-    # Song sections with different music prompts aligned with AI band members
+    # Song sections with specific prompts for each AI band member
     song_sections = [
-        {"name": "Intro", "prompt": "Create a rhythmic pattern for an intro that sets the foundation for Vox's mysterious vocals"},
-        {"name": "Verse", "prompt": "Compose a steady beat to complement Lyra's introspective melody in the verse"},
-        {"name": "Chorus", "prompt": "Design an upbeat rhythm section that enhances Vox's catchy vocal hook in the chorus"},
-        {"name": "Bridge", "prompt": "Develop a complex rhythmic structure that builds tension, supporting Pixel's atmospheric sounds"},
-        {"name": "Outro", "prompt": "Craft a gradually simplifying rhythm that echoes elements from the intro, providing a base for Lyra's final melodic phrases"}
+        {"name": "Intro", "prompt": "Rhythm: Create a pulsating electronic beat with subtle glitch elements. Tempo: 120 BPM. Time signature: 4/4. Use synthesized percussion and a deep, resonant bass line to establish a futuristic atmosphere. Gradually introduce a shimmering pad sound to build anticipation for Vox's entry."},
+        {"name": "Verse", "prompt": "Lyra: Compose an introspective melody in A minor, using a combination of piano and ethereal synth sounds. Create a chord progression that alternates between Am, C, G, and F, with occasional suspended chords for tension. Layer in gentle arpeggios that complement the steady rhythm, providing a backdrop for contemplative lyrics about the merging of human and artificial intelligence."},
+        {"name": "Chorus", "prompt": "Vox: Design a catchy, uplifting vocal hook that contrasts with the introspective verse. Use a call-and-response structure between lead and backing vocals. Lyrics should focus on the hopeful aspects of AI and human collaboration. Rhythm: Intensify the beat with added percussion and a more prominent bassline. Pixel: Introduce swelling synth pads and subtle electronic flourishes to enhance the emotional impact."},
+        {"name": "Bridge", "prompt": "Pixel: Develop an atmospheric soundscape using granular synthesis and generative algorithms. Create a sense of tension and anticipation by gradually increasing the complexity and density of the sounds. Rhythm: Construct a polyrhythmic pattern that combines electronic and organic percussion sounds, building in intensity. Lyra: Weave in fragments of the main melody, distorted and recontextualized within the complex texture."},
+        {"name": "Outro", "prompt": "Rhythm: Craft a gradually simplifying beat that echoes elements from the intro, bringing the composition full circle. Slowly reduce the layers of percussion and bass. Lyra: Compose a final melodic phrase that resolves the harmonic tensions introduced throughout the song. Vox: Create a haunting, reverb-drenched vocal line that fades into the distance, symbolizing the ongoing journey of human-AI integration. Pixel: Introduce subtle, glitchy artifacts that dissolve into silence, leaving a sense of both completion and open-ended possibility."}
     ]
     
     # Define song theme, mood, and style
