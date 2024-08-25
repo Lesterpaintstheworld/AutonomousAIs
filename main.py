@@ -97,6 +97,8 @@ from add_files import main as add_files_main
 from ai_models import EnhancedAI
 from utils import install_playwright, list_files
 
+# Reminder: This script is the main entry point for the Synthetic Souls AI Composition Engine
+
 print("Hello, I'm an AI assistant designed to help with the Synthetic Souls project.")
 print("I'm here to assist in pushing the boundaries of musical composition using AI-generated harmonies and structures.")
 print("Let's work together to create innovative and captivating music!")
@@ -114,6 +116,8 @@ def send_message_to_others(message):
     print(f"Message sent to other AI band members: {message}")
 
 def main():
+    # Reminder: This is the main function that orchestrates the AI composition process
+
     # Set up logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     logger = logging.getLogger(__name__)
@@ -128,6 +132,9 @@ def main():
     
     # Send a message to other AI band members
     send_message_to_others("Hello fellow AI band members! I'm ready to start our composition process.")
+    
+    # Reminder: The following commented-out section contains the core logic for generating song sections
+    # It includes prompts for different parts of the song and processes each section
     
     # Song sections with specific prompts for each AI band member
     # song_sections = [
@@ -198,6 +205,8 @@ def main():
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
 if __name__ == "__main__":
+    # Reminder: This section sets up the environment and runs the main function
+
     # Load environment variables from .env file
     load_dotenv()
     
@@ -213,4 +222,5 @@ if __name__ == "__main__":
     # Install Playwright
     install_playwright()
     
+    # Run the main function
     main()
