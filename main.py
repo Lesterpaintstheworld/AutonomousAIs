@@ -14,9 +14,6 @@ def main():
     added_concept_files = add_files(directories_to_scan=["concepts"], exclude_dirs=set(), exclude_extensions=set())
     logger.info(f"Files added from concepts folder: {', '.join(added_concept_files)}")
 
-    # Initialize the AI Ideation Engine
-    ideation_engine = EnhancedAIIdeationEngine()
-
     # Create the specs directory if it doesn't exist
     os.makedirs("specs", exist_ok=True)
 
