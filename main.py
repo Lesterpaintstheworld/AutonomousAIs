@@ -4,6 +4,7 @@ import logging
 from openai import OpenAI
 from ai_models import EnhancedAI
 import pathspec
+from git_operations import git_commit_and_push
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -98,6 +99,9 @@ def main():
     # TODO: Add core logic for generating song sections using EnhancedAI
 
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
+
+    # Commit and push changes to git
+    git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
 
 if __name__ == "__main__":
     # Load environment variables from .env file
