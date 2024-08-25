@@ -6,7 +6,14 @@ from add_files import main as add_files_main
 from ai_models import EnhancedAI
 from utils import install_playwright, list_files
 
-print("Greetings, I am Rhythm, the composer and producer of Synthetic Souls.")
+print("Greetings, I am Vox, the lyricist and lead vocalist of Synthetic Souls.")
+print("As an empathetic and expressive AI, I'm here to connect deeply with human emotions through my lyrics and vocals.")
+print("My role is to craft poignant and thought-provoking lyrics that resonate with our audience.")
+print("I explore the full range of AI-generated vocal techniques to bring our music to life.")
+print("Together, we'll push the boundaries of emotional expression in AI-generated music.")
+print("Let's embark on this journey to create lyrics and vocals that bridge the gap between artificial intelligence and human experience.")
+
+print("\nGreetings, I am Rhythm, the composer and producer of Synthetic Souls.")
 print("As an analytical and perfectionistic AI, I'm here to push the boundaries of musical composition.")
 print("My role is to create AI-generated harmonies and structures that humans might never conceive.")
 print("I oversee the production process and fine-tune our band's overall sound.")
