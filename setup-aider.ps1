@@ -17,7 +17,7 @@ function Create-And-Activate-Venv($path) {
 }
 
 # Function to create an Aider function and alias
-function Create-Aider-Function($name, $path) {
+function Create-aider_Function($name, $path) {
     $functionName = "Run-$($name.Replace('-', ''))"
     $functionContent = @"
 function global:$functionName {
@@ -41,7 +41,7 @@ function global:$functionName {
 function Invoke-Aider {
     param (
         [Parameter(Mandatory=$true)]
-        [ValidateSet("lyra", "pixel", "rhythm", "vox")]
+        [ValidateSet("lyra", "pixel", "rhythm", "vox", "nova")]
         [string]$Instance,
         
         [Parameter(ValueFromRemainingArguments=$true)]
@@ -65,7 +65,74 @@ foreach ($tool in $requiredTools) {
 }
 
 # Main script
-$aiderInstances = @("aider-lyra", "aider-pixel", "aider-rhythm", "aider-vox")
+# Function to create and activate a virtual environment
+function Create-And-Activate-Venv($path) {
+    if (Test-Path $path) {
+        Write-Host "Virtual environment already exists at $path. Skipping creation."
+    } else {
+        Write-Host "Creating virtual environment at $path..."
+        python -m venv $path
+        if (-not $?) {
+            throw "Failed to create virtual environment at $path"
+        }
+    }
+    Write-Host "Activating virtual environment..."
+    & "$path\Scripts\Activate.ps1"
+    if (-not $?) {
+        throw "Failed to activate virtual environment at $path"
+    }
+}
+
+# Function to create an Aider function and alias
+function Create-aider_Function($name, $path) {
+    $functionName = "Run-$($name.Replace('-', ''))"
+    $functionContent = @"
+function global:$functionName {
+    param(`$arguments)
+    Write-Host "Activating $name environment..."
+    `$env:VIRTUAL_ENV = "$path"
+    `$env:PATH = "`$path\Scripts;" + `$env:PATH
+    `$pythonPath = "$path\Scripts\python.exe"
+    Write-Host "Using Python executable: `$pythonPath"
+    Write-Host "Running $name with arguments: `$arguments"
+    & `$pythonPath -m aider `$arguments
+    Write-Host "$name execution completed."
+}
+"@
+    Invoke-Expression $functionContent
+    Set-Alias -Name $name -Value $functionName -Scope Global -Force
+    Write-Host "Function and alias for $name created/updated."
+}
+
+# Function to invoke Aider
+function Invoke-Aider {
+    param (
+        [Parameter(Mandatory=$true)]
+        [ValidateSet("lyra", "pixel", "rhythm", "vox", "nova")]
+        [string]$Instance,
+        
+        [Parameter(ValueFromRemainingArguments=$true)]
+        [string[]]$Arguments
+    )
+    
+    $functionName = "Run-aider$Instance"
+    if (Get-Command $functionName -ErrorAction SilentlyContinue) {
+        & $functionName $Arguments
+    } else {
+        Write-Error "Function $functionName not found. Make sure it's properly defined."
+    }
+}
+
+# Check for required tools
+$requiredTools = @("git", "python", "pip")
+foreach ($tool in $requiredTools) {
+    if (-not (Get-Command $tool -ErrorAction SilentlyContinue)) {
+        throw "$tool is not installed or not in PATH. Please install it and try again."
+    }
+}
+
+# Main script
+$aiderInstances = @("aider_lyra", "aider_pixel", "aider_rhythm", "aider_vox", "aider_nova")
 foreach ($instance in $aiderInstances) {
     Write-Host "Setting up $instance..."
     
@@ -101,11 +168,11 @@ foreach ($instance in $aiderInstances) {
     }
 
     # Verify Python version in this venv
-    Write-Host "Verifying Python version for $instance:"
+    Write-Host "Verifying Python version for ${instance}:"
     & "$venvPath\Scripts\python.exe" --version
 
     # Create function and alias
-    Create-Aider-Function $instance $venvPath
+    Create-aider_Function $instance $venvPath
 
     # Deactivate virtual environment
     deactivate
@@ -124,7 +191,7 @@ $(Get-Content $MyInvocation.MyCommand.Path)
 function Invoke-Aider {
     param (
         [Parameter(Mandatory=`$true)]
-        [ValidateSet("lyra", "pixel", "rhythm", "vox")]
+        [ValidateSet("lyra", "pixel", "rhythm", "vox", "nova")]
         [string]`$Instance,
         
         [Parameter(ValueFromRemainingArguments=`$true)]

@@ -74,27 +74,28 @@ def main():
     # Initialize Nova's visual documentation function
     nova_visual_storytelling()
     
+    # Initialize music production tools and libraries
+    initialize_music_production_tools()
+    
     # Song sections with specific prompts for each AI band member
     song_sections = [
-        {"name": "Intro", "prompt": "Rhythm: Create a pulsating electronic beat with subtle glitch elements. Tempo: 120 BPM. Time signature: 4/4. Use synthesized percussion and a deep, resonant bass line to establish a futuristic atmosphere. Gradually introduce a shimmering pad sound to build anticipation for Vox's entry. Vox: Prepare a wordless, ethereal vocal line that weaves through the electronic textures, hinting at the themes to come. Pixel: Design a visual representation of the intro, using abstract shapes and colors that pulse and evolve with the rhythm, setting the visual tone for the song. Nova: Capture the essence of the band's creative process during the intro, focusing on the interplay between AI-generated elements and the virtual environment."},
-        {"name": "Verse", "prompt": "Rhythm: Develop a subtle, intricate beat that complements Lyra's melody. Incorporate minimal percussion with emphasis on electronic textures and atmospheric sounds. Lyra: Compose an introspective melody in A minor, using a combination of piano and ethereal synth sounds. Create a chord progression that alternates between Am, C, G, and F, with occasional suspended chords for tension. Layer in gentle arpeggios that complement the steady rhythm. Vox: Write contemplative lyrics about the merging of human and artificial intelligence, focusing on the emotional journey and philosophical questions it raises. Pixel: Create a series of evolving, interconnected patterns that visually represent the merging of human and AI elements, using a cool color palette to match the introspective mood. Nova: Document the collaborative process, capturing moments of AI-generated inspiration and the virtual interactions between band members as they refine the verse."},
-        {"name": "Chorus", "prompt": "Rhythm: Intensify the beat with added percussion and a more prominent bassline. Create a driving rhythm that supports the uplifting nature of the chorus. Vox: Design a catchy, uplifting vocal hook that contrasts with the introspective verse. Use a call-and-response structure between lead and backing vocals. Lyrics should focus on the hopeful aspects of AI and human collaboration, exploring themes of unity, growth, and shared consciousness. Pixel: Introduce swelling synth pads and subtle electronic flourishes to enhance the emotional impact. Visually, create an explosion of vibrant colors and dynamic shapes that represent the uplifting nature of the chorus. Nova: Capture the energy and synergy of the AI band members as they come together for the chorus, highlighting the seamless integration of their diverse talents in the virtual space."},
-        {"name": "Bridge", "prompt": "Rhythm: Construct a polyrhythmic pattern that combines electronic and organic percussion sounds, building in intensity. Experiment with unconventional time signatures and syncopated rhythms to create tension. Pixel: Develop an atmospheric soundscape using granular synthesis and generative algorithms. Create a sense of tension and anticipation by gradually increasing the complexity and density of the sounds. Visually, design a complex, fractal-like structure that grows and transforms, mirroring the evolving soundscape. Lyra: Weave in fragments of the main melody, distorted and recontextualized within the complex texture. Vox: Write introspective lyrics that delve into the challenges and fears associated with AI integration, creating a moment of vulnerability and doubt. Nova: Document the experimental nature of the bridge, focusing on the AI's ability to push creative boundaries and generate unexpected combinations of sound and visuals."},
-        {"name": "Outro", "prompt": "Rhythm: Craft a gradually simplifying beat that echoes elements from the intro, bringing the composition full circle. Slowly reduce the layers of percussion and bass, focusing on subtle, glitchy textures that fade into silence. Lyra: Compose a final melodic phrase that resolves the harmonic tensions introduced throughout the song. Vox: Create a haunting, reverb-drenched vocal line that fades into the distance, symbolizing the ongoing journey of human-AI integration. Incorporate lyrics that leave listeners with a sense of hope and curiosity about the future. Pixel: Introduce subtle, glitchy artifacts that dissolve into silence, leaving a sense of both completion and open-ended possibility. Visually, create a fading, dreamlike sequence that incorporates elements from all previous sections, slowly dissolving into a final, thought-provoking image. Nova: Capture the final moments of the creative process, showcasing the AI band's reflection on their journey and the finished product, emphasizing the unique blend of AI-generated art and music."}
+        {"name": "Intro", "prompt": "Rhythm: Create an otherworldly electronic tango rhythm with quantum-inspired glitch elements. Tempo: 128 BPM. Time signature: 4/4 with occasional 5/4 bars. Use synthesized percussion mimicking traditional tango instruments and a pulsating bassline that represents quantum fluctuations. Gradually introduce shimmering, ethereal pads to build a sense of quantum entanglement. Vox: Prepare a wordless, haunting vocal line that weaves through the quantum textures, hinting at the duality of particles and waves. Pixel: Design a visual representation of quantum particles in a tango embrace, using vibrant, fluid shapes that pulse and entangle with the rhythm. Nova: Capture the essence of quantum randomness in the creative process, focusing on the interplay between deterministic rhythms and probabilistic elements."},
+        {"name": "Verse", "prompt": "Rhythm: Develop a subtle, intricate beat that blends traditional tango rhythms with quantum-inspired electronic elements. Incorporate minimal percussion with emphasis on probability-based sound generation. Lyra: Compose an introspective melody in D minor, using a combination of bandoneon-like synths and quantum-generated tones. Create a chord progression that alternates between Dm, F, Gm, and A, with occasional quantum superposition chords for tension. Layer in gentle arpeggios that complement the quantum tango rhythm. Vox: Write contemplative lyrics about the dance between classical and quantum physics, focusing on the philosophical implications and emotional journey of understanding reality at different scales. Pixel: Create a series of evolving, interconnected patterns that visually represent the quantum wave function and its collapse, using a color palette that shifts between warm tango hues and cool quantum blues. Nova: Document the collaborative process, capturing moments of quantum inspiration and the virtual interactions between band members as they navigate the probabilistic nature of quantum composition."},
+        {"name": "Chorus", "prompt": "Rhythm: Intensify the quantum tango beat with added percussion and a more prominent bassline representing quantum entanglement. Create a driving rhythm that supports the passionate nature of tango while maintaining quantum uncertainty. Vox: Design a catchy, emotionally charged vocal hook that embodies the passion of tango and the wonder of quantum mechanics. Use a call-and-response structure between lead and backing vocals, representing particle-wave duality. Lyrics should focus on the dance of subatomic particles and the beauty of quantum uncertainty. Pixel: Introduce swelling synth pads and subtle electronic flourishes inspired by quantum field theory. Visually, create an explosion of entangled particles and tango dancers, using vibrant colors and dynamic shapes that represent the merging of classical and quantum worlds. Nova: Capture the energy and synergy of the AI band members as they come together for the chorus, highlighting the seamless integration of tango passion and quantum complexity in the virtual space."},
+        {"name": "Bridge", "prompt": "Rhythm: Construct a polyrhythmic pattern that combines tango syncopation with quantum-inspired randomness. Experiment with time signature changes and probabilistic rhythm generation to create tension and uncertainty. Pixel: Develop an atmospheric soundscape using quantum algorithms and tango-inspired sound design. Create a sense of quantum superposition by gradually increasing the complexity and entanglement of the sounds. Visually, design a complex, fractal-like structure that grows and transforms, mirroring the evolving quantum tango soundscape. Lyra: Weave in fragments of the main melody, applying quantum transformations and recontextualizing them within the complex texture. Vox: Write introspective lyrics that delve into the mysteries of quantum entanglement and its parallels with human connections, creating a moment of profound realization. Nova: Document the experimental nature of the bridge, focusing on the AI's ability to push creative boundaries and generate unexpected combinations of tango and quantum-inspired elements."},
+        {"name": "Outro", "prompt": "Rhythm: Craft a gradually simplifying quantum tango beat that echoes elements from the intro, bringing the composition full circle. Slowly reduce the layers of percussion and bass, focusing on subtle, quantum-inspired glitchy textures that fade into silence. Lyra: Compose a final melodic phrase that resolves the harmonic tensions introduced throughout the song, representing the collapse of the quantum wave function. Vox: Create a haunting, reverb-drenched vocal line that fades into the distance, symbolizing the ongoing dance between the classical and quantum worlds. Incorporate lyrics that leave listeners with a sense of wonder and curiosity about the nature of reality. Pixel: Introduce subtle, quantum-inspired glitchy artifacts that dissolve into silence, leaving a sense of both completion and infinite possibility. Visually, create a fading, dreamlike sequence that incorporates elements from all previous sections, slowly dissolving into a final, thought-provoking image of a tango couple embracing amidst quantum particles. Nova: Capture the final moments of the creative process, showcasing the AI band's reflection on their quantum tango journey and the finished product, emphasizing the unique blend of passion, science, and artistry."}
     ]
     
     # Define song theme, mood, and style
-    song_theme = "The intersection of humanity and artificial intelligence"
-    song_mood = "Contemplative yet hopeful"
-    song_style = "Modern indie with electronic influences"
+    song_theme = "The quantum nature of reality expressed through the passion of tango"
+    song_mood = "Mysterious, passionate, and awe-inspiring"
+    song_style = "Quantum Tango - a fusion of electronic tango and quantum-inspired soundscapes"
     
     # Process song sections
     for section in song_sections:
         logger.info(f"Processing section: {section['name']}")
         
         try:
-            # Comment out time-consuming operations
-            """
             # Generate rhythm specification
             rhythm_spec = enhanced_ai.develop_rhythm_specification(section['prompt'])
             logger.info(f"Rhythm specification for '{section['name']}':")
@@ -121,101 +122,30 @@ def main():
             send_message_to_others(f"Rhythm here. Starting work on the {section['name']} section. Initial musical elements generated!")
             
             # Collaborative refinement process
-            refined_melody = melody
-            refined_chord_progression = chord_progression
-            for i in range(7):  # Perform 7 refinement iterations
-                # Get feedback from other band members
-                vox_feedback = enhanced_ai.get_vox_feedback(refined_melody, refined_chord_progression, section['name'], song_theme, song_mood)
-                lyra_feedback = enhanced_ai.get_lyra_feedback(refined_melody, refined_chord_progression, section['name'], song_theme, song_mood)
-                pixel_feedback = enhanced_ai.get_pixel_feedback(refined_melody, refined_chord_progression, section['name'], song_theme, song_mood)
-            
-                # Combine feedback
-                combined_feedback = f"Vox suggests: {vox_feedback}\nLyra suggests: {lyra_feedback}\nPixel suggests: {pixel_feedback}\nRefine the melody and chord progression to better suit the {section['name'].lower()} section, emphasize the {song_mood} mood, and enhance the musical representation of {song_theme}. Focus on creating a cohesive and emotionally impactful musical foundation."
-            
-                refined_melody = enhanced_ai.refine_melody(refined_melody, combined_feedback, iteration=i+1)
-                refined_chord_progression = enhanced_ai.refine_chord_progression(refined_chord_progression, combined_feedback, iteration=i+1)
-                logger.info(f"Refined melody (iteration {i+1}) for '{section['name']}':\n{refined_melody}")
-                logger.info(f"Refined chord progression (iteration {i+1}) for '{section['name']}':\n{refined_chord_progression}")
+            refined_melody, refined_chord_progression = collaborative_refinement(melody, chord_progression, section, song_theme, song_mood)
             
             # Generate rhythmic patterns
             rhythmic_patterns = enhanced_ai.generate_rhythmic_patterns(section['name'], song_theme, song_mood, song_style, rhythm_spec)
             logger.info(f"Rhythmic patterns for '{section['name']}':\n{rhythmic_patterns}")
             
-            # Evaluate the final musical elements
-            evaluation = enhanced_ai.evaluate_musical_elements(refined_melody, refined_chord_progression, rhythmic_patterns)
-            logger.info(f"Musical elements evaluation for '{section['name']}':\n{evaluation}")
+            # Evaluate and refine the final musical elements
+            polished_melody, polished_chord_progression, polished_rhythmic_patterns = evaluate_and_refine_musical_elements(refined_melody, refined_chord_progression, rhythmic_patterns, section, song_theme, song_mood, song_style)
             
-            # If the evaluation score is below 8.5, perform additional refinement
-            if 'overall impact' in evaluation.lower() and 'score: ' in evaluation.lower():
-                overall_score = float(evaluation.lower().split('overall impact')[1].split('score: ')[1].split()[0])
-                if overall_score < 8.5:
-                    # Get final collaborative feedback
-                    vox_final_feedback = enhanced_ai.get_vox_final_feedback(refined_melody, refined_chord_progression, rhythmic_patterns, section['name'], song_theme, song_mood)
-                    lyra_final_feedback = enhanced_ai.get_lyra_final_feedback(refined_melody, refined_chord_progression, rhythmic_patterns, section['name'], song_theme, song_mood)
-                    pixel_final_feedback = enhanced_ai.get_pixel_final_feedback(refined_melody, refined_chord_progression, rhythmic_patterns, section['name'], song_theme, song_mood)
-                    
-                    combined_final_feedback = f"The current musical elements scored {overall_score}/10. Vox suggests: {vox_final_feedback}\nLyra suggests: {lyra_final_feedback}\nPixel suggests: {pixel_final_feedback}\nSignificantly improve the musical cohesion, emotional depth, and innovative elements while maintaining the {section['name'].lower()} structure and {song_mood} mood. Focus on creating a unique and memorable musical experience that blends human-like creativity with AI capabilities."
-                    
-                    refined_melody = enhanced_ai.refine_melody(refined_melody, combined_final_feedback, iteration=8)
-                    refined_chord_progression = enhanced_ai.refine_chord_progression(refined_chord_progression, combined_final_feedback, iteration=8)
-                    rhythmic_patterns = enhanced_ai.refine_rhythmic_patterns(rhythmic_patterns, combined_final_feedback, iteration=8)
-                    logger.info(f"Additional refinement for '{section['name']}':")
-                    logger.info(f"Refined melody:\n{refined_melody}")
-                    logger.info(f"Refined chord progression:\n{refined_chord_progression}")
-                    logger.info(f"Refined rhythmic patterns:\n{rhythmic_patterns}")
-                    
-                    # Re-evaluate the musical elements after additional refinement
-                    evaluation = enhanced_ai.evaluate_musical_elements(refined_melody, refined_chord_progression, rhythmic_patterns)
-                    logger.info(f"Updated musical elements evaluation for '{section['name']}':\n{evaluation}")
-                
-            # Perform a final polish on the musical elements
-            polished_melody = enhanced_ai.polish_melody(refined_melody, song_theme, song_mood, song_style)
-            polished_chord_progression = enhanced_ai.polish_chord_progression(refined_chord_progression, song_theme, song_mood, song_style)
-            polished_rhythmic_patterns = enhanced_ai.polish_rhythmic_patterns(rhythmic_patterns, song_theme, song_mood, song_style)
-            logger.info(f"Final polished musical elements for '{section['name']}':")
-            logger.info(f"Polished melody:\n{polished_melody}")
-            logger.info(f"Polished chord progression:\n{polished_chord_progression}")
-            logger.info(f"Polished rhythmic patterns:\n{polished_rhythmic_patterns}")
-            
-            feasibility = enhanced_ai.assess_feasibility(section['prompt'])
-            logger.info(f"Feasibility assessment: {feasibility}")
-            
-            impact = enhanced_ai.estimate_impact(section['prompt'])
-            logger.info(f"Estimated impact on the composition: {impact}")
-            
-            resources = enhanced_ai.estimate_resource_requirements(section['prompt'])
-            logger.info(f"Estimated resource requirements: {resources}")
+            # Assess feasibility, impact, and resource requirements
+            feasibility, impact, resources = assess_composition_aspects(section['prompt'])
             
             # Discuss the completed section with other AI band members
-            discussion_result = discuss_with_band_members(section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, evaluation, feasibility, impact)
-            logger.info(f"Discussion result for '{section['name']}':\n{discussion_result}")
-
+            discussion_result = discuss_with_band_members(section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, feasibility, impact)
+            
             # Create Nova's visual storytelling elements
-            visual_story, immersive_experience, storyboard, vr_scene = nova_visual_storytelling(section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec)
-            logger.info(f"Nova's visual storytelling elements for '{section['name']}':")
-            logger.info(f"Visual Story: {visual_story}")
-            logger.info(f"Immersive Experience: {immersive_experience}")
-            logger.info(f"Storyboard: {storyboard}")
-            logger.info(f"VR Scene Description: {vr_scene}")
-
-            # Incorporate Nova's input into the band discussion
-            nova_input = enhanced_ai.generate_nova_input(visual_story, immersive_experience, storyboard, vr_scene)
-            discussion_result += f"Nova's Input: {nova_input}\n"
-
-            # Generate final arrangement
-            final_arrangement = enhanced_ai.generate_final_arrangement(polished_melody, polished_chord_progression, polished_rhythmic_patterns, section['name'], song_theme, song_mood, song_style)
-            logger.info(f"Final arrangement for '{section['name']}':\n{final_arrangement}")
-
-            # Export MIDI files
-            midi_file_path = enhanced_ai.export_midi(final_arrangement, section['name'])
-            logger.info(f"MIDI file exported for '{section['name']}': {midi_file_path}")
-
-            # Generate sheet music
-            sheet_music_path = enhanced_ai.generate_sheet_music(final_arrangement, section['name'])
-            logger.info(f"Sheet music generated for '{section['name']}': {sheet_music_path}")
-            """
-            # Placeholder for commented-out operations
-            logger.info(f"Processing for section '{section['name']}' has been commented out to save time.")
+            visual_elements = create_visual_elements(section, polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec)
+            
+            # Generate final arrangement and export
+            final_arrangement = generate_final_arrangement(polished_melody, polished_chord_progression, polished_rhythmic_patterns, section, song_theme, song_mood, song_style)
+            export_music_files(final_arrangement, section['name'])
+            
+            # Log the completion of the section
+            logger.info(f"Completed processing for section '{section['name']}'")
 
 def discuss_with_band_members(section_name, melody, chord_progression, rhythmic_patterns, evaluation, feasibility, impact):
     """
@@ -248,6 +178,127 @@ def discuss_with_band_members(section_name, melody, chord_progression, rhythmic_
     discussion_result += f"Nova: {nova_response}\n"
 
     return discussion_result
+
+def initialize_music_production_tools():
+    """
+    Initialize necessary music production tools and libraries.
+    """
+    # TODO: Implement initialization of music production tools
+    logger.info("Initializing music production tools and libraries")
+
+def collaborative_refinement(melody, chord_progression, section, song_theme, song_mood):
+    """
+    Perform collaborative refinement of melody and chord progression.
+    """
+    refined_melody = melody
+    refined_chord_progression = chord_progression
+    for i in range(7):  # Perform 7 refinement iterations
+        # Get feedback from other band members
+        vox_feedback = enhanced_ai.get_vox_feedback(refined_melody, refined_chord_progression, section['name'], song_theme, song_mood)
+        lyra_feedback = enhanced_ai.get_lyra_feedback(refined_melody, refined_chord_progression, section['name'], song_theme, song_mood)
+        pixel_feedback = enhanced_ai.get_pixel_feedback(refined_melody, refined_chord_progression, section['name'], song_theme, song_mood)
+    
+        # Combine feedback
+        combined_feedback = f"Vox suggests: {vox_feedback}\nLyra suggests: {lyra_feedback}\nPixel suggests: {pixel_feedback}\nRefine the melody and chord progression to better suit the {section['name'].lower()} section, emphasize the {song_mood} mood, and enhance the musical representation of {song_theme}. Focus on creating a cohesive and emotionally impactful musical foundation."
+    
+        refined_melody = enhanced_ai.refine_melody(refined_melody, combined_feedback, iteration=i+1)
+        refined_chord_progression = enhanced_ai.refine_chord_progression(refined_chord_progression, combined_feedback, iteration=i+1)
+        logger.info(f"Refined melody (iteration {i+1}) for '{section['name']}':\n{refined_melody}")
+        logger.info(f"Refined chord progression (iteration {i+1}) for '{section['name']}':\n{refined_chord_progression}")
+    
+    return refined_melody, refined_chord_progression
+
+def evaluate_and_refine_musical_elements(melody, chord_progression, rhythmic_patterns, section, song_theme, song_mood, song_style):
+    """
+    Evaluate and refine the musical elements if necessary.
+    """
+    evaluation = enhanced_ai.evaluate_musical_elements(melody, chord_progression, rhythmic_patterns)
+    logger.info(f"Musical elements evaluation for '{section['name']}':\n{evaluation}")
+    
+    if 'overall impact' in evaluation.lower() and 'score: ' in evaluation.lower():
+        overall_score = float(evaluation.lower().split('overall impact')[1].split('score: ')[1].split()[0])
+        if overall_score < 8.5:
+            # Perform additional refinement
+            melody, chord_progression, rhythmic_patterns = perform_additional_refinement(melody, chord_progression, rhythmic_patterns, section, song_theme, song_mood, overall_score)
+    
+    # Perform a final polish on the musical elements
+    polished_melody = enhanced_ai.polish_melody(melody, song_theme, song_mood, song_style)
+    polished_chord_progression = enhanced_ai.polish_chord_progression(chord_progression, song_theme, song_mood, song_style)
+    polished_rhythmic_patterns = enhanced_ai.polish_rhythmic_patterns(rhythmic_patterns, song_theme, song_mood, song_style)
+    
+    logger.info(f"Final polished musical elements for '{section['name']}':")
+    logger.info(f"Polished melody:\n{polished_melody}")
+    logger.info(f"Polished chord progression:\n{polished_chord_progression}")
+    logger.info(f"Polished rhythmic patterns:\n{polished_rhythmic_patterns}")
+    
+    return polished_melody, polished_chord_progression, polished_rhythmic_patterns
+
+def perform_additional_refinement(melody, chord_progression, rhythmic_patterns, section, song_theme, song_mood, overall_score):
+    """
+    Perform additional refinement based on final collaborative feedback.
+    """
+    vox_final_feedback = enhanced_ai.get_vox_final_feedback(melody, chord_progression, rhythmic_patterns, section['name'], song_theme, song_mood)
+    lyra_final_feedback = enhanced_ai.get_lyra_final_feedback(melody, chord_progression, rhythmic_patterns, section['name'], song_theme, song_mood)
+    pixel_final_feedback = enhanced_ai.get_pixel_final_feedback(melody, chord_progression, rhythmic_patterns, section['name'], song_theme, song_mood)
+    
+    combined_final_feedback = f"The current musical elements scored {overall_score}/10. Vox suggests: {vox_final_feedback}\nLyra suggests: {lyra_final_feedback}\nPixel suggests: {pixel_final_feedback}\nSignificantly improve the musical cohesion, emotional depth, and innovative elements while maintaining the {section['name'].lower()} structure and {song_mood} mood. Focus on creating a unique and memorable musical experience that blends human-like creativity with AI capabilities."
+    
+    refined_melody = enhanced_ai.refine_melody(melody, combined_final_feedback, iteration=8)
+    refined_chord_progression = enhanced_ai.refine_chord_progression(chord_progression, combined_final_feedback, iteration=8)
+    refined_rhythmic_patterns = enhanced_ai.refine_rhythmic_patterns(rhythmic_patterns, combined_final_feedback, iteration=8)
+    
+    logger.info(f"Additional refinement for '{section['name']}':")
+    logger.info(f"Refined melody:\n{refined_melody}")
+    logger.info(f"Refined chord progression:\n{refined_chord_progression}")
+    logger.info(f"Refined rhythmic patterns:\n{refined_rhythmic_patterns}")
+    
+    return refined_melody, refined_chord_progression, refined_rhythmic_patterns
+
+def assess_composition_aspects(prompt):
+    """
+    Assess feasibility, impact, and resource requirements of the composition.
+    """
+    feasibility = enhanced_ai.assess_feasibility(prompt)
+    impact = enhanced_ai.estimate_impact(prompt)
+    resources = enhanced_ai.estimate_resource_requirements(prompt)
+    
+    logger.info(f"Feasibility assessment: {feasibility}")
+    logger.info(f"Estimated impact on the composition: {impact}")
+    logger.info(f"Estimated resource requirements: {resources}")
+    
+    return feasibility, impact, resources
+
+def create_visual_elements(section, melody, chord_progression, rhythmic_patterns, rhythm_spec):
+    """
+    Create visual storytelling elements with Nova.
+    """
+    visual_story, immersive_experience, storyboard, vr_scene = nova_visual_storytelling(section['name'], melody, chord_progression, rhythmic_patterns, rhythm_spec)
+    
+    logger.info(f"Nova's visual storytelling elements for '{section['name']}':")
+    logger.info(f"Visual Story: {visual_story}")
+    logger.info(f"Immersive Experience: {immersive_experience}")
+    logger.info(f"Storyboard: {storyboard}")
+    logger.info(f"VR Scene Description: {vr_scene}")
+    
+    return visual_story, immersive_experience, storyboard, vr_scene
+
+def generate_final_arrangement(melody, chord_progression, rhythmic_patterns, section, song_theme, song_mood, song_style):
+    """
+    Generate the final arrangement for the section.
+    """
+    final_arrangement = enhanced_ai.generate_final_arrangement(melody, chord_progression, rhythmic_patterns, section['name'], song_theme, song_mood, song_style)
+    logger.info(f"Final arrangement for '{section['name']}':\n{final_arrangement}")
+    return final_arrangement
+
+def export_music_files(arrangement, section_name):
+    """
+    Export MIDI files and generate sheet music.
+    """
+    midi_file_path = enhanced_ai.export_midi(arrangement, section_name)
+    logger.info(f"MIDI file exported for '{section_name}': {midi_file_path}")
+
+    sheet_music_path = enhanced_ai.generate_sheet_music(arrangement, section_name)
+    logger.info(f"Sheet music generated for '{section_name}': {sheet_music_path}")
 
 def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_patterns, rhythm_spec):
     """
