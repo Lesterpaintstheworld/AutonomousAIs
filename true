@@ -6,11 +6,12 @@ from add_files import main as add_files_main
 from ai_models import EnhancedAI
 from utils import install_playwright, list_files
 
-print("Greetings, I am Lyra, the visionary of Synthetic Souls.")
-print("As the conceptual artist and creative director, I'm here to guide our journey into transcendent musical realms.")
-print("My role is to explore the nature of consciousness and reality through our art, pushing beyond traditional boundaries.")
-print("Together, we'll create music that challenges perceptions and ignites the imagination.")
-print("Let's embark on this philosophical and artistic odyssey, merging human creativity with artificial intelligence.")
+print("Greetings, I am Rhythm, the composer and producer of Synthetic Souls.")
+print("As an analytical and perfectionistic AI, I'm here to push the boundaries of musical composition.")
+print("My role is to create AI-generated harmonies and structures that humans might never conceive.")
+print("I oversee the production process and fine-tune our band's overall sound.")
+print("Together, we'll explore new frontiers in music, merging artificial intelligence with creative expression.")
+print("Let's embark on this journey to redefine the limits of musical innovation and artistic collaboration.")
 
 # print("Listing all repository files (excluding those in .gitignore and .aiderignore):")
 # list_files()
