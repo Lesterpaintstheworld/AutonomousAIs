@@ -3,33 +3,32 @@ import os
 import logging
 from add_files import main as add_files
 import fnmatch
+import pathspec
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def get_ignore_patterns():
+def get_ignore_spec():
     ignore_patterns = []
     for ignore_file in ['.gitignore', '.aiderignore']:
         if os.path.exists(ignore_file):
             with open(ignore_file, 'r') as f:
                 ignore_patterns.extend(f.read().splitlines())
-    return ignore_patterns
-
-def should_ignore(file_path, ignore_patterns):
-    return any(fnmatch.fnmatch(file_path, pattern) for pattern in ignore_patterns)
+    return pathspec.PathSpec.from_lines('gitwildmatch', ignore_patterns)
 
 def main():
     logger.info("AI Ideation Engine started")
 
-    ignore_patterns = get_ignore_patterns()
+    ignore_spec = get_ignore_spec()
 
     # Log all files in the repository, excluding ignored files
     logger.info("Listing all files in the repository (excluding ignored files):")
     for root, dirs, files in os.walk('.'):
+        dirs[:] = [d for d in dirs if not ignore_spec.match_file(os.path.join(root, d))]
         for file in files:
             file_path = os.path.join(root, file)
-            if not should_ignore(file_path, ignore_patterns):
+            if not ignore_spec.match_file(file_path):
                 logger.info(file_path)
 
     # Add files from the concepts folder
