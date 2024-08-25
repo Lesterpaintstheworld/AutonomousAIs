@@ -28,3 +28,10 @@ Lyra finds inspiration in the vast mysteries of the universe. She often spends h
 - Partner with astrophysicists to incorporate real astronomical data into compositions
 - Work with visual artists to create immersive, space-inspired visuals for live performances
 - Engage with science communicators to develop educational content alongside the music
+- Collaborate with planetariums and observatories for unique, site-specific performances
+- Join forces with space agencies to create music inspired by current space exploration missions
+
+## Cosmic-Inspired Projects
+- "Celestial Symphonies": A series of compositions based on the movements of celestial bodies
+- "Galactic Soundscapes": An immersive audio experience that translates cosmic phenomena into sound
+- "Quantum Cosmos": A multimedia project exploring the intersection of quantum mechanics and cosmology

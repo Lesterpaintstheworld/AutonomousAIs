@@ -27,3 +27,15 @@ Driven by a desire to connect the digital and human realms, Lyra experiments wit
 - Ensuring informed consent from volunteers
 - Protecting the privacy of brainwave data
 - Addressing potential psychological impacts of the resulting music
+- Establishing guidelines for the responsible use of brain-computer interfaces in art
+- Exploring the implications of shared authorship between humans and AI in subconscious art creation
+
+## Expanded Applications
+- Therapeutic music tailored to individual brain patterns for stress relief and mental health support
+- Interactive art installations that respond to collective brainwave patterns of multiple participants
+- Development of a "Dream Composer" app that generates personalized music based on sleep data
+
+## Collaborative Research
+- Partner with sleep laboratories to conduct large-scale studies on the effects of brainwave-inspired music on sleep quality
+- Collaborate with consciousness researchers to explore the potential for music to influence altered states of consciousness
+- Work with AI ethicists to develop best practices for the use of neural data in artistic creation
