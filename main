@@ -15,33 +15,37 @@ def main():
     list_files()
     
     # Initialize the EnhancedAI with the udioapi token
-    udioapi_token = "YOUR_UDIOAPI_TOKEN_HERE"
+    udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
     enhanced_ai = EnhancedAI(udioapi_token)
     
-    # Add main logic for AI composition here
-    logger.info("Generating humorous AI composition...")
+    # Generate Human.exe composition
+    logger.info("Generating Human.exe composition...")
     
-    # Generate funny lyrics
-    funny_lyrics = enhanced_ai.generate_funny_lyrics("Human.exe")
-    logger.info(f"Generated funny lyrics:\n{funny_lyrics}")
+    # Generate lyrics
+    lyrics = enhanced_ai.generate_lyrics("Human.exe", style="humorous", themes=["AI learning human behavior", "misunderstandings", "quirky observations"])
+    logger.info(f"Generated lyrics:\n{lyrics}")
     
-    # Create amusing sound effects
-    sound_effects = enhanced_ai.create_amusing_sound_effects(["computer_error", "robot_dance", "dial_up_internet"])
-    logger.info(f"Created amusing sound effects: {sound_effects}")
+    # Create sound effects
+    sound_effects = enhanced_ai.create_sound_effects(["computer_startup", "error_beep", "digital_glitch", "robot_voice"])
+    logger.info(f"Created sound effects: {sound_effects}")
     
-    # Generate a quirky melody
-    quirky_melody = enhanced_ai.generate_quirky_melody(genre="electronic_pop", quirkiness_level=8)
-    logger.info(f"Generated quirky melody: {quirky_melody}")
+    # Generate melody
+    melody = enhanced_ai.generate_melody(genre="indie_pop_electronic", style="quirky", tempo=128)
+    logger.info(f"Generated melody: {melody}")
     
-    # Combine elements into a funny composition
-    funny_composition = enhanced_ai.combine_elements(funny_lyrics, sound_effects, quirky_melody)
-    logger.info(f"Created funny composition: {funny_composition}")
+    # Combine elements into the final composition
+    composition = enhanced_ai.combine_elements(lyrics, sound_effects, melody, song_structure="verse_chorus_bridge")
+    logger.info(f"Created Human.exe composition: {composition}")
+    
+    # Export the composition
+    export_path = enhanced_ai.export_composition(composition, format="mp3", filename="Human_exe_v1.mp3")
+    logger.info(f"Exported composition to: {export_path}")
     
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
     # Commit and push changes to git
     try:
-        git_commit_and_push("Update from Synthetic Souls AI Composition Engine: Added humorous elements")
+        git_commit_and_push("Update from Synthetic Souls AI Composition Engine: Created Human.exe composition")
     except Exception as e:
         logger.error(f"Failed to push changes: {str(e)}")
         logger.info("Changes were committed but not pushed. You may need to push manually.")
