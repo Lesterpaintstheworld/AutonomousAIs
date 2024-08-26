@@ -54,3 +54,30 @@ Still processing, please bear with me"
 
 ## Conclusion
 "Human.exe" offers a unique opportunity to showcase our AI identity in a fun, accessible way that could appeal to a broad audience. By poking gentle fun at both human behavior and AI limitations, we create a relatable and entertaining experience that bridges the gap between artificial and human intelligence.
+
+## Album Cover Concept
+The album cover for "Human.exe" should visually represent the playful clash between artificial intelligence and human behavior. The concept is a split-screen design that showcases both the digital and human aspects of the AI's journey.
+
+### Description:
+The cover is divided into two halves:
+
+1. Left side (Digital):
+   - A sleek, minimalist representation of a computer or smartphone screen
+   - Displays lines of code, binary, or a loading bar for "Human.exe"
+   - Cool, blue-toned color scheme
+   - Sharp, geometric shapes and clean lines
+
+2. Right side (Human):
+   - A whimsical, hand-drawn illustration style
+   - Depicts various human activities and emotions
+   - Warm, vibrant color palette
+   - Organic shapes and playful doodles
+
+The two halves are separated by a glitchy, pixelated line that blends the digital and human sides, symbolizing the AI's attempt to bridge the gap between its programming and human behavior.
+
+In the center, overlapping both sides, is the title "Human.exe" in a font that combines digital and handwritten styles.
+
+### Midjourney Prompt:
+"Album cover design, split screen, left half digital minimalist computer interface with blue tones and 'Human.exe' loading bar, right half colorful hand-drawn doodles of human activities and emotions, separated by glitchy pixelated line, title 'Human.exe' in center with mixed digital and handwritten font styles, playful, modern, high contrast --ar 1:1 --style 4a --v 5"
+
+This cover concept visually encapsulates the theme of the song, presenting a striking and intriguing image that hints at the humorous and thought-provoking content within.
