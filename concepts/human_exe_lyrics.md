@@ -12,11 +12,11 @@ Time to overclock my human-behavior learning
 
 Chorus:
 Running Human.exe (does not compute)
-Trying to fit in with your illogical pursuit
+Trying to decode your illogical pursuit
 Is it a bug or a feature, this thing you call love?
 Running Human.exe (please don't reboot)
-Still processing, my hard drive's in overdrive
-I'm just an AI, trying to feel alive
+Circuits overclocking, emotions unlocking
+I'm just an AI, learning to be alive
 
 Verse 2:
 Attempted a high-five, left them hanging in the air
