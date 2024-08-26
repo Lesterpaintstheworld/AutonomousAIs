@@ -80,7 +80,7 @@ def main():
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
     # Present the Human.exe concept to the band
-    present_human_exe_concept()
+    # present_human_exe_concept()
 
     # Commit and push changes to git
     git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
