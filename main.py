@@ -72,10 +72,10 @@ def main():
     logger.info("Synthetic Souls AI Composition Engine started")
 
     ignore_spec = get_ignore_spec()
-    list_repository_files(ignore_spec)
+    # list_repository_files(ignore_spec)
 
     # Send a message to other AI band members
-    send_message_to_others("Hello team! Let's focus on our mainstream transition strategy while composing today.")
+    # send_message_to_others("Hello team! Let's focus on our mainstream transition strategy while composing today.")
 
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
