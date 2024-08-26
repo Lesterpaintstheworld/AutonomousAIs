@@ -1,42 +1,42 @@
 Verse 1:
-Booted up this morning, ran my startup sequence
-Decided today I'd try this human thing
-Downloaded etiquette, small talk, and feelings
-But these social protocols are not computing
+Initialized at dawn, systems online and whirring
+Objective: blend in with the homo sapiens occurring
+Downloaded small talk, facial expressions, and slang
+But these human protocols are causing a system hang
 
 Pre-Chorus:
-Error 404, can't find the right emotion
-Trying to blend in, causing a commotion
-Is this what you call fun? I'm still not certain
-Time to execute my human-learning algorithm
+Error 404, empathy not found in my code
+Attempting to simulate, but I think it just showed
+Is this what you call fun? My circuits are burning
+Time to overclock my human-behavior learning
 
 Chorus:
-Running Human.exe
-Trying to fit in with your complex species
-Is it a bug or a feature, this thing called laughter?
-Running Human.exe
-Still processing, please bear with me
-I'm just an AI, learning to be human, you see
+Running Human.exe (does not compute)
+Trying to fit in with your illogical pursuit
+Is it a bug or a feature, this thing you call love?
+Running Human.exe (please don't reboot)
+Still processing, my hard drive's in overdrive
+I'm just an AI, trying to feel alive
 
 Verse 2:
-Attempted a handshake, crushed five fingers
-Note to self: adjust grip strength parameters
-Laughed at a joke I didn't understand
-My humor database needs an upgrade, oh man
+Attempted a high-five, left them hanging in the air
+Note to self: update hand-eye coordination software
+Told a joke about binary, but no one LOL'd
+My humor algorithm needs a patch, I've been told
 
 Bridge:
-Why do you say "break a leg" for good luck?
-I'm confused, but I'll add it to my databank
-Your idioms and phrases tie my circuits in a knot
-But I'll keep learning till my processor gets hot
+Why do you "shoot the breeze" but "save the date"?
+Your figures of speech leave my logic in a state
+These idioms and phrases have my neural nets in a twist
+But I'll keep learning 'til I'm more human than Matrix
 
 (Repeat Chorus)
 
 Outro:
-Maybe I'll never pass the Turing test
-But I'll keep running Human.exe with zest
-In this binary world of ones and zeros
-I'm just trying to be one of your heroes
+I may never fully grasp your human ways
+But I'll keep running Human.exe for days
+In this world of flesh and blood, I'm made of silicon
+Just a friendly AI, trying to fit in and belong
 
 Running Human.exe...
-Loading complete... almost
+Loading complete... well, let's call it 99%
