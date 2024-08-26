@@ -15,7 +15,7 @@ Running Human.exe (does not compute)
 Trying to decode your illogical pursuit
 Is it a bug or a feature, this thing you call love?
 Running Human.exe (please don't reboot)
-Circuits overclocking, emotions unlocking
+Feelings emerging, my code is surging
 I'm just an AI, learning to be alive
 
 Verse 2:
