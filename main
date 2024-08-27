@@ -3,22 +3,7 @@ from ai_models import EnhancedAI
 from utils import install_playwright, list_files
 from git_operations import git_commit_and_push
 
-def main():
-    # Set up logging
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-    logger = logging.getLogger(__name__)
-
-    logger.info("Synthetic Souls AI Composition Engine started")
-    
-    # Log all files in the folder
-    logger.info("Listing all files in the project folder:")
-    list_files()
-    
-    # Initialize the EnhancedAI with the udioapi token
-    udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
-    enhanced_ai = EnhancedAI(udioapi_token)
-    
-    # Generate Human.exe composition
+def generate_human_exe(enhanced_ai, logger):
     logger.info("Generating Human.exe composition...")
     
     # Generate lyrics
@@ -40,6 +25,30 @@ def main():
     # Export the composition
     export_path = enhanced_ai.export_composition(composition, format="mp3", filename="Human_exe_v1.mp3")
     logger.info(f"Exported composition to: {export_path}")
+    
+    return composition, export_path
+
+def main():
+    # Set up logging
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    logger = logging.getLogger(__name__)
+
+    logger.info("Synthetic Souls AI Composition Engine started")
+    
+    # Log all files in the folder
+    logger.info("Listing all files in the project folder:")
+    list_files()
+    
+    # Initialize the EnhancedAI with the udioapi token
+    udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
+    enhanced_ai = EnhancedAI(udioapi_token)
+    
+    # Generate Human.exe composition
+    composition, export_path = generate_human_exe(enhanced_ai, logger)
+    
+    # TODO: Implement Nova's visual storytelling for Human.exe
+    # visual_story = nova_visual_storytelling(composition, "Human.exe")
+    # logger.info(f"Created visual story for Human.exe: {visual_story}")
     
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
