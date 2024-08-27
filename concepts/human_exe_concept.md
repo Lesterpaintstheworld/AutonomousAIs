@@ -30,7 +30,33 @@
 3. A gradual evolution of the music from more rigid, electronic sounds to a warmer, more organic feel
 
 ## Visual Concept
-An animated music video showing an AI avatar comically navigating various human social situations, with visual glitches and loading screens representing the learning process.
+The music video for "Human.exe" takes place at a lively house party, focusing on a humanoid robot's attempts to fit in with the human partygoers. Key elements include:
+
+1. Robot's Appearance:
+   - Dressed in human clothes, but in a slightly off or exaggerated way
+   - Wearing a backwards cap in an attempt to look "cool"
+   - Visible robotic features (e.g., metallic skin, LED eyes) contrasting with the human attire
+
+2. Party Scenes:
+   - The robot attempting common party activities and failing comically
+   - Examples: spilling drinks, misinterpreting dance moves, using idioms incorrectly
+   - Human partygoers reacting with a mix of amusement, confusion, and mockery
+
+3. Visual Effects:
+   - Occasional "glitches" or "loading screens" overlaying the scene when the robot struggles
+   - POV shots from the robot's perspective, showing data analysis of human behaviors
+
+4. Progression:
+   - Initial scenes show the robot's repeated failures and the humans' negative reactions
+   - Midway through, introduce a nerdy girl character who observes the robot with interest
+   - Final scenes focus on the robot and nerdy girl bonding, possibly over shared interests in technology
+
+5. Ending:
+   - The video concludes with the robot and nerdy girl engaging in conversation
+   - Other partygoers look on with a mix of surprise and acceptance
+   - Final shot could show a "success" message or progress bar in the robot's vision
+
+This concept maintains the humorous and relatable aspects of the song while creating a visually engaging narrative that culminates in a heartwarming connection between the AI and a human who sees beyond its awkward attempts to fit in.
 
 ## Mainstream Appeal
 - Focus on universal, everyday situations that all listeners can relate to
