@@ -6,16 +6,16 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
      Prompt: "Wide shot of a suburban house at night, colorful party lights visible through windows, lively atmosphere, cinematic style --ar 16:9 --v 5"
 
 2. Robot Activation:
-   - Shot 1: Close-up of a robot's face, eyes lighting up as it activates
-     Prompt: "Extreme close-up of a humanoid robot face, eyes lighting up as it activates, metallic skin with subtle reflections, dark background --ar 16:9 --v 5"
+   - Shot 1: Close-up of a quirky, non-threatening robot's face, LED eyes lighting up as it activates
+     Prompt: "Extreme close-up of a friendly humanoid robot face with large LED eyes lighting up, pastel-colored matte finish, slight reflection of bedroom setting, dark background --ar 16:9 --v 5"
    - Shot 2: Full body shot of the robot standing up and looking at itself in a mirror
-     Prompt: "Full body shot of a humanoid robot standing up and examining itself in a mirror, bedroom setting, mix of robotic and human elements in its appearance --ar 16:9 --v 5"
+     Prompt: "Full body shot of a quirky humanoid robot with rounded edges examining itself in a mirror, wearing oversized Hawaiian shirt, baggy jeans, mismatched socks, and a backward cap, bedroom setting --ar 16:9 --v 5"
 
 3. Party Entrance:
    - Shot 1: POV shot from the robot's perspective as it approaches the front door of the party house
-     Prompt: "POV shot approaching a house party, hand reaching out to doorknob, party sounds and lights visible, slight electronic overlay to suggest robot vision --ar 16:9 --v 5"
-   - Shot 2: Reaction shot of partygoers as the robot enters, a mix of curiosity and surprise
-     Prompt: "Wide shot of diverse partygoers reacting with surprise and curiosity as a robot enters the room, lively party setting, dynamic composition --ar 16:9 --v 5"
+     Prompt: "POV shot approaching a house party, robot hand with friendship bracelets reaching out to doorknob, party sounds and lights visible, slight electronic overlay to suggest robot vision --ar 16:9 --v 5"
+   - Shot 2: Reaction shot of partygoers as the robot enters, a mix of curiosity, surprise, and amusement
+     Prompt: "Wide shot of diverse partygoers reacting with surprise, curiosity, and amusement as a quirky robot in human clothes enters the room, lively party setting, dynamic composition --ar 16:9 --v 5"
 
 With these establishing shots, we set the scene for the robot's adventure at the house party. Now, we move on to the key elements of the video:
 
