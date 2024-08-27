@@ -55,3 +55,10 @@ Keywords:
 - Sounds & instruments: Fading instruments, return of computer sounds
 - Emotions: Satisfaction, readiness for next task
 - Particularities: End with a computer "shutdown" sound
+
+## Ending
+Keywords:
+- Music style: Blend of electronic and organic sounds
+- Sounds & instruments: Soft synth pads, gentle piano, subtle electronic beeps
+- Emotions: Contentment, curiosity, slight uncertainty
+- Particularities: Gradual fade-out with a final "system status" sound
