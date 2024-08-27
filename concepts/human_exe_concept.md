@@ -38,27 +38,86 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
    - Visible robotic features (e.g., metallic skin, LED eyes) contrasting with the human attire
 
 2. Party Scenes:
-   - The robot attempting common party activities and failing comically:
-     * Failed high-five: Robot misses the hand, hitting the person's face instead
-     * Telling a joke: Robot delivers a binary joke, met with confused silence
-     * Spilling drinks: Robot's attempt to carry drinks results in a comical spill
-     * Misinterpreting dance moves: Robot's jerky, overly literal interpretations of dance instructions
-   - Successful party activities:
-     * People laughing and enjoying themselves in the background
-     * Couples dancing smoothly, contrasting with the robot's awkward movements
-   - Human partygoers reacting with a mix of amusement, confusion, and mockery
+   a. Failed high-five:
+      - Shot 1: Close-up of the robot's hand, aiming for a high-five
+      - Shot 2: Slow-motion shot of the robot's hand missing and hitting a person's face
+      - Shot 3: Reaction shot of the stunned person and surrounding partygoers
+
+   b. Telling a joke:
+      - Shot 1: Medium shot of the robot standing in front of a small group
+      - Shot 2: Close-up of the robot's face, LED mouth moving as it delivers the joke
+      - Shot 3: Wide shot of confused faces and awkward silence
+      - Shot 4: Close-up of a tumbleweed rolling by (for comedic effect)
+
+   c. Spilling drinks:
+      - Shot 1: Tracking shot of the robot carefully carrying a tray of drinks
+      - Shot 2: Slow-motion shot of the robot tripping and drinks flying
+      - Shot 3: Multiple reaction shots of partygoers getting splashed
+      - Shot 4: Close-up of the robot's apologetic face
+
+   d. Misinterpreting dance moves:
+      - Shot 1: Wide shot of people dancing smoothly on the dance floor
+      - Shot 2: Medium shot of the robot observing and processing the dance moves
+      - Shot 3: Series of quick cuts showing the robot's jerky, exaggerated interpretations of each dance move
+      - Shot 4: Reaction shots of amused and bewildered dancers
+
+   e. Successful party activities (contrast):
+      - Shot 1: Montage of people laughing and enjoying themselves
+      - Shot 2: Tracking shot of couples dancing gracefully
+      - Shot 3: Close-ups of genuine human interactions and emotions
+
+   f. Human reactions:
+      - Series of reaction shots showing a mix of emotions:
+        - Close-up of someone laughing hysterically
+        - Medium shot of a group whispering and pointing at the robot
+        - Close-up of a confused face
+        - Wide shot of people giving the robot a wide berth on the dance floor
 
 3. Visual Effects:
-   - Occasional "glitches" or "loading screens" overlaying the scene when the robot struggles
-   - POV shots from the robot's perspective, showing data analysis of human behaviors
-   - Quick cuts between the robot's failures and successes of human partygoers
+   a. Glitches and loading screens:
+      - Occasional overlay of digital glitches on the entire frame
+      - "Loading" progress bars appearing above the robot's head during challenging tasks
+      - Momentary pixelation or color distortion of the robot when it makes mistakes
+
+   b. Robot POV shots:
+      - First-person perspective shots with HUD-like overlays
+      - Data analysis pop-ups identifying objects and people
+      - Scrolling text of the robot's "thoughts" and calculations
+      - Targeting reticles attempting to lock onto the correct high-five hand or dance move
+
+   c. Contrast cuts:
+      - Split-screen shots showing the robot's failures alongside human successes
+      - Quick cuts between the robot's jerky movements and smooth human actions
+      - Slow-motion to normal speed transitions highlighting the robot's miscalculations
 
 4. Progression:
-   - Initial scenes show the robot's repeated failures and the humans' negative reactions
-   - Montage of the robot observing and attempting to mimic human behaviors
-   - Midway through, introduce a nerdy girl character who observes the robot with interest
-   - Scenes of the robot and nerdy girl bonding over shared interests in technology
-   - Final scenes focus on the robot beginning to integrate more successfully into the party
+   a. Initial failures:
+      - Montage of the robot's early attempts and failures
+      - Series of increasingly exasperated reaction shots from partygoers
+
+   b. Observation and mimicry:
+      - Shots of the robot in "stealth mode," observing human behaviors
+      - Close-ups of the robot's eyes zooming and processing information
+      - Split-screen shots of humans performing actions and the robot attempting to copy
+
+   c. Introduction of the nerdy girl:
+      - Reveal shot of the nerdy girl noticing the robot from across the room
+      - Close-up of her intrigued expression
+      - Series of shots showing her observing the robot's attempts to fit in
+
+   d. Bonding scenes:
+      - Shot of the nerdy girl approaching the robot
+      - Close-up two-shot of them engaging in conversation
+      - Montage of them sharing interests: 
+        - Looking at circuit boards together
+        - Laughing at math jokes
+        - Attempting a synchronized robot dance
+
+   e. Integration success:
+      - Wide shot of the robot more smoothly integrating into a group conversation
+      - Close-up of the robot successfully executing a simple dance move
+      - Reaction shots of partygoers showing increasing acceptance
+      - Final wide shot of the robot and nerdy girl surrounded by a group of interested partygoers
 
 5. Ending:
    - The video concludes with the robot and nerdy girl engaging in conversation
