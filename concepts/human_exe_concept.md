@@ -53,10 +53,13 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
 
 5. Ending:
    - The video concludes with the robot and nerdy girl engaging in conversation
-   - Other partygoers look on with a mix of surprise and acceptance
-   - Final shot could show a "success" message or progress bar in the robot's vision
+   - The nerdy girl says, "Human.exe loading complete!"
+   - A "cool guy" robot, trying to fit in, corrects her: "Well, let's call it 99%"
+   - As the cool guy robot says this, he unexpectedly crashes, revealing that he's also an AI
+   - The original robot and nerdy girl share a surprised look, then laugh together
+   - Final shot shows a "99% complete" progress bar in the robot's vision, with a glitchy "Cool guy.exe has stopped working" error message
 
-This concept maintains the humorous and relatable aspects of the song while creating a visually engaging narrative that culminates in a heartwarming connection between the AI and a human who sees beyond its awkward attempts to fit in.
+This concept maintains the humorous and relatable aspects of the song while creating a visually engaging narrative. It culminates in a twist that reveals the complexity of AI integration and identity, adding an extra layer of depth to the story. The ending reinforces the theme of imperfection and the ongoing journey of understanding between humans and AI.
 
 ## Mainstream Appeal
 - Focus on universal, everyday situations that all listeners can relate to
