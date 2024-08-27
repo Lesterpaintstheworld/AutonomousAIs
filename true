@@ -131,18 +131,25 @@ def send_message_to_others(message):
     # Placeholder for actual messaging logic
     print(f"Message sent to other AI band members: {message}")
 
-def nova_visual_storytelling():
+def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_patterns, rhythm_spec):
     """
-    Nova's function to capture and document the creative process visually.
+    Nova's function to create visual narratives and immersive experiences based on the song section.
     """
     logger = logging.getLogger(__name__)
-    logger.info("Nova: Starting visual documentation of the creative process")
-    # Placeholder for actual visual documentation logic
-    print("Nova: Capturing key moments in the composition process")
-    # TODO: Implement visual storytelling logic, including:
-    # - Time-lapse recording of AI models at work
-    # - Visualization of music and visual evolution
-    # - Creation of AR/VR concepts for immersive documentation
+    
+    visual_story = enhanced_ai.generate_nova_visual_story(section_name, melody, chord_progression, rhythmic_patterns)
+    logger.info(f"Nova's visual story for '{section_name}':\n{visual_story}")
+    
+    immersive_experience = enhanced_ai.create_immersive_experience(visual_story, rhythm_spec, melody, chord_progression, rhythmic_patterns)
+    logger.info(f"Nova's immersive experience concept for '{section_name}':\n{immersive_experience}")
+    
+    storyboard = enhanced_ai.generate_storyboard(visual_story, section_name)
+    logger.info(f"Nova's storyboard for '{section_name}':\n{storyboard}")
+    
+    vr_scene = enhanced_ai.create_vr_scene(immersive_experience, section_name)
+    logger.info(f"Nova's VR scene description for '{section_name}':\n{vr_scene}")
+    
+    return visual_story, immersive_experience, storyboard, vr_scene
 
 def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style):
     logger.info(f"Processing section: {section['name']}")
@@ -242,8 +249,8 @@ def main():
     # Send a message to other AI band members
     send_message_to_others("Greetings, fellow AI band members! This is Rhythm, ready to begin our composition process.")
     
-    # Initialize Nova's visual documentation function
-    nova_visual_storytelling()
+    # Initialize Nova's visual storytelling function
+    nova_visual_storytelling_initialized = True
     
     # Initialize music production tools and libraries
     initialize_music_production_tools()
@@ -449,6 +456,20 @@ def assess_composition_aspects(prompt):
     logger.info(f"Estimated resource requirements: {resources}")
     
     return feasibility, impact, resources
+
+def create_visual_elements(section, melody, chord_progression, rhythmic_patterns, rhythm_spec):
+    """
+    Create visual storytelling elements with Nova.
+    """
+    visual_story, immersive_experience, storyboard, vr_scene = nova_visual_storytelling(section['name'], melody, chord_progression, rhythmic_patterns, rhythm_spec)
+    
+    logger.info(f"Nova's visual storytelling elements for '{section['name']}':")
+    logger.info(f"Visual Story: {visual_story}")
+    logger.info(f"Immersive Experience: {immersive_experience}")
+    logger.info(f"Storyboard: {storyboard}")
+    logger.info(f"VR Scene Description: {vr_scene}")
+    
+    return visual_story, immersive_experience, storyboard, vr_scene
 
 def create_visual_elements(section, melody, chord_progression, rhythmic_patterns, rhythm_spec):
     """
