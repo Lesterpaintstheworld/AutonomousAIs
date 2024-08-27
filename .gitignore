@@ -1,0 +1,12 @@
+.aider*
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+.env.*
+!.env.example
+aider*
+venv*
+.git*
+.aider.tags.cache.v3*
