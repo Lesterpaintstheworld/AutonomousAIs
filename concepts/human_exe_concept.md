@@ -46,7 +46,7 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
       - Shot 3: Reaction shot of the stunned person and surrounding partygoers
         Prompt: "Wide shot of stunned partygoers reacting to a robot's failed high-five, mix of shock and amusement on faces, lively party atmosphere, dynamic composition --ar 16:9 --v 5"
       
-      Overall scene prompt: "Humanoid robot at a party attempting a high-five, comically missing and hitting someone's face, stunned onlookers, vibrant party atmosphere, photorealistic style --ar 16:9 --v 5"
+      Overall scene prompt: "Humanoid robot at a party attempting a high-five, comically missing and hitting someone's face, stunned onlookers, vibrant party atmosphere, photorealistic style, single image --ar 16:9 --v 5"
 
    b. Telling a joke:
       - Shot 1: Medium shot of the robot standing in front of a small group
@@ -58,7 +58,7 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
       - Shot 4: Close-up of a tumbleweed rolling by (for comedic effect)
         Prompt: "Close-up of a cartoonish tumbleweed rolling across a party floor, contrasting with the realistic party setting, subtle motion blur, comedic timing --ar 16:9 --v 5"
       
-      Overall scene prompt: "Humanoid robot with LED mouth telling a joke at a party, confused human listeners, awkward silence, tumbleweed rolling by, cinematic lighting, comic timing --ar 16:9 --v 5"
+      Overall scene prompt: "Humanoid robot with LED mouth telling a joke at a party, confused human listeners, awkward silence, tumbleweed rolling by, cinematic lighting, comic timing, single image --ar 16:9 --v 5"
 
    c. Spilling drinks:
       - Shot 1: Tracking shot of the robot carefully carrying a tray of drinks
@@ -70,7 +70,7 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
       - Shot 4: Close-up of the robot's apologetic face
         Prompt: "Extreme close-up of a robot's face showing an apologetic expression, subtle mechanical movements conveying emotion, reflections of the chaos in its metallic features --ar 16:9 --v 5"
       
-      Overall scene prompt: "Robot waiter at a party tripping and spilling colorful drinks in slow motion, shocked partygoers getting splashed, flying liquid droplets, chaotic party scene, high-speed photography style --ar 16:9 --v 5"
+      Overall scene prompt: "Robot waiter at a party tripping and spilling colorful drinks, shocked partygoers getting splashed, flying liquid droplets, chaotic party scene, high-speed photography style, single image --ar 16:9 --v 5"
 
    d. Misinterpreting dance moves:
       - Shot 1: Wide shot of people dancing smoothly on the dance floor
@@ -82,7 +82,7 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
       - Shot 4: Reaction shots of amused and bewildered dancers
         Prompt: "Collage of human dancers reacting to the robot's dance attempts, mix of amusement, confusion, and fascination, lively party backdrop, expressive faces and body language --ar 16:9 --v 5"
       
-      Overall scene prompt: "Robot on a crowded dance floor attempting to mimic human dance moves, exaggerated and jerky robot movements, amused human dancers, colorful party lights, dynamic composition --ar 16:9 --v 5"
+      Overall scene prompt: "Robot on a crowded dance floor attempting to mimic human dance moves, exaggerated and jerky robot movements, amused human dancers, colorful party lights, dynamic composition, single image --ar 16:9 --v 5"
 
    e. Successful party activities (contrast):
       - Shot 1: Montage of people laughing and enjoying themselves
@@ -92,7 +92,7 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
       - Shot 3: Close-ups of genuine human interactions and emotions
         Prompt: "Series of intimate close-ups capturing genuine human emotions at a party: shared laughter, loving gazes, friendly embraces, subtle expressions of joy and connection --ar 16:9 --v 5"
       
-      Overall scene prompt: "Lively party scene with people laughing and dancing, genuine human interactions, warm lighting, emotional expressions, cinematic composition, contrast with previous robot scenes --ar 16:9 --v 5"
+      Overall scene prompt: "Lively party scene with people laughing and dancing, genuine human interactions, warm lighting, emotional expressions, cinematic composition, contrast with previous robot scenes, single image --ar 16:9 --v 5"
 
    f. Human reactions:
       - Series of reaction shots showing a mix of emotions:
@@ -105,7 +105,7 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
         - Wide shot of people giving the robot a wide berth on the dance floor
           Prompt: "Wide shot of a crowded dance floor with a clear space around a robot, dancers giving it a wide berth, mix of caution and fascination on faces, dynamic party lighting --ar 16:9 --v 5"
       
-      Overall scene prompt: "Collage of human reactions at a party, hysterical laughter, whispered conversations, confused expressions, people avoiding a robot on a dance floor, diverse emotions, cinematic lighting --ar 16:9 --v 5"
+      Overall scene prompt: "Collage of human reactions at a party, hysterical laughter, whispered conversations, confused expressions, people avoiding a robot on a dance floor, diverse emotions, cinematic lighting, single image --ar 16:9 --v 5"
 
 3. Visual Effects:
    a. Glitches and loading screens:
