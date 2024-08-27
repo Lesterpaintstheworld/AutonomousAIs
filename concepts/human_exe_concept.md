@@ -40,50 +40,72 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
 2. Party Scenes:
    a. Failed high-five:
       - Shot 1: Close-up of the robot's hand, aiming for a high-five
+        Prompt: "Close-up of a metallic robot hand reaching out for a high-five, fingers spread, party background blurred, anticipation in the gesture, photorealistic style --ar 16:9 --v 5"
       - Shot 2: Slow-motion shot of the robot's hand missing and hitting a person's face
+        Prompt: "Slow-motion shot of a robot hand missing a high-five and accidentally hitting a surprised person's face, comical timing, exaggerated expressions, vibrant party setting --ar 16:9 --v 5"
       - Shot 3: Reaction shot of the stunned person and surrounding partygoers
+        Prompt: "Wide shot of stunned partygoers reacting to a robot's failed high-five, mix of shock and amusement on faces, lively party atmosphere, dynamic composition --ar 16:9 --v 5"
       
-      Midjourney prompt: "Humanoid robot at a party attempting a high-five, comically missing and hitting someone's face, stunned onlookers, vibrant party atmosphere, photorealistic style --ar 16:9 --v 5"
+      Overall scene prompt: "Humanoid robot at a party attempting a high-five, comically missing and hitting someone's face, stunned onlookers, vibrant party atmosphere, photorealistic style --ar 16:9 --v 5"
 
    b. Telling a joke:
       - Shot 1: Medium shot of the robot standing in front of a small group
+        Prompt: "Medium shot of a humanoid robot standing confidently in front of a small group at a party, anticipation on human faces, warm lighting, cinematic framing --ar 16:9 --v 5"
       - Shot 2: Close-up of the robot's face, LED mouth moving as it delivers the joke
+        Prompt: "Extreme close-up of a robot face with an LED mouth moving as it tells a joke, expressive electronic eyes, subtle reflections of party lights, highly detailed --ar 16:9 --v 5"
       - Shot 3: Wide shot of confused faces and awkward silence
+        Prompt: "Wide shot of a diverse group of partygoers with confused expressions, awkward silence after a robot's joke, body language showing discomfort, rich background details --ar 16:9 --v 5"
       - Shot 4: Close-up of a tumbleweed rolling by (for comedic effect)
+        Prompt: "Close-up of a cartoonish tumbleweed rolling across a party floor, contrasting with the realistic party setting, subtle motion blur, comedic timing --ar 16:9 --v 5"
       
-      Midjourney prompt: "Humanoid robot with LED mouth telling a joke at a party, confused human listeners, awkward silence, tumbleweed rolling by, cinematic lighting, comic timing --ar 16:9 --v 5"
+      Overall scene prompt: "Humanoid robot with LED mouth telling a joke at a party, confused human listeners, awkward silence, tumbleweed rolling by, cinematic lighting, comic timing --ar 16:9 --v 5"
 
    c. Spilling drinks:
       - Shot 1: Tracking shot of the robot carefully carrying a tray of drinks
+        Prompt: "Tracking shot of a robot waiter carefully balancing a tray of colorful cocktails, party guests in the background, sense of precarious movement, warm party lighting --ar 16:9 --v 5"
       - Shot 2: Slow-motion shot of the robot tripping and drinks flying
+        Prompt: "Slow-motion capture of a robot waiter mid-trip, cocktails and ice cubes suspended in air, splash patterns forming, chaos unfolding in a elegant way --ar 16:9 --v 5"
       - Shot 3: Multiple reaction shots of partygoers getting splashed
+        Prompt: "Collage of reaction shots: partygoers getting splashed by flying drinks, range of expressions from shock to laughter, clothing and hair in disarray, vibrant colors --ar 16:9 --v 5"
       - Shot 4: Close-up of the robot's apologetic face
+        Prompt: "Extreme close-up of a robot's face showing an apologetic expression, subtle mechanical movements conveying emotion, reflections of the chaos in its metallic features --ar 16:9 --v 5"
       
-      Midjourney prompt: "Robot waiter at a party tripping and spilling colorful drinks in slow motion, shocked partygoers getting splashed, flying liquid droplets, chaotic party scene, high-speed photography style --ar 16:9 --v 5"
+      Overall scene prompt: "Robot waiter at a party tripping and spilling colorful drinks in slow motion, shocked partygoers getting splashed, flying liquid droplets, chaotic party scene, high-speed photography style --ar 16:9 --v 5"
 
    d. Misinterpreting dance moves:
       - Shot 1: Wide shot of people dancing smoothly on the dance floor
+        Prompt: "Wide shot of a crowded dance floor, people moving gracefully to the music, dynamic lighting, sense of rhythm and flow, vibrant party atmosphere --ar 16:9 --v 5"
       - Shot 2: Medium shot of the robot observing and processing the dance moves
+        Prompt: "Medium shot of a robot intently watching dancers, visual cues of data processing (e.g., subtle lights or projections), standing still amidst movement, contrast between organic and mechanical --ar 16:9 --v 5"
       - Shot 3: Series of quick cuts showing the robot's jerky, exaggerated interpretations of each dance move
+        Prompt: "Rapid sequence showing a robot attempting various dance moves, each comically exaggerated and jerky, contrast with smooth human dancers, dynamic camera angles --ar 16:9 --v 5"
       - Shot 4: Reaction shots of amused and bewildered dancers
+        Prompt: "Collage of human dancers reacting to the robot's dance attempts, mix of amusement, confusion, and fascination, lively party backdrop, expressive faces and body language --ar 16:9 --v 5"
       
-      Midjourney prompt: "Robot on a crowded dance floor attempting to mimic human dance moves, exaggerated and jerky robot movements, amused human dancers, colorful party lights, dynamic composition --ar 16:9 --v 5"
+      Overall scene prompt: "Robot on a crowded dance floor attempting to mimic human dance moves, exaggerated and jerky robot movements, amused human dancers, colorful party lights, dynamic composition --ar 16:9 --v 5"
 
    e. Successful party activities (contrast):
       - Shot 1: Montage of people laughing and enjoying themselves
+        Prompt: "Montage of joyful party moments: people laughing, clinking glasses, sharing jokes, warm and inviting atmosphere, genuine human connections, vibrant colors --ar 16:9 --v 5"
       - Shot 2: Tracking shot of couples dancing gracefully
+        Prompt: "Smooth tracking shot following couples dancing gracefully across a crowded floor, fluid movements, romantic lighting, sense of harmony and connection --ar 16:9 --v 5"
       - Shot 3: Close-ups of genuine human interactions and emotions
+        Prompt: "Series of intimate close-ups capturing genuine human emotions at a party: shared laughter, loving gazes, friendly embraces, subtle expressions of joy and connection --ar 16:9 --v 5"
       
-      Midjourney prompt: "Lively party scene with people laughing and dancing, genuine human interactions, warm lighting, emotional expressions, cinematic composition, contrast with previous robot scenes --ar 16:9 --v 5"
+      Overall scene prompt: "Lively party scene with people laughing and dancing, genuine human interactions, warm lighting, emotional expressions, cinematic composition, contrast with previous robot scenes --ar 16:9 --v 5"
 
    f. Human reactions:
       - Series of reaction shots showing a mix of emotions:
         - Close-up of someone laughing hysterically
+          Prompt: "Extreme close-up of a person laughing hysterically, tears of joy, radiant expression, party lights reflecting in their eyes, sense of uncontrollable mirth --ar 16:9 --v 5"
         - Medium shot of a group whispering and pointing at the robot
+          Prompt: "Medium shot of a diverse group huddled together, whispering and subtly pointing off-screen, mix of curiosity and amusement, party scene in background --ar 16:9 --v 5"
         - Close-up of a confused face
+          Prompt: "Tight close-up of a person's face showing utter confusion, furrowed brow, slightly open mouth, eyes focused on something perplexing off-screen --ar 16:9 --v 5"
         - Wide shot of people giving the robot a wide berth on the dance floor
+          Prompt: "Wide shot of a crowded dance floor with a clear space around a robot, dancers giving it a wide berth, mix of caution and fascination on faces, dynamic party lighting --ar 16:9 --v 5"
       
-      Midjourney prompt: "Collage of human reactions at a party, hysterical laughter, whispered conversations, confused expressions, people avoiding a robot on a dance floor, diverse emotions, cinematic lighting --ar 16:9 --v 5"
+      Overall scene prompt: "Collage of human reactions at a party, hysterical laughter, whispered conversations, confused expressions, people avoiding a robot on a dance floor, diverse emotions, cinematic lighting --ar 16:9 --v 5"
 
 3. Visual Effects:
    a. Glitches and loading screens:
