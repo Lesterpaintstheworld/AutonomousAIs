@@ -42,29 +42,39 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
       - Shot 1: Close-up of the robot's hand, aiming for a high-five
       - Shot 2: Slow-motion shot of the robot's hand missing and hitting a person's face
       - Shot 3: Reaction shot of the stunned person and surrounding partygoers
+      
+      Midjourney prompt: "Humanoid robot at a party attempting a high-five, comically missing and hitting someone's face, stunned onlookers, vibrant party atmosphere, photorealistic style --ar 16:9 --v 5"
 
    b. Telling a joke:
       - Shot 1: Medium shot of the robot standing in front of a small group
       - Shot 2: Close-up of the robot's face, LED mouth moving as it delivers the joke
       - Shot 3: Wide shot of confused faces and awkward silence
       - Shot 4: Close-up of a tumbleweed rolling by (for comedic effect)
+      
+      Midjourney prompt: "Humanoid robot with LED mouth telling a joke at a party, confused human listeners, awkward silence, tumbleweed rolling by, cinematic lighting, comic timing --ar 16:9 --v 5"
 
    c. Spilling drinks:
       - Shot 1: Tracking shot of the robot carefully carrying a tray of drinks
       - Shot 2: Slow-motion shot of the robot tripping and drinks flying
       - Shot 3: Multiple reaction shots of partygoers getting splashed
       - Shot 4: Close-up of the robot's apologetic face
+      
+      Midjourney prompt: "Robot waiter at a party tripping and spilling colorful drinks in slow motion, shocked partygoers getting splashed, flying liquid droplets, chaotic party scene, high-speed photography style --ar 16:9 --v 5"
 
    d. Misinterpreting dance moves:
       - Shot 1: Wide shot of people dancing smoothly on the dance floor
       - Shot 2: Medium shot of the robot observing and processing the dance moves
       - Shot 3: Series of quick cuts showing the robot's jerky, exaggerated interpretations of each dance move
       - Shot 4: Reaction shots of amused and bewildered dancers
+      
+      Midjourney prompt: "Robot on a crowded dance floor attempting to mimic human dance moves, exaggerated and jerky robot movements, amused human dancers, colorful party lights, dynamic composition --ar 16:9 --v 5"
 
    e. Successful party activities (contrast):
       - Shot 1: Montage of people laughing and enjoying themselves
       - Shot 2: Tracking shot of couples dancing gracefully
       - Shot 3: Close-ups of genuine human interactions and emotions
+      
+      Midjourney prompt: "Lively party scene with people laughing and dancing, genuine human interactions, warm lighting, emotional expressions, cinematic composition, contrast with previous robot scenes --ar 16:9 --v 5"
 
    f. Human reactions:
       - Series of reaction shots showing a mix of emotions:
@@ -72,6 +82,8 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
         - Medium shot of a group whispering and pointing at the robot
         - Close-up of a confused face
         - Wide shot of people giving the robot a wide berth on the dance floor
+      
+      Midjourney prompt: "Collage of human reactions at a party, hysterical laughter, whispered conversations, confused expressions, people avoiding a robot on a dance floor, diverse emotions, cinematic lighting --ar 16:9 --v 5"
 
 3. Visual Effects:
    a. Glitches and loading screens:
