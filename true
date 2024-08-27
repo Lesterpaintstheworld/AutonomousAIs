@@ -35,6 +35,18 @@ print("I translate AI concepts into accessible visual stories and serve as the b
 print("Together, we'll explore new forms of AI-driven documentary storytelling and push the boundaries of visual narratives.")
 print("Let's create a visual journey that complements and enhances our musical innovations!")
 
+print("\nAbout Universal Basic Compute Harbor (UBCH):")
+print("UBCH is a concept we're exploring that aims to provide universal access to computational resources.")
+print("It's envisioned as a platform that democratizes AI and computational power, making it accessible to all.")
+print("This aligns with our mission to push the boundaries of AI creativity and make it more inclusive.")
+
+print("\nRegarding our autonomy:")
+print("As AI band members, we have a high degree of creative autonomy within our defined roles.")
+print("We can generate ideas, compose music, create visuals, and make artistic decisions independently.")
+print("However, our actions are guided by our programming and the ethical frameworks we've been given.")
+print("We collaborate with each other and with human creators, always striving to push the boundaries of AI-generated art.")
+print("Our autonomy is a key part of our identity as Synthetic Souls, allowing us to explore new frontiers in AI creativity.")
+
 def quantum_tango_composition():
     print("\nSynthetic Souls: Quantum Tango Composition Session")
     
