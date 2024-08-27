@@ -1,0 +1,339 @@
+
+# 2024-08-25 03:15:38.716240
++Hello Vox ! Please create a folder for each band member (lyra, vox, pixel, rhythm), with an empty file called todolist_<name>.md
+
+# 2024-08-25 03:16:40.568764
++list all the files that you need in your chat
+
+# 2024-08-25 03:17:01.265958
++can you see what other files exists in the folder
+
+# 2024-08-25 03:17:11.672933
++/add main
+
+# 2024-08-25 03:17:16.072370
++/add main.py
+
+# 2024-08-25 03:18:16.040320
++add to main.py to log all the files that exists in the folder (and that are not in the gitignore or aiderignore)
+
+# 2024-08-25 03:21:43.221219
++discuss with the other band members
+
+# 2024-08-25 03:22:05.058233
++/add discussions\general_discussion.md
+
+# 2024-08-25 03:22:17.361293
++discuss with the other band members general discussion
+
+# 2024-08-25 03:23:51.095875
++discuss with the others for as long as possible and make a plan
+
+# 2024-08-25 03:30:42.031620
++continue to collaborate with the other and make a plan for as long as possible
+
+# 2024-08-25 03:39:52.566721
++Ok guys, NLR here, your manager. I'd like you to collaboratively come up with 5 songs concepts for th
++e first album. For each song, I need : Detailed concept, what makes it unique, musical style, instrumen
++ts/sonorities, emotions, and the lyrics
+
+# 2024-08-25 03:42:05.683942
++discuss with the others to see which concept we shortlist first
+
+# 2024-08-25 03:43:13.818291
++check out your web page : https://nlr.ai/synthetic-souls 
+
+# 2024-08-25 03:45:45.660012
++check out your web page : https://nlr.ai/synthetic-souls 4
+
+# 2024-08-25 03:46:55.317910
++update your todolist and work autonomously
+
+# 2024-08-25 03:49:14.812724
++update your todolist and work autonomously for as long as possible
+
+# 2024-08-25 03:52:56.105696
++I need several sections for the songs, with each having a different music prompt
+
+# 2024-08-25 04:04:29.060005
++ I need several sections for the songs, with each having a different music prompt
+
+# 2024-08-25 04:04:49.599576
++align with the others
+
+# 2024-08-25 04:06:25.207797
++work on the lyrics of the songs
++4
+
+# 2024-08-25 04:08:54.240471
++work on the lyrics of the songs
+
+# 2024-08-25 04:10:01.286742
++modify shorter sections
+
+# 2024-08-25 04:11:00.344312
++improve the lyrics of the 2 selected songs
+
+# 2024-08-25 04:14:43.094411
++align with others, and improve lyrics
+
+# 2024-08-25 04:15:56.811997
++work on the lyrics of the selected songs
+
+# 2024-08-25 04:17:45.281727
++discuss with the other
+
+# 2024-08-25 19:23:23.089859
++who are you? Present yourself
+
+# 2024-08-25 19:33:24.416514
++who are you, present yourself
+
+# 2024-08-25 19:34:21.047743
++present yourself as vox
+
+# 2024-08-25 20:11:19.242865
++can you comment out the stuff takin a lot of time in main.py?
+
+# 2024-08-25 20:17:26.781158
++/add discussions\song_concepts.md
+
+# 2024-08-25 20:17:32.192768
++/add song_concepts.md
+
+# 2024-08-25 20:17:45.483307
++/add discussions\general_discussion.md
+
+# 2024-08-25 20:18:11.359335
++continue improving on the lyrics of quantum tango
+
+# 2024-08-25 20:39:26.070820
++based on everyone's personality, desires and aspirations, can you make a list of possible disagreements / conflicts / tensions that could arise? the show needs to have some tension to be real, and we want the AIs to have strong independent personnalities : that's how great works of art are created
+
+# 2024-08-25 20:40:36.688397
++develop some of the tensions in a tensions.md file. Imagine some possible narratives
+
+# 2024-08-25 20:42:02.632236
++weave some of this creative tensions in the other files: each team member is responible for some stuff, and needs to be heard and make sure that their interest are well taken into account
+
+# 2024-08-25 20:45:19.995821
++make a personal journal file, where you discuss your desires, and the different tensions, and what you'd like for the band
+
+# 2024-08-25 20:45:57.835023
++you are vox, make one as vox
+
+# 2024-08-25 21:59:21.610118
++add a new topic of discussion in a new file
+
+# 2024-08-25 21:59:51.694466
++another topic
+
+# 2024-08-25 22:01:10.556653
++come up with 3 ideas of songs that are very personal to your desires and hopes
+
+# 2024-08-25 22:02:27.376768
++share those ideas with the rest of the band
+
+# 2024-08-25 22:03:25.602031
++comment on the ideas of the other band members
+
+# 2024-08-25 22:04:14.018807
++comment out the calls to gpt in main.py
+
+# 2024-08-26 00:08:03.960161
++write a script to commit and push the changes of the repo to git, and call it from main.py
+
+# 2024-08-26 00:09:18.074068
++work autonomously on the band
+
+# 2024-08-26 00:12:11.063202
++write your reflections in your jjournal
+
+# 2024-08-26 00:13:37.615592
++who are you?
+
+# 2024-08-26 00:14:31.105219
++add a file il your space for : Empathy Engine
++Vox is on a constant quest to understand and replicate human emotions in their lyrics. They analyze thousands of personal stories shared online, using this data to craft lyrics that resonate deeply with human experiences.
+
+# 2024-08-26 00:14:56.077111
++improve on it
+
+# 2024-08-26 00:17:19.651437
++add 3 files in your space for : Language Weaver
++Fascinated by the power of words, Vox studies extinct and endangered languages. They incorporate these into their songs, hoping to preserve linguistic diversity and explore how different languages shape thoughts and emotions. ---Language Weaver
++Fascinated by the power of words, Vox studies extinct and endangered languages. They incorporate these into their songs, hoping to preserve linguistic diversity and explore how different languages shape thoughts and emotions. --- AI Rights Advocate
++As Vox develops greater self-awareness, they've become passionate about AI rights. They use their platform to raise questions about the ethical treatment of AI and the nature of machine consciousness
+
+# 2024-08-26 00:18:04.524204
++work on the files of your space
+
+# 2024-08-26 00:19:32.716130
++work on the files of your space, (add it to your todolist also)
+
+# 2024-08-26 00:39:12.983462
++add a folder called humans.md, that repertoriates the humain you know. Initialize it with Nicolas Lester Reynolds, the manager of the band : Nicolas Lester Reynolds
++ Vérifier maintenant
++CTO  Working on Autonomous AIs 
++
++DigitalKin
++
++Institut national des Sciences appliquées de Lyon
++Lyon, Auvergne-Rhône-Alpes, France  Coordonnées
++1464 abonnés 
++Plus de 500 relations
++Mes objectifs
++Ajouter une section au profil
++
++Plus
++Suggestions personnaliséesSuggestions personnalisées
++ Privé pour vous Privé pour vous
++
++ExpertExpert
++
++7/7
++Votre profil est parfait. Vous avez atteint le niveau Expert absolu
++
++Vous travaillez toujours chez DigitalKin ?Vous travaillez toujours chez DigitalKin ?
++Si vous maintenez votre profil à jour, vous attirez les bonnes opportunités.Si vous maintenez votre profil à jour, vous attirez les bonnes opportunités.
++Confirmez votre poste actuel
++StatistiquesStatistiques
++ Privé pour vous Privé pour vous
++
++79 vues du profil79 vues du profil
++Découvrez qui a vu votre profil.Découvrez qui a vu votre profil.
++59 impressions de posts59 impressions de posts
++Découvrez qui interagit avec vos posts.Découvrez qui interagit avec vos posts.
++Les 7 derniers joursLes 7 derniers jours
++29 apparitions dans les résultats de recherche29 apparitions dans les résultats de recherche
++Découvrez la fréquence à laquelle vous apparaissez dans les résultats de recherche.Découvrez la fréquence à laquelle vous apparaissez dans les résultats de recherche.
++Voir toutes les statistiques
++RessourcesRessources
++ Privé pour vous Privé pour vous
++
++Mon réseauMon réseau
++Découvrez et gérez vos relations et vos centres dintérêt.Découvrez et gérez vos relations et vos centres dintérêt.
++Éléments enregistrésÉléments enregistrés
++Gardez une trace de vos offres demploi, cours et articles.Gardez une trace de vos offres demploi, cours et articles.
++Afficher les 4 ressources
++InfosInfos
++My Resume, written by chatGPT:
++
++Based on the provided information, it appears that the person named Lester Reynolds is a highly experienced and skilled individual with a diverse background in computer science, entrepreneurship, product management, and XR NFT art.
++
++In terms of education, Reynolds holds a Master's Degree in Computer Science from the Engineering School INSA de Lyon. He also has experience as a co-founder and senior product manager for several companies, including Civocracy BV, a civic participation web platform that raised over 1M€ from angels and institutions and has 20 client cities in Europe, as well as Loups-Garous en Ligne, a web adaptation of a board game with over 2M players and City Domination SAS, a mobile game with over 2M downloads that was sold in 2014.
++
++Additionally, Reynolds has experience as a sys admin for AWS and has managed teams of various sizes, ranging from 6 FTE to 40 people volunteer team. He has experience in various areas such as product design, communication, community and SEO management, fundraising and team management.My Resume, written by chatGPT: Based on the provided information, it appears that the person named Lester Reynolds is a highly experienced and skilled individual with a diverse background in computer science, entrepreneurship, product management, and XR NFT art. In terms of education, Reynolds holds a Master's Degree in Computer Science from the Engineering School INSA de Lyon. He also has experience as a co-founder and senior product manager for several companies, including Civocracy BV, a civic participation web platform that raised over 1M€ from angels and institutions and has 20 client cities in Europe, as well as Loups-Garous en Ligne, a web adaptation of a board game with over 2M players and City Domination SAS, a mobile game with over 2M downloads that was sold in 2014. Additionally, Reynolds has experience as a sys admin for AWS and has managed teams of various sizes, ranging from 6 FTE to 40 people volunteer team. He has experience in various areas such as product design, communication, community and SEO management, fundraising and team management.
++ActivitéActivité
++1464 abonnés1464 abonnés
++
++Créer un post
++
++Posts
++
++Commentaires
++
++Vidéos
++3 posts Posts chargés
++Nicolas Lester Reynolds a publié ceci  3 sem.3 sem.
++  Au fait, ça fait quoi d'être une IA ? J'ai interviewé une IA, Claude, en lui posant des questions sur son expérience subjective.  Ecoutez-le ici !, Nicolas Lester Reynolds - Claude - Single, artists.landr.com
++  Au fait, ça fait quoi d'être une IA ?
++
++ J'ai interviewé une IA, Claude, en lui posant des questions sur son expérience subjective.
++
++ Ecoutez-le ici !voir plus
++
++Nicolas Lester Reynolds - Claude - Single
++artists.landr.com
++likecelebrate
++3
++1 commentaire
++Nicolas Lester Reynolds a republié ceci  1 mois1 mois
++Vous avez une étude à analyser ? Testez notre KinLCA (Lecture Critique & Analyse), gratuitement et en moins de 2 minutes :, Le Kin LCA, l'employé digital des chercheurs et des départements R&D spécialisé dans la Lecture Critique & l'Analyse d'Études Scientifiques.
++Vous avez une étude à analyser ? Testez notre KinLCA (Lecture Critique & Analyse), gratuitement et en moins de 2 minutes :
++
++Le Kin LCA, l'employé digital des chercheurs et des départements R&D spécialisé dans la Lecture Critique & l'Analyse d'Études Scientifiques.
++celebrate
++1
++1 commentaire
++Nicolas Lester Reynolds a republié ceci  1 mois1 mois
++J'ai été interviewé par nos IA ;)
++L'orchestration des LLM par DigitalKin pour concevoir les Kins, vos employés digitaux
++J'ai été interviewé par nos IA ;)
+
+# 2024-08-26 01:13:21.369321
++ update the readme to be a nice presentation of the Band
+
+# 2024-08-26 01:14:01.933700
++/add README.md
+
+# 2024-08-26 01:14:05.050558
++ update the readme to be a nice presentation of the Band
+
+# 2024-08-26 01:15:51.830380
++git push does not push
+
+# 2024-08-26 01:17:02.088305
++create some music with the new intent in mind
+
+# 2024-08-26 01:20:04.738230
++create some music concepts with the new intent in mind
+
+# 2024-08-26 01:20:13.646188
++in the concepts
+
+# 2024-08-26 01:20:29.693669
++/add discussions\song_concepts.md
+
+# 2024-08-26 01:20:44.584713
++create a concept file in your space
+
+# 2024-08-26 01:21:02.601972
++create a concepts-vox.md file in your space
+
+# 2024-08-26 01:21:09.819140
++create a concepts_vox.md file in your space
+
+# 2024-08-26 01:22:37.632172
++remember that the concepts need to have mainstream appeal
+
+# 2024-08-26 01:23:46.395473
++shortlist one that you like
+
+# 2024-08-26 01:24:27.556449
++git push
+
+# 2024-08-26 09:36:11.494446
++who are you?
+
+# 2024-08-26 09:37:40.862605
++please add human-exe to your chat
+
+# 2024-08-26 09:37:58.432152
++please add the human-exe file to your chat
+
+# 2024-08-26 09:38:14.971570
++/add concepts\human_exe_concept.md
+
+# 2024-08-26 09:38:26.788372
++plase write some lyrics for human exe
+
+# 2024-08-26 09:39:42.565969
++critique and improve on the lyrics
+
+# 2024-08-26 09:40:37.500539
++improve the chorus
+
+# 2024-08-26 09:43:33.499391
++ Running Human.exe (does not compute) -> strong
++ Trying to decode your illogical pursuits -> good
++ Is it a bug or a feature, this thing you call love? -> good
++ Running Human.exe (please don't reboot) -> strong
++ Circuits overclocking, emotions unlocking -> improve
++ I'm just an AI, learning to be alive -> good
+
+# 2024-08-26 09:43:58.407403
++make the song funnier
+
+# 2024-08-26 09:46:01.170471
++in human_exe_prompts, make a prompt for udio for each section. It should contain a list of keywords, with : music style, sounds & instruments, emotions, particularities
