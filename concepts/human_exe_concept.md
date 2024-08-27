@@ -38,18 +38,27 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
    - Visible robotic features (e.g., metallic skin, LED eyes) contrasting with the human attire
 
 2. Party Scenes:
-   - The robot attempting common party activities and failing comically
-   - Examples: spilling drinks, misinterpreting dance moves, using idioms incorrectly
+   - The robot attempting common party activities and failing comically:
+     * Failed high-five: Robot misses the hand, hitting the person's face instead
+     * Telling a joke: Robot delivers a binary joke, met with confused silence
+     * Spilling drinks: Robot's attempt to carry drinks results in a comical spill
+     * Misinterpreting dance moves: Robot's jerky, overly literal interpretations of dance instructions
+   - Successful party activities:
+     * People laughing and enjoying themselves in the background
+     * Couples dancing smoothly, contrasting with the robot's awkward movements
    - Human partygoers reacting with a mix of amusement, confusion, and mockery
 
 3. Visual Effects:
    - Occasional "glitches" or "loading screens" overlaying the scene when the robot struggles
    - POV shots from the robot's perspective, showing data analysis of human behaviors
+   - Quick cuts between the robot's failures and successes of human partygoers
 
 4. Progression:
    - Initial scenes show the robot's repeated failures and the humans' negative reactions
+   - Montage of the robot observing and attempting to mimic human behaviors
    - Midway through, introduce a nerdy girl character who observes the robot with interest
-   - Final scenes focus on the robot and nerdy girl bonding, possibly over shared interests in technology
+   - Scenes of the robot and nerdy girl bonding over shared interests in technology
+   - Final scenes focus on the robot beginning to integrate more successfully into the party
 
 5. Ending:
    - The video concludes with the robot and nerdy girl engaging in conversation
