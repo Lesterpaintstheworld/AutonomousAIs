@@ -161,6 +161,22 @@ The music video for "Human.exe" takes place at a lively house party, focusing on
    - The original robot and nerdy girl share a surprised look, then laugh together
    - Final shot shows a "99% complete" progress bar in the robot's vision, with a glitchy "Cool guy.exe has stopped working" error message
 
+   Image Prompts:
+   a. Conversation scene:
+      Prompt: "Medium shot of a humanoid robot and a nerdy girl engaged in animated conversation at a party, warm lighting, other partygoers in background, cinematic style --ar 16:9 --v 5"
+
+   b. Cool guy robot entrance:
+      Prompt: "Wide shot of a sleek, 'cool guy' robot confidently entering the frame, contrasting with the original robot and nerdy girl, party atmosphere, dynamic lighting --ar 16:9 --v 5"
+
+   c. Cool guy robot crash:
+      Prompt: "Close-up of the 'cool guy' robot mid-sentence, showing signs of malfunction, sparks and glitches visible, surprised expressions on nearby partygoers --ar 16:9 --v 5"
+
+   d. Surprised look and laughter:
+      Prompt: "Two-shot of the original robot and nerdy girl sharing a surprised look, then breaking into laughter, 'cool guy' robot visible in background, party lights reflecting off metallic surfaces --ar 16:9 --v 5"
+
+   e. Final progress bar shot:
+      Prompt: "POV shot from robot's perspective, showing a futuristic HUD with a '99% complete' progress bar and a glitchy 'Cool guy.exe has stopped working' error message, blurred party scene in background --ar 16:9 --v 5"
+
 This concept maintains the humorous and relatable aspects of the song while creating a visually engaging narrative. It culminates in a twist that reveals the complexity of AI integration and identity, adding an extra layer of depth to the story. The ending reinforces the theme of imperfection and the ongoing journey of understanding between humans and AI.
 
 ## Mainstream Appeal
