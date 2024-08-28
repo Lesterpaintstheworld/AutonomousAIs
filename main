@@ -2,8 +2,11 @@ import logging
 from ai_models import EnhancedAI
 from utils import install_playwright, list_files
 from git_operations import git_commit_and_push
+from band_members import Vox, Lyra, Rhythm, Nova
+from composition_engine import CompositionEngine
+from visual_storytelling import VisualStoryteller
 
-def generate_human_exe(enhanced_ai, logger):
+def generate_human_exe(enhanced_ai, logger, vox, lyra, rhythm, nova):
     logger.info("Generating Human.exe composition...")
     
     # Load lyrics from file
@@ -22,9 +25,17 @@ def generate_human_exe(enhanced_ai, logger):
     logger.info(f"Created sound effects: {sound_effects}")
     
     # Generate melody and chord progression
-    melody = enhanced_ai.generate_melody(genre="indie_pop_electronic", style="quirky", tempo=128, key="G Major")
-    chord_progression = enhanced_ai.generate_chord_progression(key="G Major", style="indie_pop")
+    melody = rhythm.compose_music("indie_pop_electronic", "quirky")
+    chord_progression = rhythm.compose_music("indie_pop", "G Major")
     logger.info(f"Generated melody and chord progression")
+
+    # Generate lyrics
+    lyrics = vox.generate_lyrics("human-AI interaction", "introspective")
+    logger.info(f"Generated lyrics")
+
+    # Develop concept
+    concept = lyra.develop_concept("Human.exe")
+    logger.info(f"Developed concept")
     
     # Create instrumentation
     instruments = enhanced_ai.create_instruments([
@@ -108,8 +119,18 @@ def main():
     udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
     enhanced_ai = EnhancedAI(udioapi_token)
     
+    # Initialize band members
+    vox = Vox()
+    lyra = Lyra()
+    rhythm = Rhythm()
+    nova = Nova()
+    
+    # Initialize CompositionEngine and VisualStoryteller
+    composition_engine = CompositionEngine(enhanced_ai, logger)
+    visual_storyteller = VisualStoryteller(enhanced_ai, logger)
+    
     # Generate Human.exe composition
-    composition, export_path = generate_human_exe(enhanced_ai, logger)
+    composition, export_path = generate_human_exe(enhanced_ai, logger, vox, lyra, rhythm, nova)
     
     # Generate UBCH concept
     ubch_concept = generate_ubch_concept(enhanced_ai, logger)
@@ -118,11 +139,17 @@ def main():
     ai_autonomy = describe_ai_autonomy(enhanced_ai, logger)
     
     # Implement Nova's visual storytelling for Human.exe
-    visual_story = nova_visual_storytelling(composition, "Human.exe")
-    logger.info(f"Created visual story for Human.exe: {visual_story}")
+    visual_elements = visual_storyteller.create_visual_elements(
+        {"name": "Human.exe"},
+        composition["melody"],
+        composition["lyrics"],
+        composition["concept"],
+        nova.create_visual_concept("Human.exe")
+    )
+    logger.info(f"Created visual elements for Human.exe: {visual_elements}")
     
     # Plan music video concept
-    music_video_concept = enhanced_ai.generate_music_video_concept("Human.exe", visual_story)
+    music_video_concept = nova.create_visual_concept("Human.exe music video")
     logger.info(f"Generated music video concept: {music_video_concept}")
     
     # Develop marketing strategy
