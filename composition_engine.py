@@ -10,7 +10,6 @@ class CompositionEngine:
         rhythmic_patterns = self.enhanced_ai.generate_rhythmic_patterns(section)
         rhythm_spec = self.enhanced_ai.develop_rhythm_specification(section)
         return melody, chord_progression, rhythmic_patterns, rhythm_spec
-        self.logger = logger
 
     def compose_quantum_tango(self, vox, lyra, rhythm, nova, visual_storyteller, song_theme, song_mood, song_style):
         self.logger.info("Starting composition of Quantum Tango")
