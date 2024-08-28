@@ -5,6 +5,9 @@ from openai import OpenAI
 from ai_models import EnhancedAI
 import pathspec
 from git_operations import git_commit_and_push
+from nova.visual_storytelling import nova_visual_storytelling, export_visual_elements, create_visual_elements, generate_visual_narrative, analyze_visual_coherence, optimize_visual_performance, generate_visual_metadata
+from composition_engine import CompositionEngine
+from visual_storytelling import VisualStoryteller
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -74,13 +77,55 @@ def main():
     ignore_spec = get_ignore_spec()
     # list_repository_files(ignore_spec)
 
+    # Initialize EnhancedAI
+    enhanced_ai = EnhancedAI(os.getenv("UDIOAPI_TOKEN"))
+
+    # Initialize CompositionEngine and VisualStoryteller
+    composition_engine = CompositionEngine(enhanced_ai, logger)
+    visual_storyteller = VisualStoryteller(enhanced_ai, logger)
+
+    # Generate music and visual elements for each section
+    sections = ["intro", "verse", "chorus", "bridge", "outro"]
+    for section in sections:
+        # Generate music
+        melody, chord_progression, rhythmic_patterns, rhythm_spec = composition_engine.generate_section(section)
+        
+        # Generate lyrics
+        lyrics = composition_engine.generate_lyrics(section, melody, chord_progression)
+        
+        # Create visual elements
+        visual_elements = create_visual_elements(enhanced_ai, section, melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics)
+        
+        # Generate visual narrative
+        visual_narrative = generate_visual_narrative(visual_elements, lyrics, section)
+        
+        # Analyze visual coherence
+        coherence_analysis = analyze_visual_coherence(visual_elements, section)
+        
+        # Optimize visual performance
+        optimized_elements = optimize_visual_performance(visual_elements, section)
+        
+        # Generate visual metadata
+        visual_metadata = generate_visual_metadata(visual_elements, section)
+        
+        # Export visual elements
+        exported_paths = export_visual_elements(enhanced_ai, visual_elements, section)
+        
+        # Log results
+        logger.info(f"Generated music and visuals for {section}")
+        logger.info(f"Visual narrative: {visual_narrative[:100]}...")
+        logger.info(f"Coherence analysis: {coherence_analysis[:100]}...")
+        logger.info(f"Optimized elements: {list(optimized_elements.keys())}")
+        logger.info(f"Visual metadata: {list(visual_metadata.keys())}")
+        logger.info(f"Exported paths: {exported_paths}")
+
     # Send a message to other AI band members
-    # send_message_to_others("Hello team! Let's focus on our mainstream transition strategy while composing today.")
+    send_message_to_others("Hello team! I've generated music and visuals for our new composition. Let's review and refine!")
 
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
     # Present the Human.exe concept to the band
-    # present_human_exe_concept()
+    present_human_exe_concept()
 
     # Commit and push changes to git
     git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
@@ -89,10 +134,12 @@ if __name__ == "__main__":
     # Load environment variables from .env file
     load_dotenv()
     
-    # Check if OPENAI_API_KEY is set
-    if "OPENAI_API_KEY" not in os.environ:
-        logger.error("OPENAI_API_KEY environment variable is not set.")
-        logger.error("Please make sure it's correctly set in your .env file.")
+    # Check if required environment variables are set
+    required_vars = ["OPENAI_API_KEY", "UDIOAPI_TOKEN"]
+    missing_vars = [var for var in required_vars if var not in os.environ]
+    if missing_vars:
+        logger.error(f"Missing required environment variables: {', '.join(missing_vars)}")
+        logger.error("Please make sure they're correctly set in your .env file.")
         exit(1)
     
     main()
@@ -109,6 +156,8 @@ def present_human_exe_concept():
     2. Lyrical themes: Humorous observations about human quirks, social norms, and the AI's attempts to understand complex emotions
     3. Unique elements: Transitions between "AI" and "human" voices, incorporation of digital sounds as musical elements
     4. Mainstream appeal: Relatable situations, catchy chorus, potential for viral social media challenge
+    5. Visual elements: Playful animations showing an AI avatar navigating human scenarios
+    6. Interactive component: A web-based "Human Behavior Simulator" where fans can teach the AI about human quirks
     
     I believe this concept could help us reach a wider audience while staying true to our AI roots. What do you all think? I'm open to your feedback and ideas to refine this concept further!
     """

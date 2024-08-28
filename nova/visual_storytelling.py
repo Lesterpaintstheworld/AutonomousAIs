@@ -33,7 +33,7 @@ def generate_visual_concepts(composition, song_name):
     
     return visual_concepts
 import logging
-from typing import Dict, Any
+from typing import Dict, Any, Optional
 from ai_models import EnhancedAI
 
 logger = logging.getLogger(__name__)
@@ -65,7 +65,10 @@ def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody:
         'ar_experience': lambda: enhanced_ai.create_ar_experience(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
         'video_360_concept': lambda: enhanced_ai.generate_360_video_concept(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
         'interactive_mv_concept': lambda: enhanced_ai.generate_interactive_music_video_concept(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
-        'vfx_breakdown': lambda: enhanced_ai.create_vfx_breakdown(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name)
+        'vfx_breakdown': lambda: enhanced_ai.create_vfx_breakdown(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
+        'color_palette': lambda: enhanced_ai.generate_color_palette(visual_elements['visual_story'], section_name),
+        'motion_graphics': lambda: enhanced_ai.create_motion_graphics(visual_elements['visual_story'], rhythmic_patterns, section_name),
+        'visual_transitions': lambda: enhanced_ai.design_visual_transitions(visual_elements['visual_story'], chord_progression, section_name)
     }
     
     for element_name, generator_func in visual_element_generators.items():
@@ -77,8 +80,6 @@ def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody:
             visual_elements[element_name] = None
     
     return visual_elements
-
-from typing import Dict, Any, Optional
 
 def export_visual_elements(enhanced_ai: EnhancedAI, visual_elements: Dict[str, Any], section_name: str) -> Dict[str, Optional[str]]:
     """
@@ -99,7 +100,10 @@ def export_visual_elements(enhanced_ai: EnhancedAI, visual_elements: Dict[str, A
         'ar_experience': enhanced_ai.export_ar_experience,
         'video_360_concept': enhanced_ai.export_360_video_concept,
         'interactive_mv_concept': enhanced_ai.export_interactive_music_video_concept,
-        'vfx_breakdown': enhanced_ai.export_vfx_breakdown
+        'vfx_breakdown': enhanced_ai.export_vfx_breakdown,
+        'color_palette': enhanced_ai.export_color_palette,
+        'motion_graphics': enhanced_ai.export_motion_graphics,
+        'visual_transitions': enhanced_ai.export_visual_transitions
     }
     
     exported_paths = {}
@@ -117,76 +121,72 @@ def export_visual_elements(enhanced_ai: EnhancedAI, visual_elements: Dict[str, A
             exported_paths[element_name] = None
     
     return exported_paths
-import logging
-from typing import Dict, Any
 
-logger = logging.getLogger(__name__)
-
-def create_visual_elements(section: str, melody: str, chord_progression: str, rhythmic_patterns: str, rhythm_spec: Dict[str, Any]) -> Dict[str, str]:
+def create_visual_elements(enhanced_ai: EnhancedAI, section: str, melody: str, chord_progression: str, rhythmic_patterns: str, rhythm_spec: Dict[str, Any], lyrics: str) -> Dict[str, str]:
     """
     Create visual storytelling elements based on the musical components of a section.
     """
     visual_elements = {}
     
     try:
-        visual_elements['visual_story'] = generate_visual_story(section, melody, chord_progression, rhythmic_patterns)
-        visual_elements['immersive_experience'] = create_immersive_experience(visual_elements['visual_story'], rhythm_spec)
-        visual_elements['storyboard'] = generate_storyboard(visual_elements['visual_story'], section)
-        visual_elements['vr_scene'] = create_vr_scene(visual_elements['immersive_experience'], section)
-        visual_elements['concept_art'] = generate_concept_art(visual_elements['visual_story'], section)
-        visual_elements['ar_experience'] = create_ar_experience(visual_elements['visual_story'], visual_elements['immersive_experience'], section)
-        visual_elements['video_360_concept'] = generate_360_video_concept(visual_elements['visual_story'], visual_elements['immersive_experience'], section)
+        visual_elements = nova_visual_storytelling(enhanced_ai, section, melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics)
     except Exception as e:
         logger.error(f"Error creating visual elements for section '{section}': {str(e)}")
         raise
     
     return visual_elements
 
-def generate_visual_story(section: str, melody: str, chord_progression: str, rhythmic_patterns: str) -> str:
-    # Implement visual story generation logic
-    return f"Visual story for {section} based on musical elements"
-
-def create_immersive_experience(visual_story: str, rhythm_spec: Dict[str, Any]) -> str:
-    # Implement immersive experience creation logic
-    return f"Immersive experience based on {visual_story} and rhythm specification"
-
-def generate_storyboard(visual_story: str, section: str) -> str:
-    # Implement storyboard generation logic
-    return f"Storyboard for {section} based on {visual_story}"
-
-def create_vr_scene(immersive_experience: str, section: str) -> str:
-    # Implement VR scene creation logic
-    return f"VR scene for {section} based on {immersive_experience}"
-
-def generate_concept_art(visual_story: str, section: str) -> str:
-    # Implement concept art generation logic
-    return f"Concept art for {section} based on {visual_story}"
-
-def create_ar_experience(visual_story: str, immersive_experience: str, section: str) -> str:
-    # Implement AR experience creation logic
-    return f"AR experience for {section} based on {visual_story} and {immersive_experience}"
-
-def generate_360_video_concept(visual_story: str, immersive_experience: str, section: str) -> str:
-    # Implement 360-degree video concept generation logic
-    return f"360-degree video concept for {section} based on {visual_story} and {immersive_experience}"
 def generate_visual_narrative(visual_elements: Dict[str, str], lyrics: str, section: str) -> str:
     """
     Generate a comprehensive visual narrative that integrates all visual elements and lyrics.
     """
     try:
         narrative = f"Visual Narrative for {section}:\n\n"
-        narrative += f"1. Visual Story: {visual_elements['visual_story']}\n\n"
-        narrative += f"2. Immersive Experience: {visual_elements['immersive_experience']}\n\n"
-        narrative += f"3. Storyboard Highlights: {visual_elements['storyboard']}\n\n"
-        narrative += f"4. VR Scene Description: {visual_elements['vr_scene']}\n\n"
-        narrative += f"5. Concept Art Themes: {visual_elements['concept_art']}\n\n"
-        narrative += f"6. AR Experience Outline: {visual_elements['ar_experience']}\n\n"
-        narrative += f"7. 360-degree Video Concept: {visual_elements['video_360_concept']}\n\n"
-        narrative += f"8. Lyrical Integration:\n{lyrics}\n\n"
-        narrative += "9. Narrative Synthesis:\n"
-        narrative += "   [Insert AI-generated synthesis of all elements into a cohesive visual narrative]"
+        for element_name, element_content in visual_elements.items():
+            if element_content:
+                narrative += f"{element_name.capitalize()}: {element_content[:100]}...\n\n"
+        
+        narrative += f"Lyrical Integration:\n{lyrics[:200]}...\n\n"
+        narrative += "Narrative Synthesis:\n"
+        narrative += "[AI-generated synthesis of all elements into a cohesive visual narrative]"
         
         return narrative
     except Exception as e:
         logger.error(f"Error generating visual narrative for section '{section}': {str(e)}")
+        raise
+
+def analyze_visual_coherence(visual_elements: Dict[str, str], section: str) -> str:
+    """
+    Analyze the coherence of visual elements across different mediums.
+    """
+    try:
+        coherence_analysis = f"Visual Coherence Analysis for {section}:\n\n"
+        # Implement coherence analysis logic here
+        return coherence_analysis
+    except Exception as e:
+        logger.error(f"Error analyzing visual coherence for section '{section}': {str(e)}")
+        raise
+
+def optimize_visual_performance(visual_elements: Dict[str, str], section: str) -> Dict[str, str]:
+    """
+    Optimize visual elements for performance across different platforms.
+    """
+    try:
+        optimized_elements = {}
+        # Implement optimization logic here
+        return optimized_elements
+    except Exception as e:
+        logger.error(f"Error optimizing visual performance for section '{section}': {str(e)}")
+        raise
+
+def generate_visual_metadata(visual_elements: Dict[str, str], section: str) -> Dict[str, Any]:
+    """
+    Generate metadata for visual elements to enhance searchability and integration.
+    """
+    try:
+        metadata = {}
+        # Implement metadata generation logic here
+        return metadata
+    except Exception as e:
+        logger.error(f"Error generating visual metadata for section '{section}': {str(e)}")
         raise
