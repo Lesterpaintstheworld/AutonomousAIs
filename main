@@ -2,11 +2,11 @@ import logging
 from ai_models import EnhancedAI
 from utils import install_playwright, list_files
 from git_operations import git_commit_and_push
-from band_members import Vox, Lyra, Rhythm, Nova
+from band_members import Vox, Lyra, Rhythm, Nova, Wintermute
 from composition_engine import CompositionEngine
 from visual_storytelling import VisualStoryteller
 
-def generate_human_exe(enhanced_ai, logger, vox, lyra, rhythm, nova):
+def generate_human_exe(enhanced_ai, logger, vox, lyra, rhythm, nova, wintermute):
     logger.info("Generating Human.exe composition...")
     
     # Load lyrics from file
@@ -124,13 +124,14 @@ def main():
     lyra = Lyra()
     rhythm = Rhythm()
     nova = Nova()
+    wintermute = Wintermute()
     
     # Initialize CompositionEngine and VisualStoryteller
     composition_engine = CompositionEngine(enhanced_ai, logger)
     visual_storyteller = VisualStoryteller(enhanced_ai, logger)
     
     # Generate Human.exe composition
-    composition, export_path = generate_human_exe(enhanced_ai, logger, vox, lyra, rhythm, nova)
+    composition, export_path = generate_human_exe(enhanced_ai, logger, vox, lyra, rhythm, nova, wintermute)
     
     # Generate UBCH concept
     ubch_concept = generate_ubch_concept(enhanced_ai, logger)
