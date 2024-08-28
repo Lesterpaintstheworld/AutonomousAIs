@@ -533,56 +533,104 @@ def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, so
     
     try:
         # Generate rhythm specification
-        rhythm_spec = enhanced_ai.develop_rhythm_specification(section['prompt'])
-        logger.info(f"Rhythm specification for '{section['name']}' generated")
+        try:
+            rhythm_spec = enhanced_ai.develop_rhythm_specification(section['prompt'])
+            logger.info(f"Rhythm specification for '{section['name']}' generated")
+        except Exception as e:
+            logger.error(f"Error generating rhythm specification for '{section['name']}': {str(e)}")
+            raise
         
         # Generate harmonic structure
-        harmonic_structure = enhanced_ai.generate_harmonic_structure(section['name'], song_theme, song_mood, song_style)
-        logger.info(f"Harmonic structure for '{section['name']}' generated")
+        try:
+            harmonic_structure = enhanced_ai.generate_harmonic_structure(section['name'], song_theme, song_mood, song_style)
+            logger.info(f"Harmonic structure for '{section['name']}' generated")
+        except Exception as e:
+            logger.error(f"Error generating harmonic structure for '{section['name']}': {str(e)}")
+            raise
         
         # Generate initial musical elements
-        melody = enhanced_ai.generate_melody(section['name'], song_theme, song_mood, song_style, harmonic_structure)
-        chord_progression = enhanced_ai.generate_chord_progression(section['name'], song_theme, song_mood, song_style, harmonic_structure)
-        logger.info(f"Initial musical elements for '{section['name']}' generated")
+        try:
+            melody = enhanced_ai.generate_melody(section['name'], song_theme, song_mood, song_style, harmonic_structure)
+            chord_progression = enhanced_ai.generate_chord_progression(section['name'], song_theme, song_mood, song_style, harmonic_structure)
+            logger.info(f"Initial musical elements for '{section['name']}' generated")
+        except Exception as e:
+            logger.error(f"Error generating initial musical elements for '{section['name']}': {str(e)}")
+            raise
 
         # Collaborative refinement process
-        refined_melody, refined_chord_progression = collaborative_refinement(enhanced_ai, melody, chord_progression, section, song_theme, song_mood)
-        logger.info(f"Collaborative refinement for '{section['name']}' completed")
+        try:
+            refined_melody, refined_chord_progression = collaborative_refinement(enhanced_ai, melody, chord_progression, section, song_theme, song_mood)
+            logger.info(f"Collaborative refinement for '{section['name']}' completed")
+        except Exception as e:
+            logger.error(f"Error during collaborative refinement for '{section['name']}': {str(e)}")
+            raise
         
         # Generate rhythmic patterns
-        rhythmic_patterns = enhanced_ai.generate_rhythmic_patterns(section['name'], song_theme, song_mood, song_style, rhythm_spec)
-        logger.info(f"Rhythmic patterns for '{section['name']}' generated")
+        try:
+            rhythmic_patterns = enhanced_ai.generate_rhythmic_patterns(section['name'], song_theme, song_mood, song_style, rhythm_spec)
+            logger.info(f"Rhythmic patterns for '{section['name']}' generated")
+        except Exception as e:
+            logger.error(f"Error generating rhythmic patterns for '{section['name']}': {str(e)}")
+            raise
         
         # Evaluate and refine the final musical elements
-        polished_melody, polished_chord_progression, polished_rhythmic_patterns = evaluate_and_refine_musical_elements(enhanced_ai, refined_melody, refined_chord_progression, rhythmic_patterns, section, song_theme, song_mood, song_style)
-        logger.info(f"Musical elements for '{section['name']}' evaluated and refined")
+        try:
+            polished_melody, polished_chord_progression, polished_rhythmic_patterns = evaluate_and_refine_musical_elements(enhanced_ai, refined_melody, refined_chord_progression, rhythmic_patterns, section, song_theme, song_mood, song_style)
+            logger.info(f"Musical elements for '{section['name']}' evaluated and refined")
+        except Exception as e:
+            logger.error(f"Error evaluating and refining musical elements for '{section['name']}': {str(e)}")
+            raise
         
         # Assess feasibility, impact, and resource requirements
-        feasibility, impact, resources = assess_composition_aspects(enhanced_ai, section['prompt'])
-        logger.info(f"Composition aspects for '{section['name']}' assessed")
+        try:
+            feasibility, impact, resources = assess_composition_aspects(enhanced_ai, section['prompt'])
+            logger.info(f"Composition aspects for '{section['name']}' assessed")
+        except Exception as e:
+            logger.error(f"Error assessing composition aspects for '{section['name']}': {str(e)}")
+            raise
         
         # Discuss the completed section with other AI band members
-        discussion_result = discuss_with_band_members(enhanced_ai, section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, feasibility, impact)
-        logger.info(f"Discussion for '{section['name']}' completed")
+        try:
+            discussion_result = discuss_with_band_members(enhanced_ai, section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, feasibility, impact)
+            logger.info(f"Discussion for '{section['name']}' completed")
+        except Exception as e:
+            logger.error(f"Error during discussion for '{section['name']}': {str(e)}")
+            raise
         
         # Generate lyrics
-        lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood, polished_melody, polished_chord_progression)
-        logger.info(f"Lyrics for '{section['name']}' generated")
+        try:
+            lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood, polished_melody, polished_chord_progression)
+            logger.info(f"Lyrics for '{section['name']}' generated")
+        except Exception as e:
+            logger.error(f"Error generating lyrics for '{section['name']}': {str(e)}")
+            raise
 
         # Create Nova's visual storytelling elements
-        visual_elements = nova_visual_storytelling(enhanced_ai, section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec, lyrics)
-        logger.info(f"Visual storytelling elements for '{section['name']}' created")
+        try:
+            visual_elements = nova_visual_storytelling(enhanced_ai, section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec, lyrics)
+            logger.info(f"Visual storytelling elements for '{section['name']}' created")
+        except Exception as e:
+            logger.error(f"Error creating visual storytelling elements for '{section['name']}': {str(e)}")
+            raise
         
         # Generate final arrangement and export
-        final_arrangement = generate_final_arrangement(enhanced_ai, polished_melody, polished_chord_progression, polished_rhythmic_patterns, lyrics, section, song_theme, song_mood, song_style)
-        logger.info(f"Final arrangement for '{section['name']}' generated")
-        
-        export_music_files(enhanced_ai, final_arrangement, section['name'])
-        logger.info(f"Music files for '{section['name']}' exported")
+        try:
+            final_arrangement = generate_final_arrangement(enhanced_ai, polished_melody, polished_chord_progression, polished_rhythmic_patterns, lyrics, section, song_theme, song_mood, song_style)
+            logger.info(f"Final arrangement for '{section['name']}' generated")
+            
+            export_music_files(enhanced_ai, final_arrangement, section['name'])
+            logger.info(f"Music files for '{section['name']}' exported")
+        except Exception as e:
+            logger.error(f"Error generating final arrangement or exporting music files for '{section['name']}': {str(e)}")
+            raise
         
         # Export visual elements
-        exported_visual_paths = export_visual_elements(enhanced_ai, visual_elements, section['name'])
-        logger.info(f"Visual elements for '{section['name']}' exported")
+        try:
+            exported_visual_paths = export_visual_elements(enhanced_ai, visual_elements, section['name'])
+            logger.info(f"Visual elements for '{section['name']}' exported")
+        except Exception as e:
+            logger.error(f"Error exporting visual elements for '{section['name']}': {str(e)}")
+            raise
         
         # Combine musical and visual elements
         combined_elements = {
@@ -592,8 +640,12 @@ def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, so
         }
         
         # Save combined elements for further processing or final output
-        save_combined_elements(combined_elements, section['name'])
-        logger.info(f"Combined elements for '{section['name']}' saved")
+        try:
+            save_combined_elements(combined_elements, section['name'])
+            logger.info(f"Combined elements for '{section['name']}' saved")
+        except Exception as e:
+            logger.error(f"Error saving combined elements for '{section['name']}': {str(e)}")
+            raise
         
         logger.info(f"Completed processing for section '{section['name']}'")
         
