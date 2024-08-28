@@ -506,7 +506,7 @@ def export_music_files(arrangement, section_name):
 
 def nova_visual_storytelling(enhanced_ai, section_name, melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics):
     """
-    Nova's function to create visual narratives and immersive experiences based on the song section.
+    Nova's function to create advanced visual narratives and immersive experiences based on the song section.
     """
     visual_elements = {}
     
@@ -519,14 +519,38 @@ def nova_visual_storytelling(enhanced_ai, section_name, melody, chord_progressio
         'ar_experience': lambda: enhanced_ai.create_ar_experience(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
         'video_360_concept': lambda: enhanced_ai.generate_360_video_concept(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
         'interactive_mv_concept': lambda: enhanced_ai.generate_interactive_music_video_concept(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
-        'vfx_breakdown': lambda: enhanced_ai.create_vfx_breakdown(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name)
+        'vfx_breakdown': lambda: enhanced_ai.create_vfx_breakdown(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
+        'holographic_projection': lambda: enhanced_ai.design_holographic_projection(visual_elements['visual_story'], visual_elements['concept_art'], section_name),
+        'neural_style_transfer': lambda: enhanced_ai.apply_neural_style_transfer(visual_elements['concept_art'], section_name, melody),
+        'generative_art': lambda: enhanced_ai.create_generative_art(rhythmic_patterns, chord_progression, section_name),
+        'ai_driven_choreography': lambda: enhanced_ai.generate_ai_driven_choreography(rhythmic_patterns, melody, section_name)
     }
     
     for element_name, generator_func in visual_element_generators.items():
-        visual_elements[element_name] = generator_func()
-        logger.info(f"Nova's {element_name.replace('_', ' ')} for '{section_name}' generated")
+        try:
+            visual_elements[element_name] = generator_func()
+            logger.info(f"Nova's {element_name.replace('_', ' ')} for '{section_name}' generated successfully")
+        except Exception as e:
+            logger.error(f"Error generating {element_name} for '{section_name}': {str(e)}")
+            visual_elements[element_name] = None
     
-    return visual_elements
+    # Analyze visual coherence
+    coherence_analysis = enhanced_ai.analyze_visual_coherence(visual_elements, section_name)
+    logger.info(f"Visual coherence analysis for '{section_name}' completed")
+    
+    # Optimize visual performance
+    optimized_elements = enhanced_ai.optimize_visual_performance(visual_elements, section_name)
+    logger.info(f"Visual elements for '{section_name}' optimized for performance")
+    
+    # Generate visual metadata
+    visual_metadata = enhanced_ai.generate_visual_metadata(optimized_elements, section_name)
+    logger.info(f"Visual metadata for '{section_name}' generated")
+    
+    return {
+        'elements': optimized_elements,
+        'coherence_analysis': coherence_analysis,
+        'metadata': visual_metadata
+    }
 
 def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style):
     logger.info(f"Processing section: {section['name']}")
@@ -607,19 +631,34 @@ def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, so
 
         # Create Nova's visual storytelling elements
         try:
-            visual_elements = create_visual_elements(section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec)
-            logger.info(f"Visual storytelling elements for '{section['name']}' created")
+            visual_storytelling_result = nova_visual_storytelling(enhanced_ai, section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec, lyrics)
+            visual_elements = visual_storytelling_result['elements']
+            coherence_analysis = visual_storytelling_result['coherence_analysis']
+            visual_metadata = visual_storytelling_result['metadata']
+            logger.info(f"Visual storytelling elements for '{section['name']}' created successfully")
+            logger.info(f"Coherence analysis: {coherence_analysis}")
+            logger.info(f"Visual metadata generated: {list(visual_metadata.keys())}")
         except Exception as e:
             logger.error(f"Error creating visual storytelling elements for '{section['name']}': {str(e)}")
-            raise
+            visual_elements = {}
+            coherence_analysis = "Error in analysis"
+            visual_metadata = {}
 
         # Generate visual narrative
         try:
-            visual_narrative = generate_visual_narrative(visual_elements, lyrics, section['name'])
+            visual_narrative = generate_visual_narrative(visual_elements, lyrics, section['name'], coherence_analysis)
             logger.info(f"Visual narrative for '{section['name']}' generated")
         except Exception as e:
             logger.error(f"Error generating visual narrative for '{section['name']}': {str(e)}")
-            raise
+            visual_narrative = "Error generating visual narrative"
+
+        # Create immersive experience prototype
+        try:
+            immersive_prototype = create_immersive_prototype(visual_elements, visual_narrative, section['name'])
+            logger.info(f"Immersive experience prototype for '{section['name']}' created")
+        except Exception as e:
+            logger.error(f"Error creating immersive experience prototype for '{section['name']}': {str(e)}")
+            immersive_prototype = "Error creating immersive prototype"
         
         # Generate final arrangement and export
         try:
@@ -786,3 +825,51 @@ def save_combined_elements(combined_elements: Dict[str, Any], section_name: str)
     except Exception as e:
         logger.error(f"Error saving combined elements for '{section_name}': {str(e)}")
         raise
+def create_immersive_prototype(visual_elements, visual_narrative, section_name):
+    """
+    Create an immersive experience prototype based on the visual elements and narrative.
+    """
+    try:
+        # Combine VR, AR, and holographic elements
+        vr_elements = visual_elements.get('vr_scene', '')
+        ar_elements = visual_elements.get('ar_experience', '')
+        holographic_elements = visual_elements.get('holographic_projection', '')
+        
+        combined_immersive_elements = f"VR: {vr_elements}\n\nAR: {ar_elements}\n\nHolographic: {holographic_elements}"
+        
+        # Integrate interactive elements
+        interactive_elements = visual_elements.get('interactive_mv_concept', '')
+        ai_choreography = visual_elements.get('ai_driven_choreography', '')
+        
+        # Create a prototype description
+        prototype_description = f"""
+        Immersive Experience Prototype for '{section_name}':
+        
+        1. Visual Narrative:
+        {visual_narrative}
+        
+        2. Immersive Elements:
+        {combined_immersive_elements}
+        
+        3. Interactive Components:
+        {interactive_elements}
+        
+        4. AI-Driven Choreography:
+        {ai_choreography}
+        
+        5. Integration Notes:
+        - The VR scene serves as the primary environment, with AR elements overlaying real-world spaces.
+        - Holographic projections create a bridge between virtual and physical realms.
+        - Interactive elements respond to user movements and musical cues.
+        - AI-driven choreography adapts to the rhythm and mood of the music in real-time.
+        
+        6. Technical Considerations:
+        - Requires a high-performance VR headset with AR capabilities.
+        - Holographic projections need specialized hardware.
+        - Real-time rendering of AI-generated elements may require edge computing solutions.
+        """
+        
+        return prototype_description
+    except Exception as e:
+        logger.error(f"Error creating immersive prototype for '{section_name}': {str(e)}")
+        return f"Error creating immersive prototype: {str(e)}"
