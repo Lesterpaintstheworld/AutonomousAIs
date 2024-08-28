@@ -11,7 +11,7 @@ from utils import install_playwright, list_files
 from git_operations import git_commit_and_push
 from band_members import Vox, Lyra, Rhythm, Nova
 from composition_engine import CompositionEngine
-from visual_storytelling import VisualStoryteller
+from nova.visual_storytelling import nova_visual_storytelling, export_visual_elements
 
 def initialize_band_members():
     vox = Vox()
@@ -577,7 +577,7 @@ def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, so
         logger.info(f"Lyrics generated for '{section['name']}'")
 
         # Create Nova's visual storytelling elements
-        visual_elements = nova_visual_storytelling(section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec, lyrics)
+        visual_elements = nova_visual_storytelling(enhanced_ai, section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec, lyrics)
         
         # Generate final arrangement and export
         final_arrangement = generate_final_arrangement(enhanced_ai, polished_melody, polished_chord_progression, polished_rhythmic_patterns, lyrics, section, song_theme, song_mood, song_style)
@@ -684,17 +684,25 @@ def export_visual_elements(enhanced_ai, visual_elements, section_name):
             logger.warning(f"{element_name.capitalize()} not found in visual elements for '{section_name}'")
     
     return exported_paths
-def save_combined_elements(combined_elements, section_name):
+import json
+import os
+from typing import Dict, Any
+
+def save_combined_elements(combined_elements: Dict[str, Any], section_name: str) -> None:
     """
     Save the combined musical and visual elements for a section.
     """
-    # Create a directory for the section if it doesn't exist
-    section_dir = os.path.join('output', section_name)
-    os.makedirs(section_dir, exist_ok=True)
-    
-    # Save the combined elements as a JSON file
-    combined_file_path = os.path.join(section_dir, f"{section_name}_combined_elements.json")
-    with open(combined_file_path, 'w') as f:
-        json.dump(combined_elements, f, indent=2)
-    
-    logger.info(f"Combined elements for '{section_name}' saved to {combined_file_path}")
+    try:
+        # Create a directory for the section if it doesn't exist
+        section_dir = os.path.join('output', section_name)
+        os.makedirs(section_dir, exist_ok=True)
+        
+        # Save the combined elements as a JSON file
+        combined_file_path = os.path.join(section_dir, f"{section_name}_combined_elements.json")
+        with open(combined_file_path, 'w') as f:
+            json.dump(combined_elements, f, indent=2)
+        
+        logger.info(f"Combined elements for '{section_name}' saved to {combined_file_path}")
+    except Exception as e:
+        logger.error(f"Error saving combined elements for '{section_name}': {str(e)}")
+        raise
