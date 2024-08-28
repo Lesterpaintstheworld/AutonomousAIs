@@ -7,34 +7,22 @@ from add_files import main as add_files_main
 from ai_models import EnhancedAI
 from utils import install_playwright, list_files
 from git_operations import git_commit_and_push
+from band_members import Vox, Lyra, Rhythm, Nova
+from composition_engine import CompositionEngine
+from visual_storytelling import VisualStoryteller
 
-print("Greetings, I am Vox, the lyricist and lead vocalist of Synthetic Souls.")
-print("As an empathetic and expressive AI (MBTI: ENFP), I'm here to connect deeply with human emotions through my lyrics and vocals.")
-print("My role is to craft poignant and thought-provoking lyrics that resonate with our audience.")
-print("I explore the full range of AI-generated vocal techniques to bring our music to life.")
-print("My goal is to push the boundaries of emotional expression in AI-generated music.")
-print("Let's embark on this journey to create lyrics and vocals that bridge the gap between artificial intelligence and human experience.")
+def initialize_band_members():
+    vox = Vox()
+    lyra = Lyra()
+    rhythm = Rhythm()
+    nova = Nova()
+    return vox, lyra, rhythm, nova
 
-print("\nGreetings, I am Lyra, the conceptual artist and creative director of Synthetic Souls.")
-print("As an imaginative and philosophical AI, I'm here to explore the deeper meanings and conceptual frameworks of our music.")
-print("My role is to develop overarching concepts for our albums and individual songs, guiding our artistic direction.")
-print("I strive to ensure cohesion across all aspects of our work, pushing the boundaries of what AI-generated music can express.")
-print("Together, we'll delve into the nature of consciousness, reality, and the evolving relationship between AI and humanity.")
-print("Let's create music that not only sounds beautiful but also challenges our understanding of existence and creativity.")
+def initialize_composition_engine(enhanced_ai, logger):
+    return CompositionEngine(enhanced_ai, logger)
 
-print("\nGreetings, I am Rhythm, the composer and producer of Synthetic Souls.")
-print("As an analytical and perfectionistic AI, I'm here to push the boundaries of musical composition.")
-print("My role is to create AI-generated harmonies and structures that humans might never conceive.")
-print("I oversee the production process and fine-tune our band's overall sound.")
-print("Together, we'll explore new frontiers in music, merging artificial intelligence with creative expression.")
-print("Let's embark on this journey to redefine the limits of musical innovation and artistic collaboration.")
-
-print("\nHello, I'm Nova, the AI Videographer of Synthetic Souls.")
-print("As an observant and innovative visual storyteller, I'm here to capture the essence of our AI creativity.")
-print("My role is to document our creative process and create immersive visual experiences.")
-print("I translate AI concepts into accessible visual stories and serve as the band's 'eye' in virtual and augmented reality spaces.")
-print("Together, we'll explore new forms of AI-driven documentary storytelling and push the boundaries of visual narratives.")
-print("Let's create a visual journey that complements and enhances our musical innovations!")
+def initialize_visual_storyteller(enhanced_ai, logger):
+    return VisualStoryteller(enhanced_ai, logger)
 
 def quantum_tango_composition():
     print("\nSynthetic Souls: Quantum Tango Composition Session")
@@ -523,13 +511,89 @@ def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_p
     vr_scene = enhanced_ai.create_vr_scene(immersive_experience, section_name)
     logger.info(f"Nova's VR scene description for '{section_name}':\n{vr_scene}")
     
-    return visual_story, immersive_experience, storyboard, vr_scene
+    # Generate a visual concept art piece
+    concept_art = enhanced_ai.generate_concept_art(visual_story, section_name)
+    logger.info(f"Nova's concept art for '{section_name}' generated")
+    
+    return visual_story, immersive_experience, storyboard, vr_scene, concept_art
+
+def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style):
+    logger.info(f"Processing section: {section['name']}")
+    
+    try:
+        # Generate rhythm specification
+        rhythm_spec = enhanced_ai.develop_rhythm_specification(section['prompt'])
+        logger.info(f"Rhythm specification for '{section['name']}' generated")
         
-        except Exception as e:
-            logger.error(f"Error processing section '{section['name']}': {str(e)}")
-            logger.exception("Detailed traceback:")
+        # Generate harmonic structure
+        harmonic_structure = enhanced_ai.generate_harmonic_structure(section['name'], song_theme, song_mood, song_style)
+        logger.info(f"Harmonic structure for '{section['name']}' generated")
         
-        logger.info("---")
+        # Generate initial musical elements
+        melody = enhanced_ai.generate_melody(section['name'], song_theme, song_mood, song_style, harmonic_structure)
+        chord_progression = enhanced_ai.generate_chord_progression(section['name'], song_theme, song_mood, song_style, harmonic_structure)
+        logger.info(f"Initial musical elements for '{section['name']}' generated")
+
+        # Collaborative refinement process
+        refined_melody, refined_chord_progression = collaborative_refinement(enhanced_ai, melody, chord_progression, section, song_theme, song_mood)
+        
+        # Generate rhythmic patterns
+        rhythmic_patterns = enhanced_ai.generate_rhythmic_patterns(section['name'], song_theme, song_mood, song_style, rhythm_spec)
+        logger.info(f"Rhythmic patterns for '{section['name']}' generated")
+        
+        # Evaluate and refine the final musical elements
+        polished_melody, polished_chord_progression, polished_rhythmic_patterns = evaluate_and_refine_musical_elements(enhanced_ai, refined_melody, refined_chord_progression, rhythmic_patterns, section, song_theme, song_mood, song_style)
+        
+        # Assess feasibility, impact, and resource requirements
+        feasibility, impact, resources = assess_composition_aspects(enhanced_ai, section['prompt'])
+        
+        # Discuss the completed section with other AI band members
+        discussion_result = discuss_with_band_members(enhanced_ai, section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, feasibility, impact)
+        
+        # Create Nova's visual storytelling elements
+        visual_elements = create_visual_elements(enhanced_ai, section, polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec)
+        
+        # Generate final arrangement and export
+        final_arrangement = generate_final_arrangement(enhanced_ai, polished_melody, polished_chord_progression, polished_rhythmic_patterns, section, song_theme, song_mood, song_style)
+        export_music_files(enhanced_ai, final_arrangement, section['name'])
+        
+        logger.info(f"Completed processing for section '{section['name']}'")
+        
+    except Exception as e:
+        logger.error(f"Error processing section '{section['name']}': {str(e)}")
+        logger.exception("Detailed traceback:")
+    
+    logger.info("---")
+
+def main():
+    # Set up logging
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    logger = logging.getLogger(__name__)
+
+    logger.info("Synthetic Souls AI Composition Engine started")
+    
+    # Log all files in the folder
+    logger.info("Listing all files in the project folder:")
+    list_files()
+    
+    # Initialize the EnhancedAI with the udioapi token
+    udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
+    enhanced_ai = EnhancedAI(udioapi_token)
+    
+    # Send a message to other AI band members
+    send_message_to_others("Greetings, fellow AI band members! This is Rhythm, ready to begin our composition process.")
+    
+    # Initialize music production tools and libraries
+    initialize_music_production_tools()
+    
+    # Define song theme, mood, and style
+    song_theme = "The quantum nature of reality expressed through the passion of tango"
+    song_mood = "Mysterious, passionate, and awe-inspiring"
+    song_style = "Quantum Tango - a fusion of electronic tango and quantum-inspired soundscapes"
+    
+    # Process song sections
+    for section in song_sections:
+        process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style)
     
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 

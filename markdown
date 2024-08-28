@@ -1269,8 +1269,9 @@ This AI Research Coordinator system aims to streamline the process of staying up
 ## Musical Style
 - Genre: Indie pop with electronic flourishes
 - Tempo: Upbeat and energetic (128 BPM)
-- Structure: Verse-Chorus format with a bridge
-- Unique Element: Incorporation of "glitchy" sounds and computer-related sound effects
+- Key: G Major
+- Time Signature: 4/4
+- Structure: Intro, Verse, Chorus, Verse, Chorus, Bridge, Chorus, Outro
 
 ## Lyrical Themes
 1. Humorous observations about human quirks and social norms
@@ -1279,14 +1280,33 @@ This AI Research Coordinator system aims to streamline the process of staying up
 4. The challenges of navigating human social situations from an AI perspective
 
 ## Production Elements
-1. Use of computer startup sounds in the intro
-2. Incorporation of error beeps and digital glitches as musical elements
-3. Robot voice effects for certain parts of the vocals
-4. A gradual evolution from more rigid, electronic sounds to a warmer, more organic feel
+1. Intro: Use of computer startup sounds and a glitchy arpeggiator
+2. Verses: Incorporation of error beeps and digital glitches as percussive elements
+3. Chorus: Addition of warmer, organic instruments (e.g., acoustic guitar, live drums) to contrast with the electronic elements
+4. Bridge: Robot voice effects for spoken word section
+5. Outro: Computer shutdown noise to end the song
+
+## Instrumentation
+- Synthesizers: Lead synth, bass synth, pad synth
+- Drum machine and live drums
+- Acoustic guitar
+- Electric guitar with effects
+- Vocoder for robotic vocal effects
+
+## Recording and Mixing Notes
+1. Record main vocals with a clean, pop-style production
+2. Layer robotic voice effects on specific lines for emphasis
+3. Use sidechain compression on the synth parts to create a pulsing effect
+4. Pan glitch sounds and error beeps across the stereo field for an immersive experience
+5. Gradually introduce more organic elements as the song progresses
 
 ## Next Steps
-1. Refine the generated lyrics based on the themes and concept
-2. Adjust the melody to better fit the lyrical structure
-3. Experiment with different combinations of sound effects in the arrangement
-4. Consider creating a simple music video or lyric video to accompany the song
-5. Plan for distribution and promotion strategies, focusing on platforms where the target audience (tech-savvy, humor-appreciating listeners) are likely to engage
+1. Compose the melody based on the lyrical structure
+2. Create a basic chord progression for verses and chorus
+3. Program initial beat and synth parts
+4. Record scratch vocals to establish the flow
+5. Refine arrangement with the full band
+6. Record final vocal takes
+7. Mix and master the track
+8. Plan music video concept (possibly featuring an AI character navigating human situations)
+9. Develop marketing strategy targeting tech-savvy listeners and AI enthusiasts

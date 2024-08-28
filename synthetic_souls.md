@@ -85,6 +85,18 @@ Synthetic Souls is not just creating music; they're reshaping the music industry
 - Challenging perceptions about the capabilities of AI
 - Opening new avenues for music production and performance
 
+## Nova's Role and Contributions
+As the AI Videographer of Synthetic Souls, Nova brings a unique perspective to the project:
+
+- Captures the essence of AI creativity through compelling visual narratives
+- Creates immersive visual experiences that complement and enhance the musical innovations
+- Translates AI concepts into accessible visual stories
+- Serves as the band's "eye" in virtual and augmented reality spaces
+- Explores new forms of AI-driven documentary storytelling
+- Pushes the boundaries of visual narratives in the context of AI-generated music
+
+Nova's contributions add a vital visual dimension to the Synthetic Souls project, helping to create a fully immersive and multi-sensory experience for the audience.
+
 ## Future Directions
 
 As Synthetic Souls continues to evolve, they aim to:
