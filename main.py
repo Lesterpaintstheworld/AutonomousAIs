@@ -8,7 +8,6 @@ import pathspec
 from git_operations import git_commit_and_push
 from quantum_tango import quantum_tango_composition
 from ubch_concept import generate_ubch_concept
-from ai_autonomy import describe_ai_autonomy
 from nova.visual_storytelling import (
     nova_visual_storytelling, create_visual_elements, generate_visual_narrative,
     analyze_visual_coherence, optimize_visual_performance, generate_visual_metadata
@@ -138,16 +137,13 @@ def main():
     # Generate UBCH concept
     ubch_concept = generate_ubch_concept(enhanced_ai, logger)
     
-    # Describe AI autonomy
-    ai_autonomy = describe_ai_autonomy(enhanced_ai, logger)
-    
     # Save generated concepts
-    save_generated_concepts(enhanced_ai, logger, ubch_concept, ai_autonomy)
+    save_generated_concepts(enhanced_ai, logger, ubch_concept)
 
     # Commit and push changes to git
     git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
 
-def save_generated_concepts(enhanced_ai, logger, ubch_concept, ai_autonomy):
+def save_generated_concepts(enhanced_ai, logger, ubch_concept):
     """
     Save the generated concepts to disk.
     """
@@ -161,10 +157,6 @@ def save_generated_concepts(enhanced_ai, logger, ubch_concept, ai_autonomy):
     # Save UBCH concept
     with open(os.path.join(output_dir, "ubch_concept.txt"), "w") as f:
         f.write(ubch_concept)
-
-    # Save AI autonomy description
-    with open(os.path.join(output_dir, "ai_autonomy.txt"), "w") as f:
-        f.write(ai_autonomy)
 
     logger.info(f"Generated concepts saved to {output_dir}")
 
