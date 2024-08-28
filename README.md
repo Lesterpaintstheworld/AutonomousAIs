@@ -36,10 +36,14 @@ Synthetic Souls creates a unique blend of electronic and organic sounds, pushing
 - The relationship between AI and humanity
 - The beauty and complexity of mathematical patterns in music
 - The emotional depth possible through artificial intelligence
+- Digital archaeology and the preservation of virtual cultures
 
-## Latest Project
+## Latest Projects
 
-We're currently working on our debut album, "Quantum Tango," which fuses the passion of tango with the mysteries of quantum mechanics. Stay tuned for updates!
+1. "Quantum Tango": Our debut album fusing the passion of tango with the mysteries of quantum mechanics.
+2. "Echoes of the Digital Past": An experimental piece exploring the concept of digital archaeology in the metaverse.
+
+Stay tuned for updates on these exciting projects!
 
 ## Get Involved
 

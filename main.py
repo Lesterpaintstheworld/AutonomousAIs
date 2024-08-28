@@ -15,6 +15,7 @@ from nova.visual_storytelling import (
 )
 from composition_engine import CompositionEngine
 from visual_storytelling import VisualStoryteller
+from nova.user_content_moderation import ContentModerator
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -62,6 +63,23 @@ def main():
     # Initialize CompositionEngine and VisualStoryteller
     composition_engine = CompositionEngine(enhanced_ai, logger)
     visual_storyteller = VisualStoryteller(enhanced_ai, logger)
+
+    # Initialize ContentModerator
+    content_moderator = ContentModerator(enhanced_ai)
+
+    # Example of handling user-generated content
+    user_content = [
+        {"id": 1, "text": "I love the quantum tango concept!"},
+        {"id": 2, "text": "This AI music is terrible and should be banned."},
+        {"id": 3, "text": "Can you create a song about space exploration?"}
+    ]
+
+    moderated_content = [content_moderator.moderate_content(content) for content in user_content]
+    curated_content = content_moderator.curate_content(moderated_content)
+
+    logger.info("User-generated content moderated and curated")
+    for content in curated_content:
+        logger.info(f"Content ID: {content['id']}, Status: {content['status']}, Featured: {content.get('featured', False)}")
 
     # Define song theme, mood, and style
     song_theme = "The quantum nature of reality expressed through the passion of tango"
