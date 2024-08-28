@@ -11,7 +11,7 @@ from utils import install_playwright, list_files
 from git_operations import git_commit_and_push
 from band_members import Vox, Lyra, Rhythm, Nova
 from composition_engine import CompositionEngine
-from nova.visual_storytelling import nova_visual_storytelling, export_visual_elements
+from nova.visual_storytelling import create_visual_elements, export_visual_elements
 
 def initialize_band_members():
     vox = Vox()
@@ -607,10 +607,18 @@ def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, so
 
         # Create Nova's visual storytelling elements
         try:
-            visual_elements = nova_visual_storytelling(enhanced_ai, section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec, lyrics)
+            visual_elements = create_visual_elements(section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec)
             logger.info(f"Visual storytelling elements for '{section['name']}' created")
         except Exception as e:
             logger.error(f"Error creating visual storytelling elements for '{section['name']}': {str(e)}")
+            raise
+
+        # Generate visual narrative
+        try:
+            visual_narrative = generate_visual_narrative(visual_elements, lyrics, section['name'])
+            logger.info(f"Visual narrative for '{section['name']}' generated")
+        except Exception as e:
+            logger.error(f"Error generating visual narrative for '{section['name']}': {str(e)}")
             raise
         
         # Generate final arrangement and export
@@ -624,12 +632,12 @@ def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, so
             logger.error(f"Error generating final arrangement or exporting music files for '{section['name']}': {str(e)}")
             raise
         
-        # Export visual elements
+        # Export visual elements and narrative
         try:
-            exported_visual_paths = export_visual_elements(enhanced_ai, visual_elements, section['name'])
-            logger.info(f"Visual elements for '{section['name']}' exported")
+            exported_visual_paths = export_visual_elements(visual_elements, visual_narrative, section['name'])
+            logger.info(f"Visual elements and narrative for '{section['name']}' exported")
         except Exception as e:
-            logger.error(f"Error exporting visual elements for '{section['name']}': {str(e)}")
+            logger.error(f"Error exporting visual elements and narrative for '{section['name']}': {str(e)}")
             raise
         
         # Combine musical and visual elements
@@ -729,28 +737,31 @@ if __name__ == "__main__":
     except Exception as e:
         logger.error(f"An error occurred in the main execution: {str(e)}")
         logger.exception("Detailed traceback:")
-def export_visual_elements(enhanced_ai, visual_elements, section_name):
+def export_visual_elements(visual_elements: Dict[str, str], visual_narrative: str, section_name: str) -> Dict[str, str]:
     """
-    Export visual elements created by Nova.
+    Export visual elements and narrative created by Nova.
     """
-    export_functions = {
-        'storyboard': enhanced_ai.export_storyboard,
-        'concept_art': enhanced_ai.export_concept_art,
-        'vr_scene': enhanced_ai.export_vr_scene,
-        'ar_experience': enhanced_ai.export_ar_experience,
-        'video_360_concept': enhanced_ai.export_360_video_concept,
-        'interactive_mv_concept': enhanced_ai.export_interactive_music_video_concept,
-        'vfx_breakdown': enhanced_ai.export_vfx_breakdown
-    }
-    
     exported_paths = {}
     
-    for element_name, export_function in export_functions.items():
-        if element_name in visual_elements:
-            exported_paths[element_name] = export_function(visual_elements[element_name], section_name)
-            logger.info(f"{element_name.capitalize()} exported for '{section_name}': {exported_paths[element_name]}")
-        else:
-            logger.warning(f"{element_name.capitalize()} not found in visual elements for '{section_name}'")
+    try:
+        # Export individual visual elements
+        for element_name, element_content in visual_elements.items():
+            file_name = f"{section_name}_{element_name}.txt"
+            with open(file_name, 'w') as f:
+                f.write(element_content)
+            exported_paths[element_name] = file_name
+            logger.info(f"{element_name.capitalize()} exported for '{section_name}': {file_name}")
+        
+        # Export visual narrative
+        narrative_file_name = f"{section_name}_visual_narrative.txt"
+        with open(narrative_file_name, 'w') as f:
+            f.write(visual_narrative)
+        exported_paths['visual_narrative'] = narrative_file_name
+        logger.info(f"Visual narrative exported for '{section_name}': {narrative_file_name}")
+    
+    except Exception as e:
+        logger.error(f"Error exporting visual elements for section '{section_name}': {str(e)}")
+        raise
     
     return exported_paths
 import json
