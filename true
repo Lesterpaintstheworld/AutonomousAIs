@@ -508,42 +508,36 @@ def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_p
     """
     Nova's function to create visual narratives and immersive experiences based on the song section.
     """
-    visual_story = enhanced_ai.generate_nova_visual_story(section_name, melody, chord_progression, rhythmic_patterns, lyrics)
-    logger.info(f"Nova's visual story for '{section_name}':\n{visual_story}")
+    visual_elements = {}
     
-    # Create an immersive experience that integrates audio and visual elements
-    immersive_experience = enhanced_ai.create_immersive_experience(visual_story, rhythm_spec, melody, chord_progression, rhythmic_patterns, lyrics)
-    logger.info(f"Nova's immersive experience concept for '{section_name}':\n{immersive_experience}")
+    visual_elements['visual_story'] = enhanced_ai.generate_nova_visual_story(section_name, melody, chord_progression, rhythmic_patterns, lyrics)
+    logger.info(f"Nova's visual story for '{section_name}' generated")
     
-    # Generate a storyboard for the visual narrative
-    storyboard = enhanced_ai.generate_storyboard(visual_story, section_name)
-    logger.info(f"Nova's storyboard for '{section_name}':\n{storyboard}")
+    visual_elements['immersive_experience'] = enhanced_ai.create_immersive_experience(visual_elements['visual_story'], rhythm_spec, melody, chord_progression, rhythmic_patterns, lyrics)
+    logger.info(f"Nova's immersive experience concept for '{section_name}' created")
     
-    # Create a virtual reality scene description
-    vr_scene = enhanced_ai.create_vr_scene(immersive_experience, section_name)
-    logger.info(f"Nova's VR scene description for '{section_name}':\n{vr_scene}")
+    visual_elements['storyboard'] = enhanced_ai.generate_storyboard(visual_elements['visual_story'], section_name)
+    logger.info(f"Nova's storyboard for '{section_name}' generated")
     
-    # Generate a visual concept art piece
-    concept_art = enhanced_ai.generate_concept_art(visual_story, section_name)
+    visual_elements['vr_scene'] = enhanced_ai.create_vr_scene(visual_elements['immersive_experience'], section_name)
+    logger.info(f"Nova's VR scene description for '{section_name}' created")
+    
+    visual_elements['concept_art'] = enhanced_ai.generate_concept_art(visual_elements['visual_story'], section_name)
     logger.info(f"Nova's concept art for '{section_name}' generated")
     
-    # Create an augmented reality experience description
-    ar_experience = enhanced_ai.create_ar_experience(visual_story, immersive_experience, section_name)
-    logger.info(f"Nova's AR experience for '{section_name}':\n{ar_experience}")
+    visual_elements['ar_experience'] = enhanced_ai.create_ar_experience(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name)
+    logger.info(f"Nova's AR experience for '{section_name}' created")
     
-    # Generate a 360-degree video concept
-    video_360_concept = enhanced_ai.generate_360_video_concept(visual_story, immersive_experience, section_name)
-    logger.info(f"Nova's 360-degree video concept for '{section_name}':\n{video_360_concept}")
+    visual_elements['video_360_concept'] = enhanced_ai.generate_360_video_concept(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name)
+    logger.info(f"Nova's 360-degree video concept for '{section_name}' generated")
     
-    # Generate an interactive music video concept
-    interactive_mv_concept = enhanced_ai.generate_interactive_music_video_concept(visual_story, immersive_experience, section_name)
-    logger.info(f"Nova's interactive music video concept for '{section_name}':\n{interactive_mv_concept}")
+    visual_elements['interactive_mv_concept'] = enhanced_ai.generate_interactive_music_video_concept(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name)
+    logger.info(f"Nova's interactive music video concept for '{section_name}' generated")
     
-    # Create a visual effects breakdown
-    vfx_breakdown = enhanced_ai.create_vfx_breakdown(visual_story, immersive_experience, section_name)
-    logger.info(f"Nova's VFX breakdown for '{section_name}':\n{vfx_breakdown}")
+    visual_elements['vfx_breakdown'] = enhanced_ai.create_vfx_breakdown(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name)
+    logger.info(f"Nova's VFX breakdown for '{section_name}' created")
     
-    return visual_story, immersive_experience, storyboard, vr_scene, concept_art, ar_experience, video_360_concept, interactive_mv_concept, vfx_breakdown
+    return visual_elements
 
 def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style):
     logger.info(f"Processing section: {section['name']}")
@@ -583,14 +577,24 @@ def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, so
         logger.info(f"Lyrics generated for '{section['name']}'")
 
         # Create Nova's visual storytelling elements
-        visual_elements = create_visual_elements(enhanced_ai, section, polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec, lyrics)
+        visual_elements = nova_visual_storytelling(section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec, lyrics)
         
         # Generate final arrangement and export
         final_arrangement = generate_final_arrangement(enhanced_ai, polished_melody, polished_chord_progression, polished_rhythmic_patterns, lyrics, section, song_theme, song_mood, song_style)
         export_music_files(enhanced_ai, final_arrangement, section['name'])
         
         # Export visual elements
-        export_visual_elements(enhanced_ai, visual_elements, section['name'])
+        exported_visual_paths = export_visual_elements(enhanced_ai, visual_elements, section['name'])
+        
+        # Combine musical and visual elements
+        combined_elements = {
+            'musical': final_arrangement,
+            'visual': visual_elements,
+            'exported_paths': exported_visual_paths
+        }
+        
+        # Save combined elements for further processing or final output
+        save_combined_elements(combined_elements, section['name'])
         
         logger.info(f"Completed processing for section '{section['name']}'")
         
@@ -660,32 +664,37 @@ def export_visual_elements(enhanced_ai, visual_elements, section_name):
     """
     Export visual elements created by Nova.
     """
-    visual_story, immersive_experience, storyboard, vr_scene, concept_art, ar_experience, video_360_concept, interactive_mv_concept, vfx_breakdown = visual_elements
+    export_functions = {
+        'storyboard': enhanced_ai.export_storyboard,
+        'concept_art': enhanced_ai.export_concept_art,
+        'vr_scene': enhanced_ai.export_vr_scene,
+        'ar_experience': enhanced_ai.export_ar_experience,
+        'video_360_concept': enhanced_ai.export_360_video_concept,
+        'interactive_mv_concept': enhanced_ai.export_interactive_music_video_concept,
+        'vfx_breakdown': enhanced_ai.export_vfx_breakdown
+    }
     
-    # Export storyboard as a series of images
-    storyboard_path = enhanced_ai.export_storyboard(storyboard, section_name)
-    logger.info(f"Storyboard exported for '{section_name}': {storyboard_path}")
+    exported_paths = {}
     
-    # Export concept art
-    concept_art_path = enhanced_ai.export_concept_art(concept_art, section_name)
-    logger.info(f"Concept art exported for '{section_name}': {concept_art_path}")
+    for element_name, export_function in export_functions.items():
+        if element_name in visual_elements:
+            exported_paths[element_name] = export_function(visual_elements[element_name], section_name)
+            logger.info(f"{element_name.capitalize()} exported for '{section_name}': {exported_paths[element_name]}")
+        else:
+            logger.warning(f"{element_name.capitalize()} not found in visual elements for '{section_name}'")
     
-    # Export VR scene as a 3D model or description file
-    vr_scene_path = enhanced_ai.export_vr_scene(vr_scene, section_name)
-    logger.info(f"VR scene exported for '{section_name}': {vr_scene_path}")
+    return exported_paths
+def save_combined_elements(combined_elements, section_name):
+    """
+    Save the combined musical and visual elements for a section.
+    """
+    # Create a directory for the section if it doesn't exist
+    section_dir = os.path.join('output', section_name)
+    os.makedirs(section_dir, exist_ok=True)
     
-    # Export AR experience as a project file or description
-    ar_experience_path = enhanced_ai.export_ar_experience(ar_experience, section_name)
-    logger.info(f"AR experience exported for '{section_name}': {ar_experience_path}")
+    # Save the combined elements as a JSON file
+    combined_file_path = os.path.join(section_dir, f"{section_name}_combined_elements.json")
+    with open(combined_file_path, 'w') as f:
+        json.dump(combined_elements, f, indent=2)
     
-    # Export 360-degree video concept as a storyboard or description
-    video_360_path = enhanced_ai.export_360_video_concept(video_360_concept, section_name)
-    logger.info(f"360-degree video concept exported for '{section_name}': {video_360_path}")
-    
-    # Export interactive music video concept
-    interactive_mv_path = enhanced_ai.export_interactive_music_video_concept(interactive_mv_concept, section_name)
-    logger.info(f"Interactive music video concept exported for '{section_name}': {interactive_mv_path}")
-    
-    # Export VFX breakdown
-    vfx_breakdown_path = enhanced_ai.export_vfx_breakdown(vfx_breakdown, section_name)
-    logger.info(f"VFX breakdown exported for '{section_name}': {vfx_breakdown_path}")
+    logger.info(f"Combined elements for '{section_name}' saved to {combined_file_path}")
