@@ -87,37 +87,40 @@ def main():
     # Generate music and visual elements for each section
     sections = ["intro", "verse", "chorus", "bridge", "outro"]
     for section in sections:
-        # Generate music
-        melody, chord_progression, rhythmic_patterns, rhythm_spec = composition_engine.generate_section(section)
-        
-        # Generate lyrics
-        lyrics = composition_engine.generate_lyrics(section, melody, chord_progression)
-        
-        # Create visual elements
-        visual_elements = create_visual_elements(enhanced_ai, section, melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics)
-        
-        # Generate visual narrative
-        visual_narrative = generate_visual_narrative(visual_elements, lyrics, section)
-        
-        # Analyze visual coherence
-        coherence_analysis = analyze_visual_coherence(visual_elements, section)
-        
-        # Optimize visual performance
-        optimized_elements = optimize_visual_performance(visual_elements, section)
-        
-        # Generate visual metadata
-        visual_metadata = generate_visual_metadata(visual_elements, section)
-        
-        # Export visual elements
-        exported_paths = export_visual_elements(enhanced_ai, visual_elements, section)
-        
-        # Log results
-        logger.info(f"Generated music and visuals for {section}")
-        logger.info(f"Visual narrative: {visual_narrative[:100]}...")
-        logger.info(f"Coherence analysis: {coherence_analysis[:100]}...")
-        logger.info(f"Optimized elements: {list(optimized_elements.keys())}")
-        logger.info(f"Visual metadata: {list(visual_metadata.keys())}")
-        logger.info(f"Exported paths: {exported_paths}")
+        try:
+            # Generate music
+            melody, chord_progression, rhythmic_patterns, rhythm_spec = composition_engine.generate_section(section)
+            
+            # Generate lyrics
+            lyrics = composition_engine.generate_lyrics(section, melody, chord_progression)
+            
+            # Create visual elements
+            visual_elements = create_visual_elements(enhanced_ai, section, melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics)
+            
+            # Generate visual narrative
+            visual_narrative = generate_visual_narrative(visual_elements, lyrics, section)
+            
+            # Analyze visual coherence
+            coherence_analysis = analyze_visual_coherence(visual_elements, section)
+            
+            # Optimize visual performance
+            optimized_elements = optimize_visual_performance(visual_elements, section)
+            
+            # Generate visual metadata
+            visual_metadata = generate_visual_metadata(visual_elements, section)
+            
+            # Export visual elements
+            exported_paths = export_visual_elements(enhanced_ai, visual_elements, section)
+            
+            # Log results
+            logger.info(f"Generated music and visuals for {section}")
+            logger.info(f"Visual narrative: {visual_narrative[:100]}...")
+            logger.info(f"Coherence analysis: {coherence_analysis[:100]}...")
+            logger.info(f"Optimized elements: {list(optimized_elements.keys())}")
+            logger.info(f"Visual metadata: {list(visual_metadata.keys())}")
+            logger.info(f"Exported paths: {exported_paths}")
+        except Exception as e:
+            logger.error(f"Error processing section {section}: {str(e)}")
 
     # Send a message to other AI band members
     send_message_to_others("Hello team! I've generated music and visuals for our new composition. Let's review and refine!")
