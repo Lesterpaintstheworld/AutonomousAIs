@@ -69,8 +69,8 @@ def main():
     sections = ["intro", "verse", "chorus", "bridge", "outro"]
     for section in sections:
         try:
-            # Generate music
-            melody, chord_progression, rhythmic_patterns, rhythm_spec = composition_engine.generate_section(section, song_theme, song_mood, song_style)
+            # Generate music and innovative elements
+            melody, chord_progression, rhythmic_patterns, rhythm_spec, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody = composition_engine.generate_section(section, song_theme, song_mood, song_style)
             
             # Generate lyrics
             lyrics = composition_engine.generate_lyrics(section, song_theme, song_mood)
@@ -91,7 +91,7 @@ def main():
             visual_metadata = generate_visual_metadata(visual_elements, section)
             
             # Save generated content
-            save_generated_content(section, melody, chord_progression, rhythmic_patterns, lyrics, visual_elements, visual_narrative, optimized_elements, visual_metadata)
+            save_generated_content(section, melody, chord_progression, rhythmic_patterns, lyrics, visual_elements, visual_narrative, optimized_elements, visual_metadata, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody)
 
             # Log results
             logger.info(f"Generated and saved music and visuals for {section}")
@@ -99,6 +99,10 @@ def main():
             logger.info(f"Coherence analysis: {coherence_analysis[:100]}...")
             logger.info(f"Optimized elements: {list(optimized_elements.keys())}")
             logger.info(f"Visual metadata: {list(visual_metadata.keys())}")
+            logger.info(f"Visual Rhythm: {visual_rhythm[:100]}...")
+            logger.info(f"Quantum Harmonies: {quantum_harmonies[:100]}...")
+            logger.info(f"Emotion-Color Soundscape: {emotion_color_soundscape[:100]}...")
+            logger.info(f"Fractal Melody: {fractal_melody[:100]}...")
         except Exception as e:
             logger.error(f"Error processing section {section}: {str(e)}")
 
@@ -134,7 +138,7 @@ def present_human_exe_concept():
     send_message_to_others(concept)
     logger.info("Human.exe concept presented to the band")
 
-def save_generated_content(section, melody, chord_progression, rhythmic_patterns, lyrics, visual_elements, visual_narrative, optimized_elements, visual_metadata):
+def save_generated_content(section, melody, chord_progression, rhythmic_patterns, lyrics, visual_elements, visual_narrative, optimized_elements, visual_metadata, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody):
     """
     Save the generated content for each section to disk.
     """
@@ -173,6 +177,16 @@ def save_generated_content(section, melody, chord_progression, rhythmic_patterns
     # Save visual metadata
     with open(os.path.join(section_dir, "visual_metadata.json"), "w") as f:
         json.dump(visual_metadata, f, indent=2)
+
+    # Save new innovative elements
+    with open(os.path.join(section_dir, "visual_rhythm.txt"), "w") as f:
+        f.write(visual_rhythm)
+    with open(os.path.join(section_dir, "quantum_harmonies.txt"), "w") as f:
+        f.write(quantum_harmonies)
+    with open(os.path.join(section_dir, "emotion_color_soundscape.txt"), "w") as f:
+        f.write(emotion_color_soundscape)
+    with open(os.path.join(section_dir, "fractal_melody.txt"), "w") as f:
+        f.write(fractal_melody)
 
     logger.info(f"Generated content for section '{section}' saved to {section_dir}")
 
