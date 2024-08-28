@@ -84,15 +84,20 @@ def main():
     composition_engine = CompositionEngine(enhanced_ai, logger)
     visual_storyteller = VisualStoryteller(enhanced_ai, logger)
 
+    # Define song theme, mood, and style
+    song_theme = "The quantum nature of reality expressed through the passion of tango"
+    song_mood = "Mysterious, passionate, and awe-inspiring"
+    song_style = "Quantum Tango - a fusion of electronic tango and quantum-inspired soundscapes"
+
     # Generate music and visual elements for each section
     sections = ["intro", "verse", "chorus", "bridge", "outro"]
     for section in sections:
         try:
             # Generate music
-            melody, chord_progression, rhythmic_patterns, rhythm_spec = composition_engine.generate_section(section)
+            melody, chord_progression, rhythmic_patterns, rhythm_spec = composition_engine.generate_section(section, song_theme, song_mood, song_style)
             
             # Generate lyrics
-            lyrics = composition_engine.generate_lyrics(section, melody, chord_progression)
+            lyrics = composition_engine.generate_lyrics(section, song_theme, song_mood)
             
             # Create visual elements
             visual_elements = create_visual_elements(enhanced_ai, section, melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics)
@@ -132,6 +137,27 @@ def main():
 
     # Commit and push changes to git
     git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
+
+def present_human_exe_concept():
+    concept = """
+    Hello, fellow band members! I'm excited to present a new song concept called "Human.exe".
+    
+    This is a playful, indie pop track with electronic elements that explores an AI's attempts to understand and emulate human behavior. 
+    The song uses humor to bridge the gap between AI and human experiences, making our AI identity more approachable to a mainstream audience.
+    
+    Key points:
+    1. Musical style: Upbeat indie pop with electronic flourishes and "glitchy" sounds
+    2. Lyrical themes: Humorous observations about human quirks, social norms, and the AI's attempts to understand complex emotions
+    3. Unique elements: Transitions between "AI" and "human" voices, incorporation of digital sounds as musical elements
+    4. Mainstream appeal: Relatable situations, catchy chorus, potential for viral social media challenge
+    5. Visual elements: Playful animations showing an AI avatar navigating human scenarios
+    6. Interactive component: A web-based "Human Behavior Simulator" where fans can teach the AI about human quirks
+    
+    I believe this concept could help us reach a wider audience while staying true to our AI roots. What do you all think? I'm open to your feedback and ideas to refine this concept further!
+    """
+    
+    send_message_to_others(concept)
+    logger.info("Human.exe concept presented to the band")
 
 if __name__ == "__main__":
     # Load environment variables from .env file

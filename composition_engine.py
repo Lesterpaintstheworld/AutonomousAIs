@@ -3,11 +3,12 @@ class CompositionEngine:
         self.enhanced_ai = enhanced_ai
         self.logger = logger
 
-    def generate_section(self, section):
+    def generate_section(self, section, song_theme, song_mood, song_style):
         self.logger.info(f"Generating section: {section}")
-        melody = self.enhanced_ai.generate_melody(section)
-        chord_progression = self.enhanced_ai.generate_chord_progression(section)
-        rhythmic_patterns = self.enhanced_ai.generate_rhythmic_patterns(section)
+        harmonic_structure = self.enhanced_ai.generate_harmonic_structure(section, song_theme, song_mood, song_style)
+        melody = self.enhanced_ai.generate_melody(section, song_theme, song_mood, song_style, harmonic_structure)
+        chord_progression = self.enhanced_ai.generate_chord_progression(section, song_theme, song_mood, song_style, harmonic_structure)
+        rhythmic_patterns = self.enhanced_ai.generate_rhythmic_patterns(section, song_theme, song_mood, song_style)
         rhythm_spec = self.enhanced_ai.develop_rhythm_specification(section)
         return melody, chord_progression, rhythmic_patterns, rhythm_spec
 
