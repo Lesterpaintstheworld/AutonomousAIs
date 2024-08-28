@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 import os
 import logging
 import json
+import random
 from openai import OpenAI
 from ai_models import EnhancedAI
 import pathspec
@@ -50,6 +51,8 @@ def list_repository_files(ignore_spec):
             if not ignore_spec.match_file(file_path):
                 logger.info(file_path)
 
+from user_onboarding import initialize_onboarding
+
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
 
@@ -66,6 +69,9 @@ def main():
     # Initialize ContentModerator
     content_moderator = ContentModerator(enhanced_ai)
 
+    # Start user onboarding
+    user_preferences = initialize_onboarding(logger)
+
     # Example of handling user-generated content
     user_content = [
         {"id": 1, "text": "I love the quantum tango concept!"},
@@ -80,10 +86,10 @@ def main():
     for content in curated_content:
         logger.info(f"Content ID: {content['id']}, Status: {content['status']}, Featured: {content.get('featured', False)}")
 
-    # Define song theme, mood, and style
-    song_theme = "The quantum nature of reality expressed through the passion of tango"
+    # Define song theme, mood, and style based on user preferences
+    song_theme = f"The quantum nature of reality expressed through the passion of {user_preferences['favorite_genre']}"
     song_mood = "Mysterious, passionate, and awe-inspiring"
-    song_style = "Quantum Tango - a fusion of electronic tango and quantum-inspired soundscapes"
+    song_style = f"Quantum Fusion - a blend of {user_preferences['favorite_genre']} and quantum-inspired soundscapes"
 
     # Generate music and visual elements for each section
     sections = ["intro", "verse", "chorus", "bridge", "outro"]
@@ -123,6 +129,12 @@ def main():
             logger.info(f"Quantum Harmonies: {quantum_harmonies[:100]}...")
             logger.info(f"Emotion-Color Soundscape: {emotion_color_soundscape[:100]}...")
             logger.info(f"Fractal Melody: {fractal_melody[:100]}...")
+
+            # Simulate user feedback (replace with actual user input in a real application)
+            user_feedback = random.uniform(0, 1)
+            composition_engine.update_difficulty(user_feedback)
+            logger.info(f"Updated difficulty level: {composition_engine.difficulty_level}")
+
         except Exception as e:
             logger.error(f"Error processing section {section}: {str(e)}")
 
