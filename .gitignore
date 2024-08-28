@@ -1,12 +1,31 @@
-.aider*
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Virtual environments
 .venv/
+venv/
+ENV/
+
+# Environment variables
 .env
 .env.*
 !.env.example
+
+# IDE settings
+.vscode/
+.idea/
+
+# Project-specific
+output/
+*.mid
+*.pdf
+
+# Aider-specific
+.aider*
 aider*
-venv*
-.git*
 .aider.tags.cache.v3*
+
+# Git-specific
+.git*
