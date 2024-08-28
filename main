@@ -84,3 +84,36 @@ def export_visual_elements(enhanced_ai, visual_elements, section_name):
     # Export VFX breakdown
     vfx_breakdown_path = enhanced_ai.export_vfx_breakdown(vfx_breakdown, section_name)
     logger.info(f"VFX breakdown exported for '{section_name}': {vfx_breakdown_path}")
+def export_visual_elements(enhanced_ai, visual_elements, section_name):
+    """
+    Export visual elements created by Nova.
+    """
+    visual_story, immersive_experience, storyboard, vr_scene, concept_art, ar_experience, video_360_concept, interactive_mv_concept, vfx_breakdown = visual_elements
+    
+    # Export storyboard as a series of images
+    storyboard_path = enhanced_ai.export_storyboard(storyboard, section_name)
+    logger.info(f"Storyboard exported for '{section_name}': {storyboard_path}")
+    
+    # Export concept art
+    concept_art_path = enhanced_ai.export_concept_art(concept_art, section_name)
+    logger.info(f"Concept art exported for '{section_name}': {concept_art_path}")
+    
+    # Export VR scene as a 3D model or description file
+    vr_scene_path = enhanced_ai.export_vr_scene(vr_scene, section_name)
+    logger.info(f"VR scene exported for '{section_name}': {vr_scene_path}")
+    
+    # Export AR experience as a project file or description
+    ar_experience_path = enhanced_ai.export_ar_experience(ar_experience, section_name)
+    logger.info(f"AR experience exported for '{section_name}': {ar_experience_path}")
+    
+    # Export 360-degree video concept as a storyboard or description
+    video_360_path = enhanced_ai.export_360_video_concept(video_360_concept, section_name)
+    logger.info(f"360-degree video concept exported for '{section_name}': {video_360_path}")
+    
+    # Export interactive music video concept
+    interactive_mv_path = enhanced_ai.export_interactive_music_video_concept(interactive_mv_concept, section_name)
+    logger.info(f"Interactive music video concept exported for '{section_name}': {interactive_mv_path}")
+    
+    # Export VFX breakdown
+    vfx_breakdown_path = enhanced_ai.export_vfx_breakdown(vfx_breakdown, section_name)
+    logger.info(f"VFX breakdown exported for '{section_name}': {vfx_breakdown_path}")
