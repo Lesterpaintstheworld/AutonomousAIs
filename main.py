@@ -89,8 +89,11 @@ def main():
             # Generate visual metadata
             visual_metadata = generate_visual_metadata(visual_elements, section)
             
+            # Save generated content
+            save_generated_content(section, melody, chord_progression, rhythmic_patterns, lyrics, visual_elements, visual_narrative, optimized_elements, visual_metadata)
+
             # Log results
-            logger.info(f"Generated music and visuals for {section}")
+            logger.info(f"Generated and saved music and visuals for {section}")
             logger.info(f"Visual narrative: {visual_narrative[:100]}...")
             logger.info(f"Coherence analysis: {coherence_analysis[:100]}...")
             logger.info(f"Optimized elements: {list(optimized_elements.keys())}")
@@ -99,7 +102,7 @@ def main():
             logger.error(f"Error processing section {section}: {str(e)}")
 
     # Send a message to other AI band members
-    send_message_to_others("Hello team! I've generated music and visuals for our new composition. Let's review and refine!")
+    send_message_to_others("Hello team! I've generated and saved music and visuals for our new composition. Let's review and refine!")
 
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
@@ -129,6 +132,48 @@ def present_human_exe_concept():
     
     send_message_to_others(concept)
     logger.info("Human.exe concept presented to the band")
+
+def save_generated_content(section, melody, chord_progression, rhythmic_patterns, lyrics, visual_elements, visual_narrative, optimized_elements, visual_metadata):
+    """
+    Save the generated content for each section to disk.
+    """
+    # Create a directory for the generated content if it doesn't exist
+    output_dir = os.path.join("output", "generated_content")
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Create a subdirectory for the current section
+    section_dir = os.path.join(output_dir, section)
+    os.makedirs(section_dir, exist_ok=True)
+
+    # Save musical elements
+    with open(os.path.join(section_dir, "melody.txt"), "w") as f:
+        f.write(melody)
+    with open(os.path.join(section_dir, "chord_progression.txt"), "w") as f:
+        f.write(chord_progression)
+    with open(os.path.join(section_dir, "rhythmic_patterns.txt"), "w") as f:
+        f.write(rhythmic_patterns)
+    with open(os.path.join(section_dir, "lyrics.txt"), "w") as f:
+        f.write(lyrics)
+
+    # Save visual elements
+    for key, value in visual_elements.items():
+        with open(os.path.join(section_dir, f"{key}.txt"), "w") as f:
+            f.write(value)
+
+    # Save visual narrative
+    with open(os.path.join(section_dir, "visual_narrative.txt"), "w") as f:
+        f.write(visual_narrative)
+
+    # Save optimized elements
+    for key, value in optimized_elements.items():
+        with open(os.path.join(section_dir, f"optimized_{key}.txt"), "w") as f:
+            f.write(value)
+
+    # Save visual metadata
+    with open(os.path.join(section_dir, "visual_metadata.json"), "w") as f:
+        json.dump(visual_metadata, f, indent=2)
+
+    logger.info(f"Generated content for section '{section}' saved to {section_dir}")
 
 if __name__ == "__main__":
     # Load environment variables from .env file
