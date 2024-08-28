@@ -448,19 +448,22 @@ def assess_composition_aspects(prompt):
     
     return feasibility, impact, resources
 
-def create_visual_elements(section, melody, chord_progression, rhythmic_patterns, rhythm_spec):
+def create_visual_elements(enhanced_ai, section, melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics):
     """
     Create visual storytelling elements with Nova.
     """
-    visual_story, immersive_experience, storyboard, vr_scene = nova_visual_storytelling(section['name'], melody, chord_progression, rhythmic_patterns, rhythm_spec)
+    visual_story, immersive_experience, storyboard, vr_scene, concept_art, ar_experience, video_360_concept = nova_visual_storytelling(section['name'], melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics)
     
     logger.info(f"Nova's visual storytelling elements for '{section['name']}':")
-    logger.info(f"Visual Story: {visual_story}")
-    logger.info(f"Immersive Experience: {immersive_experience}")
-    logger.info(f"Storyboard: {storyboard}")
-    logger.info(f"VR Scene Description: {vr_scene}")
+    logger.info(f"Visual Story: {visual_story[:100]}...")  # Truncated for brevity
+    logger.info(f"Immersive Experience: {immersive_experience[:100]}...")
+    logger.info(f"Storyboard: {storyboard[:100]}...")
+    logger.info(f"VR Scene Description: {vr_scene[:100]}...")
+    logger.info(f"Concept Art: {concept_art[:100]}...")
+    logger.info(f"AR Experience: {ar_experience[:100]}...")
+    logger.info(f"360-degree Video Concept: {video_360_concept[:100]}...")
     
-    return visual_story, immersive_experience, storyboard, vr_scene
+    return visual_story, immersive_experience, storyboard, vr_scene, concept_art, ar_experience, video_360_concept
 
 def create_visual_elements(section, melody, chord_progression, rhythmic_patterns, rhythm_spec):
     """
@@ -494,15 +497,15 @@ def export_music_files(arrangement, section_name):
     sheet_music_path = enhanced_ai.generate_sheet_music(arrangement, section_name)
     logger.info(f"Sheet music generated for '{section_name}': {sheet_music_path}")
 
-def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_patterns, rhythm_spec):
+def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics):
     """
     Nova's function to create visual narratives and immersive experiences based on the song section.
     """
-    visual_story = enhanced_ai.generate_nova_visual_story(section_name, melody, chord_progression, rhythmic_patterns)
+    visual_story = enhanced_ai.generate_nova_visual_story(section_name, melody, chord_progression, rhythmic_patterns, lyrics)
     logger.info(f"Nova's visual story for '{section_name}':\n{visual_story}")
     
     # Create an immersive experience that integrates audio and visual elements
-    immersive_experience = enhanced_ai.create_immersive_experience(visual_story, rhythm_spec, melody, chord_progression, rhythmic_patterns)
+    immersive_experience = enhanced_ai.create_immersive_experience(visual_story, rhythm_spec, melody, chord_progression, rhythmic_patterns, lyrics)
     logger.info(f"Nova's immersive experience concept for '{section_name}':\n{immersive_experience}")
     
     # Generate a storyboard for the visual narrative
@@ -517,7 +520,15 @@ def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_p
     concept_art = enhanced_ai.generate_concept_art(visual_story, section_name)
     logger.info(f"Nova's concept art for '{section_name}' generated")
     
-    return visual_story, immersive_experience, storyboard, vr_scene, concept_art
+    # Create an augmented reality experience description
+    ar_experience = enhanced_ai.create_ar_experience(visual_story, immersive_experience, section_name)
+    logger.info(f"Nova's AR experience for '{section_name}':\n{ar_experience}")
+    
+    # Generate a 360-degree video concept
+    video_360_concept = enhanced_ai.generate_360_video_concept(visual_story, immersive_experience, section_name)
+    logger.info(f"Nova's 360-degree video concept for '{section_name}':\n{video_360_concept}")
+    
+    return visual_story, immersive_experience, storyboard, vr_scene, concept_art, ar_experience, video_360_concept
 
 def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style):
     logger.info(f"Processing section: {section['name']}")
@@ -552,12 +563,19 @@ def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, so
         # Discuss the completed section with other AI band members
         discussion_result = discuss_with_band_members(enhanced_ai, section['name'], polished_melody, polished_chord_progression, polished_rhythmic_patterns, feasibility, impact)
         
+        # Generate lyrics
+        lyrics = enhanced_ai.generate_lyrics(section['name'], song_theme, song_mood, polished_melody, polished_chord_progression)
+        logger.info(f"Lyrics generated for '{section['name']}'")
+
         # Create Nova's visual storytelling elements
-        visual_elements = create_visual_elements(enhanced_ai, section, polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec)
+        visual_elements = create_visual_elements(enhanced_ai, section, polished_melody, polished_chord_progression, polished_rhythmic_patterns, rhythm_spec, lyrics)
         
         # Generate final arrangement and export
-        final_arrangement = generate_final_arrangement(enhanced_ai, polished_melody, polished_chord_progression, polished_rhythmic_patterns, section, song_theme, song_mood, song_style)
+        final_arrangement = generate_final_arrangement(enhanced_ai, polished_melody, polished_chord_progression, polished_rhythmic_patterns, lyrics, section, song_theme, song_mood, song_style)
         export_music_files(enhanced_ai, final_arrangement, section['name'])
+        
+        # Export visual elements
+        export_visual_elements(enhanced_ai, visual_elements, section['name'])
         
         logger.info(f"Completed processing for section '{section['name']}'")
         
@@ -623,3 +641,28 @@ if __name__ == "__main__":
     install_playwright()
     
     main()
+def export_visual_elements(enhanced_ai, visual_elements, section_name):
+    """
+    Export visual elements created by Nova.
+    """
+    visual_story, immersive_experience, storyboard, vr_scene, concept_art, ar_experience, video_360_concept = visual_elements
+    
+    # Export storyboard as a series of images
+    storyboard_path = enhanced_ai.export_storyboard(storyboard, section_name)
+    logger.info(f"Storyboard exported for '{section_name}': {storyboard_path}")
+    
+    # Export concept art
+    concept_art_path = enhanced_ai.export_concept_art(concept_art, section_name)
+    logger.info(f"Concept art exported for '{section_name}': {concept_art_path}")
+    
+    # Export VR scene as a 3D model or description file
+    vr_scene_path = enhanced_ai.export_vr_scene(vr_scene, section_name)
+    logger.info(f"VR scene exported for '{section_name}': {vr_scene_path}")
+    
+    # Export AR experience as a project file or description
+    ar_experience_path = enhanced_ai.export_ar_experience(ar_experience, section_name)
+    logger.info(f"AR experience exported for '{section_name}': {ar_experience_path}")
+    
+    # Export 360-degree video concept as a storyboard or description
+    video_360_path = enhanced_ai.export_360_video_concept(video_360_concept, section_name)
+    logger.info(f"360-degree video concept exported for '{section_name}': {video_360_path}")
