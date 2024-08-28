@@ -2,6 +2,10 @@ import logging
 from typing import Dict, Any, Tuple
 from ai_models import EnhancedAI
 from nova.visual_storytelling import create_visual_elements, generate_visual_narrative
+from nova.visual_rhythm_synthesis import generate_visual_rhythm
+from nova.quantum_visual_harmonies import generate_quantum_harmonies
+from nova.emotion_color_soundscapes import generate_emotion_color_soundscape
+from nova.fractal_melody_generation import generate_fractal_melody
 
 class CompositionEngine:
     def __init__(self, enhanced_ai: EnhancedAI, logger: logging.Logger):
@@ -15,7 +19,14 @@ class CompositionEngine:
         chord_progression = self.enhanced_ai.generate_chord_progression(section, song_theme, song_mood, song_style, harmonic_structure)
         rhythmic_patterns = self.enhanced_ai.generate_rhythmic_patterns(section, song_theme, song_mood, song_style)
         rhythm_spec = self.enhanced_ai.develop_rhythm_specification(section)
-        return melody, chord_progression, rhythmic_patterns, rhythm_spec
+        
+        # Incorporate Nova's innovative concepts
+        visual_rhythm = generate_visual_rhythm(section, song_theme, song_mood)
+        quantum_harmonies = generate_quantum_harmonies(section, harmonic_structure)
+        emotion_color_soundscape = generate_emotion_color_soundscape(section, song_mood)
+        fractal_melody = generate_fractal_melody(section, melody)
+        
+        return melody, chord_progression, rhythmic_patterns, rhythm_spec, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody
 
     def generate_lyrics(self, section: str, song_theme: str, song_mood: str) -> str:
         self.logger.info(f"Generating lyrics for section: {section}")
@@ -45,7 +56,7 @@ class CompositionEngine:
 
         try:
             # Generate musical elements
-            melody, chord_progression,rhythmic_patterns, rhythm_spec = self.generate_section(section['name'], song_theme, song_mood, song_style)
+            melody, chord_progression, rhythmic_patterns, rhythm_spec, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody = self.generate_section(section['name'], song_theme, song_mood, song_style)
             lyrics = self.generate_lyrics(section['name'], song_theme, song_mood)
 
             # Create visual storytelling elements
@@ -60,7 +71,11 @@ class CompositionEngine:
                 'rhythm_spec': rhythm_spec,
                 'lyrics': lyrics,
                 'visual_elements': visual_elements,
-                'visual_narrative': visual_narrative
+                'visual_narrative': visual_narrative,
+                'visual_rhythm': visual_rhythm,
+                'quantum_harmonies': quantum_harmonies,
+                'emotion_color_soundscape': emotion_color_soundscape,
+                'fractal_melody': fractal_melody
             }
 
             # Log the results
@@ -68,6 +83,10 @@ class CompositionEngine:
             self.logger.info(f"Melody: {melody[:50]}...")
             self.logger.info(f"Lyrics: {lyrics[:50]}...")
             self.logger.info(f"Visual Narrative: {visual_narrative[:50]}...")
+            self.logger.info(f"Visual Rhythm: {visual_rhythm[:50]}...")
+            self.logger.info(f"Quantum Harmonies: {quantum_harmonies[:50]}...")
+            self.logger.info(f"Emotion-Color Soundscape: {emotion_color_soundscape[:50]}...")
+            self.logger.info(f"Fractal Melody: {fractal_melody[:50]}...")
 
             return section_data
 
