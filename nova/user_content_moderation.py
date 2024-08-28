@@ -1,5 +1,5 @@
 import logging
-from typing import Dict, Any
+from typing import Dict, Any, List
 
 class ContentModerator:
     def __init__(self, enhanced_ai):
