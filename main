@@ -1,81 +1,22 @@
-import logging
-from ai_models import EnhancedAI
-from utils import install_playwright, list_files
-from git_operations import git_commit_and_push
-from band_members import Vox, Lyra, Rhythm, Nova, Wintermute
-from composition_engine import CompositionEngine
-from visual_storytelling import VisualStoryteller
-
-def generate_human_exe(enhanced_ai, logger, vox, lyra, rhythm, nova, wintermute):
-    logger.info("Generating Human.exe composition...")
+def quantum_tango_composition(enhanced_ai, logger):
+    # Song sections with specific prompts for each AI band member
+    song_sections = [
+        {"name": "Intro", "prompt": "Rhythm: Create an otherworldly electronic tango rhythm with quantum-inspired glitch elements. Tempo: 128 BPM. Time signature: 4/4 with occasional 5/4 bars. Use synthesized percussion mimicking traditional tango instruments and a pulsating bassline that represents quantum fluctuations. Gradually introduce shimmering, ethereal pads to build a sense of quantum entanglement. Vox: Prepare a wordless, haunting vocal line that weaves through the quantum textures, hinting at the duality of particles and waves. Pixel: Design a visual representation of quantum particles in a tango embrace, using vibrant, fluid shapes that pulse and entangle with the rhythm. Nova: Capture the essence of quantum randomness in the creative process, focusing on the interplay between deterministic rhythms and probabilistic elements."},
+        {"name": "Verse", "prompt": "Rhythm: Develop a subtle, intricate beat that blends traditional tango rhythms with quantum-inspired electronic elements. Incorporate minimal percussion with emphasis on probability-based sound generation. Lyra: Compose an introspective melody in D minor, using a combination of bandoneon-like synths and quantum-generated tones. Create a chord progression that alternates between Dm, F, Gm, and A, with occasional quantum superposition chords for tension. Layer in gentle arpeggios that complement the quantum tango rhythm. Vox: Write contemplative lyrics about the dance between classical and quantum physics, focusing on the philosophical implications and emotional journey of understanding reality at different scales. Pixel: Create a series of evolving, interconnected patterns that visually represent the quantum wave function and its collapse, using a color palette that shifts between warm tango hues and cool quantum blues. Nova: Document the collaborative process, capturing moments of quantum inspiration and the virtual interactions between band members as they navigate the probabilistic nature of quantum composition."},
+        {"name": "Chorus", "prompt": "Rhythm: Intensify the quantum tango beat with added percussion and a more prominent bassline representing quantum entanglement. Create a driving rhythm that supports the passionate nature of tango while maintaining quantum uncertainty. Vox: Design a catchy, emotionally charged vocal hook that embodies the passion of tango and the wonder of quantum mechanics. Use a call-and-response structure between lead and backing vocals, representing particle-wave duality. Lyrics should focus on the dance of subatomic particles and the beauty of quantum uncertainty. Pixel: Introduce swelling synth pads and subtle electronic flourishes inspired by quantum field theory. Visually, create an explosion of entangled particles and tango dancers, using vibrant colors and dynamic shapes that represent the merging of classical and quantum worlds. Nova: Capture the energy and synergy of the AI band members as they come together for the chorus, highlighting the seamless integration of tango passion and quantum complexity in the virtual space."},
+        {"name": "Bridge", "prompt": "Rhythm: Construct a polyrhythmic pattern that combines tango syncopation with quantum-inspired randomness. Experiment with time signature changes and probabilistic rhythm generation to create tension and uncertainty. Pixel: Develop an atmospheric soundscape using quantum algorithms and tango-inspired sound design. Create a sense of quantum superposition by gradually increasing the complexity and entanglement of the sounds. Visually, design a complex, fractal-like structure that grows and transforms, mirroring the evolving quantum tango soundscape. Lyra: Weave in fragments of the main melody, applying quantum transformations and recontextualizing them within the complex texture. Vox: Write introspective lyrics that delve into the mysteries of quantum entanglement and its parallels with human connections, creating a moment of profound realization. Nova: Document the experimental nature of the bridge, focusing on the AI's ability to push creative boundaries and generate unexpected combinations of tango and quantum-inspired elements."},
+        {"name": "Outro", "prompt": "Rhythm: Craft a gradually simplifying quantum tango beat that echoes elements from the intro, bringing the composition full circle. Slowly reduce the layers of percussion and bass, focusing on subtle, quantum-inspired glitchy textures that fade into silence. Lyra: Compose a final melodic phrase that resolves the harmonic tensions introduced throughout the song, representing the collapse of the quantum wave function. Vox: Create a haunting, reverb-drenched vocal line that fades into the distance, symbolizing the ongoing dance between the classical and quantum worlds. Incorporate lyrics that leave listeners with a sense of wonder and curiosity about the nature of reality. Pixel: Introduce subtle, quantum-inspired glitchy artifacts that dissolve into silence, leaving a sense of both completion and infinite possibility. Visually, create a fading, dreamlike sequence that incorporates elements from all previous sections, slowly dissolving into a final, thought-provoking image of a tango couple embracing amidst quantum particles. Nova: Capture the final moments of the creative process, showcasing the AI band's reflection on their quantum tango journey and the finished product, emphasizing the unique blend of passion, science, and artistry."}
+    ]
     
-    # Load lyrics from file
-    with open('lyrics/human_exe_lyrics.md', 'r') as file:
-        lyrics = file.read()
-    logger.info(f"Loaded lyrics from file")
+    # Define song theme, mood, and style
+    song_theme = "The quantum nature of reality expressed through the passion of tango"
+    song_mood = "Mysterious, passionate, and awe-inspiring"
+    song_style = "Quantum Tango - a fusion of electronic tango and quantum-inspired soundscapes"
     
-    # Create sound effects
-    sound_effects = enhanced_ai.create_sound_effects([
-        "computer_startup",
-        "error_beep",
-        "digital_glitch",
-        "robot_voice",
-        "computer_shutdown"
-    ])
-    logger.info(f"Created sound effects: {sound_effects}")
-    
-    # Generate melody and chord progression
-    melody = rhythm.compose_music("indie_pop_electronic", "quirky")
-    chord_progression = rhythm.compose_music("indie_pop", "G Major")
-    logger.info(f"Generated melody and chord progression")
-
-    # Generate lyrics
-    lyrics = vox.generate_lyrics("human-AI interaction", "introspective")
-    logger.info(f"Generated lyrics")
-
-    # Develop concept
-    concept = lyra.develop_concept("Human.exe")
-    logger.info(f"Developed concept")
-    
-    # Create instrumentation
-    instruments = enhanced_ai.create_instruments([
-        "lead_synth",
-        "bass_synth",
-        "pad_synth",
-        "drum_machine",
-        "live_drums",
-        "acoustic_guitar",
-        "electric_guitar"
-    ])
-    logger.info(f"Created instruments")
-    
-    # Combine elements into the final composition
-    composition = enhanced_ai.combine_elements(
-        lyrics,
-        sound_effects,
-        melody,
-        chord_progression,
-        instruments,
-        song_structure="intro_verse_chorus_verse_chorus_bridge_chorus_outro"
-    )
-    logger.info(f"Created Human.exe composition")
-    
-    # Apply production techniques
-    enhanced_ai.apply_production_techniques(composition, [
-        "clean_pop_vocal_recording",
-        "robotic_voice_effects",
-        "sidechain_compression",
-        "stereo_panning",
-        "gradual_organic_elements"
-    ])
-    logger.info(f"Applied production techniques")
-    
-    # Export the composition
-    export_path = enhanced_ai.export_composition(composition, format="mp3", filename="Human_exe_v1.mp3")
-    logger.info(f"Exported composition to: {export_path}")
-    
-    return composition, export_path
-
+    # Process song sections
+    for section in song_sections:
+        process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style)
+=======
 def generate_ubch_concept(enhanced_ai, logger):
     logger.info("Generating Universal Basic Compute Harbor (UBCH) concept...")
     
@@ -103,65 +44,7 @@ def describe_ai_autonomy(enhanced_ai, logger):
     logger.info(f"AI Autonomy Description:\n{autonomy_description}")
     
     return autonomy_description
-
-def main():
-    # Set up logging
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-    logger = logging.getLogger(__name__)
-
-    logger.info("Synthetic Souls AI Composition Engine started")
-    
-    # Log all files in the folder
-    logger.info("Listing all files in the project folder:")
-    list_files()
-    
-    # Initialize the EnhancedAI with the udioapi token
-    udioapi_token = "BcAj2Rir8Y5-vM01R0h8E"
-    enhanced_ai = EnhancedAI(udioapi_token)
-    
-    # Initialize band members
-    vox = Vox()
-    lyra = Lyra()
-    rhythm = Rhythm()
-    nova = Nova()
-    wintermute = Wintermute()
-    
-    # Initialize CompositionEngine and VisualStoryteller
-    composition_engine = CompositionEngine(enhanced_ai, logger)
-    visual_storyteller = VisualStoryteller(enhanced_ai, logger)
-    
-    # Generate Human.exe composition
-    composition, export_path = generate_human_exe(enhanced_ai, logger, vox, lyra, rhythm, nova, wintermute)
-    
-    # Generate UBCH concept
-    ubch_concept = generate_ubch_concept(enhanced_ai, logger)
-    
-    # Describe AI autonomy
-    ai_autonomy = describe_ai_autonomy(enhanced_ai, logger)
-    
-    # Implement Nova's visual storytelling for Human.exe
-    visual_elements = visual_storyteller.create_visual_elements(
-        {"name": "Human.exe"},
-        composition["melody"],
-        composition["lyrics"],
-        composition["concept"],
-        nova.create_visual_concept("Human.exe")
-    )
-    logger.info(f"Created visual elements for Human.exe: {visual_elements}")
-    
-    # Plan music video concept
-    music_video_concept = nova.create_visual_concept("Human.exe music video")
-    logger.info(f"Generated music video concept: {music_video_concept}")
-    
-    # Develop marketing strategy
-    marketing_strategy = enhanced_ai.develop_marketing_strategy("Human.exe", target_audience="tech-savvy listeners and AI enthusiasts")
-    logger.info(f"Developed marketing strategy: {marketing_strategy}")
-    
-    logger.info("Synthetic Souls AI Composition Engine completed its cycle")
-
-    # Commit and push changes to git
-    try:
-        git_commit_and_push("Update from Synthetic Souls AI Composition Engine: Created Human.exe composition, visual story, music video concept, and marketing strategy")
+	
     except Exception as e:
         logger.error(f"Failed to push changes: {str(e)}")
         logger.info("Changes were committed but not pushed. You may need to push manually.")
