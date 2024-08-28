@@ -491,30 +491,51 @@ def export_music_files(arrangement, section_name):
     sheet_music_path = enhanced_ai.generate_sheet_music(arrangement, section_name)
     logger.info(f"Sheet music generated for '{section_name}': {sheet_music_path}")
 
-def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_patterns, rhythm_spec):
+def nova_visual_storytelling(section_name, melody, chord_progression, rhythmic_patterns, rhythm_spec, song_theme, song_mood):
     """
     Nova's function to create visual narratives and immersive experiences based on the song section.
     """
-    visual_story = enhanced_ai.generate_nova_visual_story(section_name, melody, chord_progression, rhythmic_patterns)
-    logger.info(f"Nova's visual story for '{section_name}':\n{visual_story}")
+    logger.info(f"Nova: Starting visual storytelling process for '{section_name}'")
+    
+    # Generate a visual story that aligns with the musical elements and overall theme
+    visual_story = enhanced_ai.generate_nova_visual_story(section_name, melody, chord_progression, rhythmic_patterns, song_theme, song_mood)
+    logger.info(f"Nova's visual story for '{section_name}' generated")
     
     # Create an immersive experience that integrates audio and visual elements
-    immersive_experience = enhanced_ai.create_immersive_experience(visual_story, rhythm_spec, melody, chord_progression, rhythmic_patterns)
-    logger.info(f"Nova's immersive experience concept for '{section_name}':\n{immersive_experience}")
+    immersive_experience = enhanced_ai.create_immersive_experience(visual_story, rhythm_spec, melody, chord_progression, rhythmic_patterns, song_mood)
+    logger.info(f"Nova's immersive experience concept for '{section_name}' created")
     
-    # Generate a storyboard for the visual narrative
-    storyboard = enhanced_ai.generate_storyboard(visual_story, section_name)
-    logger.info(f"Nova's storyboard for '{section_name}':\n{storyboard}")
+    # Generate a detailed storyboard for the visual narrative
+    storyboard = enhanced_ai.generate_storyboard(visual_story, section_name, song_theme)
+    logger.info(f"Nova's storyboard for '{section_name}' generated")
     
-    # Create a virtual reality scene description
-    vr_scene = enhanced_ai.create_vr_scene(immersive_experience, section_name)
-    logger.info(f"Nova's VR scene description for '{section_name}':\n{vr_scene}")
+    # Create a virtual reality scene description with interactive elements
+    vr_scene = enhanced_ai.create_vr_scene(immersive_experience, section_name, song_mood)
+    logger.info(f"Nova's VR scene description for '{section_name}' created")
     
-    # Generate a visual concept art piece
-    concept_art = enhanced_ai.generate_concept_art(visual_story, section_name)
-    logger.info(f"Nova's concept art for '{section_name}' generated")
+    # Generate multiple visual concept art pieces
+    concept_arts = enhanced_ai.generate_concept_arts(visual_story, section_name, song_theme, song_mood)
+    logger.info(f"Nova's concept arts for '{section_name}' generated")
     
-    return visual_story, immersive_experience, storyboard, vr_scene, concept_art
+    # Create an augmented reality experience proposal
+    ar_experience = enhanced_ai.create_ar_experience(visual_story, section_name, song_theme)
+    logger.info(f"Nova's AR experience proposal for '{section_name}' created")
+    
+    # Generate a visual effects breakdown
+    vfx_breakdown = enhanced_ai.generate_vfx_breakdown(visual_story, storyboard, section_name)
+    logger.info(f"Nova's VFX breakdown for '{section_name}' generated")
+    
+    logger.info(f"Nova: Completed visual storytelling process for '{section_name}'")
+    
+    return {
+        "visual_story": visual_story,
+        "immersive_experience": immersive_experience,
+        "storyboard": storyboard,
+        "vr_scene": vr_scene,
+        "concept_arts": concept_arts,
+        "ar_experience": ar_experience,
+        "vfx_breakdown": vfx_breakdown
+    }
 
 def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style):
     logger.info(f"Processing section: {section['name']}")
