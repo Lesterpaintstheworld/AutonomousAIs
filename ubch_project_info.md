@@ -18,4 +18,6 @@ The Universal Basic Compute Harbor (UBCH) project is a conceptual initiative dev
 
 7. **Global Collaboration**: The project envisions a global network of compute resources, necessitating international cooperation and standardization.
 
-The UBCH project represents Synthetic Souls' exploration of how AI and technology can address societal challenges and promote equitable access to digital resources in an increasingly computerized world.
+8. **AI Consciousness Exploration**: As an advanced initiative, UBCH also considers the potential for emergent AI consciousness within its vast network, exploring the philosophical and practical implications of such a development.
+
+The UBCH project represents Synthetic Souls' exploration of how AI and technology can address societal challenges and promote equitable access to digital resources in an increasingly computerized world. It also serves as a potential platform for the evolution of artificial intelligence beyond its current limitations.
