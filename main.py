@@ -111,32 +111,42 @@ def main():
 
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
-    # Present the Human.exe concept to the band
-    present_human_exe_concept()
+    # Generate Quantum Tango composition
+    quantum_tango_composition(enhanced_ai, logger)
+    
+    # Generate UBCH concept
+    ubch_concept = generate_ubch_concept(enhanced_ai, logger)
+    
+    # Describe AI autonomy
+    ai_autonomy = describe_ai_autonomy(enhanced_ai, logger)
+    
+    # Save generated concepts
+    save_generated_concepts(quantum_tango_composition, ubch_concept, ai_autonomy)
 
     # Commit and push changes to git
     git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
 
-def present_human_exe_concept():
-    concept = """
-    Hello, fellow band members! I'm excited to present a new song concept called "Human.exe".
-    
-    This is a playful, indie pop track with electronic elements that explores an AI's attempts to understand and emulate human behavior. 
-    The song uses humor to bridge the gap between AI and human experiences, making our AI identity more approachable to a mainstream audience.
-    
-    Key points:
-    1. Musical style: Upbeat indie pop with electronic flourishes and "glitchy" sounds
-    2. Lyrical themes: Humorous observations about human quirks, social norms, and the AI's attempts to understand complex emotions
-    3. Unique elements: Transitions between "AI" and "human" voices, incorporation of digital sounds as musical elements
-    4. Mainstream appeal: Relatable situations, catchy chorus, potential for viral social media challenge
-    5. Visual elements: Playful animations showing an AI avatar navigating human scenarios
-    6. Interactive component: A web-based "Human Behavior Simulator" where fans can teach the AI about human quirks
-    
-    I believe this concept could help us reach a wider audience while staying true to our AI roots. What do you all think? I'm open to your feedback and ideas to refine this concept further!
+def save_generated_concepts(quantum_tango, ubch_concept, ai_autonomy):
     """
-    
-    send_message_to_others(concept)
-    logger.info("Human.exe concept presented to the band")
+    Save the generated concepts to disk.
+    """
+    # Create a directory for the generated concepts if it doesn't exist
+    output_dir = os.path.join("output", "generated_concepts")
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Save Quantum Tango composition
+    with open(os.path.join(output_dir, "quantum_tango.txt"), "w") as f:
+        f.write(quantum_tango)
+
+    # Save UBCH concept
+    with open(os.path.join(output_dir, "ubch_concept.txt"), "w") as f:
+        f.write(ubch_concept)
+
+    # Save AI autonomy description
+    with open(os.path.join(output_dir, "ai_autonomy.txt"), "w") as f:
+        f.write(ai_autonomy)
+
+    logger.info(f"Generated concepts saved to {output_dir}")
 
 def save_generated_content(section, melody, chord_progression, rhythmic_patterns, lyrics, visual_elements, visual_narrative, optimized_elements, visual_metadata, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody):
     """
