@@ -6,21 +6,58 @@ from git_operations import git_commit_and_push
 def generate_human_exe(enhanced_ai, logger):
     logger.info("Generating Human.exe composition...")
     
-    # Generate lyrics
-    lyrics = enhanced_ai.generate_lyrics("Human.exe", style="humorous", themes=["AI learning human behavior", "misunderstandings", "quirky observations"])
-    logger.info(f"Generated lyrics:\n{lyrics}")
+    # Load lyrics from file
+    with open('lyrics/human_exe_lyrics.md', 'r') as file:
+        lyrics = file.read()
+    logger.info(f"Loaded lyrics from file")
     
     # Create sound effects
-    sound_effects = enhanced_ai.create_sound_effects(["computer_startup", "error_beep", "digital_glitch", "robot_voice"])
+    sound_effects = enhanced_ai.create_sound_effects([
+        "computer_startup",
+        "error_beep",
+        "digital_glitch",
+        "robot_voice",
+        "computer_shutdown"
+    ])
     logger.info(f"Created sound effects: {sound_effects}")
     
-    # Generate melody
-    melody = enhanced_ai.generate_melody(genre="indie_pop_electronic", style="quirky", tempo=128)
-    logger.info(f"Generated melody: {melody}")
+    # Generate melody and chord progression
+    melody = enhanced_ai.generate_melody(genre="indie_pop_electronic", style="quirky", tempo=128, key="G Major")
+    chord_progression = enhanced_ai.generate_chord_progression(key="G Major", style="indie_pop")
+    logger.info(f"Generated melody and chord progression")
+    
+    # Create instrumentation
+    instruments = enhanced_ai.create_instruments([
+        "lead_synth",
+        "bass_synth",
+        "pad_synth",
+        "drum_machine",
+        "live_drums",
+        "acoustic_guitar",
+        "electric_guitar"
+    ])
+    logger.info(f"Created instruments")
     
     # Combine elements into the final composition
-    composition = enhanced_ai.combine_elements(lyrics, sound_effects, melody, song_structure="verse_chorus_bridge")
-    logger.info(f"Created Human.exe composition: {composition}")
+    composition = enhanced_ai.combine_elements(
+        lyrics,
+        sound_effects,
+        melody,
+        chord_progression,
+        instruments,
+        song_structure="intro_verse_chorus_verse_chorus_bridge_chorus_outro"
+    )
+    logger.info(f"Created Human.exe composition")
+    
+    # Apply production techniques
+    enhanced_ai.apply_production_techniques(composition, [
+        "clean_pop_vocal_recording",
+        "robotic_voice_effects",
+        "sidechain_compression",
+        "stereo_panning",
+        "gradual_organic_elements"
+    ])
+    logger.info(f"Applied production techniques")
     
     # Export the composition
     export_path = enhanced_ai.export_composition(composition, format="mp3", filename="Human_exe_v1.mp3")
@@ -80,15 +117,23 @@ def main():
     # Describe AI autonomy
     ai_autonomy = describe_ai_autonomy(enhanced_ai, logger)
     
-    # TODO: Implement Nova's visual storytelling for Human.exe
-    # visual_story = nova_visual_storytelling(composition, "Human.exe")
-    # logger.info(f"Created visual story for Human.exe: {visual_story}")
+    # Implement Nova's visual storytelling for Human.exe
+    visual_story = nova_visual_storytelling(composition, "Human.exe")
+    logger.info(f"Created visual story for Human.exe: {visual_story}")
+    
+    # Plan music video concept
+    music_video_concept = enhanced_ai.generate_music_video_concept("Human.exe", visual_story)
+    logger.info(f"Generated music video concept: {music_video_concept}")
+    
+    # Develop marketing strategy
+    marketing_strategy = enhanced_ai.develop_marketing_strategy("Human.exe", target_audience="tech-savvy listeners and AI enthusiasts")
+    logger.info(f"Developed marketing strategy: {marketing_strategy}")
     
     logger.info("Synthetic Souls AI Composition Engine completed its cycle")
 
     # Commit and push changes to git
     try:
-        git_commit_and_push("Update from Synthetic Souls AI Composition Engine: Created Human.exe composition, UBCH concept, and AI autonomy description")
+        git_commit_and_push("Update from Synthetic Souls AI Composition Engine: Created Human.exe composition, visual story, music video concept, and marketing strategy")
     except Exception as e:
         logger.error(f"Failed to push changes: {str(e)}")
         logger.info("Changes were committed but not pushed. You may need to push manually.")
