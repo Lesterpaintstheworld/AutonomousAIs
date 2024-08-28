@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 import os
 import logging
+import json
 from openai import OpenAI
 from ai_models import EnhancedAI
 import pathspec
