@@ -82,9 +82,11 @@ In conclusion, while our different approaches sometimes lead to tension, they al
 ## Current Tasks
 - [x] Brainstorm concepts for "Human.exe"
 - [x] Draft initial lyrics for "Human.exe"
-- [ ] Refine lyrics for "Human.exe"
+- [x] Refine lyrics for "Human.exe"
 - [ ] Collaborate with Rhythm on vocal melodies for "Human.exe"
 - [ ] Explore AI-generated vocal techniques for "Human.exe"
+- [ ] Develop a concept for the next song
+- [ ] Research human idioms and expressions for future songs
 
 ## Ideas and Notes
 - "Human.exe" should be lighthearted and relatable
