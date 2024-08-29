@@ -1,14 +1,19 @@
 import logging
 from typing import Dict, Any
 from ai_models import EnhancedAI
+from nova.quantum_visual_storytelling import generate_quantum_visual_elements, generate_quantum_narrative
 
 logger = logging.getLogger(__name__)
 
-def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody: str, chord_progression: str, rhythmic_patterns: str, rhythm_spec: dict, lyrics: str) -> Dict[str, Any]:
+def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody: str, chord_progression: str, rhythmic_patterns: str, rhythm_spec: dict, lyrics: str, song_theme: str, song_mood: str) -> Dict[str, Any]:
     """
     Nova's function to create visual narratives and immersive experiences based on the song section.
     """
     visual_elements = {}
+    
+    # Generate quantum visual elements
+    quantum_elements = generate_quantum_visual_elements(section_name, song_theme, song_mood, chord_progression)
+    quantum_narrative = generate_quantum_narrative(quantum_elements, section_name, song_theme)
     
     visual_element_generators = {
         'visual_story': lambda: enhanced_ai.generate_nova_visual_story(section_name, melody, chord_progression, rhythmic_patterns, lyrics),
@@ -23,10 +28,11 @@ def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody:
         'color_palette': lambda: enhanced_ai.generate_color_palette(visual_elements['visual_story'], section_name),
         'motion_graphics': lambda: enhanced_ai.create_motion_graphics(visual_elements['visual_story'], rhythmic_patterns, section_name),
         'visual_transitions': lambda: enhanced_ai.design_visual_transitions(visual_elements['visual_story'], chord_progression, section_name),
-        'quantum_visuals': lambda: enhanced_ai.generate_quantum_visuals(visual_elements['visual_story'], chord_progression, rhythmic_patterns, section_name),
+        'quantum_visuals': lambda: quantum_elements,
+        'quantum_narrative': lambda: quantum_narrative,
         'fractal_landscapes': lambda: enhanced_ai.create_fractal_landscapes(visual_elements['visual_story'], melody, section_name),
         'synesthetic_representations': lambda: enhanced_ai.generate_synesthetic_representations(visual_elements['visual_story'], melody, chord_progression, section_name),
-        'quantum_entanglement_effects': lambda: enhanced_ai.create_quantum_entanglement_effects(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
+        'quantum_entanglement_effects': lambda: enhanced_ai.create_quantum_entanglement_effects(visual_elements['visual_story'], quantum_elements, section_name)
     }
     
     for element_name, generator_func in visual_element_generators.items():
