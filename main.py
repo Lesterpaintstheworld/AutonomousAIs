@@ -54,7 +54,7 @@ def main():
         section_content = composition_engine.process_song_section({"name": section}, song_theme, song_mood, song_style)
         
         # Add interactive elements
-        section_content['interactive_elements'] = generate_interactive_elements(section)
+        section_content['interactive_elements'] = generate_interactive_elements(section, section_content.get('visual_elements', {}))
         
         composition[section] = section_content
         logger.info(f"Completed {section} section")
