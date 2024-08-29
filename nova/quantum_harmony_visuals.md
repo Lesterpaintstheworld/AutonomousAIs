@@ -5,35 +5,40 @@ The visual representation of "Quantum Harmony" aims to create an immersive, mind
 
 ## Key Visual Themes
 
-1. Quantum Superposition
+1. Quantum Vacuum (Introduction)
+   - Visualization: A dark, seemingly empty space with subtle energy fluctuations
+   - Technique: Particle systems with low opacity and slow movement
+   - Emotional impact: Anticipation and mystery
+
+2. Quantum Superposition (Verse 1)
    - Visualization: Overlapping, semi-transparent forms that shift and merge
    - Technique: Use of holographic materials and projection mapping
    - Emotional impact: Sense of wonder and multiplicity
 
-2. Wave-Particle Duality
-   - Visualization: Morphing patterns that alternate between fluid wave-like motions and discrete particle behavior
-   - Technique: Particle systems combined with fluid dynamics simulations
-   - Emotional impact: Curiosity and contemplation of nature's fundamental duality
-
-3. Quantum Entanglement
+3. Quantum Entanglement (Chorus)
    - Visualization: Intricate networks of connected particles that react instantaneously across space
    - Technique: Real-time generative graphics driven by the music's entangled beat patterns
    - Emotional impact: Sense of interconnectedness and mystery
 
-4. Uncertainty Principle
-   - Visualization: Blurred, probabilistic representations of particles and waves
-   - Technique: Gaussian blur effects and noise-based distortions
-   - Emotional impact: Acceptance of ambiguity and limitations of knowledge
+4. Wave-Particle Duality (Verse 2)
+   - Visualization: Morphing patterns that alternate between fluid wave-like motions and discrete particle behavior
+   - Technique: Particle systems combined with fluid dynamics simulations
+   - Emotional impact: Curiosity and contemplation of nature's fundamental duality
 
-5. Quantum Tunneling
+5. Quantum Tunneling (Bridge)
    - Visualization: Particles passing through seemingly impenetrable barriers
-   - Technique: Clever use of 3D rendering and shader effects
+   - Technique: 3D rendering with shader effects for barrier penetration
    - Emotional impact: Surprise and challenge to everyday perceptions
 
-6. Quantum Fields
+6. Quantum Field Theory (Final Chorus)
    - Visualization: Complex, layered energy fields that fluctuate and interact
    - Technique: Volumetric rendering and dynamic texture generation
    - Emotional impact: Awe at the hidden complexity of reality
+
+7. Quantum Decoherence (Outro)
+   - Visualization: Gradual transformation from quantum chaos to classical order
+   - Technique: Particle systems slowly aligning and simplifying
+   - Emotional impact: Sense of emergence and resolution
 
 ## Technical Approach
 
