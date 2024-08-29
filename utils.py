@@ -39,6 +39,14 @@ class UserProgressionSystem:
         sorted_users = sorted(self.user_progress.items(), key=lambda x: x[1]["total_points"], reverse=True)
         return [(user_id, self.get_user_progress(user_id)) for user_id, _ in sorted_users[:top_n]]
 
+    def update_user_progress(self, user_id, achievement_name, points):
+        if user_id not in self.user_progress:
+            self.user_progress[user_id] = {"achievements": [], "total_points": 0}
+        if achievement_name not in self.user_progress[user_id]["achievements"]:
+            self.user_progress[user_id]["achievements"].append(achievement_name)
+            self.user_progress[user_id]["total_points"] += points
+            self.update_user_level(user_id)
+
     def add_level(self, level, points_required, rewards):
         self.levels[level] = {"points_required": points_required, "rewards": rewards}
 
