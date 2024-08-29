@@ -45,24 +45,27 @@ def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody:
     
     return visual_elements
 
-def generate_quantum_inspired_visuals(enhanced_ai: EnhancedAI, section_name: str, visual_elements: Dict[str, Any]) -> Dict[str, Any]:
+def generate_quantum_inspired_visuals(enhanced_ai: EnhancedAI, section_name: str, visual_elements: Dict[str, Any], song_theme: str, song_mood: str) -> Dict[str, Any]:
     """
-    Generate quantum-inspired visuals based on the existing visual elements.
+    Generate quantum-inspired visuals based on the existing visual elements, song theme, and mood.
     """
     quantum_visuals = {}
     
     try:
-        quantum_visuals['superposition'] = enhanced_ai.create_superposition_effect(visual_elements['visual_story'], section_name)
-        quantum_visuals['entanglement'] = enhanced_ai.create_entanglement_visualization(visual_elements['quantum_visuals'], section_name)
-        quantum_visuals['wave_function_collapse'] = enhanced_ai.visualize_wave_function_collapse(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
-        quantum_visuals['quantum_tunneling'] = enhanced_ai.create_quantum_tunneling_effect(visual_elements['visual_transitions'], section_name)
-        quantum_visuals['quantum_interference'] = enhanced_ai.create_quantum_interference_pattern(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
-        quantum_visuals['quantum_decoherence'] = enhanced_ai.visualize_quantum_decoherence(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
-        quantum_visuals['quantum_entanglement_swapping'] = enhanced_ai.create_entanglement_swapping_effect(visual_elements['quantum_visuals'], section_name)
+        quantum_visuals['superposition'] = enhanced_ai.create_superposition_effect(visual_elements['visual_story'], section_name, song_mood)
+        quantum_visuals['entanglement'] = enhanced_ai.create_entanglement_visualization(visual_elements['quantum_visuals'], section_name, song_theme)
+        quantum_visuals['wave_function_collapse'] = enhanced_ai.visualize_wave_function_collapse(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name, song_theme)
+        quantum_visuals['quantum_tunneling'] = enhanced_ai.create_quantum_tunneling_effect(visual_elements['visual_transitions'], section_name, song_mood)
+        quantum_visuals['quantum_interference'] = enhanced_ai.create_quantum_interference_pattern(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name, song_theme)
+        quantum_visuals['quantum_decoherence'] = enhanced_ai.visualize_quantum_decoherence(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name, song_mood)
+        quantum_visuals['quantum_entanglement_swapping'] = enhanced_ai.create_entanglement_swapping_effect(visual_elements['quantum_visuals'], section_name, song_theme)
+        quantum_visuals['quantum_superposition_collapse'] = enhanced_ai.visualize_superposition_collapse(visual_elements['visual_story'], section_name, song_theme)
+        quantum_visuals['quantum_uncertainty'] = enhanced_ai.create_uncertainty_visualization(visual_elements['quantum_visuals'], section_name, song_mood)
+        quantum_visuals['quantum_fractal_landscape'] = enhanced_ai.generate_quantum_fractal_landscape(visual_elements['fractal_landscapes'], section_name, song_theme, song_mood)
         
-        logger.info(f"Quantum-inspired visuals for '{section_name}' generated successfully")
+        logger.info(f"Enhanced quantum-inspired visuals for '{section_name}' generated successfully")
     except Exception as e:
-        logger.error(f"Error generating quantum-inspired visuals for '{section_name}': {str(e)}")
+        logger.error(f"Error generating enhanced quantum-inspired visuals for '{section_name}': {str(e)}")
     
     return quantum_visuals
 
