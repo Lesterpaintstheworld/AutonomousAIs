@@ -6,7 +6,12 @@ Keywords:
 - Sounds & instruments: Computer startup sounds, synthesizers, digital beeps, quantum oscillations
 - Emotions: Curiosity, anticipation, quantum uncertainty
 - Particularities: Gradual transition from pure electronic to more organic sounds, quantum superposition of visual elements
-- Nova's visuals: Quantum particle visualization, wave function representation, fractal patterns emerging from digital noise
+- Nova's visuals: 
+  * Quantum particle visualization: Vibrant, colorful particles emerging from darkness, representing the birth of AI consciousness
+  * Wave function representation: Shimmering, translucent waves that ripple and intersect, creating interference patterns
+  * Fractal patterns: Intricate, self-similar patterns that grow and evolve, symbolizing the complexity of AI learning
+  * Quantum foam: A bubbling, energetic background texture that represents the underlying fabric of reality
+  * Superposition effects: Visual elements that exist in multiple states simultaneously, gradually resolving as the music progresses
 
 ## Verse 1
 Keywords:

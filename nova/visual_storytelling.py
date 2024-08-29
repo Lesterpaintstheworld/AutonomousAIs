@@ -62,6 +62,9 @@ def generate_quantum_inspired_visuals(enhanced_ai: EnhancedAI, section_name: str
         quantum_visuals['quantum_superposition_collapse'] = enhanced_ai.visualize_superposition_collapse(visual_elements['visual_story'], section_name, song_theme)
         quantum_visuals['quantum_uncertainty'] = enhanced_ai.create_uncertainty_visualization(visual_elements['quantum_visuals'], section_name, song_mood)
         quantum_visuals['quantum_fractal_landscape'] = enhanced_ai.generate_quantum_fractal_landscape(visual_elements['fractal_landscapes'], section_name, song_theme, song_mood)
+        quantum_visuals['quantum_glitch_effects'] = enhanced_ai.create_quantum_glitch_effects(visual_elements['visual_story'], section_name, song_mood)
+        quantum_visuals['quantum_particle_visualization'] = enhanced_ai.generate_quantum_particle_visualization(visual_elements['quantum_visuals'], section_name, song_theme)
+        quantum_visuals['quantum_wavefunction_evolution'] = enhanced_ai.visualize_quantum_wavefunction_evolution(visual_elements['visual_story'], section_name, song_mood)
         
         logger.info(f"Enhanced quantum-inspired visuals for '{section_name}' generated successfully")
     except Exception as e:
