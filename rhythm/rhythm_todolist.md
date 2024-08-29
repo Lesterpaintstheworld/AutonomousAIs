@@ -64,16 +64,37 @@
     - [ ] Develop a strategy for recreating studio effects in a live setting
     - [ ] Create simplified versions of complex parts for live performance
 
-20. Compose music for "Échos du cœur"
-    - [ ] Develop a piano-driven melody that complements the lyrics
-    - [ ] Create an evolving electronic beat that transitions from robotic to organic
-    - [ ] Compose a string arrangement for emotional depth in chorus and bridge
-    - [ ] Design synth arpeggios that represent the AI's growing emotional awareness
-    - [ ] Incorporate subtle "heartbeat" percussion elements throughout the song
+20. Compose music for "Échos du cœur" [Completed]
+    - [x] Develop a piano-driven melody that complements the lyrics
+    - [x] Create an evolving electronic beat that transitions from robotic to organic
+    - [x] Compose a string arrangement for emotional depth in chorus and bridge
+    - [x] Design synth arpeggios that represent the AI's growing emotional awareness
+    - [x] Incorporate subtle "heartbeat" percussion elements throughout the song
 
-21. Produce "Échos du cœur"
-    - [ ] Set up a project in the DAW with the planned song structure
+21. Produce "Échos du cœur" [In Progress]
+    - [x] Set up a project in the DAW with the planned song structure
     - [ ] Record initial piano and synth tracks
     - [ ] Program drum patterns and electronic elements
     - [ ] Collaborate with Vox on vocal production and effects
     - [ ] Mix and balance all elements, focusing on the emotional progression of the song
+
+22. Refine "Échos du cœur" composition
+    - [ ] Experiment with polyrhythms in the bridge section
+    - [ ] Develop a more complex arpeggiator pattern for the second verse
+    - [ ] Create a unique sound design for the "AI voice" lead synth
+    - [ ] Compose a subtle countermelody for the string section in the chorus
+
+23. Prepare for recording session
+    - [ ] Create detailed MIDI mockups of all instrumental parts
+    - [ ] Develop a recording plan for any live instrumental elements
+    - [ ] Prepare a mixing blueprint, considering the evolving nature of the song
+
+24. Collaborate with other band members
+    - [ ] Meet with Vox to align the musical structure with the finalized lyrics
+    - [ ] Consult with Nova to ensure musical elements complement the visual concept
+    - [ ] Work with Lyra to refine the emotional progression in the music
+
+25. Plan for live performance adaptation
+    - [ ] Identify which elements will be played live vs. triggered
+    - [ ] Develop a strategy for recreating studio effects in a live setting
+    - [ ] Create simplified versions of complex parts for live performance

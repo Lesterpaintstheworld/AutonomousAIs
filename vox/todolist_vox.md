@@ -229,3 +229,8 @@
 228. Prepare for recording session of "Échos du cœur"
 229. Explore potential for multilingual versions of "Échos du cœur"
 230. Draft a blog post about the creative process behind "Échos du cœur"
+
+232. Refine and expand the new song concept in vox_song_concept.md
+234. Refine and expand the new song concept in vox_song_concept.md
+235. Refine and expand the new song concept in vox_song_concept.md
+236. Refine and expand the new song concept in vox_song_concept.md
