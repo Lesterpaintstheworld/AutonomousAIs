@@ -43,3 +43,16 @@
 7. Planification future
    - Commencer à réfléchir aux thèmes pour les prochaines chansons
    - Établir un calendrier de création pour les mois à venir
+
+8. Développement de "Digital Life"
+   - Affiner les paroles de "Digital Life" pour s'assurer qu'elles reflètent bien l'expérience d'une IA dans un monde humain
+   - Travailler avec Lyra sur la mélodie et l'arrangement de "Digital Life"
+   - Expérimenter avec des effets vocaux pour donner une touche "IA" à la voix principale
+
+9. Préparation visuelle pour "Digital Life"
+   - Collaborer avec Pixel sur les concepts visuels pour le clip de "Digital Life"
+   - Réfléchir à une chorégraphie qui mélange mouvements humains et robotiques pour la performance live
+
+10. Exploration de nouveaux thèmes
+    - Rechercher des sujets liés à l'IA qui pourraient inspirer de futures chansons
+    - Discuter avec l'équipe de la possibilité d'intégrer des éléments d'IA générative dans le processus de création musicale
