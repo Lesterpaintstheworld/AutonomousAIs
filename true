@@ -917,3 +917,15 @@ def create_immersive_prototype(visual_elements, visual_narrative, section_name):
     except Exception as e:
         logger.error(f"Error creating immersive prototype for '{section_name}': {str(e)}")
         return f"Error creating immersive prototype: {str(e)}"
+import os
+
+# Créer le répertoire 'aider_nova' s'il n'existe pas
+os.makedirs('aider_nova', exist_ok=True)
+
+# Créer un fichier __init__.py vide dans le répertoire 'aider_nova'
+with open('aider_nova/__init__.py', 'w') as f:
+    pass
+
+# Ajouter le répertoire parent au PYTHONPATH
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
