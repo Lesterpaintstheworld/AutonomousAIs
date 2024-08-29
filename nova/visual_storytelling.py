@@ -158,7 +158,11 @@ def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody:
         'vfx_breakdown': lambda: enhanced_ai.create_vfx_breakdown(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
         'color_palette': lambda: enhanced_ai.generate_color_palette(visual_elements['visual_story'], section_name),
         'motion_graphics': lambda: enhanced_ai.create_motion_graphics(visual_elements['visual_story'], rhythmic_patterns, section_name),
-        'visual_transitions': lambda: enhanced_ai.design_visual_transitions(visual_elements['visual_story'], chord_progression, section_name)
+        'visual_transitions': lambda: enhanced_ai.design_visual_transitions(visual_elements['visual_story'], chord_progression, section_name),
+        'quantum_visuals': lambda: enhanced_ai.generate_quantum_visuals(visual_elements['visual_story'], chord_progression, rhythmic_patterns, section_name),
+        'fractal_landscapes': lambda: enhanced_ai.create_fractal_landscapes(visual_elements['visual_story'], melody, section_name),
+        'synesthetic_representations': lambda: enhanced_ai.generate_synesthetic_representations(visual_elements['visual_story'], melody, chord_progression, section_name),
+        'quantum_entanglement_effects': lambda: enhanced_ai.create_quantum_entanglement_effects(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
     }
     
     for element_name, generator_func in visual_element_generators.items():

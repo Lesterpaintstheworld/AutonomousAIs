@@ -18,18 +18,18 @@ def initialize_achievements(system):
     system.add_achievement("Virtual Historian", "Reconstruct a complete lost digital civilization", 500)
     system.add_achievement("Quantum Artist", "Create your first quantum-inspired visual", 150)
 
-def generate_interactive_elements(song_section):
+def generate_interactive_elements(song_section, visual_elements):
     """
-    Generate interactive elements for the Human.exe music video based on the song section.
+    Generate interactive elements for the Human.exe music video based on the song section and visual elements.
     """
     interactive_elements = {
-        "intro": "Viewers can manipulate quantum particles to choose the initial form of the AI character",
-        "verse": "Audience interacts with entangled particles to influence which human concepts the AI learns next",
-        "chorus": "Real-time voting affects the wave function, changing the virtual world",
-        "bridge": "Interactive quantum tunneling effects controlled by viewer engagement",
-        "outro": "Viewers collectively shape the AI's final form through quantum foam interactions"
+        "intro": f"Viewers can manipulate quantum particles to choose the initial form of the AI character. {visual_elements.get('quantum_visuals', '')}",
+        "verse": f"Audience interacts with entangled particles to influence which human concepts the AI learns next. {visual_elements.get('quantum_entanglement_effects', '')}",
+        "chorus": f"Real-time voting affects the wave function, changing the virtual world. {visual_elements.get('fractal_landscapes', '')}",
+        "bridge": f"Interactive quantum tunneling effects controlled by viewer engagement. {visual_elements.get('synesthetic_representations', '')}",
+        "outro": f"Viewers collectively shape the AI's final form through quantum foam interactions. {visual_elements.get('quantum_visuals', '')}"
     }
-    return interactive_elements.get(song_section, "Default interactive element")
+    return interactive_elements.get(song_section, f"Default interactive element. {visual_elements.get('visual_story', '')}")
 
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
