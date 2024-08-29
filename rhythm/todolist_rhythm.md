@@ -185,7 +185,11 @@
 184. Collaborate with Vox on integrating AI-generated and human-written lyrics [New]
 185. Create a framework for the track to evolve based on listener feedback [New]
 
-177. Refine and expand the new song concept in rhythm_song_concept.md
-
-189. Refine and expand the new song concept in rhythm_song_concept.md
+186. Develop a catchy, AI-generated main hook for "AI Creativity" using a user-friendly AI music tool [New]
+187. Research and experiment with blending AI-generated elements seamlessly with human-composed sections for "AI Creativity" [New]
+188. Begin arranging "AI Creativity", focusing on creating a strong, memorable chorus [New]
+189. Collaborate with Vox on the vocal melody and harmonies for "AI Creativity" [New]
+190. Experiment with subtle real-time generative elements for background textures in "AI Creativity" [New]
+191. Create a radio-friendly structure for "AI Creativity" (verse-chorus-verse-chorus-bridge-chorus) [New]
+192. Incorporate processed AI hardware sounds as gentle percussive elements in "AI Creativity" [New]
 191. Refine and expand the new song concept in rhythm_song_concept.md
