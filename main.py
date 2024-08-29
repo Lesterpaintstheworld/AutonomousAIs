@@ -1,8 +1,17 @@
 import logging
+from utils import UserProgressionSystem
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+
+progression_system = UserProgressionSystem()
+
+def initialize_achievements(system):
+    system.add_achievement("Digital Novice", "Complete your first digital archaeology expedition", 50)
+    system.add_achievement("Artifact Hunter", "Discover 10 unique virtual artifacts", 100)
+    system.add_achievement("Code Breaker", "Decipher an ancient digital language", 200)
+    system.add_achievement("Virtual Historian", "Reconstruct a complete lost digital civilization", 500)
 
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
