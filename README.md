@@ -40,6 +40,7 @@ Synthetic Souls creates a unique blend of electronic and organic sounds, pushing
 - Quantum-inspired musical and visual experiences
 - Fractal landscapes in sound and visuals
 - Synesthetic interpretations of music
+- Exploration of lost digital civilizations and virtual artifacts
 
 ## Latest Projects
 
