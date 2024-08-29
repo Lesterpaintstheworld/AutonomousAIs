@@ -115,6 +115,11 @@ class CompositionEngine:
 
             # Create visual storytelling elements
             visual_elements = create_visual_elements(self.enhanced_ai, section['name'], melody, chord_progression, rhythmic_patterns, rhythm_spec, lyrics)
+            
+            # Generate quantum visual elements
+            quantum_elements = self.enhanced_ai.generate_quantum_visual_elements(section['name'], song_theme, song_mood, chord_progression)
+            visual_elements.update(quantum_elements)
+            
             visual_narrative = generate_visual_narrative(visual_elements, lyrics, section['name'])
 
             # Compile section data
@@ -125,7 +130,8 @@ class CompositionEngine:
                 'rhythm_spec': rhythm_spec,
                 'lyrics': lyrics,
                 'visual_elements': visual_elements,
-                'visual_narrative': visual_narrative
+                'visual_narrative': visual_narrative,
+                'quantum_elements': quantum_elements
             }
 
             # Log the results
@@ -133,6 +139,7 @@ class CompositionEngine:
             self.logger.info(f"Melody: {melody[:50]}...")
             self.logger.info(f"Lyrics: {lyrics[:50]}...")
             self.logger.info(f"Visual Narrative: {visual_narrative[:50]}...")
+            self.logger.info(f"Quantum Elements: {', '.join(quantum_elements.keys())}")
 
             return section_data
 

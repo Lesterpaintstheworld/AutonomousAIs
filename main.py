@@ -30,7 +30,9 @@ def generate_interactive_elements(song_section, visual_elements):
         "outro": f"Viewers collectively shape the AI's final form through quantum foam interactions. {visual_elements.get('quantum_visuals', '')}",
         "pre-chorus": f"Audience creates quantum interference patterns to unlock hidden visual elements. {visual_elements.get('quantum_interference', '')}",
         "breakdown": f"Viewers trigger quantum decoherence events to reveal alternate realities. {visual_elements.get('quantum_decoherence', '')}",
-        "final_chorus": f"Participants engage in quantum entanglement swapping to connect different parts of the story. {visual_elements.get('quantum_entanglement_swapping', '')}"
+        "final_chorus": f"Participants engage in quantum entanglement swapping to connect different parts of the story. {visual_elements.get('quantum_entanglement_swapping', '')}",
+        "buildup": f"Audience influences the collapse of superposition states, determining the visual outcome. {visual_elements.get('quantum_superposition_collapse', '')}",
+        "transition": f"Viewers interact with uncertainty visualizations to create unique visual transitions. {visual_elements.get('quantum_uncertainty', '')}"
     }
     
     # Add new interactive elements based on emotion-color soundscape and visual rhythm

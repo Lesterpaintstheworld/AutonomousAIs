@@ -53,7 +53,9 @@ def generate_quantum_visual_elements(section: str, song_theme: str, song_mood: s
         "quantum_foam": generate_quantum_foam_visuals(section, song_mood),
         "quantum_interference": generate_quantum_interference_visuals(section, song_theme),
         "quantum_decoherence": generate_quantum_decoherence_visuals(section, song_mood),
-        "quantum_entanglement_swapping": generate_entanglement_swapping_visuals(song_theme, harmonic_structure)
+        "quantum_entanglement_swapping": generate_entanglement_swapping_visuals(song_theme, harmonic_structure),
+        "quantum_superposition_collapse": generate_superposition_collapse_visuals(section, song_theme),
+        "quantum_uncertainty": generate_uncertainty_visuals(song_mood, harmonic_structure)
     }
     return quantum_elements
 
@@ -89,6 +91,14 @@ def generate_quantum_decoherence_visuals(section: str, song_mood: str) -> str:
 def generate_entanglement_swapping_visuals(song_theme: str, harmonic_structure: str) -> str:
     swapping_elements = ["particles", "visual motifs", "color schemes", "geometric shapes"]
     return f"Quantum entanglement swapping visuals: Dynamic exchange of quantum correlations between separate pairs of {random.choice(swapping_elements)}, representing {song_theme} and following the {harmonic_structure}. This effect visualizes how quantum information can be transferred and shared across multiple entangled systems."
+
+def generate_superposition_collapse_visuals(section: str, song_theme: str) -> str:
+    collapse_effects = ["rapid color shifts", "morphing shapes", "dissolving patterns", "emerging definite forms"]
+    return f"Quantum superposition collapse visuals for {section}: Dramatic visualization of {random.choice(collapse_effects)} representing the theme of {song_theme}. This effect illustrates the transition from multiple simultaneous possibilities to a single, definite outcome."
+
+def generate_uncertainty_visuals(song_mood: str, harmonic_structure: str) -> str:
+    uncertainty_representations = ["blurred boundaries", "probabilistic color gradients", "fluctuating intensities", "wavering forms"]
+    return f"Quantum uncertainty visuals: Abstract representation of {random.choice(uncertainty_representations)} that reflect the {song_mood} mood and follow the {harmonic_structure}. This visualization emphasizes the inherent unpredictability and limitations of measurement in quantum systems."
 
 def generate_quantum_narrative(quantum_elements: Dict[str, str], section: str, song_theme: str) -> str:
     """
