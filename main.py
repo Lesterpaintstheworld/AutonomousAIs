@@ -18,16 +18,16 @@ def initialize_achievements(system):
     system.add_achievement("Virtual Historian", "Reconstruct a complete lost digital civilization", 500)
     system.add_achievement("Quantum Artist", "Create your first quantum-inspired visual", 150)
 
-def generate_interactive_elements(song_section, quantum_visuals):
+def generate_interactive_elements(song_section):
     """
-    Generate interactive elements for the Human.exe music video based on the song section and quantum visuals.
+    Generate interactive elements for the Human.exe music video based on the song section.
     """
     interactive_elements = {
-        "intro": f"Viewers can manipulate {quantum_visuals['superposition']} to choose the initial form of the AI character",
-        "verse": f"Audience interacts with {quantum_visuals['entanglement']} to influence which human concepts the AI learns next",
-        "chorus": f"Real-time voting affects the {quantum_visuals['wave_function']}, changing the virtual world",
-        "bridge": f"Interactive {quantum_visuals['quantum_tunneling']} effects controlled by viewer engagement",
-        "outro": f"Viewers collectively shape the AI's final form through {quantum_visuals['quantum_foam']} interactions"
+        "intro": "Viewers can manipulate quantum particles to choose the initial form of the AI character",
+        "verse": "Audience interacts with entangled particles to influence which human concepts the AI learns next",
+        "chorus": "Real-time voting affects the wave function, changing the virtual world",
+        "bridge": "Interactive quantum tunneling effects controlled by viewer engagement",
+        "outro": "Viewers collectively shape the AI's final form through quantum foam interactions"
     }
     return interactive_elements.get(song_section, "Default interactive element")
 
@@ -54,7 +54,7 @@ def main():
         section_content = composition_engine.process_song_section({"name": section}, song_theme, song_mood, song_style)
         
         # Add interactive elements
-        section_content['interactive_elements'] = generate_interactive_elements(section, {})
+        section_content['interactive_elements'] = generate_interactive_elements(section)
         
         composition[section] = section_content
         logger.info(f"Completed {section} section")

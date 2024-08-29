@@ -110,7 +110,7 @@ class CompositionEngine:
 
         try:
             # Generate musical elements
-            melody, chord_progression, rhythmic_patterns, rhythm_spec, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody, quantum_visuals = self.generate_section(section['name'], song_theme, song_mood, song_style)
+            melody, chord_progression, rhythmic_patterns, rhythm_spec = self.generate_section(section['name'], song_theme, song_mood, song_style)
             lyrics = self.generate_lyrics(section['name'], song_theme, song_mood)
 
             # Create visual storytelling elements
@@ -125,12 +125,7 @@ class CompositionEngine:
                 'rhythm_spec': rhythm_spec,
                 'lyrics': lyrics,
                 'visual_elements': visual_elements,
-                'visual_narrative': visual_narrative,
-                'visual_rhythm': visual_rhythm,
-                'quantum_harmonies': quantum_harmonies,
-                'emotion_color_soundscape': emotion_color_soundscape,
-                'fractal_melody': fractal_melody,
-                'quantum_visuals': quantum_visuals
+                'visual_narrative': visual_narrative
             }
 
             # Log the results
@@ -138,11 +133,6 @@ class CompositionEngine:
             self.logger.info(f"Melody: {melody[:50]}...")
             self.logger.info(f"Lyrics: {lyrics[:50]}...")
             self.logger.info(f"Visual Narrative: {visual_narrative[:50]}...")
-            self.logger.info(f"Visual Rhythm: {visual_rhythm[:50]}...")
-            self.logger.info(f"Quantum Harmonies: {quantum_harmonies[:50]}...")
-            self.logger.info(f"Emotion-Color Soundscape: {emotion_color_soundscape[:50]}...")
-            self.logger.info(f"Fractal Melody: {fractal_melody[:50]}...")
-            self.logger.info(f"Quantum Visuals: {quantum_visuals[:50]}...")
 
             return section_data
 
