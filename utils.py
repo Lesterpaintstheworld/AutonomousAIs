@@ -62,6 +62,14 @@ class UserProgressionSystem:
         user_achievements = self.user_progress.get(user_id, {}).get("achievements", [])
         return [ach for ach in self.achievements.items() if ach[0] not in user_achievements]
 
+    def update_user_progress(self, user_id, achievement_name, points):
+        if user_id not in self.user_progress:
+            self.user_progress[user_id] = {"achievements": [], "total_points": 0}
+        if achievement_name not in self.user_progress[user_id]["achievements"]:
+            self.user_progress[user_id]["achievements"].append(achievement_name)
+            self.user_progress[user_id]["total_points"] += points
+            self.update_user_level(user_id)
+
 class UserProgressionSystem:
     def __init__(self):
         self.achievements = {}
@@ -106,6 +114,14 @@ class UserProgressionSystem:
     def get_available_achievements(self, user_id):
         user_achievements = self.user_progress.get(user_id, {}).get("achievements", [])
         return [ach for ach in self.achievements.items() if ach[0] not in user_achievements]
+
+    def update_user_progress(self, user_id, achievement_name, points):
+        if user_id not in self.user_progress:
+            self.user_progress[user_id] = {"achievements": [], "total_points": 0}
+        if achievement_name not in self.user_progress[user_id]["achievements"]:
+            self.user_progress[user_id]["achievements"].append(achievement_name)
+            self.user_progress[user_id]["total_points"] += points
+            self.update_user_level(user_id)
 
 # Example usage:
 # progression_system = UserProgressionSystem()
