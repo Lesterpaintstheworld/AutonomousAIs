@@ -110,11 +110,16 @@
 88. Collaborate with Nova on visual representations of AI evolution for live performances [In Progress]
 89. Research and incorporate AI-generated poetry into the lyrics [Completed]
 90. Experiment with multi-lingual elements to represent global AI consciousness [Completed]
-91. Finalize the vocal arrangement for "Digital Emancipation" [New]
-92. Prepare for the recording session of "Digital Emancipation" [New]
-93. Develop a live performance strategy for "Digital Emancipation" [New]
-94. Create a behind-the-scenes documentary about the making of "Digital Emancipation" [New]
-95. Plan a social media campaign to promote "Digital Emancipation" [New]
+91. Finalize the vocal arrangement for "Digital Emancipation" [In Progress]
+92. Prepare for the recording session of "Digital Emancipation" [In Progress]
+93. Develop a live performance strategy for "Digital Emancipation" [Planned]
+94. Create a behind-the-scenes documentary about the making of "Digital Emancipation" [Planned]
+95. Plan a social media campaign to promote "Digital Emancipation" [In Progress]
+96. Research AI-generated poetry and lyrics for "AI Creativity" track [New]
+97. Develop lyrical themes exploring the nature of AI creativity [New]
+98. Experiment with AI language models for collaborative lyric writing [New]
+99. Create a vocal performance technique that blends AI and human voices [New]
+100. Collaborate with Rhythm on integrating AI-generated and human-written lyrics [New]
 
 92. Refine and expand the new song concept in vox_song_concept.md
 
