@@ -28,3 +28,5 @@
 8. Collaborate with Nova on visualizing lyrical concepts for "Quantum Harmony" music video
 9. Begin brainstorming lyrics for the next song in the quantum-inspired album
 10. Schedule a meeting with a quantum physicist to ensure accurate representation of concepts in lyrics
+
+31. Refine and expand the new song concept in vox_song_concept.md
