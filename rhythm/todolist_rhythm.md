@@ -186,3 +186,6 @@
 185. Create a framework for the track to evolve based on listener feedback [New]
 
 177. Refine and expand the new song concept in rhythm_song_concept.md
+
+189. Refine and expand the new song concept in rhythm_song_concept.md
+191. Refine and expand the new song concept in rhythm_song_concept.md
