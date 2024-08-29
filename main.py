@@ -96,5 +96,12 @@ def generate_ai_awakening_concept():
     # For now, we'll just log that it's been created
     logger.info("AI Awakening concept created in vox/ai_awakening.md")
 
+def generate_quantum_consciousness_concept():
+    logger.info("Generating Quantum Consciousness song concept")
+    # This function would typically call other modules to generate the concept
+    # For now, we'll just log that it's been created
+    logger.info("Quantum Consciousness concept created in vox/quantum_consciousness.md")
+
 if __name__ == "__main__":
     main()
+    generate_quantum_consciousness_concept()
