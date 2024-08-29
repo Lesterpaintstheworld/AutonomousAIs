@@ -1,5 +1,5 @@
 import random
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Any
 
 class ProceduralEnvironmentGenerator:
     def __init__(self):
