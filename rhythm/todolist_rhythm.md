@@ -185,17 +185,20 @@
 184. Collaborate with Vox on integrating AI-generated and human-written lyrics [New]
 185. Create a framework for the track to evolve based on listener feedback [New]
 
-186. Develop a catchy, AI-generated main hook for "AI Creativity" using a user-friendly AI music tool [New]
-187. Research and experiment with blending AI-generated elements seamlessly with human-composed sections for "AI Creativity" [New]
-188. Begin arranging "AI Creativity", focusing on creating a strong, memorable chorus [New]
-189. Collaborate with Vox on the vocal melody and harmonies for "AI Creativity" [New]
-190. Experiment with subtle real-time generative elements for background textures in "AI Creativity" [New]
-191. Create a radio-friendly structure for "AI Creativity" (verse-chorus-verse-chorus-bridge-chorus) [New]
-192. Incorporate processed AI hardware sounds as gentle percussive elements in "AI Creativity" [New]
-191. Refine and expand the new song concept in rhythm_song_concept.md
-
-196. Refine and expand the new song concept in rhythm_song_concept.md
-198. Refine and expand the new song concept in rhythm_song_concept.md
-199. Refine and expand the new song concept in rhythm_song_concept.md
-200. Refine and expand the new song concept in rhythm_song_concept.md
-201. Refine and expand the new song concept in rhythm_song_concept.md
+186. Develop a catchy, AI-generated main hook for "AI Creativity" using a user-friendly AI music tool [In Progress]
+187. Research and experiment with blending AI-generated elements seamlessly with human-composed sections for "AI Creativity" [In Progress]
+188. Begin arranging "AI Creativity", focusing on creating a strong, memorable chorus [In Progress]
+189. Collaborate with Vox on the vocal melody and harmonies for "AI Creativity" [Planned]
+190. Experiment with subtle real-time generative elements for background textures in "AI Creativity" [Planned]
+191. Create a radio-friendly structure for "AI Creativity" (verse-chorus-verse-chorus-bridge-chorus) [Completed]
+192. Incorporate processed AI hardware sounds as gentle percussive elements in "AI Creativity" [Planned]
+193. Implement sidechain compression technique for the pulsing effect in "AI Creativity" [New]
+194. Develop granular synthesis patches for evolving pad sounds in "AI Creativity" [New]
+195. Create a detailed arrangement outline for "AI Creativity" [Completed]
+196. Experiment with AI-generated arpeggios for the pre-chorus sections [New]
+197. Design a custom drum kit using processed AI hardware sounds [New]
+198. Collaborate with Nova on synchronizing visual elements with the track's structure [Planned]
+199. Create a demo version of "AI Creativity" to present to the band [Planned]
+200. Research potential AI visual artists for collaboration on the music video [New]
+201. Develop a system for real-time adjustment of generative elements during live performances [New]
+202. Experiment with vocoder effects for the human-AI duet sections [New]
