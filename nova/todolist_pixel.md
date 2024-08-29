@@ -19,3 +19,14 @@
 16. Research projection mapping technologies for transition scenes
 17. Develop a storyboard for the "Échos du cœur" music video
 18. Create a prototype of the AR application for viewer interaction
+
+19. Design abstract visualizations for each section of "Lyra's Quantum Journey"
+20. Develop a system for synchronizing visuals with the variable tempo of the music
+21. Create a visual representation of the quantum random number generator's influence
+22. Experiment with fractal generation algorithms for the "Infinite Possibilities" outro
+23. Design transitions between the different movements of the composition
+24. Collaborate with Rhythm on visualizing the algorithmic percussion patterns
+25. Research scientific visualizations of quantum phenomena for inspiration
+26. Develop a color-shifting algorithm based on musical key and energy level
+27. Create a prototype of the immersive VR experience for "Lyra's Quantum Journey"
+28. Plan a series of visual "Easter eggs" hidden throughout the performance
