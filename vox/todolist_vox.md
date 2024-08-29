@@ -38,8 +38,15 @@
 18. Create a vocal warm-up routine inspired by quantum concepts
 19. Experiment with granular synthesis on vocal samples for textural elements
 20. Collaborate with Rhythm on integrating vocals with the quantum random number generator
+21. Develop a vocal technique to represent quantum superposition in the chorus
+22. Create a lyrical structure that mirrors the song's quantum-inspired musical structure
+23. Research quantum physics terminology to incorporate into the lyrics authentically
+24. Experiment with layered vocals to represent quantum entanglement in harmonies
+25. Compose lyrics that explore the philosophical implications of quantum mechanics
+26. Collaborate with Nova on visualizing lyrical concepts for the "Quantum Harmony" music video
+27. Practice performing with quantum-delayed vocal effects for live performances
+28. Develop a glossary of quantum physics terms to incorporate into future songs
+29. Create a vocal warm-up routine inspired by quantum concepts for the band
+30. Experiment with vocoder effects to represent wave-particle duality in vocals
 
-31. Refine and expand the new song concept in vox_song_concept.md
-
-43. Refine and expand the new song concept in vox_song_concept.md
-45. Refine and expand the new song concept in vox_song_concept.md
+51. Refine and expand the new song concept in vox_song_concept.md
