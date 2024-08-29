@@ -4,7 +4,8 @@ import os
 from utils import UserProgressionSystem
 from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
-from quantum_tango import quantum_tango_composition, generate_quantum_tango_concept
+# Commented out the import for quantum_tango as it's not available
+# from quantum_tango import quantum_tango_composition, generate_quantum_tango_concept
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -32,33 +33,33 @@ def main():
     # Initialize achievements
     initialize_achievements(progression_system)
     
-    # Generate Quantum Tango composition
-    quantum_tango_concept = generate_quantum_tango_concept()
-    quantum_tango = quantum_tango_composition(enhanced_ai, logger)
+    # Commented out Quantum Tango related code
+    # quantum_tango_concept = generate_quantum_tango_concept()
+    # quantum_tango = quantum_tango_composition(enhanced_ai, logger)
     
     # Save Quantum Tango concept
-    with open("lyra/quantum_tango_concept.md", "w") as f:
-        f.write(quantum_tango_concept)
-    logger.info("Quantum Tango concept saved in lyra/quantum_tango_concept.md")
+    # with open("lyra/quantum_tango_concept.md", "w") as f:
+    #     f.write(quantum_tango_concept)
+    # logger.info("Quantum Tango concept saved in lyra/quantum_tango_concept.md")
     
     # Generate Quantum Tango visual concepts
     generate_quantum_tango_visuals()
     logger.info("Quantum Tango visual concepts generated")
     
-    # Process Quantum Tango composition
-    for section_name, section_content in quantum_tango.items():
-        logger.info(f"Processing Quantum Tango {section_name}")
-        
-        # Log the processing of each section
-        logger.info(f"Completed processing Quantum Tango {section_name}")
+    # Commented out Quantum Tango processing
+    # for section_name, section_content in quantum_tango.items():
+    #     logger.info(f"Processing Quantum Tango {section_name}")
+    #     
+    #     # Log the processing of each section
+    #     logger.info(f"Completed processing Quantum Tango {section_name}")
     
-    logger.info("Quantum Tango composition process completed")
+    # logger.info("Quantum Tango composition process completed")
     
     # Update user progress
     progression_system.update_user_progress("user_id", "Tango Master", 300)
     progression_system.update_user_progress("user_id", "Quantum Artist", 150)
     
-    return quantum_tango
+    # return quantum_tango
 
 def generate_ai_awakening_concept():
     logger.info("Generating AI Awakening song concept")
