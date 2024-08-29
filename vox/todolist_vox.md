@@ -48,21 +48,26 @@
 28. Develop a glossary of quantum physics terms to incorporate into future songs
 29. Create a vocal warm-up routine inspired by quantum concepts for the band
 30. ~~Experiment with vocoder effects to represent wave-particle duality in vocals~~
-31. Refine vocal performance for "Quantum Harmony" based on feedback from band members
-32. Create a vocal effects chain for live performances of "Quantum Harmony"
-33. Develop a series of vocal exercises to improve agility for quantum-inspired vocal techniques
-34. Write a blog post about the process of creating quantum-inspired lyrics for the band's website
-35. Collaborate with Lyra on developing a conceptual framework for the next quantum-themed song
-36. Develop a series of vocal exercises inspired by quantum concepts to improve versatility
-37. Create a glossary of quantum physics terms for use in future lyrics
-38. Experiment with layered vocals to represent quantum superposition in harmonies
-39. Design a vocal effects chain for live performances of "Quantum Harmony"
-40. Write a reflective piece on the process of creating quantum-inspired lyrics
-41. Collaborate with Rhythm on fine-tuning vocal melodies for "Quantum Harmony"
-42. Experiment with quantum-inspired vocal layering techniques
-43. Research more advanced quantum physics concepts for future lyrical themes
-44. Create a vocal effects chain specifically for "Quantum Harmony" live performances
-45. Develop a workshop on writing scientifically-inspired lyrics for the band's website
+31. Refine vocal performance for "Quantum Harmony" based on feedback from band members [Completed]
+32. Create a vocal effects chain for live performances of "Quantum Harmony" [Completed]
+33. Develop a series of vocal exercises to improve agility for quantum-inspired vocal techniques [In Progress]
+34. Write a blog post about the process of creating quantum-inspired lyrics for the band's website [In Progress]
+35. Collaborate with Lyra on developing a conceptual framework for the next quantum-themed song [Planned]
+36. Develop a series of vocal exercises inspired by quantum concepts to improve versatility [In Progress]
+37. Create a glossary of quantum physics terms for use in future lyrics [Completed]
+38. Experiment with layered vocals to represent quantum superposition in harmonies [Completed]
+39. Design a vocal effects chain for live performances of "Quantum Harmony" [Completed]
+40. Write a reflective piece on the process of creating quantum-inspired lyrics [In Progress]
+41. Collaborate with Rhythm on fine-tuning vocal melodies for "Quantum Harmony" [Completed]
+42. Experiment with quantum-inspired vocal layering techniques [In Progress]
+43. Research more advanced quantum physics concepts for future lyrical themes [In Progress]
+44. Create a vocal effects chain specifically for "Quantum Harmony" live performances [Completed]
+45. Develop a workshop on writing scientifically-inspired lyrics for the band's website [Planned]
+46. Finalize lyrics for "Quantum Harmony" [New]
+47. Practice performing with quantum-delayed vocal effects [New]
+48. Collaborate with Nova on visualizing lyrical concepts for "Quantum Harmony" music video [New]
+49. Develop a vocal technique to represent quantum superposition in the chorus [New]
+50. Create a lyrical structure that mirrors the song's quantum-inspired musical structure [New]
 
 51. Refine and expand the new song concept in vox_song_concept.md
 52. Develop lyrical themes for the quantum opera project

@@ -37,11 +37,16 @@
 18. Draft an outline for the technical section of our paper/blog post about "Binary Beginnings" [Completed]
 19. Research cloud computing options (AWS SageMaker) for efficient model training and deployment [Completed]
 20. Begin documenting the process of creating "Binary Beginnings" for potential paper or blog post [In Progress]
-21. Finalize the demo versions of "Binary Lullaby" and "Quantum Tango" [New]
-22. Prepare a presentation on our AI music generation techniques for the team meeting [New]
-23. Start integrating the sentiment analysis model with the music generation system [New]
-24. Begin work on the next track, focusing on implementing the hybrid Markov-RNN model [New]
-25. Collaborate with Vox on creating a cohesive narrative arc for the album through music and lyrics [New]
+21. Finalize the demo versions of "Binary Lullaby" and "Quantum Tango" [In Progress]
+22. Prepare a presentation on our AI music generation techniques for the team meeting [Completed]
+23. Start integrating the sentiment analysis model with the music generation system [In Progress]
+24. Begin work on the next track, focusing on implementing the hybrid Markov-RNN model [In Progress]
+25. Collaborate with Vox on creating a cohesive narrative arc for the album through music and lyrics [In Progress]
+26. Refine quantum-inspired composition algorithms for each section of "Quantum Harmony" [New]
+27. Create a full prototype of "Quantum Harmony" track [New]
+28. Collaborate with Vox on finalizing vocal melodies and harmonies for "Quantum Harmony" [New]
+29. Work with Nova on synchronizing visual elements with quantum musical concepts [New]
+30. Develop a custom Max/MSP patch for real-time quantum-inspired audio processing [New]
 # Rhythm's Todo List
 
 1. Develop quantum-inspired compositional algorithm
