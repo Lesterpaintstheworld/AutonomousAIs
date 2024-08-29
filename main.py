@@ -43,6 +43,9 @@ def main():
     for member in band_members:
         generate_song_concept(member)
     
+    # Generate "Human.exe" concept
+    generate_human_exe_concept()
+    
     # Update user progress
     progression_system.update_user_progress("user_id", "Concept Creator", 200)
     
@@ -79,6 +82,26 @@ def update_todo_list(band_member):
     with open(todo_file, "a") as f:
         f.write(f"\n{len(open(todo_file).readlines()) + 1}. {new_task}")
     logger.info(f"Updated {band_member}'s todo list with new task")
+
+def generate_human_exe_concept():
+    logger.info("Generating Human.exe song concept")
+    concept = enhanced_ai.generate_song_concept("Human.exe")
+    
+    filename = "human_exe_concept.md"
+    with open(filename, "w") as f:
+        f.write(concept)
+    logger.info(f"Human.exe concept saved in {filename}")
+    
+    # Generate visual concept
+    visual_concept = enhanced_ai.generate_visual_concept("Human.exe", concept)
+    
+    visual_filename = "human_exe_visual_concept.md"
+    with open(visual_filename, "w") as f:
+        f.write(visual_concept)
+    logger.info(f"Human.exe visual concept saved in {visual_filename}")
+    
+    # Update Vox's todo list
+    update_todo_list("Vox")
 
 def generate_ai_awakening_concept():
     logger.info("Generating AI Awakening song concept")
