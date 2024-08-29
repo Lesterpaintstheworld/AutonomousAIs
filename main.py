@@ -1,3 +1,4 @@
+# Current Objective: Create and improve on a complete song concept, with music prompts(with style & instruments/sonorities & emotions), lyrics, visual prompts, & clip, in a new file. From your todolist, reflect on what needs to be done. Then continue to work autonomously on what you think needs to be done. Keep your todolist up to date.
 import logging
 from utils import UserProgressionSystem
 from composition_engine import CompositionEngine
