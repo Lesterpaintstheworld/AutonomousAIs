@@ -6,6 +6,7 @@ from nova.visual_rhythm_synthesis import generate_visual_rhythm
 from nova.quantum_visual_harmonies import generate_quantum_harmonies
 from nova.emotion_color_soundscapes import generate_emotion_color_soundscape
 from nova.fractal_melody_generation import generate_fractal_melody
+from nova.quantum_visual_storytelling import generate_quantum_visual_elements
 
 class CompositionEngine:
     def __init__(self, enhanced_ai: EnhancedAI, logger: logging.Logger):
@@ -26,11 +27,12 @@ class CompositionEngine:
         quantum_harmonies = generate_quantum_harmonies(section, harmonic_structure)
         emotion_color_soundscape = generate_emotion_color_soundscape(section, song_mood)
         fractal_melody = generate_fractal_melody(section, melody)
+        quantum_visuals = generate_quantum_visual_elements(section, song_theme, song_mood, harmonic_structure)
         
         # Apply dynamic difficulty adjustment
         melody, chord_progression, rhythmic_patterns = self.adjust_difficulty(melody, chord_progression, rhythmic_patterns)
         
-        return melody, chord_progression, rhythmic_patterns, rhythm_spec, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody
+        return melody, chord_progression, rhythmic_patterns, rhythm_spec, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody, quantum_visuals
 
     def generate_lyrics(self, section: str, song_theme: str, song_mood: str) -> str:
         self.logger.info(f"Generating lyrics for section: {section}")
@@ -139,7 +141,8 @@ class CompositionEngine:
                 'visual_rhythm': visual_rhythm,
                 'quantum_harmonies': quantum_harmonies,
                 'emotion_color_soundscape': emotion_color_soundscape,
-                'fractal_melody': fractal_melody
+                'fractal_melody': fractal_melody,
+                'quantum_visuals': quantum_visuals
             }
 
             # Log the results
@@ -151,6 +154,7 @@ class CompositionEngine:
             self.logger.info(f"Quantum Harmonies: {quantum_harmonies[:50]}...")
             self.logger.info(f"Emotion-Color Soundscape: {emotion_color_soundscape[:50]}...")
             self.logger.info(f"Fractal Melody: {fractal_melody[:50]}...")
+            self.logger.info(f"Quantum Visuals: {quantum_visuals[:50]}...")
 
             return section_data
 
