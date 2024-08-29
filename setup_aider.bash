@@ -18,18 +18,18 @@ create_aider_function() {
     local name=$1
     local path=$2
     local function_name="run_${name//-/_}"
-    local function_content='
-    '"$function_name"'() {
-        echo "Activating '"$name"' environment..."
-        export VIRTUAL_ENV="'"$path"'"
-        export PATH="'"$path"'/bin:$PATH"
-        python_path="'"$path"'/bin/python"
-        echo "Using Python executable: $python_path"
-        echo "Running '"$name"' with arguments: $@"
-        "$python_path" -m aider "$@"
-        echo "'"$name"' execution completed."
+    local function_content="
+    $function_name() {
+        echo \"Activating '$name' environment...\"
+        export VIRTUAL_ENV=\"$path\"
+        export PATH=\"$path/bin:\$PATH\"
+        python_path=\"$path/bin/python\"
+        echo \"Using Python executable: \$python_path\"
+        echo \"Running '$name' with arguments: \$@\"
+        \"\$python_path\" -m aider \"\$@\"
+        echo \"'$name' execution completed.\"
     }
-    '
+    "
     eval "$function_content"
     alias "$name"="$function_name"
     echo "Function and alias for $name created/updated."
