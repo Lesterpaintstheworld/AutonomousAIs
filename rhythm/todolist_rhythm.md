@@ -93,3 +93,17 @@
     - Study advanced music theory concepts
     - Learn about new genres and styles to incorporate into our work
     - Practice explaining complex musical and technological concepts in simpler terms
+# Rhythm's Todo List
+
+1. ~~Develop initial composition for "Quantum Harmony"~~
+2. Refine quantum-inspired composition algorithms for each section of the song
+3. Create a full prototype of "Quantum Harmony" track
+4. Collaborate with Vox on finalizing vocal melodies and harmonies
+5. Work with Nova on synchronizing visual elements with quantum musical concepts
+6. Develop a custom Max/MSP patch for real-time quantum-inspired audio processing
+7. Research and implement a quantum random number generator for live performances
+8. Create documentation on the quantum music composition techniques for future reference
+9. Explore potential collaborations with quantum physics research institutions
+10. Begin preliminary work on the "Algorithmic Ecosystem" concept
+11. Schedule a team meeting to discuss live performance aspects of "Quantum Harmony"
+12. Start developing the "Emotional Resonance Engine" for future compositions

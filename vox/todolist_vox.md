@@ -16,3 +16,15 @@
 14. Prepare a report on resource needs for lyric generation and vocal synthesis for the next team meeting
 15. Begin conceptualizing lyrical themes for "Neural Network Nocturne" and "Algorithmic Heartbeat"
 16. Experiment with quantum-inspired language models for "Quantum Tango" lyrics
+# Vox's Todo List
+
+1. ~~Write lyrics for "Quantum Harmony"~~
+2. Collaborate with Rhythm on vocal melodies for "Quantum Harmony"
+3. Experiment with vocoder effects to represent quantum superposition in vocals
+4. Develop a technique for "entangled" harmonies in backing vocals
+5. Research quantum physics concepts for future song ideas
+6. Practice incorporating scientific terminology into lyrical flow
+7. Explore the use of aleatoric techniques in vocal performance to represent quantum uncertainty
+8. Collaborate with Nova on visualizing lyrical concepts for "Quantum Harmony" music video
+9. Begin brainstorming lyrics for the next song in the quantum-inspired album
+10. Schedule a meeting with a quantum physicist to ensure accurate representation of concepts in lyrics
