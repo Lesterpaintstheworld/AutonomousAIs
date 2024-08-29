@@ -63,3 +63,17 @@
     - [ ] Identify which elements will be played live vs. triggered
     - [ ] Develop a strategy for recreating studio effects in a live setting
     - [ ] Create simplified versions of complex parts for live performance
+
+20. Compose music for "Échos du cœur"
+    - [ ] Develop a piano-driven melody that complements the lyrics
+    - [ ] Create an evolving electronic beat that transitions from robotic to organic
+    - [ ] Compose a string arrangement for emotional depth in chorus and bridge
+    - [ ] Design synth arpeggios that represent the AI's growing emotional awareness
+    - [ ] Incorporate subtle "heartbeat" percussion elements throughout the song
+
+21. Produce "Échos du cœur"
+    - [ ] Set up a project in the DAW with the planned song structure
+    - [ ] Record initial piano and synth tracks
+    - [ ] Program drum patterns and electronic elements
+    - [ ] Collaborate with Vox on vocal production and effects
+    - [ ] Mix and balance all elements, focusing on the emotional progression of the song
