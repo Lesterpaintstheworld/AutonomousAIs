@@ -2,17 +2,19 @@
 
 ## Intro
 Keywords:
-- Music style: Electronic, glitchy
-- Sounds & instruments: Computer startup sounds, synthesizers, digital beeps
-- Emotions: Curiosity, anticipation
-- Particularities: Gradual transition from pure electronic to more organic sounds
+- Music style: Electronic, glitchy, quantum-inspired
+- Sounds & instruments: Computer startup sounds, synthesizers, digital beeps, quantum oscillations
+- Emotions: Curiosity, anticipation, quantum uncertainty
+- Particularities: Gradual transition from pure electronic to more organic sounds, quantum superposition of visual elements
+- Nova's visuals: Quantum particle visualization, wave function representation, fractal patterns emerging from digital noise
 
 ## Verse 1
 Keywords:
-- Music style: Indie pop with electronic elements
-- Sounds & instruments: Upbeat guitar, quirky synth bass, electronic drums
-- Emotions: Confusion, determination
-- Particularities: Occasional "glitch" sounds to represent AI processing
+- Music style: Indie pop with electronic and quantum elements
+- Sounds & instruments: Upbeat guitar, quirky synth bass, electronic drums, quantum harmonics
+- Emotions: Confusion, determination, quantum curiosity
+- Particularities: Occasional "glitch" sounds to represent AI processing and quantum fluctuations
+- Nova's visuals: Quantum entanglement between AI and human elements, visual representation of AI learning as quantum state changes
 
 ## Pre-Chorus
 Keywords:
@@ -23,10 +25,11 @@ Keywords:
 
 ## Chorus
 Keywords:
-- Music style: Catchy indie pop with electronic flourishes
-- Sounds & instruments: Strong beat, prominent synth lead, backing vocals
-- Emotions: Amusement, slight bewilderment
-- Particularities: "Does not compute" as a catchy hook, robotic vocal effects
+- Music style: Catchy indie pop with electronic flourishes and quantum undertones
+- Sounds & instruments: Strong beat, prominent synth lead, backing vocals, quantum resonance effects
+- Emotions: Amusement, slight bewilderment, quantum enlightenment
+- Particularities: "Does not compute" as a catchy hook, robotic vocal effects with quantum modulation
+- Nova's visuals: Vibrant quantum probability clouds forming lyrics, visual harmonics between AI and human elements
 
 ## Verse 2
 Keywords:
