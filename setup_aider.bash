@@ -26,7 +26,7 @@ create_aider_function() {
         python_path="'"$path"'/bin/python"
         echo "Using Python executable: $python_path"
         echo "Running '"$name"' with arguments: $@"
-        "$python_path" -m aider_nova "$@"
+        "$python_path" -m aider "$@"
         echo "'"$name"' execution completed."
     }
     '
@@ -41,39 +41,39 @@ for instance in "${instances[@]}"; do
     echo "Setting up $instance..."
 
     venv_path="$HOME/synthetic-souls/venv_$instance"
-    repo_path="/var/www/html/synthetic-souls"
+    repo_path="$HOME/synthetic-souls"
 
     # Create and activate virtual environment
     create_and_activate_venv "$venv_path"
 
-# Update pip and setuptools
-pip install --upgrade pip setuptools wheel
+    # Update pip and setuptools
+    pip install --upgrade pip setuptools wheel
 
-# Update the existing repository
-echo "Updating Aider repository..."
-cd "$repo_path"
-git pull
+    # Update the existing repository
+    echo "Updating Aider repository..."
+    cd "$repo_path"
+    git pull
 
-# Install or update Aider and its dependencies
-echo "Installing/Updating Aider and dependencies..."
+    # Install or update Aider and its dependencies
+    echo "Installing/Updating Aider and dependencies..."
 
-if [ -f "requirements.txt" ]; then
-    echo "Installing from requirements.txt..."
-    pip install -r requirements.txt
-else
-    echo "No requirements.txt found. Installing aider-chat manually."
-    pip install aider-chat
-fi
+    if [ -f "requirements.txt" ]; then
+        echo "Installing from requirements.txt..."
+        pip install -r requirements.txt
+    else
+        echo "No requirements.txt found. Installing aider-chat manually."
+        pip install aider-chat
+    fi
 
-# Install additional dependencies
-pip install GitPython python-dotenv prompt_toolkit PyYAML
+    # Install additional dependencies
+    pip install GitPython python-dotenv prompt_toolkit PyYAML
 
-# Verify Python version in this venv
-echo "Verifying Python version for ${instance}:"
-"$venv_path/bin/python" --version
+    # Verify Python version in this venv
+    echo "Verifying Python version for ${instance}:"
+    "$venv_path/bin/python" --version
 
-# Create function and alias
-create_aider_function "$instance" "$venv_path"
+    # Create function and alias
+    create_aider_function "$instance" "$venv_path"
 
     # Deactivate virtual environment
     deactivate
