@@ -9,7 +9,7 @@ class CompositionEngine:
         self.logger = logger
         self.difficulty_level = 0.5  # Initialize difficulty at medium level
 
-    def generate_section(self, section: str, song_theme: str, song_mood: str, song_style: str) -> Tuple[str, str, str, Dict[str, Any], str, str, str, str, str]:
+    def generate_section(self, section: str, song_theme: str, song_mood: str, song_style: str) -> Tuple[str, str, str, Dict[str, Any]]:
         self.logger.info(f"Generating section: {section}")
         harmonic_structure = self.enhanced_ai.generate_harmonic_structure(section, song_theme, song_mood, song_style)
         melody = self.enhanced_ai.generate_melody(section, song_theme, song_mood, song_style, harmonic_structure)
@@ -17,17 +17,10 @@ class CompositionEngine:
         rhythmic_patterns = self.enhanced_ai.generate_rhythmic_patterns(section, song_theme, song_mood, song_style)
         rhythm_spec = self.enhanced_ai.develop_rhythm_specification(section)
         
-        # Incorporate Nova's innovative concepts
-        visual_rhythm = generate_visual_rhythm(section, song_theme, song_mood)
-        quantum_harmonies = generate_quantum_harmonies(section, harmonic_structure)
-        emotion_color_soundscape = generate_emotion_color_soundscape(section, song_mood)
-        fractal_melody = generate_fractal_melody(section, melody)
-        quantum_visuals = generate_quantum_visual_elements(section, song_theme, song_mood, harmonic_structure)
-        
         # Apply dynamic difficulty adjustment
         melody, chord_progression, rhythmic_patterns = self.adjust_difficulty(melody, chord_progression, rhythmic_patterns)
         
-        return melody, chord_progression, rhythmic_patterns, rhythm_spec, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody, quantum_visuals
+        return melody, chord_progression, rhythmic_patterns, rhythm_spec
 
     def generate_lyrics(self, section: str, song_theme: str, song_mood: str) -> str:
         self.logger.info(f"Generating lyrics for section: {section}")

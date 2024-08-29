@@ -53,11 +53,8 @@ def main():
         # Generate section content using the composition engine
         section_content = composition_engine.process_song_section({"name": section}, song_theme, song_mood, song_style)
         
-        # Generate quantum visual elements
-        quantum_visuals = generate_quantum_visual_elements(section, song_theme, song_mood, section_content['harmonic_structure'])
-        
         # Add interactive elements
-        section_content['interactive_elements'] = generate_interactive_elements(section, quantum_visuals)
+        section_content['interactive_elements'] = generate_interactive_elements(section, {})
         
         composition[section] = section_content
         logger.info(f"Completed {section} section")
