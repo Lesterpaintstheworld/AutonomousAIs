@@ -125,6 +125,22 @@ def generate_visual_metadata(visual_elements: Dict[str, str], section: str) -> D
     except Exception as e:
         logger.error(f"Error generating visual metadata for section '{section}': {str(e)}")
         raise
+
+def generate_emotion_color_soundscape(section: str, song_mood: str) -> str:
+    """
+    Create ambient soundscapes based on the emotional associations of colors and visual compositions.
+    """
+    # Implementation moved to nova/emotion_color_soundscapes.py
+    from nova.emotion_color_soundscapes import generate_emotion_color_soundscape
+    return generate_emotion_color_soundscape(section, song_mood)
+
+def generate_visual_rhythm(section: str, song_theme: str, song_mood: str) -> str:
+    """
+    Generate rhythms and percussion sounds based on visual patterns and movements.
+    """
+    # Implementation moved to nova/visual_rhythm_synthesis.py
+    from nova.visual_rhythm_synthesis import generate_visual_rhythm
+    return generate_visual_rhythm(section, song_theme, song_mood)
 import logging
 from typing import Dict, Any, Optional
 from ai_models import EnhancedAI
@@ -155,6 +171,12 @@ def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody:
     # Generate quantum visual elements
     quantum_elements = generate_quantum_visual_elements(section_name, song_theme, song_mood, chord_progression)
     quantum_narrative = generate_quantum_narrative(quantum_elements, section_name, song_theme)
+    
+    # Generate emotion-color soundscape
+    emotion_color_soundscape = generate_emotion_color_soundscape(section_name, song_mood)
+    
+    # Generate visual rhythm
+    visual_rhythm = generate_visual_rhythm(section_name, song_theme, song_mood)
     
     visual_element_generators = {
         'visual_story': lambda: enhanced_ai.generate_nova_visual_story(section_name, melody, chord_progression, rhythmic_patterns, lyrics),

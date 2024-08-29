@@ -32,6 +32,13 @@ def generate_interactive_elements(song_section, visual_elements):
         "breakdown": f"Viewers trigger quantum decoherence events to reveal alternate realities. {visual_elements.get('quantum_decoherence', '')}",
         "final_chorus": f"Participants engage in quantum entanglement swapping to connect different parts of the story. {visual_elements.get('quantum_entanglement_swapping', '')}"
     }
+    
+    # Add new interactive elements based on emotion-color soundscape and visual rhythm
+    interactive_elements.update({
+        "emotion_color": f"Viewers can influence the ambient soundscape by interacting with a color wheel, affecting the emotional tone. {visual_elements.get('emotion_color_soundscape', '')}",
+        "visual_rhythm": f"Audience can create visual patterns that generate unique percussion sounds, adding to the song's rhythm. {visual_elements.get('visual_rhythm', '')}"
+    })
+    
     return interactive_elements.get(song_section, f"Default interactive element. {visual_elements.get('visual_story', '')}")
 
 def main():
