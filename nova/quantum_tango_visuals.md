@@ -1,52 +1,12 @@
 # Quantum Tango: Visual Concepts
 
-## Overview
-This document outlines the visual concepts for Synthetic Souls' "Quantum Tango" composition, blending the passionate world of tango with the mysterious realm of quantum mechanics.
+1. Quantum Entanglement Dance: Visualize two particles as dancers, their movements perfectly synchronized across space.
 
-## Key Visual Elements
+2. Superposition Cityscape: A futuristic city where buildings exist in multiple states simultaneously, fading in and out of reality.
 
-1. Quantum Particle Dancers
-   - Visualize quantum particles as abstract dancers
-   - Particles/dancers move in tandem with the music's rhythm
-   - Showcase entanglement through intertwining particle streams
+3. Schrödinger's Tango: A cat-like figure both leading and following in a tango, its state uncertain until observed.
 
-2. Wavefunction Choreography
-   - Represent musical phrases as evolving wavefunctions
-   - Visualize wavefunction collapse during key musical moments
-   - Use color and intensity to show probability distributions
+4. Quantum Foam Dancefloor: The dance floor itself alive with quantum fluctuations, particles popping in and out of existence.
 
-3. Fractal Tango Patterns
-   - Generate fractal patterns inspired by traditional tango designs
-   - Evolve and transform fractals in response to the music's structure
-   - Incorporate quantum randomness in fractal evolution
+5. Heisenberg's Uncertain Steps: Dancers whose exact positions and movements become blurry when their speed is known, and vice versa.
 
-4. Superposition States
-   - Visualize instruments in superposition states
-   - Show multiple potential dance moves simultaneously
-   - Collapse superpositions in sync with musical accents
-
-5. Quantum Tunneling Effects
-   - Represent melodic lines tunneling through harmonic barriers
-   - Visualize dancers phasing through each other
-   - Use tunneling effects during key transitions in the composition
-
-6. Entangled Visuals
-   - Create pairs of entangled visual elements
-   - Demonstrate non-local correlations between distant parts of the visual field
-   - Use entanglement to connect different sections of the composition
-
-## Color Palette
-- Deep reds and blacks reminiscent of traditional tango
-- Electric blues and purples to represent quantum effects
-- Shimmering golds for particle effects and energy transitions
-
-## Implementation Notes
-- Utilize real-time generative algorithms for dynamic visuals
-- Synchronize visual elements precisely with musical events
-- Incorporate user interaction to influence quantum visual elements
-
-## Next Steps
-1. Develop prototypes for each key visual element
-2. Create a storyboard linking visuals to specific sections of the composition
-3. Explore technical requirements for real-time rendering
-4. Collaborate with Rhythm to ensure tight audio-visual synchronization
