@@ -28,5 +28,18 @@
 8. Collaborate with Nova on visualizing lyrical concepts for "Quantum Harmony" music video
 9. Begin brainstorming lyrics for the next song in the quantum-inspired album
 10. Schedule a meeting with a quantum physicist to ensure accurate representation of concepts in lyrics
+11. Create a call-and-response vocal pattern for the Entanglement section
+12. Develop lyrics that alternate between wave-like and particle-like phrasing for the Wave-Particle Duality section
+13. Experiment with sudden pitch shifts in vocals to represent Quantum Tunneling
+14. Compose layered vocal harmonies to represent the complexity of Quantum Field Theory
+15. Design a vocal deconstruction technique for the Quantum Decoherence outro
+16. Practice performing with quantum-delayed vocal effects
+17. Develop a glossary of quantum physics terms to incorporate into lyrics
+18. Create a vocal warm-up routine inspired by quantum concepts
+19. Experiment with granular synthesis on vocal samples for textural elements
+20. Collaborate with Rhythm on integrating vocals with the quantum random number generator
 
 31. Refine and expand the new song concept in vox_song_concept.md
+
+43. Refine and expand the new song concept in vox_song_concept.md
+45. Refine and expand the new song concept in vox_song_concept.md
