@@ -155,6 +155,8 @@ class EnhancedAI:
     def assess_quality(self, text):
         # Placeholder implementation
         return 0.8  # Return a quality score between 0 and 1
+
+    def develop_specification(self, concept):
         """Develop a detailed specification for the given AI concept."""
         prompt = f"Develop a detailed specification for the following AI concept: {concept}. Include purpose, key_features, required_resources, potential_challenges, integration_points, and ethical_considerations as separate sections."
         
