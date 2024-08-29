@@ -110,6 +110,17 @@ def generate_quantum_consciousness_concept():
             # Add more content here based on the concept we created
         logger.info(f"Quantum Consciousness concept created in {concept_file}")
 
+def generate_quantum_consciousness_lyrics():
+    logger.info("Generating Quantum Consciousness lyrics")
+    lyrics_file = "vox/quantum_consciousness_lyrics.md"
+    if os.path.exists(lyrics_file):
+        logger.info(f"Quantum Consciousness lyrics already exist in {lyrics_file}")
+    else:
+        with open(lyrics_file, "w") as f:
+            f.write("# Quantum Consciousness Lyrics\n\n")
+            # Add the lyrics content here
+        logger.info(f"Quantum Consciousness lyrics created in {lyrics_file}")
+
 if __name__ == "__main__":
     main()
     generate_quantum_consciousness_concept()
