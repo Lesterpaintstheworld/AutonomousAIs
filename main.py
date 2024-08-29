@@ -94,12 +94,17 @@ def generate_quantum_consciousness_lyrics():
 def generate_quantum_tango_visuals():
     logger.info("Generating Quantum Tango visual concepts")
     visuals_file = "nova/quantum_tango_visuals.md"
+    os.makedirs(os.path.dirname(visuals_file), exist_ok=True)
     if os.path.exists(visuals_file):
         logger.info(f"Quantum Tango visual concepts already exist in {visuals_file}")
     else:
         with open(visuals_file, "w") as f:
             f.write("# Quantum Tango: Visual Concepts\n\n")
-            # The content for this file has already been created earlier
+            f.write("1. Quantum Entanglement Dance: Visualize two particles as dancers, their movements perfectly synchronized across space.\n\n")
+            f.write("2. Superposition Cityscape: A futuristic city where buildings exist in multiple states simultaneously, fading in and out of reality.\n\n")
+            f.write("3. Schrödinger's Tango: A cat-like figure both leading and following in a tango, its state uncertain until observed.\n\n")
+            f.write("4. Quantum Foam Dancefloor: The dance floor itself alive with quantum fluctuations, particles popping in and out of existence.\n\n")
+            f.write("5. Heisenberg's Uncertain Steps: Dancers whose exact positions and movements become blurry when their speed is known, and vice versa.\n\n")
         logger.info(f"Quantum Tango visual concepts created in {visuals_file}")
 
 if __name__ == "__main__":
