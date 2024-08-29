@@ -14,3 +14,19 @@
 4. Collaborer avec Lyra pour synchroniser les éléments rythmiques et mélodiques
 5. Expérimenter avec des effets de percussion légers pour ajouter de la texture
 6. Ajuster le tempo et le groove pour optimiser l'impact émotionnel de la chanson
+# Rhythm's Todo List
+
+1. Review the updated musical concept for "Échos du cœur"
+2. Begin composing the main melody and chord progression for the song
+3. Experiment with evolving rhythmic patterns to reflect the AI's emotional journey
+4. Research and implement audio binaural techniques for an immersive listening experience
+5. Collaborate with Vox on integrating subtle vocoder effects for the AI voice
+6. Develop a bank of atmospheric synth sounds for the song's backdrop
+7. Create a progression of electronic drum patterns, from mechanical to organic
+8. Experiment with AI-generated harmonies for the backing vocals
+9. Integrate subtle heartbeat sounds into the rhythm section
+10. Explore the use of generative AI for creating unique sound variations
+11. Collaborate with Nova on synchronizing musical elements with visual concepts
+12. Begin arranging the full instrumental track for "Échos du cœur"
+13. Prepare stems for potential remixes or interactive AR/VR experiences
+14. Schedule a review session with the full team to gather feedback on the initial musical direction

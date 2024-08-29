@@ -8,3 +8,14 @@
 6. Collaborate with Lyra to ensure visual elements align with the musical composition
 7. Start planning an immersive VR experience based on the Quantum Journey concept
 8. Research potential platforms or technologies for showcasing the final audio-visual piece
+
+9. Review and analyze the visual concept for "Échos du cœur"
+10. Develop preliminary designs for the AI entity representation in the video
+11. Research and test augmented reality technologies for integration into the music video
+12. Create prototypes for the AR filters and interactive elements
+13. Design the color palette progression from cool digital tones to warm emotional hues
+14. Collaborate with Vox on visualizing the "emotional echoes" concept
+15. Explore motion capture techniques for fluid AI entity animations
+16. Research projection mapping technologies for transition scenes
+17. Develop a storyboard for the "Échos du cœur" music video
+18. Create a prototype of the AR application for viewer interaction
