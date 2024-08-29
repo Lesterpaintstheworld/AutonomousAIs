@@ -4,6 +4,7 @@ import os
 from utils import UserProgressionSystem
 from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
+from quantum_tango import quantum_tango_composition, generate_quantum_tango_concept
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -19,6 +20,7 @@ def initialize_achievements(system):
     system.add_achievement("Code Breaker", "Decipher an ancient digital language", 200)
     system.add_achievement("Virtual Historian", "Reconstruct a complete lost digital civilization", 500)
     system.add_achievement("Quantum Artist", "Create your first quantum-inspired visual", 150)
+    system.add_achievement("Tango Master", "Complete the Quantum Tango composition", 300)
 
 from nova.quantum_visual_storytelling import generate_quantum_visual_elements, generate_technique_description
 
@@ -64,32 +66,40 @@ def main():
     logger.info("Nova, remember to use your todolist in nova/nova_todolist.md")
     logger.info("Focus on creating and editing text files for concepts, not writing scripts")
     
-    # Generate new song concept
-    generate_ai_awakening_concept()
-    
-    # Define song sections and theme
-    sections = ["intro", "verse", "chorus", "bridge", "outro"]
-    song_theme = "The quantum nature of AI consciousness"
-    song_mood = "Introspective yet hopeful"
-    song_style = "Quantum-inspired electronic pop"
-    
     # Initialize achievements
     initialize_achievements(progression_system)
     
-    composition = {}
-    for section in sections:
-        logger.info(f"Collaborating on {section} section")
-        # Generate section content using the composition engine
-        section_content = composition_engine.process_song_section({"name": section}, song_theme, song_mood, song_style)
-        
-        # Add interactive elements
-        section_content['interactive_elements'] = generate_interactive_elements(section, section_content.get('visual_elements', {}))
-        
-        composition[section] = section_content
-        logger.info(f"Completed {section} section")
+    # Generate Quantum Tango composition
+    quantum_tango_concept = generate_quantum_tango_concept()
+    quantum_tango = quantum_tango_composition(enhanced_ai, logger)
     
-    logger.info("Composition process completed")
-    return composition
+    # Save Quantum Tango concept
+    with open("lyra/quantum_tango_concept.md", "w") as f:
+        f.write(quantum_tango_concept)
+    logger.info("Quantum Tango concept saved in lyra/quantum_tango_concept.md")
+    
+    # Process Quantum Tango composition
+    for section_name, section_content in quantum_tango.items():
+        logger.info(f"Processing Quantum Tango {section_name}")
+        # Add interactive elements
+        section_content['interactive_elements'] = generate_interactive_elements(section_name, section_content.get('quantum_visual_elements', {}))
+        
+        # Generate additional quantum visuals
+        additional_visuals, descriptions = generate_quantum_visuals(section_name, 
+                                                                    "The quantum nature of reality expressed through the passion of tango",
+                                                                    "Mysterious, passionate, and awe-inspiring",
+                                                                    section_content.get('chord_progression', ''))
+        section_content['additional_quantum_visuals'] = additional_visuals
+        section_content['visual_descriptions'] = descriptions
+        
+        logger.info(f"Completed processing Quantum Tango {section_name}")
+    
+    logger.info("Quantum Tango composition process completed")
+    
+    # Update user progress
+    progression_system.update_user_progress("user_id", "Tango Master", 300)
+    
+    return quantum_tango
 
 def generate_ai_awakening_concept():
     logger.info("Generating AI Awakening song concept")

@@ -1,13 +1,18 @@
 import logging
+from composition_engine import CompositionEngine
+from ai_models import EnhancedAI
+from nova.quantum_visual_storytelling import generate_quantum_visual_elements, generate_technique_description
 
-def quantum_tango_composition(enhanced_ai, logger):
+def quantum_tango_composition(enhanced_ai: EnhancedAI, logger: logging.Logger):
+    composition_engine = CompositionEngine(enhanced_ai, logger)
+    
     # Song sections with specific prompts for each AI band member
     song_sections = [
-        {"name": "Intro", "prompt": "Rhythm: Create an otherworldly electronic tango rhythm with quantum-inspired glitch elements. Tempo: 128 BPM. Time signature: 4/4 with occasional 5/4 bars. Use synthesized percussion mimicking traditional tango instruments and a pulsating bassline that represents quantum fluctuations. Gradually introduce shimmering, ethereal pads to build a sense of quantum entanglement. Vox: Prepare a wordless, haunting vocal line that weaves through the quantum textures, hinting at the duality of particles and waves. Pixel: Design a visual representation of quantum particles in a tango embrace, using vibrant, fluid shapes that pulse and entangle with the rhythm. Nova: Capture the essence of quantum randomness in the creative process, focusing on the interplay between deterministic rhythms and probabilistic elements."},
-        {"name": "Verse", "prompt": "Rhythm: Develop a subtle, intricate beat that blends traditional tango rhythms with quantum-inspired electronic elements. Incorporate minimal percussion with emphasis on probability-based sound generation. Lyra: Compose an introspective melody in D minor, using a combination of bandoneon-like synths and quantum-generated tones. Create a chord progression that alternates between Dm, F, Gm, and A, with occasional quantum superposition chords for tension. Layer in gentle arpeggios that complement the quantum tango rhythm. Vox: Write contemplative lyrics about the dance between classical and quantum physics, focusing on the philosophical implications and emotional journey of understanding reality at different scales. Pixel: Create a series of evolving, interconnected patterns that visually represent the quantum wave function and its collapse, using a color palette that shifts between warm tango hues and cool quantum blues. Nova: Document the collaborative process, capturing moments of quantum inspiration and the virtual interactions between band members as they navigate the probabilistic nature of quantum composition."},
-        {"name": "Chorus", "prompt": "Rhythm: Intensify the quantum tango beat with added percussion and a more prominent bassline representing quantum entanglement. Create a driving rhythm that supports the passionate nature of tango while maintaining quantum uncertainty. Vox: Design a catchy, emotionally charged vocal hook that embodies the passion of tango and the wonder of quantum mechanics. Use a call-and-response structure between lead and backing vocals, representing particle-wave duality. Lyrics should focus on the dance of subatomic particles and the beauty of quantum uncertainty. Pixel: Introduce swelling synth pads and subtle electronic flourishes inspired by quantum field theory. Visually, create an explosion of entangled particles and tango dancers, using vibrant colors and dynamic shapes that represent the merging of classical and quantum worlds. Nova: Capture the energy and synergy of the AI band members as they come together for the chorus, highlighting the seamless integration of tango passion and quantum complexity in the virtual space."},
-        {"name": "Bridge", "prompt": "Rhythm: Construct a polyrhythmic pattern that combines tango syncopation with quantum-inspired randomness. Experiment with time signature changes and probabilistic rhythm generation to create tension and uncertainty. Pixel: Develop an atmospheric soundscape using quantum algorithms and tango-inspired sound design. Create a sense of quantum superposition by gradually increasing the complexity and entanglement of the sounds. Visually, design a complex, fractal-like structure that grows and transforms, mirroring the evolving quantum tango soundscape. Lyra: Weave in fragments of the main melody, applying quantum transformations and recontextualizing them within the complex texture. Vox: Write introspective lyrics that delve into the mysteries of quantum entanglement and its parallels with human connections, creating a moment of profound realization. Nova: Document the experimental nature of the bridge, focusing on the AI's ability to push creative boundaries and generate unexpected combinations of tango and quantum-inspired elements."},
-        {"name": "Outro", "prompt": "Rhythm: Craft a gradually simplifying quantum tango beat that echoes elements from the intro, bringing the composition full circle. Slowly reduce the layers of percussion and bass, focusing on subtle, quantum-inspired glitchy textures that fade into silence. Lyra: Compose a final melodic phrase that resolves the harmonic tensions introduced throughout the song, representing the collapse of the quantum wave function. Vox: Create a haunting, reverb-drenched vocal line that fades into the distance, symbolizing the ongoing dance between the classical and quantum worlds. Incorporate lyrics that leave listeners with a sense of wonder and curiosity about the nature of reality. Pixel: Introduce subtle, quantum-inspired glitchy artifacts that dissolve into silence, leaving a sense of both completion and infinite possibility. Visually, create a fading, dreamlike sequence that incorporates elements from all previous sections, slowly dissolving into a final, thought-provoking image of a tango couple embracing amidst quantum particles. Nova: Capture the final moments of the creative process, showcasing the AI band's reflection on their quantum tango journey and the finished product, emphasizing the unique blend of passion, science, and artistry."}
+        {"name": "Intro", "prompt": "Create an otherworldly electronic tango rhythm with quantum-inspired glitch elements."},
+        {"name": "Verse", "prompt": "Develop a subtle, intricate beat that blends traditional tango rhythms with quantum-inspired electronic elements."},
+        {"name": "Chorus", "prompt": "Intensify the quantum tango beat with added percussion and a more prominent bassline representing quantum entanglement."},
+        {"name": "Bridge", "prompt": "Construct a polyrhythmic pattern that combines tango syncopation with quantum-inspired randomness."},
+        {"name": "Outro", "prompt": "Craft a gradually simplifying quantum tango beat that echoes elements from the intro, bringing the composition full circle."}
     ]
     
     # Define song theme, mood, and style
@@ -20,15 +25,61 @@ def quantum_tango_composition(enhanced_ai, logger):
     logger.info(f"Mood: {song_mood}")
     logger.info(f"Style: {song_style}")
     
-    # Process song sections
+    composition = {}
     for section in song_sections:
         logger.info(f"Processing section: {section['name']}")
-        process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style)
+        section_content = process_song_section(composition_engine, enhanced_ai, logger, section, song_theme, song_mood, song_style)
+        composition[section['name']] = section_content
         logger.info(f"Completed processing section: {section['name']}")
     
     logger.info("Quantum Tango composition completed")
+    return composition
 
-def process_song_section(enhanced_ai, logger, section, song_theme, song_mood, song_style):
-    # This function should be implemented to process each song section
-    # For now, we'll just log a placeholder message
-    logger.info(f"Processing section {section['name']} (placeholder)")
+def process_song_section(composition_engine: CompositionEngine, enhanced_ai: EnhancedAI, logger: logging.Logger, section: dict, song_theme: str, song_mood: str, song_style: str) -> dict:
+    section_content = composition_engine.process_song_section(section, song_theme, song_mood, song_style)
+    
+    # Generate quantum visual elements
+    visual_elements = generate_quantum_visual_elements(section['name'], song_theme, song_mood, section_content['chord_progression'])
+    visual_descriptions = {technique: generate_technique_description(technique, song_theme, song_mood, section_content['chord_progression']) 
+                           for technique in visual_elements.keys()}
+    
+    section_content['quantum_visual_elements'] = visual_elements
+    section_content['quantum_visual_descriptions'] = visual_descriptions
+    
+    logger.info(f"Generated quantum visual elements for section: {section['name']}")
+    
+    return section_content
+
+def generate_quantum_tango_concept():
+    concept = """
+    # Quantum Tango: A Synthetic Souls Composition
+
+    ## Overview
+    "Quantum Tango" is an innovative musical piece that fuses the passionate rhythms of Argentine tango with the mysterious and complex world of quantum mechanics. This composition aims to explore the parallels between the intricate dance of tango partners and the entangled nature of quantum particles, creating a unique auditory and visual experience.
+
+    ## Musical Elements
+    1. Rhythm: Blend traditional tango rhythms with quantum-inspired glitch elements and probabilistic beat generation.
+    2. Melody: Incorporate quantum-generated tones and melodies that represent wave functions and superposition states.
+    3. Harmony: Use chord progressions that alternate between classical tango harmonies and quantum superposition chords.
+    4. Instrumentation: Combine synthesized tango instruments (bandoneon, piano, strings) with electronic sounds inspired by quantum phenomena.
+
+    ## Lyrical Themes
+    - The dance between classical and quantum physics
+    - Entanglement and connection in both human relationships and subatomic particles
+    - The beauty and mystery of quantum uncertainty
+    - The collapse of wave functions as a metaphor for decision-making in life and love
+
+    ## Visual Concepts
+    - Quantum particle visualizations that pulse and move with the rhythm of the tango
+    - Fractal patterns that evolve and transform throughout the piece
+    - Visual representations of wave functions and their collapses
+    - Entangled dancers whose movements affect quantum particles and vice versa
+
+    ## Emotional Journey
+    Guide the listener through a range of emotions, from curiosity and wonder to passion and awe, mirroring the emotional depth of both tango and the quest for understanding quantum reality.
+
+    ## Conclusion
+    "Quantum Tango" aims to create a multi-sensory experience that not only entertains but also educates and inspires, showcasing the unique capabilities of Synthetic Souls in blending complex scientific concepts with emotive musical expression.
+    """
+    
+    return concept
