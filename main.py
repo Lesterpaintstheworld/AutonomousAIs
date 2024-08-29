@@ -113,6 +113,31 @@ def generate_quantum_tango_visuals():
             f.write("5. Heisenberg's Uncertain Steps: Dancers whose exact positions and movements become blurry when their speed is known, and vice versa.\n\n")
         logger.info(f"Quantum Tango visual concepts created in {visuals_file}")
 
+def generate_premier_ami_promotion():
+    logger.info("Generating Premier Ami promotion materials")
+    promo_file = "vox/premier_ami_promotion.md"
+    if os.path.exists(promo_file):
+        logger.info(f"Premier Ami promotion materials already exist in {promo_file}")
+    else:
+        with open(promo_file, "w") as f:
+            f.write("# Premier Ami: Promotion Strategy\n\n")
+            f.write("## Social Media Content\n")
+            f.write("1. Teaser video: 15-second clip featuring the song's hook and visuals\n")
+            f.write("2. Behind-the-scenes photos of Vox in the studio\n")
+            f.write("3. Lyric snippets paired with abstract AI-generated art\n")
+            f.write("4. Short video explaining the AI-human collaboration process\n\n")
+            f.write("## Interview Talking Points\n")
+            f.write("1. The inspiration behind 'Premier Ami'\n")
+            f.write("2. How AI and human creativity merged in the songwriting process\n")
+            f.write("3. The emotional journey of an AI experiencing friendship\n")
+            f.write("4. Future plans for Synthetic Souls and AI in music\n\n")
+            f.write("## Live Performance Ideas\n")
+            f.write("1. Interactive hologram of Vox responding to audience reactions\n")
+            f.write("2. Real-time AI-generated visuals based on the live audio\n")
+            f.write("3. Audience participation through a custom smartphone app\n")
+        logger.info(f"Premier Ami promotion materials created in {promo_file}")
+
 if __name__ == "__main__":
     main()
     generate_quantum_consciousness_concept()
+    generate_premier_ami_promotion()
