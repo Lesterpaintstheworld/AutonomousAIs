@@ -32,40 +32,37 @@ def initialize_achievements(system):
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
     
-    # Instructions for Nova
-    logger.info("Nova, remember to use your todolist in nova/nova_todolist.md")
-    logger.info("Focus on creating and editing text files for concepts, not writing scripts")
-    
     # Initialize achievements
     initialize_achievements(progression_system)
     
-    # Commented out Quantum Tango related code
-    # quantum_tango_concept = generate_quantum_tango_concept()
-    # quantum_tango = quantum_tango_composition(enhanced_ai, logger)
-    
-    # Save Quantum Tango concept
-    # with open("lyra/quantum_tango_concept.md", "w") as f:
-    #     f.write(quantum_tango_concept)
-    # logger.info("Quantum Tango concept saved in lyra/quantum_tango_concept.md")
-    
-    # Generate Quantum Tango visual concepts
-    generate_quantum_tango_visuals()
-    logger.info("Quantum Tango visual concepts generated")
-    
-    # Commented out Quantum Tango processing
-    # for section_name, section_content in quantum_tango.items():
-    #     logger.info(f"Processing Quantum Tango {section_name}")
-    #     
-    #     # Log the processing of each section
-    #     logger.info(f"Completed processing Quantum Tango {section_name}")
-    
-    # logger.info("Quantum Tango composition process completed")
+    # Generate song concepts for each band member
+    band_members = ["Lyra", "Vox", "Rhythm", "Nova"]
+    for member in band_members:
+        generate_song_concept(member)
     
     # Update user progress
-    progression_system.update_user_progress("user_id", "Tango Master", 300)
-    progression_system.update_user_progress("user_id", "Quantum Artist", 150)
+    progression_system.update_user_progress("user_id", "Concept Creator", 200)
     
-    # return quantum_tango
+def generate_song_concept(band_member):
+    logger.info(f"Generating song concept for {band_member}")
+    concept = enhanced_ai.generate_song_concept(band_member)
+    
+    # Save the concept to a new file
+    filename = f"{band_member.lower()}_song_concept.md"
+    with open(filename, "w") as f:
+        f.write(concept)
+    logger.info(f"Song concept for {band_member} saved in {filename}")
+    
+    # Update the band member's todo list
+    update_todo_list(band_member)
+
+def update_todo_list(band_member):
+    todo_file = f"{band_member.lower()}/todolist_{band_member.lower()}.md"
+    new_task = f"Refine and expand the new song concept in {band_member.lower()}_song_concept.md"
+    
+    with open(todo_file, "a") as f:
+        f.write(f"\n{len(open(todo_file).readlines()) + 1}. {new_task}")
+    logger.info(f"Updated {band_member}'s todo list with new task")
 
 def generate_ai_awakening_concept():
     logger.info("Generating AI Awakening song concept")
