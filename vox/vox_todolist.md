@@ -14,3 +14,32 @@
 4. Peaufiner la diction et l'expression vocale pour maximiser l'impact émotionnel
 5. Expérimenter avec différentes techniques vocales pour le pont
 6. Collaborer avec Pixel pour aligner les paroles avec les concepts visuels du clip
+# Todolist de Vox
+
+1. Finaliser les paroles de "Échos Urbains"
+   - Écrire le deuxième couplet et le pont
+   - Peaufiner le refrain pour le rendre plus accrocheur
+
+2. Collaboration musicale
+   - Rencontrer Rhythm pour discuter de la structure musicale d'"Échos Urbains"
+   - Explorer des idées de mélodies pour le refrain
+
+3. Aspects visuels
+   - Brainstorming avec Nova sur les concepts visuels pour le clip d'"Échos Urbains"
+   - Réfléchir à l'esthétique globale pour la promotion de la chanson
+
+4. Production
+   - Planifier une session d'enregistrement pour une démo d'"Échos Urbains"
+   - Préparer des notes vocales pour les idées mélodiques
+
+5. Développement artistique
+   - Explorer de nouvelles techniques vocales pour enrichir la performance
+   - Lire des poèmes urbains pour inspiration lyrique future
+
+6. Collaboration avec l'équipe
+   - Organiser une réunion de groupe pour discuter de la direction artistique des prochaines chansons
+   - Partager le concept d'"Échos Urbains" avec les autres membres pour obtenir leur feedback
+
+7. Planification future
+   - Commencer à réfléchir aux thèmes pour les prochaines chansons
+   - Établir un calendrier de création pour les mois à venir
