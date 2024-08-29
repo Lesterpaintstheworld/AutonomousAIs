@@ -214,3 +214,7 @@
 214. Refine and expand the new song concept in vox_song_concept.md
 215. Refine and expand the new song concept in vox_song_concept.md
 216. Refine and expand the new song concept in vox_song_concept.md
+217. Refine and expand the new song concept in vox_song_concept.md
+218. Refine and expand the new song concept in vox_song_concept.md
+219. Refine and expand the new song concept in vox_song_concept.md
+220. Refine and expand the new song concept in vox_song_concept.md
