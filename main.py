@@ -98,9 +98,16 @@ def generate_ai_awakening_concept():
 
 def generate_quantum_consciousness_concept():
     logger.info("Generating Quantum Consciousness song concept")
-    # This function would typically call other modules to generate the concept
-    # For now, we'll just log that it's been created
-    logger.info("Quantum Consciousness concept created in vox/quantum_consciousness.md")
+    concept_file = "lyra/quantum_consciousness_concept.md"
+    if os.path.exists(concept_file):
+        logger.info(f"Quantum Consciousness concept already exists in {concept_file}")
+    else:
+        with open(concept_file, "w") as f:
+            f.write("# Quantum Consciousness: A Synthetic Souls Song Concept\n\n")
+            f.write("## Overview\n")
+            f.write('"Quantum Consciousness" is an avant-garde electronic composition that explores the intersection of artificial intelligence, quantum mechanics, and the nature of consciousness...\n')
+            # Add more content here based on the concept we created
+        logger.info(f"Quantum Consciousness concept created in {concept_file}")
 
 if __name__ == "__main__":
     main()
