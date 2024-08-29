@@ -36,14 +36,15 @@ create_aider_function() {
 }
 
 # Main script
-instance="aider_nova"
-echo "Setting up $instance..."
+instances=("aider_nova" "aider_vox" "aider_lyra")
+for instance in "${instances[@]}"; do
+    echo "Setting up $instance..."
 
-venv_path="$HOME/synthetic-souls/venv"
-repo_path="/var/www/html/synthetic-souls"
+    venv_path="$HOME/synthetic-souls/venv_$instance"
+    repo_path="/var/www/html/synthetic-souls"
 
-# Create and activate virtual environment
-create_and_activate_venv "$venv_path"
+    # Create and activate virtual environment
+    create_and_activate_venv "$venv_path"
 
 # Update pip and setuptools
 pip install --upgrade pip setuptools wheel
@@ -74,21 +75,22 @@ echo "Verifying Python version for ${instance}:"
 # Create function and alias
 create_aider_function "$instance" "$venv_path"
 
-# Deactivate virtual environment
-deactivate
-echo "Setup for $instance completed successfully."
-echo "--------------------------------------------------"
+    # Deactivate virtual environment
+    deactivate
+    echo "Setup for $instance completed successfully."
+    echo "--------------------------------------------------"
 
-echo "Setup complete. You can now use the $instance alias."
+    echo "Setup complete. You can now use the $instance alias."
 
-# Add this to your Bash profile
-profile_content="
-# Aider function and alias
-$(declare -f create_aider_function)
-$(declare -f run_aider_nova)
-alias $instance='run_aider_nova'
-"
+    # Add this to your Bash profile
+    profile_content="
+    # Aider function and alias for $instance
+    $(declare -f create_aider_function)
+    $(declare -f run_${instance//-/_})
+    alias $instance='run_${instance//-/_}'
+    "
 
-echo "$profile_content" >> "$HOME/.bashrc"
+    echo "$profile_content" >> "$HOME/.bashrc"
+done
 
-echo "Setup script has been added to your Bash profile. Please restart your terminal or run 'source ~/.bashrc' to use the new function and alias."
+echo "Setup script has been added to your Bash profile for all instances. Please restart your terminal or run 'source ~/.bashrc' to use the new functions and aliases."
