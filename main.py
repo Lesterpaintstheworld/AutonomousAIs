@@ -67,6 +67,9 @@ def generate_song_concept(band_member):
     with open(visual_filename, "w") as f:
         f.write(visual_concept)
     logger.info(f"Visual concept for {band_member} saved in {visual_filename}")
+    with open(visual_filename, "w") as f:
+        f.write(visual_concept)
+    logger.info(f"Visual concept for {band_member} saved in {visual_filename}")
     
     # Update the band member's todo list
     update_todo_list(band_member)
