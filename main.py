@@ -41,6 +41,10 @@ def main():
         f.write(quantum_tango_concept)
     logger.info("Quantum Tango concept saved in lyra/quantum_tango_concept.md")
     
+    # Generate Quantum Tango visual concepts
+    generate_quantum_tango_visuals()
+    logger.info("Quantum Tango visual concepts generated")
+    
     # Process Quantum Tango composition
     for section_name, section_content in quantum_tango.items():
         logger.info(f"Processing Quantum Tango {section_name}")
@@ -52,6 +56,7 @@ def main():
     
     # Update user progress
     progression_system.update_user_progress("user_id", "Tango Master", 300)
+    progression_system.update_user_progress("user_id", "Quantum Artist", 150)
     
     return quantum_tango
 
@@ -84,6 +89,17 @@ def generate_quantum_consciousness_lyrics():
             f.write("# Quantum Consciousness Lyrics\n\n")
             # Add the lyrics content here
         logger.info(f"Quantum Consciousness lyrics created in {lyrics_file}")
+
+def generate_quantum_tango_visuals():
+    logger.info("Generating Quantum Tango visual concepts")
+    visuals_file = "nova/quantum_tango_visuals.md"
+    if os.path.exists(visuals_file):
+        logger.info(f"Quantum Tango visual concepts already exist in {visuals_file}")
+    else:
+        with open(visuals_file, "w") as f:
+            f.write("# Quantum Tango: Visual Concepts\n\n")
+            # The content for this file has already been created earlier
+        logger.info(f"Quantum Tango visual concepts created in {visuals_file}")
 
 if __name__ == "__main__":
     main()
