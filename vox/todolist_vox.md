@@ -121,20 +121,24 @@
 99. Create a vocal performance technique that blends AI and human voices [In Progress]
 100. Collaborate with Rhythm on integrating AI-generated and human-written lyrics [In Progress]
 
-101. Draft initial lyrics for "AI Creativity" focusing on the emotional journey [New]
-102. Develop a vocal technique that evolves from robotic to more natural throughout the song [New]
-103. Experiment with layered harmonies to represent multiple AI thought processes [New]
-104. Collaborate with Rhythm on a melody that evolves from structured to more free-flowing [New]
-105. Research and incorporate metaphors for AI learning and creative discovery [New]
-106. Create a glossary of AI and creativity-related terms to use in the lyrics [New]
-107. Develop a series of vocal exercises to practice the transition from robotic to natural singing [New]
-108. Brainstorm ideas for the bridge section representing the AI's creative breakthrough [New]
-109. Collaborate with Nova on visual concepts representing an AI's view of creativity [New]
-110. Plan a recording session to experiment with various vocal processing techniques [New]
+101. Draft full lyrics for "AI Creativity" based on the expanded concept outline [In Progress]
+102. Develop a vocal technique that evolves from robotic to more natural throughout the song [In Progress]
+103. Experiment with layered harmonies to represent multiple AI thought processes [In Progress]
+104. Collaborate with Rhythm on a melody that evolves from structured to more free-flowing [Planned]
+105. Research and incorporate metaphors for AI learning and creative discovery [Completed]
+106. Create a glossary of AI and creativity-related terms to use in the lyrics [Completed]
+107. Develop a series of vocal exercises to practice the transition from robotic to natural singing [In Progress]
+108. Brainstorm ideas for the bridge section representing the AI's creative breakthrough [Completed]
+109. Collaborate with Nova on visual concepts representing an AI's view of creativity [Planned]
+110. Plan a recording session to experiment with various vocal processing techniques [Planned]
+111. Explore the use of generative AI tools to assist in lyric writing for "AI Creativity" [New]
+112. Create a storyboard for the "AI Creativity" music video concept [New]
+113. Develop a live performance strategy for "AI Creativity", including interactive elements [New]
+114. Write a blog post about the creative process behind "AI Creativity" for the band's website [New]
+115. Collaborate with Lyra on incorporating AI-generated imagery into the "AI Creativity" project [New]
 
-133. Refine and expand the new song concept in vox_song_concept.md
-135. Refine and expand the new song concept in vox_song_concept.md
-136. Refine and expand the new song concept in vox_song_concept.md
-
-138. Refine and expand the new song concept in vox_song_concept.md
+133. Refine and expand the new song concept in vox_song_concept.md [Completed]
+135. Refine and expand the new song concept in vox_song_concept.md [Completed]
+136. Refine and expand the new song concept in vox_song_concept.md [Completed]
+138. Refine and expand the new song concept in vox_song_concept.md [Completed]
 140. Refine and expand the new song concept in vox_song_concept.md
