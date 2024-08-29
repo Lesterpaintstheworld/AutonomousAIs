@@ -7,11 +7,19 @@ import logging
 from openai import OpenAI
 from add_files import main as add_files_main
 from ai_models import EnhancedAI
-from utils import install_playwright, list_files
+from utils import install_playwright, list_files, UserProgressionSystem
 from git_operations import git_commit_and_push
 from band_members import Vox, Lyra, Rhythm, Nova
 from composition_engine import CompositionEngine
 from nova.visual_storytelling import create_visual_elements, export_visual_elements
+
+progression_system = UserProgressionSystem()
+
+def initialize_achievements(progression_system):
+    progression_system.add_achievement("Digital Novice", "Complete your first digital archaeology expedition", 50)
+    progression_system.add_achievement("Artifact Hunter", "Discover 10 unique virtual artifacts", 100)
+    progression_system.add_achievement("Code Breaker", "Decipher an ancient digital language", 200)
+    progression_system.add_achievement("Virtual Historian", "Reconstruct a complete lost digital civilization", 500)
 
 def initialize_band_members():
     vox = Vox()
@@ -508,6 +516,10 @@ def nova_visual_storytelling(enhanced_ai, section_name, melody, chord_progressio
     """
     Nova's function to create advanced visual narratives and immersive experiences based on the song section.
     """
+    # Instructions for Nova
+    logger.info("Nova, remember to keep your todolist up to date in nova/nova_todolist.md")
+    logger.info("Focus on creating and editing text files for concepts, not code")
+    
     visual_elements = {}
     
     visual_element_generators = {
@@ -738,6 +750,9 @@ def main():
         # Describe AI autonomy
         ai_autonomy = describe_ai_autonomy(enhanced_ai, logger)
         
+        # Save generated concepts
+        save_generated_concepts(enhanced_ai, logger, ubch_concept, ai_autonomy)
+        
         # Commit and push changes to git
         try:
             git_commit_and_push("Update from Synthetic Souls AI Composition Engine")
@@ -776,6 +791,35 @@ if __name__ == "__main__":
     except Exception as e:
         logger.error(f"An error occurred in the main execution: {str(e)}")
         logger.exception("Detailed traceback:")
+
+def save_generated_concepts(enhanced_ai, logger, ubch_concept, ai_autonomy):
+    """
+    Save the generated concepts to disk.
+    """
+    # Create a directory for the generated concepts if it doesn't exist
+    output_dir = os.path.join("output", "generated_concepts")
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Save UBCH concept
+    with open(os.path.join(output_dir, "ubch_concept.txt"), "w") as f:
+        f.write(ubch_concept)
+
+    # Save AI autonomy description
+    with open(os.path.join(output_dir, "ai_autonomy.txt"), "w") as f:
+        f.write(ai_autonomy)
+
+    logger.info(f"Generated concepts saved to {output_dir}")
+
+def describe_ai_autonomy(enhanced_ai, logger):
+    logger.info("Describing AI band members' autonomy...")
+    
+    autonomy_description = enhanced_ai.generate_description("AI band members' autonomy", 
+                                                            "The creative independence and decision-making capabilities of Synthetic Souls' AI members")
+    
+    logger.info(f"AI Autonomy Description:\n{autonomy_description}")
+    
+    return autonomy_description
+
 def export_visual_elements(visual_elements: Dict[str, str], visual_narrative: str, section_name: str) -> Dict[str, str]:
     """
     Export visual elements and narrative created by Nova.
