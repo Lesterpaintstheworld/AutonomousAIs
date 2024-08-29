@@ -19,6 +19,8 @@ def initialize_achievements(system):
     system.add_achievement("Virtual Historian", "Reconstruct a complete lost digital civilization", 500)
     system.add_achievement("Quantum Artist", "Create your first quantum-inspired visual", 150)
 
+from nova.quantum_visual_storytelling import generate_quantum_visual_elements, generate_technique_description
+
 def generate_interactive_elements(song_section, visual_elements):
     """
     Generate interactive elements for the Human.exe music video based on the song section and visual elements.
@@ -44,6 +46,15 @@ def generate_interactive_elements(song_section, visual_elements):
     })
     
     return interactive_elements.get(song_section, f"Default interactive element. {visual_elements.get('visual_story', '')}")
+
+def generate_quantum_visuals(section, song_theme, song_mood, harmonic_structure):
+    """
+    Generate quantum visual elements and their descriptions for a given section of the song.
+    """
+    visual_elements = generate_quantum_visual_elements(section, song_theme, song_mood, harmonic_structure)
+    descriptions = {technique: generate_technique_description(technique, song_theme, song_mood, harmonic_structure) 
+                    for technique in visual_elements.keys()}
+    return visual_elements, descriptions
 
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
