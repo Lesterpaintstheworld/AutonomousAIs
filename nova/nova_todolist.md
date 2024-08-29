@@ -24,3 +24,13 @@
 14. Créer une visualisation interactive des probabilités quantiques pour les performances live
 15. Concevoir une série de fractales inspirées par la mécanique quantique pour l'artwork de l'album
 16. Explorer les techniques de projection holographique pour des expériences de spectacle immersives
+17. Développer des visualisations pour le "Quantum Conservatory" de Lyra
+18. Créer des storyboards pour la série de documentaires sur la musique quantique
+19. Concevoir des interfaces utilisateur pour l'explorateur de concepts quantiques interactif
+20. Collaborer avec des artistes quantiques pour créer des expériences synesthésiques
+21. Rechercher des techniques de réalité virtuelle pour les expériences musicales quantiques immersives
+22. Développer des visualisations de données pour les collaborations avec les astrophysiciens
+23. Créer des animations éducatives pour le programme K-12 sur les principes quantiques
+24. Concevoir des visuels pour le système de notation musicale inspiré par la mécanique quantique
+25. Explorer les techniques de visualisation de données pour la sonification des interactions moléculaires
+26. Développer un concept visuel pour l'opéra quantique

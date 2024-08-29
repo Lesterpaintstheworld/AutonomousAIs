@@ -65,9 +65,27 @@
 45. Develop a workshop on writing scientifically-inspired lyrics for the band's website
 
 51. Refine and expand the new song concept in vox_song_concept.md
-
-58. Refine and expand the new song concept in vox_song_concept.md
-
-65. Refine and expand the new song concept in vox_song_concept.md
-
-72. Refine and expand the new song concept in vox_song_concept.md
+52. Develop lyrical themes for the quantum opera project
+53. Create vocal exercises inspired by quantum principles
+54. Collaborate with Lyra on quantum-inspired vocal techniques
+55. Research and implement extended vocal techniques for quantum music
+56. Develop a system for translating quantum data into vocal patterns
+57. Create educational content on quantum concepts through vocal demonstrations
+58. Explore the use of quantum randomness in vocal improvisation
+59. Collaborate with Nova on visualizing quantum vocal techniques
+60. Develop a quantum-inspired approach to harmony and counterpoint in vocals
+61. Create a series of vocal etudes based on quantum phenomena
+62. Research the potential of quantum entanglement for networked vocal performances
+63. Develop a quantum-inspired system for vocal synthesis and processing
+64. Collaborate with Rhythm on integrating quantum-inspired vocals with instrumentation
+65. Create a glossary of quantum terms and concepts for use in lyrics
+66. Develop a workshop series on quantum-inspired vocal techniques
+67. Explore the use of quantum algorithms in vocal arrangement
+68. Create a vocal warm-up routine based on quantum principles
+69. Develop a quantum-inspired approach to vocal storytelling
+70. Collaborate with scientists to accurately represent quantum concepts in lyrics
+71. Create a series of short, educational songs explaining quantum phenomena
+72. Develop a quantum-inspired system for generating vocal harmonies
+73. Explore the use of quantum concepts in vocal sound design
+74. Create a quantum-inspired vocal effects processing chain
+75. Develop a method for quantum-inspired vocal layering and texturing
