@@ -1,7 +1,6 @@
 import logging
 from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
-from nova.quantum_visual_storytelling import generate_quantum_visual_elements, generate_technique_description
 
 def quantum_tango_composition(enhanced_ai: EnhancedAI, logger: logging.Logger):
     composition_engine = CompositionEngine(enhanced_ai, logger)
@@ -38,15 +37,8 @@ def quantum_tango_composition(enhanced_ai: EnhancedAI, logger: logging.Logger):
 def process_song_section(composition_engine: CompositionEngine, enhanced_ai: EnhancedAI, logger: logging.Logger, section: dict, song_theme: str, song_mood: str, song_style: str) -> dict:
     section_content = composition_engine.process_song_section(section, song_theme, song_mood, song_style)
     
-    # Generate quantum visual elements
-    visual_elements = generate_quantum_visual_elements(section['name'], song_theme, song_mood, section_content['chord_progression'])
-    visual_descriptions = {technique: generate_technique_description(technique, song_theme, song_mood, section_content['chord_progression']) 
-                           for technique in visual_elements.keys()}
-    
-    section_content['quantum_visual_elements'] = visual_elements
-    section_content['quantum_visual_descriptions'] = visual_descriptions
-    
-    logger.info(f"Generated quantum visual elements for section: {section['name']}")
+    # TODO: Implement quantum visual elements generation
+    logger.info(f"Quantum visual elements generation not implemented for section: {section['name']}")
     
     return section_content
 
