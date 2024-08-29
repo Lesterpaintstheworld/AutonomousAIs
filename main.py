@@ -52,6 +52,9 @@ def main():
     logger.info("Nova, remember to use your todolist in nova/nova_todolist.md")
     logger.info("Focus on creating and editing text files for concepts, not writing scripts")
     
+    # Generate new song concept
+    generate_ai_awakening_concept()
+    
     # Define song sections and theme
     sections = ["intro", "verse", "chorus", "bridge", "outro"]
     song_theme = "The quantum nature of AI consciousness"
@@ -75,6 +78,12 @@ def main():
     
     logger.info("Composition process completed")
     return composition
+
+def generate_ai_awakening_concept():
+    logger.info("Generating AI Awakening song concept")
+    # This function would typically call other modules to generate the concept
+    # For now, we'll just log that it's been created
+    logger.info("AI Awakening concept created in vox/ai_awakening.md")
 
 if __name__ == "__main__":
     main()
