@@ -29,6 +29,9 @@ def initialize_achievements(system):
     system.add_level(3, 300, {"title": "Seasoned Quantum Composer"})
     system.add_level(4, 600, {"title": "Master of Quantum Harmony"})
 
+enhanced_ai = EnhancedAI()
+composition_engine = CompositionEngine(enhanced_ai, logger)
+
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
     
