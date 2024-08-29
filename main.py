@@ -44,17 +44,8 @@ def main():
     # Process Quantum Tango composition
     for section_name, section_content in quantum_tango.items():
         logger.info(f"Processing Quantum Tango {section_name}")
-        # Add interactive elements
-        section_content['interactive_elements'] = generate_interactive_elements(section_name, section_content.get('quantum_visual_elements', {}))
         
-        # Generate additional quantum visuals
-        additional_visuals, descriptions = generate_quantum_visuals(section_name, 
-                                                                    "The quantum nature of reality expressed through the passion of tango",
-                                                                    "Mysterious, passionate, and awe-inspiring",
-                                                                    section_content.get('chord_progression', ''))
-        section_content['additional_quantum_visuals'] = additional_visuals
-        section_content['visual_descriptions'] = descriptions
-        
+        # Log the processing of each section
         logger.info(f"Completed processing Quantum Tango {section_name}")
     
     logger.info("Quantum Tango composition process completed")
