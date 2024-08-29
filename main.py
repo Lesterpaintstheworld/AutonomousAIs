@@ -23,6 +23,12 @@ def initialize_achievements(system):
     system.add_achievement("Quantum Artist", "Create your first quantum-inspired visual", 150)
     system.add_achievement("Tango Master", "Complete the Quantum Tango composition", 300)
 
+    # Initialize levels
+    system.add_level(1, 0, {"title": "Novice Explorer"})
+    system.add_level(2, 100, {"title": "Apprentice Quantum Artist"})
+    system.add_level(3, 300, {"title": "Seasoned Quantum Composer"})
+    system.add_level(4, 600, {"title": "Master of Quantum Harmony"})
+
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
     

@@ -52,7 +52,7 @@ class UserProgressionSystem:
 
     def update_user_level(self, user_id):
         user_points = self.user_progress[user_id]["total_points"]
-        new_level = max([level for level, data in self.levels.items() if data["points_required"] <= user_points])
+        new_level = max([level for level, data in self.levels.items() if data["points_required"] <= user_points], default=1)
         if user_id not in self.user_levels or new_level > self.user_levels[user_id]:
             self.user_levels[user_id] = new_level
             return self.levels[new_level]["rewards"]
