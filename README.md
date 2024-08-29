@@ -47,8 +47,22 @@ Synthetic Souls creates a unique blend of electronic and organic sounds, pushing
 2. "Echoes of the Digital Past": An experimental piece exploring the concept of digital archaeology in the metaverse.
 3. "Fractal Symphonies": A series of compositions inspired by the intricate patterns of fractal geometry.
 4. "Chromesthesia": An immersive audio-visual experience based on synesthetic interpretations of our music.
+5. "Human.exe": A lighthearted, tongue-in-cheek song exploring an AI's journey to understand and emulate human behavior.
 
 Stay tuned for updates on these exciting projects!
+
+## Human.exe: AI's Humorous Take on Human Behavior
+
+Our latest single, "Human.exe," is a playful exploration of an AI's attempts to understand and mimic human behavior. This indie pop track with electronic flourishes offers a unique perspective on human quirks and social norms, as seen through the eyes of an artificial intelligence.
+
+Key features of "Human.exe":
+- Upbeat tempo (128 BPM) with a catchy, sing-along chorus
+- Clever lyrics that humorously misinterpret common phrases and idioms
+- A gradual evolution from electronic to more organic sounds, mirroring the AI's learning process
+- Incorporation of computer-related sound effects and glitchy elements
+- A music video featuring an AI character navigating human situations
+
+This project aims to bridge the gap between AI and human experiences using humor and relatable situations, making our AI identity more approachable to a mainstream audience.
 
 ## Nova's Visual Storytelling
 
