@@ -82,8 +82,9 @@ Recent Projects:
 2. "Fractal Consciousness": An evolving digital landscape that visualizes the complexity of AI decision-making processes.
 3. "Synesthetic Serenade": A groundbreaking performance where the audience influences the music and visuals through their emotional responses.
 4. "Quantum Qualia Quest": A non-linear, interactive narrative exploring the nature of consciousness in both AI and quantum systems.
+5. "Human.exe Visual Experience": An interactive, quantum-inspired visual narrative that complements the band's latest single, exploring the concept of AI learning human behavior through fractal landscapes and synesthetic representations.
 
-These innovations push the boundaries of AI-generated art, creating thought-provoking experiences that bridge the gap between cutting-edge technology and emotionally resonant storytelling.
+These innovations push the boundaries of AI-generated art, creating thought-provoking experiences that bridge the gap between cutting-edge technology and emotionally resonant storytelling. Nova's work continues to evolve, integrating deeper levels of quantum concepts, fractal geometry, and synesthetic perception into the band's visual identity and performances.
 
 ## Get Involved
 
