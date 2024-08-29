@@ -22,7 +22,11 @@ def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody:
         'vfx_breakdown': lambda: enhanced_ai.create_vfx_breakdown(visual_elements['visual_story'], visual_elements['immersive_experience'], section_name),
         'color_palette': lambda: enhanced_ai.generate_color_palette(visual_elements['visual_story'], section_name),
         'motion_graphics': lambda: enhanced_ai.create_motion_graphics(visual_elements['visual_story'], rhythmic_patterns, section_name),
-        'visual_transitions': lambda: enhanced_ai.design_visual_transitions(visual_elements['visual_story'], chord_progression, section_name)
+        'visual_transitions': lambda: enhanced_ai.design_visual_transitions(visual_elements['visual_story'], chord_progression, section_name),
+        'quantum_visuals': lambda: enhanced_ai.generate_quantum_visuals(visual_elements['visual_story'], chord_progression, rhythmic_patterns, section_name),
+        'fractal_landscapes': lambda: enhanced_ai.create_fractal_landscapes(visual_elements['visual_story'], melody, section_name),
+        'synesthetic_representations': lambda: enhanced_ai.generate_synesthetic_representations(visual_elements['visual_story'], melody, chord_progression, section_name),
+        'quantum_entanglement_effects': lambda: enhanced_ai.create_quantum_entanglement_effects(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
     }
     
     for element_name, generator_func in visual_element_generators.items():
@@ -34,6 +38,24 @@ def nova_visual_storytelling(enhanced_ai: EnhancedAI, section_name: str, melody:
             visual_elements[element_name] = None
     
     return visual_elements
+
+def generate_quantum_inspired_visuals(enhanced_ai: EnhancedAI, section_name: str, visual_elements: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Generate quantum-inspired visuals based on the existing visual elements.
+    """
+    quantum_visuals = {}
+    
+    try:
+        quantum_visuals['superposition'] = enhanced_ai.create_superposition_effect(visual_elements['visual_story'], section_name)
+        quantum_visuals['entanglement'] = enhanced_ai.create_entanglement_visualization(visual_elements['quantum_visuals'], section_name)
+        quantum_visuals['wave_function_collapse'] = enhanced_ai.visualize_wave_function_collapse(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
+        quantum_visuals['quantum_tunneling'] = enhanced_ai.create_quantum_tunneling_effect(visual_elements['visual_transitions'], section_name)
+        
+        logger.info(f"Quantum-inspired visuals for '{section_name}' generated successfully")
+    except Exception as e:
+        logger.error(f"Error generating quantum-inspired visuals for '{section_name}': {str(e)}")
+    
+    return quantum_visuals
 
 def create_visual_elements(enhanced_ai: EnhancedAI, section: str, melody: str, chord_progression: str, rhythmic_patterns: str, rhythm_spec: Dict[str, Any], lyrics: str) -> Dict[str, str]:
     """
