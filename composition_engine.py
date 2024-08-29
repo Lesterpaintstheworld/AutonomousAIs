@@ -2,11 +2,6 @@ import logging
 from typing import Dict, Any, Tuple
 from ai_models import EnhancedAI
 from nova.visual_storytelling import create_visual_elements, generate_visual_narrative
-from nova.visual_rhythm_synthesis import generate_visual_rhythm
-from nova.quantum_visual_harmonies import generate_quantum_harmonies
-from nova.emotion_color_soundscapes import generate_emotion_color_soundscape
-from nova.fractal_melody_generation import generate_fractal_melody
-from nova.quantum_visual_storytelling import generate_quantum_visual_elements
 
 class CompositionEngine:
     def __init__(self, enhanced_ai: EnhancedAI, logger: logging.Logger):

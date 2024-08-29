@@ -1,6 +1,5 @@
 import logging
 from utils import UserProgressionSystem
-from nova.quantum_visual_storytelling import generate_quantum_visual_elements
 from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
 
