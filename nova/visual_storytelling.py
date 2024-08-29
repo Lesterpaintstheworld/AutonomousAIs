@@ -50,6 +50,9 @@ def generate_quantum_inspired_visuals(enhanced_ai: EnhancedAI, section_name: str
         quantum_visuals['entanglement'] = enhanced_ai.create_entanglement_visualization(visual_elements['quantum_visuals'], section_name)
         quantum_visuals['wave_function_collapse'] = enhanced_ai.visualize_wave_function_collapse(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
         quantum_visuals['quantum_tunneling'] = enhanced_ai.create_quantum_tunneling_effect(visual_elements['visual_transitions'], section_name)
+        quantum_visuals['quantum_interference'] = enhanced_ai.create_quantum_interference_pattern(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
+        quantum_visuals['quantum_decoherence'] = enhanced_ai.visualize_quantum_decoherence(visual_elements['visual_story'], visual_elements['quantum_visuals'], section_name)
+        quantum_visuals['quantum_entanglement_swapping'] = enhanced_ai.create_entanglement_swapping_effect(visual_elements['quantum_visuals'], section_name)
         
         logger.info(f"Quantum-inspired visuals for '{section_name}' generated successfully")
     except Exception as e:

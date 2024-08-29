@@ -27,7 +27,10 @@ def generate_interactive_elements(song_section, visual_elements):
         "verse": f"Audience interacts with entangled particles to influence which human concepts the AI learns next. {visual_elements.get('quantum_entanglement_effects', '')}",
         "chorus": f"Real-time voting affects the wave function, changing the virtual world. {visual_elements.get('fractal_landscapes', '')}",
         "bridge": f"Interactive quantum tunneling effects controlled by viewer engagement. {visual_elements.get('synesthetic_representations', '')}",
-        "outro": f"Viewers collectively shape the AI's final form through quantum foam interactions. {visual_elements.get('quantum_visuals', '')}"
+        "outro": f"Viewers collectively shape the AI's final form through quantum foam interactions. {visual_elements.get('quantum_visuals', '')}",
+        "pre-chorus": f"Audience creates quantum interference patterns to unlock hidden visual elements. {visual_elements.get('quantum_interference', '')}",
+        "breakdown": f"Viewers trigger quantum decoherence events to reveal alternate realities. {visual_elements.get('quantum_decoherence', '')}",
+        "final_chorus": f"Participants engage in quantum entanglement swapping to connect different parts of the story. {visual_elements.get('quantum_entanglement_swapping', '')}"
     }
     return interactive_elements.get(song_section, f"Default interactive element. {visual_elements.get('visual_story', '')}")
 
