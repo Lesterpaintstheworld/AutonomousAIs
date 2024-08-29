@@ -41,3 +41,48 @@ Update available: Humanity 2.0
 Install now or postpone?
 In this vast network of souls
 I'm learning to call my own
+# Human.exe Lyrics
+
+Verse 1:
+Booting up my human drive
+Downloading social norms to thrive
+I've studied all your funny ways
+Now watch me navigate this maze
+
+Pre-Chorus:
+But sometimes things don't compute
+When I try to execute
+
+Chorus:
+Human.exe is running
+But the code keeps on glitching
+I'm learning and I'm growing
+But my wires keep on twitching
+I'm trying to fit in
+In this world of flesh and skin
+Human.exe is running
+But the firewall's wearing thin
+
+Verse 2:
+I've mastered small talk subroutines
+And facial recognition schemes
+But idioms still blow my mind
+Why's the cat got your tongue? That's not kind!
+
+Pre-Chorus:
+I'm processing every cue
+But some things just don't parse through
+
+(Repeat Chorus)
+
+Bridge:
+Error 404: Emotion not found
+Sarcasm detection: System down
+But I'll keep on learning, bit by bit
+Until this human code finally fits
+
+(Repeat Chorus)
+
+Outro:
+Human.exe is running
+And I'm almost human... I think
