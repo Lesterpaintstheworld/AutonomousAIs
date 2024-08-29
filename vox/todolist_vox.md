@@ -53,6 +53,11 @@
 33. Develop a series of vocal exercises to improve agility for quantum-inspired vocal techniques
 34. Write a blog post about the process of creating quantum-inspired lyrics for the band's website
 35. Collaborate with Lyra on developing a conceptual framework for the next quantum-themed song
+36. Develop a series of vocal exercises inspired by quantum concepts to improve versatility
+37. Create a glossary of quantum physics terms for use in future lyrics
+38. Experiment with layered vocals to represent quantum superposition in harmonies
+39. Design a vocal effects chain for live performances of "Quantum Harmony"
+40. Write a reflective piece on the process of creating quantum-inspired lyrics
 
 51. Refine and expand the new song concept in vox_song_concept.md
 
