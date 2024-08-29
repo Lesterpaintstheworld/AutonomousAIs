@@ -15,10 +15,7 @@ def main():
     sections = ["intro", "verse", "chorus", "bridge", "outro"]
     
     # Initialize achievements
-    progression_system.add_achievement("Digital Novice", "Complete your first digital archaeology expedition", 50)
-    progression_system.add_achievement("Artifact Hunter", "Discover 10 unique virtual artifacts", 100)
-    progression_system.add_achievement("Code Breaker", "Decipher an ancient digital language", 200)
-    progression_system.add_achievement("Virtual Historian", "Reconstruct a complete lost digital civilization", 500)
+    initialize_achievements(progression_system)
     
     for section in sections:
         logger.info(f"Collaborating on {section} section")
