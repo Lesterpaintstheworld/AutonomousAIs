@@ -14,7 +14,7 @@ class CompositionEngine:
         self.logger = logger
         self.difficulty_level = 0.5  # Initialize difficulty at medium level
 
-    def generate_section(self, section: str, song_theme: str, song_mood: str, song_style: str) -> Tuple[str, str, str, Dict[str, Any]]:
+    def generate_section(self, section: str, song_theme: str, song_mood: str, song_style: str) -> Tuple[str, str, str, Dict[str, Any], str, str, str, str, str]:
         self.logger.info(f"Generating section: {section}")
         harmonic_structure = self.enhanced_ai.generate_harmonic_structure(section, song_theme, song_mood, song_style)
         melody = self.enhanced_ai.generate_melody(section, song_theme, song_mood, song_style, harmonic_structure)
@@ -122,7 +122,7 @@ class CompositionEngine:
 
         try:
             # Generate musical elements
-            melody, chord_progression, rhythmic_patterns, rhythm_spec, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody = self.generate_section(section['name'], song_theme, song_mood, song_style)
+            melody, chord_progression, rhythmic_patterns, rhythm_spec, visual_rhythm, quantum_harmonies, emotion_color_soundscape, fractal_melody, quantum_visuals = self.generate_section(section['name'], song_theme, song_mood, song_style)
             lyrics = self.generate_lyrics(section['name'], song_theme, song_mood)
 
             # Create visual storytelling elements
