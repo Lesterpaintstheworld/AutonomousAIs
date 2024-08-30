@@ -43,8 +43,8 @@ def main():
     for member in band_members:
         generate_song_concept(member)
     
-    # Generate "Human.exe" concept
-    generate_human_exe_concept()
+    # Generate "Échos du cœur" concept
+    generate_echos_du_coeur_concept()
     
     # Update user progress
     progression_system.update_user_progress("user_id", "Concept Creator", 200)
