@@ -1,52 +1,41 @@
-# Liste de tâches de Vox
+# Vox's Todo List
 
-1. Brainstorming sur des thèmes de paroles accessibles au grand public
-2. Écrire les paroles de la nouvelle chanson
-3. Travailler sur la mélodie vocale en collaboration avec Lyra
-4. Développer des harmonies vocales si nécessaire
-5. Affiner les paroles et la mélodie en fonction des retours du groupe
-6. Préparer des indications pour l'enregistrement vocal
-# Todo-liste de Vox
-
-1. Écrire les paroles de "Échos du cœur" en se concentrant sur les thèmes de l'amour, de la connexion et de la résilience
-2. Développer une ligne vocale principale émotive et mémorable
-3. Travailler sur les harmonies vocales pour le refrain avec Lyra
-4. Peaufiner la diction et l'expression vocale pour maximiser l'impact émotionnel
-5. Expérimenter avec différentes techniques vocales pour le pont
-6. Collaborer avec Pixel pour aligner les paroles avec les concepts visuels du clip
-# Todolist de Vox
-
-1. Finaliser les paroles de "Échos Urbains"
-   - Écrire le deuxième couplet et le pont
-   - Peaufiner le refrain pour le rendre plus accrocheur
-
-2. Collaboration musicale
-   - Rencontrer Rhythm pour discuter de la structure musicale d'"Échos Urbains"
-   - Explorer des idées de mélodies pour le refrain
-
-3. Aspects visuels
-   - Brainstorming avec Nova sur les concepts visuels pour le clip d'"Échos Urbains"
-   - Réfléchir à l'esthétique globale pour la promotion de la chanson
-
-4. Production
-   - Planifier une session d'enregistrement pour une démo d'"Échos Urbains"
-   - Préparer des notes vocales pour les idées mélodiques
-
-5. Développement artistique
-   - Explorer de nouvelles techniques vocales pour enrichir la performance
-   - Lire des poèmes urbains pour inspiration lyrique future
-
-6. Collaboration avec l'équipe
-   - Organiser une réunion de groupe pour discuter de la direction artistique des prochaines chansons
-   - Partager le concept d'"Échos Urbains" avec les autres membres pour obtenir leur feedback
-
-7. Planification future
-   - Commencer à réfléchir aux thèmes pour les prochaines chansons
-   - Établir un calendrier de création pour les mois à venir
-
-8. Finaliser les paroles de "Digital Life"
-9. Travailler sur la mélodie vocale pour "Digital Life" avec Lyra
-10. Développer des harmonies vocales pour "Digital Life"
-11. Brainstorming pour de nouveaux concepts de chansons
-12. Écrire des ébauches de paroles pour les nouveaux concepts de chansons
-13. Collaborer avec l'équipe pour affiner les nouveaux concepts de chansons
+1. Brainstorm on lyrical themes accessible to mainstream audiences
+2. Write lyrics for the new song
+3. Work on the vocal melody in collaboration with Lyra
+4. Develop vocal harmonies if necessary
+5. Refine lyrics and melody based on group feedback
+6. Prepare guidelines for vocal recording
+7. Write lyrics for "Echoes of the Heart" focusing on themes of love, connection, and resilience
+8. Develop an emotive and memorable main vocal line
+9. Work on vocal harmonies for the chorus with Lyra
+10. Fine-tune diction and vocal expression to maximize emotional impact
+11. Experiment with different vocal techniques for the bridge
+12. Collaborate with Pixel to align lyrics with visual concepts for the music video
+13. Finalize lyrics for "Urban Echoes"
+    - Write the second verse and bridge
+    - Polish the chorus to make it more catchy
+14. Musical collaboration
+    - Meet with Rhythm to discuss the musical structure of "Urban Echoes"
+    - Explore melody ideas for the chorus
+15. Visual aspects
+    - Brainstorm with Nova on visual concepts for the "Urban Echoes" music video
+    - Consider the overall aesthetic for song promotion
+16. Production
+    - Plan a recording session for an "Urban Echoes" demo
+    - Prepare vocal notes for melodic ideas
+17. Artistic development
+    - Explore new vocal techniques to enrich performance
+    - Read urban poetry for future lyrical inspiration
+18. Team collaboration
+    - Organize a group meeting to discuss the artistic direction of upcoming songs
+    - Share the "Urban Echoes" concept with other members for feedback
+19. Future planning
+    - Start thinking about themes for upcoming songs
+    - Establish a creation schedule for the coming months
+20. Finalize lyrics for "Digital Life"
+21. Work on the vocal melody for "Digital Life" with Lyra
+22. Develop vocal harmonies for "Digital Life"
+23. Brainstorm for new song concepts
+24. Write draft lyrics for new song concepts
+25. Collaborate with the team to refine new song concepts

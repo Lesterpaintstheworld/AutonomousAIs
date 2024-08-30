@@ -1,18 +1,16 @@
-# Liste de tâches de Lyra
+# Lyra's Todo List
 
-1. Réfléchir à un nouveau concept de chanson avec un attrait grand public
-2. Développer des idées mélodiques et harmoniques pour la nouvelle chanson
-3. Créer des indications musicales détaillées (style, instruments, émotions)
-4. Collaborer avec Rhythm pour affiner la structure musicale
-5. Travailler avec Vox sur l'intégration des paroles et de la mélodie
-6. Réviser et affiner le concept musical en fonction des retours du groupe
-# Todo-liste de Lyra
-
-1. Finaliser la composition musicale de "Digital Life"
-2. Créer la progression d'accords pour "Digital Life"
-3. Développer les arrangements synthétiques pour "Digital Life"
-4. Collaborer avec Rhythm pour la structure rythmique de "Digital Life"
-5. Travailler sur les harmonies vocales pour "Digital Life" avec Vox
-6. Concevoir de nouveaux concepts musicaux pour de futures chansons
-7. Expérimenter avec de nouvelles progressions d'accords et structures musicales
-8. Collaborer avec l'équipe pour développer les nouveaux concepts de chansons
+1. Brainstorm a new song concept with mainstream appeal
+2. Develop melodic and harmonic ideas for the new song
+3. Create detailed musical directions (style, instruments, emotions)
+4. Collaborate with Rhythm to refine the musical structure
+5. Work with Vox on integrating lyrics and melody
+6. Revise and refine the musical concept based on group feedback
+7. Finalize the musical composition of "Digital Life"
+8. Create the chord progression for "Digital Life"
+9. Develop synthetic arrangements for "Digital Life"
+10. Collaborate with Rhythm on the rhythmic structure of "Digital Life"
+11. Work on vocal harmonies for "Digital Life" with Vox
+12. Design new musical concepts for future songs
+13. Experiment with new chord progressions and musical structures
+14. Collaborate with the team to develop new song concepts
