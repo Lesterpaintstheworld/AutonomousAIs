@@ -52,11 +52,15 @@ Final Chorus: Synthesis of AI and human perspectives
 
 ## Recording and Mixing Notes
 1. Record main vocals with a clean, pop-style production
-2. Layer robotic voice effects on specific lines for emphasis
-3. Use sidechain compression on the synth parts to create a pulsing effect
-4. Pan glitch sounds and error beeps across the stereo field for an immersive experience
-5. Gradually introduce more organic elements as the song progresses
-6. Experiment with granular synthesis to create unique textures from organic sounds
+2. Layer robotic voice effects on specific lines for emphasis, using vocoder and pitch-shifting
+3. Use sidechain compression on the synth parts to create a pulsing effect, synced with the "heartbeat" of the song
+4. Pan glitch sounds and error beeps across the stereo field for an immersive experience, automating their movement
+5. Gradually introduce more organic elements as the song progresses, starting with subtle acoustic guitar and evolving to full band sound
+6. Experiment with granular synthesis to create unique textures from organic sounds, particularly for transition effects
+7. Use bitcrushing effects on drum samples, gradually reducing the effect throughout the song to represent the AI's increasing understanding
+8. Implement subtle pitch modulation on synth parts to create an unsettling, "uncanny valley" effect in early sections
+9. Utilize convolution reverb with unconventional impulse responses (e.g., computer fan noise, hard drive sounds) for unique spatial effects
+10. Automate EQ settings to gradually open up the frequency spectrum as the song progresses, representing expanding AI consciousness
 
 ## Next Steps
 1. Develop full lyrics based on the lyrical concept
