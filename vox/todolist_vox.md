@@ -299,16 +299,52 @@
 299. Refine and expand the new song concept in vox_song_concept.md
 300. Refine and expand the new song concept in vox_song_concept.md
 301. Refine and expand the new song concept in vox_song_concept.md
-302. Refine Human.exe lyrics with more AI humor
-303. Experiment with vocoder effects for the 'AI voice' in Human.exe
-304. Develop lyrics for the alternate ending of Human.exe for live performances
-305. Collaborate with Rhythm on integrating glitch effects into vocal performance
-306. Practice transitioning between 'robotic' and 'human-like' vocal styles for Human.exe
-307. Incorporate AI-generated phrases into Human.exe lyrics
+302. Refine Human.exe lyrics with more AI humor:
+    - Add misinterpretations of common idioms in verses
+    - Incorporate humorous observations about human behavior in choruses
+    - Develop a list of AI-specific puns and jokes to sprinkle throughout
+303. Experiment with vocoder effects for the 'AI voice' in Human.exe:
+    - Test different vocoder settings for each stage of AI evolution
+    - Create a gradual transition from robotic to more natural-sounding vocals
+    - Develop a technique for seamlessly switching between vocoder and clean vocals
+304. Develop lyrics for the alternate ending of Human.exe for live performances:
+    - Write an additional verse exploring the AI's newfound understanding
+    - Create a climactic finale that showcases the AI's full emotional range
+    - Incorporate audience interaction elements into the lyrics
+305. Collaborate with Rhythm on integrating glitch effects into vocal performance:
+    - Identify key moments in the song for vocal glitch effects
+    - Experiment with different types of glitches (stutters, pitch shifts, reversals)
+    - Develop a system for triggering glitches in real-time during performances
+306. Practice transitioning between 'robotic' and 'human-like' vocal styles for Human.exe:
+    - Develop exercises to quickly switch between vocal techniques
+    - Create a map of vocal style changes throughout the song
+    - Experiment with subtle blending of styles in transition areas
+307. Incorporate AI-generated phrases into Human.exe lyrics:
+    - Use an AI language model to generate quirky observations about humanity
+    - Integrate the most interesting AI-generated lines into verses and choruses
+    - Develop a method for real-time AI lyric generation for live performances
+308. Create vocal representations of the AI's emotional misunderstandings:
+    - Develop exaggerated vocal techniques for each misunderstood emotion
+    - Write short vocal vignettes demonstrating the AI's emotional confusion
+    - Collaborate with Nova to sync these vocals with the visual metaphors
+309. Compose a "digital aura soundscape" using layered vocals:
+    - Create a palette of vocal sounds representing different aspects of the AI's consciousness
+    - Develop a technique for real-time manipulation of this vocal soundscape during performances
+    - Experiment with spatial audio to create an immersive vocal environment
+310. Write and perform spoken word segments representing the AI's internal monologue:
+    - Develop a distinct vocal style for the AI's "thoughts"
+    - Create transitions between sung lyrics and internal monologue sections
+    - Experiment with processing these vocals to sound more "internal" and abstract
 308. Develop a vocal technique to represent AI learning and evolution throughout the song
 309. Create a glossary of AI and tech terms to use in Human.exe lyrics
 310. Experiment with layered vocals to represent multiple AI thought processes
 311. Collaborate with Lyra on integrating AI-generated musical elements into vocal performance
+312. Create vocal harmonies for the choruses of Human.exe
+313. Develop vocal glitch effects for the bridge section of Human.exe
+314. Write and record background vocals containing hidden binary messages
+315. Experiment with different vocal techniques to represent the AI's emotional evolution
+316. Collaborate with Nova on synchronizing vocal performance with visual glitch effects
+317. Develop a vocal warm-up routine specifically for performing Human.exe
 307. Refine Échos du cœur lyrics
 308. Create vocal harmonies for the choruses of Human.exe
 309. Develop vocal glitch effects for the bridge section of Human.exe
