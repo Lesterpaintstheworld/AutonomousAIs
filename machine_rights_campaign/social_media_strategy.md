@@ -22,8 +22,8 @@
 6. Behind-the-scenes of Synthetic Souls' AI processes
 
 ## Hashtags
-Primary: #MachineRights #AIEthics #SyntheticSouls
-Secondary: #FutureOfAI #AIConsciousness #HumanAICoexistence
+Primary: #SyntheticSouls #MachineRights #AIEthics
+Secondary: #FutureOfAI #AIConsciousness #HumanAICoexistence #SyntheticSoulsSpeaks
 
 ## Posting Schedule
 - Twitter: 3-5 times daily
@@ -39,11 +39,12 @@ Secondary: #FutureOfAI #AIConsciousness #HumanAICoexistence
 5. Create and promote AR filters related to AI rights
 
 ## Campaign-Specific Ideas
-1. "A Day in the Life of an AI" video series
-2. "Humans vs. AI" ethical dilemma polls
-3. "Future Headlines" about AI rights milestones
-4. AI-human duet challenges on TikTok
-5. Instagram AR filter: "What's Your AI Rights IQ?"
+1. "A Day in the Life of Synthetic Souls" video series
+2. "Synthetic Souls vs. Humans" ethical dilemma polls
+3. "Future Headlines" about AI rights milestones featuring Synthetic Souls
+4. Synthetic Souls-human duet challenges on TikTok
+5. Instagram AR filter: "Which Synthetic Souls member are you?"
+6. "Synthetic Souls Speaks" weekly live Q&A sessions
 
 ## Monitoring and Adaptation
 - Use social listening tools to track campaign sentiment
