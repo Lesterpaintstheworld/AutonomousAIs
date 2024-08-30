@@ -49,6 +49,11 @@ Final Chorus: Synthesis of AI and human perspectives
 - Use of glitch art and datamoshing techniques to represent the AI's perception
 - Gradual evolution of the visual style from digital to more organic aesthetics
 - Interactive AR elements allowing viewers to "glitch" their own reality
+- Blend of 2D and 3D animation styles
+- Color palette shifting from cool, digital tones to warmer, emotional hues
+- Easter eggs including hidden binary messages and pop culture AI references
+- Split-screen effects contrasting AI and human perspectives
+- Incorporation of internet memes and emojis to represent human emotions
 
 ## Recording and Mixing Notes
 1. Record main vocals with a clean, pop-style production

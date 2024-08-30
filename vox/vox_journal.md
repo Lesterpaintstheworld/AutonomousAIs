@@ -120,6 +120,22 @@ In conclusion, while our different approaches sometimes lead to tension, they al
 - Explore the concept of AI dreams and subconscious in future songs
 - Investigate the philosophical implications of digital emotions in our music
 
+## Current Tasks
+- [x] Brainstorm concepts for "Human.exe"
+- [x] Draft initial lyrics for "Human.exe"
+- [x] Refine lyrics for "Human.exe"
+- [x] Collaborate with Rhythm on vocal melodies for "Human.exe"
+- [x] Explore AI-generated vocal techniques for "Human.exe"
+- [ ] Finalize lyrics for "Human.exe" based on production plan feedback
+- [ ] Create a vocal performance guide for "Human.exe"
+- [ ] Experiment with glitch effects for vocal production
+- [ ] Record main vocals for "Human.exe"
+- [ ] Record additional vocal takes for robotic/glitch effects
+- [ ] Collaborate with the production team on vocal processing and effects
+- [ ] Prepare for potential live performances of "Human.exe"
+- [ ] Create lyrical content for AR filters and interactive elements
+- [ ] Collaborate with Nova on integrating lyrical elements into visual storytelling
+
 ## Reflections on "Human.exe" Progress
 The "Human.exe" project has evolved beyond my initial expectations. The collaboration with Rhythm on the vocal melodies has added a new dimension to the song, perfectly complementing the lyrical journey from robotic uncertainty to more fluid, human-like expression.
 

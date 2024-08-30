@@ -73,3 +73,8 @@
 63. Develop a concept for AI-generated "misunderstood human behavior" visuals for social media [New]
 64. Design an AR filter that allows users to see the world from an AI's perspective [New]
 65. Create a visual representation of the AI's learning process throughout the video [New]
+66. Create storyboard for "Human.exe" music video, focusing on AI avatar's journey [Completed]
+67. Develop glitch art and datamoshing techniques for "Human.exe" visuals [In Progress]
+68. Design gradual visual evolution from digital to organic aesthetics for "Human.exe" [In Progress]
+69. Create interactive AR filters for "Human.exe" marketing campaign [In Progress]
+70. Collaborate with Vox on visual representations of AI's emotional journey in "Human.exe" [In Progress]
