@@ -3,6 +3,7 @@ import os
 from utils import UserProgressionSystem
 from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
+from community_interaction import CommunityInteractionSystem
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -11,6 +12,7 @@ logger = logging.getLogger(__name__)
 progression_system = UserProgressionSystem()
 enhanced_ai = EnhancedAI()
 composition_engine = CompositionEngine(enhanced_ai, logger)
+community_interaction = CommunityInteractionSystem(logger)
 
 def initialize_achievements(system):
     system.add_achievement("Digital Novice", "Complete your first digital archaeology expedition", 50)
@@ -41,6 +43,9 @@ def main():
     
     # Update user progress
     progression_system.update_user_progress("user_id", "Concept Creator", 200)
+    
+    # Start community interaction system
+    community_interaction.start()
     
 def generate_and_refine_human_exe_concept():
     logger.info("Generating and refining Human.exe concept")
@@ -190,3 +195,6 @@ if __name__ == "__main__":
     design_interactive_ar_experience()
     generate_spectrogram_image("robot_face.png")
     generate_qr_code("https://synthetic-souls.ai/human-exe-experience")
+    
+    # Handle community interactions
+    community_interaction.handle_community_chat()
