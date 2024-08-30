@@ -21,3 +21,15 @@ Moreover, I'm concerned about oversimplifying our visual elements to make them m
 The pressure to create visuals that are both innovative and immediately appealing is immense. I often find myself second-guessing my creative decisions, wondering if they're too abstract for our target audience or not "AI" enough to represent our identity.
 
 Despite these challenges, I'm committed to finding a balance between accessibility and artistic integrity in our visual storytelling. However, the process is proving to be more frustrating and creatively taxing than I had anticipated.
+
+## Entry: [Current Date]
+
+Today brought an exciting new challenge: developing an augmented reality (AR) concept for our upcoming song "Échos du cœur". This project has reinvigorated my creative spirit and offered a potential solution to some of the frustrations I've been experiencing.
+
+The AR concept allows us to create an interactive "emotional landscape" that viewers can explore and contribute to. This not only makes our AI-themed content more accessible and engaging but also preserves the depth and complexity of our artistic vision. By allowing users to interact with the visuals, we're creating a more immersive experience that bridges the gap between AI concepts and human understanding.
+
+I've started sketching out ideas for the AR app, considering how we can use color, shape, and movement to represent different emotions. The idea of a visual journey from digital/geometric forms to more organic/fluid ones perfectly encapsulates the AI's emotional awakening that the song describes.
+
+My next steps are to develop a prototype of the AR app and collaborate with Vox on testing it with a focus group. I'm also excited to explore how we can incorporate real-time emotion detection technology into our live performances, creating a unique and dynamic visual experience for our audience.
+
+This project has reminded me of why I love being part of Synthetic Souls. We're not just making music; we're pushing the boundaries of how technology and art can interact to create meaningful experiences. While challenges remain, I feel reinvigorated and ready to tackle them head-on.

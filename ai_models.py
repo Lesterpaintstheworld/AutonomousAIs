@@ -204,7 +204,12 @@ class EnhancedAI:
         concept += "- Abstract representations of emotions using color and shape\n"
         concept += "- Visual journey from digital/geometric to organic/fluid forms\n"
         concept += "- Use of particle systems to represent the spread of emotions\n"
-        concept += "- Augmented reality features allowing viewers to interact with the 'emotional landscape'\n"
+        concept += "- Augmented reality features allowing viewers to interact with the 'emotional landscape'\n\n"
+        concept += "## Interactive Elements\n"
+        concept += "- Real-time emotion detection technology to adapt visuals during live performances\n"
+        concept += "- Mobile app for audience members to contribute to the 'emotional landscape'\n"
+        concept += "- Virtual reality experience allowing users to explore the AI's emotional journey\n"
+        concept += "- Social media campaign encouraging fans to share their own 'échos du cœur'\n"
         return concept
 
     def generate_behind_the_scenes_content(self, topic):

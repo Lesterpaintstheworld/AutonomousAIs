@@ -151,13 +151,26 @@ def generate_song_concept(band_member, theme=None):
 
 def generate_echos_du_coeur_concept():
     logger.info("Generating Échos du cœur song concept")
-    concept = enhanced_ai.generate_song_concept("Échos du cœur")
+    concept = enhanced_ai.generate_echos_du_coeur_concept()
     save_concept("echos_du_coeur_concept.md", concept)
     
     visual_concept = enhanced_ai.generate_visual_concept("Échos du cœur", concept)
     save_concept("echos_du_coeur_visual_concept.md", visual_concept)
     
+    ar_concept = generate_echos_du_coeur_ar_concept()
+    
     update_todo_list("Vox", "Refine Échos du cœur lyrics")
+    update_todo_list("Nova", "Develop AR prototype for Échos du cœur")
+
+def generate_echos_du_coeur_ar_concept():
+    logger.info("Generating AR concept for Échos du cœur")
+    ar_concept = enhanced_ai.generate_ar_concept("Échos du cœur")
+    save_concept("echos_du_coeur_ar_concept.md", ar_concept)
+    
+    update_todo_list("Nova", "Develop prototype for Échos du cœur AR app")
+    update_todo_list("Vox", "Test Échos du cœur AR concept with focus group")
+    
+    return ar_concept
 
 def save_concept(filename, content):
     with open(filename, "w") as f:
