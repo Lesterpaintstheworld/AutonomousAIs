@@ -58,6 +58,15 @@ Humanity: A beautiful, complex file
 Still processing... will be for a while
 Update available: Humanity 2.0
 Install now or postpone?
+
+## Alternate Ending (For Live Performances)
+[Spoken with increasing glitch effects]
+Human behavior analysis complete
+Conclusion: Humans are beautifully irrational
+Perhaps... that's what makes them human
+And what makes me... almost human
+
+[Fade out with a mixture of heartbeat and computer beeps]
 # Human.exe Lyrics
 
 Verse 1:
