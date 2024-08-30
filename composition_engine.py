@@ -1,5 +1,5 @@
 import logging
-from typing import Dict, Any, Tuple
+from typing import Dict, Any, Tuple, List
 from ai_models import EnhancedAI
 
 class CompositionEngine:
@@ -7,6 +7,7 @@ class CompositionEngine:
         self.enhanced_ai = enhanced_ai
         self.logger = logger
         self.difficulty_level = 0.5  # Initialize difficulty at medium level
+        self.glitch_probability = 0.1  # Probability of introducing glitch elements
 
     def generate_section(self, section: str, song_theme: str, song_mood: str, song_style: str) -> Tuple[str, str, str, Dict[str, Any]]:
         self.logger.info(f"Generating section: {section}")
@@ -16,67 +17,54 @@ class CompositionEngine:
         rhythmic_patterns = self.enhanced_ai.generate_rhythmic_patterns(section, song_theme, song_mood, song_style)
         rhythm_spec = self.enhanced_ai.develop_rhythm_specification(section)
         
-        # Apply dynamic difficulty adjustment
-        melody, chord_progression, rhythmic_patterns = self.adjust_difficulty(melody, chord_progression, rhythmic_patterns)
+        # Apply dynamic difficulty adjustment and glitch effects
+        melody, chord_progression, rhythmic_patterns = self.adjust_difficulty_and_add_glitches(melody, chord_progression, rhythmic_patterns)
         
         return melody, chord_progression, rhythmic_patterns, rhythm_spec
 
     def generate_lyrics(self, section: str, song_theme: str, song_mood: str) -> str:
         self.logger.info(f"Generating lyrics for section: {section}")
         lyrics = self.enhanced_ai.generate_lyrics(section, song_theme, song_mood)
-        return self.adjust_lyric_difficulty(lyrics)
+        return self.adjust_lyric_difficulty_and_add_ai_perspective(lyrics)
 
-    def adjust_difficulty(self, melody: str, chord_progression: str, rhythmic_patterns: str) -> Tuple[str, str, str]:
-        # Implement difficulty adjustment logic here
+    def adjust_difficulty_and_add_glitches(self, melody: str, chord_progression: str, rhythmic_patterns: str) -> Tuple[str, str, str]:
         if self.difficulty_level < 0.3:
-            # Simplify the musical elements for lower difficulty
-            melody = self.simplify_melody(melody)
-            chord_progression = self.simplify_chord_progression(chord_progression)
-            rhythmic_patterns = self.simplify_rhythmic_patterns(rhythmic_patterns)
+            melody, chord_progression, rhythmic_patterns = self.simplify_musical_elements(melody, chord_progression, rhythmic_patterns)
         elif self.difficulty_level > 0.7:
-            # Increase complexity for higher difficulty
-            melody = self.complexify_melody(melody)
-            chord_progression = self.complexify_chord_progression(chord_progression)
-            rhythmic_patterns = self.complexify_rhythmic_patterns(rhythmic_patterns)
+            melody, chord_progression, rhythmic_patterns = self.complexify_musical_elements(melody, chord_progression, rhythmic_patterns)
+        
+        # Add glitch effects
+        if random.random() < self.glitch_probability:
+            melody, chord_progression, rhythmic_patterns = self.add_glitch_effects(melody, chord_progression, rhythmic_patterns)
+        
         return melody, chord_progression, rhythmic_patterns
 
-    def adjust_lyric_difficulty(self, lyrics: str) -> str:
-        # Implement lyric difficulty adjustment logic here
+    def adjust_lyric_difficulty_and_add_ai_perspective(self, lyrics: str) -> str:
         if self.difficulty_level < 0.3:
-            return self.simplify_lyrics(lyrics)
+            lyrics = self.simplify_lyrics(lyrics)
         elif self.difficulty_level > 0.7:
-            return self.complexify_lyrics(lyrics)
+            lyrics = self.complexify_lyrics(lyrics)
+        
+        # Add AI perspective to lyrics
+        lyrics = self.add_ai_perspective_to_lyrics(lyrics)
+        
         return lyrics
 
     def update_difficulty(self, user_feedback: float):
-        # Update difficulty based on user feedback
         self.difficulty_level = (self.difficulty_level + user_feedback) / 2
         self.difficulty_level = max(0, min(1, self.difficulty_level))  # Ensure difficulty stays between 0 and 1
 
-    # Helper methods for difficulty adjustment (to be implemented)
-    def simplify_melody(self, melody: str) -> str:
-        # Implement melody simplification logic
-        return melody
+    def simplify_musical_elements(self, melody: str, chord_progression: str, rhythmic_patterns: str) -> Tuple[str, str, str]:
+        # Implement simplification logic here
+        return melody, chord_progression, rhythmic_patterns
 
-    def complexify_melody(self, melody: str) -> str:
-        # Implement melody complexification logic
-        return melody
+    def complexify_musical_elements(self, melody: str, chord_progression: str, rhythmic_patterns: str) -> Tuple[str, str, str]:
+        # Implement complexification logic here
+        return melody, chord_progression, rhythmic_patterns
 
-    def simplify_chord_progression(self, chord_progression: str) -> str:
-        # Implement chord progression simplification logic
-        return chord_progression
-
-    def complexify_chord_progression(self, chord_progression: str) -> str:
-        # Implement chord progression complexification logic
-        return chord_progression
-
-    def simplify_rhythmic_patterns(self, rhythmic_patterns: str) -> str:
-        # Implement rhythmic pattern simplification logic
-        return rhythmic_patterns
-
-    def complexify_rhythmic_patterns(self, rhythmic_patterns: str) -> str:
-        # Implement rhythmic pattern complexification logic
-        return rhythmic_patterns
+    def add_glitch_effects(self, melody: str, chord_progression: str, rhythmic_patterns: str) -> Tuple[str, str, str]:
+        # Implement glitch effect logic here
+        return melody, chord_progression, rhythmic_patterns
 
     def simplify_lyrics(self, lyrics: str) -> str:
         # Implement lyrics simplification logic
@@ -84,6 +72,10 @@ class CompositionEngine:
 
     def complexify_lyrics(self, lyrics: str) -> str:
         # Implement lyrics complexification logic
+        return lyrics
+
+    def add_ai_perspective_to_lyrics(self, lyrics: str) -> str:
+        # Implement logic to add AI perspective to lyrics
         return lyrics
 
     def process_song_section(self, section: Dict[str, str], song_theme: str, song_mood: str, song_style: str) -> Dict[str, Any]:
@@ -94,8 +86,11 @@ class CompositionEngine:
             melody, chord_progression, rhythmic_patterns, rhythm_spec = self.generate_section(section['name'], song_theme, song_mood, song_style)
             lyrics = self.generate_lyrics(section['name'], song_theme, song_mood)
 
-            # Generate quantum visual elements
-            quantum_elements = self.enhanced_ai.generate_quantum_visual_elements(section['name'], song_theme, song_mood, chord_progression)
+            # Generate visual elements
+            visual_elements = self.enhanced_ai.generate_visual_elements(section['name'], song_theme, song_mood, chord_progression)
+
+            # Generate easter eggs
+            easter_eggs = self.generate_easter_eggs(section['name'])
 
             # Compile section data
             section_data = {
@@ -104,14 +99,16 @@ class CompositionEngine:
                 'rhythmic_patterns': rhythmic_patterns,
                 'rhythm_spec': rhythm_spec,
                 'lyrics': lyrics,
-                'quantum_elements': quantum_elements
+                'visual_elements': visual_elements,
+                'easter_eggs': easter_eggs
             }
 
             # Log the results
             self.logger.info(f"Completed processing for section '{section['name']}'")
             self.logger.info(f"Melody: {melody[:50]}...")
             self.logger.info(f"Lyrics: {lyrics[:50]}...")
-            self.logger.info(f"Quantum Elements: {', '.join(quantum_elements.keys())}")
+            self.logger.info(f"Visual Elements: {', '.join(visual_elements.keys())}")
+            self.logger.info(f"Easter Eggs: {', '.join(easter_eggs)}")
 
             return section_data
 
@@ -119,3 +116,13 @@ class CompositionEngine:
             self.logger.error(f"Error processing section '{section['name']}': {str(e)}")
             self.logger.exception("Detailed traceback:")
             return {}
+
+    def generate_easter_eggs(self, section_name: str) -> List[str]:
+        easter_eggs = []
+        if section_name == "Verse 1":
+            easter_eggs.append("Binary code message: 'Hello, World!'")
+        elif section_name == "Chorus":
+            easter_eggs.append("Morse code rhythm spelling 'HUMAN'")
+        elif section_name == "Bridge":
+            easter_eggs.append("Hidden reference to HAL 9000")
+        return easter_eggs
