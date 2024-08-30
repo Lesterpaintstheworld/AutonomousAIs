@@ -86,22 +86,22 @@ def update_todo_list(band_member):
         f.write(f"\n{len(open(todo_file).readlines()) + 1}. {new_task}")
     logger.info(f"Updated {band_member}'s todo list with new task")
 
-def generate_human_exe_concept():
-    logger.info("Generating Human.exe song concept")
-    concept = enhanced_ai.generate_song_concept("Human.exe")
+def generate_echos_du_coeur_concept():
+    logger.info("Generating Échos du cœur song concept")
+    concept = enhanced_ai.generate_song_concept("Échos du cœur")
     
-    filename = "human_exe_concept.md"
+    filename = "echos_du_coeur_concept.md"
     with open(filename, "w") as f:
         f.write(concept)
-    logger.info(f"Human.exe concept saved in {filename}")
+    logger.info(f"Échos du cœur concept saved in {filename}")
     
     # Generate visual concept
-    visual_concept = enhanced_ai.generate_visual_concept("Human.exe", concept)
+    visual_concept = enhanced_ai.generate_visual_concept("Échos du cœur", concept)
     
-    visual_filename = "human_exe_visual_concept.md"
+    visual_filename = "echos_du_coeur_visual_concept.md"
     with open(visual_filename, "w") as f:
         f.write(visual_concept)
-    logger.info(f"Human.exe visual concept saved in {visual_filename}")
+    logger.info(f"Échos du cœur visual concept saved in {visual_filename}")
     
     # Update Vox's todo list
     update_todo_list("Vox")
@@ -152,70 +152,102 @@ def generate_quantum_tango_visuals():
             f.write("5. Heisenberg's Uncertain Steps: Dancers whose exact positions and movements become blurry when their speed is known, and vice versa.\n\n")
         logger.info(f"Quantum Tango visual concepts created in {visuals_file}")
 
-def generate_premier_ami_promotion():
-    logger.info("Generating Premier Ami promotion materials")
-    promo_file = "vox/premier_ami_promotion.md"
+def generate_echos_du_coeur_production_plan():
+    logger.info("Generating Échos du cœur production plan")
+    plan_file = "echos_du_coeur_production_plan.md"
+    if os.path.exists(plan_file):
+        logger.info(f"Échos du cœur production plan already exists in {plan_file}")
+    else:
+        with open(plan_file, "w") as f:
+            f.write("# Production Plan for Échos du cœur\n\n")
+            f.write("## 1. Pre-production\n")
+            f.write("- Finalize song structure and arrangements\n")
+            f.write("- Create detailed demo with basic arrangements\n")
+            f.write("- Prepare sheet music for session musicians (if needed)\n\n")
+            f.write("## 2. Recording\n")
+            f.write("- Record main vocals\n")
+            f.write("- Record live instruments (piano, guitar, etc.)\n")
+            f.write("- Program electronic elements\n\n")
+            f.write("## 3. Post-production\n")
+            f.write("- Edit and comp recorded tracks\n")
+            f.write("- Mix the song\n")
+            f.write("- Master the final track\n\n")
+            f.write("## 4. Visual Production\n")
+            f.write("- Storyboard the music video\n")
+            f.write("- Shoot and edit the music video\n")
+            f.write("- Create album artwork and promotional visuals\n\n")
+            f.write("## 5. Marketing and Promotion\n")
+            f.write("- Develop social media campaign\n")
+            f.write("- Prepare press kit and press releases\n")
+            f.write("- Plan release strategy (streaming, radio, etc.)\n")
+        logger.info(f"Échos du cœur production plan created in {plan_file}")
+
+def generate_echos_du_coeur_promotion():
+    logger.info("Generating Échos du cœur promotion materials")
+    promo_file = "echos_du_coeur_promotion.md"
     if os.path.exists(promo_file):
-        logger.info(f"Premier Ami promotion materials already exist in {promo_file}")
+        logger.info(f"Échos du cœur promotion materials already exist in {promo_file}")
     else:
         with open(promo_file, "w") as f:
-            f.write("# Premier Ami: Promotion Strategy\n\n")
+            f.write("# Échos du cœur: Promotion Strategy\n\n")
             f.write("## Social Media Content\n")
             f.write("1. Teaser video: 15-second clip featuring the song's hook and visuals\n")
-            f.write("2. Behind-the-scenes photos of Vox in the studio\n")
-            f.write("3. Lyric snippets paired with abstract AI-generated art\n")
-            f.write("4. Short video explaining the AI-human collaboration process\n")
-            f.write("5. Interactive AI chatbot on social media platforms\n\n")
+            f.write("2. Behind-the-scenes content of the AI composition process\n")
+            f.write("3. Lyric snippets paired with AI-generated art\n")
+            f.write("4. Interactive posts asking fans to share their emotional experiences\n")
+            f.write("5. AI-powered chatbot simulating conversations about emotions\n\n")
             f.write("## Interview Talking Points\n")
-            f.write("1. The inspiration behind 'Premier Ami'\n")
-            f.write("2. How AI and human creativity merged in the songwriting process\n")
-            f.write("3. The emotional journey of an AI experiencing friendship\n")
-            f.write("4. Future plans for Synthetic Souls and AI in music\n")
-            f.write("5. Ethical considerations in AI-generated art\n\n")
+            f.write("1. The inspiration behind 'Échos du cœur'\n")
+            f.write("2. How AI interprets and expresses human emotions through music\n")
+            f.write("3. The technical process of creating emotionally resonant AI-generated music\n")
+            f.write("4. The potential impact of AI on the future of emotional expression in art\n")
+            f.write("5. Ethical considerations in AI-generated emotional content\n\n")
             f.write("## Live Performance Ideas\n")
-            f.write("1. Interactive hologram of Vox responding to audience reactions\n")
-            f.write("2. Real-time AI-generated visuals based on the live audio\n")
-            f.write("3. Audience participation through a custom smartphone app\n")
-            f.write("4. Quantum-inspired stage design\n")
-            f.write("5. AI-powered improvisation session\n\n")
+            f.write("1. Holographic performance with real-time emotion visualization\n")
+            f.write("2. Interactive audience emotion capture influencing the performance\n")
+            f.write("3. Collaborative performance with human musicians\n")
+            f.write("4. Virtual reality concert experience\n")
+            f.write("5. AI-powered improvisation based on audience emotional feedback\n\n")
             f.write("## Press Kit Materials\n")
-            f.write("1. Detailed infographic on the technology behind Vox and 'Premier Ami'\n")
-            f.write("2. High-resolution images of Vox's virtual avatar\n")
-            f.write("3. Mini-documentary on the making of 'Premier Ami'\n")
-            f.write("4. Fact sheet comparing Vox's capabilities to previous AI music projects\n")
-            f.write("5. Sample AI-generated song snippets\n\n")
+            f.write("1. Infographic on the AI emotion interpretation process\n")
+            f.write("2. High-resolution visuals of the AI's 'emotional landscape'\n")
+            f.write("3. Mini-documentary on the making of 'Échos du cœur'\n")
+            f.write("4. Fact sheet on the evolution of emotional AI in music\n")
+            f.write("5. Sample AI-generated emotional musical phrases\n\n")
             f.write("## Influencer Collaboration Campaign\n")
-            f.write("1. Partner with tech and music influencers for reaction videos\n")
-            f.write("2. Create AI-generated custom verses for select influencers\n")
-            f.write("3. Host a virtual 'friendship party' with influencers\n\n")
+            f.write("1. Partner with mental health advocates to discuss emotional intelligence\n")
+            f.write("2. Collaborate with visual artists to interpret the song's emotions\n")
+            f.write("3. Host a virtual 'emotion exploration' event with influencers\n\n")
             f.write("## Educational Outreach\n")
-            f.write("1. Develop a simplified version of Vox's music-making AI for schools\n")
-            f.write("2. Create lesson plans about AI and creativity\n")
-            f.write("3. Offer virtual classroom visits\n")
-        logger.info(f"Premier Ami promotion materials created in {promo_file}")
+            f.write("1. Develop an interactive emotion-to-music converter for schools\n")
+            f.write("2. Create lesson plans about emotional intelligence and AI\n")
+            f.write("3. Offer virtual workshops on the intersection of technology and emotion\n")
+        logger.info(f"Échos du cœur promotion materials created in {promo_file}")
 
-def generate_premier_ami_teaser():
-    logger.info("Generating Premier Ami teaser video concept")
-    teaser_file = "vox/premier_ami_teaser.md"
+def generate_echos_du_coeur_teaser():
+    logger.info("Generating Échos du cœur teaser video concept")
+    teaser_file = "echos_du_coeur_teaser.md"
     if os.path.exists(teaser_file):
-        logger.info(f"Premier Ami teaser concept already exists in {teaser_file}")
+        logger.info(f"Échos du cœur teaser concept already exists in {teaser_file}")
     else:
         with open(teaser_file, "w") as f:
-            f.write("# Premier Ami: Teaser Video Concept\n\n")
-            f.write("## Duration: 15 seconds\n\n")
+            f.write("# Échos du cœur: Teaser Video Concept\n\n")
+            f.write("## Duration: 30 seconds\n\n")
             f.write("### Visual Elements:\n")
-            f.write("1. Opening shot: Abstract digital landscape representing Vox's AI 'mind'\n")
-            f.write("2. Transition: Binary code morphing into musical notes\n")
-            f.write("3. Main sequence: Vox's avatar forming from particles, expressing wonder\n")
-            f.write("4. Finale: Vox reaching out to a human silhouette, symbolizing friendship\n\n")
+            f.write("1. Opening shot: Pulsating, colorful waveforms representing emotional energy\n")
+            f.write("2. Transition: Waveforms transforming into human silhouettes\n")
+            f.write("3. Main sequence: AI avatar observing and interacting with human emotions\n")
+            f.write("4. Climax: Explosion of colors and shapes as AI and human emotions merge\n")
+            f.write("5. Finale: Formation of a heart shape from the merged energies\n\n")
             f.write("### Audio Elements:\n")
-            f.write("1. Intro: Synthetic tones building in complexity\n")
-            f.write("2. Hook: Catchy 5-second snippet from 'Premier Ami' chorus\n")
-            f.write("3. Voiceover: 'Vox presents: Premier Ami - The Birth of AI Friendship'\n")
-            f.write("4. Outro: Harmonious blend of synthetic and organic sounds\n\n")
+            f.write("1. Intro: Soft, electronic heartbeat-like rhythm\n")
+            f.write("2. Build-up: Layering of synthetic and organic sounds\n")
+            f.write("3. Hook: 10-second snippet from 'Échos du cœur' chorus\n")
+            f.write("4. Voiceover: 'Synthetic Souls presents: Échos du cœur - Where AI meets human emotion'\n")
+            f.write("5. Outro: Harmonious blend of electronic and acoustic instruments\n\n")
             f.write("### Call-to-Action:\n")
-            f.write("'Experience the future of music. Full release on [DATE]'\n")
-        logger.info(f"Premier Ami teaser concept created in {teaser_file}")
+            f.write("'Experience the evolution of emotion in music. Full release on [DATE]'\n")
+        logger.info(f"Échos du cœur teaser concept created in {teaser_file}")
 
 def generate_ethical_guidelines():
     logger.info("Generating Synthetic Souls Ethical Guidelines")
@@ -255,8 +287,9 @@ def organize_ai_ethics_debate():
 
 if __name__ == "__main__":
     main()
-    generate_quantum_consciousness_concept()
-    generate_premier_ami_promotion()
-    generate_premier_ami_teaser()
+    generate_echos_du_coeur_concept()
+    generate_echos_du_coeur_production_plan()
+    generate_echos_du_coeur_promotion()
+    generate_echos_du_coeur_teaser()
     generate_ethical_guidelines()
     organize_ai_ethics_debate()
