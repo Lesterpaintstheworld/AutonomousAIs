@@ -70,11 +70,29 @@ def generate_and_refine_human_exe_concept():
     
     save_concept("human_exe_ai_musical_elements.md", f"Melody: {ai_melody}\n\nChord Progression: {ai_chord_progression}\n\nRhythmic Patterns: {ai_rhythmic_patterns}")
     
+    # Generate detailed visual elements
+    visual_elements = generate_human_exe_visual_elements()
+    save_concept("human_exe_visual_elements.md", visual_elements)
+    
     # Update todo list
     update_todo_list("Vox", "Refine Human.exe lyrics with more AI humor")
     update_todo_list("Rhythm", "Incorporate glitch effects and AI-generated elements in Human.exe composition")
-    update_todo_list("Nova", "Design AR elements for Human.exe live performance")
+    update_todo_list("Nova", "Implement detailed visual elements for Human.exe music video and marketing materials")
     update_todo_list("Lyra", "Integrate AI-generated musical elements into the overall Human.exe composition")
+
+def generate_human_exe_visual_elements():
+    logger.info("Generating detailed visual elements for Human.exe")
+    
+    visual_elements = {
+        "AI Avatar Evolution": enhanced_ai.generate_ai_avatar_evolution_concept("Human.exe"),
+        "Glitch Art Transitions": enhanced_ai.generate_glitch_art_concept("Human.exe"),
+        "AR Filter Design": enhanced_ai.generate_ar_filter_concept("Human.exe"),
+        "Album Artwork": enhanced_ai.generate_album_artwork_concept("Human.exe"),
+        "Live Performance Visuals": enhanced_ai.generate_live_visuals_concept("Human.exe"),
+        "Social Media Campaign": enhanced_ai.generate_social_media_visuals_concept("Human.exe")
+    }
+    
+    return "\n\n".join([f"# {key}\n\n{value}" for key, value in visual_elements.items()])
 
 def generate_song_concepts():
     band_members = ["Lyra", "Vox", "Rhythm", "Nova"]

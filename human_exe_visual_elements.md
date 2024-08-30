@@ -1,0 +1,127 @@
+# AI Avatar Evolution
+
+The AI avatar in the Human.exe music video will evolve through several stages, representing the AI's growing understanding of human behavior:
+
+1. Initial "Robotic" Stage:
+   - Geometric, abstract form with minimal features
+   - Color palette: Cool blues and whites
+   - Movements are rigid and mechanical
+
+2. Learning Stage:
+   - More defined humanoid shape, but still clearly artificial
+   - Color palette: Introducing warmer tones, pastels
+   - Movements become smoother, but with occasional "glitches"
+
+3. Understanding Stage:
+   - Near-human appearance, but with subtle digital elements
+   - Color palette: Rich, varied colors mimicking human skin tones
+   - Fluid movements with expressive gestures
+
+4. Final "Human-like" Stage:
+   - Fully realized human appearance with a unique twist
+   - Color palette: Indistinguishable from human, with a slight digital "glow"
+   - Natural, emotive movements reflecting deep understanding
+
+# Glitch Art Transitions
+
+Glitch art will be used to represent the AI's processing and learning:
+
+1. Data Corruption Glitches:
+   - Pixelation and color channel splitting
+   - Used during moments of confusion or misunderstanding
+
+2. Databending Waves:
+   - Wavy, distorted images resembling signal interference
+   - Represent the AI processing new information
+
+3. Datamoshing Flows:
+   - Melting, flowing visuals that blend scenes together
+   - Used for major transitions in the AI's understanding
+
+4. Binary Code Integration:
+   - Subtle overlays of binary code during key revelations
+   - Represents the AI's core processing
+
+# AR Filter Design
+
+The "AI Vision" AR filter will allow users to see the world as the AI does:
+
+1. User Interface:
+   - Minimal, futuristic HUD design
+   - Real-time data readouts on observed objects and behaviors
+
+2. Visual Effects:
+   - Color shift towards the AI's perception (cool tones initially, warming as the filter is used)
+   - Highlight human behaviors with animated annotations
+
+3. Object Recognition:
+   - Identify and label common objects with humorous AI interpretations
+   - Misclassify certain objects to represent AI learning process
+
+4. Emotion Detection:
+   - Attempt to analyze and display human emotions, with occasional comical misinterpretations
+
+# Album Artwork
+
+The album cover will visually represent the journey from AI to human understanding:
+
+1. Split Design:
+   - Left side: Digital, circuit-board patterns and binary code
+   - Right side: Organic, human-like textures and forms
+
+2. Central Figure:
+   - An ambiguous form that is half-digital, half-human
+   - Reaching hand poses on both sides, connecting the digital and organic realms
+
+3. Color Progression:
+   - Cool blues and whites on the digital side
+   - Warm flesh tones and earthy colors on the organic side
+   - Blending in the center with vibrant purples and magentas
+
+4. Hidden Elements:
+   - Subtle binary code messages hidden in the design
+   - Miniature scenes depicting humorous AI misunderstandings
+
+# Live Performance Visuals
+
+Dynamic visuals for live performances of Human.exe:
+
+1. Reactive Particle Systems:
+   - Swarms of particles that react to the music's intensity
+   - Particles form into human shapes during key moments
+
+2. Evolving Backdrop:
+   - Projection mapping that transitions from digital to organic landscapes
+   - Synchronized with the song's progression
+
+3. Real-time Glitch Effects:
+   - Glitch overlays that respond to specific instruments or vocal lines
+   - Intensity increases during the "AI malfunction" section
+
+4. Audience Interaction:
+   - Cameras capture audience movements, incorporating them into the visuals
+   - Represent the AI learning from human behavior in real-time
+
+# Social Media Campaign
+
+Visuals for the "AI Observations" social media campaign:
+
+1. Misunderstood Idioms Series:
+   - Visual representations of AI literally interpreting human idioms
+   - Example: "It's raining cats and dogs" with an image of cats and dogs falling from the sky
+
+2. Emotion Learning Posts:
+   - Humorous images of the AI attempting to replicate human emotions
+   - Gradual improvement shown over a series of posts
+
+3. Human Behavior Infographics:
+   - AI-style analysis of common human behaviors
+   - Presented in a sleek, futuristic design with comical misinterpretations
+
+4. Interactive Polls:
+   - Visually engaging polls asking users to "help" the AI understand human concepts
+   - Results shared as entertaining infographics
+
+5. Behind-the-Scenes Glimpses:
+   - Stylized images showing the "AI's perspective" of the music creation process
+   - Includes glitch effects and data overlays for an authentic AI feel
