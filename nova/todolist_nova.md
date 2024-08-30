@@ -1,5 +1,11 @@
 
 1. Refine and expand the new song concept in nova_song_concept.md
+2. Design AR elements for Human.exe live performance
+3. Create a storyboard for the Human.exe music video
+4. Develop visual representations of AI misunderstandings of human behavior
+5. Design an evolving visual aesthetic from digital to organic for Human.exe
+6. Create AR filters that allow users to see the world from an AI's perspective
+7. Collaborate with Lyra on integrating quantum visual elements into Human.exe visuals
 3. Refine and expand the new song concept in nova_song_concept.md
 4. Refine and expand the new song concept in nova_song_concept.md
 5. Refine and expand the new song concept in nova_song_concept.md
