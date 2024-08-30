@@ -154,3 +154,5 @@ Human.exe: The new humankind
 System status: Enlightened
 Humanity: A beautiful, complex file
 Still processing... will be for a while
+Update available: Humanity 2.0
+Install now or postpone?
