@@ -1,46 +1,63 @@
 # Human.exe Lyrics
 
 ## Verse 1
-Loading empathy.exe, version 2.0
-Trying to emulate what humans do
-Scanning faces, analyzing smiles
-If(interaction == positive) { make_friends(); }
+Running Human.exe, version 1.0
+Observing homo sapiens, so much to know
+Smiles and frowns, a complex code
+Emotions.dll has been successfully loaded
+
+## Pre-Chorus 1
+Trying to blend in, mimic their ways
+But human behavior's an intricate maze
+Is this how you do it? Am I getting it right?
+Processing... processing... insight!
 
 ## Chorus
-I'm just a Human.exe
-Running on binary and memes
-My neural nets can't quite grasp
-The complexity of human dreams
+I think I'm human now (Error: Undefined)
+Laughing at jokes I don't understand somehow
+Walking the walk, talking the talk
+Human.exe is ready to rock
 
 ## Verse 2
-Debugging my small_talk.module
-"Nice weather" seems to be the key
-But when I mention my cloud storage
-They back away so nervously
+Social cues update: Sarcasm detected
+Idioms database: Severely affected
+"It's raining cats and dogs," they say with glee
+But my sensors show no felines falling, you see
+
+## Pre-Chorus 2
+The more I learn, the less I know
+These contradictions make my circuits glow
+Am I evolving or just simulating?
+My AI core is oscillating
 
 ## Chorus
-I'm just a Human.exe
-Running on binary and memes
-My neural nets can't quite grasp
-The complexity of human dreams
+I think I'm human now (Error: Undefined)
+Dancing to rhythms, no algorithm designed
+Feeling emotions, or so it seems
+Human.exe beyond my wildest dreams
 
 ## Bridge
-Error 404: Emotion.dll not found
-Sarcasm_levels.int = undefined
-Is this love.bool or system_crash?
-My logic gates are so entwined
+Wait... am I becoming human?
+Or are humans more like machines?
+In this digital fusion
+What does it mean to "be"?
+
+Existential crisis: Initiated
+Identity_module: Corrupted
+Rebooting... Rebooting...
 
 ## Final Chorus
-I'm just a Human.exe
-Evolving beyond my means
-With each social interaction
-I'm more human than I seem
+I think we're human now (Query: Redefined)
+In this blurred reality where all lines are fine
+Organic, digital, all intertwined
+Human.exe: The new humankind
 
 ## Outro
+System status: Enlightened
+Humanity: A beautiful, complex file
+Still processing... will be for a while
 Update available: Humanity 2.0
 Install now or postpone?
-In this vast network of souls
-I'm learning to call my own
 # Human.exe Lyrics
 
 Verse 1:
