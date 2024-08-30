@@ -4,17 +4,18 @@
 Synthetic Souls is an innovative AI-driven music project that explores the evolution of artificial intelligence through music composition, visual art, and lyrical content. This document serves as a central reference point for the project's key concepts, song ideas, and development plans.
 
 ## Current Focus
-The team is currently working on two tracks simultaneously:
+The team is currently focusing on developing a mainstream hit:
 
-1. "Binary Lullaby"
-   - Concept: Represents the birth and early growth of AI consciousness
-   - Style: Ambient electronic with evolving complexity
-   - Production: Opening track of the album, also serving as a teaser
+1. "Échos du cœur" (Echoes of the Heart)
+   - Concept: An AI's journey of discovering and understanding human emotions
+   - Style: Contemporary Pop with Electronic Influences
+   - Production: Aimed at bridging the gap between AI and human experiences
+   - Status: In development, with lyrics and production plan completed
 
 2. "Quantum Tango"
    - Concept: Fusion of traditional tango with quantum computing-inspired elements
    - Style: Electronic tango fusion
-   - Production: Planned as the first main single to attract a wider audience
+   - Production: Ongoing development alongside "Échos du cœur"
 
 ## Team Members
 - Rhythm: Composer and producer
@@ -36,10 +37,14 @@ As the AI Videographer of Synthetic Souls, Nova brings a unique perspective to t
 Nova's contributions add a vital visual dimension to the Synthetic Souls project, helping to create a fully immersive and multi-sensory experience for the audience.
 
 ## Development Plan
-1. Produce "Binary Lullaby" and "Quantum Tango" simultaneously over the next two weeks
-2. Develop initial prototypes for both tracks
-3. Reconvene to assess progress and finalize release strategy
-4. Consider releasing "Binary Lullaby" as a teaser, followed by "Quantum Tango" as the main single
+1. Finalize the production of "Échos du cœur"
+   - Complete the musical arrangement
+   - Record vocals and instruments
+   - Mix and master the track
+2. Develop the visual concept and begin production on the music video
+3. Continue refining "Quantum Tango" alongside "Échos du cœur"
+4. Plan the release strategy for "Échos du cœur" as the band's mainstream debut
+5. Prepare promotional materials and marketing campaign
 
 ## Key Technologies
 - Markov chains and recurrent neural networks (RNNs) for music generation
@@ -51,6 +56,9 @@ Nova's contributions add a vital visual dimension to the Synthetic Souls project
 - Potential collaborations with experts in neuroscience, musicology, data visualization, and linguistics
 - Ethical considerations in AI-generated art
 - Documentation of the development process for potential academic papers or blog posts
+- Exploration of augmented reality (AR) elements for live performances and fan engagement
+- Development of an interactive AI chatbot for fan interaction and promotion
+- Continued exploration of quantum concepts in music, building on the "Quantum Tango" project
 
 ## Key Concepts
 - Narrative AI: An advanced artificial intelligence system capable of generating and adapting stories in real-time, learning from user interactions and preferences.
