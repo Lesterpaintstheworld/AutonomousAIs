@@ -67,12 +67,23 @@ def generate_song_concept(band_member):
     with open(visual_filename, "w") as f:
         f.write(visual_concept)
     logger.info(f"Visual concept for {band_member} saved in {visual_filename}")
-    with open(visual_filename, "w") as f:
-        f.write(visual_concept)
-    logger.info(f"Visual concept for {band_member} saved in {visual_filename}")
+    
+    # Generate expanded song concept
+    expanded_concept = generate_expanded_song_concept(band_member, concept)
+    
+    # Save the expanded concept to a new file
+    expanded_filename = f"{band_member.lower()}_expanded_song_concept.md"
+    with open(expanded_filename, "w") as f:
+        f.write(expanded_concept)
+    logger.info(f"Expanded song concept for {band_member} saved in {expanded_filename}")
     
     # Update the band member's todo list
     update_todo_list(band_member)
+
+def generate_expanded_song_concept(band_member, initial_concept):
+    logger.info(f"Generating expanded song concept for {band_member}")
+    expanded_concept = enhanced_ai.generate_expanded_song_concept(band_member, initial_concept)
+    return expanded_concept
 
 def generate_visual_concept(band_member, song_concept):
     logger.info(f"Generating visual concept for {band_member}'s song")
