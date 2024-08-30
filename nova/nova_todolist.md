@@ -43,3 +43,8 @@
 33. Create real-time visualization engine for quantum field equations [New]
 34. Design interactive VR experience for 'Lyra's Quantum Journey' [New]
 35. Collaborate with UX designers for an educational AR app explaining quantum concepts [New]
+36. Create storyboard for "Human.exe" music video, focusing on AI avatar's journey [New]
+37. Develop glitch art and datamoshing techniques for "Human.exe" visuals [New]
+38. Design gradual visual evolution from digital to organic aesthetics for "Human.exe" [New]
+39. Create interactive AR filters for "Human.exe" marketing campaign [New]
+40. Collaborate with Vox on visual representations of AI's emotional journey in "Human.exe" [New]
