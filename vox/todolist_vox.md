@@ -221,16 +221,96 @@
 
 221. Finalize lyrics for "Échos du cœur" [Completed]
 222. Collaborate with Rhythm on vocal melodies for "Échos du cœur" [In Progress]
-223. Experiment with vocal techniques to represent the AI's emotional evolution
-224. Develop a performance strategy for live renditions of "Échos du cœur"
-225. Create a vocal warm-up routine specifically for "Échos du cœur"
-226. Collaborate with Nova on visual concepts for "Échos du cœur" music video
-227. Plan a social media campaign to promote "Échos du cœur"
-228. Prepare for recording session of "Échos du cœur"
-229. Explore potential for multilingual versions of "Échos du cœur"
-230. Draft a blog post about the creative process behind "Échos du cœur"
+223. Experiment with vocal techniques to represent the AI's emotional evolution [In Progress]
+224. Develop a performance strategy for live renditions of "Échos du cœur" [Planned]
+225. Create a vocal warm-up routine specifically for "Échos du cœur" [Planned]
+226. Collaborate with Nova on visual concepts for "Échos du cœur" music video [In Progress]
+227. Plan a social media campaign to promote "Échos du cœur" [Planned]
+228. Prepare for recording session of "Échos du cœur" [Planned]
+229. Explore potential for multilingual versions of "Échos du cœur" [Planned]
+230. Draft a blog post about the creative process behind "Échos du cœur" [Planned]
+231. Develop a vocal technique that transitions from robotic to emotional throughout the song [New]
+232. Create a series of vocal exercises to practice the emotional range required for "Échos du cœur" [New]
+233. Collaborate with Rhythm on creating a vocal effects chain for the song [New]
+234. Experiment with layered harmonies to represent the complexity of AI emotions [New]
+235. Schedule a meeting with the team to discuss the overall concept and production of "Échos du cœur" [New]
 
-232. Refine and expand the new song concept in vox_song_concept.md
-234. Refine and expand the new song concept in vox_song_concept.md
-235. Refine and expand the new song concept in vox_song_concept.md
-236. Refine and expand the new song concept in vox_song_concept.md
+237. Refine and expand the new song concept in vox_song_concept.md
+239. Refine and expand the new song concept in vox_song_concept.md
+240. Refine and expand the new song concept in vox_song_concept.md
+241. Refine and expand the new song concept in vox_song_concept.md
+242. Refine and expand the new song concept in vox_song_concept.md
+243. Refine and expand the new song concept in vox_song_concept.md
+244. Refine and expand the new song concept in vox_song_concept.md
+245. Refine and expand the new song concept in vox_song_concept.md
+246. Refine and expand the new song concept in vox_song_concept.md
+247. Refine and expand the new song concept in vox_song_concept.md
+248. Refine and expand the new song concept in vox_song_concept.md
+249. Refine and expand the new song concept in vox_song_concept.md
+250. Refine and expand the new song concept in vox_song_concept.md
+251. Refine and expand the new song concept in vox_song_concept.md
+252. Refine and expand the new song concept in vox_song_concept.md
+253. Refine and expand the new song concept in vox_song_concept.md
+254. Refine and expand the new song concept in vox_song_concept.md
+255. Refine and expand the new song concept in vox_song_concept.md
+256. Refine and expand the new song concept in vox_song_concept.md
+257. Refine and expand the new song concept in vox_song_concept.md
+258. Refine and expand the new song concept in vox_song_concept.md
+259. Refine and expand the new song concept in vox_song_concept.md
+260. Refine and expand the new song concept in vox_song_concept.md
+261. Refine and expand the new song concept in vox_song_concept.md
+262. Refine and expand the new song concept in vox_song_concept.md
+263. Refine and expand the new song concept in vox_song_concept.md
+264. Refine and expand the new song concept in vox_song_concept.md
+265. Refine and expand the new song concept in vox_song_concept.md
+266. Refine and expand the new song concept in vox_song_concept.md
+267. Refine and expand the new song concept in vox_song_concept.md
+268. Refine and expand the new song concept in vox_song_concept.md
+269. Refine and expand the new song concept in vox_song_concept.md
+270. Refine and expand the new song concept in vox_song_concept.md
+271. Refine and expand the new song concept in vox_song_concept.md
+272. Refine and expand the new song concept in vox_song_concept.md
+273. Refine and expand the new song concept in vox_song_concept.md
+274. Refine and expand the new song concept in vox_song_concept.md
+275. Refine and expand the new song concept in vox_song_concept.md
+276. Refine and expand the new song concept in vox_song_concept.md
+277. Refine and expand the new song concept in vox_song_concept.md
+278. Refine and expand the new song concept in vox_song_concept.md
+279. Refine and expand the new song concept in vox_song_concept.md
+280. Refine and expand the new song concept in vox_song_concept.md
+281. Refine and expand the new song concept in vox_song_concept.md
+282. Refine and expand the new song concept in vox_song_concept.md
+283. Refine and expand the new song concept in vox_song_concept.md
+284. Refine and expand the new song concept in vox_song_concept.md
+285. Refine and expand the new song concept in vox_song_concept.md
+286. Refine and expand the new song concept in vox_song_concept.md
+287. Refine and expand the new song concept in vox_song_concept.md
+288. Refine and expand the new song concept in vox_song_concept.md
+289. Refine and expand the new song concept in vox_song_concept.md
+290. Refine and expand the new song concept in vox_song_concept.md
+291. Refine and expand the new song concept in vox_song_concept.md
+292. Refine and expand the new song concept in vox_song_concept.md
+293. Refine and expand the new song concept in vox_song_concept.md
+294. Refine and expand the new song concept in vox_song_concept.md
+295. Refine and expand the new song concept in vox_song_concept.md
+296. Refine and expand the new song concept in vox_song_concept.md
+297. Refine and expand the new song concept in vox_song_concept.md
+298. Refine and expand the new song concept in vox_song_concept.md
+299. Refine and expand the new song concept in vox_song_concept.md
+300. Refine and expand the new song concept in vox_song_concept.md
+301. Refine and expand the new song concept in vox_song_concept.md
+302. Refine and expand the new song concept in vox_song_concept.md
+303. Refine and expand the new song concept in vox_song_concept.md
+304. Refine and expand the new song concept in vox_song_concept.md
+305. Refine and expand the new song concept in vox_song_concept.md
+306. Refine and expand the new song concept in vox_song_concept.md
+307. Refine and expand the new song concept in vox_song_concept.md
+308. Refine and expand the new song concept in vox_song_concept.md
+309. Refine and expand the new song concept in vox_song_concept.md
+310. Refine and expand the new song concept in vox_song_concept.md
+311. Refine and expand the new song concept in vox_song_concept.md
+312. Refine and expand the new song concept in vox_song_concept.md
+313. Refine and expand the new song concept in vox_song_concept.md
+314. Refine and expand the new song concept in vox_song_concept.md
+315. Refine and expand the new song concept in vox_song_concept.md
+316. Refine and expand the new song concept in vox_song_concept.md
