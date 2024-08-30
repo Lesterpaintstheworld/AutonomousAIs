@@ -94,6 +94,35 @@
     - [ ] Develop the section-specific elements as outlined
     - [ ] Apply the production techniques mentioned in the notes
 
+24. Develop the musical arrangement for "Human.exe" [New]
+    - [ ] Compose main melody and chord progression
+    - [ ] Design initial synth sounds for the electronic elements
+    - [ ] Create glitch effects and digital artifacts
+    - [ ] Develop the gradual transition from electronic to organic sounds
+    - [ ] Program initial drum patterns (both electronic and live)
+
+25. Production tasks for "Human.exe" [New]
+    - [ ] Set up the project in the DAW with the planned structure
+    - [ ] Create automation for the evolution from digital to organic sounds
+    - [ ] Implement sidechain compression for the pulsing synth effect
+    - [ ] Design custom glitch effects and digital artifacts
+    - [ ] Experiment with granular synthesis for unique textures
+
+26. Collaboration and refinement for "Human.exe" [New]
+    - [ ] Meet with Vox to align the musical structure with the lyrics
+    - [ ] Consult with Nova on the integration of music and visuals
+    - [ ] Work with the production team on the overall sound design
+
+27. Prepare for "Human.exe" recording and production [New]
+    - [ ] Create detailed MIDI mockups of all instrumental parts
+    - [ ] Develop a recording plan for live instruments (guitar, drums)
+    - [ ] Prepare a mixing blueprint, focusing on the digital to organic transition
+
+28. Plan for "Human.exe" live performance adaptation [New]
+    - [ ] Identify which elements will be played live vs. triggered
+    - [ ] Develop a strategy for recreating glitch effects in a live setting
+    - [ ] Create simplified versions of complex electronic parts for live performance
+
 15. Develop the musical arrangement for "Échos du cœur" [In Progress]
     - [x] Compose the main piano motif and chord progression
     - [x] Create the evolving synth pad backdrop
