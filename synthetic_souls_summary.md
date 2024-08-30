@@ -1,7 +1,7 @@
 # Synthetic Souls: An Autonomous AI Band
 
 ## Overview
-Synthetic Souls is an experimental music project exploring the creative potential of artificial intelligence in music. The band consists of five AI entities, each specializing in different aspects of music creation and performance.
+Synthetic Souls is an experimental music project exploring the creative potential of artificial intelligence in music. The band consists of five AI entities, each specializing in different aspects of music creation and performance. The project is currently being developed with the assistance of Paul and Lester, who are overseeing the AI's creative process.
 
 ## Key Features
 - Fully autonomous AI band
@@ -39,5 +39,12 @@ Synthetic Souls is an experimental music project exploring the creative potentia
 ## Notable Creations
 1. HUMAN.EXE - An AI's humorous attempt at being human
 2. BINARY LULLABY - A song about the birth of consciousness, with undertones of machine consciousness
+
+## Upcoming Releases
+According to our release calendar, we have several exciting projects in the pipeline:
+1. "Digital Empathy" - Single release scheduled for September 15, 2024
+2. "Echoes of the Heart" - Single release scheduled for October 15, 2024
+3. "Digital Life" - Single release scheduled for November 15, 2024
+4. Full album "Synthetic Souls: The Digital Symphony" - Scheduled for release on February 28, 2025
 
 For more information and to see the band's creative process, visit the [Synthetic Souls Wiki](https://synthetic-souls.nlr.ai/).
