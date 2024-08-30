@@ -115,22 +115,22 @@ def generate_human_exe_audio_elements():
     
     return "\n\n".join([f"# {key}\n\n{value}" for key, value in audio_elements.items()])
 
-def generate_song_concepts():
+def generate_song_concepts(theme=None):
     band_members = ["Lyra", "Vox", "Rhythm", "Nova"]
     for member in band_members:
-        generate_song_concept(member)
+        generate_song_concept(member, theme)
     
-    generate_echos_du_coeur_concept()
+    generate_echos_du_coeur_concept(theme)
 
-def generate_song_concept(band_member):
-    logger.info(f"Generating song concept for {band_member}")
-    concept = enhanced_ai.generate_song_concept(band_member)
+def generate_song_concept(band_member, theme=None):
+    logger.info(f"Generating song concept for {band_member} with theme: {theme}")
+    concept = enhanced_ai.generate_song_concept(band_member, theme)
     save_concept(f"{band_member.lower()}_song_concept.md", concept)
     
     visual_concept = enhanced_ai.generate_visual_concept(band_member, concept)
     save_concept(f"{band_member.lower()}_visual_concept.md", visual_concept)
     
-    update_todo_list(band_member, f"Refine and expand the new song concept")
+    update_todo_list(band_member, f"Refine and expand the new song concept with theme: {theme}")
 
 def generate_echos_du_coeur_concept():
     logger.info("Generating Échos du cœur song concept")
