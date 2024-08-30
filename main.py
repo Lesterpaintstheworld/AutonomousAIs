@@ -98,10 +98,27 @@ def generate_human_exe_visual_elements():
         "Digital Aura": enhanced_ai.generate_digital_aura_concept("Human.exe"),
         "Learning Process Visualization": enhanced_ai.generate_learning_visualization_concept("Human.exe"),
         "Emotional Misunderstanding Metaphors": enhanced_ai.generate_emotion_metaphor_concept("Human.exe"),
-        "Evolutionary Stage Transitions": enhanced_ai.generate_stage_transition_concept("Human.exe")
+        "Evolutionary Stage Transitions": enhanced_ai.generate_stage_transition_concept("Human.exe"),
+        "Quantum Fractal Synesthesia": enhanced_ai.generate_quantum_fractal_synesthesia_concept("Human.exe")
     }
     
     return "\n\n".join([f"# {key}\n\n{value}" for key, value in visual_elements.items()])
+
+def generate_echos_du_coeur_ar_concept():
+    logger.info("Generating AR concept for Échos du cœur")
+    ar_concept = enhanced_ai.generate_ar_concept("Échos du cœur")
+    save_concept("echos_du_coeur_ar_concept.md", ar_concept)
+    
+    update_todo_list("Nova", "Develop prototype for Échos du cœur AR app")
+    update_todo_list("Vox", "Test Échos du cœur AR concept with focus group")
+
+def generate_quantum_fractal_synesthesia_concept():
+    logger.info("Generating Quantum Fractal Synesthesia concept")
+    qfs_concept = enhanced_ai.generate_quantum_fractal_synesthesia_concept()
+    save_concept("quantum_fractal_synesthesia_concept.md", qfs_concept)
+    
+    update_todo_list("Nova", "Implement Quantum Fractal Synesthesia in upcoming music video")
+    update_todo_list("Lyra", "Explore musical applications of Quantum Fractal Synesthesia")
 
 def generate_human_exe_audio_elements():
     logger.info("Generating detailed audio elements for Human.exe")
