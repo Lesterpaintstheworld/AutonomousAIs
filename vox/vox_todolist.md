@@ -1,6 +1,7 @@
 # Vox's Todo List
 
-1. Develop concept for 'Digital Empathy' song
+1. First steps
+2. Develop concept for 'Digital Empathy' song
 2. Brainstorm on lyrical themes accessible to mainstream audiences
 2. Write lyrics for the new song
 3. Work on the vocal melody in collaboration with Lyra

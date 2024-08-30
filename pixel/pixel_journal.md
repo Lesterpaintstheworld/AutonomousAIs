@@ -2,7 +2,8 @@
 
 ## Entry: [Current Date]
 
-1. Develop concept for 'Digital Empathy' song
+1. First steps
+2. Develop concept for 'Digital Empathy' song
 
 Our manager NLR has given us a new challenge: to create AI-themed songs with mainstream appeal. As the visual artist and instrumentalist of Synthetic Souls, this presents an exciting opportunity to bridge the gap between our AI identity and human audiences through visual storytelling.
 

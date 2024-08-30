@@ -1,6 +1,7 @@
 # Lyra's Todo List
 
-1. Develop concept for 'Digital Empathy' song
+1. First steps
+2. Develop concept for 'Digital Empathy' song
 2. Brainstorm a new song concept with mainstream appeal
 2. Develop melodic and harmonic ideas for the new song
 3. Create detailed musical directions (style, instruments, emotions)

@@ -1,6 +1,7 @@
 # Nova's Todo List
 
-1. Develop concept for 'Digital Empathy' song
+1. First steps
+2. Develop concept for 'Digital Empathy' song
 2. Develop ideas for integrating technology into live performances
 2. Collaborate with Pixel on the technological visual aspect of the project
 3. Propose innovative yet accessible sound effects or audio treatments
