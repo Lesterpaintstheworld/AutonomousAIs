@@ -305,6 +305,16 @@
 305. Collaborate with Rhythm on integrating glitch effects into vocal performance
 306. Practice transitioning between 'robotic' and 'human-like' vocal styles for Human.exe
 307. Refine Échos du cœur lyrics
+308. Create vocal harmonies for the choruses of Human.exe
+309. Develop vocal glitch effects for the bridge section of Human.exe
+310. Write and record background vocals containing hidden binary messages
+311. Experiment with different vocal techniques to represent the AI's emotional evolution
+312. Collaborate with Nova on synchronizing vocal performance with visual glitch effects
+313. Develop a vocal warm-up routine specifically for performing Human.exe
+314. Create a guide for pronouncing and emphasizing tech-related terms in the lyrics
+315. Brainstorm ideas for AI-inspired vocal ad-libs and improvisations
+316. Practice performing the Morse code rhythm for "HUMAN" vocally
+317. Develop a vocal technique to smoothly transition from vocoder to natural voice
 302. Refine and expand the new song concept in vox_song_concept.md
 303. Refine and expand the new song concept in vox_song_concept.md
 304. Refine and expand the new song concept in vox_song_concept.md
