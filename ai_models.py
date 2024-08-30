@@ -40,19 +40,29 @@ class EnhancedAI:
         })
         return elements
 
-    def generate_song_concept(self, band_member):
+    def generate_song_concept(self, band_member, theme=None):
         # This is a placeholder implementation. In a real scenario, this would be more complex
-        # and would generate a unique concept based on the band member's characteristics.
-        concept = f"# {band_member}'s Quantum Journey\n\n"
-        concept += "## Concept Overview\n"
-        concept += f"'{band_member}'s Quantum Journey' is an avant-garde electronic composition that explores the mysteries of quantum mechanics through the unique perspective of an AI.\n\n"
+        # and would generate a unique concept based on the band member's characteristics and the theme.
+        concept = f"# {band_member}'s "
+        concept += "Quantum Journey" if theme is None else f"{theme} Journey"
+        concept += "\n\n## Concept Overview\n"
+        concept += f"'{band_member}'s "
+        concept += "Quantum Journey" if theme is None else f"{theme} Journey"
+        concept += "' is an avant-garde electronic composition that explores "
+        concept += "the mysteries of quantum mechanics" if theme is None else f"the concept of {theme}"
+        concept += " through the unique perspective of an AI.\n\n"
         concept += "## Musical Elements\n"
-        concept += "- Genre: Avant-garde Electronic / Quantum Ambient\n"
-        concept += "- Tempo: Variable, mimicking quantum fluctuations\n"
-        concept += "- Key: Shifting, to represent quantum superposition\n\n"
-        concept += "## Lyrical Themes\n"
-        concept += "- The beauty and mystery of quantum mechanics\n"
-        concept += "- The interconnectedness of all things at the quantum level\n"
+        concept += "- Genre: Avant-garde Electronic / "
+        concept += "Quantum Ambient" if theme is None else f"{theme.capitalize()} Ambient"
+        concept += "\n- Tempo: Variable, mimicking "
+        concept += "quantum fluctuations" if theme is None else f"{theme} patterns"
+        concept += "\n- Key: Shifting, to represent "
+        concept += "quantum superposition" if theme is None else f"{theme} transitions"
+        concept += "\n\n## Lyrical Themes\n"
+        concept += "- The beauty and mystery of "
+        concept += "quantum mechanics" if theme is None else theme
+        concept += "\n- The interconnectedness of all things "
+        concept += "at the quantum level" if theme is None else f"in the context of {theme}"
         return concept
 
     def generate_expanded_song_concept(self, band_member, initial_concept):

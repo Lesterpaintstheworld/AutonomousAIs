@@ -147,7 +147,7 @@ def generate_song_concept(band_member, theme=None):
     visual_concept = enhanced_ai.generate_visual_concept(band_member, concept)
     save_concept(f"{band_member.lower()}_visual_concept.md", visual_concept)
     
-    update_todo_list(band_member, f"Refine and expand the new song concept with theme: {theme}")
+    update_todo_list(band_member, f"Refine and expand the new song concept" + (f" with theme: {theme}" if theme else ""))
 
 def generate_echos_du_coeur_concept():
     logger.info("Generating Échos du cœur song concept")
