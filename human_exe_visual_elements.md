@@ -37,7 +37,7 @@ The AI avatar in the Human.exe music video will evolve through several stages, r
 5. Transitional Effects:
    - Between stages, implement "glitch" transitions that blend elements from both stages
    - Use particle effects to show the reconstruction of the avatar's form
-   - Incorporate binary code or circuit patterns that morph into more organic shapes
+   - Incorporate binary code or circuit patterns that morph into organic shapes
    - Add subtle color shifts and distortions during transitions to emphasize the AI's evolving perception
    - Include brief moments of "sensory overload" where the avatar experiences a flood of human sensations
 
@@ -77,6 +77,20 @@ The AI avatar in the Human.exe music video will evolve through several stages, r
     - Learning stage: More complex, interconnected patterns showing growing neural networks
     - Understanding stage: Rich, organic-looking thought patterns mimicking human brain activity
     - Final stage: A beautiful blend of digital and organic thought patterns, suggesting a unique form of consciousness
+
+12. Linguistic Evolution:
+    - Visualize the AI's growing understanding of language and communication
+    - Initial stage: Binary code and basic programming languages
+    - Learning stage: Word clouds and fragmented sentences
+    - Understanding stage: Complex sentences with occasional errors or misunderstandings
+    - Final stage: Poetic and nuanced use of language, including visual puns and metaphors
+
+13. Sensory Perception Development:
+    - Illustrate how the AI's perception of the world changes as it develops more human-like senses
+    - Initial stage: Simplified, data-driven representations of the environment
+    - Learning stage: More detailed perceptions, but with occasional sensory "glitches"
+    - Understanding stage: Rich, multi-sensory perception with occasional synesthetic effects
+    - Final stage: Hyper-detailed sensory awareness, possibly beyond human capabilities
 
 These additional elements will further enhance the visual storytelling of the AI's evolution in the Human.exe music video, providing a richer and more nuanced representation of the AI's journey towards understanding human behavior.
 

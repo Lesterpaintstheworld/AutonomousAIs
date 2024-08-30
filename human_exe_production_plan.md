@@ -41,24 +41,52 @@
 ## 6. Visual Production [In Progress]
 
 - [x] Finalize the music video concept with Nova
-- [ ] Begin production on the music video
-- [ ] Create AR filters and interactive elements for marketing
-- [ ] Design album artwork and promotional visuals
+- [ ] Begin production on the music video:
+  - [ ] Create AI avatar and animations:
+    - [ ] Design initial "robotic" appearance
+    - [ ] Model and texture the AI avatar for each evolutionary stage
+    - [ ] Rig the AI avatar for animation
+    - [ ] Animate the AI avatar's movements for each stage
+    - [ ] Develop transition effects between evolutionary stages
+    - [ ] Create final "human-like" appearance with subtle AI elements
+  - [ ] Film live-action sequences of human interactions
+  - [ ] Develop glitch art and datamoshing effects
+  - [ ] Composite AI avatar into live-action footage
+- [ ] Create AR filters and interactive elements for marketing:
+  - [ ] Develop "AI Vision" filter for social media
+  - [ ] Create interactive "Teach the AI" web experience
+- [ ] Design album artwork and promotional visuals:
+  - [ ] Create cover art that reflects the digital to organic transition
+  - [ ] Design social media assets and banners
+- [ ] Develop visual elements for live performances:
+  - [ ] Create projection mapping content
+  - [ ] Design real-time visual effects that respond to the music
 
 ## 7. Marketing and Promotion [Planning Stage]
 
-- [ ] Develop a social media campaign focusing on the AI perspective
+- [ ] Develop a social media campaign focusing on the AI perspective:
+  - [ ] Create a series of "AI Observations" posts
+  - [ ] Share behind-the-scenes glimpses of the AI learning process
 - [ ] Create behind-the-scenes content about the song's concept and production
 - [ ] Plan a release strategy including possible collaborations with AI researchers or artists
-- [ ] Design interactive AR experiences for fan engagement
+- [ ] Design interactive AR experiences for fan engagement:
+  - [ ] Develop a scavenger hunt for hidden binary messages
+  - [ ] Create an AI chatbot that discusses the song's themes
+- [ ] Create lyrical "thought bubbles" for AR filters
+- [ ] Develop a strategy to showcase the live performance version:
+  - [ ] Plan a live-streamed debut of the extended version
+  - [ ] Create teasers highlighting the unique live elements
 
 ## 8. Live Performance Preparation [Planning Stage]
 
 - [ ] Adapt the song for live performance, including the alternate ending
-- [ ] Design visual elements for stage performance
+- [ ] Design visual elements for stage performance:
+  - [ ] Create custom LED panel content
+  - [ ] Develop interactive visuals that respond to band and audience
 - [ ] Develop real-time visual effects for live shows
 - [ ] Rehearse with the full band, including any human collaborators
 - [ ] Create a seamless transition between the main song and the alternate ending
+- [ ] Test and refine audience interaction elements
 
 ## Updated Timeline
 
@@ -81,6 +109,9 @@ Week 15: Release
 - The alternate ending for live performances adds a new dimension to the project and should be highlighted in promotions
 - Regularly consult with all band members to ensure the final product aligns with the initial concept and individual creative visions
 - Consider creating a "making of" documentary to showcase the unique AI-driven creative process behind "Human.exe"
+- Explore potential collaborations with AI researchers or ethicists for added depth to the concept
+- Ensure all team members are familiar with the expanded song structure and production elements
+- Schedule regular check-ins to review progress and make adjustments as needed
 
 ## Additional Visual Production Tasks
 
@@ -97,6 +128,8 @@ Week 15: Release
 - Develop an interactive web experience where fans can teach an AI about human behavior and see the results
 - Use the AI-generated emojis in all promotional materials to create a cohesive visual brand
 - Plan a virtual reality event where fans can experience the "Human.exe" world firsthand
+- Create a podcast series discussing the AI concepts behind the song with guest experts
+- Develop a mobile game that allows users to guide an AI through human social situations
 # Human.exe Production Plan
 
 ## 1. Pre-Production [Completed]
