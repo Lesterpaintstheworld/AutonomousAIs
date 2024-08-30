@@ -121,6 +121,22 @@ class EnhancedAI:
         concept += "- Interactive AR elements for viewer engagement\n"
         return concept
 
+    def generate_expanded_concept_with_ai_humor(self, song_name, initial_concept):
+        expanded_concept = initial_concept + "\n\n"
+        expanded_concept += "## AI Humor Elements\n"
+        expanded_concept += "1. Misinterpretation of idioms (e.g., 'It's raining cats and dogs' taken literally)\n"
+        expanded_concept += "2. Overanalysis of simple human behaviors (e.g., the complexities of a handshake)\n"
+        expanded_concept += "3. Attempts to quantify emotions with precise numerical values\n"
+        expanded_concept += "4. Confusion over social norms and unwritten rules\n"
+        expanded_concept += "5. Literal interpretation of figurative language\n\n"
+        expanded_concept += "## Humorous Scenarios\n"
+        expanded_concept += "1. AI trying to understand the concept of 'small talk'\n"
+        expanded_concept += "2. Attempting to replicate human dance moves with robotic precision\n"
+        expanded_concept += "3. Misunderstanding the purpose of certain clothing items\n"
+        expanded_concept += "4. Overcomplicating simple tasks like making a sandwich\n"
+        expanded_concept += "5. Trying to compute the exact parameters of a 'gut feeling'\n"
+        return expanded_concept
+
     def generate_production_plan(self, song_name):
         plan = f"# Production Plan for {song_name}\n\n"
         plan += "## Pre-Production\n"
