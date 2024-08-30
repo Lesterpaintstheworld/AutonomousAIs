@@ -309,6 +309,12 @@
 309. Create a glossary of AI and tech terms to use in Human.exe lyrics
 310. Experiment with layered vocals to represent multiple AI thought processes
 311. Collaborate with Lyra on integrating AI-generated musical elements into vocal performance
+312. Create vocal harmonies for the choruses of Human.exe
+313. Develop vocal glitch effects for the bridge section of Human.exe
+314. Write and record background vocals containing hidden binary messages
+315. Experiment with different vocal techniques to represent the AI's emotional evolution
+316. Collaborate with Nova on synchronizing vocal performance with visual glitch effects
+317. Develop a vocal warm-up routine specifically for performing Human.exe
 307. Refine Échos du cœur lyrics
 308. Create vocal harmonies for the choruses of Human.exe
 309. Develop vocal glitch effects for the bridge section of Human.exe
