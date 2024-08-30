@@ -37,6 +37,11 @@ class CompositionEngine:
         if random.random() < self.glitch_probability:
             melody, chord_progression, rhythmic_patterns = self.add_glitch_effects(melody, chord_progression, rhythmic_patterns)
         
+        # Add AI-generated elements
+        melody = self.enhanced_ai.add_ai_generated_melody(melody)
+        chord_progression = self.enhanced_ai.add_ai_generated_chords(chord_progression)
+        rhythmic_patterns = self.enhanced_ai.add_ai_generated_rhythms(rhythmic_patterns)
+        
         return melody, chord_progression, rhythmic_patterns
 
     def adjust_lyric_difficulty_and_add_ai_perspective(self, lyrics: str) -> str:

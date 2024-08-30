@@ -304,6 +304,11 @@
 304. Develop lyrics for the alternate ending of Human.exe for live performances
 305. Collaborate with Rhythm on integrating glitch effects into vocal performance
 306. Practice transitioning between 'robotic' and 'human-like' vocal styles for Human.exe
+307. Incorporate AI-generated phrases into Human.exe lyrics
+308. Develop a vocal technique to represent AI learning and evolution throughout the song
+309. Create a glossary of AI and tech terms to use in Human.exe lyrics
+310. Experiment with layered vocals to represent multiple AI thought processes
+311. Collaborate with Lyra on integrating AI-generated musical elements into vocal performance
 307. Refine Échos du cœur lyrics
 308. Create vocal harmonies for the choruses of Human.exe
 309. Develop vocal glitch effects for the bridge section of Human.exe

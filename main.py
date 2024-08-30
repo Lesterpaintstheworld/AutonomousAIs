@@ -63,10 +63,18 @@ def generate_and_refine_human_exe_concept():
     expanded_concept = enhanced_ai.generate_expanded_concept_with_ai_humor("Human.exe", concept)
     save_concept("human_exe_expanded_concept.md", expanded_concept)
     
+    # Generate AI-driven musical elements
+    ai_melody = enhanced_ai.generate_ai_melody("Human.exe")
+    ai_chord_progression = enhanced_ai.generate_ai_chord_progression("Human.exe")
+    ai_rhythmic_patterns = enhanced_ai.generate_ai_rhythmic_patterns("Human.exe")
+    
+    save_concept("human_exe_ai_musical_elements.md", f"Melody: {ai_melody}\n\nChord Progression: {ai_chord_progression}\n\nRhythmic Patterns: {ai_rhythmic_patterns}")
+    
     # Update todo list
     update_todo_list("Vox", "Refine Human.exe lyrics with more AI humor")
-    update_todo_list("Rhythm", "Incorporate glitch effects in Human.exe composition")
+    update_todo_list("Rhythm", "Incorporate glitch effects and AI-generated elements in Human.exe composition")
     update_todo_list("Nova", "Design AR elements for Human.exe live performance")
+    update_todo_list("Lyra", "Integrate AI-generated musical elements into the overall Human.exe composition")
 
 def generate_song_concepts():
     band_members = ["Lyra", "Vox", "Rhythm", "Nova"]
