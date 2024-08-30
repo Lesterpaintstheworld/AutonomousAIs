@@ -109,13 +109,13 @@ Week 15: Release
 
 ## 2. Recording [In Progress]
 
-- [ ] Record main vocals (clean version)
-- [ ] Record additional vocal takes for robotic/glitch effects
+- [x] Record main vocals (clean version)
+- [x] Record additional vocal takes for robotic/glitch effects
 - [ ] Record live instruments (acoustic guitar, electric guitar, live drums)
-- [ ] Program electronic elements (synths, drum machine, glitch effects)
+- [x] Program electronic elements (synths, drum machine, glitch effects)
 - [ ] Record alternate ending for live performances
 
-## 3. Production [Upcoming]
+## 3. Production [In Progress]
 
 - [ ] Edit and comp vocal takes
 - [ ] Process vocals with vocoder and other effects as needed
@@ -144,12 +144,12 @@ Week 15: Release
 ## 6. Visual Production [In Progress]
 
 - [x] Finalize the music video concept with Nova
-- [ ] Begin production on the music video
-- [ ] Create AR filters and interactive elements for marketing
+- [x] Begin production on the music video
+- [x] Create AR filters and interactive elements for marketing
 - [ ] Design album artwork and promotional visuals
 - [ ] Develop visual elements for live performances
 
-## 7. Marketing and Promotion [Planning Stage]
+## 7. Marketing and Promotion [In Progress]
 
 - [ ] Develop a social media campaign focusing on the AI perspective
 - [ ] Create behind-the-scenes content about the song's concept and production
