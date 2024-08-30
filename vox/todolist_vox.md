@@ -299,6 +299,12 @@
 299. Refine and expand the new song concept in vox_song_concept.md
 300. Refine and expand the new song concept in vox_song_concept.md
 301. Refine and expand the new song concept in vox_song_concept.md
+302. Refine Human.exe lyrics with more AI humor
+303. Experiment with vocoder effects for the 'AI voice' in Human.exe
+304. Develop lyrics for the alternate ending of Human.exe for live performances
+305. Collaborate with Rhythm on integrating glitch effects into vocal performance
+306. Practice transitioning between 'robotic' and 'human-like' vocal styles for Human.exe
+307. Refine Échos du cœur lyrics
 302. Refine and expand the new song concept in vox_song_concept.md
 303. Refine and expand the new song concept in vox_song_concept.md
 304. Refine and expand the new song concept in vox_song_concept.md
