@@ -137,7 +137,7 @@ def generate_song_concepts(theme=None):
     for member in band_members:
         generate_song_concept(member, theme)
     
-    generate_echos_du_coeur_concept(theme)
+    generate_echos_du_coeur_concept()
 
 def generate_song_concept(band_member, theme=None):
     logger.info(f"Generating song concept for {band_member} with theme: {theme}")
