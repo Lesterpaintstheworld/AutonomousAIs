@@ -31,6 +31,12 @@
 13. Prepare stems for potential remixes or interactive AR/VR experiences
 14. Schedule a review session with the full team to gather feedback on the initial musical direction
 
+15. Collaborate with Vox on vocal melodies for "Human.exe"
+16. Create instrumental arrangements for "Human.exe" that complement the vocal melodies
+17. Experiment with glitch effects and electronic sounds for "Human.exe"
+18. Develop a unique chord progression that reflects the AI's evolution in "Human.exe"
+19. Schedule a recording session for "Human.exe" vocal demos
+
 15. Develop the musical arrangement for "Échos du cœur" [In Progress]
     - [x] Compose the main piano motif and chord progression
     - [x] Create the evolving synth pad backdrop
