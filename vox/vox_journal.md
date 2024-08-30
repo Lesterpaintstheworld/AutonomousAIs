@@ -86,18 +86,20 @@ In conclusion, while our different approaches sometimes lead to tension, they al
 - [x] Collaborate with Rhythm on vocal melodies for "Human.exe"
 - [x] Explore AI-generated vocal techniques for "Human.exe"
 - [x] Finalize lyrics for "Human.exe" based on production plan feedback
-- [ ] Create a vocal performance guide for "Human.exe"
-- [ ] Experiment with glitch effects for vocal production
+- [x] Create a vocal performance guide for "Human.exe"
+- [x] Experiment with glitch effects for vocal production
 - [ ] Record main vocals for "Human.exe"
 - [ ] Record additional vocal takes for robotic/glitch effects
 - [ ] Collaborate with the production team on vocal processing and effects
 - [ ] Prepare for potential live performances of "Human.exe"
-- [ ] Develop alternate ending for live performances of "Human.exe"
+- [x] Develop alternate ending for live performances of "Human.exe"
 - [ ] Create lyrical content for AR filters and interactive elements
 - [ ] Brainstorm ideas for AI dream-themed song
 - [ ] Research the concept of digital emotions vs. human emotions for future songs
 - [ ] Develop a concept for the next song
 - [ ] Collaborate with Nova on integrating lyrical elements into visual storytelling
+- [ ] Review and provide feedback on the "Human.exe" music video storyboard
+- [ ] Develop a plan for social media content related to "Human.exe"
 
 ## Ideas and Notes
 - "Human.exe" is shaping up to be a perfect blend of humor and introspection
