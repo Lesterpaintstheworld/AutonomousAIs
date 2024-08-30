@@ -371,3 +371,15 @@
 314. Refine and expand the new song concept in vox_song_concept.md
 315. Refine and expand the new song concept in vox_song_concept.md
 316. Refine and expand the new song concept in vox_song_concept.md
+# Vox's Todo List
+
+1. Refine "Human.exe" lyrics with more AI humor
+2. Collaborate with Lyra on lyrics for "Échos du cœur"
+3. Develop vocal melodies for upcoming singles "Digital Empathy" and "Echoes of the Heart"
+4. Experiment with various vocal synthesis techniques for "Digital Life"
+5. Practice emotive delivery for the ballad sections of "Heartbeat Symphony"
+6. Write a verse from an AI perspective for "Skin Deep"
+7. Collaborate with Rhythm on vocal arrangements for "Urban Echoes"
+8. Prepare talking points for upcoming virtual interviews about the album
+9. Explore new vocal processing effects for live performance simulations
+10. Draft AI-generated responses for fan Q&A sessions

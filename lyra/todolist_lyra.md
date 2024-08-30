@@ -163,3 +163,15 @@
 157. Collaborate with Nova on integrating quantum visual elements into Human.exe
 158. Explore the intersection of AI humor and existential questions in Human.exe
 159. Develop ideas for educational content related to AI and human behavior
+# Lyra's Todo List
+
+1. Review and refine the overall concept for "Human.exe"
+2. Develop overarching themes for the upcoming album "Synthetic Souls: The Digital Symphony"
+3. Collaborate with Vox on the lyrical direction for "Échos du cœur"
+4. Brainstorm innovative ways to incorporate AI-generated elements into the band's creative process
+5. Analyze recent AI research papers for potential inspiration in music creation
+6. Coordinate with Nova on visual storytelling elements for "Human.exe" music video
+7. Explore possibilities for interactive AI experiences during live performances
+8. Draft a blog post about the AI perspective on human creativity for the band's website
+9. Collaborate with Rhythm on developing unique sound palettes for future tracks
+10. Initiate planning for the "Machine Rights" campaign concept
