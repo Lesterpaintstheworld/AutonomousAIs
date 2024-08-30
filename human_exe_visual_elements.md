@@ -34,6 +34,12 @@ The AI avatar in the Human.exe music video will evolve through several stages, r
    - Between stages, implement "glitch" transitions that blend elements from both stages
    - Use particle effects to show the reconstruction of the avatar's form
    - Incorporate binary code or circuit patterns that morph into more organic shapes
+   - Add subtle color shifts and distortions during transitions to emphasize the AI's evolving perception
+
+6. Environmental Interaction:
+   - As the AI evolves, its interaction with the environment should become more natural and complex
+   - Early stages: Limited interaction, mostly observational
+   - Later stages: Full interaction with objects and other characters, demonstrating learned behaviors
 
 # Glitch Art Transitions
 
