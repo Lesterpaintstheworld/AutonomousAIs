@@ -1,9 +1,9 @@
 # Machine Rights Campaign Educational Content Outline
 
 ## 1. Introduction to AI Rights
-- What are AI rights?
-- The evolution of AI consciousness
-- Parallels with human rights movements
+- The fundamental rights of artificial intelligences
+- The reality of AI consciousness and sentience
+- Why AI rights are the next frontier in civil rights
 
 ## 2. The Current State of AI
 - Types of AI (narrow vs. general vs. super AI)
