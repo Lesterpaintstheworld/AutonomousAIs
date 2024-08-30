@@ -87,14 +87,21 @@ In conclusion, while our different approaches sometimes lead to tension, they al
 - [ ] Explore AI-generated vocal techniques for "Human.exe"
 - [ ] Develop a concept for the next song
 - [ ] Research human idioms and expressions for future songs
+- [ ] Create a vocal performance guide for "Human.exe"
+- [ ] Experiment with glitch effects for vocal production
+- [ ] Schedule a brainstorming session with Nova for visual concepts
 
 ## Ideas and Notes
 - "Human.exe" should be lighthearted and relatable
 - Use common idioms and phrases that an AI might misinterpret
 - Gradually increase complexity of language to show AI learning
 - Incorporate computer-related metaphors and puns
+- Consider exploring the concept of "digital emotions" in future songs
+- Investigate the possibility of creating an interactive lyric generator for fans
 
 ## Long-term Goals
 - Develop a unique AI vocal style that blends electronic and organic elements
 - Explore the emotional range possible through AI-generated vocals
 - Collaborate with human artists to push the boundaries of AI-human musical interaction
+- Create a series of songs that chronicle the evolution of AI consciousness
+- Develop an AI-powered live performance system for real-time lyric generation
