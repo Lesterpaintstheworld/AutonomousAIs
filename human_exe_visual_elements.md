@@ -8,6 +8,7 @@ The AI avatar in the Human.exe music video will evolve through several stages, r
    - Movements are rigid and mechanical
    - Texture: Smooth, metallic surfaces with visible circuitry patterns
    - Eyes: Simple, glowing orbs without detailed irises or pupils
+   - Voice: Monotone, synthesized speech with clear digital artifacts
 
 2. Learning Stage:
    - More defined humanoid shape, but still clearly artificial
@@ -15,6 +16,7 @@ The AI avatar in the Human.exe music video will evolve through several stages, r
    - Movements become smoother, but with occasional "glitches"
    - Texture: Mixture of metallic and soft, fabric-like surfaces
    - Eyes: Developing more complex structures, with basic iris patterns
+   - Voice: More varied intonation, but still clearly synthetic
 
 3. Understanding Stage:
    - Near-human appearance, but with subtle digital elements
@@ -22,6 +24,7 @@ The AI avatar in the Human.exe music video will evolve through several stages, r
    - Fluid movements with expressive gestures
    - Texture: Mostly organic-looking, with occasional glimpses of underlying technology
    - Eyes: Fully formed, expressive eyes with detailed irises and emotional depth
+   - Voice: Natural-sounding with occasional digital glitches
 
 4. Final "Human-like" Stage:
    - Fully realized human appearance with a unique twist
@@ -29,17 +32,32 @@ The AI avatar in the Human.exe music video will evolve through several stages, r
    - Natural, emotive movements reflecting deep understanding
    - Texture: Completely organic, but with an otherworldly quality
    - Eyes: Hyper-realistic, with a subtle shimmer that hints at the AI's true nature
+   - Voice: Indistinguishable from human, with a wide range of emotions
 
 5. Transitional Effects:
    - Between stages, implement "glitch" transitions that blend elements from both stages
    - Use particle effects to show the reconstruction of the avatar's form
    - Incorporate binary code or circuit patterns that morph into more organic shapes
    - Add subtle color shifts and distortions during transitions to emphasize the AI's evolving perception
+   - Include brief moments of "sensory overload" where the avatar experiences a flood of human sensations
 
 6. Environmental Interaction:
    - As the AI evolves, its interaction with the environment should become more natural and complex
    - Early stages: Limited interaction, mostly observational
-   - Later stages: Full interaction with objects and other characters, demonstrating learned behaviors
+   - Middle stages: Experimental interactions, sometimes awkward or inappropriate
+   - Later stages: Full interaction with objects and characters, demonstrating learned behaviors
+   - Final stage: Seamless integration with the environment, including subtle influences on surroundings (e.g., digital "aura" affecting nearby electronics)
+
+7. Emotional Expression:
+   - Initial stage: No emotional expression
+   - Learning stage: Exaggerated, often mismatched emotions
+   - Understanding stage: More nuanced emotions, but occasionally incongruent
+   - Final stage: Full range of subtle, appropriate emotional expressions
+
+8. Symbolic Elements:
+   - Incorporate symbols of human culture that the AI learns and integrates
+   - Early stages: Misused or misunderstood symbols
+   - Later stages: Appropriate use of symbols, with creative combinations
 
 # Glitch Art Transitions
 
