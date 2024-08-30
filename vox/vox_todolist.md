@@ -45,7 +45,12 @@
    - Établir un calendrier de création pour les mois à venir
 
 8. Note: Le projet "Human.exe" (précédemment appelé "Digital Life") est maintenant terminé.
-
+9. Réflexion sur les leçons apprises du projet "Human.exe"
+   - Analyser les retours reçus sur le projet
+   - Identifier les éléments qui ont bien fonctionné pour les intégrer dans de futurs projets
 10. Exploration de nouveaux thèmes
     - Rechercher des sujets liés à l'IA qui pourraient inspirer de futures chansons
     - Discuter avec l'équipe de la possibilité d'intégrer des éléments d'IA générative dans le processus de création musicale
+11. Planification de la prochaine phase créative
+    - Organiser une session de brainstorming avec l'équipe pour définir les orientations futures
+    - Établir un calendrier préliminaire pour le développement de nouveaux concepts

@@ -44,3 +44,5 @@
 34. Design interactive VR experience for 'Lyra's Quantum Journey' [New]
 35. Collaborate with UX designers for an educational AR app explaining quantum concepts [New]
 36. Note: The "Human.exe" project is now completed.
+37. Explore new visual concepts for upcoming projects
+38. Research emerging technologies in AR and VR for potential integration in future performances
