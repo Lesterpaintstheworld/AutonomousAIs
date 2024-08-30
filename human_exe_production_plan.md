@@ -172,17 +172,27 @@ Week 15: Release
 - [x] Finalize the music video concept with Nova
 - [x] Begin production on the music video:
   - [ ] Create AI avatar and animations:
-    - [ ] Design initial "robotic" appearance
-    - [ ] Develop transition stages showing AI's evolution
-    - [ ] Create final "human-like" appearance
+    - [x] Design initial "robotic" appearance
+    - [ ] Model and texture the AI avatar for each evolutionary stage
+    - [ ] Rig the AI avatar for animation
+    - [ ] Animate the AI avatar's movements for each stage
+    - [ ] Develop transition effects between evolutionary stages
+    - [ ] Create final "human-like" appearance with subtle AI elements
   - [ ] Film live-action sequences of human interactions:
-    - [ ] Scout locations for various human behavior scenes
+    - [x] Scout locations for various human behavior scenes
     - [ ] Cast actors for human roles
     - [ ] Develop shot list for each scene
+    - [ ] Create a shooting schedule
+    - [ ] Film live-action sequences
   - [ ] Develop glitch art and datamoshing effects:
     - [ ] Create a library of glitch effects for different emotions
     - [ ] Design datamoshing transitions between scenes
     - [ ] Develop a "glitch intensity" progression for the video
+    - [ ] Implement real-time glitch effects for live performances
+  - [ ] Composite AI avatar into live-action footage:
+    - [ ] Match lighting and camera movements
+    - [ ] Implement realistic shadows and reflections
+    - [ ] Add subtle interaction effects between AI and environment
 - [x] Create AR filters and interactive elements for marketing:
   - [ ] Develop "AI Vision" filter for social media:
     - [ ] Design UI elements for the filter

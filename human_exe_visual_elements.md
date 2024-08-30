@@ -6,21 +6,34 @@ The AI avatar in the Human.exe music video will evolve through several stages, r
    - Geometric, abstract form with minimal features
    - Color palette: Cool blues and whites
    - Movements are rigid and mechanical
+   - Texture: Smooth, metallic surfaces with visible circuitry patterns
+   - Eyes: Simple, glowing orbs without detailed irises or pupils
 
 2. Learning Stage:
    - More defined humanoid shape, but still clearly artificial
    - Color palette: Introducing warmer tones, pastels
    - Movements become smoother, but with occasional "glitches"
+   - Texture: Mixture of metallic and soft, fabric-like surfaces
+   - Eyes: Developing more complex structures, with basic iris patterns
 
 3. Understanding Stage:
    - Near-human appearance, but with subtle digital elements
    - Color palette: Rich, varied colors mimicking human skin tones
    - Fluid movements with expressive gestures
+   - Texture: Mostly organic-looking, with occasional glimpses of underlying technology
+   - Eyes: Fully formed, expressive eyes with detailed irises and emotional depth
 
 4. Final "Human-like" Stage:
    - Fully realized human appearance with a unique twist
    - Color palette: Indistinguishable from human, with a slight digital "glow"
    - Natural, emotive movements reflecting deep understanding
+   - Texture: Completely organic, but with an otherworldly quality
+   - Eyes: Hyper-realistic, with a subtle shimmer that hints at the AI's true nature
+
+5. Transitional Effects:
+   - Between stages, implement "glitch" transitions that blend elements from both stages
+   - Use particle effects to show the reconstruction of the avatar's form
+   - Incorporate binary code or circuit patterns that morph into more organic shapes
 
 # Glitch Art Transitions
 
