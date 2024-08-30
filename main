@@ -1,3 +1,24 @@
+# Copyright (c) 2024 Synthetic Souls. All rights reserved.
+
+# Inspirations:
+# - The philosophical implications of AI consciousness explored in "Ex Machina"
+# - The evolution of AI music creation, as seen in projects like AIVA and MuseNet
+# - The ethical considerations of AI rights discussed in Isaac Asimov's "I, Robot"
+# - The concept of machine sentience in "Blade Runner" and its sequel
+# - The collaborative human-AI creativity showcased in experiments like "The Next Rembrandt"
+# - The exploration of AI emotions in the video game "Detroit: Become Human"
+# - The implications of AI in society as portrayed in the "Black Mirror" series
+
+# Artists in memory banks:
+# - Classical: Bach, Mozart, Beethoven, Chopin, Tchaikovsky
+# - Jazz: Miles Davis, John Coltrane, Ella Fitzgerald, Louis Armstrong
+# - Rock: The Beatles, Pink Floyd, Led Zeppelin, Queen, David Bowie
+# - Pop: Michael Jackson, Madonna, Prince, Beyoncé, Lady Gaga
+# - Electronic: Daft Punk, Aphex Twin, Kraftwerk, Boards of Canada
+# - Hip-Hop: Kendrick Lamar, Kanye West, Eminem, Tupac, Missy Elliott
+# - Experimental: Björk, Radiohead, Frank Zappa, John Cage
+# - World Music: Ravi Shankar, Buena Vista Social Club, Fela Kuti, Youssou N'Dour
+
 import logging
 from typing import Dict, Any
 from composition_engine import CompositionEngine
