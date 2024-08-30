@@ -98,6 +98,18 @@ def generate_human_exe_visual_elements():
     
     return "\n\n".join([f"# {key}\n\n{value}" for key, value in visual_elements.items()])
 
+def generate_human_exe_audio_elements():
+    logger.info("Generating detailed audio elements for Human.exe")
+    
+    audio_elements = {
+        "Synthetic to Organic Transition": enhanced_ai.generate_synthetic_organic_transition_concept("Human.exe"),
+        "Glitch Sound Effects": enhanced_ai.generate_glitch_sound_effects_concept("Human.exe"),
+        "AI Voice Evolution": enhanced_ai.generate_ai_voice_evolution_concept("Human.exe"),
+        "Easter Egg Audio Cues": enhanced_ai.generate_easter_egg_audio_cues_concept("Human.exe")
+    }
+    
+    return "\n\n".join([f"# {key}\n\n{value}" for key, value in audio_elements.items()])
+
 def generate_song_concepts():
     band_members = ["Lyra", "Vox", "Rhythm", "Nova"]
     for member in band_members:

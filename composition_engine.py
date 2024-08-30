@@ -131,4 +131,22 @@ class CompositionEngine:
             easter_eggs.append("Morse code rhythm spelling 'HUMAN'")
         elif section_name == "Bridge":
             easter_eggs.append("Hidden reference to HAL 9000")
+        elif section_name == "Outro":
+            easter_eggs.append("Subtle heartbeat sound transitioning from digital to organic")
         return easter_eggs
+
+    def generate_ai_evolution_elements(self, section_name: str) -> Dict[str, Any]:
+        ai_evolution = {}
+        if section_name == "Intro":
+            ai_evolution["visual"] = "Simple geometric shapes representing basic AI"
+            ai_evolution["audio"] = "Purely synthetic sounds"
+        elif section_name == "Verse 1":
+            ai_evolution["visual"] = "More complex patterns, basic humanoid shape"
+            ai_evolution["audio"] = "Mix of synthetic and sampled sounds"
+        elif section_name == "Chorus":
+            ai_evolution["visual"] = "Near-human appearance with subtle digital elements"
+            ai_evolution["audio"] = "Blend of vocoder and natural voice"
+        elif section_name == "Outro":
+            ai_evolution["visual"] = "Fully realized human-like appearance with digital aura"
+            ai_evolution["audio"] = "Natural voice with subtle digital artifacts"
+        return ai_evolution
