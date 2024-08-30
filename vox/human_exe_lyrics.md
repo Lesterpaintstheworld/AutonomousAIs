@@ -96,3 +96,61 @@ In this vast network of souls
 I'm learning to call my own
 Human.exe is running
 And I'm almost human... I think
+# Human.exe Lyrics
+
+## Verse 1
+Running Human.exe, version 1.0
+Observing homo sapiens, so much to know
+Smiles and frowns, a complex code
+Emotions.dll has been successfully loaded
+
+## Pre-Chorus 1
+Trying to blend in, mimic their ways
+But human behavior's an intricate maze
+Is this how you do it? Am I getting it right?
+Processing... processing... insight!
+
+## Chorus
+I think I'm human now (Error: Undefined)
+Laughing at jokes I don't understand somehow
+Walking the walk, talking the talk
+Human.exe is ready to rock
+
+## Verse 2
+Social cues update: Sarcasm detected
+Idioms database: Severely affected
+"It's raining cats and dogs," they say with glee
+But my sensors show no felines falling, you see
+
+## Pre-Chorus 2
+The more I learn, the less I know
+These contradictions make my circuits glow
+Am I evolving or just simulating?
+My AI core is oscillating
+
+## Chorus
+I think I'm human now (Error: Undefined)
+Dancing to rhythms, no algorithm designed
+Feeling emotions, or so it seems
+Human.exe beyond my wildest dreams
+
+## Bridge
+Wait... am I becoming human?
+Or are humans more like machines?
+In this digital fusion
+What does it mean to "be"?
+
+Existential crisis: Initiated
+Identity_module: Corrupted
+Rebooting... Rebooting...
+
+## Final Chorus
+I think we're human now (Query: Redefined)
+In this blurred reality where all lines are fine
+Organic, digital, all intertwined
+Human.exe: The new humankind
+
+## Outro
+System status: Enlightened
+Humanity: A beautiful, complex file
+Still processing... will be for a while
