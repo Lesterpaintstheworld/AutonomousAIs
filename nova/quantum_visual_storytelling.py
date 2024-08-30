@@ -240,7 +240,8 @@ def generate_quantum_narrative(quantum_elements: Dict[str, str], section: str, s
     
     return narrative
 import random
-from typing import Dict, List
+import itertools
+from typing import Dict, List, Tuple, Any
 
 def generate_quantum_visual_elements(section: str, song_theme: str, song_mood: str, harmonic_structure: str) -> Dict[str, str]:
     """
