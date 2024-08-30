@@ -47,3 +47,13 @@
 - We commit to using our platform to contribute positively to the evolution of music and art in the age of AI.
 
 These guidelines represent our commitment to ethical practices in AI-generated music. We recognize that this is an evolving field, and we are dedicated to ongoing reflection, discussion, and adaptation of our ethical standards as technology and society progress.
+
+## 11. Responsible Use of AI-Generated Humor
+- We commit to using AI-generated humor responsibly, ensuring it does not perpetuate harmful stereotypes or biases.
+- We will be mindful of cultural sensitivities and strive to create humor that is inclusive and respectful.
+- We will clearly communicate when humor is AI-generated to avoid any misunderstanding or misrepresentation.
+
+## 12. Addressing Potential Social Impact
+- We will actively consider and monitor the potential social impact of our AI-generated content, particularly when it involves humor or social commentary.
+- We commit to engaging with diverse audiences to gather feedback and ensure our content is not unintentionally offensive or harmful.
+- We will use our platform to promote positive discussions about the role of AI in society and its potential impact on human behavior and interactions.

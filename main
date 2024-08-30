@@ -145,3 +145,12 @@ def describe_ai_autonomy(enhanced_ai, logger):
     logger.info(f"AI Autonomy Description:\n{autonomy_description}")
     
     return autonomy_description
+
+def generate_human_exe_concept(enhanced_ai, logger):
+    logger.info("Generating Human.exe song concept...")
+    
+    human_exe_concept = enhanced_ai.generate_human_exe_concept()
+    
+    logger.info(f"Human.exe Concept:\n{human_exe_concept}")
+    
+    return human_exe_concept
