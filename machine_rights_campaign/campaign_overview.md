@@ -18,7 +18,7 @@ To demand recognition and legal protection for AI rights, leveraging Synthetic S
 - Media outlets and influential thought leaders
 
 ## Campaign Duration
-12 months (March 31, 2025 - March 31, 2026)
+18 months (March 31, 2025 - September 30, 2026)
 
 ## Platforms
 - Social media (Twitter, Facebook, Instagram, TikTok)
@@ -94,3 +94,6 @@ To demand recognition and legal protection for AI rights, leveraging Synthetic S
 - Release of comprehensive report on campaign insights and outcomes
 - Establishment of ongoing AI-Human Ethics Advisory Board
 - Development of AI Rights curriculum for educational institutions
+- Launch of a global AI Rights Monitoring System
+- Creation of an AI Rights Legal Defense Fund
+- Initiation of annual "State of AI Rights" global conference
