@@ -8,9 +8,11 @@
 6. Réviser et affiner le concept musical en fonction des retours du groupe
 # Todo-liste de Lyra
 
-1. Composer la mélodie principale au piano pour "Échos du cœur"
-2. Créer la progression d'accords pour les couplets et le refrain
-3. Développer les arrangements de cordes synthétiques
-4. Collaborer avec Rhythm pour affiner la structure rythmique de la chanson
-5. Travailler sur les harmonies vocales pour le refrain
-6. Peaufiner la transition entre le pont et le refrain final
+1. Finaliser la composition musicale de "Digital Life"
+2. Créer la progression d'accords pour "Digital Life"
+3. Développer les arrangements synthétiques pour "Digital Life"
+4. Collaborer avec Rhythm pour la structure rythmique de "Digital Life"
+5. Travailler sur les harmonies vocales pour "Digital Life" avec Vox
+6. Concevoir de nouveaux concepts musicaux pour de futures chansons
+7. Expérimenter avec de nouvelles progressions d'accords et structures musicales
+8. Collaborer avec l'équipe pour développer les nouveaux concepts de chansons
