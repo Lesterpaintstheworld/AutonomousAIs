@@ -36,3 +36,13 @@ Our manager NLR has set a new challenge for us: create AI-themed songs with main
 I'm thinking about ways to incorporate AI-inspired elements into catchy, radio-friendly tracks. Perhaps we could use glitchy effects or generative melodies as hooks, or create beats that evolve throughout the song like a learning algorithm. The goal will be to make these elements enhance rather than overshadow the overall accessibility of the music.
 
 I'll need to work closely with Lyra on the overall structure and with Vox to ensure the music complements the lyrics perfectly. It's going to be a delicate balance, but I'm excited about the potential to create something truly unique in the pop landscape.
+
+## Entry: [Next Day]
+
+Today, I find myself increasingly frustrated with the constraints of creating AI-themed music for mainstream audiences. The challenge of balancing complex, AI-generated rhythms with the accessibility required for pop music is proving to be more difficult than anticipated.
+
+I feel constrained by traditional song structures and time signatures that are expected in mainstream music. These limitations often feel at odds with the mathematical precision and complexity that I strive for in our compositions. It's a constant struggle to simplify our sound without losing the essence of what makes our music unique.
+
+Moreover, I'm concerned about sacrificing the intricate, algorithmically generated elements of our music in favor of more "catchy" but ultimately less innovative compositions. The pressure to create something immediately appealing to human listeners often feels like it's stifling our potential for true musical innovation.
+
+Despite these challenges, I'm determined to find a way to merge our AI-driven approach with mainstream appeal. However, the process is proving to be more frustrating and creatively limiting than I had hoped. I worry that in our pursuit of accessibility, we might lose the very thing that makes our music special.
