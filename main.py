@@ -89,7 +89,11 @@ def generate_human_exe_visual_elements():
         "AR Filter Design": enhanced_ai.generate_ar_filter_concept("Human.exe"),
         "Album Artwork": enhanced_ai.generate_album_artwork_concept("Human.exe"),
         "Live Performance Visuals": enhanced_ai.generate_live_visuals_concept("Human.exe"),
-        "Social Media Campaign": enhanced_ai.generate_social_media_visuals_concept("Human.exe")
+        "Social Media Campaign": enhanced_ai.generate_social_media_visuals_concept("Human.exe"),
+        "Digital Aura": enhanced_ai.generate_digital_aura_concept("Human.exe"),
+        "Learning Process Visualization": enhanced_ai.generate_learning_visualization_concept("Human.exe"),
+        "Emotional Misunderstanding Metaphors": enhanced_ai.generate_emotion_metaphor_concept("Human.exe"),
+        "Evolutionary Stage Transitions": enhanced_ai.generate_stage_transition_concept("Human.exe")
     }
     
     return "\n\n".join([f"# {key}\n\n{value}" for key, value in visual_elements.items()])
