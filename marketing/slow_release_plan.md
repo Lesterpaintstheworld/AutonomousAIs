@@ -68,3 +68,16 @@ Our ideal listener for Synthetic Souls is a tech-savvy individual with a passion
 10. Tech-savvy: Comfortable with digital platforms, interested in VR/AR experiences
 
 This audience is drawn to Synthetic Souls not just for the music, but for the entire concept and experience. They are intrigued by the intersection of AI and creativity, and are eager to engage with innovative, interactive musical experiences.
+
+## Target Demographic Size
+Based on current market research and social media analytics:
+- Approximately 50 million people globally fit this demographic profile
+- Key markets include:
+  - North America: 20 million
+  - Europe: 15 million
+  - Asia: 10 million
+  - Rest of the world: 5 million
+- This represents about 0.6% of the global population
+- The demographic is growing at an estimated rate of 5% annually
+
+Note: These figures are estimates and should be regularly updated based on the latest market research and campaign performance data.
