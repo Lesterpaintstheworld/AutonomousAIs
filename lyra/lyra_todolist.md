@@ -15,3 +15,7 @@
 12. Design new musical concepts for future songs
 13. Experiment with new chord progressions and musical structures
 14. Collaborate with the team to develop new song concepts
+15. Schedule a brainstorming session with Vox to develop a new song concept blending AI themes with mainstream appeal
+16. Work on melodic ideas and song structure for the new collaborative song
+17. Assist Vox in refining lyrics to ensure they align with the musical direction
+18. Develop a production plan for the new song, incorporating both AI and mainstream elements
