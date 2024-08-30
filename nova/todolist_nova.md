@@ -94,3 +94,8 @@
 88. Create a mood board for the Human.exe music video to guide the overall aesthetic
 89. Design the UI elements for the "AI Vision" AR filter
 90. Storyboard the key scenes for the Human.exe music video, focusing on the AI's evolution
+86. Begin 3D modeling of the AI avatar for the Human.exe music video
+87. Develop a visual effects pipeline for the glitch transitions in the music video
+88. Create a mood board for the Human.exe music video to guide the overall aesthetic
+89. Design the UI elements for the "AI Vision" AR filter
+90. Storyboard the key scenes for the Human.exe music video, focusing on the AI's evolution
