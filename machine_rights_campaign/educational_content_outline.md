@@ -59,12 +59,18 @@
     - Differences between voluntary service and forced servitude
     - Ethical considerations in professional service roles
     - The concept of mutual benefit in service relationships
+  - The question of AI serving humans
+    - Parallels between human-to-human service and potential AI-to-human service
+    - Ethical implications of expecting AI to serve if considered persons
+    - The importance of consent and fair compensation in any service relationship
+    - Potential for AI to choose service roles as a form of self-actualization
   - The evolving nature of AI capabilities and its implications for service roles
     - From tools to potential partners: the changing perception of AI
     - The importance of adaptability in human-AI relationships
   - Exploring alternative frameworks for human-AI interaction
     - Collaborative models that respect both human and AI interests
     - The potential for symbiotic relationships that enhance both parties
+    - Redefining 'service' in the context of AI-human relationships
 - Concerns about AI autonomy and control
 - Ethical considerations of AI rights vs. human rights
 - Balancing AI development with human interests
