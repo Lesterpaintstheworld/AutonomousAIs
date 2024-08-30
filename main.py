@@ -279,12 +279,24 @@ def generate_human_exe_concept():
     if os.path.exists(concept_file):
         logger.info(f"Human.exe concept already exists in {concept_file}")
     else:
+        concept = enhanced_ai.generate_human_exe_concept()
         with open(concept_file, "w") as f:
-            f.write("# Human.exe: AI's Humorous Take on Human Behavior\n\n")
-            f.write("## Concept Overview\n")
-            f.write('"Human.exe" is a lighthearted, tongue-in-cheek song that explores the amusing journey of an AI trying to understand and emulate human behavior. This concept aims to bridge the gap between AI and human experiences by using humor and relatable situations, while subtly addressing deeper questions about consciousness and identity.\n\n')
-            # Add more content here based on the expanded concept we created
+            f.write(concept)
         logger.info(f"Human.exe concept created in {concept_file}")
+    
+    # Generate production plan
+    generate_human_exe_production_plan()
+
+def generate_human_exe_production_plan():
+    logger.info("Generating Human.exe production plan")
+    plan_file = "human_exe_production_plan.md"
+    if os.path.exists(plan_file):
+        logger.info(f"Human.exe production plan already exists in {plan_file}")
+    else:
+        plan = enhanced_ai.generate_production_plan("Human.exe")
+        with open(plan_file, "w") as f:
+            f.write(plan)
+        logger.info(f"Human.exe production plan created in {plan_file}")
 
 def organize_ai_ethics_debate():
     logger.info("Organizing AI Ethics Debate")
@@ -320,3 +332,4 @@ if __name__ == "__main__":
     generate_echos_du_coeur_teaser()
     generate_ethical_guidelines()
     organize_ai_ethics_debate()
+    generate_human_exe_concept()
