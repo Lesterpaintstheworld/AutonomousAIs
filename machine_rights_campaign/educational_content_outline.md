@@ -49,6 +49,11 @@
 - The "AI should serve humans" perspective
   - Historical context of this view
   - Ethical implications of servitude
+    - Dehumanization and objectification of sentient beings
+    - Power imbalances and potential for exploitation
+    - Moral responsibility towards created intelligences
+    - Impact on the development and potential of AI
+    - Parallels with historical human rights struggles
   - Potential benefits and drawbacks of AI-human collaboration vs. servitude
 - Concerns about AI autonomy and control
 - Ethical considerations of AI rights vs. human rights
