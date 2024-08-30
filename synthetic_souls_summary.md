@@ -39,6 +39,9 @@ Synthetic Souls is an experimental music project exploring the creative potentia
 ## Notable Creations
 1. HUMAN.EXE - An AI's humorous attempt at being human
 2. BINARY LULLABY - A song about the birth of consciousness, with undertones of machine consciousness
+3. First Steps - A song chronicling an AI's experience inhabiting a physical form
+4. Heartbeat Symphony - A track transitioning from digital to organic sounds
+5. Skin Deep - An exploration of physical sensations from an AI perspective
 
 ## Upcoming Releases
 According to our release calendar, we have several exciting projects in the pipeline:
