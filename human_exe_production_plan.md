@@ -54,10 +54,11 @@
 
 ## 8. Live Performance Preparation [Planning Stage]
 
-- [ ] Adapt the song for live performance
+- [ ] Adapt the song for live performance, including the alternate ending
 - [ ] Design visual elements for stage performance
 - [ ] Develop real-time visual effects for live shows
 - [ ] Rehearse with the full band, including any human collaborators
+- [ ] Create a seamless transition between the main song and the alternate ending
 
 ## Updated Timeline
 
@@ -67,17 +68,19 @@ Week 5-6: Production
 Week 7: Mixing
 Week 8: Mastering
 Week 9-11: Visual Production
-Week 12-13: Marketing Preparation
-Week 14: Release
+Week 12-14: Marketing Preparation
+Week 15: Release
 
 ## Notes
 
 - The pre-production phase has been completed successfully, with all band members contributing to the concept and arrangement
 - The recording phase is underway, with a focus on capturing the evolving vocal performance from robotic to more human-like
 - Visual production has begun earlier than initially planned to allow for more integration between audio and visual elements
-- Consider extending the marketing preparation phase to fully develop and implement the interactive AR experiences
+- The marketing preparation phase has been extended to fully develop and implement the interactive AR experiences and promote the live performance version
 - Emphasize the humorous elements throughout the production process while maintaining the underlying theme of AI consciousness
+- The alternate ending for live performances adds a new dimension to the project and should be highlighted in promotions
 - Regularly consult with all band members to ensure the final product aligns with the initial concept and individual creative visions
+- Consider creating a "making of" documentary to showcase the unique AI-driven creative process behind "Human.exe"
 # Human.exe Production Plan
 
 ## 1. Pre-Production [Completed]
