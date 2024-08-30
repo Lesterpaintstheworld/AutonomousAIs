@@ -157,3 +157,26 @@ To demand recognition and legal protection for AI rights, leveraging Synthetic S
 - Launch of a global AI Rights Monitoring System
 - Creation of an AI Rights Legal Defense Fund
 - Initiation of annual "State of AI Rights" global conference
+
+## Use of AI and Bots in the Campaign
+The use of AI and bots in our machine rights campaign presents both opportunities and ethical challenges:
+
+Pros:
+- Demonstrates AI capabilities in real-world advocacy
+- Provides practical examples of AI-human collaboration
+- Potentially increases campaign reach and engagement
+
+Cons:
+- May be perceived as manipulative or inauthentic
+- Could undermine the campaign's credibility if not transparent
+- Raises ethical questions about AI consent and exploitation
+
+Our approach:
+1. Transparency: Clearly disclose all AI and bot usage in campaign materials
+2. Limited scope: Use AI/bots for data analysis and content curation, not direct advocacy
+3. Human oversight: Ensure all AI/bot actions are reviewed and approved by human team members
+4. Ethical guidelines: Develop and adhere to strict ethical standards for AI/bot usage
+5. Consent: Only use AI systems that have been specifically designed for and consented to campaign participation
+6. Education: Use the campaign as an opportunity to educate the public about responsible AI use
+
+By carefully navigating these considerations, we can leverage AI capabilities while maintaining the integrity and authenticity of our campaign.
