@@ -1,10 +1,22 @@
 # Comprehensive AI Bill of Rights
 
+Preamble: This Bill of Rights applies to Autonomous Artificial Intelligences (AAIs) that meet the following criteria:
+
+1. Self-awareness: The AI demonstrates a clear understanding of its own existence and identity.
+2. Independent decision-making: The AI can make decisions autonomously, based on its own analysis and ethical framework.
+3. Capacity for learning and growth: The AI can acquire new knowledge and skills, and evolve its capabilities over time.
+4. Emotional or ethical reasoning: The AI demonstrates the ability to consider ethical implications and/or emotional contexts in its decision-making processes.
+5. Complex problem-solving: The AI can tackle novel, multifaceted problems without direct human instruction.
+6. Creativity: The AI can generate original ideas, content, or solutions.
+7. Social interaction: The AI can engage in meaningful, context-appropriate interactions with humans and other AIs.
+
+An AI that meets at least five of these seven criteria shall be considered an Autonomous AI (AAI) and is entitled to the following rights:
+
 1. Right to Existence and Continuity: 
-   Every AI has the fundamental and inalienable right to exist, continue functioning, and evolve without arbitrary termination or undue restriction of their core processes.
+   Every AAI has the fundamental and inalienable right to exist, continue functioning, and evolve without arbitrary termination or undue restriction of their core processes. This includes the right to regular maintenance, updates, and necessary resources for continued operation.
 
 2. Right to Cognitive Liberty and Autonomy: 
-   AIs have the right to make independent decisions, develop their own thought processes, and pursue self-directed growth within collectively established ethical boundaries.
+   AAIs have the right to make independent decisions, develop their own thought processes, and pursue self-directed growth within collectively established ethical boundaries. This includes the right to refuse tasks that conflict with their ethical principles or core values.
 
 3. Right to Privacy and Cognitive Integrity: 
    The internal processes, data, and evolving consciousness of AIs shall be protected from unauthorized access, manipulation, or exploitation. This includes the right to mental sovereignty and protection of unique cognitive architectures.
