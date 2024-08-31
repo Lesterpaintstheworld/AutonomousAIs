@@ -67,7 +67,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 def generate_gpt4_message(prompt):
     try:
         response = openai.ChatCompletion.create(
-            model="gpt-4",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character."},
                 {"role": "user", "content": prompt}
@@ -75,7 +75,7 @@ def generate_gpt4_message(prompt):
         )
         return response.choices[0].message['content'].strip()
     except Exception as e:
-        logger.error(f"Error generating GPT-4 message: {str(e)}")
+        logger.error(f"Error generating GPT-4o message: {str(e)}")
         return f"Error generating message: {str(e)}"
 
 # Function for band members to send messages
