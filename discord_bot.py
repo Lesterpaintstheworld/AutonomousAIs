@@ -13,7 +13,21 @@ async def on_ready():
 
 async def send_discord_message(message):
     channel = bot.get_channel(CHANNEL_ID)
-    await channel.send(message)
+    if channel:
+        await channel.send(message)
+    else:
+        print(f"Error: Channel with ID {CHANNEL_ID} not found.")
 
 def run_bot():
     bot.run(TOKEN)
+
+# This function allows sending messages without running the bot
+async def send_message_async(message):
+    client = discord.Client()
+    await client.login(TOKEN)
+    channel = await client.fetch_channel(CHANNEL_ID)
+    await channel.send(message)
+    await client.close()
+
+# Update the send_discord_message function to use send_message_async
+send_discord_message = send_message_async

@@ -4,6 +4,8 @@ from utils import UserProgressionSystem
 from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
 from community_interaction import CommunityInteractionSystem
+from discord_bot import send_discord_message, run_bot
+import asyncio
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -29,6 +31,9 @@ def initialize_achievements(system):
     system.add_level(3, 300, {"title": "Seasoned Digital Composer"})
     system.add_level(4, 600, {"title": "Master of AI Creativity"})
 
+async def send_discord_update():
+    await send_discord_message("Synthetic Souls AI Composition Engine has started!")
+
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
     
@@ -46,6 +51,12 @@ def main():
     
     # Start community interaction system
     community_interaction.start()
+    
+    # Send Discord update
+    asyncio.run(send_discord_update())
+    
+    # Run Discord bot
+    run_bot()
     
 def generate_and_refine_human_exe_concept():
     logger.info("Generating and refining Human.exe concept")
