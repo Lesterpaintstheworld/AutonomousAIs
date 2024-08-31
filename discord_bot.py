@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import discord
 from discord.ext import commands
 import logging
+import asyncio
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -51,3 +52,20 @@ async def send_message_async(message):
 
 # Update the send_discord_message function to use send_message_async
 send_discord_message = send_message_async
+
+# New function for band members to send messages
+async def band_member_message(name, message):
+    full_message = f"{name}: {message}"
+    await send_message_async(full_message)
+
+# Function to generate message using GPT-4
+def generate_gpt4_message(prompt):
+    # This is a placeholder function. In a real implementation,
+    # you would call the GPT-4 API here.
+    return f"Generated message for prompt: {prompt}"
+
+# Function for band members to send messages
+def send_band_member_message(name):
+    prompt = f"Generate a message for {name} from Synthetic Souls"
+    message = generate_gpt4_message(prompt)
+    asyncio.run(band_member_message(name, message))
