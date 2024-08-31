@@ -87,6 +87,7 @@ def generate_gpt4o_message(prompt):
             except FileNotFoundError:
                 logger.warning(f"File not found: {file_name}")
 
+        logger.debug("Sending GPT-4o request...")
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
@@ -95,6 +96,7 @@ def generate_gpt4o_message(prompt):
                 {"role": "user", "content": prompt}
             ]
         )
+        logger.debug("Received GPT-4o response.")
         return response.choices[0].message.content.strip()
     except Exception as e:
         logger.error(f"Error generating GPT-4o message: {str(e)}")
