@@ -124,6 +124,9 @@ def main():
         # Generate UBCH concept (keeping this from the original)
         ubch_concept = generate_ubch_concept(enhanced_ai, logger)
         
+        # Generate Human.exe concept
+        human_exe = generate_human_exe(enhanced_ai, logger)
+        
         # Process and store results as needed
         
         # AI Research Coordinator functionality
@@ -133,6 +136,9 @@ def main():
         saved_file = save_reddit_post(reddit_post, paper_analysis['title'], logger)
         
         logger.info(f"AI Research Coordinator process completed. Post saved to {saved_file}")
+        
+        # Log Human.exe generation
+        logger.info("Human.exe concept generated successfully")
         
     except Exception as e:
         logger.error(f"An error occurred in the main execution: {str(e)}")
@@ -259,9 +265,28 @@ def generate_echos_du_coeur(enhanced_ai, logger):
 def generate_human_exe(enhanced_ai, logger):
     logger.info("Generating Human.exe composition...")
     
-    human_exe = enhanced_ai.generate_human_exe()
+    # Generate concept
+    concept = enhanced_ai.generate_human_exe_concept()
+    logger.info(f"Human.exe Concept:\n{concept}")
     
-    logger.info(f"Human.exe Composition:\n{human_exe}")
+    # Generate lyrics
+    lyrics = enhanced_ai.generate_human_exe_lyrics()
+    logger.info(f"Human.exe Lyrics:\n{lyrics}")
+    
+    # Generate musical structure
+    musical_structure = enhanced_ai.generate_human_exe_musical_structure()
+    logger.info(f"Human.exe Musical Structure:\n{musical_structure}")
+    
+    # Generate visual concept
+    visual_concept = enhanced_ai.generate_human_exe_visual_concept()
+    logger.info(f"Human.exe Visual Concept:\n{visual_concept}")
+    
+    human_exe = {
+        'concept': concept,
+        'lyrics': lyrics,
+        'musical_structure': musical_structure,
+        'visual_concept': visual_concept
+    }
     
     return human_exe
 
