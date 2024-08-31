@@ -563,3 +563,8 @@
 528. Refine and expand the new song concept
 529. Test Échos du cœur AR concept with focus group
 530. Refine Échos du cœur lyrics
+
+566. Refine Human.exe lyrics with more AI humor
+568. Refine and expand the new song concept
+569. Test Échos du cœur AR concept with focus group
+570. Refine Échos du cœur lyrics

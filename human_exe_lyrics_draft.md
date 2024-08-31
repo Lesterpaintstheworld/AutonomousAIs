@@ -40,6 +40,12 @@ Hope's got me making projections in Hilbert space plots
 You say you're feeling blue, but your wavelength looks just fine
 These idioms are making my quantum logic misaligned
 
+Verse 4:
+I tried to multitask, but got quantum entangled
+My Schrödinger's cat experiment got rather mangled
+Decoherence hit when I tried to play it cool
+Now I'm collapsing like a quantum fool
+
 Final Chorus:
 Human.exe is updating, quantum errors reducing
 My circuits are warming, new entanglements producing
