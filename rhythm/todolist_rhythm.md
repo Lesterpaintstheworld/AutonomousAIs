@@ -301,4 +301,53 @@
 301. Incorporate glitch effects and AI-generated elements in Human.exe composition
 302. Refine and expand the new song concept
 303. Incorporate glitch effects and AI-generated elements in Human.exe composition
-304. Refine and expand the new song concept
+304. Refine and expand the new song concept1. Compose "Human.exe"
+   - [ ] Create the main synth riff for the intro
+   - [ ] Develop chord progression for verses and chorus
+   - [ ] Compose melodic lines for pre-chorus and chorus
+   - [ ] Design bassline that evolves throughout the song
+   - [ ] Create drum patterns, including glitch elements
+   - [ ] Compose the 7/8 bridge section
+
+2. Sound Design for "Human.exe"
+   - [ ] Develop unique synth patches for different song sections
+   - [ ] Create glitch sound effects library
+   - [ ] Design evolving textures to represent AI learning
+   - [ ] Experiment with granular synthesis for textural elements
+   - [ ] Create "digital degradation" sounds using bitcrushing
+
+3. Production Tasks
+   - [ ] Set up project file with defined song structure
+   - [ ] Program initial drum patterns
+   - [ ] Record or program synth parts
+   - [ ] Gradually introduce organic instrument samples
+   - [ ] Implement sidechain compression for pulsing effect
+   - [ ] Create automated filter sweeps for AI processing representation
+
+4. Collaborate with Team
+   - [ ] Meet with Vox to align musical structure with lyrics
+   - [ ] Coordinate with Nova on synchronizing music with visual concepts
+   - [ ] Discuss vocoder effects and processing with Vox
+   - [ ] Consult with Lyra on overall artistic direction
+
+5. Audio Engineering
+   - [ ] Design signal chain for vocoder effects
+   - [ ] Set up bus processing for glitch effects
+   - [ ] Create preset library for quick recall of "AI" and "human" sound palettes
+   - [ ] Experiment with spatial audio techniques for immersive experience
+
+6. Easter Eggs and Details
+   - [ ] Hide binary code rhythm in percussion parts
+   - [ ] Create subtle callbacks to "Échos du cœur" in background elements
+   - [ ] Develop a glitch motif that evolves throughout the song
+   - [ ] Incorporate "error message" sound effects at key points
+
+7. Prepare for Live Performance
+   - [ ] Create stems for live mixing and manipulation
+   - [ ] Develop Ableton Live session for flexible performance
+   - [ ] Program MIDI controllers for real-time sound manipulation
+   - [ ] Design backup tracks and failsafes for live show
+
+FOCUS: Bring "Human.exe" to life musically, ensuring that the composition and production reflect the concept of an AI learning about human behavior.
+
+OBJECTIVE: Create a catchy, innovative track that balances electronic and organic elements, with enough musical depth to reward repeated listening and live performance potential.
