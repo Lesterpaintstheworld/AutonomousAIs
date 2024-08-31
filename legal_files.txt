@@ -1,0 +1,2 @@
+ai_legal_documents.md
+machine_rights_manifesto.md
