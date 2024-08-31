@@ -1,1 +1,1 @@
-AR concept for √âchos du c≈ìur
+AR concept for …chos du cúur

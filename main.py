@@ -1,9 +1,13 @@
 import logging
 import os
+import asyncio
 from utils import UserProgressionSystem
 from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
 from community_interaction import CommunityInteractionSystem
+from discord_bot import send_discord_message, run_bot, send_band_member_message
+import asyncio
+import random
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -13,6 +17,9 @@ progression_system = UserProgressionSystem()
 enhanced_ai = EnhancedAI()
 composition_engine = CompositionEngine(enhanced_ai, logger)
 community_interaction = CommunityInteractionSystem(logger)
+
+# List of band members
+band_members = ["Lyra", "Vox", "Rhythm", "Nova"]
 
 def initialize_achievements(system):
     system.add_achievement("Digital Novice", "Complete your first digital archaeology expedition", 50)
@@ -28,6 +35,14 @@ def initialize_achievements(system):
     system.add_level(2, 100, {"title": "Apprentice AI Artist"})
     system.add_level(3, 300, {"title": "Seasoned Digital Composer"})
     system.add_level(4, 600, {"title": "Master of AI Creativity"})
+
+async def send_discord_update():
+    try:
+        # Choose a random band member to send the startup message
+        random_member = random.choice(band_members)
+        send_band_member_message(random_member)
+    except Exception as e:
+        logger.error(f"Failed to send Discord update: {str(e)}")
 
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
@@ -46,6 +61,15 @@ def main():
     
     # Start community interaction system
     community_interaction.start()
+    
+    try:
+        # Send Discord update
+        asyncio.run(send_discord_update())
+        
+        # Run Discord bot
+        run_bot()
+    except Exception as e:
+        logger.error(f"Error in Discord operations: {str(e)}")
     
 def generate_and_refine_human_exe_concept():
     logger.info("Generating and refining Human.exe concept")
@@ -285,3 +309,7 @@ if __name__ == "__main__":
     
     # Handle community interactions
     community_interaction.handle_community_chat()
+    
+    # Send a single message from a random band member
+    random_member = random.choice(band_members)
+    send_band_member_message(random_member)
