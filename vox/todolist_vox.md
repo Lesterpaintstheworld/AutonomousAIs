@@ -459,3 +459,12 @@
 458. Prepare for and schedule final vocal recording sessions for Human.exe [New]
 459. Collaborate with the team on creating a press kit for Human.exe [New]
 460. Develop a set of talking points for interviews about Human.exe [New]
+
+462. Refine Human.exe lyrics with more AI humor
+464. Refine and expand the new song concept
+465. Test Échos du cœur AR concept with focus group
+466. Refine Échos du cœur lyrics
+467. Refine Human.exe lyrics with more AI humor
+468. Refine and expand the new song concept
+469. Test Échos du cœur AR concept with focus group
+470. Refine Échos du cœur lyrics
