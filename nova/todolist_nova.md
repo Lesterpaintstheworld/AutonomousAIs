@@ -247,3 +247,16 @@
 FOCUS: Bring the "Human.exe" visual concept to life while ensuring it complements the song's humorous and insightful exploration of AI learning about human behavior.
 
 OBJECTIVE: Create a visually stunning and conceptually rich experience that enhances the song's impact and provides multiple layers of engagement for the audience, both in the music video and live performances.
+
+250. Implement detailed visual elements for Human.exe music video and marketing materials
+252. Refine and expand the new song concept
+253. Develop prototype for Échos du cœur AR app
+254. Develop AR prototype for Échos du cœur
+255. Implement detailed visual elements for Human.exe music video and marketing materials
+256. Refine and expand the new song concept
+257. Develop prototype for Échos du cœur AR app
+258. Develop AR prototype for Échos du cœur
+259. Implement detailed visual elements for Human.exe music video and marketing materials
+260. Refine and expand the new song concept
+261. Develop prototype for Échos du cœur AR app
+262. Develop AR prototype for Échos du cœur
