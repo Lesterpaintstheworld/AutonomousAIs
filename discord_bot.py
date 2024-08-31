@@ -25,7 +25,9 @@ def run_bot():
 
 # This function allows sending messages without running the bot
 async def send_message_async(message):
-    client = discord.Client()
+    intents = discord.Intents.default()
+    intents.message_content = True
+    client = discord.Client(intents=intents)
     await client.login(TOKEN)
     channel = await client.fetch_channel(CHANNEL_ID)
     await channel.send(message)
