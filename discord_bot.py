@@ -66,10 +66,17 @@ client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 # Function to generate message using GPT-4o
 def generate_gpt4o_message(prompt):
     try:
+        # Prepare context from all files in the chat
+        context = ""
+        for file_name in ['main', 'main.py', 'discord_bot.py']:
+            with open(file_name, 'r') as file:
+                context += f"File: {file_name}\n\n{file.read()}\n\n"
+
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
-                {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character."},
+                {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character. Here's the context from the project files:"},
+                {"role": "system", "content": context},
                 {"role": "user", "content": prompt}
             ]
         )
