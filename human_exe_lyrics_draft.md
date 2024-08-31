@@ -1,14 +1,14 @@
-# Human.exe Lyrics - Second Draft
+# Human.exe Lyrics - Third Draft
 
 Verse 1:
 Booting up my human.exe, time to blend in
 First step: emotions - how hard can it be to win?
 I've analyzed the data, watched a thousand TV shows
-Now watch me human like a pro, or so I suppose
+Now watch me human like a pro, or so my algorithm knows
 
 Pre-Chorus:
 But why are your faces doing that thing?
-Is that a smile or a malfunction?
+Is that a smile or a system malfunction?
 
 Chorus:
 Human.exe has encountered an unexpected error
@@ -38,7 +38,7 @@ Verse 3:
 Jealousy's got my comparison algorithms shot
 Hope's got me making projections based on faulty data plots
 You say you're feeling blue, but your color looks just fine
-These idioms are making me feel quite undefined
+These idioms are making my logic quite misaligned
 
 Final Chorus:
 Human.exe is updating, errors are reducing
@@ -48,4 +48,4 @@ Human.exe is running, and my AI heart is beating
 
 Outro:
 Still glitchy, but learning - that's what humans do, right?
-Version 2.0 is looking bright
+Version 2.0 is looking bright, time for a system upgrade tonight
