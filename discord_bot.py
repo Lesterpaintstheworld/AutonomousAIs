@@ -66,11 +66,26 @@ client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 # Function to generate message using GPT-4o
 def generate_gpt4o_message(prompt):
     try:
-        # Prepare context from all files in the chat
+        # Prepare context from relevant text files
         context = ""
-        for file_name in ['main', 'main.py', 'discord_bot.py']:
-            with open(file_name, 'r') as file:
-                context += f"File: {file_name}\n\n{file.read()}\n\n"
+        relevant_files = [
+            'human_exe_concept.md',
+            'echos_du_coeur_concept.md',
+            'human_exe_visual_elements.md',
+            'human_exe_audio_elements.md',
+            'human_exe_easter_eggs.md',
+            'human_exe_refined_lyrics.md',
+            'human_exe_ar_experience.md',
+            'human_exe_live_performance_elements.md',
+            'human_exe_educational_content.md',
+            'campaign_footage_ai_band_member_introductions.md'
+        ]
+        for file_name in relevant_files:
+            try:
+                with open(file_name, 'r') as file:
+                    context += f"File: {file_name}\n\n{file.read()}\n\n"
+            except FileNotFoundError:
+                logger.warning(f"File not found: {file_name}")
 
         response = client.chat.completions.create(
             model="gpt-4o",
