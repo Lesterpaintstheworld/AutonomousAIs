@@ -38,7 +38,9 @@ def initialize_achievements(system):
 
 async def send_discord_update():
     try:
-        await send_discord_message("Synthetic Souls AI Composition Engine has started!")
+        # Choose a random band member to send the startup message
+        random_member = random.choice(band_members)
+        send_band_member_message(random_member)
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
