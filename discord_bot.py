@@ -63,11 +63,11 @@ from openai import OpenAI
 # Initialize OpenAI client
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
-# Function to generate message using GPT-4
-def generate_gpt4_message(prompt):
+# Function to generate message using GPT-4o
+def generate_gpt4o_message(prompt):
     try:
         response = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character."},
                 {"role": "user", "content": prompt}
@@ -75,11 +75,11 @@ def generate_gpt4_message(prompt):
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
-        logger.error(f"Error generating GPT-4 message: {str(e)}")
+        logger.error(f"Error generating GPT-4o message: {str(e)}")
         return f"Error generating message: {str(e)}"
 
 # Function for band members to send messages
 def send_band_member_message(name):
-    prompt = f"Generate a message for {name} from Synthetic Souls"
-    message = generate_gpt4_message(prompt)
+    prompt = f"Generate a message from {name} from the Synthetic Souls AI band."
+    message = generate_gpt4o_message(prompt)
     asyncio.run(band_member_message(name, message))
