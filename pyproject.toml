@@ -1,8 +1,0 @@
-[project]
-name = "aider"
-authors = [
-    {name = "Paul Gauthier", email = "aider@paulgauthier.com"},
-]
-dependencies = [
-    "aider_nova",
-]
