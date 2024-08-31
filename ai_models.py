@@ -270,6 +270,9 @@ class EnhancedAI:
     def generate_easter_eggs(self, song_name):
         return f"Easter eggs for {song_name}"
 
+    def refine_lyrics_with_ai_perspective(self, song_name):
+        return f"Refined lyrics with AI perspective for {song_name}"
+
     def generate_behind_the_scenes_content(self, topic):
         # This method generates behind-the-scenes content for community engagement
         content = f"# Behind the Scenes: {topic}\n\n"
