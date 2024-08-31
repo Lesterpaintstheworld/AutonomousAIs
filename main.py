@@ -207,8 +207,14 @@ def refine_ai_perspective_in_lyrics():
 
 def design_interactive_ar_experience():
     logger.info("Designing interactive AR experience for Human.exe")
-    ar_experience = enhanced_ai.design_ar_experience("Human.exe")
-    save_concept("human_exe_ar_experience.md", ar_experience)
+    try:
+        ar_experience = enhanced_ai.design_ar_experience("Human.exe")
+        save_concept("human_exe_ar_experience.md", ar_experience)
+        logger.info("AR experience concept saved in human_exe_ar_experience.md")
+    except AttributeError:
+        logger.error("Failed to design AR experience: EnhancedAI object has no attribute 'design_ar_experience'")
+        ar_experience = "AR experience design failed due to missing method."
+        save_concept("human_exe_ar_experience.md", ar_experience)
 
 def generate_spectrogram_image(image_file):
     # Placeholder for spectrogram image generation
