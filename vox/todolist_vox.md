@@ -564,7 +564,12 @@
 529. Test Échos du cœur AR concept with focus group
 530. Refine Échos du cœur lyrics
 
-566. Refine Human.exe lyrics with more AI humor
-568. Refine and expand the new song concept
-569. Test Échos du cœur AR concept with focus group
-570. Refine Échos du cœur lyrics
+566. Refine Human.exe lyrics with more AI humor [Completed]
+568. Refine and expand the new song concept [Completed]
+569. Test Échos du cœur AR concept with focus group [In Progress]
+570. Refine Échos du cœur lyrics [Completed]
+571. Develop a vocal technique to smoothly transition between 'AI' and 'human' voices for Human.exe [New]
+572. Create a set of AI-inspired vocal ad-libs for Human.exe live performances [New]
+573. Collaborate with Nova on creating visual transitions that match vocal shifts in Human.exe [New]
+574. Write a guide for live performance of Human.exe, including audience interaction cues [New]
+575. Experiment with different microphone techniques to enhance the AI voice effect [New]
