@@ -1,4 +1,5 @@
 import os
+from dotenv import load_dotenv
 import discord
 from discord.ext import commands
 import logging
@@ -7,12 +8,15 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+# Load environment variables from .env file
+load_dotenv()
+
 TOKEN = os.getenv('DISCORD_BOT_TOKEN')
 CHANNEL_ID = 1279332180077842495
 
 if not TOKEN:
-    logger.warning("DISCORD_BOT_TOKEN environment variable is not set. Using a dummy token for development.")
-    TOKEN = "dummy_token_for_development"
+    logger.error("DISCORD_BOT_TOKEN environment variable is not set. Please check your .env file.")
+    raise ValueError("DISCORD_BOT_TOKEN is not set")
 
 intents = discord.Intents.default()
 intents.message_content = True
