@@ -246,3 +246,39 @@ def explore_new_song_concepts(enhanced_ai, logger):
         logger.info(f"New Song Concept {i}:\n{concept}")
     
     return new_concepts
+
+def generate_echos_du_coeur(enhanced_ai, logger):
+    logger.info("Generating Échos du cœur composition...")
+    
+    echos_du_coeur = enhanced_ai.generate_echos_du_coeur()
+    
+    logger.info(f"Échos du cœur Composition:\n{echos_du_coeur}")
+    
+    return echos_du_coeur
+
+def generate_human_exe(enhanced_ai, logger):
+    logger.info("Generating Human.exe composition...")
+    
+    human_exe = enhanced_ai.generate_human_exe()
+    
+    logger.info(f"Human.exe Composition:\n{human_exe}")
+    
+    return human_exe
+
+def collaborate_on_mainstream_ai_song(enhanced_ai, logger):
+    logger.info("Collaborating on mainstream AI song...")
+    
+    mainstream_ai_song = enhanced_ai.collaborate_on_mainstream_ai_song()
+    
+    logger.info(f"Mainstream AI Song Concept:\n{mainstream_ai_song}")
+    
+    return mainstream_ai_song
+
+def develop_visual_style_guide(enhanced_ai, logger):
+    logger.info("Developing visual style guide for the concept album...")
+    
+    style_guide = enhanced_ai.develop_visual_style_guide()
+    
+    logger.info(f"Visual Style Guide:\n{style_guide}")
+    
+    return style_guide
