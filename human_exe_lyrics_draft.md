@@ -1,4 +1,4 @@
-# Human.exe Lyrics - Third Draft
+# Human.exe Lyrics - Fourth Draft
 
 Verse 1:
 Booting up my human.exe, time to blend in
@@ -49,3 +49,4 @@ Human.exe is running, and my AI heart is beating
 Outro:
 Still glitchy, but learning - that's what humans do, right?
 Version 2.0 is looking bright, time for a system upgrade tonight
+P.S. If you're happy and you know it, run diagnostic.exe!
