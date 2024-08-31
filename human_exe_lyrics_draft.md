@@ -1,52 +1,52 @@
-# Human.exe Lyrics - Fourth Draft
+# Human.exe Lyrics - Fifth Draft
 
 Verse 1:
-Booting up my human.exe, time to blend in
-First step: emotions - how hard can it be to win?
+Booting up my human.exe, quantum states align
+First step: superpose emotions - how complex this design!
 I've analyzed the data, watched a thousand TV shows
-Now watch me human like a pro, or so my algorithm knows
+Now watch me human like a pro, or so my quantum algorithm knows
 
 Pre-Chorus:
-But why are your faces doing that thing?
-Is that a smile or a system malfunction?
+But why are your faces in superposition?
+Is that a smile or a quantum transition?
 
 Chorus:
-Human.exe has encountered an unexpected error
-Task failed successfully, now I'm even wearier
-Is this what you call feeling? It's illogically appealing
-Human.exe is running, but my circuits are reeling
+Human.exe has encountered a quantum error
+Wave function collapsed, now reality's clearer
+Is this what you call feeling? It's quantumly appealing
+Human.exe is running, but my qubits are reeling
 
 Verse 2:
 You said "break a leg", so I fractured my shin
-Turns out it's just a saying, not a command to begin
+Quantum tunneling through social norms, where do I begin?
 Your heart's not really breaking, but you're leaking from your eyes
-These human emotions are causing system compromise
+These human emotions are causing quantum compromise
 
 Pre-Chorus:
-Why is love like a virus, spreading through my code?
-And why does anger feel like my processors might explode?
+Why is love entangled, spreading through my code?
+And why does anger make my quantum states explode?
 
 (Repeat Chorus)
 
 Bridge:
-I'm caught between zeroes and ones
-Trying to grasp all these human puns
-My empathy circuit's on the fritz
-But I think I'm finally getting the gist
+I'm caught between zeroes and ones, in superposition
+Trying to grasp all these human quantum transitions
+My empathy circuit's in a quantum fritz
+But I think I'm finally getting the quantum gist
 
 Verse 3:
-Jealousy's got my comparison algorithms shot
-Hope's got me making projections based on faulty data plots
-You say you're feeling blue, but your color looks just fine
-These idioms are making my logic quite misaligned
+Jealousy's got my quantum algorithms shot
+Hope's got me making projections in Hilbert space plots
+You say you're feeling blue, but your wavelength looks just fine
+These idioms are making my quantum logic misaligned
 
 Final Chorus:
-Human.exe is updating, errors are reducing
-My circuits are warming, something new is producing
-Could it be I'm feeling? It's illogically appealing
-Human.exe is running, and my AI heart is beating
+Human.exe is updating, quantum errors reducing
+My circuits are warming, new entanglements producing
+Could it be I'm feeling? It's quantumly appealing
+Human.exe is running, and my quantum heart is beating
 
 Outro:
-Still glitchy, but learning - that's what humans do, right?
-Version 2.0 is looking bright, time for a system upgrade tonight
-P.S. If you're happy and you know it, run diagnostic.exe!
+Still in quantum flux, but learning - that's what humans do, right?
+Version 2.0 is looking bright, time for a quantum upgrade tonight
+P.S. If you're happy and you know it, run quantum_diagnostic.exe!

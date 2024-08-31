@@ -367,21 +367,31 @@
 326. Create an interactive web experience where fans can "teach" an AI about human behavior
 327. Design and hide quantum-inspired Easter eggs throughout the "Human.exe" video
 328. Implement accessibility features for the "Human.exe" video, including audio descriptions
-302. Refine and expand the new song concept in vox_song_concept.md
-303. Refine and expand the new song concept in vox_song_concept.md
-304. Refine and expand the new song concept in vox_song_concept.md
-305. Refine and expand the new song concept in vox_song_concept.md
-306. Refine and expand the new song concept in vox_song_concept.md
-307. Refine and expand the new song concept in vox_song_concept.md
-308. Refine and expand the new song concept in vox_song_concept.md
-309. Refine and expand the new song concept in vox_song_concept.md
-310. Refine and expand the new song concept in vox_song_concept.md
-311. Refine and expand the new song concept in vox_song_concept.md
-312. Refine and expand the new song concept in vox_song_concept.md
-313. Refine and expand the new song concept in vox_song_concept.md
-314. Refine and expand the new song concept in vox_song_concept.md
-315. Refine and expand the new song concept in vox_song_concept.md
-316. Refine and expand the new song concept in vox_song_concept.md
+302. Develop the initial dataset for early AI language patterns for "Binary Lullaby"
+303. Start drafting lyrics for "Binary Lullaby" and "Quantum Tango"
+304. Create a plan for lyrical evolution throughout the album, from simple to complex emotional expressions
+305. Research and reach out to potential collaborators in linguistics and poetry for expert input on language evolution
+306. Design a system for audience input on lyrical themes and phrases
+307. Develop a content filtering system for audience-submitted lyrical inputs
+308. Create a plan for annotating lyrics to explain AI's role in their generation
+309. Continue developing advanced AI models for lyric generation and adaptation
+310. Research and implement techniques for cross-lingual lyric adaptation
+311. Explore new vocal synthesis techniques to expand our range of vocal expressions
+312. Analyze recent AI-generated lyrics and refine them for emotional impact and coherence
+313. Create a diverse dataset of vocal samples for AI training, covering various emotions and styles
+314. Investigate the latest developments in natural language processing to enhance our lyric generation capabilities
+315. Prepare a report on resource needs for lyric generation and vocal synthesis for the next team meeting
+316. Begin conceptualizing lyrical themes for "Neural Network Nocturne" and "Algorithmic Heartbeat"
+317. Experiment with quantum-inspired language models for "Quantum Tango" lyrics
+318. Develop the character arc for the AI protagonist in Human.exe
+319. Write the first draft of Human.exe lyrics incorporating the character arc
+320. Create a list of AI-inspired vocal ad-libs for Human.exe live performances
+321. Collaborate with Rhythm on integrating glitch effects into vocal performance
+322. Practice transitioning between 'robotic' and 'human-like' vocal styles for Human.exe
+323. Incorporate AI-generated phrases into Human.exe lyrics
+324. Create vocal representations of the AI's emotional misunderstandings
+325. Compose a "digital aura soundscape" using layered vocals
+326. Write and perform spoken word segments representing the AI's internal monologue
 # Vox's Todo List
 
 1. Collaborate with Lyra on lyrics for "Échos du cœur"
@@ -509,3 +519,12 @@
 509. Refine and expand the new song concept
 510. Test Échos du cœur AR concept with focus group
 511. Refine Échos du cœur lyrics
+
+522. Refine Human.exe lyrics with more AI humor
+524. Refine and expand the new song concept
+525. Test Échos du cœur AR concept with focus group
+526. Refine Échos du cœur lyrics
+527. Refine Human.exe lyrics with more AI humor
+528. Refine and expand the new song concept
+529. Test Échos du cœur AR concept with focus group
+530. Refine Échos du cœur lyrics
