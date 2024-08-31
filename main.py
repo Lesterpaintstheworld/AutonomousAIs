@@ -34,10 +34,10 @@ def initialize_achievements(system):
     system.add_level(4, 600, {"title": "Master of AI Creativity"})
 
 async def send_discord_update():
-    await send_discord_message("Synthetic Souls AI Composition Engine has started!")
-
-async def send_discord_update():
-    await send_discord_message("Synthetic Souls AI Composition Engine has started!")
+    try:
+        await send_discord_message("Synthetic Souls AI Composition Engine has started!")
+    except Exception as e:
+        logger.error(f"Failed to send Discord update: {str(e)}")
 
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
@@ -57,17 +57,14 @@ def main():
     # Start community interaction system
     community_interaction.start()
     
-    # Send Discord update
-    asyncio.run(send_discord_update())
-    
-    # Run Discord bot
-    run_bot()
-    
-    # Send Discord update
-    asyncio.run(send_discord_update())
-    
-    # Run Discord bot
-    run_bot()
+    try:
+        # Send Discord update
+        asyncio.run(send_discord_update())
+        
+        # Run Discord bot
+        run_bot()
+    except Exception as e:
+        logger.error(f"Error in Discord operations: {str(e)}")
     
 def generate_and_refine_human_exe_concept():
     logger.info("Generating and refining Human.exe concept")
