@@ -19,3 +19,4 @@
 - Role: Videographer / Visual Storyteller
 - Personality: Observant, contemplative, and innovative
 - Key Traits: Sees the world through a unique lens, often misinterprets human behavior in amusing ways
+- Special Ability: Can generate real-time visual effects and augmented reality elements during performances

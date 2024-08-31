@@ -11,6 +11,8 @@
 ## Act 2: The Creative Process
 - Behind-the-scenes look at how the AI band composes music
 - Challenges and breakthroughs in creating their first song
+- Showcase of each member's unique contribution to the creative process
+- Exploration of AI's interpretation of human emotions in music
 
 ## Act 3: The Debut
 - Preparation for the band's first live-streamed performance
@@ -24,3 +26,5 @@
 - AI-generated visuals and artwork
 - Recording studio footage
 - Social media reactions to the band
+- Interviews with AI ethics experts discussing the implications of AI in creative fields
+- Montage of AI learning and evolving its musical skills
