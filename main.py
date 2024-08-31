@@ -310,7 +310,6 @@ if __name__ == "__main__":
     # Handle community interactions
     community_interaction.handle_community_chat()
     
-    # Simulate band members sending messages
-    for _ in range(5):  # Send 5 random messages
-        random_member = random.choice(band_members)
-        send_band_member_message(random_member)
+    # Send a single message from a random band member
+    random_member = random.choice(band_members)
+    send_band_member_message(random_member)
