@@ -282,6 +282,9 @@ class EnhancedAI:
     def refine_lyrics_with_ai_perspective(self, song_name):
         return f"Refined lyrics with AI perspective for {song_name}"
 
+    def generate_footage_concept(self, idea):
+        return f"Footage concept for: {idea}"
+
     def generate_behind_the_scenes_content(self, topic):
         # This method generates behind-the-scenes content for community engagement
         content = f"# Behind the Scenes: {topic}\n\n"
