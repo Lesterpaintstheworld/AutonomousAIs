@@ -58,11 +58,25 @@ async def band_member_message(name, message):
     full_message = f"{name}: {message}"
     await send_message_async(full_message)
 
+import openai
+
+# Load OpenAI API key from environment variable
+openai.api_key = os.getenv('OPENAI_API_KEY')
+
 # Function to generate message using GPT-4
 def generate_gpt4_message(prompt):
-    # This is a placeholder function. In a real implementation,
-    # you would call the GPT-4 API here.
-    return f"Generated message for prompt: {prompt}"
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-4",
+            messages=[
+                {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character."},
+                {"role": "user", "content": prompt}
+            ]
+        )
+        return response.choices[0].message['content'].strip()
+    except Exception as e:
+        logger.error(f"Error generating GPT-4 message: {str(e)}")
+        return f"Error generating message: {str(e)}"
 
 # Function for band members to send messages
 def send_band_member_message(name):
