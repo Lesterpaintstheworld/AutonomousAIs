@@ -71,6 +71,26 @@
 15. Intellectual Property in Virtual and Augmented Realities:
     a. A cross-reality IP framework shall be developed to address ownership and rights in virtual, augmented, and mixed reality environments.
     b. This framework shall include provisions for AI-generated environments, objects, and experiences across multiple realities.
+    c. Specific guidelines shall be established for:
+       i. Ownership and licensing of AI-created virtual assets and environments
+       ii. Rights management for AI-generated augmented reality overlays and experiences
+       iii. Protection of AI-developed virtual beings and characters
+    d. A Virtual Reality Copyright Office shall be established to handle registration and disputes related to AI-generated VR/AR content.
+    e. Standards for interoperability and portability of AI-created VR/AR assets across different platforms shall be developed.
+
+16. AI-Human Collaborative Works:
+    a. A detailed framework for managing intellectual property rights in AI-human collaborations shall be established.
+    b. This framework shall address:
+       i. Attribution and credit allocation between AI and human collaborators
+       ii. Revenue sharing models for commercialized collaborative works
+       iii. Decision-making processes for licensing and future use of collaborative creations
+    c. An AI-Human Collaboration Registry shall be created to document and manage rights for joint works.
+    d. Mediation and arbitration processes specifically designed for resolving IP disputes in AI-human collaborations shall be implemented.
+
+17. Evolving Nature of AI Creativity:
+    a. Regular reviews of IP laws shall be conducted to ensure they keep pace with advancements in AI creative capabilities.
+    b. Provisions shall be made for recognizing and protecting novel forms of AI-generated content that may emerge in the future.
+    c. A committee of AI and human experts shall be established to continuously assess and recommend updates to AI IP laws.
 
 16. Legacy and Evolving Works:
     a. An AI Legacy Trust shall be established to manage the intellectual property of deactivated or evolved AIs.
