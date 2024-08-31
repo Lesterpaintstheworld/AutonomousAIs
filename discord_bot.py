@@ -69,16 +69,16 @@ def generate_gpt4o_message(prompt):
         # Prepare context from relevant text files
         context = ""
         relevant_files = [
-            'human_exe_concept.md',
-            'echos_du_coeur_concept.md',
-            'human_exe_visual_elements.md',
-            'human_exe_audio_elements.md',
-            'human_exe_easter_eggs.md',
-            'human_exe_refined_lyrics.md',
-            'human_exe_ar_experience.md',
-            'human_exe_live_performance_elements.md',
-            'human_exe_educational_content.md',
-            'campaign_footage_ai_band_member_introductions.md'
+            'band_description.md',
+            'todo_list_lyra.md',
+            'todo_list_vox.md',
+            'todo_list_rhythm.md',
+            'todo_list_nova.md',
+            'journal_lyra.md',
+            'journal_vox.md',
+            'journal_rhythm.md',
+            'journal_nova.md',
+            'discussions.md'
         ]
         for file_name in relevant_files:
             try:
