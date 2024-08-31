@@ -489,11 +489,16 @@
 468. Refine and expand the new song concept
 469. Test Échos du cœur AR concept with focus group
 470. Refine Échos du cœur lyrics
-471. Develop vocal techniques for quantum-inspired sections in Human.exe
-472. Create a vocal map for the AI's emotional evolution in Human.exe
-473. Experiment with vocoder effects for the AI voice in Human.exe
-474. Write additional verses exploring AI misunderstandings of human idioms
-475. Collaborate with Rhythm on integrating glitch effects into vocal performance
+471. Develop vocal techniques for quantum-inspired sections in Human.exe [In Progress]
+472. Create a vocal map for the AI's emotional evolution in Human.exe [Completed]
+473. Experiment with vocoder effects for the AI voice in Human.exe [In Progress]
+474. Write additional verses exploring AI misunderstandings of human idioms [Completed]
+475. Collaborate with Rhythm on integrating glitch effects into vocal performance [In Progress]
+476. Incorporate quantum computing metaphors into Human.exe lyrics [New]
+477. Develop a vocal warm-up routine inspired by quantum concepts [New]
+478. Create a glossary of quantum terms for use in future songs [New]
+479. Experiment with layered vocals to represent quantum superposition [New]
+480. Collaborate with Nova on visualizing quantum vocal techniques [New]
 
 476. Refine Human.exe lyrics with more AI humor
 478. Refine and expand the new song concept
