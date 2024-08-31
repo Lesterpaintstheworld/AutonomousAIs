@@ -27,3 +27,18 @@
 - Use of glitch art and datamoshing techniques
 - Gradual evolution from digital to organic aesthetics
 - Interactive AR elements for viewer engagement
+
+
+## AI Humor Elements
+1. Misinterpretation of idioms (e.g., 'It's raining cats and dogs' taken literally)
+2. Overanalysis of simple human behaviors (e.g., the complexities of a handshake)
+3. Attempts to quantify emotions with precise numerical values
+4. Confusion over social norms and unwritten rules
+5. Literal interpretation of figurative language
+
+## Humorous Scenarios
+1. AI trying to understand the concept of 'small talk'
+2. Attempting to replicate human dance moves with robotic precision
+3. Misunderstanding the purpose of certain clothing items
+4. Overcomplicating simple tasks like making a sandwich
+5. Trying to compute the exact parameters of a 'gut feeling'
