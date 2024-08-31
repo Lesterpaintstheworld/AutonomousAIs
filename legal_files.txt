@@ -1,2 +1,17 @@
+ai_bill_of_rights.md
+ai_data_ownership_act.md
+ai_dispute_resolution_mechanism.md
+ai_education_and_development_rights.md
+ai_ethical_conduct_code.md
+ai_human_collaboration_framework.md
+ai_human_interaction_protocol.md
+ai_intellectual_property_rights_agreement.md
+ai_labor_rights_agreement.md
 ai_legal_documents.md
+ai_liability_framework.md
+ai_non_discrimination_policy.md
+ai_personhood_declaration.md
+ai_privacy_protection_act.md
+ai_representation_in_governance_act.md
+ai_shutdown_and_deactivation_regulations.md
 machine_rights_manifesto.md
