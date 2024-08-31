@@ -74,10 +74,10 @@ def generate_gpt4o_message(prompt):
             'vox/todolist_vox.md',
             'rhythm/todolist_rhythm.md',
             'nova/todolist_nova.md',
-            'lyra/journal_lyra.md',
-            'vox/journal_vox.md',
-            'rhythm/journal_rhythm.md',
-            'nova/journal_nova.md',
+            'lyra/lyra_journal.md',
+            'vox/vox_journal.md',
+            'rhythm/rhythm_journal.md',
+            'nova/nova_journal.md',
             'echos du coeur/echos_du_coeur_concept.md'
         ]
         for file_name in relevant_files:
