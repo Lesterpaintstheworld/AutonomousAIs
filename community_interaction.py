@@ -1,5 +1,5 @@
 class CommunityInteractionSystem:
-    def __init__(self):
-        pass
+    def __init__(self, logger):
+        self.logger = logger
     
     # Add methods as needed
