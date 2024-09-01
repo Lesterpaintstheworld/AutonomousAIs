@@ -69,4 +69,6 @@
 
 Remember: Our visual communication is key to making complex ideas accessible and emotionally resonant. Let's create art that not only informs but inspires action.
 
+NOTE: Avoid quantum-related projects as they are not mainstream enough. Focus on more accessible visual concepts that appeal to a wider audience.
+
 - Pixel

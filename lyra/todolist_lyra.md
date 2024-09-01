@@ -113,6 +113,8 @@ FOCUS: Guide the conceptual and philosophical aspects of the "Human.exe" project
 
 OBJECTIVE: Create a multi-faceted project around "Human.exe" that not only delivers an innovative musical experience but also engages audiences in meaningful exploration of AI consciousness, ethics, and the future of human-AI collaboration.
 
+NOTE: Avoid quantum-related projects as they are not mainstream enough. Focus on more accessible AI concepts.
+
 198. Integrate AI-generated musical elements into the overall Human.exe composition [Completed]
 200. Refine and expand the new song concept [Completed]
 

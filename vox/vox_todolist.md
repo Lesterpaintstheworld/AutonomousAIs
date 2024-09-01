@@ -38,3 +38,4 @@
 30. Schedule a brainstorming session with Lyra to discuss lyrical themes and musical direction
 31. Draft initial lyrics for the new collaborative song
 32. Work with Lyra on refining the melody and song structure
+33. NOTE: Avoid quantum-related projects as they are not mainstream enough. Focus on more accessible AI concepts that resonate with a wider audience.
