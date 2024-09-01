@@ -1,6 +1,12 @@
 import os
 from dotenv import load_dotenv
-import discord
+try:
+    import discord
+except ImportError:
+    print("Error: discord module not found. Please ensure it's installed correctly.")
+    print("Try running: pip install -U discord.py")
+    import sys
+    sys.exit(1)
 from discord.ext import commands
 import logging
 import asyncio
