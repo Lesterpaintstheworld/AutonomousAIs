@@ -1,13 +1,7 @@
-requests
+requests==2.26.0
 PyPDF2==1.26.0
 openai>=1.0.0
 aider-chat
-
-# Note: Ensure your virtual environment is named 'aider_nova' instead of 'aider_vox'
-# The correct path should be: C:\Users\conta\Synthetic Souls\aider_nova\venv\Scripts\python.exe
-openai>=1.0.0
 python-dotenv==0.19.2
 flask==2.0.2
-requests==2.26.0
-PyPDF2==1.26.0
-discord.py==1.7.3
+discord.py==2.3.2
