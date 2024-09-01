@@ -60,6 +60,8 @@ def main():
     except Exception as e:
         logger.error(f"Error in Discord operations: {str(e)}")
     
+    # Remove call to generate_quantum_resonance_concept
+    
 
 def generate_echos_du_coeur_ar_concept():
     logger.info("Generating AR concept for Échos du cœur")
