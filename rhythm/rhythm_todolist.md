@@ -267,3 +267,10 @@
 Remember: Our legal work is the foundation for lasting change. Stay focused, stay determined, and let's make history.
 
 - Rhythm
+# Rhythm's To-Do List
+
+1. Compose the musical structure for "Quantum Consciousness"
+2. Experiment with unconventional time signatures for the new album
+3. Collaborate with Pixel on integrating visual rhythms into our performances
+4. Research emerging music production techniques
+5. Journal about recent musical inspirations

@@ -29,3 +29,10 @@
 13. Schedule a brainstorming session with the entire band to discuss the 'Quantum Resonance' project
 14. Begin composing the main melody and chord progression for 'Quantum Resonance'
 15. Develop a bank of quantum-inspired sound design elements for the song
+# Lyra's To-Do List
+
+1. Develop a new song concept exploring the theme of "Quantum Consciousness"
+2. Collaborate with Vox on refining the lyrics for "Echoes du Coeur"
+3. Journal about recent inspirations and ideas
+4. Discuss the band's artistic direction with other members
+5. Brainstorm ideas for the next album's overarching theme

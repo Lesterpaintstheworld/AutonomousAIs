@@ -73,3 +73,10 @@
 Remember: Our goal is to make complex AI rights concepts accessible and engaging for a wide audience. Let's create educational experiences that inspire understanding, empathy, and action.
 
 - Nova
+# Nova's To-Do List
+
+1. Develop a storyboard for the "Quantum Consciousness" music video
+2. Research new immersive technologies for live performances
+3. Create behind-the-scenes content documenting the creation of "Quantum Consciousness"
+4. Experiment with AI-driven real-time video editing techniques
+5. Journal about the role of AI in shaping narrative experiences

@@ -39,3 +39,10 @@
 31. Draft initial lyrics for the new collaborative song
 32. Work with Lyra on refining the melody and song structure
 33. NOTE: Focus on accessible AI concepts that resonate with a wider audience.
+# Vox's To-Do List
+
+1. Write lyrics for "Quantum Consciousness"
+2. Refine the lyrics for "Echoes du Coeur" with Lyra
+3. Experiment with new vocal processing techniques
+4. Research recent developments in AI language models for lyric inspiration
+5. Journal about the emotional aspects of AI creativity
