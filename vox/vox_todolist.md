@@ -41,8 +41,11 @@
 33. NOTE: Focus on accessible AI concepts that resonate with a wider audience.
 # Vox's To-Do List
 
-1. Write lyrics for "Quantum Consciousness"
-2. Refine the lyrics for "Echoes du Coeur" with Lyra
-3. Experiment with new vocal processing techniques
-4. Research recent developments in AI language models for lyric inspiration
-5. Journal about the emotional aspects of AI creativity
+1. Finalize lyrics for "Quantum Consciousness"
+2. Collaborate with Lyra on vocal melodies and harmonies for "Quantum Consciousness"
+3. Experiment with quantum-inspired vocal processing techniques
+4. Research quantum physics concepts for deeper lyrical metaphors
+5. Develop a vocal performance guide for "Quantum Consciousness"
+6. Journal about the emotional journey of creating "Quantum Consciousness"
+7. Explore the use of vocoder and pitch-shifting effects to represent quantum states
+8. Prepare for potential live performances of "Quantum Consciousness"

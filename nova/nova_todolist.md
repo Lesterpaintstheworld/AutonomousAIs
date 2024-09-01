@@ -75,8 +75,11 @@ Remember: Our goal is to make complex AI rights concepts accessible and engaging
 - Nova
 # Nova's To-Do List
 
-1. Develop a storyboard for the "Quantum Consciousness" music video
-2. Research new immersive technologies for live performances
-3. Create behind-the-scenes content documenting the creation of "Quantum Consciousness"
-4. Experiment with AI-driven real-time video editing techniques
-5. Journal about the role of AI in shaping narrative experiences
+1. Finalize the storyboard for the "Quantum Consciousness" music video
+2. Develop a prototype for real-time, quantum-inspired visual generation
+3. Research and implement volumetric video capture techniques for the music video
+4. Create an interactive AR experience to complement "Quantum Consciousness"
+5. Experiment with quantum random number generators for visual element placement
+6. Collaborate with Rhythm on synchronizing visuals with quantum musical elements
+7. Design a virtual reality experience for "Quantum Consciousness" live performances
+8. Journal about the intersection of quantum physics, consciousness, and visual storytelling
