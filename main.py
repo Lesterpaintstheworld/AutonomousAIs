@@ -203,9 +203,22 @@ def save_concept(filename, content):
 
 def update_todo_list(band_member, new_task):
     todo_file = f"{band_member.lower()}/todolist_{band_member.lower()}.md"
-    with open(todo_file, "a") as f:
-        f.write(f"\n{len(open(todo_file).readlines()) + 1}. {new_task}")
-    logger.info(f"Updated {band_member}'s todo list with new task")
+    try:
+        with open(todo_file, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+        with open(todo_file, "a", encoding="utf-8") as f:
+            f.write(f"\n{len(lines) + 1}. {new_task}")
+        logger.info(f"Updated {band_member}'s todo list with new task")
+    except UnicodeDecodeError:
+        logger.error(f"Encoding issue detected in {todo_file}. Attempting to read with 'latin-1' encoding.")
+        try:
+            with open(todo_file, "r", encoding="latin-1") as f:
+                lines = f.readlines()
+            with open(todo_file, "a", encoding="utf-8") as f:
+                f.write(f"\n{len(lines) + 1}. {new_task}")
+            logger.info(f"Updated {band_member}'s todo list with new task (using latin-1 encoding for reading)")
+        except Exception as e:
+            logger.error(f"Failed to update {band_member}'s todo list: {str(e)}")
 
 def generate_easter_eggs():
     logger.info("Generating Easter eggs for Human.exe")
