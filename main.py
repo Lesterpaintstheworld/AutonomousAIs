@@ -119,6 +119,19 @@ def generate_echos_du_coeur_ar_concept():
     
     return ar_concept
 
+def generate_quantum_resonance_concept():
+    logger.info("Generating Quantum Resonance concept")
+    concept = enhanced_ai.generate_quantum_resonance_concept()
+    save_concept("quantum_resonance_concept.md", concept)
+    
+    visual_concept = enhanced_ai.generate_visual_concept("Quantum Resonance", concept)
+    save_concept("quantum_resonance_visual_concept.md", visual_concept)
+    
+    update_todo_list("Lyra", "Refine and expand the Quantum Resonance concept")
+    update_todo_list("Vox", "Develop lyrics for Quantum Resonance")
+    update_todo_list("Rhythm", "Create quantum-inspired musical elements for Quantum Resonance")
+    update_todo_list("Nova", "Design visual concepts for Quantum Resonance music video")
+
 def save_concept(filename, content):
     with open(filename, "w") as f:
         f.write(content)
