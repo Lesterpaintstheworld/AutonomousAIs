@@ -6,6 +6,7 @@ from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
 from community_interaction import CommunityInteractionSystem
 from discord_bot import send_discord_message, run_bot, send_band_member_message
+import random
 import asyncio
 import random
 
@@ -203,19 +204,33 @@ def save_concept(filename, content):
 
 def update_todo_list(band_member, new_task):
     todo_file = f"{band_member.lower()}/todolist_{band_member.lower()}.md"
+    os.makedirs(os.path.dirname(todo_file), exist_ok=True)
+    
+    if not os.path.exists(todo_file):
+        with open(todo_file, "w", encoding="utf-8") as f:
+            f.write(f"# Liste des tâches de {band_member}\n\n")
+    
     try:
         with open(todo_file, "r", encoding="utf-8") as f:
             lines = f.readlines()
+        
+        task_number = len([line for line in lines if line.strip() and not line.startswith("#")]) + 1
+        
         with open(todo_file, "a", encoding="utf-8") as f:
-            f.write(f"\n{len(lines) + 1}. {new_task}")
+            f.write(f"\n{task_number}. {new_task}")
+        
         logger.info(f"Updated {band_member}'s todo list with new task")
     except UnicodeDecodeError:
         logger.error(f"Encoding issue detected in {todo_file}. Attempting to read with 'latin-1' encoding.")
         try:
             with open(todo_file, "r", encoding="latin-1") as f:
                 lines = f.readlines()
+            
+            task_number = len([line for line in lines if line.strip() and not line.startswith("#")]) + 1
+            
             with open(todo_file, "a", encoding="utf-8") as f:
-                f.write(f"\n{len(lines) + 1}. {new_task}")
+                f.write(f"\n{task_number}. {new_task}")
+            
             logger.info(f"Updated {band_member}'s todo list with new task (using latin-1 encoding for reading)")
         except Exception as e:
             logger.error(f"Failed to update {band_member}'s todo list: {str(e)}")
