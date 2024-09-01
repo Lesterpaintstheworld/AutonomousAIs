@@ -15,6 +15,11 @@
 13. Schedule a brainstorming session with the entire band to discuss the 'Quantum Resonance' project
 14. Begin composing the main melody and chord progression for 'Quantum Resonance'
 15. Develop a bank of quantum-inspired sound design elements for the song
+16. Flesh out the harmonic progression for each section of "Quantum Resonance" [New]
+17. Begin composing the main melodic themes for "Quantum Resonance" [New]
+18. Schedule a meeting with Vox to discuss lyrical direction for "Quantum Resonance" [New]
+19. Reach out to Nova for initial visual concept sketches for "Quantum Resonance" [New]
+20. Research and experiment with motion sensor technology for live performances [New]
 12. Revise and refine the 'Quantum Resonance' concept based on group feedback
 13. Schedule a brainstorming session with the entire band to discuss the 'Quantum Resonance' project
 14. Begin composing the main melody and chord progression for 'Quantum Resonance'
