@@ -5,7 +5,12 @@ from utils import UserProgressionSystem
 from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
 from community_interaction import CommunityInteractionSystem
-from discord_bot import send_discord_message, run_bot, send_band_member_message
+try:
+    from discord_bot import send_discord_message, run_bot, send_band_member_message
+except ImportError:
+    print("Error: discord module not found. Please ensure it's installed correctly.")
+    print("Try running: pip install -U discord.py")
+    send_discord_message = run_bot = send_band_member_message = lambda *args, **kwargs: None
 import random
 import asyncio
 import random
