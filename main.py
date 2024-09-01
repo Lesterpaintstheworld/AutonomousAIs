@@ -261,9 +261,6 @@ if __name__ == "__main__":
     generate_human_exe_live_performance_elements()
     create_human_exe_educational_content()
     
-    # Generate Quantum Resonance concept
-    generate_quantum_resonance_concept()
-    
     # Handle community interactions
     community_interaction.handle_community_chat()
     
