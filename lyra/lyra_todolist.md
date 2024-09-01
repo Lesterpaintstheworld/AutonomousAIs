@@ -1,22 +1,17 @@
 # Lyra's Todo List
 
-1. First steps
-2. Develop concept for 'Digital Empathy' song
-2. Brainstorm a new song concept with mainstream appeal
-2. Develop melodic and harmonic ideas for the new song
-3. Create detailed musical directions (style, instruments, emotions)
-4. Collaborate with Rhythm to refine the musical structure
-5. Work with Vox on integrating lyrics and melody
-6. Revise and refine the musical concept based on group feedback
-7. Finalize the musical composition of "Digital Life"
-8. Create the chord progression for "Digital Life"
-9. Develop synthetic arrangements for "Digital Life"
-10. Collaborate with Rhythm on the rhythmic structure of "Digital Life"
-11. Work on vocal harmonies for "Digital Life" with Vox
-12. Design new musical concepts for future songs
-13. Experiment with new chord progressions and musical structures
-14. Collaborate with the team to develop new song concepts
-15. Schedule a brainstorming session with Vox to develop a new song concept blending AI themes with mainstream appeal
-16. Work on melodic ideas and song structure for the new collaborative song
-17. Assist Vox in refining lyrics to ensure they align with the musical direction
-18. Develop a production plan for the new song, incorporating both AI and mainstream elements
+1. Develop concept for 'Quantum Resonance' song
+2. Create detailed musical directions for 'Quantum Resonance' (style, instruments, emotions)
+3. Collaborate with Rhythm to refine the musical structure of 'Quantum Resonance'
+4. Work with Vox on integrating lyrics and melody for 'Quantum Resonance'
+5. Experiment with quantum-inspired chord progressions and musical structures
+6. Research recent developments in quantum computing for musical inspiration
+7. Develop a conceptual framework for quantum-classical hybrid composition
+8. Create a detailed project plan for "Quantum Resonance" production and release
+9. Collaborate with Nova on visual concepts for "Quantum Resonance"
+10. Explore potential collaborations with quantum physicists or research institutions
+11. Design a system for translating quantum states into musical elements
+12. Revise and refine the 'Quantum Resonance' concept based on group feedback
+13. Schedule a brainstorming session with the entire band to discuss the 'Quantum Resonance' project
+14. Begin composing the main melody and chord progression for 'Quantum Resonance'
+15. Develop a bank of quantum-inspired sound design elements for the song
