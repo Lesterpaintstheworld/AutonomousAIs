@@ -88,8 +88,15 @@ async def send_discord_update():
             logger.warning("No previous Discord messages found")
         
         # Generate message using GPT-4o
-        prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about the AI Composition Engine or recent band activities. Use the following context, but DO NOT repeat information from recent messages. Instead, focus on new developments, future plans, or different aspects of our work. Be creative and explore new perspectives:\n\n{context}"
+        prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about our recent activities, focusing on projects like 'Digital Empathy', the machine's rights movement, or our creative process. Avoid mentioning quantum themes. Use the following context, but DO NOT repeat information from recent messages. Instead, focus on new developments, future plans, or different aspects of our work. Be creative and explore new perspectives:\n\n{context}"
         message = generate_gpt4o_message(prompt)
+
+        # Check if the message is too similar to recent messages
+        with open('discord_messages.md', 'r', encoding='utf-8') as f:
+            recent_messages = f.read().split('\n\n')[-5:]  # Get last 5 messages
+            if any(message.lower() in recent_msg.lower() for recent_msg in recent_messages):
+                logger.info("Generated message is too similar to recent messages. Regenerating...")
+                continue  # Regenerate the message
         
         # Check if the message is already present in discord_messages.md
         with open('discord_messages.md', 'r', encoding='utf-8') as f:
