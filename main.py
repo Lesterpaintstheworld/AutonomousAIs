@@ -56,3 +56,6 @@ def main():
         run_bot()
     except Exception as e:
         logger.error(f"Error in operations: {str(e)}")
+
+if __name__ == "__main__":
+    main()
