@@ -37,6 +37,15 @@ async def send_discord_update():
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
+async def run_discussion_to_voice():
+    try:
+        check_ffmpeg()
+        input_file = "discussions/band_discussion.md"
+        output_file = discussion_to_voice(input_file)
+        print(f"Audio discussion saved as: {output_file}")
+    except Exception as e:
+        logger.error(f"Error in discussion_to_voice: {str(e)}")
+
 async def main():
     logger.info("Synthetic Souls AI Composition Engine started")
 
@@ -45,10 +54,7 @@ async def main():
         await send_discord_update()
         
         # Run discussion_to_voice
-        check_ffmpeg()
-        input_file = "discussions/band_discussion.md"
-        output_file = discussion_to_voice(input_file)
-        print(f"Audio discussion saved as: {output_file}")
+        await run_discussion_to_voice()
         
         # Run Discord bot
         await run_bot()
