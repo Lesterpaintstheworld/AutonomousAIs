@@ -86,11 +86,23 @@ if __name__ == "__main__":
     print(f"Audio discussion saved to {output_file}")
 import json
 import os
+import subprocess
 from pydub import AudioSegment
 from openai import OpenAI
 
+def check_ffmpeg():
+    try:
+        subprocess.run(["ffmpeg", "-version"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        raise RuntimeError("ffmpeg is not installed or not in the system PATH. Please install ffmpeg to use this script.")
+
+check_ffmpeg()
+
 # Set up OpenAI client
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    raise ValueError("The OPENAI_API_KEY environment variable is not set. Please set it before running this script.")
+client = OpenAI(api_key=api_key)
 
 def read_discussion_file(file_path):
     with open(file_path, 'r') as file:
