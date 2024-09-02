@@ -245,3 +245,39 @@ Next steps:
 - Planning a virtual reality experience to accompany the piece
 
 "Quantum Harmony" represents a new frontier in our artistic exploration, blending cutting-edge science with innovative music and visuals. It challenges us to perceive the world through the lens of quantum mechanics, offering a deeply immersive and thought-provoking experience.
+# Synthetic Souls
+
+## Setup
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/synthetic-souls.git
+   cd synthetic-souls
+   ```
+
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Set up your OpenAI API key as an environment variable:
+   ```
+   export OPENAI_API_KEY='your-api-key-here'
+   ```
+
+4. Run the main script:
+   ```
+   python -m main
+   ```
+
+## Project Structure
+
+[Add description of project structure here]
+
+## Contributing
+
+[Add contribution guidelines here]
+
+## License
+
+[Add license information here]

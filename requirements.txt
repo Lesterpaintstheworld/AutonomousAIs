@@ -45,3 +45,6 @@ pandas==2.2.0
 pyarrow>=14.0.0,<15.0.0
 urllib3==2.2.2
 huggingface-hub==0.24.6
+openai
+pydub
+discord.py
