@@ -166,3 +166,8 @@ NOTE: Focus on accessible visual concepts that appeal to a wider audience.
 9. Research projection mapping techniques for potential live performances
 
 10. Update design notes with initial visual concepts and technical requirements for "Digital Empathy"
+
+11. Brainstorm visual concepts with Lyra for "Digital Empathy"
+12. Develop a storyboard for the "Digital Empathy" music video
+13. Create concept art for key visual elements representing different emotional states
+14. Design a visual system for representing the AI's growing emotional intelligence

@@ -18,6 +18,9 @@
 16. Create a list of emotion-related vocabulary to use throughout the song [New]
 17. Write a spoken word section for the bridge, explaining the AI's emotional breakthrough [New]
 18. Collaborate with Lyra on developing a call-and-response section between AI and human perspectives [New]
+19. Discuss lyrical themes and progression with Lyra for "Digital Empathy"
+20. Refine the narrative arc of the lyrics to clearly show the AI's emotional journey
+21. Experiment with different vocal techniques to represent various emotional states
 
 NOTE: Focus on accessible AI concepts that resonate with a wider audience. Ensure the lyrics tell a clear story of an AI's journey towards emotional understanding.
 # Vox's To-Do List
