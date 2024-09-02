@@ -63,7 +63,7 @@ async def send_discord_update():
     try:
         # Choose a random band member to send the startup message
         random_member = random.choice(band_members)
-        send_band_member_message(random_member)
+        await send_band_member_message(random_member)
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
@@ -75,7 +75,7 @@ def main():
     
     try:
         # Send Discord update
-        asyncio.run(send_discord_update())
+        asyncio.get_event_loop().run_until_complete(send_discord_update())
         
         # Run Discord bot
         run_bot()
@@ -173,8 +173,10 @@ def update_todo_list(band_member, new_task):
     except UnicodeDecodeError:
         logger.error(f"Encoding issue detected in {todo_file}. Attempting to read with 'latin-1' encoding.")
         try:
-            with open(todo_file, "r", encoding="latin-1") as f:
-                lines = f.readlines()
+            with open(todo_file, "rb") as f:
+                content = f.read()
+            decoded_content = content.decode('latin-1').encode('utf-8').decode('utf-8')
+            lines = decoded_content.splitlines()
             
             task_number = len([line for line in lines if line.strip() and not line.startswith("#")]) + 1
             
