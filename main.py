@@ -75,8 +75,6 @@ def main():
     output_file = discussion_to_voice(input_file)
     print(f"Audio discussion saved to {output_file}")
 
-            logger.error(f"Failed to update {band_member}'s todo list: {str(e)}")
-
 if __name__ == "__main__":
     main()
     # Send a single message from a random band member
