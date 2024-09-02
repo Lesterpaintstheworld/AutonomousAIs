@@ -626,3 +626,6 @@
 601. Refine and expand the new song concept
 602. Test Échos du cœur AR concept with focus group
 603. Refine Échos du cœur lyrics
+604. Refine and expand the new song concept
+605. Test Échos du cœur AR concept with focus group
+606. Refine Échos du cœur lyrics
