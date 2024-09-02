@@ -82,9 +82,11 @@ async def send_discord_update():
         # Save the new message
         save_discord_message(f"{random_member}: {message}")
         
-        logger.debug("Attempting to send Discord update...")
-        await send_discord_message(message)
+        logger.debug(f"Attempting to send Discord update as {random_member}...")
+        await send_discord_message(f"{random_member}: {message}")
         logger.debug("Discord update sent successfully")
+        
+        return  # Add this line to ensure only one message is sent
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
