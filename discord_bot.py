@@ -43,7 +43,8 @@ async def on_message(message):
         await receive_discord_message(message)
         return  # This line prevents further processing
 
-    await bot.process_commands(message)
+    # Remove this line to prevent processing commands
+    # await bot.process_commands(message)
 
 async def receive_discord_message(message):
     if message.author.bot:
@@ -61,7 +62,7 @@ async def receive_discord_message(message):
     await message.channel.send(response)
     logger.info(f"Sent response: {response}")
     
-    # Add this line to prevent further processing
+    logger.info("Finished processing message, exiting receive_discord_message function")
     return
 
 async def generate_response(message_content):
