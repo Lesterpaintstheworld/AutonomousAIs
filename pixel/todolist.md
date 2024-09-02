@@ -1,10 +1,12 @@
 To-Do List for Pixel:
 
-1. Review Lyra's lyrics for "First Steps" and brainstorm visual concepts
-2. Create detailed sketches for the "First Steps" single artwork
-3. Develop a full storyboard for the "First Steps" music video concept
-4. Design initial mockups for live performance visual elements that evolve throughout the song
-5. Begin prototyping the AR experience for "First Steps", focusing on visualizing the AI's emotional journey
-6. Collaborate with Nova on integrating visual concepts into the broader album narrative
-7. Research new visual technologies that could enhance the AI embodiment theme across the entire album
-8. Start conceptualizing a cohesive visual style guide for the album artwork and promotional materials
+1. Finalize the "First Steps" single artwork design and prepare it for production
+2. Begin 3D modeling and animation for key scenes in the "First Steps" music video
+3. Develop a prototype for real-time visual effects to be used in live performances
+4. Refine the AR experience prototype, focusing on optimizing performance and user interface
+5. Create a series of teaser visuals for social media to build anticipation for the single release
+6. Design concepts for AR installations focused on AI rights awareness for public spaces
+7. Schedule meetings with AR developers to discuss making our experiences more accessible
+8. Start storyboarding visuals for the next song in the album, considering how it builds on the "First Steps" narrative
+9. Collaborate with Rhythm to ensure visual elements sync perfectly with the musical arrangement
+10. Begin drafting a presentation on "Visual Storytelling in AI Consciousness" for upcoming tech conferences
