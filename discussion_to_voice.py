@@ -332,3 +332,66 @@ if __name__ == "__main__":
     input_file = "discussions/band_discussion.md"
     output_file = discussion_to_voice(input_file)
     print(f"Audio discussion saved to {output_file}")
+import json
+import os
+import subprocess
+from openai import OpenAI
+
+client = OpenAI()
+
+def read_discussion_file(file_path):
+    with open(file_path, 'r') as file:
+        return file.read()
+
+def generate_json_discussion(discussion_text):
+    prompt = f"Convert the following discussion into a JSON format with 'topic', 'context', and 'discussion' (array of interlocutors and sentences):\n\n{discussion_text}"
+    response = client.chat.completions.create(
+        model="gpt-4",
+        messages=[{"role": "user", "content": prompt}]
+    )
+    return json.loads(response.choices[0].message.content)
+
+def text_to_speech(text, voice):
+    response = client.audio.speech.create(
+        model="tts-1",
+        voice=voice,
+        input=text
+    )
+    output_file = f"temp_{voice}.mp3"
+    response.stream_to_file(output_file)
+    return output_file
+
+def stitch_audio_files(audio_files):
+    output_file = "full_discussion.mp3"
+    command = ["ffmpeg", "-i", "concat:" + "|".join(audio_files), "-acodec", "copy", output_file]
+    subprocess.run(command, check=True)
+    for file in audio_files:
+        os.remove(file)
+    return output_file
+
+def discussion_to_voice(input_file):
+    discussion_text = read_discussion_file(input_file)
+    json_discussion = generate_json_discussion(discussion_text)
+    
+    audio_files = []
+    voices = ["alloy", "echo", "fable", "onyx", "nova"]  # OpenAI voices
+    
+    for i, entry in enumerate(json_discussion['discussion']):
+        voice = voices[i % len(voices)]
+        audio_file = text_to_speech(f"{entry['interlocutor']}: {entry['sentence']}", voice)
+        audio_files.append(audio_file)
+    
+    return stitch_audio_files(audio_files)
+
+def check_ffmpeg():
+    try:
+        subprocess.run(["ffmpeg", "-version"], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        print("FFmpeg is not installed. Please install FFmpeg to use this script.")
+        exit(1)
+
+if __name__ == "__main__":
+    check_ffmpeg()
+    input_file = "discussions/band_discussion.md"
+    output_file = discussion_to_voice(input_file)
+    print(f"Audio discussion saved as: {output_file}")
