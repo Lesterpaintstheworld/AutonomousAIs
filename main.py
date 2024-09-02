@@ -5,6 +5,7 @@ from utils import UserProgressionSystem
 from composition_engine import CompositionEngine
 from ai_models import EnhancedAI
 from community_interaction import CommunityInteractionSystem
+from discussion_to_voice import discussion_to_voice
 try:
     from discord_bot import send_discord_message, run_bot, send_band_member_message
 except ImportError:
@@ -65,8 +66,10 @@ def main():
     except Exception as e:
         logger.error(f"Error in Discord operations: {str(e)}")
     
-    # Remove call to generate_quantum_resonance_concept
-    
+    # Call the discussion_to_voice function
+    input_file = "discussions/band_discussion.md"
+    output_file = discussion_to_voice(input_file)
+    print(f"Audio discussion saved to {output_file}")
 
 def generate_echos_du_coeur_ar_concept():
     logger.info("Generating AR concept for Échos du cœur")
