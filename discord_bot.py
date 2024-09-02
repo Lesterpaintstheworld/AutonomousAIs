@@ -42,10 +42,8 @@ async def on_message(message):
 
     if message.channel.id == CHANNEL_ID:
         await receive_discord_message(message)
-        return  # This line prevents further processing
-
-    # Remove this line to prevent processing commands
-    # await bot.process_commands(message)
+    else:
+        logger.info(f"Message received in channel {message.channel.id}, ignoring.")
 
 async def receive_discord_message(message):
     if message.author.bot:
