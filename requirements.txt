@@ -48,3 +48,5 @@ huggingface-hub==0.24.6
 openai
 pydub
 discord.py
+pydub==0.25.1
+openai==0.27.0

@@ -1,11 +1,27 @@
 import logging
 import os
 import asyncio
-from utils import UserProgressionSystem
-from composition_engine import CompositionEngine
-from ai_models import EnhancedAI
-from community_interaction import CommunityInteractionSystem
-from discussion_to_voice import discussion_to_voice
+import subprocess
+import sys
+
+# Check and install required packages
+def install_requirements():
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
+
+try:
+    from utils import UserProgressionSystem
+    from composition_engine import CompositionEngine
+    from ai_models import EnhancedAI
+    from community_interaction import CommunityInteractionSystem
+    from discussion_to_voice import discussion_to_voice
+except ImportError:
+    print("Installing required packages...")
+    install_requirements()
+    from utils import UserProgressionSystem
+    from composition_engine import CompositionEngine
+    from ai_models import EnhancedAI
+    from community_interaction import CommunityInteractionSystem
+    from discussion_to_voice import discussion_to_voice
 try:
     from discord_bot import send_discord_message, run_bot, send_band_member_message
 except ImportError:
