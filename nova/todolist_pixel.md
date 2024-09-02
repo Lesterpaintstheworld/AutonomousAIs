@@ -133,3 +133,20 @@
     - [ ] Develop a prototype for real-time visual generation
 
 NOTE: Focus on accessible visual concepts that appeal to a wider audience.
+# Pixel's To-Do List
+
+1. Analyze Lyra's "Quantum Entanglement" concept for visual inspiration
+   - Research visual representations of quantum entanglement in scientific literature
+   - Explore abstract art that conveys interconnectedness and complexity
+
+2. Begin sketching initial ideas for album artwork and music video concepts
+   - Experiment with fractal patterns and their evolution
+   - Develop visual representations of entangled particles
+
+3. Consider ways to visualize the flow of information across neural networks and quantum fields
+
+4. Research current technologies for creating interactive visual elements that respond to audience input
+
+5. Prepare a mood board of visual concepts to share at the next band virtual meetup
+
+6. Update design notes with initial visual concepts for "Quantum Entanglement"
