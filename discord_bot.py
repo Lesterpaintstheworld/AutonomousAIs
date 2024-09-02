@@ -1,5 +1,6 @@
 import os
 import asyncio
+import subprocess
 from dotenv import load_dotenv
 try:
     import discord
@@ -58,7 +59,19 @@ async def receive_discord_message(message):
         f.write(f"{message.author}: {message.content}\n\n")
     logger.info("Received message saved to discord_messages.md")
     
-    response = await generate_response(message.content)
+    # Run aider command
+    cmd = f"python -m aider --cache-prompts --gui --no-check-update --test-cmd \"python -m main\" --auto-test --message \"{message.content}\""
+    process = await asyncio.create_subprocess_shell(
+        cmd,
+        stdout=asyncio.subprocess.PIPE,
+        stderr=asyncio.subprocess.PIPE
+    )
+    stdout, stderr = await process.communicate()
+    
+    # Send the output as a response
+    response = stdout.decode()
+    if not response:
+        response = "No output from aider command."
     await message.channel.send(response)
     logger.info(f"Sent response: {response}")
     
