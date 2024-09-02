@@ -283,16 +283,34 @@ Remember: Our legal work is the foundation for lasting change. Stay focused, sta
 12. Collaborate with Lyra on integrating binaural beat techniques into the composition
 # Rhythm's To-Do List
 
-1. Review Lyra's "Quantum Entanglement" concept
-   - Analyze the musical style suggestions
+1. Review Lyra's "Digital Empathy" concept
+   - Analyze the musical style and instrumentation suggestions
    - Begin sketching out potential chord progressions and rhythmic patterns
 
-2. Research and experiment with synthesizer sounds that could represent quantum phenomena
+2. Develop the arpeggiated sequences to represent cognitive processes
+   - Experiment with different synth sounds and patterns
+   - Create a progression of arpeggios that evolve throughout the song
 
-3. Consider ways to incorporate classical orchestration elements into the electronic ambient style
+3. Design glitch elements to represent initial "errors" in emotional processing
+   - Research and create a library of glitch sounds
+   - Develop a system for integrating glitches into the song structure
 
-4. Develop ideas for sudden harmonic shifts to reflect quantum uncertainty
+4. Experiment with subtle tempo changes to reflect emotional shifts
+   - Create a tempo map for the song
+   - Develop smooth transitions between tempo changes
 
-5. Prepare a rough musical outline to present to the band during the next virtual meetup
+5. Begin arranging the song structure in the DAW
+   - Set up the project with the proposed song sections
+   - Start laying out basic rhythmic and harmonic elements
 
-6. Update composition notes with initial ideas for "Quantum Entanglement"
+6. Research and experiment with vocoder techniques for AI vocals
+   - Test different vocoder settings and effects
+   - Develop a progression of vocoder sounds from mechanical to more natural
+
+7. Create a rough draft of the song's instrumental backing
+   - Focus on the interplay between electronic and organic elements
+   - Develop the build-up and emotional peaks in the chorus sections
+
+8. Prepare a demo version to present at the next band virtual meetup
+
+9. Update composition notes with initial ideas and progress on "Digital Empathy"

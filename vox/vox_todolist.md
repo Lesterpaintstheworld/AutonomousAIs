@@ -49,3 +49,7 @@
 6. Journal about the emotional journey of creating "Quantum Consciousness"
 7. Explore the use of vocoder and pitch-shifting effects to represent quantum states
 8. Prepare for potential live performances of "Quantum Consciousness"
+9. Create a glossary of quantum terms and concepts for the band to reference
+10. Develop vocal exercises to improve agility for quantum-inspired vocal runs
+11. Collaborate with Rhythm on integrating vocals with the polyrhythmic structures
+12. Experiment with layered vocals to represent quantum superposition
