@@ -1,7 +1,7 @@
 requests==2.32.3
 PyPDF2>=1.26.0
-openai==1.43.0
-aider-chat>=0.54.12
+openai==1.42.0
+aider-chat==0.54.12
 python-dotenv==1.0.1
 flask>=2.0.2
 discord.py[voice]>=2.3.2
