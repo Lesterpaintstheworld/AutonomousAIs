@@ -15,11 +15,11 @@ except ImportError:
     install_requirements()
     from discussion_to_voice import discussion_to_voice, check_ffmpeg
 try:
-    from discord_bot import send_discord_message, run_bot, send_band_member_message
+    from discord_bot import send_discord_message, run_bot
 except ImportError:
     print("Error: discord module not found. Please ensure it's installed correctly.")
     print("Try running: pip install -U discord.py")
-    send_discord_message = run_bot = send_band_member_message = lambda *args, **kwargs: None
+    send_discord_message = run_bot = lambda *args, **kwargs: None
 import random
 
 # Set up logging
@@ -38,7 +38,7 @@ async def send_discord_update():
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
-async def run_discussion_to_voice():
+def run_discussion_to_voice():
     try:
         check_ffmpeg()
         input_file = "discussions/band_discussion.md"
@@ -47,20 +47,20 @@ async def run_discussion_to_voice():
     except Exception as e:
         logger.error(f"Error in discussion_to_voice: {str(e)}")
 
-def main():
+async def main():
     logger.info("Synthetic Souls AI Composition Engine started")
 
     try:
         # Send Discord update
-        asyncio.run(send_discord_update())
+        await send_discord_update()
         
         # Run discussion_to_voice
-        asyncio.run(run_discussion_to_voice())
+        run_discussion_to_voice()
         
         # Run Discord bot
-        run_bot()
+        await run_bot()
     except Exception as e:
         logger.error(f"Error in operations: {str(e)}")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
