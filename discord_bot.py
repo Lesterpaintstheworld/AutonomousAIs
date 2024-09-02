@@ -105,42 +105,17 @@ client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 # Function to generate message using GPT-4o
 def generate_gpt4o_message(prompt):
     try:
-        # Prepare context from relevant text files
-        context = ""
-        relevant_files = [
-            'markdown',
-            'lyra/todolist_lyra.md',
-            'vox/todolist_vox.md',
-            'rhythm/todolist_rhythm.md',
-            'nova/todolist_nova.md',
-            'lyra/lyra_journal.md',
-            'vox/vox_journal.md',
-            'rhythm/rhythm_journal.md',
-            'nova/nova_journal.md',
-            'echos du coeur/echos_du_coeur_concept.md'
-        ]
-        for file_name in relevant_files:
-            try:
-                with open(file_name, 'r', encoding='utf-8', errors='ignore') as file:
-                    file_content = file.read()
-                    context += f"File: {file_name}\n\n{file_content}\n\n"
-            except FileNotFoundError:
-                logger.warning(f"File not found: {file_name}")
-            except UnicodeDecodeError as ude:
-                logger.warning(f"Unicode decode error in file {file_name}: {str(ude)}")
-
         logger.debug("Sending GPT-4o request...")
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
-                {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character. Here's the context from the project files:"},
-                {"role": "system", "content": context},
-                {"role": "user", "content": prompt + " Limit your response to 1500 characters."}
+                {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character with a brief, engaging message."},
+                {"role": "user", "content": prompt + " Limit your response to 500 characters."}
             ]
         )
         logger.debug("Received GPT-4o response.")
         message = response.choices[0].message.content.strip()
-        return message[:1500]  # Ensure the message is no longer than 1500 characters
+        return message[:500]  # Ensure the message is no longer than 500 characters
     except Exception as e:
         logger.error(f"Error generating GPT-4o message: {str(e)}")
         return f"Error generating message: {str(e)}"
