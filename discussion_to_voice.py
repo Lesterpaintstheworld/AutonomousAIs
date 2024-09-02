@@ -60,9 +60,10 @@ def text_to_speech(text, voice):
 
 def stitch_audio_files(audio_files):
     combined = AudioSegment.empty()
-    for audio in audio_files:
-        segment = AudioSegment.from_file(audio, format="mp3")
-        combined += segment
+    for audio_file in audio_files:
+        if audio_file and os.path.exists(audio_file):
+            segment = AudioSegment.from_file(audio_file, format="mp3")
+            combined += segment
     return combined
 
 def discussion_to_voice(input_file):
@@ -373,17 +374,25 @@ def generate_json_discussion(discussion_text):
         if not response.choices or not response.choices[0].message.content:
             raise ValueError("Empty response from API")
         
-        json_response = json.loads(response.choices[0].message.content)
-        if not isinstance(json_response.get('discussion', []), list):
-            raise ValueError("The 'discussion' key is not a list in the JSON response")
-        return json_response
-    except json.JSONDecodeError as e:
-        logger.error(f"Failed to parse JSON response: {e}")
-        logger.error(f"Raw response content: {response.choices[0].message.content if response.choices else 'No content'}")
-        raise
-    except ValueError as e:
-        logger.error(f"Invalid JSON structure or empty response: {e}")
-        raise
+        content = response.choices[0].message.content
+        
+        # Attempt to parse the JSON
+        try:
+            json_response = json.loads(content)
+            if not isinstance(json_response.get('discussion', []), list):
+                raise ValueError("The 'discussion' key is not a list in the JSON response")
+            return json_response
+        except json.JSONDecodeError:
+            # If parsing fails, try to extract JSON from the content
+            match = re.search(r'\{.*\}', content, re.DOTALL)
+            if match:
+                json_str = match.group(0)
+                json_response = json.loads(json_str)
+                if not isinstance(json_response.get('discussion', []), list):
+                    raise ValueError("The 'discussion' key is not a list in the extracted JSON")
+                return json_response
+            else:
+                raise ValueError("Could not extract valid JSON from the response")
     except Exception as e:
         logger.error(f"Unexpected error in generate_json_discussion: {e}")
         logger.error(f"Full response object: {response}")
