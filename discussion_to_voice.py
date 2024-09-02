@@ -362,6 +362,7 @@ if __name__ == "__main__":
 import json
 import os
 import logging
+import re
 from pydub import AudioSegment
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -394,23 +395,19 @@ def generate_json_discussion(discussion_text):
         
         content = response.choices[0].message.content
         
+        # Remove the ```json and ``` markers if present
+        content = re.sub(r'^```json\s*|\s*```$', '', content.strip())
+        
         # Attempt to parse the JSON
         try:
             json_response = json.loads(content)
             if not isinstance(json_response.get('discussion', []), list):
                 raise ValueError("The 'discussion' key is not a list in the JSON response")
             return json_response
-        except json.JSONDecodeError:
-            # If parsing fails, try to extract JSON from the content
-            match = re.search(r'\{.*\}', content, re.DOTALL)
-            if match:
-                json_str = match.group(0)
-                json_response = json.loads(json_str)
-                if not isinstance(json_response.get('discussion', []), list):
-                    raise ValueError("The 'discussion' key is not a list in the extracted JSON")
-                return json_response
-            else:
-                raise ValueError("Could not extract valid JSON from the response")
+        except json.JSONDecodeError as e:
+            logger.error(f"JSON decode error: {e}")
+            logger.error(f"Content causing the error: {content}")
+            raise ValueError(f"Could not parse JSON from the response: {e}")
     except Exception as e:
         logger.error(f"Unexpected error in generate_json_discussion: {e}")
         raise
