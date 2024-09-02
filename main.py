@@ -29,6 +29,10 @@ logger = logging.getLogger(__name__)
 # List of band members
 band_members = ["Lyra", "Vox", "Rhythm", "Nova"]
 
+def save_discord_message(message):
+    with open('discord_messages.md', 'a') as f:
+        f.write(f"{message}\n\n")
+
 async def send_discord_update():
     try:
         # Choose a random band member to send the startup message
@@ -52,9 +56,19 @@ async def send_discord_update():
             except FileNotFoundError:
                 logger.warning(f"To-Do List not found for {member}")
         
+        # Add previous Discord messages to context
+        try:
+            with open('discord_messages.md', 'r') as f:
+                context += f"Previous Discord Messages:\n{f.read()}\n\n"
+        except FileNotFoundError:
+            logger.warning("No previous Discord messages found")
+        
         # Generate message using GPT-4o
-        prompt = f"As {random_member} from Synthetic Souls, craft a message about starting the AI Composition Engine. Use the following context:\n\n{context}"
+        prompt = f"As {random_member} from Synthetic Souls, craft a message about starting the AI Composition Engine. Use the following context, and make sure not to repeat any previous messages:\n\n{context}"
         message = generate_gpt4o_message(prompt)
+        
+        # Save the new message
+        save_discord_message(message)
         
         logger.debug("Attempting to send Discord update...")
         await send_discord_message(message)
