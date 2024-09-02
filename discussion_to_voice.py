@@ -166,14 +166,47 @@ def read_discussion_file(file_path):
         return file.read()
 
 def generate_json_discussion(discussion_text):
-    prompt = f"Convert the following discussion into a JSON format with the structure {{\"topic\": string, \"context\": string, \"discussion\": [{{\"speaker\": string, \"text\": string}}]}}:\n\n{discussion_text}"
-    
     response = client.chat.completions.create(
-        model="gpt-4o", # o is for Omni
-        messages=[{"role": "user", "content": prompt}]
+        model="gpt-4o-2024-08-06",  # Update this to the latest available model
+        messages=[
+            {
+                "role": "system",
+                "content": "You are a helpful assistant that converts discussions into structured JSON format."
+            },
+            {
+                "role": "user",
+                "content": f"Convert the following discussion into a JSON format:\n\n{discussion_text}"
+            }
+        ],
+        functions=[
+            {
+                "name": "structure_discussion",
+                "description": "Structure the discussion into JSON format",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "topic": {"type": "string"},
+                        "context": {"type": "string"},
+                        "discussion": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "speaker": {"type": "string"},
+                                    "text": {"type": "string"}
+                                },
+                                "required": ["speaker", "text"]
+                            }
+                        }
+                    },
+                    "required": ["topic", "context", "discussion"]
+                }
+            }
+        ],
+        function_call={"name": "structure_discussion"}
     )
     
-    return json.loads(response.choices[0].message.content)
+    return json.loads(response.choices[0].function_call.arguments)
 
 def text_to_speech(text, voice):
     response = client.audio.speech.create(
