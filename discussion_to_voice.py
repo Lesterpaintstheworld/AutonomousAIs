@@ -141,7 +141,8 @@ if __name__ == "__main__":
         else:
             print("Failed to generate audio discussion.")
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"An error occurred: {str(e)}")
+        logger.exception("Detailed error traceback:")
 import json
 import os
 import subprocess
