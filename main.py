@@ -21,8 +21,6 @@ except ImportError:
     print("Try running: pip install -U discord.py")
     send_discord_message = run_bot = send_band_member_message = lambda *args, **kwargs: None
 import random
-import asyncio
-import random
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -39,12 +37,12 @@ async def send_discord_update():
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
-def main():
+async def main():
     logger.info("Synthetic Souls AI Composition Engine started")
 
     try:
         # Send Discord update
-        asyncio.get_event_loop().run_until_complete(send_discord_update())
+        await send_discord_update()
         
         # Run discussion_to_voice
         check_ffmpeg()
@@ -53,9 +51,9 @@ def main():
         print(f"Audio discussion saved as: {output_file}")
         
         # Run Discord bot
-        run_bot()
+        await run_bot()
     except Exception as e:
         logger.error(f"Error in operations: {str(e)}")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
