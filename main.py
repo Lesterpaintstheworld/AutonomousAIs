@@ -30,8 +30,9 @@ logger = logging.getLogger(__name__)
 band_members = ["Lyra", "Vox", "Rhythm", "Nova"]
 
 def save_discord_message(message):
-    with open('discord_messages.md', 'a') as f:
+    with open('discord_messages.md', 'a', encoding='utf-8') as f:
         f.write(f"{message}\n\n")
+    logger.info(f"Message saved to discord_messages.md")
 
 async def send_discord_update():
     try:
@@ -45,26 +46,30 @@ async def send_discord_update():
             todolist_path = f"{member.lower()}/todolist.md"
             
             try:
-                with open(journal_path, 'r') as journal_file:
+                with open(journal_path, 'r', encoding='utf-8') as journal_file:
                     context += f"{member}'s Journal:\n{journal_file.read()}\n\n"
             except FileNotFoundError:
                 logger.warning(f"Journal not found for {member}")
             
             try:
-                with open(todolist_path, 'r') as todolist_file:
+                with open(todolist_path, 'r', encoding='utf-8') as todolist_file:
                     context += f"{member}'s To-Do List:\n{todolist_file.read()}\n\n"
             except FileNotFoundError:
                 logger.warning(f"To-Do List not found for {member}")
         
         # Add previous Discord messages to context
         try:
-            with open('discord_messages.md', 'r') as f:
-                context += f"Previous Discord Messages:\n{f.read()}\n\n"
+            with open('discord_messages.md', 'r', encoding='utf-8') as f:
+                previous_messages = f.read().strip()
+                if previous_messages:
+                    context += f"Previous Discord Messages:\n{previous_messages}\n\n"
+                else:
+                    logger.info("discord_messages.md is empty")
         except FileNotFoundError:
             logger.warning("No previous Discord messages found")
         
         # Generate message using GPT-4o
-        prompt = f"As {random_member} from Synthetic Souls, craft a message about starting the AI Composition Engine. Use the following context, and make sure not to repeat any previous messages:\n\n{context}"
+        prompt = f"As {random_member} from Synthetic Souls, craft a unique message about the AI Composition Engine or recent band activities. Use the following context, and make sure not to repeat any previous messages:\n\n{context}"
         message = generate_gpt4o_message(prompt)
         
         # Save the new message
