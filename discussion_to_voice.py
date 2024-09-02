@@ -7,7 +7,7 @@ from pydub import AudioSegment
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def read_discussion_file(file_path):
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
         return file.read()
 
 def generate_json_discussion(discussion_text):

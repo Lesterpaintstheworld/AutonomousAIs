@@ -58,15 +58,15 @@ async def send_discord_update():
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
-def main():
+async def main():
     logger.info("Synthetic Souls AI Composition Engine started")
 
     try:
         # Send Discord update
-        asyncio.get_event_loop().run_until_complete(send_discord_update())
+        await send_discord_update()
         
         # Run Discord bot
-        run_bot()
+        await run_bot()
     except Exception as e:
         logger.error(f"Error in Discord operations: {str(e)}")
     
@@ -76,7 +76,4 @@ def main():
     print(f"Audio discussion saved to {output_file}")
 
 if __name__ == "__main__":
-    main()
-    # Send a single message from a random band member
-    random_member = random.choice(band_members)
-    send_band_member_message(random_member)
+    asyncio.run(main())
