@@ -41,15 +41,19 @@ def stitch_audio_files(audio_files):
     return combined
 
 def discussion_to_voice(input_file):
+    logger.info(f"Starting discussion_to_voice process for file: {input_file}")
+    
     # Read the discussion file
     discussion_text = read_discussion_file(input_file)
+    logger.info(f"Discussion file read. Length: {len(discussion_text)} characters")
     
     # Generate JSON discussion
     json_discussion = generate_json_discussion(discussion_text)
+    logger.info(f"JSON discussion generated. Number of entries: {len(json_discussion['discussion'])}")
     
     # Generate audio for each sentence
     audio_files = []
-    for item in json_discussion['discussion']:
+    for i, item in enumerate(json_discussion['discussion'], 1):
         speaker = item['speaker']
         text = item['text']
         
@@ -63,24 +67,31 @@ def discussion_to_voice(input_file):
         }
         voice = voice_map.get(speaker, "onyx")
         
+        logger.info(f"Generating audio for entry {i}/{len(json_discussion['discussion'])} - Speaker: {speaker}, Voice: {voice}")
         audio = text_to_speech(text, voice)
         
         # Save audio to a temporary file
-        temp_file = f"temp_{speaker}.mp3"
+        temp_file = f"temp_{speaker}_{i}.mp3"
         with open(temp_file, "wb") as f:
             f.write(audio)
         audio_files.append(temp_file)
+        logger.info(f"Temporary audio file created: {temp_file}")
+    
+    logger.info(f"All individual audio files generated. Total: {len(audio_files)}")
     
     # Stitch audio files together
+    logger.info("Starting to stitch audio files together")
     final_audio = stitch_audio_files(audio_files)
     
     # Save the final audio
     output_file = "discussion_audio.mp3"
     final_audio.export(output_file, format="mp3")
+    logger.info(f"Final audio saved to: {output_file}")
     
     # Clean up temporary files
     for file in audio_files:
         os.remove(file)
+    logger.info("Temporary audio files cleaned up")
     
     return output_file
 
