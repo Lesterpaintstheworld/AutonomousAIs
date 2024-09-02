@@ -3,7 +3,7 @@ import os
 import logging
 import re
 from pydub import AudioSegment
-import openai
+from openai import OpenAI
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Set up OpenAI client
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def read_discussion_file(file_path):
     with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
@@ -51,13 +51,13 @@ def generate_json_discussion(discussion_text):
         raise
 
 def text_to_speech(text, voice):
-    response = openai.Audio.create(
+    response = client.audio.speech.create(
         model="tts-1",
         voice=voice,
         input=text
     )
     
-    return response['audio']
+    return response.content
 
 def stitch_audio_files(audio_files):
     combined = AudioSegment.empty()
@@ -373,15 +373,15 @@ def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with the structure {{\"topic\": string, \"context\": string, \"discussion\": [{{\"speaker\": string, \"text\": string}}]}}:\n\n{discussion_text}"
     
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-4-0613",  # Use the latest available model
             messages=[{"role": "user", "content": prompt}]
         )
         
-        if not response.choices or not response.choices[0].message['content']:
+        if not response.choices or not response.choices[0].message.content:
             raise ValueError("Empty response from API")
         
-        content = response.choices[0].message['content']
+        content = response.choices[0].message.content
         
         # Attempt to parse the JSON
         try:
@@ -402,7 +402,6 @@ def generate_json_discussion(discussion_text):
                 raise ValueError("Could not extract valid JSON from the response")
     except Exception as e:
         logger.error(f"Unexpected error in generate_json_discussion: {e}")
-        logger.error(f"Full response object: {response}")
         raise
 
 def text_to_speech(text, voice):
