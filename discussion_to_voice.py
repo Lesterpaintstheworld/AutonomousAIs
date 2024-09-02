@@ -23,11 +23,24 @@ def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with the structure {{\"topic\": string, \"context\": string, \"discussion\": [{{\"speaker\": string, \"text\": string}}]}}:\n\n{discussion_text}"
     
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4",
         messages=[{"role": "user", "content": prompt}]
     )
     
-    return json.loads(response.choices[0].message.content)
+    try:
+        json_response = json.loads(response.choices[0].message.content)
+        if not isinstance(json_response.get('discussion', []), list):
+            raise ValueError("The 'discussion' key is not a list in the JSON response")
+        return json_response
+    except json.JSONDecodeError as e:
+        logger.error(f"Failed to parse JSON response: {e}")
+        raise
+    except ValueError as e:
+        logger.error(f"Invalid JSON structure: {e}")
+        raise
+    except Exception as e:
+        logger.error(f"Unexpected error in generate_json_discussion: {e}")
+        raise
 
 def text_to_speech(text, voice):
     response = client.audio.speech.create(
@@ -53,14 +66,22 @@ def discussion_to_voice(input_file):
     logger.info(f"Discussion file read. Length: {len(discussion_text)} characters")
     
     # Generate JSON discussion
-    json_discussion = generate_json_discussion(discussion_text)
-    logger.info(f"JSON discussion generated. Number of entries: {len(json_discussion['discussion'])}")
-    
+    try:
+        json_discussion = generate_json_discussion(discussion_text)
+        logger.info(f"JSON discussion generated. Number of entries: {len(json_discussion['discussion'])}")
+    except Exception as e:
+        logger.error(f"Failed to generate JSON discussion: {e}")
+        return None
+
     # Generate audio for each sentence
     audio_files = []
     for i, item in enumerate(json_discussion['discussion'], 1):
-        speaker = item['speaker']
-        text = item['text']
+        try:
+            speaker = item['speaker']
+            text = item['text']
+        except KeyError as e:
+            logger.error(f"Missing key in discussion item {i}: {e}")
+            continue
         
         # Map speakers to voices (you may need to adjust this based on available voices)
         voice_map = {
