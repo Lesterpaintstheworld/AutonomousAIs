@@ -351,7 +351,6 @@ if __name__ == "__main__":
 import json
 import os
 import logging
-import re
 from pydub import AudioSegment
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -387,19 +386,18 @@ def generate_json_discussion(discussion_text):
         
         content = response.choices[0].message.content
         
-        # Remove the ```json and ``` markers if present
-        content = re.sub(r'^```json\s*|\s*```$', '', content.strip())
+        # Remove any JSON code block markers if present
+        content = content.replace("```json", "").replace("```", "").strip()
         
         # Attempt to parse the JSON
-        try:
-            json_response = json.loads(content)
-            if not isinstance(json_response.get('discussion', []), list):
-                raise ValueError("The 'discussion' key is not a list in the JSON response")
-            return json_response
-        except json.JSONDecodeError as e:
-            logger.error(f"JSON decode error: {e}")
-            logger.error(f"Content causing the error: {content}")
-            raise ValueError(f"Could not parse JSON from the response: {e}")
+        json_response = json.loads(content)
+        if not isinstance(json_response.get('discussion', []), list):
+            raise ValueError("The 'discussion' key is not a list in the JSON response")
+        return json_response
+    except json.JSONDecodeError as e:
+        logger.error(f"JSON decode error: {e}")
+        logger.error(f"Content causing the error: {content}")
+        raise ValueError(f"Could not parse JSON from the response: {e}")
     except Exception as e:
         logger.error(f"Unexpected error in generate_json_discussion: {e}")
         raise
@@ -415,8 +413,8 @@ def text_to_speech(text, voice):
 
 def stitch_audio_files(audio_files):
     combined = AudioSegment.empty()
-    for audio in audio_files:
-        segment = AudioSegment.from_file(audio, format="mp3")
+    for audio_file in audio_files:
+        segment = AudioSegment.from_file(audio_file, format="mp3")
         combined += segment
     return combined
 
