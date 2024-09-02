@@ -13,18 +13,7 @@ try:
     from composition_engine import CompositionEngine
     from ai_models import EnhancedAI
     from community_interaction import CommunityInteractionSystem
-    try:
-        from discussion_to_voice import discussion_to_voice, ffmpeg_available
-    except ImportError as e:
-        print(f"Warning: {str(e)}")
-        print("Continuing without discussion_to_voice functionality.")
-        discussion_to_voice = lambda x: None
-        ffmpeg_available = False
-    except RuntimeError as e:
-        print(f"Warning: {str(e)}")
-        print("Continuing without discussion_to_voice functionality.")
-        discussion_to_voice = lambda x: None
-        ffmpeg_available = False
+    from discussion_to_voice import discussion_to_voice, ffmpeg_available
 except ImportError:
     print("Installing required packages...")
     install_requirements()
@@ -32,15 +21,15 @@ except ImportError:
     from composition_engine import CompositionEngine
     from ai_models import EnhancedAI
     from community_interaction import CommunityInteractionSystem
-    from discussion_to_voice import discussion_to_voice
+    from discussion_to_voice import discussion_to_voice, ffmpeg_available
+
 try:
     from discord_bot import send_discord_message, run_bot, send_band_member_message
 except ImportError:
     print("Error: discord module not found. Please ensure it's installed correctly.")
     print("Try running: pip install -U discord.py")
     send_discord_message = run_bot = send_band_member_message = lambda *args, **kwargs: None
-import random
-import asyncio
+
 import random
 
 # Set up logging
@@ -76,11 +65,4 @@ async def main():
     print(f"Audio discussion saved to {output_file}")
 
 if __name__ == "__main__":
-    try:
-        asyncio.run(main())
-    except RuntimeError as e:
-        if "asyncio.run() cannot be called from a running event loop" in str(e):
-            loop = asyncio.get_event_loop()
-            loop.run_until_complete(main())
-        else:
-            raise
+    asyncio.run(main())
