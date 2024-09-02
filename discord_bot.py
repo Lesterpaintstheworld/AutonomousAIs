@@ -41,6 +41,7 @@ async def on_message(message):
 
     if message.channel.id == CHANNEL_ID:
         await receive_discord_message(message)
+        return  # Add this line to prevent further processing
 
     await bot.process_commands(message)
 
@@ -58,6 +59,7 @@ async def receive_discord_message(message):
     
     response = await generate_response(message.content)
     await message.channel.send(response)
+    logger.info(f"Sent response: {response}")
 
 async def generate_response(message_content):
     # You can implement more sophisticated response generation here
