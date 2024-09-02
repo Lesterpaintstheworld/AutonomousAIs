@@ -23,7 +23,7 @@ except ImportError:
 import random
 
 # Set up logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 # List of band members
@@ -34,16 +34,19 @@ async def send_discord_update():
         # Choose a random band member to send the startup message
         random_member = random.choice(band_members)
         message = f"Synthetic Souls AI Composition Engine started by {random_member}"
+        logger.debug("Attempting to send Discord update...")
         await send_discord_message(message)
+        logger.debug("Discord update sent successfully")
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
 def run_discussion_to_voice():
     try:
+        logger.debug("Starting discussion_to_voice process...")
         check_ffmpeg()
         input_file = "discussions/band_discussion.md"
         output_file = discussion_to_voice(input_file)
-        print(f"Audio discussion saved as: {output_file}")
+        logger.info(f"Audio discussion saved as: {output_file}")
     except Exception as e:
         logger.error(f"Error in discussion_to_voice: {str(e)}")
 
@@ -52,12 +55,15 @@ async def main():
 
     try:
         # Send Discord update
+        logger.debug("Sending Discord update...")
         await send_discord_update()
         
         # Run discussion_to_voice
+        logger.debug("Running discussion_to_voice...")
         run_discussion_to_voice()
         
         # Run Discord bot
+        logger.debug("Starting Discord bot...")
         await run_bot()
     except Exception as e:
         logger.error(f"Error in operations: {str(e)}")

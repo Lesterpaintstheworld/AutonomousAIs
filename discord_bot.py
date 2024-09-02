@@ -13,7 +13,7 @@ import logging
 import asyncio
 
 # Set up logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 # Load environment variables from .env file
@@ -32,26 +32,30 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 
 @bot.event
 async def on_ready():
-    print(f'{bot.user} has connected to Discord!')
+    logger.info(f'{bot.user} has connected to Discord!')
 
 async def send_discord_message(message):
+    logger.debug(f"Attempting to send message: {message}")
     channel = bot.get_channel(CHANNEL_ID)
     if channel:
         await channel.send(message)
+        logger.debug("Message sent successfully")
     else:
-        print(f"Error: Channel with ID {CHANNEL_ID} not found.")
+        logger.error(f"Error: Channel with ID {CHANNEL_ID} not found.")
 
-def run_bot():
-    loop = asyncio.get_event_loop()
+async def run_bot():
+    logger.debug("Starting Discord bot...")
     try:
-        loop.run_until_complete(bot.start(TOKEN))
+        await bot.start(TOKEN)
     except KeyboardInterrupt:
-        loop.run_until_complete(bot.close())
-    finally:
-        loop.close()
+        logger.info("Bot interrupted. Closing...")
+        await bot.close()
+    except Exception as e:
+        logger.error(f"Error running Discord bot: {str(e)}")
 
 # This function allows sending messages without running the bot
 async def send_message_async(message):
+    logger.debug(f"Attempting to send message asynchronously: {message}")
     try:
         intents = discord.Intents.default()
         intents.message_content = True
@@ -60,8 +64,9 @@ async def send_message_async(message):
         channel = await client.fetch_channel(CHANNEL_ID)
         await channel.send(message)
         await client.close()
+        logger.debug("Asynchronous message sent successfully")
     except Exception as e:
-        print(f"Error sending Discord message: {str(e)}")
+        logger.error(f"Error sending Discord message: {str(e)}")
 
 # Update the send_discord_message function to use send_message_async
 send_discord_message = send_message_async
