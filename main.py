@@ -33,6 +33,11 @@ def save_discord_message(message):
     with open('discord_messages.md', 'a', encoding='utf-8') as f:
         f.write(f"{message}\n\n")
     logger.info(f"Message saved to discord_messages.md")
+    
+    # Verify the file content after writing
+    with open('discord_messages.md', 'r', encoding='utf-8') as f:
+        content = f.read()
+        logger.info(f"Current content of discord_messages.md:\n{content}")
 
 async def send_discord_update():
     try:
@@ -73,7 +78,7 @@ async def send_discord_update():
         message = generate_gpt4o_message(prompt)
         
         # Save the new message
-        save_discord_message(message)
+        save_discord_message(f"{random_member}: {message}")
         
         logger.debug("Attempting to send Discord update...")
         await send_discord_message(message)
