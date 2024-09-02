@@ -12,6 +12,7 @@ except ImportError:
 from discord.ext import commands
 import logging
 import asyncio
+import time
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -31,6 +32,10 @@ intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
+# Add a cooldown dictionary
+message_cooldowns = {}
+COOLDOWN_TIME = 60  # Cooldown time in seconds
+
 @bot.event
 async def on_ready():
     logger.info(f'{bot.user} has connected to Discord!')
@@ -49,6 +54,17 @@ async def receive_discord_message(message):
     if message.author.bot:
         logger.info(f"Ignored message from bot: {message.author}")
         return
+
+    # Check cooldown
+    current_time = time.time()
+    if message.author.id in message_cooldowns:
+        last_message_time = message_cooldowns[message.author.id]
+        if current_time - last_message_time < COOLDOWN_TIME:
+            logger.info(f"Cooldown active for user {message.author.id}, ignoring message")
+            return
+
+    # Update cooldown
+    message_cooldowns[message.author.id] = current_time
 
     logger.info(f"Received message: {message.content}")
     
