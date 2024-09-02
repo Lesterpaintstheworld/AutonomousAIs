@@ -1,11 +1,16 @@
 import json
 import os
+import logging
 from pydub import AudioSegment
 from openai import OpenAI
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
 load_dotenv()
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 # Set up OpenAI client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
