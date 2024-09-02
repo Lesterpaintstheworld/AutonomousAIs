@@ -13,7 +13,12 @@ try:
     from composition_engine import CompositionEngine
     from ai_models import EnhancedAI
     from community_interaction import CommunityInteractionSystem
-    from discussion_to_voice import discussion_to_voice
+    try:
+        from discussion_to_voice import discussion_to_voice
+    except RuntimeError as e:
+        print(f"Warning: {str(e)}")
+        print("Continuing without discussion_to_voice functionality.")
+        discussion_to_voice = lambda x: None
 except ImportError:
     print("Installing required packages...")
     install_requirements()

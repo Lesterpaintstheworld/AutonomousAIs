@@ -94,7 +94,8 @@ def check_ffmpeg():
     try:
         subprocess.run(["ffmpeg", "-version"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
     except (subprocess.CalledProcessError, FileNotFoundError):
-        raise RuntimeError("ffmpeg is not installed or not in the system PATH. Please install ffmpeg to use this script.")
+        print("Warning: ffmpeg is not installed or not in the system PATH. Some features may not work correctly.")
+        print("Please install ffmpeg for full functionality.")
 
 check_ffmpeg()
 
