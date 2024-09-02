@@ -104,27 +104,45 @@ async def band_member_message(name, message):
     await send_message_async(full_message)
 
 from openai import OpenAI
+import hashlib
 
 # Initialize OpenAI client
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
+# Set to store hashes of previous messages
+previous_messages = set()
+
 # Function to generate message using GPT-4o
 def generate_gpt4o_message(prompt):
-    try:
-        logger.debug("Sending GPT-4o request...")
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character with a brief, engaging message."},
-                {"role": "user", "content": prompt + " Limit your response to 500 characters."}
-            ]
-        )
-        logger.debug("Received GPT-4o response.")
-        message = response.choices[0].message.content.strip()
-        return message[:500]  # Ensure the message is no longer than 500 characters
-    except Exception as e:
-        logger.error(f"Error generating GPT-4o message: {str(e)}")
-        return f"Error generating message: {str(e)}"
+    global previous_messages
+    max_attempts = 3
+    
+    for attempt in range(max_attempts):
+        try:
+            logger.debug(f"Sending GPT-4o request (attempt {attempt + 1})...")
+            response = client.chat.completions.create(
+                model="gpt-4o",
+                messages=[
+                    {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character with a brief, engaging message. Ensure your response is unique and not a repetition of previous messages."},
+                    {"role": "user", "content": prompt + " Limit your response to 500 characters."}
+                ]
+            )
+            logger.debug("Received GPT-4o response.")
+            message = response.choices[0].message.content.strip()[:500]  # Ensure the message is no longer than 500 characters
+            
+            # Check if the message is unique
+            message_hash = hashlib.md5(message.encode()).hexdigest()
+            if message_hash not in previous_messages:
+                previous_messages.add(message_hash)
+                return message
+            else:
+                logger.warning("Generated message is a duplicate. Retrying...")
+        except Exception as e:
+            logger.error(f"Error generating GPT-4o message: {str(e)}")
+            if attempt == max_attempts - 1:
+                return f"Error generating message: {str(e)}"
+    
+    return "Unable to generate a unique message after multiple attempts."
 
 # Function for band members to send messages
 def send_band_member_message(name):
