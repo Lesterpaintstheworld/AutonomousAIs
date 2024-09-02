@@ -74,7 +74,7 @@ async def send_discord_update():
             logger.warning("No previous Discord messages found")
         
         # Generate message using GPT-4o
-        prompt = f"As {random_member} from Synthetic Souls, craft a unique message about the AI Composition Engine or recent band activities. Use the following context, and make sure not to repeat any previous messages:\n\n{context}"
+        prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about the AI Composition Engine or recent band activities. Use the following context, and ensure the message is significantly different from all previous messages in both content and style. Be creative and explore new aspects or perspectives:\n\n{context}"
         message = generate_gpt4o_message(prompt)
         
         # Save the new message
