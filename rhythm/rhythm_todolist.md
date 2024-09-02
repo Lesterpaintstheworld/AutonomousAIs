@@ -1,10 +1,10 @@
 # Rhythm's To-Do List
 
-1. Develop rhythmic ideas for the new mainstream song
-2. Create drum and percussion patterns suitable for the chosen style
-3. Work on the overall rhythmic structure of the song
-4. Collaborate with Lyra to integrate rhythmic and melodic elements
-5. Propose ideas to make the rhythm catchy and memorable
+1. Review Lyra's "Digital Empathy" concept
+2. Develop initial rhythmic patterns for "Digital Empathy"
+3. Create a progression of electronic beats evolving from robotic to organic
+4. Experiment with glitch effects to represent emotional processing errors
+5. Collaborate with Vox on integrating vocal rhythms with AI-inspired instrumental elements
 6. Refine rhythmic elements based on group feedback
 # Todo-liste de Rhythm
 

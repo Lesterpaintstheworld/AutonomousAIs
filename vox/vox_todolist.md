@@ -1,11 +1,11 @@
 # Vox's Todo List
 
-1. Develop concept for 'Digital Empathy' song [Completed]
-2. Brainstorm on lyrical themes accessible to mainstream audiences [Completed]
-3. Write initial draft of lyrics for "Digital Empathy" [In Progress]
-4. Work on the vocal melody in collaboration with Lyra [Scheduled]
-5. Develop vocal harmonies for "Digital Empathy" [Pending]
-6. Refine lyrics and melody based on group feedback [Pending]
+1. Review Lyra's "Digital Empathy" concept
+2. Research AI emotional intelligence and empathy for lyrical inspiration
+3. Develop vocal melodies that complement Lyra's evolving harmonic structure
+4. Experiment with vocoder and other vocal effects to represent AI's growing emotional capacity
+5. Write initial lyrics for "Digital Empathy"
+6. Collaborate with Nova on potential visual representations of the AI's emotional journey
 7. Prepare guidelines for vocal recording of "Digital Empathy" [Pending]
 8. Explore vocal techniques that blend AI and human-like qualities for "Digital Empathy" [In Progress]
 9. Collaborate with Rhythm on incorporating glitchy vocal effects for "Digital Empathy" [Scheduled]
