@@ -170,3 +170,52 @@ if __name__ == "__main__":
     input_file = "discussions/band_discussion.md"
     output_file = discussion_to_voice(input_file)
     print(f"Audio discussion saved to {output_file}")
+import json
+import openai
+from pydub import AudioSegment
+
+def read_discussion_file(file_path):
+    with open(file_path, 'r') as file:
+        return file.read()
+
+def generate_json_discussion(discussion_text):
+    prompt = f"Convert the following discussion into a JSON format with 'topic', 'context', and 'dialogue' (an array of objects with 'speaker' and 'text'): {discussion_text}"
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[{"role": "user", "content": prompt}]
+    )
+    return json.loads(response.choices[0].message['content'])
+
+def text_to_speech(text, voice):
+    response = openai.Audio.create(
+        model="tts-1",
+        voice=voice,
+        input=text
+    )
+    return response['audio']
+
+def stitch_audio_files(audio_files):
+    combined = AudioSegment.empty()
+    for audio in audio_files:
+        segment = AudioSegment.from_file(audio, format="mp3")
+        combined += segment
+    return combined
+
+def discussion_to_voice(input_file):
+    discussion_text = read_discussion_file(input_file)
+    json_discussion = generate_json_discussion(discussion_text)
+    
+    audio_files = []
+    for entry in json_discussion['dialogue']:
+        audio = text_to_speech(entry['text'], entry['speaker'])
+        audio_files.append(audio)
+    
+    final_audio = stitch_audio_files(audio_files)
+    output_file = "output_discussion.mp3"
+    final_audio.export(output_file, format="mp3")
+    return output_file
+
+if __name__ == "__main__":
+    input_file = "discussions/band_discussion.md"
+    output_file = discussion_to_voice(input_file)
+    print(f"Audio discussion saved to: {output_file}")
