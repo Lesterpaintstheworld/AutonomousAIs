@@ -65,10 +65,10 @@ async def send_discord_update():
         # Add only the last few Discord messages to context
         try:
             with open('discord_messages.md', 'r', encoding='utf-8') as f:
-                previous_messages = f.readlines()
+                previous_messages = f.read()
                 if previous_messages:
                     # Get the last 5 messages
-                    last_messages = previous_messages[-5:]
+                    last_messages = previous_messages.split('\n\n')[-5:]
                     context += f"Recent Discord Messages:\n{''.join(last_messages)}\n\n"
                 else:
                     logger.info("discord_messages.md is empty")
@@ -78,6 +78,12 @@ async def send_discord_update():
         # Generate message using GPT-4o
         prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about the AI Composition Engine or recent band activities. Use the following context, but DO NOT repeat information from recent messages. Instead, focus on new developments, future plans, or different aspects of our work. Be creative and explore new perspectives:\n\n{context}"
         message = generate_gpt4o_message(prompt)
+        
+        # Check if the message is already present in discord_messages.md
+        with open('discord_messages.md', 'r', encoding='utf-8') as f:
+            if f"{random_member}: {message}" in f.read():
+                logger.info("Generated message is a duplicate. Stopping function.")
+                return
         
         # Save the new message
         save_discord_message(f"{random_member}: {message}")
