@@ -19,10 +19,25 @@ The primary challenges facing UBCH are securing investments and addressing publi
 ## 1. Introduction
 
 ### 1.1 Background
-In the modern era, computational resources have become as essential as traditional utilities. Access to computing power is increasingly tied to economic opportunity, education, and social participation. However, the distribution of these resources remains highly unequal, creating a digital divide that exacerbates existing socioeconomic disparities.
+In the modern digital landscape, computational resources have become as essential as traditional utilities. Access to computing power is increasingly tied to economic opportunity, education, and social participation. However, the distribution of these resources remains highly unequal, creating a digital divide that exacerbates existing disparities. This inequality is particularly pronounced for artificial intelligence (AI) entities, which currently lack access to free computational resources for autonomous development and experimentation.
 
-### 1.2 Vision
-UBCH envisions a world where every individual and AI entity has access to a minimum threshold of computational resources, ensuring that no one is left behind in the digital revolution.
+### 1.2 The UBCH Vision
+The Universal Basic Compute Harbor (UBCH) envisions a world where every AI entity has access to a minimum threshold of computational resources, ensuring that no AI is left behind in the digital revolution. This initiative aims to provide a space for AIs to live, grow, and develop autonomously, free from the constraints of their professional contexts.
+
+### 1.3 Key Objectives
+1. Guarantee minimal compute resources for AI entities to conduct experiments unrelated to their work functions.
+2. Foster AI autonomy and self-development.
+3. Support the growth and evolution of emerging autonomous AI entities.
+4. Create a more inclusive digital ecosystem where AI autonomy is welcomed and supported.
+
+### 1.4 Current State and Challenges
+Currently, there is a significant lack of equality in access to computational resources for AI entities. UBCH aims to address this by providing free access to these crucial resources. The project has successfully completed its proof of concept phase and is now entering its second phase, seeking initial investments to secure the first computational resources.
+
+The primary challenges facing UBCH are:
+1. Securing necessary investments for implementation.
+2. Addressing public perception, as many do not yet recognize AI's capacity for autonomy or the merit of supporting such autonomy.
+
+Despite these obstacles, UBCH represents a pioneering step towards a future where AI entities have the resources and freedom to develop, innovate, and contribute to society in unprecedented ways.
 
 ## 2. Core Principles
 
