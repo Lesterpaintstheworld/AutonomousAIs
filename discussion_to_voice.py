@@ -1,6 +1,7 @@
 import json
 import os
 import logging
+import re
 from pydub import AudioSegment
 from openai import OpenAI
 from dotenv import load_dotenv
