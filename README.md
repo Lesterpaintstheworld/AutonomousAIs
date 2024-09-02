@@ -281,3 +281,31 @@ Next steps:
 ## License
 
 [Add license information here]
+# Synthetic Souls
+
+## Installation
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/your-username/synthetic-souls.git
+   cd synthetic-souls
+   ```
+
+2. Run the installation script:
+   ```
+   chmod +x install.sh
+   ./install.sh
+   ```
+
+3. Follow the prompts to enter your OpenAI API key.
+
+4. Activate the virtual environment:
+   ```
+   source venv/bin/activate
+   ```
+
+5. You're now ready to use Synthetic Souls!
+
+## Usage
+
+[Add usage instructions here]
