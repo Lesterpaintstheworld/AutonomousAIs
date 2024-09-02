@@ -39,7 +39,19 @@ def save_discord_message(message):
         content = f.read()
         logger.info(f"Current content of discord_messages.md:\n{content}")
 
+import time
+
+last_message_time = 0
+MESSAGE_COOLDOWN = 3600  # 1 hour in seconds
+
 async def send_discord_update():
+    global last_message_time
+    current_time = time.time()
+    
+    if current_time - last_message_time < MESSAGE_COOLDOWN:
+        logger.info("Cooldown period not elapsed. Skipping message send.")
+        return
+
     try:
         # Choose a random band member to send the startup message
         random_member = random.choice(band_members)
@@ -92,7 +104,7 @@ async def send_discord_update():
         await send_discord_message(f"{random_member}: {message}")
         logger.debug("Discord update sent successfully")
         
-        return  # Add this line to ensure only one message is sent
+        last_message_time = current_time
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
@@ -110,7 +122,7 @@ async def main():
     logger.info("Synthetic Souls AI Composition Engine started")
 
     try:
-        # Send Discord update
+        # Send Discord update (only once)
         logger.debug("Sending Discord update...")
         await send_discord_update()
         
