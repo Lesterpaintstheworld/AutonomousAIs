@@ -23,7 +23,7 @@ def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with the structure {{\"topic\": string, \"context\": string, \"discussion\": [{{\"speaker\": string, \"text\": string}}]}}:\n\n{discussion_text}"
     
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4o", # o is for Omni
         messages=[{"role": "user", "content": prompt}]
     )
     
@@ -67,6 +67,7 @@ def discussion_to_voice(input_file):
     
     # Generate JSON discussion
     try:
+        logger.info(f"Generating discussion...")
         json_discussion = generate_json_discussion(discussion_text)
         logger.info(f"JSON discussion generated. Number of entries: {len(json_discussion['discussion'])}")
     except Exception as e:
@@ -160,7 +161,7 @@ def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with the structure {{\"topic\": string, \"context\": string, \"discussion\": [{{\"speaker\": string, \"text\": string}}]}}:\n\n{discussion_text}"
     
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4o", # o is for Omni
         messages=[{"role": "user", "content": prompt}]
     )
     
@@ -241,7 +242,7 @@ def read_discussion_file(file_path):
 def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with 'topic', 'context', and 'dialogue' (an array of objects with 'speaker' and 'text'): {discussion_text}"
     response = openai.ChatCompletion.create(
-        model="gpt-4o",
+        model="gpt-4o", # o is for Omni
         messages=[{"role": "user", "content": prompt}]
     )
     return json.loads(response.choices[0].message['content'])
@@ -299,7 +300,7 @@ def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with the structure {{\"topic\": string, \"context\": string, \"discussion\": [{{\"speaker\": string, \"text\": string}}]}}:\n\n{discussion_text}"
     
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4o", # o is for Omni
         messages=[{"role": "user", "content": prompt}]
     )
     
@@ -383,7 +384,7 @@ def read_discussion_file(file_path):
 def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with 'topic', 'context', and 'discussion' (array of interlocutors and sentences):\n\n{discussion_text}"
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4o",
         messages=[{"role": "user", "content": prompt}]
     )
     return json.loads(response.choices[0].message.content)
