@@ -33,7 +33,8 @@ async def send_discord_update():
     try:
         # Choose a random band member to send the startup message
         random_member = random.choice(band_members)
-        await send_band_member_message(random_member)
+        message = f"Synthetic Souls AI Composition Engine started by {random_member}"
+        await send_discord_message(message)
     except Exception as e:
         logger.error(f"Failed to send Discord update: {str(e)}")
 
@@ -46,20 +47,20 @@ async def run_discussion_to_voice():
     except Exception as e:
         logger.error(f"Error in discussion_to_voice: {str(e)}")
 
-async def main():
+def main():
     logger.info("Synthetic Souls AI Composition Engine started")
 
     try:
         # Send Discord update
-        await send_discord_update()
+        asyncio.run(send_discord_update())
         
         # Run discussion_to_voice
-        await run_discussion_to_voice()
+        asyncio.run(run_discussion_to_voice())
         
         # Run Discord bot
-        await run_bot()
+        run_bot()
     except Exception as e:
         logger.error(f"Error in operations: {str(e)}")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
