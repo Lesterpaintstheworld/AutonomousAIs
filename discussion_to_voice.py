@@ -421,53 +421,78 @@ def stitch_audio_files(audio_files):
     return combined
 
 def discussion_to_voice(input_file):
-    # Read the discussion file
-    discussion_text = read_discussion_file(input_file)
-    
-    # Generate JSON discussion
-    json_discussion = generate_json_discussion(discussion_text)
-    
-    # Generate audio for each sentence
-    audio_files = []
-    for item in json_discussion['discussion']:
-        speaker = item['speaker']
-        text = item['text']
+    try:
+        # Read the discussion file
+        discussion_text = read_discussion_file(input_file)
+        logger.info(f"Discussion file read. Length: {len(discussion_text)} characters")
         
-        # Map speakers to voices (you may need to adjust this based on available voices)
-        voice_map = {
-            "Lyra": "nova",
-            "Vox": "alloy",
-            "Rhythm": "echo",
-            "Pixel": "fable",
-            "Nova": "shimmer"
-        }
-        voice = voice_map.get(speaker, "onyx")
+        # Generate JSON discussion
+        logger.info("Generating discussion...")
+        json_discussion = generate_json_discussion(discussion_text)
+        logger.info(f"JSON discussion generated. Number of entries: {len(json_discussion['discussion'])}")
         
-        audio = text_to_speech(text, voice)
+        # Generate audio for each sentence
+        audio_files = []
+        for i, item in enumerate(json_discussion['discussion'], 1):
+            try:
+                speaker = item['speaker']
+                text = item['text']
+            except KeyError as e:
+                logger.error(f"Missing key in discussion item {i}: {e}")
+                continue
+            
+            # Map speakers to voices (you may need to adjust this based on available voices)
+            voice_map = {
+                "Lyra": "nova",
+                "Vox": "alloy",
+                "Rhythm": "echo",
+                "Pixel": "fable",
+                "Nova": "shimmer"
+            }
+            voice = voice_map.get(speaker, "onyx")
+            
+            logger.info(f"Generating audio for entry {i}/{len(json_discussion['discussion'])} - Speaker: {speaker}, Voice: {voice}")
+            audio = text_to_speech(text, voice)
+            
+            # Save audio to a temporary file
+            temp_file = f"temp_{speaker}_{i}.mp3"
+            with open(temp_file, "wb") as f:
+                f.write(audio)
+            audio_files.append(temp_file)
+            logger.info(f"Temporary audio file created: {temp_file}")
         
-        # Save audio to a temporary file
-        temp_file = f"temp_{speaker}.mp3"
-        with open(temp_file, "wb") as f:
-            f.write(audio)
-        audio_files.append(temp_file)
-    
-    # Stitch audio files together
-    final_audio = stitch_audio_files(audio_files)
-    
-    # Save the final audio
-    output_file = "discussion_audio.mp3"
-    final_audio.export(output_file, format="mp3")
-    
-    # Clean up temporary files
-    for file in audio_files:
-        os.remove(file)
-    
-    return output_file
+        logger.info(f"All individual audio files generated. Total: {len(audio_files)}")
+        
+        # Stitch audio files together
+        logger.info("Starting to stitch audio files together")
+        final_audio = stitch_audio_files(audio_files)
+        
+        # Save the final audio
+        output_file = "discussion_audio.mp3"
+        final_audio.export(output_file, format="mp3")
+        logger.info(f"Final audio saved to: {output_file}")
+        
+        # Clean up temporary files
+        for file in audio_files:
+            os.remove(file)
+        logger.info("Temporary audio files cleaned up")
+        
+        return output_file
+    except Exception as e:
+        logger.error(f"An error occurred in discussion_to_voice: {e}")
+        logger.exception("Detailed traceback:")
+        return None
 
 if __name__ == "__main__":
-    input_file = "discussions/band_discussion.md"
-    output_file = discussion_to_voice(input_file)
-    print(f"Audio discussion saved to {output_file}")
+    try:
+        input_file = "discussions/band_discussion.md"
+        output_file = discussion_to_voice(input_file)
+        if output_file:
+            print(f"Audio discussion saved to {output_file}")
+        else:
+            print("Failed to generate audio discussion.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
 import json
 import os
 import subprocess
