@@ -1,4 +1,4 @@
-# Nova's Todo List
+# Pixel's To-Do List
 
 1. Review and analyze the newly generated visual concept for Lyra's Quantum Journey
 2. Begin sketching preliminary visual designs based on the concept

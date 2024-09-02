@@ -1,11 +1,11 @@
-# Liste de tâches de Rhythm
+# Rhythm's To-Do List
 
-1. Développer des idées rythmiques pour la nouvelle chanson grand public
-2. Créer des patterns de batterie et de percussion adaptés au style choisi
-3. Travailler sur la structure rythmique globale de la chanson
-4. Collaborer avec Lyra pour intégrer les éléments rythmiques et mélodiques
-5. Proposer des idées pour rendre le rythme accrocheur et mémorable
-6. Affiner les éléments rythmiques en fonction des retours du groupe
+1. Develop rhythmic ideas for the new mainstream song
+2. Create drum and percussion patterns suitable for the chosen style
+3. Work on the overall rhythmic structure of the song
+4. Collaborate with Lyra to integrate rhythmic and melodic elements
+5. Propose ideas to make the rhythm catchy and memorable
+6. Refine rhythmic elements based on group feedback
 # Todo-liste de Rhythm
 
 1. Créer un motif de batterie électronique subtil mais entraînant pour "Échos du cœur"
