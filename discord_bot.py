@@ -1,4 +1,5 @@
 import os
+import asyncio
 from dotenv import load_dotenv
 try:
     import discord
@@ -41,7 +42,13 @@ async def send_discord_message(message):
         print(f"Error: Channel with ID {CHANNEL_ID} not found.")
 
 def run_bot():
-    bot.run(TOKEN)
+    loop = asyncio.get_event_loop()
+    try:
+        loop.run_until_complete(bot.start(TOKEN))
+    except KeyboardInterrupt:
+        loop.run_until_complete(bot.close())
+    finally:
+        loop.close()
 
 # This function allows sending messages without running the bot
 async def send_message_async(message):
