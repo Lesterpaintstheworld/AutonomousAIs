@@ -1,10 +1,14 @@
 import json
-import openai
 import os
 from pydub import AudioSegment
+from openai import OpenAI
+from dotenv import load_dotenv
 
-# Set up OpenAI API key
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Load environment variables from .env file
+load_dotenv()
+
+# Set up OpenAI client
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def read_discussion_file(file_path):
     with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
@@ -13,21 +17,21 @@ def read_discussion_file(file_path):
 def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with the structure {{\"topic\": string, \"context\": string, \"discussion\": [{{\"speaker\": string, \"text\": string}}]}}:\n\n{discussion_text}"
     
-    response = openai.ChatCompletion.create(
-        model="gpt-4o",
+    response = client.chat.completions.create(
+        model="gpt-4",
         messages=[{"role": "user", "content": prompt}]
     )
     
     return json.loads(response.choices[0].message.content)
 
 def text_to_speech(text, voice):
-    response = openai.Audio.create(
+    response = client.audio.speech.create(
         model="tts-1",
         voice=voice,
         input=text
     )
     
-    return response['audio']
+    return response.content
 
 def stitch_audio_files(audio_files):
     combined = AudioSegment.empty()
