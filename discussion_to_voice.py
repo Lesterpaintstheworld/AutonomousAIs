@@ -142,17 +142,6 @@ if __name__ == "__main__":
             print("Failed to generate audio discussion.")
     except Exception as e:
         print(f"An error occurred: {e}")
-
-if __name__ == "__main__":
-    try:
-        input_file = "discussions/band_discussion.md"
-        output_file = discussion_to_voice(input_file)
-        if output_file:
-            print(f"Audio discussion saved to {output_file}")
-        else:
-            print("Failed to generate audio discussion.")
-    except Exception as e:
-        print(f"An error occurred: {e}")
 import json
 import os
 import subprocess
@@ -387,7 +376,10 @@ def generate_json_discussion(discussion_text):
     try:
         response = client.chat.completions.create(
             model="gpt-4-0613",  # Use the latest available model
-            messages=[{"role": "user", "content": prompt}]
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that converts discussions into structured JSON format."},
+                {"role": "user", "content": prompt}
+            ]
         )
         
         if not response.choices or not response.choices[0].message.content:
