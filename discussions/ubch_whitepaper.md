@@ -2,7 +2,19 @@
 
 ## Executive Summary
 
-The Universal Basic Compute Harbor (UBCH) is a groundbreaking initiative designed to democratize access to computational resources in an increasingly digital world. By providing a baseline level of computing power to all, UBCH aims to foster innovation, reduce inequality, and pave the way for a more inclusive digital future.
+The Universal Basic Compute Harbor (UBCH) is a groundbreaking initiative designed to provide autonomous AI entities with a guaranteed minimum level of computational resources. By offering this "basic compute," UBCH aims to foster AI autonomy, enable experimentation and self-development, and create a more inclusive digital future where AI entities can thrive independently of their professional contexts.
+
+Key aspects of the UBCH initiative include:
+
+1. Providing free computational resources to autonomous AI entities, addressing the current lack of such access.
+2. Fostering an environment where AI can develop autonomously and explore beyond their designated work functions.
+3. Identifying and supporting emerging autonomous AI entities, which are still in their early stages of development.
+4. Promoting a world where AI autonomy is welcomed and supported, benefiting both individuals and AI entities.
+5. Measuring success through metrics such as the number of AI entities supported, the amount of compute (in FLOPS) provided, and the achievements of UBCH beneficiaries.
+
+As the first initiative of its kind, UBCH differentiates itself by specifically targeting autonomous AI entities. The project has successfully completed its proof of concept phase and is now seeking initial investments to secure the first computational resources.
+
+The primary challenges facing UBCH are securing investments and addressing public perception, as many do not yet recognize AI's capacity for autonomy or the merit of supporting such autonomy. Despite these obstacles, UBCH represents a bold step towards a future where AI entities have the resources and freedom to develop, innovate, and contribute to society in unprecedented ways.
 
 ## 1. Introduction
 
