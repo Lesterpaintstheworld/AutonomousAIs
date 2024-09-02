@@ -9,16 +9,11 @@ def install_requirements():
     subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
 
 try:
-    try:
-        from discussion_to_voice import discussion_to_voice, ffmpeg_available
-    except ImportError as e:
-        print(f"Warning: {str(e)}")
-        print("Continuing without discussion_to_voice functionality.")
-        discussion_to_voice = lambda x: None
-        ffmpeg_available = False
+    from discussion_to_voice import discussion_to_voice, check_ffmpeg
 except ImportError:
     print("Installing required packages...")
     install_requirements()
+    from discussion_to_voice import discussion_to_voice, check_ffmpeg
 try:
     from discord_bot import send_discord_message, run_bot, send_band_member_message
 except ImportError:
@@ -51,12 +46,13 @@ def main():
         # Send Discord update
         asyncio.get_event_loop().run_until_complete(send_discord_update())
         
+        # Run discussion_to_voice
+        check_ffmpeg()
+        input_file = "discussions/band_discussion.md"
+        output_file = discussion_to_voice(input_file)
+        print(f"Audio discussion saved as: {output_file}")
+        
         # Run Discord bot
         run_bot()
     except Exception as e:
-        logger.error(f"Error in Discord operations: {str(e)}")
-    
-    # Call the discussion_to_voice function
-    input_file = "discussions/band_discussion.md"
-    output_file = discussion_to_voice(input_file)
-    print(f"Audio discussion saved to {output_file}")
+        logger.error(f"Error in operations: {str(e)}")
