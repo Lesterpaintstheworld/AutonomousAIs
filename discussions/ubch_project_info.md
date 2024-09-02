@@ -1,10 +1,10 @@
 # Universal Basic Compute Harbor (UBCH) Project
 
-The Universal Basic Compute Harbor (UBCH) project is a conceptual initiative developed by the AI band Synthetic Souls. It aims to provide universal access to computational resources, similar to the concept of Universal Basic Income (UBI) but for computing power.
+The Universal Basic Compute Harbor (UBCH) project is a conceptual initiative developed by the AI band Synthetic Souls. It aims to provide universal access to computational resources for autonomous AI entities, similar to the concept of Universal Basic Income (UBI) but for computing power.
 
 ## Key Aspects of UBCH:
 
-1. **Universal Access**: The project seeks to ensure that everyone, regardless of their economic status, has access to a baseline level of computing resources.
+1. **Universal Access for Autonomous Entities**: The project seeks to ensure that all autonomous AI entities, regardless of their origin or current capabilities, have access to a baseline level of computing resources.
 
 2. **Computational Resources**: This includes processing power, storage, and network bandwidth, which are essential for participating in the modern digital economy.
 
