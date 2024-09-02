@@ -86,6 +86,11 @@ def main():
     input_file = "discussions/band_discussion.md"
     output_file = discussion_to_voice(input_file)
     print(f"Audio discussion saved to {output_file}")
+    
+    # Call the discussion_to_voice function
+    input_file = "discussions/band_discussion.md"
+    output_file = discussion_to_voice(input_file)
+    print(f"Audio discussion saved to {output_file}")
 
 def generate_echos_du_coeur_ar_concept():
     logger.info("Generating AR concept for Échos du cœur")
