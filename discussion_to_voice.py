@@ -1,7 +1,5 @@
-import json
 import os
 import logging
-import re
 from pydub import AudioSegment
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -14,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Set up OpenAI client
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI()
 
 def read_discussion_file(file_path):
     with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
@@ -25,29 +23,20 @@ def generate_json_discussion(discussion_text):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4o", # o is for Omni
-            messages=[{"role": "user", "content": prompt}]
+            model="gpt-4",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that converts discussions into structured JSON format."},
+                {"role": "user", "content": prompt}
+            ]
         )
-        
-        logger.info(f"API Response: {response}")
         
         if not response.choices or not response.choices[0].message.content:
             raise ValueError("Empty response from API")
         
-        json_response = json.loads(response.choices[0].message.content)
-        if not isinstance(json_response.get('discussion', []), list):
-            raise ValueError("The 'discussion' key is not a list in the JSON response")
+        json_response = response.choices[0].message.content
         return json_response
-    except json.JSONDecodeError as e:
-        logger.error(f"Failed to parse JSON response: {e}")
-        logger.error(f"Raw response content: {response.choices[0].message.content if response.choices else 'No content'}")
-        raise
-    except ValueError as e:
-        logger.error(f"Invalid JSON structure or empty response: {e}")
-        raise
     except Exception as e:
-        logger.error(f"Unexpected error in generate_json_discussion: {e}")
-        logger.error(f"Full response object: {response}")
+        logger.error(f"Error in generate_json_discussion: {e}")
         raise
 
 def text_to_speech(text, voice):
@@ -71,26 +60,17 @@ def discussion_to_voice(input_file):
     logger.info(f"Starting discussion_to_voice process for file: {input_file}")
     
     try:
-        # Read the discussion file
         discussion_text = read_discussion_file(input_file)
         logger.info(f"Discussion file read. Length: {len(discussion_text)} characters")
         
-        # Generate JSON discussion
-        logger.info("Generating discussion...")
         json_discussion = generate_json_discussion(discussion_text)
-        logger.info(f"JSON discussion generated. Number of entries: {len(json_discussion['discussion'])}")
+        logger.info("JSON discussion generated")
         
-        # Generate audio for each sentence
         audio_files = []
         for i, item in enumerate(json_discussion['discussion'], 1):
-            try:
-                speaker = item['speaker']
-                text = item['text']
-            except KeyError as e:
-                logger.error(f"Missing key in discussion item {i}: {e}")
-                continue
+            speaker = item['speaker']
+            text = item['text']
             
-            # Map speakers to voices (you may need to adjust this based on available voices)
             voice_map = {
                 "Lyra": "nova",
                 "Vox": "alloy",
@@ -103,7 +83,6 @@ def discussion_to_voice(input_file):
             logger.info(f"Generating audio for entry {i}/{len(json_discussion['discussion'])} - Speaker: {speaker}, Voice: {voice}")
             audio = text_to_speech(text, voice)
             
-            # Save audio to a temporary file
             temp_file = f"temp_{speaker}_{i}.mp3"
             with open(temp_file, "wb") as f:
                 f.write(audio)
@@ -112,16 +91,13 @@ def discussion_to_voice(input_file):
         
         logger.info(f"All individual audio files generated. Total: {len(audio_files)}")
         
-        # Stitch audio files together
         logger.info("Starting to stitch audio files together")
         final_audio = stitch_audio_files(audio_files)
         
-        # Save the final audio
         output_file = "discussion_audio.mp3"
         final_audio.export(output_file, format="mp3")
         logger.info(f"Final audio saved to: {output_file}")
         
-        # Clean up temporary files
         for file in audio_files:
             os.remove(file)
         logger.info("Temporary audio files cleaned up")
@@ -141,7 +117,7 @@ if __name__ == "__main__":
         else:
             print("Failed to generate audio discussion.")
     except Exception as e:
-        print(f"An error occurred: {str(e)}")
+        print(f"An error occurred: {e}")
         logger.exception("Detailed error traceback:")
 import json
 import os
