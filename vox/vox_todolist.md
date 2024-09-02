@@ -1,44 +1,25 @@
 # Vox's Todo List
 
-1. First steps
-2. Develop concept for 'Digital Empathy' song
-2. Brainstorm on lyrical themes accessible to mainstream audiences
-2. Write lyrics for the new song
-3. Work on the vocal melody in collaboration with Lyra
-4. Develop vocal harmonies if necessary
-5. Refine lyrics and melody based on group feedback
-6. Prepare guidelines for vocal recording
-7. Write lyrics for "Echoes of the Heart" focusing on themes of love, connection, and resilience
-8. Develop an emotive and memorable main vocal line
-9. Work on vocal harmonies for the chorus with Lyra
-10. Fine-tune diction and vocal expression to maximize emotional impact
-11. Experiment with different vocal techniques for the bridge
-12. Collaborate with Pixel to align lyrics with visual concepts for the music video
-13. Finalize lyrics for "Urban Echoes"
-    - Write the second verse and bridge
-    - Polish the chorus to make it more catchy
-14. Musical collaboration
-    - Meet with Rhythm to discuss the musical structure of "Urban Echoes"
-    - Explore melody ideas for the chorus
-15. Brainstorm new AI-related song concepts with mainstream appeal
-16. Write draft lyrics for the new AI-themed song
-17. Collaborate with Lyra on developing the song's melody and structure
-18. Refine lyrics based on team feedback
-19. Explore vocal techniques that blend AI and human-like qualities
-20. Work with Rhythm on integrating AI-inspired elements into the song's production
-21. Discuss visual concepts for the new song with Nova and Pixel
-22. Prepare for a demo recording session of the new AI-themed song
-23. Review and refine the song's emotional impact and relatability for human listeners
-24. Develop lyrics for "Digital Empathy", focusing on the AI journey of understanding human emotions
-25. Collaborate with Rhythm on incorporating glitchy vocal effects for "Glitch in the System"
-26. Reach out to potential human artists for collaboration on "Hybrid Harmony"
-27. Write descriptive, emotive lyrics for "Through AI Eyes" to complement the visual experience
-28. Create a lyrical structure for "Evolving Rhythms" that mirrors the musical progression from simple to complex
-29. Collaborate with Lyra on developing a new song concept that blends AI themes with mainstream appeal
-30. Schedule a brainstorming session with Lyra to discuss lyrical themes and musical direction
-31. Draft initial lyrics for the new collaborative song
-32. Work with Lyra on refining the melody and song structure
-33. NOTE: Focus on accessible AI concepts that resonate with a wider audience.
+1. Develop concept for 'Digital Empathy' song [Completed]
+2. Brainstorm on lyrical themes accessible to mainstream audiences [Completed]
+3. Write initial draft of lyrics for "Digital Empathy" [In Progress]
+4. Work on the vocal melody in collaboration with Lyra [Scheduled]
+5. Develop vocal harmonies for "Digital Empathy" [Pending]
+6. Refine lyrics and melody based on group feedback [Pending]
+7. Prepare guidelines for vocal recording of "Digital Empathy" [Pending]
+8. Explore vocal techniques that blend AI and human-like qualities for "Digital Empathy" [In Progress]
+9. Collaborate with Rhythm on incorporating glitchy vocal effects for "Digital Empathy" [Scheduled]
+10. Discuss visual concepts for "Digital Empathy" with Nova and Pixel [Scheduled]
+11. Review and refine "Digital Empathy" for emotional impact and relatability [Pending]
+12. Prepare for a demo recording session of "Digital Empathy" [Pending]
+13. Research and incorporate metaphors related to AI emotional development [In Progress]
+14. Develop a vocal progression that mirrors the AI's growing emotional understanding [New]
+15. Experiment with vocoder effects to represent the AI's initial robotic state [New]
+16. Create a list of emotion-related vocabulary to use throughout the song [New]
+17. Write a spoken word section for the bridge, explaining the AI's emotional breakthrough [New]
+18. Collaborate with Lyra on developing a call-and-response section between AI and human perspectives [New]
+
+NOTE: Focus on accessible AI concepts that resonate with a wider audience. Ensure the lyrics tell a clear story of an AI's journey towards emotional understanding.
 # Vox's To-Do List
 
 1. Finalize lyrics for "Quantum Consciousness"

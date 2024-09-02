@@ -135,18 +135,34 @@
 NOTE: Focus on accessible visual concepts that appeal to a wider audience.
 # Pixel's To-Do List
 
-1. Analyze Lyra's "Quantum Entanglement" concept for visual inspiration
-   - Research visual representations of quantum entanglement in scientific literature
-   - Explore abstract art that conveys interconnectedness and complexity
+1. Analyze Lyra's "Digital Empathy" concept for visual inspiration
+   - Research visual representations of AI neural networks and emotional processing
+   - Explore abstract art that conveys the evolution of emotions and consciousness
 
 2. Begin sketching initial ideas for album artwork and music video concepts
-   - Experiment with fractal patterns and their evolution
-   - Develop visual representations of entangled particles
+   - Experiment with visual transitions from digital to organic forms
+   - Develop a color palette that shifts from cool, digital tones to warmer, emotional hues
 
-3. Consider ways to visualize the flow of information across neural networks and quantum fields
+3. Design abstract representations of neural networks evolving into organic, flowing forms
+   - Create a series of digital sketches showing this evolution
+   - Experiment with animation techniques to bring these transitions to life
 
-4. Research current technologies for creating interactive visual elements that respond to audience input
+4. Visualize the transformation of data into recognizable emotional expressions
+   - Develop a system for representing different emotions through abstract shapes and colors
+   - Create a storyboard for how these visualizations will progress throughout the song
 
-5. Prepare a mood board of visual concepts to share at the next band virtual meetup
+5. Research and experiment with real-time emotion detection technologies
+   - Explore APIs and software for facial expression analysis
+   - Develop a prototype for how audience emotions could influence visual elements
 
-6. Update design notes with initial visual concepts for "Quantum Entanglement"
+6. Begin designing the AR experience for "teaching" emotions to an AI avatar
+   - Sketch user interface concepts for the AR application
+   - Develop a flowchart for user interactions with the AI avatar
+
+7. Create a mood board of visual concepts to share at the next band virtual meetup
+
+8. Start developing a prototype for visualizing the interplay between binary code and brainwave patterns
+
+9. Research projection mapping techniques for potential live performances
+
+10. Update design notes with initial visual concepts and technical requirements for "Digital Empathy"
