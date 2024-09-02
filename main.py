@@ -20,6 +20,11 @@ try:
         print("Continuing without discussion_to_voice functionality.")
         discussion_to_voice = lambda x: None
         ffmpeg_available = False
+    except RuntimeError as e:
+        print(f"Warning: {str(e)}")
+        print("Continuing without discussion_to_voice functionality.")
+        discussion_to_voice = lambda x: None
+        ffmpeg_available = False
 except ImportError:
     print("Installing required packages...")
     install_requirements()

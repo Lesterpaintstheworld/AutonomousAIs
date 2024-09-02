@@ -93,11 +93,11 @@ from openai import OpenAI
 def check_ffmpeg():
     try:
         subprocess.run(["ffmpeg", "-version"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+        return True
     except (subprocess.CalledProcessError, FileNotFoundError):
         print("Warning: ffmpeg is not installed or not in the system PATH. Some features may not work correctly.")
         print("Please install ffmpeg for full functionality.")
         return False
-    return True
 
 ffmpeg_available = check_ffmpeg()
 
