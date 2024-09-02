@@ -133,9 +133,15 @@ def discussion_to_voice(input_file):
         return None
 
 if __name__ == "__main__":
-    input_file = "discussions/band_discussion.md"
-    output_file = discussion_to_voice(input_file)
-    print(f"Audio discussion saved to {output_file}")
+    try:
+        input_file = "discussions/band_discussion.md"
+        output_file = discussion_to_voice(input_file)
+        if output_file:
+            print(f"Audio discussion saved to {output_file}")
+        else:
+            print("Failed to generate audio discussion.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
 import json
 import os
 import subprocess
@@ -368,7 +374,7 @@ def generate_json_discussion(discussion_text):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4o", # o is for Omni
+            model="gpt-4-0613",  # Use the latest available model
             messages=[{"role": "user", "content": prompt}]
         )
         
