@@ -5,4 +5,4 @@ To-Do List for Rhythm:
 3. Program glitch effects and integrate them into the arrangement
 4. Collaborate with Vox on vocal production and effects
 5. Begin working on arrangements for other songs in the AI embodiment theme
-6. Research new production techniques that could enhance the digital-to-organic concept
+6. Research new production techniques that could enhance the digital-to-digital concept
