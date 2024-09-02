@@ -46,6 +46,12 @@ async def on_message(message):
 
 async def receive_discord_message(message):
     logger.info(f"Received message: {message.content}")
+    
+    # Save the received message to discord_messages.md
+    with open('discord_messages.md', 'a', encoding='utf-8') as f:
+        f.write(f"{message.author}: {message.content}\n\n")
+    logger.info("Received message saved to discord_messages.md")
+    
     response = await generate_response(message.content)
     await message.channel.send(response)
 
