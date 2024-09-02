@@ -45,6 +45,10 @@ async def on_message(message):
     await bot.process_commands(message)
 
 async def receive_discord_message(message):
+    if message.author.bot:
+        logger.info(f"Ignored message from bot: {message.author}")
+        return
+
     logger.info(f"Received message: {message.content}")
     
     # Save the received message to discord_messages.md
