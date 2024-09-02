@@ -374,7 +374,7 @@ def generate_json_discussion(discussion_text):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4-0613",  # Use the latest available model
+            model="gpt-4",  # Use the latest available model
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that converts discussions into structured JSON format."},
                 {"role": "user", "content": prompt}
@@ -414,8 +414,11 @@ def text_to_speech(text, voice):
 def stitch_audio_files(audio_files):
     combined = AudioSegment.empty()
     for audio_file in audio_files:
-        segment = AudioSegment.from_file(audio_file, format="mp3")
-        combined += segment
+        if os.path.exists(audio_file):
+            segment = AudioSegment.from_file(audio_file, format="mp3")
+            combined += segment
+        else:
+            logger.warning(f"Audio file not found: {audio_file}")
     return combined
 
 def discussion_to_voice(input_file):
@@ -472,7 +475,10 @@ def discussion_to_voice(input_file):
         
         # Clean up temporary files
         for file in audio_files:
-            os.remove(file)
+            if os.path.exists(file):
+                os.remove(file)
+            else:
+                logger.warning(f"Temporary file not found for cleanup: {file}")
         logger.info("Temporary audio files cleaned up")
         
         return output_file
