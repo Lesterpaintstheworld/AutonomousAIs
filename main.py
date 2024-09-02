@@ -76,4 +76,11 @@ async def main():
     print(f"Audio discussion saved to {output_file}")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except RuntimeError as e:
+        if "asyncio.run() cannot be called from a running event loop" in str(e):
+            loop = asyncio.get_event_loop()
+            loop.run_until_complete(main())
+        else:
+            raise
