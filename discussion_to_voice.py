@@ -96,8 +96,10 @@ def check_ffmpeg():
     except (subprocess.CalledProcessError, FileNotFoundError):
         print("Warning: ffmpeg is not installed or not in the system PATH. Some features may not work correctly.")
         print("Please install ffmpeg for full functionality.")
+        return False
+    return True
 
-check_ffmpeg()
+ffmpeg_available = check_ffmpeg()
 
 # Set up OpenAI client
 api_key = os.getenv("OPENAI_API_KEY")

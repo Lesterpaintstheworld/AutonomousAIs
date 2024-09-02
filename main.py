@@ -14,11 +14,12 @@ try:
     from ai_models import EnhancedAI
     from community_interaction import CommunityInteractionSystem
     try:
-        from discussion_to_voice import discussion_to_voice
-    except RuntimeError as e:
+        from discussion_to_voice import discussion_to_voice, ffmpeg_available
+    except ImportError as e:
         print(f"Warning: {str(e)}")
         print("Continuing without discussion_to_voice functionality.")
         discussion_to_voice = lambda x: None
+        ffmpeg_available = False
 except ImportError:
     print("Installing required packages...")
     install_requirements()
