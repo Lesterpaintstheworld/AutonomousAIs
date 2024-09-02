@@ -145,6 +145,7 @@ async def main():
         # Run Discord bot
         # logger.debug("Starting Discord bot...")
         # await run_bot()
+        pass  # Add this line to avoid empty try block
     except Exception as e:
         logger.error(f"Error in operations: {str(e)}")
 
