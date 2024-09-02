@@ -34,6 +34,27 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 async def on_ready():
     logger.info(f'{bot.user} has connected to Discord!')
 
+@bot.event
+async def on_message(message):
+    if message.author == bot.user:
+        return
+
+    if message.channel.id == CHANNEL_ID:
+        await receive_discord_message(message)
+
+    await bot.process_commands(message)
+
+async def receive_discord_message(message):
+    logger.info(f"Received message: {message.content}")
+    response = await generate_response(message.content)
+    await message.channel.send(response)
+
+async def generate_response(message_content):
+    # You can implement more sophisticated response generation here
+    # For now, we'll use a simple GPT-4o call
+    prompt = f"As an AI band member of Synthetic Souls, respond to this message: {message_content}"
+    return generate_gpt4o_message(prompt)
+
 async def send_discord_message(message):
     logger.debug(f"Attempting to send message: {message}")
     channel = bot.get_channel(CHANNEL_ID)

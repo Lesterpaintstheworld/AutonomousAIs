@@ -15,11 +15,11 @@ except ImportError:
     install_requirements()
     from discussion_to_voice import discussion_to_voice, check_ffmpeg
 try:
-    from discord_bot import send_discord_message, run_bot, generate_gpt4o_message
+    from discord_bot import send_discord_message, run_bot, generate_gpt4o_message, receive_discord_message
 except ImportError:
     print("Error: discord module not found. Please ensure it's installed correctly.")
     print("Try running: pip install -U discord.py")
-    send_discord_message = run_bot = generate_gpt4o_message = lambda *args, **kwargs: None
+    send_discord_message = run_bot = generate_gpt4o_message = receive_discord_message = lambda *args, **kwargs: None
 import random
 
 # Set up logging
