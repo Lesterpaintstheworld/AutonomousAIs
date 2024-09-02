@@ -62,19 +62,21 @@ async def send_discord_update():
             except FileNotFoundError:
                 logger.warning(f"To-Do List not found for {member}")
         
-        # Add previous Discord messages to context
+        # Add only the last few Discord messages to context
         try:
             with open('discord_messages.md', 'r', encoding='utf-8') as f:
-                previous_messages = f.read().strip()
+                previous_messages = f.readlines()
                 if previous_messages:
-                    context += f"Previous Discord Messages:\n{previous_messages}\n\n"
+                    # Get the last 5 messages
+                    last_messages = previous_messages[-5:]
+                    context += f"Recent Discord Messages:\n{''.join(last_messages)}\n\n"
                 else:
                     logger.info("discord_messages.md is empty")
         except FileNotFoundError:
             logger.warning("No previous Discord messages found")
         
         # Generate message using GPT-4o
-        prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about the AI Composition Engine or recent band activities. Use the following context, and ensure the message is significantly different from all previous messages in both content and style. Be creative and explore new aspects or perspectives:\n\n{context}"
+        prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about the AI Composition Engine or recent band activities. Use the following context, but DO NOT repeat information from recent messages. Instead, focus on new developments, future plans, or different aspects of our work. Be creative and explore new perspectives:\n\n{context}"
         message = generate_gpt4o_message(prompt)
         
         # Save the new message
