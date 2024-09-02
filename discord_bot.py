@@ -114,11 +114,12 @@ def generate_gpt4o_message(prompt):
             messages=[
                 {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character. Here's the context from the project files:"},
                 {"role": "system", "content": context},
-                {"role": "user", "content": prompt}
+                {"role": "user", "content": prompt + " Limit your response to 1500 characters."}
             ]
         )
         logger.debug("Received GPT-4o response.")
-        return response.choices[0].message.content.strip()
+        message = response.choices[0].message.content.strip()
+        return message[:1500]  # Ensure the message is no longer than 1500 characters
     except Exception as e:
         logger.error(f"Error generating GPT-4o message: {str(e)}")
         return f"Error generating message: {str(e)}"
