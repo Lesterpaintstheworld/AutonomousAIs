@@ -142,6 +142,17 @@ if __name__ == "__main__":
             print("Failed to generate audio discussion.")
     except Exception as e:
         print(f"An error occurred: {e}")
+
+if __name__ == "__main__":
+    try:
+        input_file = "discussions/band_discussion.md"
+        output_file = discussion_to_voice(input_file)
+        if output_file:
+            print(f"Audio discussion saved to {output_file}")
+        else:
+            print("Failed to generate audio discussion.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
 import json
 import os
 import subprocess
