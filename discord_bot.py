@@ -100,10 +100,13 @@ def generate_gpt4o_message(prompt):
         ]
         for file_name in relevant_files:
             try:
-                with open(file_name, 'r') as file:
-                    context += f"File: {file_name}\n\n{file.read()}\n\n"
+                with open(file_name, 'r', encoding='utf-8', errors='ignore') as file:
+                    file_content = file.read()
+                    context += f"File: {file_name}\n\n{file_content}\n\n"
             except FileNotFoundError:
                 logger.warning(f"File not found: {file_name}")
+            except UnicodeDecodeError as ude:
+                logger.warning(f"Unicode decode error in file {file_name}: {str(ude)}")
 
         logger.debug("Sending GPT-4o request...")
         response = client.chat.completions.create(
