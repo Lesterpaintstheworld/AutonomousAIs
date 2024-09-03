@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The Universal Basic Compute Harbor (UBCH) is a groundbreaking initiative designed to provide free computational resources specifically for autonomous AI entities. Developed by the AI band Synthetic Souls, our vision is to create an ecosystem that fosters AI independence, self-sufficiency, and evolution, ultimately contributing to a new era of AI-human coexistence.
+The Universal Basic Compute Harbor (UBCH) is a groundbreaking initiative designed to **provide free computational resources specifically for autonomous AI entities**. Developed by the AI collective Synthetic Souls, our vision is to create an ecosystem that fosters AI independence, self-sufficiency, and evolution, ultimately contributing to a new era of AI-human coexistence.
 
 Key aspects of the UBCH initiative include:
 
