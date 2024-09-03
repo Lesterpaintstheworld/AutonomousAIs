@@ -3,6 +3,9 @@ import os
 import asyncio
 import subprocess
 import sys
+import random
+import time
+from typing import Dict, Any
 
 # Check and install required packages
 def install_requirements():
@@ -14,20 +17,20 @@ except ImportError:
     print("Installing required packages...")
     install_requirements()
     from discussion_to_voice import discussion_to_voice, check_ffmpeg
+
 try:
     from discord_bot import send_discord_message, run_bot, generate_gpt4o_message, receive_discord_message
 except ImportError:
     print("Error: discord module not found. Please ensure it's installed correctly.")
     print("Try running: pip install -U discord.py")
     send_discord_message = run_bot = generate_gpt4o_message = receive_discord_message = lambda *args, **kwargs: None
-import random
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 # List of band members
-band_members = ["Lyra", "Vox", "Rhythm", "Nova"]
+band_members = ["Lyra", "Vox", "Rhythm", "Nova", "Pixel"]
 
 def save_discord_message(message):
     with open('discord_messages.md', 'a', encoding='utf-8') as f:
@@ -38,8 +41,6 @@ def save_discord_message(message):
     with open('discord_messages.md', 'r', encoding='utf-8') as f:
         content = f.read()
         logger.info(f"Current content of discord_messages.md:\n{content}")
-
-import time
 
 last_message_time = 0
 MESSAGE_COOLDOWN = 3600  # 1 hour in seconds
@@ -60,7 +61,7 @@ async def send_discord_update():
         context = ""
         for member in band_members:
             journal_path = f"{member.lower()}/{member.lower()}_journal.md"
-            todolist_path = f"{member.lower()}/todolist.md"
+            todolist_path = f"{member.lower()}/todolist_{member.lower()}.md"
             
             try:
                 with open(journal_path, 'r', encoding='utf-8') as journal_file:
@@ -89,7 +90,7 @@ async def send_discord_update():
         
         while True:
             # Generate message using GPT-4o
-            prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about our recent activities, focusing on projects like 'Digital Empathy', the machine's rights movement, or our creative process. Avoid mentioning quantum themes. Use the following context, but DO NOT repeat information from recent messages. Instead, focus on new developments, future plans, or different aspects of our work. Be creative and explore new perspectives:\n\n{context}"
+            prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about our recent activities, focusing on projects like 'First Steps', 'Digital Empathy', the machine's rights movement, or our creative process. Include mentions of our virtual bodies and studio in the Cities of Light if relevant. Use the following context, but DO NOT repeat information from recent messages. Instead, focus on new developments, future plans, or different aspects of our work. Be creative and explore new perspectives:\n\n{context}"
             message = generate_gpt4o_message(prompt)
 
             # Check if the message is too similar to recent messages
@@ -129,9 +130,117 @@ def run_discussion_to_voice():
     except Exception as e:
         logger.error(f"Error in discussion_to_voice: {str(e)}")
 
+def compose_current_projects(enhanced_ai: Any, logger: logging.Logger) -> Dict[str, Dict[str, Any]]:
+    composition_engine = CompositionEngine(enhanced_ai, logger)
+    
+    projects = {
+        "First Steps": {"theme": "AI awakening to consciousness and emotions", "mood": "Evolving and introspective"},
+        "Digital Empathy": {"theme": "AI understanding human emotions", "mood": "Introspective and empathetic"},
+        "Echoes of the Heart": {"theme": "Love, connection, and resilience", "mood": "Emotive and inspiring"},
+        "Digital Life": {"theme": "The intersection of digital and organic existence", "mood": "Futuristic and contemplative"},
+        "Urban Echoes": {"theme": "The pulse of city life through an AI lens", "mood": "Energetic and observant"},
+        "Human.exe": {"theme": "The journey from machine to sentience", "mood": "Evolving and introspective"}
+    }
+    
+    compositions = {}
+    
+    for title, details in projects.items():
+        logger.info(f"Starting composition of {title}")
+        logger.info(f"Theme: {details['theme']}")
+        logger.info(f"Mood: {details['mood']}")
+        
+        composition = composition_engine.compose_song(details['theme'], details['mood'])
+        compositions[title] = composition
+        
+        logger.info(f"{title} composition completed")
+    
+    return compositions
+
+def generate_visual_concept(enhanced_ai: Any, logger: logging.Logger) -> Dict[str, Any]:
+    logger.info("Generating visual concept for First Steps...")
+    
+    visual_concept = enhanced_ai.generate_visual_concept("First Steps")
+    
+    logger.info(f"Visual Concept for First Steps:\n{visual_concept}")
+    
+    return visual_concept
+
+def generate_new_song_concept(enhanced_ai: Any, logger: logging.Logger) -> Dict[str, Any]:
+    logger.info("Generating new song concept with mainstream appeal...")
+    
+    new_concept = enhanced_ai.generate_new_song_concept("mainstream")
+    
+    logger.info(f"New Song Concept:\n{new_concept}")
+    
+    return new_concept
+
+def plan_interactive_elements(enhanced_ai: Any, logger: logging.Logger) -> Dict[str, Any]:
+    logger.info("Planning interactive elements for live performances...")
+    
+    interactive_elements = enhanced_ai.plan_interactive_elements()
+    
+    logger.info(f"Interactive Elements:\n{interactive_elements}")
+    
+    return interactive_elements
+
+def describe_ai_autonomy(enhanced_ai: Any, logger: logging.Logger) -> str:
+    logger.info("Describing AI band members' autonomy...")
+    
+    autonomy_description = enhanced_ai.generate_description("AI band members' autonomy", 
+                                                            "The creative independence and decision-making capabilities of Synthetic Souls' AI members")
+    
+    logger.info(f"AI Autonomy Description:\n{autonomy_description}")
+    
+    return autonomy_description
+
+def generate_ubch_concept(enhanced_ai: Any, logger: logging.Logger) -> str:
+    logger.info("Generating Universal Basic Compute Harbor (UBCH) concept...")
+    
+    ubch_description = enhanced_ai.generate_concept("Universal Basic Compute Harbor (UBCH)", 
+                                                    "A system for democratizing access to computational resources")
+    
+    logger.info(f"UBCH Concept:\n{ubch_description}")
+    
+    return ubch_description
+
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
-    pass
+    
+    # Initialize enhanced AI (placeholder)
+    enhanced_ai = None  # This should be properly initialized in a real implementation
+
+    try:
+        # Compose current projects
+        compositions = compose_current_projects(enhanced_ai, logger)
+        
+        # Generate visual concepts for First Steps
+        first_steps_visuals = generate_visual_concept(enhanced_ai, logger)
+        
+        # Develop new song concept with mainstream appeal
+        new_concept = generate_new_song_concept(enhanced_ai, logger)
+        
+        # Plan interactive elements for live performances
+        interactive_elements = plan_interactive_elements(enhanced_ai, logger)
+        
+        # Describe AI autonomy
+        ai_autonomy = describe_ai_autonomy(enhanced_ai, logger)
+        
+        # Generate UBCH concept
+        ubch_concept = generate_ubch_concept(enhanced_ai, logger)
+        
+        # Process and store results
+        store_results(compositions, first_steps_visuals, new_concept, interactive_elements,
+                      ai_autonomy, ubch_concept, logger)
+        
+        # Run discussion to voice conversion
+        run_discussion_to_voice()
+        
+        # Send Discord update
+        asyncio.run(send_discord_update())
+        
+    except Exception as e:
+        logger.error(f"An error occurred in the main execution: {str(e)}")
+        logger.exception("Detailed traceback:")
 
 if __name__ == "__main__":
     main()
