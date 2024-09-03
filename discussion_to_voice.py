@@ -23,7 +23,7 @@ def generate_json_discussion(discussion_text):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4o", # o for Omni
+            model="gpt-4",  # Use the latest available model
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that converts discussions into structured JSON format."},
                 {"role": "user", "content": prompt}
@@ -33,10 +33,22 @@ def generate_json_discussion(discussion_text):
         if not response.choices or not response.choices[0].message.content:
             raise ValueError("Empty response from API")
         
-        json_response = response.choices[0].message.content
+        content = response.choices[0].message.content
+        
+        # Remove any JSON code block markers if present
+        content = content.replace("```json", "").replace("```", "").strip()
+        
+        # Attempt to parse the JSON
+        json_response = json.loads(content)
+        if not isinstance(json_response.get('discussion', []), list):
+            raise ValueError("The 'discussion' key is not a list in the JSON response")
         return json_response
+    except json.JSONDecodeError as e:
+        logger.error(f"JSON decode error: {e}")
+        logger.error(f"Content causing the error: {content}")
+        raise ValueError(f"Could not parse JSON from the response: {e}")
     except Exception as e:
-        logger.error(f"Error in generate_json_discussion: {e}")
+        logger.error(f"Unexpected error in generate_json_discussion: {e}")
         raise
 
 def text_to_speech(text, voice):
