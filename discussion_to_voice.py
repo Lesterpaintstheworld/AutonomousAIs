@@ -411,6 +411,9 @@ def discussion_to_voice(input_file):
         
         # Generate audio for each sentence
         audio_files = []
+        temp_dir = "temp_audio_files"
+        os.makedirs(temp_dir, exist_ok=True)
+        
         for i, item in enumerate(json_discussion['discussion'], 1):
             try:
                 speaker = item['speaker']
@@ -433,7 +436,7 @@ def discussion_to_voice(input_file):
             audio = text_to_speech(text, voice)
             
             # Save audio to a temporary file
-            temp_file = f"temp_{speaker}_{i}.mp3"
+            temp_file = os.path.join(temp_dir, f"temp_{speaker}_{i}.mp3")
             with open(temp_file, "wb") as f:
                 f.write(audio)
             audio_files.append(temp_file)
@@ -446,7 +449,7 @@ def discussion_to_voice(input_file):
         final_audio = stitch_audio_files(audio_files)
         
         # Save the final audio
-        output_file = "discussion_audio.mp3"
+        output_file = "final_discussion_audio.mp3"
         final_audio.export(output_file, format="mp3")
         logger.info(f"Final audio saved to: {output_file}")
         
@@ -456,6 +459,7 @@ def discussion_to_voice(input_file):
                 os.remove(file)
             else:
                 logger.warning(f"Temporary file not found for cleanup: {file}")
+        os.rmdir(temp_dir)
         logger.info("Temporary audio files cleaned up")
         
         return output_file
