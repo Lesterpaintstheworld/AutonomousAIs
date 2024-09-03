@@ -470,7 +470,7 @@ def discussion_to_voice(input_file):
 
 if __name__ == "__main__":
     try:
-        input_file = "discussions/band_discussion.md"
+        input_file = "discussions/game_engine_discussion.md"
         output_file = discussion_to_voice(input_file)
         if output_file:
             print(f"Audio discussion saved to {output_file}")
@@ -478,6 +478,7 @@ if __name__ == "__main__":
             print("Failed to generate audio discussion.")
     except Exception as e:
         print(f"An error occurred: {e}")
+        logger.exception("Detailed error traceback:")
 import json
 import os
 import subprocess
