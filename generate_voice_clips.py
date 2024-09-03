@@ -48,6 +48,7 @@ print("All audio clips generated successfully!")
 
 # Stitch all audio files together
 import os
+import tempfile
 from pydub import AudioSegment
 
 def stitch_audio_files(directory):
@@ -59,6 +60,6 @@ def stitch_audio_files(directory):
     return combined
 
 combined_audio = stitch_audio_files("audio_clips")
-output_file = "combined_discussion.mp3"
-combined_audio.export(output_file, format="mp3")
-print(f"Combined audio saved to {output_file}")
+with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as temp_file:
+    combined_audio.export(temp_file.name, format="mp3")
+    print(f"Combined audio saved to temporary file: {temp_file.name}")
