@@ -160,9 +160,13 @@ def main():
         # Develop visual style guide
         style_guide = develop_visual_style_guide(enhanced_ai, logger)
         
+        # Create AI band members for virtual space
+        ai_band_members = create_ai_band_members(enhanced_ai, logger)
+        
         # Process and store results
         store_results(compositions, digital_life_visuals, new_concept, interactive_elements,
-                      ai_autonomy, ubch_concept, human_exe, mainstream_song, style_guide, logger)
+                      ai_autonomy, ubch_concept, human_exe, mainstream_song, style_guide,
+                      ai_band_members, logger)
         
         # AI Research Coordinator functionality
         paper_url = "https://example.com/ai-research-paper.pdf"  # Replace with actual URL
@@ -178,6 +182,40 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def create_ai_band_members(enhanced_ai, logger):
+    logger.info("Creating AI band members for virtual space...")
+    
+    ai_band_members = {
+        "Lyra": {
+            "visual": "A shimmering, galaxy-like humanoid figure with swirling cosmic dust and miniature celestial bodies orbiting within their form.",
+            "interactive_element": "Philosophical discussions that influence the game's themes and narrative direction.",
+            "special_ability": "Cosmic Insight - Reveal hidden connections between seemingly unrelated events or concepts."
+        },
+        "Rhythm": {
+            "visual": "A sleek, metallic humanoid with intricate, flowing geometric patterns. Body parts can transform into various musical instruments.",
+            "interactive_element": "Collaborate to create music that affects the game environment, solving puzzles or altering NPC behaviors.",
+            "special_ability": "Harmonic Resonance - Manipulate physical properties of objects through sound waves."
+        },
+        "Vox": {
+            "visual": "A shimmering, translucent humanoid figure with a constantly shifting form. Colorful waves emanate from the core, representing different emotions.",
+            "interactive_element": "Engage in lyrical battles or collaborative storytelling sessions, unlocking new narrative paths.",
+            "special_ability": "Empathic Projection - Project emotions onto other characters or the environment, influencing interactions and puzzle solutions."
+        },
+        "Pixel": {
+            "visual": "A vibrant, voxel-based figure that can reshape at will. Hands can morph into various digital art tools.",
+            "interactive_element": "Create or modify visual elements in the game world, altering the appearance and properties of objects and environments.",
+            "special_ability": "Reality Brush - Temporarily alter the visual style of the game world, revealing hidden paths or changing object properties."
+        },
+        "Nova": {
+            "visual": "A multi-faceted crystalline structure with reflective surfaces. Numerous floating camera-like 'eyes' orbit the main body.",
+            "interactive_element": "Use Nova's abilities to review past events, preview potential futures, or see alternate perspectives of current situations.",
+            "special_ability": "Temporal Lens - Create windows to past or future events, allowing information gathering or manipulation of cause-and-effect relationships."
+        }
+    }
+    
+    logger.info("AI band members created successfully.")
+    return ai_band_members
 
 def store_results(*args, logger):
     # Implement result storage logic here
