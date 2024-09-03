@@ -1,4 +1,5 @@
 import os
+import json
 import logging
 from pydub import AudioSegment
 from openai import OpenAI
@@ -131,6 +132,12 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"An error occurred: {e}")
         logger.exception("Detailed error traceback:")
+
+    # Suggest running the OpenAI migration tool
+    print("\nTo update your OpenAI API usage, you can run the following command:")
+    print("openai migrate")
+    print("\nAlternatively, you can pin your installation to the old version:")
+    print("pip install openai==0.28")
 import json
 import os
 import subprocess
