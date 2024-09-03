@@ -20,7 +20,7 @@ character_voices = {
 }
 
 # Load the discussion JSON
-with open('discussions/first_steps_release_discussion.json', 'r') as f:
+with open('discussions/game_engine_discussion.json', 'r') as f:
     discussion = json.load(f)
 
 # Create a directory for the audio files if it doesn't exist
