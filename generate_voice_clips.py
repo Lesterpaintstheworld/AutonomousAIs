@@ -41,6 +41,7 @@ for i, message in enumerate(discussion['discussion']):
 print("All audio clips generated successfully!")
 
 # Stitch all audio files together
+import os
 from pydub import AudioSegment
 
 def stitch_audio_files(directory):
