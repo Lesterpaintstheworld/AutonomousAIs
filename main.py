@@ -129,25 +129,9 @@ def run_discussion_to_voice():
     except Exception as e:
         logger.error(f"Error in discussion_to_voice: {str(e)}")
 
-async def main():
+def main():
     logger.info("Synthetic Souls AI Composition Engine started")
-
-    try:
-        # Comment out Discord and voice conversion functions
-        # Send Discord update (only once)
-        # logger.debug("Sending Discord update...")
-        # await send_discord_update()
-        
-        # Run discussion_to_voice
-        # logger.debug("Running discussion_to_voice...")
-        # run_discussion_to_voice()
-        
-        # Run Discord bot
-        # logger.debug("Starting Discord bot...")
-        # await run_bot()
-        pass  # Add this line to avoid empty try block
-    except Exception as e:
-        logger.error(f"Error in operations: {str(e)}")
+    pass
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
