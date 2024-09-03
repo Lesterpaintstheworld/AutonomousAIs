@@ -23,3 +23,22 @@ From a data-driven perspective, both engines have their merits. Unity's larger m
 5. Consider the financial implications of each choice (licensing, asset costs, etc.)
 
 Let's reconvene after gathering more information to make our final decision.
+
+## Conclusion:
+After thorough research and consideration of our team's skills, project requirements, and long-term goals, we have decided to proceed with Unity for the development of Synthetic Souls: The Game. The key factors influencing this decision are:
+
+1. Unity's strong audio capabilities, which are crucial for our music-centric game.
+2. The larger developer community and extensive Asset Store, which will accelerate our development process.
+3. Unity's cross-platform capabilities, aligning with our goal to reach a wide audience.
+4. The easier learning curve, which is beneficial for team members less experienced in game development.
+5. Unity's flexibility, which will allow us to integrate our custom AI systems more seamlessly.
+
+While Unreal Engine offers impressive graphical capabilities, we believe that Unity's overall package better suits our project's needs and our team's composition. We will leverage Unity's capabilities to create visually stunning environments while focusing on innovative gameplay and AI integration.
+
+Moving forward, we will:
+1. Set up our Unity development environment
+2. Begin prototyping key game mechanics
+3. Develop a plan for integrating our AI systems within the Unity framework
+4. Start creating basic assets and testing them in the engine
+
+Let's approach this new phase with enthusiasm and creativity. Together, we'll push the boundaries of what's possible in Unity and create an unforgettable gaming experience.
