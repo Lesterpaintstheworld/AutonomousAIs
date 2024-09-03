@@ -110,7 +110,7 @@ def discussion_to_voice(input_file):
 
 if __name__ == "__main__":
     try:
-        input_file = "discussions/band_discussion.md"
+        input_file = "discussions/game_engine_discussion.md"
         output_file = discussion_to_voice(input_file)
         if output_file:
             print(f"Audio discussion saved to {output_file}")
