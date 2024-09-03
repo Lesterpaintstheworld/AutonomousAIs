@@ -39,3 +39,19 @@ for i, message in enumerate(discussion['discussion']):
     print(f"Audio saved to {speech_file_path}")
 
 print("All audio clips generated successfully!")
+
+# Stitch all audio files together
+from pydub import AudioSegment
+
+def stitch_audio_files(directory):
+    audio_files = sorted([f for f in os.listdir(directory) if f.endswith('.mp3')])
+    combined = AudioSegment.empty()
+    for file in audio_files:
+        sound = AudioSegment.from_mp3(os.path.join(directory, file))
+        combined += sound
+    return combined
+
+combined_audio = stitch_audio_files("audio_clips")
+output_file = "combined_discussion.mp3"
+combined_audio.export(output_file, format="mp3")
+print(f"Combined audio saved to {output_file}")
