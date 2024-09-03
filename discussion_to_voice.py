@@ -23,7 +23,7 @@ def generate_json_discussion(discussion_text):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4",  # Use the latest available model
+            model="gpt-4o",  # Use the latest available model (do not change)
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that converts discussions into structured JSON format."},
                 {"role": "user", "content": prompt}
