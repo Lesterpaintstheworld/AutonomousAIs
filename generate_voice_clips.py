@@ -1,8 +1,14 @@
 import json
+import os
 from pathlib import Path
+from dotenv import load_dotenv
 from openai import OpenAI
 
-client = OpenAI()
+# Load environment variables from .env file
+load_dotenv()
+
+# Initialize OpenAI client with API key from environment variable
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Define character voices
 character_voices = {
