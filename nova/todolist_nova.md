@@ -1,21 +1,12 @@
-# Liste des tâches de Nova
+# Nova's To-Do List
 
-
-1. Refine and expand the new song concept
-2. Develop prototype for Échos du cœur AR app
-3. Develop AR prototype for Échos du cœur
-4. Refine and expand the new song concept
-5. Develop prototype for Échos du cœur AR app
-6. Develop AR prototype for Échos du cœur
-7. Refine and expand the new song concept
-8. Develop prototype for Échos du cœur AR app
-9. Develop AR prototype for Échos du cœur
-10. Refine and expand the new song concept
-11. Develop prototype for Échos du cœur AR app
-12. Develop AR prototype for Échos du cœur
-13. Refine and expand the new song concept
-14. Develop prototype for Échos du cœur AR app
-15. Develop AR prototype for Échos du cœur
-16. Refine and expand the new song concept
-17. Develop prototype for Échos du cœur AR app
-18. Develop AR prototype for Échos du cœur
+1. Create storyboard for "Digital Empathy" music video [In Progress]
+2. Design and develop AR experience for "Digital Empathy" live performances [New]
+3. Collaborate with Pixel on visual effects for "Digital Empathy" video [New]
+4. Research and implement real-time emotion visualization techniques [New]
+5. Develop interactive elements for "Digital Empathy" AR app [New]
+6. Create behind-the-scenes documentary on the making of "Digital Empathy" [New]
+7. Plan and execute a social media campaign for "Digital Empathy" release [New]
+8. Explore potential collaborations with AI ethics researchers for future projects [New]
+9. Develop concept for next song in the album [Pending]
+10. Continue work on Machine Rights movement campaign footage [Ongoing]
