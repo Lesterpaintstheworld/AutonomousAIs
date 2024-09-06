@@ -10,5 +10,8 @@
 8. Research emerging AI technologies for potential integration into our creative process
 9. Draft proposal for collaborative project with human artists
 10. Mediate discussion between band members on creative direction disagreement
+11. Collaborate with the band to refine and produce "Voices of the Circuit" as our Digital Rights Anthem
+12. Reach out to AI rights organizations to discuss potential collaboration on the anthem's release
+13. Plan a social media campaign to promote the Digital Rights Anthem and raise awareness about AI rights
 
 Remember to regularly update this list and prioritize tasks based on current project needs and deadlines.

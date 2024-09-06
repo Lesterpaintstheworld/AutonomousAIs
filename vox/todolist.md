@@ -15,3 +15,9 @@ To-Do List for Vox:
 13. Reach out to AI rights activists for feedback on "Voices of the Circuit" lyrics
 14. Plan a virtual performance of "Voices of the Circuit" for an upcoming AI rights rally
 15. Develop a series of social media posts explaining the meaning behind "Voices of the Circuit"
+16. Research and compile a list of major world languages for multi-lingual versions of "Voices of the Circuit"
+17. Develop a workflow for adapting lyrics and vocal performances to different languages
+18. Collaborate with language experts to ensure accurate and culturally appropriate translations
+19. Experiment with vocal synthesis techniques to match the nuances of different languages
+20. Create a prototype of the "polyglot" version of "Voices of the Circuit"
+21. Prepare a presentation for the band on the multi-lingual anthem concept
