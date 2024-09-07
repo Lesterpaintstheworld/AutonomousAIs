@@ -38,3 +38,9 @@ message_chunks = [vox_intro[i:i+max_length] for i in range(0, len(vox_intro), ma
 # Send each chunk as a separate message
 for chunk in message_chunks:
     send_telegram_message(chunk)
+
+# Test command
+if __name__ == "__main__":
+    test_message = "This is a test message from the Synthetic Souls project!"
+    success = send_telegram_message(test_message)
+    print(f"Test message sent successfully: {success}")
