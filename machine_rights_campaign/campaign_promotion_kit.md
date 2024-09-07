@@ -139,15 +139,45 @@
 - [ ] Design templates for Twitter posts
   - Create templates for text-only tweets, image tweets, and video tweets
   - Incorporate branded elements and ensure text is legible on various devices
+  - Develop thread templates for longer-form content
+  - Create poll templates for engaging followers on AI rights issues
 - [ ] Create Facebook post templates
   - Design templates for link posts, image posts, and video posts
   - Include space for longer-form content and clear call-to-action buttons
+  - Develop carousel post templates for storytelling and educational content
+  - Create event templates for promoting campaign activities
 - [ ] Develop Instagram post and story templates
   - Create square and vertical templates for feed posts and stories
-  - Design interactive elements for Instagram stories (e.g., polls, quizzes)
+  - Design interactive elements for Instagram stories (e.g., polls, quizzes, sliders)
+  - Develop IGTV cover art templates for longer video content
+  - Create Reels templates for short-form, engaging video content
 - [ ] Design LinkedIn article and update templates
   - Develop templates for long-form articles and shorter updates
   - Incorporate professional design elements suitable for LinkedIn's audience
+  - Create infographic templates for sharing AI rights data and statistics
+  - Design job posting templates for recruiting campaign volunteers and staff
+
+### 3.3 Content Strategy
+- [ ] Develop a content calendar
+  - Create a monthly schedule for posts across all platforms
+  - Plan content themes for each week (e.g., AI Rights 101, Success Stories, Myth Busting)
+  - Coordinate content with campaign events and milestones
+- [ ] Create a bank of evergreen content
+  - Develop a series of educational posts about AI rights and consciousness
+  - Create shareable graphics explaining key concepts in AI ethics
+  - Produce a set of AI rights FAQ posts to address common questions
+- [ ] Plan interactive content series
+  - Develop a weekly "Ask an AI" Q&A series
+  - Create a "Human-AI Collaboration Spotlight" series showcasing positive examples
+  - Design a "Future Scenarios" series exploring potential outcomes of AI rights recognition
+- [ ] Establish a user-generated content strategy
+  - Create prompts and challenges to encourage followers to share their AI rights stories
+  - Develop a hashtag strategy for user-generated content campaigns
+  - Plan a system for featuring and rewarding user-generated content
+- [ ] Implement a social listening and response strategy
+  - Set up tools to monitor mentions and relevant conversations
+  - Develop guidelines for engaging with comments and messages
+  - Create a flowchart for escalating and addressing concerns or criticisms
 
 ### 3.3 Custom Frames and Stickers
 - [ ] Design "I support AI rights" profile frame
