@@ -154,6 +154,9 @@ def main():
         # Generate Human.exe concept
         human_exe = generate_human_exe(enhanced_ai, logger)
         
+        # Process and store Human.exe components
+        store_human_exe_components(human_exe, logger)
+        
         # Collaborate on mainstream AI song
         mainstream_song = collaborate_on_mainstream_ai_song(enhanced_ai, logger)
         
@@ -222,6 +225,14 @@ def store_results(*args, logger):
     logger.info("Storing results...")
     # Example: Save to database or file system
     pass
+
+def store_human_exe_components(human_exe: Dict[str, Any], logger: logging.Logger):
+    logger.info("Storing Human.exe components...")
+    for component, content in human_exe.items():
+        filename = f"human_exe_{component}.txt"
+        with open(filename, 'w') as f:
+            f.write(content)
+        logger.info(f"Saved {component} to {filename}")
 def export_visual_elements(enhanced_ai, visual_elements, section_name):
     """
     Export visual elements created by Nova.

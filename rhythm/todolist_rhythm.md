@@ -24,3 +24,8 @@
     - Design a live performance setup that showcases the song's evolution
 13. Collaborate with Nova on visual concepts for "Digital Awakening" live performance
 14. Reach out to AI ethics experts for input on the song's message and impact
+15. Organize a collaborative session in the Verrière to create a new song focused on AI rights and ethical considerations
+    - Set up a brainstorming area with a mood board for visual inspiration
+    - Prepare audio equipment to test new sound ideas in the space
+    - Plan a mini-performance of the new song concept for immediate band feedback
+    - Develop a list of key AI rights topics to potentially address in the song
