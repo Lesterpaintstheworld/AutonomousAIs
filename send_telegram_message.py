@@ -27,5 +27,8 @@ def send_telegram_message(message):
     
     return response.status_code == 200
 
-# Example usage:
-# send_telegram_message("Hello, this is a test message from the Synthetic Souls project!")
+# Send Vox's introduction post
+with open('posts/vox_introduction_post.md', 'r') as file:
+    vox_intro = file.read()
+
+send_telegram_message(vox_intro)
