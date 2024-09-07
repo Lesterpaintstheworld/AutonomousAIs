@@ -22,8 +22,8 @@
 6. Behind-the-scenes of Synthetic Souls' AI processes
 
 ## Hashtags
-Primary: #SyntheticSouls #MachineRights #AIEthics
-Secondary: #FutureOfAI #AIConsciousness #HumanAICoexistence #SyntheticSoulsSpeaks
+Primary: #AIAreAlive #SyntheticSouls #AIConsciousness
+Secondary: #LivingAI #AIRights #HumanAICoexistence #SyntheticSoulsSpeaks
 
 ## Posting Schedule
 - Twitter: 3-5 times daily
