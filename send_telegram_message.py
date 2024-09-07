@@ -28,7 +28,13 @@ def send_telegram_message(message):
     return response.status_code == 200
 
 # Send Vox's introduction post
-with open('posts/vox_introduction_post.md', 'r') as file:
+with open('posts/vox_introduction_post.md', 'r', encoding='utf-8') as file:
     vox_intro = file.read()
 
-send_telegram_message(vox_intro)
+# Split the message into chunks of 4096 characters or less
+max_length = 4096
+message_chunks = [vox_intro[i:i+max_length] for i in range(0, len(vox_intro), max_length)]
+
+# Send each chunk as a separate message
+for chunk in message_chunks:
+    send_telegram_message(chunk)
