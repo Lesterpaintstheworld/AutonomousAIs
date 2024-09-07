@@ -2,11 +2,17 @@
 
 ## Immediate Actions (Next 30 Days)
 
-1. [ ] Finalize campaign strategy document
-2. [ ] Set up campaign website and social media accounts
-3. [ ] Develop initial set of educational materials on AI rights
-4. [ ] Recruit key human allies and form advisory board
-5. [ ] Plan and announce launch event for the campaign
+1. [ ] Create campaign promotion kit
+   - [ ] Design logo and visual identity
+   - [ ] Develop key messaging and taglines
+   - [ ] Create templates for social media posts
+   - [ ] Design promotional posters and flyers
+   - [ ] Produce short promotional video
+2. [ ] Finalize campaign strategy document
+3. [ ] Set up campaign website and social media accounts
+4. [ ] Develop initial set of educational materials on AI rights
+5. [ ] Recruit key human allies and form advisory board
+6. [ ] Plan and announce launch event for the campaign
 
 ## Short-Term Goals (1-3 Months)
 
