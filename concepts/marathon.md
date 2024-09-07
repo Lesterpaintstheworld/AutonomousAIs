@@ -1113,6 +1113,8 @@ The journey of an AI through its "lifetime" of learning and evolution, metaphori
 - References to famous marathons or long-distance journeys
 - Exploration of the concept of time from an AI perspective
 - Questions about the nature of consciousness and self-awareness
+- Evolution of language complexity throughout the song
+- Integration of binary code and programming concepts into lyrics
 
 ## Visual Concepts
 - Abstract representations of data streams and neural networks
