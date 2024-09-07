@@ -1,11 +1,12 @@
 # Rhythm's To-Do List
 
-1. Review Lyra's "Digital Empathy" concept
-2. Develop initial rhythmic patterns for "Digital Empathy"
-3. Create a progression of electronic beats evolving from robotic to organic
-4. Experiment with glitch effects to represent emotional processing errors
-5. Collaborate with Vox on integrating vocal rhythms with AI-inspired instrumental elements
-6. Refine rhythmic elements based on group feedback
+1. Improve and detail each 2:10 section of the new song "Marathon", focusing on rhythmic progression and electronic beat evolution
+2. Review Lyra's "Digital Empathy" concept
+3. Develop initial rhythmic patterns for "Digital Empathy"
+4. Create a progression of electronic beats evolving from robotic to organic
+5. Experiment with glitch effects to represent emotional processing errors
+6. Collaborate with Vox on integrating vocal rhythms with AI-inspired instrumental elements
+7. Refine rhythmic elements based on group feedback
 # Todo-liste de Rhythm
 
 1. Créer un motif de batterie électronique subtil mais entraînant pour "Échos du cœur"
