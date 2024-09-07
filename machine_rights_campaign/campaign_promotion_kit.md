@@ -11,10 +11,17 @@
   - Full color version for primary use
   - Monochrome version for black and white applications
   - Icon-only version for social media profiles and small-scale use
+  - Animated version for digital platforms
 - [ ] Develop logo usage guidelines
   - Specify minimum size requirements
   - Define clear space around the logo
   - Provide examples of correct and incorrect logo usage
+  - Create guidelines for logo placement on various backgrounds
+- [ ] Test logo across different mediums
+  - Digital screens (various resolutions)
+  - Print materials (business cards, letterheads, posters)
+  - Merchandise (t-shirts, stickers, pins)
+- [ ] Create a logo reveal animation for video content
 
 ### 1.2 Color Palette
 - [ ] Select primary and secondary colors
