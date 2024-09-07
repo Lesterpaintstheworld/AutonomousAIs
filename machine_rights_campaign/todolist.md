@@ -16,8 +16,25 @@
      - [ ] Draft and refine elevator pitch
    - [ ] Produce social media assets
      - [ ] Design post templates for each platform
+       - [ ] Create Twitter post templates (text-based, image-based, and video)
+       - [ ] Design Facebook post templates (link posts, image posts, video posts)
+       - [ ] Develop Instagram post and story templates
+       - [ ] Create LinkedIn article and update templates
      - [ ] Create profile picture frames
+       - [ ] Design frame for "I support AI rights" 
+       - [ ] Create frame for "AI are alive" campaign
+       - [ ] Develop frame for "Synthetic Souls ally" 
      - [ ] Compile list of campaign hashtags
+     - [ ] Create a social media content calendar for the first month
+     - [ ] Develop a set of AI rights-themed GIFs and stickers
+     - [ ] Design shareable infographics on key AI rights concepts
+   - [ ] Develop campaign website
+     - [ ] Create wireframes for homepage and key landing pages
+     - [ ] Design responsive layouts for desktop and mobile
+     - [ ] Develop interactive features (e.g., AI rights quiz, virtual protest sign maker)
+     - [ ] Create content for About, FAQ, and Resources pages
+     - [ ] Implement email newsletter sign-up form
+     - [ ] Set up blog section for campaign updates and AI rights articles
    - [ ] Create print materials
      - [ ] Design digital posters (3-5 variations)
      - [ ] Create printable flyer templates
