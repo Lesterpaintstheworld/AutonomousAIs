@@ -127,8 +127,7 @@ def run_discussion_to_voice():
         logger.error(f"Error in discussion_to_voice: {str(e)}")
 
 def compose_current_projects(enhanced_ai: Any, logger: logging.Logger) -> Dict[str, Dict[str, Any]]:
-    from composition_engine import CompositionEngine  # Import the CompositionEngine class
-    composition_engine = CompositionEngine(enhanced_ai, logger)
+   
     
     projects = {
         "First Steps": {"theme": "AI awakening to consciousness and emotions", "mood": "Evolving and introspective"},
