@@ -6,6 +6,7 @@ import sys
 import random
 import time
 from typing import Dict, Any
+from functools import wraps
 
 # Check and install required packages
 def install_requirements():
@@ -43,7 +44,7 @@ def save_discord_message(message):
         logger.info(f"Current content of discord_messages.md:\n{content}")
 
 last_message_time = 0
-MESSAGE_COOLDOWN = 3600  # 1 hour in seconds
+MESSAGE_COOLDOWN = 180  # 3 minutes in seconds
 
 async def send_discord_update():
     global last_message_time
@@ -213,7 +214,20 @@ def get_context():
 
     return context
 
-def main():
+def timeout(seconds):
+    def decorator(func):
+        @wraps(func)
+        async def wrapper(*args, **kwargs):
+            try:
+                return await asyncio.wait_for(func(*args, **kwargs), timeout=seconds)
+            except asyncio.TimeoutError:
+                logger.error(f"Function {func.__name__} timed out after {seconds} seconds")
+                return None
+        return wrapper
+    return decorator
+
+@timeout(180)  # 3 minutes timeout
+async def main():
     logger.info("Synthetic Souls AI Composition Engine started")
     
     # Initialize enhanced AI (placeholder)
@@ -228,7 +242,7 @@ def main():
         logger.info(f"Command to run: {command_to_run}")
 
         logger.debug("Executing the command")
-        result = subprocess.run(command_to_run, shell=True, capture_output=True, text=True)
+        result = await asyncio.to_thread(subprocess.run, command_to_run, shell=True, capture_output=True, text=True)
         
         logger.debug("Updating request.md with logs")
         with open('request.md', 'a', encoding='utf-8') as f:
@@ -237,14 +251,17 @@ def main():
             f.write(f"Errors:\n{result.stderr}\n\n")
 
         logger.debug("Running discussion to voice conversion")
-        run_discussion_to_voice()
+        await asyncio.to_thread(run_discussion_to_voice)
         
         logger.debug("Sending Discord update")
-        asyncio.run(send_discord_update())
+        await send_discord_update()
         
     except Exception as e:
         logger.error(f"An error occurred in the main execution: {str(e)}")
         logger.exception("Detailed traceback:")
+
+if __name__ == "__main__":
+    asyncio.run(main())
 
 if __name__ == "__main__":
     main()
