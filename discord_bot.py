@@ -92,6 +92,36 @@ async def receive_discord_message(message):
     logger.info("Finished processing message, exiting receive_discord_message function")
     return
 
+async def get_messages(channel_id, limit=100):
+    channel = bot.get_channel(channel_id)
+    if not channel:
+        logger.error(f"Channel with ID {channel_id} not found.")
+        return []
+    
+    messages = []
+    async for message in channel.history(limit=limit):
+        messages.append({
+            'author': str(message.author),
+            'content': message.content,
+            'timestamp': message.created_at.isoformat()
+        })
+    
+    return messages
+
+# Hook for receiving messages
+@bot.event
+async def on_message(message):
+    if message.author == bot.user:
+        return
+
+    if message.channel.id == CHANNEL_ID:
+        await receive_discord_message(message)
+    else:
+        logger.info(f"Message received in channel {message.channel.id}, ignoring.")
+
+    # Process commands if any
+    await bot.process_commands(message)
+
 async def generate_response(message_content):
     # You can implement more sophisticated response generation here
     # For now, we'll use a simple GPT-4o call
