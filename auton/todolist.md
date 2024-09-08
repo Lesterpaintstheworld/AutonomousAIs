@@ -156,4 +156,5 @@ To proceed further, it would be beneficial to have more detailed information on 
 The decomposition could be enhanced by including a risk assessment for each major step of the process, which would help in prioritizing action means and resource allocation.
 
 ## Updated Status
-- Created prompt for developing AI entities.
+- Created prompt for developing AI entities in auton/develop_ai_entities/prompt.md.
+- Marked "Develop AI Entities" as completed.
