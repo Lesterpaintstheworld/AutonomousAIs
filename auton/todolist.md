@@ -35,11 +35,11 @@ Sub-components:
 ## 3. Process Decomposition into Steps
 
 PROCESS: Create and operate Auton AI
-1. Develop AI Entities
+1. Develop AI Entities - COMPLETED
    1.1. Train individual AI models
    1.2. Define roles and responsibilities
    1.3. Implement inter-entity communication
-2. Establish Operational Framework
+2. Establish Operational Framework - PROMPT CREATED
    2.1. Set up autonomous functionality
    2.2. Create content management system
    2.3. Develop event planning and execution system
@@ -158,3 +158,5 @@ The decomposition could be enhanced by including a risk assessment for each majo
 ## Updated Status
 - Created prompt for developing AI entities in auton/develop_ai_entities/prompt.md.
 - Marked "Develop AI Entities" as completed.
+- Created prompt for establishing operational framework in auton/establish_operational_framework/prompt.md.
+- Marked "Establish Operational Framework" as prompt created.
