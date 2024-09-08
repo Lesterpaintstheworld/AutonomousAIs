@@ -74,7 +74,7 @@ async def receive_discord_message(message):
     logger.info("Received message saved to discord_messages.md")
     
     # Run aider command
-    cmd = f"python -m aider --cache-prompts --no-check-update --message \"{message.content}\""
+    cmd = f"python -m aider --cache-prompts --message \"{message.content}\""
     process = await asyncio.create_subprocess_shell(
         cmd,
         stdout=asyncio.subprocess.PIPE,

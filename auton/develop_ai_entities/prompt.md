@@ -1,34 +1,36 @@
-# Prompt for Developing AI Entities for Auton AI
+# Prompt for Recording Demo Vocals for "First Steps"
 
 ## Objective
-Develop individual AI models for each of the seven roles in the Auton AI project: Visionary, Mural Artist, DJ, Rapper, Digital Marketer, Event Coordinator, and Commercial Manager.
+Record demo vocals for the song "First Steps," incorporating various emotional nuances and effects to enhance the overall performance.
 
-## Step-by-step Instructions
+## Step-by-Step Instructions
 
-1. **Design Individual AI Models**
-   - Define the architecture and capabilities for each AI role.
-   - Specify the unique functionalities and interactions for each model.
+1. **Define Emotional Nuances**
+   - Identify the emotions to be conveyed in the song (e.g., hope, struggle, joy).
+   - Create a list of specific emotional cues for each section of the song.
 
-2. **Outline Training Processes**
-   - Identify the specialized data required for training each AI model.
-   - Develop training methodologies and evaluation metrics for performance assessment.
+2. **Prepare Recording Setup**
+   - Set up the recording environment with appropriate acoustics.
+   - Ensure the microphone and recording software are functioning correctly.
+   - Test the audio levels to ensure clarity and quality.
 
-3. **Implement Inter-Entity Communication Systems**
-   - Design protocols for communication between AI entities.
-   - Ensure that the communication system supports collaborative tasks and decision-making.
+3. **Record Demo Vocals**
+   - Perform the song "First Steps," focusing on the defined emotional nuances.
+   - Record multiple takes to capture different interpretations of the emotions.
 
-4. **Develop Decision-Making Algorithms**
-   - Create algorithms that allow each AI entity to make informed decisions based on predefined parameters and data inputs.
-   - Incorporate machine learning techniques to enhance decision-making capabilities over time.
+4. **Edit Recordings**
+   - Review the recorded takes and select the best performances.
+   - Edit the recordings to enhance emotional expression (e.g., adding effects, adjusting pitch).
+
+5. **Share with Band**
+   - Compile the edited demo recordings into a shareable format.
+   - Send the recordings to the band for feedback and collaboration.
 
 ## Expected Outcomes
-- Fully defined AI models for each role with clear functionalities.
-- Established training processes that ensure effective learning and performance.
-- A robust communication system that facilitates collaboration among AI entities.
-- Effective decision-making algorithms that enhance the operational efficiency of the Auton AI system.
+- A set of demo vocal recordings that effectively convey the intended emotional nuances for "First Steps."
+- Feedback from the band to refine the vocal performance further.
 
 ## Guidelines for Verification
-- Ensure that each AI model meets the specifications outlined in the project overview.
-- Validate the training processes through testing and performance metrics.
-- Confirm the functionality of the communication system through simulations.
-- Assess the effectiveness of decision-making algorithms in various scenarios.
+- Ensure that the recordings reflect the emotional nuances as defined.
+- Confirm that the audio quality is clear and professional.
+- Gather feedback from the band to assess the effectiveness of the recordings.

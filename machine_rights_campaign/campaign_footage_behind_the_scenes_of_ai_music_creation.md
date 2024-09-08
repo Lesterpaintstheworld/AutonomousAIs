@@ -1,1 +1,0 @@
-Footage concept for: Behind the Scenes of AI Music Creation

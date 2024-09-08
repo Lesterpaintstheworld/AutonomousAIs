@@ -1,1 +1,0 @@
-Footage concept for: Virtual Recording Studio Tour

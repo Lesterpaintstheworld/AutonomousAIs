@@ -1,1 +1,0 @@
-Footage concept for: AI Songwriting Challenge
