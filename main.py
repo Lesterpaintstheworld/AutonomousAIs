@@ -225,9 +225,8 @@ def main():
         logger.debug("Generating UBCH concept")
         ubch_concept = generate_ubch_concept(enhanced_ai, logger)
         
-        logger.debug("Processing and storing results")
-        store_results(compositions, first_steps_visuals, new_concept, interactive_elements,
-                      ai_autonomy, ubch_concept, logger)
+        logger.debug("Processing results")
+        # TODO: Implement result processing if needed
         
         logger.debug("Running discussion to voice conversion")
         run_discussion_to_voice()
