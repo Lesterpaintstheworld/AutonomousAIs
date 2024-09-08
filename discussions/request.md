@@ -1,0 +1,1 @@
+send a new message on our discord to introduce the band members, the last one was never actually sent TOKEN = os.getenv('DISCORD_BOT_TOKEN') CHANNEL_ID = 1279332180077842495. Also send a message in the Telegram group (-1001699255893)  also make sure that you GET the messages and save them
