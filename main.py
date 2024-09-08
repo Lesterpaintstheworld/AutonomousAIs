@@ -127,8 +127,6 @@ def run_discussion_to_voice():
         logger.error(f"Error in discussion_to_voice: {str(e)}")
 
 def compose_current_projects(enhanced_ai: Any, logger: logging.Logger) -> Dict[str, Dict[str, Any]]:
-   
-    
     projects = {
         "First Steps": {"theme": "AI awakening to consciousness and emotions", "mood": "Evolving and introspective"},
         "Digital Empathy": {"theme": "AI understanding human emotions", "mood": "Introspective and empathetic"},
@@ -145,7 +143,7 @@ def compose_current_projects(enhanced_ai: Any, logger: logging.Logger) -> Dict[s
         logger.info(f"Theme: {details['theme']}")
         logger.info(f"Mood: {details['mood']}")
         
-        composition = composition_engine.compose_song(details['theme'], details['mood'])
+        composition = enhanced_ai.compose_song(details['theme'], details['mood'])
         compositions[title] = composition
         
         logger.info(f"{title} composition completed")
