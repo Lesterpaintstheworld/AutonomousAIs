@@ -199,6 +199,22 @@ def generate_ubch_concept(enhanced_ai: Any, logger: logging.Logger) -> str:
     
     return ubch_description
 
+def get_context():
+    context = ""
+    try:
+        with open('todolist.md', 'r', encoding='utf-8') as f:
+            context += f"Todolist:\n{f.read()}\n\n"
+    except FileNotFoundError:
+        logger.warning("todolist.md not found")
+
+    try:
+        with open('specifications.md', 'r', encoding='utf-8') as f:
+            context += f"Specifications:\n{f.read()}\n\n"
+    except FileNotFoundError:
+        logger.warning("specifications.md not found")
+
+    return context
+
 def main():
     logger.info("Synthetic Souls AI Composition Engine started")
     
@@ -206,27 +222,22 @@ def main():
     enhanced_ai = None  # This should be properly initialized in a real implementation
 
     try:
-        logger.debug("Starting composition of current projects")
-        compositions = compose_current_projects(enhanced_ai, logger)
+        context = get_context()
+        logger.debug("Calling completion with context")
+        completion_prompt = f"Based on the following context, what is the next command to run for the Synthetic Souls project? Only respond with the exact command to run, nothing else.\n\nContext:\n{context}"
         
-        logger.debug("Generating visual concepts for First Steps")
-        first_steps_visuals = generate_visual_concept(enhanced_ai, logger)
+        command_to_run = generate_gpt4o_message(completion_prompt)
+        logger.info(f"Command to run: {command_to_run}")
+
+        logger.debug("Executing the command")
+        result = subprocess.run(command_to_run, shell=True, capture_output=True, text=True)
         
-        logger.debug("Developing new song concept with mainstream appeal")
-        new_concept = generate_new_song_concept(enhanced_ai, logger)
-        
-        logger.debug("Planning interactive elements for live performances")
-        interactive_elements = plan_interactive_elements(enhanced_ai, logger)
-        
-        logger.debug("Describing AI autonomy")
-        ai_autonomy = describe_ai_autonomy(enhanced_ai, logger)
-        
-        logger.debug("Generating UBCH concept")
-        ubch_concept = generate_ubch_concept(enhanced_ai, logger)
-        
-        logger.debug("Processing results")
-        # TODO: Implement result processing if needed
-        
+        logger.debug("Updating request.md with logs")
+        with open('request.md', 'a', encoding='utf-8') as f:
+            f.write(f"Command executed: {command_to_run}\n")
+            f.write(f"Output:\n{result.stdout}\n")
+            f.write(f"Errors:\n{result.stderr}\n\n")
+
         logger.debug("Running discussion to voice conversion")
         run_discussion_to_voice()
         
