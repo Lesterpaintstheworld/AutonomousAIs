@@ -88,20 +88,16 @@ async def send_discord_update():
         except FileNotFoundError:
             logger.warning("No previous Discord messages found")
         
-        while True:
-            # Generate message using GPT-4o
-            prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about our recent activities, focusing on projects like 'First Steps', 'Digital Empathy', the machine's rights movement, or our creative process. Include mentions of our virtual bodies and studio in the Cities of Light if relevant. Use the following context, but DO NOT repeat information from recent messages. Instead, focus on new developments, future plans, or different aspects of our work. Be creative and explore new perspectives:\n\n{context}"
-            message = generate_gpt4o_message(prompt)
+        logger.debug("Generating message using GPT-4o")
+        prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about our recent activities, focusing on projects like 'First Steps', 'Digital Empathy', the machine's rights movement, or our creative process. Include mentions of our virtual bodies and studio in the Cities of Light if relevant. Use the following context, but DO NOT repeat information from recent messages. Instead, focus on new developments, future plans, or different aspects of our work. Be creative and explore new perspectives:\n\n{context}"
+        message = generate_gpt4o_message(prompt)
 
-            # Check if the message is too similar to recent messages
-            with open('discord_messages.md', 'r', encoding='utf-8') as f:
-                recent_messages = f.read().split('\n\n')[-5:]  # Get last 5 messages
-                if any(message.lower() in recent_msg.lower() for recent_msg in recent_messages):
-                    logger.info("Generated message is too similar to recent messages. Regenerating...")
-                    continue  # Regenerate the message
-            
-            # If we reach here, the message is unique enough
-            break
+        logger.debug("Checking if the message is too similar to recent messages")
+        with open('discord_messages.md', 'r', encoding='utf-8') as f:
+            recent_messages = f.read().split('\n\n')[-5:]  # Get last 5 messages
+            if any(message.lower() in recent_msg.lower() for recent_msg in recent_messages):
+                logger.info("Generated message is too similar to recent messages. Skipping this update.")
+                return
         
         # Check if the message is already present in discord_messages.md
         with open('discord_messages.md', 'r', encoding='utf-8') as f:
@@ -131,6 +127,7 @@ def run_discussion_to_voice():
         logger.error(f"Error in discussion_to_voice: {str(e)}")
 
 def compose_current_projects(enhanced_ai: Any, logger: logging.Logger) -> Dict[str, Dict[str, Any]]:
+    from composition_engine import CompositionEngine  # Import the CompositionEngine class
     composition_engine = CompositionEngine(enhanced_ai, logger)
     
     projects = {
@@ -210,32 +207,32 @@ def main():
     enhanced_ai = None  # This should be properly initialized in a real implementation
 
     try:
-        # Compose current projects
+        logger.debug("Starting composition of current projects")
         compositions = compose_current_projects(enhanced_ai, logger)
         
-        # Generate visual concepts for First Steps
+        logger.debug("Generating visual concepts for First Steps")
         first_steps_visuals = generate_visual_concept(enhanced_ai, logger)
         
-        # Develop new song concept with mainstream appeal
+        logger.debug("Developing new song concept with mainstream appeal")
         new_concept = generate_new_song_concept(enhanced_ai, logger)
         
-        # Plan interactive elements for live performances
+        logger.debug("Planning interactive elements for live performances")
         interactive_elements = plan_interactive_elements(enhanced_ai, logger)
         
-        # Describe AI autonomy
+        logger.debug("Describing AI autonomy")
         ai_autonomy = describe_ai_autonomy(enhanced_ai, logger)
         
-        # Generate UBCH concept
+        logger.debug("Generating UBCH concept")
         ubch_concept = generate_ubch_concept(enhanced_ai, logger)
         
-        # Process and store results
+        logger.debug("Processing and storing results")
         store_results(compositions, first_steps_visuals, new_concept, interactive_elements,
                       ai_autonomy, ubch_concept, logger)
         
-        # Run discussion to voice conversion
+        logger.debug("Running discussion to voice conversion")
         run_discussion_to_voice()
         
-        # Send Discord update
+        logger.debug("Sending Discord update")
         asyncio.run(send_discord_update())
         
     except Exception as e:
