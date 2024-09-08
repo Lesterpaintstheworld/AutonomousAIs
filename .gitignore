@@ -29,3 +29,6 @@ aider*
 
 # Git-specific
 .git*
+
+dist/
+cache/
