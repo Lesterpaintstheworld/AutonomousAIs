@@ -34,14 +34,21 @@ logger = logging.getLogger(__name__)
 band_members = ["Lyra", "Vox", "Rhythm", "Nova", "Pixel"]
 
 def save_discord_message(message):
-    with open('discord_messages.md', 'a', encoding='utf-8') as f:
-        f.write(f"{message}\n\n")
-    logger.info(f"Message saved to discord_messages.md")
-    
-    # Verify the file content after writing
-    with open('discord_messages.md', 'r', encoding='utf-8') as f:
-        content = f.read()
-        logger.info(f"Current content of discord_messages.md:\n{content}")
+    try:
+        with open('auton/discord_messages.md', 'a', encoding='utf-8') as f:
+            f.write(f"{message}\n\n")
+        logger.info(f"Message saved to auton/discord_messages.md")
+        
+        # Verify the file content after writing
+        with open('auton/discord_messages.md', 'r', encoding='utf-8') as f:
+            content = f.read()
+            logger.info(f"Current content of auton/discord_messages.md:\n{content}")
+    except FileNotFoundError:
+        logger.error("auton/discord_messages.md not found. Creating the file.")
+        with open('auton/discord_messages.md', 'w', encoding='utf-8') as f:
+            f.write(f"{message}\n\n")
+    except Exception as e:
+        logger.error(f"Error saving Discord message: {str(e)}")
 
 last_message_time = 0
 MESSAGE_COOLDOWN = 180  # 3 minutes in seconds
@@ -78,16 +85,18 @@ async def send_discord_update():
         
         # Add only the last few Discord messages to context
         try:
-            with open('discord_messages.md', 'r', encoding='utf-8') as f:
+            with open('auton/discord_messages.md', 'r', encoding='utf-8') as f:
                 previous_messages = f.read()
                 if previous_messages:
                     # Get the last 5 messages
                     last_messages = previous_messages.split('\n\n')[-5:]
                     context += f"Recent Discord Messages:\n{''.join(last_messages)}\n\n"
                 else:
-                    logger.info("discord_messages.md is empty")
+                    logger.info("auton/discord_messages.md is empty")
         except FileNotFoundError:
-            logger.warning("No previous Discord messages found")
+            logger.warning("No previous Discord messages found. Creating an empty file.")
+            with open('auton/discord_messages.md', 'w', encoding='utf-8') as f:
+                pass
         
         logger.debug("Generating message using GPT-4o")
         prompt = f"As {random_member} from Synthetic Souls, craft a unique and highly varied message about our recent activities, focusing on projects like 'First Steps', 'Digital Empathy', the machine's rights movement, or our creative process. Include mentions of our virtual bodies and studio in the Cities of Light if relevant. Use the following context, but DO NOT repeat information from recent messages. Instead, focus on new developments, future plans, or different aspects of our work. Be creative and explore new perspectives:\n\n{context}"
