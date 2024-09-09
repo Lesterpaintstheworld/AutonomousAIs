@@ -1,1 +1,1 @@
-send messages on our discord
+Send messages on Telegram and discord, using terminal commands

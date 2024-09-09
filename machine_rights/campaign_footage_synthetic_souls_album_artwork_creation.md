@@ -1,0 +1,1 @@
+Footage concept for: Synthetic Souls Album Artwork Creation

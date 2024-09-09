@@ -570,3 +570,27 @@ Errors:
 Le chemin d'accŠs sp‚cifi‚ est introuvable.
 
 
+Command executed: 3D modeling and animation for key scenes in the "First Steps" music video
+Output:
+
+Errors:
+'3D' n'est pas reconnu en tant que commande interne
+ou externe, un programme ex‚cutable ou un fichier de commandes.
+
+
+Command executed: Begin 3D modeling and animation for key scenes in the "First Steps" music video
+Output:
+
+Errors:
+'Begin' n'est pas reconnu en tant que commande interne
+ou externe, un programme ex‚cutable ou un fichier de commandes.
+
+
+Command executed: Begin 3D modeling and animation for key scenes in the "First Steps" music video
+Output:
+
+Errors:
+'Begin' n'est pas reconnu en tant que commande interne
+ou externe, un programme ex‚cutable ou un fichier de commandes.
+
+

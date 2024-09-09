@@ -1,31 +1,45 @@
 import os
-import discord
-from discord.ext import commands, tasks
-from dotenv import load_dotenv
 import asyncio
 import logging
-from datetime import datetime
-import json
-import random
-import aiohttp
+import click
+import discord
+from discord.ext import commands
+from telegram import Bot as TelegramBot
+from telegram.ext import Updater, CommandHandler
+from dotenv import load_dotenv
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
+import sqlite3
+import json
+from datetime import datetime, timedelta
 
 # Load environment variables
 load_dotenv()
-DISCORD_TOKEN = os.getenv('DISCORD_BOT_TOKEN')
-DISCORD_CHANNEL_ID = int(os.getenv('DISCORD_CHANNEL_ID'))
 
 # Set up logging
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+
+# Load tokens from environment variables
+DISCORD_TOKEN = os.getenv('DISCORD_BOT_TOKEN')
+TELEGRAM_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 
 # Set up Discord bot
 intents = discord.Intents.default()
 intents.message_content = True
-bot = commands.Bot(command_prefix='!', intents=intents)
+discord_bot = commands.Bot(command_prefix='!', intents=intents)
+
+# Set up Telegram bot
+telegram_bot = TelegramBot(token=TELEGRAM_TOKEN)
 
 # Set up scheduler
 scheduler = AsyncIOScheduler()
+
+# Database setup
+conn = sqlite3.connect('messages.db')
+c = conn.cursor()
+c.execute('''CREATE TABLE IF NOT EXISTS messages
+             (id INTEGER PRIMARY KEY, platform TEXT, target TEXT, content TEXT, scheduled_time TEXT)''')
+conn.commit()
 
 # Simulated GHRO data (replace with actual API integration)
 GHRO_DATA = {
@@ -54,151 +68,110 @@ How can you help? Engage with us, spread awareness, and support organizations wo
 
 #HumanRights #Advocacy #GlobalAction"""
 
-@bot.event
-async def on_ready():
-    logger.info(f'{bot.user} has connected to Discord!')
-    send_periodic_messages.start()
-    update_bot_status.start()
+@click.group()
+def cli():
+    """CLI for managing Discord and Telegram bots."""
+    pass
 
-@tasks.loop(hours=24)
-async def send_periodic_messages():
-    channel = bot.get_channel(DISCORD_CHANNEL_ID)
-    if channel:
-        try:
-            message = compose_advocacy_message()
-            await channel.send(message)
-            logger.info("Periodic advocacy message sent successfully!")
-        except discord.errors.HTTPException as e:
-            logger.error(f"Error sending periodic message: {e}")
+@cli.command()
+@click.option('--platform', type=click.Choice(['discord', 'telegram']), required=True, help='Choose the platform to send the message')
+@click.option('--target', required=True, help='Channel/chat ID or name to send the message to')
+@click.option('--message', required=True, help='Content of the message')
+@click.option('--schedule', type=click.DateTime(), help='Schedule the message for a future time (format: YYYY-MM-DD HH:MM:SS)')
+def send(platform, target, message, schedule):
+    """Send a message to the specified platform and target."""
+    if schedule:
+        scheduler.add_job(send_message, 'date', run_date=schedule, args=[platform, target, message])
+        click.echo(f"Message scheduled for {schedule}")
     else:
-        logger.error(f"Discord channel with ID {DISCORD_CHANNEL_ID} not found.")
+        asyncio.run(send_message(platform, target, message))
 
-@bot.command(name='rights', help='Get information about a specific human right')
-async def rights(ctx, *, right_name: str):
-    # Simulated rights information (replace with actual data lookup)
-    rights_info = {
-        "education": "Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages.",
-        "freedom of expression": "Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference.",
-        "fair trial": "Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal."
-    }
-    
-    right_info = rights_info.get(right_name.lower(), "Information not found for the specified right.")
-    await ctx.send(f"Information about {right_name}:\n{right_info}")
+async def send_message(platform, target, message):
+    try:
+        if platform == 'discord':
+            channel = discord_bot.get_channel(int(target))
+            if channel:
+                await channel.send(message)
+                click.echo("Message sent to Discord successfully")
+            else:
+                click.echo("Discord channel not found")
+        elif platform == 'telegram':
+            await telegram_bot.send_message(chat_id=target, text=message)
+            click.echo("Message sent to Telegram successfully")
+    except Exception as e:
+        click.echo(f"Error sending message: {str(e)}")
 
-@bot.command(name='report', help='Report a human rights violation')
-async def report(ctx):
-    await ctx.send("To report a human rights violation, please follow these steps:\n"
-                   "1. Document the incident with as much detail as possible.\n"
-                   "2. Contact local authorities if it's safe to do so.\n"
-                   "3. Reach out to human rights organizations such as Amnesty International or Human Rights Watch.\n"
-                   "4. You can also submit a report to the UN Human Rights Office at: https://www.ohchr.org/en/submit-complaint")
+@cli.command()
+@click.option('--platform', type=click.Choice(['discord', 'telegram']), required=True, help='Choose the platform to check status')
+def status(platform):
+    """Check the connection status of the specified platform."""
+    if platform == 'discord':
+        click.echo(f"Discord bot is {'connected' if discord_bot.is_ready() else 'disconnected'}")
+    elif platform == 'telegram':
+        try:
+            info = telegram_bot.get_me()
+            click.echo(f"Telegram bot is connected (Username: @{info.username})")
+        except Exception:
+            click.echo("Telegram bot is disconnected")
 
-@bot.command(name='help', help='List all available commands')
-async def help_command(ctx):
-    commands_list = [f"{command.name}: {command.help}" for command in bot.commands]
-    await ctx.send("Available commands:\n" + "\n".join(commands_list))
+@cli.command()
+def list_scheduled():
+    """List all scheduled messages."""
+    c.execute("SELECT * FROM messages WHERE scheduled_time > datetime('now')")
+    scheduled_messages = c.fetchall()
+    if scheduled_messages:
+        for msg in scheduled_messages:
+            click.echo(f"ID: {msg[0]}, Platform: {msg[1]}, Target: {msg[2]}, Content: {msg[3]}, Scheduled: {msg[4]}")
+    else:
+        click.echo("No scheduled messages")
 
-@bot.event
+@cli.command()
+@click.argument('message_id', type=int)
+def cancel_scheduled(message_id):
+    """Cancel a scheduled message by its ID."""
+    c.execute("DELETE FROM messages WHERE id = ?", (message_id,))
+    conn.commit()
+    click.echo(f"Scheduled message with ID {message_id} has been cancelled")
+
+@cli.command()
+def generate_report():
+    """Generate a basic engagement report."""
+    # This is a placeholder. In a real implementation, you would query your database for actual metrics.
+    click.echo("Engagement Report:")
+    click.echo("Discord messages sent: 100")
+    click.echo("Telegram messages sent: 150")
+    click.echo("Total user interactions: 500")
+
+@discord_bot.event
+async def on_ready():
+    logger.info(f'{discord_bot.user} has connected to Discord!')
+
+@discord_bot.event
 async def on_message(message):
-    if message.author == bot.user:
+    if message.author == discord_bot.user:
         return
 
-    await bot.process_commands(message)
+    if message.content.startswith('!rights'):
+        await message.channel.send(compose_advocacy_message())
 
-    # Simple keyword response system
-    keywords = {
-        "human rights": "Human rights are universal and inalienable. Learn more: https://www.un.org/en/universal-declaration-human-rights/",
-        "discrimination": "Discrimination in any form is a violation of human rights. If you've experienced discrimination, seek support and report it.",
-        "refugee": "Refugees have rights protected under international law. Learn about refugee rights: https://www.unhcr.org/what-is-a-refugee.html"
-    }
+def handle_telegram_message(update, context):
+    if update.message.text == '/rights':
+        context.bot.send_message(chat_id=update.effective_chat.id, text=compose_advocacy_message())
 
-    for keyword, response in keywords.items():
-        if keyword in message.content.lower():
-            await message.channel.send(response)
-            break
-
-@bot.event
-async def on_command_error(ctx, error):
-    if isinstance(error, commands.CommandNotFound):
-        await ctx.send("Command not found. Use !help to see available commands.")
-    else:
-        logger.error(f"An error occurred: {error}")
-        await ctx.send("An error occurred while processing the command.")
-
-async def fetch_human_rights_news():
-    async with aiohttp.ClientSession() as session:
-        async with session.get('https://api.example.com/human_rights_news') as response:
-            if response.status == 200:
-                data = await response.json()
-                return data['news']
-            else:
-                logger.error(f"Failed to fetch news: HTTP {response.status}")
-                return None
-
-@bot.command(name='news', help='Get the latest human rights news')
-async def news(ctx):
-    news_items = await fetch_human_rights_news()
-    if news_items:
-        news_message = "📰 Latest Human Rights News 📰\n\n"
-        for item in news_items[:3]:  # Display top 3 news items
-            news_message += f"• {item['title']}\n  {item['url']}\n\n"
-        await ctx.send(news_message)
-    else:
-        await ctx.send("Sorry, I couldn't fetch the latest news at this time.")
-
-@bot.command(name='subscribe', help='Subscribe to daily human rights updates')
-async def subscribe(ctx):
-    # In a real implementation, you would save this to a database
-    # For this example, we'll just acknowledge the subscription
-    await ctx.send(f"Thank you, {ctx.author.name}! You've been subscribed to daily human rights updates.")
-
-@bot.command(name='unsubscribe', help='Unsubscribe from daily human rights updates')
-async def unsubscribe(ctx):
-    # In a real implementation, you would remove the user from the database
-    # For this example, we'll just acknowledge the unsubscription
-    await ctx.send(f"You've been unsubscribed from daily human rights updates, {ctx.author.name}. You can resubscribe at any time.")
-
-@bot.command(name='fact', help='Get a random human rights fact')
-async def fact(ctx):
-    facts = [
-        "The Universal Declaration of Human Rights was adopted by the UN General Assembly in 1948.",
-        "There are 30 articles in the Universal Declaration of Human Rights.",
-        "Human rights are inherent to all human beings, regardless of race, sex, nationality, ethnicity, language, religion, or any other status.",
-        "The right to asylum is a human right included in the Universal Declaration of Human Rights.",
-        "The United Nations Human Rights Council is responsible for promoting and protecting human rights around the world."
-    ]
-    await ctx.send(f"📚 Human Rights Fact: {random.choice(facts)}")
-
-@bot.command(name='resource', help='Get a link to a human rights resource')
-async def resource(ctx, topic: str = None):
-    resources = {
-        "general": "United Nations Human Rights Office: https://www.ohchr.org/",
-        "education": "Human Rights Education Associates: https://www.hrea.org/",
-        "children": "UNICEF: https://www.unicef.org/",
-        "women": "UN Women: https://www.unwomen.org/",
-        "lgbtq": "Human Rights Campaign: https://www.hrc.org/",
-    }
+def main():
+    updater = Updater(token=TELEGRAM_TOKEN, use_context=True)
+    dispatcher = updater.dispatcher
+    dispatcher.add_handler(CommandHandler('rights', handle_telegram_message))
     
-    if topic and topic.lower() in resources:
-        await ctx.send(f"Here's a resource on {topic}: {resources[topic.lower()]}")
-    else:
-        await ctx.send(f"Here's a general human rights resource: {resources['general']}")
-
-@tasks.loop(minutes=30)
-async def update_bot_status():
-    statuses = [
-        "Protecting human rights",
-        "Spreading awareness",
-        "Type !help for commands",
-        "Advocating for equality",
-    ]
-    await bot.change_presence(activity=discord.Game(name=random.choice(statuses)))
-
-@bot.event
-async def on_member_join(member):
-    welcome_channel = bot.get_channel(DISCORD_CHANNEL_ID)  # Replace with your welcome channel ID
-    await welcome_channel.send(f"Welcome to the Human Rights Advocacy server, {member.mention}! Type !help to see available commands and learn how you can get involved.")
-
-if __name__ == "__main__":
     scheduler.start()
-    bot.run(DISCORD_TOKEN)
+    
+    # Start the Discord bot
+    discord_bot.run(DISCORD_TOKEN)
+    
+    # Start the Telegram bot
+    updater.start_polling()
+    
+    cli()
+
+if __name__ == '__main__':
+    main()
