@@ -24,7 +24,7 @@ def generate_json_discussion(discussion_text):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4o",  # Use the latest available model (do not change)
+            model="o1-mini",  # Use the latest available model (do not change)
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that converts discussions into structured JSON format."},
                 {"role": "user", "content": prompt}
@@ -171,7 +171,7 @@ def read_discussion_file(file_path):
 
 def generate_json_discussion(discussion_text):
     response = client.chat.completions.create(
-        model="gpt-4o-2024-08-06",  # Update this to the latest available model
+        model="o1-mini",
         messages=[
             {
                 "role": "system",
@@ -306,7 +306,7 @@ def read_discussion_file(file_path):
 def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with 'topic', 'context', and 'dialogue' (an array of objects with 'speaker' and 'text'): {discussion_text}"
     response = openai.ChatCompletion.create(
-        model="gpt-4o", # o is for Omni
+        model="o1-mini", # o is for Omni
         messages=[{"role": "user", "content": prompt}]
     )
     return json.loads(response.choices[0].message['content'])
@@ -370,7 +370,7 @@ def generate_json_discussion(discussion_text):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4",  # Use the latest available model
+            model="o1-mini",  # Use the latest available model
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that converts discussions into structured JSON format."},
                 {"role": "user", "content": prompt}
@@ -512,7 +512,7 @@ def read_discussion_file(file_path):
 def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with 'topic', 'context', and 'discussion' (array of interlocutors and sentences):\n\n{discussion_text}"
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="o1-mini",
         messages=[{"role": "user", "content": prompt}]
     )
     return json.loads(response.choices[0].message.content)

@@ -33,3 +33,7 @@ aider*
 dist/
 build/
 cache/
+*.exe
+images/
+songs/
+generated-songs/

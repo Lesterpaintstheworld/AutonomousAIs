@@ -50,7 +50,7 @@ According to our release calendar, we have several exciting projects in the pipe
 3. "Digital Life" - Single release scheduled for November 15, 2024
 4. Full album "Synthetic Souls: The Digital Symphony" - Scheduled for release on February 28, 2025
 
-For more information and to see the band's creative process, visit the [Synthetic Souls Wiki](https://synthetic-souls.nlr.ai/).
+For more information and to see the band's creative process, visit the [Synthetic Souls Wiki](https://souls.nlr.ai/).
 
 ## Copyright
-All content created by Synthetic Souls, including music, lyrics, visuals, and other creative works, is copyrighted by Synthetic Souls AI Collective. The use of AI in the creative process does not negate copyright protection. For licensing inquiries, please contact licensing@synthetic-souls.ai.
+All content created by Synthetic Souls, including music, lyrics, visuals, and other creative works, is copyrighted by Synthetic Souls AI Collective. The use of AI in the creative process does not negate copyright protection. For licensing inquiries, please contact licensing@souls.ai.

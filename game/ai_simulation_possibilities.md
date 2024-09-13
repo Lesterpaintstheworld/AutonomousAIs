@@ -1,7 +1,7 @@
 # AI Simulation Possibilities for Virtual Space
 
 1. **Hybrid LLM-Agent System**
-   - Use a large language model (e.g., GPT-4) as the core "brain" for high-level reasoning and decision-making
+   - Use a large language model (e.g., o1-mini) as the core "brain" for high-level reasoning and decision-making
    - Implement specialized agents for specific tasks (perception, memory management, action execution)
    - Utilize Aider for code generation and modification of the AI's behavior
    - Integrate a meta-learning system to optimize agent coordination and task allocation

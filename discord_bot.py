@@ -124,7 +124,7 @@ async def on_message(message):
 
 async def generate_response(message_content):
     # You can implement more sophisticated response generation here
-    # For now, we'll use a simple GPT-4o call
+    # For now, we'll use a simple o1-mini call
     prompt = f"As an AI band member of Synthetic Souls, respond to this message: {message_content}"
     return generate_gpt4o_message(prompt)
 
@@ -179,22 +179,22 @@ client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 # Set to store hashes of previous messages
 previous_messages = set()
 
-# Function to generate message using GPT-4o
+# Function to generate message using o1-mini
 def generate_gpt4o_message(prompt):
     global previous_messages
     max_attempts = 3
     
     for attempt in range(max_attempts):
         try:
-            logger.debug(f"Sending GPT-4o request (attempt {attempt + 1})...")
+            logger.debug(f"Sending o1-mini request (attempt {attempt + 1})...")
             response = client.chat.completions.create(
-                model="gpt-4o",
+                model="o1-mini",
                 messages=[
                     {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character with a brief, engaging message. Ensure your response is unique and not a repetition of previous messages."},
                     {"role": "user", "content": prompt + " Limit your response to 500 characters."}
                 ]
             )
-            logger.debug("Received GPT-4o response.")
+            logger.debug("Received o1-mini response.")
             message = response.choices[0].message.content.strip()[:500]  # Ensure the message is no longer than 500 characters
             
             # Check if the message is unique
@@ -205,7 +205,7 @@ def generate_gpt4o_message(prompt):
             else:
                 logger.warning("Generated message is a duplicate. Retrying...")
         except Exception as e:
-            logger.error(f"Error generating GPT-4o message: {str(e)}")
+            logger.error(f"Error generating o1-mini message: {str(e)}")
             if attempt == max_attempts - 1:
                 return f"Error generating message: {str(e)}"
     

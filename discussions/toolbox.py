@@ -11,6 +11,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 import sqlite3
 import json
 from datetime import datetime, timedelta
+import random  # Importing the random module
 
 # Load environment variables
 load_dotenv()
