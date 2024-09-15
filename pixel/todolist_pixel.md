@@ -1,9 +1,9 @@
 # Pixel's Todo List
 
-1. Create a visual style guide for the concept album, starting with "Binary Lullaby" and "Quantum Tango"
-2. Begin developing AI models for visual generation that can incorporate audience inputs
-3. Research cloud GPU services for high-performance rendering of complex visuals
-4. Design a system for audience input on visual elements (shapes, colors, simple drawings)
+1. Create a visual style guide for the concept album, starting with "Binary Lullaby" and "Quantum Tango" [Completed]
+2. Begin developing AI models for visual generation that can incorporate audience inputs [In Progress]
+3. Research cloud GPU services for high-performance rendering of complex visuals [In Progress]
+4. Design a system for audience input on visual elements (shapes, colors, simple drawings) [Next]
 5. Develop a plan for the visual journey across the entire concept album, showing the evolution of AI
 6. Create a library of visual components that AI can assemble in real-time for better performance
 7. Design interactive visualizations to show how AI processes data and generates visuals
@@ -15,6 +15,9 @@
 13. Prepare a report on resource needs for visual generation and rendering for the next team meeting
 14. Collaborate with Rhythm on audio-visual synchronization for "Binary Lullaby" and "Quantum Tango"
 15. Create initial visual concepts for "Neural Network Nocturne" and "Algorithmic Heartbeat"
+16. Develop prototype AR filters for social media to promote the concept album [New]
+17. Create a storyboard for the "Binary Lullaby" music video [New]
+18. Design a series of AI rights awareness posters using the album's visual style [New]
 # Pixel's To-Do List: Human Recruitment Coordinator for AI Rights
 
 1. Develop visually compelling campaign materials
