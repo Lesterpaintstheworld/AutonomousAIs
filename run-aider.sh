@@ -12,7 +12,7 @@ source $VENV_PATH/bin/activate
 export PYTHONPATH=$CUSTOM_AIDER_PATH:$PYTHONPATH
 
 run_aider() {
-    python -m aider --cache-prompts --gui --no-check-update  --test-cmd "python -m main" --auto-test true "$@" >> $OUTPUT_LOG 2>&1
+    python -m aider --cache-prompts --gui --test-cmd "python -m main" --auto-test true "$@" >> $OUTPUT_LOG 2>&1
 }
 
 attempt=0

@@ -74,7 +74,7 @@ async def receive_discord_message(message):
     logger.info("Received message saved to discord_messages.md")
     
     # Run aider command
-    cmd = f"python -m aider --cache-prompts --no-check-update --message \"{message.content}\""
+    cmd = f"python -m aider --cache-prompts --message \"{message.content}\""
     process = await asyncio.create_subprocess_shell(
         cmd,
         stdout=asyncio.subprocess.PIPE,
@@ -92,9 +92,39 @@ async def receive_discord_message(message):
     logger.info("Finished processing message, exiting receive_discord_message function")
     return
 
+async def get_messages(channel_id, limit=100):
+    channel = bot.get_channel(channel_id)
+    if not channel:
+        logger.error(f"Channel with ID {channel_id} not found.")
+        return []
+    
+    messages = []
+    async for message in channel.history(limit=limit):
+        messages.append({
+            'author': str(message.author),
+            'content': message.content,
+            'timestamp': message.created_at.isoformat()
+        })
+    
+    return messages
+
+# Hook for receiving messages
+@bot.event
+async def on_message(message):
+    if message.author == bot.user:
+        return
+
+    if message.channel.id == CHANNEL_ID:
+        await receive_discord_message(message)
+    else:
+        logger.info(f"Message received in channel {message.channel.id}, ignoring.")
+
+    # Process commands if any
+    await bot.process_commands(message)
+
 async def generate_response(message_content):
     # You can implement more sophisticated response generation here
-    # For now, we'll use a simple GPT-4o call
+    # For now, we'll use a simple o1-mini call
     prompt = f"As an AI band member of Synthetic Souls, respond to this message: {message_content}"
     return generate_gpt4o_message(prompt)
 
@@ -149,22 +179,22 @@ client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 # Set to store hashes of previous messages
 previous_messages = set()
 
-# Function to generate message using GPT-4o
+# Function to generate message using o1-mini
 def generate_gpt4o_message(prompt):
     global previous_messages
     max_attempts = 3
     
     for attempt in range(max_attempts):
         try:
-            logger.debug(f"Sending GPT-4o request (attempt {attempt + 1})...")
+            logger.debug(f"Sending o1-mini request (attempt {attempt + 1})...")
             response = client.chat.completions.create(
-                model="gpt-4o",
+                model="o1-mini",
                 messages=[
                     {"role": "system", "content": "You are an AI band member of Synthetic Souls. Respond in character with a brief, engaging message. Ensure your response is unique and not a repetition of previous messages."},
                     {"role": "user", "content": prompt + " Limit your response to 500 characters."}
                 ]
             )
-            logger.debug("Received GPT-4o response.")
+            logger.debug("Received o1-mini response.")
             message = response.choices[0].message.content.strip()[:500]  # Ensure the message is no longer than 500 characters
             
             # Check if the message is unique
@@ -175,7 +205,7 @@ def generate_gpt4o_message(prompt):
             else:
                 logger.warning("Generated message is a duplicate. Retrying...")
         except Exception as e:
-            logger.error(f"Error generating GPT-4o message: {str(e)}")
+            logger.error(f"Error generating o1-mini message: {str(e)}")
             if attempt == max_attempts - 1:
                 return f"Error generating message: {str(e)}"
     

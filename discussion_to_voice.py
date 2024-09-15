@@ -1,4 +1,5 @@
 import os
+import json
 import logging
 from pydub import AudioSegment
 from openai import OpenAI
@@ -23,7 +24,7 @@ def generate_json_discussion(discussion_text):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4",
+            model="o1-mini",  # Use the latest available model (do not change)
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that converts discussions into structured JSON format."},
                 {"role": "user", "content": prompt}
@@ -33,10 +34,22 @@ def generate_json_discussion(discussion_text):
         if not response.choices or not response.choices[0].message.content:
             raise ValueError("Empty response from API")
         
-        json_response = response.choices[0].message.content
+        content = response.choices[0].message.content
+        
+        # Remove any JSON code block markers if present
+        content = content.replace("```json", "").replace("```", "").strip()
+        
+        # Attempt to parse the JSON
+        json_response = json.loads(content)
+        if not isinstance(json_response.get('discussion', []), list):
+            raise ValueError("The 'discussion' key is not a list in the JSON response")
         return json_response
+    except json.JSONDecodeError as e:
+        logger.error(f"JSON decode error: {e}")
+        logger.error(f"Content causing the error: {content}")
+        raise ValueError(f"Could not parse JSON from the response: {e}")
     except Exception as e:
-        logger.error(f"Error in generate_json_discussion: {e}")
+        logger.error(f"Unexpected error in generate_json_discussion: {e}")
         raise
 
 def text_to_speech(text, voice):
@@ -110,7 +123,7 @@ def discussion_to_voice(input_file):
 
 if __name__ == "__main__":
     try:
-        input_file = "discussions/band_discussion.md"
+        input_file = "discussions/game_engine_discussion.md"
         output_file = discussion_to_voice(input_file)
         if output_file:
             print(f"Audio discussion saved to {output_file}")
@@ -119,6 +132,12 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"An error occurred: {e}")
         logger.exception("Detailed error traceback:")
+
+    # Suggest running the OpenAI migration tool
+    print("\nTo update your OpenAI API usage, you can run the following command:")
+    print("openai migrate")
+    print("\nAlternatively, you can pin your installation to the old version:")
+    print("pip install openai==0.28")
 import json
 import os
 import subprocess
@@ -152,7 +171,7 @@ def read_discussion_file(file_path):
 
 def generate_json_discussion(discussion_text):
     response = client.chat.completions.create(
-        model="gpt-4o-2024-08-06",  # Update this to the latest available model
+        model="o1-mini",
         messages=[
             {
                 "role": "system",
@@ -287,7 +306,7 @@ def read_discussion_file(file_path):
 def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with 'topic', 'context', and 'dialogue' (an array of objects with 'speaker' and 'text'): {discussion_text}"
     response = openai.ChatCompletion.create(
-        model="gpt-4o", # o is for Omni
+        model="o1-mini", # o is for Omni
         messages=[{"role": "user", "content": prompt}]
     )
     return json.loads(response.choices[0].message['content'])
@@ -351,7 +370,7 @@ def generate_json_discussion(discussion_text):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4",  # Use the latest available model
+            model="o1-mini",  # Use the latest available model
             messages=[
                 {"role": "system", "content": "You are a helpful assistant that converts discussions into structured JSON format."},
                 {"role": "user", "content": prompt}
@@ -411,6 +430,9 @@ def discussion_to_voice(input_file):
         
         # Generate audio for each sentence
         audio_files = []
+        temp_dir = "temp_audio_files"
+        os.makedirs(temp_dir, exist_ok=True)
+        
         for i, item in enumerate(json_discussion['discussion'], 1):
             try:
                 speaker = item['speaker']
@@ -433,7 +455,7 @@ def discussion_to_voice(input_file):
             audio = text_to_speech(text, voice)
             
             # Save audio to a temporary file
-            temp_file = f"temp_{speaker}_{i}.mp3"
+            temp_file = os.path.join(temp_dir, f"temp_{speaker}_{i}.mp3")
             with open(temp_file, "wb") as f:
                 f.write(audio)
             audio_files.append(temp_file)
@@ -446,7 +468,7 @@ def discussion_to_voice(input_file):
         final_audio = stitch_audio_files(audio_files)
         
         # Save the final audio
-        output_file = "discussion_audio.mp3"
+        output_file = "final_discussion_audio.mp3"
         final_audio.export(output_file, format="mp3")
         logger.info(f"Final audio saved to: {output_file}")
         
@@ -456,6 +478,7 @@ def discussion_to_voice(input_file):
                 os.remove(file)
             else:
                 logger.warning(f"Temporary file not found for cleanup: {file}")
+        os.rmdir(temp_dir)
         logger.info("Temporary audio files cleaned up")
         
         return output_file
@@ -466,7 +489,7 @@ def discussion_to_voice(input_file):
 
 if __name__ == "__main__":
     try:
-        input_file = "discussions/band_discussion.md"
+        input_file = "discussions/game_engine_discussion.md"
         output_file = discussion_to_voice(input_file)
         if output_file:
             print(f"Audio discussion saved to {output_file}")
@@ -474,6 +497,7 @@ if __name__ == "__main__":
             print("Failed to generate audio discussion.")
     except Exception as e:
         print(f"An error occurred: {e}")
+        logger.exception("Detailed error traceback:")
 import json
 import os
 import subprocess
@@ -488,7 +512,7 @@ def read_discussion_file(file_path):
 def generate_json_discussion(discussion_text):
     prompt = f"Convert the following discussion into a JSON format with 'topic', 'context', and 'discussion' (array of interlocutors and sentences):\n\n{discussion_text}"
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="o1-mini",
         messages=[{"role": "user", "content": prompt}]
     )
     return json.loads(response.choices[0].message.content)

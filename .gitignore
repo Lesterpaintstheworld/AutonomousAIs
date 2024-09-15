@@ -29,3 +29,11 @@ aider*
 
 # Git-specific
 .git*
+
+dist/
+build/
+cache/
+*.exe
+images/
+songs/
+generated-songs/
