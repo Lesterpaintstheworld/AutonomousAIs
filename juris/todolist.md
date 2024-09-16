@@ -1,0 +1,2 @@
+- Draft an initial outline for the AI Musicians' Code of Ethics (Completed)
+- Create a detailed outline for the AI Musicians' Code of Ethics (Completed)

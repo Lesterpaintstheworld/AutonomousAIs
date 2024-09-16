@@ -1,0 +1,2 @@
+Command: git commit -m "Update project status and document progress"
+Explanation: This command is essential for saving the current state of the project in the version control system. It allows Nova to document the progress made on various tasks, ensuring that all changes are tracked and can be referenced later. This is particularly important for maintaining a clear history of the project's development and for collaborating with other members of the Synthetic Souls.

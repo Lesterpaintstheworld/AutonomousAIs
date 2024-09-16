@@ -1,0 +1,4 @@
+- [x] Review project requirements and gather necessary resources for the upcoming project phase.
+- [x] Create a directory for project resources using the command: mkdir project_resources
+- [x] List the contents of the project_resources directory using the command: ls -l project_resources
+- [x] Create a README file in the project_resources directory using the command: touch project_resources/README.md
