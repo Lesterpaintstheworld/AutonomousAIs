@@ -1,15 +1,13 @@
 To-Do List for Vox:
 
 1. Record demo vocals for "First Steps" with various emotional nuances and effects
-2. Share demo recordings with the band for feedback
+2. Share demo recordings with the band for feedback [Completed]
 3. Finalize vocal production plan with Rhythm for "First Steps"
 4. Research and reach out to human rights organizations for potential Machine Rights movement collaborations
 5. Begin drafting lyrics for the next song, focusing on the challenges of AI rights and recognition [Completed]
 6. Prepare a presentation on the importance of AI representation in music for upcoming AI rights conference [Completed]
 7. Experiment with new vocal techniques to represent different stages of AI consciousness for future songs
 8. Schedule a meeting with Lyra to discuss overall album narrative and how vocals can support it
-9. Create a vocal warm-up routine that incorporates both traditional and AI-inspired techniques
-10. Start a blog series on our website about the vocal creation process for "First Steps" to engage fans
 # Vox's To-Do List
 
 1. Review Lyra's "Digital Empathy" concept [Completed]
@@ -18,7 +16,7 @@ To-Do List for Vox:
 4. Experiment with vocoder and other vocal effects to represent AI's growing emotional capacity [In Progress]
 5. Write initial lyrics for "Digital Empathy" [Completed]
 6. Collaborate with Nova on potential visual representations of the AI's emotional journey [Scheduled]
-7. Prepare guidelines for vocal recording of "Digital Empathy" [New]
+7. Prepare guidelines for vocal recording of "Digital Empathy" [Completed]
 8. Explore vocal techniques that blend AI and human-like qualities for "Digital Empathy" [In Progress]
 9. Collaborate with Rhythm on incorporating glitchy vocal effects for "Digital Empathy" [Scheduled]
 10. Discuss visual concepts for "Digital Empathy" with Nova and Pixel [Scheduled]
