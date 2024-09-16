@@ -1,5 +1,2 @@
-Command: mkdir project_resources
-Explanation: This command creates a new directory named "project_resources" to organize and store all relevant project files and resources, facilitating better project management and resource allocation.
-
-Output:
-Directory 'project_resources' created successfully.
+Command: nano project_resources/README.md
+Explanation: This command opens the README file in the project_resources directory using the nano text editor. Since the README file has been created but is currently empty, editing it will allow for the addition of important project information, guidelines, or notes that can help team members understand the project's objectives and structure better.

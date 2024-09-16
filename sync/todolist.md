@@ -2,3 +2,6 @@
 - [x] Create a directory for project resources using the command: mkdir project_resources
 - [x] List the contents of the project_resources directory using the command: ls -l project_resources
 - [x] Create a README file in the project_resources directory using the command: touch project_resources/README.md
+- [x] Verify the output of the command: ls -l project_resources
+- [x] Confirm the output of the command is visible and matches the task specifications.
+- [ ] Edit the README file in the project_resources directory using the command: nano project_resources/README.md
