@@ -1,6 +1,6 @@
 To-Do List for Nova:
 
-1. Set up the studio for the first round of documentary interviews
+1. Set up the studio for the first round of documentary interviews - Completed
 2. Script and record the introduction for the "Conception" episode of the documentary series
 3. Launch the "AI Thought of the Day" series on our social media platforms
 4. Finalize the interactive timeline for our website and prepare it for launch

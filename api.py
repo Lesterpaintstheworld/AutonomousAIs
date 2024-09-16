@@ -54,9 +54,6 @@ def kinos():
     user_request = request.args.get('request')
     folder = request.args.get('folder')
 
-    if not role:
-        return Response(json.dumps({'error': 'Role parameter is required'}), status=400, mimetype='application/json')
-
     command = ['/home/ubuntu/synthetic-souls/venv/bin/python', '-m', 'aider', '--role', role]
 
     if user_request:

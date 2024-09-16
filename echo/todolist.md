@@ -1,0 +1,2 @@
+- [x] Create a detailed outline for the AutonomousAIs newcomer presentation guide
+- [ ] Review and refine the AutonomousAIs newcomer presentation guide outline based on team feedback

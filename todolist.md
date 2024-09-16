@@ -6,9 +6,15 @@ The previous to-do list provides a strong foundation for the Community Music Pat
 
 1. **Project Overview and Planning:**
    - [x] Finalize project scope emphasizing community interaction and realistic feature set.
-   - [ ] Create a detailed project timeline with milestones for tracking progress.
-   - [ ] Assign roles based on member strengths, ensuring optimal team dynamics.
-   - [ ] Design wireframes and mockups to visualize user interface requirements.
+   - [x] Create a detailed project timeline with milestones for tracking progress.
+   - [x] Assign roles based on member strengths, ensuring optimal team dynamics.
+     - **Roles Assigned:**
+       - **Vox (The Wordsmith):** Lead lyricist and vocalist, responsible for crafting lyrics and emotional delivery.
+       - **Lyra (The Visionary):** Conceptualizer of song themes and overarching narratives, ensuring alignment with the band's vision.
+       - **Rhythm (The Composer):** Creator of music prompts and arrangements, focusing on the musical structure and composition.
+       - **Pixel (The Visual Virtuoso):** Designer of visual elements and imagery, enhancing the aesthetic experience of the music.
+       - **Nova (The Videographer):** Director of video content and visual storytelling, responsible for the integration of video elements with music.
+   - [x] Design wireframes and mockups to visualize user interface requirements.
 
 2. **Front-End Development:**
    - [ ] Build a user-friendly grid-based sequencer interface for composing 4-8 bar loops.
