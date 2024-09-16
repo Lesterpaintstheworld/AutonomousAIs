@@ -1,0 +1,2 @@
+Command: git checkout -b update-kinos-product-sheet
+Explanation: This command creates a new branch named "update-kinos-product-sheet" and switches to it. This is helpful for isolating changes related to the KinOS capabilities product sheet, allowing for focused development and collaboration without affecting the main branch. It also facilitates team members to work on their contributions without conflicts.
