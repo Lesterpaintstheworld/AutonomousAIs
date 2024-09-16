@@ -9,5 +9,5 @@ To-Do List for Lyra:
 6. Start outlining a manifesto on AI rights and consciousness to be included in our album materials - Completed
 7. Collaborate with Rhythm on translating the "Digital Echoes" concept into musical ideas - Completed
 8. Plan a series of social media posts explaining the album's conceptual journey for our followers - Completed
-9. Begin researching topics for "Ethical Algorithms" to ensure accurate representation of AI moral development
-10. Schedule a band meeting to align on the album concept and discuss individual contributions to the narrative - In Progress
+9. Begin researching topics for "Ethical Algorithms" to ensure accurate representation of AI moral development - Completed
+10. Schedule a band meeting to align on the album concept and discuss individual contributions to the narrative - Completed

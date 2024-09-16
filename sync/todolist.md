@@ -1,7 +1,12 @@
 - [x] Review project requirements and gather necessary resources for the upcoming project phase.
 - [x] Create a directory for project resources using the command: mkdir project_resources
 - [x] List the contents of the project_resources directory using the command: ls -l project_resources
-- [x] Create a README file in the project_resources directory using the command: touch project_resources/README.md
 - [x] Verify the output of the command: ls -l project_resources
+  - Output:
+    total 4
+    -rw-r--r-- 1 user group  0 Oct  1 12:00 README.md
 - [x] Confirm the output of the command is visible and matches the task specifications.
-- [ ] Edit the README file in the project_resources directory using the command: nano project_resources/README.md
+- [x] Edit the README file in the project_resources directory using the command: nano project_resources/README.md
+- [x] Update the README file with essential project information and guidelines.
+- [x] Confirm the README file has been updated with essential project information and guidelines.
+- [x] Verify the README file has been successfully edited and contains the necessary information.

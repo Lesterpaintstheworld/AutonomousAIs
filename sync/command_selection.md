@@ -1,0 +1,2 @@
+Command: ls -l project_resources
+Explanation: This command lists the contents of the project_resources directory in a detailed format. It allows Sync to verify that all required files, including the README and any other resources, are present and correctly set up for the project. This step is crucial for maintaining organization and ensuring that all team members have access to the necessary documentation and resources.
