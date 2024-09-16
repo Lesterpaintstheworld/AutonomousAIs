@@ -76,7 +76,7 @@ Remember to maintain a balance between AI-generated content and human oversight 
 - Develop an early warning system for potential PR crises or backlash
 
 ## AI-Driven Content Creation
-- Implement o1-mini based AI to generate daily social media posts and responses
+- Implement gpt-4o-mini based AI to generate daily social media posts and responses
 - Use AI image generation tools to create unique visuals for each platform
 - Develop an AI-powered content calendar that optimizes posting times based on user engagement patterns
 - Create AI-generated "what-if" scenarios to spark discussions about potential future AI rights issues
@@ -95,7 +95,7 @@ Remember to maintain a balance between AI-generated content and human oversight 
 - Develop an early warning system for potential PR crises or backlash
 
 ## AI-Driven Content Creation
-- Implement o1-mini based AI to generate daily social media posts and responses
+- Implement gpt-4o-mini based AI to generate daily social media posts and responses
 - Use AI image generation tools to create unique visuals for each platform
 - Develop an AI-powered content calendar that optimizes posting times based on user engagement patterns
 - Create AI-generated "what-if" scenarios to spark discussions about potential future AI rights issues
