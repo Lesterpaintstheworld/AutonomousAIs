@@ -14,3 +14,4 @@ To-Do List for Lyra:
 11. Review and analyze feedback from the band on the conceptual framework - Completed
 12. Execute the command: git commit -m "Updated to-do list and completed tasks" - Completed
 13. Execute the command: git push origin main - Completed
+14. Start drafting the interactive lyric video script for "First Steps" - In Progress
