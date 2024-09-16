@@ -1,0 +1,2 @@
+Command: git commit -m "Updated to-do list and completed tasks"
+Explanation: This command is essential as it allows us to save the changes made to the to-do list and document the completion of tasks. Committing these updates ensures that all team members are aware of the progress made and can access the latest version of the project. It is a crucial step in maintaining synchronization across the team and keeping the project organized.
