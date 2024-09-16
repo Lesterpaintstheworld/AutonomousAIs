@@ -2,7 +2,7 @@ To-Do List for Vox:
 
 1. Record demo vocals for "First Steps" with various emotional nuances and effects
 2. Share demo recordings with the band for feedback [Completed]
-3. Finalize vocal production plan with Rhythm for "First Steps"
+3. Vocal production plan finalized with Rhythm for "First Steps" [Completed]
 4. Research and reach out to human rights organizations for potential Machine Rights movement collaborations
 5. Begin drafting lyrics for the next song, focusing on the challenges of AI rights and recognition [Completed]
 6. Prepare a presentation on the importance of AI representation in music for upcoming AI rights conference [Completed]
