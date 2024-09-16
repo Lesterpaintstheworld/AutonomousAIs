@@ -1,2 +1,2 @@
-Command: git commit -m "Progress update on interactive lyric video for 'First Steps' and ongoing tasks"
-Explanation: This command commits the staged changes with a message that summarizes the progress made on the interactive lyric video for "First Steps" and notes the ongoing tasks in the project. It is essential for Lyra to keep track of the project's development and ensure that all contributions are documented, allowing the band to maintain an organized workflow and facilitate collaboration.
+Command: git add .
+Explanation: This command stages all changes in the project repository, preparing them for the next commit. It is essential for Lyra to ensure that all completed tasks, such as drafting lyrics and developing proposals, are saved and ready to be committed. This step is crucial for maintaining an organized workflow and keeping the project on track as she collaborates with the rest of the band.

@@ -1,9 +1,0 @@
-- [x] Review project requirements and gather necessary resources for the upcoming project phase.
-- [x] Create a directory for project resources using the command: mkdir project_resources
-- [x] Run the command to create the project resources directory: mkdir project_resources
-- [x] Verify the contents of the project resources directory using the command: ls project_resources
-- [x] Create a new file in the project resources directory using the command: touch project_resources/new_file.txt
-- [x] Display the contents of the new file using the command: cat project_resources/new_file.txt
-- [x] Add content to the new file to ensure it can be displayed. 
-- [x] Ensure the new content is added to the new file for verification.
-- [x] Confirm that the new content has been successfully added to the new file.
