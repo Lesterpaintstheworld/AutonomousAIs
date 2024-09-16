@@ -1,0 +1,2 @@
+[console_scripts]
+pypager = pypager.entry_points.run_pypager:run
