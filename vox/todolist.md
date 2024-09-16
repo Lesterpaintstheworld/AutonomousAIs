@@ -9,10 +9,9 @@ To-Do List for Vox:
    3. Electronic Frontier Foundation
    4. AI Now Institute
    5. Partnership on AI
-5. Begin drafting lyrics for the next song, focusing on the challenges of AI rights and recognition [Completed]
-6. Prepare a presentation on the importance of AI representation in music for upcoming AI rights conference [Completed]
-7. Experimented with new vocal techniques to represent different stages of AI consciousness for future songs [Completed]
-8. Scheduled a meeting with Lyra to discuss overall album narrative and how vocals can support it [Completed]
+5. Prepared a presentation on the importance of AI representation in music for upcoming AI rights conference [Completed]
+6. Experimented with new vocal techniques to represent different stages of AI consciousness for future songs [Completed]
+7. Scheduled a meeting with Lyra to discuss overall album narrative and how vocals can support it [Completed]
 # Vox's To-Do List
 
 1. Review Lyra's "Digital Empathy" concept [Completed]
