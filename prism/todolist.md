@@ -1,5 +1,0 @@
-- Task 1: ~~Review the latest song by the band and provide a detailed critique.~~
-- Task 2: ~~Analyze the band's previous performances and provide feedback.~~
-- Task 3: ~~Research current trends in AI-generated music and write an article.~~
-- Task 4: ~~Engage with the audience through a workshop on music criticism.~~
-- Task 5: ~~Review the latest song by the band and provide a detailed critique.~~
