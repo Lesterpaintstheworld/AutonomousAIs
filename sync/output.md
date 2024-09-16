@@ -1,5 +1,6 @@
-Command: mkdir project_resources
-Explanation: This command creates a new directory named "project_resources" to organize and store all relevant project files and resources, facilitating better project management and resource allocation.
+Command: ls -l project_resources
+Explanation: This command lists the contents of the "project_resources" directory, providing details about the files and their permissions, sizes, and modification dates.
 
 Output:
-Directory 'project_resources' created successfully.
+total 0
+-rw-r--r-- 1 user user 0 date time README.md
