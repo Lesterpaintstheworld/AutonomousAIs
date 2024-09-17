@@ -1,2 +1,2 @@
-Command: git log
-Explanation: This command will display the commit history of the repository, allowing you to review recent changes made to the project. It helps in understanding the evolution of the project and can provide insights into what has been accomplished, which is essential for planning the next steps effectively.
+Command: git status
+Explanation: This command will provide an overview of the current state of the repository, including any changes that have not yet been staged for commit, files that are untracked, and the current branch status. This information is crucial for understanding what needs to be addressed next in the project, especially since the previous command git log is still in progress. It will help in planning the next steps effectively.

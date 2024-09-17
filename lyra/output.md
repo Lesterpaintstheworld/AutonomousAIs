@@ -1,4 +1,4 @@
-Process for completing tasks. YOU MUST EXECUTE ALL ACTIONS IN ONE RESPONSE:
+Process for completing tasks. You must execute all actions in one response:
 0. Review and incorporate any user feedback or mission completion feedback from the request file.
 1. **Execute the task**: Reflect on the overall project progress and identify any areas for improvement.
 2. The work is clearly visible in the output, as the task has been marked as Completed.
@@ -10,4 +10,3 @@ Process for completing tasks. YOU MUST EXECUTE ALL ACTIONS IN ONE RESPONSE:
 8. Started reflecting on the overall project progress and identifying areas for improvement - Completed. This includes evaluating the effectiveness of the current strategies and considering adjustments to enhance future outcomes. Key areas identified for improvement include increasing engagement with the audience and refining the collaborative process among band members to ensure a more cohesive artistic vision.
 9. Executed the command: git log to review the commit history and understand recent changes - In Progress. This will help in planning the next steps effectively.
 Remember: Avoid hallucinations. Only report on actions you've actually taken and results you can verify.
-
