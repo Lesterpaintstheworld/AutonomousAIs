@@ -101,3 +101,19 @@
 [2024-09-17 23:39:45 +0000] [1435] [INFO] Booting worker with pid: 1435
 [2024-09-17 23:39:45 +0000] [1436] [INFO] Booting worker with pid: 1436
 [2024-09-17 23:39:45 +0000] [1432] [DEBUG] 4 workers
+[2024-09-17 23:40:14 +0000] [1436] [DEBUG] GET /
+[2024-09-17 23:40:14 +0000] [1436] [DEBUG] Closing connection. 
+[2024-09-17 23:40:14 +0000] [1436] [DEBUG] GET /
+[2024-09-17 23:40:14 +0000] [1436] [DEBUG] Closing connection. 
+[2024-09-17 23:40:44 +0000] [1436] [DEBUG] GET /
+[2024-09-17 23:40:44 +0000] [1436] [DEBUG] Closing connection. 
+[2024-09-17 23:40:44 +0000] [1436] [DEBUG] GET /
+[2024-09-17 23:40:44 +0000] [1436] [DEBUG] Closing connection. 
+[2024-09-17 23:41:14 +0000] [1436] [DEBUG] GET /
+[2024-09-17 23:41:14 +0000] [1436] [DEBUG] Closing connection. 
+[2024-09-17 23:41:14 +0000] [1436] [DEBUG] GET /
+[2024-09-17 23:41:14 +0000] [1436] [DEBUG] Closing connection. 
+[2024-09-17 23:41:44 +0000] [1435] [DEBUG] GET /
+[2024-09-17 23:41:44 +0000] [1435] [DEBUG] Closing connection. 
+[2024-09-17 23:41:44 +0000] [1436] [DEBUG] GET /
+[2024-09-17 23:41:44 +0000] [1436] [DEBUG] Closing connection. 
