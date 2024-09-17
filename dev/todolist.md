@@ -1,2 +1,2 @@
-- Create a new feature for tracking user interactions with the AI.
+- [X] Create a new feature for tracking user interactions with the AI.
 - [X] User Interaction Tracking feature has been created and documented.
