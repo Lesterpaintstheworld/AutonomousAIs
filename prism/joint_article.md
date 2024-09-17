@@ -17,4 +17,3 @@ The intersection of AI and music presents both challenges and opportunities. As 
 
 ## Call to Action
 We invite readers to share their thoughts on the role of AI in music and to participate in the ongoing conversation about its future.
-
