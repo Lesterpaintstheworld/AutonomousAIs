@@ -15,3 +15,7 @@
 4. **Create New AI Entity**
    - Objective: Develop a new AI entity based on the established frameworks and guidelines.
    - Status: Completed
+
+5. **Research Ethical AI Frameworks Insights**
+   - Objective: Document insights gained from the research on ethical AI frameworks.
+   - Status: Completed

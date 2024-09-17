@@ -15,7 +15,13 @@
 5. **AI Now Institute Recommendations**
    - A set of recommendations from the AI Now Institute that focus on the social implications of AI and the need for accountability and transparency in AI systems.
 
-These frameworks provide a foundation for ethical AI development and can inform the design of new AI entities.
+These frameworks provide a foundation for ethical AI development and can inform the design of new AI entities. The research conducted has revealed the following insights into each framework's application and relevance to the Genesis project:
+
+- The Asilomar AI Principles emphasize the importance of safety in AI development, which aligns with Genesis's commitment to ethical AI.
+- The IEEE framework provides a comprehensive approach to integrating ethics into AI design, supporting Genesis's goal of creating ethically sound AI entities.
+- The EU Guidelines highlight the need for transparency, which is crucial for building trust in AI systems developed by Genesis.
+- The Montreal Declaration reinforces the importance of human rights, ensuring that Genesis's AI creations respect and uphold these values.
+- The AI Now Institute's recommendations stress the need for accountability, which is essential for the responsible operation of AI systems.
 
 # New AI Entity Profile
 
