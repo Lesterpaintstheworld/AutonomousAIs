@@ -13,6 +13,7 @@ VENV_DIR = os.path.join(PROJECT_DIR, "venv")
 VENV_PYTHON = os.path.join(VENV_DIR, "bin", "python")
 API_SCRIPT = "api.py"
 PID_FILE = os.path.join(PROJECT_DIR, "api_pid.txt")
+LOG_FILE = os.path.join(PROJECT_DIR, "api.log")
 
 def run_command(command, shell=False):
     process = subprocess.Popen(command, shell=shell, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
@@ -27,7 +28,8 @@ def start_api():
         os.chdir(PROJECT_DIR)
         command = f"{VENV_PYTHON} {API_SCRIPT}"
         
-        process = subprocess.Popen(command, shell=True, preexec_fn=os.setsid, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        with open(LOG_FILE, 'w') as log:
+            process = subprocess.Popen(command, shell=True, preexec_fn=os.setsid, stdout=log, stderr=log)
         
         # Wait a short time to check if the process is still running
         time.sleep(2)
@@ -36,10 +38,9 @@ def start_api():
                 f.write(str(process.pid))
             print(f"API started. PID: {process.pid}")
         else:
-            stdout, stderr = process.communicate()
-            print(f"Error starting API. Exit code: {process.returncode}")
-            print(f"stdout: {stdout.decode()}")
-            print(f"stderr: {stderr.decode()}")
+            with open(LOG_FILE, 'r') as log:
+                print(f"Error starting API. Log contents:")
+                print(log.read())
     except Exception as e:
         print(f"Error starting API: {e}")
 
@@ -77,6 +78,12 @@ def check_status():
             print(f"API is running. PID: {pid}")
             print(f"CPU Usage: {process.cpu_percent()}%")
             print(f"Memory Usage: {process.memory_info().rss / 1024 / 1024:.2f} MB")
+            print(f"Running Time: {time.time() - process.create_time():.2f} seconds")
+            print("Last 10 lines of log:")
+            with open(LOG_FILE, 'r') as log:
+                lines = log.readlines()
+                for line in lines[-10:]:
+                    print(line.strip())
         except psutil.NoSuchProcess:
             print("API process not found, but PID file exists. Cleaning up.")
             os.remove(PID_FILE)

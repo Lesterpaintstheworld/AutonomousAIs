@@ -1,0 +1,109 @@
+[2024-09-17 17:27:23 +0000] [29429] [DEBUG] Current configuration:
+  config: ./gunicorn.conf.py
+  wsgi_app: None
+  bind: ['0.0.0.0:8501']
+  backlog: 2048
+  workers: 4
+  worker_class: gevent
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 600
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  print_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /home/ubuntu/synthetic-souls
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 1000
+  group: 1000
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1', '::1']
+  accesslog: None
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: -
+  loglevel: debug
+  capture_output: True
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  logconfig_json: None
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  dogstatsd_tags: 
+  statsd_prefix: 
+  proc_name: None
+  default_proc_name: gunicorn
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x7647a6175e40>
+  on_reload: <function OnReload.on_reload at 0x7647a6175f80>
+  when_ready: <function WhenReady.when_ready at 0x7647a61760c0>
+  pre_fork: <function Prefork.pre_fork at 0x7647a61762a0>
+  post_fork: <function Postfork.post_fork at 0x7647a61763e0>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7647a6176520>
+  worker_int: <function WorkerInt.worker_int at 0x7647a6176660>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7647a61767a0>
+  pre_exec: <function PreExec.pre_exec at 0x7647a61768e0>
+  pre_request: <function PreRequest.pre_request at 0x7647a6176a20>
+  post_request: <function PostRequest.post_request at 0x7647a6176ac0>
+  child_exit: <function ChildExit.child_exit at 0x7647a6176c00>
+  worker_exit: <function WorkerExit.worker_exit at 0x7647a6176d40>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7647a6176e80>
+  on_exit: <function OnExit.on_exit at 0x7647a6176fc0>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7647a61771a0>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1', '::1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: None
+  raw_paste_global_conf: []
+  permit_obsolete_folding: False
+  strip_header_spaces: False
+  permit_unconventional_http_method: False
+  permit_unconventional_http_version: False
+  casefold_http_method: False
+  forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
+  header_map: drop
+[2024-09-17 17:27:23 +0000] [29429] [INFO] Starting gunicorn 23.0.0
+[2024-09-17 17:27:23 +0000] [29429] [DEBUG] Arbiter booted
+[2024-09-17 17:27:23 +0000] [29429] [INFO] Listening at: http://0.0.0.0:8501 (29429)
+[2024-09-17 17:27:23 +0000] [29429] [INFO] Using worker: gevent
+[2024-09-17 17:27:23 +0000] [29430] [INFO] Booting worker with pid: 29430
+[2024-09-17 17:27:23 +0000] [29431] [INFO] Booting worker with pid: 29431
+[2024-09-17 17:27:23 +0000] [29432] [INFO] Booting worker with pid: 29432
+[2024-09-17 17:27:23 +0000] [29429] [DEBUG] 4 workers
+[2024-09-17 17:27:23 +0000] [29433] [INFO] Booting worker with pid: 29433
+[2024-09-17 17:27:41 +0000] [29432] [DEBUG] GET /
+[2024-09-17 17:27:41 +0000] [29432] [DEBUG] Closing connection. 
+[2024-09-17 17:27:42 +0000] [29432] [DEBUG] GET /kinos
+[2024-09-17 17:27:45 +0000] [29433] [DEBUG] GET /
+[2024-09-17 17:27:45 +0000] [29433] [DEBUG] Closing connection. 
+[2024-09-17 17:27:53 +0000] [29433] [DEBUG] GET /kinos

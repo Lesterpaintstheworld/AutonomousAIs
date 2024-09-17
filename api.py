@@ -4,6 +4,7 @@ import json
 import shlex
 import os
 import sys
+import time
 from gunicorn.app.base import BaseApplication
 
 app = Flask(__name__)
@@ -28,6 +29,7 @@ def stream_command(command):
         
         yield json.dumps({'debug': 'Process started'}) + '\n'
         
+        start_time = time.time()
         while True:
             output = process.stdout.readline()
             error = process.stderr.readline()
@@ -38,6 +40,12 @@ def stream_command(command):
                 yield json.dumps({'error': error.strip()}) + '\n'
             
             if output == '' and error == '' and process.poll() is not None:
+                break
+            
+            # Check if 10 minutes have passed
+            if time.time() - start_time > 600:
+                yield json.dumps({'debug': 'Process timed out after 10 minutes'}) + '\n'
+                process.terminate()
                 break
         
         return_code = process.poll()
@@ -87,5 +95,8 @@ if __name__ == '__main__':
         'workers': 4,
         'timeout': 600,  # 10 minutes in seconds
         'worker_class': 'gevent',
+        'capture_output': True,
+        'loglevel': 'debug',
     }
+    print("Starting Gunicorn with options:", options)
     StandaloneApplication(app, options).run()
