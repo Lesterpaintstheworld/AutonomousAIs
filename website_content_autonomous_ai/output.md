@@ -19,3 +19,7 @@ The implementation of the NLP component of the Core AI Engine Module has been su
    - Provided an example of how to use the NLP functions.
 
 The task has been marked as complete in the todolist.
+
+Next steps:
+- Plan and implement entity recognition for common AI-related terms.
+- Continue to enhance the NLP component with additional features as needed.

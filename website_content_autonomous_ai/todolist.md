@@ -1,1 +1,2 @@
 - [x] Implement the NLP component of the Core AI Engine Module
+- [ ] Plan and implement entity recognition for common AI-related terms.
