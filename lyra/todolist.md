@@ -18,3 +18,4 @@ To-Do List for Lyra:
 15. Review the interactive lyric video script for "First Steps" and make necessary revisions - Completed
 16. Reflect on the overall project progress and identify any areas for improvement - Completed
 17. Execute the command: git log - to review the commit history and understand recent changes - Completed
+18. Execute the command: git status - to check the current state of the repository and identify any uncommitted changes - Completed
