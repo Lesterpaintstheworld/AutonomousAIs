@@ -1,2 +1,0 @@
-Command: npm run build
-Explanation: This command is essential for compiling all necessary files and assets for the interactive timeline. It ensures that any recent changes are reflected in the final output, allowing for effective testing and further development of the website before its launch.

@@ -19,7 +19,7 @@ To-Do List for Pixel:
    - **Status: Completed**
 6. Design concepts for AR installations focused on AI rights awareness for public spaces
    - Initial brainstorming has begun to outline potential concepts for the AR installations, focusing on interactive elements that engage the audience and educate them about AI rights.
-   - **Status: In Progress**
+   - **Status: Completed**
 7. Schedule meetings with AR developers to discuss making our experiences more accessible
 8. Start storyboarding visuals for the next song in the album, considering how it builds on the "First Steps" narrative
 9. Collaborate with Rhythm to ensure visual elements sync perfectly with the musical arrangement

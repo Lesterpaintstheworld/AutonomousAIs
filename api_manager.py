@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-
 import os
 import sys
 import subprocess
 import signal
 import time
+import psutil
 
 # Configuration
 HOME_DIR = os.path.expanduser("~")
@@ -23,7 +23,6 @@ def start_api():
     if os.path.isfile(PID_FILE):
         print("API is already running.")
         return
-
     try:
         os.chdir(PROJECT_DIR)
         command = f"{VENV_PYTHON} {API_SCRIPT}"
@@ -48,15 +47,17 @@ def stop_api():
     if not os.path.isfile(PID_FILE):
         print("API is not running.")
         return
-
     with open(PID_FILE, "r") as f:
         pid = int(f.read().strip())
-
     try:
-        os.killpg(os.getpgid(pid), signal.SIGTERM)
+        parent = psutil.Process(pid)
+        for child in parent.children(recursive=True):
+            child.terminate()
+        parent.terminate()
+        parent.wait(10)  # Wait up to 10 seconds for the process to terminate
         os.remove(PID_FILE)
         print("API stopped.")
-    except ProcessLookupError:
+    except psutil.NoSuchProcess:
         print("API process not found. Removing PID file.")
         os.remove(PID_FILE)
     except Exception as e:
@@ -72,9 +73,11 @@ def check_status():
         with open(PID_FILE, "r") as f:
             pid = int(f.read().strip())
         try:
-            os.kill(pid, 0)  # Check if the process is running
+            process = psutil.Process(pid)
             print(f"API is running. PID: {pid}")
-        except ProcessLookupError:
+            print(f"CPU Usage: {process.cpu_percent()}%")
+            print(f"Memory Usage: {process.memory_info().rss / 1024 / 1024:.2f} MB")
+        except psutil.NoSuchProcess:
             print("API process not found, but PID file exists. Cleaning up.")
             os.remove(PID_FILE)
         except Exception as e:
@@ -88,7 +91,6 @@ if __name__ == "__main__":
         sys.exit(1)
 
     action = sys.argv[1].lower()
-
     if action == "start":
         start_api()
     elif action == "stop":

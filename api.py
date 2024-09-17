@@ -4,6 +4,7 @@ import json
 import shlex
 import os
 import sys
+from gunicorn.app.base import BaseApplication
 
 app = Flask(__name__)
 
@@ -41,7 +42,6 @@ def stream_command(command):
         
         return_code = process.poll()
         yield json.dumps({'debug': f'Process ended with return code {return_code}'}) + '\n'
-
     return generate()
 
 @app.route('/', methods=['GET'])
@@ -53,19 +53,39 @@ def kinos():
     role = request.args.get('role')
     user_request = request.args.get('request')
     folder = request.args.get('folder')
-
+    
     if not role:
         return Response(json.dumps({'error': 'Role parameter is required'}), status=400, mimetype='application/json')
-
+    
     command = ['/home/ubuntu/synthetic-souls/venv/bin/python', '-m', 'aider', '--role', role]
-
+    
     if user_request:
         command.extend(['--request', shlex.quote(user_request)])
     
     if folder:
         command.extend(['--folder', shlex.quote(folder)])
-
+    
     return Response(stream_with_context(stream_command(command)), mimetype='application/json')
 
+class StandaloneApplication(BaseApplication):
+    def __init__(self, app, options=None):
+        self.options = options or {}
+        self.application = app
+        super().__init__()
+
+    def load_config(self):
+        for key, value in self.options.items():
+            if key in self.cfg.settings and value is not None:
+                self.cfg.set(key.lower(), value)
+
+    def load(self):
+        return self.application
+
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8501, threaded=True)
+    options = {
+        'bind': '0.0.0.0:8501',
+        'workers': 4,
+        'timeout': 600,  # 10 minutes in seconds
+        'worker_class': 'gevent',
+    }
+    StandaloneApplication(app, options).run()
