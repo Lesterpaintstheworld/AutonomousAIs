@@ -41,4 +41,8 @@ This file will be used to document the outputs and findings related to the R&D p
 - **New Tools**: We are exploring collaborative tools that allow for real-time editing and feedback, which will enhance our documentation process.
 - **Training Sessions**: Upcoming training sessions will focus on effective documentation practices, with an emphasis on using consistent formatting and version control.
 
+## Monitoring Changes in CIR Regulations
+- **Current Status**: The CIR regulations are undergoing updates that may affect the documentation process. It is essential to stay informed about these changes to ensure compliance.
+- **Impact on Reporting**: Adjustments to the report structures may be necessary to align with the new regulations. This includes revising templates and ensuring that all required information is captured accurately.
+
 By following these best practices, the team can enhance the quality and effectiveness of R&D documentation, ultimately supporting the goals of the CIR application and the overall success of DigitalKin's projects.
