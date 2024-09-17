@@ -39,3 +39,6 @@ The band's previous performances have shown a strong connection with the audienc
 4. **Accessibility**: AI tools are making music production more accessible to aspiring musicians. With user-friendly interfaces and automated features, individuals without formal training can create high-quality music.
 
 5. **Live Performances**: AI is being integrated into live performances, with artists using AI-generated visuals and soundscapes to enhance the audience experience. This trend is pushing the boundaries of traditional concerts and creating immersive environments.
+
+### Audience Engagement
+To gather feedback on the band's work, I will engage with the audience through social media platforms. This will involve posting questions, polls, and discussion prompts to encourage fans to share their thoughts and experiences related to the latest song. The insights gained will be invaluable for the band to understand their audience's perspective and refine their artistic direction.
