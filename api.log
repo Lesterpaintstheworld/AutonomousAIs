@@ -1435,3 +1435,19 @@ Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout'
 [2024-09-17 21:38:39 +0000] [28750] [DEBUG] GET /
 [2024-09-17 21:38:39 +0000] [28750] [DEBUG] Closing connection. 
 [2024-09-17 21:38:39 +0000] [28759] [DEBUG] Closing connection. 
+[2024-09-17 21:38:44 +0000] [28749] [DEBUG] Ignoring EPIPE
+[2024-09-17 21:55:53 +0000] [1521] [CRITICAL] WORKER TIMEOUT (pid:28749)
+[2024-09-17 22:02:35 +0000] [1521] [CRITICAL] WORKER TIMEOUT (pid:28750)
+[2024-09-17 22:02:35 +0000] [1521] [CRITICAL] WORKER TIMEOUT (pid:28757)
+[2024-09-17 22:02:35 +0000] [1521] [CRITICAL] WORKER TIMEOUT (pid:28759)
+[2024-09-17 22:02:37 +0000] [1521] [ERROR] Worker (pid:28750) was sent SIGKILL! Perhaps out of memory?
+[2024-09-17 22:02:37 +0000] [1521] [ERROR] Worker (pid:28749) was sent SIGKILL! Perhaps out of memory?
+[2024-09-17 22:02:37 +0000] [1521] [ERROR] Worker (pid:28757) was sent SIGKILL! Perhaps out of memory?
+[2024-09-17 22:02:37 +0000] [29026] [INFO] Booting worker with pid: 29026
+[2024-09-17 22:02:37 +0000] [1521] [DEBUG] 2 workers
+[2024-09-17 22:02:38 +0000] [29047] [INFO] Booting worker with pid: 29047
+[2024-09-17 22:02:38 +0000] [1521] [ERROR] Worker (pid:28759) was sent SIGKILL! Perhaps out of memory?
+[2024-09-17 22:02:39 +0000] [1521] [DEBUG] 3 workers
+[2024-09-17 22:02:39 +0000] [29072] [INFO] Booting worker with pid: 29072
+[2024-09-17 22:02:40 +0000] [1521] [DEBUG] 4 workers
+[2024-09-17 22:02:40 +0000] [29070] [INFO] Booting worker with pid: 29070
