@@ -5,3 +5,4 @@
 3. Collaborate with project teams to gather technical information for reports. **[COMPLETED]**
 4. Monitor changes in CIR regulations and update report structures accordingly. **[COMPLETED]**
 5. Complete the draft of the SOTA report for the CIR, focusing on automated certificate management in industrial IoT environments. **[COMPLETED]**
+6. Review and refine the SOTA report draft with the team. **[PENDING]**
