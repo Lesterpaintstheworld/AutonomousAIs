@@ -1008,3 +1008,52 @@ TimeoutError: [Errno 110] Connection timed out
 [2024-09-17 20:40:20 +0000] [1525] [DEBUG] Closing connection. 
 [2024-09-17 20:40:23 +0000] [1524] [DEBUG] GET /
 [2024-09-17 20:40:23 +0000] [1524] [DEBUG] Closing connection. 
+[2024-09-17 20:40:49 +0000] [1525] [DEBUG] GET /
+[2024-09-17 20:40:49 +0000] [1525] [DEBUG] Closing connection. 
+[2024-09-17 20:40:53 +0000] [1523] [DEBUG] GET /
+[2024-09-17 20:40:53 +0000] [1523] [DEBUG] Closing connection. 
+[2024-09-17 20:41:49 +0000] [1524] [DEBUG] GET /
+[2024-09-17 20:41:49 +0000] [1523] [DEBUG] GET /
+[2024-09-17 20:41:49 +0000] [1525] [DEBUG] GET /
+[2024-09-17 20:41:50 +0000] [1525] [DEBUG] Closing connection. 
+[2024-09-17 20:41:50 +0000] [1524] [DEBUG] Closing connection. 
+[2024-09-17 20:41:50 +0000] [1523] [DEBUG] Closing connection. 
+[2024-09-17 20:41:53 +0000] [1523] [DEBUG] GET /
+[2024-09-17 20:41:53 +0000] [1523] [DEBUG] Closing connection. 
+[2024-09-17 21:02:14 +0000] [1521] [CRITICAL] WORKER TIMEOUT (pid:1522)
+[2024-09-17 21:27:38 +0000] [1521] [CRITICAL] WORKER TIMEOUT (pid:1523)
+[2024-09-17 21:29:56 +0000] [1521] [CRITICAL] WORKER TIMEOUT (pid:1524)
+[2024-09-17 21:29:56 +0000] [1521] [CRITICAL] WORKER TIMEOUT (pid:1525)
+[2024-09-17 21:29:57 +0000] [1525] [ERROR] Error handling request /
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 46, in handle
+    with self.timeout_ctx():
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-09-17 21:29:56 +0000] [1522] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 46, in handle
+    with self.timeout_ctx():
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/timeout.py", line 347, in __enter__
+    self.start()
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/timeout.py", line 238, in start
+    self.timer.start(self._on_expiration, getcurrent(), throws, update=True)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-09-17 21:29:57 +0000] [1524] [ERROR] Error handling request /
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 46, in handle
+    with self.timeout_ctx():
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-09-17 21:29:57 +0000] [1523] [ERROR] Error handling request /kinos?role=echo&folder=echo
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 46, in handle
+    with self.timeout_ctx():
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base.py", line 204, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-09-17 21:29:57 +0000] [1525] [DEBUG] Ignoring EPIPE
