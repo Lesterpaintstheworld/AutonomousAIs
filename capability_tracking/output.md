@@ -49,3 +49,11 @@ Monitoring is ongoing. Team members are encouraged to provide their input in the
 
 ### Outcome:
 The document is now accessible to all team members, and the task is marked as complete.
+
+## Task: Finalize the "System Architecture Overview" document
+
+### Changes Made:
+- The document has been finalized and pinned in the Discord channel for easy access.
+
+### Outcome:
+The "System Architecture Overview" document is now accessible to all team members, and the task is marked as complete.
