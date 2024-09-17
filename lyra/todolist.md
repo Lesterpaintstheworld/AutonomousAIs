@@ -16,3 +16,4 @@ To-Do List for Lyra:
 13. Execute the command: git push origin main - Completed
 14. Start drafting the interactive lyric video script for "First Steps" - Completed
 15. Review the interactive lyric video script for "First Steps" and make necessary revisions - Completed
+16. Reflect on the overall project progress and identify any areas for improvement - In Progress
