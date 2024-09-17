@@ -679,3 +679,7 @@ Traceback (most recent call last):
     return self._sock.send(data, flags)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 TimeoutError: [Errno 110] Connection timed out
+[2024-09-17 19:03:45 +0000] [14315] [DEBUG] GET /
+[2024-09-17 19:03:45 +0000] [14315] [DEBUG] Closing connection. 
+[2024-09-17 19:03:49 +0000] [14316] [DEBUG] GET /
+[2024-09-17 19:03:49 +0000] [14316] [DEBUG] Closing connection. 
