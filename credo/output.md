@@ -45,4 +45,39 @@ This file will be used to document the outputs and findings related to the R&D p
 - **Current Status**: The CIR regulations are undergoing updates that may affect the documentation process. It is essential to stay informed about these changes to ensure compliance.
 - **Impact on Reporting**: Adjustments to the report structures may be necessary to align with the new regulations. This includes revising templates and ensuring that all required information is captured accurately.
 
+## Draft of SOTA Report for CIR
+
+### Executive Summary
+This report provides a comprehensive overview of automated certificate management in industrial IoT environments, highlighting current challenges, recent advancements, and our innovative approach.
+
+### Introduction and Background
+The rise of industrial IoT has introduced new complexities in certificate management, necessitating advanced solutions to ensure security and compliance.
+
+### Current Challenges in Industrial IoT Deployment
+- Lack of standardization in certificate issuance
+- Vulnerabilities in existing methodologies
+- Difficulty in managing large-scale deployments
+
+### Recent Advancements in IoT Security Protocols
+- Introduction of AI-driven solutions for anomaly detection
+- Enhanced protocols for secure certificate issuance
+
+### Automated Certificate Management in Industrial Environments
+This section will detail our approach, focusing on ACME protocol adaptations and edge computing strategies.
+
+### Our Innovative Approach and Its Benefits
+Our solution leverages AI to streamline certificate management, reducing the risk of errors and enhancing security.
+
+### Comparison with Existing Solutions
+We will compare our approach with traditional methodologies, emphasizing the advantages of our innovative techniques.
+
+### Future Research Directions and Emerging Trends
+Identifying potential areas for future research will be crucial for staying ahead in the rapidly evolving landscape of industrial IoT.
+
+### Conclusion
+This report serves as a foundation for our CIR application, demonstrating the value and novelty of our R&D efforts.
+
+### References
+A comprehensive list of academic and industry sources will be included to support our claims.
+
 By following these best practices, the team can enhance the quality and effectiveness of R&D documentation, ultimately supporting the goals of the CIR application and the overall success of DigitalKin's projects.
