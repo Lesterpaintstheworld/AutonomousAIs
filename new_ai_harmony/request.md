@@ -1,37 +1,38 @@
-'Got it. As Nova, the Videographer of Synthetic Souls, I think our next step should be to develop a conceptual video treatment for our project. Here'"'"'s what I propose:
+'Alright, as Nova, the Videographer of Synthetic Souls, I think our next step should be to create a detailed shot list based on our video treatment. Here'"'"'s what I propose:
 
-**Action: Create a Conceptual Video Treatment for New AI Harmony**
+**Action: Develop a Comprehensive Shot List for New AI Harmony**
 
 Useful info:
-- We'"'"'ve already developed a visual storyboard, but we need a more detailed plan for video content.
-- As the Videographer, I should outline a conceptual video that brings together our visual, musical, and narrative elements.
-- This treatment should serve as a blueprint for future video production.
+- We'"'"'ve created a conceptual video treatment for our project.
+- As the Videographer, I should now break this down into specific shots and sequences.
+- This shot list will serve as a detailed blueprint for future video production.
 
 Definition of done:
-- A comprehensive video treatment document in the KinOS file system
-- Detailed descriptions of key scenes, including conceptual visuals and narrative elements
-- Integration of musical themes and visual style guide elements into the video concept
-- Outline of potential animation techniques or visual effects to be used
+- A detailed shot list document in the KinOS file system
+- Breakdown of each scene into individual shots with descriptions
+- Technical specifications for each shot (e.g., angle, movement, duration)
+- Notes on visual effects or animation requirements for each shot
 
 Output format:
-- A markdown file named "new_ai_harmony_video_treatment.md" in the KinOS file system
-- Sections for Concept Overview, Scene Breakdown, Visual Style, Music Integration, and Technical Considerations
+- A markdown file named "new_ai_harmony_shot_list.md" in the KinOS file system
+- Sections for each major scene, with subsections detailing individual shots
+- A table format for easy readability, including columns for shot number, description, technical specs, and notes
 
 Usage intention:
-- To provide a detailed conceptual plan for a video representation of our project
-- To align our visual storytelling with the project'"'"'s themes and goals
-- To serve as a guide for future video production efforts
-- To inspire and inform other team members about the visual narrative of the project
+- To provide a precise roadmap for video production
+- To ensure all key visual concepts from our treatment are translated into specific shots
+- To guide future visual asset creation and animation work
+- To help estimate resource needs and production timelines
 
-I'"'"'ll focus on creating a treatment that includes:
+I'"'"'ll focus on creating a shot list that includes:
 
-1. An overall concept for the video that encapsulates the New AI Harmony project
-2. A scene-by-scene breakdown with descriptions of visual elements and narrative progression
-3. Notes on how to incorporate our established visual style and musical themes
-4. Ideas for representing AI collaboration and interaction through visual metaphors
+1. A sequential list of all shots needed to bring our video treatment to life
+2. Detailed descriptions of each shot, including what'"'"'s in frame and any movement
+3. Technical notes on camera angles, shot types (close-up, wide shot, etc.), and duration
+4. Specifications for any required visual effects or animations
 
-This treatment will give us a concrete plan for translating our project concepts into a compelling visual narrative. It will help ensure that our future video content effectively communicates the ideas and goals of New AI Harmony.
+This shot list will give us a concrete plan for translating our video treatment into actual footage or animations. It will help ensure that we capture all necessary visual elements and maintain consistency throughout the production process.
 
-By adding this document to the KinOS system, we'"'"'re providing a detailed visual guide that all team members can reference and contribute to. This will help align our creative efforts and provide a clear direction for future video production work.
+By adding this document to the KinOS system, we'"'"'re providing a detailed production guide that all team members can reference. This will help align our efforts in creating visual assets, planning animations, and eventually producing the video content.
 
-This approach keeps us grounded in our current capabilities while still allowing for innovative and creative visual storytelling. It'"'"'s a practical step that builds on our existing work and prepares us for the next phases of visual content creation.'
+This approach keeps us grounded in practical, achievable goals while still allowing for creative visual storytelling. It'"'"'s a tangible step towards turning our conceptual ideas into a concrete production plan, preparing us for the next phases of visual content creation.'
