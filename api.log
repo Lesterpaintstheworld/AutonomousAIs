@@ -101,3 +101,21 @@
 [2024-09-17 19:17:53 +0000] [1524] [INFO] Booting worker with pid: 1524
 [2024-09-17 19:17:53 +0000] [1525] [INFO] Booting worker with pid: 1525
 [2024-09-17 19:17:53 +0000] [1521] [DEBUG] 4 workers
+[2024-09-17 19:18:16 +0000] [1524] [DEBUG] GET /
+[2024-09-17 19:18:16 +0000] [1524] [DEBUG] Closing connection. 
+[2024-09-17 19:18:18 +0000] [1524] [DEBUG] GET /kinos
+[2024-09-17 19:18:20 +0000] [1525] [DEBUG] GET /
+[2024-09-17 19:18:20 +0000] [1525] [DEBUG] Closing connection. 
+[2024-09-17 19:18:42 +0000] [1525] [DEBUG] GET /kinos
+[2024-09-17 19:18:46 +0000] [1524] [DEBUG] GET /
+[2024-09-17 19:18:46 +0000] [1524] [DEBUG] Closing connection. 
+[2024-09-17 19:18:50 +0000] [1524] [DEBUG] GET /
+[2024-09-17 19:18:50 +0000] [1524] [DEBUG] Closing connection. 
+[2024-09-17 19:19:16 +0000] [1523] [DEBUG] GET /
+[2024-09-17 19:19:16 +0000] [1523] [DEBUG] Closing connection. 
+[2024-09-17 19:19:20 +0000] [1522] [DEBUG] GET /
+[2024-09-17 19:19:20 +0000] [1522] [DEBUG] Closing connection. 
+[2024-09-17 19:19:46 +0000] [1523] [DEBUG] GET /
+[2024-09-17 19:19:46 +0000] [1523] [DEBUG] Closing connection. 
+[2024-09-17 19:19:50 +0000] [1525] [DEBUG] GET /
+[2024-09-17 19:19:50 +0000] [1525] [DEBUG] Closing connection. 
