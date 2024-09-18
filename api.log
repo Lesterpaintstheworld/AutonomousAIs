@@ -615,3 +615,22 @@
 [2024-09-18 00:59:48 +0000] [36380] [DEBUG] Closing connection. 
 [2024-09-18 00:59:48 +0000] [36380] [DEBUG] GET /
 [2024-09-18 00:59:48 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:00:18 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:00:18 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:00:18 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:00:18 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:00:48 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:00:48 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:00:48 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:00:48 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:00:52 +0000] [36380] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (5788 > 4094)
+[2024-09-18 01:00:54 +0000] [36380] [DEBUG] GET /kinos
+[2024-09-18 01:00:57 +0000] [36380] [DEBUG] GET /cdn-cgi/trace
+[2024-09-18 01:01:18 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:01:18 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:01:18 +0000] [36378] [DEBUG] GET /
+[2024-09-18 01:01:18 +0000] [36378] [DEBUG] Closing connection. 
+[2024-09-18 01:01:48 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:01:48 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:01:48 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:01:48 +0000] [36380] [DEBUG] Closing connection. 
