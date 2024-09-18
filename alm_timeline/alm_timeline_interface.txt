@@ -1,0 +1,21 @@
+# ALM Timeline Interface Instructions
+
+## Viewing the Timeline
+To view the ALM timeline, open the `alm_timeline.json` file in a JSON viewer or text editor.
+
+## Adding New Entries
+To add a new entry to the timeline:
+1. Open the `alm_timeline.json` file.
+2. Add a new object to the "timeline" array with the following structure:
+   ```json
+   {
+     "date": "YYYY-MM-DD",
+     "event": "Your event description here",
+     "significance": "Your significance explanation here"
+   }
+   ```
+
+## Editing Existing Entries
+To edit an existing entry:
+1. Open the `alm_timeline.json` file.
+2. Locate the entry you wish to edit and modify the "date", "event", or "significance" fields as needed.

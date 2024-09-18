@@ -1,0 +1,9 @@
+{
+  "timeline": [
+    {
+      "date": "YYYY-MM-DD",
+      "event": "Description of ALM milestone or development",
+      "significance": "Brief explanation of why this event is important"
+    }
+  ]
+}
