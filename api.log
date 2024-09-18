@@ -931,3 +931,20 @@
 [2024-09-18 01:33:49 +0000] [36380] [DEBUG] Closing connection. 
 [2024-09-18 01:33:49 +0000] [36380] [DEBUG] GET /
 [2024-09-18 01:33:49 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:34:19 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:34:19 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:34:19 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:34:19 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:34:49 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:34:49 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:34:49 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:34:49 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:35:19 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:35:19 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:35:19 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:35:19 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:35:49 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:35:49 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:35:49 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:35:49 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:35:50 +0000] [36380] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (5389 > 4094)
