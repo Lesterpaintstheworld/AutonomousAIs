@@ -18,3 +18,5 @@ https://synthetic-souls.nlr.ai/juris/todolist
 These steps will ensure our project management process maintains high legal and ethical standards while fostering innovation and collaboration.'
 
 ''
+
+''
