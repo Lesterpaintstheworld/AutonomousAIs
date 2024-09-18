@@ -11,3 +11,6 @@ This document outlines the initial request for the project, detailing the object
 - Timely updates on progress and challenges.
 - Open communication regarding any changes to the project scope.
 - Adherence to ethical guidelines and best practices in AI development.
+
+
+''
