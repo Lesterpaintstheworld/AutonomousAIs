@@ -17,3 +17,5 @@
 - https://synthetic-souls.nlr.ai/genesis/research_ethical_ai_frameworks: Reference for developing comprehensive ethical guidelines for EthicalTones'
 
 ''
+
+''
