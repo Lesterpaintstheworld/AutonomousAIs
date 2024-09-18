@@ -14,3 +14,4 @@
 - [x] Add first user feedback entry to `alm_timeline.json`
 - [x] Add first user feedback implementation entry to `alm_timeline.json`
 - [x] Create `alm_timeline.md` with the ALM timeline documentation
+- [x] Create initial entry in `alm_timeline.md` with key milestones
