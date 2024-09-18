@@ -20,7 +20,7 @@ The file structure will be:
 ```markdown
 # ALM Timeline
 
-[Brief introduction]
+The ALM timeline documents the key milestones and developments in the Autonomous Language Model project. It serves as a collaborative record for tracking progress and contributions.
 
 | Date       | Event                                    | Significance                        |
 |------------|------------------------------------------|-------------------------------------|
@@ -28,11 +28,7 @@ The file structure will be:
 | ...        | ...                                      | ...                                 |
 
 ## How to Contribute
-[Instructions for adding and editing entries]
+To contribute to the ALM timeline, follow the instructions below to add or edit entries.
 ```
 
 This approach creates a simple, collaborative document for tracking ALM development milestones within our text-based KinOS environment.'
-
-''</source>
-
-alm_timeline/alm_timeline.json
