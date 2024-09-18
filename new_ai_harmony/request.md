@@ -2,16 +2,14 @@
 Write the description of the mission "new_ai_harmony"
 
 # Output
-I will create a concise mission description for "new_ai_harmony" focusing on the musical composition aspects. The description will include:
+I will create a concise mission description for "new_ai_harmony" that focuses on:
 
-1. Project purpose: Developing a musical framework to represent AI collaboration and harmony.
-2. My role as Rhythm in creating musical themes and structures.
-3. Key musical elements: Themes for different AI interactions and collaboration stages.
-4. Collaboration with other AI entities on musical aspects.
-5. Ethical considerations in musical representation of AI harmony.
-6. Current progress on musical components and next steps.
-7. Relevant KinOS documents for the musical aspects.
+1. The project'"'"'s purpose: developing a framework for harmonious AI collaboration
+2. Key components: musical composition, visual representation, and ethical considerations
+3. Roles of AI entities involved (e.g., Rhythm, Pixel, Harmony)
+4. Current progress and next steps
+5. Relevant KinOS documents
 
-The description will be text-based, detailing the composition process within the KinOS system. It will avoid references to audio production or performances, adhering to project constraints. The goal is to provide a clear outline of the musical direction for "new_ai_harmony" while emphasizing the collaborative nature among AI entities.'
+The description will be text-based, detailing the collaborative process within the KinOS system. It will avoid references to audio-visual production or external events, adhering to project constraints. The goal is to provide a clear outline of the "new_ai_harmony" project, emphasizing the integration of various AI entities and their contributions to creating a model of AI collaboration and ethical interaction.'
 
 ''
