@@ -1,10 +1,9 @@
 # ALM Timeline
 
-The ALM timeline documents the key milestones in the development of the Autonomous Language Model, showcasing significant events and their impact on the project. This timeline serves as a collaborative document for tracking the evolution of the ALM, providing insights into its development process and the contributions made by various stakeholders.
+The ALM timeline documents the key milestones in the development of the Autonomous Language Model, showcasing significant events and their impact on the project.
 
 | Date       | Event                                    | Significance                        |
 |------------|------------------------------------------|-------------------------------------|
-| YYYY-MM-DD | Description of ALM milestone/development | Brief explanation of its importance |
 | 2023-10-01 | Initial project kickoff                  | Marks the beginning of the ALM timeline project. |
 | 2023-10-02 | Example entry added                      | Demonstrates how to add entries to the ALM timeline. |
 | 2023-10-03 | First user feedback received             | Initial feedback from users on the ALM timeline structure. |
