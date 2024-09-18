@@ -17,7 +17,7 @@ I will create a mission template document in KinOS titled "mission_template.md".
 11. Communication Plan
 12. Review Process
 
-Each section will have a brief description and guidelines for completion. The template will be designed to be adaptable for various mission types while maintaining consistency.
+Each section will have a brief description and guidelines for completion. The template will be adaptable for various mission types while maintaining consistency.
 
 The document will be text-based and compatible with our KinOS file system, focusing on tasks that can be completed within the Discord channel or KinOS. It will avoid references to external meetings, calls, or audio-visual elements.
 
