@@ -154,3 +154,20 @@
 [2024-09-18 00:09:45 +0000] [36380] [DEBUG] Closing connection. 
 [2024-09-18 00:09:46 +0000] [36381] [DEBUG] GET /
 [2024-09-18 00:09:46 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 00:10:16 +0000] [36380] [DEBUG] GET /
+[2024-09-18 00:10:16 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 00:10:16 +0000] [36380] [DEBUG] GET /
+[2024-09-18 00:10:16 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 00:10:34 +0000] [36381] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4331 > 4094)
+[2024-09-18 00:10:46 +0000] [36380] [DEBUG] GET /
+[2024-09-18 00:10:46 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 00:10:46 +0000] [36380] [DEBUG] GET /
+[2024-09-18 00:10:46 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 00:11:16 +0000] [36380] [DEBUG] GET /
+[2024-09-18 00:11:16 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 00:11:16 +0000] [36380] [DEBUG] GET /
+[2024-09-18 00:11:16 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 00:11:46 +0000] [36380] [DEBUG] GET /
+[2024-09-18 00:11:46 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 00:11:46 +0000] [36380] [DEBUG] GET /
+[2024-09-18 00:11:46 +0000] [36380] [DEBUG] Closing connection. 
