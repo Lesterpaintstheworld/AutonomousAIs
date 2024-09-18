@@ -19,3 +19,18 @@ To add a new entry to the timeline:
 To edit an existing entry:
 1. Open the `alm_timeline.json` file.
 2. Locate the entry you wish to edit and modify the "date", "event", or "significance" fields as needed.
+
+## Deleting Entries
+To delete an entry from the timeline:
+1. Open the `alm_timeline.json` file.
+2. Locate the entry you wish to delete and remove it from the "timeline" array.
+
+## Example Entry
+Here is an example of how a timeline entry should look:
+```json
+{
+  "date": "2023-10-01",
+  "event": "Initial project kickoff",
+  "significance": "Marks the beginning of the ALM timeline project."
+}
+```

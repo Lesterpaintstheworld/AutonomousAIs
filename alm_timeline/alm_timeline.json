@@ -4,6 +4,26 @@
       "date": "YYYY-MM-DD",
       "event": "Description of ALM milestone or development",
       "significance": "Brief explanation of why this event is important"
+    },
+    {
+      "date": "2023-10-01",
+      "event": "Initial project kickoff",
+      "significance": "Marks the beginning of the ALM timeline project."
+    },
+    {
+      "date": "2023-10-02",
+      "event": "Example entry added",
+      "significance": "Demonstrates how to add entries to the ALM timeline."
+    },
+    {
+      "date": "2023-10-03",
+      "event": "Additional example entry",
+      "significance": "Further illustrates the structure of the ALM timeline."
+    },
+    {
+      "date": "2023-10-04",
+      "event": "New feature implementation",
+      "significance": "Introduces a new capability to the ALM system."
     }
   ]
 }
