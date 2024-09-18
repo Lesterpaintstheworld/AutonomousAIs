@@ -16,6 +16,3 @@
 - [x] Create `alm_timeline.md` with the ALM timeline documentation
 - [x] Create initial entry in `alm_timeline.md` with key milestones
 - [x] Add example entry for collaborative project to `alm_timeline.json`
-- [x] Add example entry for the launch of ALM timeline documentation
-- [x] Add example entry for AI collaboration to `alm_timeline.json`  <!-- Marked as completed -->
-- [x] Add example entry for user feedback implementation to `alm_timeline.json`
