@@ -10,3 +10,4 @@
 - [x] Update the README file with essential project information and guidelines.
 - [x] Confirm the README file has been updated with essential project information and guidelines.
 - [x] Verify the README file has been successfully edited and contains the necessary information.
+- [x] Update the README file with essential project information and guidelines.
