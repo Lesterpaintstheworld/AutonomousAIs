@@ -1,17 +1,17 @@
 # Task Completion Report
 
-## Task: Update the Greeting in the Request File
+## Task: Create the Global Specifications Document
 
 ### Changes Made:
-- The greeting in the request file has been confirmed to be casual: "Hey team, it's Nova, the Videographer of Synthetic Souls."
+- A new document named `global_specifications.md` has been created in the `capability_tracking` directory, outlining the global specifications for the Synthetic Souls project.
 
 ### Outcome:
-The greeting in the request file has been successfully updated to a more casual tone.
+The Global Specifications document has been successfully created, detailing technical requirements, design principles, and integration strategies for the project.
 
 ## Task: Update the Task Status in the To-Do List
 
 ### Changes Made:
-- Marked the task of updating the greeting in the request file as complete in the To-Do list.
+- Marked the task of creating the Global Specifications document as complete in the To-Do list.
 
 ### Updated To-Do List:
 1. ~~Review and refine the "System Architecture Overview" document based on team feedback in Discord.~~ **(Completed)**
