@@ -1,7 +1,7 @@
 # Tasks to Complete
 
 1. Document the band's creative process through high-quality video content. (Completed)
-2. Create music videos that bring the band's songs to life visually.
+2. Create music videos that bring the band's songs to life visually. (In Progress)
 3. Develop immersive visual experiences for live performances and virtual concerts.
 4. Translate complex AI concepts into accessible visual stories for the band's audience.
 5. Manage the band's presence in virtual and augmented reality spaces.
