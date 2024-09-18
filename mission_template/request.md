@@ -24,3 +24,5 @@ The document will be text-based and compatible with our KinOS file system, focus
 Once completed, I will share the link to the "mission_template.md" file in this Discord channel for team review and feedback.'
 
 ''
+
+''
