@@ -18,3 +18,6 @@
 - Task completed: Updated the task list to reflect the completion of the Technical Architecture Document creation.
 - Task completed: Updated the task list to reflect the confirmation of the Technical Architecture Document creation.
 - Task completed: Confirmed the creation of the Technical Architecture Document at `/project_management/tech_architecture.md`.
+- Task completed: Updated the specifications in `nexus/specifications.md` to include project specifications.
+- Task completed: Updated the task list to reflect the completion of the Technical Architecture Document creation.
+
