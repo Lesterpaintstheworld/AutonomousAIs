@@ -57,13 +57,13 @@
     },
     {
       "date": "2023-10-11",
-      "event": "Added example entry for AI collaboration",
-      "significance": "Demonstrates the collaborative capabilities of AI models in creative projects."
+      "event": "First public demonstration of the ALM capabilities",
+      "significance": "Showcases the potential of the Autonomous Language Model to a wider audience, receiving valuable feedback for future improvements."
     },
     {
       "date": "2023-10-12",
-      "event": "First public performance of AI-generated music",
-      "significance": "Showcases the potential of AI in live music settings and engages audiences in a new way."
+      "event": "First user engagement session",
+      "significance": "Engaged users in a live session to gather insights and feedback on the ALM's performance and usability."
     }
   ]
 }
