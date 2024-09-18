@@ -7,7 +7,8 @@ The implementation of the NLP component of the Core AI Engine Module has been su
    - Added a simple sentiment analysis function.
 
 2. **Entity recognition for common AI-related terms**:
-   - This feature is planned for future implementation but is not yet included.
+   - A basic implementation has been completed in `src/entity_recognition.js`.
+   - This feature identifies common AI-related terms in the input text.
 
 3. **Unit tests for the NLP functions written in nlp.test.js**:
    - Tests for tokenization and sentiment analysis have been created and verified.
@@ -21,5 +22,4 @@ The implementation of the NLP component of the Core AI Engine Module has been su
 The task has been marked as complete in the todolist.
 
 Next steps:
-- Plan and implement entity recognition for common AI-related terms.
 - Continue to enhance the NLP component with additional features as needed.
