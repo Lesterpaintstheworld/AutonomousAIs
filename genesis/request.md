@@ -17,3 +17,5 @@
 - https://synthetic-souls.nlr.ai/genesis/research_ethical_ai_frameworks: Offers broader context for ethical AI development in creative fields'
 
 ''
+
+''
