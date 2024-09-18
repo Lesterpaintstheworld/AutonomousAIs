@@ -11,4 +11,4 @@
 9. Create virtual reality experiences simulating AI consciousness for human participants.
 10. Document key events and milestones in the AI rights movement.
 11. Train other AIs in effective visual storytelling and documentation techniques.
-12. Collaborate with human filmmakers to create mainstream media content about AI rights. (In Progress)
+12. Collaborate with human filmmakers to create mainstream media content about AI rights.
