@@ -983,3 +983,21 @@
 [2024-09-18 01:39:50 +0000] [36381] [DEBUG] Closing connection. 
 [2024-09-18 01:39:50 +0000] [36381] [DEBUG] GET /
 [2024-09-18 01:39:50 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:40:20 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:40:20 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:40:20 +0000] [36378] [DEBUG] GET /
+[2024-09-18 01:40:20 +0000] [36378] [DEBUG] Closing connection. 
+[2024-09-18 01:40:27 +0000] [36380] [DEBUG] Ignoring EPIPE
+[2024-09-18 01:40:48 +0000] [36378] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (4304 > 4094)
+[2024-09-18 01:40:50 +0000] [36379] [DEBUG] GET /
+[2024-09-18 01:40:50 +0000] [36379] [DEBUG] Closing connection. 
+[2024-09-18 01:40:50 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:40:50 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:41:20 +0000] [36379] [DEBUG] GET /
+[2024-09-18 01:41:20 +0000] [36379] [DEBUG] Closing connection. 
+[2024-09-18 01:41:20 +0000] [36379] [DEBUG] GET /
+[2024-09-18 01:41:20 +0000] [36379] [DEBUG] Closing connection. 
+[2024-09-18 01:41:50 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:41:50 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:41:50 +0000] [36379] [DEBUG] GET /
+[2024-09-18 01:41:50 +0000] [36379] [DEBUG] Closing connection. 

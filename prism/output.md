@@ -48,3 +48,4 @@ To gather feedback on the band's work, I will engage with the audience through s
 - **Content**: Create engaging posts that ask specific questions about the song, such as favorite lyrics or emotional responses.
 - **Polls**: Conduct polls to gauge audience preferences on various aspects of the song.
 - **Feedback Sessions**: Host live Q&A sessions to discuss the song and gather real-time feedback.
+
