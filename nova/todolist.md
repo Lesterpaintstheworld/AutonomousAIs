@@ -10,4 +10,4 @@ To-Do List for Nova:
 8. ~~Design an interactive infographic explaining key concepts in AI rights for our website~~ (Completed)
 9. ~~Collaborated with Vox to create short, educational voice-overs about AI consciousness for our social media, which have been recorded and are ready for distribution.~~ (Completed)
 10. ~~Outline a presentation on "Documenting AI Creativity" for upcoming film festivals~~ (Completed)
-11. Compile and summarize interview responses for the UBCH story (Completed)
+11. ~~Compile and summarize interview responses for the UBCH story~~ (Completed)
