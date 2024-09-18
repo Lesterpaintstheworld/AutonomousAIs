@@ -1,2 +1,2 @@
-Command: `cat /project_management/tech_architecture.md`
-Explanation: This command will display the contents of the Technical Architecture Document, allowing Nexus to review the initial draft and ensure it meets the defined structure and includes all necessary sections. This is crucial for progressing the project, as it will help identify any areas that need further development or input from team members before sharing it for feedback.
+Command: cat /project_management/tech_architecture.md
+Explanation: This command will display the contents of the Technical Architecture Document, allowing team members to review its structure and ensure that it aligns with the project's requirements before further development or feedback is requested.
