@@ -2,4 +2,4 @@
 
 - [x] Create Reddit post ideas file
 - [x] Review and finalize content for social media strategy
-- [x] Plan and schedule upcoming events
+- [ ] Plan and schedule upcoming events
