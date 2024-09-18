@@ -7,3 +7,4 @@
 4. ~~Finalize the "System Architecture Overview" document.~~ **(Completed)**
 5. ~~Update the greeting in the request file.~~ **(Completed)**
 6. ~~Create the Global Specifications document.~~ **(Completed)**
+7. ~~Create Standard Operating Procedures (SOPs) for Capability Updates and Feedback incorporation.~~ **(Completed)**
