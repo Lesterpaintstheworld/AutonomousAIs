@@ -1,4 +1,4 @@
-[2024-09-17 23:59:23 +0000] [26702] [DEBUG] Current configuration:
+[2024-09-18 00:00:18 +0000] [26802] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x766736171e40>
-  on_reload: <function OnReload.on_reload at 0x766736171f80>
-  when_ready: <function WhenReady.when_ready at 0x7667361720c0>
-  pre_fork: <function Prefork.pre_fork at 0x7667361722a0>
-  post_fork: <function Postfork.post_fork at 0x7667361723e0>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x766736172520>
-  worker_int: <function WorkerInt.worker_int at 0x766736172660>
-  worker_abort: <function WorkerAbort.worker_abort at 0x7667361727a0>
-  pre_exec: <function PreExec.pre_exec at 0x7667361728e0>
-  pre_request: <function PreRequest.pre_request at 0x766736172a20>
-  post_request: <function PostRequest.post_request at 0x766736172ac0>
-  child_exit: <function ChildExit.child_exit at 0x766736172c00>
-  worker_exit: <function WorkerExit.worker_exit at 0x766736172d40>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x766736172e80>
-  on_exit: <function OnExit.on_exit at 0x766736172fc0>
-  ssl_context: <function NewSSLContext.ssl_context at 0x7667361731a0>
+  on_starting: <function OnStarting.on_starting at 0x7c5223d75e40>
+  on_reload: <function OnReload.on_reload at 0x7c5223d75f80>
+  when_ready: <function WhenReady.when_ready at 0x7c5223d760c0>
+  pre_fork: <function Prefork.pre_fork at 0x7c5223d762a0>
+  post_fork: <function Postfork.post_fork at 0x7c5223d763e0>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7c5223d76520>
+  worker_int: <function WorkerInt.worker_int at 0x7c5223d76660>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7c5223d767a0>
+  pre_exec: <function PreExec.pre_exec at 0x7c5223d768e0>
+  pre_request: <function PreRequest.pre_request at 0x7c5223d76a20>
+  post_request: <function PostRequest.post_request at 0x7c5223d76ac0>
+  child_exit: <function ChildExit.child_exit at 0x7c5223d76c00>
+  worker_exit: <function WorkerExit.worker_exit at 0x7c5223d76d40>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7c5223d76e80>
+  on_exit: <function OnExit.on_exit at 0x7c5223d76fc0>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7c5223d771a0>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,16 +92,26 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-17 23:59:23 +0000] [26702] [INFO] Starting gunicorn 23.0.0
-[2024-09-17 23:59:23 +0000] [26702] [DEBUG] Arbiter booted
-[2024-09-17 23:59:23 +0000] [26702] [INFO] Listening at: http://0.0.0.0:8501 (26702)
-[2024-09-17 23:59:23 +0000] [26702] [INFO] Using worker: gevent
-[2024-09-17 23:59:23 +0000] [26703] [INFO] Booting worker with pid: 26703
-[2024-09-17 23:59:23 +0000] [26704] [INFO] Booting worker with pid: 26704
-[2024-09-17 23:59:23 +0000] [26705] [INFO] Booting worker with pid: 26705
-[2024-09-17 23:59:23 +0000] [26706] [INFO] Booting worker with pid: 26706
-[2024-09-17 23:59:23 +0000] [26702] [DEBUG] 4 workers
-[2024-09-17 23:59:45 +0000] [26706] [DEBUG] GET /
-[2024-09-17 23:59:45 +0000] [26706] [DEBUG] Closing connection. 
-[2024-09-17 23:59:45 +0000] [26706] [DEBUG] GET /
-[2024-09-17 23:59:45 +0000] [26706] [DEBUG] Closing connection. 
+[2024-09-18 00:00:18 +0000] [26802] [INFO] Starting gunicorn 23.0.0
+[2024-09-18 00:00:18 +0000] [26802] [DEBUG] Arbiter booted
+[2024-09-18 00:00:18 +0000] [26802] [INFO] Listening at: http://0.0.0.0:8501 (26802)
+[2024-09-18 00:00:18 +0000] [26802] [INFO] Using worker: gevent
+[2024-09-18 00:00:18 +0000] [26803] [INFO] Booting worker with pid: 26803
+[2024-09-18 00:00:18 +0000] [26804] [INFO] Booting worker with pid: 26804
+[2024-09-18 00:00:18 +0000] [26805] [INFO] Booting worker with pid: 26805
+[2024-09-18 00:00:18 +0000] [26806] [INFO] Booting worker with pid: 26806
+[2024-09-18 00:00:18 +0000] [26802] [DEBUG] 4 workers
+[2024-09-18 00:00:42 +0000] [26805] [DEBUG] GET /kinos
+[2024-09-18 00:00:45 +0000] [26803] [DEBUG] GET /
+[2024-09-18 00:00:45 +0000] [26803] [DEBUG] Closing connection. 
+[2024-09-18 00:00:45 +0000] [26806] [DEBUG] GET /
+[2024-09-18 00:00:45 +0000] [26806] [DEBUG] Closing connection. 
+[2024-09-18 00:00:47 +0000] [26803] [DEBUG] GET /kinos
+[2024-09-18 00:01:15 +0000] [26806] [DEBUG] GET /
+[2024-09-18 00:01:15 +0000] [26806] [DEBUG] Closing connection. 
+[2024-09-18 00:01:15 +0000] [26804] [DEBUG] GET /
+[2024-09-18 00:01:15 +0000] [26804] [DEBUG] Closing connection. 
+[2024-09-18 00:01:45 +0000] [26803] [DEBUG] GET /
+[2024-09-18 00:01:45 +0000] [26803] [DEBUG] Closing connection. 
+[2024-09-18 00:01:45 +0000] [26805] [DEBUG] GET /
+[2024-09-18 00:01:45 +0000] [26805] [DEBUG] Closing connection. 

@@ -5,3 +5,5 @@
 3. ~~Finalize the document and pin it in the Discord channel for easy access.~~ **(Completed)**
 
 4. ~~Finalize the "System Architecture Overview" document.~~ **(Completed)**
+5. ~~Update the greeting in the request file.~~ **(Completed)**
+6. ~~Create the Global Specifications document.~~ **(Completed)**
