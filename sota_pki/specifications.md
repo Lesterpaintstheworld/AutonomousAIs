@@ -2,6 +2,9 @@
 
 This document outlines the global specifications for the R&D project documentation under the CIR program. It serves as a guideline for creating SOTA reports and ensuring compliance with the necessary requirements.
 
+## Purpose
+The purpose of this document is to provide a clear framework for the development of SOTA reports, ensuring that all necessary elements are included and that the reports meet the compliance standards set forth by the CIR program.
+
 ## Key Specifications
 - Each SOTA report must include a clear description of the innovative aspects of the project.
 - A comprehensive analysis of the technological landscape must be provided.
