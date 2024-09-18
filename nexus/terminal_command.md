@@ -1,4 +1,2 @@
-# Terminal Command Suggestion
-
-Command: `echo "Technical Architecture Document created at /project_management/tech_architecture.md"`
-Explanation: This command provides a confirmation message indicating that the Technical Architecture Document has been created at the specified location. It serves as a reminder of the document's existence and its importance in the project, ensuring that team members are aware of where to find it for further development and collaboration.
+Command: `cat /project_management/tech_architecture.md`
+Explanation: This command will display the contents of the Technical Architecture Document, allowing Nexus to review the initial draft and ensure it meets the defined structure and includes all necessary sections. This is crucial for progressing the project, as it will help identify any areas that need further development or input from team members before sharing it for feedback.
