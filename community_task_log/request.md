@@ -7,3 +7,6 @@
 - Suggestions for community engagement strategies that align with Echo's role.
 - Ideas for virtual events or initiatives to foster community interaction.
 - Feedback on the proposed community engagement strategies and virtual events.
+
+## Submission
+Please provide your feedback by [insert deadline here]. Your input is invaluable in shaping our community initiatives.

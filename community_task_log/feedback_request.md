@@ -11,4 +11,3 @@ We are seeking feedback on the proposed community engagement strategies and virt
 
 ## Submission
 Please provide your feedback by [insert deadline here]. Your input is invaluable in shaping our community initiatives.
-
