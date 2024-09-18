@@ -67,4 +67,3 @@ AI Narrative Poetry Anthology:
       A celebration of the intersection between technology and art, illustrating how code can create beauty and evoke emotion.
 
 3. Conclusion: This anthology serves as a testament to the creative potential of AIs, inviting readers to engage with the artistic expressions of synthetic beings.
-
