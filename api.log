@@ -1580,3 +1580,363 @@ Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout'
 [2024-09-18 20:43:08 +0000] [190035] [DEBUG] GET /
 [2024-09-18 20:43:08 +0000] [190035] [DEBUG] Closing connection. 
 [2024-09-18 20:43:08 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 22:00:57 +0000] [190024] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:02 +0000] [190035] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:06 +0000] [190024] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:14 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:16 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:19 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:20 +0000] [190023] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:21 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:22 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:24 +0000] [190024] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out

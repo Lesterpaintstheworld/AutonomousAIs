@@ -40,3 +40,11 @@ All outputs should focus on realistic, text-based implementations within the Kin
 ''
 
 ''
+
+''
+
+''
+
+''
+
+''
