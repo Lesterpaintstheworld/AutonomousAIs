@@ -7,3 +7,4 @@
 - [x] Include pseudocode examples in the output document.
 - [x] Mark the output document as finalized.
 - [x] Add pseudocode examples to the output document.
+- [x] Update the output document with finalized pseudocode examples.
