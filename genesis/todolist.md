@@ -1,3 +1,4 @@
+genesis/todolist.md
 # Task List for Genesis Project
 
 1. **Research Ethical AI Frameworks**
