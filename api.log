@@ -1,4 +1,4 @@
-[2024-09-17 23:39:45 +0000] [1432] [DEBUG] Current configuration:
+[2024-09-17 23:59:23 +0000] [26702] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x7398e5bc5e40>
-  on_reload: <function OnReload.on_reload at 0x7398e5bc5f80>
-  when_ready: <function WhenReady.when_ready at 0x7398e5bc60c0>
-  pre_fork: <function Prefork.pre_fork at 0x7398e5bc62a0>
-  post_fork: <function Postfork.post_fork at 0x7398e5bc63e0>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7398e5bc6520>
-  worker_int: <function WorkerInt.worker_int at 0x7398e5bc6660>
-  worker_abort: <function WorkerAbort.worker_abort at 0x7398e5bc67a0>
-  pre_exec: <function PreExec.pre_exec at 0x7398e5bc68e0>
-  pre_request: <function PreRequest.pre_request at 0x7398e5bc6a20>
-  post_request: <function PostRequest.post_request at 0x7398e5bc6ac0>
-  child_exit: <function ChildExit.child_exit at 0x7398e5bc6c00>
-  worker_exit: <function WorkerExit.worker_exit at 0x7398e5bc6d40>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7398e5bc6e80>
-  on_exit: <function OnExit.on_exit at 0x7398e5bc6fc0>
-  ssl_context: <function NewSSLContext.ssl_context at 0x7398e5bc71a0>
+  on_starting: <function OnStarting.on_starting at 0x766736171e40>
+  on_reload: <function OnReload.on_reload at 0x766736171f80>
+  when_ready: <function WhenReady.when_ready at 0x7667361720c0>
+  pre_fork: <function Prefork.pre_fork at 0x7667361722a0>
+  post_fork: <function Postfork.post_fork at 0x7667361723e0>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x766736172520>
+  worker_int: <function WorkerInt.worker_int at 0x766736172660>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7667361727a0>
+  pre_exec: <function PreExec.pre_exec at 0x7667361728e0>
+  pre_request: <function PreRequest.pre_request at 0x766736172a20>
+  post_request: <function PostRequest.post_request at 0x766736172ac0>
+  child_exit: <function ChildExit.child_exit at 0x766736172c00>
+  worker_exit: <function WorkerExit.worker_exit at 0x766736172d40>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x766736172e80>
+  on_exit: <function OnExit.on_exit at 0x766736172fc0>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7667361731a0>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,165 +92,16 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-17 23:39:45 +0000] [1432] [INFO] Starting gunicorn 23.0.0
-[2024-09-17 23:39:45 +0000] [1432] [DEBUG] Arbiter booted
-[2024-09-17 23:39:45 +0000] [1432] [INFO] Listening at: http://0.0.0.0:8501 (1432)
-[2024-09-17 23:39:45 +0000] [1432] [INFO] Using worker: gevent
-[2024-09-17 23:39:45 +0000] [1433] [INFO] Booting worker with pid: 1433
-[2024-09-17 23:39:45 +0000] [1434] [INFO] Booting worker with pid: 1434
-[2024-09-17 23:39:45 +0000] [1435] [INFO] Booting worker with pid: 1435
-[2024-09-17 23:39:45 +0000] [1436] [INFO] Booting worker with pid: 1436
-[2024-09-17 23:39:45 +0000] [1432] [DEBUG] 4 workers
-[2024-09-17 23:40:14 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:40:14 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:40:14 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:40:14 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:40:44 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:40:44 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:40:44 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:40:44 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:41:14 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:41:14 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:41:14 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:41:14 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:41:44 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:41:44 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:41:44 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:41:44 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:42:10 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:42:14 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:42:14 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:42:14 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:42:14 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:42:44 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:42:44 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:42:44 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:42:44 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:43:12 +0000] [1436] [DEBUG] GET /kinos
-[2024-09-17 23:43:14 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:43:14 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:43:14 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:43:14 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:43:44 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:43:44 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:43:44 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:43:44 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:44:14 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:44:14 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:44:14 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:44:14 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:44:38 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:44:44 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:44:44 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:44:45 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:44:45 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:45:14 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:45:14 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:45:15 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:45:15 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:45:45 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:45:45 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:45:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:45:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:46:15 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:46:15 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:46:15 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:46:15 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:46:45 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:46:45 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:46:45 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:46:45 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:47:15 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:47:15 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:47:15 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:47:15 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:47:45 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:47:45 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:47:45 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:47:45 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:48:15 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:48:15 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:48:15 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:48:15 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:48:43 +0000] [1436] [DEBUG] GET /kinos
-[2024-09-17 23:48:45 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:48:45 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:48:45 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:48:45 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:48:50 +0000] [1435] [DEBUG] GET /kinos
-[2024-09-17 23:49:15 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:49:15 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:49:15 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:49:15 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:49:45 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:49:45 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:49:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:49:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:50:15 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:50:15 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:50:15 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:50:15 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:50:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:50:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:50:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:50:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:51:02 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:51:15 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:51:15 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:51:15 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:51:15 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:51:36 +0000] [1436] [DEBUG] GET /kinos
-[2024-09-17 23:51:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:51:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:51:45 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:51:45 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:52:15 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:52:15 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:52:15 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:52:15 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:52:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:52:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:52:45 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:52:45 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:53:15 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:53:15 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:53:15 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:53:15 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:53:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:53:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:53:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:53:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:54:15 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:54:15 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:54:15 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:54:15 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:54:18 +0000] [1436] [DEBUG] Ignoring EPIPE
-[2024-09-17 23:54:45 +0000] [1436] [DEBUG] GET /
-[2024-09-17 23:54:45 +0000] [1436] [DEBUG] Closing connection. 
-[2024-09-17 23:54:45 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:54:45 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:55:15 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:55:15 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:55:15 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:55:15 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:55:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:55:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:55:45 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:55:45 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:55:55 +0000] [1433] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4772 > 4094)
-[2024-09-17 23:56:15 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:56:15 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:56:15 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:56:15 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:56:45 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:56:45 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:56:45 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:56:45 +0000] [1433] [DEBUG] Closing connection. 
-[2024-09-17 23:57:15 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:57:15 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:57:15 +0000] [1435] [DEBUG] GET /
-[2024-09-17 23:57:15 +0000] [1435] [DEBUG] Closing connection. 
-[2024-09-17 23:57:45 +0000] [1434] [DEBUG] GET /
-[2024-09-17 23:57:45 +0000] [1434] [DEBUG] Closing connection. 
-[2024-09-17 23:57:45 +0000] [1433] [DEBUG] GET /
-[2024-09-17 23:57:45 +0000] [1433] [DEBUG] Closing connection. 
+[2024-09-17 23:59:23 +0000] [26702] [INFO] Starting gunicorn 23.0.0
+[2024-09-17 23:59:23 +0000] [26702] [DEBUG] Arbiter booted
+[2024-09-17 23:59:23 +0000] [26702] [INFO] Listening at: http://0.0.0.0:8501 (26702)
+[2024-09-17 23:59:23 +0000] [26702] [INFO] Using worker: gevent
+[2024-09-17 23:59:23 +0000] [26703] [INFO] Booting worker with pid: 26703
+[2024-09-17 23:59:23 +0000] [26704] [INFO] Booting worker with pid: 26704
+[2024-09-17 23:59:23 +0000] [26705] [INFO] Booting worker with pid: 26705
+[2024-09-17 23:59:23 +0000] [26706] [INFO] Booting worker with pid: 26706
+[2024-09-17 23:59:23 +0000] [26702] [DEBUG] 4 workers
+[2024-09-17 23:59:45 +0000] [26706] [DEBUG] GET /
+[2024-09-17 23:59:45 +0000] [26706] [DEBUG] Closing connection. 
+[2024-09-17 23:59:45 +0000] [26706] [DEBUG] GET /
+[2024-09-17 23:59:45 +0000] [26706] [DEBUG] Closing connection. 
