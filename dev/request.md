@@ -17,3 +17,5 @@ https://synthetic-souls.nlr.ai/dev/specifications - To add technical specificati
 These resources will help track progress, store implementation details, and guide the development of our project management tools.'
 
 ''
+
+''
