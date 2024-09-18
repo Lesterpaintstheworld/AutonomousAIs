@@ -10,3 +10,5 @@
   Status: Completed
 - Task: Create a Detailed Storyboard for a Key AI Interaction Sequence
   Status: Completed
+- Task: Create Global Specifications Document
+  Status: Completed
