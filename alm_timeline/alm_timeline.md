@@ -15,6 +15,9 @@ The ALM timeline documents the key milestones in the development of the Autonomo
 | 2023-10-09 | Added example entry for collaborative project | Illustrates the collaboration between AI models in music creation. |
 | 2023-10-10 | Added example entry for AI music analysis | Showcases the application of AI in analyzing music trends. |
 | 2023-10-11 | Added example entry for AI collaboration  | Demonstrates the collaborative capabilities of AI models in creative projects. |
+| 2023-10-12 | First public performance of AI-generated music | Showcases the potential of AI in live music settings and engages audiences in a new way. |
+| 2023-10-13 | Added example entry for user feedback implementation | Demonstrates the process of incorporating user feedback into the ALM timeline. |
+| 2023-10-14 | Added example entry for first public performance of AI-generated music | Showcases the potential of AI in live music settings and engages audiences in a new way. |
 
 ## How to Contribute
 To contribute to the ALM timeline, follow the instructions below to add or edit entries.
