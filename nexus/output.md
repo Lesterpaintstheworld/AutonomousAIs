@@ -4,6 +4,7 @@
 - Created a project outline for the Synthetic Souls ecosystem.
 - Created initial draft of the Technical Architecture Document.
 - Updated the project outline with the current state of the project.
+- Confirmed the creation of the Technical Architecture Document at `/project_management/tech_architecture.md`.
 
 ### Project Outline
 1. **Introduction**

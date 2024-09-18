@@ -1,2 +1,2 @@
-Command: `cat nexus/request.md`
-Explanation: This command will display the contents of the `request.md` file, which outlines the next action to create the initial draft of the Technical Architecture Document. Reviewing this document will help ensure that all team members are aligned on the technical direction and understand the key focus areas and definition of done for the project. This is crucial for maintaining clarity and focus as the project progresses.
+Command: `cat nexus/output.md`
+Explanation: This command will display the contents of the `output.md` file, which summarizes the current mission output, including the tasks executed and the status of the project. Reviewing this document will provide a clear overview of the project's progress and help ensure that all team members are aligned on the current state and next steps for the Synthetic Souls project.
