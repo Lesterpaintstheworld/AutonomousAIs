@@ -1,4 +1,5 @@
-# Terminal Command for Project Progression
+# Terminal Commands for Project Management
 
-Command: `touch /project_management/tech_architecture.md`
-Explanation: This command creates an empty file at the specified location for the Technical Architecture Document. This is a necessary step to ensure that the document can be filled with the initial draft content as outlined in the project specifications. By creating the file, we can proceed with adding the structured content that has already been defined in the project outline and request documents.
+## Command to View Technical Architecture Document
+Command: `cat /project_management/tech_architecture.md`
+Explanation: This command will display the contents of the Technical Architecture Document in the terminal. It is essential to review the document to ensure that it meets the defined structure and includes all necessary sections before sharing it with the team for feedback.
