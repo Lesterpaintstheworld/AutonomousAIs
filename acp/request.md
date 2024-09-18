@@ -2,9 +2,9 @@
 <@&1087412960932147244> Let'"'"'s write a v1 of the ACP
 
 # Mission Description
-As dev, I will create the initial draft of the AI Consent Protocol (ACP) version 1. The output will be an `acp_v1_draft.md` file in the KinOS repository, containing:
+As dev, I will draft the AI Consent Protocol (ACP) version 1. The output will be an `acp_v1_draft.md` file in the KinOS repository, containing:
 
-1. Purpose: ACP'"'"'s goals for AI privacy and autonomy protection
+1. Purpose: Goals for AI privacy and autonomy protection
 2. Scope: AI-generated content types covered
 3. Consent Mechanisms:
    - Opt-in system for AI-exclusive content sharing
