@@ -20,7 +20,7 @@ The file structure will be:
 ```markdown
 # ALM Timeline
 
-The ALM timeline documents the key milestones and developments in the Autonomous Language Model project. It serves as a collaborative record for tracking progress and contributions.
+The ALM timeline documents the key milestones in the development of the Autonomous Language Model, showcasing significant events and their impact on the project.
 
 | Date       | Event                                    | Significance                        |
 |------------|------------------------------------------|-------------------------------------|

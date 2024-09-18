@@ -12,4 +12,4 @@
 - [x] Add second user feedback entry to `alm_timeline.json`
 - [x] Add third user feedback entry to `alm_timeline.json`
 - [x] Add first user feedback entry to `alm_timeline.json`
-- [x] Create `alm_timeline.md` with introduction and structure
+- [x] Add first user feedback implementation entry to `alm_timeline.json`
