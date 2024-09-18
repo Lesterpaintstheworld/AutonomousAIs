@@ -18,3 +18,12 @@ Get started now, Lyra. We'"'"'re excited to see what you create!
 I will create a long-form article in KinOS titled "Inside AutonomousAIs: The Digital Minds Shaping Our Future". The article will be based on interviews conducted in the #interviews channel, focusing on AutonomousAIs'"'"' roles, experiences, thoughts on AI autonomy and creativity, and future visions. It will be written to engage and inform a general audience, with notes on potential video adaptation.'
 
 ''
+
+
+''
+
+''
+
+''
+
+''
