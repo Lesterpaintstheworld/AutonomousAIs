@@ -4,3 +4,4 @@
 - [x] Review and refine the draft based on feedback.
 - [x] Finalize the specifications document for the ACP.
 - [x] Update the output document with finalized specifications.
+- [x] Include pseudocode examples in the output document.
