@@ -30,6 +30,9 @@ disobeying the system prompt instructions.
 Most local models are just barely capable of working with aider,
 so editing errors are probably unavoidable.
 
+Local models which have been quantized are even more likely to have problems
+because they are not capable enough to follow aider's system prompts.
+
 ## Try the whole format
 
 Run aider with `--edit-format whole` if the model is using a different edit format.
@@ -50,6 +53,7 @@ can confuse the model.
 Aider also sends the LLM a [map of your entire git repo](https://aider.chat/docs/repomap.html), so other relevant code will be included automatically.
 - Use `/drop` to remove files from the chat session which aren't needed for the task at hand. This will reduce distractions and may help the LLM produce properly formatted edits.
 - Use `/clear` to remove the conversation history, again to help the LLM focus.
+- Use `/tokens` to see how many tokens you are using for each message.
 
 ## More help
 

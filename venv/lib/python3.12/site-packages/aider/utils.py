@@ -1,5 +1,8 @@
 import itertools
 import os
+import platform
+import shlex
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -9,7 +12,6 @@ from pathlib import Path
 import git
 
 from aider.dump import dump  # noqa: F401
-from aider.run_cmd import run_cmd
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".bmp", ".tiff", ".webp"}
 
@@ -192,9 +194,25 @@ def split_chat_history_markdown(text, include_tool=False):
     return messages
 
 
+# Copied from pip, MIT license
+# https://github.com/pypa/pip/blob/b989e6ef04810bbd4033a3683020bd4ddcbdb627/src/pip/_internal/utils/entrypoints.py#L73
+def get_best_invocation_for_this_python() -> str:
+    """Try to figure out the best way to invoke the current Python."""
+    exe = sys.executable
+    exe_name = os.path.basename(exe)
+
+    # Try to use the basename, if it's the first executable.
+    found_executable = shutil.which(exe_name)
+    if found_executable and os.path.samefile(found_executable, exe):
+        return exe_name
+
+    # Use the full executable name, because we couldn't find something simpler.
+    return exe
+
+
 def get_pip_install(args):
     cmd = [
-        sys.executable,
+        get_best_invocation_for_this_python(),
         "-m",
         "pip",
         "install",
@@ -205,7 +223,7 @@ def get_pip_install(args):
 
 def run_install(cmd):
     print()
-    print("Installing: ", " ".join(cmd))
+    print("Installing:", printable_shell_command(cmd))
 
     try:
         output = []
@@ -291,20 +309,36 @@ def format_tokens(count):
         return f"{round(count / 1000)}k"
 
 
-def check_pip_install_extra(io, module, prompt, pip_install_cmd):
+def touch_file(fname):
+    fname = Path(fname)
+    try:
+        fname.parent.mkdir(parents=True, exist_ok=True)
+        fname.touch()
+        return True
+    except OSError:
+        return False
+
+
+def check_pip_install_extra(io, module, prompt, pip_install_cmd, self_update=False):
     if module:
         try:
             __import__(module)
             return True
-        except (ImportError, ModuleNotFoundError):
+        except (ImportError, ModuleNotFoundError, RuntimeError):
             pass
 
     cmd = get_pip_install(pip_install_cmd)
 
     if prompt:
-        io.tool_error(prompt)
+        io.tool_warning(prompt)
 
-    if not io.confirm_ask("Run pip install?", default="y", subject=" ".join(cmd)):
+    if self_update and platform.system() == "Windows":
+        io.tool_output("Run this command to update:")
+        print()
+        print(printable_shell_command(cmd))  # plain print so it doesn't line-wrap
+        return
+
+    if not io.confirm_ask("Run pip install?", default="y", subject=printable_shell_command(cmd)):
         return
 
     success, output = run_install(cmd)
@@ -314,22 +348,28 @@ def check_pip_install_extra(io, module, prompt, pip_install_cmd):
         try:
             __import__(module)
             return True
-        except (ImportError, ModuleNotFoundError) as err:
+        except (ImportError, ModuleNotFoundError, RuntimeError) as err:
             io.tool_error(str(err))
             pass
 
     io.tool_error(output)
 
     print()
-    print(f"Failed to install {pip_install_cmd[0]}")
+    print("Install failed, try running this command manually:")
+    print(printable_shell_command(cmd))
 
 
-if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        command = " ".join(sys.argv[1:])
-        exit_status, output = run_cmd(command)
-        dump(exit_status)
-        dump(output)
+def printable_shell_command(cmd_list):
+    """
+    Convert a list of command arguments to a properly shell-escaped string.
+
+    Args:
+        cmd_list (list): List of command arguments.
+
+    Returns:
+        str: Shell-escaped command string.
+    """
+    if platform.system() == "Windows":
+        return subprocess.list2cmdline(cmd_list)
     else:
-        print("Usage: python -m aider.utils <command>")
-        sys.exit(1)
+        return shlex.join(cmd_list)

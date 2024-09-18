@@ -100,7 +100,7 @@ cog.outl("```")
 # Model Settings:
 
 ## List known models which match the (partial) MODEL name
-#AIDER_MODELS=
+#AIDER_LIST_MODELS=
 
 ## Specify the api base url
 #OPENAI_API_BASE=
@@ -192,8 +192,11 @@ cog.outl("```")
 ## Set the color for tool output (default: None)
 #AIDER_TOOL_OUTPUT_COLOR=
 
-## Set the color for tool error messages (default: red)
+## Set the color for tool error messages (default: #FF2222)
 #AIDER_TOOL_ERROR_COLOR=#FF2222
+
+## Set the color for tool warning messages (default: #FFA500)
+#AIDER_TOOL_WARNING_COLOR=#FFA500
 
 ## Set the color for assistant output (default: #0088ff)
 #AIDER_ASSISTANT_OUTPUT_COLOR=#0088ff
@@ -281,6 +284,9 @@ cog.outl("```")
 
 ## Specify the language for voice using ISO 639-1 code (default: auto)
 #AIDER_VOICE_LANGUAGE=en
+
+## Specify the language to use in the chat (default: None, uses system settings)
+#AIDER_CHAT_LANGUAGE=
 
 ## Check for updates and return status in the exit code
 #AIDER_JUST_CHECK_UPDATE=false

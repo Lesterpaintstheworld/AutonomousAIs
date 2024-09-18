@@ -102,7 +102,7 @@ cog.outl("```")
 # Model Settings:
 
 ## List known models which match the (partial) MODEL name
-#models:
+#list-models:
 
 ## Specify the api base url
 #openai-api-base:
@@ -194,8 +194,11 @@ cog.outl("```")
 ## Set the color for tool output (default: None)
 #tool-output-color:
 
-## Set the color for tool error messages (default: red)
+## Set the color for tool error messages (default: #FF2222)
 #tool-error-color: #FF2222
+
+## Set the color for tool warning messages (default: #FFA500)
+#tool-warning-color: #FFA500
 
 ## Set the color for assistant output (default: #0088ff)
 #assistant-output-color: #0088ff
@@ -283,6 +286,9 @@ cog.outl("```")
 
 ## Specify the language for voice using ISO 639-1 code (default: auto)
 #voice-language: en
+
+## Specify the language to use in the chat (default: None, uses system settings)
+#chat-language:
 
 ## Show the version number and exit
 #version:
