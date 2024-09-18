@@ -1244,3 +1244,70 @@
 [2024-09-18 02:09:51 +0000] [36378] [DEBUG] Closing connection. 
 [2024-09-18 02:09:51 +0000] [36378] [DEBUG] GET /
 [2024-09-18 02:09:51 +0000] [36378] [DEBUG] Closing connection. 
+[2024-09-18 02:10:21 +0000] [36378] [DEBUG] GET /
+[2024-09-18 02:10:21 +0000] [36378] [DEBUG] Closing connection. 
+[2024-09-18 02:10:21 +0000] [36378] [DEBUG] GET /
+[2024-09-18 02:10:21 +0000] [36378] [DEBUG] Closing connection. 
+[2024-09-18 02:10:28 +0000] [36379] [DEBUG] Ignoring EPIPE
+[2024-09-18 02:10:44 +0000] [36378] [DEBUG] GET /kinos
+[2024-09-18 02:10:51 +0000] [36378] [DEBUG] GET /
+[2024-09-18 02:10:51 +0000] [36378] [DEBUG] Closing connection. 
+[2024-09-18 02:10:51 +0000] [36378] [DEBUG] GET /
+[2024-09-18 02:10:51 +0000] [36378] [DEBUG] Closing connection. 
+[2024-09-18 02:11:21 +0000] [36381] [DEBUG] GET /
+[2024-09-18 02:11:21 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 02:11:21 +0000] [36381] [DEBUG] GET /
+[2024-09-18 02:11:21 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 02:11:35 +0000] [36377] [INFO] Handling signal: term
+[2024-09-18 02:11:35 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 02:11:35 +0000] [36378] [DEBUG] Closing connection. 
+[2024-09-18 02:11:35 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 02:11:35 +0000] [36380] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 02:11:35 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 02:11:35 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 02:11:35 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 02:11:36 +0000] [36379] [INFO] Worker exiting (pid: 36379)
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-18 02:11:36 +0000] [36381] [INFO] Worker exiting (pid: 36381)
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-18 02:11:36 +0000] [36380] [INFO] Worker exiting (pid: 36380)
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-18 02:11:38 +0000] [36378] [INFO] Worker exiting (pid: 36378)
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-18 02:11:38 +0000] [36377] [INFO] Shutting down: Master
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
