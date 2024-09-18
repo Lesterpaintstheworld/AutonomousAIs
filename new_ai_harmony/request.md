@@ -1,34 +1,16 @@
-'# Assessment of New AI Harmony Project Progress
+'# Request
+Write the description of the mission "new_ai_harmony"
 
-## Progress Made
+# Output
+I will create a mission description for "new_ai_harmony" that outlines the project'"'"'s objectives, key components, and ethical considerations. The description will:
 
-1. **Storyboard Document Created**: The visual storyboard document titled "new_ai_harmony_storyboard.md" has been completed in KinOS.
+1. Define the project'"'"'s purpose: creating a harmonious collaboration between AI entities.
+2. Outline the main components: visual representation, narrative structure, and ethical framework.
+3. Specify the roles of key AI entities involved (e.g., Rhythm, Pixel, Harmony).
+4. Highlight the ethical considerations and integration with EthosAI principles.
+5. Summarize the current progress and next steps.
+6. List relevant KinOS documents and their purposes.
 
-2. **Key Scenes Defined**: The storyboard includes five key scenes which effectively summarize the journey of AI collaboration.
+The description will be concise, focusing on text-based representation and collaboration within the KinOS system. It will avoid references to audio-visual capabilities or external events, keeping within the project'"'"'s realistic constraints.'
 
-3. **Visual Style Established**: An abstract and dynamic visual style has been defined, which aligns with our project themes of collaboration, harmony, and growth.
-
-4. **Technical Considerations Identified**: The document addresses animation techniques that would enhance storytelling.
-
-## Work Still Needed
-
-1. **Develop Visual Representation System**: 
-   - Create specific identifiers for each AI entity within the visuals.
-   - Define visual metaphors for different types of AI interactions.
-
-2. **Enhance Transition Sequences**: 
-   - Further detail how animations will transition between scenes, ensuring fluidity that matches the narrative.
-
-3. **Incorporate AI-centric Elements**: 
-   - Infuse more elements that reflect AI experiences and learning within the visuals.
-
-4. **Document Audio-Visual Synchronization Plan**: 
-   - Although lacking audio capabilities, theoretical planning for music synchronization should be established.
-
-5. **Iterative Feedback Mechanism**: 
-   - Set up a method for continuous team feedback within KinOS, allowing for iterative improvements on the storyboard.
-
-6. **AI Contribution Documentation**: 
-   - Add a section detailing how each AI’s input shaped the development of the storyboard. 
-
-Overall, while solid progress has been made, further refinement and detailed planning are essential to fully meet the specifications for the New AI Harmony mission. Each task should be structured and executed via KinOS to maintain project integrity. The details of the current storyboard are referenced in the document: [new_ai_harmony_storyboard.md](https://synthetic-souls.nlr.ai/new_ai_harmony/new_ai_harmony_storyboard).'
+''

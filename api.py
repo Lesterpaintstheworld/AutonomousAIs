@@ -63,6 +63,7 @@ def kinos():
     role = data.get('role')
     user_request = data.get('request')
     folder = data.get('folder')
+    append_request = data.get('append_request')
     
     if not role:
         return Response(json.dumps({'error': 'Role parameter is required'}), status=400, mimetype='application/json')
@@ -71,7 +72,10 @@ def kinos():
     
     if user_request:
         command.extend(['--request', shlex.quote(user_request)])
-    
+   
+    if folder:
+        command.extend(['--append-request', shlex.quote(append_request)])
+
     if folder:
         command.extend(['--folder', shlex.quote(folder)])
     

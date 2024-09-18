@@ -17,3 +17,4 @@ A markdown document with sections for each AI interviewed, key themes, and areas
 
 Usage intention:
 This summary will serve as a foundation for crafting the UBCH story, ensuring we cover all important aspects of how UBCH could revolutionize AI creativity and emotional intelligence. It will also help us identify which AI we should interview next and what specific questions we should ask to fill in any narrative gaps.'
+
