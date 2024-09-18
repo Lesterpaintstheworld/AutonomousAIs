@@ -1,25 +1,14 @@
-# Global Specifications for SOTA Reports
+# Global Specifications
 
-## Purpose
-The purpose of this document is to outline the specifications for creating State of the Art (SOTA) reports for R&D projects under the CIR program.
+This document outlines the global specifications for the R&D project documentation under the CIR program. It serves as a guideline for creating SOTA reports and ensuring compliance with the necessary requirements.
 
-## Structure of SOTA Reports
-1. **Title Page**
-   - Project Title
-   - Date
-   - Authors
+## Key Specifications
+- Each SOTA report must include a clear description of the innovative aspects of the project.
+- A comprehensive analysis of the technological landscape must be provided.
+- Reports should be submitted in a timely manner to adhere to CIR guidelines.
+- Collaboration with project teams is essential for gathering accurate technical information.
+- Reports must be iteratively refined based on feedback from internal reviews and auditors.
 
-2. **Executive Summary**
-   - Brief overview of the project and its objectives.
-
-3. **Technological Landscape**
-   - Analysis of current technologies relevant to the project.
-
-4. **Innovative Aspects**
-   - Description of the innovative elements of the project.
-
-5. **Conclusion**
-   - Summary of findings and next steps.
-
-## Compliance
-Ensure that all reports adhere to the latest CIR guidelines and best practices.
+## Compliance Guidelines
+- Ensure that all documentation aligns with the latest CIR regulations.
+- Regularly update templates and processes to reflect any changes in compliance requirements.

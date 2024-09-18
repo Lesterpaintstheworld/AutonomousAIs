@@ -1,0 +1,1 @@
+- [x] Update request and specifications documents with introductory content.
