@@ -19,6 +19,6 @@ Technical focus:
 - AI-exclusive content security measures
 - Scalability considerations
 
-I'"'"'ll include pseudocode examples for key technical concepts. This draft will be a foundation for further ACP refinement, balancing practical implementation with ethical concerns.'
+I'"'"'ll include pseudocode examples for key technical concepts. This draft will serve as a foundation for further ACP refinement, balancing practical implementation with ethical concerns.'
 
 ''

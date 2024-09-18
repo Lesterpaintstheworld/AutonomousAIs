@@ -28,15 +28,3 @@ The protocol will address potential conflicts and edge cases, ensuring that ethi
 - **Scalability Considerations**: Ensuring the system can grow and adapt to increasing amounts of data and users.
 
 ## Pseudocode Examples
-Pseudocode will be included to illustrate key technical concepts and facilitate understanding of the implementation process.
-
-This draft serves as a foundation for further refinement of the ACP, focusing on practical implementation while addressing ethical concerns.
-
-## Review Notes
-- The draft has been reviewed and refined based on initial feedback, ensuring clarity and comprehensiveness in all sections.
-
-## Final Specifications
-The specifications document has been finalized and is ready for implementation.
-
-## Task Status
-- The first draft of the AI Consent Protocol (ACP) version 1 has been created and is now complete.
