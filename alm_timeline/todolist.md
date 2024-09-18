@@ -11,3 +11,4 @@
 - [x] Add feature enhancement based on user feedback to `alm_timeline.json`
 - [x] Add second user feedback entry to `alm_timeline.json`
 - [x] Add third user feedback entry to `alm_timeline.json`
+- [x] Add a new example entry to `alm_timeline.json`
