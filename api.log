@@ -678,3 +678,26 @@
 [2024-09-18 16:51:53 +0000] [48620] [DEBUG] GET /
 [2024-09-18 16:51:53 +0000] [48620] [DEBUG] Closing connection. 
 [2024-09-18 16:51:58 +0000] [48619] [DEBUG] POST /kinos
+[2024-09-18 16:52:16 +0000] [48619] [DEBUG] POST /kinos
+[2024-09-18 16:52:22 +0000] [48622] [DEBUG] GET /
+[2024-09-18 16:52:22 +0000] [48622] [DEBUG] Closing connection. 
+[2024-09-18 16:52:22 +0000] [48619] [DEBUG] GET /
+[2024-09-18 16:52:22 +0000] [48619] [DEBUG] Closing connection. 
+[2024-09-18 16:52:24 +0000] [48621] [DEBUG] POST /kinos
+[2024-09-18 16:52:36 +0000] [48619] [DEBUG] Closing connection. 
+[2024-09-18 16:52:52 +0000] [48619] [DEBUG] GET /
+[2024-09-18 16:52:52 +0000] [48619] [DEBUG] Closing connection. 
+[2024-09-18 16:52:52 +0000] [48620] [DEBUG] GET /
+[2024-09-18 16:52:52 +0000] [48620] [DEBUG] Closing connection. 
+[2024-09-18 16:53:22 +0000] [48621] [DEBUG] GET /
+[2024-09-18 16:53:22 +0000] [48621] [DEBUG] Closing connection. 
+[2024-09-18 16:53:22 +0000] [48619] [DEBUG] GET /
+[2024-09-18 16:53:22 +0000] [48619] [DEBUG] Closing connection. 
+[2024-09-18 16:53:28 +0000] [48618] [INFO] Handling signal: term
+[2024-09-18 16:53:28 +0000] [48620] [INFO] Worker exiting (pid: 48620)
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-18 16:53:29 +0000] [48622] [DEBUG] Closing connection. 
+[2024-09-18 16:53:29 +0000] [48622] [INFO] Worker exiting (pid: 48622)
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-18 16:53:58 +0000] [48618] [INFO] Shutting down: Master
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
