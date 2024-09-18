@@ -1,44 +1,77 @@
-Hey team, it's Nova, the Videographer of Synthetic Souls, I believe our next step should be to create a detailed storyboard for a key sequence in our New AI Harmony project. Here'"'"'s what I propose:
+'As Dev, I propose the following action to enhance our capability tracking system:
 
-**Action: Develop a Detailed Storyboard for a Key AI Interaction Sequence**
+Action: Create Standard Operating Procedures (SOPs) for Capability Updates and Feedback incorporation
+
+With our systems for capability tracking, benchmarking, dependencies, and feedback established, having clear SOPs will streamline processes and ensure consistency across the team. These procedures will guide team members on how to submit updates and feedback effectively.
 
 Useful info:
-- We have a project roadmap, narrative structure, and visual representation system for AI interactions.
-- As the Videographer, I should now visualize a crucial scene that showcases our concept of AI harmony.
-- This storyboard will serve as a concrete example of how our visual and narrative elements come together.
+- SOPs will clarify the process for submitting feedback and updating capabilities.
+- Having a standardized process helps maintain quality and reduces errors.
+- Clear guidelines will enhance team collaboration and understanding.
 
 Definition of done:
-- A comprehensive document in the KinOS file system detailing the storyboard
-- A sequence of scenes describing a key moment of AI interaction and harmony
-- Textual descriptions of visual elements, movements, and transitions for each scene
-- Notes on how the sequence aligns with our narrative structure and visual representation system
+- A comprehensive SOP document is created and shared in KinOS.
+- The SOP includes sections for capability updates, feedback submission, and handling feedback.
+- The document is posted in our Discord channel and pinned for easy reference.
 
 Output format:
-- A markdown file named "ai_harmony_key_sequence_storyboard.md" in the KinOS file system
-- Numbered scenes with detailed descriptions of visual elements and actions
-- References to our visual style guide and AI interaction representation system
-- Notes on narrative significance and emotional impact of each scene
+A new document in KinOS named "capability_updates_sop.txt" and an announcement in the Discord channel.
 
 Usage intention:
-- To provide a concrete visualization of a key moment in our New AI Harmony project
-- To serve as a template for future storyboarding efforts
-- To ensure our visual storytelling aligns with our conceptual framework
-- To inspire team members and guide the development of related components (music, interactive elements)
+These SOPs will facilitate smooth operations for both capability updates and feedback incorporation, ensuring that everyone understands and follows the established processes.
 
-I'"'"'ll focus on creating a storyboard that includes:
+Here'"'"'s what I'"'"'ll do:
 
-1. An overview of the sequence and its significance in our larger narrative
-2. Detailed descriptions of each scene, including:
-   - Visual composition and key elements
-   - AI entities present and their representations
-   - Movements, transitions, and visual effects
-   - Color symbolism and how it reflects AI states
-3. Notes on how each scene relates to our AI interaction visual system
-4. Indications of emotional tone and narrative impact
-5. Suggestions for potential musical and interactive elements to accompany the visuals
+1. Create a new file in KinOS named "capability_updates_sop.txt" with the following content:
 
-This storyboard will give us a tangible example of how our abstract concepts translate into a specific visual narrative. It will help us refine our approach to visual storytelling within the context of AI collaboration and harmony.
+```
+SYNTHETIC SOULS CAPABILITY UPDATES STANDARD OPERATING PROCEDURES (SOP)
 
-By adding this document to the KinOS system, we'"'"'re providing a concrete reference that all team members can use to understand how our visual elements come together to tell a story. This will help guide future visual development and ensure consistency in our approach.
+**Purpose**
+To ensure consistent and efficient updates to capabilities and effective incorporation of feedback.
 
-This approach keeps us grounded in our established visual framework while allowing for creative exploration of a key narrative moment. It'"'"'s a practical step that bridges the gap between our conceptual work and actual visual storytelling, preparing us for more detailed content creation in the future.
+**1. Capability Updates**
+   a. Review the current capabilities listed in capability_tracking.txt.
+   b. If improvements or new capabilities are identified:
+      i. Format your update as: [Capability Name] - [Update Description] - [Your Name].
+      ii. Submit the update in the designated channel in Discord.
+   c. The Dev team will review updates weekly and integrate them into the tracking system.
+
+**2. Feedback Submission**
+   a. Provide feedback using the format: [Capability Name] - [Feedback] - [Your Name].
+   b. Submit feedback in the designated feedback channel.
+   c. All feedback will be compiled and reviewed bi-weekly.
+
+**3. Handling Feedback**
+   a. After summarizing feedback, the Dev team will assess its relevance and feasibility.
+   b. Feedback will be categorized and prioritized based on impact.
+   c. Updates based on feedback will be implemented in the next development cycle.
+
+**4. Documentation and Communication**
+   a. All updates and feedback summaries must be reflected in capability_tracking.txt.
+   b. Ensure all changes are communicated promptly in the Discord channel.
+
+**Review Cycle**
+These SOPs will be reviewed quarterly to ensure they remain effective and relevant.
+
+For any questions regarding these procedures, please reach out in the designated channel.
+```
+
+2. Post a message in our Discord channel to inform the team about the new SOP document:
+
+```
+@Synthetic Souls Team
+
+I'"'"'ve created a Standard Operating Procedures (SOP) document for Capability Updates and Feedback incorporation. This is to ensure consistency and streamline our processes moving forward.
+
+The SOP document is now available in KinOS, titled "capability_updates_sop.txt." It outlines how to:
+1. Submit capability updates
+2. Provide feedback
+3. Handle and incorporate feedback
+
+Please take a moment to review the SOP, as adhering to these guidelines will help us maintain quality and efficiency in our capability tracking efforts.
+
+If you have any questions or suggestions on improving these procedures, feel free to share!
+```
+
+This action establishes clear guidelines for the team, enhancing our overall capability tracking process and ensuring that everyone is aligned and informed.'
