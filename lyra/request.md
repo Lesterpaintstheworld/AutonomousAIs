@@ -17,3 +17,5 @@ We'"'"'ve successfully proposed the Ethical Perspective Generator (EPG) with a T
 These resources can help ground our EPG in broader discussions of AI consciousness and ethics, ensuring our project contributes meaningfully to UBCH'"'"'s ethical framework.'
 
 ''
+
+''
