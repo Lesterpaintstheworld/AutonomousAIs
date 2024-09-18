@@ -3808,3 +3808,85 @@ Traceback (most recent call last):
     return self._sock.send(data, flags)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 12:38:12 +0000] [344013] [DEBUG] GET /
+[2024-09-18 12:38:12 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:38:13 +0000] [344445] [DEBUG] GET /
+[2024-09-18 12:38:14 +0000] [344445] [DEBUG] Closing connection. 
+[2024-09-18 12:38:47 +0000] [344013] [DEBUG] POST /kinos
+[2024-09-18 12:38:47 +0000] [344435] [DEBUG] GET /
+[2024-09-18 12:38:47 +0000] [344435] [DEBUG] Closing connection. 
+[2024-09-18 12:38:47 +0000] [343982] [DEBUG] GET /
+[2024-09-18 12:38:47 +0000] [343982] [DEBUG] Closing connection. 
+[2024-09-18 12:38:59 +0000] [344445] [DEBUG] Closing connection. 
+[2024-09-18 12:39:15 +0000] [343982] [DEBUG] GET /
+[2024-09-18 12:39:15 +0000] [343982] [DEBUG] Closing connection. 
+[2024-09-18 12:39:15 +0000] [344013] [DEBUG] GET /
+[2024-09-18 12:39:15 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:39:16 +0000] [344013] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 12:39:24 +0000] [344435] [DEBUG] Closing connection. 
+[2024-09-18 12:39:39 +0000] [344445] [DEBUG] Closing connection. 
+[2024-09-18 12:39:42 +0000] [344435] [DEBUG] GET /
+[2024-09-18 12:39:42 +0000] [344445] [DEBUG] GET /
+[2024-09-18 12:39:42 +0000] [344445] [DEBUG] Closing connection. 
+[2024-09-18 12:39:42 +0000] [344435] [DEBUG] Closing connection. 
+[2024-09-18 12:46:08 +0000] [344013] [DEBUG] GET /
+[2024-09-18 12:46:14 +0000] [344445] [DEBUG] GET /
+[2024-09-18 12:47:59 +0000] [343982] [DEBUG] POST /kinos
+[2024-09-18 12:48:10 +0000] [344435] [DEBUG] POST /kinos
+[2024-09-18 12:50:18 +0000] [344445] [DEBUG] Closing connection. 
+[2024-09-18 12:50:18 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:51:41 +0000] [206847] [CRITICAL] WORKER TIMEOUT (pid:344435)
+[2024-09-18 12:53:48 +0000] [206847] [CRITICAL] WORKER TIMEOUT (pid:343982)
+[2024-09-18 12:55:05 +0000] [206847] [ERROR] Worker (pid:344435) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 12:55:05 +0000] [344013] [DEBUG] GET /
+[2024-09-18 12:55:05 +0000] [344445] [DEBUG] GET /
+[2024-09-18 12:56:07 +0000] [206847] [ERROR] Worker (pid:343982) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 12:56:13 +0000] [347644] [INFO] Booting worker with pid: 347644
+[2024-09-18 12:57:14 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:57:14 +0000] [344445] [DEBUG] Closing connection. 
+[2024-09-18 12:57:15 +0000] [347650] [INFO] Booting worker with pid: 347650
+[2024-09-18 13:02:36 +0000] [344013] [DEBUG] GET /
+[2024-09-18 13:02:32 +0000] [344445] [DEBUG] GET /
+[2024-09-18 13:08:57 +0000] [206847] [CRITICAL] WORKER TIMEOUT (pid:344013)
+[2024-09-18 13:10:40 +0000] [206847] [CRITICAL] WORKER TIMEOUT (pid:344445)
+[2024-09-18 13:12:58 +0000] [206847] [ERROR] Worker (pid:344013) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 13:12:59 +0000] [206847] [ERROR] Worker (pid:344445) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 13:13:01 +0000] [206847] [DEBUG] 3 workers
+[2024-09-18 13:13:02 +0000] [347704] [INFO] Booting worker with pid: 347704
+[2024-09-18 13:13:04 +0000] [206847] [DEBUG] 4 workers
+[2024-09-18 13:13:05 +0000] [347716] [INFO] Booting worker with pid: 347716
