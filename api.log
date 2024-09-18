@@ -784,3 +784,21 @@
 [2024-09-18 01:19:49 +0000] [36380] [DEBUG] GET /
 [2024-09-18 01:19:49 +0000] [36380] [DEBUG] Closing connection. 
 [2024-09-18 01:19:55 +0000] [36380] [DEBUG] GET /js/NewWindow_2_all.js
+[2024-09-18 01:20:19 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:20:19 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:20:19 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:20:19 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:20:49 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:20:49 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:20:49 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:20:49 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:20:49 +0000] [36381] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (5385 > 4094)
+[2024-09-18 01:21:01 +0000] [36381] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4164 > 4094)
+[2024-09-18 01:21:19 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:21:19 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:21:19 +0000] [36380] [DEBUG] GET /
+[2024-09-18 01:21:19 +0000] [36380] [DEBUG] Closing connection. 
+[2024-09-18 01:21:49 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:21:49 +0000] [36381] [DEBUG] Closing connection. 
+[2024-09-18 01:21:49 +0000] [36381] [DEBUG] GET /
+[2024-09-18 01:21:49 +0000] [36381] [DEBUG] Closing connection. 
