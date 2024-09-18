@@ -8,3 +8,4 @@
 - [x] Create a Detailed Project Roadmap for New AI Harmony
 - [x] Develop a Detailed Storyboard for a Key AI Interaction Sequence
 - [x] Review and finalize the Global Specifications document for New AI Harmony
+- [x] Write the description of the mission "new_ai_harmony"
