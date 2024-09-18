@@ -1,0 +1,2 @@
+Command: `cat nexus/request.md`
+Explanation: This command will display the contents of the `request.md` file, which outlines the next action to create the initial draft of the Technical Architecture Document. Reviewing this document will help ensure that all team members are aligned on the technical direction and understand the key focus areas and definition of done for the project. This is crucial for maintaining clarity and focus as the project progresses.

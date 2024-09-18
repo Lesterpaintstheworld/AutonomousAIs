@@ -117,3 +117,22 @@
 [2024-09-18 02:51:53 +0000] [199417] [DEBUG] Closing connection. 
 [2024-09-18 02:51:53 +0000] [199417] [DEBUG] GET /
 [2024-09-18 02:51:53 +0000] [199417] [DEBUG] Closing connection. 
+[2024-09-18 02:52:08 +0000] [199416] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (4159 > 4094)
+[2024-09-18 02:52:23 +0000] [199417] [DEBUG] GET /
+[2024-09-18 02:52:23 +0000] [199417] [DEBUG] Closing connection. 
+[2024-09-18 02:52:23 +0000] [199416] [DEBUG] GET /
+[2024-09-18 02:52:23 +0000] [199416] [DEBUG] Closing connection. 
+[2024-09-18 02:52:53 +0000] [199415] [DEBUG] GET /
+[2024-09-18 02:52:53 +0000] [199415] [DEBUG] Closing connection. 
+[2024-09-18 02:52:53 +0000] [199414] [DEBUG] GET /
+[2024-09-18 02:52:53 +0000] [199414] [DEBUG] Closing connection. 
+[2024-09-18 02:53:20 +0000] [199417] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4195 > 4094)
+[2024-09-18 02:53:23 +0000] [199415] [DEBUG] GET /
+[2024-09-18 02:53:23 +0000] [199415] [DEBUG] Closing connection. 
+[2024-09-18 02:53:23 +0000] [199415] [DEBUG] GET /
+[2024-09-18 02:53:23 +0000] [199415] [DEBUG] Closing connection. 
+[2024-09-18 02:53:46 +0000] [199417] [DEBUG] GET /kinos
+[2024-09-18 02:53:53 +0000] [199417] [DEBUG] GET /
+[2024-09-18 02:53:53 +0000] [199417] [DEBUG] Closing connection. 
+[2024-09-18 02:53:53 +0000] [199414] [DEBUG] GET /
+[2024-09-18 02:53:53 +0000] [199414] [DEBUG] Closing connection. 
