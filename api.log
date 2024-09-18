@@ -3366,3 +3366,66 @@ TimeoutError: [Errno 110] Connection timed out
 [2024-09-18 12:23:41 +0000] [344013] [DEBUG] Closing connection. 
 [2024-09-18 12:23:42 +0000] [344445] [DEBUG] GET /
 [2024-09-18 12:23:42 +0000] [344445] [DEBUG] Closing connection. 
+[2024-09-18 12:23:48 +0000] [343982] [DEBUG] POST /hello.world
+[2024-09-18 12:23:49 +0000] [343982] [DEBUG] GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[2024-09-18 12:23:49 +0000] [343982] [DEBUG] Closing connection. 
+[2024-09-18 12:23:50 +0000] [344013] [DEBUG] GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+[2024-09-18 12:23:50 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:23:51 +0000] [344435] [DEBUG] GET /vendor/phpunit/src/Util/PHP/eval-stdin.php
+[2024-09-18 12:23:52 +0000] [344435] [DEBUG] Closing connection. 
+[2024-09-18 12:23:54 +0000] [343982] [DEBUG] GET /vendor/phpunit/Util/PHP/eval-stdin.php
+[2024-09-18 12:23:54 +0000] [343982] [DEBUG] Closing connection. 
+[2024-09-18 12:23:58 +0000] [344013] [DEBUG] GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php
+[2024-09-18 12:24:14 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:25:24 +0000] [344445] [DEBUG] GET /
+[2024-09-18 12:25:25 +0000] [344445] [DEBUG] Closing connection. 
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] GET /favicon.ico
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] GET /
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] GET /
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] GET /
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] GET /
+[2024-09-18 12:25:25 +0000] [344013] [DEBUG] Closing connection. 
+[2024-09-18 12:25:24 +0000] [344435] [DEBUG] GET /
+[2024-09-18 12:25:25 +0000] [344435] [DEBUG] Closing connection. 
+[2024-09-18 12:25:20 +0000] [343982] [DEBUG] GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[2024-09-18 12:25:25 +0000] [343982] [DEBUG] Closing connection. 
+[2024-09-18 12:25:25 +0000] [343982] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
