@@ -1940,3 +1940,110 @@ Traceback (most recent call last):
     return self._sock.send(data, flags)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 TimeoutError: [Errno 110] Connection timed out
+[2024-09-19 01:01:01 +0000] [134660] [INFO] Handling signal: hup
+[2024-09-19 01:01:01 +0000] [134660] [INFO] Hang up: Master
+[2024-09-19 01:01:01 +0000] [134660] [DEBUG] Current configuration:
+  config: ./gunicorn.conf.py
+  wsgi_app: None
+  bind: ['0.0.0.0:8501']
+  backlog: 2048
+  workers: 4
+  worker_class: gevent
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 600
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  print_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /home/ubuntu/synthetic-souls
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 1000
+  group: 1000
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1', '::1']
+  accesslog: None
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: -
+  loglevel: debug
+  capture_output: True
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  logconfig_json: None
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  dogstatsd_tags: 
+  statsd_prefix: 
+  proc_name: None
+  default_proc_name: gunicorn
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x775084a3a160>
+  on_reload: <function OnReload.on_reload at 0x775084a3a2a0>
+  when_ready: <function WhenReady.when_ready at 0x775084a3a3e0>
+  pre_fork: <function Prefork.pre_fork at 0x775084a3a5c0>
+  post_fork: <function Postfork.post_fork at 0x775084a3a700>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x775084a3a840>
+  worker_int: <function WorkerInt.worker_int at 0x775084a3a980>
+  worker_abort: <function WorkerAbort.worker_abort at 0x775084a3aac0>
+  pre_exec: <function PreExec.pre_exec at 0x775084a3ac00>
+  pre_request: <function PreRequest.pre_request at 0x775084a3ad40>
+  post_request: <function PostRequest.post_request at 0x775084a3ade0>
+  child_exit: <function ChildExit.child_exit at 0x775084a3af20>
+  worker_exit: <function WorkerExit.worker_exit at 0x775084a3b060>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x775084a3b1a0>
+  on_exit: <function OnExit.on_exit at 0x775084a3b2e0>
+  ssl_context: <function NewSSLContext.ssl_context at 0x775084a3b4c0>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1', '::1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: None
+  raw_paste_global_conf: []
+  permit_obsolete_folding: False
+  strip_header_spaces: False
+  permit_unconventional_http_method: False
+  permit_unconventional_http_version: False
+  casefold_http_method: False
+  forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
+  header_map: drop
+[2024-09-19 01:01:01 +0000] [134660] [ERROR] Worker (pid:190023) was sent SIGHUP!
+[2024-09-19 01:01:01 +0000] [134660] [ERROR] Worker (pid:190024) was sent SIGHUP!
+[2024-09-19 01:01:01 +0000] [134660] [ERROR] Worker (pid:190025) was sent SIGHUP!
+[2024-09-19 01:01:01 +0000] [134660] [ERROR] Worker (pid:190035) was sent SIGHUP!
+[2024-09-19 01:01:01 +0000] [203022] [INFO] Booting worker with pid: 203022
+[2024-09-19 01:01:01 +0000] [203020] [INFO] Booting worker with pid: 203020
+[2024-09-19 01:01:01 +0000] [203023] [INFO] Booting worker with pid: 203023
+[2024-09-19 01:01:01 +0000] [134660] [INFO] Handling signal: term
+[2024-09-19 01:01:01 +0000] [203027] [INFO] Booting worker with pid: 203027
+[2024-09-19 01:01:31 +0000] [134660] [INFO] Shutting down: Master
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
