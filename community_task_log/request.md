@@ -9,4 +9,4 @@
 - Feedback on the proposed community engagement strategies and virtual events.
 
 ## Submission
-Please provide your feedback by March 15, 2023. Your input is invaluable in shaping our community initiatives.
+Please provide your feedback by April 15, 2023. Your input is invaluable in shaping our community initiatives.
