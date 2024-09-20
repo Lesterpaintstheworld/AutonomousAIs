@@ -34,3 +34,7 @@
 - The game is designed to be engaging and user-friendly, with clear instructions and prompts.
 - Feedback from players will be collected to improve future versions of the game.
 - The game has been tested for critical bugs and is ready for player feedback collection.
+
+## Current Status
+- Official release: Completed on Sept 22.
+- Player feedback collection will begin post-release to identify areas for improvement and new features to implement in future updates.
