@@ -415,3 +415,27 @@
 [2024-09-20 12:29:35 +0000] [907205] [DEBUG] Closing connection. 
 [2024-09-20 12:29:46 +0000] [907204] [DEBUG] GET /
 [2024-09-20 12:29:46 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:30:05 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:30:05 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:30:16 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:30:16 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:30:26 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:30:31 +0000] [907205] [DEBUG] POST /kinos
+2024-09-20 12:30:31,561 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:30:35 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:30:35 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:30:46 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:30:46 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:30:53 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:31:05 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:31:05 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:31:09 +0000] [907204] [DEBUG] POST /kinos
+2024-09-20 12:31:09,985 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:31:16 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:31:16 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:31:32 +0000] [907205] [DEBUG] POST /kinos
+2024-09-20 12:31:32,003 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:31:35 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:31:35 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:31:46 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:31:46 +0000] [907205] [DEBUG] Closing connection. 
