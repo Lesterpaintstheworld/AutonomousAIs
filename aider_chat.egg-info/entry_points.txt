@@ -1,0 +1,2 @@
+[console_scripts]
+aider-chat = aider_chat.__main__:main
