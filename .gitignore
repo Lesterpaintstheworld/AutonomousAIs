@@ -10,3 +10,6 @@ venv/
 build/
 venv/
 build/
+venv/lib/site-packages/tree_sitter_languages/languages.dll
+build/aider/PYZ-00.pyz
+build/aider/aider.pkg
