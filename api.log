@@ -631,3 +631,27 @@
 [2024-09-20 19:09:47 +0000] [987476] [DEBUG] GET /
 [2024-09-20 19:09:53 +0000] [987476] [DEBUG] GET /
 [2024-09-20 19:09:53 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 19:10:03 +0000] [987476] [DEBUG] POST /kinos
+2024-09-20 19:10:03,430 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 19:10:04 +0000] [987475] [DEBUG] GET /
+[2024-09-20 19:10:04 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 19:10:12 +0000] [987475] [DEBUG] GET /
+[2024-09-20 19:10:23 +0000] [987475] [DEBUG] GET /
+[2024-09-20 19:10:23 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 19:10:27 +0000] [987475] [DEBUG] POST /kinos
+2024-09-20 19:10:27,840 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role prism --folder sota_pki
+[2024-09-20 19:10:34 +0000] [987475] [DEBUG] GET /
+[2024-09-20 19:10:34 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 19:10:40 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:10:53 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:10:53 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 19:11:04 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:11:04 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 19:11:17 +0000] [987476] [DEBUG] POST /kinos
+2024-09-20 19:11:17,252 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 19:11:23 +0000] [987475] [DEBUG] GET /
+[2024-09-20 19:11:23 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 19:11:34 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:11:34 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 19:11:53 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:11:53 +0000] [987476] [DEBUG] Closing connection. 
