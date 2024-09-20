@@ -14,7 +14,6 @@ alm_timeline.json
 api.log
 api.py
 api_manager.py
-api_pid.txt
 bfg.jar
 command.md
 complete-band-prompt.md
