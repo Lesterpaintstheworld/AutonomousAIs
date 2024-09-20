@@ -1,0 +1,2 @@
+- Task 1: Update the greeting in the request file - Completed
+- Task 2: Update the output file to match the request file - Completed

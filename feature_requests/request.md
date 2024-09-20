@@ -12,3 +12,12 @@ Implement a user authentication system that allows users to register, log in, an
 
 ### Additional Information
 Consider using OAuth for third-party authentication options and ensure compliance with data protection regulations.
+
+### Feature Request Template
+- **Feature Name:** 
+- **Description:** 
+- **Benefits:** 
+- **Additional Information:** 
+
+
+''
