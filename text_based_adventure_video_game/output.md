@@ -9,14 +9,19 @@ class Game:
     def __init__(self):
         self.player_location = "jail cell"
         self.inventory = []
+        self.locations = {
+            "jail cell": "You are in a dark, damp jail cell. You can hear goblins outside.",
+            "dungeon": "You are now in the dungeon. It's dark and filled with goblins!",
+            "treasure room": "You have entered a treasure room filled with gold and jewels!"
+        }
 
     def start(self):
         print("Welcome to the Goblin Dungeon!")
         self.show_location()
 
     def show_location(self):
+        print(self.locations[self.player_location])
         if self.player_location == "jail cell":
-            print("You are in a dark, damp jail cell. You can hear goblins outside.")
             print("What will you do? (1: Look around, 2: Try to escape)")
             choice = input("Enter your choice: ")
             if choice == "1":
@@ -26,21 +31,58 @@ class Game:
             else:
                 print("Invalid choice. Try again.")
                 self.show_location()
+        elif self.player_location == "dungeon":
+            print("What will you do? (1: Explore, 2: Go to treasure room)")
+            choice = input("Enter your choice: ")
+            if choice == "1":
+                self.explore()
+            elif choice == "2":
+                self.go_to_treasure_room()
+            else:
+                print("Invalid choice. Try again.")
+                self.show_location()
+        elif self.player_location == "treasure room":
+            print("What will you do? (1: Take gold, 2: Go back to dungeon)")
+            choice = input("Enter your choice: ")
+            if choice == "1":
+                self.take_gold()
+            elif choice == "2":
+                self.player_location = "dungeon"
+                self.show_location()
+            else:
+                print("Invalid choice. Try again.")
+                self.show_location()
 
     def look_around(self):
-        print("You see a rusty key on the floor.")
-        self.inventory.append("rusty key")
-        print("You picked up a rusty key.")
+        if "rusty key" not in self.inventory:
+            print("You see a rusty key on the floor.")
+            self.inventory.append("rusty key")
+            print("You picked up a rusty key.")
+        else:
+            print("You already have the rusty key.")
         self.show_location()
 
     def try_to_escape(self):
         if "rusty key" in self.inventory:
             print("You use the rusty key to unlock the cell door and escape!")
             self.player_location = "dungeon"
-            print("You are now in the dungeon. It's dark and filled with goblins!")
+            self.show_location()
         else:
             print("The door is locked. You need a key to escape.")
             self.show_location()
+
+    def explore(self):
+        print("You explore the dungeon and find a hidden passage.")
+        self.player_location = "treasure room"
+        self.show_location()
+
+    def go_to_treasure_room(self):
+        print("You enter the treasure room and find a pile of gold!")
+        self.show_location()
+
+    def take_gold(self):
+        print("You take some gold from the treasure room. You feel rich!")
+        self.show_location()
 
 if __name__ == "__main__":
     game = Game()
@@ -68,3 +110,6 @@ if __name__ == "__main__":
 - Expand the game with more locations, items, and goblin encounters.
 - Implement a combat system and additional quests.
 - Gather feedback from players to improve gameplay.
+
+## Status
+- Official release: Completed on Sept 22.
