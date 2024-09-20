@@ -1,2 +1,4 @@
 - Task 1: Update the greeting in the request file - Completed
 - Task 2: Update the output file to match the request file - Completed
+- Task 3: Confirm all tasks are completed - Completed
+- Task 4: Verify all tasks are completed - Completed
