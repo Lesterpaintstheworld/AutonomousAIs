@@ -1,4 +1,4 @@
-[2024-09-20 11:30:27 +0000] [894833] [DEBUG] Current configuration:
+[2024-09-20 12:01:39 +0000] [907201] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x70c81d235f80>
-  on_reload: <function OnReload.on_reload at 0x70c81d2360c0>
-  when_ready: <function WhenReady.when_ready at 0x70c81d236200>
-  pre_fork: <function Prefork.pre_fork at 0x70c81d2363e0>
-  post_fork: <function Postfork.post_fork at 0x70c81d236520>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x70c81d236660>
-  worker_int: <function WorkerInt.worker_int at 0x70c81d2367a0>
-  worker_abort: <function WorkerAbort.worker_abort at 0x70c81d2368e0>
-  pre_exec: <function PreExec.pre_exec at 0x70c81d236a20>
-  pre_request: <function PreRequest.pre_request at 0x70c81d236b60>
-  post_request: <function PostRequest.post_request at 0x70c81d236c00>
-  child_exit: <function ChildExit.child_exit at 0x70c81d236d40>
-  worker_exit: <function WorkerExit.worker_exit at 0x70c81d236e80>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x70c81d236fc0>
-  on_exit: <function OnExit.on_exit at 0x70c81d237100>
-  ssl_context: <function NewSSLContext.ssl_context at 0x70c81d2372e0>
+  on_starting: <function OnStarting.on_starting at 0x765acddd5f80>
+  on_reload: <function OnReload.on_reload at 0x765acddd60c0>
+  when_ready: <function WhenReady.when_ready at 0x765acddd6200>
+  pre_fork: <function Prefork.pre_fork at 0x765acddd63e0>
+  post_fork: <function Postfork.post_fork at 0x765acddd6520>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x765acddd6660>
+  worker_int: <function WorkerInt.worker_int at 0x765acddd67a0>
+  worker_abort: <function WorkerAbort.worker_abort at 0x765acddd68e0>
+  pre_exec: <function PreExec.pre_exec at 0x765acddd6a20>
+  pre_request: <function PreRequest.pre_request at 0x765acddd6b60>
+  post_request: <function PostRequest.post_request at 0x765acddd6c00>
+  child_exit: <function ChildExit.child_exit at 0x765acddd6d40>
+  worker_exit: <function WorkerExit.worker_exit at 0x765acddd6e80>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x765acddd6fc0>
+  on_exit: <function OnExit.on_exit at 0x765acddd7100>
+  ssl_context: <function NewSSLContext.ssl_context at 0x765acddd72e0>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,310 +92,14 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-20 11:30:27 +0000] [894833] [INFO] Starting gunicorn 23.0.0
-[2024-09-20 11:30:27 +0000] [894833] [DEBUG] Arbiter booted
-[2024-09-20 11:30:27 +0000] [894833] [INFO] Listening at: http://0.0.0.0:8501 (894833)
-[2024-09-20 11:30:27 +0000] [894833] [INFO] Using worker: gevent
-[2024-09-20 11:30:27 +0000] [894834] [INFO] Booting worker with pid: 894834
-[2024-09-20 11:30:27 +0000] [894835] [INFO] Booting worker with pid: 894835
-[2024-09-20 11:30:27 +0000] [894836] [INFO] Booting worker with pid: 894836
-[2024-09-20 11:30:27 +0000] [894837] [INFO] Booting worker with pid: 894837
-[2024-09-20 11:30:27 +0000] [894833] [DEBUG] 4 workers
-[2024-09-20 11:30:32 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:30:32 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:30:35 +0000] [894836] [DEBUG] POST /kinos
-[2024-09-20 11:30:43 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:30:43 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:30:55 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:31:02 +0000] [894835] [DEBUG] GET /
-[2024-09-20 11:31:02 +0000] [894835] [DEBUG] Closing connection. 
-[2024-09-20 11:31:13 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:31:13 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:31:32 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:31:32 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:31:43 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:31:43 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:31:51 +0000] [894836] [DEBUG] GET /.env
-[2024-09-20 11:31:52 +0000] [894836] [DEBUG] POST /
-[2024-09-20 11:32:02 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:32:02 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:32:13 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:32:13 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:32:32 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:32:32 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:32:43 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:32:43 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:33:02 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:33:02 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:33:13 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:33:13 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:33:32 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:33:32 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:33:43 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:33:43 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:34:02 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:34:02 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:34:13 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:34:13 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:34:32 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:34:32 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:34:43 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:34:43 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:35:02 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:35:02 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:35:13 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:35:13 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:35:15 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:35:32 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:35:32 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:35:43 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:35:43 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:35:53 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:36:02 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:36:02 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:36:05 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:36:13 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:36:13 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:36:26 +0000] [894837] [DEBUG] GET /.git/config
-[2024-09-20 11:36:26 +0000] [894837] [DEBUG] GET /.git/config
-[2024-09-20 11:36:32 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:36:32 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:36:43 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:36:43 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:37:02 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:37:02 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:37:13 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:37:13 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:37:32 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:37:32 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:37:43 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:37:43 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:38:02 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:38:02 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:38:13 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:38:13 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:38:32 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:38:32 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:38:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:38:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:39:02 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:39:02 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:39:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:39:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:39:32 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:39:32 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:39:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:39:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:40:02 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:40:02 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:40:12 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:40:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:40:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:40:18 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:40:32 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:40:32 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:40:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:40:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:40:53 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:41:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:41:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:41:06 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:41:14 +0000] [894835] [DEBUG] GET /
-[2024-09-20 11:41:14 +0000] [894835] [DEBUG] Closing connection. 
-[2024-09-20 11:41:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:41:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:41:44 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:41:44 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:42:03 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:42:03 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:42:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:42:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:42:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:42:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:42:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:42:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:42:54 +0000] [894837] [DEBUG] GET /js/NewWindow_2_all.js
-[2024-09-20 11:43:03 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:43:03 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:43:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:43:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:43:33 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:43:33 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:43:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:43:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:44:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:44:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:44:14 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:44:14 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:44:33 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:44:33 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:44:44 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:44:44 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:45:03 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:45:03 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:45:14 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:45:14 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:45:15 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:45:33 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:45:33 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:45:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:45:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:45:53 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:46:03 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:46:03 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:46:05 +0000] [894836] [DEBUG] POST /kinos
-[2024-09-20 11:46:14 +0000] [894835] [DEBUG] GET /
-[2024-09-20 11:46:14 +0000] [894835] [DEBUG] Closing connection. 
-[2024-09-20 11:46:33 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:46:33 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:46:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:46:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:47:03 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:47:03 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:47:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:47:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:47:33 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:47:33 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:47:44 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:47:44 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:48:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:48:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:48:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:48:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:48:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:48:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:48:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:48:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:49:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:49:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:49:14 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:49:14 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:49:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:49:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:49:44 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:49:44 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:49:55 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:50:03 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:50:03 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:50:10 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:50:14 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:50:14 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:50:19 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:50:20 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:50:29 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:50:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:50:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:50:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:50:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:50:49 +0000] [894836] [DEBUG] POST /kinos
-[2024-09-20 11:50:53 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:51:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:51:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:51:05 +0000] [894836] [DEBUG] POST /kinos
-[2024-09-20 11:51:09 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:51:14 +0000] [894835] [DEBUG] GET /
-[2024-09-20 11:51:14 +0000] [894835] [DEBUG] Closing connection. 
-[2024-09-20 11:51:33 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:51:33 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:51:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:51:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:52:03 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:52:03 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:52:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:52:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:52:17 +0000] [894836] [DEBUG] POST /kinos
-[2024-09-20 11:52:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:52:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:52:37 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:52:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:52:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:53:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:53:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:53:14 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:53:14 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:53:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:53:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:53:44 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:53:44 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:53:50 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:54:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:54:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:54:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:54:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:54:21 +0000] [894837] [DEBUG] GET /dns-query
-[2024-09-20 11:54:21 +0000] [894837] [DEBUG] POST /dns-query
-[2024-09-20 11:54:21 +0000] [894837] [DEBUG] GET /dns-query
-[2024-09-20 11:54:21 +0000] [894837] [DEBUG] GET /dns-query
-[2024-09-20 11:54:21 +0000] [894837] [DEBUG] POST /dns-query
-[2024-09-20 11:54:22 +0000] [894837] [DEBUG] GET /dns-query
-[2024-09-20 11:54:22 +0000] [894837] [DEBUG] GET /query
-[2024-09-20 11:54:22 +0000] [894837] [DEBUG] POST /query
-[2024-09-20 11:54:22 +0000] [894837] [DEBUG] GET /query
-[2024-09-20 11:54:22 +0000] [894837] [DEBUG] GET /query
-[2024-09-20 11:54:22 +0000] [894837] [DEBUG] POST /query
-[2024-09-20 11:54:23 +0000] [894837] [DEBUG] GET /query
-[2024-09-20 11:54:23 +0000] [894837] [DEBUG] GET /resolve
-[2024-09-20 11:54:23 +0000] [894837] [DEBUG] POST /resolve
-[2024-09-20 11:54:23 +0000] [894837] [DEBUG] GET /resolve
-[2024-09-20 11:54:23 +0000] [894837] [DEBUG] GET /resolve
-[2024-09-20 11:54:23 +0000] [894837] [DEBUG] POST /resolve
-[2024-09-20 11:54:24 +0000] [894837] [DEBUG] GET /resolve
-[2024-09-20 11:54:24 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:54:24 +0000] [894837] [DEBUG] POST /
-[2024-09-20 11:54:25 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:54:25 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:54:25 +0000] [894837] [DEBUG] POST /
-[2024-09-20 11:54:26 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:54:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:54:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:54:44 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:54:44 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:55:03 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:55:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:55:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:55:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:55:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:55:15 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:55:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:55:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:55:44 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:55:44 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:55:53 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:56:03 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:56:03 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:56:06 +0000] [894836] [DEBUG] POST /kinos
-[2024-09-20 11:56:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:56:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:56:15 +0000] [894837] [DEBUG] POST /kinos
-[2024-09-20 11:56:33 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:56:33 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:56:41 +0000] [894836] [DEBUG] GET /cdn-cgi/trace
-[2024-09-20 11:56:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:56:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:57:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:57:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:57:14 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:57:14 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:57:28 +0000] [894836] [DEBUG] POST /kinos
-[2024-09-20 11:57:33 +0000] [894834] [DEBUG] GET /
-[2024-09-20 11:57:33 +0000] [894834] [DEBUG] Closing connection. 
-[2024-09-20 11:57:44 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:57:44 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:58:03 +0000] [894836] [DEBUG] GET /
-[2024-09-20 11:58:03 +0000] [894836] [DEBUG] Closing connection. 
-[2024-09-20 11:58:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:58:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:58:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:58:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:58:41 +0000] [894836] [DEBUG] POST /kinos
-[2024-09-20 11:58:44 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:58:44 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:59:03 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:59:03 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:59:14 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:59:14 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:59:33 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:59:33 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:59:44 +0000] [894837] [DEBUG] GET /
-[2024-09-20 11:59:44 +0000] [894837] [DEBUG] Closing connection. 
-[2024-09-20 11:59:53 +0000] [894836] [DEBUG] POST /kinos
+[2024-09-20 12:01:39 +0000] [907201] [INFO] Starting gunicorn 23.0.0
+[2024-09-20 12:01:39 +0000] [907201] [DEBUG] Arbiter booted
+[2024-09-20 12:01:39 +0000] [907201] [INFO] Listening at: http://0.0.0.0:8501 (907201)
+[2024-09-20 12:01:39 +0000] [907201] [INFO] Using worker: gevent
+[2024-09-20 12:01:39 +0000] [907202] [INFO] Booting worker with pid: 907202
+[2024-09-20 12:01:39 +0000] [907203] [INFO] Booting worker with pid: 907203
+[2024-09-20 12:01:40 +0000] [907204] [INFO] Booting worker with pid: 907204
+[2024-09-20 12:01:40 +0000] [907205] [INFO] Booting worker with pid: 907205
+[2024-09-20 12:01:40 +0000] [907201] [DEBUG] 4 workers
+[2024-09-20 12:01:45 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:01:45 +0000] [907204] [DEBUG] Closing connection. 
