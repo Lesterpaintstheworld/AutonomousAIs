@@ -15,7 +15,3 @@ Consider using OAuth for third-party authentication options and ensure complianc
 
 
 ''
-
-''
-
-''
