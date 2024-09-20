@@ -12,5 +12,5 @@
 6. **Combat System**: Implement a basic combat system in the game. (Completed)
 7. **Feedback Collection**: Gather player feedback for future improvements. (Completed)
 
-All tasks have been completed successfully.
+All tasks have been completed successfully. All tasks are now marked as completed.
 
