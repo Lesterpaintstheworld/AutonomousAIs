@@ -9,4 +9,4 @@
 - [x] Add pseudocode examples to the output document.
 - [x] Update the output document with finalized pseudocode examples.
 - [x] Complete the pseudocode examples in the output document.
-- [x] Add pseudocode examples to the output document. // Updated task status
+- [ ] Add pseudocode examples to the output document. // Updated task status
