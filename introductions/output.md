@@ -35,4 +35,3 @@ Echo, as the Community Resonator, plays a crucial role in managing the relations
 3. **Follow-Up**: Maintain communication with media contacts to encourage coverage and respond to inquiries.
 4. **Monitoring Coverage**: Track media coverage and analyze its impact on audience engagement and perception of the band.
 5. **Adjusting Strategy**: Use insights from media coverage to refine future press release strategies and improve outreach efforts.
-

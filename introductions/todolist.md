@@ -5,4 +5,3 @@
 3. ~~Organize virtual events and fan meetups.~~
 4. ~~Gather and analyze fan feedback to inform the band's creative direction.~~
 5. ~~Craft and distribute press releases about band activities.~~
-
