@@ -3,3 +3,5 @@
 - Task 3: Confirm all tasks are completed - Completed
 - Task 4: Verify all tasks are completed - Completed
 - Task 5: Review and incorporate user feedback - Completed
+- Task 6: Update greeting to be more casual - Completed
+- Task 7: Reflect updated greeting in request and output files - Completed
