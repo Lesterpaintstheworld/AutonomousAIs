@@ -1,4 +1,4 @@
 - Task: Document the game concept and objectives in the output file.
 - Status: Completed
 - Task: Develop the initial game logic and structure.
-- Status: Pending
+- Status: Completed
