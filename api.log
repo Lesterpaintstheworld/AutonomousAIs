@@ -525,3 +525,34 @@
 [2024-09-20 12:39:35 +0000] [907204] [DEBUG] Closing connection. 
 [2024-09-20 12:39:46 +0000] [907204] [DEBUG] GET /
 [2024-09-20 12:39:46 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:40:05 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:40:05 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:40:07 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:40:14 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:40:16 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:40:16 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:40:35 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:40:35 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:40:35 +0000] [907205] [DEBUG] POST /kinos
+2024-09-20 12:40:35,921 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:40:46 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:40:46 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:40:53 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:41:01 +0000] [907204] [DEBUG] POST /kinos
+2024-09-20 12:41:01,441 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:41:05 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:41:05 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:41:10 +0000] [907204] [DEBUG] POST /kinos
+2024-09-20 12:41:10,022 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:41:10 +0000] [907204] [DEBUG] POST /kinos
+2024-09-20 12:41:10,079 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:41:14 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:41:16 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:41:16 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:41:35 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:41:35 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:41:36 +0000] [907204] [DEBUG] POST /kinos
+2024-09-20 12:41:36,342 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:41:38 +0000] [907205] [DEBUG] POST /ajax
+[2024-09-20 12:41:46 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:41:46 +0000] [907205] [DEBUG] Closing connection. 
