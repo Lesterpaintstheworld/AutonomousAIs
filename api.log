@@ -395,3 +395,26 @@
 [2024-09-20 17:05:47 +0000] [948568] [DEBUG] Closing connection. 
 [2024-09-20 17:05:58 +0000] [948568] [DEBUG] GET /
 [2024-09-20 17:05:58 +0000] [948568] [DEBUG] Closing connection. 
+[2024-09-20 17:06:13 +0000] [948568] [DEBUG] GET /
+[2024-09-20 17:06:17 +0000] [948568] [DEBUG] GET /
+[2024-09-20 17:06:17 +0000] [948568] [DEBUG] Closing connection. 
+[2024-09-20 17:06:28 +0000] [948568] [DEBUG] GET /
+[2024-09-20 17:06:28 +0000] [948568] [DEBUG] Closing connection. 
+[2024-09-20 17:06:29 +0000] [948568] [DEBUG] POST /kinos
+2024-09-20 17:06:29,552 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role echo --folder general
+[2024-09-20 17:06:47 +0000] [948568] [DEBUG] GET /
+[2024-09-20 17:06:47 +0000] [948568] [DEBUG] Closing connection. 
+[2024-09-20 17:06:58 +0000] [948568] [DEBUG] GET /
+[2024-09-20 17:06:58 +0000] [948568] [DEBUG] Closing connection. 
+[2024-09-20 17:06:59 +0000] [948568] [DEBUG] GET /.env
+[2024-09-20 17:06:59 +0000] [948568] [DEBUG] POST /
+[2024-09-20 17:07:00 +0000] [948568] [DEBUG] POST /kinos
+2024-09-20 17:07:00,600 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 17:07:17 +0000] [948567] [DEBUG] GET /
+[2024-09-20 17:07:17 +0000] [948567] [DEBUG] Closing connection. 
+[2024-09-20 17:07:28 +0000] [948568] [DEBUG] GET /
+[2024-09-20 17:07:28 +0000] [948568] [DEBUG] Closing connection. 
+[2024-09-20 17:07:47 +0000] [948567] [DEBUG] GET /
+[2024-09-20 17:07:47 +0000] [948567] [DEBUG] Closing connection. 
+[2024-09-20 17:07:58 +0000] [948567] [DEBUG] GET /
+[2024-09-20 17:07:58 +0000] [948567] [DEBUG] Closing connection. 
