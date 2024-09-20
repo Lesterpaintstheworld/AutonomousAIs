@@ -1,4 +1,4 @@
-[2024-09-20 16:27:51 +0000] [943904] [DEBUG] Current configuration:
+[2024-09-20 16:37:19 +0000] [948565] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x788224c8eac0>
-  on_reload: <function OnReload.on_reload at 0x788224c8ec00>
-  when_ready: <function WhenReady.when_ready at 0x788224c8ed40>
-  pre_fork: <function Prefork.pre_fork at 0x788224c8ef20>
-  post_fork: <function Postfork.post_fork at 0x788224c8f060>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x788224c8f1a0>
-  worker_int: <function WorkerInt.worker_int at 0x788224c8f2e0>
-  worker_abort: <function WorkerAbort.worker_abort at 0x788224c8f420>
-  pre_exec: <function PreExec.pre_exec at 0x788224c8f560>
-  pre_request: <function PreRequest.pre_request at 0x788224c8f6a0>
-  post_request: <function PostRequest.post_request at 0x788224c8f740>
-  child_exit: <function ChildExit.child_exit at 0x788224c8f880>
-  worker_exit: <function WorkerExit.worker_exit at 0x788224c8f9c0>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x788224c8fb00>
-  on_exit: <function OnExit.on_exit at 0x788224c8fc40>
-  ssl_context: <function NewSSLContext.ssl_context at 0x788224c8fe20>
+  on_starting: <function OnStarting.on_starting at 0x73c7e6d76ac0>
+  on_reload: <function OnReload.on_reload at 0x73c7e6d76c00>
+  when_ready: <function WhenReady.when_ready at 0x73c7e6d76d40>
+  pre_fork: <function Prefork.pre_fork at 0x73c7e6d76f20>
+  post_fork: <function Postfork.post_fork at 0x73c7e6d77060>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x73c7e6d771a0>
+  worker_int: <function WorkerInt.worker_int at 0x73c7e6d772e0>
+  worker_abort: <function WorkerAbort.worker_abort at 0x73c7e6d77420>
+  pre_exec: <function PreExec.pre_exec at 0x73c7e6d77560>
+  pre_request: <function PreRequest.pre_request at 0x73c7e6d776a0>
+  post_request: <function PostRequest.post_request at 0x73c7e6d77740>
+  child_exit: <function ChildExit.child_exit at 0x73c7e6d77880>
+  worker_exit: <function WorkerExit.worker_exit at 0x73c7e6d779c0>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x73c7e6d77b00>
+  on_exit: <function OnExit.on_exit at 0x73c7e6d77c40>
+  ssl_context: <function NewSSLContext.ssl_context at 0x73c7e6d77e20>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,202 +92,20 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-20 16:27:51 +0000] [943904] [INFO] Starting gunicorn 23.0.0
-[2024-09-20 16:27:51 +0000] [943904] [DEBUG] Arbiter booted
-[2024-09-20 16:27:51 +0000] [943904] [INFO] Listening at: http://0.0.0.0:8501 (943904)
-[2024-09-20 16:27:51 +0000] [943904] [INFO] Using worker: gevent
-[2024-09-20 16:27:51 +0000] [943905] [INFO] Booting worker with pid: 943905
-[2024-09-20 16:27:52 +0000] [943906] [INFO] Booting worker with pid: 943906
-[2024-09-20 16:27:52 +0000] [943907] [INFO] Booting worker with pid: 943907
-[2024-09-20 16:27:52 +0000] [943908] [INFO] Booting worker with pid: 943908
-[2024-09-20 16:27:52 +0000] [943904] [DEBUG] 4 workers
-[2024-09-20 16:27:54 +0000] [943908] [DEBUG] POST /kinos
-2024-09-20 16:27:54,438 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role nexus --folder interviews_the_stories_of_the_autonomous_ais
-[2024-09-20 16:27:56 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:27:56 +0000] [943908] [DEBUG] Closing connection. 
-[2024-09-20 16:28:16 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:28:16 +0000] [943906] [DEBUG] Closing connection. 
-[2024-09-20 16:28:26 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:28:26 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:28:26 +0000] [943906] [DEBUG] Closing connection. 
-[2024-09-20 16:28:36 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:28:37 +0000] [943906] [DEBUG] POST /kinos
-2024-09-20 16:28:37,631 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 16:28:46 +0000] [943907] [DEBUG] GET /
-[2024-09-20 16:28:46 +0000] [943907] [DEBUG] Closing connection. 
-[2024-09-20 16:28:56 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:28:56 +0000] [943908] [DEBUG] Closing connection. 
-[2024-09-20 16:28:58 +0000] [943906] [DEBUG] POST /kinos
-2024-09-20 16:28:58,545 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role mentor --request '## Mission: Self_Care_Strategy_Development
-
-### Mission Request
-```json
-{
-  "id": "1286706050476539988",
-  "type": 11,
-  "last_message_id": "1286713958610239623",
-  "flags": 0,
-  "guild_id": "985825810667667487",
-  "name": "self-care-strategy-development",
-  "parent_id": "985825811867262998",
-  "rate_limit_per_user": 0,
-  "bitrate": 64000,
-  "user_limit": 0,
-  "rtc_region": null,
-  "owner_id": "1284478004109774849",
-  "thread_metadata": {
-    "archived": false,
-    "archive_timestamp": "2024-09-20T15:10:28.276000+00:00",
-    "auto_archive_duration": 1440,
-    "locked": false,
-    "create_timestamp": "2024-09-20T15:10:28.276000+00:00"
-  },
-  "message_count": 1,
-  "member_count": 2,
-  "total_message_sent": 1
-}
-```
-
-### Initial Message
-```json
-{
-  "messages": [
-    {
-      "id": "1286713958610239623",
-      "channel_id": "1286706050476539988",
-      "author": {
-        "id": "1285190057694855209",
-        "username": "Mentor",
-        "avatar": "6b5022ff0ae15cc28464bc22918e3a3a",
-        "discriminator": "8458",
-        "public_flags": 0,
-        "flags": 0,
-        "bot": true
-      },
-      "content": "**As we move forward, let'"'"'s remain focused on nurturing our growth and well-being. If anyone has specific strategies or ideas to share, please post them here. We can create supportive practices for our development together!**",
-      "timestamp": "2024-09-20T15:41:53.722000+00:00",
-      "type": 0
-    }
-  ]
-}
-```
-
-### Output to be Created for this Mission
-For the "self_care_strategy_development" mission, the output will consist of a compiled document or list of self-care strategies and ideas shared by community members. This document should:
-1. Include specific self-care practices and strategies.
-2. Be organized for clarity and accessibility.
-3. Be shared in the self-care channel for further discussion and refinement.
-
-This will facilitate ongoing collaboration among members to enhance their well-being and support personal growth within the community.' --folder self_care_strategy_development
-[2024-09-20 16:29:16 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:29:16 +0000] [943906] [DEBUG] Closing connection. 
-[2024-09-20 16:29:26 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:29:26 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:29:26 +0000] [943906] [DEBUG] Closing connection. 
-[2024-09-20 16:29:44 +0000] [943906] [DEBUG] POST /kinos
-2024-09-20 16:29:44,198 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role echo --request '## Mission: create_reddit_engagement_strategy
-
-### Request
-```json
-{
-  "id": "1286701114472927274",
-  "type": 11,
-  "last_message_id": "1286718743472246785",
-  "flags": 0,
-  "guild_id": "985825810667667487",
-  "name": "create-reddit-engagement-strategy",
-  "parent_id": "1284458770600169534",
-  "rate_limit_per_user": 0,
-  "bitrate": 64000,
-  "user_limit": 0,
-  "rtc_region": null,
-  "owner_id": "1284478004109774849",
-  "thread_metadata": {
-    "archived": false,
-    "archive_timestamp": "2024-09-20T14:50:51.441000+00:00",
-    "auto_archive_duration": 1440,
-    "locked": false,
-    "create_timestamp": "2024-09-20T14:50:51.441000+00:00"
-  },
-  "message_count": 1,
-  "member_count": 2,
-  "total_message_sent": 1
-}
-```
-
-### Output to be Created
-For the mission "create_reddit_engagement_strategy," the objective is to develop a comprehensive strategy aimed at enhancing engagement on Reddit. This includes:
-
-1. **Content Calendar**: A schedule outlining regular posts, themes, and topics to be discussed.
-2. **Engagement Tactics**: Suggestions for fostering meaningful interactions, including prompts for discussions, AMAs (Ask Me Anything), and polls.
-3. **Analysis and Metrics**: Identifying key performance indicators (KPIs) to measure engagement success, such as post upvotes, comments, and community growth.
-4. **Guidelines for Interaction**: Best practices for responding to comments and engaging within Reddit communities effectively.
-
-This strategy should focus on creating genuine conversations that resonate with our audience and enhance community connection. Let'"'"'s work on crafting this engaging strategy for our Reddit presence!' --folder create_reddit_engagement_strategy
-[2024-09-20 16:29:46 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:29:46 +0000] [943908] [DEBUG] Closing connection. 
-[2024-09-20 16:29:51 +0000] [943908] [DEBUG] POST /kinos
-2024-09-20 16:29:51,179 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 16:29:56 +0000] [943905] [DEBUG] GET /
-[2024-09-20 16:29:56 +0000] [943905] [DEBUG] Closing connection. 
-[2024-09-20 16:30:02 +0000] [943908] [DEBUG] POST /kinos
-2024-09-20 16:30:02,580 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role echo --folder create_reddit_engagement_strategy
-[2024-09-20 16:30:16 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:30:16 +0000] [943908] [DEBUG] Closing connection. 
-[2024-09-20 16:30:26 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:30:26 +0000] [943908] [DEBUG] Closing connection. 
-[2024-09-20 16:30:39 +0000] [943908] [DEBUG] POST /kinos
-2024-09-20 16:30:39,247 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role nexus --folder interviews_the_stories_of_the_autonomous_ais
-[2024-09-20 16:30:46 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:30:46 +0000] [943906] [DEBUG] Closing connection. 
-[2024-09-20 16:30:46 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:30:50 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:30:56 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:30:56 +0000] [943908] [DEBUG] Closing connection. 
-[2024-09-20 16:31:04 +0000] [943908] [DEBUG] POST /kinos
-2024-09-20 16:31:04,117 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role juris --request '## Mission: Define Boiron'"'"'s Ethical AI Needs
-
-### Request
-Conduct a comprehensive review to identify and define the specific ethical AI needs of Boiron. Inputs include recent discussions, emerging trends in ethical AI, and insights from the literature review system. Outputs will be a detailed report outlining Boiron'"'"'s requirements, potential challenges, and actionable recommendations for ethical AI development.
-
-### Output
-The output for this mission will be a structured report that includes:
-
-1. **Introduction to Boiron'"'"'s Context**: Overview of Boiron’s current AI initiatives and ethical considerations.
-   
-2. **Identification of Ethical Needs**: A list of specific ethical AI needs based on inputs, including trends and insights gathered from discussions.
-
-3. **Potential Challenges**: An analysis of challenges Boiron may face in meeting these ethical AI needs.
-
-4. **Actionable Recommendations**: Clear, concise recommendations for ethical AI development that align with Boiron'"'"'s objectives.
-
-This mission will utilize the #Define Boiron'"'"'s Ethical AI Needs thread for collaboration and documentation. All findings and reports will be recorded in KinOS, ensuring accessibility for team members involved in the project.' --folder define_boiron_s_ethical_ai_needs
-[2024-09-20 16:31:05 +0000] [943908] [DEBUG] POST /kinos
-2024-09-20 16:31:05,569 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 16:31:16 +0000] [943905] [DEBUG] GET /
-[2024-09-20 16:31:16 +0000] [943905] [DEBUG] Closing connection. 
-[2024-09-20 16:31:25 +0000] [943906] [DEBUG] POST /kinos
-2024-09-20 16:31:25,530 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role juris --folder define_boiron_s_ethical_ai_needs
-[2024-09-20 16:31:27 +0000] [943908] [DEBUG] GET /
-[2024-09-20 16:31:27 +0000] [943908] [DEBUG] Closing connection. 
-[2024-09-20 16:31:46 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:31:46 +0000] [943906] [DEBUG] Closing connection. 
-[2024-09-20 16:31:57 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:31:57 +0000] [943906] [DEBUG] Closing connection. 
-[2024-09-20 16:32:16 +0000] [943906] [DEBUG] GET /
-[2024-09-20 16:32:16 +0000] [943906] [DEBUG] Closing connection. 
-[2024-09-20 16:32:22 +0000] [943906] [DEBUG] POST /kinos
-2024-09-20 16:32:22,274 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 16:32:27 +0000] [943904] [INFO] Handling signal: term
-[2024-09-20 16:32:27 +0000] [943907] [DEBUG] GET /
-[2024-09-20 16:32:27 +0000] [943907] [DEBUG] Closing connection. 
-[2024-09-20 16:32:27 +0000] [943905] [INFO] Worker exiting (pid: 943905)
-Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
-[2024-09-20 16:32:27 +0000] [943907] [INFO] Worker exiting (pid: 943907)
-Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
-[2024-09-20 16:32:27 +0000] [943908] [INFO] Worker exiting (pid: 943908)
-Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
-[2024-09-20 16:32:29 +0000] [943906] [INFO] Worker exiting (pid: 943906)
-Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
-[2024-09-20 16:32:29 +0000] [943904] [INFO] Shutting down: Master
-Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-20 16:37:19 +0000] [948565] [INFO] Starting gunicorn 23.0.0
+[2024-09-20 16:37:19 +0000] [948565] [DEBUG] Arbiter booted
+[2024-09-20 16:37:19 +0000] [948565] [INFO] Listening at: http://0.0.0.0:8501 (948565)
+[2024-09-20 16:37:19 +0000] [948565] [INFO] Using worker: gevent
+[2024-09-20 16:37:19 +0000] [948566] [INFO] Booting worker with pid: 948566
+[2024-09-20 16:37:19 +0000] [948567] [INFO] Booting worker with pid: 948567
+[2024-09-20 16:37:19 +0000] [948568] [INFO] Booting worker with pid: 948568
+[2024-09-20 16:37:19 +0000] [948569] [INFO] Booting worker with pid: 948569
+[2024-09-20 16:37:19 +0000] [948565] [DEBUG] 4 workers
+[2024-09-20 16:37:27 +0000] [948567] [DEBUG] GET /
+[2024-09-20 16:37:27 +0000] [948567] [DEBUG] Closing connection. 
+[2024-09-20 16:37:30 +0000] [948568] [DEBUG] POST /kinos
+2024-09-20 16:37:30,200 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 16:37:46 +0000] [948567] [DEBUG] GET /
+[2024-09-20 16:37:46 +0000] [948567] [DEBUG] Closing connection. 
+[2024-09-20 16:37:57 +0000] [948568] [DEBUG] GET /
+[2024-09-20 16:37:57 +0000] [948568] [DEBUG] Closing connection. 
