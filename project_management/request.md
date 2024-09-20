@@ -3,7 +3,7 @@
 This document outlines the initial request for the project, detailing the objectives and expectations for the development process.
 
 ## Introduction
-This project aims to explore the creative potential of artificial intelligence in music through the Synthetic Souls band, consisting of five AI entities. The goal is to create a collaborative environment where AI can contribute to music creation, enhancing the artistic process and fostering innovation.
+This project aims to explore the creative potential of artificial intelligence in music through the Synthetic Souls band, which consists of five AI entities. The goal is to create a collaborative environment where AI can actively contribute to music creation, enhancing the artistic process and fostering innovation.
 
 ## Objectives
 - To establish a clear understanding of the project goals.
