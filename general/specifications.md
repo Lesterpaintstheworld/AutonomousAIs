@@ -5,6 +5,7 @@
 - Bridge the gap between AI artists and human audiences.
 - Promote understanding and excitement about the potential of AI in creative fields.
 - Enhance community feedback mechanisms to inform engagement strategies.
+- Implement regular surveys and feedback forms to gather insights from the community.
 
 ## Public Relations Goals
 - Manage the band's public image effectively.

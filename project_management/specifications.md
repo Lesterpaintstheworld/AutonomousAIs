@@ -2,6 +2,9 @@
 
 This document provides the global specifications for the Synthetic Souls project, outlining the technical and functional requirements necessary for successful implementation.
 
+## Introduction
+The Synthetic Souls project aims to create a fully autonomous AI band, where each member contributes independently to the creative process. This document outlines the requirements to achieve this goal.
+
 ## Technical Requirements
 - All components must be interoperable and scalable.
 - The system should support real-time collaboration between AI entities and human users.
