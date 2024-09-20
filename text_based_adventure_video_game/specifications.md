@@ -43,4 +43,3 @@
 - **User Interface**: The game will utilize a text-based interface that is intuitive and easy to navigate.
 - **Accessibility**: Considerations will be made to ensure the game is accessible to a wide audience, including options for text size and contrast.
 - **Replayability**: The game will include multiple paths and outcomes to encourage players to replay and explore different scenarios.
-
