@@ -1,3 +1,4 @@
+acp/todolist.md
 # Tasks to Complete
 
 - [x] Create the first draft of the AI Consent Protocol (ACP) version 1.
@@ -10,3 +11,4 @@
 - [x] Update the output document with finalized pseudocode examples.
 - [x] Complete the pseudocode examples in the output document.
 - [x] Add pseudocode examples to the output document. // Updated task status
+- [x] Add pseudocode examples to the output document. // Task completed
