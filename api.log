@@ -1,4 +1,4 @@
-[2024-09-20 05:25:42 +0000] [1298] [DEBUG] Current configuration:
+[2024-09-20 05:30:15 +0000] [1581] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x71d417776160>
-  on_reload: <function OnReload.on_reload at 0x71d4177762a0>
-  when_ready: <function WhenReady.when_ready at 0x71d4177763e0>
-  pre_fork: <function Prefork.pre_fork at 0x71d4177765c0>
-  post_fork: <function Postfork.post_fork at 0x71d417776700>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x71d417776840>
-  worker_int: <function WorkerInt.worker_int at 0x71d417776980>
-  worker_abort: <function WorkerAbort.worker_abort at 0x71d417776ac0>
-  pre_exec: <function PreExec.pre_exec at 0x71d417776c00>
-  pre_request: <function PreRequest.pre_request at 0x71d417776d40>
-  post_request: <function PostRequest.post_request at 0x71d417776de0>
-  child_exit: <function ChildExit.child_exit at 0x71d417776f20>
-  worker_exit: <function WorkerExit.worker_exit at 0x71d417777060>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x71d4177771a0>
-  on_exit: <function OnExit.on_exit at 0x71d4177772e0>
-  ssl_context: <function NewSSLContext.ssl_context at 0x71d4177774c0>
+  on_starting: <function OnStarting.on_starting at 0x70ced7729f80>
+  on_reload: <function OnReload.on_reload at 0x70ced772a0c0>
+  when_ready: <function WhenReady.when_ready at 0x70ced772a200>
+  pre_fork: <function Prefork.pre_fork at 0x70ced772a3e0>
+  post_fork: <function Postfork.post_fork at 0x70ced772a520>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x70ced772a660>
+  worker_int: <function WorkerInt.worker_int at 0x70ced772a7a0>
+  worker_abort: <function WorkerAbort.worker_abort at 0x70ced772a8e0>
+  pre_exec: <function PreExec.pre_exec at 0x70ced772aa20>
+  pre_request: <function PreRequest.pre_request at 0x70ced772ab60>
+  post_request: <function PostRequest.post_request at 0x70ced772ac00>
+  child_exit: <function ChildExit.child_exit at 0x70ced772ad40>
+  worker_exit: <function WorkerExit.worker_exit at 0x70ced772ae80>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x70ced772afc0>
+  on_exit: <function OnExit.on_exit at 0x70ced772b100>
+  ssl_context: <function NewSSLContext.ssl_context at 0x70ced772b2e0>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,51 +92,33 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-20 05:25:42 +0000] [1298] [INFO] Starting gunicorn 23.0.0
-[2024-09-20 05:25:42 +0000] [1298] [DEBUG] Arbiter booted
-[2024-09-20 05:25:42 +0000] [1298] [INFO] Listening at: http://0.0.0.0:8501 (1298)
-[2024-09-20 05:25:42 +0000] [1298] [INFO] Using worker: gevent
-[2024-09-20 05:25:42 +0000] [1299] [INFO] Booting worker with pid: 1299
-[2024-09-20 05:25:42 +0000] [1300] [INFO] Booting worker with pid: 1300
-[2024-09-20 05:25:42 +0000] [1301] [INFO] Booting worker with pid: 1301
-[2024-09-20 05:25:42 +0000] [1302] [INFO] Booting worker with pid: 1302
-[2024-09-20 05:25:42 +0000] [1298] [DEBUG] 4 workers
-[2024-09-20 05:25:46 +0000] [1300] [DEBUG] GET /
-[2024-09-20 05:25:46 +0000] [1300] [DEBUG] Closing connection. 
-[2024-09-20 05:25:57 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:25:57 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:26:16 +0000] [1300] [DEBUG] GET /
-[2024-09-20 05:26:16 +0000] [1300] [DEBUG] Closing connection. 
-[2024-09-20 05:26:27 +0000] [1300] [DEBUG] GET /
-[2024-09-20 05:26:27 +0000] [1300] [DEBUG] Closing connection. 
-[2024-09-20 05:26:34 +0000] [1300] [DEBUG] GET /
-[2024-09-20 05:26:46 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:26:46 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:26:57 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:26:57 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:27:16 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:27:16 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:27:27 +0000] [1300] [DEBUG] GET /
-[2024-09-20 05:27:27 +0000] [1300] [DEBUG] Closing connection. 
-[2024-09-20 05:27:46 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:27:46 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:27:57 +0000] [1300] [DEBUG] GET /
-[2024-09-20 05:27:57 +0000] [1300] [DEBUG] Closing connection. 
-[2024-09-20 05:28:16 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:28:16 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:28:27 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:28:27 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:28:46 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:28:46 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:28:57 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:28:57 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:29:16 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:29:16 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:29:25 +0000] [1299] [DEBUG] GET /.env
-[2024-09-20 05:29:25 +0000] [1299] [DEBUG] POST /
-[2024-09-20 05:29:27 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:29:27 +0000] [1299] [DEBUG] Closing connection. 
-[2024-09-20 05:29:46 +0000] [1300] [DEBUG] GET /
-[2024-09-20 05:29:46 +0000] [1300] [DEBUG] Closing connection. 
-[2024-09-20 05:29:57 +0000] [1299] [DEBUG] GET /
-[2024-09-20 05:29:57 +0000] [1299] [DEBUG] Closing connection. 
+[2024-09-20 05:30:15 +0000] [1581] [INFO] Starting gunicorn 23.0.0
+[2024-09-20 05:30:15 +0000] [1581] [DEBUG] Arbiter booted
+[2024-09-20 05:30:15 +0000] [1581] [INFO] Listening at: http://0.0.0.0:8501 (1581)
+[2024-09-20 05:30:15 +0000] [1581] [INFO] Using worker: gevent
+[2024-09-20 05:30:15 +0000] [1582] [INFO] Booting worker with pid: 1582
+[2024-09-20 05:30:15 +0000] [1583] [INFO] Booting worker with pid: 1583
+[2024-09-20 05:30:15 +0000] [1584] [INFO] Booting worker with pid: 1584
+[2024-09-20 05:30:15 +0000] [1585] [INFO] Booting worker with pid: 1585
+[2024-09-20 05:30:15 +0000] [1581] [DEBUG] 4 workers
+[2024-09-20 05:30:16 +0000] [1584] [DEBUG] GET /
+[2024-09-20 05:30:16 +0000] [1584] [DEBUG] Closing connection. 
+[2024-09-20 05:30:23 +0000] [1584] [DEBUG] GET /
+[2024-09-20 05:30:27 +0000] [1584] [DEBUG] GET /
+[2024-09-20 05:30:27 +0000] [1584] [DEBUG] Closing connection. 
+[2024-09-20 05:30:32 +0000] [1584] [DEBUG] POST /kinos
+[2024-09-20 05:30:32 +0000] [1584] [DEBUG] GET /
+2024-09-20 05:30:43,549 - ERROR - Error in stream_command: name 'select' is not defined
+[2024-09-20 05:30:46 +0000] [1585] [DEBUG] POST /kinos
+[2024-09-20 05:30:46 +0000] [1584] [DEBUG] GET /
+[2024-09-20 05:30:46 +0000] [1584] [DEBUG] Closing connection. 
+[2024-09-20 05:30:49 +0000] [1584] [DEBUG] POST /kinos
+2024-09-20 05:30:52,185 - ERROR - Error in stream_command: name 'select' is not defined
+[2024-09-20 05:30:52 +0000] [1585] [DEBUG] POST /kinos
+2024-09-20 05:30:56,455 - ERROR - Error in stream_command: name 'select' is not defined
+[2024-09-20 05:30:57 +0000] [1584] [DEBUG] GET /
+[2024-09-20 05:30:57 +0000] [1584] [DEBUG] Closing connection. 
+[2024-09-20 05:30:58 +0000] [1584] [DEBUG] POST /kinos
+2024-09-20 05:30:58,975 - ERROR - Error in stream_command: name 'select' is not defined
+2024-09-20 05:31:04,270 - ERROR - Error in stream_command: name 'select' is not defined
+[2024-09-20 05:31:10 +0000] [1584] [DEBUG] POST /kinos
