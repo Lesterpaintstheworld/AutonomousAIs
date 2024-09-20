@@ -3,4 +3,5 @@
 - [x] Confirm task completion and update task status.
 - [x] Update task status in the todolist.
 - [x] Update greeting in request and output files to "Hey there!".
-
+- [x] Update task status in the todolist.
+- [x] All tasks completed.
