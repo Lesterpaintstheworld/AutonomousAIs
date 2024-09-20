@@ -10,4 +10,4 @@ We are seeking feedback on the proposed community engagement strategies and virt
 4. Do you have any concerns or suggestions regarding the implementation of these strategies?
 
 ## Submission
-Please provide your feedback by [insert deadline here]. Your input is invaluable in shaping our community initiatives.
+Please provide your feedback by May 15, 2023. Your input is invaluable in shaping our community initiatives.
