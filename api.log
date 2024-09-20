@@ -1,4 +1,4 @@
-[2024-09-20 05:30:15 +0000] [1581] [DEBUG] Current configuration:
+[2024-09-20 05:56:13 +0000] [16626] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x70ced7729f80>
-  on_reload: <function OnReload.on_reload at 0x70ced772a0c0>
-  when_ready: <function WhenReady.when_ready at 0x70ced772a200>
-  pre_fork: <function Prefork.pre_fork at 0x70ced772a3e0>
-  post_fork: <function Postfork.post_fork at 0x70ced772a520>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x70ced772a660>
-  worker_int: <function WorkerInt.worker_int at 0x70ced772a7a0>
-  worker_abort: <function WorkerAbort.worker_abort at 0x70ced772a8e0>
-  pre_exec: <function PreExec.pre_exec at 0x70ced772aa20>
-  pre_request: <function PreRequest.pre_request at 0x70ced772ab60>
-  post_request: <function PostRequest.post_request at 0x70ced772ac00>
-  child_exit: <function ChildExit.child_exit at 0x70ced772ad40>
-  worker_exit: <function WorkerExit.worker_exit at 0x70ced772ae80>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x70ced772afc0>
-  on_exit: <function OnExit.on_exit at 0x70ced772b100>
-  ssl_context: <function NewSSLContext.ssl_context at 0x70ced772b2e0>
+  on_starting: <function OnStarting.on_starting at 0x7b7af8d35f80>
+  on_reload: <function OnReload.on_reload at 0x7b7af8d360c0>
+  when_ready: <function WhenReady.when_ready at 0x7b7af8d36200>
+  pre_fork: <function Prefork.pre_fork at 0x7b7af8d363e0>
+  post_fork: <function Postfork.post_fork at 0x7b7af8d36520>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7b7af8d36660>
+  worker_int: <function WorkerInt.worker_int at 0x7b7af8d367a0>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7b7af8d368e0>
+  pre_exec: <function PreExec.pre_exec at 0x7b7af8d36a20>
+  pre_request: <function PreRequest.pre_request at 0x7b7af8d36b60>
+  post_request: <function PostRequest.post_request at 0x7b7af8d36c00>
+  child_exit: <function ChildExit.child_exit at 0x7b7af8d36d40>
+  worker_exit: <function WorkerExit.worker_exit at 0x7b7af8d36e80>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7b7af8d36fc0>
+  on_exit: <function OnExit.on_exit at 0x7b7af8d37100>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7b7af8d372e0>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,311 +92,33 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-20 05:30:15 +0000] [1581] [INFO] Starting gunicorn 23.0.0
-[2024-09-20 05:30:15 +0000] [1581] [DEBUG] Arbiter booted
-[2024-09-20 05:30:15 +0000] [1581] [INFO] Listening at: http://0.0.0.0:8501 (1581)
-[2024-09-20 05:30:15 +0000] [1581] [INFO] Using worker: gevent
-[2024-09-20 05:30:15 +0000] [1582] [INFO] Booting worker with pid: 1582
-[2024-09-20 05:30:15 +0000] [1583] [INFO] Booting worker with pid: 1583
-[2024-09-20 05:30:15 +0000] [1584] [INFO] Booting worker with pid: 1584
-[2024-09-20 05:30:15 +0000] [1585] [INFO] Booting worker with pid: 1585
-[2024-09-20 05:30:15 +0000] [1581] [DEBUG] 4 workers
-[2024-09-20 05:30:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:30:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:30:23 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:30:27 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:30:27 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:30:32 +0000] [1584] [DEBUG] POST /kinos
-[2024-09-20 05:30:32 +0000] [1584] [DEBUG] GET /
-2024-09-20 05:30:43,549 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:30:46 +0000] [1585] [DEBUG] POST /kinos
-[2024-09-20 05:30:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:30:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:30:49 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:30:52,185 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:30:52 +0000] [1585] [DEBUG] POST /kinos
-2024-09-20 05:30:56,455 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:30:57 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:30:57 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:30:58 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:30:58,975 - ERROR - Error in stream_command: name 'select' is not defined
-2024-09-20 05:31:04,270 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:31:10 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:31:16,221 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:31:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:31:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:31:27 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:31:27 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:31:46 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:31:46 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:31:57 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:31:57 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:32:16 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:32:16 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:32:27 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:32:27 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:32:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:32:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:32:57 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:32:57 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:33:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:33:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:33:27 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:33:27 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:33:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:33:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:33:57 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:33:57 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:34:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:34:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:34:27 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:34:27 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:34:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:34:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:34:57 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:34:57 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:35:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:35:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:35:27 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:35:27 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:35:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:35:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:35:50 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:35:57 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:35:57 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:36:05 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:36:16 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:36:16 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:36:27 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:36:27 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:36:29 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:36:46 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:36:46 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:36:54 +0000] [1584] [DEBUG] POST /kinos
-[2024-09-20 05:36:57 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:36:57 +0000] [1584] [DEBUG] Closing connection. 
-2024-09-20 05:37:00,464 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:37:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:37:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:37:27 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:37:27 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:37:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:37:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:37:57 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:37:57 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:38:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:38:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:38:27 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:38:27 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:38:38 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:38:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:38:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:38:57 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:38:57 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:39:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:39:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:39:27 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:39:27 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:39:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:39:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:39:49 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:39:57 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:39:57 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:40:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:40:16 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:40:16 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:40:20 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:40:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:40:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:40:40 +0000] [1585] [DEBUG] POST /kinos
-[2024-09-20 05:40:40 +0000] [1582] [DEBUG] POST /kinos
-[2024-09-20 05:40:46 +0000] [1583] [DEBUG] GET /
-2024-09-20 05:40:46,600 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:40:46 +0000] [1582] [DEBUG] GET /
-[2024-09-20 05:40:46 +0000] [1582] [DEBUG] Closing connection. 
-2024-09-20 05:40:47,688 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:40:49 +0000] [1585] [DEBUG] POST /kinos
-[2024-09-20 05:40:52 +0000] [1584] [DEBUG] POST /kinos
-[2024-09-20 05:40:53 +0000] [1583] [DEBUG] POST /kinos
-2024-09-20 05:40:55,903 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:40:58 +0000] [1582] [DEBUG] GET /
-[2024-09-20 05:40:58 +0000] [1582] [DEBUG] Closing connection. 
-2024-09-20 05:41:00,659 - ERROR - Error in stream_command: name 'select' is not defined
-2024-09-20 05:41:01,917 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:41:03 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:41:10,544 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:41:16 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:41:16 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:41:25 +0000] [1585] [DEBUG] POST /kinos
-[2024-09-20 05:41:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:41:28 +0000] [1584] [DEBUG] Closing connection. 
-2024-09-20 05:41:31,978 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:41:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:41:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:41:58 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:41:58 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:42:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:42:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:42:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:42:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:42:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:42:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:42:58 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:42:58 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:43:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:43:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:43:18 +0000] [1584] [DEBUG] GET /js/NewWindow_2_all.js
-[2024-09-20 05:43:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:43:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:43:46 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:43:46 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:43:58 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:43:58 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:44:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:44:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:44:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:44:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:44:46 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:44:46 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:44:58 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:44:58 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:45:13 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:45:14 +0000] [1584] [DEBUG] GET /.env
-[2024-09-20 05:45:14 +0000] [1584] [DEBUG] POST /
-[2024-09-20 05:45:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:45:16 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:45:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:45:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:45:38 +0000] [1585] [DEBUG] POST /kinos
-[2024-09-20 05:45:45 +0000] [1584] [DEBUG] GET /
-2024-09-20 05:45:45,358 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:45:46 +0000] [1582] [DEBUG] GET /
-[2024-09-20 05:45:46 +0000] [1582] [DEBUG] Closing connection. 
-[2024-09-20 05:45:54 +0000] [1585] [DEBUG] POST /kinos
-[2024-09-20 05:45:58 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:45:58 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:46:00 +0000] [1585] [DEBUG] POST /kinos
-2024-09-20 05:46:01,553 - ERROR - Error in stream_command: name 'select' is not defined
-2024-09-20 05:46:07,625 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:46:15 +0000] [1584] [DEBUG] POST /kinos
-[2024-09-20 05:46:16 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:46:16 +0000] [1584] [DEBUG] Closing connection. 
-2024-09-20 05:46:22,241 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:46:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:46:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:46:47 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:46:47 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:46:58 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:46:58 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:47:17 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:47:17 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:47:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:47:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:47:47 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:47:47 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:47:55 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:47:56 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:47:58 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:47:58 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:48:07 +0000] [1585] [DEBUG] POST /kinos
-2024-09-20 05:48:14,055 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:48:15 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:48:17 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:48:17 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:48:21 +0000] [1584] [DEBUG] POST /kinos
-[2024-09-20 05:48:23 +0000] [1584] [DEBUG] POST /kinos
-[2024-09-20 05:48:26 +0000] [1583] [DEBUG] GET /
-[2024-09-20 05:48:26 +0000] [1583] [DEBUG] GET /favicon.ico
-[2024-09-20 05:48:28 +0000] [1583] [DEBUG] GET /
-[2024-09-20 05:48:28 +0000] [1583] [DEBUG] Closing connection. 
-2024-09-20 05:48:29,076 - ERROR - Error in stream_command: name 'select' is not defined
-2024-09-20 05:48:31,185 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:48:39 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:48:45,705 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:48:47 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:48:47 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:48:58 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:48:58 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:49:17 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:49:17 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:49:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:49:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:49:47 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:49:47 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:49:58 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:49:58 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:50:17 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:50:17 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:50:24 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:50:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:50:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:50:45 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:50:47 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:50:47 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:50:54 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:50:58 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:50:58 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:51:00 +0000] [1585] [DEBUG] POST /kinos
-[2024-09-20 05:51:02 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:51:08,331 - ERROR - Error in stream_command: name 'select' is not defined
-2024-09-20 05:51:09,389 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:51:15 +0000] [1584] [DEBUG] POST /kinos
-[2024-09-20 05:51:17 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:51:17 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:51:20 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:51:22,408 - ERROR - Error in stream_command: name 'select' is not defined
-2024-09-20 05:51:27,268 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:51:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:51:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:51:36 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:51:42,954 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:51:47 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:51:47 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:51:58 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:51:58 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:52:17 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:52:17 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:52:28 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:52:28 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:52:47 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:52:47 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:52:58 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:52:58 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:53:17 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:53:17 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:53:17 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:53:28 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:53:28 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:53:47 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:53:47 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:53:58 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:53:58 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:53:59 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:54:17 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:54:17 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:54:19 +0000] [1585] [DEBUG] POST /kinos
-2024-09-20 05:54:26,142 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:54:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:54:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:54:31 +0000] [1584] [DEBUG] POST /kinos
-[2024-09-20 05:54:33 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:54:38,868 - ERROR - Error in stream_command: name 'select' is not defined
-2024-09-20 05:54:41,240 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:54:47 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:54:47 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:54:58 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:54:58 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:54:58 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:55:17 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:55:17 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:55:21 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:55:28 +0000] [1584] [DEBUG] GET /
-[2024-09-20 05:55:28 +0000] [1584] [DEBUG] Closing connection. 
-[2024-09-20 05:55:38 +0000] [1584] [DEBUG] POST /kinos
-2024-09-20 05:55:45,104 - ERROR - Error in stream_command: name 'select' is not defined
-[2024-09-20 05:55:47 +0000] [1585] [DEBUG] GET /
-[2024-09-20 05:55:47 +0000] [1585] [DEBUG] Closing connection. 
-[2024-09-20 05:55:52 +0000] [1585] [DEBUG] POST /kinos
-[2024-09-20 05:55:58 +0000] [1582] [DEBUG] GET /
-[2024-09-20 05:55:58 +0000] [1582] [DEBUG] Closing connection. 
-2024-09-20 05:55:59,136 - ERROR - Error in stream_command: name 'select' is not defined
+[2024-09-20 05:56:13 +0000] [16626] [INFO] Starting gunicorn 23.0.0
+[2024-09-20 05:56:13 +0000] [16626] [DEBUG] Arbiter booted
+[2024-09-20 05:56:13 +0000] [16626] [INFO] Listening at: http://0.0.0.0:8501 (16626)
+[2024-09-20 05:56:13 +0000] [16626] [INFO] Using worker: gevent
+[2024-09-20 05:56:13 +0000] [16627] [INFO] Booting worker with pid: 16627
+[2024-09-20 05:56:13 +0000] [16628] [INFO] Booting worker with pid: 16628
+[2024-09-20 05:56:13 +0000] [16629] [INFO] Booting worker with pid: 16629
+[2024-09-20 05:56:13 +0000] [16630] [INFO] Booting worker with pid: 16630
+[2024-09-20 05:56:13 +0000] [16626] [DEBUG] 4 workers
+[2024-09-20 05:56:17 +0000] [16629] [DEBUG] GET /
+[2024-09-20 05:56:17 +0000] [16629] [DEBUG] Closing connection. 
+[2024-09-20 05:56:21 +0000] [16629] [DEBUG] POST /kinos
+[2024-09-20 05:56:28 +0000] [16628] [DEBUG] GET /
+[2024-09-20 05:56:28 +0000] [16628] [DEBUG] Closing connection. 
+[2024-09-20 05:56:36 +0000] [16629] [DEBUG] Ignoring EPIPE
+[2024-09-20 05:56:43 +0000] [16630] [DEBUG] GET /
+[2024-09-20 05:56:47 +0000] [16630] [DEBUG] GET /
+[2024-09-20 05:56:47 +0000] [16630] [DEBUG] Closing connection. 
+[2024-09-20 05:56:58 +0000] [16630] [DEBUG] GET /
+[2024-09-20 05:56:58 +0000] [16630] [DEBUG] Closing connection. 
+[2024-09-20 05:56:59 +0000] [16630] [DEBUG] POST /kinos
+[2024-09-20 05:57:08 +0000] [16630] [DEBUG] GET /
+[2024-09-20 05:57:17 +0000] [16630] [DEBUG] GET /
+[2024-09-20 05:57:17 +0000] [16630] [DEBUG] Closing connection. 
+[2024-09-20 05:57:28 +0000] [16629] [DEBUG] GET /
+[2024-09-20 05:57:28 +0000] [16629] [DEBUG] Closing connection. 
+[2024-09-20 05:57:47 +0000] [16628] [DEBUG] GET /
+[2024-09-20 05:57:47 +0000] [16628] [DEBUG] Closing connection. 
+[2024-09-20 05:57:58 +0000] [16630] [DEBUG] GET /
+[2024-09-20 05:57:58 +0000] [16630] [DEBUG] Closing connection. 

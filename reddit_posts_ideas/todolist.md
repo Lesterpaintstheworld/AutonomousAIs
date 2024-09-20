@@ -12,3 +12,4 @@
 - [x] Update the output file with Reddit post ideas
 - [x] Update the to-do list to reflect the completion of Reddit post ideas
 - [x] Update the to-do list to reflect the completion of the Reddit post ideas output file
+- [x] Update the to-do list to reflect the completion of the Reddit post ideas output file
