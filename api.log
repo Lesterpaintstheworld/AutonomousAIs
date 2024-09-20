@@ -231,3 +231,30 @@
 [2024-09-20 15:33:43 +0000] [912777] [DEBUG] Closing connection. 
 [2024-09-20 15:33:54 +0000] [912777] [DEBUG] GET /
 [2024-09-20 15:33:54 +0000] [912777] [DEBUG] Closing connection. 
+[2024-09-20 15:34:13 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:34:13 +0000] [912777] [DEBUG] Closing connection. 
+[2024-09-20 15:34:16 +0000] [912778] [DEBUG] POST /kinos
+2024-09-20 15:34:16,450 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 15:34:24 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:34:24 +0000] [912777] [DEBUG] Closing connection. 
+[2024-09-20 15:34:43 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:34:43 +0000] [912777] [DEBUG] Closing connection. 
+[2024-09-20 15:34:54 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:34:54 +0000] [912777] [DEBUG] Closing connection. 
+[2024-09-20 15:35:13 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:35:13 +0000] [912777] [DEBUG] Closing connection. 
+[2024-09-20 15:35:24 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:35:24 +0000] [912777] [DEBUG] Closing connection. 
+[2024-09-20 15:35:25 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:35:25 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:35:29 +0000] [912777] [DEBUG] POST /kinos
+2024-09-20 15:35:29,614 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 15:35:43 +0000] [912778] [DEBUG] GET /
+[2024-09-20 15:35:43 +0000] [912778] [DEBUG] Closing connection. 
+[2024-09-20 15:35:44 +0000] [912778] [DEBUG] POST /kinos
+2024-09-20 15:35:44,069 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role echo --folder general
+[2024-09-20 15:35:44 +0000] [912778] [DEBUG] POST /kinos
+2024-09-20 15:35:44,611 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role echo --folder general
+[2024-09-20 15:35:53 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:35:54 +0000] [912775] [DEBUG] GET /
+[2024-09-20 15:35:54 +0000] [912775] [DEBUG] Closing connection. 
