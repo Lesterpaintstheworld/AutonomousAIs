@@ -1895,3 +1895,24 @@
 [2024-09-20 14:31:40 +0000] [907205] [DEBUG] Closing connection. 
 [2024-09-20 14:31:51 +0000] [907205] [DEBUG] GET /
 [2024-09-20 14:31:51 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 14:32:10 +0000] [907204] [DEBUG] GET /
+[2024-09-20 14:32:10 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 14:32:21 +0000] [907204] [DEBUG] GET /
+[2024-09-20 14:32:21 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 14:32:23 +0000] [907204] [DEBUG] POST /kinos
+2024-09-20 14:32:23,776 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 14:32:40 +0000] [907205] [DEBUG] GET /
+[2024-09-20 14:32:40 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 14:32:51 +0000] [907204] [DEBUG] GET /
+[2024-09-20 14:32:51 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 14:33:10 +0000] [907204] [DEBUG] GET /
+[2024-09-20 14:33:10 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 14:33:12 +0000] [907204] [DEBUG] GET /.svn/wc.db
+[2024-09-20 14:33:21 +0000] [907204] [DEBUG] GET /
+[2024-09-20 14:33:21 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 14:33:24 +0000] [907204] [DEBUG] POST /kinos
+2024-09-20 14:33:24,219 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 14:33:40 +0000] [907204] [DEBUG] GET /
+[2024-09-20 14:33:40 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 14:33:51 +0000] [907205] [DEBUG] GET /
+[2024-09-20 14:33:51 +0000] [907205] [DEBUG] Closing connection. 
