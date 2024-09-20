@@ -1,0 +1,2 @@
+venv/lib/site-packages/tree_sitter_languages/languages.dll filter=lfs diff=lfs merge=lfs -text
+build/aider/aider.pkg filter=lfs diff=lfs merge=lfs -text

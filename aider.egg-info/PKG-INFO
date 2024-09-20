@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: aider
+Version: 0.1.0
+Requires-Dist: streamlit
+Requires-Dist: discord
+Requires-Dist: python-telegram-bot
+Requires-Dist: playwright
