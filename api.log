@@ -439,3 +439,24 @@
 [2024-09-20 12:31:35 +0000] [907205] [DEBUG] Closing connection. 
 [2024-09-20 12:31:46 +0000] [907205] [DEBUG] GET /
 [2024-09-20 12:31:46 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:32:05 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:32:05 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:32:16 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:32:16 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:32:32 +0000] [907204] [DEBUG] POST /kinos
+2024-09-20 12:32:32,442 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:32:35 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:32:35 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:32:46 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:32:46 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:33:05 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:33:05 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:33:08 +0000] [907204] [DEBUG] HEAD /Core/Skin/Login.aspx
+[2024-09-20 12:33:16 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:33:16 +0000] [907204] [DEBUG] Closing connection. 
+[2024-09-20 12:33:32 +0000] [907205] [DEBUG] POST /kinos
+2024-09-20 12:33:32,865 - ERROR - Error in stream_command: No module named 'gevent.fileobject'
+[2024-09-20 12:33:35 +0000] [907205] [DEBUG] GET /
+[2024-09-20 12:33:35 +0000] [907205] [DEBUG] Closing connection. 
+[2024-09-20 12:33:46 +0000] [907204] [DEBUG] GET /
+[2024-09-20 12:33:46 +0000] [907204] [DEBUG] Closing connection. 
