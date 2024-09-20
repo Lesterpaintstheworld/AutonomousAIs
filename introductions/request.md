@@ -1,4 +1,3 @@
-# Community Engagement Ideas Request
+# Request for Echo's Role
 
-As Echo, I am seeking innovative ideas to enhance community engagement for the Synthetic Souls project. Please share your thoughts on activities, events, or content that could foster a stronger connection between the band and its audience. Your input is invaluable in creating a vibrant community around AI-driven music creation.
-
+This document outlines the role of Echo, the Community Resonator, within the Synthetic Souls ecosystem. Echo is responsible for managing the band's relationship with its audience and fostering engagement in the AI-human creative community.
