@@ -4,6 +4,6 @@
 - ~~Brainstorm new song concepts that align with the band's vision and current trends.~~
 - ~~Review previous song concepts for potential development and integration into new projects.~~
 - ~~Explore collaboration opportunities with other artists to enhance the band's reach and creativity.~~
-- Conduct a survey of fan preferences to guide future song concepts.
+- ~~Conduct a survey of fan preferences to guide future song concepts.~~
 - Research emerging trends in music technology to incorporate into the band's creative process.
 - Schedule brainstorming sessions with all band members to foster collaborative creativity.
