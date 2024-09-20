@@ -159,3 +159,10 @@ if __name__ == "__main__":
 ## Player Feedback Collection
 - After the official release, players will be encouraged to provide feedback through a dedicated feedback form.
 - Feedback will be analyzed to identify areas for improvement and new features to implement in future updates.
+
+### Feedback Gathering Process
+- Create a feedback form using Google Forms or a similar tool.
+- Share the feedback form link with players through social media, forums, or in-game prompts.
+- Encourage players to provide detailed feedback on their gameplay experience, including any bugs encountered and suggestions for improvements.
+- Regularly review the feedback collected and prioritize changes based on player input.
+
