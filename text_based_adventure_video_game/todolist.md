@@ -7,4 +7,7 @@
    - Alpha version by Sept 20. (Completed)
    - Beta version with bug fixing by Sept 21. (Completed)
    - Official release by Sept 22. (Completed)
-4. **Resources**: Utilize Python; budget is $0, limited to command-line interface compatible with Windows. (Pending)
+4. **Resources**: Utilize Python; budget is $0, limited to command-line interface compatible with Windows. (Completed)
+5. **Specifications**: Fill out the specifications document for the game. (Completed)
+6. **Combat System**: Implement a basic combat system in the game. (Completed)
+

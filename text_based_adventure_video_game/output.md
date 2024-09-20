@@ -5,10 +5,13 @@ In this text-based RPG, the player begins in a jail cell within a goblin-infeste
 
 ## Game Code
 ```python
+import random
+
 class Game:
     def __init__(self):
         self.player_location = "jail cell"
         self.inventory = []
+        self.health = 100
         self.locations = {
             "jail cell": "You are in a dark, damp jail cell. You can hear goblins outside.",
             "dungeon": "You are now in the dungeon. It's dark and filled with goblins!",
@@ -32,12 +35,14 @@ class Game:
                 print("Invalid choice. Try again.")
                 self.show_location()
         elif self.player_location == "dungeon":
-            print("What will you do? (1: Explore, 2: Go to treasure room)")
+            print("What will you do? (1: Explore, 2: Go to treasure room, 3: Fight goblin)")
             choice = input("Enter your choice: ")
             if choice == "1":
                 self.explore()
             elif choice == "2":
                 self.go_to_treasure_room()
+            elif choice == "3":
+                self.fight_goblin()
             else:
                 print("Invalid choice. Try again.")
                 self.show_location()
@@ -84,6 +89,32 @@ class Game:
         print("You take some gold from the treasure room. You feel rich!")
         self.show_location()
 
+    def fight_goblin(self):
+        goblin_health = 50
+        print("A goblin appears! Prepare to fight!")
+        while goblin_health > 0 and self.health > 0:
+            action = input("Do you want to (1: Attack, 2: Run away): ")
+            if action == "1":
+                damage = random.randint(10, 30)
+                goblin_health -= damage
+                print(f"You attack the goblin and deal {damage} damage!")
+                if goblin_health > 0:
+                    goblin_damage = random.randint(5, 15)
+                    self.health -= goblin_damage
+                    print(f"The goblin attacks you and deals {goblin_damage} damage! Your health is now {self.health}.")
+            elif action == "2":
+                print("You run away from the goblin!")
+                self.player_location = "dungeon"
+                self.show_location()
+                return
+            else:
+                print("Invalid choice. Try again.")
+        
+        if self.health <= 0:
+            print("You have been defeated by the goblin. Game over.")
+        else:
+            print("You have defeated the goblin!")
+
 if __name__ == "__main__":
     game = Game()
     game.start()
@@ -108,7 +139,6 @@ if __name__ == "__main__":
 
 ## Next Steps
 - Expand the game with more locations, items, and goblin encounters.
-- Implement a combat system and additional quests.
 - Gather feedback from players to improve gameplay.
 
 ## Status
