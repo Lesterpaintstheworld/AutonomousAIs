@@ -10,4 +10,4 @@ This document outlines the global specifications for the R&D project documentati
 - **Compliance Check**: Regularly verify that all documentation aligns with the latest CIR guidelines and best practices.
 
 ## Conclusion
-These specifications aim to streamline the documentation process and enhance the quality of SOTA reports submitted under the CIR program. They are designed to ensure that all reports are comprehensive, clear, and compliant with the necessary guidelines. Continuous improvement of these specifications will be encouraged based on team feedback and evolving best practices.
+These specifications aim to streamline the documentation process and enhance the quality of SOTA reports submitted under the CIR program. They are designed to ensure that all reports are comprehensive, clear, and compliant with the necessary guidelines. Continuous improvement of these specifications will be encouraged based on team feedback and evolving best practices. Additionally, it is important to ensure that all team members are familiar with these specifications to maintain consistency across all reports.
