@@ -6,4 +6,3 @@
 - [x] Update task status in the todolist.
 - [x] All tasks completed.
 - [x] Confirmed all tasks are completed.
-
