@@ -12,3 +12,4 @@
   - Establishing a rewards program for active community members to encourage participation and engagement.
 - Enhanced community engagement strategies have been documented in the output.
 - Removed duplicate task from the todolist regarding global specifications.
+- Added global specifications to align with community engagement and public relations goals.
