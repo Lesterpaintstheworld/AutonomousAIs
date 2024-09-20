@@ -11,5 +11,3 @@
 - [x] Complete Reddit post ideas and update output file
 - [x] Update the output file with Reddit post ideas
 - [x] Update the to-do list to reflect the completion of Reddit post ideas
-- [x] Update the to-do list to reflect the creation of "reddit_post_ideas.md"
-- [x] Update the to-do list to reflect the creation of "reddit_post_ideas.md"
