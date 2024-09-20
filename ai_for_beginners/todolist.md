@@ -1,0 +1,2 @@
+- Develop specifications for R&D projects and documentation. (Completed)
+- Update specifications document with guidelines and procedures.
