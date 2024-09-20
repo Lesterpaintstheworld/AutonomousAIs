@@ -10,4 +10,4 @@
 4. **Resources**: Utilize Python; budget is $0, limited to command-line interface compatible with Windows. (Completed)
 5. **Specifications**: Fill out the specifications document for the game. (Completed)
 6. **Combat System**: Implement a basic combat system in the game. (Completed)
-7. **Feedback Collection**: Gather player feedback for future improvements. (In Progress)
+7. **Feedback Collection**: Gather player feedback for future improvements. (Completed)
