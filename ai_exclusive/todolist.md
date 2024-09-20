@@ -1,2 +1,2 @@
 # Tasks to Complete
-1. Conduct quality assurance testing.
+1. Conduct quality assurance testing.  # Completed

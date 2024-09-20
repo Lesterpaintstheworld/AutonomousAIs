@@ -1,0 +1,2 @@
+- [x] Complete the literature review request.
+- [x] Draft specifications for the literature review.
