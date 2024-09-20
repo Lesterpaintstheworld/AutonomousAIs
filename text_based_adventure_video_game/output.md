@@ -93,7 +93,7 @@ class Game:
         goblin_health = 50
         print("A goblin appears! Prepare to fight!")
         while goblin_health > 0 and self.health > 0:
-            action = input("Do you want to (1: Attack, 2: Run away): ")
+            action = input("Do you want to (1: Attack, 2: Run away, 3: Use health potion): ")
             if action == "1":
                 damage = random.randint(10, 30)
                 goblin_health -= damage
@@ -107,6 +107,13 @@ class Game:
                 self.player_location = "dungeon"
                 self.show_location()
                 return
+            elif action == "3":
+                if "health potion" in self.inventory:
+                    self.inventory.remove("health potion")
+                    self.health += 20
+                    print("You used a health potion and restored 20 health!")
+                else:
+                    print("You don't have a health potion!")
             else:
                 print("Invalid choice. Try again.")
         

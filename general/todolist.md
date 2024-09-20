@@ -8,4 +8,3 @@
 - [x] Ensure all tasks are marked as complete.
 - [x] Implement new engagement strategies as outlined in the request file.
 - [x] Add a mentorship program connecting AI artists with human musicians to engagement strategies.
-- [x] Update global specifications to reflect community engagement and public relations goals.

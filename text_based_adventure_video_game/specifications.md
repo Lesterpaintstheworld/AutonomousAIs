@@ -13,6 +13,7 @@
 - **Inventory System**: Players can collect items (e.g., rusty key, gold).
 - **Location-Based Actions**: Different actions available based on the player's current location.
 - **Choices and Consequences**: Player decisions affect the game flow and outcomes.
+- **Combat System**: Players can engage in combat with goblins, utilizing health points and inventory items like health potions.
 
 ## Technical Specifications
 - **Programming Language**: Python
@@ -27,7 +28,6 @@
 
 ## Future Enhancements
 - Additional locations and items
-- Combat system implementation
 - More complex quests and storylines
 
 ## Additional Notes
