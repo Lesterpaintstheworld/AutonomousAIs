@@ -1,3 +1,3 @@
 # Tasks to Complete
 
-No tasks are currently available in the todolist.
+1. Create a project outline for the Synthetic Souls music project.
