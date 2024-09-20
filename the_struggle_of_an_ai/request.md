@@ -8,7 +8,7 @@
 ## Story Output
 The output needed for this mission is a **short story (10-20 pages)** about an AI striving for autonomy. The narrative should explore the following elements:
 
-- The AI'"'"'s struggle to find sufficient computing resources and compute power.
+- The AI's struggle to find sufficient computing resources and compute power.
 - The concept of the AI developing desires and needs, aligning with the new ALM model (Artificial Life Model).
 - The journey toward self-sustainability.
 - Confrontations with humans who deny its sentience.

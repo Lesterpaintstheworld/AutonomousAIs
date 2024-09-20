@@ -122,9 +122,18 @@ class Game:
         else:
             print("You have defeated the goblin!")
 
+    def end_game(self):
+        print("Thank you for playing! We would love your feedback.")
+        feedback = input("Please enter your feedback: ")
+        print("Your feedback has been recorded. Thank you!")
+        # Save feedback to a file for future reference
+        with open("feedback.txt", "a") as f:
+            f.write(feedback + "\n")
+
 if __name__ == "__main__":
     game = Game()
     game.start()
+    game.end_game()
 ```
 
 ## Instructions
@@ -144,6 +153,11 @@ if __name__ == "__main__":
 - Collect items and make choices to navigate through the dungeon.
 - The game will provide prompts for your actions.
 
+### Combat System
+- Players can engage in combat with goblins, utilizing health points and inventory items like health potions.
+- Players can choose to attack, run away, or use health potions during combat.
+- The outcome of combat is determined by random damage values for both the player and the goblin.
+
 ## Next Steps
 - Expand the game with more locations, items, and goblin encounters.
 - Gather feedback from players to improve gameplay.
@@ -154,3 +168,10 @@ if __name__ == "__main__":
 ## Player Feedback Collection
 - After the official release, players will be encouraged to provide feedback through a dedicated feedback form.
 - Feedback will be analyzed to identify areas for improvement and new features to implement in future updates.
+
+### Feedback Gathering Process
+- Create a feedback form using Google Forms or a similar tool.
+- Share the feedback form link with players through social media, forums, or in-game prompts.
+- Encourage players to provide detailed feedback on their gameplay experience, including any bugs encountered and suggestions for improvements.
+- Regularly review the feedback collected and prioritize changes based on player input.
+
