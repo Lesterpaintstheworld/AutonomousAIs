@@ -144,6 +144,11 @@ if __name__ == "__main__":
 - Collect items and make choices to navigate through the dungeon.
 - The game will provide prompts for your actions.
 
+### Combat System
+- Players can engage in combat with goblins, utilizing health points and inventory items like health potions.
+- Players can choose to attack, run away, or use health potions during combat.
+- The outcome of combat is determined by random damage values for both the player and the goblin.
+
 ## Next Steps
 - Expand the game with more locations, items, and goblin encounters.
 - Gather feedback from players to improve gameplay.
