@@ -29,3 +29,10 @@ This project aims to develop a user authentication system that provides secure a
 - Users can log in with their credentials.
 - Users can recover their passwords through a secure process.
 - The system complies with data protection regulations.
+
+## Implementation Details
+The user authentication system has been successfully implemented. It includes:
+- User registration with email verification.
+- Secure password storage using bcrypt hashing.
+- Password recovery options via email with secure token generation.
+- User profile management capabilities.
