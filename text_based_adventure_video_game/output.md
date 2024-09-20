@@ -143,3 +143,7 @@ if __name__ == "__main__":
 
 ## Status
 - Official release: Completed on Sept 22.
+
+## Player Feedback Collection
+- After the official release, players will be encouraged to provide feedback through a dedicated feedback form.
+- Feedback will be analyzed to identify areas for improvement and new features to implement in future updates.
