@@ -297,3 +297,30 @@
 [2024-09-20 18:39:32 +0000] [987476] [DEBUG] Closing connection. 
 [2024-09-20 18:39:52 +0000] [987476] [DEBUG] GET /
 [2024-09-20 18:39:52 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 18:40:02 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:40:02 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:40:12 +0000] [987476] [DEBUG] GET /
+[2024-09-20 18:40:22 +0000] [987476] [DEBUG] GET /
+[2024-09-20 18:40:22 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 18:40:26 +0000] [987476] [DEBUG] POST /kinos
+2024-09-20 18:40:26,322 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 18:40:32 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:40:32 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:40:40 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:40:50 +0000] [987475] [DEBUG] POST /kinos
+2024-09-20 18:40:50,494 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role nova --folder reddit_posts_ideas
+[2024-09-20 18:40:52 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:40:52 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:41:02 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:41:02 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:41:13 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:41:22 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:41:22 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:41:29 +0000] [987475] [DEBUG] POST /kinos
+2024-09-20 18:41:29,823 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role echo --folder general
+[2024-09-20 18:41:32 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:41:32 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:41:39 +0000] [987475] [DEBUG] POST /kinos
+2024-09-20 18:41:39,905 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 18:41:52 +0000] [987474] [DEBUG] GET /
+[2024-09-20 18:41:52 +0000] [987474] [DEBUG] Closing connection. 
