@@ -51,4 +51,3 @@
 ## Testing and Quality Assurance
 - **Playtesting**: Conduct playtesting sessions to gather feedback on gameplay mechanics and difficulty.
 - **Bug Tracking**: Implement a system for tracking and resolving bugs reported by players.
-
