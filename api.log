@@ -1,4 +1,4 @@
-[2024-09-20 14:42:06 +0000] [909384] [DEBUG] Current configuration:
+[2024-09-20 14:51:41 +0000] [909515] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x7302add42ac0>
-  on_reload: <function OnReload.on_reload at 0x7302add42c00>
-  when_ready: <function WhenReady.when_ready at 0x7302add42d40>
-  pre_fork: <function Prefork.pre_fork at 0x7302add42f20>
-  post_fork: <function Postfork.post_fork at 0x7302add43060>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7302add431a0>
-  worker_int: <function WorkerInt.worker_int at 0x7302add432e0>
-  worker_abort: <function WorkerAbort.worker_abort at 0x7302add43420>
-  pre_exec: <function PreExec.pre_exec at 0x7302add43560>
-  pre_request: <function PreRequest.pre_request at 0x7302add436a0>
-  post_request: <function PostRequest.post_request at 0x7302add43740>
-  child_exit: <function ChildExit.child_exit at 0x7302add43880>
-  worker_exit: <function WorkerExit.worker_exit at 0x7302add439c0>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7302add43b00>
-  on_exit: <function OnExit.on_exit at 0x7302add43c40>
-  ssl_context: <function NewSSLContext.ssl_context at 0x7302add43e20>
+  on_starting: <function OnStarting.on_starting at 0x7dabe7032ac0>
+  on_reload: <function OnReload.on_reload at 0x7dabe7032c00>
+  when_ready: <function WhenReady.when_ready at 0x7dabe7032d40>
+  pre_fork: <function Prefork.pre_fork at 0x7dabe7032f20>
+  post_fork: <function Postfork.post_fork at 0x7dabe7033060>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7dabe70331a0>
+  worker_int: <function WorkerInt.worker_int at 0x7dabe70332e0>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7dabe7033420>
+  pre_exec: <function PreExec.pre_exec at 0x7dabe7033560>
+  pre_request: <function PreRequest.pre_request at 0x7dabe70336a0>
+  post_request: <function PostRequest.post_request at 0x7dabe7033740>
+  child_exit: <function ChildExit.child_exit at 0x7dabe7033880>
+  worker_exit: <function WorkerExit.worker_exit at 0x7dabe70339c0>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7dabe7033b00>
+  on_exit: <function OnExit.on_exit at 0x7dabe7033c40>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7dabe7033e20>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,89 +92,18 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-20 14:42:06 +0000] [909384] [INFO] Starting gunicorn 23.0.0
-[2024-09-20 14:42:06 +0000] [909384] [DEBUG] Arbiter booted
-[2024-09-20 14:42:06 +0000] [909384] [INFO] Listening at: http://0.0.0.0:8501 (909384)
-[2024-09-20 14:42:06 +0000] [909384] [INFO] Using worker: gevent
-[2024-09-20 14:42:06 +0000] [909385] [INFO] Booting worker with pid: 909385
-[2024-09-20 14:42:06 +0000] [909386] [INFO] Booting worker with pid: 909386
-[2024-09-20 14:42:06 +0000] [909387] [INFO] Booting worker with pid: 909387
-[2024-09-20 14:42:06 +0000] [909388] [INFO] Booting worker with pid: 909388
-[2024-09-20 14:42:06 +0000] [909384] [DEBUG] 4 workers
-[2024-09-20 14:42:11 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:42:11 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:42:22 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:42:22 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:42:28 +0000] [909386] [DEBUG] POST /kinos
-[2024-09-20 14:42:41 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:42:41 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:42:52 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:42:52 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:43:11 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:43:11 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:43:22 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:43:22 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:43:28 +0000] [909386] [DEBUG] POST /kinos
-[2024-09-20 14:43:41 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:43:41 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:43:52 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:43:52 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:44:11 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:44:11 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:44:22 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:44:22 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:44:29 +0000] [909386] [DEBUG] POST /kinos
-[2024-09-20 14:44:41 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:44:41 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:44:52 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:44:52 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:45:11 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:45:11 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:45:19 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:45:22 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:45:22 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:45:29 +0000] [909386] [DEBUG] POST /kinos
-[2024-09-20 14:45:41 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:45:41 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:45:52 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:45:52 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:45:53 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:46:06 +0000] [909386] [DEBUG] POST /kinos
-[2024-09-20 14:46:11 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:46:11 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:46:22 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:46:22 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:46:30 +0000] [909386] [DEBUG] POST /kinos
-[2024-09-20 14:46:41 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:46:41 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:46:52 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:46:52 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:47:11 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:47:11 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:47:22 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:47:22 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:47:30 +0000] [909386] [DEBUG] POST /kinos
-[2024-09-20 14:47:41 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:47:41 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:47:52 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:47:52 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:48:03 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:48:11 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:48:11 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:48:22 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:48:22 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:48:27 +0000] [909388] [DEBUG] POST /kinos
-[2024-09-20 14:48:31 +0000] [909386] [DEBUG] POST /kinos
-[2024-09-20 14:48:41 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:48:41 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:48:52 +0000] [909388] [DEBUG] GET /
-[2024-09-20 14:48:52 +0000] [909388] [DEBUG] Closing connection. 
-[2024-09-20 14:49:11 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:49:11 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:49:22 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:49:22 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:49:31 +0000] [909386] [DEBUG] POST /kinos
-[2024-09-20 14:49:41 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:49:41 +0000] [909386] [DEBUG] Closing connection. 
-[2024-09-20 14:49:52 +0000] [909386] [DEBUG] GET /
-[2024-09-20 14:49:52 +0000] [909386] [DEBUG] Closing connection. 
+[2024-09-20 14:51:41 +0000] [909515] [INFO] Starting gunicorn 23.0.0
+[2024-09-20 14:51:41 +0000] [909515] [DEBUG] Arbiter booted
+[2024-09-20 14:51:41 +0000] [909515] [INFO] Listening at: http://0.0.0.0:8501 (909515)
+[2024-09-20 14:51:41 +0000] [909515] [INFO] Using worker: gevent
+[2024-09-20 14:51:41 +0000] [909516] [INFO] Booting worker with pid: 909516
+[2024-09-20 14:51:41 +0000] [909517] [INFO] Booting worker with pid: 909517
+[2024-09-20 14:51:41 +0000] [909518] [INFO] Booting worker with pid: 909518
+[2024-09-20 14:51:41 +0000] [909519] [INFO] Booting worker with pid: 909519
+[2024-09-20 14:51:41 +0000] [909515] [DEBUG] 4 workers
+[2024-09-20 14:51:41 +0000] [909517] [DEBUG] GET /
+[2024-09-20 14:51:41 +0000] [909517] [DEBUG] Closing connection. 
+[2024-09-20 14:51:48 +0000] [909518] [DEBUG] POST /kinos
+2024-09-20 14:51:48,455 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role nexus --folder interviews_the_stories_of_the_autonomous_ais
+[2024-09-20 14:51:52 +0000] [909519] [DEBUG] GET /
+[2024-09-20 14:51:52 +0000] [909519] [DEBUG] Closing connection. 

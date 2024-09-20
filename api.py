@@ -93,10 +93,10 @@ def kinos():
         folder = data.get('folder')
         append_request = data.get('append_request')
         
-        if not role:
-            return Response(json.dumps({'error': 'Role parameter is required'}), status=400, mimetype='application/json')
+        command = [f'{VENV_PATH}/python', '-m', 'aider']
         
-        command = [f'{VENV_PATH}/python', '-m', 'aider', '--role', secure_filename(role)]
+        if role:
+            command.extend(['--role', secure_filename(role)])
         
         if user_request:
             command.extend(['--request', shlex.quote(user_request)])
@@ -106,9 +106,12 @@ def kinos():
         if folder:
             command.extend(['--folder', secure_filename(folder)])
         
+        # Log the full command for debugging
+        logging.debug(f"Executing command: {' '.join(command)}")
+        
         return Response(stream_with_context(stream_command(command)), mimetype='application/json')
     except Exception as e:
-        logging.error(f"Error in kinos endpoint: {str(e)}")
+        logging.error(f"Error in kinos endpoint: {str(e)}", exc_info=True)
         return Response(json.dumps({'error': f'Internal server error: {str(e)}'}), status=500, mimetype='application/json')
 
 @app.route('/health', methods=['GET'])
