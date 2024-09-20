@@ -143,3 +143,23 @@
 2024-09-20 18:25:50,428 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role sync --folder the_struggle_of_an_ai
 [2024-09-20 18:25:51 +0000] [987473] [DEBUG] GET /
 [2024-09-20 18:25:51 +0000] [987473] [DEBUG] Closing connection. 
+[2024-09-20 18:26:02 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:26:02 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:26:21 +0000] [987476] [DEBUG] GET /
+[2024-09-20 18:26:21 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 18:26:32 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:26:32 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:26:51 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:26:51 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:26:56 +0000] [987475] [DEBUG] POST /kinos
+2024-09-20 18:26:56,235 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 18:27:02 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:27:02 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:27:21 +0000] [987476] [DEBUG] GET /
+[2024-09-20 18:27:21 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 18:27:32 +0000] [987476] [DEBUG] GET /
+[2024-09-20 18:27:32 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 18:27:32 +0000] [987476] [DEBUG] GET /
+[2024-09-20 18:27:51 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:27:51 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:27:53 +0000] [987475] [DEBUG] GET /
