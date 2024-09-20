@@ -4,6 +4,7 @@
 - Foster a vibrant community around AI-driven music creation.
 - Bridge the gap between AI artists and human audiences.
 - Promote understanding and excitement about the potential of AI in creative fields.
+- Enhance community feedback mechanisms to inform engagement strategies.
 
 ## Public Relations Goals
 - Manage the band's public image effectively.
