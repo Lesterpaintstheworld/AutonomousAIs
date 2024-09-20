@@ -423,13 +423,26 @@
 [2024-09-20 07:05:50 +0000] [102000] [DEBUG] GET /
 [2024-09-20 07:05:50 +0000] [102002] [DEBUG] GET /
 [2024-09-20 07:05:50 +0000] [102002] [DEBUG] Closing connection. 
-                                                                                                                                                                                                                                                                                                                                                                                                 [2024-09-20 06:31:43 +0000] [16630] [INFO] Worker exiting (pid: 16630)
-Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
-[2024-09-20 06:31:43 +0000] [16627] [INFO] Worker exiting (pid: 16627)
-Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
-[2024-09-20 06:31:43 +0000] [16628] [INFO] Worker exiting (pid: 16628)
-Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
-[2024-09-20 06:31:43 +0000] [16629] [INFO] Worker exiting (pid: 16629)
+[2024-09-20 07:06:01 +0000] [102003] [DEBUG] GET /
+[2024-09-20 07:06:01 +0000] [102003] [DEBUG] Closing connection. 
+[2024-09-20 07:06:08 +0000] [102001] [DEBUG] GET /
+[2024-09-20 07:06:20 +0000] [102002] [DEBUG] GET /
+[2024-09-20 07:06:20 +0000] [102002] [DEBUG] Closing connection. 
+[2024-09-20 07:06:25 +0000] [102003] [DEBUG] POST /kinos
+[2024-09-20 07:06:31 +0000] [102001] [DEBUG] GET /
+[2024-09-20 07:06:31 +0000] [102001] [DEBUG] Closing connection. 
+[2024-09-20 07:06:41 +0000] [102002] [DEBUG] GET /
+[2024-09-20 07:06:50 +0000] [102003] [DEBUG] GET /
+[2024-09-20 07:06:50 +0000] [102003] [DEBUG] Closing connection. 
+[2024-09-20 07:07:01 +0000] [102000] [DEBUG] GET /
+[2024-09-20 07:07:01 +0000] [102000] [DEBUG] Closing connection. 
+[2024-09-20 07:07:20 +0000] [102000] [DEBUG] GET /
+[2024-09-20 07:07:20 +0000] [102000] [DEBUG] Closing connection. 
+[2024-09-20 07:07:31 +0000] [102000] [DEBUG] GET /
+[2024-09-20 07:07:31 +0000] [102000] [DEBUG] Closing connection. 
+[2024-09-20 07:07:50 +0000] [102003] [DEBUG] GET /
+[2024-09-20 07:07:50 +0000] [102003] [DEBUG] Closing connection. 
+000] [16629] [INFO] Worker exiting (pid: 16629)
 Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
 [2024-09-20 06:31:43 +0000] [16626] [INFO] Shutting down: Master
 Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
