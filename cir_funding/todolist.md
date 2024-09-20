@@ -5,3 +5,4 @@
 - Task 5: Review and incorporate user feedback - Completed
 - Task 6: Update greeting to be more casual - Completed
 - Task 7: Reflect updated greeting in request and output files - Completed
+- Task 8: Ensure output file matches request file - Completed
