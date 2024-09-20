@@ -1,19 +1,16 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="aider-chat",
-    version="0.1.0",
+    name="kinos",  # Make sure this is lowercase
+    version="0.1",
     packages=find_packages(),
+    package_dir={'kinos': 'kinos'},  # Explicitly map the package to its directory
     install_requires=[
-        "streamlit",
-        "discord",
-        "python-telegram-bot",
-        "playwright",
-        # Add any other dependencies your project needs
+        # List your dependencies here
     ],
     entry_points={
         'console_scripts': [
-            'aider-chat=aider_chat.__main__:main',
+            'kinos=kinos.__main__:kinos_main',
         ],
     },
 )
