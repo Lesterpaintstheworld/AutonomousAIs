@@ -298,3 +298,30 @@
 [2024-09-20 05:47:56 +0000] [1585] [DEBUG] GET /
 [2024-09-20 05:47:58 +0000] [1585] [DEBUG] GET /
 [2024-09-20 05:47:58 +0000] [1585] [DEBUG] Closing connection. 
+[2024-09-20 05:48:07 +0000] [1585] [DEBUG] POST /kinos
+2024-09-20 05:48:14,055 - ERROR - Error in stream_command: name 'select' is not defined
+[2024-09-20 05:48:15 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:48:17 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:48:17 +0000] [1585] [DEBUG] Closing connection. 
+[2024-09-20 05:48:21 +0000] [1584] [DEBUG] POST /kinos
+[2024-09-20 05:48:23 +0000] [1584] [DEBUG] POST /kinos
+[2024-09-20 05:48:26 +0000] [1583] [DEBUG] GET /
+[2024-09-20 05:48:26 +0000] [1583] [DEBUG] GET /favicon.ico
+[2024-09-20 05:48:28 +0000] [1583] [DEBUG] GET /
+[2024-09-20 05:48:28 +0000] [1583] [DEBUG] Closing connection. 
+2024-09-20 05:48:29,076 - ERROR - Error in stream_command: name 'select' is not defined
+2024-09-20 05:48:31,185 - ERROR - Error in stream_command: name 'select' is not defined
+[2024-09-20 05:48:39 +0000] [1584] [DEBUG] POST /kinos
+2024-09-20 05:48:45,705 - ERROR - Error in stream_command: name 'select' is not defined
+[2024-09-20 05:48:47 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:48:47 +0000] [1585] [DEBUG] Closing connection. 
+[2024-09-20 05:48:58 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:48:58 +0000] [1585] [DEBUG] Closing connection. 
+[2024-09-20 05:49:17 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:49:17 +0000] [1585] [DEBUG] Closing connection. 
+[2024-09-20 05:49:28 +0000] [1584] [DEBUG] GET /
+[2024-09-20 05:49:28 +0000] [1584] [DEBUG] Closing connection. 
+[2024-09-20 05:49:47 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:49:47 +0000] [1585] [DEBUG] Closing connection. 
+[2024-09-20 05:49:58 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:49:58 +0000] [1585] [DEBUG] Closing connection. 
