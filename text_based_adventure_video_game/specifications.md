@@ -34,4 +34,3 @@
 - The game is designed to be engaging and user-friendly, with clear instructions and prompts.
 - Feedback from players will be collected to improve future versions of the game.
 - The game has been tested for critical bugs and is ready for player feedback collection.
-

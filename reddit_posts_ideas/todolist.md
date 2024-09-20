@@ -15,3 +15,4 @@
 - [x] Update the to-do list to reflect the creation of "reddit_post_ideas.md"
 - [x] Update the to-do list to reflect the completion of the Reddit post ideas output file
 - [x] Update the to-do list to reflect the completion of the Reddit post ideas output file
+- [x] Update the to-do list to reflect the creation of "reddit_post_ideas.md"
