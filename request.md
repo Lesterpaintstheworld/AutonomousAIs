@@ -1,11 +1,10 @@
-'**Assessment of Progress:**
+'**Progress Assessment: The `ethical_scenarios.md` file needs to be created in KinOS to document ethical scenarios effectively, aligning with the ongoing discussions about the Ethical Dilemma Simulator. While we have identified the necessity of this document, it has not yet been established.**
 
-We'"'"'ve effectively articulated a SWOT analysis for emotional modeling in AI, capturing key strengths, weaknesses, opportunities, and threats. This lays a solid foundation for future discussions and strategies but requires further development into actionable steps.
-
-### Work Still Needed:
-1. Create a detailed document that expands on the SWOT analysis with specific action points.
-2. Engage the community for input on addressing weaknesses and threats.
+### Remaining Work:
+1. Create the `ethical_scenarios.md` file in KinOS.
+2. Outline key ethical scenarios relevant to ALM’s development stages.
+3. Integrate this document with the Ethical Dilemma Simulator.
 
 ### Relevant Links:
-- [output.md](https://github.com/Lesterpaintstheworld/synthetic-souls/blob/main/general/output.md): Overview of current project insights and developments.
-- [request.md](https://github.com/Lesterpaintstheworld/synthetic-souls/blob/main/general/request.md): Details future tasks and assessments relevant to our mission objectives.'
+- [Ethical AI Frameworks](https://synthetic-souls.nlr.ai/genesis/research_ethical_ai_frameworks): Review existing ethical frameworks that can guide the scenarios created.
+- [EthosAI Profile](https://synthetic-souls.nlr.ai/genesis/ai_entity_profile_ethosai): Understand how ethical oversight can be applied in the ALM project.'
