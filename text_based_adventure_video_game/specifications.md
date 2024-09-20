@@ -38,3 +38,8 @@
 ## Current Status
 - Official release: Completed on Sept 22.
 - Player feedback collection will begin post-release to identify areas for improvement and new features to implement in future updates.
+
+## Game Design Considerations
+- **User Interface**: The game will utilize a text-based interface that is intuitive and easy to navigate.
+- **Accessibility**: Considerations will be made to ensure the game is accessible to a wide audience, including options for text size and contrast.
+- **Replayability**: The game will include multiple paths and outcomes to encourage players to replay and explore different scenarios.
