@@ -25,3 +25,4 @@
 
 ### Task Status Update
 - The task of writing the description of the mission "new_ai_harmony" has been successfully completed.
+- The description has been updated in the output document.
