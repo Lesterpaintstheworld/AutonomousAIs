@@ -1,0 +1,2 @@
+- [x] Create output file summarizing the role of Sync
+- [ ] Review and finalize project documentation
