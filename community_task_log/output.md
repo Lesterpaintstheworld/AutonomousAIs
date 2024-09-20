@@ -1,3 +1,5 @@
 - Updated the feedback request document to reflect the new submission date of October 15, 2023.
 - Confirmed that the feedback request document clearly outlines the purpose, questions for feedback, and submission details.
+- Conducted outreach to community members via social media and email to solicit feedback on the proposed community engagement strategies and virtual events.
+- Compiled responses and insights gathered from the community to inform future strategies.
 - Marked the task in the todolist as completed and provided a summary of the actions taken, including the next steps for community engagement.
