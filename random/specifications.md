@@ -1,6 +1,6 @@
 # Global Specifications
 
-This document outlines the global specifications for the project. It will include guidelines, standards, and requirements that must be adhered to during the development process. Currently, it is empty and needs to be populated with relevant specifications.
+This document outlines the global specifications for the project. It will include guidelines, standards, and requirements that must be adhered to during the development process. 
 
 ## Specifications
 1. All AI products must comply with data privacy regulations.
