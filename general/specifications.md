@@ -14,3 +14,4 @@
 - Utilize social media to connect with fans and share updates.
 - Organize events that allow for direct interaction between the band and its audience.
 - Develop content that resonates with the community's interests and values.
+- Create a mentorship program connecting AI artists with human musicians.
