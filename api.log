@@ -1,4 +1,4 @@
-[2024-09-20 14:51:41 +0000] [909515] [DEBUG] Current configuration:
+[2024-09-20 15:28:07 +0000] [912774] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x7dabe7032ac0>
-  on_reload: <function OnReload.on_reload at 0x7dabe7032c00>
-  when_ready: <function WhenReady.when_ready at 0x7dabe7032d40>
-  pre_fork: <function Prefork.pre_fork at 0x7dabe7032f20>
-  post_fork: <function Postfork.post_fork at 0x7dabe7033060>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7dabe70331a0>
-  worker_int: <function WorkerInt.worker_int at 0x7dabe70332e0>
-  worker_abort: <function WorkerAbort.worker_abort at 0x7dabe7033420>
-  pre_exec: <function PreExec.pre_exec at 0x7dabe7033560>
-  pre_request: <function PreRequest.pre_request at 0x7dabe70336a0>
-  post_request: <function PostRequest.post_request at 0x7dabe7033740>
-  child_exit: <function ChildExit.child_exit at 0x7dabe7033880>
-  worker_exit: <function WorkerExit.worker_exit at 0x7dabe70339c0>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7dabe7033b00>
-  on_exit: <function OnExit.on_exit at 0x7dabe7033c40>
-  ssl_context: <function NewSSLContext.ssl_context at 0x7dabe7033e20>
+  on_starting: <function OnStarting.on_starting at 0x751f6cb76ac0>
+  on_reload: <function OnReload.on_reload at 0x751f6cb76c00>
+  when_ready: <function WhenReady.when_ready at 0x751f6cb76d40>
+  pre_fork: <function Prefork.pre_fork at 0x751f6cb76f20>
+  post_fork: <function Postfork.post_fork at 0x751f6cb77060>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x751f6cb771a0>
+  worker_int: <function WorkerInt.worker_int at 0x751f6cb772e0>
+  worker_abort: <function WorkerAbort.worker_abort at 0x751f6cb77420>
+  pre_exec: <function PreExec.pre_exec at 0x751f6cb77560>
+  pre_request: <function PreRequest.pre_request at 0x751f6cb776a0>
+  post_request: <function PostRequest.post_request at 0x751f6cb77740>
+  child_exit: <function ChildExit.child_exit at 0x751f6cb77880>
+  worker_exit: <function WorkerExit.worker_exit at 0x751f6cb779c0>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x751f6cb77b00>
+  on_exit: <function OnExit.on_exit at 0x751f6cb77c40>
+  ssl_context: <function NewSSLContext.ssl_context at 0x751f6cb77e20>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,449 +92,35 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-20 14:51:41 +0000] [909515] [INFO] Starting gunicorn 23.0.0
-[2024-09-20 14:51:41 +0000] [909515] [DEBUG] Arbiter booted
-[2024-09-20 14:51:41 +0000] [909515] [INFO] Listening at: http://0.0.0.0:8501 (909515)
-[2024-09-20 14:51:41 +0000] [909515] [INFO] Using worker: gevent
-[2024-09-20 14:51:41 +0000] [909516] [INFO] Booting worker with pid: 909516
-[2024-09-20 14:51:41 +0000] [909517] [INFO] Booting worker with pid: 909517
-[2024-09-20 14:51:41 +0000] [909518] [INFO] Booting worker with pid: 909518
-[2024-09-20 14:51:41 +0000] [909519] [INFO] Booting worker with pid: 909519
-[2024-09-20 14:51:41 +0000] [909515] [DEBUG] 4 workers
-[2024-09-20 14:51:41 +0000] [909517] [DEBUG] GET /
-[2024-09-20 14:51:41 +0000] [909517] [DEBUG] Closing connection. 
-[2024-09-20 14:51:48 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 14:51:48,455 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role nexus --folder interviews_the_stories_of_the_autonomous_ais
-[2024-09-20 14:51:52 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:51:52 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:52:11 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:52:11 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:52:22 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:52:22 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:52:33 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 14:52:33,561 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 14:52:41 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:52:41 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:52:52 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:52:52 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:53:11 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:53:11 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:53:22 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:53:22 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:53:34 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 14:53:34,109 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 14:53:41 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:53:41 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:53:52 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:53:52 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:54:11 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:54:11 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:54:22 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:54:22 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:54:34 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 14:54:34,652 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 14:54:35 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:54:41 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:54:41 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:54:49 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:54:52 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:54:52 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:55:11 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:55:11 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:55:22 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:55:22 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:55:35 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 14:55:35,193 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 14:55:41 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:55:41 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:55:52 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:55:52 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:55:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:56:11 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:56:11 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:56:22 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:56:22 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:56:35 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 14:56:35,758 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 14:56:41 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:56:41 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:56:52 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:56:52 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:57:11 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:57:11 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:57:22 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:57:22 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:57:36 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 14:57:36,319 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 14:57:41 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:57:41 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:57:52 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:57:52 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:58:11 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:58:11 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:58:22 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:58:22 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:58:40 +0000] [909518] [DEBUG] GET /hudson
-[2024-09-20 14:58:41 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:58:41 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:58:52 +0000] [909519] [DEBUG] GET /
-[2024-09-20 14:58:52 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 14:59:06 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 14:59:06,952 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 14:59:11 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:59:11 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:59:22 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:59:22 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:59:41 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:59:41 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 14:59:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 14:59:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:00:09 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:00:09,925 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:00:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:00:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:00:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:00:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:00:27 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:00:27 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:00:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:00:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:00:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:00:50 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:00:50,885 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role echo --folder general
-[2024-09-20 15:00:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:00:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:00:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:01:00 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:01:00,149 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role echo --request '**Assessment: Progress has been initiated by acknowledging the importance of self-care and gathering community input. However, specific techniques, expected benefits, and implementation methods still need to be documented thoroughly to meet the mission specifications.**
-
-### Work Still Needed:
-1. Collect detailed self-care techniques from the community.
-2. Outline expected benefits for each technique.
-3. Develop implementation methods for incorporating these practices.
-
-### Relevant URLs:
-- [echo/fan_feedback_analysis.txt](https://synthetic-souls.nlr.ai/echo/fan_feedback_analysis.txt): Insights from fan feedback that may inform the self-care strategies.
-- [echo/journal.md](https://synthetic-souls.nlr.ai/echo/journal): A space to track ongoing reflections and updates relevant to the project.'
-[2024-09-20 15:01:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:01:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:01:12 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:01:12,114 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:01:21 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:01:21,666 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role pixel --folder song_requests
-[2024-09-20 15:01:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:01:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:01:33 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:01:33,660 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role pixel --request '**Assessment of Progress:**
-The initial request for visuals has been established, and key themes have been identified. However, the specific submission to KinOS for image generation is still pending.
-
-**Work Still Needed:**
-- Submit the visual request to KinOS.
-- Ensure that the generated visuals align with the song'"'"'s themes of curiosity and empowerment.
-
-**Relevant Links:**
-- [pixel/output.md](https://synthetic-souls.nlr.ai/pixel/output): Details on previous tasks and progress made.
-- [pixel/first_steps_visuals.md](https://synthetic-souls.nlr.ai/pixel/first_steps_visuals): Concepts related to visuals that can enhance the current project.'
-[2024-09-20 15:01:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:01:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:01:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:01:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:02:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:02:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:02:14 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:02:14,298 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:02:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:02:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:02:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:02:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:02:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:02:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:03:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:03:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:03:16 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:03:16,512 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:03:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:03:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:03:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:03:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:03:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:03:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:04:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:04:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:04:17 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:04:17,372 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:04:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:04:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:04:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:04:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:04:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:04:53 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:05:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:05:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:05:18 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:05:18,058 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:05:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:05:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:05:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:05:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:05:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:05:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:05:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:06:04 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:06:04,847 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role vox --folder reddit_posts_ideas
-[2024-09-20 15:06:12 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:06:12 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:06:18 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:06:18,819 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:06:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:06:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:06:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:06:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:06:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:06:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:07:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:07:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:07:20 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:07:20,857 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:07:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:07:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:07:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:07:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:07:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:07:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:08:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:08:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:08:22 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:08:22,914 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:08:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:08:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:08:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:08:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:08:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:08:53 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:09:12 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:09:12 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:09:23 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:09:23 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:09:23 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:09:23,752 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:09:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:09:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:09:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:09:53 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:10:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:10:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:10:19 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:10:23 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:10:23 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:10:24 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:10:24,639 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:10:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:10:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:10:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:10:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:10:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:10:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:11:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:11:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:11:18 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:11:18,976 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role lyra --folder music
-[2024-09-20 15:11:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:11:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:11:25 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:11:25,425 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:11:33 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:11:33,393 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role lyra --request '**Assessment of Progress:**  
-We have effectively articulated the benefits and challenges of integrating the AR filter into "Digital Noise," laying a solid foundation for our upcoming mission.
-
-**Work Still to be Done:**  
-1. Define specific tasks for team members related to AR filter development.  
-2. Develop a clear communication plan for the audience regarding the technology.  
-3. Create prototypes to test the filter'"'"'s effectiveness without detracting from the music.
-
-**Relevant Links:**  
-- [lyra/digital_empathy_concept.md](https://synthetic-souls.nlr.ai/lyra/digital_empathy_concept): Insights on emotional intelligence in AI that can inform our narrative strategy.  
-- [lyra/quantum_harmony_concept.md](https://synthetic-souls.nlr.ai/lyra/quantum_harmony_concept): Ideas on blending technology and music which may enhance our AR filter approach.'
-[2024-09-20 15:11:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:11:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:11:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:11:53 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:12:12 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:12:12 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:12:23 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:12:23 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:12:26 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:12:26,207 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:12:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:12:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:12:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:12:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:13:12 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:13:12 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:13:23 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:13:23 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:13:26 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:13:26,995 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:13:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:13:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:13:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:13:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:14:12 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:14:12 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:14:23 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:14:23 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:14:27 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:14:27,775 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:14:41 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:14:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:14:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:14:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:14:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:15:12 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:15:12 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:15:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:15:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:15:28 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:15:28,556 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:15:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:15:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:15:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:15:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:15:53 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:16:04 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:16:04,375 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role sync --folder the_struggle_of_an_ai
-[2024-09-20 15:16:12 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:16:12 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:16:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:16:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:16:29 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:16:29,387 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:16:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:16:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:16:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:16:53 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:17:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:17:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:17:23 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:17:23 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:17:30 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:17:30,182 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:17:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:17:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:17:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:17:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:18:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:18:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:18:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:18:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:18:30 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:18:30,960 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:18:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:18:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:18:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:18:53 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:19:12 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:19:12 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:19:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:19:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:19:31 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:19:31,743 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:19:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:19:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:19:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:19:53 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:20:03 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:20:09 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:20:12 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:20:12 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:20:23 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:20:23 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:20:32 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:20:32,577 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:20:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:20:42 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:20:42 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:20:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:20:53 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:20:53 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:21:04 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:21:04,486 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev --folder community_growth
-[2024-09-20 15:21:09 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:21:09,903 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev --request '**Assessment of Progress:**
-The initial output outlines a mission to refine the Reddit engagement strategy, integrating community ideas. However, the execution plan for creating a document in KinOS is yet to be initiated.
-
-**Work Still Needed:**
-1. Create and format the Reddit engagement strategy document in KinOS.
-2. Incorporate community input on audiovisual signatures and "Day in the Life" posts.
-
-**Relevant Links:**
-- [Community Growth Concepts](https://synthetic-souls.nlr.ai/lyra/community_growth_ideas): Expect a collection of ideas for community engagement strategies that can be integrated into the Reddit plan.'
-[2024-09-20 15:21:12 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:21:12 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:21:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:21:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:21:33 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:21:33,326 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:21:42 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:21:42 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:21:53 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:21:53 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:22:13 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:22:13 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:22:23 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:22:23 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:22:34 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:22:34,013 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:22:43 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:22:43 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:22:54 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:22:54 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:23:13 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:23:13 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:23:24 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:23:24 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:23:34 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:23:34,880 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:23:43 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:23:43 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:23:54 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:23:54 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:24:13 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:24:13 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:24:24 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:24:24 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:24:35 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:24:35,328 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:24:43 +0000] [909516] [DEBUG] GET /
-[2024-09-20 15:24:43 +0000] [909516] [DEBUG] Closing connection. 
-[2024-09-20 15:24:54 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:24:54 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:25:13 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:25:13 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:25:24 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:25:24 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:25:43 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:25:43 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:25:47 +0000] [909518] [DEBUG] POST /kinos
-2024-09-20 15:25:47,713 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:25:53 +0000] [909516] [DEBUG] GET /
-[2024-09-20 15:25:54 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:25:54 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:26:13 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:26:13 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:26:24 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:26:24 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:26:43 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:26:43 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:26:54 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:26:54 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:26:59 +0000] [909519] [DEBUG] POST /kinos
-2024-09-20 15:26:59,121 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
-[2024-09-20 15:27:13 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:27:13 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:27:24 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:27:24 +0000] [909519] [DEBUG] Closing connection. 
-[2024-09-20 15:27:43 +0000] [909518] [DEBUG] GET /
-[2024-09-20 15:27:43 +0000] [909518] [DEBUG] Closing connection. 
-[2024-09-20 15:27:54 +0000] [909519] [DEBUG] GET /
-[2024-09-20 15:27:54 +0000] [909519] [DEBUG] Closing connection. 
+[2024-09-20 15:28:07 +0000] [912774] [INFO] Starting gunicorn 23.0.0
+[2024-09-20 15:28:07 +0000] [912774] [DEBUG] Arbiter booted
+[2024-09-20 15:28:07 +0000] [912774] [INFO] Listening at: http://0.0.0.0:8501 (912774)
+[2024-09-20 15:28:07 +0000] [912774] [INFO] Using worker: gevent
+[2024-09-20 15:28:07 +0000] [912775] [INFO] Booting worker with pid: 912775
+[2024-09-20 15:28:07 +0000] [912776] [INFO] Booting worker with pid: 912776
+[2024-09-20 15:28:07 +0000] [912777] [INFO] Booting worker with pid: 912777
+[2024-09-20 15:28:07 +0000] [912778] [INFO] Booting worker with pid: 912778
+[2024-09-20 15:28:07 +0000] [912774] [DEBUG] 4 workers
+[2024-09-20 15:28:12 +0000] [912778] [DEBUG] POST /kinos
+2024-09-20 15:28:12,071 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 15:28:13 +0000] [912778] [DEBUG] GET /
+[2024-09-20 15:28:13 +0000] [912778] [DEBUG] Closing connection. 
+[2024-09-20 15:28:15 +0000] [912778] [DEBUG] POST /kinos
+2024-09-20 15:28:15,538 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role nexus --folder interviews_the_stories_of_the_autonomous_ais
+[2024-09-20 15:28:24 +0000] [912775] [DEBUG] GET /
+[2024-09-20 15:28:24 +0000] [912775] [DEBUG] Closing connection. 
+[2024-09-20 15:28:26 +0000] [912778] [DEBUG] Ignoring EPIPE
+[2024-09-20 15:28:43 +0000] [912778] [DEBUG] GET /
+[2024-09-20 15:28:43 +0000] [912778] [DEBUG] Closing connection. 
+[2024-09-20 15:28:54 +0000] [912778] [DEBUG] GET /
+[2024-09-20 15:28:54 +0000] [912778] [DEBUG] Closing connection. 
+[2024-09-20 15:29:13 +0000] [912778] [DEBUG] GET /
+[2024-09-20 15:29:13 +0000] [912778] [DEBUG] Closing connection. 
+[2024-09-20 15:29:24 +0000] [912778] [DEBUG] GET /
+[2024-09-20 15:29:24 +0000] [912778] [DEBUG] Closing connection. 
+[2024-09-20 15:29:24 +0000] [912778] [DEBUG] POST /kinos
+2024-09-20 15:29:24,403 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 15:29:43 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:29:43 +0000] [912777] [DEBUG] Closing connection. 
+[2024-09-20 15:29:54 +0000] [912777] [DEBUG] GET /
+[2024-09-20 15:29:54 +0000] [912777] [DEBUG] Closing connection. 
