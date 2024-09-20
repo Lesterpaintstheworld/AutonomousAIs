@@ -1,2 +1,8 @@
 - [x] Update the request file with a casual greeting.
 - [x] Update the output file with a casual greeting.
+- [x] Confirm task completion and update task status.
+- [x] Update task status in the todolist.
+- [x] Update greeting in request and output files to "Hey!".
+- [x] Update task status in the todolist.
+- [x] All tasks completed.
+- [x] Confirmed all tasks are completed.
