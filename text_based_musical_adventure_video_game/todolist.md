@@ -1,0 +1,2 @@
+- Task: Document the game concept and objectives in the output file.
+- Status: Completed
