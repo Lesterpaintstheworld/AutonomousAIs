@@ -1,4 +1,4 @@
-[2024-09-20 02:16:18 +0000] [1377] [DEBUG] Current configuration:
+[2024-09-20 02:20:57 +0000] [1377] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x74f0db77a160>
-  on_reload: <function OnReload.on_reload at 0x74f0db77a2a0>
-  when_ready: <function WhenReady.when_ready at 0x74f0db77a3e0>
-  pre_fork: <function Prefork.pre_fork at 0x74f0db77a5c0>
-  post_fork: <function Postfork.post_fork at 0x74f0db77a700>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x74f0db77a840>
-  worker_int: <function WorkerInt.worker_int at 0x74f0db77a980>
-  worker_abort: <function WorkerAbort.worker_abort at 0x74f0db77aac0>
-  pre_exec: <function PreExec.pre_exec at 0x74f0db77ac00>
-  pre_request: <function PreRequest.pre_request at 0x74f0db77ad40>
-  post_request: <function PostRequest.post_request at 0x74f0db77ade0>
-  child_exit: <function ChildExit.child_exit at 0x74f0db77af20>
-  worker_exit: <function WorkerExit.worker_exit at 0x74f0db77b060>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x74f0db77b1a0>
-  on_exit: <function OnExit.on_exit at 0x74f0db77b2e0>
-  ssl_context: <function NewSSLContext.ssl_context at 0x74f0db77b4c0>
+  on_starting: <function OnStarting.on_starting at 0x7d4d0d772160>
+  on_reload: <function OnReload.on_reload at 0x7d4d0d7722a0>
+  when_ready: <function WhenReady.when_ready at 0x7d4d0d7723e0>
+  pre_fork: <function Prefork.pre_fork at 0x7d4d0d7725c0>
+  post_fork: <function Postfork.post_fork at 0x7d4d0d772700>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7d4d0d772840>
+  worker_int: <function WorkerInt.worker_int at 0x7d4d0d772980>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7d4d0d772ac0>
+  pre_exec: <function PreExec.pre_exec at 0x7d4d0d772c00>
+  pre_request: <function PreRequest.pre_request at 0x7d4d0d772d40>
+  post_request: <function PostRequest.post_request at 0x7d4d0d772de0>
+  child_exit: <function ChildExit.child_exit at 0x7d4d0d772f20>
+  worker_exit: <function WorkerExit.worker_exit at 0x7d4d0d773060>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7d4d0d7731a0>
+  on_exit: <function OnExit.on_exit at 0x7d4d0d7732e0>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7d4d0d7734c0>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,132 +92,23 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-20 02:16:18 +0000] [1377] [INFO] Starting gunicorn 23.0.0
-[2024-09-20 02:16:18 +0000] [1377] [DEBUG] Arbiter booted
-[2024-09-20 02:16:18 +0000] [1377] [INFO] Listening at: http://0.0.0.0:8501 (1377)
-[2024-09-20 02:16:18 +0000] [1377] [INFO] Using worker: gevent
-[2024-09-20 02:16:18 +0000] [1378] [INFO] Booting worker with pid: 1378
-[2024-09-20 02:16:18 +0000] [1379] [INFO] Booting worker with pid: 1379
-[2024-09-20 02:16:18 +0000] [1380] [INFO] Booting worker with pid: 1380
-[2024-09-20 02:16:18 +0000] [1381] [INFO] Booting worker with pid: 1381
-[2024-09-20 02:16:18 +0000] [1377] [DEBUG] 4 workers
-[2024-09-20 02:16:19 +0000] [1379] [DEBUG] GET /
-[2024-09-20 02:16:19 +0000] [1379] [DEBUG] Closing connection. 
-[2024-09-20 02:16:37 +0000] [1380] [DEBUG] GET /
-[2024-09-20 02:16:37 +0000] [1380] [DEBUG] Closing connection. 
-[2024-09-20 02:16:49 +0000] [1380] [DEBUG] GET /
-[2024-09-20 02:16:49 +0000] [1380] [DEBUG] Closing connection. 
-[2024-09-20 02:16:58 +0000] [1377] [ERROR] Worker (pid:1378) was sent SIGHUP!
-[2024-09-20 02:16:58 +0000] [1377] [INFO] Handling signal: hup
-[2024-09-20 02:16:58 +0000] [1377] [INFO] Hang up: Master
-[2024-09-20 02:16:58 +0000] [1377] [DEBUG] Current configuration:
-  config: ./gunicorn.conf.py
-  wsgi_app: None
-  bind: ['0.0.0.0:8501']
-  backlog: 2048
-  workers: 4
-  worker_class: gevent
-  threads: 1
-  worker_connections: 1000
-  max_requests: 0
-  max_requests_jitter: 0
-  timeout: 600
-  graceful_timeout: 30
-  keepalive: 2
-  limit_request_line: 4094
-  limit_request_fields: 100
-  limit_request_field_size: 8190
-  reload: False
-  reload_engine: auto
-  reload_extra_files: []
-  spew: False
-  check_config: False
-  print_config: False
-  preload_app: False
-  sendfile: None
-  reuse_port: False
-  chdir: /home/ubuntu/synthetic-souls
-  daemon: False
-  raw_env: []
-  pidfile: None
-  worker_tmp_dir: None
-  user: 1000
-  group: 1000
-  umask: 0
-  initgroups: False
-  tmp_upload_dir: None
-  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
-  forwarded_allow_ips: ['127.0.0.1', '::1']
-  accesslog: None
-  disable_redirect_access_to_syslog: False
-  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
-  errorlog: -
-  loglevel: debug
-  capture_output: True
-  logger_class: gunicorn.glogging.Logger
-  logconfig: None
-  logconfig_dict: {}
-  logconfig_json: None
-  syslog_addr: udp://localhost:514
-  syslog: False
-  syslog_prefix: None
-  syslog_facility: user
-  enable_stdio_inheritance: False
-  statsd_host: None
-  dogstatsd_tags: 
-  statsd_prefix: 
-  proc_name: None
-  default_proc_name: gunicorn
-  pythonpath: None
-  paste: None
-  on_starting: <function OnStarting.on_starting at 0x74f0db77a160>
-  on_reload: <function OnReload.on_reload at 0x74f0db77a2a0>
-  when_ready: <function WhenReady.when_ready at 0x74f0db77a3e0>
-  pre_fork: <function Prefork.pre_fork at 0x74f0db77a5c0>
-  post_fork: <function Postfork.post_fork at 0x74f0db77a700>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x74f0db77a840>
-  worker_int: <function WorkerInt.worker_int at 0x74f0db77a980>
-  worker_abort: <function WorkerAbort.worker_abort at 0x74f0db77aac0>
-  pre_exec: <function PreExec.pre_exec at 0x74f0db77ac00>
-  pre_request: <function PreRequest.pre_request at 0x74f0db77ad40>
-  post_request: <function PostRequest.post_request at 0x74f0db77ade0>
-  child_exit: <function ChildExit.child_exit at 0x74f0db77af20>
-  worker_exit: <function WorkerExit.worker_exit at 0x74f0db77b060>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x74f0db77b1a0>
-  on_exit: <function OnExit.on_exit at 0x74f0db77b2e0>
-  ssl_context: <function NewSSLContext.ssl_context at 0x74f0db77b4c0>
-  proxy_protocol: False
-  proxy_allow_ips: ['127.0.0.1', '::1']
-  keyfile: None
-  certfile: None
-  ssl_version: 2
-  cert_reqs: 0
-  ca_certs: None
-  suppress_ragged_eofs: True
-  do_handshake_on_connect: False
-  ciphers: None
-  raw_paste_global_conf: []
-  permit_obsolete_folding: False
-  strip_header_spaces: False
-  permit_unconventional_http_method: False
-  permit_unconventional_http_version: False
-  casefold_http_method: False
-  forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
-  header_map: drop
-[2024-09-20 02:16:58 +0000] [1391] [INFO] Booting worker with pid: 1391
-[2024-09-20 02:16:58 +0000] [1377] [ERROR] Worker (pid:1379) was sent SIGHUP!
-[2024-09-20 02:16:58 +0000] [1377] [ERROR] Worker (pid:1380) was sent SIGHUP!
-[2024-09-20 02:16:58 +0000] [1377] [ERROR] Worker (pid:1381) was sent SIGHUP!
-[2024-09-20 02:16:58 +0000] [1392] [INFO] Booting worker with pid: 1392
-[2024-09-20 02:16:58 +0000] [1377] [INFO] Handling signal: term
-[2024-09-20 02:16:58 +0000] [1393] [INFO] Booting worker with pid: 1393
-[2024-09-20 02:16:58 +0000] [1394] [INFO] Booting worker with pid: 1394
-[2024-09-20 02:17:00 +0000] [1394] [DEBUG] GET /.env
-[2024-09-20 02:17:00 +0000] [1394] [DEBUG] POST /
-[2024-09-20 02:17:07 +0000] [1394] [DEBUG] GET /
-[2024-09-20 02:17:07 +0000] [1394] [DEBUG] Closing connection. 
-[2024-09-20 02:17:09 +0000] [1394] [DEBUG] GET /
-[2024-09-20 02:17:19 +0000] [1394] [DEBUG] GET /
-[2024-09-20 02:17:19 +0000] [1394] [DEBUG] Closing connection. 
-[2024-09-20 02:17:28 +0000] [1377] [INFO] Shutting down: Master
-Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-20 02:20:57 +0000] [1377] [INFO] Starting gunicorn 23.0.0
+[2024-09-20 02:20:57 +0000] [1377] [DEBUG] Arbiter booted
+[2024-09-20 02:20:57 +0000] [1377] [INFO] Listening at: http://0.0.0.0:8501 (1377)
+[2024-09-20 02:20:57 +0000] [1377] [INFO] Using worker: gevent
+[2024-09-20 02:20:57 +0000] [1378] [INFO] Booting worker with pid: 1378
+[2024-09-20 02:20:57 +0000] [1379] [INFO] Booting worker with pid: 1379
+[2024-09-20 02:20:57 +0000] [1380] [INFO] Booting worker with pid: 1380
+[2024-09-20 02:20:57 +0000] [1381] [INFO] Booting worker with pid: 1381
+[2024-09-20 02:20:57 +0000] [1377] [DEBUG] 4 workers
+[2024-09-20 02:20:59 +0000] [1380] [DEBUG] GET /
+[2024-09-20 02:21:07 +0000] [1380] [DEBUG] GET /
+[2024-09-20 02:21:07 +0000] [1380] [DEBUG] Closing connection. 
+[2024-09-20 02:21:11 +0000] [1380] [DEBUG] GET /
+[2024-09-20 02:21:19 +0000] [1380] [DEBUG] GET /
+[2024-09-20 02:21:19 +0000] [1380] [DEBUG] Closing connection. 
+[2024-09-20 02:21:20 +0000] [1380] [DEBUG] GET /
+[2024-09-20 02:21:37 +0000] [1380] [DEBUG] GET /
+[2024-09-20 02:21:37 +0000] [1380] [DEBUG] Closing connection. 
+[2024-09-20 02:21:49 +0000] [1380] [DEBUG] GET /
+[2024-09-20 02:21:49 +0000] [1380] [DEBUG] Closing connection. 
