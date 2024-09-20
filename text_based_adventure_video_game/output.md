@@ -126,6 +126,9 @@ class Game:
         print("Thank you for playing! We would love your feedback.")
         feedback = input("Please enter your feedback: ")
         print("Your feedback has been recorded. Thank you!")
+        # Save feedback to a file for future reference
+        with open("feedback.txt", "a") as f:
+            f.write(feedback + "\n")
 
 if __name__ == "__main__":
     game = Game()
