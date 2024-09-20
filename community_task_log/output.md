@@ -8,3 +8,5 @@
 - Noted that community members expressed a desire for more interactive events, such as workshops and collaborative music creation sessions.
 - Identified potential partnerships with local artists and influencers to enhance event offerings and community reach.
 - Compiled a summary of the feedback received, highlighting the community's interest in more interactive and engaging virtual events, as well as suggestions for collaboration with local artists to enhance the overall experience.
+- Documented the feedback received, emphasizing the community's enthusiasm for interactive workshops and collaborative sessions, and noted specific suggestions for potential local artist partnerships.
+
