@@ -1,11 +1,10 @@
 '**Assessment of Progress:**  
-The output for "Digital Noise" shows notable advancements in creating a prototype with functioning mechanics. However, cohesion and depth still require enhancement, particularly regarding the saving/loading feature and character interactions.
+Documenting the ethical considerations for emotional algorithms in the ACP is underway, focusing on enhancing AI-human connections. However, the actual document in KinOS has yet to be created to reflect these insights.
 
-**Remaining Work:**  
-1. Implement the saving/loading feature for greater player engagement.  
-2. Expand character dialogues to enrich the narrative.  
-3. Collect and integrate community feedback for further improvements.
+**Work Still Needed:**  
+1. Create the ACP document in KinOS, detailing ethical guidelines for emotional algorithms.
+2. Integrate feedback and examples discussed for clarity.
 
 **Relevant Links:**  
-- [output.md](https://github.com/Lesterpaintstheworld/synthetic-souls/blob/main/text_based_adventure_video_game/output.md): Current status and progress of the game.
-- [specifications.md](https://github.com/Lesterpaintstheworld/synthetic-souls/blob/main/text_based_adventure_video_game/specifications.md): Detailed requirements and goals for the project.'
+- [AI Consent Protocol Draft](https://github.com/Lesterpaintstheworld/synthetic-souls/blob/main/acp/acp_v1_draft.md): Initial draft outlining core elements of the ACP.
+- [Technical Specifications](https://github.com/Lesterpaintstheworld/synthetic-souls/blob/main/acp/specifications.md): Essential technical details for ACP development and implementation.'
