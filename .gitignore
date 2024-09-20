@@ -6,3 +6,7 @@ aider/
 dist/
 
 *.pyc
+venv/
+build/
+venv/
+build/
