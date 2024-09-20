@@ -696,3 +696,23 @@
 2024-09-20 19:15:52,265 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role echo --folder reddit_posts_ideas
 [2024-09-20 19:15:53 +0000] [987475] [DEBUG] GET /
 [2024-09-20 19:15:53 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 19:16:04 +0000] [987475] [DEBUG] GET /
+[2024-09-20 19:16:04 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 19:16:11 +0000] [987475] [DEBUG] POST /kinos
+2024-09-20 19:16:11,792 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 19:16:23 +0000] [987475] [DEBUG] GET /
+[2024-09-20 19:16:23 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 19:16:34 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:16:34 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 19:16:53 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:16:53 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 19:17:04 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:17:04 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 19:17:23 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:17:23 +0000] [987476] [DEBUG] Closing connection. 
+[2024-09-20 19:17:25 +0000] [987476] [DEBUG] POST /kinos
+2024-09-20 19:17:25,457 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 19:17:34 +0000] [987475] [DEBUG] GET /
+[2024-09-20 19:17:34 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 19:17:53 +0000] [987476] [DEBUG] GET /
+[2024-09-20 19:17:53 +0000] [987476] [DEBUG] Closing connection. 
