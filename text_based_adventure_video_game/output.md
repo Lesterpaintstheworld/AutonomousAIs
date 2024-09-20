@@ -122,9 +122,15 @@ class Game:
         else:
             print("You have defeated the goblin!")
 
+    def end_game(self):
+        print("Thank you for playing! We would love your feedback.")
+        feedback = input("Please enter your feedback: ")
+        print("Your feedback has been recorded. Thank you!")
+
 if __name__ == "__main__":
     game = Game()
     game.start()
+    game.end_game()
 ```
 
 ## Instructions
