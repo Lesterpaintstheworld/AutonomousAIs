@@ -230,3 +230,26 @@
 [2024-09-20 18:33:32 +0000] [987475] [DEBUG] Closing connection. 
 [2024-09-20 18:33:51 +0000] [987475] [DEBUG] GET /
 [2024-09-20 18:33:51 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:34:02 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:34:02 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:34:17 +0000] [987475] [DEBUG] POST /kinos
+2024-09-20 18:34:17,513 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 18:34:21 +0000] [987473] [DEBUG] GET /
+[2024-09-20 18:34:21 +0000] [987473] [DEBUG] Closing connection. 
+[2024-09-20 18:34:32 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:34:32 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:34:51 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:34:51 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:35:02 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:35:02 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:35:21 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:35:21 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:35:31 +0000] [987475] [DEBUG] POST /kinos
+2024-09-20 18:35:31,703 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role dev
+[2024-09-20 18:35:32 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:35:32 +0000] [987475] [DEBUG] Closing connection. 
+[2024-09-20 18:35:40 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:35:51 +0000] [987475] [DEBUG] POST /kinos
+2024-09-20 18:35:51,226 - DEBUG - Executing command: /home/ubuntu/synthetic-souls/venv/bin/python -m aider --role sync --folder the_struggle_of_an_ai
+[2024-09-20 18:35:51 +0000] [987475] [DEBUG] GET /
+[2024-09-20 18:35:51 +0000] [987475] [DEBUG] Closing connection. 
