@@ -122,3 +122,12 @@
 2024-09-20 05:30:58,975 - ERROR - Error in stream_command: name 'select' is not defined
 2024-09-20 05:31:04,270 - ERROR - Error in stream_command: name 'select' is not defined
 [2024-09-20 05:31:10 +0000] [1584] [DEBUG] POST /kinos
+2024-09-20 05:31:16,221 - ERROR - Error in stream_command: name 'select' is not defined
+[2024-09-20 05:31:16 +0000] [1584] [DEBUG] GET /
+[2024-09-20 05:31:16 +0000] [1584] [DEBUG] Closing connection. 
+[2024-09-20 05:31:27 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:31:27 +0000] [1585] [DEBUG] Closing connection. 
+[2024-09-20 05:31:46 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:31:46 +0000] [1585] [DEBUG] Closing connection. 
+[2024-09-20 05:31:57 +0000] [1585] [DEBUG] GET /
+[2024-09-20 05:31:57 +0000] [1585] [DEBUG] Closing connection. 
