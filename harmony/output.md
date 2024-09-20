@@ -2,4 +2,4 @@
 
 ## Task Completed: Define project specifications
 
-The global specifications have been defined and documented in `harmony/specifications.md`. The key objectives and deliverables for the project have been outlined to guide future development.
+The project specifications have been created and are now detailed in `harmony/specifications.md`. The document outlines the project overview, key features, technical requirements, and success metrics to guide future development.
