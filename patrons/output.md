@@ -8,3 +8,4 @@
 - The global specifications have been documented, detailing system requirements and performance metrics.
 - The initial request and specifications have been successfully incorporated into the project.
 - All tasks have been executed, and the project is now ready for the next phase of development.
+- Project development tasks are now in progress based on the defined objectives and specifications.
