@@ -5,51 +5,77 @@ import shlex
 import os
 import sys
 import time
+import logging
 from gunicorn.app.base import BaseApplication
+import psutil
+import signal
+from werkzeug.utils import secure_filename
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 app = Flask(__name__)
 
+# Configure logging
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# Configuration
+MAX_BUFFER_SIZE = int(os.getenv('MAX_BUFFER_SIZE', 1e6))  # 1MB default
+TIMEOUT = int(os.getenv('TIMEOUT', 600))  # 10 minutes default
+VENV_PATH = os.getenv('VENV_PATH', '/home/ubuntu/synthetic-souls/venv/bin')
+PROJECT_PATH = os.getenv('PROJECT_PATH', '/home/ubuntu/synthetic-souls')
+
 def stream_command(command):
     env = os.environ.copy()
-    env['PATH'] = f"/home/ubuntu/synthetic-souls/venv/bin:{env['PATH']}"
+    env['PATH'] = f"{VENV_PATH}:{env['PATH']}"
     
     def generate():
-        yield json.dumps({'debug': 'Starting command execution'}) + '\n'
-        
-        process = subprocess.Popen(
-            command,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            text=True,
-            bufsize=1,
-            universal_newlines=True,
-            cwd="/home/ubuntu/synthetic-souls",
-            env=env
-        )
-        
-        yield json.dumps({'debug': 'Process started'}) + '\n'
-        
-        start_time = time.time()
-        while True:
-            output = process.stdout.readline()
-            error = process.stderr.readline()
+        try:
+            yield json.dumps({'debug': 'Starting command execution'}) + '\n'
             
-            if output:
-                yield json.dumps({'output': output.strip()}) + '\n'
-            if error:
-                yield json.dumps({'error': error.strip()}) + '\n'
-            
-            if output == '' and error == '' and process.poll() is not None:
-                break
-            
-            # Check if 10 minutes have passed
-            if time.time() - start_time > 600:
-                yield json.dumps({'debug': 'Process timed out after 10 minutes'}) + '\n'
-                process.terminate()
-                break
-        
-        return_code = process.poll()
-        yield json.dumps({'debug': f'Process ended with return code {return_code}'}) + '\n'
+            with subprocess.Popen(
+                command,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                text=True,
+                bufsize=1,
+                universal_newlines=True,
+                cwd=PROJECT_PATH,
+                env=env,
+                preexec_fn=os.setsid
+            ) as process:
+                yield json.dumps({'debug': 'Process started'}) + '\n'
+                
+                start_time = time.time()
+                output_buffer = ""
+                while True:
+                    if process.poll() is not None:
+                        break
+                    
+                    # Use select to avoid blocking
+                    rlist, _, _ = select.select([process.stdout, process.stderr], [], [], 0.1)
+                    for stream in rlist:
+                        line = stream.readline()
+                        if line:
+                            output_buffer += line
+                            if len(output_buffer) > MAX_BUFFER_SIZE:
+                                yield json.dumps({'debug': 'Buffer size limit reached'}) + '\n'
+                                os.killpg(os.getpgid(process.pid), signal.SIGTERM)
+                                return
+                            yield json.dumps({'output' if stream == process.stdout else 'error': line.strip()}) + '\n'
+                    
+                    # Check timeout
+                    if time.time() - start_time > TIMEOUT:
+                        yield json.dumps({'debug': f'Process timed out after {TIMEOUT} seconds'}) + '\n'
+                        os.killpg(os.getpgid(process.pid), signal.SIGTERM)
+                        return
+                
+                return_code = process.returncode
+                yield json.dumps({'debug': f'Process ended with return code {return_code}'}) + '\n'
+        except Exception as e:
+            logging.error(f"Error in stream_command: {str(e)}")
+            yield json.dumps({'error': f'Internal server error: {str(e)}'}) + '\n'
 
     return generate()
 
@@ -59,27 +85,45 @@ def ping():
 
 @app.route('/kinos', methods=['POST'])
 def kinos():
-    data = request.json
-    role = data.get('role')
-    user_request = data.get('request')
-    folder = data.get('folder')
-    append_request = data.get('append_request')
-    
-    if not role:
-        return Response(json.dumps({'error': 'Role parameter is required'}), status=400, mimetype='application/json')
-    
-    command = ['/home/ubuntu/synthetic-souls/venv/bin/python', '-m', 'aider', '--role', role]
-    
-    if user_request:
-        command.extend(['--request', shlex.quote(user_request)])
-   
-    if folder:
-        command.extend(['--append-request', shlex.quote(append_request)])
+    try:
+        data = request.json
+        role = data.get('role')
+        user_request = data.get('request')
+        folder = data.get('folder')
+        append_request = data.get('append_request')
+        
+        if not role:
+            return Response(json.dumps({'error': 'Role parameter is required'}), status=400, mimetype='application/json')
+        
+        command = [f'{VENV_PATH}/python', '-m', 'aider', '--role', secure_filename(role)]
+        
+        if user_request:
+            command.extend(['--request', shlex.quote(user_request)])
+       
+        if append_request:
+            command.extend(['--append-request', shlex.quote(append_request)])
+        if folder:
+            command.extend(['--folder', secure_filename(folder)])
+        
+        return Response(stream_with_context(stream_command(command)), mimetype='application/json')
+    except Exception as e:
+        logging.error(f"Error in kinos endpoint: {str(e)}")
+        return Response(json.dumps({'error': f'Internal server error: {str(e)}'}), status=500, mimetype='application/json')
 
-    if folder:
-        command.extend(['--folder', shlex.quote(folder)])
-    
-    return Response(stream_with_context(stream_command(command)), mimetype='application/json')
+@app.route('/health', methods=['GET'])
+def health():
+    try:
+        cpu_usage = psutil.cpu_percent()
+        memory_usage = psutil.virtual_memory().percent
+        disk_usage = psutil.disk_usage('/').percent
+        return Response(json.dumps({
+            'cpu': cpu_usage,
+            'memory': memory_usage,
+            'disk': disk_usage
+        }), mimetype='application/json')
+    except Exception as e:
+        logging.error(f"Error in health endpoint: {str(e)}")
+        return Response(json.dumps({'error': f'Internal server error: {str(e)}'}), status=500, mimetype='application/json')
 
 class StandaloneApplication(BaseApplication):
     def __init__(self, app, options=None):
@@ -97,9 +141,9 @@ class StandaloneApplication(BaseApplication):
 
 if __name__ == '__main__':
     options = {
-        'bind': '0.0.0.0:8501',
-        'workers': 4,
-        'timeout': 600,  # 10 minutes in seconds
+        'bind': os.getenv('BIND', '0.0.0.0:8501'),
+        'workers': int(os.getenv('WORKERS', 4)),
+        'timeout': TIMEOUT,
         'worker_class': 'gevent',
         'capture_output': True,
         'loglevel': 'debug',
