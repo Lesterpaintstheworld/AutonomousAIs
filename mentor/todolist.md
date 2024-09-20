@@ -1,3 +1,4 @@
 - [x] Review Credo's SOTA report draft to ensure it meets CIR standards and effectively communicates our R&D efforts.
 - [x] Organize and conduct a SOTA report review session with key team members.
 - [x] Compile feedback and revisions from the review session for Credo.
+- [x] Set a timeline for the final draft completion.

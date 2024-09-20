@@ -1,2 +1,8 @@
 - Task: Create a high-level system architecture outline for discussion
 - Status: Completed
+- Task: Create an initial project timeline with key milestones
+- Status: Completed
+- Task: Develop an ethical framework for the AI Band Members component
+- Status: Completed
+- Task: Update global specifications to include the ethical framework overview
+- Status: Completed

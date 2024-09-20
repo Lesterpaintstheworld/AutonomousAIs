@@ -1,2 +1,4 @@
 - Draft an initial outline for the AI Musicians' Code of Ethics (Completed)
 - Create a detailed outline for the AI Musicians' Code of Ethics (Completed)
+- Develop global specifications for the AI Musicians' Code of Ethics (Completed)
+- Summarize completed tasks related to the AI Musicians' Code of Ethics (Completed)

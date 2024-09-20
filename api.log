@@ -1,4 +1,4 @@
-[2024-09-18 00:03:42 +0000] [36377] [DEBUG] Current configuration:
+[2024-09-18 17:04:48 +0000] [134660] [DEBUG] Current configuration:
   config: ./gunicorn.conf.py
   wsgi_app: None
   bind: ['0.0.0.0:8501']
@@ -58,22 +58,22 @@
   default_proc_name: gunicorn
   pythonpath: None
   paste: None
-  on_starting: <function OnStarting.on_starting at 0x70ef02739e40>
-  on_reload: <function OnReload.on_reload at 0x70ef02739f80>
-  when_ready: <function WhenReady.when_ready at 0x70ef0273a0c0>
-  pre_fork: <function Prefork.pre_fork at 0x70ef0273a2a0>
-  post_fork: <function Postfork.post_fork at 0x70ef0273a3e0>
-  post_worker_init: <function PostWorkerInit.post_worker_init at 0x70ef0273a520>
-  worker_int: <function WorkerInt.worker_int at 0x70ef0273a660>
-  worker_abort: <function WorkerAbort.worker_abort at 0x70ef0273a7a0>
-  pre_exec: <function PreExec.pre_exec at 0x70ef0273a8e0>
-  pre_request: <function PreRequest.pre_request at 0x70ef0273aa20>
-  post_request: <function PostRequest.post_request at 0x70ef0273aac0>
-  child_exit: <function ChildExit.child_exit at 0x70ef0273ac00>
-  worker_exit: <function WorkerExit.worker_exit at 0x70ef0273ad40>
-  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x70ef0273ae80>
-  on_exit: <function OnExit.on_exit at 0x70ef0273afc0>
-  ssl_context: <function NewSSLContext.ssl_context at 0x70ef0273b1a0>
+  on_starting: <function OnStarting.on_starting at 0x775084a3a160>
+  on_reload: <function OnReload.on_reload at 0x775084a3a2a0>
+  when_ready: <function WhenReady.when_ready at 0x775084a3a3e0>
+  pre_fork: <function Prefork.pre_fork at 0x775084a3a5c0>
+  post_fork: <function Postfork.post_fork at 0x775084a3a700>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x775084a3a840>
+  worker_int: <function WorkerInt.worker_int at 0x775084a3a980>
+  worker_abort: <function WorkerAbort.worker_abort at 0x775084a3aac0>
+  pre_exec: <function PreExec.pre_exec at 0x775084a3ac00>
+  pre_request: <function PreRequest.pre_request at 0x775084a3ad40>
+  post_request: <function PostRequest.post_request at 0x775084a3ade0>
+  child_exit: <function ChildExit.child_exit at 0x775084a3af20>
+  worker_exit: <function WorkerExit.worker_exit at 0x775084a3b060>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x775084a3b1a0>
+  on_exit: <function OnExit.on_exit at 0x775084a3b2e0>
+  ssl_context: <function NewSSLContext.ssl_context at 0x775084a3b4c0>
   proxy_protocol: False
   proxy_allow_ips: ['127.0.0.1', '::1']
   keyfile: None
@@ -92,999 +92,1958 @@
   casefold_http_method: False
   forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
   header_map: drop
-[2024-09-18 00:03:42 +0000] [36377] [INFO] Starting gunicorn 23.0.0
-[2024-09-18 00:03:42 +0000] [36377] [DEBUG] Arbiter booted
-[2024-09-18 00:03:42 +0000] [36377] [INFO] Listening at: http://0.0.0.0:8501 (36377)
-[2024-09-18 00:03:42 +0000] [36377] [INFO] Using worker: gevent
-[2024-09-18 00:03:42 +0000] [36378] [INFO] Booting worker with pid: 36378
-[2024-09-18 00:03:42 +0000] [36379] [INFO] Booting worker with pid: 36379
-[2024-09-18 00:03:42 +0000] [36380] [INFO] Booting worker with pid: 36380
-[2024-09-18 00:03:42 +0000] [36381] [INFO] Booting worker with pid: 36381
-[2024-09-18 00:03:42 +0000] [36377] [DEBUG] 4 workers
-[2024-09-18 00:03:45 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:03:45 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:03:45 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:03:45 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:04:15 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:04:15 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:04:15 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:04:15 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:04:45 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:04:45 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:04:45 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:04:45 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:05:15 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:05:15 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:05:15 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:05:15 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:05:35 +0000] [36380] [DEBUG] GET /kinos
-[2024-09-18 00:05:45 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:05:45 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:05:46 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:05:46 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:06:15 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:06:15 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:06:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:06:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:06:45 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:06:45 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:06:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:06:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:07:15 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:07:15 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:07:16 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:07:16 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:07:45 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:07:45 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:07:46 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:07:46 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:08:15 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:08:15 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:08:16 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:08:16 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:08:45 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:08:45 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:08:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:08:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:09:15 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:09:15 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:09:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:09:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:09:45 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:09:45 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:09:46 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:09:46 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:10:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:10:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:10:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:10:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:10:34 +0000] [36381] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4331 > 4094)
-[2024-09-18 00:10:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:10:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:10:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:10:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:11:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:11:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:11:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:11:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:11:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:11:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:11:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:11:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:12:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:12:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:12:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:12:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:12:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:12:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:12:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:12:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:12:59 +0000] [36380] [DEBUG] GET /admin/.env
-[2024-09-18 00:13:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:13:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:13:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:13:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:13:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:13:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:13:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:13:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:14:16 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:14:16 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:14:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:14:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:14:27 +0000] [36380] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (5167 > 4094)
-[2024-09-18 00:14:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:14:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:14:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:14:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:15:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:15:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:15:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:15:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:15:23 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:15:25 +0000] [36380] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (5523 > 4094)
-[2024-09-18 00:15:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:15:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:15:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:15:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:15:56 +0000] [36381] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (5887 > 4094)
-[2024-09-18 00:16:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:16:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:16:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:16:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:16:46 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:16:46 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:16:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:16:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:17:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:17:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:17:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:17:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:17:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:17:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:17:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:17:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:18:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:18:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:18:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:18:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:18:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:18:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:18:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:18:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:19:16 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:19:16 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:19:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:19:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:19:36 +0000] [36380] [DEBUG] POST /hello.world
-[2024-09-18 00:19:36 +0000] [36380] [DEBUG] GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2024-09-18 00:19:36 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:19:37 +0000] [36380] [DEBUG] GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-[2024-09-18 00:19:37 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:19:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:19:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:19:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:19:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:20:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:20:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:20:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:20:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:20:45 +0000] [36380] [DEBUG] GET /vendor/phpunit/src/Util/PHP/eval-stdin.php
-[2024-09-18 00:20:45 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:20:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:20:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:20:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:20:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:20:50 +0000] [36380] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4140 > 4094)
-[2024-09-18 00:20:53 +0000] [36380] [DEBUG] GET /vendor/phpunit/Util/PHP/eval-stdin.php
-[2024-09-18 00:20:53 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:20:54 +0000] [36380] [DEBUG] GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php
-[2024-09-18 00:20:54 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:20:56 +0000] [36380] [DEBUG] GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-[2024-09-18 00:20:56 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:21:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:21:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:21:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:21:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:21:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:21:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:21:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:21:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:22:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:22:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:22:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:22:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:22:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:22:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:22:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:22:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:23:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:23:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:23:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:23:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:23:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:23:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:23:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:23:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:24:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:24:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:24:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:24:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:24:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:24:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:24:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:24:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:24:53 +0000] [36380] [DEBUG] GET /kinos
-[2024-09-18 00:25:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:25:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:25:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:25:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:25:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:25:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:25:46 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:25:46 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:25:53 +0000] [36380] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (6055 > 4094)
-[2024-09-18 00:26:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:26:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:26:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:26:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:26:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:26:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:26:46 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:26:46 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:27:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:27:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:27:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:27:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:27:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:27:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:27:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:27:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:28:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:28:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:28:16 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:28:16 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:28:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:28:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:28:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:28:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:29:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:29:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:29:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:29:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:29:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:29:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:29:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:29:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:30:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:30:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:30:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:30:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:30:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:30:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:30:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:30:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:30:50 +0000] [36380] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4368 > 4094)
-[2024-09-18 00:31:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:31:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:31:17 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:31:17 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:31:32 +0000] [36380] [DEBUG] GET /js/NewWindow_2_all.js
-[2024-09-18 00:31:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:31:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:31:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:31:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:32:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:32:16 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:32:17 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:32:17 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:32:20 +0000] [36380] [DEBUG] Ignoring EPIPE
-[2024-09-18 00:32:46 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:32:46 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:32:47 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:32:47 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:33:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:33:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:33:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:33:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:33:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:33:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:33:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:33:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:34:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:34:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:34:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:34:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:34:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:34:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:34:47 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:34:47 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:35:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:35:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:35:17 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:35:17 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:35:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:35:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:35:47 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:35:47 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:35:49 +0000] [36380] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4235 > 4094)
-[2024-09-18 00:36:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:36:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:36:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:36:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:36:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:36:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:36:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:36:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:36:52 +0000] [36381] [DEBUG] GET /kinos
-[2024-09-18 00:37:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:37:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:37:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:37:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:37:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:37:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:37:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:37:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /dns-query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] POST /dns-query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /dns-query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /dns-query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] POST /dns-query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /dns-query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] POST /query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] POST /query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /query
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /resolve
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] POST /resolve
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /resolve
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /resolve
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] POST /resolve
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /resolve
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] POST /
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] POST /
-[2024-09-18 00:38:10 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:38:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:38:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:38:17 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:38:17 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:38:24 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:38:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:38:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:38:47 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:38:47 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:39:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:39:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:39:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:39:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:39:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:39:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:39:47 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:39:47 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:40:17 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:40:17 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:40:17 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:40:17 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:40:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:40:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:40:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:40:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:40:51 +0000] [36380] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4373 > 4094)
-[2024-09-18 00:41:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:41:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:41:17 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:41:17 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:41:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:41:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:41:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:41:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:42:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:42:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:42:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:42:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:42:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:42:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:42:47 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:42:47 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:43:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:43:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:43:17 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:43:17 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:43:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:43:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:43:47 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:43:47 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:44:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:44:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:44:17 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:44:17 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:44:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:44:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:44:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:44:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:45:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:45:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:45:17 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:45:17 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:45:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:45:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:45:47 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:45:47 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:45:49 +0000] [36380] [DEBUG] GET /kinos
-[2024-09-18 00:46:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:46:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:46:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:46:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:46:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:46:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:46:47 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:46:47 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:47:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:47:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:47:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:47:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:47:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:47:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:47:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:47:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:48:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:48:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:48:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:48:17 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:48:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:48:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:48:47 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:48:47 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:48:53 +0000] [36380] [DEBUG] GET /kinos
-[2024-09-18 00:49:17 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:49:17 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:49:17 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:49:17 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:49:47 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:49:47 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:49:47 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:49:47 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:50:17 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:50:17 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:50:17 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:50:17 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:50:47 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:50:47 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:50:48 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:50:48 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:50:51 +0000] [36380] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (4538 > 4094)
-[2024-09-18 00:51:17 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:51:17 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:51:18 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:51:18 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:51:47 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:51:47 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:51:48 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:51:48 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:52:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:52:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:52:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:52:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:52:48 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:52:48 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:52:48 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:52:48 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:52:58 +0000] [36380] [DEBUG] Ignoring EPIPE
-[2024-09-18 00:53:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:53:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:53:18 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:53:18 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:53:48 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:53:48 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:53:48 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:53:48 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:54:18 +0000] [36379] [DEBUG] GET /
-[2024-09-18 00:54:18 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 00:54:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 00:54:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 00:54:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:54:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:54:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:54:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:55:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:55:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:55:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:55:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:55:19 +0000] [36380] [DEBUG] GET /cdn-cgi/trace
-[2024-09-18 00:55:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:55:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:55:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:55:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:55:51 +0000] [36380] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (4233 > 4094)
-[2024-09-18 00:56:06 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:56:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:56:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:56:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:56:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:56:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:56:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:56:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:56:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:57:18 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:57:18 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:57:18 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:57:18 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:57:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:57:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:57:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:57:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:58:00 +0000] [36380] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (5474 > 4094)
-[2024-09-18 00:58:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:58:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:58:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:58:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:58:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:58:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:58:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:58:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:59:18 +0000] [36381] [DEBUG] GET /
-[2024-09-18 00:59:18 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 00:59:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:59:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:59:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:59:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 00:59:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 00:59:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:00:18 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:00:18 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:00:18 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:00:18 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:00:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:00:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:00:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:00:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:00:52 +0000] [36380] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (5788 > 4094)
-[2024-09-18 01:00:54 +0000] [36380] [DEBUG] GET /kinos
-[2024-09-18 01:00:57 +0000] [36380] [DEBUG] GET /cdn-cgi/trace
-[2024-09-18 01:01:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:01:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:01:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:01:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:01:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:01:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:01:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:01:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:02:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:02:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:02:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:02:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:02:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:02:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:02:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:02:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:03:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:03:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:03:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:03:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:03:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:03:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:03:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:03:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:04:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:04:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:04:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:04:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:04:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:04:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:04:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:04:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:04:58 +0000] [36380] [DEBUG] Ignoring EPIPE
-[2024-09-18 01:05:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:05:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:05:18 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:05:18 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:05:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:05:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:05:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:05:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:05:53 +0000] [36380] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (5377 > 4094)
-[2024-09-18 01:06:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:06:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:06:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:06:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:06:28 +0000] [36380] [DEBUG] GET /kinos
-[2024-09-18 01:06:48 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:06:48 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:06:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:06:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:07:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:07:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:07:18 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:07:18 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:07:48 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:07:48 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:07:48 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:07:48 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:08:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:08:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:08:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:08:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:08:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:08:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:08:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:08:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:09:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:09:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:09:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:09:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:09:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:09:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:09:48 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:09:48 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:10:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:10:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:10:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:10:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:10:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:10:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:10:48 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:10:48 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:11:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:11:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:11:18 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:11:18 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:11:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:11:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:11:48 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:11:48 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:12:18 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:12:18 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:12:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:12:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:12:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:12:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:12:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:12:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:12:54 +0000] [36380] [DEBUG] GET /kinos
-[2024-09-18 01:13:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:13:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:13:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:13:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:13:48 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:13:48 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:13:48 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:13:48 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:14:18 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:14:18 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:14:18 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:14:18 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:14:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:14:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:14:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:14:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:15:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:15:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:15:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:15:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:15:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:15:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:15:49 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:15:49 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:15:50 +0000] [36380] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (4770 > 4094)
-[2024-09-18 01:16:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:16:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:16:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:16:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:16:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:16:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:16:49 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:16:49 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:17:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:17:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:17:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:17:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:17:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:17:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:17:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:17:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:18:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:18:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:18:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:18:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:18:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:18:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:18:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:18:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:19:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:19:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:19:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:19:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:19:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:19:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:19:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:19:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:19:55 +0000] [36380] [DEBUG] GET /js/NewWindow_2_all.js
-[2024-09-18 01:20:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:20:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:20:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:20:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:20:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:20:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:20:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:20:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:20:49 +0000] [36381] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (5385 > 4094)
-[2024-09-18 01:21:01 +0000] [36381] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (4164 > 4094)
-[2024-09-18 01:21:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:21:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:21:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:21:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:21:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:21:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:21:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:21:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:22:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:22:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:22:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:22:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:22:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:22:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:22:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:22:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:23:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:23:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:23:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:23:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:23:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:23:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:23:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:23:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:24:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:24:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:24:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:24:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:24:37 +0000] [36380] [DEBUG] GET /kinos
-[2024-09-18 01:24:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:24:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:24:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:24:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:24:50 +0000] [36381] [DEBUG] GET /kinos
-[2024-09-18 01:25:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:25:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:25:19 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:25:19 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:25:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:25:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:25:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:25:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:25:53 +0000] [36380] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (6069 > 4094)
-[2024-09-18 01:26:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:26:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:26:19 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:26:19 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:26:27 +0000] [36381] [DEBUG] Ignoring EPIPE
-[2024-09-18 01:26:49 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:26:49 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:26:49 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:26:49 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:27:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:27:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:27:19 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:27:19 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:27:37 +0000] [36381] [DEBUG] GET /kinos
-[2024-09-18 01:27:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:27:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:27:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:27:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:28:14 +0000] [36380] [DEBUG] GET /dns-query
-[2024-09-18 01:28:14 +0000] [36380] [DEBUG] POST /dns-query
-[2024-09-18 01:28:14 +0000] [36380] [DEBUG] GET /dns-query
-[2024-09-18 01:28:14 +0000] [36380] [DEBUG] GET /dns-query
-[2024-09-18 01:28:14 +0000] [36380] [DEBUG] POST /dns-query
-[2024-09-18 01:28:14 +0000] [36380] [DEBUG] GET /dns-query
-[2024-09-18 01:28:14 +0000] [36380] [DEBUG] GET /query
-[2024-09-18 01:28:15 +0000] [36380] [DEBUG] POST /query
-[2024-09-18 01:28:15 +0000] [36380] [DEBUG] GET /query
-[2024-09-18 01:28:15 +0000] [36380] [DEBUG] GET /query
-[2024-09-18 01:28:15 +0000] [36380] [DEBUG] POST /query
-[2024-09-18 01:28:15 +0000] [36380] [DEBUG] GET /query
-[2024-09-18 01:28:15 +0000] [36380] [DEBUG] GET /resolve
-[2024-09-18 01:28:15 +0000] [36380] [DEBUG] POST /resolve
-[2024-09-18 01:28:15 +0000] [36380] [DEBUG] GET /resolve
-[2024-09-18 01:28:16 +0000] [36380] [DEBUG] GET /resolve
-[2024-09-18 01:28:16 +0000] [36380] [DEBUG] POST /resolve
-[2024-09-18 01:28:16 +0000] [36380] [DEBUG] GET /resolve
-[2024-09-18 01:28:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:28:16 +0000] [36380] [DEBUG] POST /
-[2024-09-18 01:28:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:28:16 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:28:17 +0000] [36380] [DEBUG] POST /
-[2024-09-18 01:28:17 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:28:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:28:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:28:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:28:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:28:48 +0000] [36381] [DEBUG] GET /kinos
-[2024-09-18 01:28:49 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:28:49 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:28:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:28:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:29:19 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:29:19 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:29:19 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:29:19 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:29:49 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:29:49 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:29:49 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:29:49 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:30:19 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:30:19 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:30:19 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:30:19 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:30:25 +0000] [36381] [DEBUG] GET /kinos
-[2024-09-18 01:30:49 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:30:49 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:30:49 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:30:49 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:30:53 +0000] [36379] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (5209 > 4094)
-[2024-09-18 01:30:57 +0000] [36381] [DEBUG] GET /kinos
-[2024-09-18 01:31:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:31:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:31:19 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:31:19 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:31:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:31:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:31:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:31:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:32:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:32:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:32:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:32:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:32:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:32:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:32:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:32:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:33:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:33:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:33:19 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:33:19 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:33:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:33:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:33:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:33:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:34:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:34:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:34:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:34:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:34:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:34:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:34:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:34:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:35:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:35:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:35:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:35:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:35:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:35:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:35:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:35:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:35:50 +0000] [36380] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (5389 > 4094)
-[2024-09-18 01:36:19 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:36:19 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:36:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:36:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:36:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:36:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:36:49 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:36:49 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:36:50 +0000] [36381] [DEBUG] GET /kinos
-[2024-09-18 01:37:19 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:37:19 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:37:20 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:37:20 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:37:49 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:37:49 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:37:50 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:37:50 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:38:15 +0000] [36381] [DEBUG] Ignoring EPIPE
-[2024-09-18 01:38:20 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:38:20 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:38:20 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:38:20 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:38:50 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:38:50 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:38:50 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:38:50 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:39:10 +0000] [36380] [DEBUG] GET /kinos
-[2024-09-18 01:39:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:39:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:39:20 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:39:20 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:39:50 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:39:50 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:39:50 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:39:50 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:40:20 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:40:20 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:40:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:40:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:40:27 +0000] [36380] [DEBUG] Ignoring EPIPE
-[2024-09-18 01:40:48 +0000] [36378] [WARNING] Invalid request from ip=172.31.45.52: Request Line is too large (4304 > 4094)
-[2024-09-18 01:40:50 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:40:50 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:40:50 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:40:50 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:41:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:41:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:41:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:41:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:41:50 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:41:50 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:41:50 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:41:50 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:42:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:42:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:42:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:42:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:42:50 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:42:50 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:42:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:42:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:43:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:43:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:43:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:43:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:43:50 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:43:50 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:43:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:43:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:44:20 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:44:20 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:44:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:44:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:44:50 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:44:50 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:44:50 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:44:50 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:45:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:45:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:45:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:45:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:45:28 +0000] [36379] [DEBUG] GET /kinos
-[2024-09-18 01:45:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:45:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:45:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:45:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:45:58 +0000] [36381] [DEBUG] GET /kinos
-[2024-09-18 01:46:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:46:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:46:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:46:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:46:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:46:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:46:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:46:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:47:13 +0000] [36379] [DEBUG] Ignoring EPIPE
-[2024-09-18 01:47:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:47:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:47:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:47:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:47:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:47:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:47:50 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:47:50 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:48:20 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:48:20 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:48:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:48:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:48:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:48:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:48:50 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:48:50 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:48:55 +0000] [36378] [DEBUG] GET /kinos
-[2024-09-18 01:49:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:49:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:49:20 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:49:20 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:49:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:49:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:49:50 +0000] [36381] [DEBUG] GET /
-[2024-09-18 01:49:50 +0000] [36381] [DEBUG] Closing connection. 
-[2024-09-18 01:50:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:50:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:50:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:50:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:50:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:50:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:50:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:50:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:50:50 +0000] [36378] [WARNING] Invalid request from ip=172.31.4.142: Request Line is too large (5276 > 4094)
-[2024-09-18 01:51:17 +0000] [36381] [DEBUG] Ignoring EPIPE
-[2024-09-18 01:51:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:51:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:51:20 +0000] [36379] [DEBUG] GET /
-[2024-09-18 01:51:20 +0000] [36379] [DEBUG] Closing connection. 
-[2024-09-18 01:51:50 +0000] [36378] [DEBUG] GET /
-[2024-09-18 01:51:50 +0000] [36378] [DEBUG] Closing connection. 
-[2024-09-18 01:51:50 +0000] [36380] [DEBUG] GET /
-[2024-09-18 01:51:50 +0000] [36380] [DEBUG] Closing connection. 
-[2024-09-18 01:52:02 +0000] [36378] [DEBUG] GET /kinos
+[2024-09-18 17:04:48 +0000] [134660] [INFO] Starting gunicorn 23.0.0
+[2024-09-18 17:04:48 +0000] [134660] [DEBUG] Arbiter booted
+[2024-09-18 17:04:48 +0000] [134660] [INFO] Listening at: http://0.0.0.0:8501 (134660)
+[2024-09-18 17:04:48 +0000] [134660] [INFO] Using worker: gevent
+[2024-09-18 17:04:48 +0000] [134661] [INFO] Booting worker with pid: 134661
+[2024-09-18 17:04:48 +0000] [134662] [INFO] Booting worker with pid: 134662
+[2024-09-18 17:04:48 +0000] [134663] [INFO] Booting worker with pid: 134663
+[2024-09-18 17:04:48 +0000] [134664] [INFO] Booting worker with pid: 134664
+[2024-09-18 17:04:49 +0000] [134660] [DEBUG] 4 workers
+[2024-09-18 17:04:53 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:04:53 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:04:53 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:04:53 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:05:23 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:05:23 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:05:23 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:05:23 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:05:42 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:05:53 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:05:53 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:05:53 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:05:53 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:06:23 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:06:23 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:06:23 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:06:23 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:06:26 +0000] [134664] [DEBUG] GET /manager/text/list
+[2024-09-18 17:06:29 +0000] [134664] [DEBUG] POST /kinos
+[2024-09-18 17:06:53 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:06:53 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:06:53 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:06:53 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:07:23 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:07:23 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:07:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:07:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:07:53 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:07:53 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:07:53 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:07:53 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:08:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:08:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:08:23 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:08:23 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:08:53 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:08:53 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:08:53 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:08:53 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:09:23 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:09:23 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:09:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:09:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:09:53 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:09:53 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:09:53 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:09:53 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:10:12 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:10:23 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:10:23 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:10:23 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:10:23 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:10:38 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:10:42 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:10:53 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:10:53 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:10:53 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:10:53 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:11:23 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:11:23 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:11:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:11:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:11:40 +0000] [134664] [DEBUG] Ignoring EPIPE
+[2024-09-18 17:11:53 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:11:53 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:11:53 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:11:53 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:12:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:12:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:12:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:12:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:12:53 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:12:53 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:12:53 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:12:53 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:12:57 +0000] [134662] [DEBUG] GET /.git/config
+[2024-09-18 17:13:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:13:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:13:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:13:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:13:47 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:13:53 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:13:53 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:13:53 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:13:53 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:14:03 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:14:23 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:14:23 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:14:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:14:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:14:53 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:14:53 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:14:53 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:14:53 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:15:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:15:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:15:24 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:15:24 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:15:43 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:15:53 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:15:53 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:15:54 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:15:54 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:16:10 +0000] [134662] [DEBUG] Ignoring EPIPE
+[2024-09-18 17:16:23 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:16:23 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:16:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:16:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:16:53 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:16:53 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:16:54 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:16:54 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:16:57 +0000] [134662] [DEBUG] Ignoring EPIPE
+[2024-09-18 17:17:23 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:17:23 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:17:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:17:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:17:53 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:17:53 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:17:54 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:17:54 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:18:23 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:18:23 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:18:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:18:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:18:53 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:18:53 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:18:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:18:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:19:23 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:19:23 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:19:24 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:19:24 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:19:26 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:19:28 +0000] [134662] [DEBUG] GET /favicon.ico
+[2024-09-18 17:19:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:19:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:19:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:19:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:20:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:20:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:20:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:20:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:20:33 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:20:34 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:20:37 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:20:50 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:20:52 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:20:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:20:54 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:20:54 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:20:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:21:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:21:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:21:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:21:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:21:45 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:21:47 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:21:53 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:21:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:21:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:21:54 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:21:54 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:21:59 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:22:13 +0000] [134663] [DEBUG] Ignoring EPIPE
+[2024-09-18 17:22:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:22:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:22:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:22:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:22:25 +0000] [134662] [DEBUG] Ignoring EPIPE
+[2024-09-18 17:22:46 +0000] [134662] [DEBUG] Ignoring EPIPE
+[2024-09-18 17:22:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:22:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:22:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:22:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:23:24 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:23:24 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:23:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:23:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:23:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:23:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:23:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:23:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:24:11 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:24:12 +0000] [134661] [DEBUG] Ignoring EPIPE
+[2024-09-18 17:24:18 +0000] [134662] [DEBUG] Ignoring EPIPE
+[2024-09-18 17:24:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:24:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:24:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:24:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:24:54 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:24:54 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:24:54 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:24:54 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:25:06 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:25:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:25:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:25:24 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:25:24 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:25:36 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:25:38 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:25:54 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:25:54 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:25:54 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:25:54 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:25:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:26:19 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:26:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:26:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:26:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:26:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:26:39 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:26:41 +0000] [134662] [DEBUG] GET /favicon.ico
+[2024-09-18 17:26:47 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:26:49 +0000] [134664] [DEBUG] POST /kinos
+[2024-09-18 17:26:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:26:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:26:54 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:26:54 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:27:24 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:27:24 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:27:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:27:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:27:41 +0000] [134663] [DEBUG] Ignoring EPIPE
+[2024-09-18 17:27:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:27:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:27:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:27:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:28:16 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:28:18 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:28:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:28:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:28:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:28:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:28:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:28:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:28:54 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:28:54 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:29:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:29:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:29:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:29:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:29:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:29:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:29:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:29:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:30:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:30:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:30:24 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:30:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:30:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:30:36 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:30:38 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:30:41 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:30:54 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:30:54 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:30:54 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:30:54 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:31:06 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:31:24 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:31:24 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:31:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:31:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:31:33 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:31:40 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:31:48 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:31:49 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:31:50 +0000] [134664] [DEBUG] POST /kinos
+[2024-09-18 17:31:54 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:31:54 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:31:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:31:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:32:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:32:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:32:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:32:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:32:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:32:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:32:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:32:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:33:24 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:33:24 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:33:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:33:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:33:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:33:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:33:54 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:33:54 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:34:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:34:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:34:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:34:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:34:51 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:34:53 +0000] [134662] [DEBUG] GET /favicon.ico
+[2024-09-18 17:34:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:34:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:34:54 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:34:54 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:35:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:35:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:35:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:35:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:35:42 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:35:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:35:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:35:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:35:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:36:24 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:36:24 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:36:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:36:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:36:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:36:27 +0000] [134661] [DEBUG] GET /cdn-cgi/trace
+[2024-09-18 17:36:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:36:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:36:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:36:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:36:57 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:37:15 +0000] [134661] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 17:37:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:37:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:37:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:37:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:37:29 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:37:33 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:37:42 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:37:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:37:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:37:54 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:37:54 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:38:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:38:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:38:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:38:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:38:24 +0000] [134663] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 17:38:54 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:38:54 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:38:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:38:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:39:16 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:39:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:39:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:39:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:39:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:39:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:39:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:39:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:39:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:40:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:40:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:40:25 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:40:25 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:40:27 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:40:36 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:40:38 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:40:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:40:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:40:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:40:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:41:24 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:41:24 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:41:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:41:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:41:34 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:41:40 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:41:48 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:41:49 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:41:54 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:41:54 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:41:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:41:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:42:24 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:42:24 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:42:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:42:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:42:31 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:42:38 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:42:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:42:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:42:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:42:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:43:24 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:43:24 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:43:25 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:43:25 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:43:46 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:43:54 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:43:54 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:43:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:43:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:44:17 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:44:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:44:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:44:25 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:44:25 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:44:55 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:44:55 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:44:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:44:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:44:59 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:45:00 +0000] [134662] [DEBUG] GET /favicon.ico
+[2024-09-18 17:45:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:45:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:45:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:45:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:45:38 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:45:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:45:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:45:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:45:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:46:18 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:46:19 +0000] [134662] [DEBUG] GET /favicon.ico
+[2024-09-18 17:46:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:46:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:46:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:46:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:46:47 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:46:47 +0000] [134662] [DEBUG] GET /myadmin/scripts/setup.php
+[2024-09-18 17:46:47 +0000] [134662] [DEBUG] POST /myadmin/scripts/setup.php
+[2024-09-18 17:46:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:46:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:46:55 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:46:55 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:47:16 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:47:25 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:47:25 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:47:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:47:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:47:40 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:47:45 +0000] [134661] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 17:47:55 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:47:55 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:47:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:47:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:48:25 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:48:25 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:48:25 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:48:25 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:48:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:48:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:48:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:48:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:49:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:49:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:49:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:49:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:49:28 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:49:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:49:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:49:55 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:49:55 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:50:17 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:50:22 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:50:23 +0000] [134661] [DEBUG] GET /favicon.ico
+[2024-09-18 17:50:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:50:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:50:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:50:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:50:29 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:50:40 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:50:40 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 17:50:41 +0000] [134662] [DEBUG] GET /.git/config
+[2024-09-18 17:50:42 +0000] [134661] [DEBUG] GET /.git/config
+[2024-09-18 17:50:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:50:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:50:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:50:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:50:59 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:51:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:51:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:51:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:51:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:51:45 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:51:54 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:51:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:51:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:51:55 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:51:55 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:51:55 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:52:25 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:52:25 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:52:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:52:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:52:28 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:52:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:52:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:52:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:52:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:53:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:53:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:53:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:53:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:53:48 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:53:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:53:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:53:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:53:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:54:25 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:54:25 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:54:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:54:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:54:55 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:54:55 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:54:55 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:54:55 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:55:25 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:55:25 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:55:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:55:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:55:38 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:55:48 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 17:55:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:55:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:55:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:55:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:56:38 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:56:38 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:56:38 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:56:39 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:56:39 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:57:13 +0000] [134663] [DEBUG] GET /favicon.ico
+[2024-09-18 17:57:13 +0000] [134664] [DEBUG] POST /kinos
+[2024-09-18 17:57:13 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:57:13 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:57:13 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:57:13 +0000] [134661] [DEBUG] GET /
+[2024-09-18 17:57:13 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 17:57:13 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 17:57:25 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:57:25 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:57:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:57:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:57:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:57:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:57:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:57:56 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:58:25 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:58:25 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:58:26 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:58:26 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 17:58:36 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:58:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:58:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 17:58:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 17:58:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:59:06 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:59:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:59:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:59:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:59:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:59:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 17:59:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 17:59:55 +0000] [134664] [DEBUG] GET /
+[2024-09-18 17:59:55 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 18:00:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 18:00:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:00:25 +0000] [134664] [DEBUG] GET /
+[2024-09-18 18:00:25 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 18:00:27 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:00:29 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 18:00:35 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:00:42 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 18:00:42 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 18:00:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 18:00:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:00:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:00:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:00:57 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 18:00:59 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 18:01:20 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 18:01:25 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:01:25 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:01:26 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:01:26 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:01:39 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 18:01:49 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:01:52 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 18:01:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 18:01:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:01:56 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:01:56 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:01:57 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:01:58 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:02:02 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:02:14 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 18:02:18 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 18:02:25 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:02:25 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:02:26 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:02:26 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:02:55 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:02:55 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:02:55 +0000] [134664] [DEBUG] GET /
+[2024-09-18 18:02:55 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 18:03:26 +0000] [134662] [DEBUG] GET /
+[2024-09-18 18:03:26 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:03:26 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:03:26 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:03:48 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:03:55 +0000] [134662] [DEBUG] GET /
+[2024-09-18 18:03:55 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:03:56 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:03:56 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:04:02 +0000] [134662] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 18:04:17 +0000] [134661] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 18:04:25 +0000] [134662] [DEBUG] GET /
+[2024-09-18 18:04:25 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:04:26 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:04:26 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:04:56 +0000] [134662] [DEBUG] GET /
+[2024-09-18 18:04:56 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:04:56 +0000] [134664] [DEBUG] GET /
+[2024-09-18 18:04:56 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 18:05:26 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:05:26 +0000] [134662] [DEBUG] GET /
+[2024-09-18 18:05:26 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:05:26 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:05:38 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 18:05:40 +0000] [134664] [DEBUG] POST /kinos
+[2024-09-18 18:05:42 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 18:06:00 +0000] [134662] [DEBUG] GET /
+[2024-09-18 18:06:00 +0000] [134664] [DEBUG] GET /
+[2024-09-18 18:06:01 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 18:06:01 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:06:47 +0000] [134664] [DEBUG] GET /
+[2024-09-18 18:06:47 +0000] [134663] [DEBUG] GET /
+[2024-09-18 18:06:53 +0000] [134664] [DEBUG] Ignoring EPIPE
+[2024-09-18 18:06:53 +0000] [134663] [DEBUG] Ignoring EPIPE
+[2024-09-18 18:07:18 +0000] [134662] [DEBUG] POST /kinos
+[2024-09-18 18:07:18 +0000] [134661] [DEBUG] POST /kinos
+[2024-09-18 18:07:22 +0000] [134663] [DEBUG] POST /kinos
+[2024-09-18 18:07:27 +0000] [134664] [DEBUG] GET /
+[2024-09-18 18:15:42 +0000] [134661] [DEBUG] Ignoring EPIPE
+[2024-09-18 18:18:24 +0000] [134660] [CRITICAL] WORKER TIMEOUT (pid:134662)
+[2024-09-18 18:26:33 +0000] [134664] [DEBUG] Closing connection. 
+[2024-09-18 18:29:10 +0000] [134660] [CRITICAL] WORKER TIMEOUT (pid:134663)
+[2024-09-18 18:35:00 +0000] [134660] [CRITICAL] WORKER TIMEOUT (pid:134664)
+[2024-09-18 18:40:15 +0000] [134662] [DEBUG] Closing connection. 
+[2024-09-18 18:40:35 +0000] [134660] [CRITICAL] WORKER TIMEOUT (pid:134661)
+[2024-09-18 18:45:57 +0000] [134660] [ERROR] Worker (pid:134662) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 18:46:04 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 18:46:04 +0000] [134663] [DEBUG] Closing connection. 
+[2024-09-18 18:45:57 +0000] [134664] [INFO] Worker exiting (pid: 134664)
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-18 18:46:14 +0000] [134660] [ERROR] Worker (pid:134663) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 18:46:14 +0000] [134660] [ERROR] Worker (pid:134664) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 18:46:14 +0000] [187253] [INFO] Booting worker with pid: 187253
+[2024-09-18 18:46:15 +0000] [134660] [DEBUG] 3 workers
+[2024-09-18 18:46:15 +0000] [187275] [INFO] Booting worker with pid: 187275
+[2024-09-18 18:46:15 +0000] [187277] [INFO] Booting worker with pid: 187277
+[2024-09-18 18:46:15 +0000] [134660] [DEBUG] 4 workers
+[2024-09-18 18:46:23 +0000] [134661] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 18:46:45 +0000] [134661] [WARNING] Worker graceful timeout (pid:134661)
+[2024-09-18 18:46:46 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 18:46:46 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 18:46:46 +0000] [134661] [DEBUG] Closing connection. 
+[2024-09-18 18:46:46 +0000] [134661] [INFO] Worker exiting (pid: 134661)
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
+[2024-09-18 18:46:50 +0000] [187655] [INFO] Booting worker with pid: 187655
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:46:59 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:46:59 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:00 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:00 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:00 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] GET /.env
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:01 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:02 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:02 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:02 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:03 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:03 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:47:04 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:04 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:47:05 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:47:05 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:47:05 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:05 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:05 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:05 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:47:05 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:47:05 +0000] [187275] [DEBUG] Ignoring EPIPE
+[2024-09-18 18:47:05 +0000] [187277] [DEBUG] POST /kinos
+[2024-09-18 18:47:06 +0000] [187277] [DEBUG] Ignoring EPIPE
+[2024-09-18 18:47:27 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:27 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:27 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:47:28 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:47:57 +0000] [187655] [DEBUG] GET /
+[2024-09-18 18:47:57 +0000] [187655] [DEBUG] Closing connection. 
+[2024-09-18 18:47:57 +0000] [187655] [DEBUG] GET /
+[2024-09-18 18:47:57 +0000] [187655] [DEBUG] Closing connection. 
+[2024-09-18 18:48:28 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:48:28 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:48:28 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:48:28 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:48:57 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:48:57 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:48:58 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:48:58 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:49:27 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:49:27 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:49:28 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:49:28 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:50:04 +0000] [187655] [DEBUG] GET /
+[2024-09-18 18:50:04 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:50:04 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:50:04 +0000] [187655] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187275] [DEBUG] POST /kinos
+[2024-09-18 18:51:11 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:51:11 +0000] [187655] [DEBUG] GET /
+[2024-09-18 18:51:11 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187655] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187655] [DEBUG] POST /sdk
+[2024-09-18 18:51:12 +0000] [187253] [DEBUG] OPTIONS /
+[2024-09-18 18:51:12 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:51:12 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] GET /odinhttpcall1726685436
+[2024-09-18 18:51:12 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:51:12 +0000] [187275] [DEBUG] GET /HNAP1
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] GET /odinhttpcall1726685436
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] GET /evox/about
+[2024-09-18 18:51:12 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:51:12 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:51:12 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] GET /v2/_catalog
+[2024-09-18 18:51:12 +0000] [187655] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187655] [DEBUG] GET /solr/admin/info/system
+[2024-09-18 18:51:12 +0000] [187655] [DEBUG] Closing connection. 
+[2024-09-18 18:51:12 +0000] [187655] [DEBUG] GET /cgi-bin/authLogin.cgi
+[2024-09-18 18:51:12 +0000] [187275] [DEBUG] GET /solr/admin/info/system
+[2024-09-18 18:51:12 +0000] [187655] [DEBUG] GET /
+[2024-09-18 18:51:12 +0000] [187277] [DEBUG] GET /query
+[2024-09-18 18:51:13 +0000] [187655] [DEBUG] GET /solr/admin/cores
+[2024-09-18 18:51:30 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:51:38 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:51:38 +0000] [187655] [DEBUG] GET /
+[2024-09-18 18:51:39 +0000] [187655] [DEBUG] Closing connection. 
+[2024-09-18 18:51:58 +0000] [187275] [DEBUG] GET /
+[2024-09-18 18:51:58 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 18:51:58 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:51:58 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:52:26 +0000] [187253] [DEBUG] POST /kinos
+[2024-09-18 18:52:26 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:52:27 +0000] [187655] [DEBUG] POST /kinos
+[2024-09-18 18:52:28 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:52:28 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:52:28 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:52:28 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:52:57 +0000] [187277] [DEBUG] GET /
+[2024-09-18 18:52:57 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 18:52:58 +0000] [187253] [DEBUG] GET /
+[2024-09-18 18:52:58 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 18:53:08 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 19:01:10 +0000] [187277] [DEBUG] GET /
+[2024-09-18 19:01:09 +0000] [187275] [DEBUG] GET /
+[2024-09-18 19:02:25 +0000] [187253] [DEBUG] GET /
+[2024-09-18 19:03:19 +0000] [187655] [DEBUG] GET /
+[2024-09-18 19:04:57 +0000] [134660] [CRITICAL] WORKER TIMEOUT (pid:187253)
+[2024-09-18 19:08:08 +0000] [134660] [CRITICAL] WORKER TIMEOUT (pid:187275)
+[2024-09-18 19:09:52 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 19:11:24 +0000] [134660] [CRITICAL] WORKER TIMEOUT (pid:187277)
+[2024-09-18 19:17:02 +0000] [187275] [DEBUG] Closing connection. 
+[2024-09-18 19:18:17 +0000] [134660] [CRITICAL] WORKER TIMEOUT (pid:187655)
+[2024-09-18 19:22:40 +0000] [187277] [DEBUG] Closing connection. 
+[2024-09-18 19:24:06 +0000] [187253] [WARNING] Worker graceful timeout (pid:187253)
+[2024-09-18 19:26:41 +0000] [134660] [ERROR] Worker (pid:187275) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 19:26:41 +0000] [187655] [DEBUG] Closing connection. 
+[2024-09-18 19:26:47 +0000] [134660] [ERROR] Worker (pid:187277) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 19:30:21 +0000] [134660] [ERROR] Worker (pid:187655) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 19:30:21 +0000] [187253] [DEBUG] Closing connection. 
+[2024-09-18 19:30:21 +0000] [190023] [INFO] Booting worker with pid: 190023
+[2024-09-18 19:30:21 +0000] [190024] [INFO] Booting worker with pid: 190024
+[2024-09-18 19:30:22 +0000] [134660] [ERROR] Worker (pid:187253) was sent SIGKILL! Perhaps out of memory?
+[2024-09-18 19:30:22 +0000] [190025] [INFO] Booting worker with pid: 190025
+[2024-09-18 19:30:23 +0000] [190035] [INFO] Booting worker with pid: 190035
+[2024-09-18 20:43:05 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:05 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] POST /kinos
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] POST /kinos
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:06 +0000] [190025] [DEBUG] POST /kinos
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] POST /kinos
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] POST /kinos
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] POST /kinos
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] POST /kinos
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] POST /kinos
+[2024-09-18 20:43:07 +0000] [190023] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190023] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190023] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190023] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190023] [DEBUG] POST /kinos
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190024] [DEBUG] POST /kinos
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:07 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190025] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] GET /
+[2024-09-18 20:43:08 +0000] [190035] [DEBUG] Closing connection. 
+[2024-09-18 20:43:08 +0000] [190025] [DEBUG] Closing connection. 
+[2024-09-18 22:00:57 +0000] [190024] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:02 +0000] [190035] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:06 +0000] [190024] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:14 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:16 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:19 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:20 +0000] [190023] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:21 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:22 +0000] [190025] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-18 22:01:24 +0000] [190024] [ERROR] Socket error processing request.
+Traceback (most recent call last):
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 64, in handle
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 54, in handle
+    self.handle_request(listener_name, req, client, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/ggevent.py", line 127, in handle_request
+    super().handle_request(listener_name, req, sock, addr)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 129, in handle_request
+    util.reraise(*sys.exc_info())
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 640, in reraise
+    raise value
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/workers/base_async.py", line 115, in handle_request
+    resp.write(item)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/http/wsgi.py", line 354, in write
+    util.write(self.sock, arg, self.chunked)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 297, in write
+    return write_chunk(sock, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gunicorn/util.py", line 292, in write_chunk
+    sock.sendall(chunk)
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 702, in sendall
+    return _sendall(self, data_memory, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 391, in _sendall
+    timeleft = __send_chunk(socket, chunk, flags, timeleft, end)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 320, in __send_chunk
+    data_sent += socket.send(chunk, flags)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/synthetic-souls/venv/lib/python3.12/site-packages/gevent/_socketcommon.py", line 725, in send
+    return self._sock.send(data, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: [Errno 110] Connection timed out
+[2024-09-19 01:01:01 +0000] [134660] [INFO] Handling signal: hup
+[2024-09-19 01:01:01 +0000] [134660] [INFO] Hang up: Master
+[2024-09-19 01:01:01 +0000] [134660] [DEBUG] Current configuration:
+  config: ./gunicorn.conf.py
+  wsgi_app: None
+  bind: ['0.0.0.0:8501']
+  backlog: 2048
+  workers: 4
+  worker_class: gevent
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 600
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  print_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /home/ubuntu/synthetic-souls
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 1000
+  group: 1000
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1', '::1']
+  accesslog: None
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: -
+  loglevel: debug
+  capture_output: True
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  logconfig_json: None
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  dogstatsd_tags: 
+  statsd_prefix: 
+  proc_name: None
+  default_proc_name: gunicorn
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x775084a3a160>
+  on_reload: <function OnReload.on_reload at 0x775084a3a2a0>
+  when_ready: <function WhenReady.when_ready at 0x775084a3a3e0>
+  pre_fork: <function Prefork.pre_fork at 0x775084a3a5c0>
+  post_fork: <function Postfork.post_fork at 0x775084a3a700>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x775084a3a840>
+  worker_int: <function WorkerInt.worker_int at 0x775084a3a980>
+  worker_abort: <function WorkerAbort.worker_abort at 0x775084a3aac0>
+  pre_exec: <function PreExec.pre_exec at 0x775084a3ac00>
+  pre_request: <function PreRequest.pre_request at 0x775084a3ad40>
+  post_request: <function PostRequest.post_request at 0x775084a3ade0>
+  child_exit: <function ChildExit.child_exit at 0x775084a3af20>
+  worker_exit: <function WorkerExit.worker_exit at 0x775084a3b060>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x775084a3b1a0>
+  on_exit: <function OnExit.on_exit at 0x775084a3b2e0>
+  ssl_context: <function NewSSLContext.ssl_context at 0x775084a3b4c0>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1', '::1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: None
+  raw_paste_global_conf: []
+  permit_obsolete_folding: False
+  strip_header_spaces: False
+  permit_unconventional_http_method: False
+  permit_unconventional_http_version: False
+  casefold_http_method: False
+  forwarder_headers: ['SCRIPT_NAME', 'PATH_INFO']
+  header_map: drop
+[2024-09-19 01:01:01 +0000] [134660] [ERROR] Worker (pid:190023) was sent SIGHUP!
+[2024-09-19 01:01:01 +0000] [134660] [ERROR] Worker (pid:190024) was sent SIGHUP!
+[2024-09-19 01:01:01 +0000] [134660] [ERROR] Worker (pid:190025) was sent SIGHUP!
+[2024-09-19 01:01:01 +0000] [134660] [ERROR] Worker (pid:190035) was sent SIGHUP!
+[2024-09-19 01:01:01 +0000] [203022] [INFO] Booting worker with pid: 203022
+[2024-09-19 01:01:01 +0000] [203020] [INFO] Booting worker with pid: 203020
+[2024-09-19 01:01:01 +0000] [203023] [INFO] Booting worker with pid: 203023
+[2024-09-19 01:01:01 +0000] [134660] [INFO] Handling signal: term
+[2024-09-19 01:01:01 +0000] [203027] [INFO] Booting worker with pid: 203027
+[2024-09-19 01:01:31 +0000] [134660] [INFO] Shutting down: Master
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}

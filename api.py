@@ -50,17 +50,20 @@ def stream_command(command):
         
         return_code = process.poll()
         yield json.dumps({'debug': f'Process ended with return code {return_code}'}) + '\n'
+
     return generate()
 
 @app.route('/', methods=['GET'])
 def ping():
     return "PONG"
 
-@app.route('/kinos', methods=['GET'])
+@app.route('/kinos', methods=['POST'])
 def kinos():
-    role = request.args.get('role')
-    user_request = request.args.get('request')
-    folder = request.args.get('folder')
+    data = request.json
+    role = data.get('role')
+    user_request = data.get('request')
+    folder = data.get('folder')
+    append_request = data.get('append_request')
     
     if not role:
         return Response(json.dumps({'error': 'Role parameter is required'}), status=400, mimetype='application/json')
@@ -69,7 +72,10 @@ def kinos():
     
     if user_request:
         command.extend(['--request', shlex.quote(user_request)])
-    
+   
+    if folder:
+        command.extend(['--append-request', shlex.quote(append_request)])
+
     if folder:
         command.extend(['--folder', shlex.quote(folder)])
     

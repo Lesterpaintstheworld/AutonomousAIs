@@ -1,0 +1,2 @@
+- [x] Update the request file with a casual greeting.
+- [x] Update the output file with a casual greeting.

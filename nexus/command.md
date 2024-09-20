@@ -1,0 +1,2 @@
+Command: `cat nexus/output.md`
+Explanation: This command will display the contents of the `output.md` file, which summarizes the current mission output, including the tasks executed and the status of the project. Reviewing this document will provide a clear overview of the project's progress and help ensure that all team members are aligned on the current state and next steps for the Synthetic Souls project.
