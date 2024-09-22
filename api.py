@@ -24,8 +24,8 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 # Configuration
 MAX_BUFFER_SIZE = int(os.getenv('MAX_BUFFER_SIZE', 1e6))  # 1MB default
 TIMEOUT = int(os.getenv('TIMEOUT', 600))  # 10 minutes default
-VENV_PATH = os.getenv('VENV_PATH', '/home/ubuntu/synthetic-souls/venv/bin')
-PROJECT_PATH = os.getenv('PROJECT_PATH', '/home/ubuntu/synthetic-souls')
+VENV_PATH = os.getenv('VENV_PATH', '/home/ubuntu/AutonomousAIs/venv/bin')
+PROJECT_PATH = os.getenv('PROJECT_PATH', '/home/ubuntu/AutonomousAIs')
 
 def stream_command(command):
     env = os.environ.copy()
@@ -88,23 +88,20 @@ def ping():
 def kinos():
     try:
         data = request.json
-        role = data.get('role')
-        user_request = data.get('request')
-        folder = data.get('folder')
-        append_request = data.get('append_request')
+        agent = data.get('agent')
+        message = data.get('message')
+        mission = data.get('mission')
         
         command = [f'{VENV_PATH}/python', '-m', 'aider']
         
-        if role:
-            command.extend(['--role', secure_filename(role)])
+        if agent:
+            command.extend(['--agent', secure_filename(agent)])
         
-        if user_request:
-            command.extend(['--request', shlex.quote(user_request)])
+        if input:
+            command.extend(['--input', shlex.quote(input)])
        
-        if append_request:
-            command.extend(['--append-request', shlex.quote(append_request)])
-        if folder:
-            command.extend(['--folder', secure_filename(folder)])
+        if mission:
+            command.extend(['--mission', mission])
         
         # Log the full command for debugging
         logging.debug(f"Executing command: {' '.join(command)}")

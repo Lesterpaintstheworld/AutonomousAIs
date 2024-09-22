@@ -8,7 +8,7 @@ import psutil
 
 # Configuration
 HOME_DIR = os.path.expanduser("~")
-PROJECT_DIR = os.path.join(HOME_DIR, "synthetic-souls")
+PROJECT_DIR = os.path.join(HOME_DIR, "AutonomousAIs")
 VENV_DIR = os.path.join(PROJECT_DIR, "venv")
 VENV_PYTHON = os.path.join(VENV_DIR, "bin", "python")
 API_SCRIPT = "api.py"
