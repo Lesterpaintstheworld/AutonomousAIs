@@ -103,16 +103,16 @@ $Request = ""
 
 for ($i = 0; $i -lt $args.Count; $i++) {
     switch ($args[$i]) {
-        "-Role" { $Role = $args[$i+1]; $i++ }
-        "-Folder" { $Folder = $args[$i+1]; $i++ }
+        "-Agent" { $Role = $args[$i+1]; $i++ }
+        "-Mission" { $Folder = $args[$i+1]; $i++ }
         "-Url" { $Url = $args[$i+1]; $i++ }
-        "-Request" { $Request = $args[$i+1]; $i++ }
+        "-Message" { $Request = $args[$i+1]; $i++ }
     }
 }
 
 # Vérification des paramètres obligatoires
 if ([string]::IsNullOrEmpty($Role)) {
-    Write-ColoredOutput "Le paramètre -Role est obligatoire." -ForegroundColor Red
+    Write-ColoredOutput "Le paramètre -Agent est obligatoire." -ForegroundColor Red
     exit
 }
 
