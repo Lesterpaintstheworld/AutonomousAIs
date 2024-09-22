@@ -24,8 +24,8 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 # Configuration
 MAX_BUFFER_SIZE = int(os.getenv('MAX_BUFFER_SIZE', 1e6))  # 1MB default
 TIMEOUT = int(os.getenv('TIMEOUT', 600))  # 10 minutes default
-VENV_PATH = os.getenv('VENV_PATH', '/home/ubuntu/AutonomousAIs/venv/bin')
-PROJECT_PATH = os.getenv('PROJECT_PATH', '/home/ubuntu/AutonomousAIs')
+VENV_PATH = os.getenv('VENV_PATH', '/home/ubuntu/kinos/venv/bin')
+PROJECT_PATH = os.getenv('PROJECT_PATH', '/home/ubuntu/kinos')
 
 def stream_command(command):
     env = os.environ.copy()
@@ -147,7 +147,7 @@ if __name__ == '__main__':
         'timeout': TIMEOUT,
         'worker_class': 'gevent',
         'capture_output': True,
-        'loglevel': 'debug',
+        'loglevel': 'warning',
     }
     print("Starting Gunicorn with options:", options)
     StandaloneApplication(app, options).run()
