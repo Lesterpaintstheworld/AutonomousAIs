@@ -1,0 +1,7 @@
+aiohappyeyeballs==2.4.0
+aiohttp==3.10.5
+Flask==3.0.3
+gevent==24.2.1
+gunicorn==23.0.0
+requests==2.32.3
+streamlit==1.38.0

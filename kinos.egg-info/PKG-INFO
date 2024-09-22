@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: kinos
+Version: 0.51.1.dev0
+Requires-Dist: aiohappyeyeballs==2.4.0
+Requires-Dist: aiohttp==3.10.5
+Requires-Dist: Flask==3.0.3
+Requires-Dist: gevent==24.2.1
+Requires-Dist: gunicorn==23.0.0
+Requires-Dist: requests==2.32.3
+Requires-Dist: streamlit==1.38.0
