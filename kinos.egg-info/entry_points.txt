@@ -1,0 +1,2 @@
+[console_scripts]
+kinos = kinos.main:main

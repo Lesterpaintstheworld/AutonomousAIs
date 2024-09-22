@@ -1,0 +1,8 @@
+README.md
+setup.py
+kinos.egg-info/PKG-INFO
+kinos.egg-info/SOURCES.txt
+kinos.egg-info/dependency_links.txt
+kinos.egg-info/entry_points.txt
+kinos.egg-info/requires.txt
+kinos.egg-info/top_level.txt
