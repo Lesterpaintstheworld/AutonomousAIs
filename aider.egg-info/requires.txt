@@ -1,4 +1,0 @@
-streamlit
-discord
-python-telegram-bot
-playwright
