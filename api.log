@@ -99,3 +99,14 @@
 [2024-09-22 19:58:00 +0000] [8428] [ERROR] Connection in use: ('0.0.0.0', 8501)
 [2024-09-22 19:58:00 +0000] [8428] [ERROR] connection to ('0.0.0.0', 8501) failed: [Errno 98] Address already in use
 [2024-09-22 19:58:00 +0000] [8428] [DEBUG] Retrying in 1 second.
+[2024-09-22 19:58:01 +0000] [8428] [ERROR] Connection in use: ('0.0.0.0', 8501)
+[2024-09-22 19:58:01 +0000] [8428] [ERROR] connection to ('0.0.0.0', 8501) failed: [Errno 98] Address already in use
+[2024-09-22 19:58:01 +0000] [8428] [DEBUG] Retrying in 1 second.
+[2024-09-22 19:58:02 +0000] [8428] [ERROR] Connection in use: ('0.0.0.0', 8501)
+[2024-09-22 19:58:02 +0000] [8428] [ERROR] connection to ('0.0.0.0', 8501) failed: [Errno 98] Address already in use
+[2024-09-22 19:58:02 +0000] [8428] [DEBUG] Retrying in 1 second.
+[2024-09-22 19:58:03 +0000] [8428] [ERROR] Connection in use: ('0.0.0.0', 8501)
+[2024-09-22 19:58:03 +0000] [8428] [ERROR] connection to ('0.0.0.0', 8501) failed: [Errno 98] Address already in use
+[2024-09-22 19:58:03 +0000] [8428] [DEBUG] Retrying in 1 second.
+[2024-09-22 19:58:04 +0000] [8428] [ERROR] Can't connect to ('0.0.0.0', 8501)
+Starting Gunicorn with options: {'bind': '0.0.0.0:8501', 'workers': 4, 'timeout': 600, 'worker_class': 'gevent', 'capture_output': True, 'loglevel': 'debug'}
