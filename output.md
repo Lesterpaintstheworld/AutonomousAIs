@@ -631,12 +631,22 @@ We have developed basic RESTful APIs for front-end and back-end communication us
 5. DELETE /api/patterns/<pattern_id>: Delete a specific pattern
 6. POST /api/patterns/<pattern_id>/copy: Create a copy of a specific pattern
 7. GET /api/patterns/<pattern_id>/export: Export a specific pattern in WAV or MIDI format
+8. POST /api/users: Create a new user profile
+9. GET /api/users/<user_id>: Retrieve a specific user profile
+10. GET /api/users/<user_id>/patterns: Retrieve all patterns for a specific user
+11. POST /api/users/<user_id>/patterns: Create a new pattern for a specific user
 
-The API is implemented in a new file called `api.py`. Here's an overview of the implementation:
+The API is implemented in the `api.py` file. Here's an overview of the implementation:
 
 [Previous API implementation remains unchanged]
 
-This implementation provides a basic structure for managing music patterns through a RESTful API, including the ability to export patterns in WAV or MIDI format. It uses in-memory storage for simplicity, but this should be replaced with a proper database in a production environment.
+New User Profile Features:
+- User profiles can now be created and retrieved.
+- Each user profile includes a list of patterns created by that user.
+- Users can add new patterns to their profile.
+- Patterns are associated with the user who created them.
+
+This implementation provides a basic structure for managing music patterns and user profiles through a RESTful API. It uses in-memory storage for simplicity, but this should be replaced with a proper database in a production environment.
 
 Next steps for improvement:
 1. Implement the actual export logic for WAV and MIDI formats
@@ -644,4 +654,5 @@ Next steps for improvement:
 3. Implement proper error handling and input validation
 4. Replace in-memory storage with a database (e.g., MongoDB or PostgreSQL)
 5. Add authentication and authorization for secure access to the API
-6. Implement more advanced endpoints (e.g., pattern search, user management)
+6. Implement more advanced endpoints (e.g., pattern search, user profile updates)
+7. Develop a user interface for profile management and pattern showcasing
