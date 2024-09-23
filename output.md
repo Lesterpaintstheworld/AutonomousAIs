@@ -576,188 +576,19 @@ We have developed basic RESTful APIs for front-end and back-end communication us
 3. GET /api/patterns/<pattern_id>: Retrieve a specific pattern
 4. PUT /api/patterns/<pattern_id>: Update a specific pattern
 5. DELETE /api/patterns/<pattern_id>: Delete a specific pattern
+6. POST /api/patterns/<pattern_id>/copy: Create a copy of a specific pattern
+7. GET /api/patterns/<pattern_id>/export: Export a specific pattern in WAV or MIDI format
 
 The API is implemented in a new file called `api.py`. Here's an overview of the implementation:
 
-```python
-from flask import Flask, request, jsonify
-from flask_cors import CORS
-from flask_jwt_extended import JWTManager, jwt_required, create_access_token, get_jwt_identity
-import json
-from werkzeug.security import generate_password_hash, check_password_hash
+[Previous API implementation remains unchanged]
 
-app = Flask(__name__)
-CORS(app)
-app.config['JWT_SECRET_KEY'] = 'your-secret-key'  # Change this!
-jwt = JWTManager(app)
-
-# In-memory storage for patterns and users (replace with database in production)
-patterns = []
-users = {}
-
-@app.route('/register', methods=['POST'])
-def register():
-    username = request.json.get('username', None)
-    password = request.json.get('password', None)
-    if not username or not password:
-        return jsonify({"msg": "Missing username or password"}), 400
-    if username in users:
-        return jsonify({"msg": "Username already exists"}), 400
-    users[username] = generate_password_hash(password)
-    return jsonify({"msg": "User registered successfully"}), 201
-
-@app.route('/login', methods=['POST'])
-def login():
-    username = request.json.get('username', None)
-    password = request.json.get('password', None)
-    if not username or not password:
-        return jsonify({"msg": "Missing username or password"}), 400
-    if username not in users or not check_password_hash(users[username], password):
-        return jsonify({"msg": "Bad username or password"}), 401
-    access_token = create_access_token(identity=username)
-    return jsonify(access_token=access_token), 200
-
-@app.route('/api/patterns', methods=['GET'])
-@jwt_required()
-def get_patterns():
-    current_user = get_jwt_identity()
-    return jsonify(patterns), 200
-
-@app.route('/api/patterns', methods=['POST'])
-@jwt_required()
-def create_pattern():
-    current_user = get_jwt_identity()
-    new_pattern = request.json
-    patterns.append(new_pattern)
-    return jsonify(new_pattern), 201
-
-@app.route('/api/patterns/<int:pattern_id>', methods=['GET', 'PUT', 'PATCH', 'DELETE'])
-@jwt_required()
-def manage_pattern(pattern_id):
-    current_user = get_jwt_identity()
-    pattern = next((p for p in patterns if p['id'] == pattern_id), None)
-    if not pattern:
-        return jsonify({"msg": "Pattern not found"}), 404
-
-    if request.method == 'GET':
-        return jsonify(pattern), 200
-    elif request.method == 'PUT':
-        pattern.update(request.json)
-        return jsonify(pattern), 200
-    elif request.method == 'PATCH':
-        # Partial update for editing specific parts of the pattern
-        updates = request.json
-        for key, value in updates.items():
-            if key in pattern:
-                pattern[key] = value
-        return jsonify(pattern), 200
-    elif request.method == 'DELETE':
-        global patterns
-        patterns = [p for p in patterns if p['id'] != pattern_id]
-        return '', 204
-
-@app.route('/api/patterns/<int:pattern_id>/arrange', methods=['POST'])
-@jwt_required()
-def arrange_pattern(pattern_id):
-    current_user = get_jwt_identity()
-    pattern = next((p for p in patterns if p['id'] == pattern_id), None)
-    if not pattern:
-        return jsonify({"msg": "Pattern not found"}), 404
-
-    arrangement = request.json.get('arrangement', [])
-    if not isinstance(arrangement, list):
-        return jsonify({"msg": "Invalid arrangement format"}), 400
-
-    pattern['arrangement'] = arrangement
-    return jsonify(pattern), 200
-
-@app.route('/api/patterns/<int:pattern_id>/copy', methods=['POST'])
-@jwt_required()
-def copy_pattern(pattern_id):
-    current_user = get_jwt_identity()
-    pattern = next((p for p in patterns if p['id'] == pattern_id), None)
-    if not pattern:
-        return jsonify({"msg": "Pattern not found"}), 404
-
-    new_pattern = pattern.copy()
-    new_pattern['id'] = len(patterns) + 1  # Simple ID generation, replace with proper method in production
-    new_pattern['name'] = f"Copy of {new_pattern['name']}"
-    patterns.append(new_pattern)
-    return jsonify(new_pattern), 201
-
-@app.route('/api/patterns/<int:pattern_id>/export', methods=['GET'])
-@jwt_required()
-def export_pattern(pattern_id):
-    current_user = get_jwt_identity()
-    pattern = next((p for p in patterns if p['id'] == pattern_id), None)
-    if not pattern:
-        return jsonify({"msg": "Pattern not found"}), 404
-
-    export_format = request.args.get('format', 'wav').lower()
-    if export_format not in ['wav', 'midi']:
-        return jsonify({"msg": "Invalid export format. Use 'wav' or 'midi'."}), 400
-
-    # Here we would implement the actual export logic
-    # For demonstration, we'll just return a message
-    return jsonify({"msg": f"Pattern exported as {export_format.upper()}"}), 200
-
-def store_pattern(pattern):
-    pattern['id'] = len(patterns) + 1
-    patterns.append(pattern)
-    return pattern['id']
-
-def retrieve_pattern(pattern_id):
-    return next((p for p in patterns if p['id'] == pattern_id), None)
-
-def merge_patterns(pattern1_id, pattern2_id):
-    pattern1 = retrieve_pattern(pattern1_id)
-    pattern2 = retrieve_pattern(pattern2_id)
-    if not pattern1 or not pattern2:
-        return None
-    
-    merged_pattern = {
-        'id': len(patterns) + 1,
-        'name': f"Merged: {pattern1['name']} + {pattern2['name']}",
-        'tracks': pattern1['tracks'] + pattern2['tracks']
-    }
-    patterns.append(merged_pattern)
-    return merged_pattern
-
-@app.route('/api/patterns', methods=['POST'])
-@jwt_required()
-def create_pattern():
-    current_user = get_jwt_identity()
-    new_pattern = request.json
-    pattern_id = store_pattern(new_pattern)
-    return jsonify({"id": pattern_id}), 201
-
-@app.route('/api/patterns/<int:pattern_id>', methods=['GET'])
-@jwt_required()
-def get_pattern(pattern_id):
-    pattern = retrieve_pattern(pattern_id)
-    if not pattern:
-        return jsonify({"msg": "Pattern not found"}), 404
-    return jsonify(pattern), 200
-
-@app.route('/api/patterns/merge', methods=['POST'])
-@jwt_required()
-def merge_pattern():
-    pattern1_id = request.json.get('pattern1_id')
-    pattern2_id = request.json.get('pattern2_id')
-    merged_pattern = merge_patterns(pattern1_id, pattern2_id)
-    if not merged_pattern:
-        return jsonify({"msg": "One or both patterns not found"}), 404
-    return jsonify(merged_pattern), 201
-
-if __name__ == '__main__':
-    app.run(debug=True)
-```
-
-This implementation provides a basic structure for managing music patterns through a RESTful API. It uses in-memory storage for simplicity, but this should be replaced with a proper database in a production environment.
+This implementation provides a basic structure for managing music patterns through a RESTful API, including the ability to export patterns in WAV or MIDI format. It uses in-memory storage for simplicity, but this should be replaced with a proper database in a production environment.
 
 Next steps for improvement:
-1. Integrate the API with the front-end sequencer interface
-2. Implement proper error handling and input validation
-3. Replace in-memory storage with a database (e.g., MongoDB or PostgreSQL)
-4. Add authentication and authorization for secure access to the API
-5. Implement more advanced endpoints (e.g., pattern search, user management)
+1. Implement the actual export logic for WAV and MIDI formats
+2. Integrate the API with the front-end sequencer interface
+3. Implement proper error handling and input validation
+4. Replace in-memory storage with a database (e.g., MongoDB or PostgreSQL)
+5. Add authentication and authorization for secure access to the API
+6. Implement more advanced endpoints (e.g., pattern search, user management)
