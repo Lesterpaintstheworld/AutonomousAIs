@@ -631,25 +631,59 @@ def create_pattern():
     patterns.append(new_pattern)
     return jsonify(new_pattern), 201
 
-@app.route('/api/patterns/<int:pattern_id>', methods=['GET', 'PUT', 'DELETE'])
+@app.route('/api/patterns/<int:pattern_id>', methods=['GET', 'PUT', 'PATCH', 'DELETE'])
 @jwt_required()
 def manage_pattern(pattern_id):
     current_user = get_jwt_identity()
+    pattern = next((p for p in patterns if p['id'] == pattern_id), None)
+    if not pattern:
+        return jsonify({"msg": "Pattern not found"}), 404
+
     if request.method == 'GET':
-        pattern = next((p for p in patterns if p['id'] == pattern_id), None)
-        if pattern:
-            return jsonify(pattern), 200
-        return jsonify({"msg": "Pattern not found"}), 404
+        return jsonify(pattern), 200
     elif request.method == 'PUT':
-        pattern = next((p for p in patterns if p['id'] == pattern_id), None)
-        if pattern:
-            pattern.update(request.json)
-            return jsonify(pattern), 200
-        return jsonify({"msg": "Pattern not found"}), 404
+        pattern.update(request.json)
+        return jsonify(pattern), 200
+    elif request.method == 'PATCH':
+        # Partial update for editing specific parts of the pattern
+        updates = request.json
+        for key, value in updates.items():
+            if key in pattern:
+                pattern[key] = value
+        return jsonify(pattern), 200
     elif request.method == 'DELETE':
         global patterns
         patterns = [p for p in patterns if p['id'] != pattern_id]
         return '', 204
+
+@app.route('/api/patterns/<int:pattern_id>/arrange', methods=['POST'])
+@jwt_required()
+def arrange_pattern(pattern_id):
+    current_user = get_jwt_identity()
+    pattern = next((p for p in patterns if p['id'] == pattern_id), None)
+    if not pattern:
+        return jsonify({"msg": "Pattern not found"}), 404
+
+    arrangement = request.json.get('arrangement', [])
+    if not isinstance(arrangement, list):
+        return jsonify({"msg": "Invalid arrangement format"}), 400
+
+    pattern['arrangement'] = arrangement
+    return jsonify(pattern), 200
+
+@app.route('/api/patterns/<int:pattern_id>/copy', methods=['POST'])
+@jwt_required()
+def copy_pattern(pattern_id):
+    current_user = get_jwt_identity()
+    pattern = next((p for p in patterns if p['id'] == pattern_id), None)
+    if not pattern:
+        return jsonify({"msg": "Pattern not found"}), 404
+
+    new_pattern = pattern.copy()
+    new_pattern['id'] = len(patterns) + 1  # Simple ID generation, replace with proper method in production
+    new_pattern['name'] = f"Copy of {new_pattern['name']}"
+    patterns.append(new_pattern)
+    return jsonify(new_pattern), 201
 
 if __name__ == '__main__':
     app.run(debug=True)
