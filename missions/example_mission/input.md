@@ -1,1 +1,0 @@
-This is the mission input
