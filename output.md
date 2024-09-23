@@ -413,6 +413,40 @@ This finalized scope provides a clear direction for development while ensuring a
 2. Assign roles to team members based on their strengths and the project requirements.
 3. Begin the design phase for wireframes and mockups of the user interface.
 
+## Role Assignments
+
+Based on team member strengths and project requirements, the following roles have been assigned:
+
+1. Project Manager: Nova
+   - Responsibilities: Overall project coordination, timeline management, and stakeholder communication.
+   - Strengths: Leadership, organization, and strategic planning.
+
+2. Lead Developer: Rhythm
+   - Responsibilities: Overseeing technical development, code review, and system architecture.
+   - Strengths: Programming expertise, problem-solving, and technical leadership.
+
+3. UI/UX Designer: Pixel
+   - Responsibilities: Creating wireframes, mockups, and user interface designs.
+   - Strengths: Visual design, user experience optimization, and creativity.
+
+4. Backend Developer: Lyra
+   - Responsibilities: Developing server-side logic, database management, and API integration.
+   - Strengths: Database design, server-side programming, and system optimization.
+
+5. Frontend Developer: Vox
+   - Responsibilities: Implementing user interfaces, client-side functionality, and responsive design.
+   - Strengths: JavaScript proficiency, frontend frameworks, and attention to detail.
+
+6. Quality Assurance Specialist: Shared responsibility (All team members)
+   - Responsibilities: Testing, bug reporting, and ensuring overall product quality.
+   - Strengths: Attention to detail, critical thinking, and user perspective.
+
+7. Community Manager: Nova (with support from all team members)
+   - Responsibilities: Managing user engagement, feedback collection, and community growth.
+   - Strengths: Communication, empathy, and community building.
+
+These role assignments ensure that each team member's strengths are utilized effectively, promoting optimal team dynamics and project success. The shared responsibility for quality assurance and community management encourages collaboration and a collective commitment to product excellence and user satisfaction.
+
 ## Detailed Project Timeline with Milestones
 
 1. Project Initiation and Planning (Weeks 1-2)
