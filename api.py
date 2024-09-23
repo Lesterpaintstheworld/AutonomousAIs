@@ -278,6 +278,32 @@ def remove_from_library(pattern_id):
         return '', 204
     return jsonify({'error': 'Pattern not found in the library'}), 404
 
+# Pattern merging feature
+@app.route('/api/patterns/merge', methods=['POST'])
+@jwt_required()
+def merge_patterns():
+    merge_data = request.json
+    pattern1_id = merge_data['pattern1_id']
+    pattern2_id = merge_data['pattern2_id']
+    
+    pattern1 = patterns.get(pattern1_id)
+    pattern2 = patterns.get(pattern2_id)
+    
+    if not pattern1 or not pattern2:
+        return jsonify({'error': 'One or both patterns not found'}), 404
+    
+    # Simple merging algorithm: concatenate the content of both patterns
+    merged_content = pattern1.current_version.content + pattern2.current_version.content
+    
+    merged_pattern = Pattern(f"Merged: {pattern1.name} + {pattern2.name}", merged_content)
+    patterns[merged_pattern.id] = merged_pattern
+    
+    return jsonify({
+        'id': merged_pattern.id,
+        'name': merged_pattern.name,
+        'version_id': merged_pattern.current_version.version_id
+    }), 201
+
 class StandaloneApplication(BaseApplication):
     # ... [rest of the class remains unchanged]
 
