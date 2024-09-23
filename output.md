@@ -573,7 +573,7 @@ We have implemented a basic grid-based sequencer interface for composing 4-8 bar
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Grid-based Sequencer</title>
+    <title>Community Music Pattern Creator</title>
     <style>
         .sequencer-grid {
             display: grid;
@@ -596,15 +596,37 @@ We have implemented a basic grid-based sequencer interface for composing 4-8 bar
             text-align: right;
             padding-right: 10px;
         }
+        .instrument-panel {
+            margin-bottom: 20px;
+        }
+        .instrument-panel ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .instrument-panel li {
+            display: inline-block;
+            margin-right: 10px;
+        }
+        .instrument-button {
+            padding: 5px 10px;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            cursor: pointer;
+        }
+        .instrument-button:hover {
+            background-color: #e0e0e0;
+        }
     </style>
 </head>
 <body>
-    <h1>Grid-based Sequencer</h1>
+    <h1>Community Music Pattern Creator</h1>
+    <div id="instrument-panels"></div>
     <div id="sequencer"></div>
     <button id="playButton">Play</button>
     <button id="stopButton">Stop</button>
     <button id="clearButton">Clear</button>
 
+    <script src="instrument_panels.js"></script>
     <script>
         const instruments = ['Kick', 'Snare', 'Hi-hat', 'Tom'];
         const beats = 16;
