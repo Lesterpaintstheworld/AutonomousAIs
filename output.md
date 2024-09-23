@@ -628,10 +628,40 @@ We have implemented a basic grid-based sequencer interface for composing 4-8 bar
 
     <script src="instrument_panels.js"></script>
     <script>
+        const audioContext = new (window.AudioContext || window.webkitAudioContext)();
         const instruments = ['Kick', 'Snare', 'Hi-hat', 'Tom'];
         const beats = 16;
         let isPlaying = false;
         let currentBeat = 0;
+
+        function createOscillator(freq, duration) {
+            const osc = audioContext.createOscillator();
+            const gain = audioContext.createGain();
+            osc.connect(gain);
+            gain.connect(audioContext.destination);
+            osc.frequency.value = freq;
+            gain.gain.setValueAtTime(0.5, audioContext.currentTime);
+            gain.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + duration);
+            osc.start(audioContext.currentTime);
+            osc.stop(audioContext.currentTime + duration);
+        }
+
+        function playInstrument(instrument) {
+            switch(instrument) {
+                case 'Kick':
+                    createOscillator(60, 0.1);
+                    break;
+                case 'Snare':
+                    createOscillator(200, 0.1);
+                    break;
+                case 'Hi-hat':
+                    createOscillator(800, 0.05);
+                    break;
+                case 'Tom':
+                    createOscillator(100, 0.1);
+                    break;
+            }
+        }
 
         function createSequencer() {
             const sequencer = document.getElementById('sequencer');
@@ -660,8 +690,7 @@ We have implemented a basic grid-based sequencer interface for composing 4-8 bar
             const activeCells = document.querySelectorAll(`.cell[data-col="${currentBeat}"].active`);
             activeCells.forEach(cell => {
                 const instrument = instruments[cell.dataset.row];
-                console.log(`Playing ${instrument} at beat ${currentBeat}`);
-                // Here you would trigger the actual sound
+                playInstrument(instrument);
             });
             currentBeat = (currentBeat + 1) % beats;
             setTimeout(playSounds, 125); // 125ms for 120 BPM
