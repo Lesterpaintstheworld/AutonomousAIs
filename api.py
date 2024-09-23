@@ -124,7 +124,7 @@ def kinos():
 
 @app.route('/health', methods=['GET'])
 def health():
-    # ... [rest of the function remains unchanged]
+    return jsonify({"status": "healthy"}), 200
 
 @app.route('/register', methods=['POST'])
 def register():
