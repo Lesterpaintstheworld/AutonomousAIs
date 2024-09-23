@@ -18,7 +18,7 @@ The previous to-do list provides a strong foundation for the Community Music Pat
 
 3. **Back-End Development:**
    - [x] Set up server infrastructure and database (MongoDB or PostgreSQL) for data storage.
-   - [ ] Develop RESTful APIs enabling seamless front-end and back-end communication.
+   - [x] Develop RESTful APIs enabling seamless front-end and back-end communication.
    - [ ] Implement secure user authentication (OAuth 2.0 or JWT) for user accounts.
    - [ ] Create algorithms for user pattern storage, retrieval, and merging of patterns.
 

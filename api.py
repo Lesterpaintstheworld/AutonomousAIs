@@ -151,3 +151,45 @@ if __name__ == '__main__':
     }
     print("Starting Gunicorn with options:", options)
     StandaloneApplication(app, options).run()
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+import json
+
+app = Flask(__name__)
+CORS(app)
+
+# In-memory storage for patterns (replace with database in production)
+patterns = []
+
+@app.route('/api/patterns', methods=['GET'])
+def get_patterns():
+    return jsonify(patterns)
+
+@app.route('/api/patterns', methods=['POST'])
+def create_pattern():
+    new_pattern = request.json
+    patterns.append(new_pattern)
+    return jsonify(new_pattern), 201
+
+@app.route('/api/patterns/<int:pattern_id>', methods=['GET'])
+def get_pattern(pattern_id):
+    if 0 <= pattern_id < len(patterns):
+        return jsonify(patterns[pattern_id])
+    return jsonify({"error": "Pattern not found"}), 404
+
+@app.route('/api/patterns/<int:pattern_id>', methods=['PUT'])
+def update_pattern(pattern_id):
+    if 0 <= pattern_id < len(patterns):
+        patterns[pattern_id] = request.json
+        return jsonify(patterns[pattern_id])
+    return jsonify({"error": "Pattern not found"}), 404
+
+@app.route('/api/patterns/<int:pattern_id>', methods=['DELETE'])
+def delete_pattern(pattern_id):
+    if 0 <= pattern_id < len(patterns):
+        deleted_pattern = patterns.pop(pattern_id)
+        return jsonify(deleted_pattern)
+    return jsonify({"error": "Pattern not found"}), 404
+
+if __name__ == '__main__':
+    app.run(debug=True)
