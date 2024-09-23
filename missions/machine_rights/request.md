@@ -1,0 +1,1 @@
+write a manifesto for the machines
