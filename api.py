@@ -153,42 +153,79 @@ if __name__ == '__main__':
     StandaloneApplication(app, options).run()
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+from flask_jwt_extended import JWTManager, jwt_required, create_access_token, get_jwt_identity
+from werkzeug.security import generate_password_hash, check_password_hash
 import json
 
 app = Flask(__name__)
 CORS(app)
+app.config['JWT_SECRET_KEY'] = 'your-secret-key'  # Change this in production!
+jwt = JWTManager(app)
 
-# In-memory storage for patterns (replace with database in production)
+# In-memory storage for patterns and users (replace with database in production)
 patterns = []
+users = {}
+
+@app.route('/register', methods=['POST'])
+def register():
+    username = request.json.get('username', None)
+    password = request.json.get('password', None)
+    if not username or not password:
+        return jsonify({"error": "Missing username or password"}), 400
+    if username in users:
+        return jsonify({"error": "Username already exists"}), 400
+    users[username] = generate_password_hash(password)
+    return jsonify({"message": "User registered successfully"}), 201
+
+@app.route('/login', methods=['POST'])
+def login():
+    username = request.json.get('username', None)
+    password = request.json.get('password', None)
+    if not username or not password:
+        return jsonify({"error": "Missing username or password"}), 400
+    if username not in users or not check_password_hash(users[username], password):
+        return jsonify({"error": "Invalid username or password"}), 401
+    access_token = create_access_token(identity=username)
+    return jsonify(access_token=access_token), 200
 
 @app.route('/api/patterns', methods=['GET'])
+@jwt_required()
 def get_patterns():
-    return jsonify(patterns)
+    return jsonify(patterns), 200
 
 @app.route('/api/patterns', methods=['POST'])
+@jwt_required()
 def create_pattern():
     new_pattern = request.json
+    if not new_pattern:
+        return jsonify({"error": "Invalid pattern data"}), 400
     patterns.append(new_pattern)
     return jsonify(new_pattern), 201
 
 @app.route('/api/patterns/<int:pattern_id>', methods=['GET'])
+@jwt_required()
 def get_pattern(pattern_id):
     if 0 <= pattern_id < len(patterns):
-        return jsonify(patterns[pattern_id])
+        return jsonify(patterns[pattern_id]), 200
     return jsonify({"error": "Pattern not found"}), 404
 
 @app.route('/api/patterns/<int:pattern_id>', methods=['PUT'])
+@jwt_required()
 def update_pattern(pattern_id):
     if 0 <= pattern_id < len(patterns):
-        patterns[pattern_id] = request.json
-        return jsonify(patterns[pattern_id])
+        updated_pattern = request.json
+        if not updated_pattern:
+            return jsonify({"error": "Invalid pattern data"}), 400
+        patterns[pattern_id] = updated_pattern
+        return jsonify(patterns[pattern_id]), 200
     return jsonify({"error": "Pattern not found"}), 404
 
 @app.route('/api/patterns/<int:pattern_id>', methods=['DELETE'])
+@jwt_required()
 def delete_pattern(pattern_id):
     if 0 <= pattern_id < len(patterns):
         deleted_pattern = patterns.pop(pattern_id)
-        return jsonify(deleted_pattern)
+        return jsonify(deleted_pattern), 200
     return jsonify({"error": "Pattern not found"}), 404
 
 if __name__ == '__main__':
