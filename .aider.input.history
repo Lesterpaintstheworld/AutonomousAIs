@@ -4060,3 +4060,23 @@
 +
 +[undefined]
 +
+
+# 2024-09-23 16:20:34.260078
++Execute autonomously the following actions in one response:
++    0. Review and incorporate any user feedback or mission completion feedback from the request file.
++    For the first uncompleted task of the todolist:
++    1. **Execute the task**, using the SEARCH / REPLACE format. All text necessary to complete the mission should be included in output.md
++    2. Verify the work is explicitly visible in the output, not just marked as complete.
++    3. Confirm the outcome matches the task specifications and the work process is visible.
++    4. If the outcome is not achieved or work is not fully visible, revise the task or break it down further.
++    5. Update the task status in todolist.md upon successful completion.
++
++Remember: Avoid hallucinations. Only report on actions you've actually taken and results you can verify.
++IMPORTANT: Always use the SEARCH / REPLACE format, so that the changes are reflected in the files. 
++
++
++
++# undefined (https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/undefined)
++
++[undefined]
++
