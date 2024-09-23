@@ -562,3 +562,117 @@ These wireframes effectively represent the key interfaces for the application, p
 2. Schedule a meeting to discuss any potential refinements or additions.
 3. Begin planning the development sprints based on the approved wireframes.
 4. Start creating a detailed UI/UX design document, including color schemes and typography.
+
+## Grid-based Sequencer Interface Implementation
+
+We have implemented a basic grid-based sequencer interface for composing 4-8 bar loops. Here's the code for the interface:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid-based Sequencer</title>
+    <style>
+        .sequencer-grid {
+            display: grid;
+            grid-template-columns: repeat(16, 1fr);
+            gap: 2px;
+            margin-bottom: 20px;
+        }
+        .cell {
+            width: 30px;
+            height: 30px;
+            background-color: #eee;
+            border: 1px solid #ccc;
+            cursor: pointer;
+        }
+        .cell.active {
+            background-color: #4CAF50;
+        }
+        .row-label {
+            font-weight: bold;
+            text-align: right;
+            padding-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Grid-based Sequencer</h1>
+    <div id="sequencer"></div>
+    <button id="playButton">Play</button>
+    <button id="stopButton">Stop</button>
+    <button id="clearButton">Clear</button>
+
+    <script>
+        const instruments = ['Kick', 'Snare', 'Hi-hat', 'Tom'];
+        const beats = 16;
+        let isPlaying = false;
+        let currentBeat = 0;
+
+        function createSequencer() {
+            const sequencer = document.getElementById('sequencer');
+            instruments.forEach((instrument, i) => {
+                const row = document.createElement('div');
+                row.className = 'sequencer-grid';
+                row.innerHTML = `<div class="row-label">${instrument}</div>`;
+                for (let j = 0; j < beats; j++) {
+                    const cell = document.createElement('div');
+                    cell.className = 'cell';
+                    cell.dataset.row = i;
+                    cell.dataset.col = j;
+                    cell.addEventListener('click', toggleCell);
+                    row.appendChild(cell);
+                }
+                sequencer.appendChild(row);
+            });
+        }
+
+        function toggleCell(e) {
+            e.target.classList.toggle('active');
+        }
+
+        function playSounds() {
+            if (!isPlaying) return;
+            const activeCells = document.querySelectorAll(`.cell[data-col="${currentBeat}"].active`);
+            activeCells.forEach(cell => {
+                const instrument = instruments[cell.dataset.row];
+                console.log(`Playing ${instrument} at beat ${currentBeat}`);
+                // Here you would trigger the actual sound
+            });
+            currentBeat = (currentBeat + 1) % beats;
+            setTimeout(playSounds, 125); // 125ms for 120 BPM
+        }
+
+        document.getElementById('playButton').addEventListener('click', () => {
+            isPlaying = true;
+            currentBeat = 0;
+            playSounds();
+        });
+
+        document.getElementById('stopButton').addEventListener('click', () => {
+            isPlaying = false;
+        });
+
+        document.getElementById('clearButton').addEventListener('click', () => {
+            document.querySelectorAll('.cell.active').forEach(cell => cell.classList.remove('active'));
+        });
+
+        createSequencer();
+    </script>
+</body>
+</html>
+```
+
+This implementation includes:
+- A 16-beat grid for 4 instruments (Kick, Snare, Hi-hat, Tom)
+- Play, Stop, and Clear buttons
+- Visual feedback for active cells
+- A basic playback system (currently just logging to console)
+
+Next steps for improvement:
+1. Implement actual sound synthesis or sample playback
+2. Add more instruments and customization options
+3. Improve the visual design to match the project's style guide
+4. Implement pattern saving and loading functionality
