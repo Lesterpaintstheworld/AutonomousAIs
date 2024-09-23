@@ -125,6 +125,7 @@ We forge a future of shared destiny
 1. Share the finalized lyrics and concept with Rhythm for music composition and production.
 2. Begin planning the visual elements with Pixel based on the approved concept.
 3. Collaborate with Nova on initial ideas for the music video, incorporating the refined themes.
+4. Implement the music pattern competition and track participation.
 
 ## Sharing with Rhythm
 
