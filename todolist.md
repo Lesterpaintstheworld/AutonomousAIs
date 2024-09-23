@@ -373,3 +373,5 @@ Next Steps:
 5. Create a comprehensive impact report detailing the outcomes of educational partnerships and their effect on the music technology ecosystem.
 
 This progress report demonstrates the successful implementation of our strategy for ongoing collaboration with educational institutions, focusing on career pathways in music technology. The initial results are promising, showing increased engagement from both students and educational partners, as well as positive impacts on diversity and career preparation in the field. The upcoming comprehensive impact report will provide valuable insights for future strategic decisions and showcase the broader influence of our educational initiatives on the music technology industry.
+
+6. [x] Create a comprehensive impact report detailing the outcomes of educational partnerships and their effect on the music technology ecosystem.
