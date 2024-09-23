@@ -694,6 +694,12 @@ We have developed basic RESTful APIs for front-end and back-end communication us
 10. GET /api/users/<user_id>/patterns: Retrieve all patterns for a specific user
 11. POST /api/users/<user_id>/patterns: Create a new pattern for a specific user
 
+New endpoints for feedback and rating system:
+12. POST /api/patterns/<pattern_id>/feedback: Add feedback to a pattern
+13. GET /api/patterns/<pattern_id>/feedback: Get all feedback for a pattern
+14. POST /api/patterns/<pattern_id>/rate: Rate a pattern
+15. GET /api/patterns/<pattern_id>/rating: Get the average rating for a pattern
+
 The API is implemented in the `api.py` file. Here's an overview of the implementation:
 
 [Previous API implementation remains unchanged]
@@ -704,7 +710,14 @@ New User Profile Features:
 - Users can add new patterns to their profile.
 - Patterns are associated with the user who created them.
 
-This implementation provides a basic structure for managing music patterns and user profiles through a RESTful API. It uses in-memory storage for simplicity, but this should be replaced with a proper database in a production environment.
+Feedback and Rating System:
+- Users can now add feedback to patterns.
+- Feedback includes a comment and is associated with the user who provided it.
+- Users can rate patterns on a scale of 1 to 5.
+- The system calculates and stores the average rating for each pattern.
+- Users can retrieve all feedback and the average rating for any pattern.
+
+This implementation provides a basic structure for managing music patterns, user profiles, and a feedback and rating system through a RESTful API. It uses in-memory storage for simplicity, but this should be replaced with a proper database in a production environment.
 
 Next steps for improvement:
 1. Implement the actual export logic for WAV and MIDI formats
@@ -713,4 +726,4 @@ Next steps for improvement:
 4. Replace in-memory storage with a database (e.g., MongoDB or PostgreSQL)
 5. Add authentication and authorization for secure access to the API
 6. Implement more advanced endpoints (e.g., pattern search, user profile updates)
-7. Develop a user interface for profile management and pattern showcasing
+7. Develop a user interface for profile management, pattern showcasing, and the feedback and rating system
