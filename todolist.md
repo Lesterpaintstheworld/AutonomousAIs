@@ -8,7 +8,7 @@ The previous to-do list provides a strong foundation for the Community Music Pat
    - [x] Finalize project scope emphasizing community interaction and realistic feature set.
    - [x] Create a detailed project timeline with milestones for tracking progress.
    - [x] Assign roles based on member strengths, ensuring optimal team dynamics.
-   - [ ] Design wireframes and mockups to visualize user interface requirements.
+   - [x] Design wireframes and mockups to visualize user interface requirements.
 
 2. **Front-End Development:**
    - [ ] Build a user-friendly grid-based sequencer interface for composing 4-8 bar loops.
