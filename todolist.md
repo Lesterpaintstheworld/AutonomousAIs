@@ -6,7 +6,7 @@ The previous to-do list provides a strong foundation for the Community Music Pat
 
 1. **Project Overview and Planning:**
    - [x] Finalize project scope emphasizing community interaction and realistic feature set.
-   - [ ] Create a detailed project timeline with milestones for tracking progress.
+   - [x] Create a detailed project timeline with milestones for tracking progress.
    - [ ] Assign roles based on member strengths, ensuring optimal team dynamics.
    - [ ] Design wireframes and mockups to visualize user interface requirements.
 
