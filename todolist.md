@@ -47,7 +47,7 @@ The previous to-do list provides a strong foundation for the Community Music Pat
    - [x] Address bugs and performance issues prior to launch.
 
 8. **Deployment and Launch Preparation:**
-   - [ ] Deploy the application on a cloud server for scalability.
+   - [x] Deploy the application on a cloud server for scalability.
    - [ ] Develop marketing strategies to promote the Community Music Pattern Creator.
 
 9. **Documentation and Support:**
