@@ -685,6 +685,54 @@ def copy_pattern(pattern_id):
     patterns.append(new_pattern)
     return jsonify(new_pattern), 201
 
+def store_pattern(pattern):
+    pattern['id'] = len(patterns) + 1
+    patterns.append(pattern)
+    return pattern['id']
+
+def retrieve_pattern(pattern_id):
+    return next((p for p in patterns if p['id'] == pattern_id), None)
+
+def merge_patterns(pattern1_id, pattern2_id):
+    pattern1 = retrieve_pattern(pattern1_id)
+    pattern2 = retrieve_pattern(pattern2_id)
+    if not pattern1 or not pattern2:
+        return None
+    
+    merged_pattern = {
+        'id': len(patterns) + 1,
+        'name': f"Merged: {pattern1['name']} + {pattern2['name']}",
+        'tracks': pattern1['tracks'] + pattern2['tracks']
+    }
+    patterns.append(merged_pattern)
+    return merged_pattern
+
+@app.route('/api/patterns', methods=['POST'])
+@jwt_required()
+def create_pattern():
+    current_user = get_jwt_identity()
+    new_pattern = request.json
+    pattern_id = store_pattern(new_pattern)
+    return jsonify({"id": pattern_id}), 201
+
+@app.route('/api/patterns/<int:pattern_id>', methods=['GET'])
+@jwt_required()
+def get_pattern(pattern_id):
+    pattern = retrieve_pattern(pattern_id)
+    if not pattern:
+        return jsonify({"msg": "Pattern not found"}), 404
+    return jsonify(pattern), 200
+
+@app.route('/api/patterns/merge', methods=['POST'])
+@jwt_required()
+def merge_pattern():
+    pattern1_id = request.json.get('pattern1_id')
+    pattern2_id = request.json.get('pattern2_id')
+    merged_pattern = merge_patterns(pattern1_id, pattern2_id)
+    if not merged_pattern:
+        return jsonify({"msg": "One or both patterns not found"}), 404
+    return jsonify(merged_pattern), 201
+
 if __name__ == '__main__':
     app.run(debug=True)
 ```
