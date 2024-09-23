@@ -14,7 +14,7 @@ The previous to-do list provides a strong foundation for the Community Music Pat
    - [x] Build a user-friendly grid-based sequencer interface for composing 4-8 bar loops.
    - [x] Develop diverse virtual instrument selection panels (drums, synths, bass, etc.).
    - [x] Implement audio synthesis features allowing real-time playback of patterns.
-   - [ ] Ensure responsive design for compatibility on various devices.
+   - [x] Ensure responsive design for compatibility on various devices.
 
 3. **Back-End Development:**
    - [ ] Set up server infrastructure and database (MongoDB or PostgreSQL) for data storage.

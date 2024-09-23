@@ -575,11 +575,18 @@ We have implemented a basic grid-based sequencer interface for composing 4-8 bar
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Community Music Pattern Creator</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
         .sequencer-grid {
             display: grid;
             grid-template-columns: repeat(16, 1fr);
             gap: 2px;
             margin-bottom: 20px;
+            overflow-x: auto;
         }
         .cell {
             width: 30px;
@@ -598,14 +605,18 @@ We have implemented a basic grid-based sequencer interface for composing 4-8 bar
         }
         .instrument-panel {
             margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
         }
         .instrument-panel ul {
             list-style-type: none;
             padding: 0;
+            display: flex;
+            flex-wrap: wrap;
         }
         .instrument-panel li {
-            display: inline-block;
             margin-right: 10px;
+            margin-bottom: 10px;
         }
         .instrument-button {
             padding: 5px 10px;
@@ -615,6 +626,24 @@ We have implemented a basic grid-based sequencer interface for composing 4-8 bar
         }
         .instrument-button:hover {
             background-color: #e0e0e0;
+        }
+        @media (max-width: 768px) {
+            .sequencer-grid {
+                grid-template-columns: repeat(8, 1fr);
+            }
+            .cell {
+                width: 25px;
+                height: 25px;
+            }
+        }
+        @media (max-width: 480px) {
+            .sequencer-grid {
+                grid-template-columns: repeat(4, 1fr);
+            }
+            .cell {
+                width: 20px;
+                height: 20px;
+            }
         }
     </style>
 </head>
