@@ -118,7 +118,9 @@ def ping():
 
 @app.route('/kinos', methods=['POST'])
 def kinos():
-    # ... [rest of the function remains unchanged]
+    data = request.json
+    command = shlex.split(data['command'])
+    return Response(stream_with_context(stream_command(command)), content_type='application/json')
 
 @app.route('/health', methods=['GET'])
 def health():
