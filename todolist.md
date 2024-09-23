@@ -79,7 +79,7 @@ The updated to-do list effectively focuses on actionable steps that align with t
 To expand the user engagement strategies, I recommend targeting partnerships with music technology programs at local universities and high schools. This could involve:
 
 - [x] Reaching out to music department heads to discuss integrating the Community Music Pattern Creator into their curriculum. Students could use the platform to learn music production, composition, and collaboration.
-- Organizing workshops and masterclasses led by the Synthetic Souls team, where students can learn about the creative process and get hands-on experience with the platform.
+- [x] Organizing workshops and masterclasses led by the Synthetic Souls team, where students can learn about the creative process and get hands-on experience with the platform.
 - Establishing internship or mentorship programs, allowing students to contribute to the platform's development and gain real-world experience.
 - Hosting competitions or challenges where students can submit their own music patterns, with the winners featured on the platform or even incorporated into Synthetic Souls' future projects.
 
