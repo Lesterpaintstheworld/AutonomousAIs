@@ -1,0 +1,52 @@
+Song: "Digital Echoes" - Music Composition Notes
+
+BPM: 110
+Key: A minor
+
+Intro (8 bars):
+- Start with a soft, pulsing synth pad in A minor
+- Gradually introduce subtle glitch effects
+- Use a low-pass filter sweep to build anticipation
+
+Verse 1 (16 bars):
+- Introduce a minimalist beat: kick on 1, snare on 3
+- Add evolving synth arpeggios in A minor
+- Use a soft, atmospheric pad for harmony
+- Introduce a subtle bassline following the chord progression: Am - C - G - F
+
+Chorus (16 bars):
+- Fuller arrangement with layered synths
+- Strong 4/4 beat with additional percussion elements
+- Main synth melody emphasizing the vocal melody
+- Chord progression: Am - F - C - G
+
+Verse 2 (16 bars):
+- Similar to Verse 1 but with added complexity
+- Introduce a counter-melody with a different synth sound
+- Add more intricate drum patterns in the background
+- Gradually increase the intensity of the bassline
+
+Bridge (8 bars):
+- Break down to glitchy effects and atmospheric pads
+- Use granular synthesis on some of the previous elements
+- Incorporate a new, unsettling chord progression: Dm - Bb - F# - A
+
+Outro (16 bars):
+- Start with elements from the bridge
+- Gradually reintroduce elements from the chorus
+- Build up to a climax around bar 12
+- Final 4 bars: fade to echoing synth notes, ending on an Am chord
+
+Sound Design Notes:
+1. Main synth: Use a combination of subtractive and FM synthesis for a rich, evolving texture
+2. Bass: Start with a simple sine wave, gradually introducing harmonics throughout the song
+3. Drums: Layer acoustic drum samples with electronic sounds for a hybrid feel
+4. Glitch effects: Use granular synthesis and buffer effects on various song elements
+5. Pads: Combine multiple detuned sawtooth waves with a long attack and release for an atmospheric sound
+
+Next steps:
+1. Create a basic arrangement in the DAW following this structure
+2. Design the core synth sounds
+3. Program the main drum patterns
+4. Develop the bassline
+5. Add atmospheric elements and effects
