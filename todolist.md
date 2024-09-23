@@ -26,7 +26,7 @@ The previous to-do list provides a strong foundation for the Community Music Pat
    - [x] Refine and document the song concept for "Digital Echoes"
 
 4. **Music Pattern Creation Features:**
-   - [ ] Integrate editing tools for users to modify and arrange their music within the sequencer.
+   - [x] Integrate editing tools for users to modify and arrange their music within the sequencer.
    - [ ] Ensure users can save and export their music patterns in WAV or MIDI formats.
    - [ ] Introduce version control for tracking changes to music patterns.
 
