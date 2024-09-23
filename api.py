@@ -60,7 +60,57 @@ class Pattern:
         self.versions.append(PatternVersion(content))
 
 def stream_command(command):
-    # ... [rest of the function remains unchanged]
+    env = os.environ.copy()
+    env['PATH'] = f"{VENV_PATH}:{env['PATH']}"
+    
+    def generate():
+        try:
+            yield json.dumps({'debug': 'Starting command execution'}) + '\n'
+            
+            with subprocess.Popen(
+                command,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                text=True,
+                bufsize=1,
+                universal_newlines=True,
+                cwd=PROJECT_PATH,
+                env=env,
+                preexec_fn=os.setsid
+            ) as process:
+                yield json.dumps({'debug': 'Process started'}) + '\n'
+                
+                start_time = time.time()
+                output_buffer = ""
+                while True:
+                    if process.poll() is not None:
+                        break
+                    
+                    # Use select to avoid blocking
+                    rlist, _, _ = select.select([process.stdout, process.stderr], [], [], 0.1)
+                    for stream in rlist:
+                        line = stream.readline()
+                        if line:
+                            output_buffer += line
+                            if len(output_buffer) > MAX_BUFFER_SIZE:
+                                yield json.dumps({'debug': 'Buffer size limit reached'}) + '\n'
+                                os.killpg(os.getpgid(process.pid), signal.SIGTERM)
+                                return
+                            yield json.dumps({'output' if stream == process.stdout else 'error': line.strip()}) + '\n'
+                    
+                    # Check timeout
+                    if time.time() - start_time > TIMEOUT:
+                        yield json.dumps({'debug': f'Process timed out after {TIMEOUT} seconds'}) + '\n'
+                        os.killpg(os.getpgid(process.pid), signal.SIGTERM)
+                        return
+                
+                return_code = process.returncode
+                yield json.dumps({'debug': f'Process ended with return code {return_code}'}) + '\n'
+        except Exception as e:
+            logging.error(f"Error in stream_command: {str(e)}")
+            yield json.dumps({'error': f'Internal server error: {str(e)}'}) + '\n'
+
+    return generate()
 
 @app.route('/', methods=['GET'])
 def ping():
