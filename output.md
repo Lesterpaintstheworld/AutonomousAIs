@@ -685,6 +685,22 @@ def copy_pattern(pattern_id):
     patterns.append(new_pattern)
     return jsonify(new_pattern), 201
 
+@app.route('/api/patterns/<int:pattern_id>/export', methods=['GET'])
+@jwt_required()
+def export_pattern(pattern_id):
+    current_user = get_jwt_identity()
+    pattern = next((p for p in patterns if p['id'] == pattern_id), None)
+    if not pattern:
+        return jsonify({"msg": "Pattern not found"}), 404
+
+    export_format = request.args.get('format', 'wav').lower()
+    if export_format not in ['wav', 'midi']:
+        return jsonify({"msg": "Invalid export format. Use 'wav' or 'midi'."}), 400
+
+    # Here we would implement the actual export logic
+    # For demonstration, we'll just return a message
+    return jsonify({"msg": f"Pattern exported as {export_format.upper()}"}), 200
+
 def store_pattern(pattern):
     pattern['id'] = len(patterns) + 1
     patterns.append(pattern)

@@ -27,7 +27,7 @@ The previous to-do list provides a strong foundation for the Community Music Pat
 
 4. **Music Pattern Creation Features:**
    - [x] Integrate editing tools for users to modify and arrange their music within the sequencer.
-   - [ ] Ensure users can save and export their music patterns in WAV or MIDI formats.
+   - [x] Ensure users can save and export their music patterns in WAV or MIDI formats.
    - [ ] Introduce version control for tracking changes to music patterns.
 
 5. **Pattern Sharing and Collaboration:**
