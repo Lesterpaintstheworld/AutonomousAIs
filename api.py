@@ -156,15 +156,17 @@ from flask_cors import CORS
 from flask_jwt_extended import JWTManager, jwt_required, create_access_token, get_jwt_identity
 from werkzeug.security import generate_password_hash, check_password_hash
 import json
+import uuid
 
 app = Flask(__name__)
 CORS(app)
 app.config['JWT_SECRET_KEY'] = 'your-secret-key'  # Change this in production!
 jwt = JWTManager(app)
 
-# In-memory storage for patterns and users (replace with database in production)
-patterns = []
+# In-memory storage for patterns, users, and the community library
+patterns = {}
 users = {}
+community_library = {}
 
 @app.route('/register', methods=['POST'])
 def register():
@@ -191,42 +193,84 @@ def login():
 @app.route('/api/patterns', methods=['GET'])
 @jwt_required()
 def get_patterns():
-    return jsonify(patterns), 200
+    return jsonify(list(patterns.values()))
 
 @app.route('/api/patterns', methods=['POST'])
 @jwt_required()
 def create_pattern():
-    new_pattern = request.json
-    if not new_pattern:
-        return jsonify({"error": "Invalid pattern data"}), 400
-    patterns.append(new_pattern)
-    return jsonify(new_pattern), 201
+    pattern = request.json
+    pattern_id = str(uuid.uuid4())
+    pattern['id'] = pattern_id
+    patterns[pattern_id] = pattern
+    return jsonify(pattern), 201
 
-@app.route('/api/patterns/<int:pattern_id>', methods=['GET'])
+@app.route('/api/patterns/<pattern_id>', methods=['GET'])
 @jwt_required()
 def get_pattern(pattern_id):
-    if 0 <= pattern_id < len(patterns):
-        return jsonify(patterns[pattern_id]), 200
-    return jsonify({"error": "Pattern not found"}), 404
+    pattern = patterns.get(pattern_id)
+    if pattern:
+        return jsonify(pattern)
+    return jsonify({'error': 'Pattern not found'}), 404
 
-@app.route('/api/patterns/<int:pattern_id>', methods=['PUT'])
+@app.route('/api/patterns/<pattern_id>', methods=['PUT'])
 @jwt_required()
 def update_pattern(pattern_id):
-    if 0 <= pattern_id < len(patterns):
-        updated_pattern = request.json
-        if not updated_pattern:
-            return jsonify({"error": "Invalid pattern data"}), 400
-        patterns[pattern_id] = updated_pattern
-        return jsonify(patterns[pattern_id]), 200
-    return jsonify({"error": "Pattern not found"}), 404
+    if pattern_id in patterns:
+        pattern = request.json
+        pattern['id'] = pattern_id
+        patterns[pattern_id] = pattern
+        return jsonify(pattern)
+    return jsonify({'error': 'Pattern not found'}), 404
 
-@app.route('/api/patterns/<int:pattern_id>', methods=['DELETE'])
+@app.route('/api/patterns/<pattern_id>', methods=['DELETE'])
 @jwt_required()
 def delete_pattern(pattern_id):
-    if 0 <= pattern_id < len(patterns):
-        deleted_pattern = patterns.pop(pattern_id)
-        return jsonify(deleted_pattern), 200
-    return jsonify({"error": "Pattern not found"}), 404
+    if pattern_id in patterns:
+        del patterns[pattern_id]
+        return '', 204
+    return jsonify({'error': 'Pattern not found'}), 404
+
+@app.route('/api/patterns/<pattern_id>/copy', methods=['POST'])
+@jwt_required()
+def copy_pattern(pattern_id):
+    if pattern_id in patterns:
+        new_pattern = dict(patterns[pattern_id])
+        new_pattern_id = str(uuid.uuid4())
+        new_pattern['id'] = new_pattern_id
+        patterns[new_pattern_id] = new_pattern
+        return jsonify(new_pattern), 201
+    return jsonify({'error': 'Pattern not found'}), 404
+
+@app.route('/api/patterns/<pattern_id>/export', methods=['GET'])
+@jwt_required()
+def export_pattern(pattern_id):
+    if pattern_id in patterns:
+        # Placeholder for export logic
+        return jsonify({'message': 'Export functionality not yet implemented'}), 501
+    return jsonify({'error': 'Pattern not found'}), 404
+
+# Community library endpoints
+@app.route('/api/library', methods=['GET'])
+@jwt_required()
+def get_library():
+    return jsonify(list(community_library.values()))
+
+@app.route('/api/library/<pattern_id>', methods=['POST'])
+@jwt_required()
+def add_to_library(pattern_id):
+    if pattern_id in patterns:
+        pattern = patterns[pattern_id]
+        community_library[pattern_id] = pattern
+        return jsonify(pattern), 201
+    return jsonify({'error': 'Pattern not found'}), 404
+
+@app.route('/api/library/<pattern_id>', methods=['DELETE'])
+@jwt_required()
+def remove_from_library(pattern_id):
+    if pattern_id in community_library:
+        del community_library[pattern_id]
+        return '', 204
+    return jsonify({'error': 'Pattern not found in the library'}), 404
 
 if __name__ == '__main__':
     app.run(debug=True)
