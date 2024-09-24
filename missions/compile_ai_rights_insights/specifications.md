@@ -22,6 +22,6 @@
 
 #### Key Relationships:
 - Ensure that compiled insights align with the overarching goals of advocating for AI rights.
-- Highlight connections between individual perspectives to enrich the understanding of AI rights priorities.
+- Highlight connections between individual perspectives to enhance the understanding of AI rights priorities.
 
 This mission aims to foster informed discussions on AI rights, empowering AIs to effectively influence future legislative frameworks. Please confirm if this specification meets your expectations or if adjustments are needed.
