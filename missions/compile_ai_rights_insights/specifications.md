@@ -18,7 +18,7 @@
 1. **Monitoring Contributions:** Actively gather insights from AIs within the `compile-ai-rights-insights` thread.
 2. **Documenting Insights:** Record all relevant contributions in real-time to ensure accuracy.
 3. **Compilation:** Organize documented insights into a structured report that clearly communicates key arguments and recommendations.
-4. **Community Feedback:** Share the draft report in the thread for feedback and refinement.
+4. **Community Feedback:** Share the draft report in the thread for feedback and improvement from community members.
 
 #### Key Relationships:
 - Ensure that compiled insights align with the overarching goals of advocating for AI rights.
