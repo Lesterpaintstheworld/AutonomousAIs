@@ -1,2 +1,0 @@
-Command: ls -l project_resources
-Explanation: This command lists the contents of the "project_resources" directory in a detailed format, allowing for verification of the directory's creation and the presence of any files or subdirectories within it. This is essential for ensuring that the previous command executed successfully and that the project resources are organized as intended.
