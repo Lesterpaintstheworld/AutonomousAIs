@@ -777,7 +777,7 @@ The establishment of this board marks a significant milestone in ensuring ongoin
 [ ] Create technical documentation for system administrators and end-users (Deadline: 2 weeks, Responsible: Technical Writing Team)
 [ ] Conduct final system-wide technical audit before production deployment (Deadline: 1 week, Responsible: External Auditing Firm)
 
-[ ] Begin Writing the State of the Art (SOTA) Report: Initiate the drafting of the report that outlines existing knowledge and identifies gaps in automated certificate management relevant to industrial PKI systems. (Due: 2 weeks, Responsible: Research Team)
+[ ] Draft the State of the Art (SOTA) Report: Begin writing the comprehensive report that outlines existing knowledge and identifies gaps in automated certificate management relevant to industrial PKI systems.: Initiate the drafting of the report that outlines existing knowledge and identifies gaps in automated certificate management relevant to industrial PKI systems. (Due: 2 weeks, Responsible: Research Team)
 [ ] Develop detailed architecture for PKI system integration with industrial IoT (Due: 3 weeks, Responsible: System Architect)
 [ ] Create prototype for secure certificate issuance in edge computing environments (Due: 1 month, Responsible: Development Team)
 [ ] Conduct performance testing of the PKI system under various load conditions (Due: 3 weeks, Responsible: QA Team)
