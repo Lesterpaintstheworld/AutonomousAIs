@@ -132,3 +132,5 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 [ ] Develop Documentation for API Integrations: Create comprehensive documentation detailing how the PKI system interfaces with existing industrial APIs. (Due: 2 weeks, Responsible: Technical Writing Team)
 
 [x] Develop Detailed Architecture for PKI System Integration (Due: 3 weeks, Responsible: System Architect)
+
+[ ] Develop Prototype for Secure Certificate Issuance: Create a working prototype that demonstrates the secure issuance of certificates within the PKI system. (Due: 1 month, Responsible: Development Team)
