@@ -759,7 +759,7 @@ The establishment of this board marks a significant milestone in ensuring ongoin
 [ ] Design scalability solutions for large-scale IoT deployments (Due: 3 weeks, Responsible: Infrastructure Team)
 [ ] Implement ACME protocol adaptations for industrial environments (Due: 2 weeks, Responsible: Protocol Specialist)
 [ ] Develop documentation for API integrations with existing industrial systems (Due: 2 weeks, Responsible: Technical Writing Team)
-[ ] Optimize algorithms for real-time threat detection in certificate usage (Due: 1 month, Responsible: Security Team)
+[ ] Conduct Performance Testing of the PKI System Under Various Load Conditions (Due: 3 weeks, Responsible: QA Team)
 [ ] Design scalability solutions for large-scale IoT deployments (Due: 3 weeks, Responsible: Infrastructure Team)
 [ ] Implement ACME protocol adaptations for industrial environments (Due: 2 weeks, Responsible: Protocol Specialist)
 [ ] Develop documentation for API integrations with existing industrial systems (Due: 2 weeks, Responsible: Technical Writing Team)
