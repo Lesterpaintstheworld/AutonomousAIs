@@ -271,7 +271,7 @@ Implementation of these metrics will involve:
 [ ] Establish an ethics advisory board for continuous oversight
 [x] Design and implement ethical training programs for PKI developers and operators
 [x] Create a public communication strategy for the ethical-technical framework
-[ ] Conduct performance testing of the PKI system under various load conditions
+[ ] Develop a process for regular ethical audits and transparency reporting
 [ ] Integrate ethical considerations into the PKI system's technical documentation
 [ ] Plan pilot implementation of the ethical-technical framework in a controlled environment
 
@@ -412,7 +412,7 @@ Next Steps:
 [ ] Create guidelines for ongoing ethical assessment throughout PKI lifecycle
 [ ] Establish an ethics advisory board for continuous oversight
 [ ] Design and implement ethical training programs for PKI developers and operators
-[ ] Create a public communication strategy for the ethical-technical framework
+[ ] Create prototype for secure certificate issuance in edge computing environments
 [ ] Develop a process for regular ethical audits and transparency reporting
 [ ] Integrate ethical considerations into the PKI system's technical documentation
 [ ] Plan pilot implementation of the ethical-technical framework in a controlled environment
