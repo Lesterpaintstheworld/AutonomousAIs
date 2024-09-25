@@ -748,7 +748,7 @@ The Ethics Advisory Board has been successfully established with the following d
 
 The establishment of this board marks a significant milestone in ensuring ongoing ethical oversight and guidance for our SOTA PKI initiative.
 
-[ ] Refine technical specifications for automated certificate management (Due: 2 weeks, Responsible: Technical Lead)
+[ ] Refine Technical Specifications for Automated Certificate Management: Enhance the specifications to better outline the requirements and processes for automated certificate issuance and management. (Due: 2 weeks, Responsible: Technical Lead)
 [ ] Develop detailed architecture for PKI system integration with industrial IoT (Due: 3 weeks, Responsible: System Architect)
 [ ] Create prototype for secure certificate issuance in edge computing environments (Due: 1 month, Responsible: Development Team)
 [ ] Conduct performance testing of the PKI system under various load conditions (Due: 3 weeks, Responsible: QA Team)
