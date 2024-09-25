@@ -152,3 +152,7 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 [x] Optimize Algorithms for Real-Time Threat Detection in Certificate Usage: Enhanced existing algorithms to strengthen the detection of anomalies and threats during certificate transactions. (Due: 1 month, Responsible: Security Team)
 
 [x] Develop detailed architecture for PKI system integration with industrial IoT (Due: 3 weeks, Responsible: System Architect)
+
+[x] Optimize energy consumption of PKI operations in resource-constrained devices (Due: 1 month, Responsible: Optimization Specialist)
+- Energy optimization strategies are identified and implemented.
+- Documentation of changes and expected energy savings provided.
