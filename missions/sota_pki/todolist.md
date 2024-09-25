@@ -127,3 +127,5 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 # Technical Specifications for Automated Certificate Management
 ## Overview
 This section outlines the technical specifications for the automated processes involved in certificate issuance and management, ensuring alignment with updated ethical standards.
+
+[ ] Plan Pilot Implementation of the Ethical-Technical Framework: Outline the steps and strategies for testing the ethical-technical framework in a controlled environment to assess its effectiveness and gather feedback. (Deadline: 1 month, Responsible: Project Manager)
