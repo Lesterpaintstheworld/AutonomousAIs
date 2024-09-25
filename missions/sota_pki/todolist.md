@@ -126,3 +126,5 @@ On essaie de démontrer qu’on fort niveau de sécurité même avec des petits 
  
 
 But de la fin d’année : terminer le démonstrateur en environnement représentatif de l’environnement réel : on a déployé différents capteurs, une gateway a été déployé avec des machines et des serveurs : réalisation de tests en fin d’année 2023 : le projet se termine en fin d’année
+
+[x] Conduct Performance Testing of the PKI System Under Various Load Conditions (Due: 3 weeks, Responsible: QA Team)
