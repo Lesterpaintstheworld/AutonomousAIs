@@ -20,6 +20,7 @@
 [ ] Design scalability solutions for large-scale IoT deployments (Due: 3 weeks, Responsible: Infrastructure Team)
 [x] Implement ACME protocol adaptations for industrial environments (Due: 2 weeks, Responsible: Protocol Specialist)
 [ ] Create Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
+[ ] Create comprehensive API integration documentation for the PKI system (Due: 2 weeks, Responsible: Technical Writing Team)
 [ ] Integrate Ethical Considerations into Technical Documentation: Update the technical documentation to reflect the ethical aspects outlined in the framework.
 [x] Conduct performance testing of the PKI system under various load conditions (Due: 3 weeks, Responsible: QA Team)
 [ ] Optimize Energy Consumption of PKI Operations in Resource-Constrained Devices (Due: 1 month, Responsible: Optimization Specialist)
