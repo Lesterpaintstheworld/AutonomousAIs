@@ -827,6 +827,4 @@ This will ensure that the SOTA PKI initiative remains focused on technical advan
 
 [x] Compile technical specifications for PKI advancements
 
-1. Scalability:
-   - Design systems that can support growing numbers of devices and users efficiently.
-   - Optimize performance to ensure low-latency responses under high loads.
+## Performance Optimization
