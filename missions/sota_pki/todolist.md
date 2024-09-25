@@ -157,6 +157,10 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 - Energy optimization strategies are identified and implemented.
 - Documentation of changes and expected energy savings provided.
 
+[x] Optimize energy consumption of PKI operations in resource-constrained devices (Due: 1 month, Responsible: Optimization Specialist)
+
+[x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
+
 # API Integration Documentation for PKI System
 
 ## Overview
@@ -174,34 +178,6 @@ This document details how the PKI system integrates with various industrial APIs
 ## Conclusion
 This documentation is crucial for the successful deployment of the PKI within industrial environments.
 
-## Complete Documentation for API Integrations with Existing Industrial Systems
-This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability and operational efficiency.
-
-## API Endpoints
-- **Endpoint 1**: Description of the first API endpoint.
-- **Endpoint 2**: Description of the second API endpoint.
-
-## Integration Requirements
-- Authentication methods
-- Data formats
-- Error handling procedures
-
-## Conclusion
-This documentation is crucial for the successful deployment of the PKI within industrial environments.
-
-**Overview**
-This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability.
-
-**API Endpoints**
-- **Endpoint 1**: Description of the first API endpoint.
-- **Endpoint 2**: Description of the second API endpoint.
-
-**Integration Requirements**
-- Authentication methods
-- Data formats
-- Error handling procedures
-
-**Conclusion**
-This documentation is crucial for the successful deployment of the PKI within industrial environments.
-
 [x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
+
+## Complete Documentation for API Integrations with Existing Industrial Systems
