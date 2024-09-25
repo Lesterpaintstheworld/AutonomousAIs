@@ -167,7 +167,7 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability.
 
 ## API Endpoints
-- **Endpoint 1**: Description of the first API endpoint.
+- **Endpoint 1**: Provides secure access to certificate issuance services. This endpoint handles requests for generating, renewing, and revoking digital certificates. It supports RESTful API calls with JSON payloads, employs OAuth 2.0 for authentication, and ensures encrypted data transmission using TLS 1.3.
 - **Endpoint 2**: Description of the second API endpoint.
 
 ## API Integration Specifications
