@@ -273,7 +273,7 @@ Implementation of these metrics will involve:
 [x] Create a public communication strategy for the ethical-technical framework
 [ ] Develop a process for regular ethical audits and transparency reporting
 [ ] Integrate ethical considerations into the PKI system's technical documentation
-[ ] Plan pilot implementation of the ethical-technical framework in a controlled environment
+[ ] Design scalability solutions for large-scale IoT deployments
 
 Public Communication Strategy for Ethical-Technical Framework:
 
@@ -827,6 +827,4 @@ This will ensure that the SOTA PKI initiative remains focused on technical advan
 
 [x] Compile technical specifications for PKI advancements
 
-2. Security Protocols:
-   - Implement advanced security features to protect against unauthorized access.
-   - Regularly update and audit security measures to adapt to new threats.
+## Technical Specifications for the PKI Initiative
