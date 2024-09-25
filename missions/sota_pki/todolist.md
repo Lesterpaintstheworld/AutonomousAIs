@@ -22,7 +22,7 @@
 [ ] Develop documentation for API integrations with existing industrial systems (Due: 2 weeks, Responsible: Technical Writing Team)
 [ ] Create comprehensive guides on how to integrate the PKI system with current industrial APIs.
 [x] Conduct performance testing of the PKI system under various load conditions (Due: 3 weeks, Responsible: QA Team)
-[ ] Optimize energy consumption of PKI operations in resource-constrained devices (Due: 1 month, Responsible: Optimization Specialist)
+[ ] Optimize Energy Consumption of PKI Operations in Resource-Constrained Devices (Due: 1 month, Responsible: Optimization Specialist)
 
 ## Technical Overview
 
