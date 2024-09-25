@@ -17,7 +17,7 @@
 [x] Create prototype for secure certificate issuance in edge computing environments (Due: 1 month, Responsible: Development Team)
 [x] Conduct performance testing of the PKI system under various load conditions (Due: 3 weeks, Responsible: QA Team)
 [x] Optimize algorithms for real-time threat detection in certificate usage (Due: 1 month, Responsible: Security Team)
-[ ] Design scalability solutions for large-scale IoT deployments (Due: 3 weeks, Responsible: Infrastructure Team)
+[x] Design scalability solutions for large-scale IoT deployments (Due: 3 weeks, Responsible: Infrastructure Team)
 [x] Implement ACME protocol adaptations for industrial environments (Due: 2 weeks, Responsible: Protocol Specialist)
 [ ] Create Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
 [ ] Create comprehensive API integration documentation for the PKI system (Due: 2 weeks, Responsible: Technical Writing Team)
