@@ -157,112 +157,50 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 - Energy optimization strategies are identified and implemented.
 - Documentation of changes and expected energy savings provided.
 
+[x] Optimize energy consumption of PKI operations in resource-constrained devices (Due: 1 month, Responsible: Optimization Specialist)
+
+[x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
+
 # API Integration Documentation for PKI System
 
 ## Overview
 This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability.
 
-## Detailed Architecture for PKI System Integration with Industrial IoT
-
-### Objective
-Define and outline a comprehensive architecture that effectively integrates the PKI system with industrial IoT environments, ensuring scalability, interoperability, and security.
-
-### Integration Points
-- Detailed points where the PKI integrates with various IoT devices.
-
-### Security Protocols
-- Outline the security protocols to be employed for safe communication between devices.
-
-### Scalability Considerations
-- Address how the architecture can adapt to increased loads and numerous device connections.
-
-### Risk Management Strategies
-- Identify potential risks and present mitigation strategies to ensure system reliability.
-
-### Conclusion
-This architecture is essential for ensuring scalability, interoperability, and security in the deployment of the PKI system within industrial settings.
-- **Endpoint 1**: Description of the first API endpoint.
-- **Endpoint 2**: Description of the second API endpoint.
-
-## Integration Requirements
-- Authentication methods
-- Data formats
-- Error handling procedures
-
-## Conclusion
-This documentation is crucial for the successful deployment of the PKI within industrial environments.
-
-## Complete Documentation for API Integrations with Existing Industrial Systems
-This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability and operational efficiency.
-
 ## API Endpoints
 - **Endpoint 1**: Description of the first API endpoint.
 - **Endpoint 2**: Description of the second API endpoint.
 
-## Integration Requirements
-- Authentication methods
-- Data formats
-- Error handling procedures
+## API Integration Specifications
 
-## Conclusion
-This documentation is crucial for the successful deployment of the PKI within industrial environments.
+### Overview
+This documentation provides comprehensive details on API integrations with the PKI system, ensuring secure and effective communication within industrial environments.
 
-**Overview**
-This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability.
-
-**API Endpoints**
+### API Endpoints
 - **Endpoint 1**: Description of the first API endpoint.
 - **Endpoint 2**: Description of the second API endpoint.
 
-**Integration Requirements**
+### Integration Requirements
+- **Authentication Methods**: Outline of all supported authentication methods for API access.
+- **Data Formats**: Supported data formats for requests and responses.
+- **Error Handling Procedures**: Clear procedures for handling potential errors during API interactions.
+
+### Conclusion
+This documentation is vital for secure IoT management and interoperability within industrial environments.
 - Authentication methods
 - Data formats
 - Error handling procedures
 
-**Conclusion**
+## Conclusion
 This documentation is crucial for the successful deployment of the PKI within industrial environments.
 
 [x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
 
-[x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
+## Complete Documentation for API Integrations with Existing Industrial Systems
 
-[x] Finalize Documentation for API Integrations with Existing Industrial Systems: Ensure that all aspects of API integration are clearly documented. (Due: 2 weeks, Responsible: Technical Writing Team)
+[ ] Develop Detailed Architecture for PKI System Integration with Industrial IoT
 
-# Scalability Solutions for Large-Scale IoT Deployments
+[ ] Design Scalability Solutions for Large-Scale IoT Deployments (Due: 3 weeks, Responsible: Infrastructure Team)
 
-## Objective
-Develop strategies that ensure the PKI system can efficiently handle an increasing number of IoT devices.
-
-## Proposed Strategies
-- **Load Balancing**: Implement load balancers to distribute workloads evenly across servers.
-- **Microservices Architecture**: Transition to a microservices architecture to improve scalability and facilitate independent scaling of components.
-- **Database Optimization**: Use sharding and replication techniques for scalable database management.
-
-## Implementation Pathways
-1. Identify key areas for load distribution.
-2. Reassess current architecture to integrate microservices.
-3. Configure database settings for sharding.
-
-These solutions must align with existing architectural guidelines for integration to maintain performance and reliability as the system expands.
-
-[x] Optimize Algorithms for Real-Time Threat Detection in Certificate Usage (Due: 1 month, Responsible: Security Team)
-
-# Detailed Architecture for PKI System Integration with Industrial IoT
-
-## Objective
-Create an in-depth architectural design to ensure effective integration of the PKI system within industrial IoT environments.
-
-## Integration Points
-- Clearly defined areas where the PKI integrates with IoT devices.
-
-## Security Protocols
-- Outline the security protocols implemented for safe communication between PKI and IoT systems.
-
-## Scalability Considerations
-- Address how the architecture can adapt to increased loads and numerous device connections ensuring efficient performance.
-
-## Risk Management Strategies
-- Identify potential risks and present mitigation strategies to ensure system reliability.
-
-## Conclusion
-This architectural document serves to provide a comprehensive overview of the integration, security, and scalability considerations for the PKI system within industrial IoT environments.
+## Enhanced Algorithm for Threat Detection in Certificate Usage
+- Algorithms effectively identify threats and anomalies.
+- Documented improvements with validation through testing.
