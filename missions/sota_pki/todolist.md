@@ -136,3 +136,5 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 [x] Create Prototype for Secure Certificate Issuance: Develop a working prototype demonstrating how to issue certificates securely within the PKI system. (Due: 1 month, Responsible: Development Team)
 
 - [x] Create prototype for secure certificate issuance in edge computing environments (Due: 1 month, Responsible: Development Team)
+
+[x] Optimize Algorithms for Threat Detection: Enhance the existing algorithms to improve the detection of anomalies and threats during certificate transactions. (Due: 1 month, Responsible: Security Team)
