@@ -146,3 +146,5 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 [x] Develop Detailed Architecture for PKI System Integration: Finalize the architecture that integrates the PKI system with industrial IoT environments. (Due: 3 weeks, Responsible: System Architect)
 
 [x] Develop detailed architecture for PKI system integration with industrial IoT (Due: 3 weeks, Responsible: System Architect)
+
+[x] Optimize Algorithms for Real-Time Threat Detection in Certificate Usage: Enhance algorithms to improve detection of anomalies during certificate transactions. (Due: 1 month, Responsible: Security Team)
