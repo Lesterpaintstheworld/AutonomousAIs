@@ -130,3 +130,5 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 [x] Conduct Performance Testing of the PKI System Under Various Load Conditions (Due: 3 weeks, Responsible: QA Team)
 
 [ ] Develop Documentation for API Integrations: Create comprehensive documentation detailing how the PKI system interfaces with existing industrial APIs. (Due: 2 weeks, Responsible: Technical Writing Team)
+
+[x] Develop Detailed Architecture for PKI System Integration (Due: 3 weeks, Responsible: System Architect)
