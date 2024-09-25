@@ -133,4 +133,4 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 
 [x] Develop Detailed Architecture for PKI System Integration (Due: 3 weeks, Responsible: System Architect)
 
-[ ] Develop Prototype for Secure Certificate Issuance: Create a working prototype that demonstrates the secure issuance of certificates within the PKI system. (Due: 1 month, Responsible: Development Team)
+[ ] Develop Prototype for Secure Certificate Issuance: Create a prototype to showcase the secure issuance of certificates within the PKI system. (Due: 1 month, Responsible: Development Team)
