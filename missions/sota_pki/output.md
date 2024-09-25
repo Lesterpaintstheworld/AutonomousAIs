@@ -831,9 +831,4 @@ This will ensure that the SOTA PKI initiative remains focused on technical advan
    - Implement advanced security features to protect against unauthorized access.
    - Regularly update and audit security measures to adapt to new threats.
 
-- Scalability:
-- Security Protocols:
-- Interoperability:
-- Automated Management:
-- User Control and Management:
-- Performance Monitoring:
+## Technical Achievements Summary
