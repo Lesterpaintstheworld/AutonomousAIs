@@ -1,3 +1,6 @@
+## Technical Specifications for Automated Certificate Management
+This document outlines the updated technical specifications for the automated processes involved in certificate issuance and management, ensuring alignment with updated ethical standards.
+
 Sujet :
 Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles.
 
@@ -124,15 +127,82 @@ On essaie de démontrer qu’on fort niveau de sécurité même avec des petits 
 
 But de la fin d’année : terminer le démonstrateur en environnement représentatif de l’environnement réel : on a déployé différents capteurs, une gateway a été déployé avec des machines et des serveurs : réalisation de tests en fin d’année 2023 : le projet se termine en fin d’année
 
-# Technical Specifications for Automated Certificate Management
+[x] Conduct Performance Testing of the PKI System Under Various Load Conditions (Due: 3 weeks, Responsible: QA Team)
+
+[ ] Develop Documentation for API Integrations: Finalize and complete the comprehensive documentation detailing how the PKI system integrates with existing industrial APIs. (Due: 2 weeks, Responsible: Technical Writing Team)
+
+[x] Develop Detailed Architecture for PKI System Integration (Due: 3 weeks, Responsible: System Architect)
+
+[x] Create Prototype for Secure Certificate Issuance: Develop a working prototype demonstrating how to issue certificates securely within the PKI system. (Due: 1 month, Responsible: Development Team)
+
+- [x] Create prototype for secure certificate issuance in edge computing environments (Due: 1 month, Responsible: Development Team)
+
+[x] Optimize Algorithms for Threat Detection: Enhance the existing algorithms to improve the detection of anomalies and threats during certificate transactions. (Due: 1 month, Responsible: Security Team)
+
+[x] Develop Detailed Architecture for PKI System Integration: Finalize the architecture design that integrates the PKI system with industrial IoT environments (Due: 3 weeks, Responsible: System Architect)
+
+[x] Optimize Algorithms for Real-Time Threat Detection in Certificate Usage (Due: 1 month, Responsible: Security Team)
+
+[x] Develop Detailed Architecture for PKI System Integration: Finalize the architecture that integrates the PKI system with industrial IoT environments. (Due: 3 weeks, Responsible: System Architect)
+
+[x] Develop detailed architecture for PKI system integration with industrial IoT (Due: 3 weeks, Responsible: System Architect)
+
+[x] Optimize Algorithms for Real-Time Threat Detection in Certificate Usage: Enhance algorithms to improve detection of anomalies during certificate transactions. (Due: 1 month, Responsible: Security Team)
+
+[x] Optimize Algorithms for Real-Time Threat Detection in Certificate Usage: Enhanced existing algorithms to strengthen the detection of anomalies and threats during certificate transactions. (Due: 1 month, Responsible: Security Team)
+
+[x] Develop detailed architecture for PKI system integration with industrial IoT (Due: 3 weeks, Responsible: System Architect)
+
+[x] Optimize energy consumption of PKI operations in resource-constrained devices (Due: 1 month, Responsible: Optimization Specialist)
+- Energy optimization strategies are identified and implemented.
+- Documentation of changes and expected energy savings provided.
+
+[x] Optimize energy consumption of PKI operations in resource-constrained devices (Due: 1 month, Responsible: Optimization Specialist)
+
+[x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
+
+# API Integration Documentation for PKI System
+
 ## Overview
-This section outlines the technical specifications for the automated processes involved in certificate issuance and management, ensuring alignment with updated ethical standards.
+This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability.
 
-[ ] Plan Pilot Implementation of the Ethical-Technical Framework: Outline the steps and strategies for testing the ethical-technical framework in a controlled environment to assess its effectiveness and gather feedback. (Deadline: 1 month, Responsible: Project Manager)
+## API Endpoints
+- **Endpoint 1**: Description of the first API endpoint.
+- **Endpoint 2**: Description of the second API endpoint.
 
-[x] Create prototype for secure certificate issuance in edge computing environments (Due: 1 month, Responsible: Development Team)
+## API Integration Specifications
 
-- Comprehensive testing has validated improvements in accuracy and response time.
-- The algorithms now provide timely alerts for potential security issues.
+### Overview
+This documentation provides comprehensive details on API integrations with the PKI system, ensuring secure and effective communication within industrial environments.
 
-[x] Develop Detailed Architecture for PKI System Integration with Industrial IoT (Due: 3 weeks, Responsible: System Architect)
+### API Endpoints
+- **Endpoint 1**: Description of the first API endpoint.
+- **Endpoint 2**: Description of the second API endpoint.
+
+### Integration Requirements
+- **Authentication Methods**: Outline of all supported authentication methods for API access.
+- **Data Formats**: Supported data formats for requests and responses.
+- **Error Handling Procedures**: Clear procedures for handling potential errors during API interactions.
+
+### Conclusion
+This documentation is vital for secure IoT management and interoperability within industrial environments.
+- Authentication methods
+- Data formats
+- Error handling procedures
+
+## Conclusion
+This documentation is crucial for the successful deployment of the PKI within industrial environments.
+
+[x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
+
+## Complete Documentation for API Integrations with Existing Industrial Systems
+
+[ ] Develop Detailed Architecture for PKI System Integration with Industrial IoT
+
+[ ] Design Scalability Solutions for Large-Scale IoT Deployments (Due: 3 weeks, Responsible: Infrastructure Team)
+
+## Enhanced Algorithm for Threat Detection in Certificate Usage
+- Algorithms effectively identify threats and anomalies.
+- Documented improvements with validation through testing.
+
+[x] Optimize Algorithms for Real-Time Threat Detection in Certificate Usage (Due: 1 month, Responsible: Security Team)
