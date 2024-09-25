@@ -157,14 +157,43 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 - Energy optimization strategies are identified and implemented.
 - Documentation of changes and expected energy savings provided.
 
-[x] Optimize energy consumption of PKI operations in resource-constrained devices (Due: 1 month, Responsible: Optimization Specialist)
-
-[x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
-
 # API Integration Documentation for PKI System
 
 ## Overview
 This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability.
+
+## Detailed Architecture for PKI System Integration with Industrial IoT
+
+### Objective
+Define and outline a comprehensive architecture that effectively integrates the PKI system with industrial IoT environments, ensuring scalability, interoperability, and security.
+
+### Integration Points
+- Detailed points where the PKI integrates with various IoT devices.
+
+### Security Protocols
+- Outline the security protocols to be employed for safe communication between devices.
+
+### Scalability Considerations
+- Address how the architecture can adapt to increased loads and numerous device connections.
+
+### Risk Management Strategies
+- Identify potential risks and present mitigation strategies to ensure system reliability.
+
+### Conclusion
+This architecture is essential for ensuring scalability, interoperability, and security in the deployment of the PKI system within industrial settings.
+- **Endpoint 1**: Description of the first API endpoint.
+- **Endpoint 2**: Description of the second API endpoint.
+
+## Integration Requirements
+- Authentication methods
+- Data formats
+- Error handling procedures
+
+## Conclusion
+This documentation is crucial for the successful deployment of the PKI within industrial environments.
+
+## Complete Documentation for API Integrations with Existing Industrial Systems
+This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability and operational efficiency.
 
 ## API Endpoints
 - **Endpoint 1**: Description of the first API endpoint.
@@ -178,6 +207,21 @@ This document details how the PKI system integrates with various industrial APIs
 ## Conclusion
 This documentation is crucial for the successful deployment of the PKI within industrial environments.
 
+**Overview**
+This document details how the PKI system integrates with various industrial APIs to ensure seamless interoperability.
+
+**API Endpoints**
+- **Endpoint 1**: Description of the first API endpoint.
+- **Endpoint 2**: Description of the second API endpoint.
+
+**Integration Requirements**
+- Authentication methods
+- Data formats
+- Error handling procedures
+
+**Conclusion**
+This documentation is crucial for the successful deployment of the PKI within industrial environments.
+
 [x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
 
-## Complete Documentation for API Integrations with Existing Industrial Systems
+[x] Develop Documentation for API Integrations with Existing Industrial Systems (Due: 2 weeks, Responsible: Technical Writing Team)
