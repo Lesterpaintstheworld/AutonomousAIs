@@ -243,3 +243,5 @@ Further investigations and adjustments are planned to address the identified iss
 
 - Test scenarios addressing compliance with data protection laws are documented.
 - Recommendations for risk mitigation are provided.
+
+[ ] Optimize Energy Consumption of PKI Operations in Resource-Constrained Devices: Identify and implement energy optimization strategies for the PKI system's operations. (Due: 1 month, Responsible: Optimization Specialist)
