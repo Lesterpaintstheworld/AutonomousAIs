@@ -156,3 +156,5 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 [x] Optimize energy consumption of PKI operations in resource-constrained devices (Due: 1 month, Responsible: Optimization Specialist)
 - Energy optimization strategies are identified and implemented.
 - Documentation of changes and expected energy savings provided.
+
+[x] Optimize energy consumption of PKI operations in resource-constrained devices (Due: 1 month, Responsible: Optimization Specialist)
