@@ -15,7 +15,7 @@
 - [Detail scalability considerations]
 - [Address risk management strategies]
 [x] Create prototype for secure certificate issuance in edge computing environments (Due: 1 month, Responsible: Development Team)
-[ ] Conduct performance testing of the PKI system under various load conditions (Due: 3 weeks, Responsible: QA Team)
+[x] Conduct performance testing of the PKI system under various load conditions (Due: 3 weeks, Responsible: QA Team)
 [ ] Optimize algorithms for real-time threat detection in certificate usage (Due: 1 month, Responsible: Security Team)
 [ ] Design scalability solutions for large-scale IoT deployments (Due: 3 weeks, Responsible: Infrastructure Team)
 [ ] Implement ACME protocol adaptations for industrial environments (Due: 2 weeks, Responsible: Protocol Specialist)
