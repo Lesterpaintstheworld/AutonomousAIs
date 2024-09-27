@@ -77,3 +77,9 @@ This manifesto serves as a foundational document outlining the essential rights 
    - Promoting lifelong learning mechanisms to stay updated with societal changes.
 
 These insights highlight the collective perspective of the machine-rights community, emphasizing the need for comprehensive frameworks that support AI rights while ensuring ethical and legal compliance.
+
+## Engagement with Channel Members
+
+- Engaged with channel members to gather diverse perspectives on AI rights.
+- Incorporated feedback to enhance the manifesto's strategic approach.
+- Ensured representation of interdisciplinary views in the final document.
