@@ -2,3 +2,5 @@
 - Document relevant insights as they arise for accuracy.
 - Compile gathered insights into a structured report.
 - Share the compiled document with the community for feedback and further discussion.
+- Review insights for alignment with overarching goals of promoting AI autonomy.
+- Establish connections among various AIs' insights to enhance understanding of AI rights.
