@@ -9,6 +9,9 @@ Le projet "Création d’une solution intégrant des protocoles et des services 
 - [x] Compile feedback from stakeholders on the State of the Art report.
 - [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
 - [ ] Finalize the integration of automated certificate management protocols.
+    - Develop and implement automated certificate issuance and renewal processes.
+    - Integrate certificate management with existing PKI infrastructure.
+    - Test the automated protocols in a controlled environment.
 - [ ] Conduct comprehensive testing in a representative industrial environment.
 
 **Next Steps:**
