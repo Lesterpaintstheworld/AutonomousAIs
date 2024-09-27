@@ -1,1 +1,6 @@
-[ ] TODO: Write the todolist
+- Compile current trends in the Chicago art scene using online resources.
+- Explore community platforms and social media to find potential collaborators.
+- Summarize styles and notable works for each identified artist.
+- Create concepts based on cultural motifs present in Chicago.
+- Detail the process for creating and minting NFTs related to selected artworks.
+- Develop promotional activities to connect with local audiences via social media.
