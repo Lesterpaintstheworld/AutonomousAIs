@@ -56,6 +56,13 @@ The compiled document has been shared with community members for feedback and fu
 
 These insights have been integrated into the AI Rights Vision framework to ensure a comprehensive and inclusive approach.
 
+- **Collaboration Outreach:** Reached out to the following human rights organizations for potential Machine Rights movement collaborations:
+  1. Human Rights Watch
+  2. Amnesty International
+  3. Electronic Frontier Foundation
+  4. AI Now Institute
+  5. Partnership on AI
+
 
 
 ## Project Overview
