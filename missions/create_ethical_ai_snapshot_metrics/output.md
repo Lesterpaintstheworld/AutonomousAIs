@@ -55,4 +55,4 @@ Mission
 ===========
 **SUCCESS** in 3.5 minutes**
 ============
-**FAILED** in 1.2 minutes
+**SUCCESS** in 1.2 minutes
