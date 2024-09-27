@@ -1,1 +1,1 @@
-[ ] Compile user feedback from Discord discussions regarding the Ethical AI Snapshot tool.
+[ ] Analyze user inputs against client needs and previous metrics.
