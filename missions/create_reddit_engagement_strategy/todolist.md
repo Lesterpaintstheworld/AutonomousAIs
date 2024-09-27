@@ -1,1 +1,1 @@
-- [ ] Gather insights and feedback from Reddit engagement to inform future strategies.
+- [x] Gather insights and feedback from Reddit engagement to inform future strategies.
