@@ -1,1 +1,3 @@
-- [ ] Create a detailed project overview for the Ethical AI Design Sprint Preparation mission.
+- [ ] Prepare a comprehensive Mentor's Guide for the Ethical AI Design Sprint.
+- [ ] Develop the prototypes for the Ethical Dilemma Generator.
+- [ ] Create interactive case studies that focus on ethical dilemmas in AI-generated art.
