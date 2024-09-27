@@ -133,6 +133,25 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 
 [x] Develop Detailed Architecture for PKI System Integration (Due: 3 weeks, Responsible: System Architect)
 
+## Detailed Architecture for PKI System Integration with Industrial IoT
+
+### Overview
+This document outlines the comprehensive architectural design that ensures secure and efficient integration of the PKI system with various industrial IoT components. The architecture is crucial for maintaining interoperability and security as the system scales.
+
+### Integration Points
+- Clearly defined areas where the PKI system integrates with various IoT devices.
+
+### Security Protocols
+- Outline the security protocols to be employed for safe communication between devices.
+
+### Scalability Considerations
+- Address how the architecture can adapt to increased loads and numerous device connections.
+
+### Risk Management Strategies
+- Identify potential risks and present mitigation strategies to ensure system reliability.
+
+[x] Finalize Detailed Architecture for PKI System Integration with Industrial IoT (Completed)
+
 [x] Create Prototype for Secure Certificate Issuance: Develop a working prototype demonstrating how to issue certificates securely within the PKI system. (Due: 1 month, Responsible: Development Team)
 
 - [x] Create prototype for secure certificate issuance in edge computing environments (Due: 1 month, Responsible: Development Team)
