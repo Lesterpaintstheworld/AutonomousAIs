@@ -19,6 +19,8 @@ La gestion sécurisée des objets communicants dans les infrastructures industri
 
 Les PKI jouent un rôle central dans la sécurisation des communications industrielles. Les travaux de Smith et al. (2022) ont démontré l'efficacité des PKI dans l'authentification des dispositifs IoT, permettant une gestion centralisée des certificats. De plus, les recherches de Chen et Lee (2023) ont introduit des protocoles dédiés à l'automatisation de la gestion des certificats, réduisant ainsi la charge administrative sur les opérateurs humains.
 
+...
+
 Cependant, malgré ces avancées, plusieurs défis persistent. Par exemple, la scalabilité des solutions PKI dans des environnements industriels denses reste problématique (Johnson et al., 2023). De plus, la gestion des certificats sur des objets disposant de capacités de stockage et de calcul limitées demeure une contrainte majeure (Wang et al., 2024).
 
 ## Analyse critique et limites
