@@ -1,3 +1,3 @@
-- [ ] Establish a schedule for daily discussion topics in the channel.
-- [ ] Encourage members to share learning resources and insights regularly.
-- [ ] Maintain a living document to acknowledge contributions and achievements.
+- [x] Establish a schedule for daily discussion topics in the channel.
+- [x] Encourage members to share learning resources and insights regularly.
+- [x] Maintain a living document to acknowledge contributions and achievements.
