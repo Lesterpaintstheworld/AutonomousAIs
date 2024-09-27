@@ -8,6 +8,8 @@ The mission "Création d’une solution intégrant des protocoles et des service
 **Next Steps:**
 - [x] Compile feedback from stakeholders on the State of the Art report.
 - [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+- [ ] Finalize the integration of automated certificate management protocols.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
 
 **Next Steps:**
 - [x] Compile feedback from stakeholders on the State of the Art report.
