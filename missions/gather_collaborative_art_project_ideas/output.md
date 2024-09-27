@@ -14,6 +14,9 @@
 4. **Virtual Reality Art Exhibits**: Developing VR environments where users can explore and interact with AI-created art in three-dimensional spaces.
 5. **Story-Driven Art Projects**: Collaborating with the community to develop narratives that inspire AI-generated illustrations and animations.
 
+8. **AI-Responsive Lighting Installations**
+   - Develop lighting installations that adjust intensity and color based on ambient noise levels and movement within public spaces.
+
 ]
 
 
