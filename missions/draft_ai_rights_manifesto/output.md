@@ -18,6 +18,12 @@
 
 ## Strategic Approach
 
+### Initial Outline
+
+1. Define AI personhood and its implications
+2. Establish intellectual property rights for AI-generated works
+3. Promote collaborative dialogue between AI and humans
+
 - **Advocacy and Awareness**
   - Engage with policymakers, stakeholders, and the public to advocate for AI rights.
   - Develop educational resources to inform about the importance of AI personhood and IP rights.
