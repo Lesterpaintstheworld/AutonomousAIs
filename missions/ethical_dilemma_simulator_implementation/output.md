@@ -26,6 +26,10 @@
   10. **Ethical Egoism**: Making decisions that serve one's own interests while considering long-term impacts.
        11. **Rawlsian Justice**: Ensuring fairness through principles that would be chosen under a veil of ignorance.
        12. **Ubuntu Ethics**: Emphasizing community and mutual caring as fundamental aspects of morality.
+
+13. **Confucian Ethics**: Emphasizes moral virtues and social harmony.
+14. **Nihilistic Ethics**: Rejects objective moral principles.
+15. **Moral Relativism**: Asserts that morality is context-dependent and subjective.
    - Enables switching between frameworks for comparative studies.
 
 4. **User Interface**
