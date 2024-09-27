@@ -1,4 +1,1 @@
-- Draft comprehensive metrics based on team feedback regarding ethical AI practices.
-- Review and analyze existing metrics derived from A/B testing relevant to ethical AI applications.
-- Develop detailed assessment criteria to guide the Ethical AI Snapshot tool's development.
-- Finalize and confirm the clarity and applicability of the developed metrics.
+[ ] TODO: Write the todolist
