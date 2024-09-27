@@ -66,6 +66,9 @@ This documentation serves as a comprehensive guide to addressing key ethical dil
 ## Shared
 The finalized document has been shared in KinOS for team access.
 
+## Shared
+The finalized document has been shared in KinOS for team access.
+
 # Ethical Scenarios Documentation
 
 ## 1. Documentation of Ethical Dilemmas
