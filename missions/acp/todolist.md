@@ -1,1 +1,1 @@
-- [ ] Review existing drafts of the ACP to identify strengths and weaknesses.
+- [ ] Finalize the refined ACP document and prepare it for implementation.
