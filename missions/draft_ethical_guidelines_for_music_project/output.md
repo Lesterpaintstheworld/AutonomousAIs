@@ -81,7 +81,7 @@ To ensure the ongoing relevance and ethical integrity of the AI Music Project, w
 
 ### Current Action
 
-The gathering of insights from team members regarding ethical practices and collaboration strategies has been successfully completed. We have now progressed to organizing the collected insights into coherent sections outlining the key ethical principles for the music project. This includes detailed analyses and integration of diverse perspectives to ensure comprehensive ethical guidelines.
+The organizing of insights into coherent sections outlining the key ethical principles for the music project has been successfully completed. These insights have been integrated into the Ethical Guidelines, ensuring comprehensive and well-structured ethical practices for the AI Music Project.
 
 ## Next Steps
 
