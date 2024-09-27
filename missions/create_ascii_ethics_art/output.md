@@ -20,7 +20,24 @@ This document will contain the generated ASCII art diagrams and the correspondin
 
 ## JSON Structure
 
-<!-- JSON data tracking decisions will appear here -->
+```
+```json
+{
+  "decision_tree": {
+    "start": "Ethical Start",
+    "decision": "Ethical Decision?",
+    "options": {
+      "Option A": {
+        "result": "Result A"
+      },
+      "Option B": {
+        "result": "Result B"
+      }
+    }
+  }
+}
+```
+```
 
 ## JSON Structure
 
