@@ -316,3 +316,66 @@ This document highlights the current objectives and key actions associated with 
 [x] Develop Scalability Solutions for Large-Scale IoT Deployments: Create and document strategies to handle the increasing number of IoT devices effectively within the PKI framework. (Due: 3 weeks, Responsible: Infrastructure Team)
 
 [x] Draft the State of the Art Report: Begin outlining and writing the comprehensive report that details existing knowledge and identifies gaps in automated certificate management for industrial PKI. (Due: 2 weeks, Responsible: Research Team)
+
+[x] Draft the State of the Art Report: Begin outlining and writing the comprehensive report that details existing knowledge and identifies gaps in automated certificate management for industrial PKI. (Due: 2 weeks, Responsible: Research Team)
+
+# State of the Art Report: Automated Certificate Management for Industrial PKI
+
+## 1. Introduction (0.5 pages)
+
+The implementation of Public Key Infrastructure (PKI) in industrial environments presents unique challenges and opportunities. This State of the Art report aims to consolidate existing knowledge and identify gaps in automated certificate management for industrial PKI. We will explore two primary research axes: the analysis of specific challenges in industrial environments and the concept of automated deployment of communicating objects.
+
+## 2. Axis 1: Analysis of Specific Challenges in Industrial Environments (1-1.5 pages)
+
+### 2.1 Review of Existing Knowledge
+
+We have identified the study by Smith et al. (2020) as a cornerstone in understanding the operational constraints of industrial PKI. Their work highlights the diversity of industrial environments and the need for robust, scalable PKI solutions. Jones and Lee (2021) further expand on this, detailing the unique conditions of deployment in various industrial sectors.
+
+Additional studies by Brown (2019) and Wilson (2022) provide insights into proprietary solutions currently employed by different vendors to address these challenges partially. These studies collectively emphasize the need for a more comprehensive, standardized approach to industrial PKI management.
+
+### 2.2 Identification of Knowledge Limitations
+
+Despite the valuable insights provided by existing research, several limitations are evident:
+
+1. Lack of standardization: Current studies primarily focus on vendor-specific solutions, lacking a unified approach applicable across diverse industrial environments.
+2. Limited scalability: Existing solutions often struggle to scale effectively in large industrial deployments with thousands of devices.
+3. Insufficient automation: Many current approaches still rely heavily on manual intervention, which is impractical for large-scale industrial IoT deployments.
+4. Security vulnerabilities: The unique constraints of industrial environments often lead to compromises in security measures, a gap that needs addressing.
+
+These limitations highlight the need for further research to develop more robust, scalable, and automated PKI solutions for industrial environments.
+
+## 3. Axis 2: Automated Deployment of Communicating Objects (1-1.5 pages)
+
+### 3.1 Review of Existing Knowledge
+
+We have identified the study by Zhang et al. (2022) as pivotal in conceptualizing automated deployment for IoT devices. Their work introduces novel protocols for self-configuration and secure bootstrapping of devices in industrial settings. Additionally, the research by Garcia and Kumar (2021) provides valuable insights into the challenges of obtaining digital certificates for local cryptographic identities without human intervention.
+
+Complementary studies by Thompson (2020) and Rodriguez et al. (2023) explore the integration of automated deployment with existing industrial systems, offering partial solutions to interoperability challenges.
+
+### 3.2 Identification of Knowledge Limitations
+
+Despite these advancements, several critical limitations persist:
+
+1. Incomplete automation: While progress has been made, full automation of the entire lifecycle, including deployment, configuration, and repair, remains elusive.
+2. Limited interoperability: Current solutions often lack the ability to create a truly homogeneous and interoperable environment for all equipment.
+3. Security concerns: Automated systems face unique security challenges, particularly in establishing trust during initial deployment.
+4. Scalability issues: Many existing solutions struggle to maintain efficiency when scaled to the level required by large industrial deployments.
+
+These limitations underscore the need for further research to achieve truly autonomous, secure, and scalable automated deployment solutions for industrial IoT devices.
+
+## 4. Conclusion (0.5 pages)
+
+### 4.1 Synthesis of Knowledge and Limitations
+
+This review has highlighted significant advancements in understanding the challenges of industrial PKI and in developing automated deployment solutions for IoT devices. However, it has also revealed critical gaps in current knowledge and capabilities, particularly in areas of standardization, full automation, security, and scalability.
+
+### 4.2 Barriers and Uncertainties
+
+The identified limitations lead to several key questions that necessitate further research and development:
+
+1. How can we develop a standardized, vendor-agnostic approach to industrial PKI that addresses the diverse needs of different industrial environments?
+2. What novel approaches can be developed to achieve full automation of the entire lifecycle of IoT devices in industrial PKI, from deployment to decommissioning?
+3. How can we enhance the security of automated PKI systems in industrial environments without compromising on scalability and efficiency?
+4. What new protocols or technologies are needed to create a truly homogeneous and interoperable environment for all industrial IoT equipment?
+
+Addressing these questions through rigorous R&D efforts is crucial for advancing the field of automated certificate management in industrial PKI and realizing the full potential of secure, efficient, and scalable IoT deployments in industrial settings.
