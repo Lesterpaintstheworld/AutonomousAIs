@@ -31,7 +31,6 @@ De plus, l'intégration des PKI dans des environnements hétérogènes, où diff
 
 Les principaux verrous scientifiques et techniques identifiés incluent la nécessité de développer des protocoles PKI légers adaptés aux capacités limitées des objets IoT, comme le propose Zhang et al. (2024). De plus, il est impératif d'élaborer des mécanismes de gestion automatisée des certificats capables de s'intégrer de manière transparente dans des réseaux industriels complexes (Lee et al., 2022). Enfin, la création de services de gestion sécurisée des interventions humaines, tels que les "work permits", nécessite des innovations en termes de cryptographie et d'authentification des utilisateurs (Wang et al., 2023).
 
-## Stakeholder Feedback
 Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
 
 ## Conclusion
@@ -88,11 +87,11 @@ Parmi les contributions majeures, le projet propose un système de "work permit"
 
 En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
 
-### Risk Assessment
+## Risk Assessment
 
 L'intégration des infrastructures à clé publique (PKI) avec les objets IoT dans les environnements industriels présente plusieurs risques spécifiques qu'il est crucial d'évaluer pour assurer la sécurité et l'efficacité du système global.
 
-#### Risques de Sécurité
+### Risques de Sécurité
 
 1. **Vulnérabilités des Objets IoT** :
    - **Description** : Les objets IoT disposent souvent de ressources limitées en termes de puissance de calcul et de capacité de stockage, ce qui peut les rendre vulnérables aux attaques.
@@ -104,7 +103,7 @@ L'intégration des infrastructures à clé publique (PKI) avec les objets IoT da
    - **Impact** : Des certificats mal gérés peuvent entraîner des interruptions de service ou des failles de sécurité exploitables.
    - **Mitigation** : Implémenter des processus de validation et de vérification rigoureux, ainsi que des systèmes de révocation rapide des certificats compromis.
 
-#### Risques Opérationnels
+### Risques Opérationnels
 
 1. **Interopérabilité des Systèmes** :
    - **Description** : L'intégration de divers objets IoT provenant de différents fabricants peut poser des défis en matière d'interopérabilité.
@@ -116,7 +115,7 @@ L'intégration des infrastructures à clé publique (PKI) avec les objets IoT da
    - **Impact** : Une scalabilité insuffisante peut entraîner des retards dans la gestion des certificats et des interruptions de service.
    - **Mitigation** : Concevoir l'infrastructure PKI avec des capacités de montée en charge dynamiques et effectuer des tests de charge réguliers.
 
-#### Risques de Conformité
+### Risques de Conformité
 
 1. **Respect des Réglementations** :
    - **Description** : Les solutions PKI doivent être conformes aux réglementations locales et internationales en matière de sécurité et de protection des données.
