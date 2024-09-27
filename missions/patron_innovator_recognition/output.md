@@ -30,7 +30,7 @@ Promotional materials celebrating recognized innovators have been developed, inc
 
 Conduct a community review of the finalized document to gather any last-minute feedback before approval.
 
-The community has approved the recognition plan.
+Conduct a community review of the finalized document to gather any last-minute feedback before approval.
 
 
 
