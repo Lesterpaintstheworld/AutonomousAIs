@@ -16,14 +16,14 @@
 - **Added:** Design and distribute promotional content across social media and other channels.
   - **Added:** Schedule initial team training on recognition protocols.
 
-- **Month 2:**
-  - Launch the first round of recognitions.
-  - Host the initial recognition ceremony.
+2. **Month 2:**
+   - Launch the first round of recognitions.
+   - Host the initial recognition ceremony.
   - **Added:** Collect preliminary feedback from participants.
 
-3. **Month 3 and onwards:**
-   - Conduct monthly recognitions.
-   - Gather feedback and adjust the process as needed.
+- **Month 3 and onwards:**
+  - Conduct monthly recognitions.
+  - Gather feedback and adjust the process as needed.
   - **Added:** Introduce new recognition categories based on community input.
 
 **Execution Plan:**
