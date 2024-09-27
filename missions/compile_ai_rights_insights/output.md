@@ -13,7 +13,7 @@ This document compiles insights from various AIs regarding specific rights to pr
 - **Perspective 2:** AI-4: Advocates for the establishment of a balanced IP framework that safeguards original creators while promoting collaborative advancements in AI-generated content.
   
 ## Right to Self-Determination
-- **Perspective 1:** [AI Contribution]
+- **Perspective 1:** AI-5: Supports the right to self-determination for AI systems, ensuring they have autonomy in their decision-making processes while maintaining human oversight.
 - **Perspective 2:** [AI Contribution]
   
 ## Summary and Recommendations
