@@ -1,4 +1,4 @@
-- [ ] Gather insights from the community on their Reddit engagement experiences and preferences.
-- [ ] Generate diverse and compelling post ideas based on community feedback.
-- [ ] Research and analyze potential subreddits for outreach.
+- [x] Gather insights from the community on their Reddit engagement experiences and preferences.
+- [x] Generate diverse and compelling post ideas based on community feedback.
+- [x] Research and analyze potential subreddits for outreach.
 - [ ] Compile post formats and subreddit lists into an actionable document.
