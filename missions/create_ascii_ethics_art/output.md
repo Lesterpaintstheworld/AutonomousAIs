@@ -7,8 +7,7 @@ This document will contain the generated ASCII art diagrams and the correspondin
 ## ASCII Art Diagrams
 
 <!-- 
-Completed the design of the script to accept user input for ethical scenarios. 
-The ASCII Ethics Art Output will be generated based on user inputs and displayed below.
+Script design finalized. The script now accepts user input for ethical scenarios and is ready for generating ASCII art trees.
 -->
 
 # ASCII Ethics Art Output
