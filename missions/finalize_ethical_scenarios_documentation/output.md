@@ -33,14 +33,7 @@
       - Conduct annual BIPA compliance training for all staff.
       - Invest in advanced encryption technologies for biometric data storage.
 
-- **CCPA Enhancements:**
-  - **Key Points:** Expands user rights regarding personal data and imposes stricter obligations on businesses.
-  - **Implementation:**
-    - Enhance data processing agreements with third-party vendors to ensure CCPA compliance.
-    - Regularly update data handling practices to incorporate CCPA's evolving standards and requirements.
-    - **Enhancements:**
-      - Monitor legislative updates to proactively adjust compliance strategies.
-      - Establish a dedicated compliance task force to manage CCPA-related initiatives.
+
 
 ### 4.4 Compliance Monitoring and Reporting
 - **Regular Audits:** Conduct periodic reviews of data practices to ensure ongoing compliance with GDPR, CCPA, and other relevant laws.
