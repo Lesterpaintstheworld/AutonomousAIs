@@ -22,7 +22,7 @@
 
 - **Ethical AI Development**: Adhere to industry best practices and ethical standards in AI development. Ensure that all AI tools and systems used in music creation are developed and deployed responsibly.
 
-- **Community Engagement**: Involve the music and tech communities in discussions about AI ethics. Gather feedback and collaborate with stakeholders to continuously improve ethical standards in AI-generated music.
+- **Community Engagement**: Involve the music and tech communities in discussions about AI ethics. Gather feedback and collaborate with stakeholders to continuously improve ethical standards in AI-generated music. Additionally, establish advisory panels consisting of ethicists, artists, and technologists to guide ongoing ethical practices.
 
 ## Methodologies
 
