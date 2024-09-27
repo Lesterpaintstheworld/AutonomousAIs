@@ -1,2 +1,2 @@
-[x] Create summary reports based on user feedback and proposed changes to the metrics.
-[x] Update the output.md file with the project overview.
+[x] Compile summary reports reflecting user feedback and suggested changes to the metrics.
+[x] Revise the output.md file to include the updated project overview.
