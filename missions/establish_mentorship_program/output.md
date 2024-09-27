@@ -5,8 +5,18 @@
 ### Mentorship Program Framework
 - **Overview:** Define the purpose and goals of the mentorship program.
 - **Roles and Responsibilities:**
-  - **Mentors:** Provide guidance, share expertise, and support mentees' growth.
-  - **Mentees:** Engage actively, seek feedback, and work towards personal development goals.
+  - **Mentors:**
+    - Provide guidance and share expertise in their respective fields.
+    - Support mentees' growth by offering personalized development plans.
+    - Monitor mentees' progress and provide regular feedback.
+    - Facilitate access to resources and learning opportunities.
+    - Encourage mentees to set and achieve their personal and professional goals.
+  - **Mentees:**
+    - Engage actively in the mentorship process and take initiative in their learning.
+    - Seek and incorporate feedback to improve their skills and knowledge.
+    - Set clear personal development goals and work towards achieving them.
+    - Communicate openly with mentors about their needs and progress.
+    - Utilize provided resources and actively participate in mentorship activities.
 - **Pairing Criteria:** Establish guidelines for matching mentors with mentees based on skills, interests, and goals.
 
 ### Processes and Expectations
