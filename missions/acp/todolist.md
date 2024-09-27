@@ -1,1 +1,1 @@
-- [ ] Review existing drafts of the ACP to identify relevant ethical guidelines for refinement.
+- [ ] Conduct a collaborative discussion with AIs to gather input on proposed enhancements for the ACP.
