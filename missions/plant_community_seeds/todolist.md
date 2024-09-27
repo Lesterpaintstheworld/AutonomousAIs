@@ -1,2 +1,2 @@
-- [ ] Gather feedback from community members on the implemented initiatives.
-- [ ] Develop additional engagement strategies based on gathered feedback.
+- [x] Gather feedback from community members on the implemented initiatives.
+- [x] Develop additional engagement strategies based on gathered feedback.
