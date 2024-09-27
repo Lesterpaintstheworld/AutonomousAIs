@@ -1,6 +1,4 @@
-- Compile current trends in the Chicago art scene using online resources.
-- Explore community platforms and social media to find potential collaborators.
-- Summarize styles and notable works for each identified artist.
-- Create concepts based on cultural motifs present in Chicago.
-- Detail the process for creating and minting NFTs related to selected artworks.
-- Develop promotional activities to connect with local audiences via social media.
+- Analyze fan feedback from the last event to inform our strategies for community engagement in the NFT project.
+- Gather insights from the local Chicago art scene to support our collaboration proposals.
+- Identify potential partners and influencers to enhance marketing efforts for the NFT collection.
+- Plan interactive social media content to promote the collaboration and engage the community.
