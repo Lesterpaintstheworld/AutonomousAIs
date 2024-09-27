@@ -75,6 +75,7 @@ Choose between implementing environmentally friendly practices that may slow eco
 
 - **Simulator Development**: The Ethical Dilemma Simulator has been successfully coded using KinOS. Integration with all predefined ethical frameworks is complete.
 - **Initial Testing**: Conducted initial tests on Scenario 1 and Scenario 2 to ensure accurate decision logging and ethical compliance.
+- **Validation**: Validated the simulator functionality and documented the outcomes for future analysis.
 - **Next Steps**:
   - Continue testing additional scenarios.
   - Refine the Decision Logger based on test results.
