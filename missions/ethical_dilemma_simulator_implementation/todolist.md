@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- Write an initial outline for the Ethical Dilemma Simulator's features and functionalities
+- Develop a comprehensive list of ethical guidelines to be used in the simulator
+- Create a draft of simulation scenarios that present moral dilemmas
+- Test the simulator and document the outcomes for further analysis
