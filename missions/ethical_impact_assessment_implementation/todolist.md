@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- Gather ethical guidelines relevant to AI technologies.
+- Select and identify necessary assessment tools for ethical impact evaluation.
+- Design a structured assessment framework for clarity and effectiveness.
+- Implement and test the assessment framework to ensure compliance.
