@@ -2,7 +2,7 @@
 
 ### Structured Recognition Plan
 
-7. **Excellence in Communication**: Create promotional materials to celebrate recognized innovators and promote community involvement.
+7. **Excellence in Communication**: Conduct a community review of the finalized document to gather any last-minute feedback before approval.
 8. **Feedback Sessions**: Organize and conduct feedback sessions within the channel to gather community input.
 
 #
