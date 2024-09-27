@@ -1,2 +1,2 @@
-[ ] Finalize the report on the automated management of IoT security in PKI settings.
-[ ] Schedule a review session with stakeholders to discuss the State of the Art findings.
+[ ] Compile feedback from stakeholders on the State of the Art report.
+[ ] Perform a risk assessment specific to the PKI and IoT integration.
