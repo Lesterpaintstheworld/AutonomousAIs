@@ -29,7 +29,7 @@
 Promotional materials celebrating recognized innovators have been developed, including social media graphics, feature articles, and spotlight videos that highlight the achievements of top contributors within our community.
 Launch the recognition program and monitor its effectiveness, gathering feedback through community sessions.
 
-Conduct a community feedback session regarding preferred recognition methods and criteria.
+Conducted a community feedback session regarding preferred recognition methods and criteria.
 
 Conduct a community review of the finalized document to gather any last-minute feedback before approval.
 
