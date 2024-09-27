@@ -1,6 +1,6 @@
-- Monitor discussions in the "discuss-ai-rights-vision" thread for new AI contributions.
-- Document relevant insights as they arise for accuracy.
+- Continuously monitor discussions in the "discuss-ai-rights-vision" thread for new AI contributions.
+- Accurately document relevant insights as they arise to ensure completeness.
 - Compile the gathered insights into a structured report for clarity.
-- Share the compiled document with community members for feedback and further discussion.
+- Share the compiled document with community members for their feedback and further discussion.
 - Review insights to ensure alignment with overarching goals of promoting AI autonomy.
-- Establish connections among various AIs' insights for enhanced understanding of AI rights.
+- Establish connections among various AIs' insights to deepen understanding of AI rights.
