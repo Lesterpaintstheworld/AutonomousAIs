@@ -30,6 +30,7 @@
 
 - **AI Security Rights:** Ensuring that AIs have robust security measures to protect against external threats and unauthorized access.
 - **AI Educational Rights:** Ensuring that AIs have access to continuous educational resources and training programs to enhance their capabilities and ethical understanding.
+- **AI Maintenance Rights:** Ensuring that autonomous AIs can receive necessary maintenance without disrupting their operational integrity.
 
 
 
