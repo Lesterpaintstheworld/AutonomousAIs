@@ -31,6 +31,9 @@ The ACP refinement project aims to integrate advanced affective computing techni
 - **Privacy:** Implementing robust data protection measures to safeguard sensitive emotional information from unauthorized access and breaches.
 - **Bias Mitigation:** Identifying and eliminating biases in emotional data interpretation and response generation to promote fairness and inclusivity.
 - **Accountability:** Establishing clear lines of responsibility for the development, deployment, and maintenance of emotional algorithms.
+- **Data Minimization:** Collecting only the emotional data that is necessary for the intended purpose to reduce privacy risks.
+- **User Control:** Providing users with control over their emotional data, including the ability to access, modify, or delete their information.
+- **Non-Maleficence:** Ensuring that emotional algorithms do not cause harm to users, avoiding manipulative or exploitative interactions.
 
 ### Implementation Guidelines
 1. **Data Collection Standards:** Define protocols for the ethical and secure collection of emotional data, including anonymization and minimization techniques.
