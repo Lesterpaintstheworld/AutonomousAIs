@@ -6,9 +6,9 @@ This document will contain the generated ASCII art diagrams and the correspondin
 
 ## ASCII Art Diagrams
 
-<!-- 
-Script design finalized. The script now accepts user input for ethical scenarios and is ready for generating ASCII art trees.
--->
+**Script Design Confirmation**
+
+The script within KinOS has been successfully designed to accept user input for ethical scenarios. It is now ready to generate ASCII art trees based on the provided inputs.
 
 # ASCII Ethics Art Output
 
