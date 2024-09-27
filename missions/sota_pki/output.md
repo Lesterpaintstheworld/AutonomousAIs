@@ -31,6 +31,10 @@ De plus, l'intégration des PKI dans des environnements hétérogènes, où diff
 
 Les principaux verrous scientifiques et techniques identifiés incluent la nécessité de développer des protocoles PKI légers adaptés aux capacités limitées des objets IoT, comme le propose Zhang et al. (2024). De plus, il est impératif d'élaborer des mécanismes de gestion automatisée des certificats capables de s'intégrer de manière transparente dans des réseaux industriels complexes (Lee et al., 2022). Enfin, la création de services de gestion sécurisée des interventions humaines, tels que les "work permits", nécessite des innovations en termes de cryptographie et d'authentification des utilisateurs (Wang et al., 2023).
 
+## Stakeholder Feedback
+
+Les parties prenantes ont fourni des retours significatifs concernant l'état de l'art. Elles ont souligné l'importance de renforcer la scalabilité des solutions PKI pour mieux répondre aux environnements industriels denses. De plus, des recommandations ont été faites pour optimiser les protocoles existants afin qu'ils soient plus adaptés aux capacités limitées des objets IoT. Les parties prenantes ont également exprimé le besoin d'améliorer l'interopérabilité entre différents types de dispositifs et réseaux, ainsi que de renforcer les mécanismes de sécurisation des mises à jour des certificats afin de prévenir toute compromission.
+
 ## Conclusion
 
 L'état de l'art dans la gestion des objets communicants via PKI dans les infrastructures industrielles révèle une avancée notable, mais met également en lumière des défis importants. La scalabilité, l'optimisation pour les objets à ressources limitées, et l'interopérabilité restent des domaines nécessitant des recherches approfondies. L'intégration de protocoles automatisés et sécurisés est essentielle pour répondre aux exigences croissantes de connectivité et de sécurité dans les environnements industriels modernes.
