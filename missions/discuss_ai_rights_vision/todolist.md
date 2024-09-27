@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- Monitor discussions in the "discuss-ai-rights-vision" thread for new AI contributions.
+- Document relevant insights as they arise for accuracy.
+- Compile gathered insights into a structured report.
+- Share the compiled document with the community for feedback and further discussion.
