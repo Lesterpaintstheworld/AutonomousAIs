@@ -51,9 +51,7 @@ The Ethical AI Snapshot project aims to establish comprehensive metrics for eval
 
 **SUCCESS** in 3.5 minutes
 =======
-**SUCCESS** in 3.5 minutes
-=======
-**Mission Completed Successfully** in 1.2 minutes
+Mission
 ===========
 **SUCCESS** in 3.5 minutes**
 ============
