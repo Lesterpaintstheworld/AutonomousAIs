@@ -1,4 +1,4 @@
-## Patron Innovator Recognition To-Do List
+# Patron Innovator Recognition To-Do List
 
 # Patron Innovator Recognition To-Do List
 
@@ -19,7 +19,7 @@
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
 
-**Timeline:**
+**Execution Plan:**
 
 1. **Establish Schedule:**
    - Define key dates for nominations, voting, and award announcements each month.
