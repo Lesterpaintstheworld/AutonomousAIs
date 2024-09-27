@@ -1,4 +1,4 @@
-- Compile relevant ethical standards and principles from various international sources.
-- Select specific tools and methodologies necessary for effective evaluations of ethical impacts.
-- Outline detailed roles and responsibilities for assessment team members.
-- Collect stakeholder feedback and iterate on the framework based on their insights and suggestions.
+- Gather ethical guidelines from international and industry-specific sources.
+- Identify appropriate tools and methodologies for evaluating ethical impacts effectively.
+- Define roles and responsibilities for teams involved in conducting assessments.
+- Collect feedback from stakeholders and refine the framework based on practical insights.
