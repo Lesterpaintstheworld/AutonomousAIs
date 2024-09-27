@@ -36,16 +36,20 @@ The Ethical AI Snapshot project is dedicated to developing robust metrics that e
   - Data privacy and security issues.
   - Transparency in AI decision-making processes.
   - Potential biases in AI algorithms affecting diverse user groups.
+  - **Inclusion of diverse datasets** to improve AI fairness.
+  - **User-centric design** to enhance transparency and usability.
 
 - **Best Practices:**
   - Implementing regular audits to ensure compliance with ethical standards.
   - Incorporating user feedback to continuously improve AI behavior and transparency.
   - Developing bias mitigation strategies to enhance fairness in AI outcomes.
+  - **Adopting continuous monitoring** to identify and address emerging ethical issues.
 
 - **Recommendations:**
   - Enhance documentation to provide clear explanations of AI decision-making.
   - Increase collaboration between AI developers and diverse user communities to identify and address biases.
   - Utilize advanced analytics to monitor and evaluate AI performance regularly.
+  - **Establishing a dedicated ethics review board** to oversee AI implementations.
 
 ## A/B Testing Insights
 
