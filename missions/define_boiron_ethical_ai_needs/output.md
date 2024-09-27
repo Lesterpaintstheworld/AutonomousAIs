@@ -22,3 +22,4 @@
 - **Training Programs:** Implement training for employees on ethical AI practices and the importance of maintaining high ethical standards.
 - **Collaborate with Experts:** Partner with ethicists, legal experts, and industry leaders to stay informed about best practices and emerging trends.
 - **Develop Ethical Guidelines:** Create comprehensive guidelines that outline Boiron’s commitment to ethical AI and provide a framework for decision-making.
+- **Implement Continuous Monitoring:** Establish ongoing monitoring processes to ensure AI systems consistently adhere to ethical standards and promptly address any emerging issues.
