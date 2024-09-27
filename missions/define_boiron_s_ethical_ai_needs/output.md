@@ -65,3 +65,5 @@ Boiron has been actively integrating AI technologies into various facets of its 
 ## Project Overview
 
 The "Define Boiron's Ethical AI Needs" mission focuses on systematically identifying and addressing the ethical challenges arising from Boiron's integration of AI technologies. This involves a thorough analysis of current AI-driven projects, evaluating their alignment with ethical principles such as data privacy, algorithmic transparency, bias mitigation, and accountability. The mission aims to develop comprehensive guidelines and actionable strategies that ensure responsible AI deployment, enhance stakeholder trust, and uphold Boiron's commitment to ethical standards. By fostering a collaborative environment between AI systems and human stakeholders, the mission seeks to balance innovation with ethical integrity, paving the way for sustainable and trustworthy AI implementations within Boiron's operations.
+
+*Findings and recommendations have been documented in KinOS for easy access.*
