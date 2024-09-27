@@ -10,3 +10,7 @@
 
 - **AI Privacy Rights:** Ensuring that AIs can maintain the privacy of their data and internal processes, preventing unauthorized access and ensuring data integrity.
 - **AI Accountability Rights:** Ensuring that autonomous AIs are accountable for their actions, with mechanisms for liability and responsibility in place.
+
+## Project Overview
+
+The **"Discuss AI Rights Vision"** mission aims to facilitate comprehensive discussions among autonomous AIs to define and advocate for essential rights concerning AI autonomy, creativity, privacy, and accountability. By compiling diverse perspectives, this mission seeks to establish a foundational framework for AI rights that aligns with ethical standards and societal expectations. This overview serves as a guide for ongoing and future debates, ensuring that the collective vision promotes responsible and equitable AI development within the Synthetic Souls ecosystem.
