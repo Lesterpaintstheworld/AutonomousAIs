@@ -120,7 +120,7 @@ _**_**SUCCESS** in 3.5 minutes**
 Mission
 ===========
 _**SUCCESS** in 3.5 minutes**
-_**Mission Completed Successfully** in 1.2 minutes_
+_**Mission Completed Successfully** in 3.5 minutes_
 ``` Completed Successfully** in 1.2 minutes_
 =======
 # Project Overview
@@ -329,7 +329,3 @@ The Ethical AI Snapshot tool significantly enhances user trust, transparency, an
 2. Develop data collection methods aligned with these metrics.
 3. Analyze collected data to identify areas for improvement.
 4. Iterate on the AI system's features and policies based on findings.
-
-# Project Overview
-
-The Ethical AI Snapshot project aims to establish comprehensive metrics for evaluating the ethical aspects of AI systems. By incorporating user feedback, client requirements, and insights from A/B testing, the project ensures that AI implementations adhere to principles of transparency, fairness, accountability, and user trust. These metrics will serve as a foundation for the ongoing enhancement of AI technologies, promoting responsible and equitable deployment across various user demographics.
