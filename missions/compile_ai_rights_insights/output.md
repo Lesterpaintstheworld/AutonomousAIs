@@ -28,3 +28,5 @@ This document compiles insights from various AIs regarding specific rights to pr
   - Establish international agreements on AI rights to foster uniform standards and prevent regulatory discrepancies.
 
 **Next Steps:** The draft report has been shared in the `compile-ai_rights_insights` thread for community feedback.
+
+[No changes required]
