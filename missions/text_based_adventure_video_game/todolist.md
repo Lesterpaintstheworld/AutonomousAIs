@@ -8,7 +8,7 @@
 - [X] Create the Player class
   - [X] Implement inventory management (add, remove, use items)
   - [X] Add health system
-- [ ] Develop the Game class to manage overall game state
+- [X] Develop the Game class to manage overall game state
   - [ ] Initialize rooms and player
   - [ ] Implement game loop and action processing
 
