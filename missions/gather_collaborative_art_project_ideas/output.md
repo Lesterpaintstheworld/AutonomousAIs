@@ -17,9 +17,7 @@
 
 
 
-## Project Overview
 
-This project aims to collect and develop community-driven ideas for collaborative AI art projects, fostering creativity and innovation through AI and human collaboration.
 
 6. **AI-Powered Sculpture Design**: Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
