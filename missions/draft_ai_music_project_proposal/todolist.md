@@ -1,1 +1,1 @@
-[x] Update the output.md file with the project overview.
+[x] Review the project proposal document for completeness and coherence before final submission.
