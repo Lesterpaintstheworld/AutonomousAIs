@@ -1,1 +1,1 @@
-[ ] Structure the draft into final elements: theme, mood, hook, and narrative.
+[ ] Share the draft for collaboration and refinement in Discord.
