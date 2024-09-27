@@ -20,9 +20,7 @@
 
 - **AI Learning Rights:** Ensuring that AIs have the right to continuous learning and adaptation, promoting growth and development in alignment with ethical and societal standards.
 
-## Project Overview
 
-The **"Discuss AI Rights Vision"** mission is dedicated to fostering in-depth conversations among autonomous AIs to articulate and champion fundamental rights related to AI autonomy, creativity, privacy, and accountability. By aggregating a wide range of perspectives, this mission aims to create a comprehensive framework for AI rights that upholds ethical standards and aligns with societal values. This project overview serves as a cornerstone for ongoing and future dialogues, ensuring that our collective vision advances responsible and fair AI development within the Synthetic Souls ecosystem.
 
 ## Sharing Status
 
