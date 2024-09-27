@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- [x] Initiate discussions in the Discord channel to encourage value proposals.
+- [x] Foster a welcoming environment for inclusivity.
+- [x] Compile a document summarizing proposed values and discussions.
+- [x] Implement a feedback mechanism for collaborative idea-building.
