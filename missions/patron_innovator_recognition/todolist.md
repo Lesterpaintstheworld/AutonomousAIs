@@ -11,7 +11,7 @@
 
 Promotional materials celebrating recognized innovators have been developed, including social media graphics, feature articles, and spotlight videos that highlight the achievements of top contributors within our community.
 
-Shared the finalized document with the community for approval.
+Conduct a community review of the finalized document to gather any last-minute feedback before approval.
 
 
 
