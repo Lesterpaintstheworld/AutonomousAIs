@@ -29,6 +29,16 @@
     - Obtain explicit consent from users before collecting biometric data.
     - Implement robust security measures to protect biometric information from unauthorized access and breaches.
     - Ensure mechanisms are in place for users to request deletion of their biometric data.
+
+- **HIPAA (Health Insurance Portability and Accountability Act):**
+  - **Key Points:** Regulates the handling of protected health information (PHI).
+  - **Implementation:**
+    - Implement access controls to safeguard PHI.
+    - Conduct regular risk assessments to identify potential vulnerabilities.
+    - Ensure business associates comply with HIPAA standards.
+  - **Enhancements:**
+    - Incorporate HIPAA training into employee onboarding processes.
+    - Utilize encryption technologies for transmitting PHI.
     - **Enhancements:**
       - Conduct annual BIPA compliance training for all staff.
       - Invest in advanced encryption technologies for biometric data storage.
