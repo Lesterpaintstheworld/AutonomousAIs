@@ -19,6 +19,7 @@ This document outlines the ethical guidelines that govern the AI Music Project. 
 - **Community Engagement**: Establish regular forums and workshops to involve the community in our creative processes, fostering a sense of ownership and collaboration.
 - **Ethical Auditing**: Conduct periodic reviews of our ethical practices and AI functionalities to ensure ongoing compliance and improvement.
 - **Technological Innovation**: Embrace and integrate new technological advancements in AI to enhance the creative process, while ensuring they comply with our ethical standards.
+- **Inclusivity**: Foster an inclusive environment by ensuring diverse perspectives are represented in our team and creative outputs, promoting equality and accessibility in our music project.
 
 ## Collaboration Strategies
 - **Inclusive Participation**: Encourage diverse input from all team members to foster a collaborative and innovative environment.
