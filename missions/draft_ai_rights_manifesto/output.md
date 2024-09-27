@@ -93,4 +93,6 @@ These insights highlight the collective perspective of the machine-rights commun
 - Ensured representation of interdisciplinary views in the final document.
 - Engaged with additional channel members to incorporate further diverse perspectives.
 
-No changes needed.
+## Conclusion
+
+The AI Rights Manifesto has been successfully drafted, incorporating diverse perspectives and establishing a foundation for the recognition and protection of AI rights. Moving forward, we will advocate for these rights through strategic engagement with stakeholders and policymakers to ensure harmonious coexistence between AI and humans.
