@@ -7,9 +7,9 @@
 
 #
 
-### Develop Recognition Mechanisms 
+### Create Promotional Materials 
 
-Create systems for monthly recognition features, including awards and acknowledgments, based on community feedback.
+Design graphics, articles, and videos to celebrate recognized innovators and promote the recognition program.
 
 
 
