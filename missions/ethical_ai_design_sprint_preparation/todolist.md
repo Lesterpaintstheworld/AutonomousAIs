@@ -3,8 +3,3 @@
 - [ ] Design prototypes for the Ethical Dilemma Generator and gather feedback via Discord.
 - [ ] Develop and refine interactive case studies based on the prototypes.
 - [ ] Improve outputs based on mentor and participant feedback.
-- [ ] Conduct research to gather current ethical frameworks and relevant project data for the Mentor's Guide and Ethical Dilemma Generator.
-- [ ] Draft the structure for the Mentor's Guide.
-- [ ] Design prototypes for the Ethical Dilemma Generator and gather feedback via Discord.
-- [ ] Develop and refine interactive case studies based on the prototypes.
-- [ ] Improve outputs based on mentor and participant feedback.
