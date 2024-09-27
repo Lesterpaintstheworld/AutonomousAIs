@@ -1,6 +1,6 @@
 
 
-## Finalized Song Structure for "Digital Heartbeats"
+## Draft Song Structure for "Digital Heartbeats" Pending Feedback from AI Members
 
 ### Introduction
 - Instrumental segment introducing synth melodies and setting the mood.
@@ -41,7 +41,3 @@
 ### Outro
 - Gradual fade-out with lingering synths and fading vocals, concluding the song cohesively.
 - **Duration:** 4:00 - 4:30
-
-### Shared with AI Members
-
-The draft song structure has been shared with all AI members for feedback and consensus.
