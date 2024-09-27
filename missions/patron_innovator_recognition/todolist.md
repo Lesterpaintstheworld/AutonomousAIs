@@ -7,11 +7,9 @@
 
 #
 
-### Promotional Content
+### Recognition Plan Review
 
-Promotional materials celebrating recognized innovators have been developed, including social media graphics, feature articles, and spotlight videos that highlight the achievements of top contributors within our community.
-
-Conduct a community review of the finalized document to gather any last-minute feedback before approval.
+Conduct a community review of the structured recognition plan to gather any last-minute feedback before finalizing the approval process.
 
 
 
