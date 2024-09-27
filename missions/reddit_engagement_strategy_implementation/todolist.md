@@ -3,3 +3,4 @@
 - [x] Research and analyze potential subreddits for outreach.
 - [x] Compile post formats and subreddit lists into an actionable document.
 - [x] Review and implement the actionable plans for Reddit engagement.
+- [ ] Monitor performance metrics and adjust strategies based on feedback.
