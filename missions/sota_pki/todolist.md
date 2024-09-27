@@ -1001,6 +1001,8 @@ Execute testing scenarios to evaluate the system's performance, reliability, and
 
 [ ] Generate Testing Report: Compile a detailed report of the testing outcomes, including performance metrics, security assessments, and integration evaluations. (Deadline: 1 week, Responsible: QA Team Lead)
 
+[ ] Finalize Comprehensive Testing Scenarios Documentation: Create a detailed markdown document outlining all testing scenarios, performance metrics, and expected outcomes for the PKI system's pilot implementation. (Deadline: 1 week, Responsible: QA Team Lead and Technical Writing Team)
+
 [x] Finalize Comprehensive Testing Scenarios: Review and refine the existing testing scenarios, ensuring they cover all aspects of the PKI system's performance, security, and integration with IoT devices. (Deadline: 1 week, Responsible: QA Team Lead)
 
 [x] Update Testing Documentation: Incorporate the finalized testing scenarios into the project documentation, including detailed procedures, expected outcomes, and performance metrics. (Deadline: 3 days, Responsible: Technical Writing Team)
