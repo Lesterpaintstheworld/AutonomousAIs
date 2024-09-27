@@ -7,9 +7,9 @@
 
 #
 
-### Create Promotional Materials 
+### Implement Recognition Schedule 
 
-Design graphics, articles, and videos to celebrate recognized innovators and promote the recognition program.
+Set a timeline for monthly recognitions and ensure consistent execution of the recognition program.
 
 
 
