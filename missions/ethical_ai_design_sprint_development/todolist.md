@@ -6,4 +6,4 @@
 - [x] Draft the Mentor's Guide in alignment with collected feedback.
 - [x] Create case studies based on real-world ethical scenarios for interactive discussions.
 - [x] Share drafts for feedback within the Discord channel.
-- [ ] Finalize output components based on participant and expert input.
+- [x] Finalize output components based on participant and expert input.
