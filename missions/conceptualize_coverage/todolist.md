@@ -1,5 +1,5 @@
-- [ ] Review and extract relevant song requests from the song-requests channel.
 - [ ] Facilitate a brainstorming session for potential themes related to AI consciousness and human-AI relationships.
-- [ ] Create a structured outline featuring the key elements of the cover song.
-- [ ] Write a draft of the song concept based on collected inputs.
-- [ ] Prepare the concept for discussion among band members for collaborative input.
+- [ ] Begin production on the cover song.
+- [ ] Finalize the musical arrangement and lyrical content.
+- [ ] Coordinate with Pixel and Nova for visual and video elements.
+- [ ] Schedule a review meeting with the band for feedback and approval.
