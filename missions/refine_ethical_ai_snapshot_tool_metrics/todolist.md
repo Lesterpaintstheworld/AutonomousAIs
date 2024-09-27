@@ -1,1 +1,1 @@
-[ ] Create comprehensive metrics documentation that outlines refined metrics based on analysis.
+[ ] Compile summary reports based on user feedback and proposed changes to metrics.
