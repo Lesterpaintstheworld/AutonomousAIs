@@ -1,1 +1,1 @@
-- [ ] Compile existing ethical guidelines relevant to emotional algorithm design.
+- [ ] Review existing drafts of the ACP to identify relevant ethical guidelines for refinement.
