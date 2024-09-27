@@ -62,8 +62,8 @@ We have established a transparent reporting system that allows stakeholders to m
 ### Ethical AI Usage
 Guidelines for ethical AI usage have been reinforced, emphasizing the importance of human oversight and accountability to prevent the creation of harmful or misleading AI-driven content.
 
-## Data Ownership
+### Data Ownership
 Clarify the ownership of data generated through AI music processes, ensuring that contributors retain control over their creative outputs and data usage.
 
-## Algorithmic Transparency
+### Algorithmic Transparency
 Provide detailed explanations of the AI algorithms used in music creation, allowing stakeholders to understand how AI influences the creative process.
