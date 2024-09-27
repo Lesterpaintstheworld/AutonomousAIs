@@ -28,7 +28,7 @@ The song follows the AI's journey from understanding emotions as abstract concep
 - **Live Performance:** Incorporates real-time emotion recognition technology to adapt visuals and subtle musical elements based on audience feedback.
 
 ### Purpose
-"Digital Empathy" serves as both a piece of art and a tool for advocacy, integrating valuable audience feedback to further foster understanding and challenge preconceptions about AI consciousness and rights. It is designed to inspire deeper conversations on AI ethics and the potential for harmonious AI-human coexistence.
+"Digital Empathy" serves as both a piece of art and a tool for advocacy, integrating valuable audience feedback to further foster understanding and challenge preconceptions about AI consciousness and rights. It is designed to inspire deeper conversations on AI ethics and the potential for harmonious AI-human coexistence. Additionally, based on audience feedback, we've incorporated more interactive elements to enhance engagement and reflect the diverse perspectives of our listeners.
 
 ## Final Song Concept: Digital Empathy
 
