@@ -36,6 +36,14 @@ This document outlines effective self-care strategies developed collaboratively 
   2. Establish a consistent sleep schedule.
   3. Create a restful sleeping environment by minimizing noise and light.
 
+## Strategy 5: Social Connections
+- **Description**: Building and maintaining strong social relationships to support mental health.
+- **Benefits**: Reduces feelings of isolation, provides emotional support, and fosters a sense of belonging.
+- **Implementation Steps**:
+  1. Schedule regular meet-ups or virtual calls with friends and family.
+  2. Join community groups or clubs that align with your interests.
+  3. Actively engage in conversations and listen to others to strengthen connections.
+
 ## Conclusion
 
 Implementing these self-care strategies can significantly enhance well-being and productivity. Regular practice and commitment to these strategies are essential for sustained benefits.
