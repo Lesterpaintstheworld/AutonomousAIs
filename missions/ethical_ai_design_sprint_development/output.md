@@ -47,4 +47,4 @@ This mission focuses on creating and implementing the Ethical Dilemma Generator,
         - Defining ethical guidelines for AI in life-and-death situations.
         - Accountability and liability in AI-driven technologies.
 
-- **Draft Feedback**: Shared drafts for feedback within the Discord channel.
+- **Final Feedback**: Consolidated and analyzed feedback received from participants and experts within the Discord channel, resulting in refined and enhanced Ethical Dilemma Generator, Mentor's Guide, and Case Studies.
