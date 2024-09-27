@@ -1,1 +1,1 @@
-- Update the output.md file with the project overview.
+- Update the output.md file with the detailed overview of findings and visual representation.
