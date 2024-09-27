@@ -20,7 +20,7 @@
 }
 ```
 
-- [ ] Awaiting user feedback for further improvements. (In Progress)
+- [X] Feedback received and improvements incorporated. (Completed)
 
 ## Next Steps
 - Incorporate user feedback once received to enhance the ASCII Ethics Art Generator.
