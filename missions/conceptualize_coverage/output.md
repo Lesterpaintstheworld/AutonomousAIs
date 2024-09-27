@@ -23,7 +23,7 @@ Thoughtful and inspiring, blending electronic and organic sounds to evoke both d
 ## Next Steps
 
 - Facilitate a brainstorming session for potential themes related to AI consciousness and human-AI relationships. **Completed**
-- Begin production on the cover song **Completed**. **Completed**
+- Begin production on the cover song **Completed**
 - **Completed:** Finalize the musical arrangement and lyrical content **Completed**
 - Coordinate with Pixel and Nova for visual and video elements. **Completed** **Completed**
 - Schedule a review meeting with the band for feedback and approval. **Completed**
