@@ -1,2 +1,2 @@
-[x] Complete the compilation of comprehensive summary reports that incorporate user feedback and suggested adjustments to the metrics.
-[x] Revise the output.md file to ensure it contains the finalized project overview.
+[x] Finalize and submit the comprehensive summary reports that reflect user feedback along with proposed adjustments to the metrics.
+[x] Update the output.md file to accurately represent the finalized project overview.
