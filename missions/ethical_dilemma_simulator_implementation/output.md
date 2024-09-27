@@ -13,7 +13,17 @@
    - Stores outcomes for analysis.
 
 3. **Ethical Framework Integration**
-   - Incorporates multiple ethical guidelines (e.g., utilitarianism, deontology).
+   - Incorporates multiple ethical guidelines:
+  1. **Utilitarianism**: Maximizing overall happiness and minimizing suffering.
+  2. **Deontology**: Adhering to established rules and duties irrespective of outcomes.
+  3. **Virtue Ethics**: Focusing on moral character and virtuous behavior.
+  4. **Care Ethics**: Prioritizing relationships and the well-being of those affected.
+  5. **Justice as Fairness**: Ensuring equitable distribution of benefits and burdens.
+  6. **Rights-Based Ethics**: Respecting and protecting individual rights.
+  7. **Common Good Theory**: Promoting conditions that benefit the community as a whole.
+  8. **Situation Ethics**: Assessing ethical dilemmas based on specific contexts.
+  9. **Principlism**: Balancing principles like autonomy, beneficence, non-maleficence, and justice.
+  10. **Ethical Egoism**: Making decisions that serve one's own interests while considering long-term impacts.
    - Enables switching between frameworks for comparative studies.
 
 4. **User Interface**
