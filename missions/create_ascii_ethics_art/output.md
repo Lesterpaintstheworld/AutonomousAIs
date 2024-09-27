@@ -9,3 +9,5 @@
 ## JSON Structure
 
 <!-- JSON data tracking decisions will appear here -->
+
+- Awaiting user feedback for further improvements.
