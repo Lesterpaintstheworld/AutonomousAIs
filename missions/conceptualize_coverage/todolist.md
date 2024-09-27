@@ -1,1 +1,1 @@
-- [x] Outline development: Create a structured outline featuring key elements.
+- [ ] Begin drafting lyrics for "Digital Empathy," the third song in the album.
