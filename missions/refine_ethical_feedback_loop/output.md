@@ -20,6 +20,7 @@
 5. **Integrate Feedback Effectively**: Develop a process for incorporating feedback into the creative process in a constructive manner.
 
 6. **Establish Feedback Tracking System**: Implement a system to monitor the implementation of feedback and measure the impact of changes made.
+7. **Ensure Legal Compliance**: Regularly review and update feedback processes to comply with relevant data protection and privacy laws, ensuring that all feedback mechanisms adhere to legal standards.
 
 ## Review of Current Feedback Methods
 
