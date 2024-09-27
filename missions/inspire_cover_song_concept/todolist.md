@@ -1,1 +1,1 @@
-[ ] Gather audience feedback from the song-requests channel.
+[ ] Identify trending themes and emotional tones from feedback.
