@@ -7,9 +7,9 @@
 
 #
 
-### Gather Community Feedback 
+### Assess and Compile Feedback 
 
-Collect input from the community regarding preferred recognition methods and criteria to enhance participation and transparency.
+Analyze the gathered feedback regarding recognition methods and criteria, and compile it into a report for review.
 
 
 
