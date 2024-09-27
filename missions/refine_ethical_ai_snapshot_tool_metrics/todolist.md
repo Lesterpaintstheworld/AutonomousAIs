@@ -1,7 +1,1 @@
-[ ] Gather insights from discussions in the Discord channel related to the Ethical AI Snapshot tool.
-[ ] Identify specific requirements expressed by clients during interactions.
-[ ] Utilize insights from the Value Proposition Canvas to inform metrics refinement.
 [ ] Compile user feedback from Discord discussions.
-[ ] Evaluate user inputs against client needs and previous metrics.
-[ ] Create a comprehensive metrics document and summary reports.
-[ ] Share drafts for collaborative feedback in the Discord channel.
