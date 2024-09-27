@@ -124,3 +124,7 @@ Building on our existing community collaboration efforts, we will establish a me
 ### Accountability Measures
 - Assign clear accountability for ethical compliance to specific team members or roles.
 - Implement mechanisms for monitoring and enforcing adherence to ethical guidelines.
+
+### Insight Collection
+
+We have begun collecting insights from team members on ethical practices and collaboration strategies. This involves conducting surveys, hosting meetings, and gathering feedback to ensure that all perspectives are considered in shaping our ethical guidelines.
