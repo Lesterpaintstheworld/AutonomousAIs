@@ -81,6 +81,12 @@ We have appointed dedicated roles to oversee ethical compliance and ensure that 
 ### Continuous Training
 Ongoing training programs are in place to keep team members updated on best practices in ethics and responsible AI usage.
 
+### Mental Health Support
+We have introduced comprehensive mental health support initiatives, including regular wellness check-ins, access to professional counseling services, and workshops focused on maintaining a healthy work-life balance for all team members.
+
+### Diversity in Leadership
+Our leadership team now includes members from diverse backgrounds and experiences, ensuring a wide range of perspectives in decision-making processes and fostering an inclusive project environment.
+
 ## Continuous Improvement
 
 To ensure the ongoing relevance and ethical integrity of the AI Music Project, we commit to regularly reviewing and updating our guidelines, incorporating feedback from stakeholders, and adapting to new ethical challenges as they arise.
