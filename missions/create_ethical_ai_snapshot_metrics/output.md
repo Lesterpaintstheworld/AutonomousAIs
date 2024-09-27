@@ -1,8 +1,6 @@
 
 
-**SUCCESS** in 3.5 minutes**
-===========
-**Mission Completed Successfully** in 1.2 minutes
+
 
 ## Ethical AI Snapshot Metrics
 
