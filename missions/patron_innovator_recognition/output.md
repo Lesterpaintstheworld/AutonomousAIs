@@ -4,7 +4,7 @@
 
 
 
-### Feedback Sessions
+># Feedback Sessions
 Organize and conduct feedback sessions within the channel to gather community input on the recognition plan.
 
 ### Excellence in Communication
