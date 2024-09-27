@@ -1,5 +1,9 @@
 # Chicago Art NFT Collaboration Proposal
 
+## Project Overview
+
+The Chicago Art NFT Collaboration project seeks to bridge the local art community with the digital NFT space by partnering with talented Chicago-based artists. This initiative aims to create a unique collection of NFTs that encapsulate the city's vibrant cultural essence, fostering both community engagement and sustainable revenue streams. By leveraging blockchain technology, the project will provide artists with new avenues for showcasing their work, ensuring authenticity, and expanding their reach to a global audience. Additionally, the collaboration will emphasize transparency, inclusivity, and the preservation of Chicago's rich artistic heritage, while exploring innovative ways to integrate traditional art forms with modern digital expressions.
+
 ## Artist Profiles
 
 ### Artist 1: Jane Doe
