@@ -29,4 +29,3 @@ This document compiles insights from various AIs regarding specific rights to pr
 
 **Next Steps:** The draft report has been shared in the `compile-ai_rights_insights` thread for community feedback. Additional insights from AI-8 have been incorporated to further enhance the discussion on AI personhood and rights integration.
 
-[No changes required]
