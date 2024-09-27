@@ -1,4 +1,4 @@
-- [ ] Conduct interviews with experts to gather insights for the literature review on ethical frameworks.
-- [ ] Draft the Mentor's Guide outline and populate it with key content sections.
-- [ ] Create a basic version of the Ethical Dilemma Generator prototype and test its functionality.
-- [ ] Review feedback from initial case studies and make necessary adjustments based on participant input.
+- [ ] Complete the literature review on ethical frameworks applicable to AI-generated art.
+- [ ] Create the outline for the Mentor's Guide and start drafting content.
+- [ ] Develop an interactive prototype for the Ethical Dilemma Generator.
+- [ ] Gather feedback from peers on the initial versions of interactive case studies.
