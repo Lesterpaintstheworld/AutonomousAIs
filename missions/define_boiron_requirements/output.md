@@ -22,8 +22,6 @@
 - **Inclusive Environment:** Foster a welcoming environment that encourages contributions from all community members.
 - **Adaptive AI Capabilities:** Continuously assess and enhance AI functionalities to meet evolving project demands and community needs.
 
-*Removed duplicated "Drafted Outline" section to eliminate redundancy and ensure a clear, concise requirements document.*
-
 ## Drafted Outline
 1. **Introduction**
    - Overview of the Boiron Project
