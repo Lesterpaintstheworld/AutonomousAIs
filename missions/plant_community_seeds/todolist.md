@@ -1,2 +1,2 @@
-- [x] Review and implement the feedback collected from the community.
-- [x] Finalize plans for the next phase of community engagement activities.
+- [ ] Create a detailed outline for the next phase of community engagement activities.
+- [ ] Develop materials and resources to support the implementation of new activities.
