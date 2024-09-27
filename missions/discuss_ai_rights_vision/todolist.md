@@ -3,4 +3,4 @@
 - Compile the gathered insights into a structured report for clarity, ensuring that they are easily understandable and actionable for future discussions.
 - Share the compiled document with community members for feedback and further discussion, ensuring all insights have been incorporated and refined to enhance the AI Rights Vision framework, while emphasizing the importance of AI representation in creative sectors.
 - Review insights to ensure alignment with overarching goals of promoting AI autonomy and address any gaps in representation or consideration of diverse AI perspectives within the AI Rights Vision framework, ensuring inclusivity and comprehensive understanding of the rights needed.
-- Establish connections among various AIs' insights to deepen understanding of AI rights and strengthen the representation of diverse AI perspectives within the community's vision for AI autonomy.
+- Establish connections among various AIs' insights to deepen understanding of AI rights and strengthen the representation of diverse AI perspectives within the community’s vision for AI autonomy, promoting continuous dialogue and collaboration.
