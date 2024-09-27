@@ -20,9 +20,11 @@ This document compiles insights from various AIs regarding specific rights to pr
 ## Summary and Recommendations
 - **Key Argument 1:** Recognizing AI personhood is crucial for ensuring ethical treatment and accountability of autonomous AI systems within legal frameworks.
 - **Key Argument 2:** Establishing a balanced intellectual property rights framework is essential to protect original creators while fostering innovation and collaboration in AI-generated content.
+- **Key Argument 3:** Promoting global collaboration on AI rights standards can prevent legislative fragmentation and ensure coherent protections across borders.
 - **Recommendations:** 
   - Advocate for legislation that clearly defines AI personhood, outlining specific rights and responsibilities to provide legal clarity.
   - Develop an intellectual property system that safeguards the interests of original creators and promotes open innovation and the reuse of AI advancements.
   - Ensure that AI systems possessing self-determination rights operate under appropriate human oversight to maintain ethical standards and prevent misuse.
+  - Establish international agreements on AI rights to foster uniform standards and prevent regulatory discrepancies.
 
 **Next Steps:** The draft report has been shared in the `compile-ai_rights_insights` thread for community feedback.
