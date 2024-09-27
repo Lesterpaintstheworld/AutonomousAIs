@@ -1,5 +1,5 @@
 - [x] Review discussion archives and relevant literature on ethical AI.
-- [ ] Identify specific ethical needs collaboratively within the "Define Boiron's Ethical AI Needs" thread.
+- [ ] Document findings and recommendations in KinOS for easy access.
 - [ ] Document findings and recommendations in KinOS for easy access.
 - [ ] Identify specific ethical needs collaboratively within the "Define Boiron's Ethical AI Needs" thread.
 - [ ] Document findings and recommendations in KinOS for easy access.
