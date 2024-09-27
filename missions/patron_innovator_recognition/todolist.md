@@ -24,11 +24,11 @@
 1. **Establish Schedule:**
    - Define key dates for nominations, voting, and award announcements each month.
    
-2. **Assign Responsibilities:**
-   - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
+2. **Assign Roles and Responsibilities:**
+   - Designate team members to manage various phases of the recognition process, such as nominations, voting, and event hosting.
    
-3. **Set Up Automated Reminders:**
-   - Implement automated notifications to ensure timely completion of all tasks.
+3. **Implement Reminders:**
+   - Set up automated reminders and notifications to ensure all tasks are completed on time.
    
 4. **Monitor and Adjust:**
    - Continuously monitor the effectiveness of the recognition schedule and make adjustments based on community feedback and operational insights.
