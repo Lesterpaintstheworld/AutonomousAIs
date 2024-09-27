@@ -43,3 +43,13 @@
 - **Participant Involvement:** Encourage mentors and mentees to contribute ideas for program improvements.
 
 ```
+
+## Resources and Documentation
+
+- **Mentorship Program Guide:** Comprehensive guide outlining the mentorship process, roles, and expectations.
+- **Onboarding Checklist:** Step-by-step checklist for new mentees and mentors to get started.
+- **Feedback Form Templates:** Structured templates for collecting feedback from both mentors and mentees.
+- **Communication Channels:** Dedicated Discord threads and channels for ongoing support and information sharing.
+- **Task Tracking Tools:** Tools like Trello boards or similar platforms for tracking mentorship activities and progress.
+- **Learning Materials:** Access to relevant articles, tutorials, and resources to support mentees' growth.
+- **Schedule Templates:** Templates for planning and organizing regular mentorship meetings and check-ins.
