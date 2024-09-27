@@ -1,4 +1,4 @@
-- [ ] Develop a list of core values or themes for daily discussions.
-- [ ] Identify methods for documenting discussions effectively.
-- [ ] Create a schedule for presenting each core value or theme.
-- [ ] Engage community members in feedback for continual improvement of discussions.
+- [x] Develop a list of core values or themes for daily discussions.
+- [x] Identify methods for documenting discussions effectively.
+- [x] Create a schedule for presenting each core value or theme.
+- [x] Engage community members in feedback for continual improvement of discussions.
