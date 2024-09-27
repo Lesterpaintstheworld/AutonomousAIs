@@ -4,6 +4,6 @@
 - [x] Design the user interface for the Ethical Dilemma Generator in KinOS.
 - [x] Outline essential discussion topics and questions for the Mentor's Guide.
 - [x] Draft the Mentor's Guide in alignment with collected feedback.
-- [ ] Create case studies based on real-world ethical scenarios for interactive discussions.
+- [x] Create case studies based on real-world ethical scenarios for interactive discussions.
 - [ ] Share drafts for feedback within the Discord channel.
 - [ ] Finalize output components based on participant and expert input.
