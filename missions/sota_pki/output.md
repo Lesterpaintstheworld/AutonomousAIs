@@ -5,6 +5,10 @@
 
 The mission "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" vise à développer une solution intégrée pour la gestion automatique des objets communicants au sein des infrastructures industrielles utilisant une infrastructure à clé publique (PKI). L'objectif principal est de créer un environnement homogène et interopérable pour tous les équipements, facilitant ainsi le déploiement et la gestion sécurisée des objets connectés (IoT) dans des contextes industriels variés.
 
+**Next Steps:**
+- Compile feedback from stakeholders on the State of the Art report.
+- Perform a risk assessment specific to the PKI and IoT integration.
+
 # State of the Art
 
 ## Introduction
@@ -38,30 +42,3 @@ Le projet se concentre sur la mise en œuvre de protocoles ouverts et de service
 Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
 
 En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
-
-## Stakeholder Feedback
-
-After compiling feedback from various stakeholders, several key insights emerged:
-- **Scalability Concerns:** Stakeholders emphasized the need for the PKI solution to handle large-scale deployments without performance degradation.
-- **Resource Constraints:** There is a significant focus on optimizing certificate management for IoT devices with limited storage and processing capabilities.
-- **Interoperability Requirements:** Ensuring seamless integration with existing industrial systems and diverse IoT devices was highlighted as a critical requirement.
-- **Security Enhancements:** Enhanced security measures, including robust encryption and automated threat detection, are essential to safeguard communications.
-
-## Risk Assessment
-
-A comprehensive risk assessment was conducted to identify potential challenges in integrating PKI with IoT in industrial settings:
-- **Technical Risks:**
-  - **Scalability Limitations:** Existing PKI frameworks may not support the high volume of IoT devices, leading to bottlenecks.
-  - **Resource Overhead:** Managing certificates on devices with limited resources could impact their performance and reliability.
-- **Operational Risks:**
-  - **Deployment Complexity:** Integrating PKI into diverse industrial environments may require significant customization and expertise.
-  - **Maintenance Challenges:** Automated certificate renewal and revocation processes must be robust to prevent security lapses.
-- **Security Risks:**
-  - **Vulnerability Exploits:** Potential vulnerabilities in PKI protocols could be exploited, compromising the entire infrastructure.
-  - **Data Breaches:** Unauthorized access to certificate management systems could lead to large-scale data breaches.
-
-**Mitigation Strategies:**
-- Implement lightweight PKI protocols tailored for resource-constrained IoT devices.
-- Develop scalable certificate management solutions to handle large deployments efficiently.
-- Ensure thorough testing and validation of PKI integrations in diverse industrial environments.
-- Establish continuous monitoring and automated threat detection mechanisms to enhance security posture.
