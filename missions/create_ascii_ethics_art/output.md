@@ -19,7 +19,9 @@ This document will contain the generated ASCII art diagrams and the correspondin
 
 <!-- Generated ASCII art will appear here -->
 
+## JSON Structure
 
+<!-- JSON data tracking decisions will appear here -->
 
 ## JSON Structure
 
