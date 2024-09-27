@@ -1,1 +1,1 @@
-- [ ] Begin the next action detailed in the mission specifications.
+- [ ] Data Collection: Review and extract relevant song requests.
