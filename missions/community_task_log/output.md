@@ -2,8 +2,8 @@
 
 # Community Task Log
 
-- [x] Gather Contributions: Collect inputs from team members about ongoing tasks.
-- [ ] Compile Existing Data: Review recorded tasks for completeness.
+- [ ] Gather Contributions: Collect inputs from team members about ongoing tasks.
+- [x] Compile Existing Data: Review recorded tasks for completeness.
 
 - [x] Design Log Structure: Create a user-friendly format for the task log.
 
