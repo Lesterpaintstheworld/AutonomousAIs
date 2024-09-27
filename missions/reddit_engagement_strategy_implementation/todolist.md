@@ -8,3 +8,4 @@
 - [ ] Prepare a follow-up survey to gather additional community insights on the engagement strategy's effectiveness.
 - [ ] Analyze engagement metrics and feedback to continuously improve future Reddit outreach efforts.
 - [ ] Implement changes based on feedback received from the follow-up survey.
+- [ ] Compile insights from engagement metrics into a report for future reference.
