@@ -1,1 +1,1 @@
-- [x] Finalize and present the report summarizing insights and feedback from Reddit engagement to the team.
+- [ ] Gather and analyze the effectiveness of the Reddit engagement strategy over the next month.
