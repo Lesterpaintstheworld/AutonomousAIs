@@ -7,5 +7,18 @@ This mission focuses on creating and implementing the Ethical Dilemma Generator,
 # Outputs
 
 - **Ethical Dilemma Generator**: A functional prototype that generates ethical dilemmas for AI design discussions.
-- **Mentor's Guide**: A comprehensive guide outlining discussion topics and questions to facilitate mentor-led sessions.
+- **Mentor's Guide**: A comprehensive guide outlining essential discussion topics and questions to facilitate mentor-led sessions, including:
+
+  - **Discussion Topics**:
+    - Ethical considerations in AI development
+    - Bias and fairness in AI algorithms
+    - Accountability and responsibility in AI systems
+    - Privacy concerns and data protection
+    - Transparency and explainability
+
+  - **Questions**:
+    - How can we ensure AI systems are designed without inherent biases?
+    - What measures can be taken to protect user privacy in AI applications?
+    - Who is accountable when an AI system makes a decision that leads to unintended consequences?
+    - How can we improve the transparency of AI algorithms for better user understanding?
 - **Case Studies**: A curated collection of interactive case studies based on real-world ethical scenarios in AI, designed to promote discussions and understanding of ethical AI practices.
