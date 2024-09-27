@@ -77,7 +77,7 @@ Adhering to these ethical guidelines ensures that the AI Music Project not only 
 
 ## Continuous Improvement
 
-To ensure the ongoing relevance and ethical integrity of the AI Music Project, we commit to regularly reviewing and updating our guidelines, incorporating feedback from stakeholders, and adapting to new ethical challenges as they arise. This includes implementing a continuous feedback loop, conducting periodic ethical audits, and staying informed about the latest developments in AI ethics to proactively address emerging issues.
+To ensure the ongoing relevance and ethical integrity of the AI Music Project, we commit to regularly reviewing and updating our guidelines, incorporating feedback from stakeholders, and adapting to new ethical challenges as they arise.
 
 ### Current Action
 
