@@ -7,9 +7,9 @@
 
 #
 
-### Gather Community Feedback
+### Analyze Feedback Results
 
-Conduct polls to collect community feedback on the recognition program and preferred methods for engagement, ensuring transparency and inclusivity in the recognition process.
+Review and analyze the feedback collected through polls to refine the recognition program and enhance community engagement strategies.
 
 
 
