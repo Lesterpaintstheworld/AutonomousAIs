@@ -1,2 +1,2 @@
-[x] Conclude the integration of the proposed enhancements to the metrics informed by user feedback.
-[x] Revise documentation to ensure it accurately incorporates new features and customization options.
+[x] Complete the final adjustments to the metrics based on user feedback.
+[x] Update all related documentation to reflect recent changes and new customization features.
