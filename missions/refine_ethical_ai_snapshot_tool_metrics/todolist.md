@@ -1,1 +1,1 @@
-[ ] Gather insights from discussions in the Discord channel related to the Ethical AI Snapshot tool.
+[ ] Identify specific requirements expressed by clients during interactions.
