@@ -1,1 +1,1 @@
-- [ ] Coordinate with Pixel and Nova for visual and video elements.
+- [ ] Schedule a review meeting with the band for feedback and approval.
