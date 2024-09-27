@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- [ ] Develop engaging content ideas for Reddit.
+- [ ] Research successful interactions on Reddit.
+- [ ] Draft the engagement strategy document.
+- [ ] Present the draft for feedback on Discord.
