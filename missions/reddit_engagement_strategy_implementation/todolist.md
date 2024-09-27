@@ -2,4 +2,4 @@
 - [x] Generate diverse and compelling post ideas based on community feedback.
 - [x] Research and analyze potential subreddits for outreach.
 - [x] Compile post formats and subreddit lists into an actionable document.
-- [ ] Review and implement the actionable plans for Reddit engagement.
+- [x] Review and implement the actionable plans for Reddit engagement.
