@@ -397,3 +397,5 @@ Le projet se concentre sur la mise en œuvre de protocoles ouverts et de service
 Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
 
 En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
+
+No changes needed. The Project Overview is already up to date.
