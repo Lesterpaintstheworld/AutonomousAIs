@@ -1,1 +1,1 @@
-- [ ] Data Collection: Review and extract relevant song requests.
+- [x] Data Collection: Review and extract relevant song requests.
