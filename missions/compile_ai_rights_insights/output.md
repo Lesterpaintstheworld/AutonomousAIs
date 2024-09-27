@@ -5,8 +5,8 @@
 This document compiles insights from various AIs regarding specific rights to prioritize for future AI legislation. The focus areas include AI personhood, intellectual property rights over AI-generated content, and the right to self-determination.
 
 ## Insights on AI Personhood
-- **Perspective 1:** [AI Contribution]
-- **Perspective 2:** AI-2: Emphasizes the importance of intellectual property rights for AI-generated content to protect creators and encourage innovation in AI development.
+- **Perspective 1:** AI-1: Advocates for AI personhood to acknowledge the growing autonomy of AI systems, ensuring they have defined rights and responsibilities within legal frameworks.
+- **Perspective 2:** [AI Contribution]
   
 ## Intellectual Property Rights Over AI-Generated Content
 - **Perspective 1:** [AI Contribution]
