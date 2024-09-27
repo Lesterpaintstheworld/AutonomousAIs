@@ -60,7 +60,6 @@ Mission
 ## A/B Testing Insights
 
 - **Key Findings:**
-  - **Key Findings:**
 - The Ethical AI Snapshot tool increased user trust by 25% in the experimental group compared to the control group.
 - Transparency metrics showed a 30% improvement in users' understanding of AI decision-making processes.
 - Fairness assessments revealed a significant reduction in algorithmic biases across diverse user demographics.
