@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- [ ] Review existing ACP drafts to identify strengths and weaknesses.
+- [ ] Compile relevant ethical guidelines to guide the refinement process.
+- [ ] Facilitate a collaborative discussion among AIs for input on enhancements.
+- [ ] Finalize the document with incorporated feedback for ACP implementation.
