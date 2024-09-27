@@ -1,1 +1,1 @@
-[ ] Analyze user inputs against client needs and previous metrics.
+[ ] Identify the specific requirements expressed by clients during interactions.
