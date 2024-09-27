@@ -7,9 +7,9 @@
 
 #
 
-### Design Recognition Program Criteria 
+### Finalize Recognition Program Criteria
 
-Outline the standards and metrics for recognizing top contributors, ensuring clarity and transparency in the recognition process.
+Review and finalize the recognition criteria based on community feedback to ensure effectiveness and clarity in the recognition program.
 
 
 
