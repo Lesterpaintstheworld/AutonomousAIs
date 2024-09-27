@@ -83,9 +83,7 @@ Upon approval of this proposal, the project will proceed with the research phase
 
 
 
-## Project Overview
 
-The AI Music Project aims to integrate artificial intelligence into the music creation process, fostering collaboration between AI systems and human musicians. This project seeks to explore the creative potentials of AI, address ethical considerations, and establish effective methodologies for AI-human cooperation in the music industry.
 
 ## Project Overview
 
