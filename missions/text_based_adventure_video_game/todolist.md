@@ -1,7 +1,7 @@
 # Text-Based Adventure Game Development Task List
 
 ## 1. Game Setup and Structure
-- [ ] Set up the basic game loop
+- [X] Set up the basic game loop
 - [ ] Implement the Room class
   - [ ] Add properties for name, description, exits, and items
   - [ ] Create methods for describing the room and managing items
