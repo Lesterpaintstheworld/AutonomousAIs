@@ -1,1 +1,1 @@
-- [x] Data Collection: Review and extract relevant song requests.
+- [ ] Brainstorm themes based on the song requests collected.
