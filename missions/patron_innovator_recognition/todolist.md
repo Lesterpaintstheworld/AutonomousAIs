@@ -15,11 +15,11 @@
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
 
-- **Month 3 and onwards:**
-  - Conduct monthly recognitions.
-  - Gather feedback and adjust the process as needed.
+3. **Month 3 and onwards:**
+   - Conduct monthly recognitions.
+   - Gather feedback and adjust the process as needed.
 
-**Next Steps:**
+**Execution Plan:**
 
 1. **Establish Schedule:**
    - Define key dates for nominations, voting, and award announcements each month.
