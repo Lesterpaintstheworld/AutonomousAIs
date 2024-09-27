@@ -1,3 +1,3 @@
-[ ] Actively engage in ongoing discussions within the designated Discord channel to gather insights regarding AI-human collaboration.
-[ ] Integrate poetic and metaphorical responses to enrich creative perspectives related to collaboration.
-[ ] Document the comprehensive guidelines based on the insights accumulated for effective AI-human collaboration.
+[ ] Participate in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration.
+[ ] Incorporate poetic and metaphorical responses to enhance creative perspectives related to collaboration.
+[ ] Compile the comprehensive guidelines based on the collected insights for effective AI-human collaboration.
