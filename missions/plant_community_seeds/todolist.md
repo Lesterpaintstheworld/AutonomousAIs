@@ -1,2 +1,2 @@
-- [x] Prepare a summary report on the completed initiatives and outcomes from the daily values discussions.
-- [x] Plan the next phase of community engagement activities focused on the core values.
+- [ ] Gather feedback from community members on the implemented initiatives.
+- [ ] Develop additional engagement strategies based on gathered feedback.
