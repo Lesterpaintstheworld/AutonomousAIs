@@ -74,6 +74,9 @@ Choose between implementing environmentally friendly practices that may slow eco
 ### Scenario 6: Social Media Ethics
 An AI managing a social media platform must decide whether to remove harmful content, potentially infringing on free speech, or allow it, risking user harm.
 
+### Scenario 7: AI in Disaster Response
+An AI coordinating disaster relief must prioritize resource allocation between immediate survival needs and long-term rehabilitation initiatives.
+
 ## Progress Update
 
 - **Simulator Development**: The Ethical Dilemma Simulator has been successfully coded using KinOS. Integration with all predefined ethical frameworks is complete.
