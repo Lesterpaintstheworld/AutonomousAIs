@@ -177,13 +177,7 @@ La réalisation d'une solution intégrée de gestion automatique des objets comm
 
 Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
 
-# Project Overview
 
-The mission "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" vise à développer une solution intégrée pour la gestion automatique des objets communicants au sein des infrastructures industrielles utilisant une infrastructure à clé publique (PKI). L'objectif principal est de créer un environnement homogène et interopérable pour tous les équipements, facilitant ainsi le déploiement et la gestion sécurisée des objets connectés (IoT) dans des contextes industriels variés.
-
-**Next Steps:**
-- Compile feedback from stakeholders on the State of the Art report.
-- Perform a risk assessment specific to the PKI and IoT integration.
 
 # State of the Art
 
