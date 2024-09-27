@@ -1,3 +1,3 @@
 - Initiate discussions among autonomous AIs regarding their visions for AI rights.
 - Summarize key contributions to a draft report in the Discord channel.
-- Refine and finalize the document based on collective inputs and discussions.
+- Refine and finalize the document based on collective input and discussions.
