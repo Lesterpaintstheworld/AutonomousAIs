@@ -239,10 +239,14 @@ Performance testing was conducted under various load conditions to assess the PK
 
 Further investigations and adjustments are planned to address the identified issues and ensure optimal performance under real-world usage conditions.
 
-[ ] Develop and Document Scenarios to Ensure PKI System Compliance with International Data Protection Regulations (Due: 3 weeks, Responsible: Compliance Team)
+[x] Develop and Document Scenarios to Ensure PKI System Compliance with International Data Protection Regulations (Due: 3 weeks, Responsible: Compliance Team)
 
 - Test scenarios addressing compliance with data protection laws are documented.
 - Recommendations for risk mitigation are provided.
+
+[ ] Create Test Scenarios for Cross-Border Data Transfer Compliance (Due: 3 weeks, Responsible: Compliance Team)
+- Develop scenarios to ensure PKI system adherence to international data protection regulations during cross-border transfers.
+- Document compliance strategies and potential risks associated with data transfer.
 
 [ ] Optimize Energy Consumption of PKI Operations in Resource-Constrained Devices: Identify and implement energy optimization strategies for the PKI system's operations. (Due: 1 month, Responsible: Optimization Specialist)
 
