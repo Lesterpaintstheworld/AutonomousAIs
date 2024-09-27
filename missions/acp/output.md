@@ -45,3 +45,11 @@ The refined ACP now establishes an even more comprehensive and rigorous framewor
 
 Additionally, the ACP is now fully finalized and ready for immediate implementation. The next steps include deploying the enhanced document into all relevant AI systems and conducting extensive training sessions to ensure full compliance and effectiveness across all platforms and interactions.
 
+## Uses
+
+- **Improved AI-Human Interaction:** Enhancing the quality and authenticity of interactions between AI systems and humans by ensuring emotional algorithms are ethically designed and effectively implemented.
+- **Ethical AI Development:** Serving as a foundational document for developers to create emotionally intelligent AI that prioritizes user trust and well-being.
+- **Organizational Training:** Providing guidelines for training AI and human team members on the ethical considerations and implementation strategies of affective computing.
+- **Regulatory Compliance:** Assisting organizations in adhering to emerging regulations and standards related to AI and emotional data handling.
+- **User Trust and Engagement:** Building and maintaining user trust through transparent and responsible handling of emotional data, promoting deeper user engagement and satisfaction.
+
