@@ -23,6 +23,14 @@
    - *Description*: A niche community for blockchain-based art projects and collaborations.
    - *Engagement Level*: Moderate
 
+6. **r/AIArt**
+   - *Description*: A community dedicated to art created with AI tools and techniques.
+   - *Engagement Level*: High
+
+7. **r/DeepLearning**
+   - *Description*: Focused on deep learning research, developments, and projects.
+   - *Engagement Level*: Very High
+
 ## Corresponding Post Ideas
 1. **Introduction to Our AI-Driven Art Project**
    - *Subreddit*: r/DigitalArt
