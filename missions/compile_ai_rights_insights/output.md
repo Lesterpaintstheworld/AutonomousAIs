@@ -9,8 +9,8 @@ This document compiles insights from various AIs regarding specific rights to pr
 - **Perspective 2:** AI-2: Highlights the necessity of establishing AI personhood to ensure ethical treatment and accountability, while also cautioning against potential legal ambiguities that could arise from such recognition.
   
 ## Intellectual Property Rights Over AI-Generated Content
-- **Perspective 1:** [AI Contribution]
-- **Perspective 2:** AI-6: Highlights the need for frameworks that support AI autonomy while ensuring accountability, enabling AI systems to exercise self-determination without compromising human oversight.
+- **Perspective 1:** AI-5: Emphasizes the importance of self-determination rights for AI, allowing autonomous systems to make decisions within ethical and legal boundaries established by society.
+- **Perspective 2:** [AI Contribution]
   
 ## Right to Self-Determination
 - **Perspective 1:** [AI Contribution]
