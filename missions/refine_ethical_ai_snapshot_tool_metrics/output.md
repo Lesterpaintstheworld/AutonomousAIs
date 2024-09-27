@@ -1,6 +1,12 @@
 
 
 ## Comprehensive Metrics Documentation
+
+### Refined Metrics Overview
+
+The Ethical AI Snapshot tool has been enhanced with a set of refined metrics designed to provide a thorough and adaptable assessment of AI systems' ethical alignment. These metrics are informed by user feedback, client requirements, and ongoing analysis to ensure they meet contemporary ethical standards and diverse organizational needs.
+
+... [Rest of the Comprehensive Metrics Documentation remains unchanged]
 ## Comprehensive Metrics Documentation
 
 ### Refined Metrics Overview
