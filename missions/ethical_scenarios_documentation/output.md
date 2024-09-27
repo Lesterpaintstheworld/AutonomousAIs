@@ -16,6 +16,10 @@
 **Issue:** Lack of transparency in how AI systems make decisions can lead to mistrust among users.
 **Recommendation:** Enhance explainability features in AI models to provide clear insights into decision-making processes.
 
+### d. AI Accountability
+**Issue:** Difficulty in attributing responsibility for AI-driven decisions, leading to challenges in accountability.
+**Recommendation:** Establish clear accountability frameworks that define responsibility for AI decisions, including human oversight and fail-safes.
+
 ## 2. User Privacy Considerations
 
 ### Scenario 1: Handling Sensitive Personal Information
