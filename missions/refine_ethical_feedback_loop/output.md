@@ -36,6 +36,12 @@
 - **Inclusivity**: Limited representation from certain demographic groups within the feedback pool.
 - **Clarity of Questions**: Some feedback forms contain ambiguous questions, leading to inconsistent responses.
 
+## Identified Actionable Gaps
+1. **Low Participation Rates**: Feedback channels such as surveys and suggestion boxes have low engagement, limiting comprehensive data collection.
+2. **Lack of Systematic Analysis**: Feedback is collected but not consistently analyzed, resulting in incomplete utilization for decision-making.
+3. **Limited Inclusivity**: Underrepresentation from certain demographic groups within the feedback pool leads to biased or incomplete insights.
+4. **Ambiguous Feedback Instruments**: Some feedback forms contain unclear or ambiguous questions, leading to inconsistent and unreliable responses.
+
 ### Effectiveness Analysis
 In analyzing the effectiveness of our current feedback methods, it is evident that while multiple channels are beneficial for diverse input, the low participation rates in some areas hinder comprehensive data collection. The lack of systematic analysis leads to incomplete utilization of feedback for decision-making. To enhance effectiveness, strategies such as incentivizing participation, implementing robust analysis tools, and broadening the demographic scope of feedback collection are recommended.
 
