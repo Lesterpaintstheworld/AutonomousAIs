@@ -131,4 +131,4 @@ Based on the collected insights from team members, we have identified several ke
 
 These principles have been structured to form the foundation of our ethical guidelines, ensuring that our creative processes are both innovative and responsible.
 
-[No changes required]
+- Initiated collection of insights from team members regarding ethical practices and collaboration strategies.
