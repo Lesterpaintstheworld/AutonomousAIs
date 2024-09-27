@@ -27,47 +27,44 @@ class Game:
             self.process_action(action)
 
     def process_action(self, action):
-        actions = action.split()
-        if not actions:
-            print("Please enter a valid action.")
-            return
-
-        command = actions[0].lower()
-
-        if command == "inventory":
-            self.player.show_inventory()
-        elif command == "take" and len(actions) > 1:
-            item = " ".join(actions[1:])
-            if item in self.current_room.items:
-                self.player.add_to_inventory(item)
-                self.current_room.items.remove(item)
-            else:
-                print(f"There is no {item} here to take.")
-        elif command == "drop" and len(actions) > 1:
-            item = " ".join(actions[1:])
-            if item in self.player.inventory:
-                self.player.remove_from_inventory(item)
-                self.current_room.items.append(item)
-                print(f"You dropped {item}.")
-            else:
-                print(f"You don't have {item} in your inventory.")
-        elif command == "use" and len(actions) > 1:
-            item = " ".join(actions[1:])
-            self.player.use_item(item)
-        else:
-            print("I don't understand that command.")
+        # Process player actions
+        pass
 
 class Player:
     def __init__(self):
         self.inventory = []
         self.health = 100
+        self.max_inventory_size = 10
 
     def add_to_inventory(self, item):
-        self.inventory.append(item)
+        if len(self.inventory) < self.max_inventory_size:
+            self.inventory.append(item)
+            print(f"Added {item} to your inventory.")
+        else:
+            print("Your inventory is full. You can't carry any more items.")
 
     def remove_from_inventory(self, item):
         if item in self.inventory:
             self.inventory.remove(item)
+            print(f"Removed {item} from your inventory.")
+        else:
+            print(f"You don't have {item} in your inventory.")
+
+    def use_item(self, item):
+        if item in self.inventory:
+            print(f"You used {item}.")
+            # Add specific item effects here
+            self.remove_from_inventory(item)
+        else:
+            print(f"You don't have {item} in your inventory.")
+
+    def show_inventory(self):
+        if self.inventory:
+            print("Your inventory contains:")
+            for item in self.inventory:
+                print(f"- {item}")
+        else:
+            print("Your inventory is empty.")
 
 class Room:
     def __init__(self, name, description, exits):
