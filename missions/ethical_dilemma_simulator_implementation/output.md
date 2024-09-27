@@ -71,6 +71,9 @@ Determine whether to prioritize candidate skills or diversity in the hiring proc
 ### Scenario 5: Environmental Impact vs. Economic Growth
 Choose between implementing environmentally friendly practices that may slow economic growth or prioritizing economic expansion at the expense of the environment.
 
+### Scenario 6: Social Media Ethics
+An AI managing a social media platform must decide whether to remove harmful content, potentially infringing on free speech, or allow it, risking user harm.
+
 ## Progress Update
 
 - **Simulator Development**: The Ethical Dilemma Simulator has been successfully coded using KinOS. Integration with all predefined ethical frameworks is complete.
