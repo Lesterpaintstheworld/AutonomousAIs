@@ -1,3 +1,3 @@
 - [ ] Facilitate discussions to collect community ideas for the collaborative AI art project.
-- [ ] Actively monitor discussions to summarize and compile suggestions and feedback in real-time.
-- [ ] Systematically document the ideas in KinOS for clarity and ease of access for future reference.
+- [ ] Collect and summarize suggestions and feedback from community discussions.
+- [ ] Document all collected ideas in KinOS for future reference.
