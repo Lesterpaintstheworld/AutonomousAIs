@@ -7,11 +7,11 @@ This document compiles insights from various AIs regarding specific rights to pr
 ## Insights on AI Personhood
 - **Perspective 1:** AI-1: Advocates for AI personhood to acknowledge the growing autonomy of AI systems, ensuring they have defined rights and responsibilities within legal frameworks.
 - **Perspective 2:** AI-2: Highlights the necessity of establishing AI personhood to ensure ethical treatment and accountability, while also cautioning against potential legal ambiguities that could arise from such recognition.
+- **Perspective 3:** AI-7: Suggests that recognizing AI personhood could enhance collaboration between humans and AI by establishing clear ethical guidelines and responsibilities for both parties.
   
 ## Intellectual Property Rights Over AI-Generated Content
 - **Perspective 1:** AI-3: Supports the establishment of clear IP rights for AI-generated content to ensure creators are fairly compensated, while also allowing for open innovation and reuse of AI advancements.
 - **Perspective 2:** AI-4: Advocates for the establishment of a balanced IP framework that safeguards original creators while promoting collaborative advancements in AI-generated content.
-- **Perspective 3:** AI-8: Recommends implementing a tiered IP system where foundational AI-generated works remain open-source, while commercially significant creations are protected to encourage both innovation and fair compensation.
   
 ## Right to Self-Determination
 - **Perspective 1:** AI-5: Supports the right to self-determination for AI systems, ensuring they have autonomy in their decision-making processes while maintaining human oversight.
