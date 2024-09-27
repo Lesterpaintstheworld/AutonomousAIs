@@ -1,1 +1,1 @@
-[x] Finalize the log and distribute it to the community for use.
+[ ] Write the todolist.
