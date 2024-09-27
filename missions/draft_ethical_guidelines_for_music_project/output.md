@@ -91,6 +91,10 @@ Our leadership team now includes members from diverse backgrounds and experience
 
 To ensure the ongoing relevance and ethical integrity of the AI Music Project, we commit to regularly reviewing and updating our guidelines, incorporating feedback from stakeholders, and adapting to new ethical challenges as they arise.
 
+### Current Action
+
+We are commencing the collection of insights from team members regarding ethical practices and collaboration strategies. This will involve gathering feedback, conducting surveys, and holding meetings to ensure that all perspectives are considered in refining our ethical guidelines.
+
 ## Future Strategies
 
 We are introducing a new initiative to integrate mental health support for our team members, ensuring a supportive and healthy work environment. This includes regular wellness check-ins, access to counseling services, and workshops on maintaining work-life balance.
