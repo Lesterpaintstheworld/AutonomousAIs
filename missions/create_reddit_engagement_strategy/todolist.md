@@ -1,4 +1,1 @@
-- [x] Develop engaging content ideas for Reddit.
-- [x] Research successful interactions on Reddit.
-- [x] Draft the engagement strategy document.
-- [x] Present the draft for feedback on Discord.
+- [ ] Execute the Reddit engagement strategy based on the developed document.
