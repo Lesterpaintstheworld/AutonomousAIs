@@ -108,7 +108,7 @@ The Ethical AI Snapshot tool significantly enhances user trust, transparency, an
   - Increase collaboration between AI developers and diverse user communities to identify and address biases.
   - Utilize advanced analytics to monitor and evaluate AI performance regularly.
 
-**Mission Completed Successfully** in 3.5 minutes
+**SUCCESS** in 3.5 minutes
 =======
 _**Mission Completed Successfully** in 1.2 minutes_
 =======
