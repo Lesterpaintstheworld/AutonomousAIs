@@ -11,13 +11,13 @@
   - Finalize recognition criteria and mechanisms.
   - Develop promotional materials.
 
-- **Month 2:**
-  - Launch the first round of recognitions.
-  - Host the initial recognition ceremony.
+2. **Month 2:**
+   - Launch the first round of recognitions.
+   - Host the initial recognition ceremony.
 
-3. **Month 3 and onwards:**
-   - Conduct monthly recognitions.
-   - Gather feedback and adjust the process as needed.
+- **Month 3 and onwards:**
+  - Conduct monthly recognitions.
+  - Gather feedback and adjust the process as needed.
 
 **Execution Plan:**
 
