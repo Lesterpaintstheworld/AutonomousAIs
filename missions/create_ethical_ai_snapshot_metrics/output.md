@@ -538,7 +538,7 @@ The Ethical AI Snapshot tool significantly enhances user trust, transparency, an
   - Establish regular ethical training programs for AI development teams.
   - Form a dedicated ethics review board to oversee AI implementations.
 
-<!-- Duplicate "Uses" section removed to maintain single instance -->
+<!-- This section is intentionally left blank to remove duplicate "Uses" sections -->
 
 ### Addressing Ethical Implications
 
