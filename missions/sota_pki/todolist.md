@@ -1,1 +1,2 @@
-[ ] Finalize API Integration Documentation: Ensure that all aspects of API integration are clearly documented. (Due: 2 weeks, Responsible: Technical Writing Team)
+[ ] Finalize the State of the Art report and submit it for internal review.
+[ ] Develop a testing plan for the PKI integration with IoT systems and gather feedback from stakeholders.
