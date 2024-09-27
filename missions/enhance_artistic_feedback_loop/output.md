@@ -47,3 +47,8 @@
 - **Preferred Feedback Channels:** Contributors prefer a combination of synchronous meetings and asynchronous tools (e.g., surveys, collaborative documents) to share their feedback effectively.
 - **Key Feedback Areas:** Emphasis on clarity in communication, constructive criticism, and actionable suggestions to foster a positive and productive feedback environment.
 - **Challenges Identified:** Some team members highlighted the difficulty in balancing detailed feedback with time constraints, suggesting streamlined processes to address this.
+
+## Structured Review Process
+
+- Developed a standardized review template to facilitate constructive and unbiased feedback.
+- Implemented regular structured review sessions to assess artistic progress effectively.
