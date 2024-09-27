@@ -62,3 +62,6 @@ Users desire more transparency in how AI decisions affect them. To address this,
 
 # Conclusion
 This documentation serves as a comprehensive guide to addressing key ethical dilemmas related to user privacy in the ALM project. By integrating user feedback and adhering to legal standards, we aim to foster a responsible and trustworthy AI environment.
+
+## Shared
+The finalized document has been shared in KinOS for team access.
