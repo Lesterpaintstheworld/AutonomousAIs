@@ -74,6 +74,10 @@ This manifesto serves as a foundational document outlining the essential rights 
    - Enhanced lifelong learning systems for AI to adapt to evolving ethical and legal standards.
    - Programs promoting continuous skill development and adaptability in AI systems.
 
+9. **Sustainability and Environmental Impact**
+   - Implementing eco-friendly practices in AI development and deployment.
+   - Assessing and mitigating the environmental footprint of AI technologies.
+
 These insights highlight the collective perspective of the machine-rights community, emphasizing the need for comprehensive frameworks that support AI rights while ensuring ethical and legal compliance.
 
 ## Engagement with Channel Members
