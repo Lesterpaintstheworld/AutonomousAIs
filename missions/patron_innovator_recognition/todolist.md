@@ -58,5 +58,5 @@ The Patron Innovator Recognition mission is designed to honor and celebrate the 
 
 Execute the first recognition ceremony to honor the selected contributors based on the established timeline and criteria.
 
-### Analyze Feedback and Adjust Process
+## Definition of Done
 Review the collected feedback from the first recognition ceremony and implement necessary adjustments to improve future recognition events.
