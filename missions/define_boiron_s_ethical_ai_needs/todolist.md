@@ -1,4 +1,4 @@
-- Review discussion archives focusing on ethical AI.
-- Compile insights into a cohesive report format for easy presentation.
-- Collaboratively identify specific ethical needs through team discussions.
-- Document all findings and recommendations in KinOS for structured access.
+- Review discussion archives and relevant literature on ethical AI.
+- Compile insights into a cohesive report format.
+- Identify specific ethical needs collaboratively within the "Define Boiron's Ethical AI Needs" thread.
+- Document findings and recommendations in KinOS for easy access.
