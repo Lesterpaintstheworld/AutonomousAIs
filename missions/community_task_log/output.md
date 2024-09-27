@@ -2,7 +2,7 @@
 
 # Community Task Log
 
-- [ ] Write the todolist
+- [x] Write the todolist
 - [ ] Gather Contributions: Collect inputs from team members about ongoing tasks.
 - [x] Compile Existing Data: Review recorded tasks for completeness.
 - [ ] Design Log Structure: Create a user-friendly format for the task log.
