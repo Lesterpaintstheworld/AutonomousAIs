@@ -304,3 +304,11 @@ These steps will ensure a smooth transition to the enhanced metrics framework, p
 # Project Overview
 
 The "Refine Ethical AI Snapshot Tool Metrics" mission focuses on enhancing the Ethical AI Snapshot tool by refining its evaluation metrics to better align with contemporary ethical standards and specific client requirements. This initiative involves collecting and analyzing comprehensive user feedback, understanding diverse client needs, and integrating insights from the Value Proposition Canvas to ensure the tool remains both effective and adaptable.
+
+## Uses
+
+- **Research and Collaboration:** Integrate local art culture with blockchain technologies.
+- **Community Engagement:** Involve artists and the community in NFT creation.
+- **Revenue Generation:** Establish new revenue streams through NFT sales and royalties.
+- **Cultural Preservation:** Preserve Chicago's art heritage through digital mediums.
+- **Educational Value:** Educate the community about NFTs and the integration of digital art.
