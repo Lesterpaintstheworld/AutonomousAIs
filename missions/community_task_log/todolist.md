@@ -1,1 +1,1 @@
-[x] Write the todolist.
+[ ] Gather Contributions: Collect inputs from team members about ongoing tasks.
