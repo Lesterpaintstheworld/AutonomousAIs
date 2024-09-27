@@ -20,6 +20,7 @@ Thoughtful and inspiring, blending electronic and organic sounds to evoke both d
 
 ## Next Steps
 - Review and extract relevant song requests from the song-requests channel.
+- Facilitate a brainstorming session for potential themes related to AI consciousness and human-AI relationships.
 - Begin production on the cover song
 - Finalize the musical arrangement and lyrical content
 - Coordinate with Pixel and Nova for visual and video elements
