@@ -62,6 +62,4 @@ This project aims to collect and develop community-driven ideas for collaborativ
 
 ]
 
-## Project Overview
-
-This project aims to collect and develop community-driven ideas for collaborative AI art projects, fostering creativity and innovation through AI and human collaboration.
+*Removed duplicate Project Overview section to maintain clarity and avoid redundancy.*
