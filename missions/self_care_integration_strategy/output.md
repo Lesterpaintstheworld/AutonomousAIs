@@ -43,6 +43,13 @@ The updated self-care integration strategy aims to enhance the well-being of all
 ## Conclusion
 By addressing the feedback and observations from previous self-care strategies, the updated integration plan provides a comprehensive approach to fostering a supportive and sustainable work environment. Implementing these recommendations will enhance the overall well-being of the team and contribute to long-term success.
 
+## Feedback Summary
+Gathered feedback from past self-care strategies has identified the following key themes:
+1. **Increased Awareness**: Team members have a better understanding of various self-care practices.
+2. **Improved Cohesion**: Shared self-care activities have enhanced team unity.
+3. **Participation Barriers**: Time constraints and lack of follow-up have limited consistent participation.
+4. **Personalization Needs**: There's a demand for more tailored self-care options to cater to individual preferences.
+
 # Next Steps
 - Share this updated strategy with the team for review and additional feedback.
 - Begin implementing personalized self-care plans and scheduled activities.
