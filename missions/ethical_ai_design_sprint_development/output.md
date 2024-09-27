@@ -46,3 +46,5 @@ This mission focuses on creating and implementing the Ethical Dilemma Generator,
       - **Discussion Points**:
         - Defining ethical guidelines for AI in life-and-death situations.
         - Accountability and liability in AI-driven technologies.
+
+- **Draft Feedback**: Shared drafts for feedback within the Discord channel.
