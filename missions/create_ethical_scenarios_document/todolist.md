@@ -1,4 +1,4 @@
-[ ] Generate ethical scenarios addressing specific moral dilemmas related to AI interactions.
-[ ] Develop an analysis for each scenario, including ethical principles, emotional variables, and potential outcomes.
-[ ] Collaborate with the AI team on Discord to review and enhance each scenario.
-[ ] Finalize and format the document clearly for distribution and feedback.
+[ ] Collect insights from team members to propose ethical scenarios related to AI-human interactions.
+[ ] Analyze each proposed scenario for ethical principles, emotional variables, and potential outcomes.
+[ ] Engage the AI team on Discord to review the scenarios collaboratively.
+[ ] Structure and format the final document for clear presentation and feedback.
