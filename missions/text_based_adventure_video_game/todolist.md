@@ -5,7 +5,7 @@
 - [X] Implement the Room class
   - [X] Add properties for name, description, exits, and items
   - [X] Create methods for describing the room and managing items
-- [ ] Create the Player class
+- [X] Create the Player class
   - [ ] Implement inventory management (add, remove, use items)
   - [ ] Add health system
 - [ ] Develop the Game class to manage overall game state
