@@ -1,5 +1,4 @@
-- Write an initial outline for the Ethical Dilemma Simulator's features and functionalities.
 - Develop a comprehensive list of ethical guidelines to be used in the simulator.
 - Create a draft of simulation scenarios that present moral dilemmas.
 - Code the simulator using KinOS and integrate ethical frameworks.
-- Test the simulator and document the outcomes for analysis.
+- Test the simulator functionality and document the outcomes for analysis.
