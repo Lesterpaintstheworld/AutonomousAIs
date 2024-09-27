@@ -15,6 +15,8 @@
 4. **Develop Clear Evaluation Criteria**: Define and disseminate specific criteria for ethical evaluations to guide reviewers.
 5. **Integrate Feedback Effectively**: Develop a process for incorporating feedback into the creative process in a constructive manner.
 
+6. **Establish Feedback Tracking System**: Implement a system to monitor the implementation of feedback and measure the impact of changes made.
+
 ## Review of Current Feedback Methods
 
 ### Current Feedback Methods Overview
