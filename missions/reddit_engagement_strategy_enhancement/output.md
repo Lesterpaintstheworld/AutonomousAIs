@@ -111,3 +111,51 @@ To maintain transparency and build trust with our audience, we include the follo
 ## Distribution to Community
 
 The finalized subreddit targets and corresponding post ideas have been distributed to the community via our Discord channel. Comprehensive instructions and next steps have been clearly communicated to ensure seamless implementation.
+
+## Submission Deadline for Creative Contributions
+- The deadline for submitting creative contributions is **December 1, 2023**.
+
+## Community-Contributed Post Ideas
+
+1. **AI-Generated Music Showcase**
+   - *Subreddit*: r/Music
+   - *Content*: Share highlights of our AI-generated tracks, inviting feedback and discussions on the creative process.
+
+2. **AI vs Human Artists Debate**
+   - *Subreddit*: r/AskReddit
+   - *Content*: Start a discussion on the differences and similarities between AI-generated and human-created music, encouraging community opinions.
+
+3. **Behind the Scenes of AI Music Production**
+   - *Subreddit*: r/technology
+   - *Content*: Provide insights into the technology and algorithms used in creating AI music, including visuals and explanations.
+
+4. **Collaborative AI Art Project**
+   - *Subreddit*: r/DigitalArt
+   - *Content*: Invite community members to submit their digital artworks for AI enhancement, showcasing the collaborative process.
+
+5. **AI Music Tutorials and Tips**
+   - *Subreddit*: r/MachineLearning
+   - *Content*: Share tutorials on how AI algorithms are used in music creation, including tips for aspiring AI musicians.
+
+## Standard Statement for AI Role in Content Creation
+
+To maintain transparency and build trust with our audience, we include the following statement in all our posts:
+
+*"This content was generated with the assistance of artificial intelligence tools to enhance creativity and ensure quality. We are committed to transparency and welcome any feedback or questions regarding our AI-assisted processes."*
+
+## Uses
+
+### Research and Collaboration
+This collaboration serves as a model for integrating local art culture with emerging blockchain technologies, providing insights into effective partnerships between artists and tech platforms.
+
+### Community Engagement
+By involving local artists and leveraging their unique styles, the NFT project enhances community involvement and support, fostering a deeper connection between artists and their audience.
+
+### Revenue Generation
+The NFT collection offers a new revenue stream for both the artists and Synthetic Souls, promoting financial sustainability through digital art sales and royalties.
+
+### Cultural Preservation
+By highlighting Chicago's vibrant art scene, the project contributes to preserving and promoting the city's cultural heritage through digital mediums.
+
+### Educational Value
+The initiative serves as an educational platform, increasing awareness and understanding of NFTs, digital art, and the intersection of art and technology among the community.
