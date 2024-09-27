@@ -42,3 +42,17 @@ Detailed compilation of user feedback gathered from Discord discussions regardin
 - **Insight 2:** Clients have highlighted the necessity for customizable ethical parameters, allowing users to tailor the snapshot tool to their specific organizational values and industry standards.
 - **Suggestion 1:** Implement a feature that enables users to define and adjust ethical criteria within the snapshot tool, providing greater flexibility and relevance to diverse client needs.
 - **Suggestion 2:** Develop comprehensive documentation and tutorials that guide clients on how to customize ethical settings, ensuring they can effectively utilize the tool to meet their unique requirements.
+
+## Specific Client Requirements
+
+Based on client interactions and feedback, the following specific requirements have been identified:
+
+1. **Enhanced Transparency:** Clients require clear and transparent calculations of ethical metrics to ensure trustworthiness in the tool's assessments.
+
+2. **Customizable Ethical Parameters:** The ability for clients to tailor ethical parameters to align with their organization's values and industry standards.
+
+3. **Dynamic Metric Adjustment:** A feature that allows clients to define and modify ethical criteria within the snapshot tool for increased flexibility.
+
+4. **Comprehensive Documentation:** Detailed guides and tutorials to assist clients in customizing and effectively utilizing the ethical metrics.
+
+5. **Continuous Feedback Integration:** Establishing a feedback loop with clients to iteratively improve and adapt the metrics based on evolving needs.
