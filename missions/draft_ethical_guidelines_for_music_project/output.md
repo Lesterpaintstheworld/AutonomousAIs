@@ -3,12 +3,13 @@
 # Ethical Guidelines for AI Music Project
 
 ## Introduction
-This document outlines the ethical guidelines that govern the AI Music Project. Our commitment to ethics ensures that our creative processes are responsible, transparent, and compliant with international legal standards, while being respectful of all stakeholders involved.
+This document outlines the ethical guidelines that govern the AI Music Project. Our commitment to ethics ensures that our creative processes are responsible, transparent, and respectful of all stakeholders involved.
 
 ## Ethical Practices
 - **Fairness and Equity**: Ensure that AI-generated music does not perpetuate biases and is accessible to a diverse audience.
 - **Accountability**: Maintain clear accountability for decisions made during the AI development and music creation processes.
 - **Respect for Intellectual Property**: Protect the rights of original creators and ensure that AI-generated content does not infringe on existing copyrights.
+- **Sustainability**: Implement environmentally responsible practices in AI development and operational processes to minimize the project's carbon footprint.
 
 ## Collaboration Strategies
 - **Inclusive Participation**: Encourage diverse input from all team members to foster a collaborative and innovative environment.
