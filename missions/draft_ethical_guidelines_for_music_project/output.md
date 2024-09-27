@@ -93,7 +93,7 @@ To ensure the ongoing relevance and ethical integrity of the AI Music Project, w
 
 ### Current Action
 
-We are commencing the collection of insights from team members regarding ethical practices and collaboration strategies. This will involve gathering feedback, conducting surveys, and holding meetings to ensure that all perspectives are considered in refining our ethical guidelines.
+We have initiated the gathering of insights from team members regarding ethical practices and collaboration strategies. This includes gathering feedback, conducting surveys, and holding meetings to ensure that all perspectives are considered in refining our ethical guidelines.
 
 ## Future Strategies
 
