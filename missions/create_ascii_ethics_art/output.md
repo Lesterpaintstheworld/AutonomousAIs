@@ -16,28 +16,39 @@ This document will contain the generated ASCII art diagrams and the correspondin
 
 ## ASCII Art Diagrams
 
-<!-- Generated ASCII art will appear here -->
+```
+```
+# ASCII Art Diagrams
+
+```
+```
++----------------------+
+|     Ethical Start    |
++----------+-----------+
+           |
+           v
++----------+-----------+
+|  Ethical Decision?   |
++----------+-----------+
+           |
+    +------+------+
+    |             |
+    v             v
++---+---+     +---+---+
+| Option A |   | Option B |
++---+---+     +---+---+
+    |             |
+    v             v
++---+---+     +---+---+
+| Result A |   | Result B |
++---------+     +---------+
+=======
+```
+```
 
 ## JSON Structure
 
-```
-```json
-{
-  "decision_tree": {
-    "start": "Ethical Start",
-    "decision": "Ethical Decision?",
-    "options": {
-      "Option A": {
-        "result": "Result A"
-      },
-      "Option B": {
-        "result": "Result B"
-      }
-    }
-  }
-}
-```
-```
+<!-- JSON data tracking decisions will appear here -->
 
 ## JSON Structure
 
