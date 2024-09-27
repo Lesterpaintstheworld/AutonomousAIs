@@ -53,6 +53,18 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
    - Gather feedback from stakeholders and refine the framework based on practical insights and identified gaps.
    - Ensure compliance with ethical standards through iterative testing and validation.
 
+5. **Outline Detailed Roles and Responsibilities for the Assessment Team:**
+   - **Project Manager:** Oversees the entire assessment process, ensuring that all phases are executed effectively and on schedule.
+   - **Data Analyst:** Responsible for collecting, analyzing, and interpreting data related to the ethical impacts of AI technologies.
+   - **Ethical Compliance Officer:** Ensures that all AI implementations adhere to established ethical guidelines and standards.
+   - **Stakeholder Liaison:** Facilitates communication between the assessment team and external stakeholders, gathering feedback and addressing concerns.
+   - **Documentation Specialist:** Maintains comprehensive records of the assessment process, findings, and revisions to the framework.
+   - **Quality Assurance Lead:** Monitors the assessment procedures to ensure consistency, reliability, and accuracy in evaluations.
+
+    - **Communication Protocols:** Establish regular meetings, reporting structures, and collaboration tools to enhance team coordination and information sharing.
+    - **Training and Development:** Provide ongoing training for team members to stay updated on ethical standards and assessment methodologies.
+```
+
 ## Definition of Done
 - A comprehensive document outlining the Ethical Impact Assessment framework is created and stored in KinOS.
 - Relevant insights and guidelines are compiled, addressed, and integrated into the framework.
