@@ -46,8 +46,9 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 ## Steps for Implementation
 
 1. **Gather Ethical Guidelines:**
-   - Compile relevant ethical standards and principles applicable to AI technologies from international and industry-specific sources.
-   - Ensure the guidelines cover areas such as fairness, accountability, transparency, privacy, and non-discrimination.
+   - **Compilation:** Collect comprehensive ethical standards and principles relevant to AI technologies from authoritative international and industry-specific sources, including but not limited to IEEE Ethically Aligned Design, EU AI Ethics Guidelines, and OECD AI Principles.
+   - **Coverage:** Ensure the guidelines encompass critical areas such as fairness, accountability, transparency, privacy, non-discrimination, sustainability, inclusivity, security, ethical use of data, and human oversight.
+   - **Documentation:** Organize the compiled guidelines into a structured format for easy reference and integration into the assessment framework.
 
 2. **Select Assessment Tools:**
    - Identify appropriate tools and methodologies for evaluating ethical impacts, including qualitative and quantitative measures.
