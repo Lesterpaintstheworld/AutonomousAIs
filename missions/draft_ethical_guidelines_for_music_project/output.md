@@ -170,3 +170,4 @@ Based on the collected insights from team members, we have identified several ke
 These principles have been structured to form the foundation of our ethical guidelines, ensuring that our creative processes are both innovative and responsible.
 
 - Initiated collection of insights from team members regarding ethical practices and collaboration strategies.
+- Structured the insights into coherent sections that clearly represent the key ethical principles for the music project.
