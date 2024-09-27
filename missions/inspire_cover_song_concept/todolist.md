@@ -1,1 +1,1 @@
-[ ] Share the draft for collaboration and refinement in Discord.
+[ ] Finalize the song concept and prepare to present it in the next band meeting.
