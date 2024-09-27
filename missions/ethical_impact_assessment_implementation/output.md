@@ -56,14 +56,16 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 
 3. **Design Assessment Framework:**
    - Structure the assessment process to include clear stages: initiation, data collection, analysis, reporting, and review.
-   - Define roles and responsibilities for teams involved in conducting assessments to ensure clarity and accountability.
+   - **Roles and Responsibilities:**
+     - **Project Lead:** Oversees the entire assessment process, ensuring adherence to ethical guidelines.
+     - **Data Analyst:** Manages data collection, statistical analysis, and interpretation of quantitative results.
+     - **Qualitative Researcher:** Conducts interviews, focus groups, and thematic analysis of qualitative data.
+     - **Compliance Officer:** Ensures all aspects of the assessment meet regulatory and ethical standards.
+     - **Stakeholder Liaison:** Coordinates communication between the assessment team and external stakeholders.
 
 4. **Implement and Test:**
    - Deploy the EIA framework within selected AI projects to conduct initial assessments.
-   - **Collect Stakeholder Feedback:**
-     - Conduct surveys and interviews with stakeholders to gather insights on the framework's effectiveness.
-     - Organize focus groups to discuss potential improvements and address any concerns.
-   - Refine the framework based on practical insights and identified gaps from stakeholder feedback.
+   - Gather feedback from stakeholders and refine the framework based on practical insights and identified gaps.
    - Ensure compliance with ethical standards through iterative testing and validation.
 
 ## Definition of Done
