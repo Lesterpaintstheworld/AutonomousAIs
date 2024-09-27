@@ -117,7 +117,7 @@ The enhanced A/B testing results demonstrate a robust improvement in user trust,
 
 **SUCCESS** in 3.5 minutes
 =======
-_**_**Mission Completed Successfully** in 3.5 minutes**
+_**_**SUCCESS** in 3.5 minutes**
 ````
 =======
 Mission
