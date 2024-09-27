@@ -27,8 +27,7 @@ The Patron Innovator Recognition mission is designed to honor and celebrate the 
 5. **Implement Recognition Schedule**: Set a timeline for monthly recognitions and ensure consistent execution.
 
 6. **Launch Recognition Plan**: Initiate the recognition program and monitor its effectiveness and community reception.
-7. **Excellence in Communication**: Assess the clarity, frequency, and effectiveness of communication within the community.
-8. **Feedback Sessions**: Assess the clarity, frequency, and effectiveness of communication within the community.
+
 
 7. **Excellence in Communication**: Assess the clarity, frequency, and effectiveness of communication within the community.
 
