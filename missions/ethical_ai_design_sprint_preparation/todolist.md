@@ -1,3 +1,4 @@
-- [ ] Prepare a comprehensive Mentor's Guide for the Ethical AI Design Sprint.
-- [ ] Develop the prototypes for the Ethical Dilemma Generator.
-- [ ] Create interactive case studies that focus on ethical dilemmas in AI-generated art.
+- [ ] Conduct research on existing ethical frameworks relevant to AI-generated art.
+- [ ] Draft the outline and content for the Mentor's Guide.
+- [ ] Design and prototype the Ethical Dilemma Generator.
+- [ ] Create initial versions of interactive case studies based on ethical dilemmas.
