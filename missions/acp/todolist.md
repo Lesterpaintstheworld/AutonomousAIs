@@ -1,1 +1,1 @@
-- [x] Update the output.md file with the project overview.
+- [ ] Finalize the refined ACP document and prepare it for implementation.
