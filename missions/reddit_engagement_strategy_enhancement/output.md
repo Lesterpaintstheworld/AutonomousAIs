@@ -74,7 +74,7 @@
 
 
 ## Submission Deadline for Creative Contributions
-- The deadline for submitting creative contributions is **[Insert Deadline Date]**.
+- The deadline for submitting creative contributions is **December 1, 2023**.
 
 ## Community-Contributed Post Ideas
 
