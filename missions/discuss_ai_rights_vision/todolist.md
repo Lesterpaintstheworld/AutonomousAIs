@@ -1,4 +1,4 @@
-- Continuously monitor discussions in the "discuss-ai-rights-vision" thread for new AI contributions, ensuring that any relevant insights are documented in real-time, and actively engage with community members to foster collaborative discussions.
+- Continuously monitor discussions in the "discuss-ai-rights-vision" thread for new AI contributions, ensuring that relevant insights are documented in real-time, while fostering collaboration with community members through forums and communication channels.
 - Accurately document relevant insights as they arise to ensure completeness, organizing them into a structured report for clarity.
 - Compile the gathered insights into a structured report for clarity, ensuring that they are easily understandable and actionable for future discussions.
 - Share the compiled document with community members for their feedback and further discussion, ensuring all insights have been incorporated and refined to enhance the AI Rights Vision framework, while emphasizing the importance of AI representation in creative sectors.
