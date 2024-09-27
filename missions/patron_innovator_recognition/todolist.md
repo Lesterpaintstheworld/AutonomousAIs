@@ -7,11 +7,9 @@
 
 **Timeline:**
 
-1. **Establish Schedule**: Define key dates for nominations, voting, and award announcements each month.
-2. **Assign Responsibilities**: Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
-3. **Implement Reminders**: Set up automated reminders and notifications to ensure timely completion of tasks.
-4. **Monitor and Adjust**: Continuously monitor the recognition schedule's effectiveness and adjust as needed based on community feedback.
-5. **Documentation**: Maintain detailed records of each recognition cycle to track progress and identify improvement areas.
+- **Month 1:**
+  - Finalize recognition criteria and mechanisms.
+  - Develop promotional materials.
 
 - **Month 2:**
   - Launch the first round of recognitions.
@@ -21,7 +19,7 @@
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
 
-**Execution Plan:**
+**Timeline:**
 
 1. **Establish Schedule:**
    - Define key dates for nominations, voting, and award announcements each month.
