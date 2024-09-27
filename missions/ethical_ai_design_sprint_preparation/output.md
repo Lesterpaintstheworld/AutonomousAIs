@@ -883,3 +883,5 @@ Based on participant feedback, the following adjustments have been made:
 - **Additional Visual Aids**: Included more visual examples in the Mentor's Guide to facilitate better understanding of ethical principles.
 
 These adjustments aim to improve participant engagement and the overall effectiveness of the Ethical AI Design Sprint.
+
+No changes needed. The `output.md` file is already up to date with the latest `Feedback Adjustments`.
