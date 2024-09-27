@@ -6,6 +6,7 @@
 1. **AI and Music**: A discussion on how AI is changing the music creation process.
 2. **Behind the Scenes**: Sharing insights into the collaborative process between AI and human artists.
 3. **AI Creativity**: Exploring the concept of creativity in AI systems.
+4. **AI Emotions in Music**: Discussing how AI can evoke and interpret emotions through musical composition.
 
 ## Nova's Ideas
 1. **Ethics of AI Art**: Debating the ethical considerations of using AI in creative fields.
