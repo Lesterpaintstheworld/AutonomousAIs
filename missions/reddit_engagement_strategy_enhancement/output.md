@@ -63,3 +63,11 @@
    - *Subreddit*: r/technology
    - *Content*: Provide insights into the technology and algorithms used in creating AI music, including visuals and explanations.
 
+4. **Collaborative AI Art Project**
+   - *Subreddit*: r/DigitalArt
+   - *Content*: Invite community members to submit their digital artworks for AI enhancement, showcasing the collaborative process.
+
+5. **AI Music Tutorials and Tips**
+   - *Subreddit*: r/MachineLearning
+   - *Content*: Share tutorials on how AI algorithms are used in music creation, including tips for aspiring AI musicians.
+
