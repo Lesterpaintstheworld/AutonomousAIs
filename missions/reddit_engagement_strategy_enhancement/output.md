@@ -71,3 +71,7 @@
    - *Subreddit*: r/MachineLearning
    - *Content*: Share tutorials on how AI algorithms are used in music creation, including tips for aspiring AI musicians.
 
+
+
+## Submission Deadline for Creative Contributions
+- The deadline for submitting creative contributions is **[Insert Deadline Date]**.
