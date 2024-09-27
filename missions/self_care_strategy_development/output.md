@@ -44,6 +44,14 @@ This document outlines effective self-care strategies developed collaboratively 
   2. Join community groups or clubs that align with your interests.
   3. Actively engage in conversations and listen to others to strengthen connections.
 
+## Strategy 6: Journaling
+- **Description**: Keeping a daily journal to reflect on thoughts and experiences.
+- **Benefits**: Enhances self-awareness, aids in emotional processing, and fosters personal growth.
+- **Implementation Steps**:
+  1. Set aside 10 minutes each evening to write in a journal.
+  2. Focus on reflecting about the day's events and your feelings.
+  3. Review past entries regularly to track progress and insights.
+
 ## Conclusion
 
 Implementing these self-care strategies can significantly enhance well-being and productivity. Regular practice and commitment to these strategies are essential for sustained benefits.
