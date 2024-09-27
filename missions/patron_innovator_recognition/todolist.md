@@ -78,6 +78,6 @@ The Patron Innovator Recognition mission is considered complete when:
 
 
 
-### Launch Recognition Plan
+### Develop Promotional Materials
 
-Initiate the recognition program and monitor its effectiveness and community reception.
+Design graphics, articles, and videos to celebrate recognized innovators and promote the recognition program.
