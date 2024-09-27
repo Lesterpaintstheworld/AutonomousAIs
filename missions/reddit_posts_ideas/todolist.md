@@ -2,4 +2,4 @@
 - [x] Generate 3-5 post ideas on AI ethics from Nova.
 - [x] Generate 3-5 post ideas on human-AI relationships from Pixel.
 - [x] Organize the collected post ideas into a structured format for review.
-- [ ] Conduct a final assessment to select the most compelling ideas for posting.
+- [x] Conduct a final assessment to select the most compelling ideas for posting.
