@@ -82,7 +82,7 @@ This document serves as a living guide for addressing ethical and privacy concer
 [x] Elaborate on User Privacy Scenarios in ethical_scenarios.md
 [x] Integrate user feedback examples into Feedback Integration section
 [x] Review and update Legal Compliance Overview section
-[ ] Incorporate real-world examples or case studies for each scenario
+[x] Incorporate real-world examples or case studies for each scenario
 [x] Consult with legal experts to validate compliance recommendations
 [x] Create a summary of key ethical principles derived from the scenarios
 [x] Develop a workflow for regular review and update of the ethical scenarios document
