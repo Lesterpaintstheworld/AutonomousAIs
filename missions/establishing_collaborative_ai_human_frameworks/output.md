@@ -33,6 +33,8 @@ This section will document the established guidelines and strategies for effecti
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
+- Actively participate in ongoing discussions within the designated Discord channel to gather diverse insights and perspectives that inform collaborative practices.
+- Encourage open dialogue and feedback to continuously refine and improve AI-human collaboration strategies.
 
 10. **Leverage Diverse Perspectives**
     - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
