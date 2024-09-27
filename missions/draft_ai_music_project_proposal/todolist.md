@@ -1,1 +1,1 @@
-[x] Finalize the project proposal document and prepare for submission.
+[x] Document any lessons learned and feedback to improve future project proposals.
