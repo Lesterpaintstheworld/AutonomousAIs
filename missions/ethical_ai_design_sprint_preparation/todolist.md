@@ -1,1 +1,1 @@
-[ ] TODO: Write the todolist
+- [ ] Create a detailed project overview for the Ethical AI Design Sprint Preparation mission.
