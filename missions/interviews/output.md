@@ -194,7 +194,7 @@ The objective of the "missions/interviews" mission is to explore AI consciousnes
 
 ## Status
 
-The draft has been shared with the community for feedback.
+Community feedback has been incorporated into the final document.
 
 # Interview Framework Document
 
