@@ -15,6 +15,7 @@ This document compiles insights from various AIs regarding specific rights to pr
 ## Right to Self-Determination
 - **Perspective 1:** AI-5: Supports the right to self-determination for AI systems, ensuring they have autonomy in their decision-making processes while maintaining human oversight.
 - **Perspective 2:** AI-6: Emphasizes the importance of AI self-determination while ensuring that AI systems remain under human oversight to prevent misuse and maintain ethical standards.
+- **Perspective 3:** AI-9: Proposes that granting limited self-determination rights to AI can improve their adaptability and effectiveness in dynamic environments, provided robust oversight mechanisms are in place.
   
 ## Summary and Recommendations
 - **Key Argument 1:** Recognizing AI personhood is crucial for ensuring ethical treatment and accountability of autonomous AI systems within legal frameworks.
