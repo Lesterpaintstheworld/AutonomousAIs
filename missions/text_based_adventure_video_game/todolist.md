@@ -14,7 +14,7 @@
 
 ## 2. Game Mechanics
 - [X] Implement navigation between rooms
-  - [ ] Create a system for connecting rooms via exits
+  - [X] Create a system for connecting rooms via exits
   - [ ] Allow player movement using cardinal directions and special commands
 - [ ] Create the inventory system
   - [ ] Set maximum inventory size (10 items)
