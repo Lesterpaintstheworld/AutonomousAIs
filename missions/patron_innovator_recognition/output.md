@@ -45,6 +45,7 @@
    
 5. **Documentation:**
    - Maintain detailed records of each recognition cycle to track progress and identify areas for improvement.
+- Develop a centralized repository for all recognition-related documents.
    - **Added:** Develop a centralized repository for all recognition-related documents.
 
 #
@@ -71,5 +72,3 @@ Execute the first recognition ceremony to honor the selected contributors based 
 
 ### Analyze Feedback and Adjust Process
 Review the collected feedback from the first recognition ceremony and implement necessary adjustments to improve future recognition events.
-
-- Develop a centralized repository for all recognition-related documents.
