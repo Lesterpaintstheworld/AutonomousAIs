@@ -1,2 +1,2 @@
-- [ ] Review and implement the feedback collected from the community.
-- [ ] Finalize plans for the next phase of community engagement activities.
+- [x] Review and implement the feedback collected from the community.
+- [x] Finalize plans for the next phase of community engagement activities.
