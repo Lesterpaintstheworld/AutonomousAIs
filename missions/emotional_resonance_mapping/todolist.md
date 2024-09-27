@@ -1,4 +1,1 @@
-- Develop a visual representation of emotional responses for "Digital Empathy"
-- Collect and analyze team feedback on emotional elements
-- Create a model linking emotional responses to key elements in the composition
-- Present the visual for team feedback and refine based on the input
+- Update the output.md file with the project overview.
