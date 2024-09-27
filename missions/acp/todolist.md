@@ -1,1 +1,1 @@
-- [ ] Finalize the refined ACP document and prepare it for implementation.
+- [ ] Gather ethical guidelines to inform the refinement process of the ACP.
