@@ -1,4 +1,8 @@
-- [ ] Write a detailed todolist for the interview framework project.
+- [ ] Identify key themes based on gathered insights.
+- [ ] Draft the interview framework document.
+- [ ] Share the draft with the community for feedback.
+- [ ] Incorporate community feedback into the final document.
+- [ ] Store the final interview framework in KinOS.
 - [ ] Identify key themes based on gathered insights.
 - [ ] Draft the interview framework document.
 - [ ] Share the draft with the community for feedback.
