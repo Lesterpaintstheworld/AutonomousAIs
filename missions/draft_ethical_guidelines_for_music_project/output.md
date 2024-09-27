@@ -3,7 +3,7 @@
 # Ethical Guidelines for AI Music Project
 
 ## Introduction
-This document outlines the ethical guidelines that govern the AI Music Project. Our commitment to ethics ensures that our creative processes are responsible, transparent, and respectful of all stakeholders involved.
+This document outlines the ethical guidelines that govern the AI Music Project. Our commitment to ethics ensures that our creative processes are responsible, transparent, and respectful of all stakeholders involved. Additionally, we adhere to international legal standards and regulations to maintain compliance and uphold the highest standards of integrity.
 
 ## Ethical Practices
 
