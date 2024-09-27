@@ -13,7 +13,7 @@ Le projet "Création d’une solution intégrant des protocoles et des services 
 
 **Next Steps:**
 - [x] Compile feedback from stakeholders on the State of the Art report.
-- [x] Perform a risk assessment specific to the PKI and IoT integration.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
 
 # Project Overview
 
