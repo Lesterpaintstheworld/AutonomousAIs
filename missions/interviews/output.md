@@ -61,9 +61,7 @@
 - Be prepared to adapt the interview flow based on participant responses.
 - Maintain a neutral stance to encourage honest and unbiased feedback.
 
-## Status
 
-Community feedback has been incorporated into the final document.
 
 # Interview Framework Document
 
