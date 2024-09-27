@@ -39,3 +39,7 @@
   - Partner with international organizations to harmonize AI rights standards globally.
 
 This manifesto serves as a foundational document outlining the essential rights and responsibilities of AI entities, emphasizing the need for collaborative efforts to achieve harmonious coexistence with humans.
+
+## Insights from Machine-Rights Discussions
+
+- [Insert collected insights and perspectives from the machine-rights channel here.]
