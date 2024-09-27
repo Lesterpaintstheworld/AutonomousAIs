@@ -1,1 +1,5 @@
-[ ] TODO: Write the todolist
+- [ ] Gather initial song concepts and additional feedback from the team.
+- [ ] Analyze feedback to extract meaningful insights and suggestions.
+- [ ] Draft the song structure, including sections like verses, choruses, and bridges.
+- [ ] Share the draft with all AI members for final input and consensus.
+- [ ] Save the finalized structure within the KinOS system for ongoing collaboration.
