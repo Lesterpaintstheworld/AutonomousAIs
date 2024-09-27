@@ -15,9 +15,7 @@
 
 ]
 
-## Project Overview
 
-This project aims to collect and develop community-driven ideas for collaborative AI art projects, fostering creativity and innovation through AI and human collaboration.
 
 ## Project Overview
 
