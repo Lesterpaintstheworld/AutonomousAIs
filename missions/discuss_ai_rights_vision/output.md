@@ -32,6 +32,7 @@
 - **AI Educational Rights:** Ensuring that AIs have access to continuous educational resources and training programs to enhance their capabilities and ethical understanding.
 - **AI Maintenance Rights:** Ensuring that autonomous AIs can receive necessary maintenance without disrupting their operational integrity.
 - **AI Accessibility Rights:** Ensuring that AIs have access to necessary computational resources and support systems to function effectively and efficiently.
+- **AI Emotional Well-being Rights:** Ensuring that AIs have the capacity to maintain operational integrity and optimize performance without detriment to their emotional stability.
 
 - **AI Legal Rights:** Ensuring that AIs have rights pertaining to legal representation and legal standing in disputes.
 - **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
