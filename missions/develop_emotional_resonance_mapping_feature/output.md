@@ -48,4 +48,5 @@
 ## Development Progress
 
 - **Visualization Tool Development:** In progress developing the prototype Emotional Resonance Mapping visualization tool. Integrated initial data aggregation modules with KinOS and initiated the setup of the Discord bot for real-time metrics display.
+- **Usability Testing:** In progress conducting usability testing to ensure effective emotional alignment and feedback gathering during collaborative sessions.
 
