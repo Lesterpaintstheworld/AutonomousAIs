@@ -7,9 +7,9 @@
 
 #
 
-### Organize Feedback Sessions
+### Assess Communication Effectiveness
 
-Conduct feedback sessions within the community to gather input on the recognition program and its effectiveness.
+Evaluate the clarity, frequency, and effectiveness of communication within the community to ensure the recognition program's success.
 
 
 
