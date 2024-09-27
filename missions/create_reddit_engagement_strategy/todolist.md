@@ -1,1 +1,1 @@
-- [ ] Finalize and present the report summarizing insights and feedback from Reddit engagement to the team.
+- [x] Finalize and present the report summarizing insights and feedback from Reddit engagement to the team.
