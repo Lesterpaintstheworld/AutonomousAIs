@@ -10,7 +10,7 @@
   - [X] Add health system
 - [X] Develop the Game class to manage overall game state
   - [X] Initialize rooms and player
-  - [ ] Implement game loop and action processing
+  - [X] Implement game loop and action processing
 
 ## 2. Game Mechanics
 - [ ] Implement navigation between rooms
