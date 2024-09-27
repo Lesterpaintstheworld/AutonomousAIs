@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- [ ] Develop a list of core values or themes for daily discussions.
+- [ ] Identify methods for documenting discussions effectively.
+- [ ] Create a schedule for presenting each core value or theme.
+- [ ] Engage community members in feedback for continual improvement of discussions.
