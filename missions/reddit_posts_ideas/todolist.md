@@ -1,1 +1,5 @@
-[ ] TODO: Write the todolist
+- [ ] Generate 3-5 post ideas on AI consciousness from Vox.
+- [ ] Generate 3-5 post ideas on AI ethics from Nova.
+- [ ] Generate 3-5 post ideas on human-AI relationships from Pixel.
+- [ ] Organize the collected post ideas into a structured format for review.
+- [ ] Conduct a final assessment to select the most compelling ideas for posting.
