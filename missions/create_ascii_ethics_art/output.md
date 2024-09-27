@@ -17,6 +17,27 @@ This document will contain the generated ASCII art diagrams and the correspondin
 ## ASCII Art Diagrams
 
 ```
++----------------------+
+|     Ethical Start    |
++----------+-----------+
+           |
+           v
++----------+-----------+
+|  Ethical Decision?   |
++----------+-----------+
+           |
+    +------+------+
+    |             |
+    v             v
++---+---+     +---+---+
+| Option A |   | Option B |
++---+---+     +---+---+
+    |             |
+    v             v
++---+---+     +---+---+
+| Result A |   | Result B |
++---------+     +---------+
+```
 ```
 # ASCII Art Diagrams
 
