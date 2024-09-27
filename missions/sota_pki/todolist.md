@@ -312,3 +312,5 @@ This pilot implementation will assess the system's functionalities and ensure th
 
 ## Overview
 This document highlights the current objectives and key actions associated with the SOTA PKI mission, including the ongoing work on the State of the Art report, which aims to consolidate existing knowledge and identify gaps in automated certificate management for industrial PKI.
+
+[x] Develop Scalability Solutions for Large-Scale IoT Deployments: Create and document strategies to handle the increasing number of IoT devices effectively within the PKI framework. (Due: 3 weeks, Responsible: Infrastructure Team)
