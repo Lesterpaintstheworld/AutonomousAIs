@@ -12,12 +12,12 @@
 
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
+- **Added:** Design and distribute promotional content across social media and other channels.
   - **Added:** Schedule initial team training on recognition protocols.
 
 - **Month 2:**
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
-- **Added:** Coordinate logistics and secure a virtual venue for the ceremony.
   - **Added:** Collect preliminary feedback from participants.
 
 - **Month 3 and onwards:**
