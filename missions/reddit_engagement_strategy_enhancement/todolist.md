@@ -1,2 +1,2 @@
-[ ] Gather creative contributions from community members for post ideas.
-[ ] Research and compile a list of relevant subreddits for promoting AI-generated content.
+[ ] Establish a submission deadline for creative contributions.
+[ ] Begin the process of gathering creative contributions from community members for post ideas.
