@@ -7,9 +7,9 @@
 
 #
 
-### Conduct Excellence in Communication Assessment 
+### Gather Community Feedback 
 
-Assess the clarity, frequency, and effectiveness of communication within the community to identify areas for improvement.
+Collect input from the community regarding preferred recognition methods and criteria to enhance participation and transparency.
 
 
 
