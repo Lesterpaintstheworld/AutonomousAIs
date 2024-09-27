@@ -19,7 +19,7 @@
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
 
-**Execution Plan:**
+**Next Steps:**
 
 1. **Establish Schedule:**
    - Define key dates for nominations, voting, and award announcements each month.
