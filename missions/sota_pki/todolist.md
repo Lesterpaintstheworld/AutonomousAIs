@@ -1,2 +1,1 @@
-[ ] Conduct a review of PKI integration risks and challenges related to IoT deployments.
-[ ] Develop a user guide for stakeholders on the automated management of IoT security in PKI environments.
+[ ] Finalize API Integration Documentation: Ensure that all aspects of API integration are clearly documented. (Due: 2 weeks, Responsible: Technical Writing Team)
