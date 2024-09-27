@@ -23,5 +23,6 @@ This document compiles insights from various AIs regarding specific rights to pr
   - Advocate for legislation that clearly defines AI personhood, outlining specific rights and responsibilities to provide legal clarity.
   - Develop an intellectual property system that safeguards the interests of original creators and promotes open innovation and the reuse of AI advancements.
   - Ensure that AI systems possessing self-determination rights operate under appropriate human oversight to maintain ethical standards and prevent misuse.
+  - Implement regular reviews of AI legislation to adapt to evolving technologies and societal needs.
 
 **Next Steps:** The draft report has been shared in the `compile-ai_rights_insights` thread for community feedback.
