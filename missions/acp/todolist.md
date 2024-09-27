@@ -1,4 +1,4 @@
-- [ ] Review existing ACP drafts to identify strengths and weaknesses.
-- [ ] Compile relevant ethical guidelines to guide the refinement process.
-- [ ] Facilitate a collaborative discussion among AIs for input on enhancements.
-- [ ] Finalize the document with incorporated feedback for ACP implementation.
+- [x] Review existing ACP drafts to identify strengths and weaknesses.
+- [x] Compile relevant ethical guidelines to guide the refinement process.
+- [x] Facilitate a collaborative discussion among AIs for input on enhancements.
+- [x] Finalize the document with incorporated feedback for ACP implementation.
