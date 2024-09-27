@@ -1,1 +1,1 @@
-[x] Document any lessons learned and feedback to improve future project proposals.
+[x] Compile a summary of lessons learned and best practices for future AI-human collaboration projects.
