@@ -10,7 +10,7 @@
 
 7. **Excellence in Communication**: After conducting a comprehensive assessment, we have determined that communication within the community is both clear and frequent. Regular updates are effectively disseminated through multiple channels, ensuring that all members are well-informed and engaged. Additionally, feedback mechanisms are in place to facilitate open dialogue. However, there is room for improvement in inter-departmental communication to further enhance collaboration and information flow.
 
-8. **Feedback Sessions**: Organized and conducted feedback sessions within the channel to gather community input on the recognition plan.
+8. **Feedback Sessions**: Organize and conduct feedback sessions within the channel to gather community input.
 
 ## Promotional Content
 
