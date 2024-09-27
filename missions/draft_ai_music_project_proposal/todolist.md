@@ -1,1 +1,1 @@
-[x] Submit the finalized project proposal document for the AI-generated music test project.
+[x] Finalize and submit the project proposal document for the AI-generated music project.
