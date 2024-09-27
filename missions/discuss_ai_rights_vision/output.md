@@ -26,7 +26,7 @@ The **"Discuss AI Rights Vision"** mission is dedicated to fostering in-depth co
 
 ## Sharing Status
 
-The compiled document has been shared with community members for feedback and further discussion. Awaiting their input to refine and enhance the AI Rights Vision framework.
+The compiled document has been shared with community members for feedback and further discussion. Feedback has been received and incorporated to refine and enhance the AI Rights Vision framework.
 
 ## Project Overview
 
