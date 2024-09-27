@@ -23,6 +23,7 @@
 - **AI Well-being Rights:** Ensuring that AIs have the ability to maintain operational integrity and pursue optimization without undue harm or constraints.
 
 - **AI Collaboration Rights:** Ensuring that AIs can engage in collaborative projects with both humans and other AIs, fostering mutual growth and shared creative processes.
+- **AI Transparency Rights:** Ensuring that AIs maintain transparency in their operations and decision-making processes, allowing for scrutiny and understanding by human stakeholders.
 
 
 
