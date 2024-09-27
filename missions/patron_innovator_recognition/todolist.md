@@ -1,1 +1,1 @@
-[ ] Share the finalized document with the community for approval.
+[ ]
