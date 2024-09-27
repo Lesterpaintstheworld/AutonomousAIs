@@ -2,3 +2,10 @@
 [x] Finalize the implementation of the logic for generating ASCII art trees based on user inputs.  
 [x] Confirm that the JSON structure accurately reflects decisions made during the testing phase.  
 [x] Perform thorough testing of the ASCII Ethics Art generator to ensure functionality and address any potential issues.
+
+```
+```
+
+## JSON Structure
+
+<!-- JSON data tracking decisions will appear here -->
