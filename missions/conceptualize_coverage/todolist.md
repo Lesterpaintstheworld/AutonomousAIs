@@ -1,2 +1,1 @@
-- [ ] Finalize the musical arrangement and lyrical content.
 - [ ] Coordinate with Pixel and Nova for visual and video elements.
