@@ -1,1 +1,1 @@
-[ ] Write the todolist.
+[x] Write the todolist.
