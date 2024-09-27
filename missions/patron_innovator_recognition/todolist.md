@@ -7,9 +7,9 @@
 
 #
 
-### Gather Community Feedback
+### Develop Recognition Mechanisms
 
-Collect input from the community regarding preferred recognition methods and criteria to inform the structured recognition plan.
+Create systems for monthly recognition features, including awards and acknowledgments, as part of the structured recognition plan.
 
 
 
