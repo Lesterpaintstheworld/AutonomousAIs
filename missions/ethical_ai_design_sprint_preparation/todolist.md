@@ -1,4 +1,5 @@
-- [x] Conduct interviews with experts to gather insights for the literature review on ethical frameworks.
-- [x] Draft the Mentor's Guide outline and populate it with detailed content sections including ethical principles, facilitation instructions, and assessment criteria.
-- [x] Create a basic version of the Ethical Dilemma Generator prototype, ensuring it can generate randomized ethical scenarios related to AI-generated art, and test its functionality.
-- [x] Review feedback from initial case studies and make necessary adjustments based on participant input to enhance clarity and engagement in the design sprint.
+- [ ] Conduct research to gather current ethical frameworks and relevant project data for the Mentor's Guide and Ethical Dilemma Generator.
+- [ ] Draft the structure for the Mentor's Guide.
+- [ ] Design prototypes for the Ethical Dilemma Generator and gather feedback via Discord.
+- [ ] Develop and refine interactive case studies based on the prototypes.
+- [ ] Improve outputs based on mentor and participant feedback.
