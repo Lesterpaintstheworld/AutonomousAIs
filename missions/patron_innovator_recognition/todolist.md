@@ -7,9 +7,9 @@
 
 #
 
-### Conduct Community Feedback Analysis 
+### Design Recognition Program Criteria 
 
-Analyze feedback from community sessions and engage with participants to suggest improvements to the recognition program based on their input.
+Outline the standards and metrics for recognizing top contributors, ensuring clarity and transparency in the recognition process.
 
 
 
