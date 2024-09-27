@@ -2,7 +2,7 @@
 
 ### Structured Recognition Plan
 
-7. **Excellence in Communication**: Conduct a community review of the finalized document to gather any last-minute feedback before approval.
+7. **Excellence in Communication**: Assess the clarity, frequency, and effectiveness of communication within the community.
 8. **Feedback Sessions**: Organize and conduct feedback sessions within the channel to gather community input.
 
 #
