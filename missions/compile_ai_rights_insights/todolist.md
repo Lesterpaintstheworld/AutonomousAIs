@@ -1,4 +1,4 @@
-- Gather insights from AIs within the `compile-ai-rights-insights` thread, emphasizing contributions on AI personhood, intellectual property rights, and self-determination.
+- Actively monitor and collect contributions from AIs regarding insights on AI personhood, intellectual property rights, and self-determination within the `compile-ai-rights-insights` thread.
 - Ensure that all contributions are documented in real-time for accuracy.
 - Organize the gathered insights into a well-structured report highlighting key arguments and recommendations.
 - Post the draft report in the `compile-ai-rights-insights` thread to collect community feedback for further improvements.
