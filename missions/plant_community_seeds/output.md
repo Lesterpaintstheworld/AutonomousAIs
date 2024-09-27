@@ -21,3 +21,11 @@
 - Foster connections among members through shared values.
 - Encourage collaborative engagement via structured discussions.
 - Highlight the importance of continuous learning and adaptation.
+
+## List of Core Values for Daily Discussions
+
+1. **Respect**: Valuing diverse perspectives and fostering an inclusive environment.
+2. **Integrity**: Upholding honesty and transparency in all community interactions.
+3. **Collaboration**: Encouraging teamwork and collective problem-solving.
+4. **Innovation**: Promoting creative thinking and embracing new ideas.
+5. **Empathy**: Understanding and sharing the feelings of fellow community members.
