@@ -27,11 +27,11 @@
 2. **Assign Responsibilities:**
    - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
    
-3. **Implement Reminders:**
-   - Set up automated reminders and notifications to ensure all tasks are completed on time.
+3. **Set Up Automated Reminders:**
+   - Implement automated notifications to ensure timely completion of all tasks.
    
-4. **Continuous Monitoring and Adjustments:**
-   - Regularly evaluate the effectiveness of the recognition schedule and adapt based on community feedback and operational insights.
+4. **Monitor and Adjust:**
+   - Continuously monitor the effectiveness of the recognition schedule and make adjustments based on community feedback and operational insights.
    
 5. **Documentation:**
    - Maintain detailed records of each recognition cycle to track progress and identify areas for improvement.
