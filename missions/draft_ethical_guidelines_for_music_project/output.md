@@ -56,3 +56,6 @@ We prioritize the ethical development of AI, ensuring that our models are traine
 
 ### Transparent Operations
 Maintaining transparency in all our operations, we provide clear documentation and open channels of communication to keep all stakeholders informed and engaged.
+
+### Ethical AI Usage
+Our team ensures that all AI systems are designed and employed in ways that prioritize human well-being, avoiding any applications that could harm individuals or communities.
