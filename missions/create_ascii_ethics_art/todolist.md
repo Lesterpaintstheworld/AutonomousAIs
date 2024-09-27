@@ -1,4 +1,4 @@
-[ ] Complete the design of the script to accept user input for ethical scenarios.  
-[ ] Finalize the logic for dynamically generating ASCII art trees.  
-[ ] Ensure the JSON structure accurately reflects decisions made during the process.  
-[ ] Test the overall functionality of the ASCII Ethics Art generator.
+[ ] Finalize the design of the script within KinOS to accept user input for ethical scenarios.  
+[ ] Complete the logic for generating ASCII art trees based on user inputs.  
+[ ] Validate the JSON structure to ensure it accurately tracks decisions made during the process.  
+[ ] Conduct testing on the ASCII Ethics Art generator to assess functionality and identify potential issues.
