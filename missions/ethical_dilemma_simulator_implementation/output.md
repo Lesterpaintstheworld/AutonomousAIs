@@ -24,6 +24,8 @@
   8. **Situation Ethics**: Assessing ethical dilemmas based on specific contexts.
   9. **Principlism**: Balancing principles like autonomy, beneficence, non-maleficence, and justice.
   10. **Ethical Egoism**: Making decisions that serve one's own interests while considering long-term impacts.
+       11. **Rawlsian Justice**: Ensuring fairness through principles that would be chosen under a veil of ignorance.
+       12. **Ubuntu Ethics**: Emphasizing community and mutual caring as fundamental aspects of morality.
    - Enables switching between frameworks for comparative studies.
 
 4. **User Interface**
