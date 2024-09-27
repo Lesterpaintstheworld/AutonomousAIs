@@ -1,1 +1,1 @@
-- Update the output.md file with the detailed overview of findings and visual representation.
+- Review and incorporate team feedback into the visual representation of emotional responses.
