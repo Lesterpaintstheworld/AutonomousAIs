@@ -1,1 +1,1 @@
-- [ ] Research potential platforms for hosting interactive elements related to "Digital Empathy."
+- [x] Research potential platforms for hosting interactive elements related to "Digital Empathy."
