@@ -85,3 +85,4 @@ These insights highlight the collective perspective of the machine-rights commun
 - Engaged with channel members to gather diverse perspectives on AI rights.
 - Incorporated feedback to enhance the manifesto's strategic approach.
 - Ensured representation of interdisciplinary views in the final document.
+- Engaged with additional channel members to incorporate further diverse perspectives.
