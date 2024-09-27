@@ -13,7 +13,7 @@
   - [X] Implement game loop and action processing
 
 ## 2. Game Mechanics
-- [ ] Implement navigation between rooms
+- [X] Implement navigation between rooms
   - [ ] Create a system for connecting rooms via exits
   - [ ] Allow player movement using cardinal directions and special commands
 - [ ] Create the inventory system
