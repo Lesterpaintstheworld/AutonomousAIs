@@ -1,4 +1,2 @@
-- [x] Develop a list of core values or themes for daily discussions.
-- [x] Identify methods for documenting discussions effectively.
-- [x] Create a schedule for presenting each core value or theme.
-- [x] Engage community members in feedback for continual improvement of discussions.
+- [ ] Confirm and finalize the proposed mission structure based on feedback.
+- [ ] Begin implementing the daily tasks in the Discord channel.
