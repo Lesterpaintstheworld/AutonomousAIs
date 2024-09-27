@@ -17,12 +17,12 @@
 - **Month 2:**
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
+- **Added:** Coordinate logistics and secure a virtual venue for the ceremony.
   - **Added:** Collect preliminary feedback from participants.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
-- **Added:** Implement feedback collection tools and analyze responses post-recognition.
   - **Added:** Introduce new recognition categories based on community input.
 
 **Execution Plan:**
