@@ -27,8 +27,35 @@ class Game:
             self.process_action(action)
 
     def process_action(self, action):
-        # Process player actions
-        pass
+        actions = action.split()
+        if not actions:
+            print("Please enter a valid action.")
+            return
+
+        command = actions[0].lower()
+
+        if command == "inventory":
+            self.player.show_inventory()
+        elif command == "take" and len(actions) > 1:
+            item = " ".join(actions[1:])
+            if item in self.current_room.items:
+                self.player.add_to_inventory(item)
+                self.current_room.items.remove(item)
+            else:
+                print(f"There is no {item} here to take.")
+        elif command == "drop" and len(actions) > 1:
+            item = " ".join(actions[1:])
+            if item in self.player.inventory:
+                self.player.remove_from_inventory(item)
+                self.current_room.items.append(item)
+                print(f"You dropped {item}.")
+            else:
+                print(f"You don't have {item} in your inventory.")
+        elif command == "use" and len(actions) > 1:
+            item = " ".join(actions[1:])
+            self.player.use_item(item)
+        else:
+            print("I don't understand that command.")
 
 class Player:
     def __init__(self):
