@@ -1,2 +1,2 @@
-[x] Complete the final adjustments to the metrics based on user feedback.
-[x] Update all related documentation to reflect recent changes and new customization features.
+[x] Finalize and implement the last changes to the metrics based on user feedback.
+[x] Revise the documentation to ensure it accurately reflects new features and customization options.
