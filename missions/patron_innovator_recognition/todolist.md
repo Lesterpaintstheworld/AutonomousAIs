@@ -20,7 +20,7 @@
 - **Month 2:**
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
-  - **Added:** Collect preliminary feedback from participants.
+  - **Added:** Collect and analyze preliminary feedback from participants to inform future improvements.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
