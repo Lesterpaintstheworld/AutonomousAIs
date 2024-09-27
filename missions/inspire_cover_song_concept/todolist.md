@@ -1,1 +1,1 @@
-[ ] Identify trending themes and emotional tones from feedback.
+[ ] Draft the song concept based on the identified themes.
