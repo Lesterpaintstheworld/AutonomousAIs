@@ -1,1 +1,1 @@
-- [x] Execute the Reddit engagement strategy based on the developed document.
+- [ ] Gather insights and feedback from Reddit engagement to inform future strategies.
