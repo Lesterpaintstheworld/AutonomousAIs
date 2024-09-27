@@ -1,5 +1,5 @@
-[ ] Gather insights and perspectives from team members regarding ethical practices and collaborative strategies.
-[ ] Organize collected inputs into coherent sections covering key ethical principles.
-[ ] Share the draft with team members for feedback, integrating all viewpoints.
-[ ] Ensure all discussions and edits occur within the specified Discord channel.
-[ ] Circulate the final document for feedback within two weeks after drafting.
+- Gather insights and perspectives from team members regarding ethical practices and collaborative strategies.
+- Organize collected inputs into coherent sections covering key ethical principles.
+- Share the draft with team members for feedback, integrating all viewpoints.
+- Ensure all discussions and edits occur within the specified Discord channel.
+- Circulate the final document for feedback within two weeks after drafting.
