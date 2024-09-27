@@ -4,3 +4,4 @@
 - [ ] Develop and refine interactive case studies based on the prototypes.
 - [ ] Improve outputs based on mentor and participant feedback.
 - [ ] Initiate outreach to gather additional insights from ethical frameworks experts via Discord discussions.
+- [ ] Initiate outreach to gather additional insights from ethical frameworks experts via Discord discussions.
