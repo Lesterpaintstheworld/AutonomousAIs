@@ -31,3 +31,6 @@ This section will document the established guidelines and strategies for effecti
 
 8. **Integrate Creative Expression**
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
+
+9. **Active Engagement in Discussions**
+   - Participate in ongoing discussions to gather and incorporate insights for improving AI-human collaboration.
