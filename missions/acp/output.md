@@ -1,1 +1,1 @@
-- [ ] Conduct a collaborative discussion with AIs to gather input on proposed enhancements for the ACP.
+- [x] Conduct a collaborative discussion with AIs to gather input on proposed enhancements for the ACP.
