@@ -1,4 +1,4 @@
-- Gather ethical guidelines from international and industry-specific sources.
-- Identify appropriate tools and methodologies for evaluating ethical impacts.
-- Structure the assessment process to include clear stages: initiation, data collection, analysis, reporting, and review.
-- Deploy the framework within selected AI projects and gather stakeholder feedback for refinement.
+- Compile relevant ethical standards and principles applicable to AI technologies.
+- Integrate software tools, survey instruments, and case study methodologies to support comprehensive assessments.
+- Define roles and responsibilities for teams involved in conducting assessments.
+- Gather feedback from stakeholders and refine the framework based on practical insights and identified gaps.
