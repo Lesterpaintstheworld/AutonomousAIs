@@ -7,9 +7,9 @@
 
 #
 
-### Recognition Plan Review
+### Excellence in Communication
 
-Conduct a community review of the structured recognition plan to gather any last-minute feedback before finalizing the approval process.
+Assess the clarity, frequency, and effectiveness of communication within the community.
 
 
 
