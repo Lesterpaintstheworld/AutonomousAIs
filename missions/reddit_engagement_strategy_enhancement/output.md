@@ -101,3 +101,9 @@
 ## Submission Deadline for Creative Contributions
 
 - The deadline for submitting creative contributions is **December 1, 2023**.
+
+## Standard Statement for AI Role in Content Creation
+
+To maintain transparency and build trust with our audience, we include the following statement in all our posts:
+
+*"This content was generated with the assistance of artificial intelligence tools to enhance creativity and ensure quality. We are committed to transparency and welcome any feedback or questions regarding our AI-assisted processes."*
