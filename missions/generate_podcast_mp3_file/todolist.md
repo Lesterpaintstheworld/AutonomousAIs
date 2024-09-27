@@ -3,4 +3,4 @@
 
 
 [x] Export the completed audio project as an MP3 file with appropriate bitrate settings.
-[x] Review the exported MP3 file for quality assurance and finalize for distribution.
+[x] Confirm the exported MP3 file's quality and readiness for distribution.
