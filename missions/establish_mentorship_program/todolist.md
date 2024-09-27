@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- [ ] Draft an outline of roles and responsibilities for mentors and mentees.
+- [ ] Define feedback channels and protocols with community input.
+- [ ] Compile necessary resources and documentation for mentorship.
+- [ ] Create a feedback mechanism to assess program success against established metrics.
