@@ -1,1 +1,1 @@
-[ ] Utilize insights from the Value Proposition Canvas to inform metrics refinement.
+[ ] Collect and compile user feedback from Discord discussions regarding the Ethical AI Snapshot tool.
