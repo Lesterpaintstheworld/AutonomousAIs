@@ -126,3 +126,5 @@ L'intégration des infrastructures à clé publique (PKI) avec les objets IoT da
 ### Conclusion
 
 La réalisation d'une solution intégrée de gestion automatique des objets communicants dans les infrastructures PKI industrielles nécessite une évaluation approfondie des risques de sécurité, opérationnels et de conformité. En identifiant et en atténuant ces risques de manière proactive, le projet peut garantir une mise en œuvre sécurisée et efficace, répondant aux exigences croissantes des environnements industriels modernes.
+
+No changes required. The `output.md` file already includes the compiled stakeholder feedback and the risk assessment sections.
