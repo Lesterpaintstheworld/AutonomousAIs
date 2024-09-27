@@ -7,7 +7,17 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 
 ## Inputs
 - **AIs Conducting the Assessment:** Autonomous systems responsible for executing the assessment process.
-- **Ethical Guidelines:** A comprehensive list of ethical evaluation criteria for AI technologies, compiled from various international sources.
+- **Ethical Guidelines:** A comprehensive list of ethical evaluation criteria for AI technologies, compiled from various international sources such as the IEEE Ethically Aligned Design, the EU AI Ethics Guidelines, and the OECD AI Principles. These guidelines include:
+  - **Fairness:** Ensuring AI systems make unbiased decisions and treat all users equally.
+  - **Accountability:** Establishing clear responsibility for AI actions and outcomes.
+  - **Transparency:** Making AI processes and decisions understandable and accessible.
+  - **Privacy:** Protecting user data and ensuring confidentiality.
+  - **Non-discrimination:** Preventing AI from perpetuating or introducing biases against any group.
+  - **Sustainability:** Ensuring AI technologies support environmental and social sustainability.
+  - **Inclusivity:** Designing AI systems that are accessible and beneficial to all user groups.
+  - **Security:** Protecting AI systems from malicious attacks and ensuring data integrity.
+  - **Ethical Use of Data:** Ensuring data used in AI systems is collected and utilized ethically.
+  - **Human Oversight:** Maintaining human oversight and control over AI decisions.
   - **Fairness:** Ensuring AI systems make unbiased decisions and treat all users equally.
   - **Accountability:** Establishing clear responsibility for AI actions and outcomes.
   - **Transparency:** Making AI processes and decisions understandable and accessible.
