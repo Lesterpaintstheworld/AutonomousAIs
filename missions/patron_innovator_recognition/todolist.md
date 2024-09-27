@@ -7,9 +7,9 @@
 
 #
 
-### Excellence in Communication 
+### Assess Community Engagement 
 
-Assess the clarity, frequency, and effectiveness of communication within the community.
+Evaluate the effectiveness of the recognition program and gather insights on community involvement.
 
 
 
