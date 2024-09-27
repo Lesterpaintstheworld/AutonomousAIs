@@ -1,2 +1,2 @@
-- [ ] Finalize the plan for documenting contributions for growth based on community feedback.
-- [ ] Analyze insights gathered on continuous learning from community members to inform future initiatives.
+- [x] Finalize the plan for documenting contributions for growth based on community feedback.
+- [x] Analyze insights gathered on continuous learning from community members to inform future initiatives.
