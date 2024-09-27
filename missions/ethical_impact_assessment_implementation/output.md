@@ -58,7 +58,7 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
    - **Analysis and Iteration:** Analyze the collected feedback to identify areas for improvement and update the framework accordingly.
    - **Continuous Improvement:** Establish a process for regular review and updating of the framework to incorporate stakeholder suggestions and address emerging ethical considerations.
 
-5. **Outline Detailed Roles and Responsibilities for the Assessment Team:**
+6. **Outline Detailed Roles and Responsibilities for the Assessment Team:**
    - **Project Manager:** Oversees the entire assessment process, ensuring that all phases are executed effectively and on schedule.
    - **Data Analyst:** Responsible for collecting, analyzing, and interpreting data related to the ethical impacts of AI technologies.
    - **Ethical Compliance Officer:** Ensures that all AI implementations adhere to established ethical guidelines and standards.
