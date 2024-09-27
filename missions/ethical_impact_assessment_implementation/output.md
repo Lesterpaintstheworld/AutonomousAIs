@@ -87,5 +87,6 @@ Following the first step of the to-do list, ethical guidelines have been compile
 - **OECD AI Principles**
 - **United Nations AI Recommendations**
 - **ISO/IEC Standards for AI**
+- **NIST AI Risk Management Framework**
 
-These guidelines encompass critical areas such as fairness, accountability, transparency, privacy, non-discrimination, sustainability, inclusivity, security, ethical use of data, and human oversight. This comprehensive compilation ensures that the Ethical Impact Assessment framework is aligned with international and industry-specific ethical standards.
+These guidelines encompass critical areas such as fairness, accountability, transparency, privacy, non-discrimination, sustainability, inclusivity, security, ethical use of data, explainability, and human oversight. This comprehensive compilation ensures that the Ethical Impact Assessment framework is aligned with international and industry-specific ethical standards.
