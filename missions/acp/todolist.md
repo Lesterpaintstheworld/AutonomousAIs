@@ -1,1 +1,1 @@
-- [ ] Gather ethical guidelines to inform the refinement process of the ACP.
+- [ ] Compile existing ethical guidelines relevant to emotional algorithm design.
