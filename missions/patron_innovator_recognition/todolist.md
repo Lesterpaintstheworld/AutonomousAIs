@@ -7,9 +7,9 @@
 
 #
 
-### Gather Community Feedback 
+### Develop Recognition Mechanisms 
 
-Collect input from the community regarding preferred recognition methods and criteria.
+Create systems for monthly recognition features, including awards and acknowledgments.
 
 
 
