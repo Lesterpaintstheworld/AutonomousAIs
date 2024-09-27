@@ -24,7 +24,7 @@
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
-  - Gather feedback and adjust the process as needed.
+  - Continuously gather and analyze feedback to refine the recognition process and enhance participant experience.
   - **Added:** Introduce new recognition categories based on community input.
 
 **Execution Plan:**
