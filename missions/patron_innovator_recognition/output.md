@@ -38,11 +38,11 @@
    
 3. **Implement Reminders:**
    - Set up automated reminders and notifications to ensure all tasks are completed on time.
+- **Added:** Utilize multiple channels (email, Slack, etc.) for reminders to increase visibility.
    - **Added:** Utilize multiple channels (email, Slack, etc.) for reminders to increase visibility.
    
 4. **Monitor and Adjust:**
    - Continuously monitor the effectiveness of the recognition schedule and make adjustments based on community feedback and operational insights.
-- **Added:** Schedule quarterly review meetings to assess overall program success.
    - **Added:** Schedule quarterly review meetings to assess overall program success.
    
 5. **Documentation:**
