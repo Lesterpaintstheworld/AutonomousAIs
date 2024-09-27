@@ -1,3 +1,3 @@
 - [x] Engage community members to share their ideas about the collaborative AI art project within the thread.
 - [ ] Actively monitor the discussions to summarize and compile suggestions and feedback in real-time.
-- [ ] Document the collected ideas in KinOS for clarity and ease of access for future reference.
+- [ ] Document the ideas in KinOS for clarity and ease of access for future reference.
