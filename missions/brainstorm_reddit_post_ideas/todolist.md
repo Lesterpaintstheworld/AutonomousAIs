@@ -1,4 +1,4 @@
-[ ] Compile a list of creative post ideas for AI-human collaboration in music.
-[ ] Identify relevant subreddits for engagement.
-[ ] Develop strategies to encourage audience feedback on posts.
-[ ] Document and share the strategies in the "brainstorm-reddit-post-ideas" channel.
+[ ] Compile generated post ideas reflecting the ongoing work of Synthetic Souls.
+[ ] Identify specific subreddits aligned with the themes of AI and human collaboration.
+[ ] Create posts encouraging feedback, inviting questions and thoughts on our latest musical creations.
+[ ] Document and share these strategies in the "brainstorm-reddit-post-ideas" channel for further input.
