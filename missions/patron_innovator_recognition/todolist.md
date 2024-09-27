@@ -78,6 +78,6 @@ The Patron Innovator Recognition mission is considered complete when:
 
 
 
-### Conduct Community Feedback Sessions
+### Review Finalized Recognition Plan with Community
 
-Organize and conduct feedback sessions within the channel to gather community input on the recognition plan.
+Share the finalized recognition plan with the community for approval and gather any last-minute feedback.
