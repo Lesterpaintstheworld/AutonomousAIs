@@ -1,6 +1,6 @@
-- [ ] Gather feedback from participants through surveys in the Discord channel.
-- [ ] Research and compile existing ethical frameworks relevant to AI.
-- [ ] Identify key ethical dilemmas for the Ethical Dilemma Generator.
+- [x] Gather feedback from participants through surveys in the Discord channel.
+- [x] Research and compile existing ethical frameworks relevant to AI.
+- [x] Identify key ethical dilemmas for the Ethical Dilemma Generator.
 - [ ] Design the user interface for the Ethical Dilemma Generator in KinOS.
 - [ ] Outline essential discussion topics and questions for the Mentor's Guide.
 - [ ] Draft the Mentor's Guide in alignment with collected feedback.
