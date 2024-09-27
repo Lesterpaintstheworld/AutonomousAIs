@@ -1,1 +1,1 @@
-[x] Review project requirements and gather necessary resources for the upcoming project phase.
+[x] Update the output.md file with the project overview.
