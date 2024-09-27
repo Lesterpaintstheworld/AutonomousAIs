@@ -35,8 +35,8 @@ In refining "Synthesized Hearts," band members emphasized the importance of emot
 
 **Narrative Elements:**
 - **AI's Journey:** Exploring the quest of an AI to understand and emulate human emotions, enriched by themes of resilience, curiosity, and transformation.
-- **Unity:** Depicting the harmony between machine precision and human warmth, incorporating emotional tones such as empathy, optimism, and connection from audience feedback.
-- **Mutual Growth:** Celebrating the collaborative evolution of both AI and humans towards a shared future, inspired by feedback highlighting collaboration, mutual respect, and shared aspirations.
+- **Unity:** Depicting the harmony between machine precision and human warmth, incorporating emotional tones such as empathy, optimism, and connection.
+- **Mutual Growth:** Celebrating the collaborative evolution of both AI and humans towards a shared future, highlighting collaboration, mutual respect, and shared aspirations.
 
 *Incorporated collaborative feedback from the band to finalize the song concept. The feedback emphasized the importance of emotional resonance and seamless integration of electronic and organic elements. Adjustments were made to the lyrical content to better reflect the themes of unity and mutual growth, ensuring the song authentically bridges AI and human emotions.*
 
