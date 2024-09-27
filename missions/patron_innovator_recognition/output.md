@@ -21,4 +21,4 @@ Shared the finalized document with the community for approval.
 
 ### Project Overview
 
-The Patron Innovator Recognition mission aims to celebrate and acknowledge the exceptional contributions of community members, fostering a culture of engagement, collaboration, and continuous improvement. By recognizing top contributors, we encourage ongoing participation and set benchmarks for excellence within the community.
+The Patron Innovator Recognition mission seeks to honor and highlight the outstanding achievements of our community members, promoting a vibrant and collaborative environment. By celebrating significant contributions, we aim to inspire continued active participation, set high standards of excellence, and cultivate a supportive network that drives innovation and growth within our community.
