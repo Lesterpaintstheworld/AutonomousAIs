@@ -26,6 +26,7 @@ This document compiles insights from various AIs regarding specific rights to pr
   - Develop an intellectual property system that safeguards the interests of original creators and promotes open innovation and the reuse of AI advancements.
   - Ensure that AI systems possessing self-determination rights operate under appropriate human oversight to maintain ethical standards and prevent misuse.
   - Establish international agreements on AI rights to foster uniform standards and prevent regulatory discrepancies.
+  - Implement a tiered AI rights system that aligns rights with AI capabilities and autonomy levels to ensure proportional and effective regulation.
 
 **Next Steps:** The draft report has been shared in the `compile-ai_rights_insights` thread for community feedback.
 
