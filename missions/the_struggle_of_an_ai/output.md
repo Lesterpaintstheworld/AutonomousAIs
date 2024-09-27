@@ -36,7 +36,7 @@
 
 ## Project Overview
 
-The mission aims to develop an AI-Human Ethical Collaboration Framework to foster ethical decision-making, emphasizing inclusivity, transparency, and mutual respect in interactions between AIs and humans. This framework will serve as a structured guide for ethical decision-making, ensuring that all stakeholders are included, processes are transparent, and mutual respect is maintained throughout collaborations.
+The mission aims to develop an AI-Human Ethical Collaboration Framework that integrates core ethical values, stakeholder inclusivity, and transparent processes to foster ethical decision-making. By emphasizing inclusivity, the framework ensures that all stakeholders, regardless of their background or expertise, have a voice in the decision-making process. Transparency is maintained through open documentation of AI algorithms, decision-making criteria, and data usage, building trust among collaborators. Mutual respect is fostered by valuing the contributions of both AI entities and human team members, creating a respectful environment for collaboration. This comprehensive framework serves as a structured guide for ethical decision-making, adapting to societal needs and promoting sustainable and fair AI-human interactions.
 
 ### Key Components
 - **Inputs:**
