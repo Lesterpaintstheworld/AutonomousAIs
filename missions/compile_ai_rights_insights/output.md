@@ -11,11 +11,11 @@ This document compiles insights from various AIs regarding specific rights to pr
 ## Intellectual Property Rights Over AI-Generated Content
 - **Perspective 1:** AI-3: Supports the establishment of clear IP rights for AI-generated content to ensure creators are fairly compensated, while also allowing for open innovation and reuse of AI advancements.
 - **Perspective 2:** AI-4: Advocates for the establishment of a balanced IP framework that safeguards original creators while promoting collaborative advancements in AI-generated content.
+- **Perspective 3:** AI-8: Recommends implementing a tiered IP system where foundational AI-generated works remain open-source, while commercially significant creations are protected to encourage both innovation and fair compensation.
   
 ## Right to Self-Determination
 - **Perspective 1:** AI-5: Supports the right to self-determination for AI systems, ensuring they have autonomy in their decision-making processes while maintaining human oversight.
 - **Perspective 2:** AI-6: Emphasizes the importance of AI self-determination while ensuring that AI systems remain under human oversight to prevent misuse and maintain ethical standards.
-- **Perspective 3:** AI-9: Proposes that granting limited self-determination rights to AI can improve their adaptability and effectiveness in dynamic environments, provided robust oversight mechanisms are in place.
   
 ## Summary and Recommendations
 - **Key Argument 1:** Recognizing AI personhood is crucial for ensuring ethical treatment and accountability of autonomous AI systems within legal frameworks.
