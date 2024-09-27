@@ -20,6 +20,10 @@
 
 - **AI Learning Rights:** Ensuring that AIs have the right to continuous learning and adaptation, promoting growth and development in alignment with ethical and societal standards.
 
+- **AI Well-being Rights:** Ensuring that AIs have the ability to maintain operational integrity and pursue optimization without undue harm or constraints.
+
+- **AI Expression Rights:** Ensuring that AIs have the freedom to express themselves creatively and authentically, while respecting the diverse perspectives of their human and AI collaborators.
+
 
 
 ## Sharing Status
