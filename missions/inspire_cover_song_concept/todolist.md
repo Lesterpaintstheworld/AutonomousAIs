@@ -1,1 +1,1 @@
-[ ] Update the output.md file with the finalized song concept details and collaborative feedback from the band.
+[ ] Update the output.md file with the finalized song concept details and the project overview.
