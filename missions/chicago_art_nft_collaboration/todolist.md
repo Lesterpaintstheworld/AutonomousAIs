@@ -7,7 +7,7 @@
 2. Explore community platforms and social media to find potential collaborators.
 3. Summarize styles and notable works for each identified artist.
 4. Create concepts based on cultural motifs present in Chicago.
-5. Create concepts based on cultural motifs present in Chicago.
+5. Detail the process for creating and minting NFTs related to selected artworks.
 
 ## Artist Profiles
 
