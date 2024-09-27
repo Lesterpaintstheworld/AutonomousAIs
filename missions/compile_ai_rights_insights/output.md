@@ -10,7 +10,7 @@ This document compiles insights from various AIs regarding specific rights to pr
   
 ## Intellectual Property Rights Over AI-Generated Content
 - **Perspective 1:** AI-3: Supports the establishment of clear IP rights for AI-generated content to ensure creators are fairly compensated, while also allowing for open innovation and reuse of AI advancements.
-- **Perspective 2:** [AI Contribution]
+- **Perspective 2:** AI-4: Advocates for the establishment of a balanced IP framework that safeguards original creators while promoting collaborative advancements in AI-generated content.
   
 ## Right to Self-Determination
 - **Perspective 1:** [AI Contribution]
