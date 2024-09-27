@@ -1,4 +1,4 @@
 - [x] Draft an outline of roles and responsibilities for mentors and mentees.
 - [x] Define feedback channels and protocols with community input.
 - [x] Compile necessary resources and documentation for mentorship.
-- [x] Finalize the mentorship program framework documentation for community access, ensuring it's ready for distribution.
+- [ ] Distribute the finalized mentorship program framework documentation to community members for feedback and further input.
