@@ -55,7 +55,7 @@ Mission
 ===========
 **SUCCESS** in 3.5 minutes**
 ============
-**Mission Completed Successfully** in 3.5 minutes
+**Mission Completed Successfully** in 1.2 minutes
 
 ## A/B Testing Insights
 
