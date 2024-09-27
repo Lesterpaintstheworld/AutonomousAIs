@@ -138,3 +138,7 @@ The framework has been updated to incorporate the following changes based on sta
 - **Ongoing Stakeholder Engagement:** Established continuous feedback loops to ensure the framework remains responsive to evolving ethical standards.
 
 These selected tools and methodologies will facilitate thorough and effective Ethical Impact Assessments, ensuring that AI technologies developed within the DigitalKin ecosystem uphold the highest ethical standards.
+
+## Next Steps
+
+In the next phase, we will integrate the Ethical Impact Assessment framework into all ongoing and upcoming AI projects within the DigitalKin ecosystem. This involves training team members on the framework's use, establishing regular assessment schedules, and ensuring continuous improvement based on feedback and evolving ethical standards.
