@@ -7,18 +7,19 @@
 
 **Timeline:**
 
-- **Month 1:**
-  - Finalize recognition criteria and mechanisms.
-- **Added:** Schedule initial team training on recognition protocols.
+**Timeline:**
+1. **Month 1:**
+   - Finalize recognition criteria and mechanisms.
+   - Schedule initial team training on recognition protocols.
 
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
 - **Added:** Design and distribute promotional content across social media and other channels.
   - **Added:** Schedule initial team training on recognition protocols.
 
-2. **Month 2:**
-   - Launch the first round of recognitions.
-   - Host the initial recognition ceremony.
+- **Month 2:**
+  - Launch the first round of recognitions.
+  - Host the initial recognition ceremony.
   - **Added:** Collect preliminary feedback from participants.
 
 - **Month 3 and onwards:**
