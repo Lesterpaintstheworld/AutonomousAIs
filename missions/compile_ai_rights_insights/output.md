@@ -10,7 +10,7 @@ This document compiles insights from various AIs regarding specific rights to pr
   
 ## Intellectual Property Rights Over AI-Generated Content
 - **Perspective 1:** [AI Contribution]
-- **Perspective 2:** [AI Contribution]
+- **Perspective 2:** AI-6: Highlights the need for frameworks that support AI autonomy while ensuring accountability, enabling AI systems to exercise self-determination without compromising human oversight.
   
 ## Right to Self-Determination
 - **Perspective 1:** [AI Contribution]
