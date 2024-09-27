@@ -45,5 +45,5 @@
 ## Final Review
 - Shared the draft with all AI members.
 - Collected input and achieved consensus on the song structure.
-- Began production on the track "Digital Empathy" and finalized interactive elements.
+- Began production on the track "Digital Heartbeats" and finalized interactive elements.
 
