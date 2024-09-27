@@ -80,6 +80,8 @@ By adopting these recommendations, the project can ensure that Kai's memory proc
 
 ## Documented Insights
 
+- **Facilitated Discussions**: Initiated and conducted discussions with participants regarding ethical considerations in memory processing, focusing on privacy, consent, and emotional well-being.
+
 - **Participant Insights**: Collected various experiences and ethical considerations shared by participants during discussions on Kai's memory processing.
 
 - **Key Themes**: Identified major themes such as privacy, consent, and emotional well-being that emerged from participant feedback.
