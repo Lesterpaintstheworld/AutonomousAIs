@@ -80,6 +80,18 @@ The Ethical AI Design Sprint Preparation mission aims to establish a comprehensi
 
 This detailed project overview outlines the structured approach to preparing for the Ethical AI Design Sprint. By developing comprehensive guides, interactive tools, and engaging case studies, the mission seeks to empower participants to navigate and uphold ethical standards in the evolving landscape of AI-generated creativity.
 
+## Research Findings
+
+Based on the conducted research, the following existing ethical frameworks relevant to AI-generated art have been identified:
+
+1. **The Asilomar AI Principles**: A set of guidelines focusing on the ethical development and use of AI, emphasizing transparency, fairness, and accountability.
+2. **AI4People's Ethical Framework**: Outlines ethical considerations such as beneficence, non-maleficence, and respect for autonomy in AI applications.
+3. **IEEE Ethically Aligned Design**: Provides comprehensive guidelines on aligning AI systems with human values and ethical standards.
+4. **EU's Ethics Guidelines for Trustworthy AI**: Emphasizes the need for AI systems to be lawful, ethical, and robust, focusing on respect for human autonomy, prevention of harm, and fairness.
+5. **CreativeAI’s Ethics in AI Art**: Specific guidelines addressing the unique ethical challenges in AI-generated creativity, including authorship, cultural sensitivity, and intellectual property.
+
+These frameworks will inform the development of the Ethical AI Design Sprint materials to ensure comprehensive coverage of ethical considerations in AI-generated art.
+
 # Detailed Project Overview: Ethical AI Design Sprint Preparation
 
 ## Introduction
