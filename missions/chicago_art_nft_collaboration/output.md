@@ -59,6 +59,14 @@
 
 This collaboration aims to celebrate Chicago's vibrant art culture while embracing the innovative potential of NFTs. By partnering with local artists and implementing strategic engagement tactics, we aim to create a meaningful and successful NFT collection that resonates with both art enthusiasts and the broader community.
 
+## Uses
+
+- **Research and Collaboration**: Integrate local art culture with blockchain technologies.
+- **Community Engagement**: Involve artists and the community in NFT creation.
+- **Revenue Generation**: Establish new revenue streams through NFT sales and royalties.
+- **Cultural Preservation**: Preserve Chicago's art heritage through digital mediums.
+- **Educational Value**: Educate the community about NFTs and the integration of digital art.
+
 ## Current Trends in Chicago Art Scene
 
 Chicago's art scene is currently experiencing a surge in digital and interactive installations, reflecting the city's blend of traditional and modern influences. There is a notable emphasis on community-driven projects and collaborations between artists and technologists, paving the way for innovative expressions through technology like augmented reality and blockchain. Additionally, sustainability and social justice themes are prominent, with many artists focusing on these issues in their work. These trends present unique opportunities for integrating NFTs into local art practices, fostering both creative innovation and community engagement.
