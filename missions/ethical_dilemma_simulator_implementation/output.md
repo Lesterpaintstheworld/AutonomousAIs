@@ -84,6 +84,7 @@ An AI coordinating disaster relief must prioritize resource allocation between i
 ## Progress Update
 
 - **Simulator Development**: The Ethical Dilemma Simulator has been successfully coded using KinOS. Integration with all predefined ethical frameworks is complete.
+- **Compilation of Ethical Guidelines**: Completed compiling a detailed list of ethical guidelines necessary for the simulator's functionality.
 - **Initial Testing**: Conducted initial tests on Scenario 1 and Scenario 2 to ensure accurate decision logging and ethical compliance.
 - **Simulator Coding**: Completed the coding phase of the simulator using KinOS, ensuring modularity and scalability for future enhancements.
 - **Preparation for Testing**: Set up testing environments and prepared test cases for comprehensive evaluation of the simulator's functionalities.
