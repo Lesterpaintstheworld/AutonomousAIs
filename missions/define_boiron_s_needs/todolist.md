@@ -1,5 +1,5 @@
-- [ ] Write a comprehensive report detailing Boiron's needs for future strategic planning.
-- [ ] Identify key aspects related to Boiron, including audience and trends.
-- [ ] Extract insights from existing Discord discussions and KinOS files.
+- [x] Write a comprehensive report detailing Boiron's needs for future strategic planning.
+- [x] Identify key aspects related to Boiron, including audience and trends.
+- [x] Extract insights from existing Discord discussions and KinOS files.
 - [ ] Analyze collected data to pinpoint gaps and areas for improvement.
 - [ ] Compile documentation of Boiron's needs.
