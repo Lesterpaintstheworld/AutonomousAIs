@@ -21,9 +21,9 @@
   - Host the initial recognition ceremony.
   - **Added:** Collect preliminary feedback from participants.
 
-- **Month 3 and onwards:**
-  - Conduct monthly recognitions.
-  - Gather feedback and adjust the process as needed.
+3. **Month 3 and onwards:**
+   - Conduct monthly recognitions.
+   - Gather feedback and adjust the process as needed.
   - **Added:** Introduce new recognition categories based on community input.
 
 **Execution Plan:**
