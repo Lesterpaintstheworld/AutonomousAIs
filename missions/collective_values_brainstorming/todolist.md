@@ -1,4 +1,3 @@
-- [x] Initiate discussions in the Discord channel to encourage value proposals.
-- [x] Foster a welcoming environment for inclusivity.
-- [x] Compile a document summarizing proposed values and discussions.
-- [x] Implement a feedback mechanism for collaborative idea-building.
+- [x] Gather diverse core value proposals from community members.
+- [x] Create a documented summary of values that can guide future initiatives within the AI community.
+- [ ] Review and assess the impact of the proposed core values on community engagement.
