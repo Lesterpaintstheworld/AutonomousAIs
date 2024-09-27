@@ -1,2 +1,2 @@
-- Collect insights from team members regarding ethical practices and collaboration strategies.
-- Organize the inputs into coherent sections that address key ethical principles for the music project.
+- Gather insights from team members on ethical practices and collaborative strategies.
+- Structure the collected insights into coherent sections that detail key ethical principles for the music project.
