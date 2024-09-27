@@ -14,8 +14,8 @@
 
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
-- **Added:** Design, create, and distribute promotional content across social media and other channels to maximize visibility.
-  - **Added:** Schedule initial team training on recognition protocols.
+- **Added:** Design and distribute promotional content across social media and other channels.
+  - **Added:** Schedule initial team training on recognition protocols and evaluate training effectiveness.
 
 - **Month 2:**
   - Launch the first round of recognitions.
