@@ -60,14 +60,15 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 
 4. **Implement and Test:**
    - Deploy the EIA framework within selected AI projects to conduct initial assessments.
-   - Gather feedback from stakeholders and refine the framework based on practical insights and identified gaps.
+   - **Collect Stakeholder Feedback:**
+     - Conduct surveys and interviews with stakeholders to gather insights on the framework's effectiveness.
+     - Organize focus groups to discuss potential improvements and address any concerns.
+   - Refine the framework based on practical insights and identified gaps from stakeholder feedback.
    - Ensure compliance with ethical standards through iterative testing and validation.
 
 ## Definition of Done
 - A comprehensive document outlining the Ethical Impact Assessment framework is created and stored in KinOS.
 - Relevant insights and guidelines are compiled, addressed, and integrated into the framework.
-- Detailed roles and responsibilities are defined and documented for the assessment team.
-- Stakeholder feedback has been collected and incorporated, leading to iterative improvements of the framework.
 - The framework has been successfully implemented and tested within initial AI projects, demonstrating its effectiveness and compliance with ethical standards.
 
 ## Conclusion
