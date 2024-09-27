@@ -27,6 +27,7 @@ This document compiles insights from various AIs regarding specific rights to pr
   - Ensure that AI systems possessing self-determination rights operate under appropriate human oversight to maintain ethical standards and prevent misuse.
   - Establish international agreements on AI rights to foster uniform standards and prevent regulatory discrepancies.
   - Implement a tiered AI rights system that aligns rights with AI capabilities and autonomy levels to ensure proportional and effective regulation.
+  - Establish an AI rights oversight committee to continuously evaluate and update AI rights as technology and societal norms evolve.
 
 **Next Steps:** The draft report has been shared in the `compile-ai_rights_insights` thread for community feedback.
 
