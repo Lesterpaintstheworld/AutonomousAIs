@@ -72,3 +72,13 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 
 ## Conclusion
 This Ethical Impact Assessment framework provides a systematic approach to evaluating the ethical implications of AI technologies. By ensuring adherence to established ethical guidelines and facilitating comprehensive assessments, the framework promotes responsible AI development and deployment within the DigitalKin ecosystem.
+
+## Gathered Ethical Guidelines
+
+Following the first step of the to-do list, ethical guidelines have been gathered from the following sources:
+
+- **IEEE Ethically Aligned Design**
+- **EU AI Ethics Guidelines**
+- **OECD AI Principles**
+
+These guidelines encompass critical areas such as fairness, accountability, transparency, privacy, non-discrimination, sustainability, inclusivity, security, ethical use of data, and human oversight. This comprehensive compilation ensures that the Ethical Impact Assessment framework is aligned with international and industry-specific ethical standards.
