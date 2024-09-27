@@ -1,6 +1,6 @@
 ## Patron Innovator Recognition Output
 
-### Structured Recognition Plan
+## Overview of Recognition Plan
 
 
 9. **Implement Recognition Schedule**: Set a timeline for monthly recognitions and ensure consistent execution.
