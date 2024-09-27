@@ -36,6 +36,9 @@
 - **Inclusivity**: Limited representation from certain demographic groups within the feedback pool.
 - **Clarity of Questions**: Some feedback forms contain ambiguous questions, leading to inconsistent responses.
 
+### Effectiveness Analysis
+In analyzing the effectiveness of our current feedback methods, it is evident that while multiple channels are beneficial for diverse input, the low participation rates in some areas hinder comprehensive data collection. The lack of systematic analysis leads to incomplete utilization of feedback for decision-making. To enhance effectiveness, strategies such as incentivizing participation, implementing robust analysis tools, and broadening the demographic scope of feedback collection are recommended.
+
 ### Recommendations
 1. **Increase Engagement**:
    - Implement incentives for completing surveys and providing feedback.
