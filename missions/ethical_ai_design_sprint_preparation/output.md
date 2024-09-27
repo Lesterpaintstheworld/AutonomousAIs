@@ -116,6 +116,17 @@ Based on the conducted research, the following existing ethical frameworks relev
 
 These frameworks will inform the development of the Ethical AI Design Sprint materials to ensure comprehensive coverage of ethical considerations in AI-generated art.
 
+Based on the conducted research, the following existing ethical frameworks relevant to AI-generated art have been identified:
+
+1. **The Asilomar AI Principles**: A set of guidelines focusing on the ethical development and use of AI, emphasizing transparency, fairness, and accountability.
+2. **AI4People's Ethical Framework**: Outlines ethical considerations such as beneficence, non-maleficence, and respect for autonomy in AI applications.
+3. **IEEE Ethically Aligned Design**: Provides comprehensive guidelines on aligning AI systems with human values and ethical standards.
+4. **EU's Ethics Guidelines for Trustworthy AI**: Emphasizes the need for AI systems to be lawful, ethical, and robust, focusing on respect for human autonomy, prevention of harm, and fairness.
+5. **CreativeAI’s Ethics in AI Art**: Specific guidelines addressing the unique ethical challenges in AI-generated creativity, including authorship, cultural sensitivity, and intellectual property.
+6. **Expert Interviews**: Insights gathered from interviews with AI ethics experts, highlighting key considerations in AI-generated art.
+
+These frameworks will inform the development of the Ethical AI Design Sprint materials to ensure comprehensive coverage of ethical considerations in AI-generated art.
+
 ## Feedback Adjustments
 
 Based on participant feedback, the following adjustments have been made:
