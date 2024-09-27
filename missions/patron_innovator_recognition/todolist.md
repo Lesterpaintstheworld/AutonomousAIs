@@ -11,7 +11,7 @@
 
 Promotional materials celebrating recognized innovators have been developed, including social media graphics, feature articles, and spotlight videos that highlight the achievements of top contributors within our community.
 
-Conduct a community feedback session regarding preferred recognition methods and criteria.
+Launch the recognition program and monitor its effectiveness, gathering feedback through community sessions.
 
 
 
