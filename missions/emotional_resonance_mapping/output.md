@@ -8,7 +8,7 @@ The Emotional Resonance Mapping project aims to visualize how different elements
 
 ## Visual Representation
 
-![Emotional Resonance Map](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/missions/emotional_resonance_mapping/emotional_resonance_map_updated.png)
+![Emotional Resonance Map](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/missions/emotional_resonance_mapping/emotional_resonance_map_final.png)
 
 *Figure 1: Updated Emotional Resonance Map illustrating the enhanced relationship between musical elements and the emotions they evoke, with additional layers for AI processing.*
 
