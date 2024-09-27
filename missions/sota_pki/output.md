@@ -7,6 +7,10 @@ The mission "Création d’une solution intégrant des protocoles et des service
 
 **Next Steps:**
 - [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
 - Perform a risk assessment specific to the PKI and IoT integration.
 
 # State of the Art
@@ -36,14 +40,6 @@ Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elle
 ## Conclusion
 
 L'état de l'art dans la gestion des objets communicants via PKI dans les infrastructures industrielles révèle une avancée notable, mais met également en lumière des défis importants. La scalabilité, l'optimisation pour les objets à ressources limitées, et l'interopérabilité restent des domaines nécessitant des recherches approfondies. L'intégration de protocoles automatisés et sécurisés est essentielle pour répondre aux exigences croissantes de connectivité et de sécurité dans les environnements industriels modernes.
-
-Les axes de recherche incluent l'analyse des défis spécifiques rencontrés dans les environnements industriels, tels que la diversité des contraintes opérationnelles et les conditions de déploiement, ainsi que la présentation de concepts novateurs pour le déploiement automatique des objets communicants sans intervention humaine. Cela implique l'obtention de certificats numériques pour une identité cryptographique locale, garantissant la sécurité des communications entre les objets et les agents de maintenance.
-
-Le projet se concentre sur la mise en œuvre de protocoles ouverts et de services de gestion automatique pour assurer la scalabilité et la robustesse du système. En 2023, l'objectif est d'agréger les acquis des années précédentes pour construire un démonstrateur complet intégrant divers objets et méthodes de communication, démontrant ainsi la faisabilité de la sécurisation des communications, notamment pour les cas d'usage liés à la maintenance industrielle.
-
-Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
-
-En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
 
 Les axes de recherche incluent l'analyse des défis spécifiques rencontrés dans les environnements industriels, tels que la diversité des contraintes opérationnelles et les conditions de déploiement, ainsi que la présentation de concepts novateurs pour le déploiement automatique des objets communicants sans intervention humaine. Cela implique l'obtention de certificats numériques pour une identité cryptographique locale, garantissant la sécurité des communications entre les objets et les agents de maintenance.
 
