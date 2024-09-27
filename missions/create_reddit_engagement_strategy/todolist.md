@@ -1,1 +1,1 @@
-- [x] Gather insights and feedback from Reddit engagement to inform future strategies.
+- [ ] Prepare a report summarizing insights and feedback from Reddit engagement for team discussion.
