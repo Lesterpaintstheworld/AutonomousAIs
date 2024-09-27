@@ -38,6 +38,20 @@ This document will contain the generated ASCII art diagrams and the correspondin
 | Result A |   | Result B |
 +---------+     +---------+
 ```
+
+## JSON Structure
+
+```json
+{
+    "EthicalStart": {
+        "decision": "Ethical Decision?",
+        "options": {
+            "Option A": "Result A",
+            "Option B": "Result B"
+        }
+    }
+}
+```
 ```
 # ASCII Art Diagrams
 
