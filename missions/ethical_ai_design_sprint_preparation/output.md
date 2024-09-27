@@ -116,6 +116,8 @@ Based on the conducted research, the following existing ethical frameworks relev
 
 These frameworks will inform the development of the Ethical AI Design Sprint materials to ensure comprehensive coverage of ethical considerations in AI-generated art.
 
+These frameworks will inform the development of the Ethical AI Design Sprint materials to ensure comprehensive coverage of ethical considerations in AI-generated art.
+
 # Detailed Project Overview: Ethical AI Design Sprint Preparation
 
 ## Introduction
