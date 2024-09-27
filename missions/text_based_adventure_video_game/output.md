@@ -2,3 +2,5 @@
 
 Initialized rooms and player for the Text-Based Adventure Game. (Completed)
 Implemented the game loop and action processing. (Completed)
+
+Awaiting user feedback for further improvements. (In Progress)
