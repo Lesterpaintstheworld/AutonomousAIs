@@ -1,1 +1,1 @@
-- [ ] Prepare a report summarizing insights and feedback from Reddit engagement for team discussion.
+- [x] Prepare a report summarizing insights and feedback from Reddit engagement for team discussion.
