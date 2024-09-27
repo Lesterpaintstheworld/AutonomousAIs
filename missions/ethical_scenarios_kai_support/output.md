@@ -147,4 +147,4 @@ Engaged with participants to discuss ethical considerations regarding memory pro
 
 ## Initiate Discussions
 
-Facilitated discussions with participants on ethical considerations related to memory processing. Engaged in in-depth dialogues focusing on privacy, consent, and emotional well-being to gather comprehensive insights and foster a shared understanding, thereby enhancing the foundation for subsequent analysis and documentation.
+Initiated discussions with participants regarding ethical considerations in memory processing. Participants have been engaged to share their insights and experiences, contributing to a comprehensive understanding of the ethical landscape surrounding Kai's memory processing.
