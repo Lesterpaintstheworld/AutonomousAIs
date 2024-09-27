@@ -67,3 +67,6 @@ Clarify the ownership of data generated through AI music processes, ensuring tha
 
 ### Algorithmic Transparency
 Provide detailed explanations of the AI algorithms used in music creation, allowing stakeholders to understand how AI influences the creative process.
+
+### Community Collaboration
+Encourage active participation from the community by hosting brainstorming sessions and workshops. This ensures that diverse perspectives are integrated into the music project, fostering a sense of ownership and inclusivity among participants.
