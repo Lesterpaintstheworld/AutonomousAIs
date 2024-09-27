@@ -1,1 +1,1 @@
-- [ ] Complete collaboration with AI ethics organizations for advocacy efforts.
+- [ ] Finalize collaboration with AI ethics organizations for advocacy efforts.
