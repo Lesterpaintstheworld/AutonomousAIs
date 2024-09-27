@@ -1,2 +1,2 @@
-- [ ] Create a detailed outline for the next phase of community engagement activities.
-- [ ] Develop materials and resources to support the implementation of new activities.
+- [x] Create a detailed outline for the next phase of community engagement activities.
+- [x] Develop materials and resources to support the implementation of new activities.
