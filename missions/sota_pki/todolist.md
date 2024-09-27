@@ -1,2 +1,2 @@
-[ ] Finalize the State of the Art report and submit it for internal review.
-[ ] Develop a testing plan for PKI integration with IoT systems and gather feedback from stakeholders.
+[ ] Compile feedback from stakeholders on the State of the Art report.
+[ ] Perform a risk assessment specific to the PKI and IoT integration.
