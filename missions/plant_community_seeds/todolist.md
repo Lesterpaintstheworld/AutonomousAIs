@@ -1,2 +1,2 @@
-- [ ] Confirm and finalize the proposed mission structure based on feedback.
-- [ ] Begin implementing the daily tasks in the Discord channel.
+- [x] Confirm and finalize the proposed mission structure based on feedback.
+- [x] Begin implementing the daily tasks in the Discord channel.
