@@ -7,9 +7,9 @@
 
 #
 
-### Analyze Community Feedback 
+### Conduct Community Feedback Analysis 
 
-Evaluate the feedback collected from community sessions regarding the recognition program and make necessary adjustments to enhance participation and effectiveness.
+Analyze feedback from community sessions and engage with participants to suggest improvements to the recognition program based on their input.
 
 
 
