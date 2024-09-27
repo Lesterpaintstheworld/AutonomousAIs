@@ -1,1 +1,3 @@
-[ ] TODO: Write the todolist
+- [ ] Facilitate discussions to collect community ideas for the collaborative AI art project.
+- [ ] Monitor and summarize community feedback in real-time.
+- [ ] Document all collected ideas in KinOS for future reference.
