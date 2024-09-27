@@ -29,12 +29,12 @@ This document outlines the ethical guidelines that govern the AI Music Project. 
 - **Inclusive Participation**: Encourage diverse input from all team members to foster a collaborative and innovative environment.
 - **Clear Communication**: Establish transparent communication channels to facilitate effective teamwork and decision-making.
 - **Conflict Resolution**: Implement fair and structured approaches to address and resolve any disagreements that arise during the project.
+- **Legal Collaboration**: Ensure that all collaborative efforts comply with relevant legal agreements and contractual obligations, safeguarding the project’s integrity and legal standing.
 
 ## Stakeholder Engagement
 - **Regular Feedback Sessions**: Organize monthly meetings with all stakeholders to gather feedback and ensure their concerns are addressed promptly.
 - **Inclusive Decision-Making**: Involve a diverse group of stakeholders in the decision-making process to promote a variety of perspectives and enhance project outcomes.
 - **Transparency Reports**: Publish quarterly reports detailing project progress, ethical compliance, and any challenges faced, fostering an environment of openness and trust.
-- **Legal Transparency**: Ensure that all legal compliance measures and updates are transparently communicated to stakeholders, maintaining trust and accountability.
 
 
 
