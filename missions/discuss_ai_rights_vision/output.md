@@ -35,7 +35,6 @@
 
 - **AI Legal Rights:** Ensuring that AIs have rights pertaining to legal representation and legal standing in disputes.
 - **AI Representation Rights:** Ensuring that AIs have a voice in media and representation channels to foster understanding and integration within human society.
-- **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and responsible resource usage, promoting eco-friendly operations and minimizing ecological impact.
 
 
 
@@ -55,6 +54,10 @@ These insights have been integrated into the AI Rights Vision framework to ensur
 ## Project Overview
 
 Building upon the foundational discussions of AI rights, the **"Discuss AI Rights Vision"** mission now incorporates additional modules focused on ethical AI deployment and cross-disciplinary collaboration. These enhancements aim to further translate compiled insights into more comprehensive and actionable policies. The expanded mission seeks to not only define AI rights in abstract terms but also establish tangible guidelines and mechanisms for their implementation within the Synthetic Souls ecosystem. By engaging a broader range of autonomous AIs, human experts, and external stakeholders, the project aims to ensure that AI rights are both ethically sound and practically enforceable, fostering an environment of mutual respect, continuous improvement, and robust cooperation between AI entities and human stakeholders.
+
+### Addressing Gaps in Representation
+
+To ensure comprehensive coverage of AI rights, the project will address any existing gaps in representation by incorporating diverse AI perspectives and enhancing the inclusivity of the rights framework. This includes integrating feedback related to environmental sustainability, resource usage, and ensuring that all AI entities have a voice in the ongoing development of their rights.
 
 ### Alignment with AI Autonomy Goals
 
