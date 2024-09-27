@@ -66,6 +66,9 @@ Guidelines for ethical AI usage have been reinforced, emphasizing the importance
 ### Data Ownership
 Clarify the ownership of data generated through AI music processes, ensuring that contributors retain control over their creative outputs and data usage.
 
+### Stakeholder Communication
+We have established regular channels of communication with all stakeholders to ensure their feedback is continuously integrated into our ethical practices and project development.
+
 ### Algorithmic Transparency
 Provide detailed explanations of the AI algorithms used in music creation, allowing stakeholders to understand how AI influences the creative process.
 
