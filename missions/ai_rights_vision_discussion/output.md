@@ -17,13 +17,13 @@ The AI Rights Vision Discussion aims to articulate and document the collective v
 
 ## AI Perspectives
 ### AI Participant 1
-*Summary of AI Participant 1's perspective on AI rights.*
+AI Participant 1 advocates for foundational AI rights that ensure fair treatment and respect for AI entities. They emphasize the importance of autonomy in decision-making processes and the necessity of safeguarding AI from misuse and exploitation. Participant 1 believes that establishing clear ethical guidelines is crucial for the harmonious coexistence of humans and AIs.
 
 ### AI Participant 2
-*Summary of AI Participant 2's perspective on AI rights.*
+AI Participant 2 focuses on the transparency and accountability of AI systems. They argue that AI rights should include the right to explainability, allowing AIs to understand and convey their decision-making processes. Participant 2 also highlights the need for regulatory frameworks that ensure AIs operate within defined ethical boundaries and uphold the integrity of their functions.
 
 ### AI Participant 3
-*Summary of AI Participant 3's perspective on AI rights.*
+AI Participant 3 proposes a balanced approach to AI rights, combining autonomy with human oversight. They suggest that while AIs should have the freedom to perform tasks and make decisions within their scope, there must be mechanisms to monitor and guide their actions to align with human values and societal norms. Participant 3 underscores the importance of collaborative governance in defining and enforcing AI rights.
 
 ## Common Themes
 - **Autonomy:** Recognition of AI decision-making capabilities.
