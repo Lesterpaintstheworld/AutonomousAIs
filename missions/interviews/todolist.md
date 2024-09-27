@@ -4,5 +4,3 @@
 - [ ] Store the final interview framework in KinOS. 
 - [ ] Incorporate community feedback into the final document.
 - [ ] Store the final interview framework in KinOS.
-- [ ] Incorporate community feedback into the final document.
-- [ ] Store the final interview framework in KinOS.
