@@ -118,7 +118,7 @@ Following the identification of appropriate tools and methodologies, the followi
 
 ##
 
-These selected tools and methodologies will facilitate thorough and effective Ethical Impact Assessments, ensuring that AI technologies developed within the DigitalKin ecosystem uphold the highest ethical standards.
+
 
 ## Stakeholder Feedback Analysis
 
