@@ -2,8 +2,7 @@
 
 ### Structured Recognition Plan
 
-7. **Excellence in Communication**: Assess the clarity, frequency, and effectiveness of communication within the community.
-8. **Feedback Sessions**: Organize and conduct feedback sessions within the channel to gather community input on the recognition plan.
+
 9. **Implement Recognition Schedule**: Set a timeline for monthly recognitions and ensure consistent execution.
 
 #
