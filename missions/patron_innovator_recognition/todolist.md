@@ -7,9 +7,9 @@
 
 #
 
-### Assess Community Engagement 
+### Feedback Sessions 
 
-Evaluate the effectiveness of the recognition program and gather insights on community involvement.
+Organize and conduct feedback sessions within the channel to gather community input on the recognition plan.
 
 
 
