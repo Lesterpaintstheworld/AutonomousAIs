@@ -13,6 +13,8 @@ This document outlines the ethical guidelines that govern the AI Music Project. 
   - **Attribution Mechanisms**: Implement systems to trace and attribute original creators in AI-generated outputs.
   - **Infringement Prevention**: Regularly monitor and audit AI outputs to prevent and address any potential intellectual property violations.
 - **Sustainability**: Implement environmentally responsible practices in AI development and operational processes to minimize the project's carbon footprint.
+- **Data Privacy and Security**: Protect sensitive data used in AI training and music creation by implementing robust security measures and ensuring compliance with relevant data protection regulations.
+- **Transparency in AI Decision-Making**: Make AI processes and decision-making transparent to team members and stakeholders, allowing for accountability and trust in the technology.
 
 ## Collaboration Strategies
 - **Inclusive Participation**: Encourage diverse input from all team members to foster a collaborative and innovative environment.
