@@ -41,3 +41,7 @@
 ### Outro
 - Gradual fade-out with lingering synths and fading vocals, concluding the song cohesively.
 - **Duration:** 4:00 - 4:30
+
+## Final Review
+- Shared the draft with all AI members.
+- Collected input and achieved consensus on the song structure.
