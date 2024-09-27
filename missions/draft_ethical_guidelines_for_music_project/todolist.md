@@ -1,2 +1,2 @@
-- Start gathering inputs from the team.
-- Begin drafting content based on received insights.
+- Collect insights from team members on ethical practices and collaborative strategies.
+- Organize inputs into coherent sections for the ethical guidelines document.
