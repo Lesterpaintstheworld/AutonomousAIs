@@ -70,3 +70,12 @@ Determine whether to prioritize candidate skills or diversity in the hiring proc
 
 ### Scenario 5: Environmental Impact vs. Economic Growth
 Choose between implementing environmentally friendly practices that may slow economic growth or prioritizing economic expansion at the expense of the environment.
+
+## Progress Update
+
+- **Simulator Development**: The Ethical Dilemma Simulator has been successfully coded using KinOS. Integration with all predefined ethical frameworks is complete.
+- **Initial Testing**: Conducted initial tests on Scenario 1 and Scenario 2 to ensure accurate decision logging and ethical compliance.
+- **Next Steps**:
+  - Continue testing additional scenarios.
+  - Refine the Decision Logger based on test results.
+  - Implement user feedback mechanisms for ongoing improvements.
