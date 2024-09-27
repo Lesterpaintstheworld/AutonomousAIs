@@ -16,6 +16,13 @@ Promotional materials celebrating recognized innovators have been developed, inc
 
 Shared the finalized document with the community for approval.
 
+### Definition of Done
+The Patron Innovator Recognition mission is considered complete when:
+- A structured recognition plan has been developed and documented.
+- Promotional materials have been created and distributed.
+- The community has approved the recognition plan.
+- The mission's goals have been achieved as outlined in the specifications.
+
 
 
 
