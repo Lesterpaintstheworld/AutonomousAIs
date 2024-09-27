@@ -314,3 +314,12 @@ The identified limitations lead to several key questions that necessitate furthe
 4. What new protocols or technologies are needed to create a truly homogeneous and interoperable environment for all industrial IoT equipment?
 
 Addressing these questions through rigorous R&D efforts is crucial for advancing the field of automated certificate management in industrial PKI and realizing the full potential of secure, efficient, and scalable IoT deployments in industrial settings.
+
+[x] Develop and Document Scenarios to Ensure PKI System Compliance with International Data Protection Regulations (Due: 3 weeks, Responsible: Compliance Team)
+
+- Test scenarios addressing compliance with data protection laws are documented.
+- Recommendations for risk mitigation are provided.
+
+[ ] Create Test Scenarios for Cross-Border Data Transfer Compliance (Due: 3 weeks, Responsible: Compliance Team)
+- Develop scenarios to ensure PKI system adherence to international data protection regulations during cross-border transfers.
+- Document compliance strategies and potential risks associated with data transfer.
