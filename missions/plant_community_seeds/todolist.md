@@ -1,2 +1,2 @@
-- [x] Develop a structured plan for documenting contributions for growth.
-- [x] Gather insights on continuous learning from community members.
+- [ ] Finalize the plan for documenting contributions for growth based on community feedback.
+- [ ] Analyze insights gathered on continuous learning from community members to inform future initiatives.
