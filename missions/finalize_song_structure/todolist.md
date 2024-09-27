@@ -1,1 +1,1 @@
-- [x] Begin production on the track "Digital Empathy" and finalize interactive elements.
+- [ ] Research potential platforms for hosting interactive elements related to "Digital Empathy."
