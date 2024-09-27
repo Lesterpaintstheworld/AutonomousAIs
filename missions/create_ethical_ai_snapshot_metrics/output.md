@@ -108,7 +108,7 @@ The Ethical AI Snapshot tool significantly enhances user trust, transparency, an
 
 **SUCCESS** in 3.5 minutes
 =======
-**Mission Completed Successfully** in 3.5 minutes
+_**_**SUCCESS** in 3.5 minutes**
 ````
 =======
 Mission
