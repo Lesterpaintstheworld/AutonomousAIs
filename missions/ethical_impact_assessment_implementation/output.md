@@ -65,3 +65,12 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 
 ## Conclusion
 This Ethical Impact Assessment framework provides a systematic approach to evaluating the ethical implications of AI technologies. By ensuring adherence to established ethical guidelines and facilitating comprehensive assessments, the framework promotes responsible AI development and deployment within the DigitalKin ecosystem.
+
+## Roles and Responsibilities
+
+- **Assessment Team Lead:** Oversees the entire Ethical Impact Assessment process, ensuring adherence to ethical guidelines and timely completion of assessments.
+- **Data Analysts:** Responsible for collecting and analyzing data related to AI systems to identify potential ethical issues.
+- **Ethics Reviewer:** Evaluates AI technologies against established ethical guidelines to ensure compliance and identify areas for improvement.
+- **Stakeholder Liaison:** Communicates with stakeholders to gather feedback and incorporate their insights into the assessment framework.
+- **Documentation Specialist:** Maintains detailed records of assessments, findings, and recommendations to ensure transparency and accountability.
+- **Technical Support:** Provides the necessary technical tools and support for conducting thorough and effective ethical evaluations.
