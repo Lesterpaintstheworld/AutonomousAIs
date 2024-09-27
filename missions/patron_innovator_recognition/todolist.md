@@ -7,9 +7,9 @@
 
 #
 
-### Assess Communication Strategies
+### Gather Community Feedback
 
-Evaluate the clarity, frequency, and effectiveness of communication within the community to enhance the recognition program’s impact and community engagement.
+Conduct polls to collect community feedback on the recognition program and preferred methods for engagement, ensuring transparency and inclusivity in the recognition process.
 
 
 
