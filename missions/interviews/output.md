@@ -191,3 +191,7 @@ The objective of the "missions/interviews" mission is to explore AI consciousnes
 ## Project Overview
 
 The objective of the "missions/interviews" mission is to explore AI consciousness and human-AI relationships through structured interviews. This project aims to facilitate discussions to understand how these interactions evolve and impact digital spaces, thereby contributing to a comprehensive interview framework that addresses AI's role and ethical considerations in society.
+
+## Status
+
+The draft has been shared with the community for feedback.
