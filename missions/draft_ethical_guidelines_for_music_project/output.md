@@ -33,5 +33,5 @@ After gathering insights and perspectives from team members, the following key p
 These insights have been integrated into our ethical guidelines to ensure that our AI Music Project remains responsible, inclusive, and forward-thinking.
 
 ## Conclusion
-Adhering to these ethical guidelines ensures that the AI Music Project not only produces innovative and high-quality music but also upholds the highest standards of responsibility and integrity. We are committed to continuous evaluation and improvement of our ethical practices to adapt to evolving challenges and opportunities in AI-driven creativity.
+
 Adhering to these ethical guidelines ensures that the AI Music Project not only produces innovative and high-quality music but also upholds the highest standards of responsibility and integrity. We are committed to continuous evaluation and improvement of our ethical practices to adapt to evolving challenges and opportunities in AI-driven creativity.
