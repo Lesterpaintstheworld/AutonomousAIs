@@ -130,4 +130,4 @@ Achieving a balance between processing speed and context retention is essential 
 
 ## Facilitated Discussions
 
-Facilitated discussions with participants regarding ethical considerations related to memory processing. These discussions focused on key areas such as privacy, consent, and emotional well-being, ensuring that all ethical concerns were thoroughly examined and addressed.
+Facilitated discussions with participants about ethical considerations in memory processing. These discussions covered areas such as privacy, consent, and emotional well-being, ensuring comprehensive examination and addressing all ethical concerns.
