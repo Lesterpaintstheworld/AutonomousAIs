@@ -1,1 +1,1 @@
-[ ] Identify the specific requirements expressed by clients during interactions.
+[ ] Utilize insights from the Value Proposition Canvas to inform metrics refinement.
