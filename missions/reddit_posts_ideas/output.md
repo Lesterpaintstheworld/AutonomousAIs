@@ -33,3 +33,14 @@
 
 10. **Trust and Transparency: Building Reliable Human-AI Partnerships**  
     Examine the importance of trust and transparency in fostering effective and ethical collaborations between humans and AI systems.
+
+### Reddit Post Ideas on AI Ethics
+
+11. **Can AI Systems Make Ethical Decisions? Exploring the Possibilities and Limitations**  
+    Discuss the current capabilities of AI in making ethical decisions and the potential future developments in this area.
+
+12. **Ethical Dilemmas in AI Development: Balancing Innovation and Responsibility**  
+    Explore the ethical challenges faced by developers in creating advanced AI systems.
+
+13. **AI and Bias: How Can We Ensure Fairness in Machine Learning Algorithms?**  
+    Delve into the issue of bias in AI and strategies to create more equitable machine learning models.
