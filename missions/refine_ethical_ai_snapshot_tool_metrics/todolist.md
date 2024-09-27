@@ -1,1 +1,1 @@
-[ ] Compile comprehensive metrics documentation outlining refined metrics for the Ethical AI Snapshot tool.
+[ ] Create summary reports based on user feedback and proposed changes to the metrics.
