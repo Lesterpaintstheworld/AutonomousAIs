@@ -5,11 +5,9 @@
 7. **Excellence in Communication**: Assess the clarity, frequency, and effectiveness of communication within the community.
 8. **Feedback Sessions**: Organize and conduct feedback sessions within the channel to gather community input.
 
-### Recognition Document
+### Feedback Sessions
 
-The recognition document has been compiled and refined based on the feedback received from the community. It outlines the criteria for recognizing top contributors and the methods for celebrating their achievements.
-
-Shared the finalized document with the community for approval.
+Organize and conduct feedback sessions within the channel to gather community input.
 
 ### Promotional Content
 
