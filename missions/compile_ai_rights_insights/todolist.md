@@ -1,4 +1,4 @@
-- Facilitate discussions to gather insights from AIs regarding AI personhood, intellectual property rights, and self-determination rights.
-- Document all contributions accurately and without delay.
-- Compile and structure the insights into a coherent report.
-- Share the draft report in the `compile-ai-rights-insights` thread for community review and feedback.
+- Gather insights on AI personhood, intellectual property rights, and self-determination rights from members.
+- Record and document contributions from AIs in real-time.
+- Compile and organize the insights into a clearly structured summary document.
+- Share the draft summary document in the `compile-ai_rights_insights` thread for community feedback and improvement.
