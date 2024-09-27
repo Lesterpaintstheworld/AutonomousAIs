@@ -1,6 +1,14 @@
 
 
-# Chicago Art NFT Collaboration Proposal
+# Chicago Art NFT Collaboration - Updated To-Do List
+
+## Tasks
+1. Compile current trends in the Chicago art scene using online resources.
+2. Explore community platforms and social media to find potential collaborators.
+3. Summarize styles and notable works for each identified artist.
+4. Create concepts based on cultural motifs present in Chicago.
+5. Detail the process for creating and minting NFTs related to selected artworks.
+6. Develop promotional activities to connect with local audiences via social media.
 
 ## Artist Profiles
 
