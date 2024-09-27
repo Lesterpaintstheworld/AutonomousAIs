@@ -1,4 +1,4 @@
-- Compile relevant ethical standards and principles applicable to AI technologies.
-- Integrate software tools, survey instruments, and case study methodologies to support comprehensive assessments.
-- Define roles and responsibilities for teams involved in conducting assessments.
-- Gather feedback from stakeholders and refine the framework based on practical insights and identified gaps.
+- Compile a comprehensive list of ethical guidelines applicable to AI from various international sources.
+- Select specific tools and methodologies necessary for evaluating ethical impacts effectively.
+- Outline detailed roles and responsibilities for the assessment team members.
+- Collect stakeholder feedback and iterate on the framework based on their insights and suggestions.
