@@ -116,7 +116,7 @@ _**_**SUCCESS** in 3.5 minutes**
 Mission
 ===========
 _**SUCCESS** in 3.5 minutes**
-_**Mission Completed Successfully** in 1.2 minutes_
+
 ``` Completed Successfully** in 1.2 minutes_
 =======
 # Project Overview
