@@ -19,12 +19,12 @@
 - **Month 2:**
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
+- Collect preliminary feedback from participants.
   - **Added:** Collect preliminary feedback from participants.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
-- Introduce new recognition categories based on community input.
   - **Added:** Introduce new recognition categories based on community input.
 
 **Execution Plan:**
