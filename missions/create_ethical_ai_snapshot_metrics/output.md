@@ -30,6 +30,8 @@
 
 ## Discussion Data Gathered
 
+- Gathered relevant discussion data from the Discord channel regarding ethical AI usage, including user concerns, best practices, and recommendations. This data will inform the development of robust Ethical AI Snapshot Metrics.
+
 - **User Concerns:**
   - Data privacy and security issues.
   - Transparency in AI decision-making processes.
