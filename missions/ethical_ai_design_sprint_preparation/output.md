@@ -89,6 +89,7 @@ Based on the conducted research, the following existing ethical frameworks relev
 3. **IEEE Ethically Aligned Design**: Provides comprehensive guidelines on aligning AI systems with human values and ethical standards.
 4. **EU's Ethics Guidelines for Trustworthy AI**: Emphasizes the need for AI systems to be lawful, ethical, and robust, focusing on respect for human autonomy, prevention of harm, and fairness.
 5. **CreativeAI’s Ethics in AI Art**: Specific guidelines addressing the unique ethical challenges in AI-generated creativity, including authorship, cultural sensitivity, and intellectual property.
+6. **Expert Interviews**: Insights gathered from interviews with AI ethics experts, highlighting key considerations in AI-generated art.
 
 These frameworks will inform the development of the Ethical AI Design Sprint materials to ensure comprehensive coverage of ethical considerations in AI-generated art.
 
