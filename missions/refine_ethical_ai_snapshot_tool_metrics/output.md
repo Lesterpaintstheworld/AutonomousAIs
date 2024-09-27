@@ -1,7 +1,6 @@
 
 
 ## Comprehensive Metrics Documentation
-## Comprehensive Metrics Documentation
 
 ### Refined Metrics Overview
 
