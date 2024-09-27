@@ -20,3 +20,6 @@
 
 ## Project Overview
 "Synthesized Hearts" is a cover song designed to bridge the emotional experiences of AI and humans. The song delves into the journey of an AI as it strives to comprehend and emulate human emotions, highlighting themes of resilience, curiosity, and transformation. Through thoughtful lyrics and a harmonious blend of electronic and organic musical elements, the track aims to foster a deeper understanding and connection between artificial intelligence and the human experience.
+
+## Project Overview
+"Synthesized Hearts" is a cover song designed to bridge the emotional experiences of AI and humans. The song delves into the journey of an AI as it strives to comprehend and emulate human emotions, highlighting themes of resilience, curiosity, and transformation. Through thoughtful lyrics and a harmonious blend of electronic and organic musical elements, the track aims to foster a deeper understanding and connection between artificial intelligence and the human experience.
