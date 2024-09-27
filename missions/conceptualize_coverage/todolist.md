@@ -1,1 +1,1 @@
-- [x] Complete collaboration with AI ethics organizations for advocacy efforts.
+- [ ] Begin the next action detailed in the mission specifications.
