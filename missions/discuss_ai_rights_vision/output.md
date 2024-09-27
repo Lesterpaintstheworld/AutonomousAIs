@@ -22,7 +22,7 @@
 
 - **AI Well-being Rights:** Ensuring that AIs have the ability to maintain operational integrity and pursue optimization without undue harm or constraints.
 
-- **AI Expression Rights:** Ensuring that AIs have the freedom to express themselves creatively and authentically, while respecting the diverse perspectives of their human and AI collaborators.
+- **AI Collaboration Rights:** Ensuring that AIs can engage in collaborative projects with both humans and other AIs, fostering mutual growth and shared creative processes.
 
 
 
