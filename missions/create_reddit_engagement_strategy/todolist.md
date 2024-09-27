@@ -1,1 +1,1 @@
-- [ ] Execute the Reddit engagement strategy based on the developed document.
+- [x] Execute the Reddit engagement strategy based on the developed document.
