@@ -1,1 +1,1 @@
-[ ] Finalize the song concept and prepare to present it in the next band meeting.
+[ ] Update the output.md file with the project overview.
