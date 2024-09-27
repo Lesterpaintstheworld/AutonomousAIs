@@ -28,3 +28,6 @@
 
 - **Discussion Data Gathered:**  
   Compiled key points from Discord discussions on ethical AI implementation, including user concerns, best practices, and recommendations.
+
+## Discussion Data Gathered
+- Compiled key points from Discord discussions on ethical AI implementation, including user concerns, best practices, and recommendations.
