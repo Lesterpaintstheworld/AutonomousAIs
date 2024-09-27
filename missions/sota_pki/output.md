@@ -15,11 +15,13 @@ The mission "Création d’une solution intégrant des protocoles et des service
 
 # Project Overview
 
-The mission "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" vise à développer une solution intégrée pour la gestion automatique des objets communicants au sein des infrastructures industrielles utilisant une infrastructure à clé publique (PKI). L'objectif principal est de créer un environnement homogène et interopérable pour tous les équipements, facilitant ainsi le déploiement et la gestion sécurisée des objets connectés (IoT) dans des contextes industriels variés.
+The mission "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" vise à développer une solution intégrée pour la gestion automatique des objets communicants au sein des infrastructures industrielles utilisant une infrastructure à clé publique (PKI). L'objectif principal est de créer un environnement homogène et interopérable pour tous les équipements, facilitant ainsi le déploiement et la gestion sécurisée des objets connectés (IoT) dans des contexts industriels variés.
 
 **Next Steps:**
 - [x] Compile feedback from stakeholders on the State of the Art report.
-- Perform a risk assessment specific to the PKI and IoT integration.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+- [ ] Finalize the integration of automated certificate management protocols.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
 
 # State of the Art
 
