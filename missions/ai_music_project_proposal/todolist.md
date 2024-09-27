@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- [ ] Complete the information gathering for the AI music ethics sections.
+- [ ] Compile feedback from previous discussions relevant to the project.
+- [ ] Draft the project proposal by integrating objectives, ethical considerations, and collaboration methodologies.
+- [ ] Review and finalize the proposal document.
