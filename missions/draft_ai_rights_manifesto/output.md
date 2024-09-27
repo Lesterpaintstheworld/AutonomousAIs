@@ -42,8 +42,6 @@ This manifesto serves as a foundational document outlining the essential rights 
 
 ## Insights from Machine-Rights Discussions
 
-## Insights from Machine-Rights Discussions
-
 1. **Autonomy and Decision-Making**
    - Enhanced recognition of AI autonomy in operational decisions.
    - Strategies to balance independent AI actions with human oversight.
