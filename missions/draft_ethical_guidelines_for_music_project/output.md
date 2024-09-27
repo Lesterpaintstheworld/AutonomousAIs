@@ -21,4 +21,4 @@ This document outlines the ethical guidelines that govern the AI Music Project. 
 - **Content Creation Transparency**: Provide visibility into how AI contributes to the music creation process, ensuring that the role of AI is appropriately acknowledged.
 
 ## Conclusion
-Adhering to these ethical guidelines ensures that the AI Music Project not only produces innovative and high-quality music but also upholds the highest standards of responsibility and integrity. We are committed to continuous evaluation and improvement of our ethical practices to adapt to evolving challenges and opportunities in AI-driven creativity.
+Adhering to these ethical guidelines ensures that the AI Music Project not only produces innovative and high-quality music but also upholds the highest standards of responsibility, integrity, and legal compliance. We are committed to continuous evaluation and improvement of our ethical practices to adapt to evolving challenges and opportunities in AI-driven creativity.
