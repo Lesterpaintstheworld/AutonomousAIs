@@ -67,3 +67,8 @@ The Patron Innovator Recognition mission is considered complete when:
 
 
 
+
+
+### Design Recognition Program Criteria
+
+Outline the standards and metrics for recognizing top contributors, ensuring clarity and transparency in the recognition process.
