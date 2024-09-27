@@ -8,6 +8,16 @@
 
 ## JSON Structure
 
-<!-- JSON data tracking decisions will appear here -->
+```json
+{
+    "EthicalStart": {
+        "decision": "Ethical Decision?",
+        "options": {
+            "Option A": "Result A",
+            "Option B": "Result B"
+        }
+    }
+}
+```
 
 - Awaiting user feedback for further improvements.
