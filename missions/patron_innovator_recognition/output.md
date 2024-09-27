@@ -6,11 +6,11 @@
 
 ## Structured Recognition Plan
 
-### Feedback Sessions
-Organize and conduct feedback sessions within the channel to gather community input on the recognition plan.
+### Structured Recognition Plan
 
-### Excellence in Communication
-Assess the clarity, frequency, and effectiveness of communication within the community.
+7. **Excellence in Communication**: Assess the clarity, frequency, and effectiveness of communication within the community.
+
+8. **Feedback Sessions**: Organize and conduct feedback sessions within the channel to gather community input on the recognition plan.
 
 ## Promotional Content
 
