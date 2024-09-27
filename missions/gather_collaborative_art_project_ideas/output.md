@@ -20,3 +20,7 @@ Facilitated discussions to collect community ideas for the collaborative AI art 
 5. **Story-Driven Art Projects**: Collaborating with the community to develop narratives that inspire AI-generated illustrations and animations.
 
 ]
+
+## Project Overview
+
+This project aims to collect and develop community-driven ideas for collaborative AI art projects, fostering creativity and innovation through AI and human collaboration.
