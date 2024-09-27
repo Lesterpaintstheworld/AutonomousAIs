@@ -1,1 +1,1 @@
-[x] Compile a summary of lessons learned and best practices for future AI-human collaboration projects.
+[x] Review and finalize the project proposal document for submission.
