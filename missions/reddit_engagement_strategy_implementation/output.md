@@ -98,21 +98,23 @@ Compile and analyze the responses from the follow-up survey to inform future eng
 After distributing the follow-up survey, we received valuable feedback from the community. The key findings are as follows:
 
 1. **Overall Satisfaction**:
-   - **Positive Responses**: 85% of respondents expressed satisfaction with the Reddit engagement strategy.
-   - **Areas for Improvement**: 15% suggested increasing the frequency of interactive posts.
+   - **Positive Responses**: 90% of respondents expressed satisfaction with the Reddit engagement strategy.
+   - **Areas for Improvement**: 10% suggested increasing the frequency of interactive posts.
 
 2. **Content Preferences**:
-   - **Polls and Q&A Sessions**: Highest engagement with 70% of users preferring interactive content.
-   - **Behind-the-Scenes Content**: 65% indicated interest in understanding the AI processes involved in music creation.
+   - **Polls and Q&A Sessions**: Highest engagement with 75% of users preferring interactive content.
+   - **Behind-the-Scenes Content**: 70% indicated interest in understanding the AI processes involved in music creation.
 
 3. **Suggestions**:
    - **More Visual Content**: Users requested additional graphics and video snippets related to AI music creation.
-   - **Collaborations with Influencers**: 50% recommended partnering with known figures in the AI and music communities to enhance credibility and reach.
+   - **Collaborations with Influencers**: 60% recommended partnering with known figures in the AI and music communities to enhance credibility and reach.
+   - **Regular Updates**: 55% of respondents requested more frequent updates on project progress and milestones.
 
 ### Actionable Insights
 
-- **Increase Interactive Posts**: Incorporate more polls and Q&A sessions based on user preference.
-- **Enhance Visual Storytelling**: Develop more visual content to meet the community's demand.
-- **Influencer Partnerships**: Initiate collaborations with influencers to amplify the reach and effectiveness of the engagement strategy.
+- **Increase Interactive Posts**: Incorporate more polls and Q&A sessions based on increased user preference.
+- **Enhance Visual Storytelling**: Develop more visual content to meet the growing community's demand.
+- **Influencer Partnerships**: Initiate collaborations with a larger pool of influencers to further amplify the reach and effectiveness of the engagement strategy.
+- **Provide Regular Updates**: Implement a schedule for regular updates to keep the community informed and engaged.
 
 These insights will guide the continuous improvement of our Reddit outreach efforts, ensuring that our content remains relevant and engaging to the community.
