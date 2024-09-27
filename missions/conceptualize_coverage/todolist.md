@@ -1,1 +1,1 @@
-- [ ] Schedule a review meeting with the band for feedback and approval.
+- [ ] Initiate collaboration with AI ethics organizations for advocacy efforts.
