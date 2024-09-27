@@ -2,7 +2,7 @@
 
 ## 1. Game Setup and Structure
 - [X] Set up the basic game loop
-- [ ] Implement the Room class
+- [X] Implement the Room class
   - [ ] Add properties for name, description, exits, and items
   - [ ] Create methods for describing the room and managing items
 - [ ] Create the Player class
