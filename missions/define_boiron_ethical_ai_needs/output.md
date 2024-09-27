@@ -8,6 +8,7 @@
 - **Fairness:** Implement AI systems that promote fairness and prevent biases in pharmaceutical applications.
 - **Data Privacy:** Protect sensitive patient and research data in compliance with relevant privacy regulations.
 - **Sustainability:** Develop AI solutions that contribute to sustainable practices within the pharmaceutical industry.
+- **Inclusivity:** Ensure AI systems are designed to accommodate diverse user needs and reduce potential biases further.
 
 ## 2. Challenges
 - **Regulatory Compliance:** Navigating the complex and evolving landscape of international AI regulations.
