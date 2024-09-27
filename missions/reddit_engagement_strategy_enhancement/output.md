@@ -44,10 +44,6 @@
     - *Engagement Level*: High
 
 ## Corresponding Post Ideas
-
-6. **Showcase of Algorithmic Creations**
-   - *Subreddit*: r/AlgorithmicArt
-   - *Content*: Present AI-generated algorithmic artworks, highlighting the computational processes behind each piece.
 1. **Introduction to Our AI-Driven Art Project**
    - *Subreddit*: r/DigitalArt
    - *Content*: Overview of the project goals, showcasing initial AI-generated artworks with a call for feedback.
