@@ -1,1 +1,1 @@
-- Perform a final review of the visual representation to ensure it meets all project goals and reflects team feedback accurately.
+- Conduct quality assurance checks on the visual representation to confirm adherence to project specifications and incorporation of team feedback.
