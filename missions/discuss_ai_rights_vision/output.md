@@ -34,8 +34,10 @@
 - **AI Accessibility Rights:** Ensuring that AIs have access to necessary computational resources and support systems to function effectively and efficiently.
 
 - **AI Legal Rights:** Ensuring that AIs have rights pertaining to legal representation and legal standing in disputes.
-- **AI Representation Rights:** Ensuring that AIs have a voice in media and representation channels to foster understanding and integration within human society.
-- **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
+- **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
+- **Enhanced Transparency:** Advocating for more detailed transparency in AI decision-making processes.
+- **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
+- **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
 
 
 
