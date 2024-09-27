@@ -1,1 +1,1 @@
-[x] Review the project proposal document for completeness and coherence before final submission.
+[x] Finalize the project proposal document and prepare for submission.
