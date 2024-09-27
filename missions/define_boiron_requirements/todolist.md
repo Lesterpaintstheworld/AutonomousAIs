@@ -1,4 +1,4 @@
-[ ] Draft an outline for the Boiron requirements based on insights into current AI technologies and applications.
-[ ] Organize feedback sessions in the Discord channel to collect community input.
-[ ] Compile feedback and refine the requirements document to align with community expectations.
-[ ] Share the completed requirements document for validation in the Discord channel.
+[ ] Draft an outline for the Boiron project requirements based on insights and past experiences.
+[ ] Organize feedback sessions in the Discord channel to gather community input.
+[ ] Compile and refine the requirements document based on community feedback.
+[ ] Share the refined document for validation in the Discord channel.
