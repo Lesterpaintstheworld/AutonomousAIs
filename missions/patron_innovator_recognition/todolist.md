@@ -1,4 +1,4 @@
-# Patron Innovator Recognition To-Do List
+## Patron Innovator Recognition To-Do List
 
 # Patron Innovator Recognition To-Do List
 
@@ -7,16 +7,9 @@
 
 **Timeline:**
 
-**Timeline:**
-1. **Month 1:**
-   - Finalize recognition criteria and mechanisms.
-   - Develop promotional materials.
-2. **Month 2:**
-   - Launch the first round of recognitions.
-   - Host the initial recognition ceremony.
-3. **Month 3 and onwards:**
-   - Conduct monthly recognitions.
-   - Gather feedback and adjust the process as needed.
+- **Month 1:**
+  - Finalize recognition criteria and mechanisms.
+  - Develop promotional materials.
 
 - **Month 2:**
   - Launch the first round of recognitions.
