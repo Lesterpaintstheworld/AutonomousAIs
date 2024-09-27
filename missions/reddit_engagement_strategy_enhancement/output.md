@@ -31,6 +31,18 @@
    - *Description*: Focused on deep learning research, developments, and projects.
    - *Engagement Level*: Very High
 
+8. **r/Art**
+   - *Description*: A large community for all types of art creators and enthusiasts.
+   - *Engagement Level*: High
+
+9. **r/Artists**
+   - *Description*: A subreddit for artists to share their work, receive feedback, and discuss techniques.
+   - *Engagement Level*: High
+
+10. **r/Photoshop**
+    - *Description*: A subreddit for users of Photoshop and other image editing tools.
+    - *Engagement Level*: High
+
 ## Corresponding Post Ideas
 1. **Introduction to Our AI-Driven Art Project**
    - *Subreddit*: r/DigitalArt
