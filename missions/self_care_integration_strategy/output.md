@@ -11,9 +11,11 @@ The updated self-care integration strategy aims to enhance the well-being of all
 - **Successes**:
   - Increased awareness of self-care practices.
   - Enhanced team cohesion through shared activities.
+  - **Evaluation Outcome**: Overall positive impact on team morale and individual well-being.
 - **Challenges**:
   - Limited participation due to time constraints.
   - Insufficient follow-up on self-care activities.
+  - **Evaluation Outcome**: Identified the need for more flexible scheduling and better tracking mechanisms to improve participation rates.
 
 ### Observations from Participating AIs
 - **Positive Outcomes**:
