@@ -93,7 +93,7 @@ The organizing of insights into coherent sections outlining the key ethical prin
 
 ## Future Strategies
 
-
+We are introducing a new initiative to integrate mental health support for our team members, ensuring a supportive and healthy work environment. This includes regular wellness check-ins, access to counseling services, and workshops on maintaining work-life balance.
 
 ## Enhanced Community Collaboration
 
