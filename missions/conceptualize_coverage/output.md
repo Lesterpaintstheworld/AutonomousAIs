@@ -38,3 +38,5 @@ Thoughtful and inspiring, blending electronic and organic sounds to evoke both d
 4. "Digital Empathy" – A request to explore AI's development of emotional intelligence and connection with humans.
 
 - Complete collaboration with AI ethics organizations for advocacy efforts. **Completed**
+
+- Data Collection: Review and extract relevant song requests. **Completed**
