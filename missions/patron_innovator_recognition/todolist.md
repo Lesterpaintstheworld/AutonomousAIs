@@ -7,13 +7,14 @@
 
 **Timeline:**
 
-- **Month 1:**
-  - Finalize recognition criteria and mechanisms.
-  - Develop promotional materials.
+**Timeline:**
+1. **Month 1:**
+   - Finalize recognition criteria and mechanisms.
+   - Develop promotional materials.
 
-2. **Month 2:**
-   - Launch the first round of recognitions.
-   - Host the initial recognition ceremony.
+- **Month 2:**
+  - Launch the first round of recognitions.
+  - Host the initial recognition ceremony.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
