@@ -1,6 +1,6 @@
 
 
-Facilitated discussions to collect community ideas for the collaborative AI art project. The following ideas were collected:
+Facilitated discussions to collect community ideas for the collaborative AI art project. The following ideas have been documented in KinOS:
 
 1. **Interactive Digital Installations**: Combining AI-generated visuals with audience participation to create evolving art pieces in real-time.
 2. **AI-Assisted Collaborative Painting**: Hosting virtual painting sessions where AI assists participants in creating large-scale artworks.
