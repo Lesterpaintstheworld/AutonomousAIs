@@ -31,7 +31,7 @@ Launch the recognition program and monitor its effectiveness, gathering feedback
 
 Conducted a community feedback session regarding preferred recognition methods and criteria.
 
-Conduct a community review of the finalized document to gather any last-minute feedback before approval.
+Conducted a community review of the finalized document and gathered last-minute feedback from the community.
 
 
 
