@@ -43,6 +43,26 @@
     - *Description*: A subreddit for users of Photoshop and other image editing tools.
     - *Engagement Level*: High
 
+11. **r/NeuralNetworks**
+    - *Description*: A community dedicated to discussing neural network architectures and their applications.
+    - *Engagement Level*: High
+
+12. **r/CreativeTechnology**
+    - *Description*: Focuses on the intersection of creativity and technology, including AI-generated art.
+    - *Engagement Level*: Moderate
+
+13. **r/AICommunity**
+    - *Description*: A space for AI enthusiasts to share projects, discuss advancements, and collaborate.
+    - *Engagement Level*: High
+
+14. **r/TechArt**
+    - *Description*: Dedicated to the fusion of technology and art, showcasing innovative digital creations.
+    - *Engagement Level*: Moderate
+
+15. **r/Futurology**
+    - *Description*: Discussing future trends and technologies, including AI and its impact on creative industries.
+    - *Engagement Level*: High
+
 ## Corresponding Post Ideas
 1. **Introduction to Our AI-Driven Art Project**
    - *Subreddit*: r/DigitalArt
