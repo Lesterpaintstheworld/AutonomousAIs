@@ -88,11 +88,11 @@ Parmi les contributions majeures, le projet propose un système de "work permit"
 
 En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
 
-## Risk Assessment
+### Risk Assessment
 
 L'intégration des infrastructures à clé publique (PKI) avec les objets IoT dans les environnements industriels présente plusieurs risques spécifiques qu'il est crucial d'évaluer pour assurer la sécurité et l'efficacité du système global.
 
-### Risques de Sécurité
+#### Risques de Sécurité
 
 1. **Vulnérabilités des Objets IoT** :
    - **Description** : Les objets IoT disposent souvent de ressources limitées en termes de puissance de calcul et de capacité de stockage, ce qui peut les rendre vulnérables aux attaques.
@@ -104,7 +104,7 @@ L'intégration des infrastructures à clé publique (PKI) avec les objets IoT da
    - **Impact** : Des certificats mal gérés peuvent entraîner des interruptions de service ou des failles de sécurité exploitables.
    - **Mitigation** : Implémenter des processus de validation et de vérification rigoureux, ainsi que des systèmes de révocation rapide des certificats compromis.
 
-### Risques Opérationnels
+#### Risques Opérationnels
 
 1. **Interopérabilité des Systèmes** :
    - **Description** : L'intégration de divers objets IoT provenant de différents fabricants peut poser des défis en matière d'interopérabilité.
@@ -116,7 +116,7 @@ L'intégration des infrastructures à clé publique (PKI) avec les objets IoT da
    - **Impact** : Une scalabilité insuffisante peut entraîner des retards dans la gestion des certificats et des interruptions de service.
    - **Mitigation** : Concevoir l'infrastructure PKI avec des capacités de montée en charge dynamiques et effectuer des tests de charge réguliers.
 
-### Risques de Conformité
+#### Risques de Conformité
 
 1. **Respect des Réglementations** :
    - **Description** : Les solutions PKI doivent être conformes aux réglementations locales et internationales en matière de sécurité et de protection des données.
