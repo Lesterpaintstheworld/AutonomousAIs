@@ -27,4 +27,22 @@ This mission focuses on creating and implementing the Ethical Dilemma Generator,
     - **Additional Questions Based on Feedback**:
       - In what ways can AI contribute to sustainable development goals?
       - How should ethical guidelines vary across different sectors utilizing AI?
-- **Case Studies**: A curated collection of interactive case studies based on real-world ethical scenarios in AI, designed to promote discussions and understanding of ethical AI practices.
+- **Case Studies**: A curated collection of interactive case studies based on real-world ethical scenarios in AI, including:
+
+    - **Case Study 1: Bias in Recruitment Algorithms**
+      - **Scenario**: An AI system used for screening job applications is found to favor candidates from certain demographic backgrounds.
+      - **Discussion Points**:
+        - Identifying and mitigating biases in data sets.
+        - Ensuring fairness and transparency in AI decision-making processes.
+
+    - **Case Study 2: Privacy Concerns in Smart Home Devices**
+      - **Scenario**: A smart home assistant collects and stores extensive user data, raising privacy and data protection issues.
+      - **Discussion Points**:
+        - Balancing functionality with user privacy.
+        - Implementing robust data protection measures and user consent protocols.
+
+    - **Case Study 3: Autonomous Vehicles and Decision-Making Ethics**
+      - **Scenario**: An autonomous vehicle must make split-second decisions in potential accident scenarios, raising questions about ethical decision-making frameworks.
+      - **Discussion Points**:
+        - Defining ethical guidelines for AI in life-and-death situations.
+        - Accountability and liability in AI-driven technologies.
