@@ -334,5 +334,3 @@ Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elle
 
 La réalisation d'une solution intégrée de gestion automatique des objets communicants dans les infrastructures PKI industrielles nécessite une évaluation approfondie des risques de sécurité, opérationnels et de conformité. En identifiant et en atténuant ces risques de manière proactive, le projet peut garantir une mise en œuvre sécurisée et efficace, répondant aux exigences croissantes des environnements industriels modernes.
 
-
-
