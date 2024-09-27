@@ -66,6 +66,8 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 ## Definition of Done
 - A comprehensive document outlining the Ethical Impact Assessment framework is created and stored in KinOS.
 - Relevant insights and guidelines are compiled, addressed, and integrated into the framework.
+- Detailed roles and responsibilities are defined and documented for the assessment team.
+- Stakeholder feedback has been collected and incorporated, leading to iterative improvements of the framework.
 - The framework has been successfully implemented and tested within initial AI projects, demonstrating its effectiveness and compliance with ethical standards.
 
 ## Conclusion
