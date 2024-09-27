@@ -1,4 +1,4 @@
-- Create a comprehensive list of ethical guidelines to be used in the simulator.
-- Draft simulation scenarios that present moral dilemmas, focusing on key ethical frameworks.
-- Code the simulator implementation using KinOS and prepare for testing.
-- Validate the simulator functionality and document the outcomes for future analysis.
+- Collect and create a comprehensive list of ethical guidelines to be used in the simulator.
+- Outline and draft simulation scenarios that present moral dilemmas.
+- Implement the simulator using KinOS and prepare for testing.
+- Test the simulator functionality and document the outcomes for further analysis.
