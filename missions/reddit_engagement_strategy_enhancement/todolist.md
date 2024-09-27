@@ -1,2 +1,2 @@
-[ ] Establish a submission deadline for creative contributions.
-[ ] Begin the process of gathering creative contributions from community members for post ideas.
+[ ] Research and compile a list of relevant subreddits for promoting AI-generated content.
+[ ] Finalize a standard statement to clarify AI's role in content creation for the posts.
