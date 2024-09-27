@@ -19,7 +19,7 @@ Thoughtful and inspiring, blending electronic and organic sounds to evoke both d
 - **Audience Engagement**: Integrating feedback and song requests to shape the narrative and themes, ensuring alignment with audience interests.
 
 ## Next Steps
-- Review and extract relevant song requests from the song-requests channel.
+
 - Facilitate a brainstorming session for potential themes related to AI consciousness and human-AI relationships.
 - Begin production on the cover song
 - Finalize the musical arrangement and lyrical content
