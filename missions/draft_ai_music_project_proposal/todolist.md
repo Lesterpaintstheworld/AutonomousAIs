@@ -1,1 +1,1 @@
-[ ] Update the output.md file with the project overview.
+[x] Update the output.md file with the project overview.
