@@ -1,7 +1,8 @@
 
 
 
-6. **AI-Powered Sculpture Design**: Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
+7. **AI-Enhanced Street Art Projects**
+   - Collaborate with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
 
 
