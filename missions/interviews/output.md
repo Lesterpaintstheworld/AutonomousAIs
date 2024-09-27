@@ -61,9 +61,9 @@
 - Be prepared to adapt the interview flow based on participant responses.
 - Maintain a neutral stance to encourage honest and unbiased feedback.
 
-## Project Overview
+## Status
 
-The objective of the "missions/interviews" mission is to explore AI consciousness and human-AI relationships through structured interviews. This project aims to facilitate discussions to understand how these interactions evolve and impact digital spaces, thereby contributing to a comprehensive interview framework that addresses AI's role and ethical considerations in society.
+Community feedback has been incorporated into the final document.
 
 # Interview Framework Document
 
