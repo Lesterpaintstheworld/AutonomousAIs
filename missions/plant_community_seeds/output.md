@@ -34,6 +34,8 @@
 
 All tasks in the to-do list have been partially completed. The structured plan to nurture core values in the community has been finalized based on feedback, and the implementation of daily tasks in the Discord channel has been initiated, fostering active participation and meaningful discussions among community members. The next task, finalizing the plan for documenting contributions for growth based on community feedback, has been completed.
 
+- **Feedback Collection**: Successfully gathered feedback from community members on the implemented initiatives through surveys and direct interactions.
+
 ## Summary Report
 
 The initiatives surrounding the daily values discussions have been successfully executed, resulting in enhanced community engagement and a deeper understanding of our core values. Key outcomes include:
