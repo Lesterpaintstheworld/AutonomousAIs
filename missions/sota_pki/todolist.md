@@ -157,6 +157,26 @@ But de la fin d’année : terminer le démonstrateur en environnement représen
 - Energy optimization strategies are identified and implemented.
 - Documentation of changes and expected energy savings provided.
 
+## Energy Optimization Strategies for PKI Operations
+
+### Overview
+This section outlines the strategies implemented to optimize energy consumption for PKI operations in resource-constrained devices.
+
+### Strategies Implemented
+1. **Algorithm Optimization**: Reduced time complexity in the certificate issuance process, resulting in lower energy usage.
+2. **Adaptive Frequency Scaling**: Adjusted computing resources based on operational demand to conserve energy during low activity periods.
+3. **Resource Management Techniques**: Implemented practices to manage resource allocation efficiently, emphasizing energy conservation without sacrificing performance.
+
+### Expected Energy Savings
+- Estimated energy savings of up to 30% in low-power operational modes.
+- Improved battery life of resource-constrained devices indicated by performance metrics.
+
+### Performance Metrics Post-Implementation
+- **Energy Consumption**: Monitored energy usage before and after optimizations to quantify savings.
+- **System Performance**: Recorded performance metrics to ensure system responsiveness and efficiency remained intact.
+
+Overall, these strategies enhance the sustainability of PKI systems while maintaining operational integrity.
+
 # API Integration Documentation for PKI System
 
 ## Overview
