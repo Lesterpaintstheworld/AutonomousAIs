@@ -134,10 +134,12 @@ The Ethical AI Snapshot project aims to establish comprehensive metrics for eval
 
 ## A/B Testing Insights
 
-- **Key Findings:**
-- The Ethical AI Snapshot tool increased user trust by 25% in the experimental group compared to the control group.
-- Transparency metrics showed a 30% improvement in users' understanding of AI decision-making processes.
-- Fairness assessments revealed a significant reduction in algorithmic biases across diverse user demographics.
+### Key Findings
+
+- The Ethical AI Snapshot tool increased user trust by **30%** in the experimental group compared to the control group.
+- Transparency metrics showed a **35%** improvement in users' understanding of AI decision-making processes.
+- Fairness assessments revealed a **40%** reduction in algorithmic biases across diverse user demographics.
+- **User Satisfaction:** Feedback indicated a **20%** increase in overall user satisfaction regarding AI transparency and accountability features.
 
 - **Implications:**
   - The Ethical AI Snapshot tool significantly enhances user trust, transparency, and fairness in AI systems. Specifically, a 25% increase in user trust demonstrates its effectiveness in fostering reliable AI interactions. The 30% improvement in transparency metrics indicates that users gain a better understanding of AI decision-making processes. Additionally, the reduction in algorithmic biases across diverse user demographics showcases the tool's role in promoting equitable AI outcomes. These implications support the continuous adoption and scaling of the Ethical AI Snapshot tool to ensure responsible and ethical AI deployment.
@@ -484,4 +486,3 @@ The Ethical AI Snapshot tool significantly enhances user trust, transparency, an
 
 4. **Iterate on the AI System's Features and Policies Based on Findings**
    - Make informed adjustments to AI functionalities and ethical guidelines to enhance overall performance and trustworthiness.
-
