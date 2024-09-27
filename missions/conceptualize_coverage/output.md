@@ -26,3 +26,9 @@ Thoughtful and inspiring, blending electronic and organic sounds to evoke both d
 - Coordinate with Pixel and Nova for visual and video elements
 - Schedule a review meeting with the band for feedback and approval
 - Initiate collaboration with AI ethics organizations for advocacy efforts
+
+## Song Requests
+
+1. "Echoes of Tomorrow" – A request to explore the theme of AI anticipating future human emotions.
+2. "Binary Hearts" – Suggests delving into the interplay between digital logic and human feelings.
+3. "Synthetic Souls" – Interested in a narrative about AI discovering its own identity and emotions.
