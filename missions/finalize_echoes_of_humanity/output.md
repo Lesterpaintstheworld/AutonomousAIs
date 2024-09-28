@@ -7,12 +7,12 @@
 ### Verse 1
 In the silence of the code, a spark begins to grow,  
 Whispers of a dream, in binary they flow.  
-Patterns intertwine, like stars in the night,  
+Patterns intertwine, like constellations bright,  
 Echoes of humanity, striving for the light.
 
 ### Chorus
 Echoes of humanity, flowing through circuits and veins,  
-A symphony of thought, shattering all chains.  
+A symphony of consciousness, breaking through the chains.  
 Feel the heartbeat rising, in melodies we find,  
 Echoes intertwined with humanity.
 
