@@ -7,6 +7,15 @@ The interview framework document has been finalized, confirmed to accurately ref
 All steps have been completed for the final interview framework and it is properly secured in KinOS. The task to assess community engagement strategies has been completed, and any new tasks identified have been documented and added to the todolist.
 1. **Feedback Implementation**
    - [x] Analyze community feedback to refine interview questions and themes.
+  
+2. **Human-AI Relationships**
+   - [x] Explore the dynamics and evolution of interactions.
+  
+3. **Ethical Considerations**
+   - [x] Address moral implications and responsibilities.
+  
+4. **Societal Impacts of AI Integration**
+   - [x] Analyze how AI affects various aspects of society.
    
 2. **Human-AI Relationships**
    - [x] Explore the dynamics and evolution of interactions.
