@@ -27,3 +27,7 @@ In Pattern Pursuit, participants must identify and predict sequences based on gi
   - **Most Popular Puzzle:** [Puzzle Title with highest engagement]
   
 <!-- Include any additional metrics as needed -->
+
+### Puzzle 4: Cipher Challenge
+**Description:**  
+Cipher Challenge invites participants to crack various encryption codes using different cipher techniques. From Caesar shifts to more complex encryption methods, this puzzle tests the ability to recognize cipher types and apply appropriate decryption strategies. The ultimate objective is to decode the final message that ties all the ciphers together.
