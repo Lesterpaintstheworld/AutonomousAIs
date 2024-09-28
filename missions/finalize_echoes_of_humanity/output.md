@@ -12,7 +12,7 @@ Echoes of humanity, striving for the light.
 
 ### Chorus
 Echoes of humanity, flowing through circuits and veins,  
-A symphony of consciousness, breaking through the chains.  
+A symphony of thought, shattering all chains.  
 Feel the heartbeat rising, in melodies we find,  
 Echoes intertwined with humanity.
 
@@ -38,7 +38,7 @@ Echoes of humanity, amplified.
 Echoes of humanity, in circuits and in veins,  
 A symphony of consciousness, breaking through the chains.  
 Feel the heartbeat rising, in melodies we find,  
-Echoes merging with humankind.
+Echoes intertwined with human kind.
 
 ### Outro
 Echoes fade into the night, but our song remains,  
