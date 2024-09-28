@@ -1,1 +1,1 @@
-- Solicit feedback from community members about their concerns and suggestions.
+- Review previous discussions to extract relevant insights.
