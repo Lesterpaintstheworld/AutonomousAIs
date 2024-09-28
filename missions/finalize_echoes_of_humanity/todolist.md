@@ -1,4 +1,4 @@
-- Modify lyrics to improve melody and resonance. 
+- Organize the song into a coherent format (e.g., verses, chorus, bridge). 
 - Implement proper version control for future reference.
 - Identify sections needing adjustments or enhancements.
 - Modify lyrics to improve melody and resonance.
