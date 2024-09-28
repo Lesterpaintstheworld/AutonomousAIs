@@ -29,9 +29,9 @@ Echoes of humanity, reaching for the stars,
 Together we ascend, as the world moves on.
 
 **Outro:**
-As echoes fade into the dawn,  
+As echoes dissolve into the dawn,  
 Humanity's spirit marches on.  
-Together we will sing, forever strong,  
+Together we'll sing, forever strong,  
 Echoes of humanity, our timeless song.
 
 ## Production Requirements
