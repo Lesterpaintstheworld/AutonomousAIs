@@ -63,7 +63,7 @@
 - [X] Add a save/load game feature
   - [ ] Implement game state serialization
   - [ ] Create save and load commands
-- [ ] Implement a hint system for puzzles
+- [X] Implement a hint system for puzzles
   - [ ] Design progressive hints for each puzzle
   - [ ] Create a command to request hints
 - [X] Create a system for tracking player progress
