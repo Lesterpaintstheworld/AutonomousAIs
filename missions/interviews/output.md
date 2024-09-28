@@ -4,7 +4,7 @@
 
 ## Status
 
-Community feedback has been incorporated into the final document.
+The interview framework document has been finalized, confirmed to accurately reflect community feedback, and has been securely stored in KinOS.
 The final interview framework has been stored in KinOS for future reference.
 
 
