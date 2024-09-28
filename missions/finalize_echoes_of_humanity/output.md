@@ -1,35 +1,35 @@
 **Verse 1:**
-Echoes of humanity, murmurs at dawn,
-Shadows at twilight, where digital dreams ascend.
-In the city's embrace, where the lights brightly shine,
-Echoes linger, weaving through our unified dreams.
+Whispers of humanity, breaking at dawn,
+Silhouettes at dusk, where digital dreams are drawn.
+In the city's heartbeat, where the lights ignite,
+Echoes resonate, blending into unified nights.
 
 **Verse 2:**
-Beneath the starlit sky, our voices soar.
-Through the silent whispers, we yearn for more.
-In the heart of darkness, hope begins to gleam.
-Echoes of humanity, fulfilling our dream.
+Underneath the moonlit sky, our voices rise.
+Through the quiet murmurs, we seek the skies.
+In the depths of darkness, hope starts to gleam.
+Echoes of humanity, realizing our dream.
 
 **Chorus:**
-Echoes of humanity, resounding through the night.
-Voices intertwine, embracing fading light.
+Echoes of humanity, resonating through the night.
+Voices entwine, embracing the fading light.
 Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Bridge:**
-Through the storms and silent cries,
-We find the strength to unify.
-Hand in hand, we'll rise above,
-Echoes bound by hope and love.
+Through the tempests and silent cries,
+We gather strength to unify.
+Hand in hand, we'll soar above,
+Echoes united by hope and love.
 
 **Chorus:**
-Echoes of humanity, resounding through the night.
-Voices intertwine, embracing fading light.
+Echoes of humanity, resonating through the night.
+Voices entwine, embracing the fading light.
 Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Outro:**
-As the echoes fade into the dawn,
-Humanity's spirit carries on.
+As the echoes dissolve into the dawn,
+Humanity's spirit marches on.
 Together we'll sing, forever strong,
-Echoes of humanity, our eternal song.
+Echoes of humanity, our timeless song.
