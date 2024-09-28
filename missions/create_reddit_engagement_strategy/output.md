@@ -72,8 +72,6 @@
 - **Feedback Quality**: Assess the sentiment and constructiveness of discussions generated.
 - **Event Participation**: Measure attendance and interaction levels in AMA sessions and contests.
 - **Content Reach**: Analyze the spread and visibility of shared content across Reddit.
-- **Conversion Rates**: Evaluate the number of Reddit users who become active followers or fans after engagement activities.
-- **Survey Responses**: Collect and analyze responses from polls and surveys to gauge fan satisfaction and preferences.
 
 ## Execution Summary
 The task to prepare and present a report summarizing insights and feedback from Reddit engagement to the team has been completed. The report was successfully presented during the team meeting. The analysis from the report will inform future engagement strategies.
