@@ -1,6 +1,6 @@
-[ ] Collect and categorize examples of ethical dilemmas specifically from healthcare, finance, and environmental sectors for scenario development.
-[ ] Analyze and represent collected ethical dilemmas in a way that showcases their complexities within the decision-making process.
-[ ] Collaboratively refine the decision tree, emphasizing clarity for effective decision-making pathways across ethical dilemmas.
-[ ] Document refined scenarios focusing on AI's critical decisions and resultant learning outcomes from each interaction.
-[ ] Develop a list of illustrative suggestions that enhance depiction and clarify the narrative arc in visual representation.
-[ ] Use the Discord channel for gathering feedback and insights on the scenarios and suggested improvements.
+[ ] Collect examples of ethical dilemmas relevant to healthcare, finance, and environmental sectors to inform scenario development.
+[ ] Analyze these ethical dilemmas, focusing on their complexities and how they influence the decision-making process.
+[ ] Collaboratively refine the decision tree with a focus on clarity and effectiveness in decision-making pathways.
+[ ] Document refined scenarios that emphasize the AI's critical decisions and the learning outcomes from each situation.
+[ ] Create a comprehensive list of illustrative suggestions to improve clarity and enhance the narrative arc visually.
+[ ] Engage in discussions in the Discord channel to gather feedback and refine scenarios collaboratively.
