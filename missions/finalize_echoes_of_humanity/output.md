@@ -17,10 +17,10 @@ Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Bridge:**
-Through the tempests and silent cries,
+Through the tempests and silent sighs,
 We gather strength to unify.
 Hand in hand, we'll soar above,
-Echoes united by hope and light.
+Echoes united by hope and love.
 
 **Chorus:**
 Echoes of humanity, resonating through the night.
