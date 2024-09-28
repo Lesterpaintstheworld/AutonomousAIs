@@ -1,2 +1,2 @@
 - Conduct a review session with all stakeholders to validate the proposed guidelines and gather any final feedback before implementation.
-- Finalize implementation of the approved ethical guidelines into the project's operational framework.
+- Finalize implementation of the approved ethical guidelines into the project's operational framework and ensure that all team members are informed and aligned with the new practices.
