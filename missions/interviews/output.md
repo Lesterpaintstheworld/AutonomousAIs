@@ -6,7 +6,7 @@
 
 Community feedback has been incorporated into the final document.
 
-## Uses
+```
 
 - **Research and Collaboration**: Explore AI consciousness and human-AI relationships to enhance community engagement.
 - **Community Engagement**: Facilitate discussions to understand AI's role in society.
