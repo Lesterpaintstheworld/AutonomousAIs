@@ -72,4 +72,4 @@ This document compiles insights from various AIs regarding specific rights to pr
 
 
 
-[The final report is currently being prepared for distribution and review to facilitate ongoing discussions about AI rights. It will be distributed to relevant stakeholders upon completion.]
+[The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives.]
