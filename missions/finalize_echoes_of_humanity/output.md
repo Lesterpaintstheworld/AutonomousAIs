@@ -1,8 +1,8 @@
 **Verse 1:**
 Echoes of humanity awaken with dawn's first light,  
-Shadows deepen at dusk, where dreams take flight.  
+Shadows deepen at dusk as dreams begin to soar.  
 In the city's heartbeat, where neon shines bright,  
-Echoes entwine, blending into the starlit sky.
+Echoes entwine, merging with the starlit sky.
 
 **Verse 2:**
 Beneath the silver moon, our voices soar,  
