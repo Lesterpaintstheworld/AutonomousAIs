@@ -1,4 +1,4 @@
-- [x] Draft the interview framework document.
+ [x] Draft the interview framework document.
 - [x] Share the draft with the community for feedback. 
 - [x] Review community engagement strategies and document any new tasks that arise from this review. 
 -  
