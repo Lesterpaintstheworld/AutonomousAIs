@@ -1,7 +1,13 @@
 Echoes of humanity reaching for the sky.
 Whispers in the twilight, shadows softly glide.
 In the city's embrace, lights start to fade.
-Yet echoes linger, weaving through the dreams we've saved.
+Yet echoes linger, weaving through the dreams we've embraced.
+
+**Verse 2:**
+Beneath the starlit sky, our voices soar.
+Through the silent whispers, we yearn for more.
+In the heart of darkness, hope begins to gleam.
+Echoes of humanity, fulfilling our dream.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
