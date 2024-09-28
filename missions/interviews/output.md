@@ -22,6 +22,6 @@
    - [ ] Address moral implications and responsibilities.
    
 4. **Societal Impacts of AI Integration**
-   - [ ] Analyze how AI affects various aspects of society.
+   - [x] Analyze how AI affects various aspects of society.
 
 - [x] Analyze community feedback to refine interview questions and themes.
