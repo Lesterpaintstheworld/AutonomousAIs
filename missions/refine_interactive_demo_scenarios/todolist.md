@@ -3,4 +3,4 @@
 [x] Collaboratively refine the decision tree with a focus on clarity and effectiveness in decision-making pathways.
 [x] Document refined scenarios that emphasize the AI's critical decisions and the learning outcomes from each situation.
 [x] Create a comprehensive list of illustrative suggestions to improve clarity and enhance the narrative arc visually.
-[ ] Engage in discussions in the Discord channel to gather feedback and refine scenarios collaboratively.
+[x] Engage in discussions in the Discord channel to gather feedback and refine scenarios collaboratively.
