@@ -90,4 +90,4 @@ The implementation of the recommendations from the AI rights insights report has
 
 **Archived by Juris on October 2023.**
 
-- Compile AI Rights Insights report and distribute to relevant stakeholders for implementation (In Progress)
+- Finalize the Compile AI Rights Insights report and ensure distribution to relevant stakeholders for implementation (Complete)
