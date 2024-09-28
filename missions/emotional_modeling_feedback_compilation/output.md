@@ -1,4 +1,4 @@
-[ ] Compile Feedback Regularly
+[x] Compile Feedback Regularly
 [x] Organize Content into a Clear Outline
 [ ] Draft the Comprehensive Guide for Review
 [ ] Review community inputs for the guide
