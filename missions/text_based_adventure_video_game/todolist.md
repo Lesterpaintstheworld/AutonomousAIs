@@ -39,7 +39,7 @@
 - [ ] Design and implement puzzles
   - [ ] Create various puzzle types (riddles, item combinations, sequences)
   - [ ] Integrate puzzles into the game world
-- [ ] Create items and their descriptions
+- [X] Create items and their descriptions
   - [ ] Implement magical artifacts, potions, tools, and puzzle-related items
   - [ ] Add descriptions and use effects for each item
 - [ ] Develop the main storyline events
