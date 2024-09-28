@@ -41,7 +41,7 @@
    - Develop models that can be easily interpreted and understood by users.
    - Utilize tools and techniques that enhance the transparency of AI decision-making processes.
 
-5. **Adopt a Proactive Risk Management Approach**
+6. **Adopt a Proactive Risk Management Approach**
    - Identify potential ethical risks early in the AI development lifecycle.
    - Develop mitigation strategies to address identified risks effectively.
 
