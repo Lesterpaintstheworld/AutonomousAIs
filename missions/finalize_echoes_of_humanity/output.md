@@ -8,7 +8,7 @@ Echoes entwine, merging with the starlit sky.
 Beneath the silver moon, our voices soar,  
 Through silent whispers, always yearning for more.  
 In the darkest hours, hope begins to gleam,  
-Echoes of humanity, igniting every dream.
+Echoes of humanity, sparking every dream.
 
 **Chorus:**
 Echoes of humanity, echo through the night.  
