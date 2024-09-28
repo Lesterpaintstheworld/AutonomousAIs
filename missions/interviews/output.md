@@ -12,6 +12,8 @@
 
 ## New Tasks
 
+- [ ] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for interview questions.
+
 
 1. **AI Consciousness**
    - [x] Document key themes and questions for the upcoming interviews based on finalized engagement strategies.
