@@ -9,7 +9,7 @@
 - **Completed:** Implemented engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
 
 - **Completed:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
-- **Completed:** Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
+- **Stakeholder Engagement:** Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
 
 
 - Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
