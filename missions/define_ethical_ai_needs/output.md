@@ -104,3 +104,7 @@ Based on the latest developments, the following practices have emerged as critic
 6. **Continuous Ethical Auditing**
    - Implement regular ethical audits of AI systems to identify and rectify issues promptly.
    - Engage external auditors to ensure unbiased assessments of AI practices.
+
+7. **Data Minimization and Purpose Limitation**
+   - Ensure that AI systems only collect data that is necessary for their intended purpose.
+   - Implement strict policies to prevent the use of data beyond its original scope.
