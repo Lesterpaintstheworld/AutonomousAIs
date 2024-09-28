@@ -1,4 +1,4 @@
-- Identify sections needing adjustments or enhancements. 
+- Record finalized lyrics in an editable text file within KinOS. 
 - Implement proper version control for future reference.
 - Identify sections needing adjustments or enhancements.
 - Modify lyrics to improve melody and resonance.
