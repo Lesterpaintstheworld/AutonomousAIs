@@ -8,7 +8,7 @@
 - [x] Incorporate community feedback into the final document.
 - [x] Store the final interview framework in KinOS.
 
-- [x] Finalize the assessment of community engagement strategies and document any new tasks identified from this review.
+
 
 ## New Tasks
 - [x] Document new insights collected from interviews for future reference and analysis.
@@ -20,7 +20,7 @@
 
 - [x] Analyze community feedback to refine interview questions and themes.
 
-
+- [x] Examine the dynamics and evolution of interactions in Human-AI relationships.
 
 - [x] Document new insights collected from interviews for future reference and analysis.
 
