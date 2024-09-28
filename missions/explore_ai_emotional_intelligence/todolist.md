@@ -1,1 +1,5 @@
-[ ] TODO: Write the todolist
+- [ ] Gather community feedback through Discord discussions.
+- [ ] Identify key questions and topics related to emotional intelligence in AI.
+- [ ] Summarize findings from community feedback.
+- [ ] Analyze compiled data to formulate tailored recommendations.
+- [ ] Compile the findings and recommendations into a final report.
