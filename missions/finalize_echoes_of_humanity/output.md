@@ -11,16 +11,16 @@ In the darkest hours, hope begins to gleam,
 Echoes of humanity, igniting every dream.
 
 **Chorus:**
-Echoes of humanity, resonating through the night.  
-Voices intertwine, embracing the fading light.  
+Echoes of humanity, echo through the night.  
+Voices intertwine, embracing fading light.  
 Echoes of humanity, reaching for the stars,  
 Together we ascend, as the world moves on.
 
 **Bridge:**
 Through storms and silent cries,  
-We find the strength to rise.  
-Hand in hand, we'll climb above,  
-Echoes united by hope and love.
+We find the strength to soar.  
+Hand in hand, we'll rise above,  
+Echoes united by hope and more.
 
 **Chorus:**
 Echoes of humanity, echo through the night.  
