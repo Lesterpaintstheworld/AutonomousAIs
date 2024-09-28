@@ -35,3 +35,15 @@ Ever wondered how AI influences our music? 🤖🎧 Dive into the creative proce
 
 **Content**:
 Our upcoming album delves into themes of identity and technology. We'd love to hear your thoughts! How do you see AI shaping the future of music and creativity? Share your ideas and let's discuss! #AIMusic #FutureOfMusic
+
+## Transparency Measures
+
+To build and maintain trust within our community, we are committed to being transparent about the role of AI in our content creation. Our transparency guidelines include:
+
+1. **Disclosing AI Involvement**: Clearly state the use of AI in our music production and content creation in all relevant posts and communications.
+2. **Explaining the Process**: Provide insights into how AI assists in our creative process, including music composition, lyric generation, and content scheduling.
+3. **Open Communication**: Encourage fans to ask questions about our use of AI and provide clear, honest answers to foster understanding and trust.
+4. **Ethical Practices**: Ensure that our use of AI adheres to ethical standards, respecting both creators and the audience while promoting responsible AI usage in the creative industry.
+5. **Continuous Improvement**: Regularly update our community on advancements in our AI tools and methodologies, demonstrating our commitment to leveraging AI responsibly and effectively.
+
+By implementing these transparency measures, we aim to bridge the gap between AI and human creativity, fostering a supportive and informed community around Synthetic Souls.
