@@ -5,6 +5,7 @@
 #### Healthcare
 - **Allocation of Limited Medical Resources:** Deciding how to distribute scarce resources, such as organ transplants or ICU beds, among patients.
 - **Patient Privacy vs. Data Sharing:** Balancing the need for patient confidentiality with the benefits of sharing data for research and improving healthcare outcomes.
+- **End-of-Life Care:** Determining appropriate end-of-life care options, balancing patient autonomy with medical recommendations and ethical considerations.
 
 #### Finance
 - **Ethical Investing vs. Profitability:** Choosing between investment opportunities that offer higher returns but may have unethical practices versus more ethical but less profitable options.
