@@ -32,7 +32,7 @@
 ## 3. Game Content
 - [X] Create all game rooms with descriptions
   - [X] Implement all 9 locations from the design document
-  - [ ] Add detailed descriptions for each room
+  - [X] Add detailed descriptions for each room
 - [ ] Write dialogue for NPCs
   - [ ] Create dialogue options for key characters (Eldrin, Forest Guardian, etc.)
   - [ ] Implement a dialogue system with numbered choices
@@ -40,7 +40,7 @@
   - [ ] Create various puzzle types (riddles, item combinations, sequences)
   - [ ] Integrate puzzles into the game world
 - [ ] Create items and their descriptions
-  - [X] Implement magical artifacts, potions, tools, and puzzle-related items
+  - [ ] Implement magical artifacts, potions, tools, and puzzle-related items
   - [ ] Add descriptions and use effects for each item
 - [ ] Develop the main storyline events
   - [ ] Implement key plot points and character interactions
