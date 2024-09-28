@@ -45,10 +45,6 @@
    - Identify potential ethical risks early in the AI development lifecycle.
    - Develop mitigation strategies to address identified risks effectively.
 
-7. **Foster a Culture of Ethics**
-   - Encourage a workplace culture that prioritizes ethical considerations in all AI projects.
-   - Recognize and reward team members who actively contribute to ethical AI practices.
-
 ### Research Findings on Ethical AI Practices
 
 Based on recent literature and case studies, the following best practices have been identified:
@@ -60,3 +56,7 @@ Based on recent literature and case studies, the following best practices have b
 2. **Continuous Monitoring and Evaluation**
    - Implement ongoing monitoring of AI systems to detect and rectify ethical issues as they arise.
    - Regularly evaluate the impact of AI on users and society to ensure alignment with ethical standards.
+
+3. **Human-Centric Design**
+   - Prioritize user experience and ensure AI systems are designed with the end-user in mind.
+   - Facilitate user control and autonomy over AI interactions to enhance trust and reliability.
