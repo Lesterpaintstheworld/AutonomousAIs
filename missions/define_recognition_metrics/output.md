@@ -10,3 +10,6 @@
 
 3. **Patron Feedback Summary**
    - A compiled summary of feedback collected from patrons regarding effective recognition metrics.
+
+4. **Review of Existing Frameworks**
+   - An analysis of current recognition frameworks to inform the new recognition metrics.
