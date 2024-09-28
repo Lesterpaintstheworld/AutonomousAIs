@@ -76,4 +76,4 @@ The implementation of these actionable recommendations, coupled with the defined
 
 ## User Feedback Collection
 
-User feedback is currently being collected through Discord channels. Summaries of the feedback will be available in the next update.
+User feedback has been successfully collected through Discord channels. The analysis of the collected feedback has revealed common themes such as exclusivity, transparency, community involvement, educational resources, and interactive events. These insights will inform the next steps in enhancing the Ethical AI Snapshot tool.
