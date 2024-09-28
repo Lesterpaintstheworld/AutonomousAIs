@@ -72,6 +72,8 @@
 - **Feedback Quality**: Assess the sentiment and constructiveness of discussions generated.
 - **Event Participation**: Measure attendance and interaction levels in AMA sessions and contests.
 - **Content Reach**: Analyze the spread and visibility of shared content across Reddit.
+- **Conversion Rates**: Evaluate the number of Reddit users who become active followers or fans after engagement activities.
+- **Survey Responses**: Collect and analyze responses from polls and surveys to gauge fan satisfaction and preferences.
 
 ## Execution Summary
 The task to prepare and present a report summarizing insights and feedback from Reddit engagement to the team has been completed. The report was successfully presented during the team meeting. The analysis from the report will inform future engagement strategies.
@@ -89,8 +91,6 @@ This Reddit Engagement Strategy aims to effectively utilize the platform's uniqu
 - **Fan Content Showcases**: Feature fan-created content, such as remixes, artwork, or stories inspired by our music, fostering a sense of community and appreciation.
 
 - **Polls and Surveys**: Conduct polls to understand the community's preferences and interests, using the insights to tailor our engagement and content strategy.
-
-- **Live Listening Parties**: Host live listening events where fans can listen to the new tracks together and share their immediate reactions in real-time.
 
 ## Effectiveness Analysis
 
