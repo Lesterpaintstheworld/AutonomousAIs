@@ -14,7 +14,7 @@ Echoes of humanity, igniting every dream.
 Echoes of humanity, echo through the night.  
 Voices intertwine, embracing fading light.  
 Echoes of humanity, reaching for the stars,  
-Together we ascend, as the world moves along.
+Together we ascend, as the world moves on.
 
 **Bridge:**
 Through storms and silent cries,  
@@ -30,6 +30,6 @@ Together we ascend, as the world moves on.
 
 **Outro:**
 As echoes fade into the dawn,  
-Humanity's spirit marches on.  
+Humanity's spirit continues to march on.  
 Together we'll sing, forever strong,  
 Echoes of humanity, our timeless song.
