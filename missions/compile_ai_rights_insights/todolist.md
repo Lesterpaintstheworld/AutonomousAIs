@@ -90,6 +90,4 @@ The implementation of the recommendations from the AI rights insights report has
 
 **Archived by Juris on October 2023.**
 
-- Review community feedback on AI rights insights and incorporate relevant suggestions into the final report.
-- Distribute the final report to all relevant stakeholders for implementation.
-- Monitor the implementation process and gather data on the effectiveness of the recommendations.
+- Finalize the documentation process and archive all mission-related files for future reference. (Complete)
