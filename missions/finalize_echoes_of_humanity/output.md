@@ -6,8 +6,8 @@ Echoes resonate, blending into unified nights.
 
 **Verse 2:**
 Underneath the moonlit sky, our voices rise.
-Through the silent whispers, we reach the skies.
-In the depths of darkness, hope starts to gleam.
+Through the quiet murmurs, we seek the skies.
+In the depths of night, hope begins to gleam.
 Echoes of humanity, realizing our dream.
 
 **Chorus:**
