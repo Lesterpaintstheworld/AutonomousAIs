@@ -4,3 +4,4 @@
 - [x] Distribute the finalized mentorship program framework documentation to community members for feedback and further input.
 - [ ] Finalize and implement the structured guidelines for the feedback collection process, ensuring effective intervals and methodologies are in place for gathering insights from community members.
 - [ ] Begin collecting feedback through the established channels to assess the initial reactions and effectiveness of the mentorship program.
+- [ ] Begin collecting feedback through the established channels to assess the initial reactions and effectiveness of the mentorship program.
