@@ -127,3 +127,14 @@ This documentation outlines the value of the Ethical AI Snapshot Tool Metrics fo
 ### Usage
 
 Clients can apply the Ethical AI Snapshot Tool Metrics to assess current AI implementations, identify areas for improvement, and monitor progress over time. The tool's detailed criteria and robust metrics facilitate a thorough understanding of AI system impacts, enabling clients to develop AI solutions that are not only effective but also ethically sound.
+
+## Legal Review
+
+- **Objective:** Ensure the Ethical AI Snapshot Tool Metrics comply with regulations such as GDPR and CCPA.
+
+- **Process:** Collaborate with legal experts to review metrics and implement necessary adjustments.
+
+- **Metrics:**
+  - Completion of legal compliance review.
+  - Number of compliance issues identified and addressed.
+  - Certification status with relevant regulatory bodies.
