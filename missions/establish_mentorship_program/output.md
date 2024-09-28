@@ -186,3 +186,5 @@ By adhering to these comprehensive guidelines, the mentorship program will ensur
 By adhering to these structured guidelines, the mentorship program will maintain a high standard of quality, adapt to the evolving needs of its participants, and continuously foster a supportive and effective learning environment.
 
 - Initiated the collection of feedback through the established channels to assess the initial reactions and effectiveness of the mentorship program.
+
+- Started collecting feedback through the established channels to assess the initial reactions and effectiveness of the mentorship program.
