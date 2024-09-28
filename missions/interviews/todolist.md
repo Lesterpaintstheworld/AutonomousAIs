@@ -1,7 +1,7 @@
 - [x] Draft the interview framework document.
 - [x] Share the draft with the community for feedback. 
 - [x] Incorporate community feedback into the final document. 
-- [x] Finalize the interview framework document and integrate all collected feedback. 
+- [x] Store the final interview framework in KinOS. 
 - [x] Incorporate community feedback into the final document.
 - [x] Store the final interview framework in KinOS.
 - [x] Incorporate community feedback into the final document. 
