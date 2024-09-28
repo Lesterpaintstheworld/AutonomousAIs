@@ -13,11 +13,7 @@
   - **New Metrics:**
     - Frequency of transparency reports published.
     - User accessibility scores for AI explanations.
-   - Clarity in data sources and methodologies used by AI.
-   - Explainability of AI decision-making processes.
-   - **Metrics:**
-     - Percentage of AI decisions accompanied by accessible explanations.
-     - Number of documented data sources and access protocols.
+   
 
 2. **Fairness**
    - Evaluation of algorithmic bias.
