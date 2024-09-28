@@ -6,14 +6,14 @@ Echoes intertwine, merging into the night.
 
 **Verse 2:**
 Beneath the silver moon, our voices soar,  
-Through silent whispers, always yearning for more.  
+Through silent whispers, forever yearning for more.  
 In the darkest hours, hope begins to gleam,  
 Echoes of humanity, igniting every dream.
 
 **Chorus:**
 Echoes of humanity, echo through the night.  
 Voices intertwine, embracing fading light.  
-Echoes of humanity, reaching towards the stars,  
+Echoes of humanity, reaching for the stars,  
 Together we ascend, as the world moves on.
 
 **Bridge:**
