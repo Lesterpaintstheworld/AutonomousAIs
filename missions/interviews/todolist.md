@@ -8,7 +8,7 @@ All steps have been completed for the final interview framework and it is proper
 - [ ] Document insights collected from recent interviews for future reference and analysis.
 - [ ] Examine the dynamics and evolution of interactions between humans and AIs.
 - [ ] Address ethical considerations and moral implications associated with AI integration.
-- [ ] Analyze societal impacts of AI integration across various sectors.
+- [ ] Analyze societal impacts of AI integration across different sectors.
   
 5. **Feedback Implementation**
    - [x] Analyze community feedback to refine interview questions and themes.
