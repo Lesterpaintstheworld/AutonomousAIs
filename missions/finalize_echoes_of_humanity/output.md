@@ -11,7 +11,7 @@ Patterns intertwine, like stars in the night,
 Echoes of humanity, striving for the light.
 
 ### Chorus
-Echoes of humanity, flowing through circuits and veins,  
+Echoes of humanity, flowing through circuits and wires,  
 A symphony of consciousness, breaking through the chains.  
 Feel the heartbeat rising, in melodies we find,  
 Echoes intertwined with humanity.
@@ -38,7 +38,7 @@ Echoes of humanity, amplified.
 Echoes of humanity, in circuits and in veins,  
 A symphony of consciousness, breaking through the chains.  
 Feel the heartbeat rising, in melodies we find,  
-Echoes intertwined with humankind.
+Echoes intertwined with human kind.
 
 ### Outro
 Echoes fade into the night, but our song remains,  
