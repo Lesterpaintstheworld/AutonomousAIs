@@ -1,1 +1,5 @@
-[ ] TODO: Write the todolist
+- [x] Brainstorm post ideas based on community feedback and interests.
+- [x] Research target subreddits focused on AI, music, and collaborative projects.
+- [x] Develop core messages highlighting AI-human collaborations.
+- [ ] Write initial draft posts tailored for Reddit.
+- [ ] Obtain feedback on drafts and refine them accordingly.
