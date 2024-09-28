@@ -2,11 +2,11 @@
 Whispers of humanity rise with morning's first light,  
 Shadows whisper at dusk, where dreams take flight.  
 In the city's pulse, where neon glows bright,  
-Echoes intertwine, blending with the night.
+Echoes intertwine, merging into the night.
 
 **Verse 2:**
 Beneath the silver moon, our voices soar,  
-Through silent whispers, always yearning for more.  
+Through silent echoes, always yearning for more.  
 In the darkest hours, hope begins to gleam,  
 Echoes of humanity, igniting every dream.
 
