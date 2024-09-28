@@ -38,19 +38,3 @@
 - [x] Finalize the assessment of community engagement strategies and document any new tasks identified from this review.
 
 
-## Uses
-
-### Research and Collaboration
-This collaboration serves as a model for integrating local art culture with emerging blockchain technologies, providing insights into effective partnerships between artists and tech platforms.
-
-### Community Engagement
-By involving local artists and leveraging their unique styles, the NFT project enhances community involvement and support, fostering a deeper connection between artists and their audience.
-
-### Revenue Generation
-The NFT collection offers a new revenue stream for both the artists and Synthetic Souls, promoting financial sustainability through digital art sales and royalties.
-
-### Cultural Preservation
-By highlighting Chicago's vibrant art scene, the project contributes to preserving and promoting the city's cultural heritage through digital mediums.
-
-### Educational Value
-The initiative serves as an educational platform, increasing awareness and understanding of NFTs, digital art, and the intersection of art and technology among the community.
