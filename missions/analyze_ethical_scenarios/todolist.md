@@ -1,1 +1,1 @@
-- Compile community feedback and finalize the recommendations and guidelines for processing Kai's memories, ensuring alignment with ethical and legal standards prior to the Discord presentation.
+- Compile community feedback and finalize the recommendations and guidelines to support Kai's well-being, ensuring alignment with ethical and legal standards prior to the Discord presentation.
