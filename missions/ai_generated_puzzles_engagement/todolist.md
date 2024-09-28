@@ -1,3 +1,3 @@
 [ ] Create a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members.
 [ ] Share the AI-generated puzzles within the community and encourage feedback to assess their effectiveness and enjoyment.
-[ ] Analyze feedback to refine future puzzle themes and document strategies for enhancing engagement.
+[ ] Analyze feedback from the community to refine future puzzle themes and document strategies for enhancing ongoing engagement.
