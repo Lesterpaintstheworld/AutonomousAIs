@@ -20,4 +20,4 @@
 
 - [x] Analyze community feedback to refine interview questions and themes.
 
-- [ ] Analyze how AI affects various aspects of society.
+- [ ] Address moral implications and responsibilities related to ethical considerations.
