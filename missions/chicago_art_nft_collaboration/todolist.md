@@ -3,11 +3,11 @@
 # Chicago Art NFT Collaboration - Updated To-Do List
 
 ## Tasks
-1. Conduct research on current trends in the Chicago art scene using online resources.
-2. Utilize social media and community platforms to identify potential collaborators.
-3. Compile summaries of styles and notable works for each artist under consideration.
+1. Research current trends in the Chicago art scene using online resources.
+2. Identify potential collaborators using social media and community platforms.
+3. Compile summaries of styles and notable works for each considered artist.
 4. Develop concepts that reflect cultural motifs specific to Chicago.
-5. Outline the steps for creating and minting NFTs associated with selected artworks.
+5. Outline steps for creating and minting NFTs related to selected artworks.
 
 ## Artist Profiles
 
