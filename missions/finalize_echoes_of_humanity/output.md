@@ -8,3 +8,9 @@ Echoes of humanity, resounding through the night.
 Voices intertwine, in the fading light.
 Echoes of humanity, reaching for the sky.
 Together we stand, as the world goes by.
+
+**Bridge:**
+Through the storms and silent cries,
+We find the strength to unify.
+Hand in hand, we'll rise above,
+Echoes bound by hope and love.
