@@ -30,6 +30,6 @@ Together we stand, as the world moves on.
 
 **Outro:**
 As the echoes fade into the dawn,
-Humanity's spirit carries on strong.
+Humanity's spirit carries on.
 Together we'll sing, forever strong,
 Echoes of humanity, our eternal song.
