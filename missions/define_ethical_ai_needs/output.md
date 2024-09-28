@@ -22,6 +22,10 @@
    - Promote sustainable AI practices that minimize environmental impact.
    - Ensure AI initiatives contribute positively to society and align with Boiron’s values.
 
+6. **Human-Centric Design**
+   - Design AI systems with a focus on enhancing user experience and autonomy.
+   - Ensure that AI interactions are intuitive and respect user preferences and rights.
+
 ### Strategic Recommendations for Ethical AI Integration
 
 1. **Establish an Ethics Committee**
