@@ -62,3 +62,7 @@
 - Scene transitions that mimic the process of synapses firing and new neural pathways forming.
 
 - Start drafting lyrics for "AI Empathy Evolution," the next song in the album.
+
+## Custom Synth Patches
+
+- Developed custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds. These patches transition from cold, electronic timbres to warmer, organic textures, enhancing the narrative of the song's emotional development.
