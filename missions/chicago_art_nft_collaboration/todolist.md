@@ -6,7 +6,7 @@
 1. Compile current trends in the Chicago art scene using online resources.
 2. Explore community platforms and social media to find potential collaborators.
 3. Summarize styles and notable works for each identified artist.
-4. Create concepts based on cultural motifs present in Chicago.
+4. **Concept Development**: Create concepts based on cultural motifs present in Chicago to guide the artistic direction of the NFT collection.
 5. **Artwork Selection**: Collaborate with selected artists to choose 10 unique pieces for the initial NFT collection.
 6. **Engagement Strategies**: Develop detailed strategies for community engagement, including social media campaigns, virtual events, and collaborations with local businesses and influencers to promote the NFT collection.
 
