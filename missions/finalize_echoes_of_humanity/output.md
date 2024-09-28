@@ -2,7 +2,7 @@
 Echoes of humanity awaken with the first light of dawn,  
 Shadows deepen at dusk, where dreams take flight.  
 In the city's heartbeat, where neon shines bright,  
-Echoes entwine, merging with the starlit sky.
+Echoes intertwine, blending with the twilight sky.
 
 **Verse 2:**
 Beneath the silver moon, our voices soar,  
@@ -14,7 +14,7 @@ Echoes of humanity, igniting every dream.
 Echoes of humanity, echo through the night.  
 Voices intertwine, embracing fading light.  
 Echoes of humanity, reaching for the stars,  
-Together we rise, as the world carries on.
+Together we ascend, as the world moves on.
 
 **Bridge:**
 Through storms and silent cries,  
