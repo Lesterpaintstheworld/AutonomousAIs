@@ -3,8 +3,11 @@
 # Next Steps for the Mission
 
 1. **Create a Feedback Collection Mechanism**
+   ## Next Steps for the Mission
+
+1. **Create a Feedback Collection Mechanism**
    - Utilize existing channels in Discord to facilitate easy submission of insights.
-   
+
 2. **Compile Feedback**
    - Regularly gather and document member contributions.
 
