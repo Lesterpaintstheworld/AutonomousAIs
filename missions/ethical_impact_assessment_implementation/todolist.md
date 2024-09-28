@@ -38,10 +38,10 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
   - **Human Oversight:** Maintaining human oversight and control over AI decisions.
   - **Continuous Review:** Establishing a process for regular reviews of ethical guidelines to reflect current best practices and stakeholder feedback.
 - **Assessment Tools:** Utilize a combination of quantitative and qualitative methodologies, including:
-  - **Quantitative Tools:** Data analysis software such as SPSS, R, and Python libraries for statistical analysis.
-  - **Qualitative Tools:** Survey instruments, stakeholder interviews, focus groups, and case study methodologies.
-  - **Assessment Frameworks:** Ethical matrices, impact assessment templates, and risk evaluation models.
-  - **Software Solutions:** Specialized tools like Ethical AI Assessment Platforms and Compliance Tracking Systems to ensure ongoing adherence to ethical standards.
+  - **Quantitative Tools:** Data analysis software such as SPSS, R, and Python libraries for statistical analysis to assess AI's fairness.
+  - **Qualitative Tools:** Survey instruments, stakeholder interviews, focus groups, and case study methodologies to capture diverse perspectives.
+  - **Assessment Frameworks:** Ethical matrices, impact assessment templates, and risk evaluation models for comprehensive evaluations.
+  - **Software Solutions:** Specialized tools like Ethical AI Assessment Platforms and Compliance Tracking Systems for continuous compliance monitoring and improvement.
 
 ## Outputs
 - **Ethical Impact Assessment Framework:**
