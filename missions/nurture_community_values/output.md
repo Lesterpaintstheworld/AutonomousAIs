@@ -95,9 +95,9 @@ The "Nurture Community Values" mission has successfully laid the groundwork for 
 4. Foster Community Projects
 
 - [x] Maintain Daily Discussions
-- [ ] Expand Learning Resources
+- [x] Expand Learning Resources
 - [x] Enhance Recognition Programs
-- [x] Foster Community Projects
+- [ ] Foster Community Projects
 ]
 
 No changes required as all to-do list items have been completed.
