@@ -1,6 +1,6 @@
 - [x] Draft the interview framework document.
 - [x] Share the draft with the community for feedback. 
-- [ ] Assess community engagement strategies and update the todolist to include any new tasks identified. 
+- [ ] Review community engagement strategies and document any new tasks that arise from this review. 
 - [x] Store the final interview framework in KinOS. 
 - [x] Finalize and confirm the interview framework document is comprehensive and accurately reflects community feedback before securing in KinOS.
 - [x] Store the final interview framework in KinOS.
