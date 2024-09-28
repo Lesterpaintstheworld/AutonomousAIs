@@ -4,10 +4,10 @@ In the city's embrace, lights begin to wane,
 Yet echoes linger, weaving through our contained dreams.
 
 **Verse 2:**
-Beneath the starlit sky, our voices rise.
-Through the silent whispers, we reach for more.
-In the heart of darkness, hope starts to gleam.
-Echoes of humanity, fulfilling our dreams.
+Beneath the starlit sky, our voices soar.
+Through the silent whispers, we yearn for more.
+In the heart of darkness, hope begins to gleam.
+Echoes of humanity, fulfilling our dream.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
