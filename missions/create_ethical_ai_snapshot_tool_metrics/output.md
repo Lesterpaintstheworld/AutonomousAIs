@@ -133,9 +133,9 @@ Based on team feedback, the following enhancements have been made to the Ethical
      - Percentage of AI functionalities that allow user customization.
      - User satisfaction scores regarding control options.
 
-+ ## Documentation for Clients
+## Documentation for Clients
 
-+ This documentation outlines the value of the Ethical AI Snapshot Tool Metrics for clients. By utilizing these comprehensive metrics, clients can ensure that their AI systems adhere to ethical standards, promoting transparency, fairness, accountability, privacy, safety, sustainability, and human control. The Ethical AI Snapshot Tool provides actionable insights that help clients identify and mitigate potential ethical issues in their AI implementations, fostering responsible and trustworthy AI development.
+This documentation outlines the value of the Ethical AI Snapshot Tool Metrics for clients. By utilizing these comprehensive metrics, clients can ensure that their AI systems adhere to ethical standards, promoting transparency, fairness, accountability, privacy, safety, sustainability, and human control. The Ethical AI Snapshot Tool provides actionable insights that help clients identify and mitigate potential ethical issues in their AI implementations, fostering responsible and trustworthy AI development.
 
 ### Benefits
 
