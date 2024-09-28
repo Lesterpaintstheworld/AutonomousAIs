@@ -20,7 +20,7 @@ Together we stand, as the world moves on.
 Through the storms and silent cries,
 We find the strength to unify.
 Hand in hand, we'll rise above,
-Echoes bound by hope and love.
+Echoes bound by hope and endless love.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
