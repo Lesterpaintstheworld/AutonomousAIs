@@ -21,7 +21,50 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Comprehensive documentation of all data sources.
     - Transparent data processing and storage practices, including data lineage and provenance.
 
-<!-- Additional finalized metrics sections go here -->
+### 6. Explainability Metric
+**Objective:** Ensure that AI system decisions can be understood and interpreted by stakeholders.
+
+- **Model Interpretability:**
+  - **Definition:** Measures the extent to which the internal mechanics of an AI system can be understood.
+  - **Indicators:**
+    - Availability of model interpretability tools.
+    - Documentation explaining how models make decisions.
+  
+- **User Comprehension:**
+  - **Definition:** Assesses how easily end-users can grasp the AI system's functionality and decision-making processes.
+  - **Indicators:**
+    - User-friendly interfaces and explanations.
+    - Educational resources provided to users.
+
+### 7. Robustness Metric
+**Objective:** Evaluate the resilience of AI systems against errors, adversarial attacks, and unexpected inputs.
+
+- **Error Handling:**
+  - **Definition:** The ability of the AI system to manage and respond to errors gracefully.
+  - **Indicators:**
+    - Implementation of error detection and correction mechanisms.
+    - Comprehensive testing against various failure scenarios.
+  
+- **Adversarial Resistance:**
+  - **Definition:** Measures the system's ability to withstand and mitigate adversarial attempts to deceive or disrupt.
+  - **Indicators:**
+    - Regular security assessments.
+    - Incorporation of defenses against common adversarial attacks.
+
+### 8. User Autonomy Metric
+**Objective:** Ensure that AI systems respect and enhance user autonomy without infringing on individual decision-making.
+
+- **User Control:**
+  - **Definition:** The degree to which users can influence and direct the AI system's operations.
+  - **Indicators:**
+    - Availability of customization settings.
+    - Options for users to override AI decisions.
+  
+- **Consent and Choice:**
+  - **Definition:** Ensuring users are informed and can make choices regarding their interaction with the AI.
+  - **Indicators:**
+    - Clear consent forms and agreements.
+    - Easy access to opt-in and opt-out features.
 
 
 
