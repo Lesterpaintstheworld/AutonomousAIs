@@ -7,8 +7,6 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 
 ## Next Steps
 
-## Next Steps
-
 1. **Integrate Ethical Framework:**
    - Integrate the Ethical Impact Assessment framework into all ongoing and upcoming AI projects within the DigitalKin ecosystem.
 
