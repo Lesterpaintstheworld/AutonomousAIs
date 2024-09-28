@@ -60,8 +60,8 @@
   - [ ] Provide helpful feedback for incorrect or impossible actions
 
 ## 5. Game Features
-- [ ] Add a save/load game feature
-  - [X] Implement game state serialization
+- [X] Add a save/load game feature
+  - [ ] Implement game state serialization
   - [ ] Create save and load commands
 - [ ] Implement a hint system for puzzles
   - [ ] Design progressive hints for each puzzle
