@@ -1,4 +1,4 @@
-[ ] Finalize detailed assessment criteria for Transparency, Fairness, Accountability, Privacy, Safety and Security, Sustainability, and Human Control.
+[ ] Expand metrics to include user empowerment and inclusivity measures.
 [ ] Implement A/B testing insights to refine the metrics based on user feedback and performance data.
 [ ] Finalize detailed assessment criteria for Transparency, Fairness, Accountability, Privacy, Safety and Security, Sustainability, and Human Control.
 [ ] Integrate feedback mechanisms for continuous metric improvement.
