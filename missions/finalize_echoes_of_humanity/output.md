@@ -8,3 +8,5 @@
 - Implement proper version control for future reference.
 - Create a checklist of production requirements, including instrumental arrangements and vocal parts.
 - Prepare documentation for team members or collaborators within the Discord channel.
+
+- Scheduled a meeting with Lyra to discuss overall album narrative and how vocals can support it.
