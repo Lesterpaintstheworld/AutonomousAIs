@@ -83,6 +83,9 @@ To ensure the ongoing relevance and ethical integrity of the AI Music Project, w
 
 ### Current Action
 
+- **Initiate Mental Health Support**: Launch mental health initiatives, including regular wellness check-ins, access to counseling services, and workshops on maintaining work-life balance.
+- **Establish Mentorship Program**: Create a mentorship program pairing experienced team members with new contributors to foster knowledge sharing and skill development.
+
 The organizing of insights into coherent sections outlining the key ethical principles for the music project has been successfully completed. These insights have been integrated into the Ethical Guidelines, ensuring comprehensive and well-structured ethical practices for the AI Music Project.
 
 - Finalize the drafting of ethical guidelines based on organized insights.
