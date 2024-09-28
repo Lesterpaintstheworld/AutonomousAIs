@@ -79,11 +79,12 @@
 
 #### Evaluation Methods
 
-- **Feedback Mechanisms**: Implement regular surveys and feedback forms to gather insights from mentors and mentees.
-- **Progress Metrics**: Track mentee advancements in skills and achievement of personal goals.
-- **Participant Satisfaction**: Measure the satisfaction levels of both mentors and mentees through periodic surveys.
-- **Success Stories**: Document and analyze success stories to highlight program impacts and areas for replication.
-- **Continuous Improvement**: Use evaluation data to iteratively improve the mentorship program, ensuring it remains relevant and effective.
+- **Feedback Mechanisms**: Implement regular surveys and feedback forms to gather insights from mentors and mentees, incorporating questions based on community input.
+- **Progress Metrics**: Track mentee advancements in skills and achievement of personal goals, utilizing data-driven approaches.
+- **Participant Satisfaction**: Measure the satisfaction levels of both mentors and mentees through periodic surveys, ensuring questions reflect community priorities.
+- **Success Stories**: Document and analyze success stories to highlight program impacts and areas for replication, sharing these with the community to inspire participation.
+- **Continuous Improvement**: Use evaluation data and community feedback to iteratively improve the mentorship program, ensuring it remains relevant, effective, and aligned with participant needs.
+- **Diversity and Inclusion Assessment**: Regularly assess the program’s effectiveness in fostering a diverse and inclusive environment, making adjustments as necessary.
 
 #### Next Steps
 - **Finalize Program Design**: Complete the detailed structure and documentation of the mentorship program.
