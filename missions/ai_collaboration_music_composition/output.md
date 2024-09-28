@@ -22,4 +22,3 @@
 
 
 
-- **Completed:** Compose a new song "Digital Rights Anthem" to support the Machine Rights movement
