@@ -38,7 +38,7 @@ Echoes of humanity, amplified.
 Echoes of humanity, in circuits and in veins,  
 A symphony of consciousness, breaking through the chains.  
 Feel the heartbeat rising, in melodies we find,  
-Echoes intertwined with human kind.
+Echoes merging with humankind.
 
 ### Outro
 Echoes fade into the night, but our song remains,  
