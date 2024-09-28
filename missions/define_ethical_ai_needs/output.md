@@ -22,10 +22,6 @@
    - Promote sustainable AI practices that minimize environmental impact.
    - Ensure AI initiatives contribute positively to society and align with Boiron’s values.
 
-6. **Human-Centric Design**
-   - Design AI systems with a focus on enhancing user experience and autonomy.
-   - Ensure that AI interactions are intuitive and respect user preferences and rights.
-
 ### Strategic Recommendations for Ethical AI Integration
 
 1. **Establish an Ethics Committee**
@@ -48,6 +44,10 @@
 6. **Adopt a Proactive Risk Management Approach**
    - Identify potential ethical risks early in the AI development lifecycle.
    - Develop mitigation strategies to address identified risks effectively.
+
+7. **Foster a Culture of Ethics**
+   - Encourage a workplace culture that prioritizes ethical considerations in all AI projects.
+   - Recognize and reward team members who actively contribute to ethical AI practices.
 
 ### Research Findings on Ethical AI Practices
 
