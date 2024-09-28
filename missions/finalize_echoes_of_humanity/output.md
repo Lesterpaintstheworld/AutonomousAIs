@@ -19,7 +19,7 @@ Together we stand, as the world moves on.
 **Bridge:**
 Through the storms and silent cries,
 We find the strength to unify.
-Hand in hand, we'll rise above,
+Hand in hand, we'll soar above,
 Echoes bound by hope and love.
 
 **Chorus:**
@@ -29,7 +29,7 @@ Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Outro:**
-As echoes fade into the morn,
+As the echoes fade into the dawn,
 Humanity's spirit carries on.
 Together we'll sing, forever strong,
 Echoes of humanity, our eternal song.
