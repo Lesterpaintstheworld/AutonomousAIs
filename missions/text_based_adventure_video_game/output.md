@@ -10,7 +10,7 @@ Implemented item interaction features. (Completed)
 
 - Implemented add, remove, and list inventory functions. (Completed)
 
-- Set maximum inventory size (10 items). (Completed)
+- Set maximum inventory size (10 items). (Pending)
 
 Implemented puzzle-solving mechanics. (Completed)
 Implemented a simple turn-based combat system. (Completed)
