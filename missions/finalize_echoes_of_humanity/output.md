@@ -1,6 +1,6 @@
 **Verse 1:**
 Echoes of humanity reaching for the dawn,
-Whispers of twilight where shadows dance along.
+Whispers of twilight where shadows gracefully extend.
 In the city's embrace, lights begin to glow,
 Echoes linger, weaving through our shared dreams.
 
