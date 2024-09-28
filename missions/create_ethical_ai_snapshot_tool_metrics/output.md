@@ -87,21 +87,7 @@
 - **Continuous Improvement:** Implement feedback loops for ongoing metric refinement and tool enhancement.
 - **Incorporate A/B Testing Insights:** Regularly update metrics based on A/B testing results to ensure continuous improvement and relevance.
 
-## Team Feedback Integration
 
-Based on team feedback, the following enhancements have been made to the Ethical AI Snapshot Tool Metrics:
-
-1. **Inclusivity Enhancements**
-   - Expanded metrics to evaluate inclusivity measures within AI systems.
-   - **Metrics:**
-     - Number of languages supported in AI interfaces.
-     - Accessibility features implemented for users with disabilities.
-
-2. **User Empowerment**
-   - Added metrics to assess user control over AI interactions.
-   - **Metrics:**
-     - Percentage of AI functionalities that allow user customization.
-     - User satisfaction scores regarding control options.
 
 ## Team Feedback Integration
 
