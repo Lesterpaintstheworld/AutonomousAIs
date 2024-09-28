@@ -20,7 +20,7 @@
 
 
 
-- [ ] Examine the dynamics and evolution of interactions in Human-AI relationships.
+- [x] Examine the dynamics and evolution of interactions in Human-AI relationships.
 
 - [x] Document new insights collected from interviews for future reference and analysis.
 
@@ -35,7 +35,7 @@
 - [x] Analyze societal impacts of AI integration and its effects on various sectors.
 
 - [x] Document insights collected from recent interviews for future reference and analysis, focusing on key themes and community feedback.
-- [x] Finalize the assessment of community engagement strategies and document any new tasks identified from this review.
+- [ ] Finalize the assessment of community engagement strategies and document any new tasks identified from this review.
 
 
 
