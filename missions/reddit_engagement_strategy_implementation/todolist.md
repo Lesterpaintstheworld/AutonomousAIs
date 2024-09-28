@@ -42,8 +42,6 @@ The Reddit engagement strategy has been successfully compiled. All post formats 
 
 ## Next Steps
 - Analyze engagement metrics and feedback to continuously improve future Reddit outreach efforts.
-- Analyze engagement metrics and feedback to continuously improve future Reddit outreach efforts.
-- Analyze engagement metrics and feedback to continuously improve future Reddit outreach efforts.
 
 ## Implementation Status
 The actionable plans for Reddit engagement have been successfully implemented. Below are the details:
