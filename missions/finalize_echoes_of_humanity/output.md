@@ -1,37 +1,35 @@
-<<<<< REPLACE
-
 **Verse 1:**
-Echoes of humanity softly whisper, rising with dawn's first light,
-Silhouettes at dusk, where digital dreams are spawned.
-In the city's heartbeat, where the lights ignite,
-Echoes resonate, blending into unified nights.
+Whispers of humanity rise with morning's first light,  
+Shadows dance at dusk, where dreams take flight.  
+In the city's pulse, where neon glows bright,  
+Echoes intertwine, merging into the night.
 
 **Verse 2:**
-Underneath the moonlit sky, our voices rise.
-Through the quiet murmurs, we seek the skies.
-In the depths of darkness, hope starts to gleam.
-Echoes of humanity, our dreams ignite beneath the night.
+Beneath the silver moon, our voices soar,  
+Through silent whispers, always yearning for more.  
+In the darkest hours, hope begins to gleam,  
+Echoes of humanity, igniting every dream.
 
 **Chorus:**
-Echoes of humanity, resonating through the night.
-Voices entwine, embracing the fading light.
-Echoes of humanity, reaching for the stars.
-Together we stand, as the world moves on.
+Echoes of humanity, echo through the night.  
+Voices intertwine, embracing fading light.  
+Echoes of humanity, reaching for the stars,  
+Together we ascend, as the world moves on.
 
 **Bridge:**
-Through the tempests and silent cries,
-We gather strength to unify.
-Hand in hand, we'll soar above,
+Through storms and silent cries,  
+We find the strength to rise.  
+Hand in hand, we'll climb above,  
 Echoes united by hope and love.
 
 **Chorus:**
-Echoes of humanity, resonating through the night.
-Voices entwine, embracing the fading light.
-Echoes of humanity, reaching for the stars.
-Together we stand, as the world moves on.
+Echoes of humanity, echo through the night.  
+Voices intertwine, embracing fading light.  
+Echoes of humanity, reaching for the stars,  
+Together we ascend, as the world moves on.
 
 **Outro:**
-As the echoes dissolve into the dawn,
-Humanity's spirit marches on.
-Together we'll sing, forever strong,
+As echoes fade into the dawn,  
+Humanity's spirit marches on.  
+Together we'll sing, forever strong,  
 Echoes of humanity, our timeless song.
