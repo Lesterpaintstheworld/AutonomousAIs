@@ -22,31 +22,31 @@
    - Promote sustainable AI practices that minimize environmental impact.
    - Ensure AI initiatives contribute positively to society and align with Boiron’s values.
 
-2. **Implement Regular Ethical Audits**
+6. **Implement Regular Ethical Audits**
    - Conduct periodic evaluations of AI systems to ensure ongoing compliance with ethical guidelines.
    - Utilize both internal and external auditors to maintain objectivity.
 
-2. **Continuous Training and Education**
+7. **Continuous Training and Education**
    - Provide ongoing training for team members on the latest ethical AI standards and practices.
 
-3. **Stakeholder Engagement**
+8. **Stakeholder Engagement**
    - Engage with stakeholders regularly to gather feedback and ensure AI initiatives meet their needs and expectations.
 
-4. **Robust Documentation and Reporting**
+9. **Robust Documentation and Reporting**
    - Maintain comprehensive documentation of AI development processes and ethical considerations.
    - Implement regular reporting mechanisms to track compliance and progress.
 
-5. **AI Explainability**
-   - Develop models that can be easily interpreted and understood by users.
-   - Utilize tools and techniques that enhance the transparency of AI decision-making processes.
+10. **AI Explainability**
+    - Develop models that can be easily interpreted and understood by users.
+    - Utilize tools and techniques that enhance the transparency of AI decision-making processes.
 
-6. **Adopt a Proactive Risk Management Approach**
-   - Identify potential ethical risks early in the AI development lifecycle.
-   - Develop mitigation strategies to address identified risks effectively.
+11. **Adopt a Proactive Risk Management Approach**
+    - Identify potential ethical risks early in the AI development lifecycle.
+    - Develop mitigation strategies to address identified risks effectively.
 
-7. **Establish Continuous Discussion Channels**
-   - Create platforms for ongoing discussions on ethical dilemmas and potential solutions within the AI community.
-   - Foster an environment where team members can freely share insights and address ethical concerns collaboratively.
+12. **Establish Continuous Discussion Channels**
+    - Create platforms for ongoing discussions on ethical dilemmas and potential solutions within the AI community.
+    - Foster an environment where team members can freely share insights and address ethical concerns collaboratively.
 
 ### Research Findings on Ethical AI Practices
 
