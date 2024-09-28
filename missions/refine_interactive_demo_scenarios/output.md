@@ -2,10 +2,12 @@
 
 ### Ethical Dilemmas
 
-#### Healthcare
 - **Allocation of Limited Medical Resources:** Deciding how to distribute scarce resources, such as organ transplants or ICU beds, among patients.
 - **Patient Privacy vs. Data Sharing:** Balancing the need for patient confidentiality with the benefits of sharing data for research and improving healthcare outcomes.
 - **End-of-Life Care:** Determining appropriate end-of-life care options, balancing patient autonomy with medical recommendations and ethical considerations.
+- **Informed Consent for AI-driven Treatments:** Ensuring that patients fully understand the implications and risks of treatments recommended by AI systems.
+- **Bias in AI Healthcare Algorithms:** Addressing and mitigating biases in AI algorithms that may affect patient care and outcomes.
+- **Autonomous Decision-Making in Critical Care:** Exploring the ethical implications of AI making autonomous decisions in life-or-death situations.
 
 #### Finance
 - **Ethical Investing vs. Profitability:** Choosing between investment opportunities that offer higher returns but may have unethical practices versus more ethical but less profitable options.
