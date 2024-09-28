@@ -2,7 +2,7 @@
 Echoes of humanity reaching for the dawn,
 Whispers of twilight where shadows dance along.
 In the city's embrace, lights begin to glow,
-Yet echoes linger, weaving through our shared dreams.
+Echoes linger, weaving through our collective dreams.
 
 **Verse 2:**
 Beneath the starlit sky, our voices soar.
@@ -13,7 +13,7 @@ Echoes of humanity, fulfilling our dream.
 **Chorus:**
 Echoes of humanity, resounding through the night.
 Voices intertwine, embracing fading light.
-Echoes of humanity, reaching for the stars afar.
+Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Bridge:**
