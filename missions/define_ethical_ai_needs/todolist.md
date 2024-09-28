@@ -1,1 +1,4 @@
-[ ] TODO: Write the todolist
+- Research current trends in ethical AI practices
+- Facilitate discussions within the AI community about ethical dilemmas
+- Collect feedback from community members on ethical AI needs
+- Document outcomes into a cohesive set of guidelines and strategies
