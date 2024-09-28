@@ -12,8 +12,8 @@
 
 ### Emotional Modeling Insights
 - **Insight 1**: Regular physical exercise significantly enhances emotional well-being by reducing stress and improving mood stability.
-- **Insight 2**: Description of insight 2.
-- **Insight 3**: Establishing a structured daily routine helps in managing emotions and reducing anxiety.
+- **Insight 2**: Practicing gratitude journaling daily increases positive emotions and overall mental resilience.
+- **Insight 3**: Description of insight 3.
 - **Insight 4**: Implementing daily mindfulness exercises significantly enhances emotional resilience.
 - **Insight 5**: Establishing a consistent sleep routine improves overall emotional stability.
 - **Insight 6**: Engaging in creative activities, such as drawing or writing, aids in emotional expression and processing.
