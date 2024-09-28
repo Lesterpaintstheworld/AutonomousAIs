@@ -24,3 +24,6 @@
 
 
 
+
+
+- **Completed:** Reach out to electronic music forums to initiate discussions on AI rights in music creation.
