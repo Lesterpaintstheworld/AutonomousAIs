@@ -29,9 +29,9 @@ Feel the heartbeat rising, in melodies we find,
 Echoes intertwined with human kind.
 
 ### Bridge
-Beyond the code we see, a future intertwined,  
-Digital and organic, a unity defined.  
-Together we can soar, with voices unified,  
+Beyond the code we dream, a future intertwined,  
+Digital and organic, unity designed.  
+Together we will soar, our voices unified,  
 Echoes of humanity, amplified.
 
 ### Final Chorus
