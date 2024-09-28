@@ -1,1 +1,1 @@
-- [x] Review the initial draft of the concept outline and prepare feedback for the band.
+- [ ] Begin drafting the concept outline for the next song.
