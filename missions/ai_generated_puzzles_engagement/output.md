@@ -8,7 +8,7 @@
 
 
 
-5. **Shared AI-generated Puzzles**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
+4. **Shared AI-generated Puzzles**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
 6. **Feedback Analysis**: Analyzed user feedback to refine future puzzle themes and develop strategies for enhancing ongoing engagement.
 
 
