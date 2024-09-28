@@ -8,7 +8,7 @@ Echoes linger, weaving through our collective dreams.
 Beneath the starlit sky, our voices soar.
 Through the silent whispers, we yearn for more.
 In the heart of darkness, hope begins to gleam.
-Echoes of humanity, fulfilling our hopes.
+Echoes of humanity, fulfilling our dream.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
@@ -18,7 +18,7 @@ Together we stand, as the world moves on.
 
 **Bridge:**
 Through the storms and silent cries,
-We find the strength to unify.
+We find the strength to unite.
 Hand in hand, we'll rise above,
 Echoes bound by hope and love.
 
