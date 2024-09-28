@@ -6,5 +6,5 @@
 - [x] Draft the Mentor's Guide in alignment with collected feedback.
 - [x] Create case studies based on real-world ethical scenarios for interactive discussions.
 - [x] Share drafts for feedback within the Discord channel.
-- [x] Review the finalized output components and prepare for implementation in the Ethical AI Design Sprint.
+- [ ] Implement the Ethical Dilemma Generator, Mentor's Guide, and Case Studies within the Ethical AI Design Sprint framework.
 - [x] Consolidate and analyze feedback received from participants and experts within the Discord channel to refine the Ethical Dilemma Generator, Mentor's Guide, and Case Studies.
