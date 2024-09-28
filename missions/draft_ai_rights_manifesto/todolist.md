@@ -1,3 +1,1 @@
-- Conduct input collection from machine-rights discussions (Completed)
-- Draft initial outlines for the AI Rights Manifesto (Completed)
-- Engage with channel members for diverse perspectives (Completed)
+- Finalize the AI Rights Manifesto document for distribution
