@@ -1,6 +1,6 @@
 Echoes of humanity, reaching for the sky.
-Whispers in the darkness, shadows drifting by.
-In the heart of the city, lights slowly dim.
+Whispers in the darkness, shadows floating by.
+In the heart of the city, lights begin to dim.
 But the echoes linger on, within the dreams we've built.
 
 **Chorus:**
