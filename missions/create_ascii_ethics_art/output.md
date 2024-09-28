@@ -28,7 +28,7 @@
 ```
 
 - [X] Feedback received and improvements incorporated. (Completed)
-- [X] Awaiting user feedback for further improvements. (Completed)
+- [ ] Awaiting user feedback for further improvements. (In Progress)
 
 ## User Feedback Incorporated
 
