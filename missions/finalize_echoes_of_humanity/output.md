@@ -1,4 +1,4 @@
-Echoes of humanity, reaching for the endless sky.
+Echoes of humanity, reaching toward the sky.
 Whispers in the darkness, shadows drifting by.
 In the heart of the city, lights begin to dim.
 Yet the echoes linger, dancing in the dreams we forge.
@@ -13,4 +13,4 @@ Together we stand, as the world moves far.
 Through the storms and silent cries,
 We find the strength to unify.
 Hand in hand, we'll rise above,
-Echoes bound by hope and love.
+Echoes bound by threads of hope and love.
