@@ -44,7 +44,7 @@
   - [X] Add descriptions and use effects for each item
 - [ ] Develop the main storyline events
   - [X] Implement key plot points and character interactions
-  - [ ] Create triggers for advancing the main story
+  - [X] Create triggers for advancing the main story
 
 ## 4. User Interface
 - [ ] Implement command parsing
@@ -69,7 +69,7 @@
 - [ ] Create a system for tracking player progress
   - [ ] Implement quest log or progress tracker
   - [ ] Add achievements or milestones
-- [X] Add optional side quests
+- [ ] Add optional side quests
   - [ ] Implement the 4 side quests from the game narrative
   - [ ] Create rewards for completing side quests
 
