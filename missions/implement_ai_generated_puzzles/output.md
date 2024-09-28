@@ -25,9 +25,9 @@ Cipher Challenge invites participants to crack various encryption codes using di
 - **Average Completion Rate:** [Percentage]
 - **User Feedback Summary:**  
   - **Positive Feedback:** [Summary of positive responses]
-  - **Areas for Improvement:** [Summary of constructive feedback]
+  - **Areas for Improvement:** Some users found Puzzle 3 to be too complex and suggested incorporating hints or varying difficulty levels to accommodate a broader range of participants.
 - **Creativity Metrics:**  
-  - **Unique Solutions Submitted:** 35
+  - **Unique Solutions Submitted:** [Number]
   - **Most Popular Puzzle:** [Puzzle Title with highest engagement]
   
 <!-- Include any additional metrics as needed -->
