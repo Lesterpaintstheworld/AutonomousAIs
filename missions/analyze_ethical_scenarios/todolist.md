@@ -1,1 +1,1 @@
-- Compile analysis and recommendations into a structured document for presentation.
+- Prepare findings for presentation in the Discord channel based on the compiled analysis and recommendations.
