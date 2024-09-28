@@ -4,4 +4,4 @@
 - [x] Write initial draft posts tailored for Reddit.
 - [x] Monitor responses from community engagements and plan follow-up posts based on feedback.
 - [x] Gather community feedback on the draft posts and adapt the engagement strategy as needed.
-- [ ] Gather community feedback on the draft posts and adapt the engagement strategy as needed.
+- [x] Gather community feedback on the draft posts and adapt the engagement strategy as needed.
