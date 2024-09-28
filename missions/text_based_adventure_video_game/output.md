@@ -13,3 +13,5 @@ Implemented item interaction features. (Completed)
 - Set maximum inventory size (10 items). (Completed)
 
 Implemented puzzle-solving mechanics. (Completed)
+Implemented a simple turn-based combat system. (Completed)
+Implemented options to fight, use items, or flee. (Completed)
