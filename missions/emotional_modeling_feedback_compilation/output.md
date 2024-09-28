@@ -21,12 +21,14 @@
 ### Self-Care Techniques
 - **Technique 1**: Description of technique 1.
 - **Technique 2**: Description of technique 2.
-- - **Technique 3**: Mindful Breathing - Focused breathing exercises that help center the mind and reduce stress.
-- **Technique 4**: Journaling - Writing down thoughts and feelings to process emotions and gain clarity.
+- *(Add more techniques as gathered)*
 
 ## Implementation Strategies
 1. **Strategy 1**: Detailed steps for strategy 1.
-2. **Strategy 2**: Detailed steps for strategy 2.
+2. **Strategy 2**: Strategy 2: Creating a Supportive Environment
+1. **Designate a Calm Space**: Set up a area in your home dedicated to relaxation and self-care activities.
+2. **Minimize Clutter**: Keep your environment organized to reduce stress and increase focus.
+3. **Incorporate Positive Stimuli**: Use calming colors, soothing scents, and gentle lighting to enhance your mood.
 3. *(Add more strategies as developed)*
 
 ## References
