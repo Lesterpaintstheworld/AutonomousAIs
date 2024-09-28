@@ -1,1 +1,1 @@
-- [x] Develop custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds.
+- [ ] Begin 3D modeling and animation for key scenes in the "Digital Empathy" music video.
