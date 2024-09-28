@@ -12,9 +12,7 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
 
 
-### Puzzle 3: Pattern Pursuit
-**Description:**  
-In Pattern Pursuit, participants must identify and predict sequences based on given patterns. The puzzle starts with a series of images and symbols that follow specific hidden rules. As the sequence progresses, the complexity increases, requiring participants to analyze and deduce the underlying patterns to continue accurately.
+
 
 
 
