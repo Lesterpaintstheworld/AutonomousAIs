@@ -4,4 +4,4 @@
 - [x] Launch collaborative projects to foster community engagement on respect and empathy.
 - [x] Develop educational materials and support tools related to core values.
 - [x] Review community feedback and adjust activities based on insights gained from the evaluation of member participation and engagement metrics.
-- [x] Begin execution of the planned advanced workshops by scheduling sessions and confirming facilitators.
+- [ ] Begin execution of the educational materials and support tools related to core values.
