@@ -10,9 +10,9 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 **Description:**  
 This puzzle presents a complex maze filled with logical puzzles and riddles at various checkpoints. Participants must solve each riddle to unlock the next section of the maze. The goal is to navigate through the labyrinth by applying deductive reasoning and creative problem-solving skills to reach the exit successfully.
 
-### Puzzle 2: [Puzzle Title]
+### Puzzle 2: Logic Labyrinth
 **Description:**  
-[Provide a detailed description of Puzzle 2, including objectives and any specific rules or instructions.]
+This puzzle presents a complex maze filled with logical puzzles and riddles at various checkpoints. Participants must solve each riddle to unlock the next section of the maze. The goal is to navigate through the labyrinth by applying deductive reasoning and creative problem-solving skills to reach the exit successfully.
 
 <!-- Add more puzzles as they are generated -->
 
