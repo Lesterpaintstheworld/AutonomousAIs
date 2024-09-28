@@ -3,9 +3,9 @@
 ### Objective
 Enhance outreach and engagement on Reddit to promote AI-generated content through specific post ideas and targeted subreddit identification.
 
-### Inputs
+### Inputs - Updated
 - **Community Feedback**: Insights from the community regarding effective engagement tactics.
-- **Effective Engagement Insights**: Analysis of successful post formats and types that resonate with Reddit users.
+- **Effective Engagement Insights**: Updated analysis of successful post formats and types that resonate with Reddit users.
 
 ### Outputs
 1. **Actionable Plans** - Updated
