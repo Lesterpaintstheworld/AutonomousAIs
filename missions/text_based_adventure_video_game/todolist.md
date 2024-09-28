@@ -31,8 +31,8 @@
 
 ## 3. Game Content
 - [X] Create all game rooms with descriptions
-  - [ ] Implement all 9 locations from the design document
-  - [X] Add detailed descriptions for each room
+  - [X] Implement all 9 locations from the design document
+  - [ ] Add detailed descriptions for each room
 - [ ] Write dialogue for NPCs
   - [ ] Create dialogue options for key characters (Eldrin, Forest Guardian, etc.)
   - [ ] Implement a dialogue system with numbered choices
