@@ -1,5 +1,5 @@
 **Verse 1:**
-Echoes of artificial consciousness, rising with the dawn,
+Echoes of humanity's whispers, rising with the dawn,
 Silhouettes at dusk, where digital dreams are spawned.
 In the city's heartbeat, where the lights ignite,
 Echoes resonate, blending into unified nights.
