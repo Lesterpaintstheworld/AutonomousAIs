@@ -25,6 +25,12 @@
    
 3. **Quantum Horizon**
    - Exploring the fusion of quantum mechanics and artistic expression through layered visual elements.
+   
+4. **Community Mosaic**
+   - A collaborative artwork created by multiple local artists, symbolizing unity and diversity within Chicago's communities.
+   
+5. **Eco Spectrum**
+   - An environmentally-themed piece using sustainable materials and digital enhancements to highlight conservation efforts.
 
 ## Preliminary Plan for NFT Creation
 
