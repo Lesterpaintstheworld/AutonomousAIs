@@ -1,4 +1,4 @@
-- Create a checklist of production requirements, including instrumental arrangements and vocal parts. 
+- Prepare documentation for team members or collaborators within the Discord channel. 
 - Implement proper version control for future reference.
 - Identify sections needing adjustments or enhancements.
 - Modify lyrics to improve melody and resonance.
