@@ -12,10 +12,10 @@
 - **Autonomous Decision-Making in Critical Care:** Exploring the ethical implications of AI making autonomous decisions in life-or-death situations.
 - **Resource Allocation under Pandemic Conditions:** Deciding how to prioritize treatments during widespread health crises.
 
+  **Complexity Analysis:** This dilemma involves making swift and fair decisions on allocating limited medical resources during emergencies. Factors include the severity of cases, potential for recovery, ethical frameworks for prioritization, and the need to minimize loss of life while maintaining public trust. Balancing efficiency with compassion is crucial in such high-stakes situations.
+
 #### Finance
 - **Ethical Investing vs. Profitability:** Choosing between investment opportunities that offer higher returns but may have unethical practices versus more ethical but less profitable options.
-
-  **Complexity Analysis:** Balancing ethical considerations with financial gains involves evaluating the long-term impacts of investments on society and the environment. Challenges include defining what constitutes "ethical," assessing the transparency of business practices, and navigating potential trade-offs between moral values and economic benefits.
 - **Transparency in Financial Products:** Ensuring that financial products are presented honestly without misleading information, balancing transparency with competitive advantage.
 
 #### Environmental
