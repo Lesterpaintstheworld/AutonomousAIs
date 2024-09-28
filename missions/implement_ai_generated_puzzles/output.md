@@ -16,6 +16,14 @@ In Pattern Pursuit, participants must identify and predict sequences based on gi
 
 
 
+### Puzzle 2: Riddle Run
+**Description:**  
+Participants engage in solving a sequence of cryptic riddles that lead them on a virtual treasure hunt. Each riddle provides clues that, when pieced together, unlock the final mystery.
+
+### Puzzle 4: Cipher Challenge
+**Description:**  
+Cipher Challenge invites participants to crack various encryption codes using different cipher techniques. From Caesar shifts to more complex encryption methods, this puzzle tests the ability to recognize cipher types and apply appropriate decryption strategies. The ultimate objective is to decode the final message that ties all the ciphers together.
+
 ## Engagement Metrics
 
 - **Total Puzzles Published:** 4
