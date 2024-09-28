@@ -1135,10 +1135,7 @@ _**Mission Completed Successfully** in 3.5 minutes**
 
 
 
-## Regular Monitoring
 
-- **Description:** Conduct regular monitoring of the Ethical AI Snapshot tool informed by ongoing user feedback and established criteria.
-- **Impact:** Ensures continuous compliance with ethical standards and adapts the tool based on user needs and feedback.
 
 ## Regular Monitoring
 
