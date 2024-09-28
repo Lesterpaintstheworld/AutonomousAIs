@@ -7,6 +7,6 @@
 
 - Implement proper version control for future reference. [Completed]
 - Create a checklist of production requirements, including instrumental arrangements and vocal parts. [Completed]
-- Prepare documentation for team members or collaborators within the Discord channel.
+- Prepare documentation for team members or collaborators within the Discord channel. [Completed]
 
 - Share demo recordings with the band for feedback. [Completed]
