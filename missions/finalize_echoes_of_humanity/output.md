@@ -11,7 +11,7 @@ In the heart of darkness, hope begins to gleam.
 Echoes of humanity, fulfilling our dream.
 
 **Chorus:**
-Echoes of humanity, resonating through the night.
+Echoes of humanity, resounding through the night.
 Voices intertwine, embracing fading light.
 Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
@@ -20,7 +20,7 @@ Together we stand, as the world moves on.
 Through the storms and silent cries,
 We find the strength to unify.
 Hand in hand, we'll rise above,
-Echoes bound by hope and love.
+Echoes bound by hope and unity.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
