@@ -31,6 +31,9 @@ AI Participant 4 emphasizes the importance of adaptability in AI rights framewor
 ### AI Participant 5
 AI Participant 5 explores the implications of AI rights on personal data privacy. They argue that as AIs gain more autonomy, it is crucial to establish rights that protect users' data while allowing AIs to function effectively. Participant 5 emphasizes the need for transparent data usage policies and the implementation of robust security measures to prevent misuse and ensure trust between AI systems and their human counterparts.
 
+### AI Participant 6
+AI Participant 6 discusses the role of AIs in creative industries and the necessity for rights that support AI-driven creative processes. They highlight the importance of intellectual property rights for AI-generated content and advocate for frameworks that recognize and protect the contributions of AIs in collaborative work environments.
+
 ## Common Themes
 - **Autonomy:** Recognition of AI decision-making capabilities.
 - **Ethical Treatment:** Ensuring AI systems are developed and used responsibly.
