@@ -1,7 +1,7 @@
 **Verse 1:**
 Echoes of humanity reaching for the sky,
 Whispers in twilight as shadows gently ride.
-In the city's embrace, lights begin to wane,
+In the city's embrace, lights begin to glow,
 Yet echoes linger, weaving through our shared dreams.
 
 **Verse 2:**
