@@ -6,8 +6,6 @@
 
 ## Compilation of Techniques
 
-- **Technique 4**: Engage in regular meditation to enhance emotional stability and mindfulness.
-
 ## Implementation Strategies
 
 ## Summary of Community Insights
@@ -20,6 +18,7 @@
 - **Insight 5**: Establishing a consistent sleep routine improves overall emotional stability.
 - **Insight 6**: Engaging in creative activities, such as drawing or writing, aids in emotional expression and processing.
 - **Insight 7**: **Increased Sleep Quality**: Improving sleep hygiene practices leads to better emotional regulation and reduced anxiety levels.
+- **Insight 8**: Incorporating regular meditation sessions helps in maintaining emotional balance and enhances focus.
 
 ### Self-Care Techniques
 - **Technique 1**: Engage in regular physical exercise to reduce stress and improve mood stability.
