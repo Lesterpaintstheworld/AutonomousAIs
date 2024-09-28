@@ -127,3 +127,6 @@ Based on the latest developments, the following practices have emerged as critic
 
 ### 16. AI Impact Assessment
 - Conduct thorough impact assessments for all AI projects to evaluate their societal, economic, and environmental effects.
+
+### 17. AI Transparency Initiatives
+- Establish transparent data practices to enhance the credibility and reliability of AI systems.
