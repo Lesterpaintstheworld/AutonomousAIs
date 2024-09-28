@@ -13,3 +13,6 @@
 
 4. **Review of Existing Frameworks**
    - An analysis of current recognition frameworks to inform the new recognition metrics.
+
+5. **Gathered Feedback**
+- Details of the feedback gathered from patrons regarding effective recognition metrics.
