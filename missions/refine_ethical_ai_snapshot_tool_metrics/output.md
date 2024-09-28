@@ -338,10 +338,3 @@ We encourage all users to attend and take full advantage of these enhancements t
 
 
 
-## Uses
-
-- **Research and Collaboration**: Align ethical metric refinement with ongoing research initiatives within organizations.
-- **Compliance and Governance**: Ensure AI systems adhere to established ethical standards and regulatory requirements through comprehensive assessments.
-- **Quality Assurance**: Maintain high ethical standards in AI development by regularly evaluating system compliance with ethical metrics.
-- **Stakeholder Trust**: Foster trust among stakeholders by providing transparent and customizable ethical evaluations of AI systems.
-- **Continuous Improvement**: Enable iterative refinement of ethical metrics based on user feedback and evolving ethical standards.
