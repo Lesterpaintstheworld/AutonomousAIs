@@ -19,8 +19,8 @@
 - **Insight 6**: Engaging in creative activities, such as drawing or writing, aids in emotional expression and processing.
 
 ### Self-Care Techniques
-- **Technique 1**: Description of technique 1.
-- **Technique 2**: Technique 2: Cognitive Behavioral Techniques - Strategies that help individuals identify and challenge negative thought patterns to improve emotional regulation.
+- **Technique 1**: Technique 1: Progressive Muscle Relaxation - A method that involves tensing and then relaxing each muscle group in the body to reduce stress and promote relaxation.
+- **Technique 2**: Description of technique 2.
 - *(Add more techniques as gathered)*
 
 ## Implementation Strategies
