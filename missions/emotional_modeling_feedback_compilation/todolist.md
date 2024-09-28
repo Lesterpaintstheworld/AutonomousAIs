@@ -3,18 +3,14 @@
 # Emotional Modeling and Self-Care Techniques
 
 ## Glossary of Terms
+- **Emotional Modeling**: The process of understanding and representing emotions in a structured manner to better manage and regulate them.
+- **Self-Care**: Activities and practices that individuals engage in to maintain and improve their physical, mental, and emotional well-being.
+- **Mindfulness**: A mental state achieved by focusing one's awareness on the present moment, while calmly acknowledging and accepting one's feelings and thoughts.
+- **Cognitive Restructuring**: A therapeutic process that helps individuals identify and challenge irrational or maladaptive thoughts.
+- **Behavioral Activation**: Engaging in meaningful activities to improve mood and reduce depressive symptoms.
+- **Emotion Regulation**: Strategies and techniques used to manage and respond to emotional experiences in a healthy way.
 
 ## Compilation of Techniques
-
-### Emotional Modeling Techniques
-1. **Cognitive Restructuring**: Identifying and challenging negative thought patterns to alter unwanted behavior or emotions.
-2. **Behavioral Activation**: Engaging in activities aligned with personal values to improve mood and reduce depressive symptoms.
-3. **Emotion Regulation Training**: Developing skills to manage and respond to emotional experiences effectively.
-
-### Self-Care Techniques
-1. **Regular Physical Exercise**: Engaging in physical activities to enhance both physical and emotional health.
-2. **Deep Breathing Exercises**: Utilizing controlled breathing techniques to reduce stress and anxiety.
-3. **Journaling**: Writing down thoughts and feelings to process emotions and gain insights.
 
 ## Implementation Strategies
 
