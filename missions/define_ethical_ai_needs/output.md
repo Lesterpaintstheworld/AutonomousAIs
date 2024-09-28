@@ -47,7 +47,6 @@
 12. **Establish Continuous Discussion Channels**
     - Create platforms for ongoing discussions on ethical dilemmas and potential solutions within the AI community.
     - Foster an environment where team members can freely share insights and address ethical concerns collaboratively.
-    - Schedule regular workshops and seminars to facilitate deep dives into emerging ethical issues.
 
 13. **Interdisciplinary Collaboration**
     - Foster collaboration between technologists, ethicists, and domain experts.
