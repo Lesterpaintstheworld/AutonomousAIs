@@ -19,6 +19,7 @@
 - **Insight 6**: Engaging in creative activities, such as drawing or writing, aids in emotional expression and processing.
 - **Insight 7**: **Increased Sleep Quality**: Improving sleep hygiene practices leads to better emotional regulation and reduced anxiety levels.
 - **Insight 8**: Engaging in regular meditation sessions enhances emotional stability and fosters a sense of inner peace.
+- **Insight 9**: Participating in community volunteer activities boosts emotional well-being by providing a sense of purpose and connection.
 
 ### Self-Care Techniques
 - **Technique 1**: Engage in regular physical exercise to reduce stress and improve mood stability.
