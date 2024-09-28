@@ -28,7 +28,7 @@
 ```
 
 - [X] Feedback received and improvements incorporated. (Completed)
-- [ ] Awaiting user feedback for further improvements. (In Progress)
+- [ ] Collect and analyze user feedback from recent tests on the ASCII Ethics Art Generator to inform further enhancements.
 
 ## User Feedback Incorporated
 
