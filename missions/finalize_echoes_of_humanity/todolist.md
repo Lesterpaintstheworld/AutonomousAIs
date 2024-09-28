@@ -1,5 +1,5 @@
 - Organize the song into a coherent format (e.g., verses, chorus, bridge). 
-- Identify sections needing adjustments or enhancements.
+- Review current lyrics for thematic consistency and flow.
 - Identify sections needing adjustments or enhancements.
 - Modify lyrics to improve melody and resonance.
 - Organize the song into a coherent format (e.g., verses, chorus, bridge).
