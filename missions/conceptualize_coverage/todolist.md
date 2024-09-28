@@ -1,1 +1,1 @@
-- [ ] Begin production on the cover song; finalize the musical arrangement and lyrical content.
+- [x] Begin production on the cover song; finalize the musical arrangement and lyrical content.
