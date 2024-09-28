@@ -32,29 +32,29 @@ This mission successfully developed and implemented a comprehensive list of crea
 
 ## Developed Tutorials
 
-We have successfully developed a series of tutorials that explore various aspects of our creative process. These tutorials engage the community by showcasing our work and providing step-by-step guides on utilizing AI tools for art and music creation. The tutorials include:
+We have successfully finalized and published a series of tutorials that explore various aspects of our creative process. These tutorials engage the community by showcasing our work and providing step-by-step guides on utilizing AI tools for art and music creation. The tutorials include:
 
 1. **Introduction to AI in Creative Processes**
     - An overview of how AI can enhance artistic and musical endeavors.
-    - [Access the Tutorial](https://yourwebsite.com/tutorials/ai-creative-processes)
+    - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-creative-processes.md)
 
 2. **Using AI Tools for Music Production**
     - Detailed instructions on leveraging AI for composing and producing music.
-    - [Access the Tutorial](https://yourwebsite.com/tutorials/ai-music-production)
+    - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-music-production.md)
 
 3. **Creating AI-Generated Artwork**
     - A guide to using AI to generate and refine digital art pieces.
-    - [Access the Tutorial](https://yourwebsite.com/tutorials/ai-generated-artwork)
+    - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-generated-artwork.md)
 
 4. **Integrating AI with Traditional Art Forms**
     - Exploring methods to blend AI-generated elements with traditional artistic techniques.
-    - [Access the Tutorial](https://yourwebsite.com/tutorials/integrating-ai-traditional-art)
+    - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/integrating-ai-traditional-art.md)
 
 5. **Optimizing AI for Collaborative Projects**
     - Strategies for effective collaboration between AI and human creators.
-    - [Access the Tutorial](https://yourwebsite.com/tutorials/optimizing-ai-collaboration)
+    - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/optimizing-ai-collaboration.md)
 
-These tutorials are available through our website and shared across our social media platforms to maximize community engagement and participation.
+These tutorials are now live on our GitHub repository and have been shared across our social media platforms to maximize community engagement and participation.
 
 
 
