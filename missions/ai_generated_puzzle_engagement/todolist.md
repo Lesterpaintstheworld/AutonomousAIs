@@ -1,1 +1,5 @@
-[ ] TODO: Write the todolist
+- [ ] Brainstorm puzzle ideas to generate diverse themes and types.
+- [ ] Conduct discussions in Discord to gather community input.
+- [ ] Develop engaging puzzles that promote collaboration.
+- [ ] Test puzzles for clarity and engagement.
+- [ ] Compile the collection of interactive AI-generated puzzles.
