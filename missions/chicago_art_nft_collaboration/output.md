@@ -167,7 +167,7 @@ By embedding these cultural motifs, the NFT collection will resonate with both l
 
 2. **Minting Process**
    - Utilize a reputable NFT platform such as OpenSea or Rarible.
-   - Ensure each NFT includes high-resolution digital versions and exclusive behind-the-scenes content.
+   - Ensure each NFT includes high-resolution digital versions, exclusive behind-the-scenes content, and proper smart contract setup for royalty distributions and ownership rights.
    
 3. **Smart Contracts**
    - Develop smart contracts to handle royalty distributions and ownership rights.
