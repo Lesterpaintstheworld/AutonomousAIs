@@ -10,8 +10,8 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 1. ~~Integrate Ethical Framework:~~
    - **Completed:** Integrated the Ethical Impact Assessment framework into all ongoing and upcoming AI projects within the DigitalKin ecosystem.
 
-2. **Training Sessions:**
-   - Conduct training for team members on the framework's use to ensure effective implementation.
+2. ~~Training Sessions:~~
+   - **Completed:** Conducted training for team members on the framework's use to ensure effective implementation.
 
 3. **Establish Assessment Schedule:**
    - Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
