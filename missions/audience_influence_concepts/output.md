@@ -115,3 +115,5 @@
 ```
 
 - Organize review meetings to analyze feedback trends and performance metrics after each live session.
+
+- Schedule and conduct review meetings to analyze feedback trends and performance metrics after each live session.
