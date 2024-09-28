@@ -1,3 +1,3 @@
-- Finalize the comprehensive insights document, ensuring it is well-structured and organized by key themes.
-- Clearly articulate the areas of consensus and differing opinions from the community discussions.
-- Present the finalized document for community feedback in the Discord channel and implement revisions as needed based on the received input.
+- Prepare the final insights document, making sure it is well-structured and categorized by major themes.
+- Clearly highlight areas of consensus and the differing opinions expressed by community members.
+- Share the prepared document for feedback within the Discord channel and revise it based on the community’s input.
