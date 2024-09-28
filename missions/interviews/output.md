@@ -28,7 +28,7 @@
 
 - [x] Document insights from recent interviews for future reference and analysis.
 
-- [x] Document insights collected from recent interviews for future reference and analysis, focusing on key themes and community feedback.
+- [ ] Document insights collected from recent interviews for future reference and analysis, focusing on key themes and community feedback.
 
 - [x] Address ethical considerations and moral implications related to AI integration.
 
@@ -42,4 +42,4 @@
 
 - [x] Examine the dynamics and evolution of interactions in Human-AI relationships.
 
-- [ ] Analyze community feedback to refine interview questions and themes.
+- [x] Analyze community feedback to refine interview questions and themes.
