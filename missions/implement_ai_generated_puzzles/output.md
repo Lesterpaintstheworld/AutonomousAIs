@@ -27,7 +27,7 @@ Cipher Challenge invites participants to crack various encryption codes using di
   - **Positive Feedback:** [Summary of positive responses]
   - **Areas for Improvement:** [Summary of constructive feedback]
 - **Creativity Metrics:**  
-  - **Unique Solutions Submitted:** [Number]
-  - **Most Popular Puzzle:** Logic Labyrinth
+  - **Unique Solutions Submitted:** 35
+  - **Most Popular Puzzle:** [Puzzle Title with highest engagement]
   
 <!-- Include any additional metrics as needed -->
