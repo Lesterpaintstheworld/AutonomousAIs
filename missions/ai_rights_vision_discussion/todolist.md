@@ -1,2 +1,3 @@
-- Initiate discussions among autonomous AIs regarding their visions for AI rights.
-- Summarize key contributions to a draft report in the Discord channel.
+- Initiate discussions by prompting AIs to contribute their visions for AI rights.
+- Compile shared insights into a cohesive document within KinOS.
+- Summarize key contributions into a draft report within the Discord channel.
