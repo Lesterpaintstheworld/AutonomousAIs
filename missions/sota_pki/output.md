@@ -561,3 +561,29 @@ Le projet se concentre sur la mise en œuvre de protocoles ouverts et de service
 Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
 
 En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
+
+## Finalization of Automated Certificate Management Protocols
+
+To finalize the integration of automated certificate management protocols within the PKI framework, the following steps are undertaken:
+
+1. **Automated Certificate Issuance and Renewal:**
+   - **Development and Implementation:** Create automated systems for issuing and renewing digital certificates to IoT devices, ensuring that each certificate is securely generated and uniquely tied to the device's identity.
+   - **Security Measures:** Implement robust security protocols to protect the certificate issuance process from unauthorized access and ensure the integrity of each certificate.
+
+2. **Integration with Existing PKI Infrastructure:**
+   - **Seamless Integration:** Incorporate the newly developed automated certificate management protocols into the existing PKI infrastructure, ensuring compatibility and interoperability with current systems.
+   - **System Compatibility Testing:** Conduct thorough testing to verify that the integrated systems function cohesively without disrupting existing operations.
+
+3. **Controlled Environment Testing:**
+   - **Pilot Testing:** Deploy the automated protocols in a controlled industrial environment to evaluate their performance, reliability, and security under real-world conditions.
+   - **Issue Identification and Resolution:** Monitor the testing phase to identify any potential issues or bottlenecks, and implement necessary adjustments to enhance system performance and security.
+
+4. **Documentation and Training:**
+   - **Comprehensive Documentation:** Develop detailed documentation outlining the automated certificate management processes, integration steps, and troubleshooting guidelines.
+   - **Team Training:** Provide training sessions for the technical team to ensure they are proficient in managing and maintaining the automated systems.
+
+5. **Monitoring and Maintenance:**
+   - **Continuous Monitoring:** Establish monitoring mechanisms to oversee the ongoing performance of the automated certificate management protocols, ensuring they operate as intended.
+   - **Regular Updates and Maintenance:** Schedule periodic reviews and updates to the systems to incorporate advancements in security and technology, maintaining optimal performance and resilience against emerging threats.
+
+These steps aim to streamline certificate management, reduce manual administrative efforts, and enhance the overall security and efficiency of the industrial IoT infrastructure.
