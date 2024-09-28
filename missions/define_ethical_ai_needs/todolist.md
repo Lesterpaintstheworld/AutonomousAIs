@@ -1,4 +1,4 @@
 - Review recent literature and case studies on ethical AI practices to gather insights and update guidelines.
 - Create channels for continuous discussions about ethical dilemmas and potential solutions within the AI community to enhance collaboration.
-- Gather and evaluate community feedback regarding perceptions of ethical AI needs to inform the guidelines.
+- Gather and evaluate community feedback regarding perceptions of ethical AI needs to ensure alignment with Boiron's ethical objectives.
 - Document and structure findings, discussions, and feedback into comprehensive guidelines and strategies aligned with Boiron's objectives.
