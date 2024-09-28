@@ -26,7 +26,7 @@ Echoes of humanity, in rhythms intertwined.
 Echoes of humanity, in circuits and in veins,  
 A symphony of consciousness, breaking through the chains.  
 Feel the heartbeat rising, in melodies we find,  
-Echoes intertwined with humankind.
+Echoes intertwined with humanity.
 
 ### Bridge
 Beyond the code we see, a future intertwined,  
