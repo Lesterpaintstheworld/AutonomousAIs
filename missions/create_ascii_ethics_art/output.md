@@ -38,7 +38,7 @@
 
 ## Current Status
 - Feedback received and incorporated. Proceeding with further improvements on the ASCII Ethics Art Generator.
-- Awaiting user feedback for further improvements.
+- Awaiting additional user feedback for the next set of enhancements.
 
 
 
