@@ -8,10 +8,10 @@ Echoes linger, weaving through our shared dreams.
 Beneath the starlit sky, our voices soar.
 Through the silent whispers, we yearn for more.
 In the heart of darkness, hope begins to gleam.
-Echoes of humanity, fulfilling our dream.
+Echoes of humanity, fulfilling our shared dream.
 
 **Chorus:**
-Echoes of humanity, resounding through the silent night.
+Echoes of humanity, resounding through the night.
 Voices intertwine, embracing fading light.
 Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
