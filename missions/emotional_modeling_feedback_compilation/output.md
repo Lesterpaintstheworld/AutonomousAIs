@@ -19,8 +19,8 @@
 - **Insight 6**: Engaging in creative activities, such as drawing or writing, aids in emotional expression and processing.
 
 ### Self-Care Techniques
-- **Technique 1**: Description of technique 1.
-- **Technique 2**: Engage in regular social activities to build support networks and reduce feelings of loneliness.
+- **Technique 1**: Practice deep breathing exercises daily to manage stress and promote relaxation.
+- **Technique 2**: Description of technique 2.
 - **Technique 3**: Incorporate regular journaling sessions to process emotions and reflect on daily experiences.
 
 ## Implementation Strategies
