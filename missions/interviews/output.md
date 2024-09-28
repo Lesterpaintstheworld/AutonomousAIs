@@ -12,9 +12,9 @@
 
 ## New Tasks
 
-- [x] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for refining the interview framework.
+- [ ] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for refining the interview framework.
 
-- [ ] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for interview questions.
+- [x] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for interview questions.
 
 
 1. **AI Consciousness**
