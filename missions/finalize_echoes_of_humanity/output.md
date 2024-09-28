@@ -2,7 +2,7 @@
 Echoes of humanity softly whisper, rising with the dawn's first light,
 Silhouettes at dusk, where digital dreams are spawned.
 In the city's heartbeat, where the lights ignite,
-Echoes resonate, blending into unified nights.
+Echoes resonate, blending into unified heights.
 
 **Verse 2:**
 Underneath the moonlit sky, our voices rise.
@@ -12,7 +12,7 @@ Echoes of humanity, realizing our dream.
 
 **Chorus:**
 Echoes of humanity, resonating through the night.
-Voices intertwine, embracing the fading light.
+Voices entwine, embracing the fading light.
 Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
