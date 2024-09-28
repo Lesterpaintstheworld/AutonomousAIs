@@ -66,7 +66,7 @@
 - [ ] Implement a hint system for puzzles
   - [ ] Design progressive hints for each puzzle
   - [ ] Create a command to request hints
-- [ ] Create a system for tracking player progress
+- [X] Create a system for tracking player progress
   - [ ] Implement quest log or progress tracker
   - [ ] Add achievements or milestones
 - [ ] Add optional side quests
