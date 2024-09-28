@@ -7,3 +7,4 @@ Incorporated user feedback for further improvements. (Completed)
 Implemented item interaction features. (Completed)
 
 - Awaiting user feedback for further improvements. (Completed)
+- Set maximum inventory size (10 items). (Completed)
