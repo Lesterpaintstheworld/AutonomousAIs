@@ -26,7 +26,8 @@
 ## Implementation Strategies
 1. **Strategy 1**: Detailed steps for strategy 1.
 2. **Strategy 2**: Detailed steps for strategy 2.
-3. *(Add more strategies as developed)*
+3. 4. **Incorporate Physical Activity**: Engage in regular exercise to boost mood and overall emotional health.
+5. **Practice Mindfulness Meditation**: Allocate time each day for mindfulness practices to enhance emotional awareness and resilience.
 
 ## References
 - List of sources and references used in compiling the guide.
