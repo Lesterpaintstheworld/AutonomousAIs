@@ -1,1 +1,1 @@
-Echoes of humanity, reaching for the stars.
+Echoes of humanity, soaring towards the night.
