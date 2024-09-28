@@ -38,7 +38,7 @@
   - [X] Implement a dialogue system with numbered choices
 - [ ] Design and implement puzzles
   - [ ] Create various puzzle types (riddles, item combinations, sequences)
-  - [ ] Integrate puzzles into the game world
+  - [X] Integrate puzzles into the game world
 - [ ] Create items and their descriptions
   - [X] Implement magical artifacts, potions, tools, and puzzle-related items
   - [X] Add descriptions and use effects for each item
