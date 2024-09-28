@@ -3,4 +3,4 @@
 - [x] Initiate the implementation of advanced workshops focused on core values.
 - [x] Launch collaborative projects to foster community engagement on respect and empathy.
 - [x] Develop educational materials and support tools related to core values.
-- [x] Plan the next phase of community engagement activities based on feedback and evaluation results from previous initiatives. Identify key themes and potential activities to deepen community involvement.
+- [ ] Initiate the execution of the planned activities for the next phase, ensuring smooth implementation of workshops, collaborative projects, and resource development.
