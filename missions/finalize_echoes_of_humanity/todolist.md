@@ -1,4 +1,4 @@
-- Identify sections needing adjustments or enhancements. 
+- Organize the song into a coherent format (e.g., verses, chorus, bridge). 
 - Implement proper version control for future reference.
 - Identify sections needing adjustments or enhancements.
 - Modify lyrics to improve melody and resonance.
