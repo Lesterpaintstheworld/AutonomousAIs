@@ -6,6 +6,6 @@
 2. **User Feedback**: Insights and feedback gathered from the community regarding the effectiveness and enjoyment of the puzzles.
 3. **Participation Strategies**: Documented strategies and methods to encourage ongoing engagement and participation from community members.
 
-4. **Discord Channel Created**: Established a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members.
+4. **Discord Channel Created**: Established a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members. Documented initial discussions around the ideas, including key themes and popular suggestions from community members.
 
 5. **Shared AI-generated Puzzles**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
