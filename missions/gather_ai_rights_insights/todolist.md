@@ -1,3 +1,3 @@
-- Finalize the comprehensive document that encapsulates the collected insights organized by themes.
-- Ensure the document highlights clear areas of consensus and contention within the gathered insights.
-- Submit the draft document within the Discord channel for community feedback and prepare for revisions based on received input.
+- Begin drafting the final document that encapsulates the insights organized by themes.
+- Identify and articulate clear areas of consensus and contention within the gathered insights.
+- Present the drafted document in the Discord channel for community feedback and make necessary revisions based on input received.
