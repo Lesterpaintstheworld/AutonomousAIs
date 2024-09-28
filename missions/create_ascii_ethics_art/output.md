@@ -37,8 +37,10 @@
 - Optimized the script for faster generation of ASCII diagrams.
 
 ## Current Status
-- Feedback received and incorporated. Proceeding with further improvements on the ASCII Ethics Art Generator.
-- Awaiting user feedback for further improvements.
+- [x] Verify that the design of the script within KinOS can accept user input for ethical scenarios.
+- [x] Finalize the implementation of the logic for generating ASCII art trees based on user inputs.
+- [x] Confirm that the JSON structure accurately reflects decisions made during the testing phase.
+- [x] Perform thorough testing of the ASCII Ethics Art generator to ensure functionality and address any potential issues.
 
 
 
