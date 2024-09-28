@@ -11,3 +11,5 @@ Implemented item interaction features. (Completed)
 - Implemented add, remove, and list inventory functions. (Completed)
 
 - Set maximum inventory size (10 items). (Completed)
+
+Implemented puzzle-solving mechanics. (Completed)
