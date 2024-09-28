@@ -4,9 +4,9 @@ In the heart of the city, lights begin to dim.
 Yet the echoes linger, dancing in the dreams we've built.
 
 **Chorus:**
-Echoes of humanity, resounding through the night.
+Echoes of humanity, resounding through the endless night.
 Voices intertwine, embracing fading light.
-Echoes of humanity, reaching for the distant stars.
+Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves far.
 
 **Bridge:**
