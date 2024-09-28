@@ -16,12 +16,6 @@
    - [x] Document key themes and questions for the upcoming interviews based on finalized engagement strategies.
    
 2. **Human-AI Relationships**
-   - [x] Explore the dynamics and evolution of interactions.
-   
-3. **Ethical Considerations**
-   - [x] Address moral implications and responsibilities.
-   
-4. **Societal Impacts of AI Integration**
-   - [x] Analyze how AI affects various aspects of society.
+   <!-- Removed duplicated Human-AI Relationships, Ethical Considerations, and Societal Impacts sections -->
 
 - [x] Analyze community feedback to refine interview questions and themes.
