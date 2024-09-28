@@ -167,7 +167,8 @@ Based on the user feedback received during the recent tests of the ASCII Ethics 
     
 Addressing these areas will significantly enhance the functionality, usability, and user satisfaction of the ASCII Ethics Art Generator, ensuring its effectiveness as a tool for visualizing ethical decision-making processes.
 
-=======
+=====
+
 ## Draft Report on Areas for Improvement
 
 Based on the user feedback received during the recent tests of the ASCII Ethics Art Generator, the following areas have been identified for improvement:
