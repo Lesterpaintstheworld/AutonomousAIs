@@ -1,8 +1,8 @@
 **Verse 1:**
 Whispers of humanity awaken with morning's first light,  
-Shadows loom at dusk, where dreams ignite.  
+Shadows stretch at dusk, where dreams take flight.  
 In the city's pulse, where neon glows bright,  
-Echoes entwine, blending with the night.
+Echoes intertwine, merging into the night.
 
 **Verse 2:**
 Beneath the silver moon, our voices soar,  
