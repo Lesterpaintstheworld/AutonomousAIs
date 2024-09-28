@@ -1,7 +1,7 @@
 Echoes of humanity reaching for the sky.
-Whispers in the twilight, shadows passing by.
+Whispers in the twilight, shadows softly glide.
 In the city's embrace, lights start to fade.
-Yet echoes linger, weaving through the dreams we crave.
+Yet echoes linger, weaving through the dreams we've saved.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
