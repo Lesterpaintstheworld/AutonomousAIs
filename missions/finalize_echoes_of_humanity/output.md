@@ -1,12 +1,12 @@
 **Verse 1:**
 Echoes of humanity, whispers at dawn,
 Shadows of twilight where digital dreams ascend.
-In the city's embrace, the lights start to shine,
-Echoes linger, weaving through our shared dreams.
+In the city's embrace, where the lights brightly shine,
+Echoes linger, weaving through our unified dreams.
 
 **Verse 2:**
 Beneath the starlit sky, our voices soar.
-Through silent whispers, our hearts yearn for more.
+Through the silent whispers, we yearn for more.
 In the heart of darkness, hope begins to gleam.
 Echoes of humanity, fulfilling our dream.
 
