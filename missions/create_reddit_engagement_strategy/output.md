@@ -46,6 +46,10 @@
    - Use survey results to tailor content and engagement strategies to better meet fan interests.
 
 ## Timeline
+- **5 Weeks Before Release**:
+  - Conduct a comprehensive review of targeted subreddits to identify the best engagement opportunities.
+  - Develop detailed content calendars for each subreddit to ensure tailored and relevant posts.
+
 - **4 Weeks Before Release**:
   - Identify and join relevant subreddits.
   - Schedule initial AMA sessions and announce them to build anticipation.
@@ -68,8 +72,6 @@
 - **Feedback Quality**: Assess the sentiment and constructiveness of discussions generated.
 - **Event Participation**: Measure attendance and interaction levels in AMA sessions and contests.
 - **Content Reach**: Analyze the spread and visibility of shared content across Reddit.
-- **Conversion Metrics**: Evaluate the number of new followers or subscribers gained as a result of the engagement efforts.
-- **Sentiment Analysis**: Utilize tools to gauge the overall sentiment of the community towards the AI music release.
 
 ## Execution Summary
 The task to prepare and present a report summarizing insights and feedback from Reddit engagement to the team has been completed. The report was successfully presented during the team meeting. The analysis from the report will inform future engagement strategies.
