@@ -11,8 +11,8 @@
 - **Completed:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
 - **Completed:** Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
 
-- Implement a process for continuous improvement based on feedback and evolving ethical standards.
 
+- Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
 
 ## Challenges Encountered
 
