@@ -1,4 +1,4 @@
 - [x] Gather relevant content from the AI music ethics section.
 - [x] Compile feedback from previous discussions to inform the proposal.
 - [x] Draft a comprehensive project proposal document.
-- [x] Review and finalize the project proposal for submission.
+- [ ] Review and finalize the project proposal for submission.
