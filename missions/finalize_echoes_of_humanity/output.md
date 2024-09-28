@@ -1,13 +1,13 @@
 **Verse 1:**
-Echoes of humanity rise with morning's first light,  
-Shadows loom at dusk, where dreams ignite.  
-In the city's pulse, where neon glows bright,  
-Echoes intertwine, merging into the night.
+Echoes of humanity awaken with dawn's first light,  
+Shadows deepen at dusk, where dreams take flight.  
+In the city's heartbeat, where neon shines bright,  
+Echoes intertwine, blending into the night.
 
 **Verse 2:**
-Under the silver moonlight, our voices ascend,  
-Through silent whispers, forever yearning to transcend.  
-In the quietest hours, hope starts to gleam,  
+Beneath the silver moon, our voices soar,  
+Through silent whispers, always yearning for more.  
+In the darkest hours, hope begins to gleam,  
 Echoes of humanity, igniting every dream.
 
 **Chorus:**
