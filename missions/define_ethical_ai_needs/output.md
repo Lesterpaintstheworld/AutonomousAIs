@@ -77,6 +77,14 @@ Based on recent literature and case studies, the following best practices have b
    - Enhance user agency by allowing greater control over AI interactions.
    - Provide mechanisms for users to understand and modify AI behaviors.
 
+7. **Collaborative Ethical Design**
+   - Engage multidisciplinary teams in the AI design process to incorporate diverse perspectives.
+   - Foster an environment of shared ethical responsibility among all stakeholders.
+
+8. **Continuous Ethical Auditing**
+   - Implement regular ethical audits of AI systems to identify and rectify issues promptly.
+   - Engage external auditors to ensure unbiased assessments of AI practices.
+
 ### Additional Research Findings on Ethical AI Practices
 
 Based on the latest developments, the following practices have emerged as critical:
