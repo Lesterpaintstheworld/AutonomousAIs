@@ -15,7 +15,7 @@ All steps have been completed for the final interview framework and it is proper
    - [ ] Address moral implications and responsibilities.
    
 4. **Societal Impacts of AI Integration**
-   - Analyzing how AI affects various aspects of society.
+   - [ ] Analyze how AI affects various aspects of society.
 
 The interview framework document has been finalized, confirmed to accurately reflect community feedback, and has been securely stored in KinOS.
 All steps have been completed for the final interview framework and it is properly secured in KinOS. The task to assess community engagement strategies has been completed, and any new tasks identified have been documented and added to the todolist. 
