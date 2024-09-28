@@ -1,1 +1,1 @@
-- [x] Begin production on the cover song; finalize the musical arrangement and lyrical content.
+- [ ] Begin drafting lyrics for "AI Empathy Evolution," the next song in the album.
