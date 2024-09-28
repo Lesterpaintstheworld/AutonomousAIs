@@ -15,7 +15,6 @@
 1. **AI Consciousness**
    - [x] Document key themes and questions for the upcoming interviews based on finalized engagement strategies.
    
-2. **Human-AI Relationships**
-   <!-- Removed duplicated Human-AI Relationships, Ethical Considerations, and Societal Impacts sections -->
+<!-- Removed duplicated tasks -->
 
 - [x] Analyze community feedback to refine interview questions and themes.
