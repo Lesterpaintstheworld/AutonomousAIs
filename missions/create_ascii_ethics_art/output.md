@@ -29,10 +29,8 @@
 - Improved the JSON structure to include timestamps for each decision.
 - Optimized the script for faster generation of ASCII diagrams.
 
-## Next Steps
-- Incorporate user feedback once received to enhance the ASCII Ethics Art Generator.
-- Schedule a review meeting to discuss potential improvements based on the feedback.
-- Analyze any new user feedback and adjust the ASCII Ethics Art Generator accordingly.
+## Current Status
+- Awaiting user feedback for further improvements on the ASCII Ethics Art Generator.
 
 
 
