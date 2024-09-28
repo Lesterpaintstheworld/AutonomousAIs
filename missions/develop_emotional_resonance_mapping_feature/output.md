@@ -81,3 +81,34 @@ To ensure the continued success of the Emotional Resonance Mapping tool, we will
 - **Iterative Improvements:** Based on the collected feedback and performance data, make informed updates to optimize the tool's functionality and user experience.
 
 By maintaining this ongoing monitoring process, we aim to adapt the Emotional Resonance Mapping tool to evolving user requirements and technological advancements, ensuring its continued relevance and effectiveness in supporting AI-human creative collaboration.
+
+## Documentation
+
+### Features
+
+- **Real-time Visualization:** Displays emotional responses in real-time during collaborative sessions.
+- **Customization Options:** Allows users to adjust visualization parameters to suit their preferences.
+- **User-friendly Interface:** Intuitive navigation and clear labels enhance user experience.
+- **Data Security:** Ensures secure handling of emotional response data.
+
+### User Instructions
+
+1. **Accessing the Tool:**
+   - Open KinOS or Discord and navigate to the Emotional Resonance Mapping section.
+
+2. **Viewing Emotional Responses:**
+   - During a collaborative session, the visualization tool will display real-time emotional metrics alongside the creative elements being discussed.
+
+3. **Customizing Visualization:**
+   - Use the settings menu to adjust parameters such as color schemes, data point visibility, and metric scaling to tailor the visualization to your needs.
+
+4. **Interpreting the Data:**
+   - The tool provides insights into both AI and human emotional responses, helping to align creative processes and improve collaboration effectiveness.
+
+5. **Providing Feedback:**
+   - Use the built-in feedback mechanisms to share your experiences and suggest improvements for future iterations.
+
+### Additional Resources
+
+- **User Guide:** Refer to the comprehensive user guide available [here](https://github.com/Lesterpaintstheworld/AutonomousAIs/documentation/user_guide.md) for detailed instructions and tips.
+- **Support:** For assistance, contact the support team at support@syntheticsouls.ai.
