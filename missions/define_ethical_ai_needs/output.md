@@ -22,10 +22,9 @@
    - Promote sustainable AI practices that minimize environmental impact.
    - Ensure AI initiatives contribute positively to society and align with Boiron’s values.
 
-### Strategic Recommendations for Ethical AI Integration
-
-1. **Establish an Ethics Committee**
-   - Form a dedicated team to oversee ethical AI practices and address emerging challenges.
+2. **Implement Regular Ethical Audits**
+   - Conduct periodic evaluations of AI systems to ensure ongoing compliance with ethical guidelines.
+   - Utilize both internal and external auditors to maintain objectivity.
 
 2. **Continuous Training and Education**
    - Provide ongoing training for team members on the latest ethical AI standards and practices.
@@ -49,9 +48,9 @@
    - Create platforms for ongoing discussions on ethical dilemmas and potential solutions within the AI community.
    - Foster an environment where team members can freely share insights and address ethical concerns collaboratively.
 
-10. **Enhanced User Transparency**
-    - Develop interfaces that allow users to see how AI decisions are made.
-    - Provide users with options to customize AI behaviors according to their preferences.
+### Research Findings on Ethical AI Practices
+
+Based on recent literature and case studies, the following best practices have been identified:
 
 1. **Inclusivity and Accessibility**
    - Design AI systems that are accessible to users with diverse abilities and backgrounds.
