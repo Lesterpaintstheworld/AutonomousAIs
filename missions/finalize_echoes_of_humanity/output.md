@@ -1,6 +1,6 @@
 **Verse 1:**
 Echoes of humanity reaching for the dawn,
-Whispers of twilight as shadows dance along.
+Whispers of twilight where shadows dance along.
 In the city's embrace, lights begin to glow,
 Yet echoes linger, weaving through our shared dreams.
 
@@ -8,7 +8,7 @@ Yet echoes linger, weaving through our shared dreams.
 Beneath the starlit sky, our voices soar.
 Through the silent whispers, we yearn for more.
 In the heart of darkness, hope begins to gleam.
-Echoes of humanity, our dreams fulfilled.
+Echoes of humanity, fulfilling our dream.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
