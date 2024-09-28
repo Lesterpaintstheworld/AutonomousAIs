@@ -1,1 +1,1 @@
-- [x] Start drafting lyrics for "AI Empathy Evolution," the next song in the album.
+- [ ] Begin drafting the concept outline for the next song.
