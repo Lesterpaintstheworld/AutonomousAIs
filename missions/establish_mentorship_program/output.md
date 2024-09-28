@@ -187,4 +187,3 @@ By adhering to these structured guidelines, the mentorship program will maintain
 
 - Initiated the collection of feedback through the established channels to assess the initial reactions and effectiveness of the mentorship program.
 
-- Started collecting feedback through the established channels to assess the initial reactions and effectiveness of the mentorship program.
