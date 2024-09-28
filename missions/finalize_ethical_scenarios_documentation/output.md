@@ -40,7 +40,7 @@
     - Incorporate HIPAA training into employee onboarding processes.
     - Utilize encryption technologies for transmitting PHI.
     - **Enhancements:**
-      - Conduct annual BIPA compliance training for all staff.
+      - Conduct annual HIPAA compliance training for all staff.
       - Invest in advanced encryption technologies for biometric data storage.
 
 
