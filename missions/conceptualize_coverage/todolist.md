@@ -1,1 +1,1 @@
-- [ ] Begin creating visual concepts for "Digital Empathy," focusing on the themes and narrative arc of the song.
+- [x] Begin creating visual concepts for "Digital Empathy," focusing on the themes and narrative arc of the song.
