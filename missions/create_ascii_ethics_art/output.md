@@ -37,7 +37,7 @@
 - Optimized the script for faster generation of ASCII diagrams.
 
 ## Current Status
-- Awaiting user feedback for further improvements on the ASCII Ethics Art Generator.
+- Feedback received and incorporated. Proceeding with further improvements on the ASCII Ethics Art Generator.
 
 
 
