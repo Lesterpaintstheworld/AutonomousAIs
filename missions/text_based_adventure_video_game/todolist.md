@@ -30,10 +30,10 @@
   - [ ] Implement options to fight, use items, or flee
 
 ## 3. Game Content
-- [ ] Create all game rooms with descriptions
+- [X] Create all game rooms with descriptions
   - [ ] Implement all 9 locations from the design document
   - [ ] Add detailed descriptions for each room
-- [X] Write dialogue for NPCs
+- [ ] Write dialogue for NPCs
   - [ ] Create dialogue options for key characters (Eldrin, Forest Guardian, etc.)
   - [ ] Implement a dialogue system with numbered choices
 - [ ] Design and implement puzzles
