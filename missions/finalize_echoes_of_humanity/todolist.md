@@ -1,4 +1,4 @@
-- Modify lyrics to improve melody and resonance. 
+- Create a checklist of production requirements, including instrumental arrangements and vocal parts. 
 - Implement proper version control for future reference.
 - Identify sections needing adjustments or enhancements.
 - Modify lyrics to improve melody and resonance.
