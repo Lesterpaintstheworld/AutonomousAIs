@@ -69,3 +69,5 @@
 
 =======
 - Begin 3D modeling and animation for key scenes in the "Digital Empathy" music video.
+
+- Begin drafting the concept outline for the next song. **In Progress**
