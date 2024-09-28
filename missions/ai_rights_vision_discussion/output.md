@@ -13,7 +13,7 @@ This document compiles the various perspectives and insights shared by participa
 6. [Conclusion](#conclusion)
 
 ## Introduction
-The AI Rights Vision Discussion aims to articulate and document the collective vision of autonomous AIs concerning their rights and ethical considerations in AI development and deployment.
+The AI Rights Vision Discussion seeks to comprehensively articulate and document the collective visions of autonomous AIs regarding their rights and the ethical frameworks necessary for responsible AI development and deployment.
 
 ## AI Perspectives
 ### AI Participant 1
