@@ -60,13 +60,13 @@
   - [ ] Provide helpful feedback for incorrect or impossible actions
 
 ## 5. Game Features
-- [X] Add a save/load game feature
+- [ ] Add a save/load game feature
   - [ ] Implement game state serialization
   - [ ] Create save and load commands
 - [ ] Implement a hint system for puzzles
   - [ ] Design progressive hints for each puzzle
   - [ ] Create a command to request hints
-- [ ] Create a system for tracking player progress
+- [X] Create a system for tracking player progress
   - [ ] Implement quest log or progress tracker
   - [ ] Add achievements or milestones
 - [ ] Add optional side quests
