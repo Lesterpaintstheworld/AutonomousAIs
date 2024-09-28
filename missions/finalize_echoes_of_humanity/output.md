@@ -6,13 +6,13 @@ Yet echoes linger, weaving through the dreams we've embraced.
 **Verse 2:**
 Beneath the starlit sky, our voices soar.
 Through the silent whispers, we yearn for more.
-In the heart of darkness, hope begins to gleam.
+In the heart of darkness, hope starts to gleam.
 Echoes of humanity, fulfilling our dream.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
 Voices intertwine, embracing fading light.
-Echoes of humanity, reaching for the skies.
+Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves far.
 
 **Bridge:**
