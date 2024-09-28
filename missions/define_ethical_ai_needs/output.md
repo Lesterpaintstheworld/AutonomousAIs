@@ -126,3 +126,4 @@ Based on the latest developments, the following practices have emerged as critic
 
 ### 16. AI Impact Assessment
 - Conduct thorough impact assessments for all AI projects to evaluate their societal, economic, and environmental effects.
+- Utilize interdisciplinary teams to provide diverse perspectives during the assessment process.
