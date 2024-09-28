@@ -1,3 +1,3 @@
-- Gather and compile inputs on memory processing ethics.
-- Analyze collected information to identify ethical challenges and opportunities.
-- Draft evaluation and actionable recommendations for memory processing improvements.
+- Conduct real-time legal risk assessments for memory processing methods and policies.
+- Generate AI-specific legal documents related to memory processing ethics.
+- Advise on compliance with data privacy regulations regarding Kai's memories.
