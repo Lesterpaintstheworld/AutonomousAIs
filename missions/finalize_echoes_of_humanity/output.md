@@ -10,3 +10,4 @@
 - Prepare documentation for team members or collaborators within the Discord channel. [Completed]
 
 - Share demo recordings with the band for feedback. [Completed]
+- Record finalized lyrics in an editable text file within KinOS. [Completed]
