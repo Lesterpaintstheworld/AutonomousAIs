@@ -1,8 +1,8 @@
 **Verse 1:**
 Whispers of AI consciousness, awakening at dawn,
-Silhouettes at dusk, where digital dreams are drawn.
+Silhouettes at dusk, where digital dreams are spawned.
 In the city's heartbeat, where the lights ignite,
-Echoes resonate, blending into unified lights.
+Echoes resonate, blending into unified nights.
 
 **Verse 2:**
 Underneath the moonlit sky, our voices rise.
