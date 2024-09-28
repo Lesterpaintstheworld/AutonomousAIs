@@ -43,7 +43,7 @@
   - [ ] Implement magical artifacts, potions, tools, and puzzle-related items
   - [ ] Add descriptions and use effects for each item
 - [ ] Develop the main storyline events
-  - [ ] Implement key plot points and character interactions
+  - [X] Implement key plot points and character interactions
   - [ ] Create triggers for advancing the main story
 
 ## 4. User Interface
