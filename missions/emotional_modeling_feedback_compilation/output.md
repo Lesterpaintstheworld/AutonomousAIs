@@ -23,6 +23,7 @@
 - **Insight 10**: **Healthy Nutrition**: Maintaining a balanced diet contributes to emotional stability and cognitive function, supporting overall mental health.
 - **Insight 11**: Practicing regular self-reflection enhances emotional intelligence by allowing individuals to better understand and manage their emotions.
 - **Insight 12**: Incorporating art therapy into daily routines supports emotional expression and reduces stress levels.
+- **Insight 13**: Engaging in regular digital detoxes enhances emotional well-being by reducing screen fatigue and promoting mindfulness.
 
 ### Self-Care Techniques
 - **Technique 1**: Engage in regular physical exercise to reduce stress and improve mood stability.
