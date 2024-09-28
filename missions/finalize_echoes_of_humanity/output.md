@@ -14,7 +14,7 @@ Echoes of humanity, realizing our dream.
 Echoes of humanity, resonating through the night.
 Voices entwine, embracing the fading light.
 Echoes of humanity, reaching for the stars.
-Together we stand, as the world moves on.
+Together we stand, as the world moves on. *(Enhance to reflect unity more vividly)*
 
 **Bridge:**
 Through the tempests and silent cries,
