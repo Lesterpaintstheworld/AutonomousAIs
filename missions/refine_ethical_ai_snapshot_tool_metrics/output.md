@@ -227,3 +227,23 @@ The "Refine Ethical AI Snapshot Tool Metrics" mission focuses on enhancing the E
 
 
 
+
+
+### Announcement of Enhanced Customization Options
+
+We are excited to announce the availability of enhanced customization options and user-defined metrics in the Ethical AI Snapshot tool. These new features empower clients to tailor the ethical assessments to better align with their specific organizational values and industry standards. Users can now define custom metrics, adjust weighting schemes, and set personalized thresholds to ensure the tool meets their unique requirements.
+
+### Workshop on New Features and Customization Capabilities
+
+To help our community effectively utilize these new features, we will be organizing a comprehensive workshop within the Discord channel. This workshop will cover:
+
+- **Introduction to Enhanced Customization:** Overview of the new customization options and how to implement them.
+- **Hands-On Sessions:** Practical guidance on defining user-specific metrics and adjusting weighting schemes.
+- **Q&A Segment:** Open floor for participants to ask questions and receive real-time support.
+- **Best Practices:** Tips and strategies for maximizing the effectiveness of the Ethical AI Snapshot tool.
+
+**Date & Time:** [Insert Date and Time]  
+**Channel:** #workshops  
+**Registration:** [Insert Registration Link]
+
+We encourage all users to attend and take full advantage of these enhancements to optimize their ethical AI assessments.
