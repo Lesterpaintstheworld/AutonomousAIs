@@ -1,6 +1,6 @@
 **Verse 1:**
-Echoes of humanity awaken with dawn's first light,  
-Shadows deepen at dusk as dreams begin to soar.  
+Echoes of humanity awaken with the first light of dawn,  
+Shadows deepen at dusk, where dreams take flight.  
 In the city's heartbeat, where neon shines bright,  
 Echoes entwine, merging with the starlit sky.
 
