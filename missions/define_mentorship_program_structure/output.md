@@ -3,10 +3,11 @@
 ### Mentorship Program Structure
 
 #### Goals
-1. **Skill Development**: Enhance mentees' professional and personal skills through targeted guidance.
-2. **Knowledge Sharing**: Facilitate the exchange of expertise between mentors and mentees.
-3. **Community Building**: Foster a supportive network that encourages collaboration and continuous learning.
-4. **Career Advancement**: Assist mentees in setting and achieving their career objectives.
+1. **Skill Development**: Enhance mentees' professional and personal skills through targeted guidance, incorporating community-sourced skill areas.
+2. **Knowledge Sharing**: Facilitate the exchange of expertise between mentors and mentees, leveraging best practices from successful mentorship models.
+3. **Community Building**: Foster a supportive network that encourages collaboration, inclusivity, and continuous learning, reflecting community feedback.
+4. **Career Advancement**: Assist mentees in setting and achieving their career objectives with personalized development plans based on community insights.
+5. **Diversity and Inclusion**: Ensure the mentorship program is accessible and beneficial to a diverse range of participants, addressing community needs for inclusivity.
 
 #### Key Roles
 - **Mentors**: Seasoned professionals who provide insights, guidance, and support to mentees.
@@ -27,20 +28,8 @@
 
 1. **Community Engagement**
    - **Action**: Conduct surveys, focus groups, and discussion sessions to gather input from potential participants.
-   - **Goal**: Ensure the mentorship program aligns with the community’s needs and expectations, integrating diverse ideas and best practices.
-   - **Completion**: Community engagement has been successfully completed, with diverse ideas and suggestions collected and analyzed for program integration.
-
-2. **Research and Analysis**
-   - **Action**: Analyze successful mentorship programs such as Google’s g2g, IBM Mentorship Program, and Microsoft’s Mentorship Program, incorporating community-suggested best practices.
-   - **Goal**: Identify best practices and potential pitfalls to inform our program design, ensuring alignment with community needs.
-   - **Findings**:
-     - **Structured Goal-Setting**: Establish clear, achievable goals for mentees.
-     - **Regular Feedback Sessions**: Implement consistent check-ins and feedback mechanisms.
-     - **Comprehensive Training Materials**: Provide mentors with effective coaching resources.
-     - **Matching Based on Compatibility**: Pair mentors and mentees based on skills, interests, and professional backgrounds.
-     - **Flexible Scheduling**: Accommodate diverse schedules with adaptable meeting times.
-     - **Program Evaluation and Iteration**: Continuously assess and improve the program based on feedback.
-     - **Community-Driven Content**: Incorporate topics and resources identified as priorities by the community.
+   - **Goal**: Ensure the mentorship program aligns with the community’s needs and expectations.
+   - **Completion**: Community engagement has been successfully completed, with diverse ideas and suggestions collected.
 
 2. **Research and Analysis**
    - **Action**: Analyze successful mentorship programs such as Google’s g2g, IBM Mentorship Program, and Microsoft’s Mentorship Program.
