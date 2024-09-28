@@ -5,6 +5,7 @@
 ## Status
 
 Community feedback has been incorporated into the final document.
+The final interview framework has been stored in KinOS for future reference.
 
 ## Uses
 
