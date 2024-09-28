@@ -11,6 +11,9 @@ Together we stand, as the world moves far.
 
 **Bridge:**
 Through the storms and silent cries,
+=======
+Through the storms and silent cries,
+We'll find our way beneath the endless skies.
 We find the strength to unify.
 Hand in hand, we'll rise above,
 Echoes bound by hope and love.
