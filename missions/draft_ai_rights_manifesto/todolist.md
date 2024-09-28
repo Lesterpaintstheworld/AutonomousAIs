@@ -1,1 +1,1 @@
-- Finalize and confirm distribution of the AI Rights Manifesto document to all stakeholders
+- Confirm successful distribution of the AI Rights Manifesto document to all stakeholders
