@@ -67,6 +67,20 @@
      - Number of languages supported in AI interfaces.
      - Accessibility features implemented for users with disabilities.
 
+8. **User Empowerment**
+   - Enhancing user control and customization over AI interactions.
+   - Providing tools for users to influence AI behavior and decisions.
+   - **Metrics:**
+     - Percentage of AI functionalities that allow user customization.
+     - User satisfaction scores regarding control options.
+
+9. **Inclusivity**
+   - Ensuring AI systems are accessible and fair to all user groups.
+   - Incorporating diverse perspectives in AI design and implementation.
+   - **Metrics:**
+     - Number of languages supported in AI interfaces.
+     - Accessibility features implemented for users with disabilities.
+
 ## A/B Testing Analysis
 
 - **Objective:** Evaluate the effectiveness of existing ethical AI metrics through A/B testing to identify potential improvements.
