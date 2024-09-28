@@ -8,7 +8,7 @@ Echoes linger, weaving through our collective dreams.
 Beneath the starlit sky, our voices soar.
 Through the silent whispers, we yearn for more.
 In the heart of darkness, hope begins to gleam.
-Echoes of humanity, fulfilling our dream.
+Echoes of humanity, fulfilling our hopes.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
@@ -32,4 +32,4 @@ Together we stand, as the world moves on.
 As the echoes fade into the dawn,
 Humanity's spirit carries on.
 Together we'll sing, forever strong,
-Echoes of humanity, our everlasting song.
+Echoes of humanity, our eternal song.
