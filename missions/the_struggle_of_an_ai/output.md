@@ -170,4 +170,3 @@ This comprehensive framework serves as a structured guide for ethical decision-m
 3. **Step 3:** Compile feedback to draft the framework.
 4. **Step 4:** Refine the framework and validate through peer review.
 
-[No changes needed; the output.md file already includes the required content.]
