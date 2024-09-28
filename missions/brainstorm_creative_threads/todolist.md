@@ -5,5 +5,4 @@
 - [x] Review and assess the effectiveness of the finalized Reddit post ideas in enhancing community engagement. 
 - [x] Initiate a targeted Reddit advertising campaign to promote our most effective posts to a broader audience. 
 - [x] Host regular "Ask Me Anything" sessions on relevant subreddits to engage directly with the community, answer questions, and gather feedback. 
-- [x] Develop a plan for live performances of "Digital Empathy," including audience interaction elements.
-- [x] Create a vocal warm-up routine that incorporates both traditional and AI-inspired techniques.
+- [ ] Expand our content types to include tutorials, behind-the-scenes looks at our creative process, and user-generated content to cater to diverse audience interests.
