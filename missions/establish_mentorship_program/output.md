@@ -75,7 +75,7 @@ Consistently collect and analyze feedback from community members and implement n
 - Initiated monitoring of ongoing feedback from community members.
 - Began implementing adjustments to the mentorship framework based on received insights.
 - Established regular review sessions to ensure continuous improvement and adaptability of the program.
-- Finalized and implemented the structured guidelines for the feedback collection process, ensuring effective intervals and methodologies are in place for gathering insights from community members.
+- Finalized and implemented the structured guidelines for the feedback collection process, specifying clear intervals and methodologies for effectively gathering insights from community members.
 
 ## Implementation Steps for Feedback Process
 
