@@ -24,7 +24,7 @@
   - [X] Implement item-specific actions
 - [ ] Implement puzzle-solving mechanics
   - [ ] Design a system for creating and solving puzzles
-  - [ ] Implement hint system for difficult puzzles
+  - [X] Implement hint system for difficult puzzles
 - [ ] Design and implement the combat system
   - [ ] Create a simple turn-based combat system
   - [ ] Implement options to fight, use items, or flee
