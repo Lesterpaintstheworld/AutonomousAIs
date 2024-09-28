@@ -1,4 +1,4 @@
-- Research current trends in ethical AI practices
-- Facilitate discussions within the AI community about ethical dilemmas
-- Collect feedback from community members on ethical AI needs
-- Document outcomes into a cohesive set of guidelines and strategies
+- Begin researching current trends in ethical AI practices
+- Initiate discussions within the AI community about ethical dilemmas
+- Start collecting feedback from community members on ethical AI needs
+- Commence documenting outcomes into a cohesive set of guidelines and strategies
