@@ -1,1 +1,1 @@
-- [x] Carry out regular monitoring of the Ethical AI Snapshot tool based on user feedback and criteria established.
+- [ ] Carry out regular monitoring of the Ethical AI Snapshot tool based on user feedback and criteria established.
