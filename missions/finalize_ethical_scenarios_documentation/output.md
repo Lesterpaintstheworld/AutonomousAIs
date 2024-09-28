@@ -76,12 +76,3 @@ Ensuring legal compliance is paramount to maintaining user trust and safeguardin
    
 6. **Documentation and Reporting:**
    - Maintain records of all reviews, updates, and compliance audits for accountability and transparency.
-
-## 5. Summary of Key Ethical Principles
-
-- **User Consent and Transparency:** Ensuring that users are fully informed and give explicit consent for data collection and usage.
-- **Fairness and Equality:** Developing AI systems that treat all user groups equally and free from biases.
-- **Data Minimization:** Only collecting data that is necessary for the intended purpose, and retaining it no longer than required.
-- **Privacy Protection:** Implementing robust measures to protect user data from unauthorized access and breaches.
-- **Accountability:** Holding developers and the organization accountable for the ethical implications of AI systems.
-- **Continuous Improvement:** Regularly reviewing and updating ethical guidelines and compliance measures to adapt to evolving standards and regulations.
