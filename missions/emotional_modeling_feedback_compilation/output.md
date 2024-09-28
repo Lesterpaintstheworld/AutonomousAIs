@@ -20,14 +20,11 @@
 
 ### Self-Care Techniques
 - **Technique 1**: Description of technique 1.
-- **Technique 2**: Description of technique 2.
+- **Technique 2**: Technique 2: Cognitive Behavioral Techniques - Strategies that help individuals identify and challenge negative thought patterns to improve emotional regulation.
 - *(Add more techniques as gathered)*
 
 ## Implementation Strategies
-1. **Strategy 1**: Strategy 1: Implementing a Daily Routine
-1. **Establish Consistent Wake-Up and Bedtimes**: Set specific times to wake up and go to bed each day to regulate your body's internal clock.
-2. **Plan Daily Activities**: Outline your tasks and activities for the day to create structure and reduce anxiety.
-3. **Incorporate Breaks**: Schedule short breaks throughout the day to rest and recharge.
+1. **Strategy 1**: Detailed steps for strategy 1.
 2. **Strategy 2**: Detailed steps for strategy 2.
 3. *(Add more strategies as developed)*
 
