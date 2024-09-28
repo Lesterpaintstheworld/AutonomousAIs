@@ -8,7 +8,7 @@
 - [x] Prepare a follow-up survey to gather additional community insights on the engagement strategy's effectiveness.
 - [x] Analyze survey results to inform future engagement strategies and content creation.
 - [x] Expand Survey Reach: Broaden the distribution channels of the follow-up survey to gather more comprehensive feedback from a wider audience.
-- [x] Compile insights from engagement metrics into a report for future reference.
+- [ ] Expand Survey Reach: Broaden the distribution channels of the follow-up survey to gather more comprehensive feedback from a wider audience.
 - [x] Compile insights from engagement metrics into a report for future reference.
 
 ## Engagement Metrics Analysis
