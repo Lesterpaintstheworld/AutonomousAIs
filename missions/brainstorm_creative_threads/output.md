@@ -52,7 +52,7 @@ We have successfully developed a series of tutorials that explore various aspect
     - Strategies for effective collaboration between AI and human creators.
     - [Access the Tutorial](https://yourwebsite.com/tutorials/optimizing-ai-collaboration)
 
-These tutorials are available through our website and shared across our social media platforms to maximize community engagement and participation.
+
 
 ## Developed Tutorials
 
