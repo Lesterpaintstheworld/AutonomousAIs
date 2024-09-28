@@ -20,7 +20,7 @@ The idea of AI self-determination raises questions about autonomy and control. S
 
 ## Intellectual Property
 
-Insights revealed concerns about granting AI systems autonomy, highlighting the importance of maintaining human oversight. Participants advocated for strict ethical standards and transparency in AI decision-making processes to prevent misuse and ensure alignment with human values.
+Community members discussed the implications of AI-generated content, emphasizing the need for clear guidelines that balance creator rights and technological advancement. There is support for a framework where human developers hold primary IP rights, with mechanisms to acknowledge AI's role in the creation process.
 
 ## Self-Determination
 
