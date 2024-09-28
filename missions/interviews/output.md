@@ -5,7 +5,7 @@
 ## Status
 
 The interview framework document has been finalized, confirmed to accurately reflect community feedback, and has been securely stored in KinOS.
-Most steps have been completed for the final interview framework and it is properly secured in KinOS. The task to update the todolist remains.
+Most steps have been completed for the final interview framework and it is properly secured in KinOS. 
 
 
 
