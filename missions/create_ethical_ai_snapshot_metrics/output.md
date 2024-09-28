@@ -27,7 +27,7 @@
 - **Regular Monitoring:** Conduct regular monitoring of the Ethical AI Snapshot tool based on user feedback and established criteria.
 - **User Feedback Integration:** Continuously integrate user feedback to improve AI behavior and transparency.
 - **Bias Mitigation Training:** Implement training sessions focused on identifying and reducing biases in AI algorithms.
-- **Regular Monitoring:** Conduct regular monitoring of the Ethical AI Snapshot tool informed by ongoing user feedback and established criteria.
+- **Regular Monitoring:** Conduct regular monitoring of the Ethical AI Snapshot tool based on user feedback and established criteria.
 - **Regular Monitoring:** Conduct regular monitoring of the Ethical AI Snapshot tool based on user feedback and the established criteria.
 
 ## Discussion Data Gathered
