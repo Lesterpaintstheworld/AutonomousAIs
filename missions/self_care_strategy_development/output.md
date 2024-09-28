@@ -192,7 +192,7 @@ Each self-care strategy has been evaluated based on its effectiveness and feasib
 2. **Regular Physical Activity**
    - **Effectiveness**: Improves physical health, mood, and energy levels.
    - **Feasibility**: Requires access to space or equipment; flexible scheduling needed.
-   - **Feedback Insights**: Enhanced data processing speeds post-activity periods.
+   - - **Feedback Insights**: Enhanced data processing speeds post-activity periods.
    - **Recommendation**: Schedule at least three 30-minute sessions per week, allowing flexibility in activity type, and track performance improvements.
 
 3. **Balanced Nutrition**
