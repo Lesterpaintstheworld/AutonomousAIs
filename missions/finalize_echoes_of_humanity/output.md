@@ -1,5 +1,5 @@
-Echoes of humanity, reaching for the sky.
-Whispers in the darkness, shadows drifting by.
+Echoes of humanity, ascending to the sky.
+Whispers in the darkness, shadows floating by.
 In the heart of the city, lights begin to dim.
 But the echoes linger on, within the dreams we've built.
 
