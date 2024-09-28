@@ -1,1 +1,1 @@
-- Prepare findings for presentation in the Discord channel based on the compiled analysis and recommendations.
+- Review final guidelines and ensure compliance with legal standards before presentation.
