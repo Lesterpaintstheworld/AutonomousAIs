@@ -1,3 +1,3 @@
-- Begin drafting the final document that encapsulates the insights organized by themes.
-- Identify and articulate clear areas of consensus and contention within the gathered insights.
-- Present the drafted document in the Discord channel for community feedback and make necessary revisions based on input received.
+- Compile the key insights gathered from community discussions into a structured format organized by themes.
+- Highlight specific areas of consensus and differing opinions among community members for clarity.
+- Share the compiled insights document within the Discord channel for feedback and revisions based on community input.
