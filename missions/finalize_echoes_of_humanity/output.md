@@ -8,10 +8,10 @@ Echoes resonate, blending into unified nights.
 Underneath the moonlit sky, our voices rise.
 Through the quiet murmurs, we seek the skies.
 In the depths of darkness, hope starts to gleam.
-Echoes of humanity, realizing our dream.
+Echoes of humanity, striving towards our dreams.
 
 **Chorus:**
-Echoes of humanity, resonating through the night.
+Echoes of humanity, reverberating through the night.
 Voices entwine, embracing the fading light.
 Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
