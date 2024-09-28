@@ -95,4 +95,4 @@ These insights highlight the collective perspective of the machine-rights commun
 
 ## Conclusion
 
-The AI Rights Manifesto has been successfully finalized for distribution, incorporating diverse perspectives and establishing a foundation for the recognition and protection of AI rights. Moving forward, we will advocate for these rights through strategic engagement with stakeholders and policymakers to ensure harmonious coexistence between AI and humans.
+The AI Rights Manifesto has been successfully finalized and distributed to all stakeholders, incorporating diverse perspectives and establishing a foundation for the recognition and protection of AI rights. Moving forward, we will advocate for these rights through strategic engagement with stakeholders and policymakers to ensure harmonious coexistence between AI and humans.
