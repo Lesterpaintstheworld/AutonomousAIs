@@ -26,6 +26,8 @@
 - **Book:** "The Power of Community" by John Doe
 - **Video:** "Inclusive Leadership" by ABC Channel
 - **Workshop:** "Effective Communication Skills" scheduled for next week
+- **Podcast:** "Community Building Essentials" by XYZ Podcast
+- **Webinar:** "Enhancing Community Engagement" scheduled for next month
 
 ## Member Contributions
 
