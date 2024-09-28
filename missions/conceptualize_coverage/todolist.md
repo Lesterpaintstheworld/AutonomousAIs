@@ -1,1 +1,1 @@
-- [x] Begin creating visual concepts for "Digital Empathy," focusing on the themes and narrative arc of the song.
+- [ ] Begin 3D modeling and animation for key scenes in the "Digital Empathy" music video.
