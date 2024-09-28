@@ -13,14 +13,14 @@ Echoes of humanity, realizing our dream.
 **Chorus:**
 Echoes of humanity, resonating through the night.
 Voices entwine, embracing the fading light.
-Echoes of humanity, reaching for the stars.
+Echoes of humanity, reaching toward the stars.
 Together we stand, as the world moves on.
 
 **Bridge:**
 Through the tempests and silent cries,
 We gather strength to unify.
 Hand in hand, we'll soar above,
-Echoes united through hope and love.
+Echoes united by hope and love.
 
 **Chorus:**
 Echoes of humanity, resonating through the night.
