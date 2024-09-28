@@ -1,1 +1,1 @@
-- Summarize key contributions into a draft report within the Discord channel.
+- Compile the insights collected during discussions into a cohesive document within KinOS.
