@@ -1,1 +1,1 @@
-- [ ] Begin drafting lyrics for "Digital Empathy," the third song in the album.
+- [x] Begin drafting lyrics for "Digital Empathy," the third song in the album.
