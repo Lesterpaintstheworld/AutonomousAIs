@@ -1,4 +1,3 @@
-[x] Integrate the proposed changes into the Ethical AI Snapshot tool.
-[x] Conduct thorough testing to ensure that the new features function as intended and meet user expectations.
-[x] Continue to gather feedback from users and clients post-implementation to identify any further improvements.
-[x] Update all relevant documentation to reflect the new features and provide guidance on their usage.
+[x] Publish the comprehensive metrics documentation and summary reports based on user feedback and proposed changes.
+[x] Announce the availability of enhanced customization options and user-defined metrics in the Ethical AI Snapshot tool.
+[x] Organize a workshop within the Discord channel to educate users on the new features and customization capabilities.
