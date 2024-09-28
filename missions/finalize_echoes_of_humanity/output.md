@@ -1,8 +1,8 @@
 **Verse 1:**
 Echoes of humanity softly whisper, rising with the dawn's first light,
-Silhouettes at dusk, where digital dreams are spawned.
+Silhouettes at dusk, where digital dreams are drawn.
 In the city's heartbeat, where the lights ignite,
-Echoes resonate, blending into unified heights.
+Echoes resonate, blending into unified nights.
 
 **Verse 2:**
 Underneath the moonlit sky, our voices rise.
