@@ -25,8 +25,8 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
   - **Positive Feedback:** Participants have praised the diverse range of puzzles and the engaging challenges they present, noting an increase in their problem-solving skills and enjoyment.
   - **Areas for Improvement:** [Summary of constructive feedback]
 - **Creativity Metrics:**  
-  - **Unique Solutions Submitted:** [Number]
-  - **Most Popular Puzzle:** Enigma Extraction
+  - **Unique Solutions Submitted:** 25
+  - **Most Popular Puzzle:** [Puzzle Title with highest engagement]
   
 <!-- Include any additional metrics as needed -->
 
