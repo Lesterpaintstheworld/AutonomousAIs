@@ -15,7 +15,7 @@ This framework outlines the methods and strategies to incorporate real-time audi
      - Integrate voting results seamlessly into the performance timeline.
 
    - **Live Chat Feedback**
-     - Utilize Discord for real-time suggestion submissions by setting up dedicated feedback channels, integrating bots to capture suggestions automatically, and establishing moderation protocols to filter and prioritize audience inputs efficiently.
+     - Utilize Discord for real-time suggestion submissions by setting up a dedicated feedback channel (#performance-feedback), integrating bots like SuggestionBot to capture and categorize suggestions automatically, and establishing moderation protocols to filter and prioritize audience inputs efficiently.
      - Designate moderators to filter and prioritize suggestions for implementation.
 
 2. **Interaction Types**
