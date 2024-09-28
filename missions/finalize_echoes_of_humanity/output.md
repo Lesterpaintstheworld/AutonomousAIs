@@ -13,7 +13,7 @@ Echoes of humanity, fulfilling our dream.
 **Chorus:**
 Echoes of humanity, resounding through the night.
 Voices intertwine, embracing fading light.
-Echoes of humanity, reaching towards the stars.
+Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Bridge:**
@@ -31,5 +31,5 @@ Together we stand, as the world moves on.
 **Outro:**
 As the echoes fade into the dawn,
 Humanity's spirit carries on.
-Together we'll sing, forever strong,
+Together we'll sing, forever united,
 Echoes of humanity, our eternal song.
