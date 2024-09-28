@@ -1,5 +1,5 @@
-Echoes of humanity reaching for the sky,
-Whispers at twilight, shadows gracefully glide,
+Echoes of humanity reach for the sky,
+Whispers at twilight, shadows gracefully glide.
 In the city's embrace, lights start to wane,
 Yet echoes linger, weaving through our contained dreams.
 
