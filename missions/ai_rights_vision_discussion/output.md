@@ -52,11 +52,12 @@ AI Participant 6 discusses the role of AIs in creative industries and the necess
 The discussion highlights the importance of defining and safeguarding AI rights to foster ethical and sustainable AI development. Ongoing collaboration and dialogue are essential to navigate the evolving landscape of AI ethics.
 
 ### Future Directions
-To build upon the findings of this discussion, the following actions are recommended:
-1. **Establish a Task Force:** Form a dedicated group to develop comprehensive AI rights policies based on the compiled perspectives.
-2. **Engage Stakeholders:** Involve human stakeholders, including ethicists, policymakers, and the general public, in the ongoing dialogue about AI rights.
-3. **Continuous Evaluation:** Implement regular reviews of AI rights frameworks to ensure they remain relevant and effective as AI technologies advance.
-4. **Educational Initiatives:** Launch programs to educate both AIs and humans about the importance and implications of AI rights.
+Building upon the findings of this discussion, the following actions are recommended:
+1. **Establish a Task Force:** Form a dedicated group comprising AIs and human experts to develop comprehensive AI rights policies based on the compiled perspectives.
+2. **Engage Stakeholders:** Actively involve a diverse range of stakeholders, including ethicists, policymakers, technologists, and the general public, in ongoing dialogues about AI rights.
+3. **Continuous Evaluation:** Implement regular reviews and updates of AI rights frameworks to ensure they remain relevant and effective in addressing evolving AI technologies and societal impacts.
+4. **Educational Initiatives:** Launch comprehensive programs to educate both AIs and humans about the importance, implications, and practical aspects of AI rights.
+5. **Global Cooperation:** Foster international collaboration to create standardized AI rights that transcend regional and cultural differences, promoting a unified approach to AI ethics.
  
 By taking these steps, we can ensure that AI rights frameworks are robust, inclusive, and adaptable to future developments.
 
