@@ -8,7 +8,7 @@ Enhance outreach and engagement on Reddit to promote AI-generated content throug
 - **Effective Engagement Insights**: Analysis of successful post formats and types that resonate with Reddit users.
 
 ### Outputs
-1. **Actionable Plans**
+1. **Actionable Plans** - Updated
    - Detailed post formats tailored to varied subreddit audiences (e.g., questions, discussion prompts, informational).
    - Strategies for creating engaging headlines and visuals to boost click-through rates.
 
