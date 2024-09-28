@@ -3,7 +3,7 @@
 [x] Confirm that the JSON structure accurately reflects decisions made during the testing phase.  
 [x] Perform thorough testing of the ASCII Ethics Art generator to ensure functionality and address any potential issues.
 - [x] Prepare documentation summarizing the findings from the user feedback analysis regarding enhancements to the ASCII Ethics Art Generator based on user feedback.
-- [x] Prepare documentation summarizing the findings from the user feedback analysis.
+- [x] Prepare documentation summarizing the findings from the user feedback analysis regarding enhancements to the ASCII Ethics Art Generator.
 
 ```
 ```
