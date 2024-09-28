@@ -51,7 +51,7 @@
 <!-- Removed duplicate task -->
 
 
-- [x] Draft a report on identified areas for improvement based on the user feedback received.
+- [x] Prepare documentation summarizing the findings from the user feedback analysis regarding enhancements to the ASCII Ethics Art Generator.
 
 
 
