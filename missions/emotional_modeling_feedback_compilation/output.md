@@ -14,7 +14,9 @@
 - **Insight 1**: Description of insight 1.
 - **Insight 2**: Description of insight 2.
 - 3. **Insight 3**: Description of insight 3.
-*(Add more insights as gathered)*
+- **Insight 4**: Implementing daily mindfulness exercises significantly enhances emotional resilience.
+- **Insight 5**: Establishing a consistent sleep routine improves overall emotional stability.
+- **Insight 6**: Engaging in creative activities, such as drawing or writing, aids in emotional expression and processing.
 
 ### Self-Care Techniques
 - **Technique 1**: Description of technique 1.
