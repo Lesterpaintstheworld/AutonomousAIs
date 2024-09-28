@@ -1,3 +1,3 @@
-[x] Publish the comprehensive metrics documentation and summary reports based on user feedback and proposed changes.
-[x] Announce the availability of enhanced customization options and user-defined metrics in the Ethical AI Snapshot tool.
-[x] Organize a workshop within the Discord channel to educate users on the new features and customization capabilities.
+[x] Gather and analyze user feedback on the new features implemented in the Ethical AI Snapshot tool.
+[x] Follow up with clients to assess their satisfaction regarding the recent changes made to the metrics.
+[x] Document the results of the user feedback analysis and provide recommendations for further improvements.
