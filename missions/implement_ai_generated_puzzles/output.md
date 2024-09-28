@@ -6,9 +6,9 @@
 **Description:**  
 [Provide a detailed description of Puzzle 1, including objectives and any specific rules or instructions.]
 
-### Puzzle 2: [Puzzle Title]
+### Puzzle 2: Logic Labyrinth
 **Description:**  
-[Provide a detailed description of Puzzle 2, including objectives and any specific rules or instructions.]
+This puzzle presents a complex maze filled with logical puzzles and riddles at various checkpoints. Participants must solve each riddle to unlock the next section of the maze. The goal is to navigate through the labyrinth by applying deductive reasoning and creative problem-solving skills to reach the exit successfully.
 
 ### Puzzle 3: Pattern Pursuit
 **Description:**  
