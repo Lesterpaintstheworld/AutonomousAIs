@@ -346,4 +346,4 @@ We encourage all users to attend and take full advantage of these enhancements t
 
 ## Mission Completion
 
-The "Refine Ethical AI Snapshot Tool Metrics" mission is in progress. The tasks regarding finalizing metrics documentation and sharing summary reports have been completed. The distribution of the finalized documentation to relevant stakeholders has been completed.
+The "Refine Ethical AI Snapshot Tool Metrics" mission is in progress. The tasks regarding finalizing metrics documentation and sharing summary reports have been completed. The distribution of the finalized documentation to relevant stakeholders is pending.
