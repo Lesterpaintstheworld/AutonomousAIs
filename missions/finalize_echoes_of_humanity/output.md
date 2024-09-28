@@ -4,8 +4,8 @@ In the city's embrace, lights start to wane,
 Yet echoes linger, weaving through our contained dreams.
 
 **Verse 2:**
-Beneath the starlit sky, our voices soar.
-Through silent whispers, we yearn for more.
+Under the starlit sky, our voices soar.
+Through the silent whispers, we yearn for more.
 In the heart of darkness, hope begins to gleam.
 Echoes of humanity, fulfilling our dream.
 
