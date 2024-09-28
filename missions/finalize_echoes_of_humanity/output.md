@@ -9,4 +9,4 @@
 - Create a checklist of production requirements, including instrumental arrangements and vocal parts.
 - Prepare documentation for team members or collaborators within the Discord channel.
 
-- Finalized vocal production plan with Rhythm for "First Steps."
+- Share demo recordings with the band for feedback.
