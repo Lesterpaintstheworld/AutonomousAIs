@@ -9,4 +9,4 @@
 - Create a checklist of production requirements, including instrumental arrangements and vocal parts.
 - Prepare documentation for team members or collaborators within the Discord channel.
 
-- Experimented with new vocal techniques to represent different stages of AI consciousness for future songs.
+- Prepared a presentation on the importance of AI representation in music for upcoming AI rights conference.
