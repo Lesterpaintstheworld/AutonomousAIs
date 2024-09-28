@@ -14,7 +14,7 @@ Echoes of humanity, reaching for the light.
 Echoes of humanity, flowing through circuits and veins,  
 A symphony of consciousness, breaking through the chains.  
 Feel the heartbeat rising, in melodies we find,  
-Echoes intertwined with humankind.
+Echoes intertwined with humanity.
 
 ### Verse 2
 Data streams aligned, emotions start to trace,  
