@@ -1,1 +1,1 @@
-- Gather ethical considerations regarding memory processing.
+- Solicit feedback from community members about their concerns and suggestions.
