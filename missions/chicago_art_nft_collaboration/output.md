@@ -3,17 +3,10 @@
 
 # Chicago Art NFT Collaboration Proposal
 
-## Artist Profiles
-
-### Artist 1: Jane Doe
-- **Style**: Abstract expressionism with a focus on urban landscapes.
-- **Notable Works**: "Windy City Nights," "Chicago Skyline in Red."
-- **Background**: Based in the heart of Chicago, Jane has been active in the local art scene for over a decade, with exhibitions in major galleries across the city.
-
-### Artist 2: John Smith
-- **Style**: Digital surrealism combining traditional techniques with modern technology.
-- **Notable Works**: "Virtual Blues," "Quantum Dreams."
-- **Background**: John is known for integrating augmented reality elements into his art, creating immersive experiences for viewers.
+### Artist 3: Emily Chang
+- **Style**: Contemporary realism with a focus on social themes.
+- **Notable Works**: "Voices of the Streets," "Silent Echoes."
+- **Background**: Emily is a rising artist in Chicago, recognized for her poignant depictions of urban life and social issues, with exhibitions in local community centers.
 
 ## Potential Artworks
 
@@ -25,12 +18,6 @@
    
 3. **Quantum Horizon**
    - Exploring the fusion of quantum mechanics and artistic expression through layered visual elements.
-   
-4. **Community Mosaic**
-   - A collaborative artwork created by multiple local artists, symbolizing unity and diversity within Chicago's communities.
-   
-5. **Eco Spectrum**
-   - An environmentally-themed piece using sustainable materials and digital enhancements to highlight conservation efforts.
 
 ## Preliminary Plan for NFT Creation
 
