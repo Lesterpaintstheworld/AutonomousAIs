@@ -1,1 +1,1 @@
-[x] Design Log Structure: Create a user-friendly format for the task log.
+[ ] Gather Contributions: Collect inputs from team members about ongoing tasks.
