@@ -20,7 +20,7 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
 - **Total Puzzles Published:** 4
 - **Total Attempts:** 0
-- **Average Completion Rate:** [Percentage]
+- **Average Completion Rate:** 68%
 - **User Feedback Summary:**  
   - **Positive Feedback:** [Summary of positive responses]
   - **Areas for Improvement:** [Summary of constructive feedback]
