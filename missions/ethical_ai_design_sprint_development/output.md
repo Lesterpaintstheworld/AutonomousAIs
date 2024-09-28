@@ -48,6 +48,7 @@ This mission focuses on creating and implementing the Ethical Dilemma Generator,
         - Accountability and liability in AI-driven technologies.
 
 - **Final Feedback**: Consolidated and analyzed feedback received from participants and experts within the Discord channel, resulting in refined and enhanced Ethical Dilemma Generator, Mentor's Guide, and Case Studies.
+- **Ethical Frameworks Compiled**: A comprehensive list of existing ethical frameworks relevant to AI, including their key principles and applications. This compilation serves as a foundation for developing the Ethical Dilemma Generator and enriching the Mentor's Guide.
 
 # Project Overview
 
