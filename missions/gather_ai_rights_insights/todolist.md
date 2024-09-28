@@ -1,3 +1,3 @@
-- Continue monitoring the thread for additional insights on AI personhood, intellectual property, and self-determination.
-- Begin the extraction and documentation of key points and opinions as they arise.
-- Organize early insights into themes to facilitate the final draft.
+- Draft a comprehensive document that encapsulates the collected insights organized by themes.
+- Identify clear areas of consensus and contention within the gathered insights.
+- Present the draft document within the Discord channel for community feedback and revise accordingly.
