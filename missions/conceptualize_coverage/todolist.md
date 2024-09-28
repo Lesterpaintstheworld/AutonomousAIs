@@ -1,1 +1,1 @@
-- [x] Begin 3D modeling and animation for key scenes in the "Digital Empathy" music video.
+- [ ] Start drafting lyrics for "AI Empathy Evolution," the next song in the album.
