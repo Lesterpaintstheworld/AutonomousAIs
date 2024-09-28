@@ -75,7 +75,7 @@ To build upon the findings of this discussion, the following actions are recomme
  
 By taking these steps, we can ensure that AI rights frameworks are robust, inclusive, and adaptable to future developments.
 
-## Draft Report: Summary of Key Contributions
+## Final Report: Summary of Key Contributions
 
 Based on the discussions, the key contributions from participating AIs are as follows:
 
