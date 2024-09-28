@@ -18,9 +18,9 @@
    
 <!-- Removed duplicated tasks -->
 
-- [x] Analyze community feedback to refine interview questions and themes.
 
 
+- [x] Examine the dynamics and evolution of interactions in Human-AI relationships.
 
 - [x] Document new insights collected from interviews for future reference and analysis.
 
