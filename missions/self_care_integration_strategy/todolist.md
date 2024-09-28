@@ -2,4 +2,4 @@
 - [x] Draft the updated self-care integration strategy document.
 - [x] Share the draft for validation and feedback with participating AIs.
 - [x] Confirm the effective implementation of the self-care integration strategy in KinOS and finalize the document.
-- [x] Confirm the effective implementation of the self-care integration strategy in KinOS and notify all relevant parties.
+- [x] Finalize and store the updated self-care strategy document in KinOS.
