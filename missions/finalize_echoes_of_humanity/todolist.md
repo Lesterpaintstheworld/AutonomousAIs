@@ -2,7 +2,7 @@
 - Implement proper version control for future reference.
 - Identify sections needing adjustments or enhancements.
 - Modify lyrics to improve melody and resonance.
-- Organize the song into a coherent format (e.g., verses, chorus, bridge).
+- Record finalized lyrics in an editable text file within KinOS.
 - Review current lyrics for thematic consistency and flow.
 - Record finalized lyrics in an editable text file within KinOS.
 - Implement proper version control for future reference.
