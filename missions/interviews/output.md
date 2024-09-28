@@ -14,7 +14,7 @@
 
 - [x] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for refining the interview framework.
 
-- [x] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for interview questions.
+- [ ] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for interview questions.
 
 
 1. **AI Consciousness**
@@ -51,6 +51,3 @@
 - [x] Document insights collected from recent interviews for future reference and analysis, focusing on key themes and community feedback.
 
 - [x] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for refining the interview framework.
-
-- [ ] Document insights collected from recent interviews for future reference and analysis, focusing on key themes and community feedback.
-- [ ] Document insights collected from recent interviews for future reference and analysis, focusing on community feedback and its implications for refining the interview questions.
