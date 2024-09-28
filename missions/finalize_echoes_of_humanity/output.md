@@ -11,8 +11,8 @@ In the darkest hours, hope begins to gleam,
 Echoes of humanity, igniting every dream.
 
 **Chorus:**
-Echoes of humanity, echo through the night.  
-Voices intertwine, embracing fading light.  
+Echoes of humanity, resonating through the night.  
+Voices intertwine, embracing the fading light.  
 Echoes of humanity, reaching for the stars,  
 Together we ascend, as the world moves on.
 
@@ -32,7 +32,7 @@ Together we ascend, as the world moves on.
 As echoes fade into the dawn,  
 Humanity's spirit marches on.  
 Together we'll sing, forever strong,  
-Echoes of humanity, our eternal song.
+Echoes of humanity, our timeless song.
 
 ## Production Requirements
 
