@@ -3,7 +3,7 @@
 ### Structured Recognition Plan
 
 
-9. **Implement Recognition Schedule**: Set a timeline for monthly recognitions and ensure consistent execution.
+- **Implement Recognition Schedule**: Set a timeline for monthly recognitions and ensure consistent execution.
 
 **Timeline:**
 
