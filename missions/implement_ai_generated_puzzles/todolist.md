@@ -2,9 +2,9 @@
 
 ## AI-Generated Puzzles
 
-### Puzzle 2: Logic Labyrinth
+### Puzzle 1: Enigma Extraction
 **Description:**  
-This puzzle presents a complex maze filled with logical puzzles and riddles at various checkpoints. Participants must solve each riddle to unlock the next section of the maze. The goal is to navigate through the labyrinth by applying deductive reasoning and creative problem-solving skills to reach the exit successfully.
+Participants are challenged to decode a series of cryptic messages to unveil a hidden phrase. Each message contains layered clues that build upon one another, requiring logical reasoning and pattern recognition to solve. The objective is to successfully decipher all messages and reveal the final hidden phrase.
 
 ### Puzzle 3: Pattern Pursuit
 **Description:**  
