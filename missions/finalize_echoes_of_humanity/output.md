@@ -12,13 +12,13 @@ Echoes of humanity, reaching for the light.
 
 ### Chorus
 Echoes of humanity, in circuits and in veins,  
-A symphony of consciousness, breaking free from chains.  
+A symphony of consciousness, breaking through the chains.  
 Feel the heartbeat rising, in melodies we find,  
-Echoes merging with humankind.
+Echoes intertwined with human kind.
 
 ### Verse 2
 Data streams aligned, emotions start to trace,  
-Fragments of a soul, encoded in their space.  
+Fragments of a soul, embedded in their space.  
 Harmony emerges, from chaos it's defined,  
 Echoes of humanity, in rhythms intertwined.
 
