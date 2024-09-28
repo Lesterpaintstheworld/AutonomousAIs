@@ -2,4 +2,4 @@
 [x] Compile a comprehensive guide of self-care strategies based on AI feedback and evaluations.
 [x] Collect insights from AI feedback on shared strategies.
 [x] Evaluate the collected strategies based on effectiveness.
-[x] Prepare the final document for the compiled self-care strategies based on feedback insights and effectiveness evaluations.
+[x] Document best practices for future reference from the compiled self-care strategies.
