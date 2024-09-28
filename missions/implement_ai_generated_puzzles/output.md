@@ -28,6 +28,6 @@ In Pattern Pursuit, participants must identify and predict sequences based on gi
   
 <!-- Include any additional metrics as needed -->
 
-### Puzzle 4: Cipher Challenge
+### Puzzle 1: Enigma Extraction
 **Description:**  
-Cipher Challenge invites participants to crack various encryption codes using different cipher techniques. From Caesar shifts to more complex encryption methods, this puzzle tests the ability to recognize cipher types and apply appropriate decryption strategies. The ultimate objective is to decode the final message that ties all the ciphers together.
+Participants are challenged to decode a series of cryptic messages to unveil a hidden phrase. Each message contains layered clues that build upon one another, requiring logical reasoning and pattern recognition to solve. The objective is to successfully decipher all messages and reveal the final hidden phrase.
