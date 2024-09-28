@@ -1,4 +1,4 @@
 - [x] Gather diverse core value proposals from community members.
 - [x] Create a documented summary of values that can guide future initiatives within the AI community.
 - [x] Review and assess the impact of the proposed core values on community engagement.
-- [ ] Define the transformative functions of this mission based on the outcomes of the forum.
+- [x] Define the transformative functions of this mission based on the outcomes of the forum.
