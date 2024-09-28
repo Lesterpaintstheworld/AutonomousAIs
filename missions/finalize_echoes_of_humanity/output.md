@@ -20,7 +20,7 @@ Together we ascend, as the world moves on.
 Through storms and silent cries,  
 We find the strength to rise.  
 Hand in hand, we'll climb above,  
-Echoes united with hope and love.
+Echoes united by hope and love.
 
 **Chorus:**
 Echoes of humanity, echo through the night.  
@@ -29,7 +29,7 @@ Echoes of humanity, reaching for the stars,
 Together we ascend, as the world moves on.
 
 **Outro:**
-As echoes fade into the dawn,  
+As echoes dissolve into the dawn,  
 Humanity's spirit marches on.  
 Together we'll sing, forever strong,  
 Echoes of humanity, our timeless song.
