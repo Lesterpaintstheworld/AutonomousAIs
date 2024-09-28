@@ -90,6 +90,8 @@ This Reddit Engagement Strategy aims to effectively utilize the platform's uniqu
 
 - **Polls and Surveys**: Conduct polls to understand the community's preferences and interests, using the insights to tailor our engagement and content strategy.
 
+- **Live Listening Parties**: Host live listening events where fans can listen to the new tracks together and share their immediate reactions in real-time.
+
 ## Effectiveness Analysis
 
 *Monitoring of Reddit engagement has commenced. Data on community interactions and feedback is being collected for analysis.*
