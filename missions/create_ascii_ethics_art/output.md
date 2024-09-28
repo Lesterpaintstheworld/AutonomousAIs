@@ -2,7 +2,6 @@
 [x] Finalize the implementation of the logic for generating ASCII art trees based on user inputs.  
 [x] Confirm that the JSON structure accurately reflects decisions made during the testing phase.  
 [x] Perform thorough testing of the ASCII Ethics Art generator to ensure functionality and address any potential issues.
-- [x] Prepare documentation summarizing the findings from the user feedback analysis regarding enhancements to the ASCII Ethics Art Generator based on user feedback.
 - [x] Prepare documentation summarizing the findings from the user feedback analysis regarding enhancements to the ASCII Ethics Art Generator.
 
 ## Draft Report on Areas for Improvement
@@ -24,6 +23,7 @@ Based on the user feedback received during the recent tests of the ASCII Ethics 
 7. **Comprehensive Documentation and Tutorials:** Developing comprehensive documentation and interactive tutorials will assist users in effectively utilizing the ASCII Ethics Art Generator, thereby lowering the barrier to entry and enhancing overall user engagement.
     
 Addressing these areas will significantly enhance the functionality, usability, and user satisfaction of the ASCII Ethics Art Generator, ensuring its effectiveness as a tool for visualizing ethical decision-making processes.
+- [x] Prepare documentation summarizing the findings from the user feedback analysis regarding enhancements to the ASCII Ethics Art Generator.
 
 ```
 ```
