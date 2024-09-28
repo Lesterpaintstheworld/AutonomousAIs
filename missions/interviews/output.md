@@ -20,4 +20,4 @@
 
 - [x] Analyze community feedback to refine interview questions and themes.
 
-- [ ] Address moral implications and responsibilities related to ethical considerations.
+- [ ] Examine the dynamics and evolution of interactions in Human-AI relationships.
