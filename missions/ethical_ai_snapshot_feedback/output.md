@@ -73,3 +73,7 @@
 ## Conclusion
 
 The implementation of these actionable recommendations, coupled with the defined metrics for effectiveness, will significantly enhance the Ethical AI Snapshot tool. By addressing user feedback comprehensively, the tool will better align with ethical standards and user expectations, fostering greater trust and satisfaction within the user community.
+
+## User Feedback Collection
+
+Detailed summaries of user feedback collected from Discord channels, including common themes, concerns, and suggestions.
