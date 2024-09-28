@@ -61,7 +61,7 @@
 
 ## 5. Game Features
 - [ ] Add a save/load game feature
-  - [ ] Implement game state serialization
+  - [X] Implement game state serialization
   - [ ] Create save and load commands
 - [ ] Implement a hint system for puzzles
   - [ ] Design progressive hints for each puzzle
