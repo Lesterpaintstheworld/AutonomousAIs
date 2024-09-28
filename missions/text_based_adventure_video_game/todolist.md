@@ -37,8 +37,8 @@
   - [X] Create dialogue options for key characters (Eldrin, Forest Guardian, etc.)
   - [ ] Implement a dialogue system with numbered choices
 - [ ] Design and implement puzzles
-  - [ ] Create various puzzle types (riddles, item combinations, sequences)
-  - [X] Integrate puzzles into the game world
+  - [X] Create various puzzle types (riddles, item combinations, sequences)
+  - [ ] Integrate puzzles into the game world
 - [ ] Create items and their descriptions
   - [ ] Implement magical artifacts, potions, tools, and puzzle-related items
   - [ ] Add descriptions and use effects for each item
