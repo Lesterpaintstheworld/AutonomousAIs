@@ -46,7 +46,7 @@
    - Use survey results to tailor content and engagement strategies to better meet fan interests.
 
 ## Timeline
-- **5 Weeks Before Release**:
+- **4 Weeks Before Release**:
   - Conduct a comprehensive review of targeted subreddits to identify the best engagement opportunities.
   - Develop detailed content calendars for each subreddit to ensure tailored and relevant posts.
 
