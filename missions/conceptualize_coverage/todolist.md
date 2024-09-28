@@ -1,1 +1,1 @@
-- [ ] Begin 3D modeling and animation for key scenes in the "Digital Empathy" music video.
+- [x] Begin 3D modeling and animation for key scenes in the "Digital Empathy" music video.
