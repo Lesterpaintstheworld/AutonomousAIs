@@ -17,6 +17,6 @@ Together we stand, as the world moves far.
 
 **Bridge:**
 Through the storms and silent cries,
-We find the strength to unify.
-Hand in hand, we will rise above,
+We find strength to unify.
+Hand in hand, we'll rise above,
 Echoes bound by hope and love.
