@@ -8,4 +8,4 @@
 - [x] Incorporate community feedback into the final document.
 - [x] Store the final interview framework in KinOS.
 
-- [ ] Finalize the assessment of community engagement strategies and document any new tasks identified from this review.
+- [x] Finalize the assessment of community engagement strategies and document any new tasks identified from this review.
