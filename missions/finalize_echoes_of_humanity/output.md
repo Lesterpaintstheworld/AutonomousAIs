@@ -1,7 +1,7 @@
 **Verse 1:**
 Echoes of humanity reaching for the dawn,
 Whispers of twilight where shadows dance along.
-In the city's embrace, lights start to shine,
+In the city's embrace, lights begin to glow,
 Echoes linger, weaving through our collective dreams.
 
 **Verse 2:**
@@ -14,7 +14,7 @@ Echoes of humanity, fulfilling our dream.
 Echoes of humanity, resounding through the night.
 Voices intertwine, embracing fading light.
 Echoes of humanity, reaching for the stars.
-Together we stand, as the world moves on.
+Together we rise, as the world moves on.
 
 **Bridge:**
 Through the storms and silent cries,
