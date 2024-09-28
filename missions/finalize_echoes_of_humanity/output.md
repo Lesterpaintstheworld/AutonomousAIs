@@ -29,7 +29,7 @@ Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Outro:**
-As the echoes dissolve into the dawn,
+As the echoes dissolve into the morn,
 Humanity's spirit marches on.
 Together we'll sing, forever strong,
 Echoes of humanity, our timeless song.
