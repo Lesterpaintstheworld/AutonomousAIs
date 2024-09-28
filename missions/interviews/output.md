@@ -14,8 +14,7 @@ All steps have been completed for the final interview framework and it is proper
 6. **Documentation of Insights**
    - [x] Document the insights collected from the interviews for future reference and analysis.
   
-4. **Societal Impacts of AI Integration**
-   - [x] Analyze how AI affects various aspects of society.
+
   
 3. **Ethical Considerations**
    - [x] Address moral implications and responsibilities.
