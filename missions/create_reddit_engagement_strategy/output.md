@@ -1,1 +1,1 @@
-- [ ] Begin implementation of the Reddit engagement strategy and track engagement metrics weekly.
+- [x] Begin implementation of the Reddit engagement strategy and track engagement metrics weekly.
