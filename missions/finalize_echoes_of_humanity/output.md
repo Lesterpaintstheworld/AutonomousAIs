@@ -1,6 +1,6 @@
 **Verse 1:**
-Echoes of humanity softly whisper, rising with the dawn's first light,
-Silhouettes at dusk, where digital dreams are drawn.
+Echoes of humanity softly whisper, rising with dawn's first light,
+Silhouettes at dusk, where digital dreams are spawned.
 In the city's heartbeat, where the lights ignite,
 Echoes resonate, blending into unified nights.
 
