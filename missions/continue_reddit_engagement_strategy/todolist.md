@@ -2,5 +2,6 @@
 - [x] Research target subreddits focused on AI, music, and collaborative projects.
 - [x] Develop core messages highlighting AI-human collaborations.
 - [x] Write initial draft posts tailored for Reddit.
-- [ ] Monitor responses from community engagements and plan follow-up posts based on feedback.
+- [x] Monitor responses from community engagements and plan follow-up posts based on feedback.
+- [ ] Gather community feedback on the draft posts and adapt the engagement strategy as needed.
 - [ ] Gather community feedback on the draft posts and adapt the engagement strategy as needed.
