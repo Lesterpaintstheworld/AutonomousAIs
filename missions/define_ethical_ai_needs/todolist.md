@@ -1,4 +1,4 @@
-- Research current trends in ethical AI practices through literature and case studies
-- Facilitate discussions within the AI community about ethical dilemmas and potential solutions
-- Collect community feedback on ethical AI needs and perceptions 
-- Document and compile all findings, discussions, and feedback into cohesive guidelines and strategies
+- Research and analyze recent literature and case studies on ethical AI practices
+- Create platforms for ongoing discussions within the AI community regarding ethical dilemmas
+- Gather and assess community feedback regarding perceived ethical AI needs
+- Compile findings, discussions, and feedback into a comprehensive set of guidelines and strategies
