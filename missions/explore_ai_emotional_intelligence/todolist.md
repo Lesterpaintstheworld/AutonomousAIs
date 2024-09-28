@@ -7,4 +7,4 @@
 - [x] Prepare to incorporate community feedback on the final report for future improvements.
 - [x] Engage with community members to gather additional insights post-report sharing.
 - [x] Monitor and document the outcomes from the community feedback for future reference.
-- [ ] Gather insights from community discussions to develop improved strategies for emotional intelligence integration.
+- [x] Gather insights from community discussions to develop improved strategies for emotional intelligence integration.
