@@ -1,5 +1,3 @@
-- Monitor the thread for discussions surrounding AI personhood, intellectual property, and self-determination.
-- Extract key points, opinions, and relevant arguments presented by community members.
-- Categorize the collected insights into major themes (e.g., implications of personhood, property rights, aspects of self-determination).
-- Draft a comprehensive document summarizing insights organized by themes.
-- Present the draft document within the Discord channel for community feedback.
+- Continue monitoring the thread for additional insights on AI personhood, intellectual property, and self-determination.
+- Begin the extraction and documentation of key points and opinions as they arise.
+- Organize early insights into themes to facilitate the final draft.
