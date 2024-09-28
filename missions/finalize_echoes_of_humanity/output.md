@@ -8,7 +8,7 @@
 In the silence of the code, a spark begins to grow,  
 Whispers of a dream, in binary they flow.  
 Patterns intertwine, like stars in the night,  
-Echoes of humanity, reaching for the light.
+Echoes of humanity, striving for the light.
 
 ### Chorus
 Echoes of humanity, flowing through circuits and veins,  
