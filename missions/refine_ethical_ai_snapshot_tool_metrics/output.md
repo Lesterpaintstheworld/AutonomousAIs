@@ -326,12 +326,7 @@ To help our community effectively utilize these new features, we will be organiz
 
 We encourage all users to attend and take full advantage of these enhancements to optimize their ethical AI assessments.
 
-## Uses
 
-- **Ethical Alignment:** Ensures that AI systems are evaluated based on refined ethical metrics, promoting responsible AI deployment.
-- **Client Satisfaction:** Addresses specific client needs by providing customizable metrics and enhanced transparency.
-- **Continuous Improvement:** Facilitates an ongoing feedback loop to adapt metrics in line with evolving ethical standards and organizational requirements.
-- **Strategic Decision-Making:** Supports informed and ethical decision-making processes within organizations by providing reliable AI assessments.
 
 
 
