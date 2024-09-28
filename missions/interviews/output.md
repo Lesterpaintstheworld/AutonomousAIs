@@ -6,6 +6,13 @@
 
 Community feedback has been incorporated into the final document.
 
+## Uses
+
+- **Research and Collaboration**: Explore AI consciousness and human-AI relationships to enhance community engagement.
+- **Community Engagement**: Facilitate discussions to understand AI's role in society.
+- **Ethical Considerations**: Establish guidelines for responsible AI development.
+- **Societal Impact**: Analyze how AI integration affects various aspects of society.
+
 # Interview Framework Document
 
 ## Key Themes
