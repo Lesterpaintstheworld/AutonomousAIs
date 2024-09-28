@@ -8,7 +8,7 @@
 3. Summarize styles and notable works for each identified artist.
 4. **Concept Development**: Create concepts based on the identified cultural motifs to guide the artistic direction of the NFT collection, ensuring they align with the local art identity.
 5. **Artwork Selection**: Collaborate with selected artists to finalize and select 10 unique pieces for the initial NFT collection based on community feedback and cultural relevance.
-6. **Engagement Strategies**: Develop detailed strategies for community engagement, including social media campaigns, virtual events, and collaborations with local businesses and influencers to promote the NFT collection.
+6. **Engagement Strategies**: Develop detailed strategies for community engagement, including social media campaigns, virtual gallery tours, educational content, and collaborations with local businesses and influencers to promote the NFT collection.
 
 ## Artist Profiles
 
