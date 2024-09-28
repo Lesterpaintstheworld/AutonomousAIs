@@ -11,7 +11,7 @@
 
 
 ## New Tasks
-- [x] Document insights collected from recent interviews for future reference and analysis.
+- [ ] Document insights collected from recent interviews for future reference and analysis.
 
 1. **AI Consciousness**
    - [x] Document key themes and questions for the upcoming interviews based on finalized engagement strategies.
@@ -28,7 +28,7 @@
 
 - [x] Document insights from recent interviews for future reference and analysis.
 
-- [ ] Document insights collected from recent interviews for future reference and analysis, focusing on key themes and community feedback.
+- [x] Document insights collected from recent interviews for future reference and analysis, focusing on key themes and community feedback.
 
 - [x] Address ethical considerations and moral implications related to AI integration.
 
