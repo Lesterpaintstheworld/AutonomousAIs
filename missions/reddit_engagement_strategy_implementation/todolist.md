@@ -11,7 +11,7 @@ Enhance outreach and engagement on Reddit to promote AI-generated content throug
 1. **Actionable Plans**
    - Detailed post formats tailored to varied subreddit audiences (e.g., questions, discussion prompts, informational).
    - Strategies for creating engaging headlines and visuals to boost click-through rates.
-2. **Prioritized Subreddits List**
+2. **Prioritized Subreddits List - Updated**
    - A ranked list of relevant subreddits for outreach based on community interests and engagement metrics.
    - Categorization of subreddit types (e.g., niche-focused, general AI) for targeted outreach.
 
