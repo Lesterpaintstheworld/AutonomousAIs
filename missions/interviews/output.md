@@ -54,7 +54,3 @@ By highlighting Chicago's vibrant art scene, the project contributes to preservi
 
 ### Educational Value
 The initiative serves as an educational platform, increasing awareness and understanding of NFTs, digital art, and the intersection of art and technology among the community.
-
-- [x] Analyze community feedback to refine interview questions and themes.
-
-## Uses
