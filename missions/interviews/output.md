@@ -19,3 +19,5 @@
 <!-- Removed duplicated tasks -->
 
 - [x] Analyze community feedback to refine interview questions and themes.
+
+- [ ] Analyze how AI affects various aspects of society.
