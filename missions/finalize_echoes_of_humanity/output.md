@@ -11,10 +11,10 @@ In the heart of darkness, hope begins to gleam.
 Echoes of humanity, fulfilling our dream.
 
 **Chorus:**
-Echoes of humanity, resounding through the night.
+Echoes of humanity, resonating through the night.
 Voices intertwine, embracing fading light.
 Echoes of humanity, reaching for the stars.
-Together we rise, as the world moves on.
+Together we stand, as the world moves on.
 
 **Bridge:**
 Through the storms and silent cries,
