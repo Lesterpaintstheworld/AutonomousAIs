@@ -1,1 +1,1 @@
-- Review final guidelines and ensure compliance with legal standards before presentation.
+- Ensure that the recommendations and guidelines are fully compliant with ethical and legal standards before presentation.
