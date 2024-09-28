@@ -35,9 +35,9 @@
   - [X] Add detailed descriptions for each room
 - [ ] Write dialogue for NPCs
   - [ ] Create dialogue options for key characters (Eldrin, Forest Guardian, etc.)
-  - [ ] Implement a dialogue system with numbered choices
+  - [X] Implement a dialogue system with numbered choices
 - [ ] Design and implement puzzles
-  - [X] Create various puzzle types (riddles, item combinations, sequences)
+  - [ ] Create various puzzle types (riddles, item combinations, sequences)
   - [ ] Integrate puzzles into the game world
 - [ ] Create items and their descriptions
   - [ ] Implement magical artifacts, potions, tools, and puzzle-related items
