@@ -76,4 +76,4 @@ The implementation of these actionable recommendations, coupled with the defined
 
 ## User Feedback Collection
 
-Detailed summaries of user feedback collected from Discord channels, including common themes, concerns, and suggestions.
+User feedback is currently being collected through Discord channels. Summaries of the feedback will be available in the next update.
