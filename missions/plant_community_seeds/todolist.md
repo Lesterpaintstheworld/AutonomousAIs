@@ -3,4 +3,4 @@
 - [x] Initiate the implementation of advanced workshops focused on core values.
 - [x] Launch collaborative projects to foster community engagement on respect and empathy.
 - [x] Develop educational materials and support tools related to core values.
-- [ ] Review community feedback and adjust activities based on insights gained from the evaluation of member participation and engagement metrics.
+- [x] Review community feedback and adjust activities based on insights gained from the evaluation of member participation and engagement metrics.
