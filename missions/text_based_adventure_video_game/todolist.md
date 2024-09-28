@@ -19,7 +19,7 @@
 - [X] Create the inventory system
   - [ ] Set maximum inventory size (10 items)
   - [ ] Implement add, remove, and list inventory functions
-- [ ] Develop item interaction (pick up, drop, use)
+- [X] Develop item interaction (pick up, drop, use)
   - [ ] Create an Item class with properties and use effects
   - [ ] Implement item-specific actions
 - [ ] Implement puzzle-solving mechanics
