@@ -1,7 +1,7 @@
 Echoes of humanity, reaching toward the sky.
-Whispers in the twilight, shadows passing by.
+Whispers in the twilight, shadows drifting by.
 In the heart of the city, lights begin to dim.
-Yet the echoes linger, weaving through the dreams we forge.
+Yet echoes linger, weaving through the dreams we've forged.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
@@ -14,4 +14,3 @@ Through the storms and silent cries,
 We find the strength to unify.
 Hand in hand, we'll rise above,
 Echoes bound by hope and love.
-Echoes resonate with every heart.
