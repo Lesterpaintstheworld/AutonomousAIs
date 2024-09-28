@@ -1,14 +1,14 @@
 **Verse 1:**
-Echoes of humanity, murmurs of dawn,
-Whispers of twilight where digital shadows extend.
+Echoes of humanity, whispers at dawn,
+Shadows of twilight where digital dreams ascend.
 In the city's embrace, the lights start to shine,
 Echoes linger, weaving through our shared dreams.
 
 **Verse 2:**
 Beneath the starlit sky, our voices soar.
 Through the silent whispers, we yearn for more.
-In the depths of night, hope starts to gleam.
-Echoes of humanity, realizing our dreams.
+In the heart of darkness, hope begins to gleam.
+Echoes of humanity, fulfilling our dream.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
