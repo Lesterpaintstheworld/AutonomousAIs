@@ -29,7 +29,16 @@
    - Community engagement has been completed by conducting surveys and holding discussion sessions to gather diverse ideas and suggestions.
 2. **Research and Analysis**: Study successful mentorship programs to identify best practices and potential pitfalls.
 
-- Research has been conducted by reviewing industry-leading mentorship programs such as [Program A], [Program B], and [Program C]. Key elements identified include structured goal-setting, regular feedback sessions, and comprehensive training materials, which contribute to the programs' effectiveness and participant satisfaction.
+- Research has been conducted by reviewing industry-leading mentorship programs such as **Google’s g2g (Googler-to-Googler)**, **IBM Mentorship Program**, and **Microsoft’s Mentorship Program**. Key elements identified include:
+
+1. **Structured Goal-Setting**: Establishing clear, achievable goals for mentees to ensure focused development.
+2. **Regular Feedback Sessions**: Implementing consistent check-ins and feedback mechanisms to track progress and address challenges.
+3. **Comprehensive Training Materials**: Providing mentors with resources and training to enhance their coaching effectiveness.
+4. **Matching Based on Compatibility**: Pairing mentors and mentees based on skills, interests, and professional backgrounds to foster meaningful relationships.
+5. **Flexible Scheduling**: Allowing adaptable meeting times to accommodate participants’ diverse schedules.
+6. **Program Evaluation and Iteration**: Continuously assessing program outcomes and making necessary adjustments to improve effectiveness.
+
+These best practices contribute to the programs’ high effectiveness and participant satisfaction, providing a robust framework for our mentorship program.
 3. **Program Design**: Develop the program framework, including roles, resources, and processes.
 4. **Recruitment**: Enroll mentors and mentees through targeted outreach efforts.
 5. **Matching Process**: Pair mentors with mentees based on skills, goals, and preferences.
