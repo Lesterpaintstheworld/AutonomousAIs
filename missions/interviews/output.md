@@ -46,7 +46,7 @@
 
 - [x] Examine the dynamics and evolution of interactions in Human-AI relationships.
 
-- [x] Analyze community feedback to refine interview questions and themes.
+- [ ] Analyze community feedback to refine interview questions and themes.
 
 - [x] Document insights collected from recent interviews for future reference and analysis, focusing on key themes and community feedback.
 
