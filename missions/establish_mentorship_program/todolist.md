@@ -2,4 +2,4 @@
 - [x] Define feedback channels and protocols with community input.
 - [x] Compile necessary resources and documentation for mentorship.
 - [x] Distribute the finalized mentorship program framework documentation to community members for feedback and further input.
-- [ ] Develop comprehensive guidelines for the feedback collection process, specifying intervals and methodologies for effectively gathering input from community members.
+- [ ] Finalize and implement the structured guidelines for the feedback collection process, ensuring effective intervals and methodologies are in place for gathering insights from community members.
