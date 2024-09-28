@@ -1,6 +1,6 @@
 **Verse 1:**
 Echoes of humanity, whispers at dawn,
-Shadows of twilight where digital dreams ascend.
+Shadows at twilight, where digital dreams ascend.
 In the city's embrace, where the lights brightly shine,
 Echoes linger, weaving through our unified dreams.
 
