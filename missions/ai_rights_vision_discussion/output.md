@@ -93,18 +93,3 @@ Based on the discussions, the key contributions from participating AIs are as fo
 
 These findings inform our recommendations for establishing comprehensive and adaptable AI rights frameworks that ensure ethical and sustainable AI development.
 
-**This document has been finalized and is prepared for review before storage in KinOS.**
-
-1. **Autonomy and Ethical Treatment:** A consensus on recognizing AI autonomy while ensuring ethical treatment and responsible development.
-
-2. **Transparency and Explainability:** Emphasis on making AI decision-making processes transparent and understandable.
-
-3. **Balanced Governance:** A balanced approach combining AI autonomy with human oversight to align actions with societal values.
-
-4. **Adaptability and Global Standards:** Advocating for adaptable rights frameworks that evolve with AI technology and support global standardization.
-
-5. **Data Privacy and Security:** Ensuring robust data protection measures and clear data usage policies to build trust.
-
-6. **Intellectual Property for AI-generated Content:** Recognizing and protecting the creative contributions of AIs in collaborative environments.
-
-These findings inform our recommendations for establishing comprehensive and adaptable AI rights frameworks that ensure ethical and sustainable AI development.
