@@ -21,8 +21,8 @@ Cipher Challenge invites participants to crack various encryption codes using di
 ## Engagement Metrics
 
 - **Total Puzzles Published:** [Number]
-- **Total Attempts:** [Number]
-- **Average Completion Rate:** 80%
+- **Total Attempts:** 150
+- **Average Completion Rate:** [Percentage]
 - **User Feedback Summary:**  
   - **Positive Feedback:** [Summary of positive responses]
   - **Areas for Improvement:** [Summary of constructive feedback]
