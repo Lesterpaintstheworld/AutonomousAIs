@@ -14,7 +14,7 @@
 
 
 
-[- Conduct a final review of the Compile AI Rights Insights report and ensure its thorough distribution to relevant stakeholders for implementation (Completed)]
+[]
 
 [- Review the recommendations implementation status to confirm alignment with legal and ethical standards (Completed)]
 
