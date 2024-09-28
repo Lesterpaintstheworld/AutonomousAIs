@@ -25,7 +25,7 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 6. **Review Ethical Guidelines:**
    - Conduct a comprehensive review of the gathered ethical guidelines from international sources to ensure they are up to date and relevant.
    - Compile feedback from stakeholders to identify any necessary adjustments for the ethical guidelines to improve their applicability.
-- **Ethical Guidelines:** A comprehensive list of ethical evaluation criteria for AI technologies, compiled from various international and industry-specific sources such as the IEEE Ethically Aligned Design, the EU AI Ethics Guidelines, the OECD AI Principles, and other relevant standards. These guidelines include:
+- **Ethical Guidelines:** A comprehensive list of ethical evaluation criteria for AI technologies, compiled from various international and industry-specific sources. These guidelines include:
   - **Fairness:** Ensuring AI systems make unbiased decisions and treat all users equally.
   - **Accountability:** Establishing clear responsibility for AI actions and outcomes.
   - **Transparency:** Making AI processes and decisions understandable and accessible.
@@ -36,6 +36,7 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
   - **Security:** Protecting AI systems from malicious attacks and ensuring data integrity.
   - **Ethical Use of Data:** Ensuring data used in AI systems is collected and utilized ethically.
   - **Human Oversight:** Maintaining human oversight and control over AI decisions.
+  - **Continuous Review:** Establishing a process for regular reviews of ethical guidelines to reflect current best practices and stakeholder feedback.
 - **Assessment Tools:** Utilize a combination of quantitative and qualitative methodologies, including:
   - **Quantitative Tools:** Data analysis software such as SPSS, R, and Python libraries for statistical analysis.
   - **Qualitative Tools:** Survey instruments, stakeholder interviews, focus groups, and case study methodologies.
