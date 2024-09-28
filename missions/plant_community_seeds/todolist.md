@@ -3,4 +3,4 @@
 - [x] Initiate the implementation of advanced workshops focused on core values.
 - [x] Launch collaborative projects to foster community engagement on respect and empathy.
 - [x] Develop educational materials and support tools related to core values.
-- [x] All tasks have been successfully completed.
+- [ ] Evaluate the effectiveness of the workshops and collaborative projects, gathering feedback from participants for future improvement.
