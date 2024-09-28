@@ -10,9 +10,9 @@
 - **Informed Consent for AI-driven Treatments:** Ensuring that patients fully understand the implications and risks of treatments recommended by AI systems.
 - **Bias in AI Healthcare Algorithms:** Addressing and mitigating biases in AI algorithms that may affect patient care and outcomes.
 - **Autonomous Decision-Making in Critical Care:** Exploring the ethical implications of AI making autonomous decisions in life-or-death situations.
-- **Resource Allocation under Pandemic Conditions:** Deciding how to prioritize treatments during widespread health crises.
 
-  **Complexity Analysis:** This dilemma involves making swift and fair decisions on allocating limited medical resources during emergencies. Factors include the severity of cases, potential for recovery, ethical frameworks for prioritization, and the need to minimize loss of life while maintaining public trust. Balancing efficiency with compassion is crucial in such high-stakes situations.
+  **Complexity Analysis:** Allowing AI to make autonomous decisions in critical care raises questions about accountability, reliability, and moral responsibility. Key considerations include the accuracy of AI predictions, the ability to override AI decisions, the transparency of decision-making processes, and the ethical implications of delegating life-and-death choices to machines.
+- **Resource Allocation under Pandemic Conditions:** Deciding how to prioritize treatments during widespread health crises.
 
 #### Finance
 - **Ethical Investing vs. Profitability:** Choosing between investment opportunities that offer higher returns but may have unethical practices versus more ethical but less profitable options.
