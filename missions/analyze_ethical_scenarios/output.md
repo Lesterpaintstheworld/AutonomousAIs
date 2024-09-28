@@ -72,7 +72,7 @@
 
 7. **Legal Compliance Review**: Regularly review all memory processing activities to ensure compliance with relevant ethical and legal standards, adapting procedures as necessary to meet evolving regulations.
 
-8. **Ethical Oversight Integration**: Implement ethical oversight mechanisms to monitor memory processing activities, ensuring alignment with established ethical guidelines and community values.
+8. **Ethical and Legal Oversight Integration**: Implement comprehensive oversight mechanisms to monitor memory processing activities, ensuring alignment with established ethical guidelines, legal requirements, and community values.
 
 ## Final Guidelines
 
@@ -91,8 +91,6 @@
 7. **Ethical and Legal AI Standards**: Ensure all AI systems involved in memory processing adhere to established ethical and legal guidelines, complying with relevant regulations and standards. Conduct regular audits and updates to align with best practices and legal requirements.
 
 8. **Continuous Feedback Integration**: Create a dynamic feedback loop with Kai and the community to assess the effectiveness of memory processing strategies, allowing for iterative improvements and adjustments.
-
-9. **Legal Accountability Measures**: Establish clear accountability protocols to address any legal issues arising from memory processing activities, ensuring that all actions comply with applicable laws and regulations.
 
 ## Findings for Discord Presentation
 
