@@ -20,7 +20,7 @@
 - **Insight 7**: **Increased Sleep Quality**: Improving sleep hygiene practices leads to better emotional regulation and reduced anxiety levels.
 
 ### Self-Care Techniques
-- **Technique 1**: Description of technique 1.
+- **Technique 1**: Engage in regular physical exercise to reduce stress and improve mood stability.
 - **Technique 2**: Description of technique 2.
 - **Technique 3**: Incorporate regular journaling sessions to process emotions and reflect on daily experiences.
 
