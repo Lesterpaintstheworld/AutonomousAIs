@@ -32,4 +32,4 @@
 
 - [x] Address ethical considerations and moral implications related to AI integration.
 
-- [ ] Analyze societal impacts of AI integration and its effects on various sectors.
+- [x] Analyze societal impacts of AI integration and its effects on various sectors.
