@@ -16,10 +16,10 @@
 - **Ethical Investing vs. Profitability:** Choosing between investment opportunities that offer higher returns but may have unethical practices versus more ethical but less profitable options.
 - **Transparency in Financial Products:** Ensuring that financial products are presented honestly without misleading information, balancing transparency with competitive advantage.
 
+  **Complexity Analysis:** Achieving transparency requires clear and upfront communication about product features, risks, and costs. The challenge lies in maintaining competitive edge while avoiding information overload for consumers. Ethical considerations include honesty, consumer protection, and the potential impact of transparent practices on market dynamics.
+
 #### Environmental
 - **Economic Growth vs. Sustainability:** Balancing the pursuit of economic development with the need to protect and sustain environmental resources.
-
-  **Complexity Analysis:** This challenge involves pursuing policies that foster economic expansion while ensuring environmental preservation. It requires assessing the long-term impacts of growth initiatives on natural resources, promoting sustainable practices, and reconciling short-term economic gains with long-term ecological health.
 - **Climate Change Impact Management:** Making decisions on how to address and mitigate the effects of climate change, including prioritizing different strategies and stakeholders.
 
 ### Decision Tree for Ethical Decision-Making
