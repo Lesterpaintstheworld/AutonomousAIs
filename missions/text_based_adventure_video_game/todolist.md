@@ -69,7 +69,7 @@
 - [ ] Create a system for tracking player progress
   - [ ] Implement quest log or progress tracker
   - [ ] Add achievements or milestones
-- [ ] Add optional side quests
+- [X] Add optional side quests
   - [ ] Implement the 4 side quests from the game narrative
   - [ ] Create rewards for completing side quests
 
