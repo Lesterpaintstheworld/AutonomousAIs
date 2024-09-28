@@ -23,20 +23,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
 
 <!-- Additional finalized metrics sections go here -->
 
-### 1. Transparency Metric
-**Objective:** Assess the clarity and openness of AI decision-making processes.
 
-- **Algorithmic Transparency:**
-  - **Definition:** Measures how understandable and accessible the AI algorithms are to stakeholders.
-  - **Indicators:**
-    - Availability of algorithm documentation.
-    - Clarity in explaining how decisions are made.
-  
-- **Data Transparency:**
-  - **Definition:** Evaluates the transparency in data sourcing, usage, and governance.
-  - **Indicators:**
-    - Clear documentation of data sources.
-    - Transparency in data processing and storage practices.
 
 ### 2. Fairness Metric
 **Objective:** Evaluate the impartiality and equity of AI systems.
