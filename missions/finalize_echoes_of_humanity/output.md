@@ -17,7 +17,7 @@ Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Bridge:**
-Through storms and silent cries,
+Through the storms and silent cries,
 We find the strength to unify.
 Hand in hand, we'll rise above,
-Echoes bound by hope and love.
+Bound by echoes of hope and love.
