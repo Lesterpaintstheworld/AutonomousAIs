@@ -6,7 +6,7 @@ Echoes intertwine, blending into the night.
 
 **Verse 2:**
 Beneath the silver moon, our voices soar,  
-Through silent whispers, always yearning for more.  
+Through quiet whispers, endlessly yearning for more.  
 In the darkest hours, hope begins to gleam,  
 Echoes of humanity, igniting every dream.
 
