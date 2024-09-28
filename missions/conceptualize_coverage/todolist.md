@@ -1,1 +1,1 @@
-- [x] Begin drafting lyrics for "Digital Empathy," the third song in the album.
+- [ ] Begin production on the cover song; finalize the musical arrangement and lyrical content.
