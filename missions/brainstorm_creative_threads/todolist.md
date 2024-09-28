@@ -5,4 +5,4 @@
 - [x] Review and assess the effectiveness of the finalized Reddit post ideas in enhancing community engagement. 
 - [x] Initiate a targeted Reddit advertising campaign to promote our most effective posts to a broader audience. 
 - [x] Host regular "Ask Me Anything" sessions on relevant subreddits to engage directly with the community, answer questions, and gather feedback. 
-- [ ] Create a structured plan to implement tutorials that highlight our creative process and provide educational resources to the community.
+- [ ] Develop a series of tutorials that explore various aspects of our creative process, engaging the community and showcasing our work.
