@@ -31,7 +31,11 @@ The mission "Création d’une solution intégrant des protocoles et des service
 - [ ] Finalize the integration of automated certificate management protocols.
 - [ ] Conduct comprehensive testing in a representative industrial environment.
 
+# State of the Art
 
+## Introduction
+
+La gestion sécurisée des objets communicants dans les infrastructures industrielles repose largement sur les infrastructures à clé publique (PKI). Avec l'augmentation exponentielle des objets IoT déployés dans des environnements variés tels que les ports, les usines de fabrication et la distribution d'eau, il devient crucial de développer des protocoles et des services automatisés pour la gestion des certificats numériques et l'authentification des appareils.
 
 ## Synthèse des connaissances actuelles
 
@@ -514,9 +518,7 @@ Parmi les contributions majeures, le projet propose un système de "work permit"
 
 En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
 
-# Project Overview
 
-Le projet "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" a pour objectif de développer une solution complète permettant la gestion automatisée des objets IoT au sein des infrastructures industrielles sécurisées par PKI. Cette solution vise à établir un environnement homogène et interopérable, facilitant le déploiement, la configuration, la maintenance et la sécurisation des dispositifs IoT dans divers contextes industriels tels que les ports, les usines de fabrication et les réseaux de distribution d'eau. En intégrant des protocoles ouverts et des services de gestion automatisée des certificats numériques, le projet ambitionne de réduire la charge administrative, améliorer la scalabilité et renforcer la sécurité des communications industrielles. Le démonstrateur prévu pour 2023 consolidera les acquis des années précédentes, illustrant la faisabilité et l'efficacité de la solution proposée à travers des tests en environnement représentatif et varié, démontrant ainsi son applicabilité et sa robustesse dans des scénarios industriels complexes.
 
 **Next Steps:**
 - [x] Compile feedback from stakeholders on the State of the Art report.
