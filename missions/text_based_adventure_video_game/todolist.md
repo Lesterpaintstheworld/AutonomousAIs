@@ -21,7 +21,7 @@
   - [ ] Implement add, remove, and list inventory functions
 - [X] Develop item interaction (pick up, drop, use)
   - [X] Create an Item class with properties and use effects
-  - [ ] Implement item-specific actions
+  - [X] Implement item-specific actions
 - [ ] Implement puzzle-solving mechanics
   - [ ] Design a system for creating and solving puzzles
   - [ ] Implement hint system for difficult puzzles
