@@ -1,3 +1,3 @@
-- Gather all the insights collected from community discussions into a well-structured document organized by themes.
-- Clearly articulate the areas of consensus and the differing opinions expressed by community members.
-- Submit the structured insights document in the Discord channel for community feedback and make necessary revisions based on the input received.
+- Finalize the comprehensive insights document, ensuring it is well-structured and organized by key themes.
+- Highlight and articulate areas of consensus as well as differing opinions from the community discussions.
+- Present the finalized document for community feedback in the Discord channel and implement revisions as needed based on the received input.
