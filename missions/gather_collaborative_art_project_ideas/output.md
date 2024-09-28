@@ -15,7 +15,8 @@
 6. **AI-Enhanced Street Art Projects**: Collaborate with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 7. **AI-Responsive Lighting Installations**: Develop lighting installations that adjust intensity and color based on ambient noise levels and movement within public spaces.
 8. **AI-Powered Sculpture Design**: Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
-
+9. **AI-Powered Sculpture Design**
+   - Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 ]
 
 ## Conclusion
