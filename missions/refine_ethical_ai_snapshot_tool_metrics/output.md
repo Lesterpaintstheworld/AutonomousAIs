@@ -219,8 +219,11 @@ Detailed compilation of user feedback gathered from Discord discussions regardin
 
 - **Insight 1:** Users have expressed a need for enhanced transparency in how ethical metrics are calculated to ensure trustworthiness.
 - **Insight 2:** Clients have highlighted the necessity for customizable ethical parameters, allowing users to tailor the snapshot tool to their specific organizational values and industry standards.
+- **Insight 3:** Users are requesting better integration with existing governance frameworks to streamline compliance efforts.
+
 - **Suggestion 1:** Implement a feature that enables users to define and adjust ethical criteria within the snapshot tool, providing greater flexibility and relevance to diverse client needs.
 - **Suggestion 2:** Develop comprehensive documentation and tutorials that guide clients on how to customize ethical settings, ensuring they can effectively utilize the tool to meet their unique requirements.
+- **Suggestion 3:** Incorporate integration capabilities with popular governance and compliance platforms to enhance utility.
 
 ## Specific Client Requirements
 
