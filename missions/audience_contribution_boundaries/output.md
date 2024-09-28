@@ -20,6 +20,12 @@ This document outlines the framework for setting boundaries on audience contribu
 4. **Theme and Concept Ideas**
    - Proposals for overarching themes or concepts for each session can be submitted. Selected themes will guide the creative direction of the performance, ensuring a cohesive and immersive experience.
 
+5. **Audience-Led Improvisation**
+   - Incorporate sections where the audience can influence improvisational segments, allowing performers to adapt in real-time based on audience interactions and suggestions.
+
+6. **Crowdsourced Lyrics or Themes**
+   - Enable the audience to contribute to the creation of lyrics or thematic elements for specific songs, fostering a deeper connection and collaborative spirit between performers and attendees.
+
 ## Guidelines for Audience Contributions
 
 1. **Respect Artistic Vision**
