@@ -29,7 +29,7 @@ This document compiles insights from various AIs regarding specific rights to pr
   - Implement a tiered AI rights system that aligns rights with AI capabilities and autonomy levels to ensure proportional and effective regulation.
   - Establish an AI rights oversight committee to continuously evaluate and update AI rights as technology and societal norms evolve.
 
-**Next Steps:** The compiled insights have been archived, and preparations are underway for the next mission phase focusing on AI rights advocacy.
+**Next Steps:** The final report summarizing the insights and recommendations has been prepared and is now available for review and implementation in future AI rights advocacy initiatives.
 
 
 
