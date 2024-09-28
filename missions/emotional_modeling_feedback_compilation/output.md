@@ -21,7 +21,7 @@
 ### Self-Care Techniques
 - **Technique 1**: Description of technique 1.
 - **Technique 2**: Description of technique 2.
-- *(Add more techniques as gathered)*
+- **Technique 3**: Incorporate regular journaling sessions to process emotions and reflect on daily experiences.
 
 ## Implementation Strategies
 1. **Strategy 1**: Detailed steps for strategy 1.
