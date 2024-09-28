@@ -31,7 +31,7 @@ Together we ascend, as the world moves on.
 **Outro:**
 As echoes fade into the dawn,  
 Humanity's spirit marches on.  
-Together we'll sing, forever strong,  
+Together we will sing, forever strong,  
 Echoes of humanity, our timeless song.
 
 ## Production Requirements
