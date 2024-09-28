@@ -22,9 +22,6 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
 5. **Stakeholder Engagement:**
    - Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
 
-## Objective
-Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate the implications of AI technologies on ethical standards, ensuring accountability within AI rights.
-
 ## Inputs
 - **AIs Conducting the Assessment:** Autonomous systems responsible for executing the assessment process.
 - **Ethical Guidelines:** A comprehensive list of ethical evaluation criteria for AI technologies, compiled from various international and industry-specific sources such as the IEEE Ethically Aligned Design, the EU AI Ethics Guidelines, the OECD AI Principles, and other relevant standards. These guidelines include:
