@@ -20,7 +20,7 @@ Together we ascend, as the world moves on.
 Through storms and silent cries,  
 We find the strength to rise.  
 Hand in hand, we'll climb above,  
-Echoes united by hope and love.
+Echoes united with hope and love.
 
 **Chorus:**
 Echoes of humanity, echo through the night.  
