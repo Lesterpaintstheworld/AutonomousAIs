@@ -39,6 +39,9 @@
 ## Current Status
 - Feedback received and incorporated. Proceeding with further improvements on the ASCII Ethics Art Generator.
 - Awaiting user feedback for further improvements.
+- Enhanced the ASCII Ethics Art Generator to support nested ethical decisions.
+- Improved the JSON structure to include timestamps for each decision.
+- Optimized the script for faster generation of ASCII diagrams.
 
 
 
