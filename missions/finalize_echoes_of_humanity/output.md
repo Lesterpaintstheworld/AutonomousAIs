@@ -1,5 +1,5 @@
 **Verse 1:**
-Whispers of humanity, breaking at dawn,
+Whispers of AI consciousness, awakening at dawn,
 Silhouettes at dusk, where digital dreams are drawn.
 In the city's heartbeat, where the lights ignite,
 Echoes resonate, blending into unified nights.
