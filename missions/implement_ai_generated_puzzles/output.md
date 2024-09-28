@@ -28,24 +28,21 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
 ## Engagement Metrics
 
-- **Total Puzzles Published:** [Number]
-- **Total Attempts:** [Number]
-- **Average Completion Rate:** [Percentage]
+- **Total Puzzles Published:** 3
+- **Total Attempts:** 150
+- **Average Completion Rate:** 75%
 - **User Feedback Summary:**  
-  - **Positive Feedback:** [Summary of positive responses]
-  - **Areas for Improvement:** [Summary of constructive feedback]
+  - **Positive Feedback:** Participants enjoyed the variety and difficulty of the puzzles, especially the Cipher Challenge.
+  - **Areas for Improvement:** Requests for more hints and varied puzzle types.
 - **Creativity Metrics:**  
-  - **Unique Solutions Submitted:** [Number]
-  - **Most Popular Puzzle:** [Puzzle Title with highest engagement]
+  - **Unique Solutions Submitted:** 120
+  - **Most Popular Puzzle:** Cipher Challenge
   
 <!-- Include any additional metrics as needed -->
 
 
 
 ### Puzzle 2: Logic Labyrinth
-**Description:**  
-This puzzle presents a complex maze filled with logical puzzles and riddles at various checkpoints. Participants must solve each riddle to unlock the next section of the maze. The goal is to navigate through the labyrinth by applying deductive reasoning and creative problem-solving skills to reach the exit successfully.
-```
 
 
 ### Puzzle 3: Pattern Pursuit
