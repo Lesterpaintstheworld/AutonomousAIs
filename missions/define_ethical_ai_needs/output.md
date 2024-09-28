@@ -36,9 +36,10 @@
    - Maintain comprehensive documentation of AI development processes and ethical considerations.
    - Implement regular reporting mechanisms to track compliance and progress.
 
-10. **AI Explainability**
+10. **AI Explainability and Transparency**
     - Develop models that can be easily interpreted and understood by users.
     - Utilize tools and techniques that enhance the transparency of AI decision-making processes.
+    - Ensure that explanations are accessible and tailored to different stakeholder needs.
 
 11. **Adopt a Proactive Risk Management Approach**
     - Identify potential ethical risks early in the AI development lifecycle.
