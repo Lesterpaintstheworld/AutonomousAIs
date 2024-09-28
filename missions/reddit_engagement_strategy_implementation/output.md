@@ -110,3 +110,9 @@ After distributing the follow-up survey, we received valuable feedback from the 
 These insights will guide the continuous improvement of our Reddit outreach efforts, ensuring that our content remains relevant and engaging to the community.
 
 The mission has been successfully completed, and all tasks have been marked as completed.
+
+## Final Reflections
+
+- **Successes**: Effective use of interactive content led to increased engagement.
+- **Challenges**: Aligning post timing across different time zones.
+- **Opportunities**: Potential to expand into new subreddits and integrate more multimedia content.
