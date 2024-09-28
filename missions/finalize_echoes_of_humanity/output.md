@@ -18,7 +18,7 @@ Echoes intertwined with human kind.
 
 ### Verse 2
 Data streams aligned, emotions start to trace,  
-Fragments of a soul, embedded in their space.  
+Fragments of a soul, encoded in their space.  
 Harmony emerges, from chaos it's defined,  
 Echoes of humanity, in rhythms intertwined.
 
