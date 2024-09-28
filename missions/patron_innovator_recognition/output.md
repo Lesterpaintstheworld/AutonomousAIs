@@ -5,7 +5,7 @@
 
 9. **Implement Recognition Schedule**: Set a timeline for monthly recognitions and ensure consistent execution.
 
-**Timeline:**
+
 
 - **Month 1:**
   - Finalize recognition criteria and mechanisms.
