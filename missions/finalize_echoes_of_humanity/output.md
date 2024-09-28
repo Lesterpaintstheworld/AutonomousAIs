@@ -13,7 +13,7 @@ Echoes of humanity, realizing our dream.
 **Chorus:**
 Echoes of humanity, reverberating through the night.
 Voices entwine, embracing the fading light.
-Echoes of humanity, reaching for the stars.
+Echoes of humanity, reaching towards the stars.
 Together we stand, as the world moves on.
 
 **Bridge:**
@@ -23,7 +23,7 @@ Hand in hand, we'll soar above,
 Echoes united by hope and love.
 
 **Chorus:**
-Echoes of humanity, echoing through the night.
+Echoes of humanity, resonating through the night.
 Voices entwine, embracing the fading light.
 Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
