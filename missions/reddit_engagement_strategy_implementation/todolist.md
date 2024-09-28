@@ -6,7 +6,7 @@
 - [x] Monitor performance metrics and adjust strategies based on feedback.
 - [x] Document outcomes and insights from the Reddit engagement strategy for future reference.
 - [x] Prepare a follow-up survey to gather additional community insights on the engagement strategy's effectiveness.
-- [x] Analyze engagement metrics and feedback to continuously improve future Reddit outreach efforts.
+- [x] Analyze survey results to inform future engagement strategies and content creation.
 - [x] Implement changes based on feedback received from the follow-up survey.
 - [x] Compile insights from engagement metrics into a report for future reference.
 
