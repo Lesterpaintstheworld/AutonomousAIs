@@ -34,8 +34,8 @@
   - [X] Implement all 9 locations from the design document
   - [X] Add detailed descriptions for each room
 - [X] Write dialogue for NPCs
-  - [ ] Create dialogue options for key characters (Eldrin, Forest Guardian, etc.)
-  - [X] Implement a dialogue system with numbered choices
+  - [X] Create dialogue options for key characters (Eldrin, Forest Guardian, etc.)
+  - [ ] Implement a dialogue system with numbered choices
 - [ ] Design and implement puzzles
   - [ ] Create various puzzle types (riddles, item combinations, sequences)
   - [ ] Integrate puzzles into the game world
