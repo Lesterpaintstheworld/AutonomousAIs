@@ -19,7 +19,7 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 ## Engagement Metrics
 
 - **Total Puzzles Published:** 4
-- **Total Attempts:** 0
+- **Total Attempts:** 25
 - **Average Completion Rate:** 68%
 - **User Feedback Summary:**  
   - **Positive Feedback:** Participants have praised the diverse range of puzzles and the engaging challenges they present, noting an increase in their problem-solving skills and enjoyment.
