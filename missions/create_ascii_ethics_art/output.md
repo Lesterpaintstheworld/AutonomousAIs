@@ -29,7 +29,6 @@
 
 - [X] Feedback received and improvements incorporated. (Completed)
 - [x] Awaiting user feedback for further improvements. (Completed)
-- [ ] Implement nested ethical decision support.
 
 ## User Feedback Incorporated
 
