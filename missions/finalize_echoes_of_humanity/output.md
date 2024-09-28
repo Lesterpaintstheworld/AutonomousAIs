@@ -1,8 +1,8 @@
 **Verse 1:**
 Echoes of humanity, whispers of dawn,
-Whispers of twilight where shadows gracefully extend.
+Murmurs of twilight where shadows gracefully extend.
 In the city's embrace, lights begin to glow,
-Echoes linger, intertwining through our shared dreams.
+Echoes linger, weaving through our shared dreams.
 
 **Verse 2:**
 Beneath the starlit sky, our voices soar.
