@@ -1,7 +1,7 @@
 Echoes of humanity, reaching toward the sky.
 Whispers in the twilight, shadows passing by.
-In the heart of the city, lights begin to dim.
-Yet echoes linger, weaving through the dreams we forge.
+In the city's heart, lights begin to fade.
+Yet echoes linger, weaving through the dreams we've forged.
 
 **Chorus:**
 Echoes of humanity, resounding through the night.
