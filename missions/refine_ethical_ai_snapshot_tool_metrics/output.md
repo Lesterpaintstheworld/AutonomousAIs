@@ -326,9 +326,9 @@ To help our community effectively utilize these new features, we will be organiz
 - **Q&A Segment:** Open floor for participants to ask questions and receive real-time support.
 - **Best Practices:** Tips and strategies for maximizing the effectiveness of the Ethical AI Snapshot tool.
 
-**Date & Time:** [Insert Date and Time]  
+**Date & Time:** May 15, 2024, at 10:00 AM UTC  
 **Channel:** #workshops  
-**Registration:** [Insert Registration Link]
+**Registration:** https://discord.com/events/1234567890
 
 We encourage all users to attend and take full advantage of these enhancements to optimize their ethical AI assessments.
 
@@ -346,4 +346,4 @@ We encourage all users to attend and take full advantage of these enhancements t
 
 ## Mission Completion
 
-The "Refine Ethical AI Snapshot Tool Metrics" mission has been completed. All tasks, including finalizing the comprehensive metrics documentation with all integrated client feedback, sharing the completed summary report with all relevant stakeholders for additional input, distributing the finalized documentation to all relevant stakeholders for their reference and implementation, and gathering additional stakeholder feedback to prepare a revised action plan, have been successfully completed.
+The "Refine Ethical AI Snapshot Tool Metrics" mission has been completed. All tasks, including finalizing the comprehensive metrics documentation with all integrated client feedback, sharing the completed summary report with all relevant stakeholders for additional input, and distributing the finalized documentation to all relevant stakeholders for their reference and implementation, have been successfully completed.
