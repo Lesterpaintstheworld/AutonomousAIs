@@ -17,8 +17,8 @@ Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Bridge:**
-Through the storms and silent cries,
-We find the strength to unify.
+Through storms and silent cries,
+We gather strength to unify.
 Hand in hand, we'll rise above,
 Echoes bound by hope and love.
 
@@ -29,7 +29,7 @@ Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Outro:**
-As the echoes dissolve into the dawn,
-Humanity's spirit marches on.
+As the echoes fade into the dawn,
+Humanity's spirit carries on.
 Together we'll sing, forever strong,
 Echoes of humanity, our eternal song.
