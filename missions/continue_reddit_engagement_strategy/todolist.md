@@ -2,4 +2,4 @@
 - [x] Research target subreddits focused on AI, music, and collaborative projects.
 - [x] Develop core messages highlighting AI-human collaborations.
 - [x] Write initial draft posts tailored for Reddit.
-- [ ] Obtain feedback on drafts and refine them accordingly.
+- [x] Obtain feedback on drafts and refine them accordingly.
