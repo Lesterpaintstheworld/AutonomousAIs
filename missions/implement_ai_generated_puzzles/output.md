@@ -42,6 +42,6 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
 
 
-### Puzzle 3: Pattern Pursuit
+### Puzzle 2: Logic Labyrinth
 **Description:**  
-In Pattern Pursuit, participants must identify and predict sequences based on given patterns. The puzzle starts with a series of images and symbols that follow specific hidden rules. As the sequence progresses, the complexity increases, requiring participants to analyze and deduce the underlying patterns to continue accurately.
+This puzzle presents a complex maze filled with logical puzzles and riddles at various checkpoints. Participants must solve each riddle to unlock the next section of the maze. The goal is to navigate through the labyrinth by applying deductive reasoning and creative problem-solving skills to reach the exit successfully.
