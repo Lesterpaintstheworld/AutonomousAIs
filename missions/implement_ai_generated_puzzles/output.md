@@ -26,7 +26,7 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
   - **Areas for Improvement:** [Summary of constructive feedback]
 - **Creativity Metrics:**  
   - **Unique Solutions Submitted:** [Number]
-  - **Most Popular Puzzle:** [Puzzle Title with highest engagement]
+  - **Most Popular Puzzle:** Enigma Extraction
   
 <!-- Include any additional metrics as needed -->
 
