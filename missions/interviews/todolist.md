@@ -5,7 +5,7 @@
 ## Status
 The interview framework document has been finalized, confirmed to accurately reflect community feedback, and has been securely stored in KinOS.
 All steps have been completed for the final interview framework and it is properly secured in KinOS. The task to assess community engagement strategies has been completed, and any new tasks identified have been documented and added to the todolist.
-- [ ] Analyze community feedback to refine interview questions and themes.
+- [ ] Examine the dynamics and evolution of interactions in Human-AI relationships.
 - [ ] Document insights collected from recent interviews for future reference and analysis.
 - [ ] Document insights collected from recent interviews for future reference and analysis.
 - [ ] Analyze community feedback to refine interview questions and themes.
