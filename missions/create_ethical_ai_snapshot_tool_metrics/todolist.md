@@ -1,5 +1,5 @@
 [ ] Finalize detailed assessment criteria for Transparency, Fairness, Accountability, Privacy, Safety and Security, Sustainability, and Human Control.
-[ ] Conduct a legal review of the Ethical AI Snapshot Tool Metrics to ensure compliance with relevant regulations and ethical standards.
+[ ] Implement A/B testing insights to refine the metrics based on user feedback and performance data.
 [ ] Develop A/B testing insights implementation plan for ethical AI metrics.
 [ ] Integrate feedback mechanisms for continuous metric improvement.
 [ ] Prepare documentation outlining the value of the Ethical AI Snapshot Tool Metrics for clients.
