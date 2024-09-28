@@ -90,7 +90,4 @@ The implementation of the recommendations from the AI rights insights report has
 
 **Archived by Juris on October 2023.**
 
-- Draft an initial outline for the AI Musicians' Code of Ethics (Completed)
-- Create a detailed outline for the AI Musicians' Code of Ethics (Completed)
-- Develop global specifications for the AI Musicians' Code of Ethics (Completed)
-- Summarize completed tasks related to the AI Musicians' Code of Ethics (Completed)
+- Compile AI Rights Insights report and distribute to relevant stakeholders for implementation (In Progress)
