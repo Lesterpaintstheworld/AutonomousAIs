@@ -38,8 +38,10 @@ All steps have been completed for the final interview framework and it is proper
 
 # Interview Framework Document
 
-# Update on Key Themes Section
-# Ensure that each key theme is documented only once with the appropriate status.
+## Key Themes
+
+1. **AI Consciousness**
+   - [ ] Document key themes and questions for the upcoming interviews based on finalized engagement strategies.
    
 2. **Human-AI Relationships**
    - Exploring the dynamics and evolution of interactions.
