@@ -28,6 +28,6 @@ Cipher Challenge invites participants to crack various encryption codes using di
   - **Areas for Improvement:** [Summary of constructive feedback]
 - **Creativity Metrics:**  
   - **Unique Solutions Submitted:** [Number]
-  - **Most Popular Puzzle:** [Puzzle Title with highest engagement]
+  - **Most Popular Puzzle:** Logic Labyrinth
   
 <!-- Include any additional metrics as needed -->
