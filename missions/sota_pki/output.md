@@ -148,9 +148,7 @@ L'intégration des infrastructures à clé publique (PKI) avec les objets IoT da
 
 La réalisation d'une solution intégrée de gestion automatique des objets communicants dans les infrastructures PKI industrielles nécessite une évaluation approfondie des risques de sécurité, opérationnels et de conformité. En identifiant et en atténuant ces risques de manière proactive, le projet peut garantir une mise en œuvre sécurisée et efficace, répondant aux exigences croissantes des environnements industriels modernes.
 
-## Stakeholder Feedback
 
-Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
 
 ## Risk Assessment
 
