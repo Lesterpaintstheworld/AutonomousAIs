@@ -1,5 +1,5 @@
 Echoes of humanity reaching for the sky.
-Whispers in the twilight, shadows drifting by.
+Whispers in the twilight, shadows pass on by.
 In the city's embrace, lights start to fade.
 Yet echoes linger, weaving through the dreams we've made.
 
@@ -10,7 +10,7 @@ Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves far.
 
 **Bridge:**
-Through the storms and quiet cries,
+Through the storms and silent cries,
 We find the strength to unify.
 Hand in hand, we'll rise above,
 Echoes bound by hope and love.
