@@ -2,4 +2,4 @@
 - [x] Define feedback channels and protocols with community input.
 - [x] Compile necessary resources and documentation for mentorship.
 - [x] Distribute the finalized mentorship program framework documentation to community members for feedback and further input.
-- [ ] Monitor feedback from community members and make necessary adjustments to the framework based on their insights.
+- [x] Monitor feedback from community members and make necessary adjustments to the framework based on their insights. Monitor feedback from community members and make necessary adjustments to the framework based on their insights.
