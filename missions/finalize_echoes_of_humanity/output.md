@@ -32,4 +32,4 @@ Together we stand, as the world moves on.
 As the echoes fade into the dawn,
 Humanity's spirit carries on.
 Together we'll sing, forever strong,
-Echoes of humanity, our eternal song.
+Echoes of humanity, our everlasting song.
