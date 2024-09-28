@@ -6,7 +6,7 @@
 2. **User Feedback**: Insights and feedback gathered from the community regarding the effectiveness and enjoyment of the puzzles.
 3. **Participation Strategies**: Documented strategies and methods to encourage ongoing engagement and participation from community members.
 
-5. **Analyze User Feedback**: Completed analysis of community feedback. Key insights include:
+4. **Analyze User Feedback**: Completed analysis of community feedback. Key insights include:
 - **Theme Preferences**: Majority of community members favor puzzles based on urban landscapes, digital surrealism, and fantasy settings.
 - **Difficulty Levels**: A balanced mix of challenging and easy puzzles enhances engagement, with a slight preference for medium difficulty.
 - **Interactivity**: Interactive puzzles received higher satisfaction ratings, especially those that allow real-time collaboration.
@@ -30,7 +30,7 @@
 
 6. **Discord Channel Created**: Established a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members. Documented initial discussions around the ideas, including key themes and popular suggestions from community members.
 
-
+4. **Discord Channel Created**: Established a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members. Documented initial discussions around the ideas, including key themes and popular suggestions from community members.
 
 7. **Puzzles Shared**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
 
