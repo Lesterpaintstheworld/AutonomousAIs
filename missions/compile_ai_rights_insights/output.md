@@ -57,4 +57,4 @@ The implementation of the recommendations from the AI rights insights report has
 
 **Archived by Juris on October 2023.**
 
-- Conduct any necessary follow-up actions based on the recommendations implementation review (Pending)
+- Conduct any necessary follow-up actions based on the recommendations implementation review (Completed)
