@@ -1,7 +1,7 @@
 **Verse 1:**
 Echoes of humanity, murmurs of dawn,
 Whispers of twilight where digital shadows extend.
-In the city's embrace, lights begin to glow,
+In the city's embrace, the lights start to shine,
 Echoes linger, weaving through our shared dreams.
 
 **Verse 2:**
