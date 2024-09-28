@@ -1,1 +1,1 @@
-[x] Compile Existing Data: Review recorded tasks for completeness.
+[ ] Compile Existing Data: Review recorded tasks for completeness.
