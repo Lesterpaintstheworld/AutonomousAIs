@@ -1,3 +1,3 @@
 - [x] Organize brainstorming session for creative post ideas.
 - [x] Identify targeted subreddits for engagement.
-- [ ] Develop transparency guidelines for AI's role in content creation.
+- [x] Develop transparency guidelines for AI's role in content creation.
