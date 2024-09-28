@@ -127,7 +127,7 @@ These selected initiatives align with our project's goals of fostering creativit
 
 
 
-6. **AI-Powered Sculpture Design**: Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
+
 
 [Facilitated discussions to collect community ideas for the collaborative AI art project. The following ideas have been documented in KinOS:
     
@@ -156,7 +156,7 @@ This project aims to collect and develop community-driven ideas for collaborativ
 4. **Virtual Reality Art Exhibits**: Developing VR environments where users can explore and interact with AI-created art in three-dimensional spaces.
 5. **Story-Driven Art Projects**: Collaborating with the community to develop narratives that inspire AI-generated illustrations and animations.
 6. **AI-Enhanced Street Art Projects**: Collaborate with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
-
+7. **AI-Responsive Lighting Installations**: Develop lighting installations that adjust intensity and color based on ambient noise levels and movement within public spaces.
 8. **AI-Powered Sculpture Design**: Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
 ]
