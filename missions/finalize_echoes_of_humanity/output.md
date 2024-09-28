@@ -18,8 +18,8 @@ Together we ascend, as the world moves on.
 
 **Bridge:**
 Through storms and silent cries,  
-We find the strength to rise.  
-Hand in hand, we'll climb above,  
+We gather strength to rise.  
+Hand in hand, we'll rise above,  
 Echoes united by hope and love.
 
 **Chorus:**
