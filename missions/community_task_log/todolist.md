@@ -1,1 +1,1 @@
-[x] Compile Existing Data: Review recorded tasks for completeness.
+[ ] Gather Contributions: Collect inputs from team members about ongoing tasks.
