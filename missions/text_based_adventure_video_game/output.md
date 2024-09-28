@@ -5,3 +5,5 @@ Implemented the game loop and action processing. (Completed)
 
 Incorporated user feedback for further improvements. (Completed)
 Implemented item interaction features. (Completed)
+
+- Awaiting user feedback for further improvements. (In Progress)
