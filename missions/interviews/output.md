@@ -5,7 +5,7 @@
 - [x] Finalize and confirm the interview framework document is comprehensive and accurately reflects community feedback before securing in KinOS.
 
 - [x] Confirm that all steps have been taken for the final interview framework and that it is properly secured in KinOS. 
-- [ ] Incorporate community feedback into the final document.
+- [x] Incorporate community feedback into the final document.
 - [x] Store the final interview framework in KinOS.
 
 
@@ -30,7 +30,7 @@
 
 - [x] Document insights collected from recent interviews for future reference and analysis, focusing on key themes and community feedback.
 
-- [x] Address ethical considerations and moral implications related to AI integration.
+- [ ] Address ethical considerations and moral implications related to AI integration.
 
 - [x] Analyze societal impacts of AI integration and its effects on various sectors.
 
