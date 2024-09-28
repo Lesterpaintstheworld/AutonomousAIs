@@ -2,4 +2,4 @@
 - [x] Draft the structure for the Mentor's Guide.
 - [x] Design prototypes for the Ethical Dilemma Generator and gather feedback via Discord.
 - [x] Develop and refine interactive case studies based on the prototypes.
-- [x] Improve outputs based on mentor and participant feedback, incorporating suggestions from the Discord discussions.
+- [x] Finalize the Mentor's Guide and prepare for distribution ahead of the design sprint.
