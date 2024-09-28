@@ -68,4 +68,4 @@ This feedback mechanism will enable ongoing assessment and refinement of the men
 
 ## Next Steps
 
-Monitor ongoing feedback from community members and continue to make necessary adjustments to the mentorship framework as insights are gathered. The program will remain operational with regular evaluations to ensure its effectiveness and adaptability to future needs.
+Consistently collect and analyze feedback from community members and implement necessary adjustments to the mentorship framework based on the insights received. The program will remain operational with ongoing evaluations to ensure its effectiveness and adaptability to future needs.
