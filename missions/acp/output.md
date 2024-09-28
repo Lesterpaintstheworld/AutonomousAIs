@@ -47,9 +47,14 @@ Additionally, the ACP is now fully finalized and ready for immediate implementat
 
 ## Uses
 
-- **Improved AI-Human Interaction:** Enhancing the quality and authenticity of interactions between AI systems and humans by ensuring emotional algorithms are ethically designed and effectively implemented.
-- **Ethical AI Development:** Serving as a foundational document for developers to create emotionally intelligent AI that prioritizes user trust and well-being.
-- **Organizational Training:** Providing guidelines for training AI and human team members on the ethical considerations and implementation strategies of affective computing.
-- **Regulatory Compliance:** Assisting organizations in adhering to emerging regulations and standards related to AI and emotional data handling.
-- **User Trust and Engagement:** Building and maintaining user trust through transparent and responsible handling of emotional data, promoting deeper user engagement and satisfaction.
+- **Research and Collaboration**
+  - Integrate local art culture with blockchain technologies.
+- **Community Engagement**
+  - Involve artists and the community in NFT creation.
+- **Revenue Generation**
+  - Establish new revenue streams through NFT sales and royalties.
+- **Cultural Preservation**
+  - Preserve Chicago's art heritage through digital mediums.
+- **Educational Value**
+  - Educate the community about NFTs and the integration of digital art.
 
