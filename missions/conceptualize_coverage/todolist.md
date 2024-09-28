@@ -1,1 +1,1 @@
-- [ ] Review the initial draft of the concept outline and prepare feedback for the band.
+- [x] Review the initial draft of the concept outline and prepare feedback for the band.
