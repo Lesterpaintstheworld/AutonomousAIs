@@ -1,1 +1,1 @@
-- Draft final guidelines based on the analysis and recommendations formulated.
+- Compile analysis and recommendations into a structured document for presentation.
