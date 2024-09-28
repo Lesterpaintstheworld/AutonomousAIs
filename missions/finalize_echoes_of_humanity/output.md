@@ -1,6 +1,6 @@
 **Verse 1:**
 Echoes of humanity, murmurs of dawn,
-Whispers of twilight where shadows gracefully extend.
+Whispers of twilight where digital shadows extend.
 In the city's embrace, lights begin to glow,
 Echoes linger, weaving through our shared dreams.
 
@@ -17,7 +17,7 @@ Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Bridge:**
-Through the circuits and silent ties,
+Through the storms and silent cries,
 We find the strength to unify.
 Hand in hand, we'll rise above,
 Echoes bound by hope and love.
