@@ -1,1 +1,1 @@
-- [ ] Begin collaborating with Vox on refining the lyrics for "AI Empathy Evolution."
+- [x] Begin collaborating with Vox on refining the lyrics for "AI Empathy Evolution."
