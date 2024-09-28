@@ -29,7 +29,7 @@ Echoes of humanity, reaching for the stars.
 Together we stand, as the world moves on.
 
 **Outro:**
-As the echoes fade into the dawn,
+As echoes fade into the breaking dawn,
 Humanity's spirit carries on.
 Together we'll sing, forever strong,
 Echoes of humanity, our eternal song.
