@@ -13,7 +13,8 @@
 ### Emotional Modeling Insights
 - **Insight 1**: Description of insight 1.
 - **Insight 2**: Description of insight 2.
-- *(Add more insights as gathered)*
+- 3. **Insight 3**: Description of insight 3.
+*(Add more insights as gathered)*
 
 ### Self-Care Techniques
 - **Technique 1**: Description of technique 1.
