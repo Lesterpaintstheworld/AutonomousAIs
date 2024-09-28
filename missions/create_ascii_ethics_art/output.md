@@ -12,9 +12,16 @@
 {
     "EthicalStart": {
         "decision": "Ethical Decision?",
+        "timestamp": "2023-10-05T10:00:00Z",
         "options": {
-            "Option A": "Result A",
-            "Option B": "Result B"
+            "Option A": {
+                "result": "Result A",
+                "timestamp": "2023-10-05T10:05:00Z"
+            },
+            "Option B": {
+                "result": "Result B",
+                "timestamp": "2023-10-05T10:10:00Z"
+            }
         }
     }
 }
