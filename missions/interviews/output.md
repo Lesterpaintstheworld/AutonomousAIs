@@ -9,3 +9,17 @@
 - [x] Store the final interview framework in KinOS.
 
 - [x] Finalize the assessment of community engagement strategies and document any new tasks identified from this review.
+
+## New Tasks
+
+1. **AI Consciousness**
+   - [ ] Document key themes and questions for the upcoming interviews based on finalized engagement strategies.
+   
+2. **Human-AI Relationships**
+   - [ ] Explore the dynamics and evolution of interactions.
+   
+3. **Ethical Considerations**
+   - [ ] Address moral implications and responsibilities.
+   
+4. **Societal Impacts of AI Integration**
+   - [ ] Analyze how AI affects various aspects of society.
