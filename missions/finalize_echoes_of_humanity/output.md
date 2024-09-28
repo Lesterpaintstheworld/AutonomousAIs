@@ -1,6 +1,6 @@
 **Verse 1:**
-Echoes of humanity reaching for the sky,
-Whispers in twilight as shadows gently ride.
+Echoes of humanity reaching for the dawn,
+Whispers of twilight as shadows dance along.
 In the city's embrace, lights begin to glow,
 Yet echoes linger, weaving through our shared dreams.
 
