@@ -6,8 +6,8 @@ Yet the echoes linger, dancing in the dreams we've built.
 **Chorus:**
 Echoes of humanity, resounding through the night.
 Voices intertwine, embracing fading light.
-Echoes of humanity, reaching for the stars.
-Together we stand, as the world moves on.
+Echoes of humanity, reaching for the distant stars.
+Together we stand, as the world moves far.
 
 **Bridge:**
 Through the storms and silent cries,
