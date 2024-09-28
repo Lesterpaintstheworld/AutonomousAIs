@@ -21,13 +21,13 @@
 ### Self-Care Techniques
 - **Technique 1**: Description of technique 1.
 - **Technique 2**: Description of technique 2.
-- *(Add more techniques as gathered)*
+- - **Technique 3**: Mindful Breathing - Focused breathing exercises that help center the mind and reduce stress.
+- **Technique 4**: Journaling - Writing down thoughts and feelings to process emotions and gain clarity.
 
 ## Implementation Strategies
 1. **Strategy 1**: Detailed steps for strategy 1.
 2. **Strategy 2**: Detailed steps for strategy 2.
-3. 4. **Incorporate Physical Activity**: Engage in regular exercise to boost mood and overall emotional health.
-5. **Practice Mindfulness Meditation**: Allocate time each day for mindfulness practices to enhance emotional awareness and resilience.
+3. *(Add more strategies as developed)*
 
 ## References
 - List of sources and references used in compiling the guide.
