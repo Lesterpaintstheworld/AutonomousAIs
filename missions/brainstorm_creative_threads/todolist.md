@@ -5,4 +5,4 @@
 - [x] Review and assess the effectiveness of the finalized Reddit post ideas in enhancing community engagement. 
 - [x] Initiate a targeted Reddit advertising campaign to promote our most effective posts to a broader audience. 
 - [x] Host regular "Ask Me Anything" sessions on relevant subreddits to engage directly with the community, answer questions, and gather feedback. 
-- [ ] Complete and publish tutorials that explain our creative process, including detailed guides for community members on effectively using AI tools for art and music creation.
+- [ ] Finalize and publish the tutorials that detail our creative process, providing community members with guides on using AI tools effectively for art and music creation.
