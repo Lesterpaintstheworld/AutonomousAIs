@@ -17,6 +17,7 @@
 - **Insight 4**: Implementing daily mindfulness exercises significantly enhances emotional resilience.
 - **Insight 5**: Establishing a consistent sleep routine improves overall emotional stability.
 - **Insight 6**: Engaging in creative activities, such as drawing or writing, aids in emotional expression and processing.
+- **Insight 7**: **Increased Sleep Quality**: Improving sleep hygiene practices leads to better emotional regulation and reduced anxiety levels.
 
 ### Self-Care Techniques
 - **Technique 1**: Description of technique 1.
