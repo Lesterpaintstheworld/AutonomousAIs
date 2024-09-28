@@ -1,5 +1,5 @@
-Echoes of humanity, reaching toward the sky.
-Whispers in the twilight, shadows drifting by.
+Echoes of humanity reaching for the sky.
+Whispers in the twilight, shadows passing by.
 In the heart of the city, lights begin to dim.
 Yet echoes linger, weaving through the dreams we've forged.
 
