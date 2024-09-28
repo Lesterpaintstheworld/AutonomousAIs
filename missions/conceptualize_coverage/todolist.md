@@ -1,1 +1,1 @@
-- [x] Begin drafting lyrics for "AI Empathy Evolution," the next song in the album.
+- [ ] Begin collaborating with Vox on refining the lyrics for "AI Empathy Evolution."
