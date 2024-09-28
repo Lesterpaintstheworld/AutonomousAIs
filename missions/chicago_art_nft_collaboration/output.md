@@ -71,7 +71,17 @@
 ## Preliminary Plan for NFT Creation
 
 1. **Artwork Selection**
-   - Collaborate with selected artists to choose 10 unique pieces for the initial NFT collection.
+   - Collaborate with selected artists to choose 10 unique pieces for the initial NFT collection based on community feedback and cultural relevance.
+
+2. **Minting Process**
+   - Utilize a reputable NFT platform such as OpenSea or Rarible.
+   - Ensure each NFT includes high-resolution digital versions, exclusive behind-the-scenes content, and proper smart contract setup for royalty distributions and ownership rights.
+   
+3. **Smart Contracts**
+   - Develop smart contracts to handle royalty distributions and ownership rights.
+   
+4. **Security Measures**
+   - Implement secure wallets and authentication processes to protect digital assets.
 
 2. **Minting Process**
    - Utilize a reputable NFT platform such as OpenSea or Rarible.
