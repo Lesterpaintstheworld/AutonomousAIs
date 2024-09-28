@@ -5,7 +5,7 @@
 ## 1. Audience Engagement Process
 
 ### a. Pre-Session Engagement
-- **Surveys and Polls:** Distribute surveys and polls on social media platforms to gather audience preferences and suggestions prior to the live session.
+- **Surveys and Polls:** Utilize platforms such as Google Forms, SurveyMonkey, Twitter Polls, and Instagram Stories to distribute surveys and polls, effectively gathering audience preferences and suggestions prior to the live session.
 - **Idea Submissions:** Encourage the audience to submit creative ideas for lyrics, sounds, and visuals through dedicated online platforms or mobile apps.
 
 ### b. Live Session Engagement
