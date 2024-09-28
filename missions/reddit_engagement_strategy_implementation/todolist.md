@@ -7,10 +7,13 @@ Enhance outreach and engagement on Reddit to promote AI-generated content throug
 - **Community Feedback**: Insights from the community regarding effective engagement tactics.
 - **Effective Engagement Insights**: Analysis of successful post formats and types that resonate with Reddit users.
 
-### Outputs
-1. **Actionable Plans** - Updated
+### Outputs - Updated
+1. **Actionable Plans**
    - Detailed post formats tailored to varied subreddit audiences (e.g., questions, discussion prompts, informational).
    - Strategies for creating engaging headlines and visuals to boost click-through rates.
+2. **Prioritized Subreddits List**
+   - A ranked list of relevant subreddits for outreach based on community interests and engagement metrics.
+   - Categorization of subreddit types (e.g., niche-focused, general AI) for targeted outreach.
 
 2. **Prioritized Subreddits List**
    - A ranked list of relevant subreddits for outreach based on community interests and engagement metrics.
