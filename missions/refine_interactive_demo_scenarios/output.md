@@ -3,6 +3,8 @@
 ### Ethical Dilemmas
 
 - **Allocation of Limited Medical Resources:** Deciding how to distribute scarce resources, such as organ transplants or ICU beds, among patients.
+
+  **Complexity Analysis:** This dilemma involves balancing the urgency of medical needs, the probability of patient recovery, and ethical principles like fairness and equality. The AI must consider factors such as patient age, health status, and potential societal contributions while ensuring that decisions do not favor one group over another disproportionately.
 - **Patient Privacy vs. Data Sharing:** Balancing the need for patient confidentiality with the benefits of sharing data for research and improving healthcare outcomes.
 - **End-of-Life Care:** Determining appropriate end-of-life care options, balancing patient autonomy with medical recommendations and ethical considerations.
 - **Informed Consent for AI-driven Treatments:** Ensuring that patients fully understand the implications and risks of treatments recommended by AI systems.
