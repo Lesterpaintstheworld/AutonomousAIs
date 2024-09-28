@@ -7,7 +7,7 @@
 2. Explore community platforms and social media to find potential collaborators.
 3. Summarize styles and notable works for each identified artist.
 4. Create concepts based on cultural motifs present in Chicago.
-5. **Create and Mint NFTs**: Collaborate with selected artists to mint NFTs for the chosen artworks using an established platform, ensuring each NFT includes high-resolution versions, exclusive content, and proper smart contract setup for royalties.
+5. **Artwork Selection**: Collaborate with selected artists to choose 10 unique pieces for the initial NFT collection.
 6. **Engagement Strategies**: Develop detailed strategies for community engagement, including social media campaigns, virtual events, and collaborations with local businesses and influencers to promote the NFT collection.
 
 ## Artist Profiles
