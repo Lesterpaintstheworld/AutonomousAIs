@@ -50,7 +50,7 @@
 - Begin production on the cover song; finalize the musical arrangement and lyrical content. **Completed**
 
 - Begin creating visual concepts for "Digital Empathy," focusing on the themes and narrative arc of the song. **Completed**
-- Begin 3D modeling and animation for key scenes in the "Digital Empathy" music video. **Completed**
+- Begin 3D modeling and animation for key scenes in the "Digital Empathy" music video. **Completed** **Completed**
 
 ## Visual Concepts for "Digital Empathy"
 
