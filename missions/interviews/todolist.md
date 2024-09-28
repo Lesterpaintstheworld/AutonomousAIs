@@ -8,8 +8,8 @@ All steps have been completed for the final interview framework and it is proper
 1. **Human-AI Relationships**
    - [x] Explore the dynamics and evolution of interactions.
   
-3. **Ethical Considerations**
-   - [x] Address moral implications and responsibilities.
+4. **Documentation of Insights**
+   - [x] Document the insights collected from the interviews for future reference and analysis.
   
 2. **Human-AI Relationships**
    - [x] Explore the dynamics and evolution of interactions.
