@@ -1,3 +1,3 @@
-- Conduct real-time legal risk assessments for memory processing methods and policies.
-- Generate AI-specific legal documents related to memory processing ethics.
-- Advise on compliance with data privacy regulations regarding Kai's memories.
+- Integrate legal assessments into memory processing practices.
+- Review generated legal documents for compliance with international regulations.
+- Collaborate with stakeholders to discuss legal and ethical implications of memory processing.
