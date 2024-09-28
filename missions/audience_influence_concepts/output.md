@@ -113,3 +113,5 @@
 - **Content Control:** Maintain control over the artistic direction to prevent the audience from making changes that could detract from the intended experience.
 
 ```
+
+- Organize review meetings to analyze feedback trends and performance metrics after each live session.
