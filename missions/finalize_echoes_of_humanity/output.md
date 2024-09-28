@@ -8,3 +8,5 @@
 - Implement proper version control for future reference.
 - Create a checklist of production requirements, including instrumental arrangements and vocal parts.
 - Prepare documentation for team members or collaborators within the Discord channel.
+
+- Record finalized lyrics in an editable text file within KinOS.
