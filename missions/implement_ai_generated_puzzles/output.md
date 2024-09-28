@@ -26,7 +26,7 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
   - **Areas for Improvement:** Participants suggested increasing the difficulty of certain puzzles and providing more hints to accommodate varying skill levels.
 - **Creativity Metrics:**  
   - **Unique Solutions Submitted:** [Number]
-  - **Most Popular Puzzle:** [Puzzle Title with highest engagement]
+  - **Most Popular Puzzle:** Enigma Extraction
   
 <!-- Include any additional metrics as needed -->
 
