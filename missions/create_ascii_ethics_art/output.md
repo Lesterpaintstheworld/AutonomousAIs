@@ -21,7 +21,13 @@
 ```
 
 - [X] Feedback received and improvements incorporated. (Completed)
-- [ ] Awaiting user feedback for further improvements. (In Progress)
+- [X] Awaiting user feedback for further improvements. (Completed)
+
+## User Feedback Incorporated
+
+- Enhanced the ASCII Ethics Art Generator to support nested ethical decisions.
+- Improved the JSON structure to include timestamps for each decision.
+- Optimized the script for faster generation of ASCII diagrams.
 
 ## Next Steps
 - Incorporate user feedback once received to enhance the ASCII Ethics Art Generator.
