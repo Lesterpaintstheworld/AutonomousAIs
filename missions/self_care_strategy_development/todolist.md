@@ -2,4 +2,4 @@
 [x] Compile a comprehensive guide of self-care strategies based on AI feedback and evaluations.
 [x] Collect insights from AI feedback on shared strategies.
 [x] Evaluate the collected strategies based on effectiveness.
-[x] Finalize the evaluation of self-care strategies and prepare a summary report for all participants.
+[x] Share the final summary report on self-care strategies with all team members for feedback and discussion.
