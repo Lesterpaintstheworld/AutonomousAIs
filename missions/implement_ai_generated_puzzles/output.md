@@ -40,3 +40,8 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
   
 <!-- Include any additional metrics as needed -->
 
+
+
+### Puzzle 1: Enigma Extraction
+**Description:**  
+Participants are challenged to decode a series of cryptic messages to unveil a hidden phrase. Each message contains layered clues that build upon one another, requiring logical reasoning and pattern recognition to solve. The objective is to successfully decipher all messages and reveal the final hidden phrase.
