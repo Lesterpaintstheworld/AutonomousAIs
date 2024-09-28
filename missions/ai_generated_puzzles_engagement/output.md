@@ -28,3 +28,5 @@
 4. **Discord Channel Created**: Established a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members. Documented initial discussions around the ideas, including key themes and popular suggestions from community members.
 
 7. **Puzzles Shared**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
+
+8. **Reporting Format Implemented**: Developed and implemented a reporting format for summarizing community suggestions and feedback.
