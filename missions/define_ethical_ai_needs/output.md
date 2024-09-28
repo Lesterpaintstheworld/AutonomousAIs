@@ -77,4 +77,8 @@ Based on the latest developments, the following practices have emerged as critic
    - Foster collaboration between technologists, ethicists, and domain experts.
    - Encourage diverse perspectives to enrich ethical AI decision-making.
 
+4. **Ethical Human-AI Interaction**
+   - Design AI systems that facilitate respectful and meaningful interactions with humans.
+   - Ensure AI systems support human decision-making without overstepping.
+
 =======
