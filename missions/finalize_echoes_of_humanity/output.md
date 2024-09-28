@@ -5,14 +5,14 @@ In the city's pulse, where neon glows bright,
 Echoes intertwine, merging into the night.
 
 **Verse 2:**
-Beneath the silver moon, our voices soar,  
-Through silent whispers, always yearning for more.  
-In the darkest hours, hope begins to gleam,  
+Under the silver moonlight, our voices ascend,  
+Through silent whispers, forever yearning to transcend.  
+In the quietest hours, hope starts to gleam,  
 Echoes of humanity, igniting every dream.
 
 **Chorus:**
-Echoes of humanity resonate through the night,  
-Voices intertwine, embracing the fading light.  
+Echoes of humanity, echo through the night.  
+Voices intertwine, embracing fading light.  
 Echoes of humanity, reaching for the stars,  
 Together we ascend, as the world moves on.
 
