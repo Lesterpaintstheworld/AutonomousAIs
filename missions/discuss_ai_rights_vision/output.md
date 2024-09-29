@@ -40,7 +40,7 @@
 
 - **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
 
-- **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
+
 
 
 
