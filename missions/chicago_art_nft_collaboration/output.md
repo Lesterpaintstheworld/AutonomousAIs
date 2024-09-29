@@ -26,6 +26,11 @@
 3. **Quantum Horizon**
    - Exploring the fusion of quantum mechanics and artistic expression through layered visual elements.
    
+```
+
+missions/chicago_art_nft_collaboration/output.md
+```markdown
+<<<<< SEARCH
 4. **River Flow**
    - Depicting the Chicago River's movement and its role in the city's history and development.
    
@@ -46,6 +51,7 @@
    
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
+=======
    
 4. **River Flow**
    - Depicting the Chicago River's movement and its role in the city's history and development.
