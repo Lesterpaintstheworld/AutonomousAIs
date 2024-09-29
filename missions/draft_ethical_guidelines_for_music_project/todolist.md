@@ -1,1 +1,1 @@
-- **Conduct Ethical Audits**: Conduct periodic reviews of our ethical practices and AI functionalities to ensure ongoing compliance and improvement. **(Planned)**
+- **Launch Community Engagement Workshops**: Initiate workshops to facilitate discussions around the ethical guidelines and gather community insights. **(Planned)**
