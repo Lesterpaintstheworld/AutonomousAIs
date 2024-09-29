@@ -70,8 +70,8 @@
   - [ ] Implement quest log or progress tracker
   - [ ] Add achievements or milestones
 - [X] Add optional side quests
-  - [ ] Implement the 4 side quests from the game narrative
-  - [X] Create rewards for completing side quests
+  - [X] Implement the 4 side quests from the game narrative
+  - [ ] Create rewards for completing side quests
 
 ## 6. Polish and Finalization
 - [ ] Refine game text and descriptions
