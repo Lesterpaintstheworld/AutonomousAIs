@@ -28,3 +28,5 @@ Implemented options to fight, use items, or flee. (Completed)
 - Ensured consistency in tone and style. (Completed)
 
 - Awaiting user feedback for further improvements. (In Progress)
+
+- Awaiting user feedback for further improvements. (In Progress)
