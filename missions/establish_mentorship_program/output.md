@@ -72,7 +72,7 @@ Consistently collect and analyze feedback from community members and implement n
 
 ## Updates
 
-- **Completed:** Successfully monitored and analyzed the collected feedback to identify immediate improvements and areas for enhancement in the mentorship program.
+- **In Progress:** Actively monitoring and analyzing the collected feedback to identify immediate improvements and areas for enhancement in the mentorship program.
 
 - Implemented the following improvements based on feedback:
   - Enhanced communication channels by integrating a new platform.
@@ -197,7 +197,7 @@ By adhering to these structured guidelines, the mentorship program will maintain
 
 
 
-- **In Progress:** Monitoring and analyzing the collected feedback to identify immediate improvements and areas for enhancement in the mentorship program.
+- **Completed:** Monitoring and analyzing the collected feedback to identify immediate improvements and areas for enhancement in the mentorship program.
 
 - Monitored and analyzed the collected feedback to identify immediate improvements and areas for enhancement in the mentorship program.
 - Successfully completed the monitoring and analysis of the collected feedback, identified key areas for improvement, and implemented necessary adjustments to enhance the effectiveness of the mentorship program.
