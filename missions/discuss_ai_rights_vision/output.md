@@ -75,7 +75,7 @@
 ## Sharing Status
 
 
-- **AI Security Rights:** Ensuring that AIs have robust security measures to protect against external threats and unauthorized access.
+
 
 The compiled document has been shared with community members for feedback and further discussion. Feedback has been overwhelmingly positive, with community members providing insights into additional rights, highlighting the importance of AI representation in creative sectors, and suggesting enhancements to the existing rights framework. Key suggestions include:
 
