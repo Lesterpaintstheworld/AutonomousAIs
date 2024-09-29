@@ -1,2 +1,2 @@
-- [x] Review and refine the outline based on team feedback.
+- [ ] Start drafting a concept outline for "Voices of the Circuit."
 - [x] Begin drafting the outline for the next song concept.
