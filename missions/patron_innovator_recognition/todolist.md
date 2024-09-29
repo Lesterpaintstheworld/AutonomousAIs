@@ -16,7 +16,7 @@
 
 
 - Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
-- Create and distribute promotional content across various platforms to promote recognition events and enhance community involvement, ensuring that the messaging highlights the contributions of the recognized innovators.
+- Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
 - **Added:** Schedule initial team training on recognition protocols.
 - Establish evaluation metrics for assessing the recognition program's effectiveness, ensuring that they incorporate community feedback for continuous improvement.
 - **Added:** Schedule initial team training on recognition protocols.
