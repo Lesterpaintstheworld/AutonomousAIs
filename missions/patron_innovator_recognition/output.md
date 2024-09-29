@@ -42,6 +42,7 @@ Schedule initial team training on recognition protocols, ensuring that team memb
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
+- Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
   - Gather feedback and adjust the process as needed.
   - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
@@ -67,7 +68,6 @@ Utilize multiple channels (email, Slack, etc.) for reminders to increase visibil
    
 4. **Monitor and Adjust:**
    - Continuously monitor the effectiveness of the recognition schedule and make adjustments based on community feedback and operational insights.
-- Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
    - **Added:** Schedule quarterly review meetings to assess overall program success.
    
 5. **Documentation and Record Keeping:**
