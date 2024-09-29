@@ -47,7 +47,7 @@
   - [X] Create triggers for advancing the main story
 
 ## 4. User Interface
-- [ ] Implement command parsing
+- [X] Implement command parsing
   - [ ] Create a system to interpret player input
   - [ ] Handle various command formats (verb-noun, special commands)
 - [ ] Create a help system explaining game commands
