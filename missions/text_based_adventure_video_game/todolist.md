@@ -57,14 +57,14 @@
   - [X] Implement clear formatting for room descriptions, inventory, and messages
   - [X] Create a persistent display for current location, health, and inventory
 - [ ] Implement error handling for invalid commands
-  - [ ] Provide helpful feedback for incorrect or impossible actions
+  - [X] Provide helpful feedback for incorrect or impossible actions
 
 ## 5. Game Features
 - [X] Add a save/load game feature
   - [X] Implement game state serialization
   - [X] Create save and load commands
 - [X] Implement a hint system for puzzles
-  - [X] Design progressive hints for each puzzle
+  - [ ] Design progressive hints for each puzzle
   - [X] Create a command to request hints
 - [X] Create a system for tracking player progress
   - [X] Implement quest log or progress tracker
