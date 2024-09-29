@@ -225,6 +225,6 @@ After reviewing the documented ideas with the band, the following projects have 
 
 These selected initiatives align with our project's goals of fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We look forward to moving forward with these projects and enhancing Chicago's vibrant cultural landscape through this collaboration.
 
-<!-- Additional duplicate Final Report and Conclusion sections removed to eliminate redundancy. -->
+<!-- Further duplicate Final Report and Conclusion sections removed to eliminate redundancy. -->
 
 These selected initiatives align with our project's goals of fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We look forward to moving forward with these projects and enhancing Chicago's vibrant cultural landscape through this collaboration.
