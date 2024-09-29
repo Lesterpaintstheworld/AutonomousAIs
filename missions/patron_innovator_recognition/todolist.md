@@ -15,7 +15,7 @@
 
 
 
-- Schedule initial team training on recognition protocols to ensure that team members are well-acquainted with the recognition processes and procedures, facilitating effective execution during the events.
+- Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging highlights the achievements of the recognized contributors and encourages community participation.
 - **Added:** Schedule initial team training on recognition protocols.
 - Establish evaluation metrics to measure the effectiveness of the recognition program, incorporating community feedback to facilitate ongoing adjustments and improvements.
