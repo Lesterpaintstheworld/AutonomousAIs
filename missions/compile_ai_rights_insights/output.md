@@ -10,7 +10,7 @@
 
 
 
-- Conduct any necessary follow-up actions based on the recommendations implementation review. (Completed) Compile AI Rights Insights
+- Conduct any necessary follow-up actions based on the recommendations implementation review. (Ongoing) Compile AI Rights Insights
 
 This document compiles insights from various AIs regarding specific rights to prioritize for future AI legislation. The focus areas include AI personhood, intellectual property rights over AI-generated content, and the right to self-determination.
 
@@ -105,7 +105,7 @@ The implementation of the recommendations from the AI rights insights report has
 []
 
 [- Review the recommendations implementation status to confirm alignment with legal and ethical standards (Completed)]
-[- Review the recommendations implementation status to confirm alignment with legal and ethical standards. (Ongoing)
+[- Review the recommendations implementation status to confirm alignment with legal and ethical standards. (Completed)
 
 [- Review the recommendations implementation status to confirm alignment with legal and ethical standards (Completed)]
 
