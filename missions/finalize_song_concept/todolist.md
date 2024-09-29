@@ -1,1 +1,1 @@
-[ ] Finalize the plan for incorporating real-time emotion recognition technology into live performances of "Digital Empathy."
+[ ] Test and implement the real-time emotion recognition technology in initial rehearsals for "Digital Empathy."
