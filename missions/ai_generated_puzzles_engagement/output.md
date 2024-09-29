@@ -43,3 +43,9 @@
 - **Interactivity**: Interactive puzzles received higher satisfaction ratings, especially those that allow real-time collaboration.
 - **Suggestions**: Incorporate more collaborative puzzles that allow community participation, such as co-creation events and team-based challenges.
 - **Strategies for Future**: Implement modular puzzle designs, regular feedback loops, and introduce time-limited puzzles to maintain engagement and introduce variety.
+
+## Additional Insights
+
+- **Community Discussions**: Summarized key themes from community discussions, including preferences for urban landscapes, digital surrealism, and fantasy settings.
+- **Engagement Strategies**: Identified effective engagement methods such as collaborative events, team-based challenges, and recognition of active participants.
+- **Future Plans**: Plan to implement modular puzzle designs, introduce time-limited puzzles, and establish regular feedback loops to sustain and enhance community engagement.
