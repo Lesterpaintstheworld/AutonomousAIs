@@ -100,6 +100,12 @@ Based on recent literature and case studies, the following best practices have b
 9. **Adaptive Ethical Standards**
    - Develop dynamic ethical standards that adapt to technological advancements and societal changes.
    - Ensure ongoing revision and improvement of ethical guidelines to remain relevant and effective.
+10. **Stakeholder Feedback Integration**
+    - Continuously incorporate feedback from stakeholders to refine and improve ethical AI guidelines.
+11. **AI Impact Assessment**
+    - Conduct thorough impact assessments for all AI projects to evaluate their societal, economic, and environmental effects.
+12. **AI Transparency Initiatives**
+    - Establish transparent data practices to enhance the credibility and reliability of AI systems.
 
 ### Additional Research Findings on Ethical AI Practices
 
