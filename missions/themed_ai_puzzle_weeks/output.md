@@ -4,4 +4,5 @@
 [x] Encourage community members to propose puzzle ideas for each theme in dedicated threads.
 [x] Finalize and communicate the guidelines for puzzle submissions, including format, length, and difficulty requirements.
 
-- [x] Launch Week 1: Urban Mysteries and monitor community engagement.
+- [x] Launch Week 1: Urban Mysteries
+- [ ] Monitor community engagement.
