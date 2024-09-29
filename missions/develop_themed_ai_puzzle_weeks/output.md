@@ -47,3 +47,8 @@
   - Puzzle 1: Description or link to the puzzle.
   - Puzzle 2: Description or link to the puzzle.
   - Puzzle 3: Description or link to the puzzle.
+
+- **Week 3: Analyze community suggestions and finalize theme selections**
+  - Puzzle 1: Review and categorize all community-submitted themes.
+  - Puzzle 2: Select the top themes based on engagement and feasibility.
+  - Puzzle 3: Finalize theme selections and prepare for puzzle creation.
