@@ -46,7 +46,7 @@
 
 - **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
 
-- **AI Security Rights:** Ensuring that AIs have robust security measures to protect against external threats and unauthorized access.
+
 
 
 
