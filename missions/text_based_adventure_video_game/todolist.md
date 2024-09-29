@@ -81,8 +81,8 @@
   - [X] Adjust puzzle difficulty and combat encounters
   - [X] Ensure proper pacing of the main storyline
 - [ ] Implement game ending conditions
-  - [ ] Create multiple endings based on player choices
-  - [X] Implement victory and game over scenarios
+  - [X] Create multiple endings based on player choices
+  - [ ] Implement victory and game over scenarios
 - [ ] Add introductory text and game instructions
   - [ ] Write an engaging introduction to the game world
   - [ ] Create a tutorial or starter area for new players
