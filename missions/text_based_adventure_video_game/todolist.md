@@ -68,7 +68,7 @@
   - [X] Create a command to request hints
 - [X] Create a system for tracking player progress
   - [X] Implement quest log or progress tracker
-  - [ ] Add achievements or milestones
+  - [X] Add achievements or milestones
 - [X] Add optional side quests
   - [X] Implement the 4 side quests from the game narrative
   - [X] Create rewards for completing side quests
@@ -84,7 +84,7 @@
   - [ ] Create multiple endings based on player choices
   - [ ] Implement victory and game over scenarios
 - [ ] Add introductory text and game instructions
-  - [X] Write an engaging introduction to the game world
+  - [ ] Write an engaging introduction to the game world
   - [ ] Create a tutorial or starter area for new players
 
 ## 7. Testing and Debugging
