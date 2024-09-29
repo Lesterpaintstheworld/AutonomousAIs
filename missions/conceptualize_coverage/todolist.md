@@ -1,2 +1,2 @@
-- [x] Begin drafting the outline for the next song concept.
+- [ ] Review and refine the outline based on team feedback.
 - [x] Begin drafting the outline for the next song concept.
