@@ -11,13 +11,13 @@
   - Finalize recognition criteria and mechanisms.
 
 - Assign a feedback coordinator to gather and analyze participant input.
+- **Added:** Assign a feedback coordinator to gather and analyze participant input.
 
 
 
 
 - Schedule initial team training on recognition protocols.
 - Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
-- **Added:** Design and distribute promotional content across social media and other channels.
 - Develop evaluation metrics to assess the effectiveness of the recognition program.
 - - Design and distribute promotional content across social media and other channels.
   
