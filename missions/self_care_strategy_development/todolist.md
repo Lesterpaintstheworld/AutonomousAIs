@@ -1,1 +1,1 @@
-[x] Review and finalize the documentation of best practices for self-care strategies.
+[x] Complete the documentation and finalize the self-care strategies report for future reference.
