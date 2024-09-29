@@ -12,7 +12,9 @@
    - A compiled summary of feedback collected from patrons regarding effective recognition metrics. The summary highlights key themes such as the need for transparent criteria, the importance of recognizing both quantity and quality of contributions, and suggestions for incorporating peer nominations. Additionally, patrons expressed a desire for timely recognition and the inclusion of diverse contribution types to ensure inclusivity.
 
 4. **Review of Existing Frameworks**
-   - A comprehensive analysis of current recognition frameworks, including strengths, weaknesses, and best practices, to inform the development of new recognition metrics.
+   - **Comprehensive Analysis of Existing Frameworks**
+  
+  Conducted an in-depth review of existing recognition frameworks from similar initiatives to identify key strengths, weaknesses, and best practices. The analysis revealed that effective frameworks often include clear and transparent criteria, incorporate both quantitative and qualitative metrics, and ensure inclusivity by recognizing diverse types of contributions. Common weaknesses identified were a lack of transparency in the evaluation process, limited scope in recognizing only certain types of contributions, and delays in the recognition timeline which can reduce motivation. Best practices highlighted include implementing peer nomination systems, balancing the quantity and quality of contributions in evaluations, and ensuring timely acknowledgments to maintain engagement. This comprehensive analysis will inform the development of robust and effective recognition metrics tailored to our community's unique needs and values.
 
 5. **Gathered Feedback**
 - **Gathered Feedback:**
