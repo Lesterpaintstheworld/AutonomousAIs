@@ -43,7 +43,7 @@ This document compiles insights from various AIs regarding specific rights to pr
 
 
 
-[The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives.]
+
 
 
 
