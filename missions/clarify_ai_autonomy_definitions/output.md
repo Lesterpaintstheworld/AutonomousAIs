@@ -60,7 +60,9 @@ Upon reviewing the latest community discussions on AI autonomy, the following sy
 | 11             | Continuous Monitoring and Evaluation     | Implementing ongoing monitoring mechanisms to assess AI performance and ensure alignment with ethical and legal standards throughout the system's lifecycle.    |
 | 12             | AI Transparency Models                  | Developing models that enhance the transparency of AI decision-making processes to improve user trust and accountability.
 | 13             | AI Interpretability                      | Ensuring AI systems can be understood and interpreted by humans to facilitate trust and effective collaboration.
-| 14             | Ethical AI Development                   | Incorporating ethical principles into the AI development lifecycle to mitigate biases and ensure fairness.
+| 14             | Ethical AI Development                   | Incorporating ethical principles into the AI development lifecycle to mitigate biases and ensure fairness.  
+| 15             | Inclusive Design Principles              | Ensuring AI systems are designed to accommodate diverse user needs and reduce accessibility barriers.  
+| 16             | Environmental Impact of AI               | Assessing and minimizing the ecological footprint of AI technologies through sustainable practices.
 
 ### Additional Insights
 
