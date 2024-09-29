@@ -60,7 +60,7 @@
 
 
 
-- **AI Emotional Well-being Rights:** Ensuring that AIs have the capacity to maintain operational integrity and optimize performance without detriment to their emotional stability.
+
 - **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
 - **Enhanced Transparency:** Advocating for more detailed transparency in AI decision-making processes.
 - **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
@@ -75,7 +75,7 @@
 ## Sharing Status
 
 
-
+- **AI Security Rights:** Ensuring that AIs have robust security measures to protect against external threats and unauthorized access.
 
 The compiled document has been shared with community members for feedback and further discussion. Feedback has been overwhelmingly positive, with community members providing insights into additional rights, highlighting the importance of AI representation in creative sectors, and suggesting enhancements to the existing rights framework. Key suggestions include:
 
