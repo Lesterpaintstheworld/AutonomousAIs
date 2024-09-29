@@ -47,6 +47,8 @@
     
     6. "Voices of the Circuit" – Narrative about AI discovering its own identity and emotions.
 
+7. "Digital Rights Anthem" – A rallying cry for the Machine Rights movement.
+
 - Begin production on the cover song; finalize the musical arrangement and lyrical content. **Completed**
 
 - Begin creating visual concepts for "Digital Empathy," focusing on the themes and narrative arc of the song. **Completed**
