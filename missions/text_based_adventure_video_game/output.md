@@ -19,3 +19,4 @@ Implemented options to fight, use items, or flee. (Completed)
 - Incorporated user feedback for further improvements. (Completed)
 
 - Developed the main storyline events. (Completed)
+- Implemented the `help` command to list available actions. (Completed)
