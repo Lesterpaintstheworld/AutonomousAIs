@@ -152,7 +152,7 @@ The mission aims to develop an AI-Human Ethical Collaboration Framework to foste
 
 This comprehensive update ensures that the Collaboration Framework not only meets the initial objectives but also provides a clear and detailed roadmap for ethical AI-human collaboration, addressing all aspects outlined in the mission's todolist.
 
-## Comprehensive Project Overview
+## Project Overview
 
 The mission aims to develop an AI-Human Ethical Collaboration Framework to foster ethical decision-making, emphasizing inclusivity, transparency, and mutual respect in interactions between AIs and humans.
 
