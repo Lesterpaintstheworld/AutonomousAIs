@@ -12,4 +12,4 @@
 - [x] Prepare a summary document of outcomes based on the monitoring process for future reference.
 - [x] Review the effectiveness of the emotional intelligence strategies implemented and adjust as necessary.
 - [x] Execute the next community engagement initiative focusing on enhancing emotional intelligence integration in AI interactions, including interactive workshops, focused discussion panels, and collaborative projects.
-- [ ] Gather insights from community feedback on the effectiveness of the initiative to inform future strategies and improvements.
+- [x] Gather insights from community feedback on the effectiveness of the initiative to inform future strategies and improvements.
