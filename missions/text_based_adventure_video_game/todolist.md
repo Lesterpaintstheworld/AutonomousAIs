@@ -25,7 +25,7 @@
 - [X] Implement puzzle-solving mechanics
   - [ ] Design a system for creating and solving puzzles
   - [X] Implement hint system for difficult puzzles
-- [ ] Design and implement the combat system
+- [X] Design and implement the combat system
   - [ ] Create a simple turn-based combat system
   - [ ] Implement options to fight, use items, or flee
 
@@ -47,7 +47,7 @@
   - [X] Create triggers for advancing the main story
 
 ## 4. User Interface
-- [X] Implement command parsing
+- [ ] Implement command parsing
   - [ ] Create a system to interpret player input
   - [ ] Handle various command formats (verb-noun, special commands)
 - [ ] Create a help system explaining game commands
