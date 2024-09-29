@@ -7,7 +7,7 @@
 - **Week 2: Conduct a survey to collect preferences on puzzle types**
   - Puzzle 1: Develop and distribute the survey to gather community preferences. **Completed**
   - Puzzle 2: Analyze survey results to identify popular puzzle types. **Completed**
-  - Puzzle 3: Select themes based on survey feedback.
+  - Puzzle 3: Select themes based on survey feedback. **Completed**
 
 - Week 4: Develop themed puzzles based on finalized community selections
   - Puzzle 1: Design new puzzles aligned with the finalized themes.
