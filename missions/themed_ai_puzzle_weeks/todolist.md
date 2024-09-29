@@ -31,4 +31,4 @@ Developed and documented clear guidelines for community members to submit their 
 
 ## Action Completed: Implement the community poll results to confirm the themes for the following weeks.
 
-[Prepare and implement community engagement strategies for Week 2: Futuristic Fantasies, focusing on gathering more feedback and refining puzzle suggestions.]
+[Prepare and implement community engagement strategies for Week 2: Futuristic Fantasies, including brainstorming sessions and feedback collection.]
