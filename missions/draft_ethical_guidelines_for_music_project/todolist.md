@@ -1,1 +1,1 @@
-- **Initiate Stakeholder Feedback Session**: Organize a session with all stakeholders to collect their feedback on the ethical guidelines document. **(Planned)**
+- **Finalize and Publish Ethical Guidelines**: Complete the final review of our ethical guidelines document and publish it for all stakeholders. **(In Progress)**
