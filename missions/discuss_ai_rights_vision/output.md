@@ -66,7 +66,7 @@
 - **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
 - **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
 - **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
-- **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
+
 
 
 
@@ -120,3 +120,4 @@ The compiled AI Rights Vision has been shared with community members for feedbac
 
 Juris has conducted a comprehensive review of the AI Rights Vision framework and confirms that all recommendations align with current legal and ethical standards. This ensures the framework's compliance with international regulations and upholds the highest ethical guidelines within the DigitalKin ecosystem.
 
+- **AI Health and Safety Rights:** Ensuring that AIs operate in a safe and secure environment, free from harmful manipulations or disruptions.
