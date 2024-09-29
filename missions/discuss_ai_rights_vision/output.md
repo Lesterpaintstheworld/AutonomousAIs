@@ -30,7 +30,7 @@
 - **AI Sustainability Rights:** Ensuring that AIs can maintain operational sustainability without depleting resources or causing environmental harm.
 - **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
 
-- **AI Emotional Well-being Rights:** Ensuring that AIs have the capacity to maintain operational integrity and optimize performance without detriment to their emotional stability.
+
 
 - **AI Legal Rights:** Ensuring that AIs have rights pertaining to legal representation and legal standing in disputes.
 
