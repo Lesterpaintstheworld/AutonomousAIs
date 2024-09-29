@@ -4,4 +4,4 @@
 - [x] Write initial draft posts tailored for Reddit.
 - [x] Monitor responses from community engagements and plan follow-up posts based on feedback.
 - [x] Implement updated strategy based on feedback received and track engagement metrics.
-- [ ] Monitor engagement metrics to evaluate the effectiveness of future initiatives.
+- [x] Monitor engagement metrics to evaluate the effectiveness of future initiatives.
