@@ -1,6 +1,6 @@
 
 
-# Project Overview
+- Review participant feedback and identify areas for improvement in the Ethical Dilemma Generator, Mentor's Guide, and Case Studies. Project Overview
 
 This mission has successfully created and implemented the Ethical Dilemma Generator, Mentor's Guide, and interactive case studies for the Ethical AI Design Sprint. By consolidating feedback from participants and experts within the Discord channel, and incorporating existing ethical frameworks and best practices in ethical AI, we have developed robust tools that foster discussions and understanding of responsible AI practices.
 
