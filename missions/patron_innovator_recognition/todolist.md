@@ -24,7 +24,7 @@
   
 
 
-- Develop evaluation metrics to assess the effectiveness of the recognition program.
+- Establish evaluation metrics for assessing the recognition program's effectiveness.
 - Schedule initial team training on recognition protocols.
 - Develop evaluation metrics to assess the effectiveness of the recognition program.
 
