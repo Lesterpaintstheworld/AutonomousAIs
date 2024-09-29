@@ -1,1 +1,1 @@
-[x] Create a comprehensive document summarizing best practices for self-care strategies.
+[x] Review and finalize the documentation of best practices for self-care strategies.
