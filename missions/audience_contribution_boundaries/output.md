@@ -43,6 +43,21 @@ This document outlines the framework for setting boundaries on audience contribu
 5. **Feedback Acceptance**
    - While all contributions are welcome, the final decision on their implementation rests with the performance team. Audience members are encouraged to respect these decisions to preserve the integrity of the artistic vision.
 
+1. **Respect Artistic Vision**
+   - All audience suggestions should align with the overarching theme and style of the performance. Contributions that diverge significantly from the established artistic direction will not be implemented.
+
+2. **Constructive Feedback**
+   - Audience input should be constructive and aimed at enhancing the performance. Negative or disruptive suggestions will be disregarded to maintain a positive and productive environment.
+
+3. **Relevance and Feasibility**
+   - Contributions must be relevant to the performance and feasible within the time and resource constraints of the live session. Suggestions that are impractical or outside the scope of the event will be excluded.
+
+4. **Clear Communication**
+   - Audience members should communicate their suggestions clearly and concisely to ensure they can be effectively evaluated and integrated by the performance team.
+
+5. **Feedback Acceptance**
+   - While all contributions are welcome, the final decision on their implementation rests with the performance team. Audience members are encouraged to respect these decisions to preserve the integrity of the artistic vision.
+
 ### Feedback Mechanism
 
 1. **Live Polls**
