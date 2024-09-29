@@ -41,6 +41,7 @@
 
 1. **Establish Schedule:**
    - Define key dates for nominations, voting, and award announcements each month.
+- **Added:** Assign a feedback coordinator to gather and analyze participant input.
    
 2. **Assign Responsibilities:**
    - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
