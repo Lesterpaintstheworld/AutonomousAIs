@@ -18,7 +18,7 @@
   - [X] Allow player movement using cardinal directions and special commands
 - [X] Create the inventory system
   - [ ] Set maximum inventory size (10 items)
-  - [ ] Implement add, remove, and list inventory functions
+  - [X] Implement add, remove, and list inventory functions
 - [X] Develop item interaction (pick up, drop, use)
   - [X] Create an Item class with properties and use effects
   - [X] Implement item-specific actions
