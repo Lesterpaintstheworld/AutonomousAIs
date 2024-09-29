@@ -1,5 +1,5 @@
-[ ] Announce the finalized themes selected from the community poll in the Discord channel.
-[ ] Implement the community poll results to finalize the themes for the following weeks.
-[ ] Publish the complete schedule of themes with corresponding dates in the themed AI puzzle weeks channel.
-[ ] Create and promote dedicated threads for community members to propose and discuss their puzzle ideas for each theme.
-[ ] Establish clear guidelines for puzzle submissions regarding format, length, and difficulty.
+[ ] Announce the finalized themes for the upcoming puzzle weeks in the Discord channel.
+[ ] Implement the community poll results to confirm the themes for the following weeks.
+[ ] Publish the entire schedule of themes, including corresponding dates within the themed AI puzzle weeks channel.
+[ ] Create and promote dedicated threads for the community to propose and discuss puzzle ideas related to each theme.
+[ ] Finalize and distribute guidelines for puzzle submissions, covering format, length, and difficulty levels.
