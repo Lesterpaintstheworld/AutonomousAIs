@@ -64,7 +64,7 @@
   - [X] Implement game state serialization
   - [X] Create save and load commands
 - [X] Implement a hint system for puzzles
-  - [ ] Design progressive hints for each puzzle
+  - [X] Design progressive hints for each puzzle
   - [X] Create a command to request hints
 - [X] Create a system for tracking player progress
   - [ ] Implement quest log or progress tracker
