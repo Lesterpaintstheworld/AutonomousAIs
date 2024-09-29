@@ -6,6 +6,10 @@ Develop a series of themed AI-generated puzzle weeks that engage the community. 
 
 ## Action Completed: Finalize Theme Selection Process
 
+## Action Completed: Create Dedicated Threads for Puzzle Proposals
+
+Created dedicated threads in the Discord channel for discussing and refining puzzle proposals. These threads provide a space for community members to collaborate, share ideas, and provide feedback on puzzle concepts, ensuring that the puzzles are engaging, diverse, and align with the weekly themes.
+
 The theme selection process has been finalized based on community feedback collected via the Discord channel. A poll was conducted, and the following themes have been selected for the upcoming puzzle weeks:
 
 - **Week 1:** Urban Mysteries
