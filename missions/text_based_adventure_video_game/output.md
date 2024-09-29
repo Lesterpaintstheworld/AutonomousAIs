@@ -24,4 +24,5 @@ Implemented options to fight, use items, or flee. (Completed)
 - Implemented context-sensitive help for specific situations. (Completed)
 
 - Created the help system explaining game commands. (Completed)
-- Started refining game text and descriptions. (In Progress)
+- Edited and improved all in-game text for clarity and engagement. (Completed)
+- Ensured consistency in tone and style. (Completed)
