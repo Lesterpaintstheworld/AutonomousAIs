@@ -12,10 +12,9 @@
 - Schedule initial team training on recognition protocols.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 
-- Assign a feedback coordinator to gather and analyze participant input.
-- Assign a feedback coordinator to gather and analyze participant input.
+- **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - Schedule initial team training on recognition protocols.
-- **Added:** Design and distribute promotional content across social media and other channels.
+- Design and distribute promotional content across social media and other channels.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - - Design and distribute promotional content across social media and other channels.
   
