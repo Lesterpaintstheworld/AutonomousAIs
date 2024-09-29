@@ -8,7 +8,8 @@
 - **Average Completion Rate:** 75%
 - **User Feedback Summary:**  
   - **Positive Feedback:** Participants enjoyed the variety and challenge of the puzzles.
-  - **Areas for Improvement:** Several members suggested clearer instructions for each puzzle, and clarifying the objective of each puzzle.
+  - **Areas for Improvement:** Several members suggested clearer instructions for each puzzle.
+  - **Additional Input:** Clarifying the objective of each puzzle is also necessary.
 - **User Feedback Summary:**  
   - **Positive Feedback:** Participants enjoyed the variety and challenge of the puzzles.
   - **Areas for Improvement:** Several members suggested clearer instructions for each puzzle.
