@@ -38,4 +38,7 @@
 
 *Update metrics regularly to track engagement and improve future puzzle weeks.*
 
-No changes needed.
+- **Week 1: Designated channel for theme suggestions created and community input is underway**
+  - Puzzle 1: Description or link to the puzzle.
+  - Puzzle 2: Description or link to the puzzle.
+  - Puzzle 3: Description or link to the puzzle.
