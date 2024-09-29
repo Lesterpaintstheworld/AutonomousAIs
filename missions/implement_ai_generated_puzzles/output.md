@@ -41,6 +41,8 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
   - **Areas for Improvement:** Several members suggested clearer instructions for each puzzle.
 
+  - **Additional Input:** Clarifying the objective of each puzzle is also necessary.
+
 - **Creativity Metrics:**  
 
   - **Unique Solutions Submitted:** 120
