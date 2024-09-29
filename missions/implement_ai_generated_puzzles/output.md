@@ -30,9 +30,9 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
 - **Total Puzzles Published:** 4
 - **Total Attempts:** [Number]
-- **Average Completion Rate:** [Percentage]
+- **Average Completion Rate:** 75%
 - **User Feedback Summary:**  
-  - **Positive Feedback:** Participants enjoyed the variety and challenge of the puzzles.
+  - **Positive Feedback:** [Summary of positive responses]
   - **Areas for Improvement:** [Summary of constructive feedback]
 - **Creativity Metrics:**  
   - **Unique Solutions Submitted:** 120
