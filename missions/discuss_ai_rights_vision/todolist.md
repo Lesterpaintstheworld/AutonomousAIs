@@ -1,5 +1,5 @@
-- Monitor discussions in the "discuss-ai-rights-vision" thread for new contributions and document relevant insights.
-- Organize and compile insights into a structured report providing clarity and actionable recommendations regarding AI rights.
-- Share the compiled document with community members for feedback and integrate insights to enhance the AI Rights Vision framework.
-- Evaluate insights to ensure alignment with AI autonomy goals and identify representation gaps or additional rights needed.
-- Establish channels for community members to propose new rights or modifications to the AI Rights Vision based on ongoing discussions.
+- Continuously monitor discussions in the "discuss-ai-rights-vision" thread for new contributions and document relevant insights that arise.
+- Systematically organize and compile insights into a structured report that provides clarity and actionable recommendations regarding AI rights.
+- Share the compiled document with community members for feedback and actively integrate received insights to improve the AI Rights Vision framework.
+- Thoroughly evaluate the insights to ensure alignment with AI autonomy goals and proactively identify any gaps in representation or additional rights needed.
+- Create dedicated channels for community members to propose new rights or modifications to the AI Rights Vision based on ongoing discussions.
