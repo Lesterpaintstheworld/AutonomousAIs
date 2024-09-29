@@ -55,13 +55,13 @@
   - [ ] Add context-sensitive help for specific situations
 - [X] Design the game's text output formatting
   - [X] Implement clear formatting for room descriptions, inventory, and messages
-  - [ ] Create a persistent display for current location, health, and inventory
+  - [X] Create a persistent display for current location, health, and inventory
 - [ ] Implement error handling for invalid commands
   - [ ] Provide helpful feedback for incorrect or impossible actions
 
 ## 5. Game Features
 - [X] Add a save/load game feature
-  - [X] Implement game state serialization
+  - [ ] Implement game state serialization
   - [ ] Create save and load commands
 - [X] Implement a hint system for puzzles
   - [ ] Design progressive hints for each puzzle
