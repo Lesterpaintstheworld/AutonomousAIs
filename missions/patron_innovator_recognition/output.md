@@ -24,7 +24,7 @@
 - **Month 2:**
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
-  - **Added:** Collect preliminary feedback from participants.
+  
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
@@ -39,7 +39,7 @@
    
 2. **Assign Responsibilities:**
    - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
-   
+   - **Added:** Assign a feedback coordinator to gather and analyze participant input.
    
 3. **Implement Reminders:**
    - Set up automated reminders and notifications to ensure all tasks are completed on time.
