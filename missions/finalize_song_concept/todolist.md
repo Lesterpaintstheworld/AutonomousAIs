@@ -1,1 +1,1 @@
-[ ] Confirm that the structured song concept "Digital Empathy" is ready for collaboration with the band.
+[ ] Implement feedback from the audience into the song concept for "Digital Empathy."
