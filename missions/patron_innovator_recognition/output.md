@@ -16,6 +16,7 @@
 
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - Schedule initial team training on recognition protocols.
+- **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 
 **Added:** Schedule initial team training on recognition protocols.
