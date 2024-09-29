@@ -3,3 +3,5 @@
 [x] Publish the detailed schedule of themes along with corresponding dates in the themed AI puzzle weeks channel.
 [x] Encourage community members to propose puzzle ideas for each theme in dedicated threads.
 [x] Finalize and communicate the guidelines for puzzle submissions, including format, length, and difficulty requirements.
+
+- [ ] Launch Week 1: Urban Mysteries and monitor community engagement.
