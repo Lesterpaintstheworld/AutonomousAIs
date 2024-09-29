@@ -49,6 +49,8 @@
 
 ## Timeline
 - **4 Weeks Before Release**:
+  - Conduct a comprehensive review of targeted subreddits to identify the best engagement opportunities.
+  - Develop detailed content calendars for each subreddit to ensure tailored and relevant posts.
   - Identify and join relevant subreddits.
   - Schedule initial AMA sessions and announce them to build anticipation.
 
