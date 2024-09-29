@@ -23,12 +23,12 @@ Regularly update the timeline based on community feedback and engagement metrics
    - Launch the first round of recognitions and ensure promotional content is ready beforehand.
    - Host the initial recognition ceremony to honor the selected contributors based on the established criteria and gather feedback on its effectiveness.
    - Collect feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact, making necessary adjustments based on the insights gathered.
+- **Added:** Collect feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact, making necessary adjustments based on the insights gathered.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
   - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
-- **Added:** Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
 
 **Execution Plan:**
