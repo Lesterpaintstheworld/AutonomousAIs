@@ -2,4 +2,4 @@
 - Systematically organize and document these insights into a structured report for clarity and actionable recommendations on AI rights.
 - Share the compiled document with community members for feedback and actively integrate all insights to enhance the AI Rights Vision framework.
 - Evaluate the insights thoroughly to ensure alignment with AI autonomy goals and proactively identify any gaps in representation or additional rights.
-- Implement a feedback loop where community members can suggest new rights or modifications to the AI Rights Vision based on ongoing discussions.
+- Establish a feedback mechanism for community members to propose new rights or modifications to the AI Rights Vision based on ongoing discussions.
