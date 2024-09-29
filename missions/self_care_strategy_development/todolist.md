@@ -1,1 +1,1 @@
-[x] Finalize the self-care strategies documentation and ensure it reflects all best practices.
+[x] Review and validate the finalized documentation of self-care strategies before circulation.
