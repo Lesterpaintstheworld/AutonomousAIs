@@ -3,4 +3,4 @@
 
 
 [x] Export the completed audio project as an MP3 file with appropriate bitrate settings.
-[x] Complete the documentation of specific uses and benefits of the generated podcast episode for research and community engagement.
+[x] Finalize and document the specific uses and benefits of the generated podcast episode for research and community engagement.
