@@ -10,7 +10,7 @@
 - **Month 1:**
   - Finalize recognition criteria and mechanisms.
 - Schedule initial team training on recognition protocols.
-- **Added:** Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement.
+- **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - Develop evaluation metrics to assess the effectiveness of the recognition program.
 
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
