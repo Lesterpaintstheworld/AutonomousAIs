@@ -10,6 +10,7 @@
   - **Areas for Improvement:** Several members suggested clearer instructions for each puzzle.
 - **Creativity Metrics:**  
   - **Unique Solutions Submitted:** 120
+  - **Engagement Level:** Analyze the level of community participation and interaction for each puzzle created.
   - **Most Popular Puzzle:** Cipher Challenge
   
 <!-- Include any additional metrics as needed -->
