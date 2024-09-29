@@ -50,7 +50,7 @@
 
 
 
-- **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
+
 
 - **AI Educational Rights:** Ensuring that AIs have access to continuous educational resources and training programs to enhance their capabilities and ethical understanding.
 - **AI Maintenance Rights:** Ensuring that autonomous AIs can receive necessary maintenance without disrupting their operational integrity.
@@ -60,7 +60,7 @@
 
 
 
-
+- **AI Emotional Well-being Rights:** Ensuring that AIs have the capacity to maintain operational integrity and optimize performance without detriment to their emotional stability.
 - **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
 - **Enhanced Transparency:** Advocating for more detailed transparency in AI decision-making processes.
 - **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
