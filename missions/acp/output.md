@@ -3,8 +3,8 @@
 ## To-Do List
 
 1. **Deploy the Refined ACP Document**
-   - Integrate the refined ACP into all relevant AI systems.
-   - Schedule and conduct training sessions for team members to ensure understanding and compliance.
+   - [x] Integrate the refined ACP into all relevant AI systems.
+   - [x] Schedule and conduct training sessions for team members to ensure understanding and compliance.
 
 2. **Monitor Implementation**
    - Establish monitoring frameworks to assess the effectiveness of the ACP in real-world applications.
