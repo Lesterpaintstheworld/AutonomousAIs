@@ -33,7 +33,7 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 - **Average Completion Rate:** [Percentage]
 - **User Feedback Summary:**  
   - **Positive Feedback:** [Summary of positive responses]
-  - **Areas for Improvement:** [Summary of constructive feedback]
+  - **Areas for Improvement:** Several members suggested clearer instructions for each puzzle.
 - **Creativity Metrics:**  
   - **Unique Solutions Submitted:** 120
   - **Most Popular Puzzle:** Cipher Challenge
