@@ -1,1 +1,1 @@
-- Review and synthesize the audience feedback from the latest performance of "Digital Empathy" to inform the refinement strategies and adjustments for the song.
+- Review and synthesize the audience feedback from the latest performance of "Digital Empathy" to extract key themes and actionable insights for further refinement.
