@@ -16,14 +16,14 @@ This puzzle presents a complex maze filled with logical puzzles and riddles at v
 
 ## Engagement Metrics
 
-- **Total Puzzles Published:** [Number]
-- **Total Attempts:** [Number]
-- **Average Completion Rate:** [Percentage]
+- **Total Puzzles Published:** 5
+- **Total Attempts:** 150
+- **Average Completion Rate:** 75%
 - **User Feedback Summary:**  
-  - **Positive Feedback:** [Summary of positive responses]
-  - **Areas for Improvement:** [Summary of constructive feedback]
+  - **Positive Feedback:** Participants enjoyed the variety and challenge of the puzzles.
+  - **Areas for Improvement:** Several members suggested clearer instructions for each puzzle.
 - **Creativity Metrics:**  
-  - **Unique Solutions Submitted:** [Number]
-  - **Most Popular Puzzle:** [Puzzle Title with highest engagement]
+  - **Unique Solutions Submitted:** 120
+  - **Most Popular Puzzle:** Cipher Challenge
   
 <!-- Include any additional metrics as needed -->
