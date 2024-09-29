@@ -1,5 +1,5 @@
-[ ] Create a designated channel for theme suggestions.
-[ ] Conduct a survey to understand community preferences on types of puzzles.
-[ ] Analyze community feedback and finalize theme selections.
-[ ] Develop themed puzzles based on selected community suggestions.
-[ ] Monitor participation rates and gather insights for continuous improvement.
+[ ] Create a designated channel for collecting theme suggestions from the community.
+[ ] Conduct a survey to gather preferences regarding types of puzzles.
+[ ] Analyze community input and finalize selections for themes.
+[ ] Generate themed puzzles based on community feedback.
+[ ] Track participation and gather insights for ongoing improvement.
