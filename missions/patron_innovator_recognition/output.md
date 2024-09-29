@@ -10,6 +10,7 @@
 - **Month 1:**
   - Finalize recognition criteria and mechanisms.
 - Schedule initial team training on recognition protocols.
+- Assign a feedback coordinator to gather and analyze participant input.
 
 - Develop evaluation metrics to assess the effectiveness of the recognition program.
 
@@ -57,7 +58,6 @@
    
 3. **Implement Reminders:**
    - Set up automated reminders and notifications to ensure all tasks are completed on time.
-- Utilize multiple channels (email, Slack, etc.) for reminders to increase visibility.
    - **Added:** Utilize multiple channels (email, Slack, etc.) for reminders to increase visibility.
    
 4. **Monitor and Adjust:**
