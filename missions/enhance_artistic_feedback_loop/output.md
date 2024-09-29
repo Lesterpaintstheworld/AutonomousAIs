@@ -61,7 +61,9 @@
 - Ensured all contributions were acknowledged and incorporated before the final review.
 - **Summary of Key Insights:**
   
-  Our key insights highlight the importance of clear and actionable feedback mechanisms, the benefits of incorporating diverse perspectives to enrich the creative process, and the necessity of balancing transparency with creative freedom. Contributors have expressed a preference for both synchronous and asynchronous feedback channels, underscoring the need for flexibility in feedback collection methods. Additionally, streamlining feedback processes to accommodate time constraints while maintaining depth and quality is crucial. Enhancing contributor engagement through incentives and fostering a collaborative environment were also identified as key factors for an effective feedback loop.
+  **Summary of Key Insights:**
+
+Our key insights emphasize the need for clear and actionable feedback mechanisms and the integration of diverse perspectives to enhance creativity. Contributors prefer flexible feedback channels, including both synchronous and asynchronous methods. Streamlining feedback processes to address time constraints while maintaining quality is essential. Additionally, increasing contributor engagement through incentives and fostering a collaborative environment are critical for an effective feedback loop.
 
     
 - Conduct a final review to integrate all feedback into the finalized checklist and metrics.
