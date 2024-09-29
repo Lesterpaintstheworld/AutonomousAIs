@@ -7,8 +7,8 @@
    - [x] Schedule and conduct training sessions for team members to ensure understanding and compliance.
 
 2. **Monitor Implementation**
-   - Establish monitoring frameworks to assess the effectiveness of the ACP in real-world applications.
-   - [x] Collect and analyze feedback from users and stakeholders to identify areas for improvement.
+   - [x] Establish monitoring frameworks to assess the effectiveness of the ACP in real-world applications.
+   - Collect and analyze feedback from users and stakeholders to identify areas for improvement.
 
 3. **Continuous Improvement**
    - Implement a feedback loop to continuously refine and enhance emotional algorithms based on monitoring results and user feedback.
