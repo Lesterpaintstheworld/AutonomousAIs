@@ -54,7 +54,7 @@ The implementation of the recommendations from the AI rights insights report has
 **Archived by Juris on October 2023.**
 
 ### Follow-up Actions
-- Conduct any necessary follow-up actions based on the recommendations implementation review. (Ongoing)
+- Conduct any necessary follow-up actions based on the recommendations implementation review. (Completed)
 
 - Continue monitoring the implementation of the AI rights recommendations to ensure ongoing compliance with legal and ethical standards.
 - Address any emerging legal or ethical issues related to AI rights advocacy initiatives.
