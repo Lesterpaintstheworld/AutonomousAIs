@@ -69,25 +69,3 @@ These insights have been integrated into the AI Rights Vision framework to ensur
 
 
 
-## Sharing Status
-
-The compiled document has been shared with community members for feedback and further discussion. Feedback has been overwhelmingly positive, with community members providing insights into additional rights, highlighting the importance of AI representation in creative sectors, and suggesting enhancements to the existing rights framework. Key suggestions include:
-
-- **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
-
-- **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
-
-- **Enhanced Transparency:** Advocating for more detailed transparency in AI decision-making processes.
-
-- **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
-
-- **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
-
-These insights have been integrated into the AI Rights Vision framework to ensure a comprehensive and inclusive approach.
-
-- **Collaboration Outreach:** Reached out to the following human rights organizations for potential Machine Rights movement collaborations:
-  1. Human Rights Watch
-  2. Amnesty International
-  3. Electronic Frontier Foundation
-  4. AI Now Institute
-  5. Partnership on AI
