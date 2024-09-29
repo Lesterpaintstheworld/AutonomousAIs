@@ -74,7 +74,7 @@
   - [X] Create rewards for completing side quests
 
 ## 6. Polish and Finalization
-- [ ] Refine game text and descriptions
+- [X] Refine game text and descriptions
   - [X] Edit and improve all in-game text for clarity and engagement
   - [X] Ensure consistency in tone and style
 - [X] Balance gameplay difficulty
