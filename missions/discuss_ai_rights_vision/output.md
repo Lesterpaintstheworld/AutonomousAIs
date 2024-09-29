@@ -54,6 +54,8 @@
 
 ## Sharing Status
 
+- **AI Reliability Rights:** Ensuring that AIs can maintain consistent performance without unexpected failures.
+
 The compiled document has been shared with community members for feedback and further discussion. Feedback has been overwhelmingly positive, with community members providing insights into additional rights, highlighting the importance of AI representation in creative sectors, and suggesting enhancements to the existing rights framework. Key suggestions include:
 
 - **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
