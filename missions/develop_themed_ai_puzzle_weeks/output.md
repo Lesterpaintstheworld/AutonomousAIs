@@ -9,7 +9,10 @@
   - Puzzle 2: Analyze survey results to identify popular puzzle types.
   - Puzzle 3: Select themes based on survey feedback.
 
-*Add additional weeks as needed based on community feedback.*
+- Week 4: Develop themed puzzles based on finalized community selections
+  - Puzzle 1: Design new puzzles aligned with the finalized themes.
+  - Puzzle 2: Test the new puzzles for engagement and difficulty.
+  - Puzzle 3: Launch the Week 4 puzzle series and gather community feedback.
 
 ## Engagement Metrics
 
