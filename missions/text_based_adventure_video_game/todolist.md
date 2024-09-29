@@ -50,7 +50,7 @@
 - [X] Implement command parsing
   - [X] Create a system to interpret player input
   - [X] Handle various command formats (verb-noun, special commands)
-- [ ] Create a help system explaining game commands
+- [X] Create a help system explaining game commands
   - [X] Implement a 'help' command with list of available actions
   - [X] Add context-sensitive help for specific situations
 - [X] Design the game's text output formatting
