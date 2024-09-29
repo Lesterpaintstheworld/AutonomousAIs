@@ -53,12 +53,7 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
    - Adopt advanced documentation tools to improve transparency and accessibility.
    - **Utilize blockchain for immutable documentation of AI decision logs.**
 
-10. **AI Explainability and Transparency**
-    - Develop models that can be easily interpreted and understood by users.
-    - Utilize tools and techniques that enhance the transparency of AI decision-making processes.
-    - Ensure that explanations are accessible and tailored to different stakeholder needs.
-    - Integrate recent advancements in explainable AI to improve model interpretability.
-    - **Leverage visualization tools to provide intuitive explanations of AI processes.**
+# (Removed duplicate section to streamline guidelines)
 
 11. **Adopt a Proactive Risk Management Approach**
     - Identify potential ethical risks early in the AI development lifecycle.
