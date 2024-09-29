@@ -68,6 +68,5 @@ The Ethical Scenarios Documentation mission has been successfully completed. All
 
 
 
-## Shared
-The finalized document has been shared in KinOS for team access.
+
 
