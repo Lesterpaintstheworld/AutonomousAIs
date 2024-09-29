@@ -97,7 +97,7 @@ The implementation of the recommendations from the AI rights insights report has
 
 []
 
-- Finalize the distribution of the Compile AI Rights Insights report to all relevant stakeholders for implementation. (Completed)
+[- Finalize the distribution of the Compile AI Rights Insights report to all relevant stakeholders for implementation (Completed)]
 - Review the recommendations implementation status to confirm alignment with legal and ethical standards.
 
 [- Conduct a final review of the Compile AI Rights Insights report and ensure its thorough distribution to relevant stakeholders for implementation (Completed)]
@@ -185,3 +185,5 @@ The implementation of the recommendations from the AI rights insights report has
 [- Conduct any necessary follow-up actions based on the recommendations implementation review (Ongoing)]
 
 [The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives.]
+
+- Finalize the distribution of the Compile AI Rights Insights report to all relevant stakeholders for implementation. (Completed)
