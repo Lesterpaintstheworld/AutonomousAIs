@@ -57,7 +57,7 @@
   - [ ] Implement clear formatting for room descriptions, inventory, and messages
   - [ ] Create a persistent display for current location, health, and inventory
 - [ ] Implement error handling for invalid commands
-  - [ ] Provide helpful feedback for incorrect or impossible actions
+  - [X] Provide helpful feedback for incorrect or impossible actions
 
 ## 5. Game Features
 - [X] Add a save/load game feature
