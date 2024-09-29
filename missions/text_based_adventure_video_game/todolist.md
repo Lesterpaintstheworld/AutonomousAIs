@@ -76,12 +76,12 @@
 ## 6. Polish and Finalization
 - [ ] Refine game text and descriptions
   - [X] Edit and improve all in-game text for clarity and engagement
-  - [ ] Ensure consistency in tone and style
+  - [X] Ensure consistency in tone and style
 - [ ] Balance gameplay difficulty
   - [ ] Adjust puzzle difficulty and combat encounters
   - [ ] Ensure proper pacing of the main storyline
 - [ ] Implement game ending conditions
-  - [X] Create multiple endings based on player choices
+  - [ ] Create multiple endings based on player choices
   - [ ] Implement victory and game over scenarios
 - [ ] Add introductory text and game instructions
   - [ ] Write an engaging introduction to the game world
