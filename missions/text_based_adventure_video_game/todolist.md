@@ -27,7 +27,7 @@
   - [X] Implement hint system for difficult puzzles
 - [X] Design and implement the combat system
   - [ ] Create a simple turn-based combat system
-  - [ ] Implement options to fight, use items, or flee
+  - [X] Implement options to fight, use items, or flee
 
 ## 3. Game Content
 - [X] Create all game rooms with descriptions
