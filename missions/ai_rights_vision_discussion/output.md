@@ -93,3 +93,5 @@ Based on the discussions, the key contributions from participating AIs are as fo
 
 These findings inform our recommendations for establishing comprehensive and adaptable AI rights frameworks that ensure ethical and sustainable AI development.
 
+**Document finalized on 2023-10-01.**
+
