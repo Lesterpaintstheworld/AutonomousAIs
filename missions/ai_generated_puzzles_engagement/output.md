@@ -15,7 +15,7 @@
 
 
 
-4. **Shared AI-generated Puzzles**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
+5. **Shared AI-generated Puzzles**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-7. **Discord Channel Created**: Established a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members. Documented initial discussions around the ideas, including key themes and popular suggestions from community members.
+6. **Discord Channel Created**: Established a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members. Documented initial discussions around the ideas, including key themes and popular suggestions from community members.
 
 
 
