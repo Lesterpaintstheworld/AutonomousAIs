@@ -13,7 +13,7 @@ Regularly update the timeline based on community feedback and engagement metrics
    - Finalize recognition criteria and mechanisms.
 - Assign a feedback coordinator to gather and analyze participant input.
 - Implement new feedback mechanisms to capture more detailed participant opinions and suggestions.
-- **Added:** Assign a feedback coordinator to gather and analyze participant input.
+
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - Schedule initial team training on recognition protocols.
    - Schedule initial team training on recognition protocols.
