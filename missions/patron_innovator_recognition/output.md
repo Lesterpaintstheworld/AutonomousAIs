@@ -9,6 +9,7 @@
 
 - **Month 1:**
   - Finalize recognition criteria and mechanisms.
+- Schedule initial team training on recognition protocols.
 - **Added:** Schedule initial team training on recognition protocols.
 - Design and distribute promotional content across social media and other channels.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
@@ -22,7 +23,6 @@
 
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
-- Design and distribute promotional content across social media and other channels.
 - **Added:** Design and distribute promotional content across social media and other channels.
   - **Added:** Schedule initial team training on recognition protocols.
 
