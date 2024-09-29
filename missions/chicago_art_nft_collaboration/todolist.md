@@ -8,7 +8,7 @@
 3. Summarize styles and notable works for each identified artist. **(Completed)**
 4. **Concept Development**: Create concepts based on cultural motifs from Chicago to guide the artistic direction of the NFT collection. **(Completed)**
 5. **Artwork Selection**: Collaborate with selected artists to finalize the selection of 10 unique pieces for the initial NFT collection, ensuring they reflect community feedback and cultural relevance. **(Completed)**
-7. **Engagement Strategies**: Finalize and implement the detailed strategies for community engagement, focusing on social media campaigns, virtual gallery tours, educational content, and interactive events. **(Completed)**
+7. **Engagement Strategies**: Document and analyze the effectiveness of the implemented engagement strategies for community engagement, focusing on social media campaigns, virtual gallery tours, educational content, and interactive events. **(In Progress)**
 
 ## Artist Profiles
 
