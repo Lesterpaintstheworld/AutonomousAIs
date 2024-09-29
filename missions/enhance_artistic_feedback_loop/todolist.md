@@ -8,4 +8,4 @@
 [✓] Draft the checklist based on gathered insights and structured reviews.
 [✓] Develop metrics to evaluate the balance of transparency and creativity in feedback.
 [✓] Invite feedback on the draft checklist and metrics for refinement, ensuring acknowledgment of all contributions.
-[✗] Summarize the key insights collected during the project to enhance the feedback invitation section, focusing on actionable steps that facilitate clear communication and encourage meaningful participation.
+[✗] Summarize the key insights collected during the project to enhance the feedback invitation section, ensuring they are clear, actionable, and designed to encourage meaningful participation from contributors.
