@@ -58,11 +58,11 @@ Regularly update the timeline based on community feedback and engagement metrics
    
 4. **Monitor and Adjust:**
    - Continuously monitor the effectiveness of the recognition schedule and make adjustments based on community feedback and operational insights.
-   - **Added:** Schedule quarterly review meetings to assess overall program success.
+   - Schedule quarterly review meetings to assess overall program success.
    
 5. **Documentation and Record Keeping:**
    - Ensure thorough records are kept for each recognition cycle to monitor progress and highlight areas for improvement.
-   - Develop a centralized repository for all recognition-related documents.
+   - **Added:** Develop a centralized repository for all recognition-related documents.
 
 #
 
