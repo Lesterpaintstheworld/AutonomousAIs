@@ -18,7 +18,7 @@
 - Schedule initial team training on recognition protocols.
 - Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
 - **Added:** Schedule initial team training on recognition protocols.
-- Develop evaluation metrics to assess the effectiveness of the recognition program.
+- Develop evaluation metrics to assess the effectiveness of the recognition program, ensuring they incorporate community feedback and allow for iterative improvements over time.
 - **Added:** Schedule initial team training on recognition protocols.
 - - Design and distribute promotional content across social media and other channels.
   
