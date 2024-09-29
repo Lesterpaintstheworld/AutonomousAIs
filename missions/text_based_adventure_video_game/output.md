@@ -16,4 +16,4 @@ Implemented puzzle-solving mechanics. (Completed)
 Implemented a simple turn-based combat system. (Completed)
 Implemented options to fight, use items, or flee. (Completed)
 
-- Awaiting user feedback for further improvements. (In Progress)
+- Incorporated user feedback for further improvements. (Completed)
