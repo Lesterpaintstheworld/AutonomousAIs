@@ -6,6 +6,4 @@
 
 - [x] Launch Week 1: Urban Mysteries
 - [x] Monitor community engagement during Week 1: Urban Mysteries and gather feedback for future themes.
-- [ ] Prepare and implement community engagement strategies for Week 2: Futuristic Fantasies.
-
-- [ ] Initiate community engagement strategies for Week 2: Futuristic Fantasies and gather ideas for puzzles.
+- [x] Prepare and implement community engagement strategies for Week 2: Futuristic Fantasies.
