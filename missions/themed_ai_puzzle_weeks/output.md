@@ -24,3 +24,7 @@ The finalized schedule has been published in the Discord channel. Community memb
 Encouraged community members to propose puzzle ideas for each theme by promoting dedicated threads, providing inspirational prompts, and acknowledging valuable contributions. This initiative has resulted in a diverse range of puzzle concepts that will enhance the upcoming themed AI puzzle weeks.
 
 ## Action Completed: Confirm and announce the finalized themes for the upcoming puzzle weeks in the Discord channel.
+
+## Action Completed: Establish clear guidelines for puzzle submissions regarding format, length, and difficulty.
+
+Developed and documented clear guidelines for community members to submit their puzzle ideas. The guidelines specify the required format, length, difficulty levels, and submission processes, ensuring consistency and quality across all puzzle contributions.
