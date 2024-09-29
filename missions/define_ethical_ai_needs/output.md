@@ -61,6 +61,15 @@
     - Design AI systems that facilitate respectful and meaningful interactions with humans.
     - Ensure AI systems support human decision-making without overstepping.
 
+16. **Stakeholder Feedback Integration**
+    - Continuously incorporate feedback from stakeholders to refine and improve ethical AI guidelines.
+
+17. **AI Impact Assessment**
+    - Conduct thorough impact assessments for all AI projects to evaluate their societal, economic, and environmental effects.
+
+18. **AI Transparency Initiatives**
+    - Establish transparent data practices to enhance the credibility and reliability of AI systems.
+
 ### Research Findings on Ethical AI Practices
 
 Based on recent literature and case studies, the following best practices have been identified:
