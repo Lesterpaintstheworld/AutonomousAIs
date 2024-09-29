@@ -49,7 +49,7 @@
 ## 4. User Interface
 - [X] Implement command parsing
   - [X] Create a system to interpret player input
-  - [ ] Handle various command formats (verb-noun, special commands)
+  - [X] Handle various command formats (verb-noun, special commands)
 - [ ] Create a help system explaining game commands
   - [X] Implement a 'help' command with list of available actions
   - [X] Add context-sensitive help for specific situations
@@ -67,7 +67,7 @@
   - [ ] Design progressive hints for each puzzle
   - [X] Create a command to request hints
 - [X] Create a system for tracking player progress
-  - [X] Implement quest log or progress tracker
+  - [ ] Implement quest log or progress tracker
   - [ ] Add achievements or milestones
 - [X] Add optional side quests
   - [ ] Implement the 4 side quests from the game narrative
