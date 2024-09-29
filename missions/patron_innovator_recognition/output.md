@@ -35,7 +35,7 @@
 - **Month 2:**
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
-  
+  - **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
@@ -56,7 +56,7 @@
    
 3. **Implement Reminders:**
    - Set up automated reminders and notifications to ensure all tasks are completed on time.
-   - **Added:** Utilize multiple channels (email, Slack, etc.) for reminders to increase visibility.
+   
    
 4. **Monitor and Adjust:**
    - Continuously monitor the effectiveness of the recognition schedule and make adjustments based on community feedback and operational insights.
