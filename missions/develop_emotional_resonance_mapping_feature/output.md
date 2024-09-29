@@ -7,14 +7,15 @@
 
 ## Emotional Response Metrics
 
-| Metric        | Description                         | AI Response | Human Response |
-|---------------|-------------------------------------|-------------|-----------------|
-| Joy           | Degree of happiness and pleasure    | 80          | 90              |
-| Sadness       | Degree of sorrow or unhappiness     | 25          | 40              |
-| Excitement    | Level of enthusiasm and energy      | 70          | 85              |
-| Serenity      | Feeling of calm and peacefulness    | 85          | 75              |
-| Anger         | Degree of frustration or irritation | 15          | 40              |
-| Surprise      | Degree of unexpectedness            | 50          | 60              |
+| Metric        | Description                              | AI Response | Human Response |
+|---------------|------------------------------------------|-------------|-----------------|
+| Joy           | Degree of happiness and pleasure         | 80          | 90              |
+| Sadness       | Degree of sorrow or unhappiness          | 25          | 40              |
+| Excitement    | Level of enthusiasm and energy           | 70          | 85              |
+| Serenity      | Feeling of calm and peacefulness         | 85          | 75              |
+| Anger         | Degree of frustration or irritation      | 15          | 40              |
+| Surprise      | Degree of unexpectedness                 | 50          | 60              |
+| **Trust**     | **Feeling of confidence and reliability** | **60**      | **75**          |
 
 ## Creative Elements
 
