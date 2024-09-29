@@ -12,6 +12,7 @@ Regularly update the timeline based on community feedback and engagement metrics
 - Assign a feedback coordinator to gather and analyze participant input.
 Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - Develop evaluation metrics to assess the effectiveness of the recognition program.
+Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
 - Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - Develop and distribute promotional materials, including graphics and written content, to effectively communicate the recognition program's goals and engage the community.
 - Assign a feedback coordinator to gather and analyze participant input.
@@ -23,7 +24,6 @@ Schedule initial team training on recognition protocols, ensuring that team memb
 - Assign a feedback coordinator to gather and analyze participant input.
 - Assign a feedback coordinator to gather and analyze participant input.
 - Analyze participant data and adjust criteria accordingly.
-Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
 - Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - Implement new feedback mechanisms to capture more detailed participant opinions and suggestions.
 
