@@ -1,1 +1,1 @@
-- [x] Begin sound design for the "Voices of the Circuit" project, focusing on integrating musical and visual elements.
+- [ ] Begin sound design for the "Voices of the Circuit" project, focusing on integrating musical and visual elements.
