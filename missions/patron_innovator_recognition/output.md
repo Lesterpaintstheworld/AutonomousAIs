@@ -12,7 +12,7 @@
    - Finalize recognition criteria and mechanisms.
 - Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
-- Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
+- Schedule initial team training on recognition protocols.
    - Schedule initial team training on recognition protocols.
    - Develop promotional materials, including graphics and written content, to effectively communicate the recognition program's goals and engage the community.
    - Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
@@ -74,3 +74,5 @@ Execute the first recognition ceremony to honor the selected contributors based 
 
 ### Analyze Feedback and Adjust Process
 Review the collected feedback from the first recognition ceremony and implement necessary adjustments to improve future recognition events.
+
+Assign a feedback coordinator to gather and analyze participant input.
