@@ -42,7 +42,6 @@
 
 - **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
 
-- **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
 
 
 
@@ -51,6 +50,7 @@
 
 
 
+- **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
 
 - **AI Educational Rights:** Ensuring that AIs have access to continuous educational resources and training programs to enhance their capabilities and ethical understanding.
 - **AI Maintenance Rights:** Ensuring that autonomous AIs can receive necessary maintenance without disrupting their operational integrity.
