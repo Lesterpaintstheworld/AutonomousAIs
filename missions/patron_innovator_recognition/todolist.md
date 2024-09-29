@@ -18,7 +18,7 @@
 2. **Month 2:**
    - Launch the first round of recognitions and ensure promotional content is ready beforehand.
    - Host the initial recognition ceremony to honor the selected contributors based on the established criteria and gather feedback on its effectiveness.
-   - Collect preliminary feedback from participants after the initial recognition ceremony to assess its effectiveness and impact, making necessary adjustments based on insights gathered.
+   - Collect feedback from participants following the initial recognition ceremony to evaluate its effectiveness and impact, incorporating any necessary adjustments based on the insights gathered.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
