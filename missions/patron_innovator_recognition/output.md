@@ -25,6 +25,7 @@
 
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
+- **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - **Added:** Design and distribute promotional content across social media and other channels.
   - **Added:** Schedule initial team training on recognition protocols.
 
@@ -35,7 +36,6 @@
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
-- **Added:** Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
   - Gather feedback and adjust the process as needed.
 - **Added:** Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
   - **Added:** Introduce new recognition categories based on community input.
