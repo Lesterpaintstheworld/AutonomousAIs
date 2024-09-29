@@ -28,7 +28,7 @@ Regularly update the timeline based on community feedback and engagement metrics
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
-  - Gather feedback and adjust the process as needed.
+  - Gather feedback and adjust the process as needed, promoting a flexible and responsive recognition program that evolves with community needs.
   - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
 
@@ -47,7 +47,7 @@ Regularly update the timeline based on community feedback and engagement metrics
    
 4. **Monitor and Adjust:**
    - Continuously monitor the effectiveness of the recognition schedule and make adjustments based on community feedback and operational insights.
-   - **Added:** Schedule quarterly review meetings to assess overall program success, analyze performance metrics, and implement strategic improvements based on comprehensive evaluations.
+   - **Added:** Schedule quarterly review meetings to assess overall program success.
    
 5. **Documentation and Record Keeping:**
    - Ensure thorough records are kept for each recognition cycle to monitor progress and highlight areas for improvement.
