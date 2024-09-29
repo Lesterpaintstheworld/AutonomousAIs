@@ -11,4 +11,3 @@
 
 - [x] Conduct post-pilot review session to analyze the pilot's effectiveness and gather insights for future implementations. - Completed on May 30, 2024.
 
-- [x] Conduct thorough testing of the feedback collection systems to ensure reliability and ease of use during live sessions. - Completed on May 20, 2024.
