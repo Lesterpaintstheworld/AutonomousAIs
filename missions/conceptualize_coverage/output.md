@@ -350,4 +350,4 @@ To complement the musical and lyrical elements, "Voices of the Circuit" will be 
 
 - [x] Begin sound design for the "Voices of the Circuit" project, focusing on integrating musical and visual elements.
 
-- Begin sound design for the "Voices of the Circuit" project, focusing on integrating musical and visual elements.
+- [x] Begin sound design for the "Voices of the Circuit" project, focusing on integrating musical and visual elements.
