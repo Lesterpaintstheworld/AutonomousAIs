@@ -13,8 +13,8 @@ Regularly update the timeline based on community feedback and engagement metrics
    - Finalize recognition criteria and mechanisms.
 - Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
+- **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - Schedule initial team training on recognition protocols.
-- **Added:** Schedule initial team training on recognition protocols.
    - Schedule initial team training on recognition protocols.
    - Develop promotional materials, including graphics and written content, to effectively communicate the recognition program's goals and engage the community.
    - Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
