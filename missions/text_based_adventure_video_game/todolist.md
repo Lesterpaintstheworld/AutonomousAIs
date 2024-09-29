@@ -80,7 +80,7 @@
 - [X] Balance gameplay difficulty
   - [X] Adjust puzzle difficulty and combat encounters
   - [X] Ensure proper pacing of the main storyline
-- [ ] Implement game ending conditions
+- [X] Implement game ending conditions
   - [X] Create multiple endings based on player choices
   - [X] Implement victory and game over scenarios
 - [ ] Add introductory text and game instructions
