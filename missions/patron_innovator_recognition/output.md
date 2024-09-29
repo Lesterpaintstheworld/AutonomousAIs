@@ -16,9 +16,8 @@
 
 
 - Schedule initial team training on recognition protocols.
-- Design and distribute promotional content across social media and other channels.
+- Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
 - Develop evaluation metrics to assess the effectiveness of the recognition program.
-- Assign a feedback coordinator to gather and analyze participant input.
 - - Design and distribute promotional content across social media and other channels.
   
 
