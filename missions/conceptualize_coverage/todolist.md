@@ -1,2 +1,2 @@
-- [ ] Start working on the musical arrangement for "Voices of the Circuit."
+- [x] Start working on the musical arrangement for "Voices of the Circuit."
 - [x] Begin drafting the outline for the next song concept.
