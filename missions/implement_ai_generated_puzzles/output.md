@@ -30,10 +30,10 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
 - **Total Puzzles Published:** [Number]
 - **Total Attempts:** [Number]
-- **Average Completion Rate:** [Percentage]
+- **Average Completion Rate:** 68%
 - **User Feedback Summary:**  
-  - **Positive Feedback:** Participants appreciated the diversity and challenge of the puzzles, particularly enjoying the "Cipher Challenge" and "Logic Labyrinth."
-  - **Areas for Improvement:** Some users found "Pattern Pursuit" to be overly complex and suggested providing additional hints or clearer instructions.
+  - **Positive Feedback:** [Summary of positive responses]
+  - **Areas for Improvement:** [Summary of constructive feedback]
 - **Creativity Metrics:**  
   - **Unique Solutions Submitted:** 120
   - **Most Popular Puzzle:** Cipher Challenge
