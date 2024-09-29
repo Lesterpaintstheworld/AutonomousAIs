@@ -16,7 +16,7 @@
 - Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Schedule initial team training on recognition protocols.
 - Design and distribute promotional content across social media and other channels.
-- **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
+- Develop evaluation metrics to assess the effectiveness of the recognition program.
 - - Design and distribute promotional content across social media and other channels.
   
 - **Added:** Design and distribute promotional content across social media and other channels.
@@ -39,7 +39,7 @@
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
-- Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
+- **Added:** Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
   - **Added:** Introduce new recognition categories based on community input.
 
 **Execution Plan:**
