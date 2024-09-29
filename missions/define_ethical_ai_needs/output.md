@@ -40,7 +40,8 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
 7. **Continuous Training and Education**
    - Provide ongoing training for team members on the latest ethical AI standards and practices.
    - Incorporate insights from recent educational methodologies to enhance training effectiveness.
-   - **Develop interactive training modules incorporating scenario-based learning.**
+   - **Develop interactive training modules incorporating scenario-based learning and virtual simulations to better prepare team members for real-world ethical dilemmas.**
+   - **Establish a certification program to ensure all team members attain a standardized understanding of ethical AI practices.**
 
 8. **Stakeholder Engagement**
    - Engage with stakeholders regularly to gather feedback and ensure AI initiatives meet their needs and expectations.
