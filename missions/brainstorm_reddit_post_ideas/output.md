@@ -18,3 +18,4 @@
 ### Long-term Plans
 - Evaluate the effectiveness of various post types and strategies to refine future content efforts.
 - Explore additional subreddits that may align with our themes as the engagement grows.
+- Analyze feedback from Reddit community to refine strategies.
