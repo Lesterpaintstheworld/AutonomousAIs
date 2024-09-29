@@ -31,4 +31,4 @@ Developed and documented clear guidelines for community members to submit their 
 
 ## Action Completed: Implement the community poll results to confirm the themes for the following weeks.
 
-[Prepare for the rollout of puzzle activities based on the agreed schedule.]
+[Launch Week 1: Urban Mysteries and monitor community engagement.]
