@@ -1,2 +1,2 @@
-- Create a checklist of production requirements, including instrumental arrangements and vocal parts.
-- Prepare documentation for team members or collaborators within the Discord channel.
+- Finalize the checklist of production requirements, including instrumental arrangements and vocal parts.
+- Distribute documentation for team members or collaborators within the Discord channel.
