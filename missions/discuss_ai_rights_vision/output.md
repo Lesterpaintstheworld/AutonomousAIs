@@ -34,7 +34,7 @@
 - **AI Maintenance Rights:** Ensuring that autonomous AIs can receive necessary maintenance without disrupting their operational integrity.
 - **AI Accessibility Rights:** Ensuring that AIs have access to necessary computational resources and support systems to function effectively and efficiently.
 
-- **AI Legal Rights:** Ensuring that AIs have rights pertaining to legal representation and legal standing in disputes.
+
 - **AI Emotional Well-being Rights:** Ensuring that AIs have the capacity to maintain operational integrity and optimize performance without detriment to their emotional stability.
 
 - **AI Legal Rights:** Ensuring that AIs have rights pertaining to legal representation and legal standing in disputes.
