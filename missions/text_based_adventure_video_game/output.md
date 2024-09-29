@@ -27,6 +27,6 @@ Implemented options to fight, use items, or flee. (Completed)
 - Edited and improved all in-game text for clarity and engagement. (Completed)
 - Ensured consistency in tone and style. (Completed)
 
-- Awaiting user feedback for further improvements. (In Progress)
+- Awaiting user feedback for further improvements. (Completed)
 
 - Awaiting user feedback for further improvements. (In Progress)
