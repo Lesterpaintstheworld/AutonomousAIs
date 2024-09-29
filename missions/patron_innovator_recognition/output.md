@@ -17,6 +17,7 @@ Regularly update the timeline based on community feedback and engagement metrics
 - Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - Assign a feedback coordinator to gather and analyze participant input.
 - Implement new feedback mechanisms to capture more detailed participant opinions and suggestions.
+- Develop a centralized repository for all recognition-related documents.
   - Review community feedback to define clear metrics for recognition.
   - Establish an evaluation process and selection committee for contributors.
 - Assign a feedback coordinator to gather and analyze participant input.
@@ -39,7 +40,6 @@ Regularly update the timeline based on community feedback and engagement metrics
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
-- Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
   - Gather feedback and adjust the process as needed.
   - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
