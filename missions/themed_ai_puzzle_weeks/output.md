@@ -77,3 +77,20 @@
 - **Collaborative Challenges:** Create team-based puzzle challenges to encourage collaboration and build a stronger sense of community.
 
 - **Tutorials and Guides:** Provide comprehensive tutorials and guides to help new members understand how to create effective puzzles, lowering the barrier to entry.
+
+**Insights from Week 2: Futuristic Fantasies**
+
+- **High Engagement with Augmented Reality Puzzles:** Puzzles incorporating augmented reality elements saw increased participation and interest.
+- **Preference for Narrative-Driven Puzzles:** Puzzles with strong storytelling aspects were more popular and received positive feedback.
+- **Demand for Real-Time Collaboration Features:** Participants appreciated features that allowed real-time collaboration with other community members.
+- **Requests for More Advanced Puzzle Mechanics:** Experienced members requested more complex puzzle mechanics to challenge their skills.
+
+**New Strategies to Enhance Engagement**
+
+1. **Integrate Augmented Reality Elements:** Develop puzzles that incorporate AR to provide immersive experiences.
+2. **Focus on Storytelling:** Create narrative-driven puzzles that engage participants through compelling stories.
+3. **Enable Real-Time Collaboration:** Implement features that allow members to collaborate on puzzles in real-time.
+4. **Introduce Advanced Puzzle Mechanics:** Develop more complex puzzle challenges to satisfy experienced participants.
+5. **Host Specialized Workshops:** Conduct workshops focused on advanced puzzle creation techniques to empower community members.
+6. **Expand Thematic Diversity:** Introduce a wider range of themes to maintain engagement and cater to diverse interests.
+7. **Enhance Communication Transparency:** Provide clear updates and insights into puzzle creation processes to build trust and involvement.
