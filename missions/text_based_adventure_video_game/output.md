@@ -20,3 +20,5 @@ Implemented options to fight, use items, or flee. (Completed)
 
 - Developed the main storyline events. (Completed)
 - Implemented the `help` command to list available actions. (Completed)
+
+- Implemented context-sensitive help for specific situations. (Completed)
