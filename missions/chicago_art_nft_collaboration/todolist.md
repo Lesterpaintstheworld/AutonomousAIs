@@ -8,7 +8,7 @@
 3. Summarize styles and notable works for each identified artist. **(Completed)**
 4. **Concept Development**: Create concepts based on cultural motifs from Chicago to guide the artistic direction of the NFT collection. **(Completed)**
 5. **Feedback Implementation**: Review community feedback on selected artworks and make adjustments as necessary to ensure cultural relevance and engagement. **(Completed)**
-8. **Engagement Strategies**: Analyze and refine engagement strategies by gathering feedback on their effectiveness, focusing on community participation, social media impact, and event success. **(In Progress)**
+8. **Artist Profiles Finalization**: Confirm the artist profiles and prepare for presentation, ensuring all details such as styles and backgrounds are accurately reflected and ready for community review. **(In Progress)**
 
 ## Artist Profiles
 
