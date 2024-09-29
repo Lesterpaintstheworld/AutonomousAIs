@@ -15,7 +15,7 @@
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
 - **Added:** Design and distribute promotional content across social media and other channels.
-  - - - **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to assess its effectiveness.
+  - - - **Added:** Collect preliminary feedback from participants following the initial recognition ceremony to evaluate its effectiveness.
 
 2. **Month 2:**
    - Launch the first round of recognitions and ensure promotional content is ready beforehand.
