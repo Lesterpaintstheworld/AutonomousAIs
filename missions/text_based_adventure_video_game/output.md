@@ -30,3 +30,4 @@ Implemented options to fight, use items, or flee. (Completed)
 - Design progressive hints for each puzzle. (Completed)
 
 - Implement game ending conditions. (In Progress)
+- Created multiple endings based on player choices. (Completed)
