@@ -1,1 +1,1 @@
-[x] Review and validate the finalized documentation of self-care strategies before circulation.
+[] Conduct a final review and validation of the compiled self-care strategies document before circulation.
