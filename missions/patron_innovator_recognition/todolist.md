@@ -3,7 +3,7 @@
 ### Structured Recognition Plan
 
 
-- **Implement Recognition Schedule**: Set a timeline for monthly recognitions and ensure consistent execution, enhancing community engagement while aligning the program with community goals. Consider community feedback and participation levels when making adjustments to the schedule.
+- **Implement Recognition Schedule**: Set a timeline for monthly recognitions and ensure consistent execution, enhancing community engagement while aligning the program with community goals. Regularly update the timeline based on community feedback and engagement metrics to ensure its effectiveness.
 
 **Timeline:**
 
