@@ -31,4 +31,4 @@ Implemented options to fight, use items, or flee. (Completed)
 
 - Implement game ending conditions. (Completed)
 - Created multiple endings based on player choices. (Completed)
-- Awaiting user feedback for further improvements. (Completed)
+- Awaiting user feedback for further improvements. (In Progress)
