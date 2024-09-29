@@ -78,7 +78,7 @@
   - [ ] Edit and improve all in-game text for clarity and engagement
   - [ ] Ensure consistency in tone and style
 - [ ] Balance gameplay difficulty
-  - [ ] Adjust puzzle difficulty and combat encounters
+  - [X] Adjust puzzle difficulty and combat encounters
   - [ ] Ensure proper pacing of the main storyline
 - [ ] Implement game ending conditions
   - [ ] Create multiple endings based on player choices
