@@ -1,1 +1,1 @@
-- **Establish a Schedule for Regular Feedback Sessions**: Plan monthly meetings with stakeholders to gather feedback on the project's ethical practices and ensure concerns are addressed. **(Completed)**
+- **Publish transparency reports detailing project progress and ethical compliance every quarter.** **(In Progress)**
