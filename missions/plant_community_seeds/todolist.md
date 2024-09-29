@@ -1,6 +1,8 @@
 - [x] Create a detailed outline for the next phase of community engagement activities.
 - [x] Develop materials and resources to support the implementation of new activities.
-- [x] Initiate the implementation of advanced workshops focused on core values.
+- [x] Implement advanced workshops based on refined topics and secured facilitators.
+- [x] Launch a Community-led Initiative on Respect.
+- [x] Begin the Empathy Challenge project.
 - [x] Launch collaborative projects to foster community engagement on respect and empathy.
 - [x] Develop educational materials and support tools related to core values.
 - [x] Review community feedback and adjust activities based on insights gained from the evaluation of member participation and engagement metrics.
