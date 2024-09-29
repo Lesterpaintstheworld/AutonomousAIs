@@ -85,7 +85,7 @@
   - [ ] Implement victory and game over scenarios
 - [ ] Add introductory text and game instructions
   - [ ] Write an engaging introduction to the game world
-  - [ ] Create a tutorial or starter area for new players
+  - [X] Create a tutorial or starter area for new players
 
 ## 7. Testing and Debugging
 - [ ] Perform thorough playtesting
