@@ -23,7 +23,7 @@
    - Collect feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact, making necessary adjustments based on the insights gathered.
 
 - **Month 3 and onwards:**
-  - Conduct monthly recognitions.
+  - **Added:** Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
   - Gather feedback and adjust the process as needed.
   - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
@@ -34,7 +34,7 @@
    - Define key dates for nominations, voting, and award announcements each month.
    
 2. **Assign Responsibilities:**
-   - **Added:** Assign a feedback coordinator to gather and analyze participant input.
+   - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
    - **Added:** Assign a feedback coordinator to gather and analyze participant input.
    
 3. **Implement Reminders:**
