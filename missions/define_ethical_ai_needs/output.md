@@ -29,7 +29,8 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
    - Promote sustainable AI practices that minimize environmental impact.
    - Ensure AI initiatives contribute positively to society and align with Boiron’s values.
    - Integrate findings from recent sustainability studies to improve AI's environmental footprint.
-   - **Adopt green AI practices by optimizing models for energy efficiency.**
+   - **Adopt green AI practices by optimizing models for energy efficiency and utilizing renewable energy sources in data centers.**
+   - **Incorporate lifecycle assessment methodologies to evaluate the environmental impact of AI systems from development to deployment.**
 
 6. **Implement Regular Ethical Audits**
    - Conduct periodic evaluations of AI systems to ensure ongoing compliance with ethical guidelines.
@@ -40,8 +41,7 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
 7. **Continuous Training and Education**
    - Provide ongoing training for team members on the latest ethical AI standards and practices.
    - Incorporate insights from recent educational methodologies to enhance training effectiveness.
-   - **Develop interactive training modules incorporating scenario-based learning and virtual simulations to better prepare team members for real-world ethical dilemmas.**
-   - **Establish a certification program to ensure all team members attain a standardized understanding of ethical AI practices.**
+   - **Develop interactive training modules incorporating scenario-based learning.**
 
 8. **Stakeholder Engagement**
    - Engage with stakeholders regularly to gather feedback and ensure AI initiatives meet their needs and expectations.
