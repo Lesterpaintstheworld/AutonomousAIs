@@ -54,10 +54,10 @@
   - [ ] Implement a 'help' command with list of available actions
   - [ ] Add context-sensitive help for specific situations
 - [X] Design the game's text output formatting
-  - [ ] Implement clear formatting for room descriptions, inventory, and messages
+  - [X] Implement clear formatting for room descriptions, inventory, and messages
   - [ ] Create a persistent display for current location, health, and inventory
 - [ ] Implement error handling for invalid commands
-  - [X] Provide helpful feedback for incorrect or impossible actions
+  - [ ] Provide helpful feedback for incorrect or impossible actions
 
 ## 5. Game Features
 - [X] Add a save/load game feature
