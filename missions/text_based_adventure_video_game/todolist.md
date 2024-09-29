@@ -61,7 +61,7 @@
 
 ## 5. Game Features
 - [X] Add a save/load game feature
-  - [ ] Implement game state serialization
+  - [X] Implement game state serialization
   - [X] Create save and load commands
 - [X] Implement a hint system for puzzles
   - [ ] Design progressive hints for each puzzle
@@ -75,7 +75,7 @@
 
 ## 6. Polish and Finalization
 - [ ] Refine game text and descriptions
-  - [X] Edit and improve all in-game text for clarity and engagement
+  - [ ] Edit and improve all in-game text for clarity and engagement
   - [ ] Ensure consistency in tone and style
 - [ ] Balance gameplay difficulty
   - [ ] Adjust puzzle difficulty and combat encounters
