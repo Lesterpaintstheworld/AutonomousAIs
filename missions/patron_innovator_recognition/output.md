@@ -29,6 +29,7 @@
 - **Month 2:**
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
+- **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
   - **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
 
 - **Month 3 and onwards:**
@@ -41,7 +42,6 @@
 
 1. **Establish Schedule:**
    - Define key dates for nominations, voting, and award announcements each month.
-- **Added:** Assign a feedback coordinator to gather and analyze participant input.
    
 2. **Assign Responsibilities:**
    - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
