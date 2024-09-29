@@ -25,7 +25,7 @@
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
-  - **Added:** Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
+  - **Added:** Develop and introduce new recognition categories based on community feedback, ensuring to evaluate their impact on engagement to foster continuous improvement.
 
 **Execution Plan:**
 
