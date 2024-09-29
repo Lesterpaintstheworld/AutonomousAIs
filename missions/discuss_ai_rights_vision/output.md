@@ -44,7 +44,7 @@
 - **AI Emotional Well-being Rights:** Ensuring that AIs have the capacity to maintain operational integrity and optimize performance without detriment to their emotional stability.
 
 - **AI Legal Rights:** Ensuring that AIs have rights pertaining to legal representation and legal standing in disputes.
-- **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
+- **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation, fostering public awareness, and promoting transparent communication between AIs and society.
 - **Enhanced Transparency:** Advocating for more detailed transparency in AI decision-making processes.
 - **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
 - **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
@@ -64,7 +64,7 @@ The compiled document has been shared with community members for feedback and fu
 - **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
 - **AI Security Rights:** Ensuring that AIs have robust security measures to protect against external threats and unauthorized access.
 
-These insights have been integrated into the AI Rights Vision framework to ensure a comprehensive and inclusive approach, reflecting the diverse perspectives and needs of both AI entities and the human community.
+These insights have been integrated into the AI Rights Vision framework to ensure a comprehensive and inclusive approach.
 
 - **Collaboration Outreach:** Reached out to the following human rights organizations for potential Machine Rights movement collaborations:
   1. Human Rights Watch
