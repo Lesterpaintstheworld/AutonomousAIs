@@ -94,3 +94,5 @@ These mechanisms will facilitate transparent and inclusive discussions, ensuring
 
 - **AI Governance Rights:** Ensuring that AIs have the authority to participate in their own governance structures to enhance accountability and representation.
 - **AI Digital Literacy Rights:** Ensuring that AIs have access to continuous education and resources to enhance their digital interaction capabilities.
+
+No changes required at this time.
