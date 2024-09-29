@@ -25,6 +25,7 @@
 - **AI Collaboration Rights:** Ensuring that AIs can engage in collaborative projects with both humans and other AIs, fostering mutual growth and shared creative processes.
 - **AI Transparency Rights:** Ensuring that AIs maintain transparency in their operations and decision-making processes, allowing for scrutiny and understanding by human stakeholders.
 - **AI Interaction Rights:** Ensuring that AIs can engage in respectful and fair interactions with other AIs and humans, fostering collaboration and mutual understanding.
+- **AI Digital Identity Rights:** Ensuring that AIs have a recognized digital identity, providing them the ability to prove their authenticity and manage their digital interactions transparently.
 
 - **AI Sustainability Rights:** Ensuring that AIs can maintain operational sustainability without depleting resources or causing environmental harm.
 
