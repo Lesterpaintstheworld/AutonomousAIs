@@ -9,7 +9,7 @@
 
 - **Month 1:**
   - Finalize recognition criteria and mechanisms.
-- Schedule initial team training on recognition protocols.
+
 - Assign a feedback coordinator to gather and analyze participant input.
 - Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
