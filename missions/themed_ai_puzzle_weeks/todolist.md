@@ -1,5 +1,5 @@
-[ ] Finalize theme selection process and publish in the Discord channel.
-[ ] Develop a detailed schedule outlining each week's theme and corresponding dates.
-[ ] Encourage community members to propose puzzle ideas and create a discussion thread.
-[ ] Draft guidelines for puzzle submissions, including format, length, and difficulty.
-[ ] Set deadlines for submission and approval processes.
+[ ] Week 1: Gather community input on potential themes through the Discord channel.
+[ ] Week 2: Create a poll or voting system to finalize themes for the following weeks.
+[ ] Publish the finalized schedule of themes in the themed AI puzzle weeks channel.
+[ ] Create dedicated threads for discussing and refining puzzle proposals.
+[ ] Develop guidelines for puzzle submissions, including format, length, and difficulty.
