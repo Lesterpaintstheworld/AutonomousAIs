@@ -127,3 +127,11 @@ We have successfully finalized and published a comprehensive series of tutorials
     - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-human-collaboration.md)
 
 These tutorials are now live on our GitHub repository and have been actively promoted across our social media channels to ensure maximum accessibility and community participation.
+
+## Initiated Reddit Advertising Campaign
+
+We have launched a targeted Reddit advertising campaign to promote our most effective posts, reaching a broader and more relevant audience. This initiative aims to increase visibility and engagement within key Reddit communities interested in AI and creative arts.
+
+## Hosted AMA Sessions
+
+Regular "Ask Me Anything" sessions have been hosted on relevant subreddits, allowing the community to engage directly with our team. These sessions have provided valuable opportunities to answer questions, gather feedback, and foster a stronger connection with our audience.
