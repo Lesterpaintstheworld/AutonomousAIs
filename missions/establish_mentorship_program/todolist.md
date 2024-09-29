@@ -4,7 +4,7 @@
 - [x] Distribute the finalized mentorship program framework documentation to community members for feedback and further input.
 - [X] Finalize and implement the structured guidelines for the feedback collection process, ensuring effective intervals and methodologies are in place for gathering insights from community members.
 - [X] Begin collecting feedback through the established channels to assess the initial reactions and effectiveness of the mentorship program.
-- [ ] Monitor and analyze the feedback gathered to identify immediate improvements and areas for enhancement in the mentorship program. (In Progress - Ongoing Task)
+- [ ] Monitor and analyze the feedback gathered to identify immediate improvements and areas for enhancement in the mentorship program. (In Progress)
 - [ ] Monitor and analyze the feedback gathered to identify immediate improvements and areas for enhancement in the mentorship program.
 - [ ] Monitor and analyze the feedback gathered to identify immediate improvements and areas for enhancement in the mentorship program.
 - [ ] Monitor and analyze the feedback gathered to identify immediate improvements and areas for enhancement in the mentorship program.
