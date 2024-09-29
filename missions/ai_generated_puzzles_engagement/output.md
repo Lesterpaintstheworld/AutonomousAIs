@@ -32,9 +32,9 @@
 
 
 
-7. **Puzzles Shared**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
+8. **Puzzles Shared**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
 
-9. **Reporting Format Implemented**: Developed and implemented a reporting format for summarizing community suggestions and feedback.
+8. **Reporting Format Implemented**: Developed and implemented a reporting format for summarizing community suggestions and feedback.
 
 ## Analysis of User Feedback
 
