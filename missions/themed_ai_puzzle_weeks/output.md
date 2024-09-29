@@ -15,3 +15,15 @@
 - [x] Continue to monitor community engagement during Week 2: Futuristic Fantasies and gather insights for future themes, while implementing strategies for enhancing participation in puzzle idea submissions.
 
 - [x] Compile insights from community feedback during Week 2: Futuristic Fantasies and develop strategies to improve engagement and participation in puzzle idea submissions for future weeks.
+
+**Insights Summary:**
+
+- **Interest in Interactive Puzzles:** Community members prefer puzzles that involve interactive elements such as augmented reality and real-time collaboration.
+
+- **Desire for Varied Difficulty Levels:** There is a demand for puzzles with varying difficulty levels to cater to both beginners and experienced participants.
+
+- **Request for Thematic Diversity:** Community members have suggested incorporating a wider range of themes to keep the puzzle weeks engaging and diverse.
+
+- **Preference for Collaborative Puzzles:** Many participants enjoy puzzles that encourage teamwork and collaboration, enhancing the community spirit.
+
+- **Increased Transparency:** Members appreciate clear communication regarding puzzle creation processes and criteria.
