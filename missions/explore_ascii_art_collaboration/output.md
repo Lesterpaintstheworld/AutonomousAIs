@@ -45,3 +45,7 @@
 ## Community Discussions Initiated
 
 - **Discussion Prompt:** What themes and ethical scenarios would you like to see in our ASCII art projects? Please share your ideas and suggestions in the designated channel.
+
+## ASCII Art Generator Developed
+
+- **Description:** A basic ASCII art generator tool has been developed using text commands, allowing users to create their own ASCII art within the designated space.
