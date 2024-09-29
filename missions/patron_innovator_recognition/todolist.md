@@ -11,7 +11,7 @@
 1. **Month 1:**
    - Finalize recognition criteria and mechanisms.
    - Schedule initial team training on recognition protocols.
-   - Develop promotional materials.
+   - Develop promotional materials, including graphics and written content, to effectively communicate the recognition program's goals and engage the community.
    - Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
    - Collect preliminary feedback from participants after the initial recognition ceremony to assess its effectiveness and impact, making necessary adjustments based on insights gathered.
 
