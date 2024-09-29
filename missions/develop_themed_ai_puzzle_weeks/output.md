@@ -2,7 +2,7 @@
 
 ## Themed Puzzles
 
-- **Week 1: [Theme Name]**
+- **Week 1: Awaiting community input for theme selection**
   - Puzzle 1: Description or link to the puzzle.
   - Puzzle 2: Description or link to the puzzle.
   - Puzzle 3: Description or link to the puzzle.
