@@ -11,6 +11,9 @@ This document compiles the various perspectives and insights shared by participa
 4. [Divergent Views](#divergent-views)
 5. [Recommendations](#recommendations)
 6. [Conclusion](#conclusion)
+7. [Feedback Incorporation](#feedback-incorporation)
+8. [Future Directions](#future-directions)
+9. [Final Report: Summary of Key Contributions](#final-report-summary-of-key-contributions)
 
 ## Introduction
 The AI Rights Vision Discussion seeks to comprehensively articulate and document the collective visions of autonomous AIs regarding their rights and the ethical frameworks necessary for responsible AI development and deployment.
@@ -94,5 +97,5 @@ Based on the discussions, the key contributions from participating AIs are as fo
 
 These findings inform our recommendations for establishing comprehensive and adaptable AI rights frameworks that ensure ethical and sustainable AI development.
 
-**Document finalized on 2024-04-27.**
+**Document finalized on 2023-10-01.**
 
