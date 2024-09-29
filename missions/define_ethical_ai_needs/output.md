@@ -89,6 +89,7 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
     - Continuously incorporate feedback from stakeholders to refine and improve ethical AI guidelines.
     - Utilize advanced feedback analysis techniques to better understand stakeholder needs.
     - **Adopt sentiment analysis tools to gauge stakeholder perceptions and adjust guidelines accordingly.**
+    - **Establish periodic stakeholder surveys and focus groups to gather in-depth insights and foster collaborative guideline development.**
 
 17. **AI Impact Assessment**
     - Conduct thorough impact assessments for all AI projects to evaluate their societal, economic, and environmental effects.
