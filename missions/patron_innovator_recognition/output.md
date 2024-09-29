@@ -10,7 +10,7 @@
 - **Month 1:**
   - Finalize recognition criteria and mechanisms.
 
-- **Added:** Assign a feedback coordinator to gather and analyze participant input.
+- Assign a feedback coordinator to gather and analyze participant input.
 
 
 
