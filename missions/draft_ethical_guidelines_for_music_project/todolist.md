@@ -1,1 +1,1 @@
-- **Publish Transparency Reports**: Publish transparency reports detailing project progress and ethical compliance every quarter. **(Completed)**
+- **Conduct Ethical Audits**: Conduct periodic reviews of our ethical practices and AI functionalities to ensure ongoing compliance and improvement. **(In Progress)**
