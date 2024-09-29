@@ -56,7 +56,7 @@
 5. **Definition of Done**
    - A comprehensive requirements document is created, reviewed, shared for validation in the Discord channel, and ready for implementation in the Boiron project.
 
-- **Requirements Document Refined:** The requirements document has been compiled and refined based on community feedback and is ready for implementation.
+- **Requirements Document Further Refined:** The requirements document has been thoroughly compiled and refined based on additional community feedback, ensuring comprehensive alignment with project objectives and enhanced inclusivity.
 
 
 - **Document Shared for Validation:** The refined requirements document has been shared in the Discord channel for community validation.
