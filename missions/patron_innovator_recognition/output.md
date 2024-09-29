@@ -10,7 +10,7 @@
 - **Month 1:**
   - Finalize recognition criteria and mechanisms.
 - Schedule initial team training on recognition protocols.
-- **Added:** Schedule initial team training on recognition protocols.
+- Schedule initial team training on recognition protocols.
 
 - Assign a feedback coordinator to gather and analyze participant input.
 - Assign a feedback coordinator to gather and analyze participant input.
@@ -19,7 +19,7 @@
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - - Design and distribute promotional content across social media and other channels.
   
-- Design and distribute promotional content across social media and other channels.
+- **Added:** Design and distribute promotional content across social media and other channels.
 
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - Schedule initial team training on recognition protocols.
