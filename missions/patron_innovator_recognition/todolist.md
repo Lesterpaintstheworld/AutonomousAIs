@@ -29,7 +29,7 @@
 - Develop evaluation metrics to assess the effectiveness of the recognition program.
 
 **Added:** Schedule initial team training on recognition protocols.
-  - Create promotional materials, such as graphics and written content, to clearly communicate the goals of the recognition program and engage the community.
+  - Develop promotional materials, including graphics and written content, to effectively communicate the recognition program's goals and engage the community.
 - **Added:** Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
