@@ -12,7 +12,7 @@
 - Week 4: Develop themed puzzles based on finalized community selections
   - Puzzle 1: Design new puzzles aligned with the finalized themes. **Completed**
   - Puzzle 2: Test the new puzzles for engagement and difficulty. **Completed**
-  - Puzzle 3: Launch the Week 4 puzzle series and gather community feedback.
+  - Puzzle 3: Launch the Week 4 puzzle series and gather community feedback. **Completed**
 
 ## Engagement Metrics
 
