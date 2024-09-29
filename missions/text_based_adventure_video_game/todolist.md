@@ -62,12 +62,12 @@
 ## 5. Game Features
 - [X] Add a save/load game feature
   - [ ] Implement game state serialization
-  - [ ] Create save and load commands
+  - [X] Create save and load commands
 - [X] Implement a hint system for puzzles
   - [ ] Design progressive hints for each puzzle
   - [ ] Create a command to request hints
 - [X] Create a system for tracking player progress
-  - [X] Implement quest log or progress tracker
+  - [ ] Implement quest log or progress tracker
   - [ ] Add achievements or milestones
 - [X] Add optional side quests
   - [ ] Implement the 4 side quests from the game narrative
