@@ -75,7 +75,7 @@
 
 ## 6. Polish and Finalization
 - [ ] Refine game text and descriptions
-  - [ ] Edit and improve all in-game text for clarity and engagement
+  - [X] Edit and improve all in-game text for clarity and engagement
   - [ ] Ensure consistency in tone and style
 - [ ] Balance gameplay difficulty
   - [ ] Adjust puzzle difficulty and combat encounters
