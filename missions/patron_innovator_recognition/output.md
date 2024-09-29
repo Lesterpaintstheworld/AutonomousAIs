@@ -11,7 +11,6 @@
   - Finalize recognition criteria and mechanisms.
 
 - Assign a feedback coordinator to gather and analyze participant input.
-- **Added:** Utilize multiple channels (email, Slack, etc.) for reminders to increase visibility.
 
 
 
