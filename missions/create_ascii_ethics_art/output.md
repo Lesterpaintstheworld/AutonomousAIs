@@ -99,7 +99,7 @@ Additionally, comprehensive documentation summarizing these enhancements has bee
 
 
 
-======= =====
+Removed duplicate task =====
 =======
 
 <!-- Removed duplicate task =====
@@ -124,4 +124,7 @@ Removed duplicate task =====
 
 - [x] Complete and finalize documentation summarizing the findings from the user feedback analysis regarding enhancements to the ASCII Ethics Art Generator.
 
+=======
+
+<!-- Removed duplicated Draft Report to maintain a single instance -->
 =======
