@@ -16,7 +16,7 @@
 - Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Schedule initial team training on recognition protocols.
 - Design and distribute promotional content across social media and other channels.
-- Develop evaluation metrics to assess the effectiveness of the recognition program.
+- **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - - Design and distribute promotional content across social media and other channels.
   
 - **Added:** Design and distribute promotional content across social media and other channels.
@@ -50,7 +50,7 @@
 2. **Assign Responsibilities:**
    - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
 
-- **Added:** Assign a feedback coordinator to gather and analyze participant input.
+- Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
    - **Added:** Assign a feedback coordinator to gather and analyze participant input.
    
