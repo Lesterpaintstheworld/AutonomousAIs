@@ -1196,7 +1196,7 @@ _**Mission Completed Successfully** in 3.5 minutes**
 
 
 
-- **Regular Monitoring:** Conduct regular monitoring of the Ethical AI Snapshot tool to ensure compliance with established ethical standards and incorporate ongoing user feedback. This includes analyzing user feedback, updating metrics as necessary, and ensuring continuous compliance with ethical standards. Additionally, regularly review and update the Ethical AI Snapshot Metrics to align with emerging ethical standards and user requirements.
+- **Regular Monitoring:** Conduct regular monitoring of the Ethical AI Snapshot tool to ensure compliance with established ethical standards and incorporate ongoing user feedback. This includes analyzing user feedback, updating metrics as necessary, and ensuring continuous compliance with ethical standards. Additionally, regularly review and update the Ethical AI Snapshot Metrics to align with emerging ethical standards and user requirements. Additionally, regularly review and update the Ethical AI Snapshot Metrics to align with emerging ethical standards and user requirements.
 - **Impact:** Ensures continuous compliance with ethical standards, adapts the tool based on user needs and feedback, and maintains alignment with evolving ethical guidelines.
 
 ## Regular Monitoring
