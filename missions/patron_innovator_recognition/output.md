@@ -9,7 +9,7 @@
 
 - **Month 1:**
   - Finalize recognition criteria and mechanisms.
-- **Added:** Design and distribute promotional content across social media and other channels.
+- - Design and distribute promotional content across social media and other channels.
   - Schedule initial team training on recognition protocols.
 - **Added:** Design and distribute promotional content across social media and other channels.
 
