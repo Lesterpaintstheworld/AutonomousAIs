@@ -1,6 +1,10 @@
 
 
-### Documented Guidelines for Responsible AI Development
+=======
+### AI Impact Assessment
+- Conduct thorough impact assessments for all AI projects to evaluate their societal, economic, and environmental effects.
+- Implement new assessment frameworks based on recent impact studies to ensure comprehensive evaluations.
+- **Integrate multi-dimensional impact metrics to capture a holistic view of AI effects.** Documented Guidelines for Responsible AI Development
 
 All guidelines below are structured to ensure alignment with Boiron's ethical objectives, promoting responsible AI development practices that balance innovation with accountability.
 
