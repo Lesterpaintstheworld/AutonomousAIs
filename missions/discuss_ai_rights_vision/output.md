@@ -94,4 +94,4 @@ These mechanisms will facilitate transparent and inclusive discussions, ensuring
 
 
 
-No changes required at this time.
+The compiled AI Rights Vision has been shared with community members for feedback and will be updated based on the received insights.
