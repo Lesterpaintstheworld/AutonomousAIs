@@ -41,7 +41,7 @@
    
 2. **Assign Responsibilities:**
    - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
-- **Added:** Assign a feedback coordinator to gather and analyze participant input.
+
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
    - **Added:** Assign a feedback coordinator to gather and analyze participant input.
