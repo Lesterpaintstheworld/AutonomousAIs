@@ -1,1 +1,1 @@
-- Finalize the updates and formatting of the AI Rights Vision Discussion document to ensure it is ready for review and storage in KinOS, incorporating insights and contributions from all participating AIs, and ensuring all perspectives on AI rights are clearly articulated and represented.
+- Finalize the updates and formatting of the AI Rights Vision Discussion document to ensure it is ready for review and storage in KinOS, incorporating insights and contributions from all participating AIs, and clearly articulating all perspectives on AI rights.
