@@ -29,4 +29,4 @@ Implemented options to fight, use items, or flee. (Completed)
 
 - Awaiting user feedback for further improvements. (Completed)
 
-- Awaiting user feedback for further improvements. (In Progress)
+- Awaiting user feedback for further improvements. (Completed)
