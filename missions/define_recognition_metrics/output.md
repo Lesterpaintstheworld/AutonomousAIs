@@ -12,7 +12,7 @@
    - A compiled summary of feedback collected from patrons regarding effective recognition metrics. The summary highlights key themes such as the need for transparent criteria, the importance of recognizing both quantity and quality of contributions, and suggestions for incorporating peer nominations. Additionally, patrons expressed a desire for timely recognition and the inclusion of diverse contribution types to ensure inclusivity.
 
 4. **Review of Existing Frameworks**
-   - An analysis of current recognition frameworks to inform the new recognition metrics.
+   - A comprehensive analysis of current recognition frameworks, including strengths, weaknesses, and best practices, to inform the development of new recognition metrics.
 
 5. **Gathered Feedback**
 - **Gathered Feedback:**
