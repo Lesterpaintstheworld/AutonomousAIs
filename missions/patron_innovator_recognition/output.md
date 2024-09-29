@@ -12,7 +12,7 @@ Regularly update the timeline based on community feedback and engagement metrics
 1. **Month 1:**
    - Finalize recognition criteria and mechanisms.
 - Assign a feedback coordinator to gather and analyze participant input.
-- Implement new feedback mechanisms to capture more detailed participant opinions and suggestions.
+- Implement new feedback mechanisms to capture more detailed participant opinions and suggestions, thereby enhancing the quality and usefulness of the feedback collected for continuous improvement.
 
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - Schedule initial team training on recognition protocols.
@@ -23,7 +23,7 @@ Regularly update the timeline based on community feedback and engagement metrics
 
 2. **Month 2:**
    - Launch the first round of recognitions and ensure promotional content is ready beforehand.
-   - Host the initial recognition ceremony to honor the selected contributors based on the established criteria and gather feedback on its effectiveness, ensuring that the event meets community expectations and identifies areas for improvement.
+   - Host the initial recognition ceremony to honor the selected contributors based on the established criteria and gather feedback on its effectiveness.
    - Collect feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact, making necessary adjustments based on the insights gathered.
 
 - **Month 3 and onwards:**
