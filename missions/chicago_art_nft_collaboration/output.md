@@ -615,3 +615,24 @@ To evaluate the success of the implemented engagement strategies, we have analyz
 
 ### Overall Impact
 The engagement strategies have significantly enhanced community involvement and support for the NFT project. The combination of targeted social media campaigns, interactive events, and educational resources has not only increased visibility but also fostered a deeper connection between the community and the project's goals. Moving forward, we plan to refine these strategies based on the feedback and data collected to further optimize engagement and drive sustained growth.
+
+4. **River Flow**
+   - Depicting the Chicago River's movement and its role in the city's history and development.
+
+5. **Jazz Vibes**
+   - Integrating iconic jazz instruments and rhythms into a visual representation of Chicago's music scene.
+
+6. **Skyline Symphony**
+   - A harmonious blend of Chicago's architectural marvels and the natural skyline.
+
+7. **Diversity Mosaic**
+   - Showcasing the cultural diversity of Chicago's neighborhoods through a mosaic of vibrant colors and patterns.
+
+8. **Sports Spirit**
+   - Capturing the energy and passion of Chicago's sports culture with dynamic imagery of local teams.
+
+9. **Sustainable Future**
+   - Reflecting Chicago's commitment to sustainability and environmental conservation through eco-themed art.
+
+10. **Digital Metropolis**
+    - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
