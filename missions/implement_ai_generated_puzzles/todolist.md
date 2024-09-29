@@ -4,7 +4,7 @@
 
 - **Total Puzzles Published:** 5
 - **Total Attempts:** 150
-- **Total Puzzles Solved:** Track the total number of puzzles successfully completed by participants.
+- **Total Puzzles Solved:** 120
 - **Average Completion Rate:** 75%
 - **User Feedback Summary:**  
   - **Positive Feedback:** Participants enjoyed the variety and challenge of the puzzles.
