@@ -5,4 +5,4 @@
 [x] Finalize and communicate the guidelines for puzzle submissions, including format, length, and difficulty requirements.
 
 - [x] Launch Week 1: Urban Mysteries
-- [ ] Monitor community engagement.
+- [ ] Monitor community engagement during Week 1: Urban Mysteries and gather feedback for future themes.
