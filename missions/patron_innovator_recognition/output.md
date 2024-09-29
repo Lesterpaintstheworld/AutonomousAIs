@@ -25,6 +25,7 @@
 
 - **Month 2:**
   - Launch the first round of recognitions.
+- **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
   - Host the initial recognition ceremony.
   - **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
 
