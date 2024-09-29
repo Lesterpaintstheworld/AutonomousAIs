@@ -5,7 +5,8 @@
 ### Introduction
 The Affective Computing Protocol (ACP) has been further refined following a comprehensive review of existing drafts and the identification of additional ethical guidelines. This enhancement ensures that emotional algorithms not only foster authentic human connections but also strictly adhere to ethical standards, promoting trust and integrity in AI-human interactions. This document now includes expanded ethical considerations and improved implementation strategies to better align with best practices in affective computing.
 
-## Project Overview
+## Project Overview (Updated)
+The Chicago Art NFT Collaboration project seeks to bridge the local art community with the digital NFT space by partnering with talented Chicago-based artists. This initiative aims to create a unique collection of NFTs that encapsulate the city's vibrant cultural essence, fostering both community engagement and sustainable revenue streams. By leveraging blockchain technology, the project will provide artists with new avenues for showcasing their work, ensuring authenticity, and expanding their reach to a global audience. Additionally, the collaboration will emphasize transparency, inclusivity, and the preservation of Chicago's rich artistic heritage, while exploring innovative ways to integrate traditional art forms with modern digital expressions.
 
 The ACP refinement project aims to integrate advanced affective computing techniques into AI systems to better understand and respond to human emotions. By emphasizing ethical standards and transparency, the project ensures that emotional algorithms not only enhance human-AI interactions but also maintain trust and integrity. The key objectives include improving emotion recognition accuracy, ensuring ethical data handling, and fostering genuine emotional connections between users and AI entities.
 
