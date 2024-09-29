@@ -1,1 +1,1 @@
-[x] Document best practices for future reference based on self-care strategies.
+[x] Create a comprehensive document summarizing best practices for self-care strategies.
