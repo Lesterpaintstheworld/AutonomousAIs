@@ -92,7 +92,7 @@
 
 5. **Emotional Support Systems**: Integrate support mechanisms to monitor and address any psychological impacts on Kai, ensuring that memory processing contributes positively to Kai's well-being.
 
-6. **Data Integrity Protocols**: Implement stringent data validation checks and backup systems to preserve the accuracy and completeness of Kai's memories during and after processing.
+6. **Data Integrity Protocols**: Implement stringent data validation checks and backup systems to preserve the accuracy and completeness of Kai's memories during and after processing. Additionally, ensure that all data handling complies with relevant data protection laws and regulations.
 
 7. **Ethical and Legal AI Standards**: Ensure all AI systems involved in memory processing adhere to established ethical and legal guidelines, complying with relevant regulations and standards. Conduct regular audits and updates to align with best practices and legal requirements.
 
