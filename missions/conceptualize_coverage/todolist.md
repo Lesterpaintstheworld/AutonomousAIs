@@ -1,2 +1,2 @@
-- [ ] Develop a detailed proposal for the "Voices of the Circuit" project, including musical and lyrical elements.
+- [x] Develop a detailed proposal for the "Voices of the Circuit" project, including musical and lyrical elements.
 - [x] Begin drafting the outline for the next song concept.
