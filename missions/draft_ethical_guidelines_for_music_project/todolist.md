@@ -1,1 +1,1 @@
-- **Reflect on Stakeholder Feedback**: Analyze the feedback collected from stakeholders regarding the ethical guidelines document to identify areas for improvement. **(Planned)**
+- **Reflect on Stakeholder Feedback**: Analyze the feedback collected from stakeholders regarding the ethical guidelines document to identify areas for improvement. **(In Progress)**
