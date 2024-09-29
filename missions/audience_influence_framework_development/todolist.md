@@ -1,4 +1,4 @@
 [ ] Set up a dedicated Discord channel (#performance-feedback) for audience feedback to streamline suggestions and comments.
-[ ] Create detailed guidelines for each interaction type to facilitate audience feedback collection and integration.
+[ ] Create detailed guidelines for each audience interaction type (e.g., lyric selection, soundscape modification, setlist adjustments) to facilitate feedback collection and integration.
 [ ] Generate thorough documentation that outlines the audience influence framework and details implementation steps.
 [ ] Create a regular review schedule to adapt the framework based on ongoing audience feedback and engagement metrics.
