@@ -64,3 +64,7 @@ This puzzle presents a complex maze filled with logical puzzles and riddles at v
 ### Puzzle 4: Cipher Challenge
 **Description:**  
 Cipher Challenge invites participants to crack various encryption codes using different cipher techniques. From Caesar shifts to more complex encryption methods, this puzzle tests the ability to recognize cipher types and apply appropriate decryption strategies. The ultimate objective is to decode the final message that ties all the ciphers together.
+
+### Puzzle 5: Riddle Rendezvous
+**Description:**  
+In Riddle Rendezvous, participants navigate through a series of interconnected riddles that weave together various themes gathered from community feedback. Each riddle solved provides a clue to the next, leading to a final culmination where all the clues are used to unlock the ultimate mystery. This puzzle emphasizes collaborative problem-solving and thematic integration, encouraging community members to engage deeply with the content.
