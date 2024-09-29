@@ -5,6 +5,5 @@
 
 [ ] Finalize the program design by integrating community feedback and best practices.
 [ ] Recruit participants by launching targeted outreach campaigns for mentors and mentees.
-[ ] Establish communication channels to facilitate efficient program operations.
 [ ] Develop detailed training modules for mentors and mentees to ensure clarity and consistency.
 [ ] Execute a pilot phase to test the program's effectiveness and gather feedback.
