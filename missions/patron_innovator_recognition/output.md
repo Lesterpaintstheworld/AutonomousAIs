@@ -27,8 +27,8 @@ Regularly update the timeline based on community feedback and engagement metrics
    - Collect feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact, making necessary adjustments based on the insights gathered.
 
 - **Month 3 and onwards:**
-  - Conduct monthly recognitions.
-  - Gather feedback and adjust the process as needed, promoting a flexible and responsive recognition program that evolves with community needs.
+  - Conduct monthly recognitions, ensuring a consistent and ongoing celebration of contributors while maintaining high standards of excellence.
+  - Gather feedback and adjust the process as needed.
   - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
 
