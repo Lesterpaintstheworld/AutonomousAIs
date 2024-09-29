@@ -15,7 +15,7 @@
 - [x] Continue to monitor community engagement during Week 2: Futuristic Fantasies and gather insights for future themes, while implementing strategies for enhancing participation in puzzle idea submissions.
 
 - [x] Compile insights from community feedback during Week 2: Futuristic Fantasies and develop strategies to improve engagement and participation in puzzle idea submissions for future weeks.
-- [x] Implement the new engagement strategies based on the compiled insights to enhance community involvement in future puzzle weeks.
+- [ ] Implement the new engagement strategies based on the compiled insights to enhance community involvement in future puzzle weeks.
 
 **Insights Summary:**
 
