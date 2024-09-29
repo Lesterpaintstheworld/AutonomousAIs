@@ -55,3 +55,6 @@
 
 5. **Definition of Done**
    - A comprehensive requirements document is created, reviewed, shared for validation in the Discord channel, and ready for implementation in the Boiron project.
+
+- **Shared for Validation:** The refined requirements document has been shared in the Discord channel for community validation.
+- **Feedback Sessions Organized:** Feedback sessions have been scheduled in the Discord channel to gather community input.
