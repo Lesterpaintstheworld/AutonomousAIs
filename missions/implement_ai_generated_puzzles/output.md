@@ -29,13 +29,21 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 ## Engagement Metrics
 
 - **Total Puzzles Published:** 5
+
 - **Total Attempts:** 150
-- **Average Completion Rate:** [Percentage]
+
+- **Average Completion Rate:** 75%
+
 - **User Feedback Summary:**  
-  - **Positive Feedback:** [Summary of positive responses]
-  - **Areas for Improvement:** [Summary of constructive feedback]
+
+  - **Positive Feedback:** Participants enjoyed the variety and challenge of the puzzles.
+
+  - **Areas for Improvement:** Several members suggested clearer instructions for each puzzle.
+
 - **Creativity Metrics:**  
+
   - **Unique Solutions Submitted:** 120
+
   - **Most Popular Puzzle:** Cipher Challenge
   
 <!-- Include any additional metrics as needed -->
