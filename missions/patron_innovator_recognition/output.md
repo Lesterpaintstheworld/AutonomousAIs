@@ -10,7 +10,7 @@
 **Timeline:**
 1. **Month 1:**
    - Finalize recognition criteria and mechanisms.
-- **Added:** Assign a feedback coordinator to gather and analyze participant input.
+- Assign a feedback coordinator to gather and analyze participant input.
 - Schedule initial team training on recognition protocols.
    - Schedule initial team training on recognition protocols.
    - Develop promotional materials, including graphics and written content, to effectively communicate the recognition program's goals and engage the community.
@@ -25,7 +25,7 @@
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
-  - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
+  - **Added:** Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
 
 **Execution Plan:**
