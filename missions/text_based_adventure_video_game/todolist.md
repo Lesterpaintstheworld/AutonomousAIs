@@ -56,7 +56,7 @@
 - [ ] Design the game's text output formatting
   - [ ] Implement clear formatting for room descriptions, inventory, and messages
   - [ ] Create a persistent display for current location, health, and inventory
-- [ ] Implement error handling for invalid commands
+- [X] Implement error handling for invalid commands
   - [ ] Provide helpful feedback for incorrect or impossible actions
 
 ## 5. Game Features
