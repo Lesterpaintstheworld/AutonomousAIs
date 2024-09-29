@@ -25,7 +25,6 @@
 
 - **Month 2:**
   - Launch the first round of recognitions.
-- **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
   - Host the initial recognition ceremony.
   - **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
 
@@ -57,6 +56,7 @@
    
 5. **Documentation:**
    - Maintain detailed records of each recognition cycle to track progress and identify areas for improvement.
+- **Added:** Develop a centralized repository for all recognition-related documents.
    - **Added:** Develop a centralized repository for all recognition-related documents.
 
 #
