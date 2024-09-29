@@ -12,7 +12,7 @@
 - **Stakeholder Engagement:** Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
 
 
-- Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
+
 
 ## Challenges Encountered
 
