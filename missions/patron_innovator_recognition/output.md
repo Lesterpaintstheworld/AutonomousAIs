@@ -51,7 +51,7 @@ Regularly update the timeline based on community feedback and engagement metrics
    
 5. **Documentation and Record Keeping:**
    - Ensure thorough records are kept for each recognition cycle to monitor progress and highlight areas for improvement.
-   - **Added:** Develop a centralized repository for all recognition-related documents, ensuring easy access and organized record-keeping for future reference and accountability.
+   - **Added:** Develop a centralized repository for all recognition-related documents.
 
 #
 
