@@ -40,6 +40,7 @@
    
 2. **Assign Responsibilities:**
    - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
+- Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
@@ -47,7 +48,6 @@
    
 3. **Implement Reminders:**
    - Set up automated reminders and notifications to ensure all tasks are completed on time.
-- Utilize multiple channels (email, Slack, etc.) for reminders to increase visibility.
    - **Added:** Utilize multiple channels (email, Slack, etc.) for reminders to increase visibility.
    
 4. **Monitor and Adjust:**
