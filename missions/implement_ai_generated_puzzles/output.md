@@ -28,8 +28,8 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
 ## Engagement Metrics
 
-- **Total Puzzles Published:** [Number]
-- **Total Attempts:** 250
+- **Total Puzzles Published:** 4
+- **Total Attempts:** [Number]
 - **Average Completion Rate:** [Percentage]
 - **User Feedback Summary:**  
   - **Positive Feedback:** [Summary of positive responses]
