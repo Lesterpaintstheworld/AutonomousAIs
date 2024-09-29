@@ -52,7 +52,7 @@
   - [ ] Handle various command formats (verb-noun, special commands)
 - [ ] Create a help system explaining game commands
   - [ ] Implement a 'help' command with list of available actions
-  - [ ] Add context-sensitive help for specific situations
+  - [X] Add context-sensitive help for specific situations
 - [X] Design the game's text output formatting
   - [X] Implement clear formatting for room descriptions, inventory, and messages
   - [X] Create a persistent display for current location, health, and inventory
