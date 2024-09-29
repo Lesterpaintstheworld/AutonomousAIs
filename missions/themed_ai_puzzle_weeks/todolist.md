@@ -31,4 +31,4 @@ Developed and documented clear guidelines for community members to submit their 
 
 ## Action Completed: Implement the community poll results to confirm the themes for the following weeks.
 
-[Gather insights from community feedback during Week 2: Futuristic Fantasies and develop strategies to enhance community engagement in puzzle idea submissions for future weeks.]
+[Compile insights from community feedback during Week 2: Futuristic Fantasies and formulate actionable strategies to improve community participation in puzzle idea submissions for the upcoming weeks.]
