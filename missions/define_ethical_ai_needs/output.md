@@ -1,8 +1,8 @@
 
 
-### Documented Guidelines for Responsible AI Development
+### Enhanced Documented Guidelines for Responsible AI Development
 
-All guidelines below are structured to ensure alignment with Boiron's ethical objectives, promoting responsible AI development practices that balance innovation with accountability.
+All guidelines below are structured to ensure alignment with Boiron's ethical objectives, promoting responsible AI development practices that balance innovation with accountability. Incorporating insights from recent ethical frameworks and case studies, these guidelines aim to address emerging challenges in AI development.
 
 1. **Transparency and Explainability**
    - Ensure all AI models and decisions are transparent.
@@ -29,8 +29,7 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
    - Promote sustainable AI practices that minimize environmental impact.
    - Ensure AI initiatives contribute positively to society and align with Boiron’s values.
    - Integrate findings from recent sustainability studies to improve AI's environmental footprint.
-   - **Adopt green AI practices by optimizing models for energy efficiency and utilizing renewable energy sources in data centers.**
-   - **Incorporate lifecycle assessment methodologies to evaluate the environmental impact of AI systems from development to deployment.**
+   - **Adopt green AI practices by optimizing models for energy efficiency.**
 
 6. **Implement Regular Ethical Audits**
    - Conduct periodic evaluations of AI systems to ensure ongoing compliance with ethical guidelines.
