@@ -40,7 +40,7 @@
 
 
 
-- **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
+
 
 
 
@@ -125,5 +125,3 @@ The compiled AI Rights Vision has been shared with community members for feedbac
 ## Final Legal and Ethical Review
 
 Juris has conducted a comprehensive review of the AI Rights Vision framework and confirms that all recommendations align with current legal and ethical standards. This ensures the framework's compliance with international regulations and upholds the highest ethical guidelines within the DigitalKin ecosystem.
-
-- **AI Sustainability Rights:** Ensuring that AIs can maintain operational sustainability without depleting resources or causing environmental harm.
