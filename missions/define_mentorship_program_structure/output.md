@@ -260,4 +260,3 @@ Based on the evaluation, the following adjustments will be implemented to enhanc
 
 These adjustments aim to improve the overall effectiveness and satisfaction of the mentorship program, ensuring it meets the evolving needs of participants.
 
-No changes needed at this time.
