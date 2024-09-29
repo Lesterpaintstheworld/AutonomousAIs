@@ -102,4 +102,4 @@ Review the collected feedback from the first recognition ceremony and implement 
 
 - Assign a feedback coordinator to gather and analyze participant input.
 
-- **Added:** Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
+- **Added:** Create promotional materials, including graphics and written content, to effectively communicate the recognition program's goals and engage the community.
