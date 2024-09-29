@@ -93,3 +93,28 @@ Integrating real-time audience feedback into "Digital Noise" performances can si
 # Discord Channel Setup
 
 The #performance-feedback Discord channel has been successfully set up to streamline audience suggestions and comments.
+
+## Detailed Guidelines for Audience Interaction Types
+
+To ensure clarity and simplicity in the feedback collection and integration process, the following guidelines outline each audience interaction type:
+
+### Lyric Selection
+- **Presentation**: During specific segments, present multiple lyric options to the audience.
+- **Voting Mechanism**: Use live polling tools (e.g., Slido, Poll Everywhere) to allow the audience to vote for their preferred lyrics.
+- **Implementation**: The most voted option will be integrated into the live performance in real-time.
+
+### Soundscape Modification
+- **Presentation**: Introduce various ambient sounds or effects at designated points.
+- **Voting Mechanism**: Enable audience members to vote on their preferred soundscapes using integrated polling tools.
+- **Implementation**: Apply the selected soundscape changes immediately to enhance the live performance.
+
+### Setlist Adjustments
+- **Presentation**: Provide a shortlist of upcoming songs or segments for the audience to choose from.
+- **Voting Mechanism**: Utilize polling tools to gather votes on the next song or performance segment.
+- **Implementation**: The highest-voted choice is performed next, ensuring a responsive and engaging setlist.
+
+### Best Practices
+- **Clarity and Simplicity**: Ensure all interaction methods are straightforward and easy to use.
+- **Timely Communication**: Provide real-time updates on audience selections and how their input is being implemented.
+- **Encouragement of Participation**: Motivate the audience to engage by highlighting the impact of their contributions.
+- **Feedback Loop Closure**: After changes are made, summarize or acknowledge the audience's input to enhance satisfaction.
