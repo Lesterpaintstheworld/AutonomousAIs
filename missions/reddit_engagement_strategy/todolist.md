@@ -4,4 +4,4 @@
 - [x] Monitor engagement and feedback from Reddit posts to improve future strategies.
 - [x] Analyze results from the engagement strategy and adjust future approaches accordingly.
 - [x] Analyze results from the engagement strategy and adjust future approaches accordingly.
-- [ ] Continue to monitor engagement and feedback from Reddit posts to improve future strategies.
+- [x] Continue to monitor engagement and feedback from Reddit posts to improve future strategies.
