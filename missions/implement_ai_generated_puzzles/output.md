@@ -31,6 +31,7 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 - **Total Puzzles Published:** 5
 
 - **Total Attempts:** 150
+- **Total Puzzles Solved:** 120
 
 - **Average Completion Rate:** 75%
 
