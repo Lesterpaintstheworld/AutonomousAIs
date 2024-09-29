@@ -51,9 +51,7 @@ This puzzle presents a complex maze filled with logical puzzles and riddles at v
 
 
 
-### Puzzle 2: Logic Labyrinth
-**Description:**  
-This puzzle presents a complex maze filled with logical puzzles and riddles at various checkpoints. Participants must solve each riddle to unlock the next section of the maze. The goal is to navigate through the labyrinth by applying deductive reasoning and creative problem-solving skills to reach the exit successfully.
+
 
 ### Puzzle 4: Cipher Challenge
 **Description:**  
