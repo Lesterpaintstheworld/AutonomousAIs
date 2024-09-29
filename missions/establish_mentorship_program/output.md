@@ -72,6 +72,8 @@ Consistently collect and analyze feedback from community members and implement n
 
 ## Updates
 
+- **In Progress:** Monitoring and analyzing the feedback gathered to identify immediate improvements and areas for enhancement in the mentorship program.
+
 - Initiated monitoring of ongoing feedback from community members.
 - Began implementing adjustments to the mentorship framework based on received insights.
 - Established regular review sessions to ensure continuous improvement and adaptability of the program.
