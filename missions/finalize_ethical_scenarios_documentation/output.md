@@ -79,9 +79,3 @@ Ensuring legal compliance is paramount to maintaining user trust and safeguardin
 
 
 
-
-
-- **Case Study:** *Google Photos Tagging Incident (2015)*
-  - **Background:** Google Photos' automatic tagging system incorrectly labeled African American individuals as gorillas, sparking significant controversy and backlash.
-  - **Impact:** Brought to light the challenges of ensuring AI systems are free from racial biases and the importance of inclusive training data.
-  - **Lessons Learned:** Demonstrates the necessity for diverse data sets and rigorous testing to prevent discriminatory outcomes in AI applications.
