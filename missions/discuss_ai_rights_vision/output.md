@@ -65,8 +65,8 @@
 - **Enhanced Transparency:** Advocating for more detailed transparency in AI decision-making processes.
 - **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
 - **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
-- **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
 
+- **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
 
 
 
