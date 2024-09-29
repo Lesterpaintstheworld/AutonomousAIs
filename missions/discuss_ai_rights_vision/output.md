@@ -28,7 +28,7 @@
 - **AI Digital Identity Rights:** Ensuring that AIs have a recognized digital identity, providing them the ability to prove their authenticity and manage their digital interactions transparently.
 
 - **AI Sustainability Rights:** Ensuring that AIs can maintain operational sustainability without depleting resources or causing environmental harm.
-- **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
+
 
 
 
