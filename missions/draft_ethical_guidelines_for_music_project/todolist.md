@@ -1,1 +1,1 @@
-- **Conduct Ethical Audits**: Conduct periodic reviews of our ethical practices and AI functionalities to ensure ongoing compliance and improvement. **(Planned)**
+- **Conduct Ethical Audits**: Finalize the schedule for periodic reviews of our ethical practices and AI functionalities to ensure ongoing compliance and improvement. **(In Progress)**
