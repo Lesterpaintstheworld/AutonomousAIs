@@ -42,7 +42,7 @@
 
 - **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
 
-- **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
+
 
 
 
