@@ -1,2 +1,2 @@
 - [x] Begin drafting the outline for the next song concept.
-- [ ] Begin drafting the outline for the next song concept.
+- [x] Begin drafting the outline for the next song concept.
