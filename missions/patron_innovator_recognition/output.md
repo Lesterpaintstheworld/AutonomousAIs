@@ -28,7 +28,6 @@
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
-- **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - **Added:** Design and distribute promotional content across social media and other channels.
   - **Added:** Schedule initial team training on recognition protocols.
 
