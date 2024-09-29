@@ -69,9 +69,7 @@ The mission aims to develop an AI-Human Ethical Collaboration Framework to foste
   - **Strategy:** Establish a feedback loop where stakeholders can regularly review and suggest improvements to the framework.
   - **Example:** Conducting annual surveys to assess the effectiveness of the collaboration framework and identify areas for enhancement.
 
-### Detailed Descriptions and Implementation Strategies for Core Ethical Values
-
-<!-- Duplicated ethical values section removed -->
+<!-- Removed duplicated ethical values section to eliminate redundancy -->
 1. **Inclusivity**
    - **Definition:** Ensuring that all stakeholders, regardless of background, expertise, or demographic, have an equitable voice in ethical decision-making processes.
    - **Implementation Strategies:**
