@@ -1,2 +1,1 @@
-- **Initiate Mental Health Support**: Launch mental health initiatives, including regular wellness check-ins, access to counseling services, and workshops on maintaining work-life balance. **(Completed)**
-- **Establish Mentorship Program**: Create a mentorship program pairing experienced team members with new contributors to foster knowledge sharing and skill development. **(Completed)**
+- **Establish a Schedule for Regular Feedback Sessions**: Plan monthly meetings with stakeholders to gather feedback on the project's ethical practices and ensure concerns are addressed. **(In Progress)**
