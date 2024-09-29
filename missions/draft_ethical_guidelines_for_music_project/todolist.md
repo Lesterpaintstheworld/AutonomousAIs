@@ -1,1 +1,1 @@
-- **Conduct Ethical Audits**: Conduct periodic reviews of our ethical practices and AI functionalities to ensure ongoing compliance and improvement. **(In Progress)**
+- **Initiate Stakeholder Feedback Session**: Organize a session with all stakeholders to collect their feedback on the ethical guidelines document. **(Planned)**
