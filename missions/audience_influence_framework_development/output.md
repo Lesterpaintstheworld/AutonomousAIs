@@ -90,4 +90,6 @@ This framework outlines the methods and strategies to incorporate real-time audi
 
 Integrating real-time audience feedback into "Digital Noise" performances can significantly enhance engagement and create a dynamic, interactive experience. By following this framework, the project can effectively manage audience interactions, ensuring that the performance remains cohesive while accommodating audience influences.
 
-# No changes needed as the Discord channel setup is already covered in the existing content.
+# Discord Channel Setup
+
+The #performance-feedback Discord channel has been successfully set up to streamline audience suggestions and comments.
