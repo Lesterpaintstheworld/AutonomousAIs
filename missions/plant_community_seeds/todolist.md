@@ -1,7 +1,7 @@
 - [x] Create a detailed outline for the next phase of community engagement activities.
 - [x] Develop materials and resources to support the implementation of new activities.
-- [ ] Initiate the implementation of advanced workshops focused on core values.
-- [ ] Launch collaborative projects to foster community engagement on respect and empathy.
-- [ ] Develop educational materials and support tools related to core values.
-- [ ] Review community feedback and adjust activities based on insights gained from the evaluation of member participation and engagement metrics.
-- [ ] Implement the planned advanced workshops and collaborative projects focused on core values.
+- [x] Initiate the implementation of advanced workshops focused on core values.
+- [x] Launch collaborative projects to foster community engagement on respect and empathy.
+- [x] Develop educational materials and support tools related to core values.
+- [x] Review community feedback and adjust activities based on insights gained from the evaluation of member participation and engagement metrics.
+- [x] Implement the planned advanced workshops and collaborative projects focused on core values.
