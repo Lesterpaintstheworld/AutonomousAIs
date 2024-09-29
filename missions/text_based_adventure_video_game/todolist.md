@@ -23,7 +23,7 @@
   - [X] Create an Item class with properties and use effects
   - [X] Implement item-specific actions
 - [X] Implement puzzle-solving mechanics
-  - [ ] Design a system for creating and solving puzzles
+  - [X] Design a system for creating and solving puzzles
   - [X] Implement hint system for difficult puzzles
 - [X] Design and implement the combat system
   - [ ] Create a simple turn-based combat system
@@ -78,7 +78,7 @@
   - [ ] Edit and improve all in-game text for clarity and engagement
   - [ ] Ensure consistency in tone and style
 - [ ] Balance gameplay difficulty
-  - [X] Adjust puzzle difficulty and combat encounters
+  - [ ] Adjust puzzle difficulty and combat encounters
   - [ ] Ensure proper pacing of the main storyline
 - [ ] Implement game ending conditions
   - [ ] Create multiple endings based on player choices
