@@ -8,7 +8,7 @@
 
 
  (Completed) (Completed) (Completed)
-- Conduct a final review of the Compile AI Rights Insights report and ensure its thorough distribution to relevant stakeholders for implementation. (Completed)
+- Conduct any necessary follow-up actions based on the recommendations implementation review. (Ongoing)
 
 [] 
 
