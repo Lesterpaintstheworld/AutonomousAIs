@@ -77,7 +77,7 @@
 - [ ] Refine game text and descriptions
   - [X] Edit and improve all in-game text for clarity and engagement
   - [X] Ensure consistency in tone and style
-- [ ] Balance gameplay difficulty
+- [X] Balance gameplay difficulty
   - [X] Adjust puzzle difficulty and combat encounters
   - [X] Ensure proper pacing of the main storyline
 - [ ] Implement game ending conditions
