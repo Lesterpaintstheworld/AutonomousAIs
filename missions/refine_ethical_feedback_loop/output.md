@@ -73,13 +73,7 @@ In analyzing the effectiveness of our current feedback methods, it is evident th
 
 ## Uses and Outcomes
 
-## Uses
 
-- **Research and Collaboration**: Integrate local art culture with blockchain technologies.
-- **Community Engagement**: Involve artists and the community in NFT creation.
-- **Revenue Generation**: Establish new revenue streams through NFT sales and royalties.
-- **Cultural Preservation**: Preserve Chicago's art heritage through digital mediums.
-- **Educational Value**: Educate the community about NFTs and the integration of digital art.
 
 ## Outcomes
 
