@@ -29,7 +29,6 @@ Regularly update the timeline based on community feedback and engagement metrics
 2. **Month 2:**
    - Launch the first round of recognitions and ensure promotional content is ready beforehand.
    - Host the initial recognition ceremony to honor the selected contributors based on the established criteria and gather feedback on its effectiveness.
-- Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
    - Collect feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact, making necessary adjustments based on the insights gathered.
 
 - **Month 3 and onwards:**
@@ -58,6 +57,7 @@ Regularly update the timeline based on community feedback and engagement metrics
    
 5. **Documentation and Record Keeping:**
    - Ensure thorough records are kept for each recognition cycle to monitor progress and highlight areas for improvement.
+- Develop a centralized repository for all recognition-related documents.
    - **Added:** Develop a centralized repository for all recognition-related documents.
 
 #
