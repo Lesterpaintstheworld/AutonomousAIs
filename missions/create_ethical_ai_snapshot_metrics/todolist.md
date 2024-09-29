@@ -1,1 +1,1 @@
-- [ ] Conduct regular monitoring of the Ethical AI Snapshot tool to ensure compliance with established ethical standards and incorporate ongoing user feedback. This includes analyzing user feedback, updating metrics as necessary, and ensuring continuous compliance with ethical standards.
+- [X] Conduct regular monitoring of the Ethical AI Snapshot tool to ensure compliance with established ethical standards and incorporate ongoing user feedback. This includes analyzing user feedback, updating metrics as necessary, and ensuring continuous compliance with ethical standards.
