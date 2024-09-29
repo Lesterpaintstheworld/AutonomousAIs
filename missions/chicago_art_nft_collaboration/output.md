@@ -32,7 +32,6 @@
 
 missions/chicago_art_nft_collaboration/output.md
 ```markdown
-<<<<< SEARCH
 4. **River Flow**
    - Depicting the Chicago River's movement and its role in the city's history and development.
    
