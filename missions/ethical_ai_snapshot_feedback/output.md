@@ -78,4 +78,4 @@ The implementation of these actionable recommendations, coupled with the defined
 
 User feedback has been successfully collected through Discord channels. The analysis of the collected feedback has revealed common themes such as exclusivity, transparency, community involvement, educational resources, and interactive events. These insights will inform the next steps in enhancing the Ethical AI Snapshot tool.
 
-[No changes needed]
+Analysis of the collected feedback has been completed. Key themes identified include exclusivity, transparency, community involvement, educational resources, and interactive events. These insights have informed the development of actionable recommendations and future enhancements to the Ethical AI Snapshot tool.
