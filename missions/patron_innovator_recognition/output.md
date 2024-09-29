@@ -28,7 +28,7 @@
 
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
-- **Added:** Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement.
+- Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - **Added:** Design and distribute promotional content across social media and other channels.
@@ -37,7 +37,7 @@
 - **Month 2:**
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
-  - Collect preliminary feedback from participants after the initial recognition ceremony to assess its effectiveness and impact, making necessary adjustments based on insights gathered.
+  - **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
