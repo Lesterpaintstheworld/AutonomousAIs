@@ -88,7 +88,7 @@
   - [X] Create a tutorial or starter area for new players
 
 ## 7. Testing and Debugging
-- [ ] Perform thorough playtesting
+- [X] Perform thorough playtesting
   - [ ] Test all game paths and puzzle solutions
   - [ ] Verify combat balance and item effects
 - [ ] Debug and fix any identified issues
