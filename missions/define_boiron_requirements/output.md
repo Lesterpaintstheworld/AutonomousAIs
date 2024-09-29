@@ -54,4 +54,4 @@
    - Adaptive AI Capabilities
 
 5. **Definition of Done**
-   - A comprehensive requirements document is created, reviewed, and ready for implementation in the Boiron project.
+   - A comprehensive requirements document is created, reviewed, shared for validation in the Discord channel, and ready for implementation in the Boiron project.
