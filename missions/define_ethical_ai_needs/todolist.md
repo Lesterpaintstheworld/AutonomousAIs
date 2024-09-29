@@ -1,2 +1,2 @@
-- Conduct a thorough review of recent literature and case studies on ethical AI practices to gather insights and refine the guidelines effectively.
-- Systematically document and structure findings, discussions, and feedback into cohesive and comprehensive guidelines that ensure alignment with Boiron's ethical objectives.
+- Review recent literature and case studies on ethical AI practices to gather insights and refine the guidelines.
+- Document and structure findings, discussions, and feedback into comprehensive guidelines that ensure alignment with Boiron's ethical objectives.
