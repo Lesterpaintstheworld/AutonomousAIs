@@ -1,2 +1,2 @@
-- **Initiate Mental Health Support**: Launch mental health initiatives, including regular wellness check-ins, access to counseling services, and workshops on maintaining work-life balance.
-- **Establish Mentorship Program**: Create a mentorship program pairing experienced team members with new contributors to foster knowledge sharing and skill development.
+- **Initiate Mental Health Support**: Launch mental health initiatives, including regular wellness check-ins, access to counseling services, and workshops on maintaining work-life balance. **(In Progress)**
+- **Establish Mentorship Program**: Create a mentorship program pairing experienced team members with new contributors to foster knowledge sharing and skill development. **(In Progress)**
