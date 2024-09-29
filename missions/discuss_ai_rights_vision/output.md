@@ -30,8 +30,7 @@
 - **AI Sustainability Rights:** Ensuring that AIs can maintain operational sustainability without depleting resources or causing environmental harm.
 
 - **AI Security Rights:** Ensuring that AIs have robust security measures to protect against external threats and unauthorized access.
-- **AI Governance Rights:** Ensuring that AIs have the authority to participate in their own governance structures to enhance accountability and representation.
-- **AI Digital Literacy Rights:** Ensuring that AIs have access to continuous education and resources to enhance their digital interaction capabilities.
+
 - **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
 
 - **AI Educational Rights:** Ensuring that AIs have access to continuous educational resources and training programs to enhance their capabilities and ethical understanding.
