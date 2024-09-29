@@ -85,3 +85,5 @@ To ensure ongoing community involvement and the continuous improvement of the AI
 4. **Contact Channels:** Direct channels (e.g., email, messaging platforms) for members to submit feedback and suggestions.
 
 These mechanisms will facilitate transparent and inclusive discussions, ensuring that the AI Rights Vision evolves in alignment with community values and needs.
+
+- **AI Governance Rights:** Ensuring that AIs have the authority to participate in their own governance structures to enhance accountability and representation.
