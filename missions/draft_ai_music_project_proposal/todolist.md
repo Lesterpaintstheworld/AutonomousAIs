@@ -1,1 +1,1 @@
-[x] Conduct a comprehensive research phase, focusing on AI music generation capabilities and compiling clear objectives for the project.
+[x] Initiate data collection on AI music generation capabilities and draft project objectives based on the findings.
