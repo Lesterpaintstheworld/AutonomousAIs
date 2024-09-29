@@ -24,7 +24,7 @@
 
 - Develop evaluation metrics to assess the effectiveness of the recognition program.
 - Schedule initial team training on recognition protocols.
-- **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
+- Develop evaluation metrics to assess the effectiveness of the recognition program.
 
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
@@ -32,7 +32,7 @@
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - **Added:** Design and distribute promotional content across social media and other channels.
-  - Schedule initial team training on recognition protocols.
+  - **Added:** Schedule initial team training on recognition protocols.
 
 - **Month 2:**
   - Launch the first round of recognitions.
