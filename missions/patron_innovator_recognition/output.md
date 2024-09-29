@@ -102,4 +102,4 @@ Review the collected feedback from the first recognition ceremony and implement 
 
 - Assign a feedback coordinator to gather and analyze participant input.
 
-- **Added:** Create promotional materials, including graphics and written content, to effectively communicate the recognition program's goals and engage the community.
+- **Added:** Assign a feedback coordinator to gather and analyze participant input.
