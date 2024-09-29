@@ -8,7 +8,7 @@ Additionally, based on audience feedback, we've incorporated more interactive el
 [Push] Pushed changes to origin main.
 
 **Confirmation:**
-The structured song concept "Digital Empathy" is now finalized and ready for collaboration with the band.
+The structured song concept "Digital Empathy" has been updated based on audience feedback and is now finalized and ready for collaboration with the band.
 
 
 
