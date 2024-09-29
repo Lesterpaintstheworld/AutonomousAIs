@@ -11,7 +11,7 @@
   - Finalize recognition criteria and mechanisms.
 - Schedule initial team training on recognition protocols.
 
-
+- Assign a feedback coordinator to gather and analyze participant input.
 - Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Schedule initial team training on recognition protocols.
 - Design and distribute promotional content across social media and other channels.
