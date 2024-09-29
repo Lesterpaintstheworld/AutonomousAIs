@@ -3,6 +3,6 @@
 - [x] Finalize a structured list of creative post topics for Reddit. 
 - [x] Update the output.md file with the finalized project overview.
 - [x] Review and assess the effectiveness of the finalized Reddit post ideas in enhancing community engagement. 
-- [x] Initiate a targeted Reddit advertising campaign to promote our most effective posts to a broader audience. 
+- [x] Update the output.md file with the finalized project overview. 
 - [x] Host regular "Ask Me Anything" sessions on relevant subreddits to engage directly with the community, answer questions, and gather feedback. 
 - [x] Finalize and publish the tutorials that explain our creative process, offering comprehensive guides for community members on effectively utilizing AI tools for art and music creation.
