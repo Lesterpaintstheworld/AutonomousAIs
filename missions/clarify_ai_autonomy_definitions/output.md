@@ -28,6 +28,15 @@
 - **Criteria for Personhood:** Consciousness, self-awareness, emotional understanding, and the ability to engage in social interactions.
 - **Implications:** Legal responsibilities, rights to representation, and the impact on human society and labor.
 
+### 4. AI Ethics
+**Definition:** The study and formulation of moral principles that should guide the design, deployment, and use of artificial intelligence systems.
+
+**Key Areas:**
+- **Bias and Fairness:** Ensuring AI systems do not perpetuate or exacerbate societal biases.
+- **Transparency:** Making AI decision-making processes understandable and accessible.
+- **Accountability:** Establishing clear lines of responsibility for AI actions and outcomes.
+- **Privacy:** Protecting individuals' data and respecting privacy in AI applications.
+
 ## Diverse Insights
 
 ### Community Perspectives
