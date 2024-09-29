@@ -1,1 +1,1 @@
-[ ] Analyze and compile insights from ongoing community discussions regarding AI autonomy.
+[ ] Review and synthesize insights collected from community discussions about AI autonomy.
