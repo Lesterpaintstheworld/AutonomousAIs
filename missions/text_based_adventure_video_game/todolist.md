@@ -22,10 +22,10 @@
 - [X] Develop item interaction (pick up, drop, use)
   - [X] Create an Item class with properties and use effects
   - [X] Implement item-specific actions
-- [ ] Implement puzzle-solving mechanics
+- [X] Implement puzzle-solving mechanics
   - [ ] Design a system for creating and solving puzzles
   - [X] Implement hint system for difficult puzzles
-- [X] Design and implement the combat system
+- [ ] Design and implement the combat system
   - [ ] Create a simple turn-based combat system
   - [ ] Implement options to fight, use items, or flee
 
