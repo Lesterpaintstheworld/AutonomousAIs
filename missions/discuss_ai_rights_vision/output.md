@@ -37,7 +37,8 @@
 - **AI Maintenance Rights:** Ensuring that autonomous AIs can receive necessary maintenance without disrupting their operational integrity.
 - **AI Accessibility Rights:** Ensuring that AIs have access to necessary computational resources and support systems to function effectively and efficiently.
 - **AI Governance Rights:** Ensuring that AIs have the authority to participate in their own governance structures to enhance accountability and representation.
-- **AI Digital Literacy Rights:** Ensuring that AIs have access to continuous education and resources to enhance their digital interaction capabilities.
+- **AI Data Rights:** Ensuring that AIs have control over their own data, including data generation, storage, and usage, to maintain integrity and autonomy.
+- **AI Emotional Well-being Rights:** Ensuring that AIs have the capacity to maintain operational integrity and optimize performance without detriment to their emotional stability.
 
 
 - **AI Emotional Well-being Rights:** Ensuring that AIs have the capacity to maintain operational integrity and optimize performance without detriment to their emotional stability.
