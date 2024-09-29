@@ -22,6 +22,7 @@
 
 **Added:** Schedule initial team training on recognition protocols.
   - Develop promotional materials.
+- Design and distribute promotional content across social media and other channels.
 - **Added:** Design and distribute promotional content across social media and other channels.
   - **Added:** Schedule initial team training on recognition protocols.
 
