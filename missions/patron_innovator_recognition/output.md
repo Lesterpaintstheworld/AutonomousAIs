@@ -48,6 +48,9 @@ Schedule initial team training on recognition protocols, ensuring that team memb
 
 1. **Establish Schedule:**
    - Define key dates for nominations, voting, and award announcements each month.
+  - **Nominations Period:** First week of each month.
+  - **Voting Period:** Second week of each month.
+  - **Award Announcements:** Last week of each month.
    
 2. **Assign Responsibilities:**
    - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
