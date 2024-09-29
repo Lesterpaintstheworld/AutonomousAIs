@@ -48,7 +48,7 @@
 - [x] Perform thorough testing of the ASCII Ethics Art generator to ensure functionality and address any potential issues.
 
 
-<!-- Removed duplicate task -->
+
 
 
 <!-- Removed duplicate task -->
@@ -105,7 +105,5 @@ Removed duplicate task =====
 =======
 
 - [x] Complete and finalize documentation summarizing the findings from the user feedback analysis regarding enhancements to the ASCII Ethics Art Generator.
-
-=======
 
 =======
