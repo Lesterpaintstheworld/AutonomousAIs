@@ -7,8 +7,6 @@
 Regularly update the timeline based on community feedback and engagement metrics to ensure its effectiveness.
 
 **Timeline:**
-
-**Timeline:**
 1. **Month 1:**
    - Finalize recognition criteria and mechanisms.
 - Assign a feedback coordinator to gather and analyze participant input.
