@@ -190,5 +190,3 @@ The implementation of the recommendations from the AI rights insights report has
 [- Conduct any necessary follow-up actions based on the recommendations implementation review (Ongoing)]
 
 [The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives.]
-
-<!-- All ToDo items have been completed and the list has been cleared. -->
