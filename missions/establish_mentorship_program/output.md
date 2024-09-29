@@ -197,7 +197,7 @@ By adhering to these structured guidelines, the mentorship program will maintain
 
 
 
-- **Completed:** Monitoring and analyzing the collected feedback to identify immediate improvements and areas for enhancement in the mentorship program.
+- **In Progress:** Monitoring and analyzing the collected feedback to identify immediate improvements and areas for enhancement in the mentorship program.
 
 - Monitored and analyzed the collected feedback to identify immediate improvements and areas for enhancement in the mentorship program.
 - Successfully completed the monitoring and analysis of the collected feedback, identified key areas for improvement, and implemented necessary adjustments to enhance the effectiveness of the mentorship program.
