@@ -18,7 +18,6 @@ Schedule initial team training on recognition protocols, ensuring that team memb
 - Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - Assign a feedback coordinator to gather and analyze participant input.
 - Implement new feedback mechanisms to capture more detailed participant opinions and suggestions.
-- **Added:** Implement new feedback mechanisms to capture more detailed participant opinions and suggestions.
   - Review community feedback to define clear metrics for recognition.
   - Establish an evaluation process and selection committee for contributors.
 - Assign a feedback coordinator to gather and analyze participant input.
@@ -43,6 +42,7 @@ Schedule initial team training on recognition protocols, ensuring that team memb
   - Conduct monthly recognitions.
   - Gather feedback and adjust the process as needed.
   - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
+- **Added:** Introduce new recognition categories based on community input.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
 
 **Execution Plan:**
