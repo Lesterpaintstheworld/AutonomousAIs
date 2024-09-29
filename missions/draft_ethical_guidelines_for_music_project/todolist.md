@@ -1,1 +1,1 @@
-- **Finalize and Publish Ethical Guidelines**: Complete the final review of our ethical guidelines document and publish it for all stakeholders. **(In Progress)**
+- **Conduct Final Review and Publish Ethical Guidelines**: Complete the final review of our ethical guidelines document and publish it for all stakeholders. **(In Progress)**
