@@ -28,7 +28,7 @@
 ```
 
 - [X] Feedback received and improvements incorporated. (Completed)
-- [x] Finalize the documentation summarizing the enhancements made based on user feedback for the ASCII Ethics Art Generator.
+- [x] Compile a comprehensive report detailing the outcomes of the testing phase for the ASCII Ethics Art generator.
 
 ## User Feedback Incorporated
 
