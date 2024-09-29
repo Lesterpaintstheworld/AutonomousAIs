@@ -1,5 +1,5 @@
-[ ] Gather community input on preferred puzzle themes.
-[ ] Conduct a survey to understand preferences for types of puzzles.
-[ ] Analyze community suggestions and finalize theme selection.
-[ ] Create diverse puzzles based on chosen themes.
-[ ] Monitor engagement metrics during each puzzle week.
+[ ] Create a designated channel for theme suggestions.
+[ ] Conduct a survey to collect preferences on puzzle types.
+[ ] Choose the top themes for implementation.
+[ ] Develop diverse puzzles based on the selected themes.
+[ ] Monitor participation rates and gather feedback on puzzles.
