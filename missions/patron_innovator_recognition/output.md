@@ -78,6 +78,9 @@ Utilize multiple channels (email, Slack, etc.) for reminders to increase visibil
 ### Launch Recognition Plan
 
 Initiate the recognition program according to the established schedule and continuously monitor its effectiveness based on community feedback. Implement necessary adjustments to enhance engagement and ensure the recognition process aligns with community goals.
+- Assign a feedback coordinator to gather and analyze participant input.
+- Design and distribute promotional content across social media and other channels.
+- Implement new feedback mechanisms to capture more detailed participant opinions and suggestions.
 
 
 
@@ -94,9 +97,6 @@ The Patron Innovator Recognition mission is designed to honor and celebrate the 
 ### Conduct First Recognition Ceremony
 
 Execute the first recognition ceremony to honor the selected contributors based on the established timeline and criteria.
-- Assign a feedback coordinator to gather and analyze participant input.
-- Design and distribute promotional content across social media and other channels.
-- Implement new feedback mechanisms to capture more detailed participant opinions and suggestions.
 
 ### Analyze Feedback and Adjust Process
 Review the collected feedback from the first recognition ceremony and implement necessary adjustments to improve future recognition events.
