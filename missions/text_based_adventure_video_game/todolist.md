@@ -39,10 +39,10 @@
 - [X] Design and implement puzzles
   - [X] Create various puzzle types (riddles, item combinations, sequences)
   - [X] Integrate puzzles into the game world
-- [ ] Create items and their descriptions
+- [X] Create items and their descriptions
   - [X] Implement magical artifacts, potions, tools, and puzzle-related items
   - [X] Add descriptions and use effects for each item
-- [X] Develop the main storyline events
+- [ ] Develop the main storyline events
   - [X] Implement key plot points and character interactions
   - [X] Create triggers for advancing the main story
 
