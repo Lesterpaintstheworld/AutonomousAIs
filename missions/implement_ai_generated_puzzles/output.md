@@ -44,6 +44,8 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
   - **Unique Solutions Submitted:** 120
 
+  - **Engagement Level:** Analyze the level of community participation and interaction for each puzzle created.
+
   - **Most Popular Puzzle:** Cipher Challenge
   
 <!-- Include any additional metrics as needed -->
