@@ -79,7 +79,7 @@ This project aims to pioneer the harmonious integration of AI into the music cre
 
 ## 7. Next Steps
 
-Upon approval of this proposal, the project will proceed with the research phase, laying the groundwork for subsequent development and implementation stages. Continuous collaboration and feedback will be integral to the project's success, ensuring that the integration of AI enhances rather than hinders the creative process.
+With the research phase completed, the project will now move into the development phase, focusing on algorithm development and tool creation. Continuous collaboration and feedback will remain integral to the project's success, ensuring that the integration of AI enhances rather than hinders the creative process.
 
 
 
