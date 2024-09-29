@@ -87,7 +87,7 @@
 ======= =====
 =======
 
-<!-- Removed duplicate task =====
+======= =====
 
 =======
 
@@ -131,7 +131,7 @@ Additionally, comprehensive documentation summarizing these enhancements has bee
 
 
 =======
-
+<!-- Removed duplicated Final Documentation to maintain a single instance -->
 
 
 =======
