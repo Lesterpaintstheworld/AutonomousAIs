@@ -39,6 +39,7 @@ Regularly update the timeline based on community feedback and engagement metrics
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
+- Develop and introduce new recognition categories based on community feedback and ensure evaluation of their impact on engagement.
   - Gather feedback and adjust the process as needed.
   - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
