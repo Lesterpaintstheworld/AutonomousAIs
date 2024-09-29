@@ -52,7 +52,7 @@ Schedule initial team training on recognition protocols, ensuring that team memb
 2. **Assign Responsibilities:**
    - Designate team members to oversee different phases of the recognition process, including nominations, voting, and event hosting.
 - Assign a feedback coordinator to gather and analyze participant input.
-   - **Added:** Assign a feedback coordinator to gather and analyze participant input.
+   - Assign a feedback coordinator to gather and analyze participant input.
    
 3. **Implement Reminders:**
    - Set up automated reminders and notifications to ensure all tasks are completed on time.
