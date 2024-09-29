@@ -410,7 +410,8 @@ The mission aims to develop an AI-Human Ethical Collaboration Framework to foste
 - **Key Inputs and Outputs:** Clearly defining the insights from AI representatives and community feedback as inputs, and the structured Collaboration Framework as the output.
 - **Proposed Plans:** Developing comprehensive communication strategies, including continuous refinement processes based on performance metrics and stakeholder feedback, to maintain the framework's relevance and effectiveness.
 
-#### Key Components
+#### Core Components
+
 - **Inclusivity:** Ensuring diverse participation from all stakeholders.
 - **Transparency:** Open documentation and clear communication of processes.
 - **Mutual Respect:** Valuing contributions from both AI and human partners.
