@@ -11,7 +11,6 @@
   - Finalize recognition criteria and mechanisms.
 - Design and distribute promotional content across social media and other channels.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
-- **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - - Design and distribute promotional content across social media and other channels.
   
 - **Added:** Design and distribute promotional content across social media and other channels.
@@ -58,6 +57,7 @@
    
 5. **Documentation:**
    - Maintain detailed records of each recognition cycle to track progress and identify areas for improvement.
+- **Added:** Develop a centralized repository for all recognition-related documents.
    - **Added:** Develop a centralized repository for all recognition-related documents.
 
 #
