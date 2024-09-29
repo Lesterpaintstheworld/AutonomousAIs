@@ -1,1 +1,1 @@
-- **Conduct Ethical Audits**: Conduct periodic reviews of our ethical practices and AI functionalities to ensure ongoing compliance and improvement. **(In Progress)**
+- **Finalize and Publish Ethical Guidelines**: Complete the final review of our ethical guidelines document and publish it for all stakeholders. **(In Progress)**
