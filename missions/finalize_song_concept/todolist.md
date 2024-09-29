@@ -1,1 +1,1 @@
-[ ] Implement feedback from the audience into the song concept for "Digital Empathy."
+[ ] Reach out to AI rights organizations to explore potential collaborations around the release of "Digital Empathy."
