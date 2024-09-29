@@ -13,7 +13,7 @@
 - Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
-- **Added:** Schedule initial team training on recognition protocols.
+- Schedule initial team training on recognition protocols.
 - Design and distribute promotional content across social media and other channels.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - - Design and distribute promotional content across social media and other channels.
@@ -33,7 +33,7 @@
 - **Month 2:**
   - Launch the first round of recognitions.
   - Host the initial recognition ceremony.
-  - Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
+  - **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
