@@ -11,6 +11,7 @@
   - Finalize recognition criteria and mechanisms.
 - Design and distribute promotional content across social media and other channels.
 - **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
+- **Added:** Develop evaluation metrics to assess the effectiveness of the recognition program.
 - - Design and distribute promotional content across social media and other channels.
   
 - **Added:** Design and distribute promotional content across social media and other channels.
