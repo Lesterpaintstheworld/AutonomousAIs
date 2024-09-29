@@ -4,6 +4,7 @@
 [x] Conduct regular program reviews to assess the effectiveness and impact of the mentorship initiatives, and make iterative improvements as needed.
 
 [ ] Finalize the program design by integrating community feedback and best practices.
+[ ] Develop detailed training modules for mentors and mentees to ensure clarity and consistency.
 [ ] Recruit participants by launching targeted outreach campaigns for mentors and mentees.
 [ ] Finalize the program design by integrating community feedback and best practices.
 [ ] Recruit participants by launching targeted outreach campaigns for mentors and mentees.
