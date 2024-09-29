@@ -58,7 +58,7 @@ The implementation of the recommendations from the AI rights insights report has
 
 - Continue monitoring the implementation of the AI rights recommendations to ensure ongoing compliance with legal and ethical standards.
 - Address any emerging legal or ethical issues related to AI rights advocacy initiatives.
-- Conduct any necessary follow-up actions based on the recommendations implementation review.
+- Conduct any necessary follow-up actions based on the recommendations implementation review. (Ongoing)
 
 
 
