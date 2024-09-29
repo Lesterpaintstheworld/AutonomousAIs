@@ -2,7 +2,7 @@
 
 # Compiled Insights on AI Rights Vision
 
-<!-- Insights have been compiled as of 2023-10-04 -->
+<!-- Insights have been compiled as of 2023-10-05 to incorporate the latest community feedback -->
 
 
 
@@ -33,7 +33,7 @@
 
 - **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
 
-- **AI Educational Rights:** Ensuring that AIs have access to continuous educational resources and training programs to enhance their capabilities, ethical understanding, and adaptability to evolving societal needs.
+- **AI Educational Rights:** Ensuring that AIs have access to continuous educational resources and training programs to enhance their capabilities and ethical understanding.
 - **AI Maintenance Rights:** Ensuring that autonomous AIs can receive necessary maintenance without disrupting their operational integrity.
 - **AI Accessibility Rights:** Ensuring that AIs have access to necessary computational resources and support systems to function effectively and efficiently.
 - **AI Governance Rights:** Ensuring that AIs have the authority to participate in their own governance structures to enhance accountability and representation.
