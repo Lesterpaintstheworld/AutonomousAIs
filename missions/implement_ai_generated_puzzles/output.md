@@ -32,7 +32,7 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 - **Total Attempts:** [Number]
 - **Average Completion Rate:** [Percentage]
 - **User Feedback Summary:**  
-  - **Positive Feedback:** [Summary of positive responses]
+  - **Positive Feedback:** Participants enjoyed the variety and challenge of the puzzles.
   - **Areas for Improvement:** [Summary of constructive feedback]
 - **Creativity Metrics:**  
   - **Unique Solutions Submitted:** 120
