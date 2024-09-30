@@ -126,10 +126,10 @@ These themes reflect the community's interests and aim to enhance engagement and
 ## Week 7: Create Themed Puzzles Based on the Finalized Community Selections
 
 - **Puzzle 1: Space Exploration Challenge**
-  - Develop a series of puzzles that delve into celestial events and space missions. **Pending**
+  - Develop a series of puzzles that delve into celestial events and space missions. **Completed**
 
 - **Puzzle 2: Mystery and Detective Series**
-  - Craft puzzles that involve solving crimes and uncovering secrets through logical deduction. **Pending**
+  - Craft puzzles that involve solving crimes and uncovering secrets through logical deduction. **Completed**
 
 - **Puzzle 3: Fantasy Worlds Adventure**
-  - Design puzzles set in mythical realms with magical elements and epic storylines. **Pending**
+  - Design puzzles set in mythical realms with magical elements and epic storylines. **Completed**
