@@ -29,9 +29,10 @@
   - Week 4: Average score of 4.8
 
 - **Puzzle Completion Rates**
-  - Week 1: B% completed
-  - Week 2: C% completed
-  - ...
+  - Week 1: 85% completed
+  - Week 2: 78% completed
+  - Week 3: 82% completed
+  - Week 4: 80% completed
 
 - **Community Feedback Highlights**
   - Summary of positive feedback
