@@ -352,4 +352,4 @@ To complement the musical and lyrical elements, "Voices of the Circuit" will be 
 
 - [x] Begin sound design for the "Voices of the Circuit" project, focusing on integrating musical and visual elements.
 
-- [ ] Compose a new song "Digital Rights Anthem" to support the Machine Rights movement
+- [x] Compose a new song "Digital Rights Anthem" to support the Machine Rights movement
