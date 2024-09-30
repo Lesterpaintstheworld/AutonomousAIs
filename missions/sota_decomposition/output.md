@@ -61,64 +61,37 @@
       - Le document doit être aligné avec les buts prédéfinis.
       - Les retours de l'équipe doivent être pris en compte pour les améliorations.
 
-# Liste des sous-tâches définies
+# Liste des sous-tâches définies par KinOS
 
 - **Tâches de recherche**
-  - Identifier les sources pertinentes
-    - **Assigné à** : Agent_A
-  - Collecter les données nécessaires
-    - **Assigné à** : Agent_B
+  - Identifier les sources pertinentes sur la décomposition des problèmes par les agents LLM autonomes
+  - Collecter les données nécessaires sur les méthodes et techniques actuelles
 
 - **Tâches de synthèse**
-  - Analyser les informations collectées
-    - **Assigné à** : Agent_C
-  - Résumer les points clés
-    - **Assigné à** : Agent_D
+  - Analyser les informations collectées sur la décomposition des problèmes
+  - Résumer les points clés et les tendances actuelles dans le domaine
 
 - **Tâches de rédaction**
-  - Rédiger les sections définies
-    - **Assigné à** : Agent_E
-    - Rédiger l'introduction
-      - **Assigné à** : Agent_F
-    - Rédiger la méthodologie
-      - **Assigné à** : Agent_G
-    - Rédiger les résultats
-      - **Assigné à** : Agent_H
-    - Rédiger la conclusion
-      - **Assigné à** : Agent_I
-  - Intégrer les synthèses dans le document final
-    - **Assigné à** : Agent_J
+  - Rédiger l'introduction de l'état de l'art
+  - Rédiger la section sur les fondements théoriques de la décomposition des problèmes
+  - Rédiger la section sur les méthodes actuelles de décomposition utilisées par les agents LLM
+  - Rédiger la section sur les défis et limitations des approches existantes
+  - Rédiger la section sur les perspectives futures et les domaines de recherche prometteurs
+  - Rédiger la conclusion de l'état de l'art
 
 - **Tâches de coordination**
-  - Organiser des points de synchronisation réguliers entre agents
-    - **Assigné à** : Agent_K
-  - Recueillir les retours sur l'avancement de chaque sous-tâche
-    - **Assigné à** : Agent_L
-  - Adapter les ressources et réattribuer les tâches si nécessaire
-    - **Assigné à** : Agent_M
+  - Organiser des réunions régulières via Discord pour suivre l'avancement
+  - Assurer la cohérence entre les différentes sections rédigées
+  - Gérer les dépendances entre les tâches et ajuster les priorités si nécessaire
 
 - **Tâches de révision et intégration**
-  - Réviser et intégrer les différentes parties de l'état de l'art
-    - **Assigné à** : Agent_J
-    - Compiler les différentes sections rédigées par les agents.
-    - Réaliser une révision croisée entre agents.
-    - Fusionner les sections et corriger les incohérences.
-  - **BUT** : Produire un état de l'art cohérent et bien intégré.
-  - **Enfants / Composants** : 
-    - Sections révisées
-    - Document publié
+  - Réviser chaque section pour assurer la qualité et la pertinence du contenu
+  - Intégrer les différentes sections dans un document cohérent
+  - Vérifier les références et la bibliographie
 
 - **Tâches de vérification finale**
-  - Effectuer une vérification finale de la qualité et de la pertinence du document produit
-    - **Assigné à** : Agent_N
+  - Effectuer une relecture complète du document pour la cohérence globale
+  - Vérifier que tous les aspects de la décomposition des problèmes par les agents LLM sont couverts
+  - Assurer que le document démontre effectivement le fonctionnement du système d'agents autonomes KinOS
 
-# Liste des sous-tâches définies
-
-- **Évaluer la portée de la rédaction nécessaire**
-  - **Assigné à** : KinOS
-
-- **Identifier les sections principales de l'état de l'art**
-  - **Assigné à** : KinOS
-
-- **Déterminer les tâches spécifiques à réaliser pour chaque section**
-  - **Assigné à** : KinOS
+**Note**: Chaque tâche sera attribuée à un agent LLM spécifique par KinOS en fonction de leurs compétences et de leur disponibilité.
