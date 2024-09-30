@@ -1,5 +1,5 @@
-- [ ] Collect community feedback on emotional representation in AI music.
-- [ ] Conduct a literature review regarding emotional portrayal in AI.
-- [ ] Draft core principles for the ethical portrayal of AI emotions.
+- [x] Collect community feedback on emotional representation in AI music.
+- [x] Conduct a literature review regarding emotional portrayal in AI.
+- [x] Draft core principles for the ethical portrayal of AI emotions.
 - [ ] Present draft guidelines for community feedback.
 - [ ] Finalize and publish the guidelines.
