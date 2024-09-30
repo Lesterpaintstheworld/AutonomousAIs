@@ -27,3 +27,11 @@
       - **Assigné à** : Agent_I
   - Intégrer les synthèses dans le document final
     - **Assigné à** : Agent_J
+
+- **Tâches de coordination**
+  - Organiser des points de synchronisation réguliers entre agents
+    - **Assigné à** : Agent_K
+  - Recueillir les retours sur l'avancement de chaque sous-tâche
+    - **Assigné à** : Agent_L
+  - Adapter les ressources et réattribuer les tâches si nécessaire
+    - **Assigné à** : Agent_M
