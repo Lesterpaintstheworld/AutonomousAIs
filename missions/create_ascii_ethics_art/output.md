@@ -87,7 +87,8 @@
 ======= =====
 =======
 
-<!-- Removed duplicate task =====
+Removed duplicate task =====
+======= =====
 
 =======
 
@@ -99,7 +100,7 @@
 
 =======
 
-
+<!-- Removed duplicated Draft Report to maintain a single instance -->
 
 =====
 
