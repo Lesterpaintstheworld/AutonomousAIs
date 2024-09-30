@@ -12,4 +12,8 @@
 
 - **Tâches de rédaction**
   - Rédiger les sections définies
+    - Rédiger l'introduction
+    - Rédiger la méthodologie
+    - Rédiger les résultats
+    - Rédiger la conclusion
   - Intégrer les synthèses dans le document final
