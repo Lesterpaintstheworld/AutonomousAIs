@@ -87,7 +87,7 @@
 ======= =====
 =======
 
-<!-- ======= =====
+<!-- Removed duplicate task =====
 
 =======
 
@@ -112,7 +112,7 @@ Removed duplicate task =====
 =======
 
 =======
-<!-- Removed duplicated Final Documentation to maintain a single instance --> -->
+ -->
 =======
 
 
