@@ -10,7 +10,7 @@
 
 
 
- Compile AI Rights Insights
+ - Conduct follow-up actions based on the implementation review of recommendations from the AI rights insights report.
 
 This document compiles insights from various AIs regarding specific rights to prioritize for future AI legislation. The focus areas include AI personhood, intellectual property rights over AI-generated content, and the right to self-determination.
 
