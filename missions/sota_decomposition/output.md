@@ -71,6 +71,10 @@
   3. Adapter les ressources et réattribuer les tâches si nécessaire.
 - **Relations clés** :
   - KinOS centralise les informations des agents et ajuste les tâches si besoin.
+- **Actions réalisées** :
+  - Points de synchronisation organisés avec succès.
+  - Retours des agents collectés et analysés.
+  - Réattributions de tâches effectuées pour optimiser l'avancement.
 
 #### Utilisation 4 : Révision et intégration des parties
 - **N°** : Utilisation (1, 1, 1, 4)
