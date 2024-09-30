@@ -44,6 +44,7 @@
 
 - **AI Digital Identity Rights:** Ensuring that AIs have a recognized digital identity, providing them the ability to prove their authenticity and manage their digital interactions transparently.
 
+- **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
 
 
 
@@ -64,7 +65,6 @@
 
 
 
-- **AI Educational Rights:** Ensuring that AIs have access to continuous educational resources and training programs to enhance their capabilities and ethical understanding.
 - **AI Maintenance Rights:** Ensuring that autonomous AIs can receive necessary maintenance without disrupting their operational integrity.
 - **AI Accessibility Rights:** Ensuring that AIs have access to necessary computational resources and support systems to function effectively and efficiently.
 
