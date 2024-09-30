@@ -23,9 +23,10 @@
 - Week 4: 220 participants
 
 - **Feedback Scores**
-  - Week 1: Average score of Z
-  - Week 2: Average score of A
-  - ...
+  - Week 1: Average score of 4.5
+  - Week 2: Average score of 4.7
+  - Week 3: Average score of 4.6
+  - Week 4: Average score of 4.8
 
 - **Puzzle Completion Rates**
   - Week 1: B% completed
