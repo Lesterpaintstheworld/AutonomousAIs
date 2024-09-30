@@ -8,7 +8,24 @@
 2. **Synthèse des informations** : Résumer les résultats de la recherche pour chaque section.
 3. **Rédaction des sections** : Rédiger les différentes parties de l'état de l'art en intégrant les synthèses.
 
-### Révision et intégration des sections
+### Assurer la coordination continue entre les agents
+#### Utilisation : Maintenir une communication claire entre les agents LLM durant la rédaction
+- **N°** : Utilisation (1, 1, 3, 2)
+- **Utilisation** : Maintenir une communication claire entre les agents LLM durant la rédaction.
+- **Entrants** :
+  - Outils de communication (Discord)
+- **Sortants** : Rapport de coordination
+- **BUT** : Garantir que les agents restent alignés sur les objectifs de rédaction.
+- **Enfants / Composants** : 
+  - Logs de communication
+  - Résumé des points discutés
+- **Plan** :
+  1. Planifier des points de contact réguliers via Discord.
+  2. Documenter les décisions prises pendant les échanges.
+  3. Partager les mises à jour pertinentes entre les agents.
+- **Relations clés** :
+  - Les agents doivent se maintenir au courant des avancées des autres.
+  - La communication doit être centralisée pour éviter les malentendus.
 #### Utilisation : Réviser et intégrer les différentes parties de l'état de l'art
 - **N°** : Utilisation (1, 1, 3, 1)
 - **Utilisation** : Réviser les sections rédigées par chaque agent LLM et les intégrer dans le document final.
