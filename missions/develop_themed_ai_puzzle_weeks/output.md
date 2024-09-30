@@ -102,5 +102,5 @@
 
 - **Next Steps**
   - Analyze Week 5 and Week 6 data for insights
-  - Select new themes based on feedback
+  - Select new themes based on feedback. **Completed**
   - Develop timeline and action plan for Week 7 puzzle activities
