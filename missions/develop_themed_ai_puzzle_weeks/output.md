@@ -44,7 +44,7 @@
 - **Week 1: Designated channel for theme suggestions created and community input is underway**
   - Puzzle 1: Create a channel for community input on puzzle themes. **Completed**
   - Puzzle 2: Collect and document community suggestions for puzzle themes. **Completed**
-  - Puzzle 3: Summarize and categorize the collected suggestions to inform theme selection.
+  - Puzzle 3: Summarize and categorize the collected suggestions to inform theme selection. **Completed**
 
 - **Week 3: Analyze community suggestions and finalize theme selections**
   - Puzzle 1: Review and categorize all community-submitted themes. **Completed**
