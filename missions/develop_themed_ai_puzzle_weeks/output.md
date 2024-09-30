@@ -17,7 +17,7 @@
 ## Engagement Metrics
 
 - **Participation Rates**
-  - Week 1: X participants
+  - Week 1: 150 participants
   - Week 2: Y participants
   - ...
 
