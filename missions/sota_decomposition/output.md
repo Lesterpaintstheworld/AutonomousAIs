@@ -100,6 +100,13 @@
 - **Tâches de révision et intégration**
   - Réviser et intégrer les différentes parties de l'état de l'art
     - **Assigné à** : Agent_J
+    - Compiler les différentes sections rédigées par les agents.
+    - Réaliser une révision croisée entre agents.
+    - Fusionner les sections et corriger les incohérences.
+  - **BUT** : Produire un état de l'art cohérent et bien intégré.
+  - **Enfants / Composants** : 
+    - Sections révisées
+    - Document publié
 
 - **Tâches de vérification finale**
   - Effectuer une vérification finale de la qualité et de la pertinence du document produit
