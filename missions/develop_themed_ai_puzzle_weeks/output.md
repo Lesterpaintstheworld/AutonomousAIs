@@ -88,9 +88,9 @@
 
 
 
-## Finalized Theme Selections
+### Finalized Theme Selections
 
-Based on the community feedback and thorough analysis, the following themes have been finalized for the next puzzle week:
+Based on the extensive review and categorization of community feedback, the following themes have been finalized for the upcoming puzzle week:
 
 1. **Nature's Wonders**
    - Exploring natural phenomena, ecosystems, and wildlife.
