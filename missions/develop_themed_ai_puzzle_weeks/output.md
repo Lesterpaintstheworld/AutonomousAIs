@@ -85,25 +85,7 @@
   - Brainstorm and select new themes based on community suggestions.
   - Develop a timeline and action plan for Week 6 puzzle activities.
 
-## Week 6: Plan and Prepare Next Puzzle Week
 
-- **Participation Rates**
-  - Week 6: 240 participants
-
-- **Feedback Scores**
-  - Week 6: Average score of 4.7
-
-- **Puzzle Completion Rates**
-  - Week 6: 83% completed
-
-- **Community Feedback Highlights**
-  - Increased interest in collaborative puzzles
-  - Requests for more challenging puzzles
-
-- **Next Steps**
-  - Analyze Week 5 and Week 6 data for insights
-  - Select new themes based on feedback. **Completed**
-  - Develop timeline and action plan for Week 7 puzzle activities
 
 ## Finalized Theme Selections
 
