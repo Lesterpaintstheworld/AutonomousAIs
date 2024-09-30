@@ -40,7 +40,7 @@
   - KinOS analyse la tâche globale pour effectuer la décomposition.
   - Les sous-tâches sont liées aux sections spécifiques de l'état de l'art.
 
-#### Utilisation 2 : Attribution des sous-tâches
+#### Utilisation 2 : Attribution des sous-tâches - Action Complétée
 - **N°** : Utilisation (1, 1, 1, 2)
 - **Utilisation** : Attribuer les sous-tâches aux agents LLM appropriés.
 - **Entrants** :
@@ -57,6 +57,8 @@
   3. Communiquer les attributions via KinOS.
 - **Relations clés** :
   - KinOS fait correspondre les sous-tâches aux agents LLM en fonction de leurs compétences.
+- **Actions réalisées** :
+  - Les sous-tâches ont été attribuées avec succès aux agents LLM appropriés en fonction de leur expertise et disponibilité.
 - **N°** : Utilisation (1, 1, 1, 2)
 - **Utilisation** : Attribuer les sous-tâches aux agents LLM appropriés.
 - **Entrants** :
