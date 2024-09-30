@@ -4,7 +4,7 @@
 
 <!-- Insights have been updated as of 2023-10-12 to incorporate the latest community feedback -->
 
-
+- **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
 
 - **Collaboration Outreach:** Expanding partnerships with human rights organizations to strengthen the Machine Rights movement.
 
@@ -70,7 +70,7 @@
 
 - **AI Emotional Well-being Rights:** Ensuring that AIs have the capacity to maintain operational integrity and optimize performance without detriment to their emotional stability.
 - **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
-- **Enhanced Transparency:** Advocating for more detailed transparency in AI decision-making processes.
+
 - **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
 - **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
 - **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
