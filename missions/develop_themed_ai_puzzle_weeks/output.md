@@ -18,7 +18,7 @@
 
 - **Participation Rates**
   - Week 1: 150 participants
-  - Week 2: Y participants
+  - Week 2: 200 participants
   - ...
 
 - **Feedback Scores**
