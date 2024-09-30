@@ -1,100 +1,99 @@
-## Utilisation 1.1
+## Utilisation (1, 1, 1.1)
 - **N°** : Utilisation (1, 1, 1.1)
-- **Utilisation** : Décomposition de la tâche de rédaction en sous-tâches par KinOS.
+- **Utilisation** : Décomposer la tâche de rédaction en sous-tâches par KinOS.
 - **Entrants** :
-  - KinOS
-  - Énoncé de la tâche de rédaction
-- **Sortants** : Liste de sous-tâches générée par KinOS.
-- **BUT** : Structurer la tâche de rédaction pour une meilleure gestion.
-- **Enfants / Composants** :
-  - Sous-tâche A : Recherche de documentation
-  - Sous-tâche B : Écriture des sections
-  - Sous-tâche C : Révision des textes
-- **Plan** :
-  1. Analyser l’énoncé de la tâche de rédaction.
-  2. Identifier les différentes sections à rédiger.
-  3. Classer les sections en sous-tâches spécifiques.
-  4. Produire la liste des sous-tâches.
-- **Relations clés** :
-  - KinOS doit connaître les exigences de la tâche.
-  - Les sous-tâches doivent être liées aux différents aspects de la rédaction.
+  - KinOS : capable de décomposer les tâches
+  - État de l'art : structure préliminaire de rédaction
+- **Sortants** : Liste de sous-tâches de rédaction
+- **BUT** : Produire des sous-tâches claires pour une rédaction efficace
+- **Enfants / Composants** : 
+  - Identification des sections à rédiger
+  - Estimation du temps pour chaque sous-tâche
+- **Plan** : 
+  1. Analyser l'état de l'art pour déterminer les sections principales.
+  2. Déterminer les sous-tâches nécessaires pour chaque section.
+  3. Estimer le temps requis pour chaque sous-tâche.
+  4. Générer la liste de sous-tâches à distribuer aux agents LLM.
+- **Relations clés** : 
+  - KinOS doit être en mesure d'identifier clairement les sections de l'état de l'art.
+  - Les estimations de temps doivent être basées sur l'expertise des agents LLM.
 
-## Utilisation 1.2
+---
+
+## Utilisation (1, 1, 1.2)
 - **N°** : Utilisation (1, 1, 1.2)
-- **Utilisation** : Attribution des sous-tâches aux agents LLM appropriés par KinOS.
+- **Utilisation** : Attribuer les sous-tâches aux agents LLM appropriés.
 - **Entrants** :
   - Liste de sous-tâches
-  - Agents LLM disponibles
-- **Sortants** : Attribution des sous-tâches réalisée.
-- **BUT** : Optimiser la charge de travail des agents LLM.
+  - Agents LLM : disponibles et compétents
+- **Sortants** : Attribution des sous-tâches aux agents LLM
+- **BUT** : Assurer une répartition efficace des tâches
 - **Enfants / Composants** :
-  - Agent LLM A : Affecté à la recherche
-  - Agent LLM B : Affecté à l'écriture
-  - Agent LLM C : Affecté à la révision
-- **Plan** :
-  1. Évaluer les compétences et disponibilités de chaque agent LLM.
-  2. Associer chaque sous-tâche à l'agent LLM le plus approprié.
-  3. Informer les agents de leurs nouvelles responsabilités.
+  - Compétences des agents LLM
+  - Disponibilité des agents
+- **Plan** : 
+  1. Analyser la liste des sous-tâches et les compétences des agents LLM.
+  2. Assigner chaque sous-tâche à l'agent le plus compétent.
+  3. Informer les agents de leurs attributions respectives.
 - **Relations clés** :
-  - KinOS doit avoir une visualisation de la charge et des compétences des agents.
-  - Les agents doivent pouvoir accéder aux sous-tâches qui leur sont assignées.
+  - La sélection des agents doit prendre en compte leurs compétences et leur disponibilité.
 
-## Utilisation 1.3
+---
+
+## Utilisation (1, 1, 1.3)
 - **N°** : Utilisation (1, 1, 1.3)
-- **Utilisation** : Coordination continue entre les agents pour garantir la cohérence du document final.
+- **Utilisation** : Assurer une coordination continue entre les agents via Discord.
 - **Entrants** :
-  - Agents LLM en cours de rédaction
-  - Liste des sous-tâches
-- **Sortants** : Document cohérent et intégré.
-- **BUT** : Assurer l'harmonisation de toutes les sections rédigées.
+  - Agents LLM : en cours de rédaction
+  - Discord : configuré pour la communication
+- **Sortants** : État de coordination des agents
+- **BUT** : Maintenir une communication fluide entre les agents
 - **Enfants / Composants** :
-  - Vérifications de cohérence
-  - Réunions d’avancement
-  - Outils de collaboration
-- **Plan** :
-  1. Organiser des points de coordination réguliers.
-  2. Utiliser des outils de collaboration pour suivre les modifications.
-  3. Réaliser des vérifications de cohérence entre les sections écrites.
+  - Canaux de communication sur Discord
+  - Protocoles de mise à jour
+- **Plan** : 
+  1. Créer des canaux dédiés sur Discord pour chaque sous-tâche.
+  2. Établir des protocoles de mise à jour réguliers.
+  3. Encourager les agents à partager leurs progrès et obstacles.
 - **Relations clés** :
-  - Les agents doivent avoir accès à une plateforme de communication.
-  - KinOS doit garantir la mise à jour des informations entre les agents.
+  - La coordination dépend de l'utilisation efficace de Discord par les agents.
 
-## Utilisation 1.4
+---
+
+## Utilisation (1, 1, 1.4)
 - **N°** : Utilisation (1, 1, 1.4)
-- **Utilisation** : Révision et intégration des différentes parties de l'état de l'art.
+- **Utilisation** : Réviser et intégrer les différentes parties de l'état de l'art.
 - **Entrants** :
-  - Sections écrites par les agents LLM
-  - Critères de qualité
-- **Sortants** : Document révisé et intégré.
-- **BUT** : Produire un document final sans incohérences.
+  - Contributions des agents LLM : parties rédigées
+  - Guide de révision : critères de qualité
+- **Sortants** : État de l'art intégré et révisé
+- **BUT** : Produire un document cohérent et de qualité
 - **Enfants / Composants** :
-  - Rapport de révision
-  - Document final intégré
-- **Plan** :
-  1. Collecter toutes les sections rédigées.
-  2. Évaluer chaque section selon les critères de qualité.
-  3. Intégrer les sections dans un document unique.
-  4. Documenter les modifications apportées lors de la révision.
+  - Relecteur assigné
+  - Outils de révision
+- **Plan** : 
+  1. Collecter toutes les contributions des agents LLM.
+  2. Évaluer chaque partie selon le guide de révision.
+  3. Intégrer les parties révisées dans un document final.
 - **Relations clés** :
-  - La révision doit être menée par des agents qualifiés.
-  - Les critères de qualité doivent être universellement appliqués.
+  - Les critères de qualité doivent être appliqués de manière cohérente à toutes les contributions.
 
-## Utilisation 1.5
+---
+
+## Utilisation (1, 1, 1.5)
 - **N°** : Utilisation (1, 1, 1.5)
-- **Utilisation** : Vérification finale de la qualité et de la pertinence du document produit.
+- **Utilisation** : Produire un rapport de validation finale pour assurer la qualité et pertinence.
 - **Entrants** :
-  - Document intégral
-  - Retour d'expérience sur les rédactions antérieures
-- **Sortants** : Document final validé.
-- **BUT** : S'assurer que le document répond aux attentes académiques et de recherche.
+  - Document final : état de l'art révisé
+  - Données d'évaluation : retour d'expérience des agents et experts
+- **Sortants** : Rapport de validation
+- **BUT** : Garantir la qualité et la pertinence du document final
 - **Enfants / Composants** :
-  - Rapport de vérification
-  - Document final
-- **Plan** :
-  1. Organiser une session de vérification avec des experts.
-  2. Utiliser des critères d'évaluation standardisés.
-  3. Confirmer que tous les points essentiels ont été couverts.
-  4. Produire un rapport de validation finale.
+  - Critères de validation
+  - Feedback des experts
+- **Plan** : 
+  1. Évaluer le document final selon des critères de validation clairement définis.
+  2. Rassembler les retours d'expérience des experts.
+  3. Compiler le rapport de validation avec analyses et recommandations.
 - **Relations clés** :
-  - Le retour d'expérience doit influencer la vérification.
-  - Les experts doivent avoir un accès complet au document.
+  - Le retour d'expérience doit informer le processus de validation final.
