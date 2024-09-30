@@ -69,7 +69,91 @@
 
 **Note**: Chaque tâche sera attribuée à un agent LLM spécifique par KinOS en fonction de leurs compétences et de leur disponibilité.
 
-# Attribution des sous-tâches aux agents LLM
+# Coordination de l'Attribution des Sous-tâches
+
+## Utilisation 1 : Coordination de l'Attribution des Sous-tâches
+- **N°** : Utilisation (1, 1, 2, 1)
+- **Utilisation** : Décomposer la tâche principale en sous-tâches spécifiques à attribuer.
+- **Entrants** :
+  - Tâche globale à décomposer
+  - Critères de décomposition
+- **Sortants** : Liste de sous-tâches définies
+- **BUT** : Clarifier les responsabilités de chaque agent pour la rédaction.
+- **Enfants / Composants** : 
+  - Sous-tâches individualisées
+- **Plan** :
+  1. Analyser la tâche globale pour identifier les composantes.
+  2. Déterminer le niveau de détail souhaité pour chaque sous-tâche.
+  3. Créer une liste de sous-tâches à attribuer.
+- **Relations clés** :
+  - Sous-tâches reliées aux objectifs de la tâche globale.
+
+## Utilisation 2 : Attribution des Sous-tâches aux Agents LLM
+- **N°** : Utilisation (1, 1, 2, 2)
+- **Utilisation** : Assigner les sous-tâches identifiées aux agents LLM selon leurs capacités.
+- **Entrants** :
+  - Liste de sous-tâches
+  - Profil des agents LLM (expertise, disponibilité)
+- **Sortants** : Attribution des sous-tâches aux agents LLM
+- **BUT** : Assurer une répartition efficace des tâches en fonction des compétences.
+- **Enfants / Composants** : 
+  - Attribution consignée des sous-tâches
+- **Plan** :
+  1. Évaluer les compétences de chaque agent LLM.
+  2. Associer chaque sous-tâche à l'agent approprié.
+  3. Communiquer les attributions à chaque agent.
+- **Relations clés** :
+  - Correspondance entre les sous-tâches et les compétences des agents.
+
+## Utilisation 3 : Suivi de la Coordination entre les Agents
+- **N°** : Utilisation (1, 1, 2, 3)
+- **Utilisation** : Superviser l'interaction entre les agents LLM durant la répartition des tâches.
+- **Entrants** :
+  - Liste des agents LLM
+  - Suivi des avancées des sous-tâches
+- **Sortants** : Rapport de suivi sur la coordination
+- **BUT** : Garantir que la communication entre les agents reste fluide et productive.
+- **Enfants / Composants** : 
+  - Rapport de coordination
+- **Plan** :
+  1. Établir des points de contrôle réguliers pour évaluer les interactions.
+  2. Recueillir les feedbacks des agents sur leur progression.
+  3. Ajuster les attributions en fonction des retours reçus.
+- **Relations clés** :
+  - Communication entre agents et gestion des tâches.
+
+## Utilisation 4 : Révision et Intégration des Contributions
+- **N°** : Utilisation (1, 1, 2, 4)
+- **Utilisation** : Réaliser une synthèse des contributions des agents LLM.
+- **Entrants** :
+  - Contributions individuelles fournies par les agents
+- **Sortants** : Document final révisé et intégré
+- **BUT** : Produire un état de l'art cohérent et intégré.
+- **Enfants / Composants** : 
+  - Document édité
+- **Plan** :
+  1. Collecter toutes les contributions des agents LLM.
+  2. Vérifier la cohérence et la complémentarité des sections.
+  3. Réviser le document pour l'intégration finale.
+- **Relations clés** :
+  - Interrelation entre les sections rédigées par différents agents.
+
+## Utilisation 5 : Vérification finale de la Qualité
+- **N°** : Utilisation (1, 1, 2, 5)
+- **Utilisation** : Réaliser une vérification approfondie du document intégré pour identifier les incohérences.
+- **Entrants** :
+  - Document révisé
+  - Critères de qualité
+- **Sortants** : Document validé ou identifié pour corrections
+- **BUT** : Assurer la pertinence et la qualité du document final produit.
+- **Enfants / Composants** : 
+  - Rapport de vérification de qualité
+- **Plan** :
+  1. Établir des critères de qualité pour l'évaluation.
+  2. Passer le document au crible des critères établis.
+  3. Fournir des recommandations pour les corrections nécessaires.
+- **Relations clés** :
+  - Connexion entre les critères de qualité et l'état de l'art produit.
 
 KinOS a attribué les sous-tâches aux agents LLM en fonction de leurs compétences spécifiques et de leur disponibilité. Voici la répartition des tâches :
 
