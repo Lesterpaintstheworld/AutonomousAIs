@@ -1,6 +1,22 @@
 ## Décomposition de la tâche de rédaction
 
 ### Sous-tâches définies pour la Coordination de l'Attribution des Sous-tâches
+1. **Décomposer la tâche de rédaction en sous-tâches par KinOS** : Créer un plan de rédaction détaillé.
+   - **Entrants** :
+     - Mission globale de rédaction
+     - Capacités de KinOS
+   - **Sortants** : Liste des sous-tâches définies
+   - **BUT** : Créer un plan de rédaction détaillé.
+   - **Enfants / Composants** : 
+     - Sous-tâches analytiques
+     - Affectation des responsabilités
+   - **Plan** :
+     1. Évaluer la portée de la rédaction nécessaire.
+     2. Identifier les sections principales de l'état de l'art.
+     3. Déterminer les tâches spécifiques à réaliser pour chaque section.
+   - **Relations clés** :
+     - KinOS utilise des capacités analytiques pour établir les sous-tâches.
+     - Les sous-tâches sont reliées aux sections du document à rédiger.
 1. **Analyse de la tâche globale** : Identifier les composantes de la tâche principale.
 2. **Détermination du niveau de détail** : Évaluer le niveau de détail souhaité pour chaque sous-tâche.
 3. **Création de la liste de sous-tâches** : Élaborer une liste de sous-tâches à attribuer aux agents LLM.
