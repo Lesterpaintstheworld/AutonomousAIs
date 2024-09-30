@@ -5,7 +5,22 @@
 2. **Synthèse des informations** : Résumer les résultats de la recherche pour chaque section.
 3. **Rédaction des sections** : Rédiger les différentes parties de l'état de l'art en intégrant les synthèses.
 
-### Coordination continue des agents
+### Révision et intégration des parties
+- **Utilisation** : Réviser et intégrer les différentes parties de l'état de l'art.
+- **Entrants** :
+  - Parties rédigées par les agents LLM
+  - Critères de qualité pour l'état de l'art
+- **Sortants** : Document d'état de l'art intégré
+- **BUT** : Produire un document cohérent et de haute qualité.
+- **Enfants / Composants** : 
+  - Sections révisées
+  - Références croisées effectuées
+- **Plan** :
+  1. Rassembler toutes les sections produites par les agents.
+  2. Vérifier la qualité et la cohérence de chaque partie.
+  3. Intégrer les parties en un seul document fluide.
+- **Relations clés** :
+  - Le processus de révision s'assure de la qualité et de la pertinence des parties intégrées.
 - **Utilisation** : Assurer la coordination continue entre les agents pour garantir la cohérence du document final.
 - **Entrants** :
   - Sous-tâches en cours
