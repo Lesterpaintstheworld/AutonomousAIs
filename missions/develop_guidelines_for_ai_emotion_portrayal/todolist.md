@@ -58,4 +58,4 @@ Based on the collected community feedback, the following insights have been gath
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
 - [x] Present draft guidelines for community feedback.
-- [ ] Finalize and publish the guidelines.
+- [x] Finalize and publish the guidelines.
