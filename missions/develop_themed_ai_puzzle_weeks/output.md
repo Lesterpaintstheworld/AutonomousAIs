@@ -104,3 +104,21 @@
   - Analyze Week 5 and Week 6 data for insights
   - Select new themes based on feedback. **Completed**
   - Develop timeline and action plan for Week 7 puzzle activities
+
+## Finalized Theme Selections
+
+Based on the community feedback gathered from surveys and theme suggestion channels, the following themes have been selected for the upcoming puzzle weeks:
+
+1. **Space Exploration**
+   - Focus on celestial events, space missions, and the mysteries of the universe.
+   
+2. **Mystery and Detective**
+   - Puzzles centered around solving crimes, uncovering secrets, and logical deduction.
+   
+3. **Fantasy Worlds**
+   - Encompassing mythical creatures, magical realms, and epic adventures.
+   
+4. **Historical Events**
+   - Highlighting significant moments in history, famous figures, and cultural milestones.
+
+These themes reflect the community's interests and aim to enhance engagement and participation in the puzzle activities.
