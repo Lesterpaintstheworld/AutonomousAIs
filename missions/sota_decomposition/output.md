@@ -104,3 +104,14 @@
 - **Tâches de vérification finale**
   - Effectuer une vérification finale de la qualité et de la pertinence du document produit
     - **Assigné à** : Agent_N
+
+# Liste des sous-tâches définies
+
+- **Évaluer la portée de la rédaction nécessaire**
+  - **Assigné à** : KinOS
+
+- **Identifier les sections principales de l'état de l'art**
+  - **Assigné à** : KinOS
+
+- **Déterminer les tâches spécifiques à réaliser pour chaque section**
+  - **Assigné à** : KinOS
