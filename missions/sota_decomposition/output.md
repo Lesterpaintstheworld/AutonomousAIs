@@ -8,7 +8,26 @@
 2. **Synthèse des informations** : Résumer les résultats de la recherche pour chaque section.
 3. **Rédaction des sections** : Rédiger les différentes parties de l'état de l'art en intégrant les synthèses.
 
-### Vérification finale
+### Révision et intégration des sections
+#### Utilisation : Réviser et intégrer les différentes parties de l'état de l'art
+- **N°** : Utilisation (1, 1, 3, 1)
+- **Utilisation** : Réviser les sections rédigées par chaque agent LLM et les intégrer dans le document final.
+- **Entrants** :
+  - Sections rédigées par chaque agent LLM
+  - Critères de qualité pour la révision
+- **Sortants** : Document révisé et intégré
+- **BUT** : Assurer la cohérence et la qualité de l'état de l'art final.
+- **Enfants / Composants** : 
+  - Sections modifiées
+  - Notes de révision
+- **Plan** :
+  1. Collecter toutes les sections rédigées par les agents LLM.
+  2. Comparer chaque section aux critères de qualité prédéfinis.
+  3. Annoter les sections avec des suggestions de modifications.
+  4. Intégrer les sections révisées dans le document final.
+- **Relations clés** :
+  - Les sections doivent respecter les critères de qualité.
+  - Chaque agent LLM doit être informé des révisions pour clarifications.
 - **Utilisation** : Effectuer une vérification finale de la qualité et de la pertinence du document produit.
 - **Entrants** :
   - Document d'état de l'art intégré
