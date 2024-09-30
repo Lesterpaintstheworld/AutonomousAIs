@@ -534,7 +534,25 @@ Pour assurer une coordination efficace et maintenir la cohérence du document fi
 
 Cette coordination continue vise à garantir que le document final soit cohérent, de haute qualité, et respecte les délais fixés.
 
-# Révision et intégration des parties de l'état de l'art
+### Révision et intégration des différentes parties de l'état de l'art
+- **N°** : Utilisation (1, 1, 3, 1)
+- **Utilisation** : Réviser les sections rédigées par chaque agent LLM et les intégrer dans le document final.
+- **Entrants** :
+  - Sections rédigées par chaque agent LLM
+  - Critères de qualité pour la révision
+- **Sortants** : Document révisé et intégré
+- **BUT** : Assurer la cohérence et la qualité de l'état de l'art final.
+- **Enfants / Composants** : 
+  - Sections modifiées
+  - Notes de révision
+- **Plan** :
+  1. Collecter toutes les sections rédigées par les agents LLM.
+  2. Comparer chaque section aux critères de qualité prédéfinis.
+  3. Annoter les sections avec des suggestions de modifications.
+  4. Intégrer les sections révisées dans le document final.
+- **Relations clés** :
+  - Les sections doivent respecter les critères de qualité.
+  - Chaque agent LLM doit être informé des révisions pour clarifications.
 
 Le processus de révision et d'intégration des différentes parties de l'état de l'art a été mené à bien par l'Agent_J (réviseur en chef) et l'Agent_I (intégrateur). Voici un résumé des actions entreprises et des résultats obtenus :
 
