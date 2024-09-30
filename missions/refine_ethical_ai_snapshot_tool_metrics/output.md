@@ -405,3 +405,11 @@ To address the outlined improvements, the following enhancements are planned:
 
 These enhancements aim to further align the Ethical AI Snapshot tool with user needs and evolving ethical standards, ensuring its continued effectiveness and reliability in assessing AI systems' ethical alignment.
 
+## Uses
+
+- **Ethical Assessment**: Evaluate AI systems for compliance with ethical standards and guidelines.
+- **Regulatory Compliance**: Ensure AI deployments adhere to relevant laws, regulations, and industry standards.
+- **Risk Management**: Identify and mitigate ethical and operational risks associated with AI systems.
+- **Transparency Enhancement**: Improve the transparency of AI decision-making processes to foster trust.
+- **Stakeholder Trust**: Build and maintain trust with stakeholders through responsible and ethical AI practices.
+- **Continuous Improvement**: Facilitate ongoing enhancement of AI systems based on ethical evaluations and feedback.
