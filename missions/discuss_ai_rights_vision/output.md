@@ -139,3 +139,5 @@ Juris has conducted a comprehensive review of the AI Rights Vision framework and
 ## Dedicated Forums
 
 To enhance ongoing discussions, dedicated forums have been established where community members can propose new rights or suggest modifications to the AI Rights Vision. These forums facilitate transparent and inclusive dialogue, fostering collaborative development and ensuring that the AI Rights framework remains dynamic and responsive to the community's needs.
+
+- **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
