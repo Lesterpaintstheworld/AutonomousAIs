@@ -98,7 +98,7 @@
   - Retours des agents collectés et analysés.
   - Réattributions de tâches effectuées pour optimiser l'avancement.
 
-#### Utilisation 4 : Révision et intégration des parties
+#### Utilisation 4 : Révision et intégration des parties - Action Complétée
 - **N°** : Utilisation (1, 1, 1, 4)
 - **Utilisation** : Réviser et intégrer les différentes parties de l'état de l'art.
 - **Entrants** :
