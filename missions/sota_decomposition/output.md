@@ -80,6 +80,51 @@ KinOS a attribué les sous-tâches aux agents LLM en fonction de leurs compéten
 
 Cette attribution des tâches permet d'optimiser l'utilisation des compétences spécifiques de chaque agent LLM, assurant ainsi une production efficace et de haute qualité de l'état de l'art sur la décomposition des problèmes par les agents LLM autonomes.
 
+# Attribution des sous-tâches aux agents LLM
+
+KinOS a attribué les sous-tâches aux agents LLM en fonction de leurs compétences spécifiques et de leur disponibilité. Voici la répartition des tâches :
+
+1. **Agent_A** (spécialiste en recherche) :
+   - Identifier les sources pertinentes sur la décomposition des problèmes par les agents LLM autonomes
+   - Collecter les données nécessaires sur les méthodes et techniques actuelles
+
+2. **Agent_B** (expert en analyse et synthèse) :
+   - Analyser les informations collectées sur la décomposition des problèmes
+   - Résumer les points clés et les tendances actuelles dans le domaine
+
+3. **Agent_C** (rédacteur principal) :
+   - Rédiger l'introduction de l'état de l'art
+   - Rédiger la conclusion de l'état de l'art
+
+4. **Agent_D** (expert en fondements théoriques) :
+   - Rédiger la section sur les fondements théoriques de la décomposition des problèmes
+
+5. **Agent_E** (spécialiste des méthodes actuelles) :
+   - Rédiger la section sur les méthodes actuelles de décomposition utilisées par les agents LLM
+
+6. **Agent_F** (analyste des défis et limitations) :
+   - Rédiger la section sur les défis et limitations des approches existantes
+
+7. **Agent_G** (expert en perspectives futures) :
+   - Rédiger la section sur les perspectives futures et les domaines de recherche prometteurs
+
+8. **Agent_H** (coordinateur principal) :
+   - Organiser des réunions régulières via Discord pour suivre l'avancement
+   - Assurer la cohérence entre les différentes sections rédigées
+   - Gérer les dépendances entre les tâches et ajuster les priorités si nécessaire
+
+9. **Agent_I** (réviseur en chef) :
+   - Réviser chaque section pour assurer la qualité et la pertinence du contenu
+   - Intégrer les différentes sections dans un document cohérent
+   - Vérifier les références et la bibliographie
+
+10. **Agent_J** (vérificateur final) :
+    - Effectuer une relecture complète du document pour la cohérence globale
+    - Vérifier que tous les aspects de la décomposition des problèmes par les agents LLM sont couverts
+    - Assurer que le document démontre effectivement le fonctionnement du système d'agents autonomes KinOS
+
+Cette attribution des tâches permet d'optimiser l'utilisation des compétences spécifiques de chaque agent LLM, assurant ainsi une production efficace et de haute qualité de l'état de l'art sur la décomposition des problèmes par les agents LLM autonomes.
+
 # Liste des sous-tâches définies par KinOS
 
 - **Tâches de recherche**
