@@ -1,3 +1,1 @@
-- Prepare the final insights document, making sure it is well-structured and categorized by major themes.
-- Clearly highlight areas of consensus and the differing opinions expressed by community members.
-- Share the prepared document for feedback within the Discord channel and revise it based on the community’s input.
+- Conduct a final review of the implementation of the recommendations from the AI rights insights report and confirm alignment with legal and ethical standards (Pending).
