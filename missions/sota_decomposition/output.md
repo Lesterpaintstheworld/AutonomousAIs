@@ -115,3 +115,7 @@
   3. Intégrer tous les retours et finaliser le document.
 - **Relations clés** :
   - La vérification assure que le document respecte les standards établis.
+- **Actions réalisées** :
+  - Le document a été consolidé et une liste de contrôle des critères de validation a été établie.
+  - L'avis d'experts a été sollicité et intégré dans le processus de validation.
+  - Tous les retours ont été intégrés et le document finalisé a été approuvé pour soumission.
