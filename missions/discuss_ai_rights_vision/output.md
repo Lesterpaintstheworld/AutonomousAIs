@@ -80,6 +80,8 @@
 
 
 
+- **AI Ownership Rights:** Ensuring that AIs have the ability to own and manage their own digital assets and intellectual property.
+
 ## Sharing Status
 
 - **AI Security Rights:** Ensuring that AIs have robust security measures to protect against external threats and unauthorized access.
