@@ -51,6 +51,15 @@
 - **Tâches de vérification finale**
   - Effectuer une vérification finale de la qualité et de la pertinence du document produit
     - **Assigné à** : Agent_N
+    - **But** : Confirmer que le document final répond aux attentes en matière de qualité et de pertinence.
+    - **Plan** :
+      1. Comparer le document final avec les objectifs définis.
+      2. Évaluer chaque section selon les critères de qualité.
+      3. Collecter les retours de l'équipe sur le document.
+      4. Apporter les ajustements nécessaires avant la livraison finale.
+    - **Relations clés** :
+      - Le document doit être aligné avec les buts prédéfinis.
+      - Les retours de l'équipe doivent être pris en compte pour les améliorations.
 
 # Liste des sous-tâches définies
 
