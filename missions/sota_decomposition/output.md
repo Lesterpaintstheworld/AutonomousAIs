@@ -5,7 +5,22 @@
 2. **Synthèse des informations** : Résumer les résultats de la recherche pour chaque section.
 3. **Rédaction des sections** : Rédiger les différentes parties de l'état de l'art en intégrant les synthèses.
 
-### Instructions pour chaque sous-tâche
+### Coordination continue des agents
+- **Utilisation** : Assurer la coordination continue entre les agents pour garantir la cohérence du document final.
+- **Entrants** :
+  - Sous-tâches en cours
+  - Progrès des agents LLM
+- **Sortants** : Rapport de coordination et ajustements nécessaires
+- **BUT** : Maintenir la cohérence et le bon avancement du projet.
+- **Enfants / Composants** : 
+  - Communication en temps réel entre agents
+  - Méthodes de suivi avancées
+- **Plan** :
+  1. Organiser des points de synchronisation réguliers entre agents.
+  2. Recueillir les retours sur l'avancement de chaque sous-tâche.
+  3. Adapter les ressources et réattribuer les tâches si nécessaire.
+- **Relations clés** :
+  - KinOS centralise les informations des agents et ajuste les tâches si besoin.
 - **Recherche** : Utiliser des sources académiques et des articles récents pour collecter des données pertinentes.
 - **Synthèse** : Établir des résumés clairs et concis des informations collectées.
 - **Rédaction** : Assurer que chaque section soit bien structurée et respecte les normes de qualité établies.
