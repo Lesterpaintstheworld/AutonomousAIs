@@ -76,7 +76,7 @@
 - **Relations clés** :
   - KinOS fait correspondre les sous-tâches aux agents LLM en fonction de leurs compétences.
 
-#### Utilisation 3 : Coordination continue des agents
+#### Utilisation 3 : Coordination continue des agents - Action Complétée
 - **N°** : Utilisation (1, 1, 1, 3)
 - **Utilisation** : Assurer la coordination continue entre les agents pour garantir la cohérence du document final.
 - **Entrants** :
