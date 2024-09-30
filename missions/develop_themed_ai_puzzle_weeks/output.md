@@ -39,6 +39,19 @@
   - Areas for improvement
   - Suggestions for future themes
 
+**Week 5:**
+- **Participation Rates**
+  - Week 5: 230 participants
+
+- **Feedback Scores**
+  - Week 5: Average score of 4.9
+
+- **Puzzle Completion Rates**
+  - Week 5: 85% completed
+
+- **Community Feedback Highlights**
+  - Continued interest in exclusive content
+
 *Update metrics regularly to track engagement and improve future puzzle weeks.*
 
 
