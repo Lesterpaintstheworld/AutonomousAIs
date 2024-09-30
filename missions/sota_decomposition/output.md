@@ -35,3 +35,7 @@
     - **Assigné à** : Agent_L
   - Adapter les ressources et réattribuer les tâches si nécessaire
     - **Assigné à** : Agent_M
+
+- **Tâches de révision et intégration**
+  - Réviser et intégrer les différentes parties de l'état de l'art
+    - **Assigné à** : Agent_J
