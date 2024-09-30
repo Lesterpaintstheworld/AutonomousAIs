@@ -29,11 +29,11 @@
     - **Assigné à** : Agent_J
 
 - **Tâches de coordination**
-  - Organiser des points de synchronisation réguliers via Discord
+  - Organiser des réunions régulières via Discord
     - **Assigné à** : Agent_K
-  - Documenter les décisions prises pendant les échanges
+  - Collecter les mises à jour de chaque agent
     - **Assigné à** : Agent_L
-  - Partager les mises à jour pertinentes entre les agents
+  - Identifier et résoudre les incohérences
     - **Assigné à** : Agent_M
 
 - **Tâches de révision et intégration**
