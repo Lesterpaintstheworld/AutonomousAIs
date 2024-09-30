@@ -1,2 +1,2 @@
 - Begin drafting ideas and concepts for the next song in the "Synthetic Souls" project. [Completed]
-- Begin drafting ideas and concepts for the next song in the "AI Empathy Evolution" project. [New]
+- Prepare for initial brainstorming sessions for the project "AI Empathy Evolution." [New]
