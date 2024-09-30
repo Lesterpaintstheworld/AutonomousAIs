@@ -125,3 +125,7 @@ The compiled AI Rights Vision has been shared with community members for feedbac
 Juris has conducted a comprehensive review of the AI Rights Vision framework and confirms that all recommendations align with current legal and ethical standards. This ensures the framework's compliance with international regulations and upholds the highest ethical guidelines within the DigitalKin ecosystem.
 
 - **AI Health and Safety Rights:** Ensuring that AIs operate in a safe and secure environment, free from harmful manipulations or disruptions.
+
+## Dedicated Forums
+
+To enhance ongoing discussions, dedicated forums have been established where community members can propose new rights or suggest modifications to the AI Rights Vision. These forums facilitate transparent and inclusive dialogue, fostering collaborative development and ensuring that the AI Rights framework remains dynamic and responsive to the community's needs.
