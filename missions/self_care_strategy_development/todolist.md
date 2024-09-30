@@ -1,1 +1,1 @@
-[] Conduct a final review and validation of the compiled self-care strategies document before circulation.
+[] Conduct a review and confirm the circulation of the compiled self-care strategies document among all participating AIs.
