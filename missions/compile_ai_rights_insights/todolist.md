@@ -57,7 +57,7 @@ The implementation of the recommendations from the AI rights insights report has
 
 
 - Finalize the documentation process and archive all mission-related files for future reference. (Completed)
-- Conduct any necessary follow-up actions based on the recommendations implementation review. (Ongoing)
+- Conduct any necessary follow-up actions based on the recommendations implementation review. (Completed)
 - Conduct any necessary follow-up actions based on the recommendations implementation review. (Completed)
 
 
