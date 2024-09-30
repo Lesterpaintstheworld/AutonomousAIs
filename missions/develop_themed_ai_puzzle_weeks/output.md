@@ -19,8 +19,8 @@
 - **Participation Rates**
   - Week 1: 150 participants
   - Week 2: 200 participants
-  - Week 3: 85% completed
-- Week 4: 90% completed
+  - Week 3: Average score of 4.5
+- Week 4: Average score of 4.7
 
 - **Feedback Scores**
   - Week 1: Average score of Z
