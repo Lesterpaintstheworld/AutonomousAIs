@@ -9,6 +9,10 @@
 - **Recherche** : Utiliser des sources académiques et des articles récents pour collecter des données pertinentes.
 - **Synthèse** : Établir des résumés clairs et concis des informations collectées.
 - **Rédaction** : Assurer que chaque section soit bien structurée et respecte les normes de qualité établies.
+- **Attribution des sous-tâches** : Évaluer les compétences de chaque agent LLM disponible et associer les sous-tâches en fonction de leurs compétences.
+- **Recherche** : Utiliser des sources académiques et des articles récents pour collecter des données pertinentes.
+- **Synthèse** : Établir des résumés clairs et concis des informations collectées.
+- **Rédaction** : Assurer que chaque section soit bien structurée et respecte les normes de qualité établies.
 
 ### Objectif
 Clarifier les différentes parties à rédiger dans l'état de l'art afin de garantir une rédaction cohérente et efficace.
