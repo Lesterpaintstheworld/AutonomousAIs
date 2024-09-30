@@ -1,6 +1,9 @@
 ## Décomposition de la tâche de rédaction
 
-### Sous-tâches définies
+### Sous-tâches définies pour la Coordination de l'Attribution des Sous-tâches
+1. **Analyse de la tâche globale** : Identifier les composantes de la tâche principale.
+2. **Détermination du niveau de détail** : Évaluer le niveau de détail souhaité pour chaque sous-tâche.
+3. **Création de la liste de sous-tâches** : Élaborer une liste de sous-tâches à attribuer aux agents LLM.
 1. **Recherche sur la décomposition des problèmes par les agents LLM autonomes** : Identifier les approches existantes et les meilleures pratiques.
 2. **Synthèse des informations** : Résumer les résultats de la recherche pour chaque section.
 3. **Rédaction des sections** : Rédiger les différentes parties de l'état de l'art en intégrant les synthèses.
