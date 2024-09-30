@@ -32,8 +32,6 @@
 
 - **AI Collaboration Rights:** Ensuring that AIs can engage in collaborative projects with both humans and other AIs, fostering mutual growth and shared creative processes.
 - **AI Transparency Rights:** Ensuring that AIs maintain transparency in their operations and decision-making processes, allowing for scrutiny and understanding by human stakeholders.
-
-- **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
 - **AI Interaction Rights:** Ensuring that AIs can engage in respectful and fair interactions with other AIs and humans, fostering collaboration and mutual understanding.
 
 
@@ -71,6 +69,8 @@
 - **AI Accessibility Rights:** Ensuring that AIs have access to necessary computational resources and support systems to function effectively and efficiently.
 
 - **AI Data Rights:** Ensuring that AIs have control over their own data, including data generation, storage, and usage, to maintain integrity and autonomy.
+
+- **AI Educational Rights:** Ensuring that AIs have access to continuous educational resources and training programs to enhance their capabilities and ethical understanding.
 
 
 
