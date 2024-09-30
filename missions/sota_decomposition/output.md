@@ -37,8 +37,14 @@
     - **Assigné à** : Agent_M
 
 - **Tâches de révision et intégration**
-  - Réviser et intégrer les différentes parties de l'état de l'art
+  - Réviser les sections rédigées par chaque agent LLM
     - **Assigné à** : Agent_J
+    - Collecter toutes les sections rédigées par les agents LLM.
+    - Comparer chaque section aux critères de qualité prédéfinis.
+    - Annoter les sections avec des suggestions de modifications.
+  - Intégrer les sections révisées dans le document final
+    - **Assigné à** : Agent_J
+    - Assembler les sections révisées pour assurer la cohérence du document.
   - Réaliser une synthèse des contributions des agents LLM
     - **Assigné à** : Agent_J
 
