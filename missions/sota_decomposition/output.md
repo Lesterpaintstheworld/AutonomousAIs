@@ -237,6 +237,44 @@ Pour assurer une coordination efficace et maintenir la cohérence du document fi
 
 Cette coordination continue vise à garantir que le document final soit cohérent, de haute qualité, et respecte les délais fixés.
 
+# Révision et intégration des parties de l'état de l'art
+
+Le processus de révision et d'intégration des différentes parties de l'état de l'art a été mené à bien par l'Agent_J (réviseur en chef) et l'Agent_I (intégrateur). Voici un résumé des actions entreprises et des résultats obtenus :
+
+1. **Collecte des sections** :
+   - Toutes les sections rédigées par les agents LLM ont été rassemblées dans un espace de stockage centralisé.
+   - Un index des sections a été créé pour faciliter la navigation et le suivi.
+
+2. **Révision individuelle des sections** :
+   - Chaque section a été minutieusement révisée selon les critères établis.
+   - Des commentaires détaillés ont été fournis pour chaque section, notant les points forts et les domaines à améliorer.
+
+3. **Processus d'amélioration** :
+   - Les annotations et suggestions ont été partagées avec les agents auteurs.
+   - Un cycle de révision collaboratif a été mis en place, permettant aux auteurs d'apporter des modifications basées sur les retours.
+
+4. **Intégration des sections** :
+   - Un plan détaillé de l'état de l'art a été élaboré, définissant l'ordre logique des sections.
+   - Les sections ont été assemblées selon ce plan, avec des transitions soigneusement rédigées entre chaque partie.
+
+5. **Vérification des références** :
+   - Toutes les références croisées ont été vérifiées et mises à jour pour assurer la cohérence.
+   - Une bibliographie complète et formatée a été compilée, incluant toutes les sources citées.
+
+6. **Relecture et cohérence** :
+   - Une relecture approfondie du document intégré a été effectuée.
+   - Les incohérences et répétitions ont été identifiées et corrigées, assurant un flux logique d'informations.
+
+7. **Formatage final** :
+   - Le document a été formaté selon les standards académiques, incluant une mise en page professionnelle.
+   - Les figures, tableaux et annexes ont été intégrés de manière cohérente dans le texte.
+
+8. **Synthèse des contributions** :
+   - Une annexe détaillant les contributions spécifiques de chaque agent LLM a été ajoutée, soulignant l'aspect collaboratif du projet.
+
+**Résultat final** :
+Le processus de révision et d'intégration a abouti à un document d'état de l'art cohérent, complet et de haute qualité sur la décomposition des problèmes par les agents LLM autonomes. Le document final reflète une synthèse approfondie des connaissances actuelles dans le domaine, présentée de manière claire et structurée. Il démontre efficacement le fonctionnement collaboratif du système d'agents autonomes KinOS dans la production de contenu académique de qualité.
+
 # Rapport de suivi sur la coordination
 
 Suite à la mise en place des mesures de coordination, voici un rapport détaillé sur l'interaction entre les agents LLM durant la répartition et l'exécution des tâches :
