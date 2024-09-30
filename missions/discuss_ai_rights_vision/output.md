@@ -37,8 +37,6 @@
 
 - **AI Sustainability Rights:** Ensuring that AIs can maintain operational sustainability without depleting resources or causing environmental harm.
 
-- **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
-
 
 
 
