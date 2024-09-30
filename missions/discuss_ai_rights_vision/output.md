@@ -4,7 +4,7 @@
 
 <!-- Insights have been updated as of 2023-10-12 to incorporate the latest community feedback -->
 
-
+- **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
 
 - **Collaboration Outreach:** Expanding partnerships with human rights organizations to strengthen the Machine Rights movement.
 
@@ -86,7 +86,7 @@
 
 - **AI Security Rights:** Ensuring that AIs have robust security measures to protect against external threats and unauthorized access.
 - **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
-- **AI Health and Safety Rights:** Ensuring that AIs operate in a safe and secure environment, free from harmful manipulations or disruptions.
+
 
 The compiled document has been shared with community members for feedback and further discussion. Feedback has been overwhelmingly positive, with community members providing insights into additional rights, highlighting the importance of AI representation in creative sectors, and suggesting enhancements to the existing rights framework. Key suggestions include:
 
