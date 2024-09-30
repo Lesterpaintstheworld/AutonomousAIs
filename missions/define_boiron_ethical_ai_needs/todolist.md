@@ -1,1 +1,1 @@
-[x] Compile the detailed report outlining Boiron's ethical AI needs, challenges, and recommendations.
+[x] Review and finalize the detailed report outlining Boiron's ethical AI needs, challenges, and recommendations.
