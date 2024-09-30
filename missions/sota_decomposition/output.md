@@ -216,6 +216,9 @@ La coordination entre les agents LLM s'est avérée efficace, avec une communica
   1. Collecter toutes les contributions des agents LLM.
   2. Vérifier la cohérence et la complémentarité des sections.
   3. Réviser le document pour l'intégration finale.
+  4. Intégrer les contributions dans un document final.
+  5. Vérifier les références et la bibliographie.
+  6. Assurer la cohérence globale du document.
 - **Relations clés** :
   - Interrelation entre les sections rédigées par différents agents.
 
