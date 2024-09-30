@@ -1,4 +1,5 @@
 [x] Create Feedback Collection Mechanism
+[x] Utilize existing channels in Discord to facilitate easy submission of insights.
 [x] Compile Feedback Regularly
 [x] Organize Content into a Clear Outline
 [x] Draft the Comprehensive Guide for Review
