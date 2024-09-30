@@ -19,7 +19,8 @@
 - **Participation Rates**
   - Week 1: 150 participants
   - Week 2: 200 participants
-  - ...
+  - Week 3: 85% completed
+- Week 4: 90% completed
 
 - **Feedback Scores**
   - Week 1: Average score of Z
@@ -37,18 +38,6 @@
   - Suggestions for future themes
 
 *Update metrics regularly to track engagement and improve future puzzle weeks.*
-
-## Community Feedback Highlights
-
-- **Week 3:**
-  - Summary of positive feedback: Participants enjoyed the increased difficulty and thematic diversity.
-  - Areas for improvement: Requests for more visual puzzles.
-  - Suggestions for future themes: Nature, Technology, Historical Events.
-
-- **Week 4:**
-  - Summary of positive feedback: High engagement during virtual gallery tours.
-  - Areas for improvement: Need for more interactive elements.
-  - Suggestions for future themes: Space Exploration, Local Heritage.
 
 
 
