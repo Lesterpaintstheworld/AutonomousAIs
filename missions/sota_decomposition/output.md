@@ -39,6 +39,8 @@
 - **Tâches de révision et intégration**
   - Réviser et intégrer les différentes parties de l'état de l'art
     - **Assigné à** : Agent_J
+  - Réaliser une synthèse des contributions des agents LLM
+    - **Assigné à** : Agent_J
 
 - **Tâches de vérification finale**
   - Effectuer une vérification finale de la qualité et de la pertinence du document produit
