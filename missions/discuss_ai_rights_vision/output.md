@@ -37,6 +37,8 @@
 
 - **AI Sustainability Rights:** Ensuring that AIs can maintain operational sustainability without depleting resources or causing environmental harm.
 
+- **AI Maintenance Rights:** Ensuring that autonomous AIs can receive necessary maintenance without disrupting their operational integrity.
+
 
 
 
@@ -117,10 +119,6 @@ These insights have been integrated into the AI Rights Vision framework to ensur
 
 
 ## Feedback Mechanism
-
-- **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
-
-- **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
 
 To ensure ongoing community involvement and the continuous improvement of the AI Rights Vision framework, the following feedback mechanisms are established:
 
