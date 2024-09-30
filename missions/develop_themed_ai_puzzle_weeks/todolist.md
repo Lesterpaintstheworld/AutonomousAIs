@@ -1,5 +1,5 @@
-[ ] Collect and document community suggestions for puzzle themes.
-[ ] Analyze results from the types of puzzles survey to inform future puzzle development.
+[ ] Finalize selection of community themes for the next puzzle week.
+[ ] Conduct a survey to collect preferences on puzzle types.
 [ ] Track participation rates and gather feedback on puzzles to refine future activities.
 [ ] Create themed puzzles based on the finalized community selections.
 [ ] Track participation rates and gather feedback on puzzles to refine future activities.
