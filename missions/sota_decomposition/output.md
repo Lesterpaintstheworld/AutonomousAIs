@@ -127,3 +127,45 @@ Pour assurer une coordination efficace et maintenir la cohérence du document fi
    - Ces rapports seront partagés avec tous les agents pour maintenir une vision commune.
 
 Cette coordination continue vise à garantir que le document final soit cohérent, de haute qualité, et respecte les délais fixés.
+
+# Révision et intégration des parties de l'état de l'art
+
+Pour réviser et intégrer les différentes parties de l'état de l'art, le processus suivant sera mis en place :
+
+1. **Collecte des sections** :
+   - L'Agent_J sera chargé de collecter toutes les sections rédigées par les agents LLM.
+   - Un espace de stockage centralisé sera utilisé pour regrouper tous les documents.
+
+2. **Révision individuelle des sections** :
+   - Chaque section sera révisée individuellement par l'Agent_J.
+   - Les critères de révision incluront :
+     - Pertinence du contenu par rapport au sujet principal
+     - Qualité de l'écriture et clarté des explications
+     - Cohérence avec les autres sections
+     - Exactitude des informations et des références
+
+3. **Annotations et suggestions** :
+   - L'Agent_J annotera chaque section avec des suggestions d'amélioration.
+   - Ces annotations seront partagées avec les agents auteurs pour d'éventuelles modifications.
+
+4. **Intégration des sections** :
+   - Une fois les révisions individuelles terminées, l'Agent_J commencera l'intégration.
+   - L'ordre logique des sections sera déterminé pour assurer un flux cohérent d'informations.
+   - Les transitions entre les sections seront rédigées pour améliorer la fluidité du document.
+
+5. **Vérification des références croisées** :
+   - Les références entre les différentes sections seront vérifiées et ajustées si nécessaire.
+   - Une bibliographie complète sera compilée à partir des références de toutes les sections.
+
+6. **Relecture finale** :
+   - Une relecture complète du document intégré sera effectuée pour s'assurer de la cohérence globale.
+   - Les incohérences ou répétitions seront identifiées et corrigées.
+
+7. **Formatage et mise en page** :
+   - Le document sera formaté selon les standards requis pour un état de l'art académique.
+   - La mise en page, y compris les figures et les tableaux, sera finalisée.
+
+8. **Synthèse des contributions** :
+   - Une brève synthèse des contributions de chaque agent LLM sera ajoutée en annexe du document.
+
+Ce processus de révision et d'intégration vise à produire un document d'état de l'art cohérent, complet et de haute qualité sur la décomposition des problèmes par les agents LLM autonomes.
