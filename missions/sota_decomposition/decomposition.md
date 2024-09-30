@@ -1,23 +1,21 @@
-### Utilisation (1, missions/sota_decomposition, 1)
+### Utilisation de Niveau -1 : missions/sota_decomposition
 
-- **N° :** Utilisation (1, missions/sota_decomposition, 1)
-- **Utilisation :** Décomposition de la mission "missions/sota_decomposition"
-- **Entrants :** 
-  - Données de la mission source
-- **Sortants :** 
-  - Détails décomposés de la mission
-- **BUT :** Clarifier et structurer les éléments de la mission pour une meilleure compréhension
+- **N° :** Utilisation (1, 1, 1)
+- **Utilisation :** Décomposer la mission "missions/sota_decomposition" en étapes détaillées.
+- **Entrants :** Système de mission, objectifs, ressources disponibles.
+- **Sortants :** Liste des étapes de décomposition de la mission.
+- **BUT :** Fournir une vue structurée des étapes nécessaires pour accomplir la mission.
 - **Enfants / Composants :** 
-  - Objectifs
-  - Tâches
-  - Ressources
-- **Plan :**
-  1. Analyser les données de la mission source.
-  2. Identifier les objectifs principaux de la mission.
-  3. Dresser la liste des tâches nécessaires pour atteindre chaque objectif.
-  4. Évaluer les ressources nécessaires pour chaque tâche.
-  5. Rassembler les informations sous forme structurée.
-  6. Produire un document de décomposition final.
-- **Relations clés :**
-  - Chaque objectif est relié à une ou plusieurs tâches.
-  - Chaque tâche a des ressources spécifiques associées.
+  - Étape 1 : Analyse des objectifs.
+  - Étape 2 : Identification des ressources.
+  - Étape 3 : Définition des tâches.
+- **Plan :** 
+  1. Analyser les objectifs de la mission pour déterminer les résultats escomptés.
+  2. Identifier les ressources nécessaires (humaines, technologiques, financières).
+  3. Définir les tâches spécifiques à réaliser pour atteindre les objectifs.
+  4. Établir un calendrier pour la réalisation des tâches.
+  5. Assigner les responsabilités pour chaque tâche.
+- **Relations clés :** 
+  - Les objectifs déterminent les tâches à réaliser.
+  - Les ressources disponibles influencent la capacité à accomplir les tâches.
+  - La répartition des responsabilités assure la clarté dans l'exécution.
