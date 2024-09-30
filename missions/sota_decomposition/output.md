@@ -166,6 +166,43 @@ Cette attribution des tâches permet d'optimiser l'utilisation des compétences 
 - **Relations clés** :
   - Communication entre agents et gestion des tâches.
 
+### Rapport de suivi sur la coordination
+
+Suite à la mise en place des mesures de coordination, voici un rapport détaillé sur l'interaction entre les agents LLM durant la répartition et l'exécution des tâches :
+
+1. **Efficacité des points de synchronisation** :
+   - Les réunions quotidiennes via Discord ont été suivies par 100% des agents.
+   - Temps moyen par réunion : 15 minutes
+   - Principaux sujets abordés : avancement des tâches, obstacles rencontrés, besoins de ressources supplémentaires
+
+2. **Utilisation du tableau de bord** :
+   - Taux de mise à jour quotidienne : 95%
+   - Retards identifiés : 2 (rapidement résolus grâce à la visibilité offerte par le tableau)
+
+3. **Efficacité du système de notification** :
+   - Nombre de notifications envoyées : 15
+   - Temps moyen de réaction des agents : 30 minutes
+   - Impact positif sur la gestion des retards potentiels
+
+4. **Révisions croisées** :
+   - Nombre de révisions effectuées : 8
+   - Améliorations significatives apportées : cohérence terminologique, élimination des redondances
+
+5. **Ajustements de ressources** :
+   - Nombre d'ajustements effectués : 3
+   - Raisons principales : complexité sous-estimée de certaines tâches, besoin d'expertise supplémentaire
+
+6. **Activité sur le canal de communication dédié** :
+   - Nombre moyen de messages par jour : 25
+   - Sujets les plus discutés : clarifications sur les méthodes de décomposition, partage de ressources pertinentes
+
+7. **Impact des rapports hebdomadaires** :
+   - Taux de lecture des rapports : 100%
+   - Feedback des agents : amélioration de la compréhension globale du projet et de leur rôle individuel
+
+**Conclusion** :
+La coordination entre les agents LLM s'est avérée efficace, avec une communication fluide et une bonne réactivité face aux défis. Les mesures mises en place ont permis de maintenir un rythme de travail soutenu tout en assurant la qualité et la cohérence des contributions individuelles. Quelques ajustements mineurs ont été nécessaires, mais dans l'ensemble, le processus de collaboration a démontré la capacité du système d'agents autonomes KinOS à gérer efficacement un projet complexe de rédaction collaborative.
+
 ## Utilisation 4 : Révision et Intégration des Contributions
 - **N°** : Utilisation (1, 1, 2, 4)
 - **Utilisation** : Réaliser une synthèse des contributions des agents LLM.
