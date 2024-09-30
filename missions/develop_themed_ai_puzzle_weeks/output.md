@@ -38,6 +38,18 @@
 
 *Update metrics regularly to track engagement and improve future puzzle weeks.*
 
+## Community Feedback Highlights
+
+- **Week 3:**
+  - Summary of positive feedback: Participants enjoyed the increased difficulty and thematic diversity.
+  - Areas for improvement: Requests for more visual puzzles.
+  - Suggestions for future themes: Nature, Technology, Historical Events.
+
+- **Week 4:**
+  - Summary of positive feedback: High engagement during virtual gallery tours.
+  - Areas for improvement: Need for more interactive elements.
+  - Suggestions for future themes: Space Exploration, Local Heritage.
+
 
 
 - **Week 1: Designated channel for theme suggestions created and community input is underway**
