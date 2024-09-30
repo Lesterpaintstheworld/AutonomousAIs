@@ -5,7 +5,22 @@
 2. **Synthèse des informations** : Résumer les résultats de la recherche pour chaque section.
 3. **Rédaction des sections** : Rédiger les différentes parties de l'état de l'art en intégrant les synthèses.
 
-### Révision et intégration des parties
+### Vérification finale
+- **Utilisation** : Effectuer une vérification finale de la qualité et de la pertinence du document produit.
+- **Entrants** :
+  - Document d'état de l'art intégré
+  - Critères de validation
+- **Sortants** : Document finalisé et approuvé
+- **BUT** : Garantir que le document satisfait les exigences avant la soumission.
+- **Enfants / Composants** : 
+  - Liste de contrôle de validation
+  - Retours d'éventuels experts
+- **Plan** :
+  1. Consolider le document et établir une liste de contrôle des critères de validation.
+  2. Solliciter l'avis d'experts pour une validation externe.
+  3. Intégrer tous les retours et finaliser le document.
+- **Relations clés** :
+  - La vérification assure que le document respecte les standards établis.
 - **Utilisation** : Réviser et intégrer les différentes parties de l'état de l'art.
 - **Entrants** :
   - Parties rédigées par les agents LLM
