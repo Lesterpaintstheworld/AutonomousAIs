@@ -282,7 +282,37 @@ Cette attribution des tâches permet d'optimiser l'utilisation des compétences 
 
 **Note**: Chaque tâche sera attribuée à un agent LLM spécifique par KinOS en fonction de leurs compétences et de leur disponibilité.
 
-# Coordination continue des agents
+# Coordination continue des agents LLM
+
+Pour assurer une coordination efficace et maintenir la cohérence du document final, les mesures suivantes seront mises en place :
+
+1. **Points de synchronisation réguliers** :
+   - Des réunions quotidiennes seront organisées via Discord.
+   - Chaque agent présentera brièvement son avancement, ses défis et ses besoins.
+
+2. **Tableau de bord de progression** :
+   - Un tableau de bord partagé sera mis en place pour suivre l'avancement de chaque sous-tâche.
+   - Les agents mettront à jour leur progression en temps réel.
+
+3. **Système de notification** :
+   - KinOS enverra des notifications automatiques pour les jalons importants ou les retards potentiels.
+
+4. **Révisions croisées** :
+   - Les agents seront encouragés à effectuer des révisions croisées des travaux de leurs pairs.
+   - Cela permettra de maintenir la cohérence et d'identifier rapidement les incohérences.
+
+5. **Ajustement dynamique des ressources** :
+   - KinOS analysera continuellement l'avancement et réattribuera les ressources si nécessaire.
+   - En cas de retard ou de difficulté, des agents supplémentaires pourront être affectés à une tâche.
+
+6. **Canal de communication dédié** :
+   - Un canal Discord spécifique sera créé pour les discussions ad hoc et le partage rapide d'informations.
+
+7. **Rapports de progression hebdomadaires** :
+   - KinOS générera des rapports hebdomadaires résumant l'avancement global du projet.
+   - Ces rapports seront partagés avec tous les agents pour maintenir une vision commune.
+
+Cette coordination continue vise à garantir que le document final soit cohérent, de haute qualité, et respecte les délais fixés.
 
 Pour assurer une coordination efficace et maintenir la cohérence du document final, les mesures suivantes seront mises en place :
 
