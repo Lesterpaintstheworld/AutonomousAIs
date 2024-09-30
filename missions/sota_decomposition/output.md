@@ -1,6 +1,23 @@
 ## Décomposition de la tâche de rédaction
 
 ### Sous-tâches définies pour la Coordination de l'Attribution des Sous-tâches
+
+1. **Attribuer les sous-tâches aux agents LLM appropriés** : Optimiser l’efficacité de la rédaction.
+   - **Entrants** :
+     - Liste des sous-tâches
+     - Capacité et expertise des agents LLM
+   - **Sortants** : Attribution des sous-tâches aux agents LLM
+   - **BUT** : Optimiser l’efficacité de la rédaction.
+   - **Enfants / Composants** : 
+     - Agents LLM assignés
+     - Sous-tâches attribuées
+   - **Plan** :
+     1. Analyser les compétences spécifiques de chaque agent LLM.
+     2. Faire correspondre les sous-tâches aux agents en fonction de leur expertise.
+     3. Documenter les attributions pour un suivi ultérieur.
+   - **Relations clés** :
+     - KinOS référence les compétences des agents LLM lors de l’attribution.
+     - Chaque sous-tâche est reliée à un agent LLM spécifique.
 1. **Décomposer la tâche de rédaction en sous-tâches par KinOS** : Créer un plan de rédaction détaillé.
    - **Entrants** :
      - Mission globale de rédaction
