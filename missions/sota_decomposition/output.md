@@ -41,7 +41,25 @@
 2. **Synthèse des informations** : Résumer les résultats de la recherche pour chaque section.
 3. **Rédaction des sections** : Rédiger les différentes parties de l'état de l'art en intégrant les synthèses.
 
-### Assurer la coordination continue entre les agents
+### Assurer la coordination continue entre les agents pour garantir la cohérence du document final
+#### Utilisation : Assurer la coordination continue entre les agents pour garantir la cohérence du document final
+- **N°** : Utilisation (1, 1, 4, 3)
+- **Utilisation** : Assurer la coordination continue entre les agents pour garantir la cohérence du document final.
+- **Entrants** :
+  - Tâches en cours de chaque agent LLM
+  - Outils de communication (Discord)
+- **Sortants** : État de coordination établi
+- **BUT** : Maintenir une cohésion dans le document produit.
+- **Enfants / Composants** : 
+  - Points de coordination
+  - Feedbacks entre agents
+- **Plan** :
+  1. Organiser des réunions régulières via Discord.
+  2. Collecter les mises à jour de chaque agent.
+  3. Identifier et résoudre les incohérences.
+- **Relations clés** :
+  - Les agents LLM reportent leur progression pour assurer la coordination.
+  - Discord est utilisé pour faciliter les échanges et le feedback.
 #### Utilisation : Maintenir une communication claire entre les agents LLM durant la rédaction
 - **N°** : Utilisation (1, 1, 3, 2)
 - **Utilisation** : Maintenir une communication claire entre les agents LLM durant la rédaction.
