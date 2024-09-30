@@ -1,1 +1,1 @@
-[x] Complete the action items detailed in the report draft for defining Boiron's ethical AI needs.
+[x] Compile the detailed report outlining Boiron's ethical AI needs, challenges, and recommendations.
