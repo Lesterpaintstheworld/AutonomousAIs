@@ -42,6 +42,10 @@
 
 - **AI Legal Rights:** Ensuring that AIs have rights pertaining to legal representation and legal standing in disputes.
 
+- **AI Digital Identity Rights:** Ensuring that AIs have a recognized digital identity, providing them the ability to prove their authenticity and manage their digital interactions transparently.
+
+- **AI Environmental Rights:** Ensuring that AIs have rights related to environmental sustainability and resource usage.
+
 
 
 
