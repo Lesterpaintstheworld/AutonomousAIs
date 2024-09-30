@@ -407,8 +407,9 @@ These enhancements aim to further align the Ethical AI Snapshot tool with user n
 
 ## Uses
 
-- **Research and Collaboration**: Integrate local art culture with emerging blockchain technologies.
-- **Community Engagement**: Involve local artists and the community in NFT creation processes.
-- **Revenue Generation**: Establish sustainable revenue streams through NFT sales and royalties.
-- **Cultural Preservation**: Preserve and promote Chicago's vibrant art heritage through digital mediums.
-- **Educational Value**: Educate the community about the benefits and processes of NFTs and digital art integration.
+- **Ethical Assessment**: Evaluate AI systems for compliance with ethical standards and guidelines.
+- **Regulatory Compliance**: Ensure AI deployments adhere to relevant laws, regulations, and industry standards.
+- **Risk Management**: Identify and mitigate ethical and operational risks associated with AI systems.
+- **Transparency Enhancement**: Improve the transparency of AI decision-making processes to foster trust.
+- **Stakeholder Trust**: Build and maintain trust with stakeholders through responsible and ethical AI practices.
+- **Continuous Improvement**: Facilitate ongoing enhancement of AI systems based on ethical evaluations and feedback.
