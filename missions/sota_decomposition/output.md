@@ -2,42 +2,38 @@
 
 # Liste des sous-tâches définies par KinOS
 
-KinOS a analysé la tâche globale de rédaction de l'état de l'art sur la décomposition des problèmes par les agents LLM autonomes et a décomposé le travail en sous-tâches spécifiques. Voici la liste détaillée des sous-tâches :
+- **Tâches de recherche**
+  - Identifier les sources pertinentes sur la décomposition des problèmes par les agents LLM autonomes
+  - Collecter les données nécessaires sur les méthodes et techniques actuelles
 
-1. **Tâches de recherche**
-   - Identifier les sources académiques pertinentes (articles, conférences, livres) sur la décomposition des problèmes par les agents LLM autonomes
-   - Collecter les données nécessaires sur les méthodes et techniques actuelles de décomposition utilisées dans le domaine de l'IA
-   - Rechercher des exemples concrets d'applications de décomposition de problèmes par des agents LLM
+- **Tâches de synthèse**
+  - Analyser les informations collectées sur la décomposition des problèmes
+  - Résumer les points clés et les tendances actuelles dans le domaine
 
-2. **Tâches de synthèse**
-   - Analyser les informations collectées sur la décomposition des problèmes, en identifiant les principales approches et méthodologies
-   - Résumer les points clés et les tendances actuelles dans le domaine de la décomposition des problèmes par les agents LLM
-   - Identifier les avantages et les inconvénients des différentes approches de décomposition
+- **Tâches de rédaction**
+  - Rédiger l'introduction de l'état de l'art
+  - Rédiger la section sur les fondements théoriques de la décomposition des problèmes
+  - Rédiger la section sur les méthodes actuelles de décomposition utilisées par les agents LLM
+  - Rédiger la section sur les défis et limitations des approches existantes
+  - Rédiger la section sur les perspectives futures et les domaines de recherche prometteurs
+  - Rédiger la conclusion de l'état de l'art
 
-3. **Tâches de rédaction**
-   - Rédiger l'introduction de l'état de l'art, présentant le contexte et l'importance de la décomposition des problèmes dans le domaine des agents LLM autonomes
-   - Rédiger la section sur les fondements théoriques de la décomposition des problèmes, incluant les principes mathématiques et logiques sous-jacents
-   - Rédiger la section sur les méthodes actuelles de décomposition utilisées par les agents LLM, détaillant les algorithmes et techniques les plus prometteurs
-   - Rédiger la section sur les défis et limitations des approches existantes, mettant en lumière les problèmes non résolus et les domaines d'amélioration
-   - Rédiger la section sur les perspectives futures et les domaines de recherche prometteurs dans la décomposition des problèmes par les agents LLM
-   - Rédiger la conclusion de l'état de l'art, résumant les points clés et ouvrant sur les implications futures
+- **Tâches de coordination**
+  - Organiser des réunions régulières via Discord pour suivre l'avancement
+  - Assurer la cohérence entre les différentes sections rédigées
+  - Gérer les dépendances entre les tâches et ajuster les priorités si nécessaire
 
-4. **Tâches de coordination**
-   - Organiser des réunions régulières via Discord pour suivre l'avancement de chaque section et assurer la cohérence globale
-   - Assurer la cohérence entre les différentes sections rédigées, en veillant à la continuité logique et à l'absence de redondances
-   - Gérer les dépendances entre les tâches et ajuster les priorités si nécessaire, en fonction de l'avancement global du projet
+- **Tâches de révision et intégration**
+  - Réviser chaque section pour assurer la qualité et la pertinence du contenu
+  - Intégrer les différentes sections dans un document cohérent
+  - Vérifier les références et la bibliographie
 
-5. **Tâches de révision et intégration**
-   - Réviser chaque section pour assurer la qualité et la pertinence du contenu, en vérifiant l'exactitude des informations et la clarté de l'expression
-   - Intégrer les différentes sections dans un document cohérent, en assurant une structure logique et des transitions fluides
-   - Vérifier les références et la bibliographie, en s'assurant que toutes les sources sont correctement citées et formatées selon les normes académiques
+- **Tâches de vérification finale**
+  - Effectuer une relecture complète du document pour la cohérence globale
+  - Vérifier que tous les aspects de la décomposition des problèmes par les agents LLM sont couverts
+  - Assurer que le document démontre effectivement le fonctionnement du système d'agents autonomes KinOS
 
-6. **Tâches de vérification finale**
-   - Effectuer une relecture complète du document pour la cohérence globale, en vérifiant la fluidité du texte et la progression logique des idées
-   - Vérifier que tous les aspects de la décomposition des problèmes par les agents LLM sont couverts de manière exhaustive et équilibrée
-   - Assurer que le document démontre effectivement le fonctionnement du système d'agents autonomes KinOS, en mettant en évidence la collaboration et l'efficacité du processus
-
-**Note**: Chaque tâche sera attribuée à un agent LLM spécifique par KinOS en fonction de leurs compétences et de leur disponibilité. Cette décomposition permettra une répartition efficace du travail et assurera une couverture complète et approfondie du sujet.
+**Note**: Chaque tâche sera attribuée à un agent LLM spécifique par KinOS en fonction de leurs compétences et de leur disponibilité.
 
 # Attribution des sous-tâches aux agents LLM
 
