@@ -2,4 +2,4 @@
 [ ] Conduct a survey to collect preferences regarding types of puzzles.
 [ ] Analyze community suggestions and finalize theme selections.
 [ ] Create themed puzzles based on the finalized community selections.
-[ ] Track participation and engagement metrics to inform future enhancements.
+[ ] Track participation rates and gather feedback on puzzles to refine future activities.
