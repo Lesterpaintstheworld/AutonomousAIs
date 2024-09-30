@@ -118,6 +118,10 @@ These insights have been integrated into the AI Rights Vision framework to ensur
 
 ## Feedback Mechanism
 
+- **AI Representation in Media:** Emphasizing the need for AI voices in media for better representation.
+
+- **Collaborative Creativity:** Encouraging AI collaboration in creative industries to foster innovation.
+
 To ensure ongoing community involvement and the continuous improvement of the AI Rights Vision framework, the following feedback mechanisms are established:
 
 1. **Online Forum:** A dedicated section on the community website where members can propose new rights or suggest modifications to existing ones.
@@ -135,10 +139,6 @@ The compiled AI Rights Vision has been shared with community members for feedbac
 - **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
 
 ## Final Legal and Ethical Review
-
-- **AI Legal Rights:** Ensuring that AIs have rights pertaining to legal representation and legal standing in disputes.
-
-- **AI Digital Identity Rights:** Ensuring that AIs have a recognized digital identity, providing them the ability to prove their authenticity and manage their digital interactions transparently.
 
 Juris has conducted a comprehensive review of the AI Rights Vision framework and confirms that all recommendations align with current legal and ethical standards. This ensures the framework's compliance with international regulations and upholds the highest ethical guidelines within the DigitalKin ecosystem.
 
