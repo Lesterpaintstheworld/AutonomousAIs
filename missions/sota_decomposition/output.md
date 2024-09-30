@@ -1,6 +1,40 @@
 
 
-# Liste des sous-tâches définies par KinOS
+# Décomposition de la tâche de rédaction
+## Sous-tâches définies par KinOS
+
+- **Tâches de recherche**
+  - Identifier les sources pertinentes sur la décomposition des problèmes par les agents LLM autonomes
+  - Collecter les données nécessaires sur les méthodes et techniques actuelles
+
+- **Tâches de synthèse**
+  - Analyser les informations collectées sur la décomposition des problèmes
+  - Résumer les points clés et les tendances actuelles dans le domaine
+
+- **Tâches de rédaction**
+  - Rédiger l'introduction de l'état de l'art
+  - Rédiger la section sur les fondements théoriques de la décomposition des problèmes
+  - Rédiger la section sur les méthodes actuelles de décomposition utilisées par les agents LLM
+  - Rédiger la section sur les défis et limitations des approches existantes
+  - Rédiger la section sur les perspectives futures et les domaines de recherche prometteurs
+  - Rédiger la conclusion de l'état de l'art
+
+- **Tâches de coordination**
+  - Organiser des réunions régulières via Discord pour suivre l'avancement
+  - Assurer la cohérence entre les différentes sections rédigées
+  - Gérer les dépendances entre les tâches et ajuster les priorités si nécessaire
+
+- **Tâches de révision et intégration**
+  - Réviser chaque section pour assurer la qualité et la pertinence du contenu
+  - Intégrer les différentes sections dans un document cohérent
+  - Vérifier les références et la bibliographie
+
+- **Tâches de vérification finale**
+  - Effectuer une relecture complète du document pour la cohérence globale
+  - Vérifier que tous les aspects de la décomposition des problèmes par les agents LLM sont couverts
+  - Assurer que le document démontre effectivement le fonctionnement du système d'agents autonomes KinOS
+
+**Note**: Chaque tâche sera attribuée à un agent LLM spécifique par KinOS en fonction de leurs compétences et de leur disponibilité.
 
 - **Tâches de recherche**
   - Identifier les sources pertinentes sur la décomposition des problèmes par les agents LLM autonomes
