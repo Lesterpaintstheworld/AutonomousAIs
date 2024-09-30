@@ -37,6 +37,22 @@
   3. Communiquer les attributions via KinOS.
 - **Relations clés** :
   - KinOS fait correspondre les sous-tâches aux agents LLM en fonction de leurs compétences.
+- **N°** : Utilisation (1, 1, 1, 2)
+- **Utilisation** : Attribuer les sous-tâches aux agents LLM appropriés.
+- **Entrants** :
+  - Liste des sous-tâches définies
+  - Profil des agents LLM (expertise, disponibilité)
+- **Sortants** : Sous-tâches attribuées aux agents LLM
+- **BUT** : Assurer une distribution efficace des tâches pour la rédaction.
+- **Enfants / Composants** : 
+  - Agents LLM assignés
+  - Critères d'attribution
+- **Plan** :
+  1. Évaluer les compétences de chaque agent LLM disponible.
+  2. Associer les sous-tâches en fonction des compétences des agents.
+  3. Communiquer les attributions via KinOS.
+- **Relations clés** :
+  - KinOS fait correspondre les sous-tâches aux agents LLM en fonction de leurs compétences.
 
 #### Utilisation 3 : Coordination continue des agents
 - **N°** : Utilisation (1, 1, 1, 3)
