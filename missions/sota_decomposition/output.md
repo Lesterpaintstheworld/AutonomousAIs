@@ -10,9 +10,9 @@
 
 - **Tâches de synthèse**
   - Analyser les informations collectées
-    - **Assigné à** : Agent_C
+    - **Assigné à** : Agent_Synth
   - Résumer les points clés
-    - **Assigné à** : Agent_D
+    - **Assigné à** : Agent_Summary
 
 - **Tâches de rédaction**
   - Rédiger les sections définies
