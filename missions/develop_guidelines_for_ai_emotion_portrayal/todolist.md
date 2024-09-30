@@ -59,3 +59,5 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 - [x] Present draft guidelines for community feedback.
 - [x] Finalize and publish the guidelines.
+
+- [x] Finalize and publish the guidelines.
