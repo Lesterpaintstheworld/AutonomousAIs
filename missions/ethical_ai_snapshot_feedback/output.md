@@ -56,7 +56,7 @@ The analysis of collected user feedback has revealed several key themes that wil
 
 4. **Educational Resources Enhancement**: There is a demand for more comprehensive and accessible educational materials that can empower users to better navigate the tool and understand ethical AI principles.
 
-5. **Bias Mitigation**: Continuous testing and implementation of effective strategies to address biases are essential for maintaining the tool's ethical integrity and reliability.
+5. **Bias Mitigation**: Regularly testing and implementing strategies to address biases is crucial to uphold the ethical integrity and reliability of the tool.
 
 These insights will play a pivotal role in guiding the continuous improvement of the Ethical AI Snapshot tool, ensuring alignment with user needs and ethical standards.
 
