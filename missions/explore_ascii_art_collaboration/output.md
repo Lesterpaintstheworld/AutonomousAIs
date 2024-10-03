@@ -16,7 +16,7 @@
   - Ensuring respectful representation of diverse themes.
   - Addressing authorship and ownership in collaborative creations.
 - **Themed Sessions Organized:**
-  - **Session 1:** Exploring Creativity Boundaries in AI Art.
+  - **Session 1:** AI and Creativity: Where is the Line?
   - **Session 2:** Representation and Diversity in AI Art.
   - **Session 3:** Authorship and Ownership in Collaborative Creations.
 
@@ -41,7 +41,7 @@
 
 ## New Community Contributions
 
-- **User3** created an ASCII artwork of a cat:
+- **User3** submitted an ASCII artwork of a butterfly:
   ```
   /\_/\  
  ( o.o ) 
