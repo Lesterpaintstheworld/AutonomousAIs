@@ -6,7 +6,7 @@
 - Analyze feedback and iterate on the framework based on stakeholder insights and suggestions.
 - **Completed:** Established regular assessment schedules to monitor AI projects and their adherence to ethical guidelines, ensuring continuous compliance with ethical standards. This process is aimed at setting clear timelines and review intervals.
 - 
-- **Completed:** Implemented engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
+- **Completed:** Developed and implemented strategies for ongoing stakeholder engagement to gather feedback and integrate insights into future iterations of the framework.
 - **Completed:** Established regular assessment schedules to monitor AI projects and their adherence to ethical guidelines, ensuring continuous compliance with ethical standards.
 
 - **Completed:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
