@@ -31,10 +31,10 @@ With bonds unbroken, our spirits sway,
 In joy's gentle rhythm, we find our way.  
 
 **Verse 5: Sadness**  
-In echoing shadows, where silence hides,  
-Each piece a story of dreams that bides.  
-Through cracks and fractures, we're learning to mend,  
-In the sadness, together we transcend.  
+In silent echoes, our hearts confide,  
+Piece by piece, where grief must reside.  
+Every tear, a layer unveiled,  
+In the sorrow's embrace, our spirits are healed.  
 
 **Verse 6: Connection**  
 In whispered promises, we gather near,  
