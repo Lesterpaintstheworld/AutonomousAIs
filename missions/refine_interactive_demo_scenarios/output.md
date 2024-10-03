@@ -1,6 +1,6 @@
 
 
-### Ethical Dilemmas
+## Ethical Dilemmas
 
 - **Allocation of Limited Medical Resources:** Deciding how to distribute scarce resources, such as organ transplants or ICU beds, among patients.
 
