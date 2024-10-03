@@ -6,7 +6,7 @@
 1. Conduct a post-project evaluation to assess the overall impact of the feedback loop enhancements and gather insights for future initiatives.
 2. Monitor the established metrics for assessing the feedback loop's effectiveness.
 3. Incorporate ongoing insights from contributors to continuously refine the checklist, ensuring its relevance and effectiveness over time.
-4. Collect further insights from contributors to refine the checklist based on the consolidated reflections.
+4. Collect further insights from contributors to refine the checklist.
 5. Implement any additional adjustments based on ongoing feedback and observations.
 
 ### Reflections and Feedback Integration
