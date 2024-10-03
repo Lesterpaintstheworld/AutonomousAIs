@@ -172,9 +172,9 @@ The metrics are designed to evolve with ongoing feedback from clients and advanc
 
 The refined metrics for the Ethical AI Snapshot tool provide a robust and flexible framework for assessing the ethical alignment of AI systems. By incorporating user and client feedback, these metrics ensure that the tool meets the highest standards of transparency, fairness, accountability, privacy, and sustainability. This comprehensive approach enables organizations to deploy AI responsibly and ethically, fostering trust and integrity in their AI initiatives.
 
-## Summary Reports
+## Compiled Summary Reports
 
-### Compiled and Analyzed Summary of User Feedback
+### Compiled Summary of User Feedback
 Based on the user feedback collected from Discord discussions, the following key points have been identified:
 
 - **Transparency Enhancements:** Users have requested more detailed explanations of how ethical metrics are calculated to ensure trustworthiness.
