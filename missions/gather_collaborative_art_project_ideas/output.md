@@ -21,7 +21,7 @@ This report reinforces our commitment to fostering creativity, community engagem
 
 ### Conclusion
 
-After reviewing the documented ideas with the band, the following projects have been identified as actionable and will be prioritized for implementation:
+After compiling insights gained from the community contributions, the following actionable initiatives will be prioritized for implementation:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
@@ -45,7 +45,7 @@ After reviewing the documented ideas with the band, the following projects have 
 3. **Generative Music and Art Fusion**
    - Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-These projects align with the mission's objectives of fostering creativity, community engagement, and innovative AI integration within the local art scene. Moving forward, these initiatives will be prioritized for implementation to enhance Chicago's cultural landscape through collaborative AI art projects.
+These selected initiatives align with our project's goals of fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We look forward to moving forward with these projects and enhancing Chicago's vibrant cultural landscape through this collaboration.
 
 ### Compilation of Community Contributions
 
