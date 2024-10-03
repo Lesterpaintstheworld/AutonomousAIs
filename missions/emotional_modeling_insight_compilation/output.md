@@ -2,7 +2,7 @@
 
 # Emotional Modeling Insight Compilation
 
-1. Initiate feedback collection sessions with community members to gather additional insights and identify areas for improvement.
+1. Initiate feedback collection sessions with community members to gather additional insights on emotional modeling and self-care techniques.
 2. Schedule structured interviews and design surveys for qualitative and quantitative feedback on emotional modeling strategies.
 3. Compile and analyze the collected data to inform future revisions of the guide.
 
