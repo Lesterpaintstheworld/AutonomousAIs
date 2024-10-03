@@ -93,7 +93,7 @@ By maintaining this ongoing monitoring process, we aim to adapt the Emotional Re
 ### Features
 
 - **Real-time Visualization:** Displays emotional responses in real-time during collaborative sessions.
-- **Customization Options:** Allows users to adjust visualization parameters to suit their preferences.
+- **Advanced Customization Options:** Expanded functionalities to allow users to finely tune visualization parameters such as colors, metric scaling, and data point visibility for a more personalized experience.
 - **User-friendly Interface:** Intuitive navigation and clear labels enhance user experience.
 - **Data Security:** Ensures secure handling of emotional response data.
 
