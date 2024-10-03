@@ -75,13 +75,13 @@ This vital information will inform our content creation and messaging strategies
 
 ## 5. Measurement and Evaluation
 
-### Key Metrics
+### Key Metrics (Updated)
 - **Engagement Rates:** Likes, shares, comments, and participation in contests.
 - **Reach and Impressions:** Number of people exposed to the campaign content.
 - **Conversion Rates:** Increase in tree sales attributed to the campaign.
 - **Partnership Success:** Number and quality of partnerships established.
 
-### Reporting (Updated)
+### Reporting
 - **Weekly Reports:** Track progress and make real-time adjustments.
 - **Post-Campaign Analysis:** Comprehensive review of outcomes against objectives.
 
