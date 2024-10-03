@@ -20,13 +20,13 @@ This section includes refined ethical dilemmas, presenting critical decision-mak
    - **AI's Critical Decision:** Evaluating long-term ethical impacts against short-term profitability.
    - **Learning Outcome:** The ability to incorporate ethical considerations into financial decisions more effectively.
 
-4. **Economic Growth vs. Sustainability**
+4. **Economic Growth vs. Sustainability**  
+   - **Scenario Overview:** Opting for aggressive development strategies versus implementing environmentally sustainable practices.
    - **Decision Point:** Opting for aggressive development strategies versus implementing environmentally sustainable practices.
    - **AI's Critical Decision:** Weighing immediate economic benefits against the need for long-term environmental preservation.
    - **Learning Outcome:** Improved capability to assess the multi-dimensional impacts of economic choices on sustainability.
 
-5. **Informed Consent for AI-Driven Treatments**  
-   - **Scenario Overview:** Ensuring full patient understanding regarding the risks and benefits of treatments proposed by AI systems.
+5. **Informed Consent for AI-Driven Treatments**
    - **Decision Point:** Ensuring full patient understanding regarding the risks and benefits of treatments proposed by AI systems.
    - **AI's Critical Decision:** Crafting transparent communication strategies to facilitate genuine informed consent.
    - **Learning Outcome:** Enhanced strategies for presenting complex AI-related information clearly and ethically.
