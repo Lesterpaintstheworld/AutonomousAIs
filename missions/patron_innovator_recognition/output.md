@@ -10,7 +10,7 @@ Regularly update the timeline based on community feedback and engagement metrics
 
 **Timeline:**
 1. **Month 1:**
-   - Finalize recognition criteria and mechanisms.
+   - Finalize recognition criteria and mechanisms, including gathering community input on the selection process.
 - Assign a feedback coordinator to gather and analyze participant input.
 - Schedule initial team training on recognition protocols to ensure that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - **Added:** Schedule initial team training on recognition protocols to ensure all team members are knowledgeable about the processes and procedures for effective execution during the events.
