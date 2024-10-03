@@ -13,7 +13,7 @@
   - [X] Implement user feedback mechanisms for ongoing improvements.
   - [X] Validate the functionality of the simulator, documenting results for thorough analysis, and provide insights based on the outcomes of initial testing.
 
-- **Compilation of Ethical Guidelines**: Complete the collection and compilation of ethical guidelines necessary for the simulator's functionality, ensuring effective decision-making in preparation for comprehensive testing.
+- **Compilation of Ethical Guidelines**: Completed compiling a detailed list of ethical guidelines necessary for the simulator's functionality.
 - **Outline and Design of Simulation Scenarios**: Completed outlining and designing various simulation scenarios utilizing different ethical frameworks.
 
 ### Features
