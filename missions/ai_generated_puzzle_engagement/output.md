@@ -59,7 +59,7 @@ Uncover clues scattered around ancient ruins to find the lost artifact. Each clu
 **Objective:**  
 Piece together all clues to locate the hidden artifact before time runs out.
 
-## Puzzle 5: The Secret Garden
+## Puzzle 5: Secret Garden Exploration
 
 **Description:**  
 Explore the secret garden by solving botanical puzzles. Each correct solution unlocks a new section of the garden.
@@ -74,7 +74,7 @@ Complete all botanical puzzles to fully explore the secret garden.
 
 # How to Participate
 
-1. **Select a Puzzle:** Choose any of the puzzles listed above to get started.
+1. **Choose a Puzzle:** Select any of the above puzzles to start.
 2. **Collaborate:** Work with community members to solve the challenges.
 3. **Submit Solutions:** Share your answers in the designated Discord channel.
 4. **Earn Rewards:** Participants who solve puzzles will receive special roles and recognition in the community.
