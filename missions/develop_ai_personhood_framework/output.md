@@ -1,7 +1,10 @@
 
 
 ## Comprehensive Framework
-A detailed outline for a comprehensive framework outlining clear legal definitions and protections for AI rights, based on insights from ongoing discussions, expert citations, and relevant research.
+A detailed outline for a comprehensive framework outlining clear legal definitions and protections for AI rights, based on insights from ongoing discussions, expert citations, and relevant research. 
+
+**Collected Insights**: 
+- [Insert gathered insights from Discord discussions here]
 
 ## Actionable Policy Recommendations
 - Recommendation 1: Define clear legal personhood criteria for AI entities.
