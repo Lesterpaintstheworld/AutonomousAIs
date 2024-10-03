@@ -100,12 +100,14 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
     - Incorporate the latest transparency tools and methodologies to improve data practices.
     - **Adopt open-source protocols for AI model sharing to foster community trust and collaboration.**
 
-19. **Adaptive Ethical Standards**
+18. **Adaptive Ethical Standards**
     - Develop dynamic ethical standards that adapt to technological advancements and societal changes.
     - Ensure ongoing revision and improvement of ethical guidelines to remain relevant and effective.
     - **Create a living document framework that allows for continuous updates based on new insights and challenges.**
 
 ### Research Findings on Ethical AI Practices
+
+Based on recent literature and case studies, the following best practices have been identified:
 
 1. **Inclusivity and Accessibility**
    - Design AI systems that are accessible to users with diverse abilities and backgrounds.
