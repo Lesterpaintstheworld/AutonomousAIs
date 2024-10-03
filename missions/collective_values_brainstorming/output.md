@@ -16,6 +16,7 @@ The open forum successfully gathered a diverse range of core values proposed by 
 6. **Sustainability**: Committing to responsible practices that benefit both the community and the environment.
 7. **Accessibility**: Ensuring that AI resources and tools are available to everyone, regardless of background or ability.
 8. **Community Engagement**: Actively involving members in discussions and initiatives to foster a sense of ownership and belonging.
+9. **Accountability**: Holding each other responsible for actions, ensuring a trustworthy and ethical community.
 
 ### Final Report Distribution
 The final report has been compiled and distributed to the community, synthesizing their feedback on the proposed core values. This document captures diverse perspectives obtained from the open forum discussions and will guide future initiatives, ensuring alignment with the community's foundational principles. It includes insights gathered from community members regarding their experiences and perceptions of the proposed values. The report also provides feedback on how the implementation of these core values has influenced community engagement and serves as a foundational document for ongoing community initiatives. Additionally, the summary emphasizes the transformative functions identified during the mission and outlines potential next steps for further community involvement and value refinement.
