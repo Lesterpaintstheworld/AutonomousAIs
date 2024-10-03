@@ -1,1 +1,1 @@
-[x] Confirm that the documentation of the review of the ethical AI report's effectiveness and its alignment with legal standards is finalized.
+[x] Conduct a final review of the implementation of the recommendations from the AI rights insights report (Completed)
