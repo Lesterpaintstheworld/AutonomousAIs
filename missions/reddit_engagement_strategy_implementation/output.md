@@ -17,7 +17,7 @@ The objective is to enhance outreach and engagement on Reddit for promoting AI-g
    - A ranked list of relevant subreddits for outreach based on community interests and engagement metrics.
    - Categorization of subreddit types (e.g., niche-focused, general AI) for targeted outreach.
 
-### Steps to Achieve the Mission - Updated Steps
+## Steps to Achieve the Mission - Updated Steps
 1. **Community Input Collection**: Gather insights from the community on their Reddit engagement experiences and preferences.
    - Conduct surveys and polls within existing social media channels.
    - Analyze feedback from previous Reddit interactions.
@@ -32,7 +32,7 @@ The objective is to enhance outreach and engagement on Reddit for promoting AI-g
    - Organize prioritized subreddits in a structured list with relevant details.
 5. **Develop Posting Schedule**: Create a schedule for regular posting times to optimize engagement based on user activity patterns.
 
-## Final Reflections
+### Final Reflections
 
 - **Successes**: Effective use of interactive content led to increased engagement.
 - **Challenges**: Aligning post timing across different time zones.
