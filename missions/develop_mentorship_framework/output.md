@@ -9,10 +9,10 @@
    - Define expectations and responsibilities for both mentors and mentees.
 
 3. **Tailored Strategies Based on Insights**
-   - Incorporate community feedback to develop strategies that accommodate various learning styles, including visual, auditory, and kinesthetic modalities.
+   - Incorporate feedback obtained from community discussions to develop strategies that accommodate various learning styles, including visual, auditory, and kinesthetic modalities.
 
 4. **Flexible Approaches for Individual Needs**
-   - Ensure the program can adapt to different learning preferences and feedback from participants.
+   - Ensure the program can adapt to different learning preferences and incorporate ongoing feedback from participants.
 
 ### Ongoing Adaptability
 
