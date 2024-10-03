@@ -49,7 +49,7 @@ The finalized mentorship program structure has been established, providing an or
    - **Outreach Events**: Hosted five virtual information sessions and attended two local community events, further driving engagement and interest in the mentorship program.
 3. **Establish Communication Channels (Completed)**: Set up platforms and tools to facilitate efficient program operations.
 4. **Develop Training Modules (Completed)**: Create detailed training materials for mentors and mentees to ensure clarity and consistency.
-5. **Pilot Program**: Execute a pilot phase to test the program's effectiveness, gather feedback, and make necessary adjustments.
+5. **Pilot Program**: Implemented a pilot phase to test the program's effectiveness, gather feedback, and make necessary adjustments.
 6. **Full Launch**: **Completed** - The program has been successfully rolled out to the broader community, incorporating insights from the pilot phase.
 7. **Ongoing Monitoring and Evaluation**: Continuously assess program performance and participant satisfaction, making iterative improvements as needed.
 
