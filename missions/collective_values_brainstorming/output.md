@@ -13,7 +13,7 @@
 8. **Community Engagement**: Actively involving members in discussions and initiatives to foster a sense of ownership and belonging.
 
 ### Next Steps
-We will prepare and distribute the final report that synthesizes community feedback on the proposed core values.
+We have prepared and are now distributing the comprehensive final report that synthesizes community feedback on the proposed core values.
 
 ### Next Steps
 We will present these core values to the community for their feedback and formal approval.
