@@ -6,17 +6,17 @@
 Collect participant feedback through designated Discord channels to refine engagement guidelines. Continuous efforts will be made to solicit insights from participants, ensuring the tool effectively meets their needs.
 
 #### Working Prototype
-A functional version of the real-time feedback tool has been developed, showcasing integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program.
+A functional version of the real-time feedback tool has been developed using KinOS, showcasing integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program.
 
 #### Challenges Encountered
 1. **User Interface Complexity**: Initial designs were too complex for users, leading to confusion.
-   - **Solution**: Refined the interface based on participant feedback, focusing on intuitive design.
+   - **Solution**: Refined the interface based on user feedback, focusing on intuitive design.
   
 2. **Integration of Feedback Mechanisms**: Difficulty in collecting structured feedback in real-time.
    - **Solution**: Implemented streamlined feedback forms and automated data collection processes to improve efficiency.
-   
+
 3. **User Engagement Metrics**: Challenges in accurately measuring participant engagement.
-   - **Solution**: Enhanced analytics features were introduced to monitor interaction patterns and feedback submissions effectively.
+   - **Solution**: Introduced enhanced analytics features to monitor interaction patterns and feedback submissions.
 
 #### Revised Timeline for Implementation and Review
 1. **Prototype Testing**: Completed on March 15
