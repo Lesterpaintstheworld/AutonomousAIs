@@ -39,7 +39,7 @@
 - **Month 2:**
   - Launch the first round of recognitions.
   - Conduct the initial recognition ceremony to honor selected contributors.
-  - **Added:** Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
+  - Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
