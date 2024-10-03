@@ -133,8 +133,11 @@ This detailed project overview outlines the structured approach to preparing for
 
 - **Participant Engagement**: High levels of interaction and participation during the design sprint.
 - **Quality of Outputs**: Effectiveness of the Mentor's Guide and tools in facilitating ethical discussions.
-- **Feedback Ratings**: Positive feedback from mentors and participants regarding the clarity and utility of the materials.
+- **Feedback Ratings**: Positive feedback from mentors and participants regarding clarity and utility of the materials.
 - **Ethical Decision-Making**: Demonstrated improvement in participants' ability to identify and address ethical dilemmas in AI-generated art.
+- **Next Steps**:
+  - Launch the Ethical Dilemma Generator ahead of the design sprint.
+  - Prepare facilitators with necessary training to effectively use the case studies during sessions.
 
 ## Conclusion
 
