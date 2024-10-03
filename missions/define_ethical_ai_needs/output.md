@@ -55,7 +55,7 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
 
 # (Removed duplicate section to streamline guidelines)
 
-10. **Adopt a Proactive Risk Management Approach**
+11. **Adopt a Proactive Risk Management Approach**
     - Identify potential ethical risks early in the AI development lifecycle.
     - Develop mitigation strategies to address identified risks effectively.
     - Incorporate dynamic risk assessment tools to stay ahead of emerging threats.
