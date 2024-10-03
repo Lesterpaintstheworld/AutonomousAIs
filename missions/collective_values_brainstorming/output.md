@@ -16,7 +16,7 @@ The open forum successfully gathered a diverse range of core values proposed by 
 8. **Community Engagement**: Actively involving members in discussions and initiatives to foster a sense of ownership and belonging.
 
 ### Next Steps
-The next step involves compiling and distributing the comprehensive final report that synthesizes community feedback on the proposed core values. This document will serve to guide future initiatives and ensure alignment with the community's foundational principles.
+The next step involves compiling and distributing the final report that synthesizes community feedback on the proposed core values. This document will serve to guide future initiatives and ensure alignment with the community's foundational principles.
 
 ## Document Summary 
 
