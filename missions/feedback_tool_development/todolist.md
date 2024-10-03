@@ -4,4 +4,5 @@
 [ ] Designate structured review periods for feedback.  
 [ ] Conduct initial testing within the Discord community and gather feedback.  
 [ ] Gather community insights for iterative improvements based on feedback received.  
-[ ] Refine the feedback tool based on initial testing results and community suggestions.
+[ ] Refine the feedback tool based on initial testing results and community suggestions.  
+[ ] Continue testing within the Discord community to gather further feedback and make iterative improvements.
