@@ -41,7 +41,7 @@
 
 **Week 5:**
 - **Participation Rates**
-  - Week 10: Develop and launch new puzzles based on community feedback, incorporating more collaborative and advanced puzzle elements.
+  - Week 10: Develop and launch new puzzles based on community feedback, incorporating more collaborative and advanced puzzle elements such as logic puzzles and team-based challenges.
 
 - **Feedback Scores**
   - Week 5: Average score of 4.9
