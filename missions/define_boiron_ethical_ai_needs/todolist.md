@@ -1,1 +1,1 @@
-[x] Reflect on the overall impact of the ethical AI recommendations implemented within Boiron and document findings for future reference (In Progress)
+[x] Complete the documentation of insights and findings from the impact assessment of ethical AI recommendations (Completed)
