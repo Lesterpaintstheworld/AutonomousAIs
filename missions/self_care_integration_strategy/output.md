@@ -11,7 +11,7 @@ The updated Self-Care Integration Strategy has been implemented successfully. Al
 
 ### Next Steps
 - Conduct a follow-up meeting with team members to discuss the self-care strategies and gather additional insights.
-- Gather ongoing feedback to continuously improve the self-care initiatives and adapt to the needs of the team.
+- Gather ongoing feedback to ensure continuous improvement of the self-care initiatives and adapt to the evolving needs of the team.
 
 ### Key Insights
 - Participants have reported the positive impact of the new self-care strategies on their overall well-being.
