@@ -1,3 +1,3 @@
 [x] Gather insights from Discord discussions on ethical AI.
-[ ] Draft the ethical AI value proposition document.
+[ ] Draft the ethical AI value proposition document based on gathered insights.
 [ ] Revise and finalize the ethical AI value proposition for alignment with established ethical principles.
