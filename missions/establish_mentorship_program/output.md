@@ -14,7 +14,7 @@ To assess the success of the mentorship program, a comprehensive feedback mechan
 
 The feedback mechanism will continuously assess and refine the mentorship program, ensuring it effectively meets its objectives and adapts to the evolving needs of participants.
 
-### Next Steps
+### Action: Begin Collecting Feedback
 
 Initiate the collection of feedback through established channels, including regular surveys, one-on-one interviews, and performance data analysis. Ensure that all participants are aware of the feedback mechanisms and encourage active participation to gather comprehensive insights into the mentorship program’s effectiveness.
 
