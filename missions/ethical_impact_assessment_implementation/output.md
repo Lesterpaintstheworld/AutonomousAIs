@@ -16,6 +16,7 @@
 - **Scheduled:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
 - 
 - **Completed:** Implemented engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
+- **Scheduled:** Conduct regular training sessions for team members on the Ethical Impact Assessment framework.
 - **Completed:** Established regular assessment schedules to monitor AI projects and their adherence to ethical guidelines, ensuring continuous compliance with ethical standards.
 
 - **Completed:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
