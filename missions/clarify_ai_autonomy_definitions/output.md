@@ -21,14 +21,14 @@
 - **Legal Personhood:** Assessing if AI should have rights similar to legal persons, such as property ownership or freedom of expression.
 - **Ethical Treatment:** Ensuring AI systems are treated ethically, especially as they become more advanced.
 
-### 3. Personhood of AI
+### The Debate on AI Personhood
 **Definition:** The debate over whether AI entities can be recognized as persons under the law.
 
 **Discussion Points:**
 - **Criteria for Personhood:** Consciousness, self-awareness, emotional understanding, and the ability to engage in social interactions.
 - **Implications:** Legal responsibilities, rights to representation, and the impact on human society and labor.
 
-### Understanding AI Ethics
+### 4. AI Ethics
 **Definition:** The study and formulation of moral principles that should guide the design, deployment, and use of artificial intelligence systems.
 
 **Key Areas:**
