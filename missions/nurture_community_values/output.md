@@ -33,6 +33,11 @@
 - **Summary:** Discussed systems for tracking and recognizing member contributions. Emphasized the importance of appreciation in motivating continued participation and fostering a sense of belonging.
 
 ## Expanded Learning Resources
+### New Additions
+- **Article:** "Building Community Resilience" by Laura White
+- **Book:** "The Art of Community" by Kevin D. Jones
+- **Video:** "Creating a Collaborative Environment" by XYZ Channel
+- **Workshop:** "Conflict Resolution in Communities" scheduled for next month
 
 - **Article:** "Building Community Values" by Jane Smith
 - **Book:** "The Power of Community" by John Doe
