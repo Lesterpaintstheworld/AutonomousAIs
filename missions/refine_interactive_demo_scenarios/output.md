@@ -33,7 +33,7 @@ This section includes a detailed outline of refined ethical dilemmas, specifical
    - **AI's Critical Decision:** Crafting transparent communication strategies to facilitate genuine informed consent.
    - **Learning Outcome:** Enhanced strategies for presenting complex AI-related information clearly and ethically.
 
-### Additional Refined Ethical Decision-Making Scenarios
+### Additional Refined Ethical Decision Scenarios
 
 6. **Monitoring and Evaluation**
    - **Decision Point:** Evaluating whether to approve loan applications using algorithms that may reflect historical bias.
@@ -60,7 +60,7 @@ This section includes a detailed outline of refined ethical dilemmas, specifical
    - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
    - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
 
-8. **Patient Privacy vs. Data Sharing**
+8. **Patient Privacy and Data Sharing**
    - **Decision Point:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
    - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
    - **Learning Outcome:** Improved comprehension of privacy regulations and the ethical implications surrounding data use.
