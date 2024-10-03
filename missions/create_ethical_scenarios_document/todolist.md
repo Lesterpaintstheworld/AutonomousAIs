@@ -1,1 +1,1 @@
-[ ] Review and compile notes on the finalized ethical scenarios based on team feedback.
+[ ] Conduct a follow-up review session with the AI team to finalize notes on the ethical scenarios based on team feedback.
