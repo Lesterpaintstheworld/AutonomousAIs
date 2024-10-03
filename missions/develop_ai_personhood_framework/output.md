@@ -11,7 +11,7 @@ The literature review has been completed by integrating new findings and peer-re
 
 ### Feedback and Next Steps
 - - [ ] Conduct a final review of the implementation of the recommendations from the AI rights insights report and confirm alignment with legal and ethical standards.
-- Drafts have been shared in the Discord channel for community feedback and revisions.
+- Feedback from the community has been integrated into the framework drafts, and the next steps for finalization are now underway.
 - Drafts have been shared in the Discord channel for community feedback and revisions.
 
 ### Feedback and Next Steps
