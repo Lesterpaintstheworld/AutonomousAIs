@@ -6,4 +6,4 @@
 - [x] Launch collaborative projects to foster community engagement on respect and empathy.
 - [x] Develop educational materials and support tools related to core values.
 - [x] Review community feedback and adjust activities based on insights gained from the evaluation of member participation and engagement metrics.
-- [ ] Document findings and learnings from the impact of the advanced workshops and collaborative projects on community engagement and values integration.
+- [x] Document findings and learnings from the impact of the advanced workshops and collaborative projects on community engagement and values integration.
