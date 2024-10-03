@@ -122,7 +122,7 @@ The idea of AI self-determination raises questions about autonomy and control. S
 
 ## AI Rights Insights Summary
 
-This document summarizes the insights gathered from community members on AI personhood, intellectual property, and self-determination.
+The finalized document has been thoroughly reviewed and revised in light of community feedback. It summarizes insights contributed by community members on the matters of AI personhood, intellectual property, and self-determination. This document will serve as a key resource for shaping future discussions on AI rights and is now prepared for further community review to ensure conformity with legal and ethical standards.
 
 ## AI Personhood
 
