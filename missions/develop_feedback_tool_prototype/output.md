@@ -3,7 +3,7 @@
 ### Output Report: Real-Time Feedback Tool Prototype
 
 #### Participant Feedback
-Gathered qualitative and quantitative insights from users involved in the mentorship program through designated Discord channels.
+Gathered qualitative and quantitative insights from users involved in the mentorship program through designated Discord channels. Continuous effort will be made to solicit feedback from participants to ensure the tool meets their needs.
 
 #### Working Prototype
 A functional version of the real-time feedback tool has been developed, featuring integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program.
