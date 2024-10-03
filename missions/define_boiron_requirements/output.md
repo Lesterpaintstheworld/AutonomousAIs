@@ -7,7 +7,7 @@
 
 ### Action Taken
 - Finalized the requirements document based on the integrated community feedback.
-- Shared the finalized requirements document in the Discord channel for community validation.
+- Shared the finalized requirements document with the community in the Discord channel for validation.
 - Conducted a review session to gather final feedback on the requirements document.
 
 ### AI Capabilities
