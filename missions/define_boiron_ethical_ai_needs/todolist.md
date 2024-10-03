@@ -1,1 +1,1 @@
-[x] Review and update the documentation to include insights from the impact assessment, ensuring alignment with Boiron's ethical AI standards (In Progress)
+[x] Complete the integration of key findings into the ethical AI report for Boiron, ensuring alignment with the latest ethical standards and recommendations (Pending)
