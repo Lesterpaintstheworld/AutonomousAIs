@@ -40,14 +40,7 @@
 ******
  **** 
   ** 
-  ```
-- **User4** created an ASCII artwork of a star:
-  ```
-    *  
-   *** 
-  ***** 
-    *  
-  ```
+```
 
 ## New Community Contributions
 
@@ -58,7 +51,7 @@
   > ^ <
   ```
 
-## ASCII Ethics Jam Highlights
+### ASCII Ethics Jam Highlights
 
 - **Discussion Topic:** The ethical implications of AI-generated art.
 - **Key Points:**
