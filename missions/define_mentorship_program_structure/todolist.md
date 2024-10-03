@@ -9,4 +9,4 @@
 [x] Conduct regular program reviews to assess the effectiveness and impact of the mentorship initiatives, and make iterative improvements as needed.
 [x] Develop a communication plan to maintain engagement and support for mentors and mentees throughout the program.
 [x] Conduct periodic evaluations of the mentorship program's overall effectiveness, using participant feedback to guide improvements and adjustments.
-[x] Facilitate ongoing mentor training sessions to incorporate new coaching techniques and address participant feedback.
+[x] Implement a system for gathering and analyzing feedback on mentor training sessions to inform enhancements.
