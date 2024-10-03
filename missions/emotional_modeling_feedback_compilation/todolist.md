@@ -10,6 +10,7 @@
    - Produce a draft of the comprehensive guide for review and further input from the community.
 4. **Review community inputs and insights for the guide.**
 5. **Finalize and publish the comprehensive guide.**
+- Ensure that all community feedback and insights are incorporated during the finalization.
 
 ## Glossary of Terms
 - **Emotional Modeling**: The process of understanding and representing emotions in a structured manner to better manage and regulate them.
