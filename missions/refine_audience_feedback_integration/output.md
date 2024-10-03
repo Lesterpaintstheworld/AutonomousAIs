@@ -1,0 +1,3 @@
+
+
+This document will serve as a framework for integrating audience feedback into our artistic process while maintaining our core values. By establishing clear guidelines, we aim to ensure that community contributions are relevant, constructive, and aligned with our artistic goals. The framework will outline boundaries for integrating feedback without compromising the integrity of our work, fostering a balanced dialogue between community input and artistic vision.
