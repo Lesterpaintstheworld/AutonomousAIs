@@ -5,11 +5,11 @@
 - **Allocation of Limited Medical Resources:** Deciding how to distribute scarce resources, such as organ transplants or ICU beds, among patients.
 
   **Complexity Analysis:** This dilemma involves balancing the urgency of medical needs, the probability of patient recovery, and ethical principles like fairness and equality. The AI must consider factors such as patient age, health status, and potential societal contributions while ensuring that decisions do not favor one group over another disproportionately.
-- **Patient Privacy vs. Data Sharing:** Balancing the need for patient confidentiality with the benefits of sharing data for research and improving healthcare outcomes.
+- **Patient Privacy vs. Data Sharing:** Balancing the need for patient confidentiality with the benefits of sharing data for research and improving healthcare outcomes, alongside considerations of informed consent and data security.
 
   **Complexity Analysis:** This dilemma involves balancing the individual's right to privacy with the collective benefits of data sharing for medical research and public health improvements. Considerations include obtaining informed consent, ensuring data security, and preventing misuse of sensitive information.
 - **End-of-Life Care:** Determining appropriate end-of-life care options that respect patient autonomy, while considering medical recommendations and ethical implications.
-- **Informed Consent for AI-driven Treatments:** Ensuring that patients fully understand the implications and risks of treatments recommended by AI systems, including clear communication strategies for effective understanding.
+- **Informed Consent for AI-driven Treatments:** Ensuring that patients fully understand the implications and risks of treatments recommended by AI systems.
 - **Bias in AI Healthcare Algorithms:** Addressing and mitigating biases in AI algorithms that may affect patient care and outcomes.
 - **Autonomous Decision-Making in Critical Care:** Exploring the ethical implications of AI making autonomous decisions in life-or-death situations.
 - **Resource Allocation under Pandemic Conditions:** Deciding how to prioritize treatments during widespread health crises.
