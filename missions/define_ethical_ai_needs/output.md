@@ -12,7 +12,7 @@ This document outlines responsible AI development practices structured to ensure
 2. **Fairness and Bias Mitigation**
    - Implement strategies to identify and reduce biases in AI algorithms, including regular bias assessments and diversification of training data.
    - Regularly audit AI systems to ensure equitable treatment of all users.
-   - **Adopt new bias detection tools from the latest research to improve fairness outcomes.**
+   - **Integrate and adopt new bias detection tools from the latest research to improve fairness outcomes.**
 
 3. **Accountability and Governance**
    - Establish clear accountability structures for AI development and deployment.
@@ -23,7 +23,7 @@ This document outlines responsible AI development practices structured to ensure
    - Adhere to all relevant data protection regulations (e.g., GDPR, CCPA).
    - Implement robust security measures to protect sensitive data.
    - Incorporate new best practices from recent literature to address emerging privacy challenges.
-   - **Implement cutting-edge privacy-preserving technologies such as differential privacy and federated learning.**
+   - **Implement privacy-preserving technologies such as differential privacy and federated learning.**
 
 5. **Sustainability and Social Responsibility**
    - Promote sustainable AI practices that minimize environmental impact.
