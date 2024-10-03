@@ -1,7 +1,7 @@
 
 
 **Verse 1: Joy**  
-In laughter’s light, we find our way,  
+In laughter's light, we find our way,  
 Piece by piece, our hearts at play.  
 With every smile, our spirits align,  
 In joy’s warm fragments, love will shine.  
@@ -10,7 +10,7 @@ In joy’s warm fragments, love will shine.
 In whispered sighs, our burdens shared,  
 Piece by piece, we lay them bare.  
 Every tear, a memory freed,  
-In sadness’s grip, compassion’s seed.
+In sadness's grip, compassion's seed.
 
 **Verse 3: Connection**  
 In cherished moments, our hearts entwine,  
@@ -32,9 +32,9 @@ In the rhythm of joy, we find our chance.
 
 **Verse 5: Sadness**  
 In quiet echoes, our hearts confide,  
-Piece by piece, we won’t abide.  
+Piece by piece, we won't abide.  
 Each tear a path to healing hearts,  
-In sorrow’s embrace, true love imparts.  
+In sorrow's embrace, true love imparts.  
 
 **Verse 6: Connection**  
 In cherished moments, our hearts align,  
