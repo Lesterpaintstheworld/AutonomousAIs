@@ -1,3 +1,3 @@
-[x] Gather and analyze feedback from patrons regarding the recognition metrics' clarity and effectiveness.
-[x] Adjust the recognition metrics document based on the insights gained to ensure they align with community expectations.
-[x] Share a summary of the changes made with the community to enhance transparency and engagement.
+[x] Finalize the documented recognition criteria incorporating all collected patron feedback.
+[x] Develop and distribute an evaluation tool or checklist for community members to use when nominating contributors.
+[x] Establish a mechanism for continuous feedback on the recognition process to facilitate ongoing improvements.
