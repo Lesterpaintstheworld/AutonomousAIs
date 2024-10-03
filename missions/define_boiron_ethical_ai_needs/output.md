@@ -29,9 +29,9 @@ Based on recent discussions in the Discord channel, several key insights have em
 
 2. **Continuous Monitoring:** Implementing ongoing evaluation mechanisms to assess AI systems' performance and ethical compliance over time.
 
-3. **Employee Training:** Providing regular training sessions for employees to understand ethical AI practices and their roles in maintaining these standards.
+3. **Employee Training:** Providing regular training sessions for employees to understand ethical AI practices and their roles in upholding these standards.
 
-4. **Ethical AI Committee:** Establishing a dedicated committee responsible for overseeing AI ethics, including reviewing AI projects and addressing ethical concerns as they come up.
+4. **Ethical AI Committee:** Establishing a dedicated committee responsible for overseeing AI ethics, including reviewing AI projects and addressing ethical concerns as they arise.
 
 5. **User Consent:** Ensuring that user data is collected and utilized with explicit consent, adhering to best practices in data privacy and user rights.
 
