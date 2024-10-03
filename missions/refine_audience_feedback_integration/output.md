@@ -3,13 +3,13 @@
 ### Feedback Collection and Analysis
 
 #### Framework Overview
-This document outlines the process for collecting and analyzing feedback effectively while preserving our artistic integrity.
+This document outlines the enhanced process for collecting and analyzing feedback effectively while preserving our artistic integrity in keeping with our established artistic goals.
 
 1. **Collect Feedback**:
    - Utilize Discord channels for soliciting insights from community members on various aspects of the project.
 
 2. **Analyze Feedback**:
-   - Review collected feedback against established artistic goals as well as the specific indicators developed to assess its relevance and constructiveness.
+   - Review collected feedback against established artistic goals to evaluate its relevance and constructiveness.
 
 3. **Guidelines for Submissions**:
    - Set clear criteria for acceptable feedback focused on constructiveness and relevance.
