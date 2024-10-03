@@ -6,5 +6,5 @@
 [✔] Document uses and outcomes of the refined ethical feedback loop checklist and recommendations.
 [✔] Finalize documentation of uses and outcomes of the refined ethical feedback loop checklist and recommendations.
 [✔]  Review and update the refined ethical feedback loop based on feedback and insights gathered.
-[✖] Evaluate the effectiveness of the implemented feedback mechanisms over time.
+[✖] Document the uses and outcomes of the refined ethical feedback loop checklist and recommendations.
 [✔] Document the uses and outcomes of the refined ethical feedback loop checklist and recommendations.
