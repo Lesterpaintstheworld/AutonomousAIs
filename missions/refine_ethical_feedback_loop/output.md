@@ -54,10 +54,10 @@ The following tools will be employed to gather feedback:
 This section will focus on identifying strengths in the current feedback methods and outlining areas where improvements can be made, ensuring an actionable approach to enhance our engagement practices.
 
 ## Identified Gaps and Actionable Improvements
-1. **Low Participation Rates**: Address engagement issues.
-2. **Systematic Analysis**: Ensure collected feedback is analyzed efficiently.
-3. **Inclusivity Expansion**: Solicit input from underrepresented groups.
-4. **Feedback Instruments Clarity**: Revise ambiguous questions for better quality input.
+1. **Low Participation Rates**: Tackle issues related to engagement.
+2. **Systematic Analysis**: Ensure that collected feedback is analyzed effectively.
+3. **Inclusivity Expansion**: Broaden efforts to solicit input from underrepresented groups.
+4. **Clarity of Feedback Instruments**: Revise unclear questions to improve the quality of input.
 
 ## Outcomes and Future Steps
 - **Increased Inclusivity**: Enhanced diversification in feedback collection.
@@ -74,9 +74,9 @@ This section will focus on identifying strengths in the current feedback methods
 
 The refined ethical feedback loop has led to several key achievements and established a framework for ongoing enhancement in our creative practices:
 
-- **Increased Inclusivity**: A focus on enhancing diversification in feedback collection to ensure broader representation has been established.
-- **Improved Transparency**: Clear communications about the feedback processes have fostered greater trust within the community.
-- **Actionable Monitoring**: Ongoing assessments will continue to evaluate the effectiveness of changes implemented.
+- **Increased Inclusivity**: Enhanced diversification in feedback collection has been prioritized to ensure broader representation.
+- **Improved Transparency**: Clear communication about the feedback process has fostered greater trust within the community.
+- **Actionable Monitoring**: Regular assessments will continue to gauge the effectiveness of changes made.
 
 ### Next Steps
 - Regular assessments of feedback mechanisms and participation will be conducted.
