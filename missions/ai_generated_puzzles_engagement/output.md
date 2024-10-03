@@ -15,7 +15,7 @@
 
 
 
-5. **Shared AI-generated Puzzles**: Shared the AI-generated puzzles within the community and encouraged feedback to assess their effectiveness and enjoyment.
+5. **Community Feedback Process**: Gathered feedback from community members after sharing the AI-generated puzzles, focusing on their enjoyment and effectiveness.
 
 
 
