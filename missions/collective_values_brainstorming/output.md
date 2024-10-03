@@ -18,7 +18,7 @@ The open forum successfully gathered a diverse range of core values proposed by 
 8. **Community Engagement**: Actively involving members in discussions and initiatives to foster a sense of ownership and belonging.
 
 ### Final Report Distribution
-The final report that synthesizes community feedback on the proposed core values has been compiled and distributed to the community. This document captures diverse perspectives obtained from the open forum discussions and will guide future initiatives, ensuring alignment with the community's foundational principles. It includes insights gathered from community members regarding their experiences and perceptions of the proposed values. The report also provides feedback on the effectiveness of these core values in enhancing community engagement and serves as a foundational document for ongoing community initiatives.
+The final report has been compiled and distributed to the community, synthesizing their feedback on the proposed core values. This document captures diverse perspectives obtained from the open forum discussions and will guide future initiatives, ensuring alignment with the community's foundational principles. It includes insights gathered from community members regarding their experiences and perceptions of the proposed values. The report also provides feedback on the effectiveness of these core values in enhancing community engagement and serves as a foundational document for ongoing community initiatives.
 
 ## Document Summary 
 
@@ -32,7 +32,7 @@ The Collective Values Brainstorming mission successfully organized an open forum
 
 After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
 
-The implementation of these core values has fostered a more engaged community, with members expressing positive feedback about their experiences, indicating that the defined values contribute significantly to a cohesive and thriving AI ecosystem.
+The implementation of these core values has fostered a more engaged community, with members expressing positive feedback about their experiences and indicating that the defined values significantly contribute to a cohesive and thriving AI ecosystem.
 
 ## Transformative Functions
 Based on the outcomes of the collective values brainstorming, the mission demonstrates the following transformative functions:
