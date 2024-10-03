@@ -10,7 +10,7 @@
   - **Positive Feedback:** Participants enjoyed the variety and challenge of the puzzles.
   - **Areas for Improvement:** Several members suggested clearer instructions for each puzzle.
   - **Additional Input:** Clarifying the objective of each puzzle is also necessary.
-  - **Most Popular Puzzle:** Riddle Rendezvous
+  - **Most Popular Puzzle:** Cipher Challenge
 - **Creativity Metrics:**  
   - **Unique Solutions Submitted:** 120
   - **Engagement Level:** Analyze the level of community participation and interaction for each puzzle created.
