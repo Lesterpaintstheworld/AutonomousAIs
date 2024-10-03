@@ -2,7 +2,7 @@
 
 ### Output Report: Real-Time Feedback Tool Prototype (Updated)
 
-- Conducted follow-up assessments to evaluate the effectiveness of the implemented feedback strategies and recorded findings for further adjustments as necessary.
+- Developed a comprehensive evaluation report summarizing the findings from the follow-up assessments and proposing further enhancements to the feedback tool.
 
 #### Challenges and Solutions Report
 
