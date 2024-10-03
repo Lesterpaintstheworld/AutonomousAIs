@@ -2,6 +2,8 @@
 
 ## Engaging Narratives on AI Autonomy
 
+### Narrative Development
+
 The following engaging narratives present the definitions and insights gathered regarding AI autonomy, incorporating key perspectives derived from community discussions.
 
 ### Understanding AI Autonomy
