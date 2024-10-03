@@ -46,7 +46,7 @@ Embark on a journey across the galaxy by solving space-themed puzzles. Each puzz
 **Objective:**  
 Solve all space puzzles to successfully navigate the spaceship to the new planet.
 
-## Puzzle 4: The Mystery of the Lost Artifact
+## Puzzle 4: The Great Mystery of the Lost Artifact
 
 **Description:**  
 Uncover clues scattered around ancient ruins to find the lost artifact. Each clue requires logical thinking and pattern recognition.
@@ -57,7 +57,7 @@ Uncover clues scattered around ancient ruins to find the lost artifact. Each clu
 - **Clue 3:** Solve the anagram: "TACORI"
 
 **Objective:**  
-Piece together all clues to locate the hidden artifact and uncover its secrets before time runs out.
+Piece together all clues to locate the hidden artifact before time runs out.
 
 ## Puzzle 5: The Secret Garden
 
