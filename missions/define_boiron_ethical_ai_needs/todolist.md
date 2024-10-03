@@ -1,1 +1,1 @@
-[x] Confirm that the review of the ethical AI report's effectiveness and compliance with relevant legal standards has been finalized.
+[x] Mark review of the ethical AI report's effectiveness and legal compliance as complete.
