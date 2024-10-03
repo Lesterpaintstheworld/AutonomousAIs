@@ -58,7 +58,7 @@
 
 - Invited all team members to provide feedback on the draft checklist and metrics.
 - Collected and integrated additional feedback to refine the finalized checklist and metrics.
-- **Summary of Key Insights:**
+- **Summary of Key Insights - Refined:**
   
   Throughout the project, several key insights have emerged to enhance the feedback invitation process:
 
