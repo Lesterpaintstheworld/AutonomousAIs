@@ -83,7 +83,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Representation of diverse groups in training data.
     - Inclusive design practices.
 
-### 3. Accountability Metric
+### 3. Accountability and Governance Metric
 **Objective:** Assess the responsibility and governance structures governing AI deployment.
 
 - **Auditability:**
@@ -98,7 +98,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Comprehensive AI governance frameworks.
     - Enforcement mechanisms for compliance.
 
-### 4. Privacy and Data Protection Metric
+### 4. Privacy Metric
 **Objective:** Ensure the protection of user data and privacy within AI systems.
 
 - **Data Anonymization:**
