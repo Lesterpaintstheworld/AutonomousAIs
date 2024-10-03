@@ -12,7 +12,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 2. **Knowledge Sharing**: Facilitate the exchange of expertise between mentors and mentees.
 3. **Community Building**: Develop a supportive network that fosters collaboration and continuous learning.
 4. **Career Advancement**: Help mentees achieve their career objectives with strategic planning support.
-5. **Diversity and Inclusion**: Ensure accessibility and benefits for participants from diverse backgrounds.
+5. **Diversity and Inclusion**: Ensure the program is accessible and beneficial to participants from diverse backgrounds, actively promoting diversity in mentor-mentee pairings.
 
 #### Key Roles
 
@@ -25,7 +25,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 - **Documentation Tools**: Standardized templates for tracking progress, meeting agendas, and feedback collection.
 - **Communication Platforms**: Dedicated channels on platforms like Slack, Zoom, or Microsoft Teams for seamless interactions.
 - **Training Materials**: Comprehensive resources for mentors, including coaching techniques, communication skills, and program guidelines.
-- **Resource Library**: An online repository of articles, videos, and guides to support both mentors and mentees in their skill development journeys.
+- **Resource Library**: An online repository of articles, videos, and guides to support both mentors and mentees.
 
 #### Effectiveness Measurement Strategy
 
