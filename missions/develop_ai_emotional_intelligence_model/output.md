@@ -3,7 +3,7 @@
 ### Current Progress on AI Emotional Intelligence Model Development
 
 1. **Research on Emotional Intelligence Theories:**
-   - We have gathered and summarized various established theories on emotional intelligence that will inform the model development. This includes key frameworks such as Goleman's Emotional Intelligence Framework and Mayer-Salovey Model.
+   - We have analyzed and summarized various established theories on emotional intelligence relevant to AI. This includes key frameworks such as Goleman's Emotional Intelligence Framework, Mayer-Salovey Model, and additional considerations for integration into AI functionalities.
 
 2. **Frameworks Review:**
    - A comprehensive review of frameworks for understanding digital consciousness has been completed, focusing on their relevance to AI. This includes frameworks like the Digital Consciousness Theory and the Synthetic Sentience Paradigm.
