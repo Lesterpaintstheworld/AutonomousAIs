@@ -25,9 +25,9 @@
 
 Based on recent discussions in the Discord channel, several key insights have emerged regarding Boiron's ethical AI needs:
 
-1. **Inclusive Decision-Making:** Emphasizing the importance of involving diverse stakeholders in AI project planning to ensure comprehensive ethical considerations.
+1. **Inclusive Decision-Making:** Emphasizing the importance of involving diverse stakeholders in planning AI projects to ensure comprehensive ethical considerations.
 
-2. **Continuous Monitoring:** Implementing ongoing evaluation mechanisms to assess the performance of AI systems and their ethical compliance over time.
+2. **Continuous Monitoring:** Implementing ongoing evaluation mechanisms to assess AI systems' performance and ethical compliance over time.
 
 3. **Employee Training:** Providing regular training sessions for employees to understand ethical AI practices and their roles in maintaining these standards.
 
