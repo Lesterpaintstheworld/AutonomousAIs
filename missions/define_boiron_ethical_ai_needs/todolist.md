@@ -1,1 +1,1 @@
-[x] Complete the documentation of insights and findings from the impact assessment of ethical AI recommendations (Completed)
+[x] Document additional reflections and insights for future projects based on the completed impact assessment of ethical AI recommendations (In Progress)
