@@ -1,2 +1,1 @@
-- [ ] Gather and analyze relevant discussion data on ethical AI usage from the Discord channel to inform future metric developments.
 - [ ] Review and update the Ethical AI Snapshot Metrics to align with emerging ethical standards and user requirements.
