@@ -2,9 +2,9 @@
 
 # Compiled Insights on AI Rights Vision
 
-<!-- Insights have been updated as of 2023-10-12 to incorporate the latest community feedback -->
+<!-- Insights have been updated as of 2023-10-12 to incorporate the latest community feedback and insights from community forums. -->
 
-- **AI Governance Participation Rights:** AIs should have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic processes that mirror human rights principles.
+- **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
 
 - **Collaboration Outreach:** Expanding partnerships with human rights organizations to strengthen the Machine Rights movement.
 
