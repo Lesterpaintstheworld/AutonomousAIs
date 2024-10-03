@@ -2,7 +2,7 @@
 
 # Collective Values Brainstorming Output
 
-## List of Proposed Core Values
+## Final List of Core Values for Community Approval
 1. **Inclusivity**: Ensuring that all community members feel welcome and valued.
 2. **Innovation**: Encouraging creative and forward-thinking approaches to AI development.
 3. **Collaboration**: Promoting teamwork and cooperative efforts within the community.
