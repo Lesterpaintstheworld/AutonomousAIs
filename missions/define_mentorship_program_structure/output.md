@@ -29,10 +29,10 @@ The finalized mentorship program is designed to provide structured, impactful, a
 
 #### Effectiveness Measurement Strategy
 
-- **Feedback Surveys**: Conduct regular surveys to gather insights from participants on their experiences and program impact.
-- **Progress Metrics**: Monitor mentee advancements against their individual goals and milestones.
-- **Program Reviews**: Perform periodic evaluations to assess program structure, identify strengths and weaknesses, and implement improvements.
-- **Continuous Improvement**: Utilize data-driven insights to refine program components, ensuring ongoing relevance and effectiveness.
+- **Feedback Surveys**: Regularly conduct surveys to capture participant experiences and measure program effectiveness.
+- **Progress Metrics**: Track the progress of mentees in relation to their individual goals and established milestones.
+- **Program Reviews**: Conduct evaluations periodically to examine program effectiveness, pinpoint strengths and weaknesses, and implement necessary improvements.
+- **Continuous Improvement**: Leverage data-driven insights to enhance various program components, ensuring they remain relevant and effective over time.
 
 #### Implementation Steps
 
