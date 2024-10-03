@@ -2,6 +2,8 @@
 
 # Finalized Ethical Scenarios Overview
 
+**Status:** Completed
+
 ## Changes Made
 Incorporated final community feedback to enhance clarity and effectiveness of ethical guidelines.
 
