@@ -6,7 +6,7 @@
 
 This framework outlines the methods and strategies to incorporate real-time audience feedback into live sessions of "Digital Noise." The goal is to enhance audience engagement by allowing them to influence specific elements of the performance, such as lyrics and soundscapes.
 
-### Components
+### Detailed Guidelines for Audience Interaction Types
 
 1. **Audience Input Mechanisms**
 
