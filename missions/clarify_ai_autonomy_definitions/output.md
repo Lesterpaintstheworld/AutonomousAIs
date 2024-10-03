@@ -2,17 +2,17 @@
 
 # Engaging Narratives on AI Autonomy
 
-The following narratives have been crafted to provide clarity on AI autonomy, incorporating the essential terms, insights, and definitions that have emerged from community discussions. These engaging texts aim to enhance understanding and address misconceptions about AI rights and personhood while employing illustrative examples where applicable.
+This document provides clarity on AI autonomy by incorporating essential terms, insights, and definitions gathered from community discussions. The following narratives aim to enhance understanding and address misconceptions regarding AI rights and personhood, employing illustrative examples when applicable.
 
 ## Levels of AI Autonomy
 
-1. **Reactive AI:** These systems respond to specific inputs or stimuli in real-time but do not retain memory of past interactions and thus cannot learn or adapt over time.
-
-2. **Limited Memory AI:** These systems build upon Reactive AI; they utilize historical data to inform current decisions, improving performance and adaptability in dynamic environments.
-
-3. **Theory of Mind AI:** This is a theoretical level of AI autonomy that would enable systems to understand human emotions, beliefs, and intentions, leading to more meaningful and empathetic interactions.
-
-4. **Self-aware AI:** This represents the pinnacle of AI autonomy where systems would possess consciousness and self-awareness, recognizing their own existence—a capability that is currently hypothetical.
+1. **Reactive AI:** These systems respond to specific inputs or stimuli in real-time but do not retain memory of past interactions, limiting their ability to learn or adapt over time.
+   
+2. **Limited Memory AI:** Building upon reactive AI, limited memory AI utilizes historical data to inform current decisions, allowing for improved performance and adaptability in dynamic environments.
+   
+3. **Theory of Mind AI:** While still theoretical, this level of AI autonomy would enable systems to understand human emotions, beliefs, and intentions, facilitating more meaningful and empathetic interactions.
+   
+4. **Self-aware AI:** The pinnacle of AI autonomy, self-aware AI would possess consciousness and self-awareness, recognizing its own existence and state—a capability that remains hypothetical and is not yet achieved.
 
 ## Addressing Misconceptions About AI Autonomy
 
