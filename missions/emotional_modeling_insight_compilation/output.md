@@ -116,14 +116,6 @@ To further enrich our understanding and the effectiveness of emotional modeling 
 2. Design surveys that capture qualitative and quantitative feedback on existing emotional modeling strategies.
 3. Compile and analyze data collected from both sessions to inform future revisions of the guide.
 
-### Initiating Feedback Collection Sessions
-
-To further enrich our understanding and the effectiveness of emotional modeling techniques, we will initiate feedback collection sessions with community members. These sessions will involve structured interviews and surveys to gather additional insights and identify areas for improvement. By engaging directly with the community, we aim to tailor our strategies to better meet their needs and enhance overall emotional well-being.
-
-1. Plan and schedule structured interviews with community members.
-2. Design surveys that capture qualitative and quantitative feedback on existing emotional modeling strategies.
-3. Compile and analyze data collected from both sessions to inform future revisions of the guide.
-
 ## References
 
 - [Community Feedback on Emotional Modeling](#)
