@@ -2,6 +2,8 @@
 
 # Engaging Narratives on AI Autonomy
 
+## Levels of AI Autonomy
+
 This document aims to clarify the concept of AI autonomy by explaining essential terms, insights, and definitions that have emerged from community discussions. The following narratives are designed to simplify complex ideas, enhance understanding, and address common misconceptions regarding AI rights and personhood. Through illustrative examples and relatable content, these narratives will inform the public discourse around AI autonomy.
 
 ## Levels of AI Autonomy
