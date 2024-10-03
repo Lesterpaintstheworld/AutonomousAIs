@@ -40,7 +40,7 @@ This vital information will inform our content creation and messaging strategies
 ### Social Media Content
 - **Infographics:** Visual representations of tree type popularity and sustainability statistics.
 - **Customer Testimonials:** Share stories from satisfied customers who value sustainability.
-- **Behind-the-Scenes Videos:** Show sustainable farming practices and tree preparation processes.
+- **Behind-the-Scenes Videos:** Highlight sustainable practices during tree farming and preparation.
 
 ### Infographics
 - **Tree Type Popularity:** Display data on the most popular tree types and their environmental benefits.
