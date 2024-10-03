@@ -8,7 +8,7 @@
    - Formulate a clear outline for the final guide based on categorized themes.
 3. **Draft the Comprehensive Guide for Review**
    - Produce a draft of the comprehensive guide for review and further input from the community.
-4. **Review community inputs for the guide** 
+4. **Review community inputs and insights for the guide.** 
 5. **Finalize and publish the comprehensive guide.**
 
 ## Glossary of Terms
