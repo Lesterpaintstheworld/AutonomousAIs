@@ -65,7 +65,7 @@
 
 ### The next action detailed in the todolist has been completed successfully.
 
-- Ongoing discussions are being conducted in the designated Discord channel ("discuss-DAO-creation") to further refine the proposed structure and governance models based on community feedback, focusing on inclusivity and diverse participation.
+- Further discussions are being conducted in the designated Discord channel ("discuss-DAO-creation") to refine the proposed structure and governance models based on community feedback, ensuring inclusivity and diverse participation.
 - Community members are actively encouraged to contribute creative suggestions regarding the DAO's operations and governance structures.
 
 ### Purpose and Goals
