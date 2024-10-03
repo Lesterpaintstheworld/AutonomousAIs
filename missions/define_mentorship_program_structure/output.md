@@ -16,9 +16,9 @@ The finalized mentorship program structure has been established, providing an or
 
 #### Key Roles
 
-- **Mentors**: Experienced individuals who provide guidance and support. Responsibilities include regular meetings, goal setting, and resource sharing.
-- **Mentees**: Participants seeking to develop skills and knowledge. Responsibilities include active participation, goal adherence, and feedback provision.
-- **Program Coordinator**: Individual responsible for program management, mentor-mentee matching, scheduling, and overall program administration.
+- **Mentors**: Experienced professionals committed to providing guidance, feedback, and support to mentees. Responsibilities include regular meetings, goal setting, and sharing relevant resources.
+- **Mentees**: Participants seeking to develop specific skills, expand their professional network, and advance their career goals. Responsibilities include active participation, goal adherence, and providing feedback.
+- **Program Coordinator**: Oversees program operations, including mentor-mentee matching, scheduling, resource management, and handling program logistics.
 
 #### Necessary Resources
 
@@ -55,7 +55,7 @@ The finalized mentorship program structure has been established, providing an or
 
 #### Conclusion
 
-The finalized mentorship program is poised to deliver a structured, supportive, and impactful experience for all participants. By leveraging community insights and established best practices, the program aims to foster meaningful relationships, drive personal and professional growth, and build a resilient and inclusive community.
+The finalized mentorship program is designed to provide structured, impactful, and inclusive support to mentees, leveraging community insights and proven best practices. The program framework includes clearly defined goals, roles, resources, and evaluation methods to ensure sustained success and adaptability.
 
 #### Key Roles
 - **Mentors**: Seasoned professionals who provide insights, guidance, and support to mentees.
