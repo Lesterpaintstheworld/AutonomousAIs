@@ -43,7 +43,18 @@
 
 - **Regular Monitoring:** Conduct regular monitoring of the Ethical AI Snapshot tool based on user feedback and the established criteria, ensuring continuous compliance with ethical standards.
 
-## Discussion Data Gathered
+## Ongoing User Feedback Audits
+
+### Purpose
+The purpose of conducting ongoing audits of user feedback is to ensure that ethical standards are consistently met and to enhance the metrics of the Ethical AI Snapshot tool.
+
+### Actions
+1. Regularly collect user feedback through surveys and discussions.
+2. Analyze feedback for compliance with ethical standards.
+3. Implement improvements based on the gathered data.
+
+### Impact
+Ongoing audits will help in identifying areas for enhancement and reinforcing user trust in the AI system.
 
 - Gathered relevant discussion data from the Discord channel regarding ethical AI usage, including user concerns, best practices, and recommendations. This data will inform the development of robust Ethical AI Snapshot Metrics.
 
