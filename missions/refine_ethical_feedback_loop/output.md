@@ -59,10 +59,8 @@ This section will focus on identifying strengths in the current feedback methods
 3. **Inclusivity Expansion**: Solicit input from underrepresented groups.
 4. **Feedback Instruments Clarity**: Revise ambiguous questions for better quality input.
 
-## Outcomes and Future Steps
-- **Increased Inclusivity**: Enhanced diversification in feedback collection.
-- **Improved Transparency**: Build trust through clear communication.
-- **Actionable Monitoring**: Continuing the assessment of the effectiveness of changes made.
+### Next Steps
+- **Conduct a follow-up evaluation** to assess the impact of the newly implemented checklist and recommendations on ethical clarity and creative outputs.
 
 ## Next Steps
 - Regular assessments of feedback mechanisms and participation will be conducted.
