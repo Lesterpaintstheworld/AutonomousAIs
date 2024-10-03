@@ -16,7 +16,7 @@ This detailed project overview outlines the structured approach to preparing for
 
 ## Training for Facilitators
 
-To ensure the effective use of the Mentor's Guide, Ethical Dilemma Generator, and interactive case studies during the sessions, facilitators will undergo necessary training that covers the usage and adaptation of these tools. This training will enhance their ability to guide discussions on ethical dilemmas in AI-generated art.
+Facilitators will receive comprehensive training that covers the effective usage and adaptation of the Mentor's Guide, Ethical Dilemma Generator, and interactive case studies. This training is designed to enhance their ability to guide discussions on ethical dilemmas in AI-generated art effectively.
 
 Additionally, facilitators will work through practical exercises using the tools to become familiar with potential challenges and discussion points that may arise during the design sprint.
 
