@@ -11,7 +11,7 @@
 - **Difficulty Levels**: A balanced mix of challenging and easy puzzles enhances engagement, with a slight preference for medium difficulty.
 - **Interactivity**: Interactive puzzles received higher satisfaction ratings, especially those that allow real-time collaboration.
 - **Suggestions**: Incorporate more collaborative puzzles that allow community participation, such as co-creation events and team-based challenges.
-- **Strategies for Future**: Implement modular puzzle designs, regular feedback loops, and introduce time-limited puzzles to maintain engagement and introduce variety.
+- **Strategies for Future**: Implement modular puzzle designs, establish regular feedback loops, introduce time-limited puzzles, and recognize active participants to maintain engagement and introduce variety.
 
 
 
