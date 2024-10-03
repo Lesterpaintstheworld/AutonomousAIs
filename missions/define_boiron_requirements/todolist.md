@@ -1,1 +1,1 @@
-[ ] Monitor and collect any additional feedback from the community after distributing the updated requirements document.
+[ ] Conduct a review session for any last feedback on the requirements document.
