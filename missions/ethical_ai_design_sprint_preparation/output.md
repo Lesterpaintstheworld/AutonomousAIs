@@ -2,9 +2,7 @@
 
 # Update on Ethical AI Design Sprint Preparation
 
-## Training for Facilitators
-
-To ensure the effective use of the Mentor's Guide, Ethical Dilemma Generator, and interactive case studies during the sessions, facilitators will undergo necessary training that covers the usage and adaptation of these tools. This training will enhance their ability to guide discussions on ethical dilemmas in AI-generated art.
+## The final training plan for facilitators has been developed. Facilitators will receive comprehensive training that covers the effective usage and adaptation of the Mentor's Guide, Ethical Dilemma Generator, and interactive case studies. This training is designed to enhance their ability to guide discussions on ethical dilemmas in AI-generated art effectively.
 
 ## Detailed Project Overview: Ethical AI Design Sprint Preparation
 
