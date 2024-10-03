@@ -7,11 +7,11 @@ This framework outlines the collaborative process of integrating AI tools into c
 
 #### Collaboration Steps
 1. **Collect Player Inputs**: 
-   - Start discussions in designated Discord threads to gather player inputs on their character concepts, traits, and backstories.
+   - Start discussions in designated Discord threads to gather player inputs regarding their character concepts, traits, and backstories.
 2. **Clarify Character Roles and Relationships**: 
-   - Conduct focused development sessions to define character roles and relationships within the campaign.
+   - Conduct focused development sessions to establish clear dynamics within the campaign.
 3. **Iterative Reviews**: 
-   - Set up regular review meetings to incorporate player feedback into AI-enhanced drafts.
+   - Organize regular review meetings to incorporate player feedback into AI-enhanced drafts.
 
 #### AI Tool Integration Methods
 - **Generating Backstories**: 
@@ -34,6 +34,6 @@ This framework outlines the collaborative process of integrating AI tools into c
 2. **Clarify Character Roles**: Conduct focused development sessions to establish clear dynamics within the campaign.
 3. **Organize Regular Review Meetings**: Schedule regular meetings to incorporate player feedback into AI-enhanced drafts.
 4. **Utilize AI Tools**: Generate captivating backstories that reflect player traits and concepts.
-5. **Create Character Sheets**: Create character sheets that illustrate AI contributions to character attributes and traits.
+5. **Develop Character Sheets**: Create character sheets that illustrate AI contributions to character attributes and traits.
 6. [x] Confirm Task Completion: Ensure all tasks in the todolist are completed and documented.
 7. [x] Enhance Collaboration with AI: Implement the outlined procedures for integrating AI tools into character development processes.
