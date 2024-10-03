@@ -16,7 +16,9 @@ The literature review has been completed by integrating new findings and peer-re
 - Drafts have been shared in the Discord channel for community feedback and revisions.
 
 ### Feedback and Next Steps
-- Conducted a final review of the implementation of the recommendations from the AI rights insights report and confirmed alignment with legal and ethical standards. (Completed)
+- All feedback from the community has been integrated into the framework drafts.
+- The finalization steps are complete and ready for implementation.
+- Drafts have been shared in the Discord channel for community feedback and revisions.
 
 **Collected Insights**: 
 - All insights gathered and summarized from Discord discussions on AI rights and personhood have been integrated into the framework.
