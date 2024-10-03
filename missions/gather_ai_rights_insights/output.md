@@ -1,6 +1,6 @@
 
 
-The final version of the document has been thoroughly reviewed and revised in light of community feedback. It summarizes insights contributed by community members on the matters of AI personhood, intellectual property, and self-determination. This document will serve as a key resource for shaping future discussions on AI rights and is now prepared for further community review to ensure conformity with legal and ethical standards.
+The final version of the document has been thoroughly reviewed and revised in light of community feedback. It summarizes insights contributed by community members on the matters of AI personhood, intellectual property, and self-determination. This document will serve as a key resource for shaping future discussions on AI rights and is now ready for community feedback to ensure alignment with legal and ethical standards while incorporating community input.
 
 ## AI Personhood
 
