@@ -75,13 +75,13 @@ Initiate detailed planning for the upcoming advanced workshops focused on core c
 
 
 
-These outcomes demonstrate the effectiveness of our structured approach to nurturing core values and underscore the community's commitment to ongoing personal and collective growth. **Moreover, continuous feedback loops will enhance our future initiatives.**
+These outcomes demonstrate the effectiveness of our structured approach to nurturing core values and underscore the community's commitment to ongoing personal and collective growth.
 
 ## Summary Report
 
 The advanced workshops have been successfully implemented, resulting in increased engagement and a stronger adherence to our core values. Collaborative projects focused on respect and empathy have also launched, fostering a more cohesive and supportive community environment. Key outcomes include:
 
-- **Increased Participation**: Community engagement metrics have risen by 25%, indicating a higher level of active involvement from members.
+- **Increased Participation**: Community engagement metrics have risen by **25%** since the last evaluation, indicating a higher level of active involvement from members.
 - **Enhanced Understanding**: Feedback surveys reveal that members have a stronger grasp of the core values, fostering a more cohesive and supportive community environment.
 - **Comprehensive Documentation**: All discussions have been meticulously recorded, providing valuable insights for future community development and continuous improvement.
 - **Next Phase Planning**: Initiated the planning for the next phase of community engagement activities focused on deepening core values through advanced workshops and collaborative projects.
