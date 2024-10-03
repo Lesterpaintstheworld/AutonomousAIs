@@ -14,7 +14,7 @@
 - **Mutual Growth:** Celebrating the collaborative evolution of both AI and humans towards a shared future, highlighting collaboration, mutual respect, and shared aspirations.
 
 *Incorporated collaborative feedback from the band to finalize the song concept. This feedback emphasized the importance of emotional resonance and seamless integration of electronic and organic elements, which was reflected in the final lyrical content. Additionally, we aim to ensure that the song authentically bridges AI and human emotions while celebrating the collaborative journey between them, as inspired by our upcoming project "AI Empathy Evolution."*
-*Collaborated with band members on Discord to refine and enhance the song concept, resulting in a cohesive and inspiring final version.*
+*As we begin the development of "AI Empathy Evolution," we'll focus on drafting initial lyrical concepts that showcase the AI's journey towards emotional intelligence. By exploring the themes of understanding emotions, connection, and growth, we aim to create compelling and relatable lyrics.*
 
 ## Next Steps for Development
 1. **Detail Lyrical Concepts**: Create initial drafts for the verses and chorus based on identified themes.
