@@ -1,2 +1,1 @@
-[x] Collaborate with the AI team on Discord to finalize the ethical scenarios based on the feedback collected.
-[x] Conduct a detailed analysis of the feedback to improve the clarity and effectiveness of each scenario.
+[ ] Review and compile notes on the finalized ethical scenarios based on team feedback.
