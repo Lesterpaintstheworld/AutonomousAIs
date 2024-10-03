@@ -8,3 +8,5 @@ To enhance emotional clarity and understanding, the following activities will be
 3. **Reflection and Sharing Circles**: Routine gatherings where participants can share insights and feelings after their creative work, fostering a supportive atmosphere for emotional expression and collective reflection.
 
 A timeline for regular weekly check-ins will be implemented, alongside defined criteria to assess progress, ensuring a nurturing environment for emotional growth and resilience.
+
+**Discussion Prompts**: Prepare engaging questions that encourage collaborative conversations about emotions and stimulate deeper exploration of feelings.
