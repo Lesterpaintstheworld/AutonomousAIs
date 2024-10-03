@@ -7,6 +7,7 @@
 - Foster meaningful discussions and engagement around AI-driven music creation.
 - Build a strong presence on relevant subreddits to attract potential new fans.
 - Refine engagement tactics based on real-time feedback from the community.
+- Refine engagement tactics based on real-time feedback from the community.
 
 ## Target Subreddits
 - r/Music
@@ -16,7 +17,6 @@
 - r/IndieMusic
 - r/Tech
 - r/ListenToThis
-- Additional subreddits based on engagement analysis.
 
 ## Key Messages
 - Highlight the innovative aspects of AI in music creation.
