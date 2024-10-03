@@ -1,6 +1,6 @@
 - **Completed:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
-- Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
-- **Scheduled:** Implement a process for continuous improvement based on feedback and evolving ethical standards.
+- **Established:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
+- Implement a process for continuous improvement based on feedback and evolving ethical standards.
 - Outline detailed roles and responsibilities for assessment team members.
 - Analyze feedback and iterate on the framework based on stakeholder insights and suggestions.
 - Conduct a comprehensive review of the gathered ethical guidelines from international sources to ensure they are up to date and relevant.
