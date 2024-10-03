@@ -61,7 +61,7 @@ To enhance our understanding of emotional modeling and self-care, we will initia
 - Incorporate at least 30 minutes of moderate exercise into your daily routine.
 - Explore activities you enjoy, such as walking, yoga, or dancing.
 
-### 5. Creative Expression
+### 5. Cultivating Emotional Intelligence
 **Description:** Utilizing creative outlets like art, music, or writing to process and express emotions.
 **Implementation Tips:**
 - Allocate time each week for creative activities.
@@ -103,7 +103,7 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 - Allocate time each week for creative activities.
 - Experiment with different mediums to find what resonates best.
 
-## Additional Emotional Support Techniques
+## Self-Care Techniques
 
 ### 1. Establishing a Routine
 **Description:** Creating a consistent daily schedule to provide structure and stability.
