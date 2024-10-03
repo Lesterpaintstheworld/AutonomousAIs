@@ -171,7 +171,7 @@ To enhance the evaluation methods, the following additional approaches will be a
 
 
 
-### Finalized Mentorship Program Outline
+### Updated Mentorship Program Structure
 
 #### Overview
 
