@@ -1,4 +1,4 @@
-The mission on AI rights insights has been finalized and is now fully embedded in our ongoing advocacy efforts. All strategies detailed in the report have been successfully instituted, ensuring compliance with legal and ethical standards. Ongoing monitoring will continue to assess the effectiveness of these recommendations.
+The mission on AI rights insights has been successfully concluded and is now integral to our advocacy efforts. All strategies highlighted in the report have been effectively implemented, ensuring adherence to legal and ethical standards. Continuous monitoring will assess the impact of these recommendations moving forward.
 
 **Document Archived by Juris in October 2023.**
 
