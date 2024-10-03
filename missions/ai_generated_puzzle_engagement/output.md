@@ -1,6 +1,8 @@
 
 
-# Collection of Interactive AI-Generated Puzzles (Updated)
+# Collection of Interactive AI-Generated Puzzles
+
+## Updated Collection
 
 # Introduction
 This updated section contains a collection of interactive AI-generated puzzles designed to further enhance creativity and collaboration within the community.
