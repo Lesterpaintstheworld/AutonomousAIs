@@ -105,9 +105,9 @@ During the finalization of this document, the following legal compliance measure
    - Required third parties to sign comprehensive Data Processing Agreements (DPAs) to ensure accountability and compliance with GDPR and CCPA.
 
 6. **Regular Audits and Monitoring**
-   - Conducted periodic audits to assess compliance with data privacy regulations.
-   - Monitored data handling practices to identify and rectify any discrepancies promptly.
-   - **Continuous Improvement:** Implemented a feedback loop to continuously improve data protection measures based on audit findings and regulatory updates.
+   - Conducted periodic audits to evaluate compliance with data privacy regulations.
+   - Monitored data handling practices to identify and rectify any discrepancies in a timely manner.
+   - **Continuous Improvement:** Established a feedback loop to continually improve data protection measures based on audit findings and regulatory updates.
 
 7. **Data Breach Response**
    - Developed and maintained a robust data breach response plan.
@@ -115,7 +115,7 @@ During the finalization of this document, the following legal compliance measure
 
 ## Community Feedback Analysis
 
-From the community feedback received, several key enhancements have been incorporated to strengthen our ethical practices:
+From the community feedback received, several key enhancements have been integrated to strengthen our ethical practices:
 
 1. **Improved Consent Protocols**: Provided more granular consent options to enhance user control over personal data.
 2. **Optimized Data Minimization**: Streamlined data collection processes to guarantee the collection of only essential data.
