@@ -3,4 +3,4 @@
 - [x] Review and assess the impact of the proposed core values on community engagement.
 - [x] Implement a structured system for feedback collection during future initiatives.
 - [x] Gather diverse core value proposals from community members.
-- [x] Implement the transformative functions of this mission based on the outcomes of the forum.
+- [x] Conduct follow-up discussions in the Discord channel to refine and expand upon core values.
