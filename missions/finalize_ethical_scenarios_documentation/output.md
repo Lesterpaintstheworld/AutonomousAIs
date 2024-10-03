@@ -2,8 +2,8 @@
 
 ## 4. Legal Compliance Overview
 
-### 4.1 GDPR Compliance
-- **Key Points:** Data minimization, purpose limitation, storage limitation, and responsible data management practices
+### 4.1 Updated GDPR Compliance
+- **Key Points:** Data minimization, purpose limitation, storage limitation
 - **Implementation:**
   - Conduct regular data audits to ensure compliance with GDPR principles.
   - Update privacy policies to reflect current data handling practices and legal requirements.
