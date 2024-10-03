@@ -42,7 +42,7 @@ This mission will leverage community collaboration and data-driven decisions, re
 
 If this specification aligns with your vision, please confirm for next steps.
 
-## Conclusion
+## Conclusion and Future Directions
 The Reddit engagement strategy has been successfully implemented. All post formats and targeted subreddits have been identified, prioritized, and engaged based on community feedback and engagement metrics.
 
 ## Next Steps
