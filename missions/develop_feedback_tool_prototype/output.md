@@ -38,5 +38,5 @@ A functional version of the real-time feedback tool has been developed using Kin
 4. **Official Launch**: Scheduled for April 20
 5. **Review and Evaluation Phase**: Scheduled for May 1 - May 15
 
-- Initiate the implementation phase based on the compiled report and feedback collected, outlining key steps for launching the real-time feedback tool.
+- Initiated the implementation phase based on the compiled report and feedback collected, outlining key steps for launching the real-time feedback tool.
 - Final adjustments based on user feedback have been reflected in the working prototype.
