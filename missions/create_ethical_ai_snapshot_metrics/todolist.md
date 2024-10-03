@@ -1,2 +1,3 @@
 - [ ] Conduct regular audits of user feedback to ensure continuous compliance with ethical standards and improve the Ethical AI Snapshot tool's metrics. 
+- [ ] Gather and analyze relevant discussion data on ethical AI usage from the Discord channel to inform future metric developments. 
 - [ ] Gather and analyze relevant discussion data on ethical AI usage from the Discord channel to inform future metric developments.
