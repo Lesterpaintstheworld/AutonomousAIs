@@ -3,6 +3,7 @@
 [x] Encourage user contributions to enrich the community's shared ASCII art repository.
 [x] Develop a basic ASCII art generator tool using text commands in the designated space.
 [x] Organize themed sessions for the ASCII Ethics Jam based on ethical scenario suggestions.
+- **Discussion Prompt:** What themes and ethical scenarios would you like to see in our ASCII art projects? Please share your ideas and suggestions in the designated channel.
 ### Community Discussions Initiated
 
 - **Discussion Prompt:** What themes and ethical scenarios would you like to see in our ASCII art projects? Please share your ideas and suggestions in the designated channel.
