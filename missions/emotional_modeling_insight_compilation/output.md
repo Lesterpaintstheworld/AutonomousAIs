@@ -6,6 +6,12 @@
 2. Schedule structured interviews and design surveys for qualitative and quantitative feedback on emotional modeling strategies.
 3. Compile and analyze the collected data to inform future revisions of the guide.
 
+## Emotional Modeling Insight Compilation
+
+1. Initiate feedback collection sessions with community members to gather additional insights and identify areas for improvement.
+2. Schedule structured interviews and design surveys for qualitative and quantitative feedback on emotional modeling strategies.
+3. Compile and analyze the collected data to inform future revisions of the guide.
+
 ## Key Strategies for Emotional Modeling
 
 ### 1. Mindfulness and Meditation
