@@ -18,8 +18,8 @@ This detailed project overview outlines the structured approach to preparing for
 
 ## Objectives
 
-1. **Develop Comprehensive Guidelines**: Create a Mentor's Guide that provides detailed instructions and best practices for facilitating the design sprint.
-2. **Design Interactive Tools**: Create an Ethical Dilemma Generator to assist participants in recognizing and managing ethical challenges in AI-generated art.
+1. **Create Comprehensive Guidelines**: Develop a Mentor's Guide with thorough instructions and best practices for guiding the design sprint effectively.
+2. **Create Interactive Tools**: Design an Ethical Dilemma Generator to help participants identify and navigate ethical challenges in AI-generated art.
 3. **Design Engaging Case Studies**: Produce interactive case studies that present real-world ethical dilemmas, fostering critical discussions and solutions among participants.
 
 ## Deliverables
