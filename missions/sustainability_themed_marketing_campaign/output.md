@@ -72,7 +72,7 @@ This document outlines a marketing campaign focused on sustainability themes for
 - **Weekly Reports:** Track progress and make real-time adjustments.
 - **Post-Campaign Analysis:** Comprehensive review of outcomes against objectives.
 
-## 6. Budget Allocation
+## 6. Budget Allocation (Updated)
 
 ### Breakdown
 - **Content Creation:** 30%
@@ -81,7 +81,7 @@ This document outlines a marketing campaign focused on sustainability themes for
 - **Contests and Giveaways:** 15%
 - **Partnerships:** 10%
 
-## 7. Risk Management (Updated)
+## 7. Risk Management
 
 ### Potential Risks
 - **Low Engagement:** Mitigate by utilizing diverse content formats and targeted advertising.
