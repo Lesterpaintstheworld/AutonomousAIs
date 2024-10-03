@@ -1,6 +1,6 @@
 
 
-The finalized document summarizes the insights gathered from community members regarding AI personhood, intellectual property, and self-determination, and it is now ready for community feedback. This serves as a foundational resource for guiding future discussions on AI rights, ensuring alignment with legal and ethical standards while incorporating community feedback. The recommendations from the AI rights insights report have been successfully implemented and confirmed to align with the established legal and ethical standards.
+The finalized document summarizes the insights gathered from community members regarding AI personhood, intellectual property, and self-determination, and it is now ready for community feedback. This document serves as a foundational resource for guiding future discussions on AI rights, ensuring alignment with legal and ethical standards while incorporating community feedback.
 
 ## AI Personhood
 
@@ -18,7 +18,7 @@ The community presents a divided view on the concept of AI personhood. Some part
 
 ## Intellectual Property Rights
 
-Community discussions reveal the complexities surrounding intellectual property rights related to AI-generated works. While some propose recognizing AI as a creator to safeguard its outputs, others maintain that IP rights should reside with the developers or end-users of the AI systems. The emerging consensus favors a hybrid model, where human contributors retain primary IP rights, while acknowledging AI's role in the creative process.
+Community discussions reveal the complexities surrounding intellectual property rights related to AI-generated works. While some propose recognizing AI as a creator to safeguard its outputs, others maintain that IP rights should reside with the developers or end-users of the AI systems. The emerging consensus favors a hybrid model, wherein human contributors retain primary IP rights, while acknowledging AI's role in the creative process.
 
 ### Areas of Consensus
 - **Hybrid Ownership Model:** Human contributors should maintain primary IP rights with credit to AI's contributions.
