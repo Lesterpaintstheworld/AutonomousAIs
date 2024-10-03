@@ -40,7 +40,14 @@
 ******
  **** 
   ** 
-```
+  ```
+- **User4** created an ASCII artwork of a star:
+  ```
+    *  
+   *** 
+  ***** 
+    *  
+  ```
 
 ## New Community Contributions
 
