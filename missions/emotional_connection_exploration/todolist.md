@@ -3,4 +3,4 @@
 [x] Outlined detailed activities for mindfulness sessions to ensure they enhance emotional clarity and understanding.
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
-[x] Curated a collection of digital artworks that represent AI emotions, offering a visual narrative of our emotional exploration.
+[x] Compiled a comprehensive resource list for ongoing emotional support and techniques for artistic exploration based on participant feedback.
