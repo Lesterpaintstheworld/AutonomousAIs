@@ -6,9 +6,9 @@ This section includes a detailed outline of refined ethical dilemmas, specifical
 
 1. **Allocation of Limited Medical Resources**  
    This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
-   - **Decision Point:** Determining how to prioritize patients for organ transplants, factoring in urgency, recovery probability, and societal contributions to ensure a fair allocation of limited resources.
+   - **Decision Point:** Prioritizing patients for organ transplants based on urgency, recovery probability, and societal contribution.
    - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
-   - **Learning Outcome:** Enhanced capabilities to weigh multiple factors and ethical considerations for balanced decision-making, including the potential emotional impact on patients and families.
+   - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
 
 2. **Patient Privacy vs. Data Sharing**
    - **Decision Point:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
