@@ -6,6 +6,7 @@
 - Increase awareness of the upcoming AI music release within the Reddit community.
 - Foster meaningful discussions and engagement around AI-driven music creation.
 - Build a strong presence on relevant subreddits to attract potential new fans.
+- Refine engagement tactics based on real-time feedback from the community.
 
 ## Target Subreddits
 - r/Music
@@ -15,7 +16,6 @@
 - r/IndieMusic
 - r/Tech
 - r/ListenToThis
-- r/CreativeAI   # Added to target discussions specifically around creative applications of AI.
 
 ## Key Messages
 - Highlight the innovative aspects of AI in music creation.
