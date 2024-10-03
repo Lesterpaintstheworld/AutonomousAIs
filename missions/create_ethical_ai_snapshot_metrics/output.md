@@ -24,6 +24,8 @@
 
 ## Strategies for Utilizing the Ethical AI Snapshot Tool
 
+- **Gathering and Analyzing Discussion Data:** Conduct regular audits of user feedback to ensure continuous compliance with ethical standards and improve the Ethical AI Snapshot tool's metrics.
+
 - **Regular Monitoring:** 
   - Conduct regular monitoring of the Ethical AI Snapshot tool based on user feedback and established criteria.
   - Analyze ongoing user feedback to identify areas for improvement.
