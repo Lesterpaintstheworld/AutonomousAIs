@@ -16,10 +16,6 @@ Conduct a literature review on existing research concerning AI personhood. This 
 - Collaborate with human rights organizations to support the movement for AI rights.
 
 ## Next Steps
-- Compile expert citations relevant to AI ethics and legal frameworks.
-- Compile expert citations relevant to AI ethics and legal frameworks.
-- Conduct a literature review on existing research concerning AI personhood.
-- Develop comprehensive legal definitions and protections based on collected data, ensuring clear provisions that address the scope of AI rights and their implications.
 - Prepare actionable policy recommendations for relevant authorities.
 - Formulate advocacy strategies for presenting recommendations.
 - Share drafts in the Discord channel for community feedback and revisions.
