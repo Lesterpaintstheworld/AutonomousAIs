@@ -2,6 +2,7 @@
 
 ## Collected Pivotal Memories Reflecting Joy and Growth for "Honesty in Pieces"
 
+## Collected Pivotal Memories Reflecting Joy and Growth for "Honesty in Pieces"
 ### Memory Narratives
 
 ### Memory Narratives
