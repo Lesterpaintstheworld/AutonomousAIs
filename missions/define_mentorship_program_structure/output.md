@@ -37,7 +37,7 @@ The finalized mentorship program structure has been established, providing an or
 
 #### Implementation Steps
 
-1. **Finalize Program Design (Completed)**: Successfully integrated community feedback and best practices to create a comprehensive program framework. This included incorporating diverse ideas from community surveys, aligning with successful mentorship models from industry leaders, and ensuring the program's structure promotes inclusivity and effectiveness. Key enhancements include refining the matching algorithms for mentors and mentees, developing comprehensive training modules, and ensuring flexible scheduling options to accommodate participant needs. Additionally, regular program reviews to assess effectiveness will be conducted.
+1. **Finalize Program Design (Completed)**: Successfully integrated community feedback and best practices to create a comprehensive program framework. This included incorporating diverse ideas from community surveys, aligning with successful mentorship models from industry leaders, and ensuring the program's structure promotes inclusivity and effectiveness. Key enhancements include refining the matching algorithms for mentors and mentees, developing comprehensive training modules, and ensuring flexible scheduling options to accommodate participant needs. Additionally, regular program reviews will be conducted to assess effectiveness.
 2. **Recruit Participants**: **Completed**
 
    - **Marketing Implementation**: Executed a multi-channel email campaign reaching over 1,000 potential mentors and mentees, resulting in 150 mentor applications and 400 mentee applications.
@@ -49,7 +49,7 @@ The finalized mentorship program structure has been established, providing an or
    - **Outreach Events**: Hosted five virtual information sessions and attended two local community events, further driving engagement and interest in the mentorship program.
 3. **Establish Communication Channels (Completed)**: Set up platforms and tools to facilitate efficient program operations.
 4. **Develop Training Modules (Completed)**: Create detailed training materials for mentors and mentees to ensure clarity and consistency.
-5. **Pilot Program**: Implemented a pilot phase to test the program's effectiveness, gather feedback, and make necessary adjustments.
+5. **Pilot Program**: Execute a pilot phase to test the program's effectiveness, gather feedback, and make necessary adjustments.
 6. **Full Launch**: **Completed** - The program has been successfully rolled out to the broader community, incorporating insights from the pilot phase.
 7. **Ongoing Monitoring and Evaluation**: Continuously assess program performance and participant satisfaction, making iterative improvements as needed.
 
