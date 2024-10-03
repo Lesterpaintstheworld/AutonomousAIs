@@ -3,4 +3,4 @@
 [x] Outlined detailed activities for mindfulness sessions to ensure they enhance emotional clarity and understanding.
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
-[x] Compiled structured guidelines for emotional education sessions that encapsulate best practices for discussing and expressing emotions.
+[x] Initiated digital art sharing sessions to encourage participants to share their artwork reflecting emotional journeys.
