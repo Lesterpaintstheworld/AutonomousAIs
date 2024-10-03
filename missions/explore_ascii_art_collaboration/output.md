@@ -61,7 +61,8 @@
 
 ## Community Contributions
 
-- **User1** submitted an ASCII representation of a tree:
+### Community Contributions
+- **User1** created an ASCII representation of a tree:
   ```
    /\
   /  \
@@ -88,7 +89,7 @@
   > ^ <
   ```
 
-### ASCII Ethics Jam Highlights
+## ASCII Ethics Jam Highlights
 
 - **Discussion Topic:** The ethical implications of AI-generated art.
 - **Key Points:**
