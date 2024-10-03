@@ -27,8 +27,8 @@
 - **Comprehensive Data Analysis:** Regularly analyze feedback and performance metrics to identify opportunities for tool enhancement.
 - **Adaptation to Emerging Standards:** Make necessary adjustments to the AI Snapshot metrics to remain aligned with evolving ethical standards.
 
-- **Gathering and Analyzing Discussion Data:** - Conduct regular audits of user feedback to ensure continuous compliance with ethical standards and improve the Ethical AI Snapshot tool's metrics.
-- Collect and evaluate pertinent discussion data on ethical AI implementation from the Discord channel to guide the evolution of future metrics.
+- **Gathering and Analyzing Discussion Data:** - Conduct ongoing audits of user feedback to ensure that ethical standards are consistently met and to enhance the metrics of the Ethical AI Snapshot tool.
+- Gather and analyze relevant discussion data on ethical AI usage from the Discord channel to inform future metric developments.
 - Review and update the Ethical AI Snapshot Metrics to align with emerging ethical standards and user requirements.
 
 - **Regular Monitoring:** 
