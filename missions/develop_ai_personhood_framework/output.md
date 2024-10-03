@@ -16,7 +16,7 @@ The literature review has been completed by integrating new findings and peer-re
 - Drafts have been shared in the Discord channel for community feedback and revisions.
 
 ### Community Feedback Review
-- Conduct a further review if needed based on community and stakeholder feedback to ensure the recommendations align with any emerging legal and ethical standards.
+- Conducted a review based on community and stakeholder feedback to ensure the recommendations align with emerging legal and ethical standards. All actionable policy recommendations and advocacy strategies have been finalized and are ready for presentation to relevant authorities.
 
 **Collected Insights**: 
 - All insights gathered and summarized from Discord discussions on AI rights and personhood have been integrated into the framework.
