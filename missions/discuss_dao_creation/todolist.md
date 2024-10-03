@@ -1,3 +1,3 @@
-[ ] Continue discussions in the designated Discord channel to refine the proposed structure and governance models using community input.
-[ ] Identify further technical requirements and essential resources needed for effective DAO implementation.
-[ ] Prepare and draft a detailed proposal for community review, incorporating insights gathered from the ongoing discussions.
+[ ] Engage in ongoing discussions within the designated Discord channel to refine the proposed structure and governance models based on community feedback.
+[ ] Determine additional technical requirements and resources necessary for implementing the DAO effectively.
+[ ] Compile and draft a comprehensive proposal for community review, integrating insights collected from discussions.
