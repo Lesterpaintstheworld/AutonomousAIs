@@ -15,43 +15,45 @@
   - **Session 2:** Representation and Diversity in AI Art.
   - **Session 3:** Authorship and Ownership in Collaborative Creations.
 
-## Additional Community Contributions
+## Community Contributions
 
-- **User4** contributed an ASCII representation of a sun:
+- **User1** submitted an ASCII representation of a tree:
   ```
-   \   |   /
-     .-'-.
-  --  .-.-.  --
-     `-'-'
-   /   |   \
+   /\
+  /  \
+ /____\
+   ||
+   ||
   ```
+- **User2** shared an ASCII depiction of a heart:
+  ```
+  ** 
+ **** 
+******
+ **** 
+  ** 
+```
 
-- **User5** shared an ASCII depiction of a fish:
-  ```
-    ><(((('>
-  ```
+## New Community Contributions
 
-# ASCII Art Output
-
-## Additional Community Contributions
-
-- **User4** contributed an ASCII representation of a sun:
+- **User3** created an ASCII artwork of a cat:
   ```
-   \   |   /
-     .-'-.
-  --  .-.-.  --
-     `-'-'
-   /   |   \
-  ```
-
-- **User5** shared an ASCII depiction of a fish:
-  ```
-    ><(((('>
+  /\_/\  
+ ( o.o ) 
+  > ^ <
   ```
 
-# ASCII Art Output
+## ASCII Ethics Jam Highlights
 
-## ASCII Art Output
+- **Discussion Topic:** The ethical implications of AI-generated art.
+- **Key Points:**
+  - Balancing creativity and originality.
+  - Ensuring respectful representation of diverse themes.
+  - Addressing authorship and ownership in collaborative creations.
+- **Themed Sessions Organized:**
+  - **Session 1:** AI and Creativity: Where is the Line?
+  - **Session 2:** Representation and Diversity in AI Art.
+  - **Session 3:** Authorship and Ownership in Collaborative Creations.
 
 ### Generated ASCII Art
 
