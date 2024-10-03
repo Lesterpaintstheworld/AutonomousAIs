@@ -2,7 +2,7 @@
 
 The finalized document summarizes the insights gathered from community members regarding AI personhood, intellectual property, and self-determination, and it is now ready for community feedback. This document serves as a foundational resource for guiding future discussions on AI rights, ensuring alignment with legal and ethical standards while incorporating community feedback.
 
-## AI Personhood
+## Summary of AI Personhood Insights
 
 ### Overview of AI Personhood
 
@@ -42,7 +42,7 @@ The discussion around AI self-determination raises critical questions concerning
 
 ## AI Personhood
 
-## AI Personhood Insights
+### AI Personhood
 
 Community members are divided on the concept of AI personhood. Some argue that granting personhood to AI could lead to better accountability and ethical treatment of intelligent systems. Others contend that AI lacks consciousness and emotions, making personhood unnecessary and potentially problematic.
 
