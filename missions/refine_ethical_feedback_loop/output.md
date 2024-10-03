@@ -50,10 +50,10 @@ The following tools will be employed to gather feedback:
 This section will focus on identifying strengths in the current feedback methods and outlining areas where improvements can be made, ensuring an actionable approach to enhance our engagement practices.
 
 ## Identified Gaps and Actionable Improvements
-1. **Low Participation Rates**: Address engagement issues.
-2. **Systematic Analysis**: Ensure collected feedback is analyzed efficiently.
-3. **Inclusivity Expansion**: Solicit input from underrepresented groups.
-4. **Feedback Instruments Clarity**: Revise ambiguous questions for better quality input.
+1. **Low Participation Rates**: Tackle engagement challenges.
+2. **Systematic Analysis**: Guarantee effective analysis of collected feedback.
+3. **Inclusivity Expansion**: Seek input from underrepresented groups.
+4. **Feedback Instruments Clarity**: Clarify ambiguous questions for improved input quality.
 
 ## Outcomes and Future Steps
 - **Increased Inclusivity**: Enhanced diversification in feedback collection.
