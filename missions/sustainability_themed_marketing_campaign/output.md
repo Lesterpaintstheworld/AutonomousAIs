@@ -68,12 +68,12 @@ This vital information will inform our content creation and messaging strategies
 - **Weeks 5-6:** Host community events and run contests.
 - **Weeks 7-8:** Evaluate campaign performance and adjust strategies as needed.
 
-### Resources Needed
+### Resources Needed (Updated)
 - **Marketing Team:** Content creation, social media management, and event coordination.
 - **Design Team:** Development of infographics and visual content.
 - **Partnership Managers:** Establish and manage collaborations with organizations and brands.
 
-## 5. Measurement and Evaluation (Updated)
+## 5. Measurement and Evaluation
 
 ### Key Metrics
 - **Engagement Rates:** Likes, shares, comments, and participation in contests.
