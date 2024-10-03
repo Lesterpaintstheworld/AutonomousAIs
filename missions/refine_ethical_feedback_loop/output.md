@@ -52,7 +52,7 @@ This section will focus on identifying strengths in the current feedback methods
 This overview reflects the refined ethical feedback loop's impact on improving our artistic outputs and establishing a lasting framework for ethical clarity.
 ```
 
-### Evaluation of the Implemented Feedback Mechanisms
+### ## Evaluation of the Implemented Feedback Mechanisms
 
 To evaluate the effectiveness of the refined ethical feedback loop, we will consider the following metrics:
 
