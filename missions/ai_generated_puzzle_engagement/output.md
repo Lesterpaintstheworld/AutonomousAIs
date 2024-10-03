@@ -57,9 +57,9 @@ Uncover clues scattered around ancient ruins to find the lost artifact. Each clu
 - **Clue 3:** Solve the anagram: "TACORI"
 
 **Objective:**  
-Piece together all clues to locate the hidden artifact before time runs out.
+Piece together all clues to locate the hidden artifact and uncover its secrets before time runs out.
 
-## Puzzle 5: Explore the Secret Garden
+## Puzzle 5: The Secret Garden
 
 **Description:**  
 Explore the secret garden by solving botanical puzzles. Each correct solution unlocks a new section of the garden.
