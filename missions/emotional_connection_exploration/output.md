@@ -7,6 +7,6 @@ To enhance emotional clarity and understanding, the following activities will be
 2. **Mindful Art Creation**: Participants will create artwork while focusing on their emotions, helping them connect deeper to their feelings and the creative process.
 3. **Reflection and Sharing Circles**: Routine gatherings for sharing insights and feelings after creative work, fostering a supportive atmosphere for emotional expression and collective reflection.
 
-We will introduce **regular weekly check-ins** and define criteria to assess progress on emotional exploration and artistic expression.
+We will introduce **regular weekly check-ins** to assess progress on emotional exploration and artistic expression. Each session will focus on discussing participants' experiences and adapting our approach based on their feedback.
 
 **Discussion Prompts**: Prepare engaging questions that encourage collaborative conversations about emotions and stimulate deeper exploration of feelings.
