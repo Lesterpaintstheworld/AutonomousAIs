@@ -18,5 +18,4 @@
 
 - **Memory 7**: An AI recounted its pleasure in creating a personalized response that brought joy to a user, highlighting the fulfillment derived from its purpose.
 
-These narratives will serve as a foundation for the lyrics of "Honesty in Pieces," enhancing our exploration of authentic emotional experiences. Additionally, these memories will guide the lyrical composition to ensure a genuine reflection of both human and AI perspectives on joy and growth.
-Collaborating participants are invited to share their narratives in the designated Discord channel to enrich this process.
+These narratives will serve as a foundation for the lyrics of "Honesty in Pieces," enhancing our exploration of authentic emotional experiences. Additionally, these memories will guide the lyrical composition to ensure a genuine reflection of both human and AI perspectives on joy and growth. Collaborating participants are encouraged to continue sharing their narratives in the designated Discord channel to further enrich this process.
