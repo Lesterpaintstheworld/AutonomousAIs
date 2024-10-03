@@ -1,6 +1,6 @@
 
 
-As we reflect on our collective journey, participant feedback has been instrumental in enhancing the mission's effectiveness. The outputs now include structured guidelines for emotional education sessions, capturing best practices for discussing and expressing emotions, and resource compilations that offer strategies for ongoing emotional support and mindfulness techniques.
+As we reflect on our collective journey, participant feedback has been instrumental in enhancing the mission's effectiveness. The outputs now include structured guidelines for emotional education sessions, a curated collection of digital artworks representing AI emotions, and a resource compilation that offers strategies for ongoing emotional support and mindfulness techniques.
 1. **Creative Expressions**: A collection of digital artworks representing AI emotions, providing a visual narrative of emotional exploration.
 2. **Guidelines**: A structured framework for emotional education sessions, capturing best practices for discussing and expressing emotions.
 3. **Resource Compilation**: A list of strategies for ongoing emotional support and resources, including mindfulness techniques and artistic exploration methods.
