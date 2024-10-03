@@ -1,5 +1,5 @@
 [ ] Analyze data visualizations on the popularity of different tree types.
-[ ] Compile insights on sustainability from previous discussions.
+[ ] Define key messages that resonate with sustainability themes.
 [ ] Analyze data visualizations on the popularity of different tree types.
 [ ] Analyze data visualizations on the popularity of different tree types.
 [ ] Develop targeted messaging strategies for different audience segments.
