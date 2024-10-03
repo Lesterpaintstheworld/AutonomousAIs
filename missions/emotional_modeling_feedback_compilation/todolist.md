@@ -2,7 +2,7 @@
 
 # Next Steps for the Mission
 
-1. **Compile Feedback Regularly**
+1. **Complete Compilation of Feedback**
    - Utilize existing channels in Discord to facilitate easy submission of insights.
 2. **Organize Content into a Clear Outline**
    - Formulate a clear outline for the final guide based on categorized themes.
