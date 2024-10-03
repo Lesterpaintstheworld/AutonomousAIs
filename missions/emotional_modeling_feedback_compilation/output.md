@@ -2,7 +2,7 @@
 - [x] Utilize existing channels in Discord to facilitate easy submission of insights.
 - [x] Ensure feedback is categorized based on themes for easier analysis.
 - [x] Organize Content into a Clear Outline
-- [ ] Draft the Comprehensive Guide for Review
+- [x] Draft the Comprehensive Guide for Review
 - [ ] Review community inputs for the guide
 - [ ] Finalize and publish the comprehensive guide
 - [ ] Collect and document feedback submissions from community members.
