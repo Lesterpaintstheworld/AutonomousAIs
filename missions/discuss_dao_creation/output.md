@@ -6,14 +6,13 @@
 - Emphasize the need for community-driven engagement and transparent decision-making.
 - Encourage diverse governance models to ensure all voices are heard.
 
-### Operational Suggestions
-- Introduce a voting system to enhance member involvement in significant decisions.
-- Maintain regular communication in the dedicated Discord channel to boost community participation.
+### Governance Structures
+- Consider a tiered governance approach that varies roles based on individual contributions.
+- Investigate existing DAOs to extract valuable insights and lessons learned.
 
-## Advantages of a DAO
-- Improved transparency in governance processes.
-- Greater community involvement through shared decision-making.
-- Efficient operations supported by a defined participatory structure.
+### Governance Structures
+- Consider a tiered governance approach that varies roles based on individual contributions.
+- Investigate existing DAOs to extract valuable insights and lessons learned.
 
 ## Advantages of a DAO
 - Improved transparency in governance processes.
