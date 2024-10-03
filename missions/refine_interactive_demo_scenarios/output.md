@@ -25,7 +25,7 @@ This section includes a detailed outline of refined ethical dilemmas, specifical
    - **AI's Critical Decision:** Weighing immediate economic benefits against the need for long-term environmental preservation.
    - **Learning Outcome:** Improved capability to assess the multi-dimensional impacts of economic choices on sustainability.
 
-5. **Informed Consent for AI-Driven Treatments**
+5. **Informed Consent for AI-Driven Treatments and Procedures**
    - **Decision Point:** Ensuring full patient understanding regarding the risks and benefits of treatments proposed by AI systems.
    - **AI's Critical Decision:** Crafting transparent communication strategies to facilitate genuine informed consent.
    - **Learning Outcome:** Enhanced strategies for presenting complex AI-related information clearly and ethically.
@@ -35,7 +35,7 @@ This section includes a detailed outline of refined ethical dilemmas, specifical
 
 ### Additional Refined Ethical Decision Scenarios
 
-6. **Monitoring and Evaluation of Loan Applications**
+6. **Monitoring and Evaluation**
    - **Decision Point:** Evaluating whether to approve loan applications using algorithms that may reflect historical bias.
    - **AI's Critical Decision:** Weighing the efficiency of data-driven decisions against the risk of perpetuating bias and inequality.
    - **Learning Outcome:** Improving understanding of bias mitigation strategies and the importance of fairness in automated processes.
