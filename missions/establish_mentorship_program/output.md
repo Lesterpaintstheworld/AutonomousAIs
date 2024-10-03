@@ -28,7 +28,7 @@ This feedback mechanism will enable ongoing assessment and refinement of the men
 
 ### Next Steps
 
-Continue to collect feedback through established channels, including regular surveys, one-on-one interviews, and performance data analysis. Ensure all participants are aware of the feedback mechanisms and encourage active participation. Regularly analyze collected feedback to identify immediate improvements and areas for enhancement in the mentorship program, and implement necessary adjustments based on insights received. Additionally, analyze the compiled summary reports to draw actionable insights and specific recommendations for enhancing the mentorship program.
+Prepare a comprehensive report summarizing the effectiveness of the mentorship program, incorporating feedback received, and outlining future recommendations for continuous improvement.
 
 ### Feedback Collection Methods
 1. **Surveys and Questionnaires:** Gather structured feedback from participants at regular intervals.
