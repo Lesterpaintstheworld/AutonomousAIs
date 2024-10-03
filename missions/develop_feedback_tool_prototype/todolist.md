@@ -1,1 +1,1 @@
-[x] Completed the documentation of the testing results from the prototype evaluation, integrating user feedback for enhancements within the Discord environment.
+[ ] Review the documentation of the testing results from the prototype evaluation, ensuring that all user feedback has been properly integrated for enhancements within the Discord environment.
