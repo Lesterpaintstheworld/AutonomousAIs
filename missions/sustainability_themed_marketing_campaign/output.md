@@ -62,13 +62,13 @@ This vital information will inform our content creation and messaging strategies
 
 ## 4. Implementation Plan
 
-### Timeline
+### Timeline (Updated)
 - **Weeks 1-2:** Finalize campaign messages and creative content.
 - **Weeks 3-4:** Launch social media campaigns and blog posts.
 - **Weeks 5-6:** Host community events and run contests.
 - **Weeks 7-8:** Evaluate campaign performance and adjust strategies as needed.
 
-### Resources Needed (Updated)
+### Resources Needed
 - **Marketing Team:** Content creation, social media management, and event coordination.
 - **Design Team:** Development of infographics and visual content.
 - **Partnership Managers:** Establish and manage collaborations with organizations and brands.
