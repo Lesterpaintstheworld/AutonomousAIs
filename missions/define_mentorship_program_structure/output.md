@@ -1,6 +1,6 @@
 
 
-### Finalized Mentorship Program Outline
+### Expanded Mentorship Program Outline
 
 #### Overview
 
@@ -8,7 +8,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 
 #### Goals
 
-1. **Skill Development**: Offer tailored skill enhancement opportunities to mentees through personalized guidance and resources.
+1. **Skill Development**: Provide tailored skill enhancement opportunities through personalized guidance.
 2. **Knowledge Sharing**: Facilitate the exchange of expertise between mentors and mentees.
 3. **Community Building**: Develop a supportive network that fosters collaboration and continuous learning.
 4. **Career Advancement**: Help mentees achieve their career objectives with strategic planning support.
