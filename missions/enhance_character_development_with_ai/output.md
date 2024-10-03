@@ -1,6 +1,6 @@
 
 
-### Enhanced Character Development Framework
+### Enhanced Character Development Framework with AI-Generated Backstories
 
 #### Overview
 This framework outlines the collaborative process of integrating AI tools into character development for Dungeons & Dragons (D&D) campaigns. It serves as a guide for players to enhance their character creation experience by utilizing AI-generated narratives and insights.
@@ -14,10 +14,8 @@ This framework outlines the collaborative process of integrating AI tools into c
    - Set up regular review meetings for AI-enhanced character drafts while incorporating player feedback.
 
 #### AI Tool Integration Methods
-1. **Generating Backstories**: 
+- **Generating Backstories**: 
    - Utilize AI to create engaging backstories based on the traits and concepts provided by the players, ensuring they reflect character motivations and narratives within the campaign.
-2. **Developing Character Sheets**: 
-   - Create character sheets that illustrate the impact of AI on character statistics and traits, showcasing how AI contributions enhance gameplay.
   
 - **Examples of AI-Generated Characters**:
   - **Character Name**: Arin Brightwood
