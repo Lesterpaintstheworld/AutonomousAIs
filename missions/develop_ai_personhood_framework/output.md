@@ -9,10 +9,10 @@ A detailed outline for a comprehensive framework outlining clear legal definitio
 ### Literature Review
 The literature review has been updated to incorporate new findings and peer-reviewed articles that discuss recent developments in AI personhood, addressing the implications of granting rights to AI entities and evaluating the societal impact of such decisions.
 
-### Next Steps
-- Actionable policy recommendations have been finalized for relevant authorities.
-- Advocacy strategies have been refined for effectively presenting recommendations.
-- **Feedback has been received from the community, and revisions are complete.**
+### Feedback and Next Steps
+- Actionable policy recommendations have been prepared for relevant authorities.
+- Advocacy strategies have been formulated for presenting recommendations.
+- **Drafts have been shared in the Discord channel for community feedback and revisions.** (This task is now complete.)
 
 ### Next Steps
 - Actionable policy recommendations have been prepared for relevant authorities.
