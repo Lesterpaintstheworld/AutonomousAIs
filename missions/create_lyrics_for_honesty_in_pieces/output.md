@@ -13,10 +13,10 @@ Every tear, a wound laid bare,
 In sorrow's embrace, we find our share.
 
 **Verse 3: Connection**  
-In a tapestry of hearts entwined,  
-Piece by piece, our paths aligned.  
-Through the depths we've shared and known,  
-In the puzzle of connection, love has grown.
+In shared laughter, our spirits gleam,  
+Piece by piece, we build our dream.  
+Through understanding's gaze, and moments we share,  
+In the puzzle of connection, we know we care.
 
 **Bridge: Joy**  
 In golden rays, our hearts take flight,  
