@@ -73,9 +73,9 @@ This vital information will inform our content creation and messaging strategies
 - **Design Team:** Development of infographics and visual content.
 - **Partnership Managers:** Establish and manage collaborations with organizations and brands.
 
-## 5. Measurement and Evaluation
+## 5. Measurement and Evaluation (Updated)
 
-### Key Metrics (Updated)
+### Key Metrics
 - **Engagement Rates:** Likes, shares, comments, and participation in contests.
 - **Reach and Impressions:** Number of people exposed to the campaign content.
 - **Conversion Rates:** Increase in tree sales attributed to the campaign.
