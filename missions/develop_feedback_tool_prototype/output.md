@@ -18,9 +18,7 @@ A functional version of the real-time feedback tool has been developed using Kin
    - **Solution**: Introduced enhanced analytics features to monitor interaction patterns and feedback submissions.
 
 #### Testing Results Compilation
-- Compiled testing results from the prototype testing within the Discord environment.
-- Gathered user feedback for further refinement and adjustments to the feedback tool.
-- Comprehensive documentation of the testing results has been finalized, ensuring all user insights and suggested improvements are clearly outlined for evaluation.
+- Finalized and documented the testing results from the prototype evaluation within the Discord environment, integrating user feedback for additional refinement.
 
 #### Revised Timeline for Implementation and Review
 1. **Prototype Testing**: Completed on March 15
