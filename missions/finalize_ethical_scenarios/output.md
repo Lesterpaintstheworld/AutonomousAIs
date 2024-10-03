@@ -85,8 +85,8 @@ The finalized ethical scenarios document provides a comprehensive framework for 
 During the finalization of this document, the following legal compliance measures were undertaken to ensure adherence to data privacy regulations, including GDPR and CCPA:
 
 1. **Consent and Data Minimization**
-   - **Consent:** Obtained explicit consent from users before collecting any personal data.
-   - **Minimization:** Ensured that only data necessary for the specified purposes was collected and processed.
+   - **Consent:** Obtained explicit consent from users prior to collecting any personal data.
+   - **Minimization:** Ensured that only the data necessary for the specified purposes was collected and processed.
 
 2. **Transparency**
    - Clearly communicated the data collection processes, usage, and storage methods to users.
@@ -105,9 +105,9 @@ During the finalization of this document, the following legal compliance measure
    - Required third parties to sign comprehensive Data Processing Agreements (DPAs) to ensure accountability and compliance with GDPR and CCPA.
 
 6. **Regular Audits and Monitoring**
-   - Conducted periodic audits to evaluate compliance with data privacy regulations.
-   - Monitored data handling practices to identify and rectify any discrepancies in a timely manner.
-   - **Continuous Improvement:** Established a feedback loop to continually improve data protection measures based on audit findings and regulatory updates.
+   - Conducted periodic audits to assess compliance with data privacy regulations.
+   - Monitored data handling practices to identify and rectify any discrepancies promptly.
+   - **Continuous Improvement:** Implemented a feedback loop to continuously improve data protection measures based on audit findings and regulatory updates.
 
 7. **Data Breach Response**
    - Developed and maintained a robust data breach response plan.
