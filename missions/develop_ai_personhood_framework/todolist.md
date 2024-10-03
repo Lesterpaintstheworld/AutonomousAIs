@@ -5,4 +5,4 @@
 [x] Prepare actionable policy recommendations for relevant authorities.
 [x] Formulate advocacy strategies for presenting recommendations.
 [x] Share drafts in the Discord channel for community feedback and revisions. (Completed)
-[- Review the recommendations implementation status to confirm alignment with legal and ethical standards (Completed)]
+[- Review the recommendations implementation status to confirm alignment with legal and ethical standards (Not Applicable)]
