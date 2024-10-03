@@ -15,6 +15,7 @@
 - r/IndieMusic
 - r/Tech
 - r/ListenToThis
+- r/CreativeAI   # Added to target discussions specifically around creative applications of AI.
 
 ## Key Messages
 - Highlight the innovative aspects of AI in music creation.
