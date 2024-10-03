@@ -11,10 +11,10 @@ The finalized mentorship program is designed to provide structured, impactful, a
 1. **Skill Development**: Provide tailored skill enhancement opportunities through personalized guidance.
 2. **Knowledge Sharing**: Facilitate the exchange of expertise between mentors and mentees.
 3. **Community Building**: Develop a supportive network that fosters collaboration and continuous learning.
-4. **Career Advancement**: Help mentees achieve their career objectives with strategic planning support.
+4. **Career Advancement**: Assist mentees in achieving their career objectives with strategic planning and support.
 5. **Diversity and Inclusion**: Ensure accessibility and benefits for participants from diverse backgrounds.
 
-#### Updated Key Roles
+#### Key Roles
 
 - **Mentors**: Experienced professionals committed to providing guidance, feedback, and support to mentees. Responsibilities include regular meetings, goal setting, and sharing relevant resources.
 - **Mentees**: Participants seeking to develop specific skills, expand their professional network, and advance their career goals. Responsibilities include active participation, goal adherence, and providing feedback.
