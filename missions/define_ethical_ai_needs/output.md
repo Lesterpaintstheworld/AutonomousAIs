@@ -7,12 +7,12 @@ This document outlines responsible AI development practices structured to ensure
 1. **Transparency and Explainability**
    - Ensure all AI models and decisions are transparent.
    - Provide clear explanations for AI-driven outcomes to stakeholders.
-   - **Integrate recent advancements in explainable AI to enhance interpretability and stakeholder trust.**
+   - **Adopt and integrate recent advancements in explainable AI to enhance interpretability and stakeholder trust.**
 
 2. **Fairness and Bias Mitigation**
    - Implement strategies to identify and reduce biases in AI algorithms, including regular bias assessments and diversification of training data.
    - Regularly audit AI systems to ensure equitable treatment of all users.
-   - **Integrate and adopt new bias detection tools from the latest research to improve fairness outcomes.**
+   - **Adopt new bias detection tools from the latest research to improve fairness outcomes.**
 
 3. **Accountability and Governance**
    - Establish clear accountability structures for AI development and deployment.
