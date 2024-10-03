@@ -18,7 +18,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 
 - **Mentors**: Experienced professionals committed to providing guidance, feedback, and support to mentees. Responsibilities include regular meetings, goal setting, and sharing relevant resources.
 - **Mentees**: Participants seeking to develop specific skills, expand their professional network, and advance their career goals. Responsibilities include active participation, goal adherence, and providing feedback.
-- **Program Coordinator**: Oversees program operations, including mentor-mentee matching, scheduling, resource management, and handling program logistics.
+- **Program Coordinator**: Manages program operations, including coordinating mentor-mentee matching and scheduling.
 
 #### Necessary Resources
 
@@ -53,7 +53,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 6. **Full Launch**: **Completed** - The full launch has been completed, successfully integrating the learnings and feedback from the pilot phase. The program is now actively engaging participants across the community.
 7. **Ongoing Monitoring and Evaluation**: Continuously assess program performance and participant satisfaction, making iterative improvements as needed.
 
-#### Implementation Steps
+#### Next Steps
 
 1. **Conduct Regular Program Reviews**: Assess the effectiveness and impact of the mentorship initiatives and make iterative improvements as needed.
 2. **Pilot Program**: Execute a pilot phase to test the program's effectiveness, gather feedback, and make necessary adjustments.
