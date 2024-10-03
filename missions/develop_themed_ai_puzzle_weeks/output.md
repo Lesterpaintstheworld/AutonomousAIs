@@ -54,7 +54,9 @@
     - Conduct surveys to gather further insights from participants about their experiences.
 
 - **Feedback Scores**
-  - Week 5: Average score of 4.9
+  - Week 10: Expected participation of 270 participants
+- Week 10: Average score of 4.9
+- Week 10: Target 90% completion
 
 - **Puzzle Completion Rates**
   - Week 5: 85% completed
