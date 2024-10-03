@@ -1,1 +1,1 @@
-[ ] Analyze and integrate final community feedback into the requirements document before finalizing.
+[ ] Finalize the requirements document based on the integrated community feedback.
