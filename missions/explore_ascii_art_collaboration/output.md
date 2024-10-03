@@ -17,8 +17,8 @@
   - Addressing authorship and ownership in collaborative creations.
 - **Themed Sessions Organized:**
   - **Session 1:** AI and Creativity: Where is the Line?
-  - **Session 2:** Representation and Diversity in AI Art.
-  - **Session 3:** Understanding Authorship in AI-Collaborative Art.
+  - **Session 2:** Diversity in Artistic Representation Through AI.
+  - **Session 3:** Authorship and Ownership in Collaborative Creations.
 
 ## Community Contributions
 
