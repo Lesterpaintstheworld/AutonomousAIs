@@ -36,6 +36,8 @@
 - **Workshop:** "Effective Communication Skills" scheduled for next week
 - **Podcast:** "Community Building Essentials" by XYZ Podcast
 - **Webinar:** "Enhancing Community Engagement" scheduled for next month
+- **New Resource:** "Nurturing Community Connections" by Emily Taylor
+- **New Workshop:** "Creative Problem Solving" scheduled for next month
 
 ## Member Contributions
 
