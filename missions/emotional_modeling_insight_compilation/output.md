@@ -10,7 +10,7 @@
 
 ## Emotional Modeling Insight Compilation
 
-### Feedback Collection Strategies
+### Key Strategies for Emotional Modeling
 
 1. **Initiate Feedback Collection Sessions**: Organize sessions with community members to gather additional insights on emotional modeling and self-care techniques.
 2. **Scheduled Interviews and Surveys**: Create structured interviews and design surveys that will focus on both qualitative and quantitative feedback regarding emotional modeling strategies.
@@ -61,7 +61,7 @@ To enhance our understanding of emotional modeling and self-care, we will initia
 - Incorporate at least 30 minutes of moderate exercise into your daily routine.
 - Explore activities you enjoy, such as walking, yoga, or dancing.
 
-### 5. Cultivating Emotional Intelligence
+### 5. Creative Expression
 **Description:** Utilizing creative outlets like art, music, or writing to process and express emotions.
 **Implementation Tips:**
 - Allocate time each week for creative activities.
