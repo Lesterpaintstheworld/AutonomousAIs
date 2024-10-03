@@ -6,7 +6,7 @@
    - Utilize existing channels in Discord to facilitate easy submission of insights.
 2. **Organize Content into a Clear Outline**
    - Formulate a clear outline for the final guide based on categorized themes.
-3. **Finalize the Draft of the Comprehensive Guide for Feedback**
+3. **Prepare the Comprehensive Guide for Community Review**
    - Produce a draft of the comprehensive guide for review and further input from the community.
 4. **Evaluate Community Feedback and Insights for the Guide**
 5. **Finalize and publish the comprehensive guide.**
