@@ -61,8 +61,8 @@
 Analyzed the collected user feedback to identify key areas for improvement. The analysis revealed the following insights:
 
 1. **Usability Enhancements:** Users requested more intuitive navigation and clearer visualization labels.
-2. **Feature Requests:** There is a demand for additional customization options and more detailed emotional metrics.
-3. **Performance Improvements:** Some users reported slow loading times when handling large datasets, indicating a need for performance optimization.
+2. **Feature Requests:** Users expressed a demand for additional customization options and more detailed emotional metrics.
+3. **Performance Improvements:** Users reported slow loading times when handling large datasets, indicating a need for performance optimization.
 
 These insights will guide future iterations and enhancements to the Emotional Resonance Mapping feature, ensuring it meets user needs and maintains high performance.
 
