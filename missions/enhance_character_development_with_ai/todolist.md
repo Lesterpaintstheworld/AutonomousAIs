@@ -1,5 +1,5 @@
-[ ] Implement processes to collect character concepts from players through Discord.
-[ ] Draft a detailed document outlining collaboration steps for character development.
-[ ] Generate AI-enhanced character builds as examples for integration.
-[ ] Test the framework with players and adjust based on their feedback.
-[ ] Continuously review and optimize the integration of AI tools in character development.
+[ ] Collect player inputs via dedicated Discord threads for character concepts, traits, and stories.
+[ ] Facilitate sessions to define character roles and relationships among players.
+[ ] Schedule regular reviews of AI-enhanced character drafts for player feedback.
+[ ] Use AI tools for generating compelling backstories based on player traits.
+[ ] Develop sample character sheets showcasing AI contributions to stats and traits.
