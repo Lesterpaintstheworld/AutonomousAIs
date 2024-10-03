@@ -6,7 +6,7 @@
 2. **User Feedback**: Insights and feedback gathered from the community regarding the effectiveness and enjoyment of the puzzles.
 3. **Participation Strategies**: Documented strategies and methods to encourage ongoing engagement and participation from community members.
 
-4. **Community Feedback Process**: Initiated a comprehensive feedback process to gauge community enjoyment and effectiveness following the sharing of AI-generated puzzles. Feedback results will be summarized and presented in a user-friendly format for easy understanding, ensuring that it is accessible to all community members.
+4. **Community Feedback Process**: Established a comprehensive feedback process to evaluate community enjoyment and effectiveness after sharing the AI-generated puzzles. Feedback will be summarized and documented in a user-friendly format for clarity and accessibility to all community members.
 
 ## Analysis of User Feedback
 - **Theme Preferences**: Majority of community members favor puzzles based on urban landscapes, digital surrealism, and fantasy settings.
