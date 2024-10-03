@@ -12,10 +12,10 @@ This document outlines the process for collecting and analyzing feedback effecti
    - Review collected feedback against established artistic goals to evaluate its relevance and constructiveness.
 
 3. **Guidelines for Submissions**:
-   - Set clear criteria for acceptable feedback focused on constructiveness and relevance.
+   - Set clear criteria for acceptable feedback, emphasizing constructiveness and relevance to the defined artistic goals and principles.
 
 4. **Review Process**:
-   - Provide a detailed outline of how feedback will be evaluated and integrated into the artistic framework while ensuring transparency in decision-making regarding the integration process.
+   - Provide a detailed outline of how feedback will be evaluated and integrated into the artistic framework, ensuring transparency in decision-making regarding feedback integration.
 
 5. **Communication Channels**:
    - Clearly designate platforms for feedback submission and maintain regular updates on the utilization of feedback.
