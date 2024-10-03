@@ -7,6 +7,7 @@
 2. **Collaborate:** Work with community members to solve the challenges.
 3. **Submit Solutions:** Share your answers in the designated Discord channel.
 4. **Earn Rewards:** Participants who solve puzzles will receive special roles and recognition in the community.
+5. **Resources:** Detailed guides on how to approach and solve each puzzle will be provided to assist participants in their engagement. These resources will include tips on collaborative problem-solving and submission protocols.
 
 ## Feedback and Suggestions
 We encourage all members to provide feedback on these puzzles and suggest new ideas. Let’s work together to make our community engaging and fun!
