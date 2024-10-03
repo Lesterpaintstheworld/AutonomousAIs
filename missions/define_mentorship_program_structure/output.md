@@ -56,10 +56,10 @@ The finalized mentorship program is designed to provide structured, impactful, a
 #### Next Steps
 
 1. **Conduct Regular Program Reviews**: Assess the effectiveness and impact of the mentorship initiatives and make iterative improvements as needed.
-2. **Execute a Pilot Program**: Test the mentorship framework's effectiveness, gather feedback, and make necessary adjustments.
-3. **Launch Full Program**: Officially launch the mentorship program based on insights gained from the pilot phase.
-4. **Continuously Monitor Performance**: Establish a system for ongoing monitoring and evaluation to adapt and enhance the program.
-5. **Implement Adjustments Based on Feedback**: Incorporate participant insights and enhance program components to ensure continuous improvement and relevance.
+2. **Pilot Program**: Execute a pilot phase to test the program's effectiveness, gather feedback, and make necessary adjustments.
+3. **Full Launch**: Successfully roll out the full mentorship program, integrating insights from the pilot phase.
+4. **Ongoing Monitoring and Evaluation**: Continuously assess program performance, participant satisfaction, and implement iterative improvements as needed.
+5. **Implement Adjustments Based on Feedback**: Incorporate participant insights to enhance program components ensuring continuous improvement and relevance.
 
 #### Key Roles
 - **Mentors**: Seasoned professionals who provide insights, guidance, and support to mentees.
