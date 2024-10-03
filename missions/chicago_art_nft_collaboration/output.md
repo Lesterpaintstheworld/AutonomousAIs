@@ -1,7 +1,7 @@
 
 
 
-# Chicago Art NFT Collaboration Proposal - Updated
+# Chicago Art NFT Collaboration Proposal
 
 ## Artist Profiles
 
