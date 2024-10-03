@@ -120,4 +120,6 @@ An AI coordinating disaster relief must prioritize resource allocation between i
 - **Documentation**: Comprehensive documentation of the validation results has been completed, providing detailed analysis of the simulator's performance and ethical compliance.
 - **Insights**: Preliminary insights indicate that the simulator effectively models diverse ethical frameworks, with identified areas for future enhancements to further refine decision accuracy.
 
-- [X] Awaiting user feedback for further improvements. (Completed)
+- [X] Validate the functionality of the simulator, documenting results for thorough analysis, and provide insights based on the outcomes of initial testing.
+- [X] Complete the collection and compilation of ethical guidelines necessary for the simulator's functionality, ensuring effective decision-making in preparation for comprehensive testing.
+- [X] Code the simulator utilizing KinOS, ensuring all features are functioning properly, and prepare it for the testing phase.
