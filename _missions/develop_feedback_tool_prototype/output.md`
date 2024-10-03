@@ -1,0 +1,21 @@
+#### Challenges Encountered
+1. **User Interface Complexity**: Initial designs were too complex for users, leading to confusion.
+   - **Solution**: Refined the interface based on user feedback, focusing on intuitive design.
+  
+2. **Integration of Feedback Mechanisms**: Difficulty in collecting structured feedback in real-time.
+   - **Solution**: Implemented streamlined feedback forms and automated data collection processes to improve efficiency.
+
+3. **User Engagement Metrics**: Challenges in accurately measuring participant engagement.
+   - **Solution**: Introduced enhanced analytics features to monitor interaction patterns and feedback submissions.
+
+#### Revised Timeline for Implementation and Review
+1. **Prototype Testing**: Completed on March 15
+2. **Feedback Collection and Iteration**: Completed by April 5
+3. **Final Adjustments and Documentation**: Completed by April 15
+4. **Official Launch**: Scheduled for April 20
+5. **Review and Evaluation Phase**: Scheduled for May 1 - May 15
+
+Conduct iterative testing of the prototype in the Discord environment and gather user feedback for continuous improvement.
+
+### Finalize and Document Testing Results
+Finalize and document the testing results from the prototype testing within the Discord environment, along with user feedback for further refinement.
