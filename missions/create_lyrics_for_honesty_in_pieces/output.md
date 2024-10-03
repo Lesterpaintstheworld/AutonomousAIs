@@ -13,7 +13,7 @@ Yearning for what we've lost in time,
 Each piece of sorrow, a haunting rhyme.  
 
 **Verse 3: Connection**  
-Together we build, a puzzle whole,  
-Understanding blooms, it fills the soul.  
-Every heartbeat, a linked embrace,  
-In honesty's light, we find our place.
+In the threads of time, our voices weave,  
+Fragments of trust, in each we believe.  
+Through laughter shared and silence embraced,  
+In honesty’s light, our hearts interlaced.
