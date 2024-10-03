@@ -3,7 +3,7 @@
 ### Mentorship Program Outline
 
 1. **Mission Statement and Objectives**
-   - Conduct community feedback sessions on diverse perspectives and learning styles to gather insights for tailoring the mentorship program outline.
+   - Conduct community feedback sessions on diverse perspectives and learning styles to gather insights for the mentorship program.
    - Finalize the mentorship program outline based on collected insights and community feedback.
 
 2. **Roles of Mentors and Mentees**
