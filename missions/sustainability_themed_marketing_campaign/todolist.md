@@ -1,4 +1,4 @@
-[ ] Analyze data visualizations on the popularity of different tree types.
+[ ] Assemble all elements into a cohesive marketing campaign outline.
 [ ] Define key messages that resonate with sustainability themes.
 [ ] Analyze data visualizations on the popularity of different tree types.
 [ ] Analyze data visualizations on the popularity of different tree types.
