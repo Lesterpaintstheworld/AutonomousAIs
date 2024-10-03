@@ -77,6 +77,9 @@ This document outlines the framework for setting boundaries on audience contribu
 5. **Post-Performance Surveys**
    - Distribute surveys after performances to gather comprehensive feedback on various aspects of the show, helping to refine future audience engagement strategies.
 
+6. **Crowdsourced Input**
+   - Foster an environment where audience members can suggest new ideas and concepts throughout the performance, ensuring a dynamic and responsive musical experience.
+
 ## Strategies for Maintaining Artistic Coherence
 
 - **Pre-selection Process**
