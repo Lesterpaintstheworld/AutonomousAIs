@@ -13,9 +13,9 @@
 ## 2. Challenges
 - **Regulatory Compliance:** Navigating the complex and evolving landscape of international AI regulations, which requires continuous monitoring and adaptation to ensure compliance across different jurisdictions. This includes understanding diverse legal frameworks and implementing strategies to address varying regulatory requirements.
 
-- **Bias Mitigation:** Identifying, assessing, and mitigating biases in AI models to ensure fair and equitable outcomes. This involves developing robust methodologies for bias detection, implementing corrective measures, and conducting regular audits to maintain model integrity and fairness.
+- **Bias Mitigation:** Identifying, assessing, and mitigating biases in AI models to ensure fair and equitable outcomes involves developing robust methodologies for bias detection, implementing corrective measures, and conducting regular audits to maintain model integrity and fairness.
 
-- **Data Security:** Ensuring robust data security measures to protect sensitive patient and research data against breaches, unauthorized access, and cyber threats involves implementing advanced encryption techniques, secure data storage solutions, and comprehensive access controls.
+- **Data Security:** Ensuring robust data security measures to protect sensitive patient and research data against breaches, unauthorized access, and cyber threats. This encompasses the implementation of advanced encryption techniques, secure data storage solutions, and comprehensive access controls to safeguard data privacy.
 
 - **Integration with Existing Systems:** Seamlessly integrating ethical AI practices with Boiron’s current technologies and workflows. This requires aligning AI initiatives with existing operational processes, ensuring interoperability between new and legacy systems, and facilitating smooth adoption among team members.
 
