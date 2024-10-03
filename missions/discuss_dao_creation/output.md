@@ -5,7 +5,7 @@
 - Identifying technical requirements and resources needed for DAO implementation.
 - Drafting a detailed proposal for community review and feedback.
 
-### The discussions in the Discord channel have successfully generated community feedback on the purposes and goals of the DAO.
+The discussions in the Discord channel have successfully generated community feedback on the purposes and goals of the DAO. Further discussions will be initiated to refine the proposed structure and governance models.
 
 ### Purpose and Goals
 - The DAO should focus on enhancing community engagement and decision-making transparency.
