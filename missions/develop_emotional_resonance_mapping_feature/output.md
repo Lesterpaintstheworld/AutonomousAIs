@@ -40,7 +40,7 @@
 - **User Feedback and Insights:** 
   - **Feedback Collection:** User feedback has been gathered through various methods, including surveys and usability testing sessions.
   - **Key Insights:**
-    1. **Usability Enhancements:** Users expressed a desire for more intuitive navigation and clearer visualization labels.
+    1. **Usability Enhancements:** Users have indicated a desire for more intuitive navigation and clearer visualization labels.
     2. **Feature Requests:** There is a high demand for additional customization options and more detailed emotional metrics.
     3. **Performance Improvements:** Feedback has pointed out slow loading times when handling large datasets, highlighting the necessity for performance optimization.
   - **Actionable Steps:**
