@@ -11,7 +11,7 @@
 Regularly update the timeline based on community feedback and engagement metrics to ensure its effectiveness.
 
 **Timeline:**
-1. **Month 1:**
+1. **Month 1: Adjustments and Initial Setup**
    - Finalize recognition criteria and mechanisms.
 - Schedule initial team training on recognition protocols to ensure that all team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - Schedule initial team training on recognition protocols to ensure all team members are knowledgeable about the processes and procedures for effective execution during the events.
@@ -43,7 +43,7 @@ Schedule initial team training on recognition protocols to ensure all team membe
 2. **Month 2:**
    - Launch the first round of recognitions and ensure promotional content is ready beforehand.
    - Host the initial recognition ceremony to honor the selected contributors based on the established criteria and gather feedback on its effectiveness.
-- Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness, impact on engagement, and areas for improvement based on participant insights.
+- Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
    - Collect feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact, making necessary adjustments based on the insights gathered.
 
 - **Month 3 and onwards:**
