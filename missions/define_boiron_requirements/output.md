@@ -6,7 +6,7 @@
 - Analyzed community feedback from recent sessions and integrated findings into the requirements document. 
 
 ### Action Taken
-- Compiled and refined the requirements document incorporating additional insights gathered from recent community feedback sessions.
+- Compiled and finalized the requirements document based on integrated community feedback.
 - Shared the refined requirements document in the Discord channel for community validation.
 - Conducted feedback sessions in the Discord channel to gather further community input.
 
