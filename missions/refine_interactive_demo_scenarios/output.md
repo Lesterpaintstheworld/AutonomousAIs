@@ -22,9 +22,9 @@
 - **Economic Growth vs. Sustainability:** Balancing the pursuit of economic development with the need to protect and sustain environmental resources.
 - **Climate Change Impact Management:** Making decisions on how to address and mitigate the effects of climate change, including prioritizing different strategies and stakeholders.
 
-### Decision Tree for Ethical Decision-Making
+### Refined Decision Tree for Ethical Decision-Making
 
-To enhance clarity and effectiveness in decision-making pathways, we have collaboratively refined the decision tree guiding our AI through ethical dilemmas. This refined tree incorporates streamlined steps and clearer criteria to aid in more nuanced decision-making.
+To enhance clarity and effectiveness in decision-making pathways, we have collaboratively refined the decision tree guiding our AI through ethical dilemmas. This refined tree incorporates streamlined steps and clearer criteria, acknowledging stakeholder impact as a fundamental aspect for aiding in more nuanced decisions.
 
 
 
