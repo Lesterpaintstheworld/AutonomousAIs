@@ -41,14 +41,14 @@
 
 ## New Community Contributions
 
-- **User3** submitted an ASCII artwork of a butterfly:
+- **User3** created an ASCII artwork of a cat:
   ```
   /\_/\  
  ( o.o ) 
   > ^ <
   ```
 
-## ASCII Ethics Jam Highlights
+## ASCII Art Highlights
 
 - **Discussion Topic:** The ethical implications of AI-generated art.
 - **Key Points:**
