@@ -1,6 +1,6 @@
 
 
-# Ethical Scenarios Finalized
+# Finalized Ethical Scenarios Document
 
 ## Introduction
 
