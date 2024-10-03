@@ -2,7 +2,7 @@
 
 ### Output Report: Real-Time Feedback Tool Prototype (Updated)
 
-- Analyze the gathered feedback to identify areas for further improvement and implement necessary adjustments has been completed, ensuring the feedback tool meets participant needs effectively.
+- Analyzed the gathered feedback to identify areas for further improvement and implemented necessary adjustments, ensuring the feedback tool meets participant needs effectively.
 
 #### Challenges and Solutions Report
 
