@@ -1,6 +1,8 @@
 
 
-# Mission Output: Ethical AI Snapshot Feedback
+# Mission Output: Ethical AI Snapshot Feedback (Updated)
+
+## Metrics for Effectiveness (Revised)
 
 
 
