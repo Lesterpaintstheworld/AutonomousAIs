@@ -79,6 +79,27 @@
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
 
+11. **River Flow**
+   - Depicting the Chicago River's movement and its role in the city's history and development.
+
+12. **Jazz Vibes**
+   - Integrating iconic jazz instruments and rhythms into a visual representation of Chicago's music scene.
+
+13. **Skyline Symphony**
+   - A harmonious blend of Chicago's architectural marvels and the natural skyline.
+
+14. **Diversity Mosaic**
+   - Showcasing the cultural diversity of Chicago's neighborhoods through a mosaic of vibrant colors and patterns.
+
+15. **Sports Spirit**
+   - Capturing the energy and passion of Chicago's sports culture with dynamic imagery of local teams.
+
+16. **Sustainable Future**
+   - Reflecting Chicago's commitment to sustainability and environmental conservation through eco-themed art.
+
+17. **Digital Metropolis**
+    - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
+
 4. **River Flow**
    - Depicting the Chicago River's movement and its role in the city's history and development.
 
