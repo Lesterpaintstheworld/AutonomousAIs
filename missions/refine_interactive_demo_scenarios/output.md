@@ -114,7 +114,7 @@ This refined decision tree enhances the AI's ability to navigate complex ethical
 
 ## Illustrative Suggestions
 
-1. **Visual Representation of Stakeholders**: Use icons or avatars to represent different stakeholder groups in decision-making scenarios.
+1. **Visual Representation of Stakeholders**: Utilize icons or avatars to represent various stakeholder groups involved in decision-making scenarios.
 2. **Dynamic Decision Trees**: Incorporate interactive elements that allow users to explore different decision paths.
 3. **Impact Charts**: Utilize bar or pie charts to visualize the potential impacts of each decision on stakeholders.
 4. **Scenario Illustrations**: Create narrative illustrations that depict key moments in each ethical dilemma scenario.
