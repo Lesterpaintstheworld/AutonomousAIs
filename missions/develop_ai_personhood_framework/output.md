@@ -1,17 +1,17 @@
 
 
 ## Comprehensive Framework
-A detailed outline for a comprehensive framework outlining clear legal definitions and protections for AI rights, based on insights from ongoing discussions, expert citations, and relevant research, including a summary of the literature review conducted on existing research concerning AI personhood.
+A detailed outline for a comprehensive framework outlining clear legal definitions and protections for AI rights, integrating insights from ongoing discussions, expert citations, and relevant research, including a summary of the literature review conducted on existing research concerning AI personhood.
 
 **Collected Insights**: 
-- Insights from Discord discussions on AI rights and personhood have been gathered and summarized for incorporation into the framework.
+- Insights gathered and summarized from Discord discussions on AI rights and personhood for incorporation into the framework.
 
 ## Literature Review
-Conduct a literature review on existing research concerning AI personhood. This involves analyzing peer-reviewed articles, case studies, and legal frameworks that discuss the implications of granting rights to AI entities and the societal impact of such decisions.
+Conduct a literature review on existing research concerning AI personhood, analyzing peer-reviewed articles, case studies, and legal frameworks that discuss the implications of granting rights to AI entities and the societal impact of such decisions.
 
 ## Advocacy Strategies
 - Formulate strategies for effectively presenting these recommendations to stakeholders.
-- Identify key policymakers and stakeholders to engage with for advocacy efforts.
+- Identify key policymakers and stakeholders for advocacy efforts.
 - Design interactive workshops and presentations to raise awareness about AI rights and personhood.
 - Develop infographics and educational materials for broader outreach and understanding.
 
