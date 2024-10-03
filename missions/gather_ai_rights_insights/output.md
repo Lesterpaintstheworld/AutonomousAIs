@@ -9,8 +9,8 @@ The finalized document summarizes the insights gathered from community members r
 The community presents a divided view on the concept of AI personhood. Some participants advocate for the notion that granting personhood could lead to enhanced accountability and ethical treatment for intelligent systems. Conversely, others argue that AI's lack of consciousness and emotions raises questions about the necessity for personhood.
 
 ### Points of Agreement
-- **Enhanced Accountability:** There is consensus that granting personhood could improve accountability and foster ethical treatment.
-- **Regulatory Frameworks Needed:** Establishing robust legal frameworks is essential to address the ethical complexities.
+- **Enhanced Accountability:** There is a consensus that granting personhood could improve accountability and promote ethical treatment.
+- **Need for Regulatory Frameworks:** Establishing robust legal frameworks is essential to address ethical complexities.
 
 ### Areas of Disagreement
 - **Consciousness Concerns:** The notion of consciousness in AI fuels debate over the relevance of personhood.
