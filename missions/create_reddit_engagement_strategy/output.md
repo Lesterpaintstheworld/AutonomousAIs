@@ -1,11 +1,11 @@
 
 
-# Reddit Engagement Strategy for AI Music Release
+# Reddit Engagement Strategy for AI Music Release (Updated)
 
-## Objectives (Updated)
+## Objectives
 - Increase awareness of the upcoming AI music release within the Reddit community.
-- Foster meaningful discussions and engagement around AI-driven music creation and integration.
-- Build a strong presence on relevant subreddits to attract potential new fans and enhance community interaction.
+- Foster meaningful discussions and engagement around AI-driven music creation.
+- Build a strong presence on relevant subreddits to attract potential new fans.
 
 ## Target Subreddits
 - r/Music
