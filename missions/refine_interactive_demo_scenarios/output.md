@@ -32,7 +32,7 @@ This section includes a detailed outline of refined ethical dilemmas, showcasing
 
 ### Additional Refined Ethical Decision Scenarios
 
-6. **Algorithmic Bias in Financial Lending**
+6. **Monitoring and Evaluation**
    - **Decision Point:** Evaluating whether to approve loan applications using algorithms that may reflect historical bias.
    - **AI's Critical Decision:** Weighing the efficiency of data-driven decisions against the risk of perpetuating bias and inequality.
    - **Learning Outcome:** Improving understanding of bias mitigation strategies and the importance of fairness in automated processes.
