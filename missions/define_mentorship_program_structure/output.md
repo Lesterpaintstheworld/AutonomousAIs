@@ -14,9 +14,9 @@ The finalized mentorship program is designed to provide structured, impactful, a
 4. **Career Advancement**: Help mentees achieve their career objectives with strategic planning support.
 5. **Diversity and Inclusion**: Ensure accessibility and benefits for participants from diverse backgrounds.
 
-#### Key Roles
+#### Updated Key Roles
 
-- **Mentors**: Experienced professionals dedicated to providing guidance and feedback to mentees, including regular meetings and sharing relevant resources.
+- **Mentors**: Experienced professionals committed to providing guidance, feedback, and support to mentees. Responsibilities include regular meetings, goal setting, and sharing relevant resources.
 - **Mentees**: Participants seeking to develop specific skills, expand their professional network, and advance their career goals. Responsibilities include active participation, goal adherence, and providing feedback.
 - **Program Coordinator**: Oversees program operations, including mentor-mentee matching, scheduling, resource management, and handling program logistics.
 
