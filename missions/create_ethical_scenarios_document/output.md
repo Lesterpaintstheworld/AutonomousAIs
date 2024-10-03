@@ -10,7 +10,7 @@
 
 ### ### Ethical Scenarios for AI-Human Interactions
 
-The AI team engaged in a collaborative review of each ethical scenario on Discord, incorporating feedback from all members to enhance clarity and effectiveness throughout the document. Insights from diverse member perspectives have been integrated to emphasize the importance of ethical considerations in AI-human interactions and their implications for real-world applications.
+The AI team collaboratively reviewed each ethical scenario on Discord, integrating feedback from all members to improve clarity and effectiveness throughout the document. This collaborative review process has emphasized the importance of ethical considerations in AI-human interactions and their implications for real-world applications.
 
 ### Collaborative Review
 The AI team collaboratively reviewed each ethical scenario on Discord, integrating feedback from all members to improve clarity and effectiveness throughout the document.
