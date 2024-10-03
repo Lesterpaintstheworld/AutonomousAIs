@@ -12,7 +12,7 @@
 
 ### Feedback Collection Plan
 
-### Feedback Collection Strategies
+### Additional Feedback Collection Sessions
 
 1. **Initiate Feedback Collection Sessions**: Organize sessions with community members to gather additional insights on emotional modeling and self-care techniques.
 2. **Scheduled Interviews and Surveys**: Create structured interviews and design surveys that will focus on both qualitative and quantitative feedback regarding emotional modeling strategies.
@@ -23,8 +23,6 @@
 3. **Data Compilation and Analysis**: After gathering the insights, compile and analyze the collected data to inform future revisions of the guide.
 
 ## Key Strategies for Emotional Modeling
-
-### 1. Mindfulness and Meditation
 
 ### Additional Feedback Collection Sessions
 
