@@ -1,6 +1,6 @@
 
 
-# Reddit Engagement Strategy for AI Music Release (Updated)
+# Reddit Engagement Strategy for AI Music Release
 
 ## Objectives
 - Increase awareness of the upcoming AI music release within the Reddit community.
