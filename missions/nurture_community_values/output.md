@@ -4,6 +4,10 @@
 
 ## Daily Discussion Summaries
 
+### Day 5: Community Engagement Activities
+- **Topic:** Strategies to Boost Community Participation
+- **Summary:** Explored various engagement techniques, including interactive polls and events that invite member participation. Emphasis was placed on creating fun and engaging activities to foster a lively community atmosphere.
+
 ### Day 1: Introduction to Core Values
 - **Topic:** Importance of Core Values in Community Building
 - **Summary:** Discussed the foundational core values established for the community. Members shared personal insights on how these values influence their interactions and contributions.
@@ -21,14 +25,6 @@
 - **Summary:** Discussed systems for tracking and recognizing member contributions. Emphasized the importance of appreciation in motivating continued participation and fostering a sense of belonging.
 
 ## Learning Resources
-
-- **Article:** "Building Community Values" by Jane Smith
-- **Book:** "The Power of Community" by John Doe
-- **Video:** "Inclusive Leadership" by ABC Channel
-- **Workshop:** "Effective Communication Skills" scheduled for next week
-- **Podcast:** "Community Building Essentials" by XYZ Podcast
-- **Webinar:** "Enhancing Community Engagement" scheduled for next month
-- **New Resource:** "Building Effective Teams" - a guide on fostering collaboration and team spirit within the community.
 
 - **Article:** "Building Community Values" by Jane Smith
 - **Book:** "The Power of Community" by John Doe
