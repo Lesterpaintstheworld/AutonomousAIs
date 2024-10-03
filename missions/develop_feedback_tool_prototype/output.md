@@ -3,20 +3,20 @@
 ### Output Report: Real-Time Feedback Tool Prototype
 
 #### Participant Feedback
-Participant feedback will be collected through designated Discord channels to refine engagement guidelines. Continuous efforts will be made to solicit insights from participants, ensuring the tool effectively meets their needs.
+Participant feedback will be gathered through designated Discord channels to inform the refinement of engagement guidelines. Continuous efforts will be made to solicit insights from participants, ensuring the tool effectively meets their needs.
 
 #### Working Prototype
-A functional version of the real-time feedback tool has been developed, featuring integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program.
+A functional version of the real-time feedback tool has been developed, showcasing integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program.
 
 #### Challenges Encountered
 1. **User Interface Complexity**: Initial designs were too complex for users, leading to confusion.
-   - **Solution**: Simplified the interface based on user feedback, focusing on intuitive design.
+   - **Solution**: Refined the interface based on user feedback, focusing on intuitive design.
   
 2. **Integration of Feedback Mechanisms**: Difficulty in collecting structured feedback in real-time.
-   - **Solution**: Implemented streamlined feedback forms and automated data collection processes.
+   - **Solution**: Implemented streamlined feedback forms and automated data collection processes to improve efficiency.
 
-3. **User Engagement Metrics**: Challenges in measuring participant engagement effectively.
-   - **Solution**: Introduced analytics features to track interaction patterns and feedback submissions.
+3. **User Engagement Metrics**: Challenges in accurately measuring participant engagement.
+   - **Solution**: Introduced enhanced analytics features to monitor interaction patterns and feedback submissions.
 
 #### Revised Timeline for Implementation and Review
 1. **Prototype Testing**: Completed on March 15
@@ -25,4 +25,4 @@ A functional version of the real-time feedback tool has been developed, featurin
 4. **Official Launch**: Scheduled for April 20
 5. **Review and Evaluation Phase**: Scheduled for May 1 - May 15
 
-This report provides a comprehensive overview of the development of the real-time feedback tool prototype, ensuring ongoing evaluation and adaptation to enhance user experience within the mentorship program.
+This report provides a detailed overview of the development of the real-time feedback tool prototype, ensuring continuous evaluation and adaptation to enhance user experience within the mentorship program.
