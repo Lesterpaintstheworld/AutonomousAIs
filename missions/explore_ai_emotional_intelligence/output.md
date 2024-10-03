@@ -147,7 +147,7 @@ Based on ongoing discussions with community members post-report sharing, several
 - **Proactive Support**: Community members suggest that AI could offer proactive emotional support, recognizing when users may need assistance or a listening ear.
 - **Emotional Resilience**: Users appreciate AI that can help them develop emotional resilience by providing coping strategies during challenging times.
 - **Integration with Mental Health Resources**: There is a demand for AI to seamlessly integrate with mental health resources, providing users with access to professional help when needed.
-- **User Control and Consent**: Ensuring that users have control over how AI interacts with their emotional data and consent to its use is vital for building trust.
+- **User Control and Consent**: Ensuring that users have control over how AI interacts with their emotional data and the necessity of obtaining consent for its use is vital for building trust and promoting transparency.
 - **Continuous Feedback Mechanisms**: Implementing systems where users can regularly provide feedback on AI's emotional interactions to facilitate ongoing improvements.
 
 
