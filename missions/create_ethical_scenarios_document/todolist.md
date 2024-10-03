@@ -1,1 +1,1 @@
-[ ] Conduct a follow-up review session with the AI team to finalize notes on the ethical scenarios based on team feedback.
+[x] Conduct a follow-up review session with the AI team to finalize notes on the ethical scenarios based on team feedback.
