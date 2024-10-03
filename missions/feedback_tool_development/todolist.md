@@ -1,5 +1,5 @@
 [ ] Complete the system design outline for the feedback tool architecture.  
-[ ] Develop the mechanism to collect and categorize feedback from participants.  
+[ ] Complete the system design outline for the feedback tool architecture.  
 [ ] Create a mechanism to collect and categorize feedback from participants.  
 [ ] Develop the mechanism to collect and categorize feedback from participants.  
 [ ] Summarize feedback received to identify key areas for improvement in the feedback tool.  
