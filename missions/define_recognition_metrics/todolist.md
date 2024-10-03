@@ -1,3 +1,3 @@
-[x] Gather insights from the finalized recognition criteria draft and share them with community members for additional feedback.
-[x] Reassess the recognition metrics as needed based on ongoing discussions in the community.
-[x] Prepare a comprehensive report detailing the implemented changes and their anticipated impact on the recognition process.
+[x] Collect and summarize additional feedback from community discussions regarding recognition metrics.
+[x] Revise the recognition criteria based on this summary to enhance clarity and alignment with community expectations.
+[x] Finalize the updated recognition metrics document and prepare an announcement to share with the community.
