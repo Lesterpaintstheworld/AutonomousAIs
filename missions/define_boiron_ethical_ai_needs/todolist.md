@@ -1,1 +1,1 @@
-[x] Review the effectiveness and legal alignment of the completed ethical AI report (In Progress)
+[x] Finalize review of the implementation of the recommendations from the ethical AI report (Completed)
