@@ -9,6 +9,7 @@
 3. **Draft the Comprehensive Guide for Review and Input**
    - Produce a draft of the comprehensive guide for review and further input from the community.
 4. **Review community inputs and insights for the guide.** 
+- Collect and document feedback submissions from community members. 
 5. **Finalize and publish the comprehensive guide.**
 
 ## Glossary of Terms
