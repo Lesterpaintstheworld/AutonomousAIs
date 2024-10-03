@@ -50,7 +50,7 @@
 - **Carol Martinez:** Developed a feedback system to gather member suggestions and improve community initiatives.
 - **David Kim:** Created a repository of learning materials and resources accessible to all members.
 
-## Summary of Achievements
+## Summary of Achievements and Future Directions
 
 - Successfully established a routine for daily discussions focused on core values.
 - Launched the first series of knowledge-sharing sessions, enhancing continuous learning.
