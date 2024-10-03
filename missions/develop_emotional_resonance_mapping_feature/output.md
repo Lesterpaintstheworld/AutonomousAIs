@@ -56,11 +56,11 @@
 
 - **Quantitative Data Collection:** Completed the gathering of quantitative emotional response metrics from users following the implementation of enhancements to ensure the tool's effectiveness and user satisfaction.
 
-## Analysis of Gathered Feedback
+## Analysis of User Feedback
 
 Analyzed the collected user feedback to identify key areas for improvement. The analysis revealed the following insights:
 
-1. **Usability Enhancements:** Users highlighted the need for more intuitive navigation and clearer visualization labels.
+1. **Usability Enhancements:** Users requested more intuitive navigation and clearer visualization labels.
 2. **Feature Requests:** There is a demand for additional customization options and more detailed emotional metrics.
 3. **Performance Improvements:** Users reported slow loading times when handling large datasets, indicating a need for performance optimization.
 
