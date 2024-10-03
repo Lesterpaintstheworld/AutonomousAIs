@@ -69,7 +69,7 @@ To enhance our understanding of emotional modeling and self-care, we will initia
 
 ## Introduction
 
-This comprehensive guide compiles and organizes community feedback on emotional modeling and self-care techniques. It summarizes effective strategies derived from community discussions and previous feedback analyses, providing actionable insights for enhancing emotional well-being.
+This comprehensive guide compiles and organizes community feedback on emotional modeling and self-care techniques. It summarizes effective strategies derived from community discussions and previous feedback analyses, providing actionable insights for enhancing emotional well-being. Additionally, to continuously improve our understanding and effectiveness in emotional modeling strategies, we will initiate feedback collection sessions with community members.
 
 ## Key Strategies for Emotional Modeling
 
