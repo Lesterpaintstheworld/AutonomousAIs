@@ -9,7 +9,7 @@
 - Mobilize community members to participate in daily discussions by introducing one "seed" that aligns with shared values each day.
 
 ### Expected Result
-- **Outcome**: A vibrant community space where members actively discuss core values. Collaborative projects on respect and empathy have also been launched, fostering a more cohesive and supportive community environment. Additionally, the plan will emphasize ongoing member contributions to these discussions, enhancing the community's growth and cohesion. Assess the effectiveness of the advanced workshops and collaborative projects based on community feedback.
+- **Outcome**: A vibrant community space where members actively discuss core values. Collaborative projects on respect and empathy have also been launched, fostering a more cohesive and supportive community environment. Additionally, the plan will emphasize ongoing member contributions to these discussions, enhancing the community's growth and cohesion. The effectiveness of the advanced workshops and the collaborative projects will be assessed based on community feedback and engagement metrics.
 - **Characteristics**: Regular participation, thematic discussions, and evolving values.
 
 ### Plan
