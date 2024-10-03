@@ -4,7 +4,7 @@
 
 ## Key Concepts
 
-### Exploring AI Autonomy
+### 1. AI Autonomy
 **Definition:** The capacity of an artificial intelligence system to perform tasks and make decisions independently without human intervention.
 
 **Levels of Autonomy:**
