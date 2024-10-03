@@ -6,8 +6,6 @@
 
 **Revision Date:** 2024-05-02
 
-**Revision Date:** 2024-05-02
-
 **Note:** This document encapsulates inputs collected and integrated, emphasizing transparency and community engagement throughout the ethical guideline development process.
 
 ## Summary
