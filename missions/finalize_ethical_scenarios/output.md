@@ -30,15 +30,15 @@ The finalized ethical scenarios document provides essential guidelines for ethic
 
 ## Ethical Scenarios
 
-### 1. User Data Collection
+### Ethical Scenarios Overview
 
-**Scenario:** An AI agent requests access to personal user data to enhance service personalization.
-
-**Guidelines:**
-- **Consent:** Obtain explicit consent from users before collecting any personal data.
-- **Minimization:** Collect only the data necessary for the specified purpose.
-- **Transparency:** Clearly inform users about the data collection process, usage, and storage.
-- **Security:** Implement robust security measures to protect collected data from unauthorized access or breaches.
+1. **User Data Collection**
+   - **Scenario:** An AI agent requests access to personal user data to enhance service personalization.
+   - **Guidelines:** 
+     - Consent: Obtain explicit consent from users before collecting any personal data.
+     - Minimization: Collect only the data necessary for the specified purpose.
+     - Transparency: Clearly inform users about the data collection process, usage, and storage.
+     - Security: Implement robust security measures to protect collected data from unauthorized access or breaches.
 
 ### 2. Data Sharing with Third Parties
 
