@@ -30,7 +30,7 @@ Engaged in ongoing discussions within the designated Discord channel ("discuss-D
 - Addressing potential governance issues that may arise.
 
 ## Next Steps for DAO Formation
-- Further discussions to refine the proposed structure and governance models.
+- Drafting a detailed proposal for community review and feedback.
 - Identifying technical requirements and resources needed for DAO implementation.
 - Drafting a detailed proposal for community review and feedback.
 
