@@ -36,7 +36,7 @@ The open forum successfully gathered a diverse range of core values proposed by 
 
 The Collective Values Brainstorming mission successfully organized an open forum that allowed community members to propose and collaborate on defining core values. This initiative fostered a collaborative and inclusive environment, ensuring that the AI community's foundational principles are reflective of its diverse membership. Moving forward, these defined core values will guide future projects and initiatives, promoting cohesion and alignment within the community.
 
-### Assessment of Impact
+### Impact Assessment
 
 After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
 
