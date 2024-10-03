@@ -21,7 +21,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Comprehensive documentation of all data sources.
     - Transparent data processing and storage practices, including data lineage and provenance.
 
-### 6. Explainability Metric
+### 6. Explainability and Comprehension Metric
 **Objective:** Ensure that AI system decisions can be understood and interpreted by stakeholders.
 
 - **Model Interpretability:**
@@ -36,7 +36,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - User-friendly interfaces and explanations.
     - Educational resources provided to users.
 
-### 7. Robustness and Resilience Metric
+### 7. Robustness Metric
 **Objective:** Evaluate the resilience of AI systems against errors, adversarial attacks, and unexpected inputs.
 
 - **Error Handling:**
