@@ -41,7 +41,7 @@
 
 **Week 5:**
 - **Participation Rates**
-  - Week 5: 230 participants
+  - Week 6: 230 participants
 
 - **Feedback Scores**
   - Week 5: Average score of 4.9
