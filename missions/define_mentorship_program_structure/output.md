@@ -55,7 +55,7 @@ The finalized mentorship program structure has been established, providing an or
 
 #### Conclusion
 
-The finalized mentorship program is designed to provide structured, impactful, and inclusive support to mentees, leveraging community insights and proven best practices. The program framework includes clearly defined goals, roles, resources, and evaluation methods to ensure sustained success and adaptability.
+The finalized mentorship program structure has been established, providing an organized and impactful framework to support mentees while reflecting community insights and best practices. This framework includes well-defined goals, roles, necessary resources, and methods for evaluation to assure ongoing effectiveness and adaptability.
 
 #### Key Roles
 - **Mentors**: Seasoned professionals who provide insights, guidance, and support to mentees.
