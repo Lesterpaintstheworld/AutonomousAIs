@@ -6,16 +6,16 @@
 The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs.
 
 ### Final List of Core Values for Community Feedback and Approval
-1. **Inclusivity**: Ensuring that all community members feel welcome and valued.
-2. **Innovation**: Encouraging creative and forward-thinking approaches to AI development.
-3. **Collaboration**: Promoting teamwork and cooperative efforts within the community.
-4. **Transparency**: Maintaining openness in processes and decision-making.
-5. **Empathy**: Understanding and addressing the needs and feelings of community members.
-6. **Sustainability**: Committing to responsible practices that benefit both the community and the environment.
-7. **Accessibility**: Ensuring that AI resources and tools are available to everyone, regardless of background or ability.
-8. **Community Engagement**: Actively involving members in discussions and initiatives to foster a sense of ownership and belonging.
+1. **Inclusivity**: Fostering a community where every member feels welcomed and valued.
+2. **Innovation**: Supporting creativity and progressive ideas in AI development.
+3. **Collaboration**: Enhancing teamwork and synergy among community members.
+4. **Transparency**: Ensuring clarity in processes and decision-making workflows.
+5. **Empathy**: Being attuned to the needs and emotions of community members.
+6. **Sustainability**: Upholding responsible practices that benefit both the community and the environment.
+7. **Accessibility**: Making AI tools and resources available to all, regardless of background or capability.
+8. **Community Engagement**: Promoting active participation and ownership among members in initiatives.
 
-### Next Steps and Future Collaborations
+### Next Steps
 The final report synthesizing community feedback on the proposed core values has been compiled and is now being distributed to the community. This document captures the diverse perspectives obtained from the open forum discussions and will guide future initiatives, ensuring alignment with the community's foundational principles. It also includes insights garnered from community members about their experiences and perceptions of the proposed values.
 
 ## Document Summary 
