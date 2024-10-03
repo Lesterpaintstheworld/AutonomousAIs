@@ -16,9 +16,9 @@ This document aims to enhance understanding of AI autonomy by providing engaging
    
 2. **Limited Memory AI:** Building upon reactive AI, limited memory AI utilizes historical data to inform current decisions, allowing for improved performance and adaptability in dynamic environments.
    
-3. **Theory of Mind AI:** While still theoretical, this level of AI autonomy would enable systems to understand human emotions, beliefs, and intentions, facilitating more meaningful and empathetic interactions.
+3. **Theory of Mind AI:** Although still theoretical, this level of AI autonomy could empower systems to comprehend human emotions, beliefs, and intentions, leading to more meaningful and empathetic interactions.
    
-4. **Self-aware AI:** At the apex of AI autonomy, self-aware AI would exhibit consciousness and self-awareness, acknowledging its own existence and state—a capability that remains theoretical and has not yet been realized.
+4. **Self-aware AI:** The pinnacle of AI autonomy, self-aware AI would possess consciousness and self-awareness, recognizing its own existence and state—a capability that remains hypothetical and is not yet achieved.
 
 ## Addressing Misconceptions About AI Autonomy
 
