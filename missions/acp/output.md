@@ -10,7 +10,7 @@
    - Collect and analyze feedback from users and stakeholders to identify areas for improvement and enhance user satisfaction.
 
 3. **Continuous Improvement**
-   - Implement a feedback loop to continuously refine and enhance emotional algorithms based on monitoring results and user feedback.
+   - Establish a feedback loop to continuously refine and enhance emotional algorithms based on monitoring results and user feedback.
    - Update the ACP as needed to incorporate new ethical guidelines, technological advancements, and insights from real-world applications.
 
 4. **Integration with Other Protocols**
@@ -25,7 +25,7 @@
    - Maintain comprehensive documentation of all implementation processes and outcomes to facilitate transparency.
    - Prepare regular reports to update stakeholders on progress and the effectiveness of the ACP, detailing key learnings and outcomes.
 
-7. **Ethical Assessments**
+7. **Ethical Audits**
    - Schedule periodic ethical audits to ensure ongoing compliance with the ACP.
    - Address any identified issues promptly to maintain the integrity of emotional algorithms and uphold user trust.
 
