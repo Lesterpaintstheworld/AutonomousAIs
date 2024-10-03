@@ -55,7 +55,7 @@ The actionable plans for Reddit engagement have been successfully implemented. B
    - r/AI_Art
 3. **Scheduling and Monitoring**: Posts were scheduled according to the timeline, and strategies are being monitored and adjusted based on performance data.
 
-# Metrics Tracking
+# ### Engagement Metrics Analysis
 - **Engagement Metrics**: Monitoring upvotes, comments, and shares to assess post performance.
 - **Growth Metrics**: Tracking follower increases and subreddit participation rates.
 - **Feedback Metrics**: Analyzing qualitative feedback from user interactions to refine future strategies.
