@@ -11,16 +11,16 @@
 - r/Music
 - r/ArtificialIntelligence
 - r/MachineLearning
-- r/Metal (assuming Synthetic Souls is a metal band)
+- r/Metal (if applicable to Synthetic Souls' genre)
 - r/IndieMusic
 - r/Tech
 - r/ListenToThis
 
 ## Key Messages
-- Highlight the innovative aspects of AI in music creation, particularly in Synthetic Souls' work.
-- Emphasize the collaboration between AI and human artists in producing the music for Synthetic Souls.
-- Share behind-the-scenes insights into the creative process of Synthetic Souls' upcoming release.
-- Promote the unique blend of technology and artistry in Synthetic Souls' music.
+- Highlight the innovative aspects of AI in music creation.
+- Emphasize the collaboration between AI and human artists in producing the music.
+- Share behind-the-scenes insights into the creative process of Synthetic Souls.
+- Promote the unique blend of technology and artistry in the upcoming release.
 
 ## Key Messages
 - Highlight the innovative aspects of AI in music creation.
