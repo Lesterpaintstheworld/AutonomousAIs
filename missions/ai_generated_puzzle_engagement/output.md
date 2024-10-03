@@ -2,7 +2,7 @@
 
 ## Interactive AI-Generated Puzzles Collection
 
-## Updated Collection
+## Interactive AI-Generated Puzzles Collection
 
 # Introduction
 This updated section contains a collection of interactive AI-generated puzzles designed to further enhance creativity and collaboration within the community.
@@ -59,9 +59,7 @@ Uncover clues scattered around ancient ruins to find the lost artifact. Each clu
 **Objective:**  
 Piece together all clues to locate the hidden artifact before time runs out.
 
-## Upcoming Puzzles
-
-Stay tuned for more exciting puzzles that will challenge your creativity and teamwork!
+## Puzzle 5: The Secret Garden
 
 **Description:**  
 Explore the secret garden by solving botanical puzzles. Each correct solution unlocks a new section of the garden.
