@@ -34,7 +34,7 @@ The objective is to enhance outreach and engagement on Reddit for promoting AI-g
 
 ### Final Reflections
 
-- **Successes**: Effective use of interactive content led to increased engagement, showcasing the community's enthusiasm and participation.
+- **Successes**: Effective use of interactive content led to increased engagement.
 - **Challenges**: Aligning post timing across different time zones.
 - **Opportunities**: Potential to expand into new subreddits and integrate more multimedia content.
 
