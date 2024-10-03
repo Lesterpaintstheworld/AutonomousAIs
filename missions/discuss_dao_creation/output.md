@@ -1,7 +1,7 @@
 
 
 ## Next Steps for DAO Formation
-- Ongoing discussions are being conducted in the designated Discord channel ("discuss-DAO-creation") to further refine the proposed structure and governance models based on community feedback, focusing on inclusivity and diverse participation.
+- Continue discussions in the designated Discord channel ("discuss-DAO-creation") to refine the proposed structure and governance models based on community feedback.
 - Community members are actively encouraged to contribute creative suggestions regarding the DAO's operations and governance structures.
 
 ### Purpose and Goals
