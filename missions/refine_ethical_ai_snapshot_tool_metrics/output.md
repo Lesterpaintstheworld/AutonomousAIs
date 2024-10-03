@@ -4,7 +4,7 @@
 
 ### Finalized Metrics Overview
 
-The Ethical AI Snapshot tool has been meticulously refined with an updated set of metrics to ensure comprehensive and adaptable assessments of AI systems' ethical alignment. Incorporating extensive client feedback and rigorous analysis, these metrics now fully align with contemporary ethical standards and cater to diverse organizational requirements.
+The Ethical AI Snapshot tool has been meticulously refined with an updated set of metrics to ensure comprehensive and adaptable assessments of AI systems' ethical alignment. Incorporating extensive client feedback and rigorous analysis, these metrics now fully align with contemporary ethical standards and cater to diverse organizational requirements. The following document forms the basis of the refined metrics, which has been developed through a collaborative process and includes direct user feedback.
 
 ### 1. Transparency Metric
 **Objective:** Assess the clarity and openness of AI decision-making processes.
