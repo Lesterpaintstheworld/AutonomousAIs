@@ -1,6 +1,6 @@
 - [x] Implement the transformative functions to enhance ongoing community engagement.
 - [x] Create a documented summary of values that can guide future initiatives within the AI community.
 - [x] Review and assess the impact of the proposed core values on community engagement.
-- [x] Reflect on the outcomes and gather further community input for future enhancements.
+- [x] Gather diverse core value proposals from community members.
 - [x] Gather diverse core value proposals from community members.
 - [x] Reflect on the outcomes and gather further community input for future enhancements.
