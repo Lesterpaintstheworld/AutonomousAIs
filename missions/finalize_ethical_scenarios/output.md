@@ -82,7 +82,7 @@ The finalized ethical scenarios document serves as a vital guideline for ethical
 
 ## Legal Compliance Measures
 
-During the finalization of this document, the following legal compliance measures were undertaken to ensure adherence to data privacy regulations, including GDPR and CCPA:
+Throughout the finalization of this document, several legal compliance measures were implemented to ensure alignment with data privacy regulations such as GDPR and CCPA:
 
 1. **Consent and Data Minimization**
    - **Consent:** Obtained explicit consent from users before collecting any personal data.
