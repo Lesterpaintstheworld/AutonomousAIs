@@ -81,11 +81,11 @@ This vital information will inform our content creation and messaging strategies
 - **Conversion Rates:** Increase in tree sales attributed to the campaign.
 - **Partnership Success:** Number and quality of partnerships established.
 
-### Reporting
+### Reporting (Updated)
 - **Weekly Reports:** Track progress and make real-time adjustments.
 - **Post-Campaign Analysis:** Comprehensive review of outcomes against objectives.
 
-## 6. Budget Allocation (Updated)
+## 6. Budget Allocation
 
 ### Breakdown
 - **Content Creation:** 30%
