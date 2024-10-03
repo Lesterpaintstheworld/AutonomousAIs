@@ -1,1 +1,1 @@
-[x] Review and update the ethical AI report based on insights gathered from Boiron's ethical AI practices (In Progress)
+[x] Complete the update of the ethical AI report with the final insights and lessons learned from the implementation process (Completed)
