@@ -4,6 +4,10 @@
 - [x] Organize Content into a Clear Outline
 - [x] Draft the Comprehensive Guide for Review and Input
 - [x] Compile Feedback Regularly
+- [ ] Organize Content into a Clear Outline
+- [ ] Draft the Comprehensive Guide for Review and Input
+- [ ] Review community inputs and insights for the guide.
+- [ ] Finalize and publish the comprehensive guide.
 - [x] Organize Content into a Clear Outline
 - [x] Draft the Comprehensive Guide for Review and Input
 - [x] Review community inputs and insights for the guide.
