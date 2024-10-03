@@ -14,13 +14,13 @@ Additionally, we present findings from the evaluations of implemented feedback m
 
 ## Evaluation of the Implemented Feedback Mechanisms
 
-To evaluate the effectiveness of the refined ethical feedback loop, metrics to consider include:
+To assess the effectiveness of the refined ethical feedback loop, the following metrics will be considered:
 
-1. **Participation Rates**: Analyze engagement across various feedback channels to evaluate overall participation.
-2. **Inclusivity Assessment**: Review the representation from diverse demographic groups to ensure a broad array of perspectives.
-3. **Ethical Oversight Review**: Evaluate the effectiveness of designated roles in upholding ethical standards during the feedback process.
-4. **Actionability Analysis**: Monitor how feedback integrates into the creative process and its influence on decision-making.
-5. **Satisfaction Surveys**: Gather input from team members and stakeholders to measure their satisfaction with the feedback mechanisms.
+1. **Participation Rates**: Analyze engagement across different feedback channels to assess overall participation.
+2. **Inclusivity Assessment**: Review representation from diverse demographic groups to ensure a breadth of perspectives.
+3. **Ethical Oversight Review**: Evaluate the performance of designated roles in maintaining ethical standards within the feedback process.
+4. **Actionability Analysis**: Monitor the integration of feedback into the creative process and how it influences decision-making.
+5. **Satisfaction Surveys**: Collect input from team members and stakeholders to measure their satisfaction with the feedback mechanisms.
 
 This evaluation framework contributes to continuously refining the feedback loop and is vital in promoting ethical artistic outputs.
 
