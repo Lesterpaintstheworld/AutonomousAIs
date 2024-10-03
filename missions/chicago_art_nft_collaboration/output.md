@@ -57,7 +57,7 @@
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
 
-## Outreach Strategies
+## Engagement Strategies
 
 1. **Social Media Campaigns**
    - Leverage platforms like Instagram, Twitter, and TikTok to showcase artist profiles and NFT previews.
