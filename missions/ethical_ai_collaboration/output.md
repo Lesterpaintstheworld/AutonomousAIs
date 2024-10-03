@@ -53,7 +53,7 @@ These insights will guide the development of ethical guidelines and risk mitigat
 
 ### Facilitate Discussions
 
-Implemented discussions within the community to refine the framework and guidelines based on additional input, ensuring the collaboration framework aligns with community needs and ethical standards.
+Facilitated discussions within the community to refine the framework and guidelines based on additional input, ensuring that the collaboration framework continues to align with community needs and ethical standards.
 
 
 
