@@ -1,1 +1,1 @@
-[x] Prepare a final summary report on the ethical scenarios highlighting key findings and recommendations for AI system design.
+[ ] Review the final summary report on the ethical scenarios highlighting key findings and recommendations for AI system design.
