@@ -80,7 +80,7 @@ These additional scenarios further refine the AI's ethical decision-making capab
 
 ## Monitoring and Evaluation
 
-Monitoring and evaluation of implemented project proposals will begin to assess effectiveness and gather feedback for continuous improvement. We will implement strategies such as collecting user feedback, analyzing decision-making outcomes, and iterating scenarios based on insights gained.
+We will begin monitoring and evaluating implemented project proposals to assess effectiveness and gather feedback for continuous improvement. This includes collecting user feedback, analyzing decision-making outcomes, and iterating scenarios based on insights gained in relation to the AI's ethical decision-making capabilities.
 
 ## New Project Proposals
 
