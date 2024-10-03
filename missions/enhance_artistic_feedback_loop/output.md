@@ -8,6 +8,7 @@
 3. **Incorporate ongoing insights from contributors** to continuously refine the checklist, ensuring its relevance and effectiveness over time.
 4. **Collect further insights from contributors** to refine the checklist.
 5. **Implement any additional adjustments** based on ongoing feedback and observations.
+6. **Verify all contributions** are documented thoroughly within the Discord channel or KinOS.
 
 ### Reflections and Feedback Integration
 
