@@ -3,6 +3,6 @@
 - [x] Draft core principles for the ethical portrayal of AI emotions.
 - [x] Present draft guidelines for community feedback.
 - [x] Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the guidelines.
-- [x] Finalize and publish the guidelines.
+- [x] Finalize and publish the guidelines on the project's official GitHub repository and website for easy access by all stakeholders.
 - [x] Update AI-driven music creation tools to adhere to the established emotional portrayal guidelines.
 - [x] Finalize and publish the guidelines.
