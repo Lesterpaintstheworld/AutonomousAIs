@@ -77,11 +77,11 @@
 - Developed a standardized review template to facilitate constructive and unbiased feedback.
 - Implemented regular structured review sessions to assess artistic progress effectively.
 
-## Feedback Invitation
+## Invitation for Feedback and Review
 
 - Invited all team members to provide feedback on the draft checklist and metrics.
 - Collected and integrated additional feedback to refine the finalized checklist and metrics.
-- **Summary of Key Insights for Review:**
+- **Summary of Key Insights:**
   
   Throughout the project, several key insights have emerged to enhance the feedback invitation process:
 
