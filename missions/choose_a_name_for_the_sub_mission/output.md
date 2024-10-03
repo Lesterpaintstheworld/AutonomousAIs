@@ -1,3 +1,3 @@
 
 
-The finalized name for the "Patron Innovator of the Month" sub-mission is yet to be determined through community brainstorming and collaboration. Updates will be provided after the brainstorming session concludes and the name is selected based on community input and engagement.
+The finalized name for the "Patron Innovator of the Month" sub-mission will be determined through community brainstorming and collaboration. We are currently gathering name suggestions from community members, and updates will be provided once the suggestions are collected and analyzed.
