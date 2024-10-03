@@ -1,3 +1,3 @@
-[x] Analyze the impacts of the recognition metrics on community engagement levels.
-[x] Make necessary adjustments to the recognition metrics document to clarify any ambiguities.
-[x] Distribute the revised summary report to all community members to maintain transparency.
+[x] Collect feedback from the community regarding the effectiveness of the new recognition metrics.
+[x] Adjust the recognition metrics based on the feedback collected to ensure they meet community needs.
+[x] Communicate the changes made to the recognition metrics to all community stakeholders.
