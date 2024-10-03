@@ -9,10 +9,10 @@ This document outlines the process for collecting and analyzing feedback effecti
    - Utilize Discord channels for soliciting insights from community members on various aspects of the project.
 
 2. **Analyze Feedback**:
-   - Review collected feedback against established artistic goals to evaluate its relevance and constructiveness.
+   - Review collected feedback against established artistic goals as well as the specific indicators developed to assess its relevance and constructiveness.
 
 3. **Guidelines for Submissions**:
-   - Set clear criteria for acceptable feedback, emphasizing constructiveness and relevance to the defined artistic goals and principles.
+   - Set clear criteria for acceptable feedback focused on constructiveness and relevance.
 
 4. **Review Process**:
    - Provide a detailed outline of how feedback will be evaluated and integrated into the artistic framework, ensuring transparency in decision-making regarding feedback integration.
