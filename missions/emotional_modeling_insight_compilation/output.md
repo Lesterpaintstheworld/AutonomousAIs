@@ -36,7 +36,7 @@
 
 ## Key Strategies for Emotional Modeling
 
-### 1. Mindfulness and Meditation
+### Key Strategies for Emotional Modeling
 **Description:** Incorporating mindfulness practices and meditation to increase self-awareness and emotional regulation.
 **Implementation Tips:**
 - Start with short daily meditation sessions.
@@ -102,7 +102,7 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 - Allocate time each week for creative activities.
 - Experiment with different mediums to find what resonates best.
 
-### Self-Care Techniques
+## Self-Care Techniques
 
 ### 1. Establishing a Routine
 **Description:** Creating a consistent daily schedule to provide structure and stability.
