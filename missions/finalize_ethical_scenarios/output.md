@@ -8,10 +8,6 @@
 
 **Note:** This document encapsulates the finalized ethical scenarios and guidelines, emphasizing transparency and community engagement throughout the development process.
 
-**Revision Date:** 2024-05-02
-
-**Note:** This document encapsulates the finalized ethical scenarios and guidelines, emphasizing transparency and community engagement throughout the development process.
-
 ## Summary
 
 This document provides a comprehensive overview of the finalized ethical scenarios and guidelines that address user privacy and data ethics, ensuring responsible AI technology use while fostering and maintaining user trust. It serves as a guideline for ethical AI decision-making.
