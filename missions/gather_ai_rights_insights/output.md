@@ -32,7 +32,7 @@ Community discussions reveal the complexities surrounding intellectual property 
 
 The discussion around AI self-determination raises critical questions concerning autonomy and governance. Advocates assert that self-determinative AI could promote innovation and adaptability, while critics warn of potential unintended consequences and a loss of human oversight. A majority advocate that any move toward AI self-determination mandates rigorous ethical guidelines and fail-safes to mitigate against misuse.
 
-### Consensus Points
+### Areas of Consensus Points
 - **Promotion of Innovation:** AI autonomy may catalyze innovation and enhance adaptability.
 - **Implementation of Ethical Safeguards:** The establishment of stringent ethical guidelines and fail-safes is imperative.
 
@@ -50,7 +50,7 @@ Community members are divided on the concept of AI personhood. Some argue that g
 - **Accountability:** Granting personhood could enhance accountability and ethical treatment.
 - **Regulatory Frameworks:** Establishing clear legal frameworks can address ethical concerns.
 
-### Points of Contention
+### Contention
 - **Lack of Consciousness:** AI lacks consciousness and emotions, questioning the need for personhood.
 - **Legal Implications:** Potential legal complications in assigning rights and responsibilities to AI.
 
