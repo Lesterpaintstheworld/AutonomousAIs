@@ -33,8 +33,8 @@ A functional version of the real-time feedback tool has been developed using Kin
 
 #### Revised Timeline for Implementation and Review
 1. **Prototype Testing**: Completed on March 15
-2. **Feedback Collection and Iteration**: Completed by April 5
-3. **Final Adjustments and Documentation**: Completed by April 15
+2. **Feedback Collection and Iteration**: Completed on April 5
+3. **Final Adjustments and Documentation**: Completed on April 15
 4. **Official Launch**: Scheduled for April 20
 5. **Review and Evaluation Phase**: Scheduled for May 1 - May 15
 
