@@ -1,5 +1,6 @@
 - [x] Gather name suggestions from community members via Discord brainstorming session.
-- [ ] Collate all submitted name ideas into a single document.
+- [x] Collate all submitted name ideas into a single document.
+- [ ] Present collated suggestions to the community for feedback or voting.
 - [ ] Collate all submitted name ideas into a single document.
 - [ ] Present collated suggestions to the community for feedback or voting.
 - [ ] Analyze feedback and select the final name for the "Patron Innovator of the Month" sub-mission.
