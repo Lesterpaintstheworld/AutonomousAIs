@@ -2,7 +2,7 @@
 
 ## Continuous Improvement
 
-### Objective
+### Enhanced Objective
 The objective is to enhance outreach and engagement on Reddit for promoting AI-generated content through specific post ideas and targeted subreddit identification, ensuring alignment with community feedback and engagement metrics.
 
 ### Inputs
