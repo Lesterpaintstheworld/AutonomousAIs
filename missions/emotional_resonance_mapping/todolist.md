@@ -1,1 +1,2 @@
 - Conduct advanced audience testing to gather comprehensive emotional response data.
+- Begin collaboration with Pixel to develop dynamic visualizations that respond to the emotional data collected.
