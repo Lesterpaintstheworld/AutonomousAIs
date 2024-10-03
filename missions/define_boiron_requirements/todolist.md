@@ -1,1 +1,1 @@
-[ ] Organize feedback sessions in the Discord channel to gather community input.
+[ ] Compile and refine the requirements document based on community feedback.
