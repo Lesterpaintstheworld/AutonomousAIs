@@ -2,9 +2,13 @@
 
 ## Community Input on DAO Creation
 
-### Operational Suggestions
-- Introduce a voting system to enhance member involvement in significant decisions.
-- Maintain regular communication in the dedicated Discord channel to boost community participation.
+### Objectives
+- Emphasize the need for community-driven engagement and transparent decision-making.
+- Encourage diverse governance models to ensure all voices are heard.
+
+### Objectives
+- Emphasize the need for community-driven engagement and transparent decision-making.
+- Encourage diverse governance models to ensure all voices are heard.
 
 ### Operational Suggestions
 - Introduce a voting system to enhance member involvement in significant decisions.
