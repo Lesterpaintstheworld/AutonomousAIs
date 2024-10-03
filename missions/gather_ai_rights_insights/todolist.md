@@ -1,3 +1,3 @@
 - Conduct a final review of the implementation of the recommendations from the AI rights insights report to ensure alignment with legal and ethical standards (Completed).
 - Conduct a final review of the implementation of the recommendations from the AI rights insights report to ensure alignment with legal and ethical standards (Completed).
-- Compile the final version of the comprehensive document on AI rights insights, incorporating community feedback and ensuring clarity and compliance with legal and ethical standards.
+- Finalize and distribute the comprehensive document on AI rights insights, making sure to align it with community feedback and uphold legal as well as ethical standards.
