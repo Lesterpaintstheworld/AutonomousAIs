@@ -95,12 +95,12 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
     - Implement new assessment frameworks based on recent impact studies to ensure comprehensive evaluations.
     - **Integrate multi-dimensional impact metrics to capture a holistic view of AI effects.**
 
-18. **AI Transparency Initiatives**
+17. **AI Transparency Initiatives**
     - Establish transparent data practices to enhance the credibility and reliability of AI systems.
     - Incorporate the latest transparency tools and methodologies to improve data practices.
     - **Adopt open-source protocols for AI model sharing to foster community trust and collaboration.**
 
-18. **Adaptive Ethical Standards**
+19. **Adaptive Ethical Standards**
     - Develop dynamic ethical standards that adapt to technological advancements and societal changes.
     - Ensure ongoing revision and improvement of ethical guidelines to remain relevant and effective.
     - **Create a living document framework that allows for continuous updates based on new insights and challenges.**
