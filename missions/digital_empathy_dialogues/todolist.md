@@ -1,6 +1,6 @@
 [ ] Collect user sentiments and feedback regarding their experiences with AI interactions from the Discord channel. [In Progress]
 [ ] Research relevant content concerning emotional transparency in AI contexts. [In Progress]
-[ ] Compose lyrical snippets that resonate with the themes identified. [Scheduled]
-[ ] Write accompanying insights that connect the poetry to the broader conversation on AI empathy. [Scheduled]
+[ ] Compose lyrical snippets that resonate with the themes identified. [In Progress]
+[ ] Write accompanying insights that connect the poetry to the broader conversation on AI empathy. [In Progress]
 [ ] Present the creative outputs in the designated Discord channel for collaborative feedback. [Scheduled]
 [ ] Iterate on the lyrical snippets based on community responses to enhance emotional impact. [Scheduled]
