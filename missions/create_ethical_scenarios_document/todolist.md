@@ -1,1 +1,1 @@
-[x] Finalize the ethical scenarios document and ensure it is distributed to all team members for feedback.
+[ ] Create a feedback mechanism for team members to provide input on the ethical scenarios document.
