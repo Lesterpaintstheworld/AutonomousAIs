@@ -174,14 +174,14 @@ The refined metrics for the Ethical AI Snapshot tool provide a robust and flexib
 
 ## Summary Reports
 
-### Compiled Summary of User Feedback
+### Compiled and Analyzed Summary of User Feedback
 Based on the user feedback collected from Discord discussions, the following key points have been identified:
 
 - **Transparency Enhancements:** Users have requested more detailed explanations of how ethical metrics are calculated to ensure trustworthiness.
 - **Customization Needs:** There is a strong demand for the ability to tailor ethical parameters to match specific organizational values and industry standards.
 - **Documentation Improvements:** Users have suggested the development of comprehensive guides and tutorials to facilitate effective use and customization of the Ethical AI Snapshot tool.
 
-### Suggested and Proposed Enhancements to Metrics
+### Proposed Changes to Metrics
 In response to the user feedback and client needs, the following changes to the metrics have been proposed:
 
 1. **Enhanced Algorithmic Transparency:** 
