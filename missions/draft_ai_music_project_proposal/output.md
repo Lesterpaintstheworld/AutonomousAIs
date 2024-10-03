@@ -108,7 +108,7 @@ To foster a successful partnership between AI systems and human collaborators, i
 
 By implementing these training programs, we aim to enhance the synergistic potential of AI-human collaboration in the music domain.
 
-This project aims to pioneer the harmonious integration of AI into the music creation process, balancing innovation with ethical responsibility. By fostering a collaborative environment where AI and humans complement each other's strengths, the initiative seeks to redefine the boundaries of musical creativity and reshape the future of the music industry.
+The AI Music Project aims to integrate artificial intelligence into the music creation process, fostering collaboration between AI systems and human musicians. This project seeks to explore the creative potentials of AI, address ethical considerations, and establish effective methodologies for AI-human cooperation in the music industry.
 
 ## 6. Lessons Learned and Feedback
 
