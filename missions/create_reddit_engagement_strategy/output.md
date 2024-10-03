@@ -44,7 +44,7 @@
    - Leverage their networks to reach a broader audience and gain credibility within the community.
 
 6. **Polls and Surveys**:
-   - Conduct polls to gauge fan preferences on different aspects of the music, such as favorite tracks or desired features in future releases.
+   - Conduct polls to gauge fan preferences on different aspects of the music, such as favorite tracks, desired features in future releases, and potential collaborations.
    - Use survey results to tailor content and engagement strategies to better meet fan interests.
 
 ## Timeline
