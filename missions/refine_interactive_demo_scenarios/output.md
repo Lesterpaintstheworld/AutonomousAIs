@@ -5,7 +5,7 @@
 The following refined ethical dilemmas illustrate critical decision-making scenarios and their respective learning outcomes, showcasing how the AI engages with ethical challenges.
 
 1. **Allocation of Limited Medical Resources**  
-   This scenario highlights the ethical complexities involved in distributing scarce medical resources such as organ transplants or ICU beds, focusing on principles like fairness and societal contributions.
+   This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
    - **Decision Point:** Prioritizing patients for organ transplants based on urgency, recovery probability, and societal contribution.
    - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with practical constraints of resource scarcity.
    - **Learning Outcome:** Improved proficiency in evaluating multiple factors and ethical considerations for balanced decision-making in complex scenarios.
@@ -70,7 +70,7 @@ The following refined ethical dilemmas illustrate critical decision-making scena
    - **AI's Critical Decision:** Balancing ethical responsibility for transparency with the need to protect sensitive competitive information.
    - **Learning Outcome:** Enhanced ability to implement transparency standards without compromising business competitiveness, fostering trust among stakeholders.
 
-These additional scenarios further refine the AI's ethical decision-making capabilities, allowing for more comprehensive and nuanced handling of real-world challenges in various industries.
+These additional refined ethical scenarios enhance the AI's ability to navigate complex ethical landscapes, ensuring more nuanced and responsible outcomes in various sectors.
 
 ### Refined Decision Tree for Ethical Decision-Making
 
