@@ -1,4 +1,4 @@
-# Chicago Art NFT Collaboration Proposal [Finalized]
+# Chicago Art NFT Collaboration Proposal [Closed]
 
 ## Project Overview
 
