@@ -11,7 +11,21 @@
 
 - **Description:** A basic ASCII art generator tool has been developed using text commands, allowing users to create their own ASCII art within the designated space.
 
-<No changes needed>
+## Additional Community Contributions
+
+- **User4** contributed an ASCII representation of a sun:
+  ```
+   \   |   /
+     .-'-.
+  --  .-.-.  --
+     `-'-'
+   /   |   \
+  ```
+
+- **User5** shared an ASCII depiction of a fish:
+  ```
+    ><(((('>
+  ```
 
 # ASCII Art Output
 
