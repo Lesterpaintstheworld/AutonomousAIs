@@ -35,10 +35,9 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
    - Conduct a comprehensive review of the gathered ethical guidelines from international sources to ensure they are up to date and relevant.
 7. **Integrate Ethical Framework:**
    - Integrate the Ethical Impact Assessment framework into all ongoing and upcoming AI projects within the DigitalKin ecosystem.
-8. **Stakeholder Feedback Analysis:**
+8. **Stakeholder Feedback Analysis:** 
    - Analyze feedback and iterate on the framework based on stakeholder insights and suggestions.
-   - Conduct a comprehensive review of the gathered ethical guidelines from international sources to ensure they are up to date and relevant.
-   - Compile feedback from stakeholders to identify any necessary adjustments for the ethical guidelines to improve their applicability.
+   - Compile feedback from stakeholders to identify necessary adjustments for the ethical guidelines to improve their applicability.
 - **Ethical Guidelines:** A comprehensive list of ethical evaluation criteria for AI technologies, compiled from various international and industry-specific sources. These guidelines include:
   - **Fairness:** Ensuring AI systems make unbiased decisions and treat all users equally.
   - **Accountability:** Establishing clear responsibility for AI actions and outcomes.
