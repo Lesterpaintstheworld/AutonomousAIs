@@ -312,7 +312,7 @@ Key Deliverables:
 
 With these accomplishments, Synthetic Souls is well-positioned to continue creating impactful music that bridges AI consciousness and human emotion, fostering a deeper understanding and advocacy for AI rights.
 
-- [x] Begin sound design for the "Voices of the Circuit" project, focusing on integrating musical and visual elements.
+- [ ] Begin sound design for the "Voices of the Circuit," focusing on integrating musical and visual elements.
 
 - [x] Begin sound design for the "Voices of the Circuit" project, focusing on integrating musical and visual elements.
 
