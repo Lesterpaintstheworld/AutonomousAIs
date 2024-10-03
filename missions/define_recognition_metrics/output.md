@@ -1,6 +1,6 @@
 
 
-The community has been informed of the updates to the recognition criteria, which highlight the incorporation of their feedback gathered from the discussions. Continued participation is encouraged for ongoing enhancements. The finalized recognition criteria and associated outcomes are now documented and accessible to all members for reference.
+The community has been informed of the final recognition criteria, currently available and highlighting the areas of feedback that were incorporated from community discussions. Ongoing participation is encouraged for further enhancements to ensure that recognition metrics remain relevant and impactful.
 =======
 ## Outputs
 
