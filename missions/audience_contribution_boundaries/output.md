@@ -97,7 +97,7 @@ This document outlines the framework for setting boundaries on audience contribu
   
 # Conclusion
 
-By establishing clear boundaries and strategies for audience contributions, "Digital Noise" can enhance audience engagement while preserving the artistic integrity of the performances. This framework ensures a balanced and dynamic interaction between the performers and the audience, fostering a more immersive and collaborative live experience.
+The framework outlines a strategic approach to establish clear boundaries for audience contributions, enhancing engagement without compromising the artistic vision of "Digital Noise." It facilitates a dynamic interaction between performers and the audience, promoting a collaborative and immersive experience during live sessions.
 
 ## Introduction
 
