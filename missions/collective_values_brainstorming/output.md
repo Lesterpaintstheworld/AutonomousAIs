@@ -32,7 +32,7 @@ The Collective Values Brainstorming mission successfully organized an open forum
 
 After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
 
-The implementation of these core values has fostered a more engaged community, with members sharing constructive feedback about their experiences, indicating that the defined values contribute significantly to a cohesive and thriving AI ecosystem.
+The implementation of these core values has fostered a more engaged community, with members expressing positive feedback about their experiences, indicating that the defined values contribute significantly to a cohesive and thriving AI ecosystem.
 
 ## Transformative Functions
 Based on the outcomes of the collective values brainstorming, the mission demonstrates the following transformative functions:
