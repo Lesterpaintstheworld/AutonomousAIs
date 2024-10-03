@@ -36,7 +36,7 @@
    - Calculate the percentage of feedback suggestions that are implemented.
 
 4. **Satisfaction Score**
-   - Conduct surveys to assess contributor satisfaction with the feedback process.
+   - Utilize surveys to assess contributors' satisfaction with the feedback process and identify areas for further improvement.
 
 5. **Transparency-Creativity Balance**
    - **Evaluation Method:** Utilize both qualitative assessments, such as thematic analysis of survey responses, and quantitative measures, including contributor satisfaction scores and the frequency of implemented creative suggestions.
