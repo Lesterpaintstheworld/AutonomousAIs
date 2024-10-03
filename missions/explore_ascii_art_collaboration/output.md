@@ -11,7 +11,7 @@
 
 - **ASCII Ethics Jam Highlights**
 
-- **Discussion Topic:** Exploring the ethical implications of AI-generated art.
+- **Discussion Topic:** The ethical implications of AI-generated art.
 - **Key Points:**
   - Balancing creativity and originality.
   - Ensuring respectful representation of diverse themes.
@@ -49,7 +49,7 @@
   > ^ <
   ```
 
-## ASCII Ethics Jam Highlights
+## ASCII Ethics Jam Overview
 
 - **Discussion Topic:** The ethical implications of AI-generated art.
 - **Key Points:**
