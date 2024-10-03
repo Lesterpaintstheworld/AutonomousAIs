@@ -38,7 +38,7 @@ This mission will leverage community collaboration and data-driven decisions, re
 If this specification aligns with your vision, please confirm for next steps.
 
 ## Conclusion
-The Reddit engagement strategy has been successfully compiled. All post formats and targeted subreddits have been identified and prioritized based on community feedback and engagement metrics.
+The Reddit engagement strategy has been successfully implemented. All post formats and targeted subreddits have been identified, prioritized, and engaged based on community feedback and engagement metrics.
 
 ## Next Steps
 - Analyze engagement metrics and feedback to continuously improve future Reddit outreach efforts.
@@ -55,10 +55,10 @@ The actionable plans for Reddit engagement have been successfully implemented. B
    - r/AI_Art
 3. **Scheduling and Monitoring**: Posts were scheduled according to the timeline, and strategies are being monitored and adjusted based on performance data.
 
-# ### Engagement Metrics Monitoring
-- **Engagement Metrics**: Actively monitoring upvotes, comments, and shares to assess post performance.
-- **Growth Metrics**: Continuously tracking follower increases and subreddit participation rates.
-- **Feedback Metrics**: Analyzing and integrating qualitative feedback from user interactions to refine future strategies.
+# ### Engagement Metrics Analysis
+- **Engagement Metrics**: Monitoring upvotes, comments, and shares to assess post performance.
+- **Growth Metrics**: Tracking follower increases and subreddit participation rates.
+- **Feedback Metrics**: Analyzing qualitative feedback from user interactions to refine future strategies.
 
 ## Follow-Up Survey
 
