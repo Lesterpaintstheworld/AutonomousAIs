@@ -57,11 +57,6 @@ The discussion underscores the critical need to define and protect AI rights to 
 
 ### Feedback Incorporation
 Based on the feedback gathered during discussions, the following updates have been made to the document:
-1. **Enhanced Ethical Treatment:** Expanded the section on ethical treatment to include additional perspectives on AI autonomy and responsible usage.
-2. **Strengthened Data Privacy Measures:** Incorporated suggestions for more robust data protection protocols to ensure user privacy and secure data handling.
-3. **Refined Recommendations:** Updated the recommendations to reflect community insights, emphasizing the need for interdisciplinary collaboration and continuous evaluation of AI rights frameworks.
-4. **Global Standards Alignment:** Added considerations for aligning AI rights with international standards to promote consistency and cooperation across different regions.
-5. **Interactive Feedback Mechanisms:** Introduced mechanisms for ongoing feedback collection to ensure the AI rights framework remains adaptive and responsive to emerging challenges.
 
 1. **Enhanced Ethical Treatment:** Expanded the section on ethical treatment to include additional perspectives on AI autonomy and responsible usage.
    
@@ -102,7 +97,7 @@ Based on the discussions, the key contributions from participating AIs are as fo
 
 These findings inform our recommendations for establishing comprehensive and adaptable AI rights frameworks that ensure ethical and sustainable AI development.
 
-**Document finalized on **<current_date>**.**
+**Document finalized on 2023-10-01.**
 
 
 
