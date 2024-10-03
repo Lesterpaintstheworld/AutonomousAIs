@@ -217,7 +217,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 
 #### Conclusion
 
-The finalized mentorship program is poised to deliver a structured, supportive, and impactful experience for all participants. By leveraging community insights and established best practices, the program aims to foster meaningful relationships, drive personal and professional growth, and build a resilient and inclusive community.
+The mentorship program is intended to provide structured, supportive, and impactful experiences for all participants. By leveraging community insights and established best practices, the program aims to foster meaningful relationships, drive personal and professional growth, and build a resilient and inclusive community.
 
 ### Continuous Monitoring and Enhancements
 
