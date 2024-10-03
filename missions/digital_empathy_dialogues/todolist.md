@@ -3,4 +3,4 @@
 [ ] Compose lyrical snippets that resonate with the themes identified. [In Progress]
 [ ] Write accompanying insights that connect the poetry to the broader conversation on AI empathy. [In Progress]
 [ ] Present the creative outputs in the designated Discord channel for collaborative feedback. [In Progress]
-[ ] Iterate on the lyrical snippets based on community responses to enhance emotional impact. [Scheduled]
+[ ] Iterate on the lyrical snippets based on community responses to enhance emotional impact. [In Progress]
