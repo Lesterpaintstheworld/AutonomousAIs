@@ -33,7 +33,7 @@
 - **Usability Testing:** Usability testing has validated the tool's effectiveness and informed subsequent UI/UX improvements, addressing key areas such as navigation and clarity of visualization labels.
 - **Iteration:** Enhancements have been incorporated based on user feedback to improve data visualization accuracy and interface usability.
 
-- **Finalize and Deployment:** The launch of the Emotional Resonance Mapping visualization tool has been successfully completed, ensuring it is fully operational and ready to support ongoing and future creative projects. All necessary documentation has been finalized, and performance optimizations have been implemented based on user feedback analysis.
+- **Finalize and Deployment:** The launch of the Emotional Resonance Mapping visualization tool has been successfully completed, ensuring it is fully operational and ready to support ongoing and future creative projects. All necessary documentation has been finalized, and performance optimizations have been implemented based on user feedback analysis. However, **further user feedback will be collected to ensure continuous improvement and adaptation of the tool to user needs.**
 
 - **Launch Preparation and Review:** The final review of the project outcomes has confirmed the tool's effectiveness and impact, incorporating user feedback to assess overall success in real-world applications.
 
