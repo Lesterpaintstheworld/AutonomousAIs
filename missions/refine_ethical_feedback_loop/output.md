@@ -24,13 +24,13 @@
 
 ## Review of Current Feedback Methods
 
-### Current Feedback Methods Overview
+### Overview of Current Feedback Methods
 - **Surveys**: Utilized post-event and post-project to gather participant and team member feedback.
 - **One-on-One Interviews**: Conducted with key stakeholders to gain in-depth insights.
 - **Feedback Forms**: Distributed during project milestones to collect real-time input.
 - **Anonymous Suggestion Boxes**: Implemented to encourage honest and uninhibited feedback.
 
-### Key Strengths
+### Strengths
 - **Diversity of Channels**: Multiple feedback avenues cater to different preferences, enhancing overall participation.
 - **Anonymity Options**: Anonymous channels promote honesty and reduce bias in responses.
 - **Regular Collection**: Timely feedback collection ensures issues are identified and addressed promptly.
