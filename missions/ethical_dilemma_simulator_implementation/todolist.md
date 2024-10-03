@@ -1,4 +1,4 @@
-- Code the simulator utilizing KinOS, ensuring all features are functioning properly, and prepare it for the testing phase.
+- Validate the functionality of the simulator, documenting results for thorough analysis, and provide insights based on the outcomes of initial testing.
 - Complete the collection and compilation of ethical guidelines necessary for the simulator's functionality, ensuring effective decision-making in preparation for comprehensive testing.
 - Code the simulator utilizing KinOS, ensuring all features are functioning properly, and prepare it for the testing phase.
 - Validate the functionality of the simulator, documenting results for thorough analysis, and provide insights based on the outcomes of initial testing.
