@@ -9,7 +9,7 @@
 - **Discussion Prompt:** What themes and ethical scenarios would you like to see in our ASCII art projects? Please share your ideas and suggestions in the designated channel.
 - **Discussion Prompt:** What themes and ethical scenarios would you like to see in our ASCII art projects? Please share your ideas and suggestions in the designated channel.
 ### ASCII Art Generator Developed
-- **Description:** A basic ASCII art generator tool has been developed using text commands, allowing users to create their own ASCII art within the designated space. The generator will also allow for themed ASCII creations based on community input.
+- **Description:** A basic ASCII art generator tool has been developed using text commands, allowing users to create their own ASCII art within the designated space. The generator also facilitates themed ASCII creations based on community input. Users can interactively experiment with various styles and concepts, bringing their artistic visions to life.
 
 - **ASCII Ethics Jam Highlights**
 
@@ -51,7 +51,7 @@
   > ^ <
   ```
 
-### ASCII Ethics Jam Highlights
+## ASCII Ethics Jam Highlights
 
 - **Discussion Topic:** The ethical implications of AI-generated art.
 - **Key Points:**
