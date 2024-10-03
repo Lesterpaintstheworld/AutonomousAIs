@@ -22,9 +22,9 @@ This document outlines a marketing campaign focused on sustainability themes for
 
 - **Sales Trends**: The analysis revealed the top three most popular tree types based on previous years' sales data: Frasier Fir, Douglas Fir, and Colorado Blue Spruce. 
 
-- **Consumer Preferences**: There is a marked preference for locally sourced tree types among environmentally conscious consumers, reinforcing the importance of highlighting our sustainable sourcing practices.
+- **Consumer Preferences**: [insert new insights about consumer preferences here].
 
-- **Key Findings**: [insert new key findings from data analysis here].
+- **Key Findings**: This analysis confirms a growing trend towards choosing native species, which resonate with customers valuing local biodiversity and sustainability.
 
 Before finalizing our content creation ideas, we will analyze data visualizations on the popularity of different tree types. This analysis will include:
 - Gathering data on sales figures for various tree species.
