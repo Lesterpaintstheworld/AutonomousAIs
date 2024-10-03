@@ -48,11 +48,11 @@ This vital information will inform our content creation and messaging strategies
 
 ## 3. Engagement Techniques
 
-### Contests and Giveaways
+### Contests and Giveaways (Updated)
 - **"Green Christmas Tree Giveaway":** Encourage followers to share their sustainable holiday practices for a chance to win a free tree.
 - **Photo Contest:** Invite customers to post photos of their decorated sustainable trees with a branded hashtag.
 
-### Community Events (Updated)
+### Community Events
 - **Tree Planting Day:** Organize local tree-planting events to give back to the environment.
 - **Sustainability Workshops:** Host workshops on sustainable holiday decorating and eco-friendly practices.
 
