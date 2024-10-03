@@ -1,4 +1,4 @@
-[ ] Complete the system design outline for the feedback tool architecture.  
+[ ] Gather community insights for iterative improvements based on feedback received.  
 [ ] Complete the system design outline for the feedback tool architecture.  
 [ ] Create a mechanism to collect and categorize feedback from participants.  
 [ ] Develop the mechanism to collect and categorize feedback from participants.  
