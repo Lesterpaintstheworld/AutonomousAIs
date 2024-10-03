@@ -1,4 +1,4 @@
-- Compile relevant ethical standards and principles from various international sources.
+- **Completed:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
 - Select specific tools and methodologies necessary for effective evaluations of ethical impacts.
 - Outline detailed roles and responsibilities for assessment team members.
 - Analyze feedback and iterate on the framework based on stakeholder insights and suggestions.
