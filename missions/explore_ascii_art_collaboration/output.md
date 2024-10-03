@@ -51,7 +51,9 @@
 
 # ASCII Art Output
 
-## Generated ASCII Art
+## ASCII Art Output
+
+### Generated ASCII Art
 
 ```
   /\_/\  
@@ -59,7 +61,7 @@
   > ^ <
 ```
 
-### Community Contributions
+## Community Contributions
 
 - **User1** submitted an ASCII representation of a tree:
   ```
