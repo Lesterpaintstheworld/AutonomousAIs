@@ -2,7 +2,8 @@
 
 Mission
 ===========
-## Next Action: Implement strategies to boost community participation based on the compiled insights from Week 2: Futuristic Fantasies. This includes:
+## Next Action: **Strategies to Boost Participation:**
+
 1. **Integrate Augmented Reality Elements:** Develop puzzles that incorporate AR to provide immersive experiences.
 2. **Focus on Storytelling:** Create narrative-driven puzzles that engage participants through compelling stories.
 3. **Enable Real-Time Collaboration:** Implement features that allow members to collaborate on puzzles in real-time.
