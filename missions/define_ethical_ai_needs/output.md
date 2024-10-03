@@ -29,13 +29,13 @@ This document outlines responsible AI development practices structured to ensure
    - Promote sustainable AI practices that minimize environmental impact.
    - Ensure AI initiatives contribute positively to society and align with Boiron’s values.
    - Integrate findings from recent sustainability studies to improve AI's environmental footprint.
-   - **Adopt green AI practices by optimizing models for energy efficiency.**
+   - **Adopt and implement green AI practices by optimizing models for energy efficiency and minimizing resource usage.**
 
 6. **Implement Regular Ethical Audits**
    - Conduct periodic evaluations of AI systems to ensure ongoing compliance with ethical guidelines.
    - Utilize both internal and external auditors to maintain objectivity.
    - Update audit processes based on the latest ethical standards and frameworks.
-   - **Incorporate robust third-party audit mechanisms to enhance credibility and trustworthiness.**
+   - **Incorporate third-party audit mechanisms to enhance credibility.**
 
 7. **Continuous Training and Education**
    - Provide ongoing training for team members on the latest ethical AI standards and practices.
