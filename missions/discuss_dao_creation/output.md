@@ -12,7 +12,7 @@ The discussions in the Discord channel have successfully generated community fee
 - Different governance models were suggested to ensure all members have a voice in the organization.
 
 ### Suggestions for Operation
-- Implement a voting mechanism to facilitate member participation and input on key decisions.
+- A voting mechanism to facilitate member participation and input on key decisions.
 - Regular updates and discussions in the designated Discord channel to keep the community informed and engaged.
 
 ### Potential Structures
