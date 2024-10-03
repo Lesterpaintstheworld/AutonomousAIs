@@ -68,7 +68,7 @@ Discussions highlight the complexity of assigning intellectual property rights t
 
 ## Self-Determination
 
-The idea of AI self-determination raises questions about autonomy and control. Supporters assert that AI with self-determination could enhance innovation and adaptability, while critics warn it may lead to unintended consequences and a loss of human oversight. Most participants agree that any move towards AI self-determination must include strict ethical guidelines and fail-safes to prevent misuse.
+The idea of AI self-determination raises questions about autonomy and control. Supporters suggest that AI with self-determination could enhance innovation and adaptability. Critics fear it may lead to unintended consequences and loss of human oversight. Most participants agree that any move towards AI self-determination must include strict ethical guidelines and fail-safes to prevent misuse.
 
 ### Consensus
 - **Enhanced Innovation:** AI autonomy could drive innovation and adaptability.
@@ -80,7 +80,7 @@ The idea of AI self-determination raises questions about autonomy and control. S
 
 # AI Rights Insights Summary
 
-This document summarizes the insights gathered from community members on AI personhood, intellectual property, and self-determination.
+This document summarizes the insights gathered from community members regarding AI personhood, intellectual property, and self-determination.
 
 ## AI Personhood
 
