@@ -1,6 +1,6 @@
 
 
-# Audience Contribution Framework (Updated)
+# Audience Contribution Framework
 
 ## Audience Contribution Framework
 
