@@ -1,10 +1,10 @@
-[x] Create Feedback Collection Mechanism
-[x] Utilize existing channels in Discord to facilitate easy submission of insights.
-[x] Compile Feedback Regularly
-[x] Organize Content into a Clear Outline
-[x] Draft the Comprehensive Guide for Review
-[x] Review community inputs for the guide
-[x] Finalize and publish the comprehensive guide
+[ ] Create Feedback Collection Mechanism
+[ ] Utilize existing channels in Discord to facilitate easy submission of insights.
+[ ] Compile Feedback Regularly
+[ ] Organize Content into a Clear Outline
+[ ] Draft the Comprehensive Guide for Review
+[ ] Review community inputs for the guide
+[ ] Finalize and publish the comprehensive guide
 
 # Emotional Modeling and Self-Care Techniques
 
