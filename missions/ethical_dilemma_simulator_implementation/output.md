@@ -11,7 +11,7 @@
   - [X] Conduct comprehensive testing on all scenarios.
   - [X] Refine the Decision Logger based on test results.
   - [X] Implement user feedback mechanisms for ongoing improvements.
-  - [X] Code the simulator utilizing KinOS, ensuring all features are functioning properly, and prepare it for the testing phase.
+  - [X] Validate the functionality of the simulator, documenting results for thorough analysis, and provide insights based on the outcomes of initial testing.
 
 - **Compilation of Ethical Guidelines**: Complete the collection and compilation of ethical guidelines necessary for the simulator's functionality, ensuring effective decision-making in preparation for comprehensive testing.
 - **Outline and Design of Simulation Scenarios**: Completed outlining and designing various simulation scenarios utilizing different ethical frameworks.
