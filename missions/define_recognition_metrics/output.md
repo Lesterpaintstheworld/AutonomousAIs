@@ -1,6 +1,6 @@
 
 
-The community's response to the revised recognition metrics has been overwhelmingly positive, with many expressing appreciation for the emphasis on transparency and inclusivity. Feedback mechanisms have been well received, encouraging ongoing engagement and suggestions for further improvements.
+The community has shown positive engagement with the revised recognition metrics, highlighting appreciation for the emphasis on transparency and inclusivity. Ongoing feedback mechanisms have encouraged active participation and suggestions for continuous enhancements.
 =======
 ## Outputs
 
