@@ -10,6 +10,7 @@
 5. **Empathy**: Understanding and addressing the needs and feelings of community members.
 6. **Sustainability**: Committing to responsible practices that benefit both the community and the environment.
 7. **Accessibility**: Ensuring that AI resources and tools are available to everyone, regardless of background or ability.
+8. **Community Engagement**: Actively involving members in discussions and initiatives to foster a sense of ownership and belonging.
 
 ### Next Steps
 We will present these core values to the community for their feedback and formal approval.
