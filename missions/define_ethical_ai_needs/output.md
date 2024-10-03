@@ -2,7 +2,7 @@
 
 ### Updated Documented Guidelines for Ethical AI Development
 
-This document outlines responsible AI development practices structured to ensure alignment with Boiron's ethical objectives, balancing innovation with accountability. The guidelines have been updated based on a comprehensive analysis of recent literature, case studies, and community feedback, addressing emerging challenges in AI development effectively.
+This document outlines responsible AI development practices structured to ensure alignment with Boiron's ethical objectives, balancing innovation with accountability. The guidelines have been updated based on a comprehensive analysis of recent literature, case studies, and community feedback, ensuring they reflect Boiron's ethical objectives and incorporate the latest insights.
 - Conduct a comprehensive analysis of recent literature and case studies regarding ethical AI practices to gather insights essential for refining the guidelines and ensuring alignment with Boiron's ethical objectives and the latest ethical considerations derived from the analysis.
 
 1. **Transparency and Explainability**
