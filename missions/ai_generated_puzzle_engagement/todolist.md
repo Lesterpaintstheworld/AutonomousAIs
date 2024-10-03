@@ -3,5 +3,5 @@
 - [x] Develop engaging puzzles that promote collaboration.
 - [x] Test puzzles for clarity and engagement.
 - [x] Compile the collection of interactive AI-generated puzzles that foster creativity and collaboration.
-   - Verify that all puzzles are presented clearly with their objectives to maximize participant engagement.
-   - Prepare and distribute detailed resources for participants on how to solve the puzzles and submit their answers.
+   - Ensure each puzzle is presented clearly along with its objectives to enhance participant engagement.
+   - Create and distribute comprehensive resources for participants detailing how to solve and submit their answers.
