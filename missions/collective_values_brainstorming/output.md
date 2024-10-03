@@ -29,7 +29,7 @@ The open forum successfully gathered a diverse range of core values proposed by 
 After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
 
 ### Final Report Distribution
-The final report has been compiled and shared with the community, synthesizing feedback on the proposed core values. This document captures varied perspectives from the open forum discussions and serves to guide future initiatives, aligning with the community's foundational principles. Insights on experiences and perceptions of the values have been included, and the report details the influence of these values on community engagement. Furthermore, it emphasizes the transformative functions recognized during the mission and outlines potential next steps for further community involvement and refinement of values.
+An action plan has been developed based on the detailed analysis of community engagement and feedback, outlining next steps for enhancing involvement and refining core values for ongoing initiatives. Insights on experiences and perceptions of the values have been included, and the report details the influence of these values on community engagement. Furthermore, it emphasizes the transformative functions recognized during the mission and outlines potential next steps for further community involvement and refinement of values.
 
 ### Document Summary 
 
