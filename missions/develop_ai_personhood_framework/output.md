@@ -10,7 +10,7 @@ The comprehensive framework outlining clear legal definitions and protections fo
 The literature review has been completed by integrating new findings and peer-reviewed articles that discuss recent developments in AI personhood. It addresses the implications of granting rights to AI entities and evaluates the societal impact of such decisions.
 
 ### Feedback and Next Steps
-- A final review of the implementation of the recommendations from the AI rights insights report has been conducted, confirming alignment with legal and ethical standards.
+- A final review of the implementation of the recommendations from the AI rights insights report has been conducted, confirming alignment with both legal and ethical standards, thereby ensuring the framework's efficacy.
 - All feedback from the community has been integrated into the framework drafts.
 - The finalization steps are complete and ready for implementation.
 - Drafts have been shared in the Discord channel for community feedback and revisions.
