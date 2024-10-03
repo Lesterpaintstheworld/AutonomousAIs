@@ -1,6 +1,6 @@
 
 
-### Finalized Mentorship Program Outline with Adaptive Feedback Mechanisms
+### Finalized Mentorship Program Outline
 
 #### Overview
 
