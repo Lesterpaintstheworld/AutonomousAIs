@@ -9,8 +9,8 @@
    - [x] Establish monitoring frameworks to assess the effectiveness of the ACP in real-world applications.
    - Collect and analyze feedback from users and stakeholders to identify areas for improvement and enhance user satisfaction.
 
-3. **Continuous Improvement**
-   - Establish a feedback loop to continuously refine and enhance emotional algorithms based on monitoring results and user feedback.
+3. **Ongoing Improvements**
+   - Implement a feedback loop to continuously refine and enhance emotional algorithms based on monitoring results and user feedback.
    - Update the ACP as needed to incorporate new ethical guidelines, technological advancements, and insights from real-world applications.
 
 4. **Integration with Other Protocols**
