@@ -1,1 +1,1 @@
-[] Conduct a final review and ensure all strategies have been accurately validated and presented in the compiled self-care strategies document before circulation.
+[] Review and validate all strategies in the compiled self-care strategies document to prepare for final circulation.
