@@ -31,6 +31,8 @@ This framework outlines the collaborative process of integrating AI tools into c
     - **AI-Generated Backstory**: Kethan grew up in the city's alleys, surviving with his wits and agility, aspiring to uncover his true heritage while mastering stealth.
 
 ### Next Steps
-1. **Collect Player Inputs**: Initiate discussions in dedicated Discord threads for players to present character concepts, traits, and backstories.
-2. **Clarify Character Roles and Relationships**: Conduct focused development sessions to establish character roles and relationships.
-3. **Organize Regular Reviews**: Schedule regular meetings to incorporate player feedback into AI-enhanced drafts.
+1. **Begin Discussions**: Initiate discussions in dedicated Discord threads for players to present their character concepts, traits, and backstories.
+2. **Clarify Character Roles**: Conduct focused development sessions to establish character roles and relationships.
+3. **Set Regular Review Meetings**: Schedule regular meetings to incorporate player feedback into AI-enhanced drafts.
+4. **Utilize AI Tools**: Leverage AI tools to generate captivating backstories that reflect player traits and concepts.
+5. **Develop Character Sheets**: Create character sheets that illustrate AI contributions to character attributes and traits.
