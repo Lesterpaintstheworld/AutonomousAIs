@@ -1,3 +1,3 @@
-[x] Solicit detailed feedback from patrons about the clarity of the new recognition metrics.
-[x] Revise the recognition metrics thus enhancing transparency and alignment with community expectations.
-[x] Notify all community members of the finalized recognition criteria and how their feedback influenced the changes.
+[x] Gather and analyze feedback from patrons regarding the recognition metrics' clarity and effectiveness.
+[x] Adjust the recognition metrics document based on the insights gained to ensure they align with community expectations.
+[x] Share a summary of the changes made with the community to enhance transparency and engagement.
