@@ -76,8 +76,8 @@ Complete all botanical puzzles to fully explore the secret garden.
 
 1. **Choose a Puzzle:** Select any of the above puzzles to start.
 2. **Collaborate:** Work with community members to solve the challenges.
-3. **Submit Solutions:** Share your answers in the designated Discord channel.
-4. **Receive Rewards:** Participants who successfully solve puzzles will earn special roles and recognition within the community.
+3. **Share Your Answers:** Post your solutions in the specified Discord channel.
+4. **Earn Rewards:** Participants who solve puzzles will receive special roles and recognition in the community.
 
 # Feedback and Suggestions
 
