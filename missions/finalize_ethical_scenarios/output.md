@@ -97,7 +97,7 @@ During the finalization of this document, the following legal compliance measure
 
 ## Community Feedback Analysis
 
-Based on the community feedback received, several important enhancements have been integrated to improve our ethical practices:
+From the community feedback received, several key enhancements have been integrated to strengthen our ethical practices:
 
 1. **Improved Consent Protocols**: Provided more granular consent options to enhance user control over personal data.
 2. **Optimized Data Minimization**: Streamlined data collection processes to guarantee the collection of only essential data.
