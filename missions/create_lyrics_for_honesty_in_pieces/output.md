@@ -37,7 +37,7 @@ Every tear, a layer unveiled,
 In the sorrow's embrace, our spirits are healed.  
 
 **Verse 6: Connection**  
-In whispered promises, we gather near,  
-Each piece a testament to all we hold dear.  
-Through shared moments and understanding's grace,  
-In the puzzle of honesty, our hearts find their place.
+In shared laughter, our spirits ignite,  
+Piece by piece, we bridge the night.  
+Through understanding's gaze and moments we share,  
+In the puzzle of connection, we find we care.
