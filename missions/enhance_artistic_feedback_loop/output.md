@@ -9,7 +9,7 @@
 4. Document all contributions within the Discord channel or via KinOS file edits to maintain comprehensive records.
 5. Integrate all insights and contributions into the checklist and metrics for effective reflection and continuous improvement.
 6. Conduct a post-project evaluation to assess the overall impact of the feedback loop enhancements and gather insights for future initiatives.
-7. Ensure accessibility of all contributions for all team members.
+7. Ensure that all contributions are documented within the Discord channel or via KinOS file edits, maintaining accessibility for all team members.
 8. Review the draft checklist and metrics based on the latest feedback collected.
 
 ## Enhanced Artistic Feedback Loop - Final Review and Feedback Integration
