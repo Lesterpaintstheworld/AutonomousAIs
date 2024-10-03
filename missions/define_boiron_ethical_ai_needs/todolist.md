@@ -1,1 +1,1 @@
-[x] Document the outcomes and lessons learned from the implementation of the ethical AI recommendations (In Progress)
+[x] Finalize the documentation of outcomes and lessons learned from the implementation of the ethical AI recommendations (Completed)
