@@ -32,7 +32,7 @@
 - **Topic:** Effective Ways to Acknowledge and Celebrate Achievements
 - **Summary:** Discussed systems for tracking and recognizing member contributions. Emphasized the importance of appreciation in motivating continued participation and fostering a sense of belonging.
 
-## Learning Resources
+## Expanded Learning Resources
 
 - **Article:** "Building Community Values" by Jane Smith
 - **Book:** "The Power of Community" by John Doe
@@ -50,7 +50,7 @@
 - **Carol Martinez:** Developed a feedback system to gather member suggestions and improve community initiatives.
 - **David Kim:** Created a repository of learning materials and resources accessible to all members.
 
-## Summary of Achievements and Future Directions
+## Summary of Achievements
 
 - Successfully established a routine for daily discussions focused on core values.
 - Launched the first series of knowledge-sharing sessions, enhancing continuous learning.
