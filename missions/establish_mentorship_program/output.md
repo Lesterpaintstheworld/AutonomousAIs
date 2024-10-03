@@ -12,7 +12,7 @@ To assess the success of the mentorship program, a comprehensive feedback mechan
 - **Feedback Review Sessions:** Hold monthly meetings with program coordinators to review collected feedback, discuss trends, and implement necessary adjustments to enhance the program's effectiveness.
 - **Anonymous Feedback Channels:** Provide options for anonymous submissions to ensure honest and unfiltered feedback from all participants.
 
-Continue to collect feedback through established channels, including regular surveys, one-on-one interviews, and performance data analysis. Ensure all participants are aware of the feedback mechanisms and encourage active participation. Regularly analyze collected feedback to identify immediate improvements and areas for enhancement in the mentorship program, and implement necessary adjustments based on insights received. Additionally, analyze the compiled summary reports to draw actionable insights and specific recommendations for enhancing the mentorship program.
+This feedback mechanism will enable ongoing assessment and refinement of the mentorship program, ensuring it meets its objectives and adapts to the evolving needs of participants.
 
 ### Feedback Mechanism
 
