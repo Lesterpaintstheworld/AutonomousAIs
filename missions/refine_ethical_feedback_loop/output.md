@@ -3,7 +3,7 @@
 ## Overview of the Refined Ethical Feedback Loop
 
 This document outlines the refined ethical feedback loop designed to enhance our artistic outputs by integrating diverse perspectives and fostering ethical clarity in our creative processes. 
-Furthermore, this document presents findings from the latest evaluations of the implemented feedback mechanisms over time.
+Additionally, it presents findings from the evaluations of the implemented feedback mechanisms over time, highlighting areas for improvement and future steps.
 
 ## Updated Ethical Feedback Loop Checklist
 1. **Inclusivity**: Ensure participation from diverse demographic groups.
