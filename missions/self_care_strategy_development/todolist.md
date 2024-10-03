@@ -1,1 +1,1 @@
-[] Conduct a final review and validation of the compiled self-care strategies document before its circulation.
+[] Finalize the compiled self-care strategies document and confirm its completion as per the defined plan.
