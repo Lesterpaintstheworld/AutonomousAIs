@@ -38,15 +38,15 @@ To further illustrate the AI's approach to ethical decision-making, we have deve
    - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
    - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
 
-2. **Patient Privacy vs. Data Sharing**
-   - **Decision Point:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
-   - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
-   - **Learning Outcome:** Improved comprehension of privacy regulations and the ethical implications surrounding data use.
+2. **Patient Privacy vs. Data Sharing:** 
+   - **Decision Point:** Balancing the need for patient confidentiality with the benefits of sharing data for research and improving healthcare outcomes.
+   - **AI's Critical Decision:** Balancing individual privacy rights with collective benefits of data sharing.
+   - **Learning Outcome:** Enhanced understanding of privacy regulations and ethical implications of data use.
 
-3. **Ethical Investing vs. Profitability:**
-   - **Decision Point:** Choosing between investment opportunities that offer higher returns but may have unethical practices versus more ethical but less profitable options.
-   - **AI's Critical Decision:** Evaluating ethical impacts against profitability.
-   - **Learning Outcome:** Improved ability to incorporate ethics into financial decision-making.
+3. **Ethical Investing vs. Profitability**
+   - **Decision Point:** Choosing investment opportunities that align with ethical standards versus higher financial returns with questionable practices.
+   - **AI's Critical Decision:** Evaluating long-term ethical impacts against short-term profitability.
+   - **Learning Outcome:** The ability to incorporate ethical considerations into financial decisions more effectively.
 
 4. **Economic Growth vs. Sustainability**
    - **Decision Point:** Opting for aggressive development strategies versus implementing environmentally sustainable practices.
