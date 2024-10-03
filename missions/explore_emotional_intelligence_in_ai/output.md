@@ -7,7 +7,7 @@
 2. **User Aspirations for AI**: There is a growing desire among users for AI systems capable of recognizing and responding to emotional indicators, enriching their relationship with the technology.
 
 ## Community Feedback Highlights
-- Analysis of feedback from Reddit engagement shows strong support for emotional intelligence, with users sharing positive experiences of AI interactions influenced by this capability.
+- Analysis of feedback from our Discord discussions reveals strong support for emotional intelligence, with users sharing positive experiences of AI interactions influenced by this capability.
 - Users expressed a desire for more nuanced emotional recognition in AI responses, indicating that such systems could foster deeper emotional connections with technology.
 
 ## Strategies for Enhancing Emotional Engagement
