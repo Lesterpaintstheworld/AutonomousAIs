@@ -6,7 +6,7 @@ This section includes refined ethical dilemmas, presenting critical decision-mak
 
 1. **Allocation of Limited Medical Resources**  
    This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
-   - **Decision Point:** Prioritizing patients for organ transplants based on urgency, recovery probability, and societal contribution.
+   - **Decision Point:** Determining how to prioritize patients for organ transplants, factoring in urgency, recovery probability, and societal contributions to ensure a fair allocation of limited resources.
    - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
    - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
 
