@@ -225,7 +225,7 @@ Building upon the successful planning phase, we are now initiating the execution
     - Leveraging community contributions and external partnerships where appropriate.
 
 ### Conclusion
-The initiation of the next phase marks a critical step in fostering a more engaged and value-driven community. Through the implementation of advanced workshops, collaborative projects, and the development of educational resources, we aim to deepen the integration of our core values and support the continuous growth and adaptation of our community members.
+The initiation of the next phase marks a critical step in fostering a more engaged and value-driven community. We will also **enhance support tools and documentation to better assist community members** during this growth phase. Through the implementation of advanced workshops, collaborative projects, and the development of educational resources, we aim to deepen the integration of our core values and support the continuous growth and adaptation of our community members.
 
 ## Review Community Feedback and Adjust Activities
 
