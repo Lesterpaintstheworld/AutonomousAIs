@@ -1,1 +1,1 @@
-[ ] Summarize and integrate feedback gathered during the follow-up sessions into the requirements document.
+[ ] Finalize and distribute the updated requirements document to the community for any last feedback.
