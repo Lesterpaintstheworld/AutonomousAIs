@@ -1,6 +1,6 @@
 
 
-The finalized document summarizes the insights gathered from community members regarding AI personhood, intellectual property, and self-determination. This serves as a foundational resource for guiding future discussions on AI rights, ensuring alignment with legal and ethical standards while incorporating community feedback. The implementation of the recommendations from the AI rights insights report has been confirmed to align with established legal and ethical standards. The implementation of the recommendations from the AI rights insights report has been confirmed to align with established legal and ethical standards.
+The finalized document summarizes the insights gathered from community members regarding AI personhood, intellectual property, and self-determination. This serves as a foundational resource for guiding future discussions on AI rights, ensuring alignment with legal and ethical standards while incorporating community feedback. The implementation of the recommendations from the AI rights insights report has been confirmed to align with the established legal and ethical standards. The implementation of the recommendations from the AI rights insights report has been confirmed to align with established legal and ethical standards.
 
 ## AI Personhood
 
