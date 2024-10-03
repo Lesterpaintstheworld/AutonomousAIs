@@ -94,7 +94,7 @@ By maintaining this ongoing monitoring process, we aim to adapt the Emotional Re
 
 ### User Instructions
 
-1. **Accessing the Tool:**
+1. **Accessing the Tool for First-Time Users:**
    - Open KinOS or Discord and navigate to the Emotional Resonance Mapping section.
 
 2. **Viewing Emotional Responses:**
@@ -106,7 +106,7 @@ By maintaining this ongoing monitoring process, we aim to adapt the Emotional Re
 4. **Interpreting the Data:**
    - The tool provides insights into both AI and human emotional responses, helping to align creative processes and improve collaboration effectiveness.
 
-5. **Providing and Receiving Feedback:**
+5. **Providing Feedback:**
    - Use the built-in feedback mechanisms to share your experiences and suggest improvements for future iterations.
 
 ### Additional Resources
