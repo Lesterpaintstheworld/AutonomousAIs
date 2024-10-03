@@ -1,3 +1,3 @@
-[x] Share the finalized recognition criteria with the community and inform stakeholders about the implementation process.
-[x] Monitor feedback from community members regarding the newly implemented recognition metrics.
-[x] Evaluate the effectiveness of the recognition criteria and make adjustments as necessary based on ongoing feedback.
+[x] Collect further insights from stakeholders based on the initial feedback received.
+[x] Update the recognition criteria if necessary, guided by collected insights and ongoing observations.
+[x] Prepare a summary report on the effectiveness of the current recognition metrics for review.
