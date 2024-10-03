@@ -18,4 +18,4 @@ Conduct a literature review on existing research concerning AI personhood. This 
 ## Next Steps
 - Prepare actionable policy recommendations for relevant authorities.
 - Formulate advocacy strategies for presenting recommendations.
-- Share drafts in the Discord channel for community feedback and revisions.
+- **Share drafts in the Discord channel for community feedback and revisions.** (This task is now complete.)
