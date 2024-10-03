@@ -9,7 +9,7 @@
 4. **Transparency**: Maintaining openness in processes and decision-making.
 5. **Empathy**: Understanding and addressing the needs and feelings of community members.
 
-## Document Summary (Updated)
+## Document Summary
 The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem, with particularly high engagement levels noted during active participation and collaborative discussions. The defined core values of **Inclusivity**, **Innovation**, **Collaboration**, **Transparency**, and **Empathy** will serve as foundational principles guiding future initiatives, ensuring that the AI community remains cohesive, ethical, and reflective of its members' interests and beliefs.
 
 ## Project Overview
