@@ -7,10 +7,10 @@ With every smile, hearts intertwine,
 Fragmented joy, a love divine.  
 
 **Verse 2: Sadness**  
-In shadows deep, the silence speaks,  
-Tears like rain on fractured peaks.  
-Yearning for what we've lost in time,  
-Each piece of sorrow, a haunting rhyme.  
+In whispered sighs, our hearts cascade,  
+Piece by piece, in twilight's shade.  
+Every tear, a bridge unmade,  
+In the fragments of sorrow, we're remade.  
 
 **Verse 3: Connection**  
 In the threads of time, our voices weave,  
