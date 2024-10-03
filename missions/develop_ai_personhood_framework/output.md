@@ -12,7 +12,7 @@ The literature review has been updated to incorporate new findings and peer-revi
 ### Next Steps
 - Actionable policy recommendations have been finalized for relevant authorities.
 - Advocacy strategies have been refined for effectively presenting recommendations.
-- **Feedback has been received from the community, and revisions are now in progress.**
+- **Feedback has been received from the community, and revisions are complete.**
 
 ### Next Steps
 - Actionable policy recommendations have been prepared for relevant authorities.
