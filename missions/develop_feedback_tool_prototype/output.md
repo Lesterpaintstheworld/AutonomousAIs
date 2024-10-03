@@ -7,6 +7,8 @@
 #### Working Prototype
 A functional version of the real-time feedback tool has been developed using KinOS. It showcases integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program, ensuring user-friendly interactions and effective data collection.
 
+- **Development Status**: In progress; awaiting iterative testing results.
+
 #### Challenges Encountered
 1. **User Interface Complexity**: Initial designs were too complex for users, leading to confusion.
    - **Solution**: Refined the interface based on user feedback, focusing on intuitive design.
