@@ -83,9 +83,9 @@ Complete all botanical puzzles to fully explore the secret garden.
 
 We encourage all members to provide feedback on these puzzles and suggest new ideas. Let’s work together to make our community engaging and fun!
 
-# Upcoming Puzzles
+# Stay Tuned for More Puzzles
 
-Look forward to more exciting puzzles that will test your creativity and teamwork skills!
+Stay tuned for more exciting puzzles that will challenge your creativity and teamwork!
 
 # AI-Generated Puzzles Collection
 
