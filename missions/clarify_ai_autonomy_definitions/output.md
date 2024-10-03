@@ -13,7 +13,7 @@
 - **Theory of Mind AI:** Possesses the ability to understand emotions, beliefs, and intentions of humans (currently theoretical).
 - **Self-aware AI:** Exhibits consciousness and self-awareness, recognizing its own existence and state (hypothetical and not yet achieved).
 
-### 2. AI Rights
+### The Concept of AI Rights
 **Definition:** The concept of granting legal and ethical rights to artificial intelligence entities.
 
 **Key Considerations:**
@@ -21,7 +21,7 @@
 - **Legal Personhood:** Assessing if AI should have rights similar to legal persons, such as property ownership or freedom of expression.
 - **Ethical Treatment:** Ensuring AI systems are treated ethically, especially as they become more advanced.
 
-### The Debate on AI Personhood
+### 3. Personhood of AI
 **Definition:** The debate over whether AI entities can be recognized as persons under the law.
 
 **Discussion Points:**
