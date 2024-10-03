@@ -68,6 +68,9 @@ The discussions in the Discord channel have successfully generated community fee
 
 ### The next action detailed in the todolist has been completed successfully.
 
+- Initiated discussions in the designated Discord channel ("discuss-DAO-creation") to gather community feedback on the purposes and goals of the DAO.
+- Encouraged community members to propose creative suggestions regarding the DAO's operations and governance structures.
+
 ### Purpose and Goals
 - The DAO should focus on enhancing community engagement and decision-making transparency.
 - Different governance models were suggested to ensure all members have a voice in the organization.
