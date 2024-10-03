@@ -2,4 +2,6 @@
 - [x] Conduct a literature review regarding emotional portrayal in AI.
 - [x] Draft core principles for the ethical portrayal of AI emotions.
 - [x] Present draft guidelines for community feedback.
+- [x] Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the guidelines.
+- [x] Finalize and publish the guidelines.
 - [x] Finalize and publish the guidelines.
