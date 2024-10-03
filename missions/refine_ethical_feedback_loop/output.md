@@ -35,13 +35,13 @@
 - **Anonymity Options**: Anonymous channels promote honesty and reduce bias in responses.
 - **Regular Collection**: Timely feedback collection ensures issues are identified and addressed promptly.
 
-### Areas for Improvement
+### Improvement Areas
 - **Response Rates**: Low participation in certain feedback channels, such as surveys and suggestion boxes.
 - **Actionability**: Feedback is often collected but not systematically analyzed or acted upon.
 - **Inclusivity**: Limited representation from certain demographic groups within the feedback pool.
 - **Clarity of Questions**: Some feedback forms contain ambiguous questions, leading to inconsistent responses.
 
-## Actionable Gaps Identified
+## Identified Actionable Gaps
 1. **Low Participation Rates**: Feedback channels such as surveys and suggestion boxes have low engagement, limiting comprehensive data collection.
 2. **Lack of Systematic Analysis**: Feedback is collected but not consistently analyzed, resulting in incomplete utilization for decision-making.
 3. **Limited Inclusivity**: Underrepresentation from certain demographic groups within the feedback pool leads to biased or incomplete insights.
