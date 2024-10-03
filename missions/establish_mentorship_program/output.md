@@ -19,10 +19,10 @@ The feedback mechanism will continuously assess and refine the mentorship progra
 As the first action towards enhancing the mentorship program, initiate the collection of feedback through established channels, including regular surveys, one-on-one interviews, and performance data analysis. Ensure that all participants are aware of the feedback mechanisms and encourage active participation to gather comprehensive insights into the mentorship program’s effectiveness.
 
 ### Feedback Collection Methods
-1. **Surveys and Questionnaires:** Gather structured feedback from participants at regular intervals.
-2. **One-on-One Interviews:** Conduct in-depth discussions to gain qualitative insights into the mentorship experience.
-3. **Feedback Forms:** Provide physical or digital feedback forms during and after mentorship meetings.
-4. **Anonymous Feedback Channels:** Implement anonymous submission options to ensure honest feedback from participants.
+1. **Regular Surveys and Questionnaires:** Distribute quarterly to gather structured feedback from both mentors and mentees about their experiences, challenges, and successes.
+2. **One-on-One Interviews:** Conduct bi-annual in-depth interviews with participants to gain qualitative insights and identify areas for improvement.
+3. **Feedback Review Sessions:** Hold monthly meetings with program coordinators to review collected feedback, discuss trends, and implement necessary adjustments.
+4. **Anonymous Feedback Channels:** Provide options for anonymous submissions to ensure honest and unfiltered feedback from all participants.
 
 ### Mentorship Program Framework
 - **Overview:** Define the purpose and goals of the mentorship program.
