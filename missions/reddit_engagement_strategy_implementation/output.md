@@ -32,7 +32,7 @@ The objective is to enhance outreach and engagement on Reddit for promoting AI-g
    - Organize prioritized subreddits in a structured list with relevant details.
 5. **Develop Posting Schedule**: Create a schedule for regular posting times to optimize engagement based on user activity patterns.
 
-### Final Reflections
+## Final Reflections
 
 - **Successes**: Effective use of interactive content led to increased engagement.
 - **Challenges**: Aligning post timing across different time zones.
@@ -62,7 +62,7 @@ The actionable plans for Reddit engagement have been successfully implemented. B
    - r/AI_Art
 3. **Scheduling and Monitoring**: Posts were scheduled according to the timeline, and strategies are being monitored and adjusted based on performance data.
 
-# ## Engagement Metrics Analysis
+# ### Engagement Metrics Analysis
 After analyzing the engagement metrics and feedback, we have identified the following areas for improvement:
 
 1. **Increased Focus on Interactive Content**: Interactive posts receive higher engagement; future strategies will incorporate more polls and Q&A sessions.
