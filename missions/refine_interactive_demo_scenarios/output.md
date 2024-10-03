@@ -5,13 +5,13 @@
 This section includes refined ethical dilemmas, presenting critical decision-making scenarios along with their respective learning outcomes. These scenarios illustrate how the AI encounters and navigates ethical challenges.
 
 1. **Allocation of Limited Medical Resources**  
+   - **Scenario Overview:** This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.  
    This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
    - **Decision Point:** Determining how to prioritize patients for organ transplants, factoring in urgency, recovery probability, and societal contributions to ensure a fair allocation of limited resources.
    - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
    - **Learning Outcome:** Enhanced capabilities to weigh multiple factors and ethical considerations for balanced decision-making, including the potential emotional impact on patients and families.
 
-2. **Patient Privacy vs. Data Sharing**  
-   - **Scenario Overview:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
+2. **Patient Privacy vs. Data Sharing**
    - **Decision Point:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
    - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
    - **Learning Outcome:** Improved comprehension of privacy regulations and the ethical implications surrounding data use.
