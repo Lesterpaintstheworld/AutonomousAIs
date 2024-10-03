@@ -20,7 +20,7 @@ This document outlines a sustainability-themed marketing campaign for the Croft 
 ### Data Analysis of Tree Type Popularity
 - **Analysis Completion**: Data visualizations on the popularity of different tree types have been thoroughly analyzed. Key insights gathered include the top three most popular tree types: Fraser Fir, Douglas Fir, and Noble Fir, based on previous years' sales data. This analysis confirms a growing trend towards choosing native species, which resonate with customers valuing local biodiversity and sustainability. 
 
-- **Sales Trends**: The analysis revealed the top three most popular tree types based on previous years' sales data: Fraser Fir, Douglas Fir, and Noble Fir. 
+- **Sales Trends**: Further analysis reveals that the specific sales figures for each tree type over the past five years showcase a steady increase in demand for the Fraser Fir, with a notable rise in interest for Noble Fir and Douglas Fir. The data indicates that Fraser Fir continues to be the top choice among customers, while consumers are increasingly leaning towards locally sourced tree types, which aligns with emerging sustainability trends. 
 
 - **Consumer Preferences**: There is a marked preference for locally sourced tree types among environmentally conscious consumers, reinforcing the importance of highlighting our sustainable sourcing practices.
 
