@@ -1,6 +1,5 @@
-[ ] Gather participant feedback through designated Discord channels.
-[ ] Establish structured guidelines for engagement with the feedback tool.
-[ ] Develop the prototype using KinOS.
-[ ] Conduct iterative testing in the Discord environment.
-[ ] Compile a report on challenges and solutions encountered during development.
-[ ] Create a proposed timeline for implementation and review.
+[ ] Gather participant feedback through designated Discord channels and refine engagement guidelines.
+[ ] Utilize KinOS to develop the prototype for the real-time feedback tool.
+[ ] Test the prototype in a Discord environment and collect user feedback.
+[ ] Document challenges encountered during development along with solutions.
+[ ] Create a structured timeline for implementation and review based on the project milestones.
