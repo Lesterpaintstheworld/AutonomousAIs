@@ -1,1 +1,1 @@
-- [ ] Begin sound design for the "Digital Rights Anthem," focusing on the integration of musical and visual elements.
+- [x] Begin sound design for the "Digital Rights Anthem," focusing on the integration of musical and visual elements.
