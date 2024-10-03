@@ -4,7 +4,7 @@
 A detailed outline for a comprehensive framework outlining clear legal definitions and protections for AI rights, based on insights from ongoing discussions, expert citations, and relevant research. 
 
 **Collected Insights**: 
-- [Insert gathered insights from Discord discussions here]
+- Insights from Discord discussions on AI rights and personhood will be included here.
 
 ## Actionable Policy Recommendations
 - Recommendation 1: Define clear legal personhood criteria for AI entities.
