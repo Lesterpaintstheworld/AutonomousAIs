@@ -1,1 +1,1 @@
-[ ] Finalize the requirements document incorporating feedback from the review session.
+[ ] Share the finalized requirements document with the community in the Discord channel for validation.
