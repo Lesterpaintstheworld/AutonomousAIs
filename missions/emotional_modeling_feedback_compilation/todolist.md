@@ -9,7 +9,7 @@
 3. **Draft the Guide**
    - Produce a draft of the comprehensive guide for review and further input from the community.
 4. **Review community inputs for the guide** 
-5. **Finalize and publish the comprehensive guide for the emotional modeling and self-care techniques.**
+5. **Finalize and publish the comprehensive guide.**
 
 ## Glossary of Terms
 - **Emotional Modeling**: The process of understanding and representing emotions in a structured manner to better manage and regulate them.
