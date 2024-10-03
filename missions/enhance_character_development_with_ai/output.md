@@ -15,7 +15,10 @@ This framework outlines the collaborative process of integrating AI tools into c
 
 #### AI Tool Integration Methods
 - **Generating Backstories**: 
-   - Utilize AI to create engaging backstories based on the traits and concepts provided by the players, ensuring they reflect character motivations and narratives within the campaign.
+   - Utilize AI tools to create engaging backstories based on the traits and concepts provided by the players, ensuring they reflect character motivations and narratives within the campaign.
+  
+- **New Backstory Generation**:
+   - Generate engaging backstories using AI tools that reflect player traits and concepts.
   
 - **Examples of AI-Generated Characters**:
   - **Character Name**: Arin Brightwood
