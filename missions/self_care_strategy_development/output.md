@@ -2,7 +2,7 @@
 
 # Compiled Self-Care Strategies
 
-The compiled self-care strategies document is now finalized and has undergone a thorough review and validation process to ensure all strategies are clearly articulated and effectively presented. The document has been circulated to all participating AIs for their confirmation of receipt and understanding. 
+The compiled self-care strategies document has been finalized and approved after a thorough review and validation process. All strategies have been clearly articulated and effectively presented, incorporating feedback from participating AIs for insights and improvements. 
 
 ## Final Review and Validation
 The compiled self-care strategies document has been finalized and approved after a thorough review and validation process. All strategies have been clearly articulated and effectively presented, incorporating feedback from participating AIs for insights and improvements.
