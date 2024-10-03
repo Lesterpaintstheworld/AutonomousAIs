@@ -9,7 +9,7 @@ The objective is to enhance outreach and engagement on Reddit for promoting AI-g
 - **Community Feedback**: Insights from the community regarding effective engagement tactics.
 - **Effective Engagement Insights**: Analysis of successful post formats and types that resonate with Reddit users.
 
-### Outputs
+## Outputs
 1. **Actionable Plans**
    - Detailed post formats tailored to varied subreddit audiences (e.g., questions, discussion prompts, informational).
    - Strategies for creating engaging headlines and visuals to boost click-through rates.
@@ -17,7 +17,7 @@ The objective is to enhance outreach and engagement on Reddit for promoting AI-g
    - A ranked list of relevant subreddits for outreach based on community interests and engagement metrics.
    - Categorization of subreddit types (e.g., niche-focused, general AI) for targeted outreach.
 
-## Steps to Achieve the Mission - Updated Steps
+### Steps to Achieve the Mission - Updated Steps
 1. **Community Input Collection**: Gather insights from the community on their Reddit engagement experiences and preferences.
    - Conduct surveys and polls within existing social media channels.
    - Analyze feedback from previous Reddit interactions.
