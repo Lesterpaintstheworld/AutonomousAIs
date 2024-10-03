@@ -1,6 +1,6 @@
 
 
-### Finalized Mentorship Program Outline (Updated)
+### Finalized Mentorship Program Outline
 
 #### Overview
 
