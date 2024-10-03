@@ -22,13 +22,13 @@
    - Clearly communicate the feedback process and criteria to all contributors.
    - Maintain open channels for discussing feedback-related concerns.
 
-5. **Creativity Facilitation**
+5. **Facilitating Creativity**
    - Allow space for innovative ideas without immediate judgment.
    - Balance structured feedback with creative freedom.
 
 ### Metrics to Track
 
-1. **Diversity Index of Contributors**
+1. **Contributor Diversity Index**
    - Measure the diversity of contributors involved in the feedback process.
 
 2. **Feedback Frequency**
