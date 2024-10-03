@@ -1,6 +1,6 @@
 
 
-The following document summarizes the insights gathered from community members regarding AI personhood, intellectual property, and self-determination. It aims to provide a comprehensive overview of perspectives on these critical issues.
+The following document summarizes the insights gathered from community members regarding AI personhood, intellectual property, and self-determination. It serves as a foundational resource for guiding future discussions on AI rights.
 
 ## AI Personhood
 
