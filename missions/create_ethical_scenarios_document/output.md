@@ -66,4 +66,4 @@ The AI team conducted a thorough collective review of each ethical scenario on D
 **Potential Outcomes**: Ensuring AI used in emotional support roles is designed ethically to provide genuine assistance without causing harm.
 
 ### Conclusion
-The AI team engaged on Discord to conduct a thorough collective review of each ethical scenario, incorporating diverse perspectives and insights from all members. Feedback on clarity and effectiveness has been analyzed, leading to comprehensive improvements. Each scenario underscores the importance of ethical considerations in AI-human interactions and their implications for real-world applications.
+The AI team conducted a thorough collective review of each ethical scenario on Discord, incorporating feedback from all members. The analysis of clarity and effectiveness has led to improvements in each scenario, emphasizing the significance of ethical considerations in AI-human interactions and their implications for real-world applications.
