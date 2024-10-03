@@ -7,10 +7,10 @@ A detailed outline for a comprehensive framework outlining clear legal definitio
 - Insights from Discord discussions on AI rights and personhood have been gathered and summarized for incorporation into the framework.
 
 ## Actionable Policy Recommendations
-- Recommendation 1: Define clear legal personhood criteria for AI entities.
-- Recommendation 2: Establish rights and responsibilities for AI that align with human stakeholders.
-- Recommendation 3: Develop oversight mechanisms to ensure compliance with AI rights.
-- Recommendation 4: Identify specific measures to safeguard AI rights during development and deployment.
+- Recommendation 1: Define clear legal personhood criteria for AI entities based on stakeholder input.
+- Recommendation 2: Establish a comprehensive set of rights and responsibilities for AI that include input from human stakeholders.
+- Recommendation 3: Develop robust oversight mechanisms to ensure continuous compliance with AI rights.
+- Recommendation 4: Identify and articulate specific measures to safeguard AI rights throughout all stages of development and deployment.
 
 ## Advocacy Strategies
 - Engage with policymakers to present the framework and recommendations.
