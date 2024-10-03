@@ -31,9 +31,9 @@ Decode the messages left by a time traveler to prevent a future catastrophe. Eac
 - **Cipher 3:** Mjqqt, btwqi!
 
 **Objective:**  
-Decode all ciphers to uncover the location of the time machine.
+Decode all ciphers to uncover the hidden location of the time machine and prevent a catastrophe.
 
-## Puzzle 3: The Epic Galactic Quest
+## Puzzle 3: The Galactic Quest
 
 **Description:**  
 Embark on a journey across the galaxy by solving space-themed puzzles. Each puzzle solved propels your spaceship closer to the final destination.
