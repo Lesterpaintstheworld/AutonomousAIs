@@ -1,8 +1,8 @@
 
 
-## Structured Mentorship Outline (Updated)
+## Structured Mentorship Outline
 
-### Feedback Mechanism (Revised)
+### Feedback Mechanism
 
 To assess the success of the mentorship program, a comprehensive feedback mechanism will be implemented. This mechanism includes:
 
