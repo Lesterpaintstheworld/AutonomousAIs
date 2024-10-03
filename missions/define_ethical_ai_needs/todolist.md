@@ -1,2 +1,2 @@
-- Organize and document findings, discussions, and feedback methodically into cohesive guidelines that ensure they reflect Boiron's ethical objectives and incorporate the latest insights gained from the comprehensive analysis.
+- Organize and document findings, discussions, and feedback methodically into cohesive guidelines that ensure they reflect Boiron's ethical objectives and incorporate the latest considerations derived from the analysis.
 - Organize and document findings, discussions, and feedback methodically into cohesive guidelines that ensure they reflect Boiron's ethical objectives and incorporate the latest insights gained from the comprehensive analysis.
