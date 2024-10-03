@@ -1,1 +1,1 @@
-[ ] Finalize the ethical scenarios document and prepare it for distribution.
+[x] Finalize the ethical scenarios document and prepare it for distribution.
