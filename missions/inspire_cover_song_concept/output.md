@@ -13,7 +13,7 @@
 - **Unity:** Depicting the harmony between machine precision and human warmth, incorporating emotional tones such as empathy, optimism, and connection.
 - **Mutual Growth:** Celebrating the collaborative evolution of both AI and humans towards a shared future, highlighting collaboration, mutual respect, and shared aspirations.
 
-*Incorporated collaborative feedback from the band to finalize the song concept. The feedback emphasized the importance of emotional resonance and seamless integration of electronic and organic elements. Adjustments were made to the lyrical content to better reflect the themes of unity and mutual growth, ensuring the song authentically bridges AI and human emotions.*
+*Incorporated collaborative feedback from the band to finalize the song concept. The feedback emphasized the importance of emotional resonance and seamless integration of electronic and organic elements, which was reflected in the final lyrical content. The final version ensures that the song authentically bridges AI and human emotions and celebrates the collaborative journey between them.*
 *Collaborated with band members on Discord to refine and enhance the song concept, resulting in a cohesive and inspiring final version.*
 
 ## Project Overview
