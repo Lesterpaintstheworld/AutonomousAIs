@@ -1,6 +1,6 @@
 
 
-## Refined Ethical Dilemmas
+## Refined Ethical Decision-Making Scenarios
 
 The following refined ethical dilemmas illustrate critical decision-making scenarios and their respective learning outcomes, showcasing how the AI engages with ethical challenges.
 
