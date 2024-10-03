@@ -17,9 +17,9 @@
 
 - **Data Security:** Ensuring robust data security measures to protect sensitive patient and research data against breaches, unauthorized access, and cyber threats. This encompasses the implementation of advanced encryption techniques, secure data storage solutions, and comprehensive access controls to safeguard data privacy.
 
-- **Integration with Existing Systems:** Seamlessly integrating ethical AI practices with Boiron’s current technologies and workflows. This requires aligning AI initiatives with existing operational processes, ensuring interoperability between new and legacy systems, and facilitating smooth adoption among team members.
+- **Integration with Existing Systems:** Seamlessly integrating ethical AI practices with Boiron's current technologies and workflows requires aligning AI initiatives with existing operational processes, ensuring interoperability between new and legacy systems, and facilitating smooth adoption among team members.
 
-- **Resource Allocation:** Allocating sufficient resources and expertise to address ethical considerations without hindering innovation involves balancing the need for ethical compliance with the drive for technological advancement through strategic planning, investment in specialized personnel, and prioritizing ethical initiatives alongside other project goals.
+- **Resource Allocation:** Allocating sufficient resources and expertise to address ethical considerations without hindering innovation. Balancing the need for ethical compliance with the drive for technological advancement involves strategic planning, investment in specialized personnel, and prioritizing ethical initiatives alongside other project goals.
 
 ## 3. Insights from Recent Discord Discussions
 
