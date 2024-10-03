@@ -24,7 +24,7 @@ This document outlines a marketing campaign focused on sustainability themes for
 
 - **Consumer Preferences**: There is a marked preference for locally sourced tree types among environmentally conscious consumers, reinforcing the importance of highlighting our sustainable sourcing practices.
 
-- **Key Findings**: This analysis confirms a growing trend towards choosing native species, which resonate with customers valuing local biodiversity and sustainability.
+- **Key Findings**: Highlight the trend towards native species.
 
 Before finalizing our content creation ideas, we will analyze data visualizations on the popularity of different tree types. This analysis will include:
 - Gathering data on sales figures for various tree species.
@@ -38,7 +38,7 @@ This vital information will inform our content creation and messaging strategies
 - **"How Croft & Cole Supports Local Conservation Efforts":** Detail partnerships and community projects.
 
 ### Social Media Content
-- **Infographics:** Visualize data on tree type popularity and sustainability statistics.
+- **Infographics:** Visual representations of tree type popularity and sustainability statistics.
 - **Customer Testimonials:** Share stories from satisfied customers who value sustainability.
 - **Behind-the-Scenes Videos:** Show sustainable farming practices and tree preparation processes.
 
