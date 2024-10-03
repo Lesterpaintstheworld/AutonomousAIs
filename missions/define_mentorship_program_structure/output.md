@@ -16,9 +16,9 @@ The finalized mentorship program is designed to provide structured, impactful, a
 
 #### Key Roles
 
-- **Mentors**: Experienced professionals committed to providing guidance, feedback, and support to mentees. Responsibilities include regular meetings, goal setting, and sharing relevant resources.
+- **Mentors**: Experienced professionals dedicated to providing guidance and feedback to mentees, including regular meetings and sharing relevant resources.
 - **Mentees**: Participants seeking to develop specific skills, expand their professional network, and advance their career goals. Responsibilities include active participation, goal adherence, and providing feedback.
-- **Program Coordinator**: Manages program operations, including coordinating mentor-mentee matching and scheduling.
+- **Program Coordinator**: Oversees program operations, including mentor-mentee matching, scheduling, resource management, and handling program logistics.
 
 #### Necessary Resources
 
