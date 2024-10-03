@@ -3,7 +3,7 @@
 - [x] Present collated suggestions to the community for feedback or voting.
 - [x] Analyze feedback and select the final name for the "Patron Innovator of the Month" sub-mission.
 - [x] Announce the chosen name in the Discord channel, celebrating community involvement.
-- [ ] Collate all submitted name ideas into a single document.
+- [x] Collate all submitted name ideas into a single document.
 - [ ] Present collated suggestions to the community for feedback or voting.
 - [ ] Analyze feedback and select the final name for the "Patron Innovator of the Month" sub-mission.
 - [ ] Announce the chosen name in the Discord channel, celebrating community involvement.
