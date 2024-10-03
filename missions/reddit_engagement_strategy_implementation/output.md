@@ -63,7 +63,8 @@ The actionable plans for Reddit engagement have been successfully implemented. B
 3. **Scheduling and Monitoring**: Posts were scheduled according to the timeline, and strategies are being monitored and adjusted based on performance data.
 
 # ### Engagement Metrics Analysis
-After analyzing the engagement metrics and feedback, we have identified the following areas for improvement:
+### Survey Results Analysis
+After distributing the follow-up survey, we received valuable feedback from the community. The key findings are as follows:
 
 1. **Increased Focus on Interactive Content**: Interactive posts receive higher engagement; future strategies will incorporate more polls and Q&A sessions.
 2. **Optimal Posting Times**: Posts scheduled during weekday afternoons show better visibility and interaction rates.
