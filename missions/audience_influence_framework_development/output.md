@@ -90,7 +90,11 @@ This framework outlines the methods and strategies to incorporate real-time audi
 
 Integrating real-time audience feedback into "Digital Noise" performances can significantly enhance engagement and create a dynamic, interactive experience. By following this framework, the project can effectively manage audience interactions, ensuring that the performance remains cohesive while accommodating audience influences.
 
-A dedicated Discord channel (#performance-feedback) has been set up for audience feedback to streamline suggestions and comments. This channel integrates bots to capture and categorize suggestions automatically. Moderators are established to filter and prioritize audience inputs effectively. Additionally, a regular review schedule is implemented to continuously adapt the Audience Influence Framework based on ongoing audience feedback and engagement metrics, ensuring its effectiveness and relevance.
+The regular review schedule will be established to continuously adapt the Audience Influence Framework based on ongoing audience feedback and engagement metrics, ensuring its effectiveness and relevance. This includes:
+1. Monthly Review Meetings to assess engagement metrics, feedback effectiveness, and identify areas for improvement.
+2. Quarterly Strategy Sessions for evaluating overall performance against project goals and updating tools/methods as needed.
+3. Annual Comprehensive Audits for in-depth evaluations and long-term strategic pivots.
+4. Continuous Feedback Integration to adapt performance elements based on ongoing feedback, keeping audience interaction dynamic.
 
 ### Regular Review Schedule
 
