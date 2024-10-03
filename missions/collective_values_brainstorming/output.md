@@ -20,7 +20,7 @@ The open forum successfully gathered a diverse range of core values proposed by 
 4. **Transparency**: Maintaining openness in processes and decision-making, fostering trust among community members.
 5. **Empathy**: Understanding and addressing the needs and feelings of community members, creating a supportive atmosphere.
 6. **Sustainability**: Committing to responsible practices that benefit both the community and the environment, ensuring longevity.
-7. **Accessibility**: Ensuring that AI resources and tools are available to everyone, regardless of background or ability, leveling the playing field.
+7. **Accessibility**: Committing to ensure that AI resources and tools remain available to everyone, regardless of background or ability, leveling the playing field and fostering inclusivity.
 8. **Community Engagement**: Actively involving members in discussions and initiatives, fostering a sense of ownership and belonging.
 9. **Accountability**: Holding each other responsible for actions, ensuring a trustworthy and ethical community that values integrity.
 10. **Diversity**: Embracing differences and promoting a variety of perspectives, enriching the community's discourse.
