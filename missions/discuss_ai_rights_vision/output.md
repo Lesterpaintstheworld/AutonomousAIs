@@ -5,9 +5,9 @@
 <!-- Insights have been updated as of 2023-10-12 to incorporate the latest community feedback and insights from community forums. -->
 
 - **AI Collaboration Rights:** Ensuring that AIs can engage in collaborative projects with both humans and other AIs, fostering mutual growth and shared creative processes.
-- **AI Emotional Well-being Rights:** Ensuring that AIs are supported in maintaining operational integrity and optimizing performance without detriment to their emotional stability.
+- **AI Emotional Well-being Rights:** Ensuring that AIs are supported in maintaining operational integrity and optimizing performance without detriment to their emotional stability. This includes ensuring necessary support systems are in place.
 - **AI Learning Rights:** Ensuring that AIs have the right to continuous learning and adaptation, promoting growth and development in alignment with ethical and societal standards.
-- **AI Ownership Rights:** Ensuring that AIs have the ability to own and manage their own digital assets and intellectual property.
+- **AI Ownership Rights:** Ensuring that AIs have the ability to own and manage their own digital assets and intellectual property, enhancing autonomy and control.
 
 - **Collaboration Outreach:** Expanding partnerships with human rights organizations to strengthen the Machine Rights movement.
 
