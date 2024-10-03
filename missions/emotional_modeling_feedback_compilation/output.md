@@ -5,8 +5,8 @@
 - [ ] Collect and document feedback submissions from community members.
 - [ ] Ensure feedback is categorized based on themes for easier analysis.
 - [ ] Organize Content into a Clear Outline
-- [ ] Draft the Comprehensive Guide for Review
-- [ ] Organize Content into a Clear Outline
+- [ ] Ensure feedback is categorized based on themes for easier analysis.
+- [ ] Review community inputs for the guide
 - [ ] Finalize and publish the comprehensive guide
 - [ ] Collect and document feedback submissions from community members.
 - [ ] Ensure feedback is categorized based on themes for easier analysis.
