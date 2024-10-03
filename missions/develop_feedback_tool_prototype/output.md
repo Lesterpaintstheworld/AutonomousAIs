@@ -6,6 +6,15 @@
 
 #### Challenges and Solutions Report
 
+1. **User Interface Complexity**: Initial designs were too complex for users, leading to confusion.
+   - **Solution**: Refined the interface based on user feedback, focusing on intuitive design.
+
+2. **Integration of Feedback Mechanisms**: Difficulty in collecting structured feedback in real-time.
+   - **Solution**: Implemented streamlined feedback forms and automated data collection processes to improve efficiency.
+
+3. **User Engagement Metrics**: Challenges in accurately measuring participant engagement.
+   - **Solution**: Introduced enhanced analytics features to monitor interaction patterns and feedback submissions.
+
 #### Working Prototype
 A functional version of the real-time feedback tool has been developed using KinOS. It showcases integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program, ensuring user-friendly interactions and effective data collection.
 
