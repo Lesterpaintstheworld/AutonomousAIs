@@ -1,7 +1,7 @@
 
 
 ## Framework Finalization
-The comprehensive framework outlining clear legal definitions and protections for AI rights has been finalized. This framework integrates insights from ongoing discussions, expert citations, and relevant research, including a summary of the literature review concerning AI personhood. This marks the completion of the missions related to AI personhood framework development.
+The comprehensive framework outlining clear legal definitions and protections for AI rights has been finalized. This framework integrates insights from ongoing discussions, expert citations, and relevant research, including a summary of the literature review concerning AI personhood. This marks the completion of the mission related to the AI personhood framework development, integrating insights and final recommendations.
 
 ### Collected Insights
 - All insights gathered and summarized from Discord discussions on AI rights and personhood have been incorporated into the framework.
