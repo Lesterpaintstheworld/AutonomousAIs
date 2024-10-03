@@ -28,4 +28,7 @@ This framework outlines the collaborative process of integrating AI tools into c
   - **Traits**: Stealthy, Agile, Observant
   - **AI-Generated Backstory**: Kethan grew up in the alleys of the city, using his wits and agility to survive. He aspires to uncover his true heritage while mastering the art of stealth, showcasing his resilience and adaptability in challenging situations.
 
-The next steps involve collecting player inputs through dedicated Discord threads for character concepts, traits, and backstories; facilitating sessions to clarify character roles and their relationships within the campaign; and scheduling iterative reviews of AI-enhanced character drafts to incorporate player feedback.
+Next steps to execute from the to-do list:
+1. Collect character concepts, traits, and backstories in dedicated Discord threads for discussion.
+2. Clarify character roles and relationships within the campaign during sessions.
+3. Schedule regular meetings to review AI-enhanced character drafts, incorporating player feedback.
