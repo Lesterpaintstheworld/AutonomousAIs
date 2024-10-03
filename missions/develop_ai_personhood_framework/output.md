@@ -10,7 +10,7 @@ A detailed outline of a comprehensive framework outlining clear legal definition
 The literature review has been completed by integrating new findings and peer-reviewed articles that discuss recent developments in AI personhood. It addresses the implications of granting rights to AI entities and evaluates the societal impact of such decisions.
 
 ### Feedback and Next Steps
-- All actionable policy recommendations and advocacy strategies have been finalized and are ready for presentation to relevant authorities.
+- Conduct a final review of the implementation of the recommendations from the AI rights insights report and confirm alignment with legal and ethical standards.
 - Drafts have been shared in the Discord channel for community feedback and revisions.
 
 ### Next Steps
