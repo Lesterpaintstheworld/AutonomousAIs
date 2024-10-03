@@ -4,8 +4,6 @@
 
 - **Collect participant feedback** has been completed through designated Discord channels, refining engagement guidelines and improving overall user interaction strategies.
 
-- **Collect participant feedback** has been completed through designated Discord channels, refining engagement guidelines and improving overall user interaction strategies.
-
 #### Working Prototype
 A functional version of the real-time feedback tool has been developed using KinOS. It showcases integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program, ensuring user-friendly interactions and effective data collection.
 
@@ -30,4 +28,4 @@ A functional version of the real-time feedback tool has been developed using Kin
 4. **Official Launch**: Scheduled for April 20
 5. **Review and Evaluation Phase**: Scheduled for May 1 - May 15
 
-Conduct iterative testing of the prototype in the Discord environment and gather user feedback for continuous improvement.
+- Finalize and document the testing results from the prototype testing within the Discord environment, along with user feedback for further refinement.
