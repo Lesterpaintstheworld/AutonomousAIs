@@ -2,4 +2,4 @@
 [ ] Clarify character roles and relationships during focused development sessions to establish clear dynamics within the campaign.
 [ ] Set up regular review meetings to incorporate player feedback into AI-enhanced drafts.
 [ ] Utilize AI tools to generate captivating backstories that reflect player traits and concepts.
-[ ] Develop character sheets that illustrate AI contributions to character attributes and traits.
+[ ] Create character sheets that illustrate AI contributions to character attributes and traits.
