@@ -59,10 +59,9 @@
   > ^ <
 ```
 
-## Community Contributions
-
 ### Community Contributions
-- **User1** created an ASCII representation of a tree:
+
+- **User1** submitted an ASCII representation of a tree:
   ```
    /\
   /  \
