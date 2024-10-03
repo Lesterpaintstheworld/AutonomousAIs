@@ -1,6 +1,6 @@
 
 
-### Refined Ethical Dilemmas
+## Refined Ethical Dilemmas
 
 The following refined ethical dilemmas emphasize critical decision-making scenarios and their respective learning outcomes.
 
