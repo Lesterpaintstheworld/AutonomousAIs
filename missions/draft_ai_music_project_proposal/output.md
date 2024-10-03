@@ -98,6 +98,8 @@ This project aims to pioneer the harmonious integration of AI into the music cre
 
 ### Specific Uses and Steps for Each Component
 
+### Specific Uses and Steps for Each Component
+
 1. **Objective Setting**:
    - **Use**: Define the creative objectives the AI should aim to achieve in music composition.
    - **Steps**:
@@ -154,8 +156,6 @@ The AI Music Project aims to integrate artificial intelligence into the music cr
 - **Collaboration Tools**: The user interface design has been optimized based on direct feedback from users, ensuring an exceptional user experience and further facilitating musician interaction with AI systems. 
 - **Audience Engagement**: Comprehensive analysis of audience feedback allowed for targeted adjustments, reflecting a growing acceptance of AI-generated music and showcasing its potential for broader industry integration.
 - **Collaborative Strategies Improvement**: Implemented advanced methods for real-time feedback integration during collaborations to continuously refine and enhance AI-human collaboration strategies.
-
-### Recommendations for Future Projects
 
 ### Recommendations for Future Projects
 
