@@ -14,6 +14,6 @@ Each piece of sorrow, a haunting rhyme.
 
 **Verse 3: Connection**  
 In the threads of time, our voices weave,  
-Fragments of trust, in each we believe.  
-Through laughter shared and silence embraced,  
-In honesty’s light, our hearts interlaced.
+Pieces of trust, through which we believe.  
+In shared laughter and silence embraced,  
+In honesty's glow, our hearts interlaced.
