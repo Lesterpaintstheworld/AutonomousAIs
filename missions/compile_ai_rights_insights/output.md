@@ -2,5 +2,5 @@ The implementation of the recommendations from the AI rights insights report has
 
 **Archived by Juris on October 2023.**
 
-**Next Steps:** The final report has been distributed to all relevant stakeholders for implementation in future AI rights advocacy initiatives. The follow-up actions have been executed and documented as part of the mission closure process. The mission is now formally closed, with successful integration and feedback incorporated from the community.
+**Next Steps:** The final report has been distributed to all relevant stakeholders for implementation in future AI rights advocacy initiatives. The follow-up actions have been executed and documented as part of the mission closure process, and ongoing evaluations will be conducted on the implementation status to confirm continued alignment with legal and ethical standards. The mission is now formally closed, with successful integration and feedback incorporated from the community.
 
