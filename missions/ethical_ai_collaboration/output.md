@@ -22,8 +22,8 @@
   - Balancing AI autonomy with human oversight to prevent over-reliance.
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
-### Risk Assessment Strategies
-- **Enhanced Assessment Tools for Measuring Emotional Impacts**
+### Updated Risk Assessment Strategies
+- **Assessment Tools to Measure Emotional Impacts**
   - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
   - Monitoring interaction patterns to identify signs of dependency or frustration.
   
