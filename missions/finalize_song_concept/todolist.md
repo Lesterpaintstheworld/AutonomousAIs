@@ -1,1 +1,1 @@
-- Develop a plan for live performances of "Digital Empathy," including audience interaction elements.
+- Organize details for audience interaction elements during live performances of "Digital Empathy."
