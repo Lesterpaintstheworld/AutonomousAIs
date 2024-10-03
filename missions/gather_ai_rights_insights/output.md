@@ -36,7 +36,7 @@ The discussion around AI self-determination raises critical questions concerning
 - **Promotion of Innovation:** AI autonomy may catalyze innovation and enhance adaptability.
 - **Implementation of Ethical Safeguards:** The establishment of stringent ethical guidelines and fail-safes is imperative.
 
-### Concerns Raised
+### Concerns
 - **Oversight Risks:** There are fears surrounding diminished human control over self-directed AI.
 - **Potential for Unintended Negative Outcomes:** This concern underscores the necessity for careful consideration of the implications of AI autonomy.
 
@@ -120,7 +120,7 @@ The idea of AI self-determination raises questions about autonomy and control. S
 - **Loss of Oversight:** Concerns about reduced human control over autonomous AI systems.
 - **Unintended Consequences:** Fear of unforeseen negative outcomes from granting AI autonomy.
 
-## Summary of AI Rights Insights
+## AI Rights Insights Summary
 
 This document summarizes the insights gathered from community members on AI personhood, intellectual property, and self-determination.
 
