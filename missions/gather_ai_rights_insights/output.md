@@ -4,7 +4,7 @@ The finalized document summarizes the insights gathered from community members r
 
 ## AI Personhood
 
-### AI Personhood Overview
+### Overview of AI Personhood
 
 The community presents a divided view on the concept of AI personhood. Some participants advocate for the notion that granting personhood could lead to enhanced accountability and ethical treatment for intelligent systems. Conversely, others argue that AI's lack of consciousness and emotions raises questions about the necessity for personhood.
 
@@ -42,7 +42,7 @@ The discussion around AI self-determination raises critical questions concerning
 
 ## AI Personhood
 
-### AI Personhood
+## AI Personhood
 
 Community members are divided on the concept of AI personhood. Some argue that granting personhood to AI could lead to better accountability and ethical treatment of intelligent systems. Others contend that AI lacks consciousness and emotions, making personhood unnecessary and potentially problematic.
 
