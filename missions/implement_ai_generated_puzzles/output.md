@@ -49,7 +49,7 @@ Participants are challenged to decode a series of cryptic messages to unveil a h
 
   - **Engagement Level:** Analyze the level of community participation and interaction for each puzzle created.
 
-  - **Most Popular Puzzle:** Cipher Challenge
+  - **Most Popular Puzzle:** Riddle Rendezvous
   
 <!-- Include any additional metrics as needed -->
 
