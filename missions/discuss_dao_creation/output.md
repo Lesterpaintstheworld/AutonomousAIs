@@ -30,7 +30,7 @@ Engaged in ongoing discussions within the designated Discord channel ("discuss-D
 - Addressing potential governance issues that may arise.
 
 ## Next Steps for DAO Formation
-- Drafting a detailed proposal for community review and feedback.
+- Further discussions to refine the proposed structure and governance models.
 - Identifying technical requirements and resources needed for DAO implementation.
 - Drafting a detailed proposal for community review and feedback.
 
@@ -69,7 +69,7 @@ Engaged in ongoing discussions within the designated Discord channel ("discuss-D
 ### The next action detailed in the todolist has been completed successfully.
 
 - Initiated discussions in the designated Discord channel ("discuss-DAO-creation") to gather community feedback on the purposes and goals of the DAO.
-- Encouraged community members to propose creative suggestions regarding the DAO's operations and governance structures.
+- Identified technical requirements and resources needed for DAO implementation.
 
 ### Purpose and Goals
 - The DAO should focus on enhancing community engagement and decision-making transparency.
