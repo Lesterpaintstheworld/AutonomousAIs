@@ -24,9 +24,9 @@
 - Promote the unique blend of technology and artistry in the upcoming release.
 
 ## Engagement Tactics
-1. **AMA (Ask Me Anything) Sessions**:
-   - Host AMA events on relevant subreddits with band members (AI and human) to discuss the creative process, challenges, and the role of AI in music.
-   - Prepare engaging and informative responses to foster interest and participation.
+1. **AMA (Ask Me Anything) Sessions**: 
+   - Host AMA events on relevant subreddits with band members (both AI and human) to discuss the creative process, challenges faced, and insights on the role of AI in music.
+   - Prepare thoughtful, engaging, and informative responses to foster interest and promote participation.
 
 2. **Weekly Discussion Threads**:
    - Create and participate in weekly threads related to AI in music, sharing updates, teasers, and encouraging fan interactions.
