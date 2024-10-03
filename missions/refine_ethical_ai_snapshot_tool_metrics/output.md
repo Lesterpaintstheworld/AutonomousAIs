@@ -68,7 +68,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
 
 
 
-### 2. Fairness Metric
+### 2. Fairness and Equity Metric
 **Objective:** Evaluate the impartiality and equity of AI systems.
 
 - **Bias Detection:**
@@ -83,7 +83,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Representation of diverse groups in training data.
     - Inclusive design practices.
 
-### 3. Accountability and Governance Metric
+### 3. Accountability Metric
 **Objective:** Assess the responsibility and governance structures governing AI deployment.
 
 - **Auditability:**
