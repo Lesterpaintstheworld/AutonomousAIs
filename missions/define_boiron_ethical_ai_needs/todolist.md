@@ -1,1 +1,1 @@
-[x] Confirm the alignment of the ethical AI report's recommendations with legal and ethical standards following the final review.
+[x] Mark the review of the ethical AI report's effectiveness and compliance with relevant legal standards as complete.
