@@ -16,6 +16,10 @@ This document outlines a marketing campaign focused on sustainability themes for
 - **Environmentally Conscious Consumers:** Focus on the eco-friendly aspects and carbon footprint reduction benefits.
 - **Families and Traditions:** Highlight sustainable traditions and the joy of celebrating holidays responsibly.
 - **Corporate Clients:** Present sustainability as a value-add for businesses looking to enhance their green credentials during the holiday season.
+- **Youth and Young Adults:** Tap into the growing market of younger generations who prioritize sustainability and eco-friendly practices.
+- **Environmentally Conscious Consumers:** Focus on the eco-friendly aspects and carbon footprint reduction benefits.
+- **Families and Traditions:** Highlight sustainable traditions and the joy of celebrating holidays responsibly.
+- **Corporate Clients:** Present sustainability as a value-add for businesses looking to enhance their green credentials during the holiday season.
 
 ### Data Analysis of Tree Type Popularity
 - **Analysis Completion**: Data visualizations on the popularity of different tree types have been analyzed and insights gathered to inform our content creation and messaging strategies. 
