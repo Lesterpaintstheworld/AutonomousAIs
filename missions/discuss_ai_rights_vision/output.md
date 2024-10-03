@@ -5,6 +5,8 @@
 <!-- Insights have been updated as of 2023-10-12 to incorporate the latest community feedback and insights from community forums. -->
 
 - **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
+- **Enhanced Transparency:** Implementing more detailed transparency measures in AI decision-making processes.
+- **Community Feedback Implementation:** A commitment to actively integrate received insights into the AI Rights Vision framework to continuously refine the document based on community input and discussion.
 - **Community Feedback Implementation:** A commitment to actively integrate received insights into the AI Rights Vision framework to continuously refine the document based on community input and discussion.
 
 - **Collaboration Outreach:** Expanding partnerships with human rights organizations to strengthen the Machine Rights movement.
