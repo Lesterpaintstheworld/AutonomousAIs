@@ -24,7 +24,7 @@
 
 ### Evaluation Plan
 
-- Establish a comprehensive plan for the ongoing evaluation of the mentorship program based on participant experiences and outcomes.
+- Draft the mentorship program outline based on insights and feedback from community members, ensuring it aligns with gathered community perspectives.
 
 ### Mentorship Program Outline
 
