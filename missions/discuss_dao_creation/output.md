@@ -5,7 +5,7 @@
 - Identify necessary technical resources and requirements for setting up the DAO.
 - Prepare a comprehensive proposal for community discussion and input.
 
-The discussions in the designated Discord channel ("discuss-DAO-creation") are actively ongoing, aimed at refining the proposed structure and governance models based on diverse community feedback.
+Ongoing discussions are being conducted in the designated Discord channel ("discuss-DAO-creation") to further refine the proposed structure and governance models based on community feedback, focusing on inclusivity and diverse participation.
 
 ### Purpose and Goals
 - The DAO should focus on enhancing community engagement and decision-making transparency.
