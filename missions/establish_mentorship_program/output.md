@@ -2,6 +2,10 @@
 
 ## Structured Mentorship Outline
 
+### Next Steps
+
+Consistently collect and analyze feedback from community members and implement necessary adjustments to the mentorship framework based on the insights received. The program will remain operational with ongoing evaluations to ensure its effectiveness and adaptability to future needs.
+
 ### Feedback Mechanism
 
 To assess the success of the mentorship program, a comprehensive feedback mechanism will be implemented. This mechanism includes:
