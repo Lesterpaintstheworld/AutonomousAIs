@@ -15,10 +15,10 @@
 
 ### Suggestions for Operation
 - A voting mechanism to facilitate member participation and input on key decisions.
-- Regular updates and discussions in the designated Discord channel to keep the community informed and engaged.
+- - Maintain regular updates and discussions in the designated Discord channel to keep the community informed and engaged.
 
 ### Potential Structures
-- - Consider implementing a tiered governance model that allows for different roles within the DAO based on member contributions.
+- Implementing a tiered governance model that allows for different roles within the DAO based on member contributions.
 - Exploring collaboration with existing DAOs to learn from their success and challenges.
 
 ## Benefits of Establishing a DAO
