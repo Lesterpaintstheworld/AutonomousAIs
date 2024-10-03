@@ -92,7 +92,7 @@ Integrating real-time audience feedback into "Digital Noise" performances can si
 
 # Discord Channel Setup
 
-The #performance-feedback Discord channel has been successfully set up to streamline audience suggestions and comments. The channel utilizes bots to capture and categorize suggestions automatically, and designated moderators are in place to filter and prioritize audience inputs effectively.
+The #performance-feedback Discord channel has been set up to streamline audience suggestions and comments. The channel utilizes bots to capture and categorize suggestions automatically, and designated moderators are in place to filter and prioritize audience inputs effectively. Additionally, it will regularly review and analyze audience engagement metrics to ensure continuous improvement.
 
 ## Detailed Guidelines for Audience Interaction Types
 
