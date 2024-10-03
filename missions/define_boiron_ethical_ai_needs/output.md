@@ -35,7 +35,7 @@ Based on recent discussions in the Discord channel, several key insights have em
 
 5. **User Consent:** Ensuring that user data is collected and utilized with explicit consent, adhering to best practices in data privacy and user rights.
 
-These insights reflect the collective viewpoints of team members and highlight areas where Boiron can enhance its ethical AI framework.
+These insights represent the collective perspectives of team members and highlight areas where Boiron can enhance its ethical AI framework.
 
 ## 4. Emerging Trends in Ethical AI
 
