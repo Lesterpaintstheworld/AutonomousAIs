@@ -17,7 +17,13 @@ This document outlines a marketing campaign focused on sustainability themes for
 - **Families and Traditions:** Highlight sustainable traditions and the joy of celebrating holidays responsibly.
 - **Corporate Clients:** Present sustainability as a value-add for businesses looking to enhance their green credentials during the holiday season.
 
-## 2. Content Creation Ideas
+### Data Analysis of Tree Type Popularity
+
+Before finalizing our content creation ideas, we will analyze data visualizations on the popularity of different tree types. This analysis will include:
+- Gathering data on sales figures for various tree species.
+- Evaluating consumer preferences based on previous years' trends.
+
+This vital information will inform our content creation and messaging strategies, ensuring we highlight the most sought-after tree types effectively.
 
 ### Blog Posts
 - **"The Journey of a Sustainable Christmas Tree":** Trace the lifecycle of Croft & Cole's trees from planting to delivery.
