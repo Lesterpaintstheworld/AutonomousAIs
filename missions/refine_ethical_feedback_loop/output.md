@@ -10,11 +10,11 @@ The refined ethical feedback loop has been successfully established, significant
 
 The outlined framework includes evaluations of implemented feedback mechanisms over time and highlights key areas for improvement and future steps.
 
-Additionally, we present findings from the evaluations of implemented feedback mechanisms, which emphasize opportunities for improvement and vital next steps. This framework utilizes key metrics, including participation rates, inclusivity assessments, ethical oversight reviews, actionability analyses, and satisfaction surveys, to ensure continuous refinement of the feedback loop.
+Furthermore, we present findings from the evaluations of the implemented feedback mechanisms, emphasizing opportunities for improvement and important next steps. This framework utilizes key metrics such as participation rates, inclusivity assessments, ethical oversight reviews, actionability analyses, and satisfaction surveys to ensure ongoing refinement of the feedback loop.
 
 ## Evaluation of the Implemented Feedback Mechanisms
 
-To assess the effectiveness of the refined ethical feedback loop, the following metrics will be considered:
+To evaluate the effectiveness of the refined ethical feedback loop, metrics to consider include:
 
 1. **Participation Rates**: Analyze engagement across different feedback channels to assess overall participation.
 2. **Inclusivity Assessment**: Review representation from diverse demographic groups to ensure a breadth of perspectives.
