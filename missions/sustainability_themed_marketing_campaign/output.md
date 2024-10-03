@@ -85,9 +85,9 @@ This vital information will inform our content creation and messaging strategies
 - **Weekly Reports:** Track progress and make real-time adjustments.
 - **Post-Campaign Analysis:** Comprehensive review of outcomes against objectives.
 
-## 6. Budget Allocation
+## 6. Budget Allocation (Updated)
 
-### Breakdown (Updated)
+### Breakdown
 - **Content Creation:** 30%
 - **Social Media Advertising:** 25%
 - **Event Hosting:** 20%
