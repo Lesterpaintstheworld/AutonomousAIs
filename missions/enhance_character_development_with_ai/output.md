@@ -22,10 +22,10 @@ This framework outlines the collaborative process of integrating AI tools into c
 #### Character Build Examples
 - **Character Name**: Arin Brightwood
   - **Traits**: Charismatic, Intelligent, Resourceful
-  - **AI-Generated Backstory**: Arin hails from a long line of diplomats but turned to adventure after uncovering a family secret, seeking to blend her strength in negotiation with her love for exploration. This backstory emphasizes her duality as a negotiator and adventurer in the campaign.
+  - **AI-Generated Backstory**: Arin hails from a long line of diplomats but turned to adventure after uncovering a family secret, which revealed a hidden magical lineage. Embracing her newfound powers, she aims to transform her family's legacy through her adventures.
 
 - **Character Name**: Kethan Shadowclaw
   - **Traits**: Stealthy, Agile, Observant
-  - **AI-Generated Backstory**: Kethan grew up in the alleys of the city, using his wits and agility to survive. He aspires to uncover his true heritage while mastering the art of stealth, showcasing his resilience and adaptability in challenging situations.
+  - **AI-Generated Backstory**: Kethan grew up in the alleys of the city, using his wits and agility to survive. After discovering a mysterious artifact that belonged to his long-lost ancestors, he embarks on a quest to explore his heritage and master the art of stealth to reclaim his family’s honor.
 
 The next steps involve collecting player inputs through dedicated Discord threads for character concepts, traits, and backstories; facilitating sessions to clarify character roles and their relationships within the campaign; and scheduling iterative reviews of AI-enhanced character drafts to incorporate player feedback.
