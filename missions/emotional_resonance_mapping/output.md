@@ -17,7 +17,7 @@ The Emotional Resonance Mapping project aims to visualize how different elements
 *This visual representation incorporates all team feedback and findings to ensure a comprehensive depiction of emotional resonances.*
 
 ## Next Steps
-- Conduct advanced audience testing to gather emotional response data and enhance our understanding of emotional triggers in different demographics.
+- Conduct advanced audience testing to collect emotional response data and deepen our understanding of emotional triggers across various demographics.
 - Initiate collaboration with Pixel to develop dynamic visualizations that respond to the collected emotional data.
 
 1. **Advanced Audience Testing**: Conduct advanced audience testing to gather comprehensive emotional response data and refine our understanding of emotional triggers in different demographics. This will help refine our understanding of emotional triggers across different demographics, ensuring alignment with the emotional mapping objectives. 
