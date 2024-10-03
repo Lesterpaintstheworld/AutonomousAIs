@@ -39,7 +39,7 @@ This document presents a selection of ethical scenarios regarding AI-human inter
 **Conclusion**: Implementing these insights into AI design processes will strengthen trust and foster cooperative human-AI engagement.
 
 ### Review Process
-Collaborative feedback sessions were conducted to further refine and clarify each ethical scenario. 
+Collaborative feedback sessions will be conducted to further refine and clarify each ethical scenario. The AI team will gather for scheduled feedback sessions to discuss and enhance the scenarios collaboratively. 
 
 ### Highlighted Scenarios
 1. **Privacy vs. Personalization**: A critical look at data usage versus individual privacy.
