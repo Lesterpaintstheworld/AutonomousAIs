@@ -39,7 +39,7 @@ The discussions in the Discord channel have successfully generated community fee
 - Encourage diverse governance models to ensure all voices are heard.
 
 ### Operational Suggestions
-- Introduce a voting system to enhance member involvement in significant decisions.
+- Introduce a voting system to enhance member involvement in key decisions.
 - Maintain regular communication in the dedicated Discord channel to boost community participation.
 
 ### Governance Structures
