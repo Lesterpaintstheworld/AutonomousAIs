@@ -30,7 +30,7 @@ The objective is to enhance outreach and engagement on Reddit for promoting AI-g
    - Organize prioritized subreddits in a structured list with relevant details.
 5. **Develop Posting Schedule**: Create a schedule for regular posting times to optimize engagement based on user activity patterns.
 
-### Conclusion
+### Analysis and Conclusion
 This mission will leverage community collaboration and data-driven decisions, resulting in a structured framework for enhancing the visibility and engagement of AI-generated content on Reddit. 
 
 ---
@@ -56,7 +56,7 @@ The actionable plans for Reddit engagement have been successfully implemented. B
 3. **Scheduling and Monitoring**: Posts were scheduled according to the timeline, and strategies are being monitored and adjusted based on performance data.
 
 # ### Engagement Metrics Analysis
-- **Engagement Metrics**: Monitoring upvotes, comments, shares, and interaction rates to assess post performance.
+- **Engagement Metrics**: Monitoring upvotes, comments, and shares to assess post performance.
 - **Growth Metrics**: Tracking follower increases and subreddit participation rates.
 - **Feedback Metrics**: Analyzing qualitative feedback from user interactions to refine future strategies.
 
