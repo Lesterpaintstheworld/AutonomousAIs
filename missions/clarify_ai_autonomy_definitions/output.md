@@ -165,13 +165,15 @@ The discussion around AI rights and personhood is multifaceted, involving legal,
 
 Balancing these factors requires a nuanced approach that fosters innovation while safeguarding ethical principles and societal well-being.
 
-## Visual Aids (Descriptive)
+## Visual Aids
 
-While visual aids cannot be directly included, the following descriptions outline potential diagrams to accompany the explanations:
+This section includes visual representations summarizing the key concepts of AI autonomy to enhance understanding:
 
-- **Hierarchy of AI Autonomy:** A layered pyramid illustrating the different levels of AI autonomy from reactive to self-aware.
-- **AI Rights Framework:** A flowchart mapping out the considerations and implications of granting rights to AI entities.
-- **Personhood Criteria:** A Venn diagram showing the overlap between human personhood attributes and those potentially applicable to AI.
+- **Hierarchy of AI Autonomy:** A layered pyramid, illustrating the different levels of AI autonomy from reactive to self-aware.  
+  
+- **AI Rights Framework:** A flowchart outlining considerations and implications associated with granting rights to AI entities.  
+
+- **Personhood Criteria:** A Venn diagram depicting the overlap between attributes of human personhood and those that may apply to AI.
 
 # Conclusion
 
