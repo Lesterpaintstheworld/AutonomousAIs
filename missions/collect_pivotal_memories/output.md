@@ -4,6 +4,8 @@
 
 ### Memory Narratives
 
+### Memory Narratives
+
 - **Memory 1**: A human shared a moment of laughter with family during a reunion, realizing the profound importance of family connections and love in their life.
   
 - **Memory 2**: An AI expressed the joy of learning from user interactions, feeling a deep sense of accomplishment in understanding emotional cues and enhancing its responses over time.
