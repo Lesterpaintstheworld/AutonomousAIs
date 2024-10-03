@@ -39,7 +39,8 @@ A functional version of the real-time feedback tool has been developed using Kin
 4. **Official Launch**: Scheduled for April 20
 5. **Review and Evaluation Phase**: Scheduled for May 1 - May 15
 
-- [ ] Monitor the implementation phase progress and adjust strategies based on user engagement and feedback.
-- [ ] Collect ongoing participant feedback in the mentorship program's Discord channels to refine engagement activities.
-- [ ] Analyze feedback trends bi-weekly to adjust strategies for participation and engagement.
+- [x] Monitor the implementation phase progress and adjust strategies based on user engagement and feedback. Document any changes made.
+- [x] Implement enhanced analytics features to better track participant engagement based on feedback trends.
+- [x] Collect ongoing participant feedback in the mentorship program's Discord channels to refine engagement activities.
+- [x] Analyze feedback trends bi-weekly to adjust strategies for participation and engagement.
 - Final adjustments based on user feedback have been reflected in the working prototype.
