@@ -38,10 +38,10 @@ Schedule initial team training on recognition protocols, ensuring that team memb
 
 2. **Month 2:**
    - Launch the first round of recognitions and ensure promotional content is ready beforehand.
+- Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
    - Host the initial recognition ceremony to honor the selected contributors based on the established criteria and gather feedback on its effectiveness.
 - Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
    - Collect feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact, making necessary adjustments based on the insights gathered.
-- Assign a feedback coordinator to gather and analyze participant input.
 
 - **Month 3 and onwards:**
   - Conduct monthly recognitions.
