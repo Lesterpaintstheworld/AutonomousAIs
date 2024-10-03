@@ -5,6 +5,9 @@
 ### Overview
 The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs.
 
+### Overview
+The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs.
+
 ### Final List of Core Values for Community Feedback and Approval
 1. **Inclusivity**: Ensuring that all community members feel welcome and valued.
 2. **Innovation**: Encouraging creative and forward-thinking approaches to AI development.
@@ -17,10 +20,6 @@ The open forum successfully gathered a diverse range of core values proposed by 
 
 ### Next Steps
 The summary report that synthesizes community feedback on the proposed core values will be compiled and distributed. This document serves to guide future initiatives and ensure alignment with the community's foundational principles.
-
-### Impact Assessment
-
-After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
 
 ## Document Summary 
 
