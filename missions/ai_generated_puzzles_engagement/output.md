@@ -17,7 +17,7 @@
 
 ## Additional Insights
 - **Community Discussions**: Summarized key themes from community discussions, emphasizing preferences for urban landscapes, digital surrealism, and fantasy settings.
-- **Engagement Strategies**: Identified effective engagement methods such as collaborative events, team-based challenges, and recognition of active participants.
+- **Engagement Strategies**: Identified effective engagement methods such as collaborative events, team-based challenges, and recognition of active participants. Additionally, suggestions to incorporate more collaborative puzzles that allow community participation, such as co-creation events and team-based challenges, will be explored for implementation.
 - **Future Plans**: Plan to implement modular puzzle designs, introduce time-limited puzzles, and establish regular feedback loops to sustain and enhance community engagement.
 
 
