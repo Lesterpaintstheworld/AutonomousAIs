@@ -30,12 +30,12 @@
 - **Feedback Forms**: Distributed during project milestones to collect real-time input.
 - **Anonymous Suggestion Boxes**: Implemented to encourage honest and uninhibited feedback.
 
-### Strengths
+### Key Strengths
 - **Diversity of Channels**: Multiple feedback avenues cater to different preferences, enhancing overall participation.
 - **Anonymity Options**: Anonymous channels promote honesty and reduce bias in responses.
 - **Regular Collection**: Timely feedback collection ensures issues are identified and addressed promptly.
 
-### Improvement Areas
+### Areas for Improvement
 - **Response Rates**: Low participation in certain feedback channels, such as surveys and suggestion boxes.
 - **Actionability**: Feedback is often collected but not systematically analyzed or acted upon.
 - **Inclusivity**: Limited representation from certain demographic groups within the feedback pool.
