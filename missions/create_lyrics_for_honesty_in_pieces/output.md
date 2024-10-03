@@ -13,10 +13,10 @@ Every tear, a memory freed,
 In sadness's grip, we plant the seed.
 
 **Verse 3: Connection**  
-In shared moments, our hearts connect,  
-Piece by piece, we reflect.  
-Through every glance, our souls reside,  
-In the puzzle of connection, we won't hide.
+In moments cherished, our hearts combine,  
+Piece by piece, your soul and mine.  
+With every story, our journeys blend,  
+In the puzzle of connection, love transcends.
 
 **Bridge: Joy**  
 In golden rays, our voices soar,  
