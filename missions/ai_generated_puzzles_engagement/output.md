@@ -23,7 +23,7 @@
 - **Engagement Strategies**: Identified effective engagement methods such as collaborative events, team-based challenges, and recognition of active participants.
 - **Future Plans**: Plan to implement modular puzzle designs, introduce time-limited puzzles, and establish regular feedback loops to sustain and enhance community engagement.
 
-6. **Discord Channel Created**: A dedicated Discord channel named "Puzzle Ideas" will be established to solicit and compile puzzle themes and ideas from community members. Initial discussions around these ideas will be documented, capturing key themes and popular suggestions. Additionally, the channel aims to facilitate active participation, leading to a diverse range of puzzle suggestions and themes.
+6. **Discord Channel Created**: Established a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members. Initial discussions around the ideas have been documented, capturing key themes and popular suggestions. Additionally, the channel has successfully facilitated active participation, leading to a diverse range of puzzle suggestions and themes.
 
 8. **Reporting Format Implemented**: Developed and implemented a reporting format for summarizing community suggestions and feedback.
 
