@@ -15,7 +15,7 @@
   - [X] Code the simulator utilizing KinOS, ensuring all features are functioning properly, and prepare it for the testing phase.
   - [X] Validate the functionality of the simulator, documenting results for thorough analysis, and provide insights based on the outcomes of initial testing.
 
-- **Compilation of Ethical Guidelines**: Completed compiling a detailed list of ethical guidelines necessary for the simulator's functionality.
+- **Compilation of Ethical Guidelines**: In progress; continue collecting ethical guidelines necessary for the simulator's functionality.
 - **Outline and Design of Simulation Scenarios**: Completed outlining and designing various simulation scenarios utilizing different ethical frameworks.
 
 ### Features
