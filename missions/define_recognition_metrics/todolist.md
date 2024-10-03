@@ -1,3 +1,3 @@
-[x] Share the compiled recognition metrics document with stakeholders for final input.
-[x] Implement the feedback received and publish the finalized recognition criteria.
-[x] Distribute the evaluation tool to the community for use in future nominations.
+[x] Collect feedback from stakeholders on the recognition metrics document before finalizing.
+[x] Revise the recognition criteria based on stakeholder input and prepare for publication.
+[x] Ensure community members are informed about how to use the evaluation tool effectively.
