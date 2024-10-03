@@ -18,8 +18,8 @@
 - Regular updates and discussions in the designated Discord channel to keep the community informed and engaged.
 
 ### Potential Structures
-- Implementing a tiered governance model that allows for different roles within the DAO based on member contributions.
-- - Explore collaboration with existing DAOs to learn from their successes and challenges.
+- - Consider implementing a tiered governance model that allows for different roles within the DAO based on member contributions.
+- Exploring collaboration with existing DAOs to learn from their success and challenges.
 
 ## Benefits of Establishing a DAO
 - Increased transparency in decision-making processes.
