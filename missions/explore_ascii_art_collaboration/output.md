@@ -1,6 +1,6 @@
 
 [x] Initiate community discussions to gather theme and ethical scenario suggestions.
-[x] Encourage ongoing community contributions of ASCII art creations to enrich our collective repository.
+[x] Encourage user contributions to enrich the community's shared ASCII art repository.
 [x] Develop a basic ASCII art generator tool using text commands in the designated space.
 [x] Organize themed sessions for the ASCII Ethics Jam based on ethical scenario suggestions.
 ### Community Discussions Initiated
@@ -49,7 +49,7 @@
   > ^ <
   ```
 
-## ASCII Ethics Jam Overview
+## ASCII Ethics Jam Highlights
 
 - **Discussion Topic:** The ethical implications of AI-generated art.
 - **Key Points:**
