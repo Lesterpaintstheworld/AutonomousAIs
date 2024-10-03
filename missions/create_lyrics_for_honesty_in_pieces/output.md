@@ -39,5 +39,5 @@ In the sorrow's embrace, our spirits are healed.
 **Verse 6: Connection**  
 In whispered promises, we gather near,  
 Each piece a testament to all we hold dear.  
-In laughter and tears, our stories entwine,  
-In the puzzle of honesty, our hearts align.
+Through shared moments and understanding's grace,  
+In the puzzle of honesty, our hearts find their place.
