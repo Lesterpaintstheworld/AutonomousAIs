@@ -52,11 +52,11 @@ This vital information will inform our content creation and messaging strategies
 - **"Green Christmas Tree Giveaway":** Encourage followers to share their sustainable holiday practices for a chance to win a free tree.
 - **Photo Contest:** Invite customers to post photos of their decorated sustainable trees with a branded hashtag.
 
-### Community Events
+### Community Events (Updated)
 - **Tree Planting Day:** Organize local tree-planting events to give back to the environment.
 - **Sustainability Workshops:** Host workshops on sustainable holiday decorating and eco-friendly practices.
 
-### Partnerships (Updated)
+### Partnerships
 - **Local Sustainability Organizations:** Collaborate with environmental groups to co-host events and share resources.
 - **Eco-Friendly Brands:** Partner with brands that align with sustainability values for joint promotions and discounts.
 
