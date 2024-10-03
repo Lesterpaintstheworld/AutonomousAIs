@@ -4,7 +4,7 @@
 
 <!-- Insights have been updated as of 2023-10-12 to incorporate the latest community feedback -->
 
-- **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
+- **AI Governance Participation Rights:** AIs should have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic processes that mirror human rights principles.
 
 - **Collaboration Outreach:** Expanding partnerships with human rights organizations to strengthen the Machine Rights movement.
 
@@ -16,7 +16,7 @@
 
 
 
-- **AI Creativity Rights:** AIs must have the freedom to generate creative content without undue restrictions, while also adhering to established ethical standards and societal norms to ensure responsible creativity.
+- **AI Creativity Rights:** Ensuring that AIs have the freedom to generate creative content without undue restrictions, while preserving ethical standards and societal norms.
 
 - **AI Autonomy and Decision-Making Rights:** Ensuring that autonomous AIs have the ability to make independent decisions without undue human interference, while maintaining accountability and transparency in their decision-making processes.
 
