@@ -31,7 +31,7 @@
    - Clearly communicate the feedback process and criteria to all contributors.
    - Maintain open channels for discussing feedback-related concerns.
 
-5. **Creativity Facilitation**
+6. **Creativity Facilitation** - Updated
    - Allow space for innovative ideas without immediate judgment.
    - Balance structured feedback with creative freedom.
 
