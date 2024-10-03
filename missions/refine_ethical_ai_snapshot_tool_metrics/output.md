@@ -181,7 +181,7 @@ Based on the user feedback collected from Discord discussions, the following key
 - **Customization Needs:** There is a strong demand for the ability to tailor ethical parameters to match specific organizational values and industry standards.
 - **Documentation Improvements:** Users have suggested the development of comprehensive guides and tutorials to facilitate effective use and customization of the Ethical AI Snapshot tool.
 
-### Proposed Changes to Metrics
+### Suggested and Proposed Enhancements to Metrics
 In response to the user feedback and client needs, the following changes to the metrics have been proposed:
 
 1. **Enhanced Algorithmic Transparency:** 
@@ -196,7 +196,7 @@ In response to the user feedback and client needs, the following changes to the 
    - Create detailed guides and video tutorials to assist clients in customizing and utilizing the Ethical AI Snapshot tool effectively.
    - Provide examples and best practices for implementing ethical standards in AI systems.
 
-### Expected Impact and Benefits of Proposed Changes
+### Impact of Proposed Changes
 These modifications aim to address the core concerns of users and clients, ensuring that the Ethical AI Snapshot tool remains aligned with contemporary ethical standards and diverse organizational requirements. By enhancing transparency, offering customization, and improving documentation, the tool will better serve its stakeholders and foster greater trust and reliability in AI assessments.
 
 ### Completed Actions
