@@ -73,13 +73,13 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
     - Incorporate interdisciplinary approaches from recent collaborative studies.
     - **Establish cross-functional teams to address complex ethical challenges.**
 
-14. **User Empowerment and Control**
+13. **User Empowerment and Control**
     - Enhance user agency by allowing greater control over AI interactions.
     - Provide mechanisms for users to understand and modify AI behaviors.
     - Integrate user-centric design principles from the latest research to improve empowerment features.
     - **Develop user dashboards for real-time control and customization of AI functionalities.**
 
-14. **Ethical Human-AI Interaction**
+15. **Ethical Human-AI Interaction**
     - Design AI systems that facilitate respectful and meaningful interactions with humans.
     - Ensure AI systems support human decision-making without overstepping.
     - Incorporate findings from recent human-AI interaction studies to enhance ethical interactions.
