@@ -13,7 +13,7 @@
   - [X] Implement user feedback mechanisms for ongoing improvements.
   - [X] Code the simulator utilizing KinOS and prepare it for the testing phase.
 
-- **Compilation of Ethical Guidelines**: Completed the collection and compilation of ethical guidelines necessary for the simulator's functionality, ensuring effective decision-making in preparation for comprehensive testing.
+- **Compilation of Ethical Guidelines**: The collection and compilation of ethical guidelines necessary for the simulator's functionality are complete, ensuring effective decision-making in preparation for comprehensive testing.
 - **Outline and Design of Simulation Scenarios**: Completed outlining and designing various simulation scenarios utilizing different ethical frameworks.
 
 ### Features
