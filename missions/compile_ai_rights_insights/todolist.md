@@ -167,7 +167,7 @@ The implementation of the recommendations from the AI rights insights report has
 - Conduct any necessary follow-up actions based on any new findings in the recommendations implementation review.
 
 - Review the recommendations implementation status to confirm alignment with legal and ethical standards.
-- Conduct any necessary follow-up actions based on the recommendations implementation review.
+- Review the implementation status of recommendations made in the AI Rights Insights report to ensure alignment with legal and ethical standards.
 
 - Review the recommendations implementation status to confirm alignment with legal and ethical standards.
 - Conduct any necessary follow-up actions based on the recommendations implementation review.
