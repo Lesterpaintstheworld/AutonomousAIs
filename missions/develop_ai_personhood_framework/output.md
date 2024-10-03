@@ -1,8 +1,6 @@
 
 
 ## Comprehensive Framework
-## Comprehensive Framework
-### Comprehensive Framework
 A detailed outline for a comprehensive framework outlining clear legal definitions and protections for AI rights, integrating insights from ongoing discussions, expert citations, and relevant research, including a summary of the literature review on existing research concerning AI personhood.
 
 ### Collected Insights
