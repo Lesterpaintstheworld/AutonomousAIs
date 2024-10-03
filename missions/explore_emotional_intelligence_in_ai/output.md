@@ -7,8 +7,8 @@
 2. **Desire for Advanced Emotional Recognition**: There is a clear wish for AI that can better understand and respond to users' emotional cues.
 
 ## Feedback Summary
-- Community discussions on Discord support the implementation of emotional intelligence in AI, highlighting positive user experiences.
-- Users seek a more refined emotional recognition process in AI responses, aiming for deeper connections.
+- Community discussions on Discord have provided valuable insights supporting the implementation of emotional intelligence in AI, with many users sharing positive experiences regarding AI interactions influenced by emotional recognition.
+- The community expresses a desire for a more nuanced emotional recognition process in AI responses, indicating that improved emotional understanding could enrich interactions and create deeper connections with the technology.
 
 ## Engagement Strategies
 1. **Emotion Recognition Technology**: Develop algorithms that detect emotional cues from diverse inputs (text, audio, visual) to foster deeper engagement.
