@@ -1,2 +1,2 @@
-[x] Develop engaging narratives that present the definitions and insights gathered from the mission.
+[x] Complete visual representations to summarize the key concepts of AI autonomy for better understanding.
 [x] Design simple visual representations to summarize the key concepts of AI autonomy for better understanding.
