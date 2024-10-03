@@ -41,7 +41,7 @@
 
 **Week 5:**
 - **Participation Rates**
-  - Week 10: Add advanced logic puzzles and collaborative formats. Estimated participants: TBD
+  - Week 10: Introduce advanced logic puzzles and collaborative formats based on community feedback. Estimated participants: TBD
 
 - **Feedback Scores**
   - Week 5: Average score of 4.9
