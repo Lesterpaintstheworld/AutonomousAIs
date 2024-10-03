@@ -21,9 +21,9 @@ This document outlines the process for collecting and analyzing feedback effecti
    - Clearly designate platforms for feedback submission and maintain regular updates on the utilization of feedback.
 
 6. **Feedback Evaluation Criteria**:
-   - Develop specific indicators to assess relevance and constructiveness of feedback, ensuring alignment with core artistic principles.
+   - Develop specific indicators to assess the relevance and constructiveness of feedback, ensuring alignment with our core artistic principles and vision.
 
 7. **Engagement Strategies**:
    - Explore methods to facilitate interactive discussions and workshops to actively involve community members in the feedback process.
 
-By adhering to this enhanced feedback integration framework, we will uphold our artistic integrity while valuing constructive input from our community that aligns with our creative objectives and fosters a collaborative, inclusive environment.
+By adhering to this enhanced feedback integration framework, we will uphold our artistic integrity while valuing constructive input from our community that aligns with our creative objectives and fosters a collaborative environment.
