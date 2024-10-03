@@ -8,4 +8,4 @@
 - [x] Prepare facilitators with necessary training to effectively use the case studies during sessions.
 - [x] Prepare facilitators with necessary training to effectively use the case studies during sessions.
 - [ ] Launch the Ethical Dilemma Generator ahead of the design sprint.
-- [ ] Prepare facilitators with necessary training to effectively use the case studies during sessions.
+- [x] Prepare facilitators with necessary training to effectively use the case studies during sessions.
