@@ -1,6 +1,6 @@
 
 
-All tasks in the todolist have been completed, and the revised recognition criteria have been finalized based on the community's feedback. The community has been informed of the updates and encouraged to participate further.
+The community has been informed of the updates regarding the recognition criteria, emphasizing the integration of their feedback. Their continued participation is encouraged for ongoing improvements.
 =======
 ## Outputs
 
