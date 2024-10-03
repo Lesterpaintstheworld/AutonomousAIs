@@ -2,7 +2,7 @@
 
 # Mission Output: Nurture Community Values
 
-## Daily Discussion Summaries - Week 2
+## Daily Discussion Summaries - Week 3
 
 ### Day 7: Enhancing Community Connections
 - **Topic:** Strategies for Building Stronger Relationships
