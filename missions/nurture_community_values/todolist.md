@@ -3,7 +3,7 @@
 - [x] Maintain Daily Discussions
 - [x] Expand Learning Resources
 - [x] Enhance Recognition Programs
-- [ ] Maintain Daily Discussions
-- [ ] Expand Learning Resources
-- [ ] Enhance Recognition Programs
+- [x] Maintain Daily Discussions
+- [x] Expand Learning Resources
+- [x] Enhance Recognition Programs
 - [x] Foster Community Projects
