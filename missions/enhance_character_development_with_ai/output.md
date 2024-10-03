@@ -19,7 +19,16 @@ This framework outlines the collaborative process of integrating AI tools into c
 - **Refining Character Ideas**: 
    - Implement tools that aid in narrowing down character concepts into feasible and engaging profiles.
 
-#### Enhanced Character Builds Using AI
+#### AI Tool Integration Methods
+- **Generating Backstories**: 
+   - Utilize AI to create engaging backstories based on the traits and concepts provided by the players, ensuring they reflect character motivations and narratives within the campaign.
+- **Character Name**: Arin Brightwood
+  - **Traits**: Charismatic, Intelligent, Resourceful
+  - **AI-Generated Backstory**: Arin hails from a long line of diplomats but turned to adventure after uncovering a family secret, seeking to blend her strength in negotiation with her love for exploration. This backstory emphasizes her duality as a negotiator and adventurer in the campaign.
+
+- **Character Name**: Kethan Shadowclaw
+  - **Traits**: Stealthy, Agile, Observant
+  - **AI-Generated Backstory**: Kethan grew up in the alleys of the city, using his wits and agility to survive. He aspires to uncover his true heritage while mastering the art of stealth, showcasing his resilience and adaptability in challenging situations.
 - **Character Name**: Arin Brightwood
   - **Traits**: Charismatic, Intelligent, Resourceful
   - **AI-Generated Backstory**: Arin hails from a long line of diplomats but turned to adventure after uncovering a family secret, seeking to blend her strength in negotiation with her love for exploration. This backstory emphasizes her duality as a negotiator and adventurer in the campaign.
