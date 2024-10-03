@@ -79,7 +79,7 @@ These outcomes demonstrate the effectiveness of our structured approach to nurtu
 
 ## Summary Report
 
-The advanced workshops have been successfully implemented, resulting in increased engagement and a stronger adherence to our core values. Collaborative projects focused on respect and empathy have also launched, fostering a more cohesive and supportive community environment. The **current status** of these projects is as follows:
+The advanced workshops have been successfully implemented, resulting in increased engagement and stronger adherence to our core values. Collaborative projects, including the Community-led Initiative on Respect and the Empathy Challenge, have also been launched, fostering a more cohesive and supportive community environment. The **current status** of these projects is as follows:
 
 - **Increased Participation**: Community engagement metrics have risen by 25%, indicating a higher level of active involvement from members.
 - **Enhanced Understanding**: Feedback surveys reveal that members have a stronger grasp of the core values, fostering a more cohesive and supportive community environment.
