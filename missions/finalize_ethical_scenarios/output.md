@@ -2,7 +2,7 @@
 
 ## Finalized Ethical Scenarios Overview (2024 Revision)
 
-**Status:** All tasks related to the finalization of the ethical scenarios document have been successfully completed, confirming the integration of community feedback and adherence to legal standards. This document will serve as a crucial guideline for ethical AI decision-making, emphasizing transparency and user engagement throughout our development process.
+**Status:** All tasks related to the finalization of the ethical scenarios document have been successfully completed, confirming the integration of community feedback and adherence to legal standards. This document serves as a crucial guideline for ethical AI decision-making, emphasizing transparency and user engagement throughout our development process.
 
 **Revision Date:** 2024-05-02
 
