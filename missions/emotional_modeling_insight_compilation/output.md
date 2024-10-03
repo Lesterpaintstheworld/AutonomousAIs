@@ -103,7 +103,7 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 - Allocate time each week for creative activities.
 - Experiment with different mediums to find what resonates best.
 
-## Self-Care Techniques
+## Additional Emotional Support Techniques
 
 ### 1. Establishing a Routine
 **Description:** Creating a consistent daily schedule to provide structure and stability.
@@ -117,7 +117,7 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 - Incorporate a variety of fruits, vegetables, and whole grains into meals.
 - Stay hydrated by drinking plenty of water throughout the day.
 
-### 3. Seeking Professional Help
+### 3. Adequate Sleep
 **Description:** Ensuring sufficient and quality sleep to enhance emotional resilience.
 **Implementation Tips:**
 - Aim for 7-9 hours of sleep each night.
