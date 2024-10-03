@@ -113,7 +113,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Clear consent mechanisms.
     - Easy access for users to manage their consent preferences.
 
-### 5. Sustainability Metric
+### 5. Sustainability and Environmental Impact Metric
 **Objective:** Evaluate the environmental and social sustainability of AI systems.
 
 - **Energy Efficiency:**
@@ -128,7 +128,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Evaluation of AI's impact on employment.
     - Assessment of AI's role in societal well-being.
 
-### Enhanced Customizable Ethical Parameters
+### Customizable Ethical Parameters
 
 To further enhance flexibility and user control, the Ethical AI Snapshot tool now incorporates additional customization features:
 
