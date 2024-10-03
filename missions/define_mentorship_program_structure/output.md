@@ -1,6 +1,6 @@
 
 
-### Updated Mentorship Program Structure
+### Finalized Mentorship Program Structure
 
 #### Overview
 
