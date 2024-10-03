@@ -96,12 +96,12 @@ This vital information will inform our content creation and messaging strategies
 
 ## 7. Risk Management
 
-### Potential Risks
+### Potential Risks (Updated)
 - **Low Engagement:** Mitigate by utilizing diverse content formats and targeted advertising.
 - **Budget Overruns:** Strict budget monitoring and prioritization of high-impact activities.
 - **Partnership Challenges:** Establish clear agreements and maintain open communication with partners.
 
-## 8. Conclusion (Updated)
+## 8. Conclusion
 
 This sustainability-themed marketing campaign aims to position Croft & Cole as a leader in eco-friendly Christmas tree services. By leveraging targeted messaging, creative content, and engaging community activities, the campaign will drive sales while promoting environmental responsibility and fostering strong customer relationships.
 
