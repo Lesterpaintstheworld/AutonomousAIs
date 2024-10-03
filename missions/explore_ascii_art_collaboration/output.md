@@ -1,5 +1,6 @@
 
 [x] Initiate community discussions to gather theme and ethical scenario suggestions.
+[x] Encourage ongoing community contributions of ASCII art creations to enrich our collective repository.
 [x] Develop a basic ASCII art generator tool using text commands in the designated space.
 [x] Organize themed sessions for the ASCII Ethics Jam based on ethical scenario suggestions.
 
