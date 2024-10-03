@@ -72,7 +72,7 @@ These incorporations ensure that the final document comprehensively addresses th
 
 ### Finalizing the Recommendations
 As part of the ongoing efforts to implement the recommendations, we will:
-- Finalize and document the review process for the implementation of recommendations from the AI rights insights report to ensure compliance with legal and ethical standards.
+- Finalize and document the review process for implemented recommendations from the AI rights insights report to ensure alignment with legal and ethical standards.
 - Establish a timeline for the enactment of recommendations and assign responsibilities for each action item.
 - Conduct a follow-up session to assess the progress of the implementation and gather feedback from stakeholders involved.
 - Ensure continuous dialogue and adaptation of the framework to address evolving challenges in AI rights.
