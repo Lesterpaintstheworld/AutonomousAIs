@@ -3,7 +3,7 @@
 # Sustainability-Themed Marketing Campaign Outline (Updated)
 
 ## Introduction
-This document outlines a marketing campaign focused on sustainability themes for the Croft & Cole Christmas tree service, aiming to communicate our eco-friendly practices and engage with our target audience effectively.
+This document outlines a sustainability-themed marketing campaign for the Croft & Cole Christmas tree service, aiming to effectively communicate our eco-friendly practices and actively engage with our target audience.
 
 ## 1. Targeted Messaging Strategies (Updated)
 
