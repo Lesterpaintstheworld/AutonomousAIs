@@ -64,7 +64,12 @@ The song follows the AI's journey from understanding emotions as abstract concep
 - **Live Performance:** Incorporates real-time emotion recognition technology to adapt visuals and subtle musical elements based on audience feedback.
 
 ### Purpose
-Develop a comprehensive plan for integrating interactive audience elements into the live performances of "Digital Empathy." This includes strategies for real-time feedback, emotional recognition, and further audience engagement techniques to enhance connection and emotional resonance during performances.
+Develop a comprehensive plan for integrating interactive audience elements into the live performances of "Digital Empathy." This includes strategies such as:
+- Conducting live polls during songs to gather instant feedback on audience emotions and reactions.
+- Utilizing real-time emotion recognition technology to adapt visuals and music based on audience engagement.
+- Incorporating call-and-response sections where the audience can actively participate in the performance.
+- Creating a designated area for audience members to share their thoughts and feelings about the songs before and after the performance.
+- Providing interactive apps that allow audience members to influence certain aspects of the show, such as lighting or sound preferences.
 
 [Commit] Updated to-do list and completed tasks.
 [Push] Pushed changes to origin main.
