@@ -22,7 +22,7 @@
 
 ## Community Contributions
 
-- **User1** submitted an ASCII representation of a tree:
+- **User3** created an ASCII artwork of a cat:
   ```
    /\
   /  \
