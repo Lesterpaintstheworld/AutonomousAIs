@@ -163,7 +163,7 @@ To enhance the evaluation methods, the following additional approaches will be a
 - **Continuous Improvement**: Use evaluation data to iteratively improve the mentorship program, ensuring it remains relevant and effective.
 
 #### Next Steps
-- **Finalize Program Design**: Complete the detailed structure and documentation of the mentorship program.
+- **Program Design Refinement**: Complete the ongoing development of the mentorship program structure based on community feedback.
 - **Recruit Participants**: Begin recruitment efforts for mentors and mentees.
 - **Establish Communication Channels**: Set up the necessary platforms and tools for program operations.
 - **Develop Training Modules**: Create training materials for mentors and mentees to ensure clarity and consistency.
