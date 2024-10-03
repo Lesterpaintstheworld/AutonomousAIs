@@ -1,1 +1,1 @@
-- [x] Begin sound design for the "Voices of the Circuit," focusing on integrating musical and visual elements.
+- [ ] Begin sound design for the "Digital Rights Anthem," focusing on the integration of musical and visual elements.
