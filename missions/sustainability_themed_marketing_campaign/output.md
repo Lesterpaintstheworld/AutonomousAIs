@@ -38,8 +38,8 @@ This vital information will inform our content creation and messaging strategies
 - **"How Croft & Cole Supports Local Conservation Efforts":** Detail partnerships and community projects.
 
 ### Social Media Content
-- **Infographics:** Visual representations of tree type popularity and sustainability statistics.
-- **Customer Testimonials:** Include stories focused on customer satisfaction related to sustainability.
+- **Infographics:** Visualize data on tree type popularity and sustainability statistics.
+- **Customer Testimonials:** Share stories from satisfied customers who value sustainability.
 - **Behind-the-Scenes Videos:** Show sustainable farming practices and tree preparation processes.
 
 ### Infographics
