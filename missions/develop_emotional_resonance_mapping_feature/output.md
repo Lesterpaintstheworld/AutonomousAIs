@@ -40,7 +40,7 @@
 - **Launch Preparation and Review:** Prepared for the launch of the Emotional Resonance Mapping visualization tool and conducted a comprehensive review of the project outcomes to ensure its effectiveness and impact.
 
 - **User Feedback and Insights:** 
-  - **Feedback Collection:** Gathered feedback from users through surveys, interviews, and usability testing sessions to understand their experiences with the Emotional Resonance Mapping tool.
+  - **Feedback Collection:** We gathered feedback from users through surveys, interviews, and usability testing sessions to better understand their experiences with the Emotional Resonance Mapping tool.
   - **Key Insights:**
     1. **Usability Enhancements:** Users highlighted the need for more intuitive navigation and clearer visualization labels to improve overall usability.
     2. **Feature Requests:** Requests for additional customization options and more detailed emotional metrics were frequently mentioned.
@@ -54,7 +54,7 @@
 - [X] Monitor the effectiveness of the Emotional Resonance Mapping tool and collect user feedback for future improvements.
 
 
-- **Quantitative Data Collection:** The gathering of quantitative emotional response metrics from users has been completed, following the implementation of enhancements to ensure the tool's effectiveness and user satisfaction.
+- **Quantitative Data Collection:** Completed the gathering of quantitative emotional response metrics from users following the implementation of enhancements to ensure the tool's effectiveness and user satisfaction.
 
 ## Analysis of Gathered Feedback
 
