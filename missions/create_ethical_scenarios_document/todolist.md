@@ -1,1 +1,1 @@
-[ ] Review and compile notes on the finalized ethical scenarios based on team feedback to enhance clarity and effectiveness throughout the document.
+[x] Review and compile notes on the finalized ethical scenarios based on team feedback to enhance clarity and effectiveness throughout the document.
