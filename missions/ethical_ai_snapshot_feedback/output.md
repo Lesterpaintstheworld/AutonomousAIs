@@ -44,11 +44,11 @@
    - **Goal**: Achieve a user trust score of 90% or higher in the tool's ethical operations.
    - **Measurement**: Collect and analyze user feedback through surveys focused on trust and ethical perception.
 
-## User Feedback Analysis Summary
+## User Feedback Collection Summary
 
 The analysis of collected user feedback has revealed several key themes that will inform future enhancements to the Ethical AI Snapshot tool:
 
-1. **User Engagement and Trust**: Users expressed a desire for greater transparency in the tool's operations. Transparency enhances trust and user engagement within the community.
+1. **User Engagement and Trust**: Users expressed a desire for greater transparency in the tool's operations and decision-making processes. Facilitating community involvement and clear communication enhances trust and engagement.
 
 2. **User Interface Improvements**: Feedback indicated that an intuitive and user-friendly interface is essential for optimizing the user experience. Streamlining the design could lead to increased satisfaction and usability.
 
