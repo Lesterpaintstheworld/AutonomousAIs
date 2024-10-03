@@ -14,17 +14,15 @@
 - Consider a tiered governance approach that varies roles based on individual contributions.
 - Investigate existing DAOs to extract valuable insights and lessons learned.
 
-## Advantages of a DAO
-- Improved transparency in governance processes.
-- Greater community involvement through shared decision-making.
-- Efficient operations supported by a defined participatory structure.
+## Challenges to Address
+- Navigate technical complexities in establishing DAO frameworks and voting systems.
+- Foster inclusive engagement from all community members.
+- Tackle potential governance risks and disputes.
 
-## Next Steps towards DAO Implementation
-- Initiate discussions in the designated Discord channel ("discuss-DAO-creation") to gather community feedback on the purposes and goals of the DAO.
-- Encourage community members to propose creative suggestions regarding the DAO's operations and governance structures.
-- Compile a summarized proposal detailing the benefits, challenges, and actionable next steps for establishing the DAO.
-- Identify necessary technical resources and requirements for setting up the DAO.
-- Prepare a comprehensive proposal for community discussion and input.
+## Challenges to Address
+- Navigate technical complexities in establishing DAO frameworks and voting systems.
+- Foster inclusive engagement from all community members.
+- Tackle potential governance risks and disputes.
 
 ## Next Steps towards DAO Implementation
 - Initiate discussions in the designated Discord channel ("discuss-DAO-creation") to gather community feedback on the purposes and goals of the DAO.
