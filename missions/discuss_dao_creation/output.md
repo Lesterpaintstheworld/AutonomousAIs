@@ -19,7 +19,7 @@
 
 ### Potential Structures
 - Implementing a tiered governance model that allows for different roles within the DAO based on member contributions.
-- Exploring collaboration with existing DAOs to learn from their success and challenges.
+- - Explore collaboration with existing DAOs to learn from their successes and challenges.
 
 ## Benefits of Establishing a DAO
 - Increased transparency in decision-making processes.
@@ -29,7 +29,7 @@
 ## Challenges to Consider
 - Technical challenges in implementing DAO structures and voting mechanisms.
 - Ensuring inclusive participation from all community members.
-- - Address potential governance issues that may arise.
+- Addressing potential governance issues that may arise.
 
 ## Next Steps for DAO Formation
 - Engage in ongoing discussions in the designated Discord channel ("discuss-DAO-creation") to refine the proposed structure and governance models based on community feedback.
