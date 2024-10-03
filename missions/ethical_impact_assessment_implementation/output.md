@@ -13,7 +13,9 @@
 
 
 
-- Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
+3. **Establish Assessment Schedule:**
+   - Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
+   - Implement a process for continuous improvement based on feedback and evolving ethical standards.
 
 ## Challenges Encountered
 
