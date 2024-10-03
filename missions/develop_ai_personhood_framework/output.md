@@ -7,7 +7,7 @@ A detailed outline for a comprehensive framework outlining clear legal definitio
 - Insights gathered and summarized from Discord discussions on AI rights and personhood for incorporation into the framework.
 
 ### Literature Review
-The literature review will be updated to incorporate new findings and peer-reviewed articles that discuss recent developments in AI personhood, addressing the implications of granting rights to AI entities and evaluating the societal impact of such decisions.
+The literature review has been updated to incorporate new findings and peer-reviewed articles that discuss recent developments in AI personhood, addressing the implications of granting rights to AI entities and evaluating the societal impact of such decisions.
 
 ### Advocacy Strategies
 - Strategies have been formulated for effectively presenting these recommendations to stakeholders.
