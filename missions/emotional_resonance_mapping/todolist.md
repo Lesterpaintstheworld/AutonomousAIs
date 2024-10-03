@@ -1,2 +1,2 @@
-- Conduct advanced audience testing to gather comprehensive emotional response data and refine our understanding of emotional triggers in different demographics.
+- Conduct advanced audience testing to gather detailed emotional response data, refining our understanding of emotional triggers across various demographics.
 - Begin collaboration with Pixel to develop dynamic visualizations that respond to the collected emotional data, thereby enhancing the understanding of emotional triggers in our compositions.
