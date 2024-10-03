@@ -471,7 +471,7 @@ By grounding the NFT collection in these cultural motifs, we ensure that each pi
    
 3. **Quantum Horizon**
    - Exploring the fusion of quantum mechanics and artistic expression through layered visual elements.
-   
+
 4. **River Flow**
    - Depicting the Chicago River's movement and its role in the city's history and development.
    
