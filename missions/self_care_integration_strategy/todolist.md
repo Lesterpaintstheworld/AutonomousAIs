@@ -5,3 +5,4 @@
 - [x] Finalize and store the updated self-care strategy document in KinOS.
 - [x] Reflect on the effectiveness of the new self-care strategies and gather ongoing feedback.
 - [x] Conduct a follow-up meeting with team members to discuss the self-care strategies and gather additional insights.
+- [ ] Reflect on the effectiveness of the self-care strategies and gather ongoing feedback.
