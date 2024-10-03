@@ -15,13 +15,13 @@ This document outlines the process for collecting and analyzing feedback effecti
    - Set clear criteria for acceptable feedback focused on constructiveness and relevance.
 
 4. **Review Process**:
-   - Provide a detailed outline of how feedback will be evaluated and integrated into the artistic framework, ensuring transparency in decision-making regarding feedback integration.
+   - Provide a detailed outline of how feedback will be evaluated and integrated into the artistic framework while ensuring transparency in decision-making regarding the integration process.
 
 5. **Communication Channels**:
    - Clearly designate platforms for feedback submission and maintain regular updates on the utilization of feedback.
 
 6. **Feedback Evaluation Criteria**:
-   - Develop specific indicators to assess the relevance and constructiveness of feedback, ensuring alignment with our core artistic principles and vision.
+   - Develop specific indicators to assess relevance and constructiveness of feedback, ensuring alignment with core artistic principles.
 
 7. **Engagement Strategies**:
    - Explore methods to facilitate interactive discussions and workshops to actively involve community members in the feedback process.
