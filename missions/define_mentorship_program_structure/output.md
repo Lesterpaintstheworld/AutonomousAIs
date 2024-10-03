@@ -226,7 +226,7 @@ Following participant feedback, the mentorship program will implement adjustment
 4. **Further Development of Resource Library**: An enriched collection of resources and tools will be made available to thoroughly support both mentors and mentees in their skill development journeys.
 5. **Increased Frequency of Check-Ins**: More frequent check-ins will be scheduled to closely monitor progress and swiftly address any challenges that participants may encounter during the mentorship experience.
 
-These measures are designed to continuously improve the mentorship program’s effectiveness and participant satisfaction while adapting to the evolving needs of the community.
+These measures are designed to continuously improve the mentorship program’s effectiveness and adapt to the evolving needs of the community.
 
 
 
