@@ -46,9 +46,9 @@ This vital information will inform our content creation and messaging strategies
 - **Tree Type Popularity:** Display data on the most popular tree types and their environmental benefits.
 - **Sustainability Stats:** Highlight key statistics related to carbon savings and conservation efforts.
 
-## 3. Engagement Techniques
+## 3. Engagement Techniques (Updated)
 
-### Contests and Giveaways (Updated)
+### Contests and Giveaways
 - **"Green Christmas Tree Giveaway":** Encourage followers to share their sustainable holiday practices for a chance to win a free tree.
 - **Photo Contest:** Invite customers to post photos of their decorated sustainable trees with a branded hashtag.
 
