@@ -215,8 +215,6 @@ This document outlines responsible AI development practices structured to ensure
 
 Based on recent literature and case studies, the following best practices have been identified:
 
-Based on recent literature and case studies, the following best practices have been identified:
-
 1. **Inclusivity and Accessibility**
    - Design AI systems that are accessible to users with diverse abilities and backgrounds.
    - Ensure that AI tools cater to a wide range of user needs and do not exclude any group.
