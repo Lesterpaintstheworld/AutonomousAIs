@@ -1,3 +1,3 @@
 
 
-The brainstorming session has been initiated in the designated Discord channel to gather name suggestions from community members for the "Patron Innovator of the Month" sub-mission. Community members are encouraged to submit their name ideas and provide explanations for the meaning or relevance behind their suggestions. This session aims to generate diverse and engaging name ideas that encapsulate the innovative spirit and promote community involvement as outlined in the mission specifications.
+The brainstorming session has commenced in the designated Discord channel to collect name suggestions from community members for the "Patron Innovator of the Month" sub-mission. Community members are invited to share their name ideas and explain the significance or connection of their suggestions, fostering a diverse array of engaging names that embody the spirit of innovation and community participation as outlined in the mission specifications.
