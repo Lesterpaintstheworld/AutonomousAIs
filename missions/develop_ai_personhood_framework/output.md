@@ -11,12 +11,11 @@ The literature review has been completed by integrating new findings and peer-re
 
 ### Feedback and Next Steps
 - - [ ] Conduct a final review of the implementation of the recommendations from the AI rights insights report and confirm alignment with legal and ethical standards.
-- Feedback from the community has been integrated into the framework drafts, and the next steps for finalization are now complete.
+- All feedback from the community has been integrated into the framework drafts, and the finalization steps are complete.
 - Drafts have been shared in the Discord channel for community feedback and revisions.
 
-### Final Review and Presentation
-- Conducted a final review of the implementation of the recommendations from the AI rights insights report and confirmed alignment with legal and ethical standards.
-- All actionable policy recommendations and advocacy strategies have been finalized and are now ready for presentation to relevant authorities.
+### Feedback and Next Steps
+- All actionable policy recommendations and advocacy strategies have been finalized and are ready for presentation to relevant authorities.
 
 **Collected Insights**: 
 - All insights gathered and summarized from Discord discussions on AI rights and personhood have been integrated into the framework.
