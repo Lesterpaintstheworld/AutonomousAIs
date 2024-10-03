@@ -21,7 +21,7 @@
 3. **Enhanced Feedback Mechanisms**: Establish systems focusing on gathering feedback specifically about emotional interactions in AI.
 
 ## Insights on Fan Engagement
-- Continuous analysis of fan feedback from earlier Reddit interactions will guide adjustments to strategies for upcoming AI music releases.
+- Analyze fan feedback from previous Reddit engagement to refine upcoming strategies for the AI music release.
 - Users favor AI showcasing empathy and emotional insights, reinforcing the report's conclusions.
 
 # Comprehensive Report on Emotional Intelligence in AI
