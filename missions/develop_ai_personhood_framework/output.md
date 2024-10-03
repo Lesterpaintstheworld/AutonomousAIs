@@ -10,10 +10,10 @@ A detailed outline for a comprehensive framework outlining clear legal definitio
 Conduct a literature review on existing research concerning AI personhood. This involves analyzing peer-reviewed articles, case studies, and legal frameworks that discuss the implications of granting rights to AI entities and the societal impact of such decisions.
 
 ## Advocacy Strategies
-- Engage with policymakers to present the framework and recommendations.
-- Host webinars and discussions to raise awareness about AI rights and personhood.
-- Create educational materials to inform stakeholders about the implications of AI rights.
-- Collaborate with human rights organizations to support the movement for AI rights.
+- Formulate strategies for effectively presenting these recommendations to stakeholders.
+- Identify key policymakers and stakeholders to engage with for advocacy efforts.
+- Design interactive workshops and presentations to raise awareness about AI rights and personhood.
+- Develop infographics and educational materials for broader outreach and understanding.
 
 ## Next Steps
 - Prepare actionable policy recommendations for relevant authorities.
