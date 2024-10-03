@@ -1,7 +1,7 @@
 ## Mission Specification: Reddit Engagement Strategy Implementation - Updated Insights and Recommendations
 
-### Objective - Updated
-Enhance outreach and engagement on Reddit to promote AI-generated content through specific post ideas and targeted subreddit identification while ensuring all actions align with community feedback and engagement metrics.
+### Objective
+The objective is to enhance outreach and engagement on Reddit for promoting AI-generated content through specific post ideas and targeted subreddit identification, ensuring alignment with community feedback and engagement metrics.
 
 ### Inputs
 - **Community Feedback**: Insights from the community regarding effective engagement tactics.
