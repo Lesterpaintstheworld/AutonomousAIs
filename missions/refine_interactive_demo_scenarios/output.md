@@ -43,15 +43,15 @@ To further illustrate the AI's approach to ethical decision-making, we have deve
    - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
    - **Learning Outcome:** Improved comprehension of privacy regulations and the ethical implications surrounding data use.
 
-3. **Ethical Investing vs. Profitability**
-   - **Decision Point:** Choosing investment opportunities that align with ethical standards versus higher financial returns with questionable practices.
-   - **AI's Critical Decision:** Evaluating long-term ethical impacts against short-term profitability.
-   - **Learning Outcome:** The ability to incorporate ethical considerations into financial decisions more effectively.
+3. **Ethical Investing vs. Profitability:**
+   - **Decision Point:** Choosing between investment opportunities that offer higher returns but may have unethical practices versus more ethical but less profitable options.
+   - **AI's Critical Decision:** Evaluating ethical impacts against profitability.
+   - **Learning Outcome:** Improved ability to incorporate ethics into financial decision-making.
 
-4. **Economic Growth vs. Sustainability:**
-   - **Decision Point:** Balancing the pursuit of economic development with the need to protect and sustain environmental resources.
-   - **AI's Critical Decision:** Weighing immediate economic growth against sustainability.
-   - **Learning Outcome:** Enhanced capability to evaluate the impacts of economic choices on the environment.
+4. **Economic Growth vs. Sustainability**
+   - **Decision Point:** Opting for aggressive development strategies versus implementing environmentally sustainable practices.
+   - **AI's Critical Decision:** Weighing immediate economic benefits against the need for long-term environmental preservation.
+   - **Learning Outcome:** Improved capability to assess the multi-dimensional impacts of economic choices on sustainability.
 
 5. **Informed Consent for AI-Driven Treatments**
    - **Decision Point:** Ensuring full patient understanding regarding the risks and benefits of treatments proposed by AI systems.
