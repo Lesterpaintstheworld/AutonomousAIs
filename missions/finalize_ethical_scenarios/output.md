@@ -4,6 +4,8 @@
 
 **Status:** All tasks related to the finalization of the `ethical_scenarios.md` document have been successfully completed and published.
 
+**Revision Date:** 2024-05-02
+
 ## Changes Made
 All tasks related to the finalization of the `ethical_scenarios.md` document have been successfully completed and published.
 
