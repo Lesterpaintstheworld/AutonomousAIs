@@ -18,9 +18,9 @@ Navigate through the enchanted forest by solving riddles posed by mystical creat
 - **Riddle 3:** I can be cracked, made, told, and played. What am I?
 
 **Objective:**  
-Solve all riddles to find the hidden treasure in the forest.
+Solve all riddles to find the hidden treasure hidden by the mystical creatures.
 
-## Puzzle 2: The Time Traveler’s Secret Code
+## Puzzle 2: The Time Traveler’s Code
 
 **Description:**  
 Decode the messages left by a time traveler to prevent a future catastrophe. Each decoded message brings you closer to unlocking the final code.
