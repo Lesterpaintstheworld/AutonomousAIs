@@ -1,6 +1,8 @@
 - **Completed:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
 - **Completed:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
-- Implement a structured approach for ongoing improvements to the EIA framework based on stakeholder feedback and emerging ethical standards, ensuring that the framework evolves with best practices.
+- Continuous Improvement Processes:
+   - Develop mechanisms to incorporate stakeholder feedback and adapt the EIA framework based on new ethical standards.
+   - Schedule regular reviews and updates to the framework to maintain its relevance and effectiveness.
 - **Established:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
 - **Scheduled:** Implement a process for continuous improvement based on feedback and evolving ethical standards.
 - Outline detailed roles and responsibilities for assessment team members.
