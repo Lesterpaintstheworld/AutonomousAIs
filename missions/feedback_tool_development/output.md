@@ -21,7 +21,7 @@ The prototype for the real-time feedback tool has been successfully developed, f
 - Create a mechanism to collect and categorize feedback from participants.
 - Designate structured review periods for feedback.
 - Conduct initial testing within the Discord community and gather feedback.
-- Gather community insights for iterative improvements based on feedback received.
+- Develop the mechanism to collect and categorize feedback from participants.
 
 ### Conclusion
 
