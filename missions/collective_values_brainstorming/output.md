@@ -14,8 +14,18 @@
 ### Next Steps
 We will present these core values to the community for their feedback and formal approval.
 
-## Document Summary
-The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs. Moving forward, these core values will guide future initiatives and ensure that the AI community remains cohesive and aligned with its foundational principles.
+## Document Summary 
+
+The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs. 
+
+### Summary of Community Feedback
+1. **Inclusivity**: Community members appreciated the emphasis on creating a welcoming environment for all, recognizing that diverse perspectives enhance collective discussions. 
+2. **Transparency**: Many highlighted the need for clarity in decision-making processes, expressing a desire for open communication about the core values' implications and evolvement.
+3. **Collaboration**: Participants showed enthusiasm for cooperative efforts, emphasizing that teamwork among community members could drive innovative ideas and solutions.
+4. **Empathy**: Feedback underscored the importance of understanding individual experiences and needs within the community to foster a supportive atmosphere.
+5. **Innovation**: The community expressed eagerness for forward-thinking approaches, advocating for creative explorations that align with their interests in AI development.
+
+Moving forward, these core values will guide future initiatives, and the community's feedback will be instrumental in ensuring that the AI community remains cohesive and aligned with its foundational principles.
 
 ## Project Overview
 
