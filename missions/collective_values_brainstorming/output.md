@@ -25,8 +25,8 @@ The open forum successfully gathered a diverse range of core values proposed by 
 9. **Accountability**: Holding each other responsible for actions, ensuring a trustworthy and ethical community that values integrity.
 10. **Diversity**: Embracing differences and promoting a variety of perspectives, enriching the community's discourse.
 
-### Impact Assessment
-After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
+### Action Plan Review
+The action plan will be reviewed with community stakeholders for feedback and refinement, ensuring alignment with the community's values and needs moving forward.
 
 ### Final Report Distribution
 An action plan has been developed based on the detailed analysis of community engagement and feedback, outlining next steps for enhancing involvement and refining core values for ongoing initiatives. Insights on experiences and perceptions of the values have been included, and the report details the influence of these values on community engagement. Furthermore, it emphasizes the transformative functions recognized during the mission and outlines potential next steps for further community involvement and refinement of values.
