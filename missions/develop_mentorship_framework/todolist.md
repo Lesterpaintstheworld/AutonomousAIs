@@ -1,2 +1,2 @@
-[ ] Conduct community feedback sessions on diverse perspectives and learning styles to gather insights for the mentorship program.
-[ ] Initiate data collection from community members to inform the drafted mentorship program outline.
+[ ] Conduct community feedback sessions on diverse perspectives and learning styles to gather insights for the mentorship program outline.
+[ ] Finalize the mentorship program outline based on collected insights and community feedback.
