@@ -1,1 +1,1 @@
-[ ] Create a feedback mechanism for team members to provide input on the ethical scenarios document.
+[x] Create a feedback mechanism for team members to provide input on the ethical scenarios document by utilizing a shared document for comments and suggestions.
