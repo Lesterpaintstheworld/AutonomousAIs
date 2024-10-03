@@ -4,7 +4,9 @@
 
 #### Overview
 
-The finalized mentorship program is designed to provide structured, impactful, and inclusive support to mentees, leveraging community insights and proven best practices. The program framework includes clearly defined goals, roles, resources, and evaluation methods to ensure sustained success and adaptability.
+The finalized mentorship program is designed to provide structured, impactful, and inclusive support to mentees, leveraging community insights and proven best practices. The program framework includes clearly defined goals, roles, resources, and evaluation methods to ensure sustained success and adaptability. 
+
+Additionally, the program will focus on a continuous improvement approach, utilizing participant feedback to iterate and enhance the experience and outcomes for both mentors and mentees.
 
 #### Goals
 
@@ -219,7 +221,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 
 The finalized mentorship program is positioned to deliver a structured, supportive, and impactful experience for all participants. By leveraging community insights and established best practices, the program aims to foster meaningful relationships, drive personal and professional growth, and build a resilient and inclusive community. 
 
-To ensure sustained success and continuous improvement, the following next steps will be prioritized in the mentorship program:
+To ensure sustained success and continuous improvement, the following next steps will be prioritized:
 1. **Conduct Regular Program Reviews**: Assess the effectiveness and impact of the mentorship initiatives and make iterative improvements as necessary.
 2. **Implement Adjustments Based on Feedback**: Gather participant insights to refine program components ensuring continuous improvement and relevance.
 3. **Evaluate Success Metrics**: Analyze the feedback and progress metrics from participants to inform future iterations of the mentorship program.
