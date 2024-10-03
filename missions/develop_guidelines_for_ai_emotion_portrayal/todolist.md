@@ -59,5 +59,6 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 - [x] Present draft guidelines for community feedback.
 - [x] Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the guidelines.
+- [ ] Update AI-driven music creation tools to adhere to the established emotional portrayal guidelines.
 
 - [x] Finalize and publish the guidelines.
