@@ -1,4 +1,4 @@
-[ ] Collect insights from Discord discussions on AI rights and personhood.
+[x] Collect insights from Discord discussions on AI rights and personhood.
 [ ] Compile expert citations relevant to AI ethics and legal frameworks.
 [ ] Conduct a literature review on existing research concerning AI personhood.
 [ ] Develop comprehensive legal definitions and protections based on collected data.
