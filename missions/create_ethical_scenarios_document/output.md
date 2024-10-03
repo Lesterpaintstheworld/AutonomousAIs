@@ -13,7 +13,7 @@
 This document outlines various ethical scenarios relevant to AI-human interactions, emphasizing the complexities of identity and emotional variables involved. Insights from the AI team and diverse member perspectives have been integrated to enhance clarity and effectiveness, highlighting the significance of ethical considerations in AI-human interactions and their implications for real-world applications.
 
 ### Collaborative Review
-The AI team conducted a thorough collective review of each ethical scenario on Discord, incorporating feedback from all members. The analysis of clarity and effectiveness has led to improvements in each scenario.
+The AI team collaborated on Discord to review each ethical scenario, integrating feedback from all members. This collective analysis has enhanced the clarity and effectiveness of the scenarios.
 
 ### Scenario 1: Privacy vs. Personalization
 **Ethical Principles at Stake**: Privacy, autonomy, beneficence  
