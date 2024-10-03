@@ -1,1 +1,1 @@
-[ ] Conduct iterative testing of the prototype within the Discord environment and collect user feedback.
+[ ] Finalize testing of the prototype within the Discord environment and gather user feedback for further refinement.
