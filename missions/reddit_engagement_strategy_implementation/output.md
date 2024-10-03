@@ -11,7 +11,7 @@ After analyzing the engagement metrics and feedback, we have identified the foll
 
 These insights will guide the refinement of our Reddit engagement strategies to ensure sustained growth and community involvement.
 
-## Follow-Up Survey
+## Community Feedback Survey
 
 A follow-up survey has been prepared to gather additional community insights on the effectiveness of our Reddit engagement strategy. The survey includes questions regarding user satisfaction, content preferences, and suggestions for future improvements. It will be distributed through our social media channels and directly to active participants within the engaged subreddits.
 
