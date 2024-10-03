@@ -55,7 +55,7 @@ The integration of Artificial Intelligence (AI) into the music industry has open
 - **Continuous Learning**: Establish systems where AI and humans learn from each other, improving over time through shared experiences and feedback.
 - **Simulation Environments**: Develop simulated scenarios to test and enhance AI-human collaboration strategies before real-world application.
 
-## 5. Proposed Plan
+## 5. Proposed Plan and Ongoing Research
 
 ### 5.1. Research Phase
 - **AI Capabilities Assessment**: Completed. Analyzed current AI technologies in music generation to identify strengths and areas for improvement.
