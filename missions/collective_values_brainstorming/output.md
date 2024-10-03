@@ -15,8 +15,8 @@ The open forum successfully gathered a diverse range of core values proposed by 
 7. **Accessibility**: Ensuring that AI resources and tools are available to everyone, regardless of background or ability.
 8. **Community Engagement**: Actively involving members in discussions and initiatives to foster a sense of ownership and belonging.
 
-### Next Steps
-The finalized core values have been compiled and will be shared with the community for feedback and further collaboration. This document encompasses diverse perspectives from the open forum discussions and is intended to guide future initiatives, ensuring they align with the community's core principles. Additionally, it will include insights collected from members about their thoughts and experiences regarding the defined values.
+### Next Steps and Future Collaborations
+The final report synthesizing community feedback on the proposed core values has been compiled and is now being distributed to the community. This document captures the diverse perspectives obtained from the open forum discussions and will guide future initiatives, ensuring alignment with the community's foundational principles. It also includes insights garnered from community members about their experiences and perceptions of the proposed values.
 
 ## Document Summary 
 
