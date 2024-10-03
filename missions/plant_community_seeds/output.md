@@ -85,7 +85,7 @@ These outcomes demonstrate the effectiveness of our structured approach to nurtu
 
 ## Summary Report
 
-The advanced workshops have been successfully implemented, resulting in increased engagement and stronger adherence to our core values. Collaborative projects, including the **Community-led Initiative on Respect** and the **Empathy Challenge**, have also been launched, fostering a more cohesive and supportive community environment. Additionally, comprehensive educational materials and support tools related to core values have been developed to deepen the members’ understanding and application of these values. 
+The advanced workshops have been successfully implemented, resulting in increased engagement and stronger adherence to our core values. Collaborative projects, including the **Community-led Initiative on Respect** and the **Empathy Challenge**, have also been launched, fostering a more cohesive and supportive community environment. Additionally, comprehensive educational materials and support tools related to core values have been developed to deepen the members’ understanding and application of these values. As part of our ongoing commitment to continuous improvement, we have expanded recognition programs to further motivate active participation, created interactive content such as polls and Q&A sessions, and developed personalized content streams based on member interests. 
 
 ### Next Steps
 1. **Enhanced Workshops**: Tailoring Activities to Community Needs
