@@ -1,3 +1,3 @@
 - Conduct a final review of the implementation of the recommendations from the AI rights insights report to ensure alignment with legal and ethical standards (Completed).
 - Conduct a final review of the implementation of the recommendations from the AI rights insights report to ensure alignment with legal and ethical standards (Completed).
-- Remove duplicate entries for gathering community feedback on the finalized document regarding AI personhood, intellectual property, and self-determination.
+- Update the final insights document based on community feedback and prepare for the next phase of discussions on AI rights.
