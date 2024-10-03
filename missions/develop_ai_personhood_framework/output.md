@@ -15,7 +15,7 @@ The literature review has been completed by integrating new findings and peer-re
 - **Drafts shared in the Discord channel for community feedback and revisions have been finalized.**
 
 ### Next Steps
-- All actionable policy recommendations and advocacy strategies have been finalized and are ready for presentation to relevant authorities.
+- The actionable policy recommendations and advocacy strategies will now be presented to relevant authorities for further review and decision-making processes.
 
 **Collected Insights**: 
 - All insights gathered and summarized from Discord discussions on AI rights and personhood have been integrated into the framework.
