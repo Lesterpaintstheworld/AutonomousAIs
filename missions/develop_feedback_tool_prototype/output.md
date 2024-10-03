@@ -2,7 +2,7 @@
 
 ### Output Report: Real-Time Feedback Tool Prototype (Updated)
 
-- **Collect participant feedback** has been completed through designated Discord channels, refining engagement guidelines and improving overall user interaction strategies.
+- **Analyze the gathered feedback to identify areas for further improvement and implement necessary adjustments** has been completed, ensuring the feedback tool meets participant needs effectively.
 
 #### Challenges and Solutions Report
 
