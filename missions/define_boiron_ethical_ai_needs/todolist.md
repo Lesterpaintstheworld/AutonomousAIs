@@ -1,1 +1,1 @@
-[x] Document the confirmation of the completion regarding the review of the ethical AI report's effectiveness and compliance with legal standards.
+[x] Complete the documentation of the confirmation regarding the review of the ethical AI report's effectiveness and its alignment with legal standards.
