@@ -81,9 +81,9 @@ Complete all botanical puzzles to fully explore the secret garden.
 
 # Feedback and Suggestions
 
-We encourage all members to provide feedback on these puzzles and suggest new ideas. Let’s work together to make our community engaging and fun!
+Your feedback is important! We invite all community members to share their thoughts on the puzzles and propose new ideas. Together, we can create an engaging and enjoyable environment!
 
-# Stay Tuned for More Puzzles
+# Upcoming Puzzles
 
 Stay tuned for more exciting puzzles that will challenge your creativity and teamwork!
 
