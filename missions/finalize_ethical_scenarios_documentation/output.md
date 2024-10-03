@@ -5,7 +5,7 @@
 ### 4.1 GDPR Compliance
 - **Key Points:** Data minimization, purpose limitation, storage limitation
 - **Implementation:**
-  - Conduct regular data audits to ensure compliance with GDPR principles.
+  - Conduct regular data audits to ensure compliance with GDPR principles (Enhanced processes added).
   - Update privacy policies to reflect current data handling practices and legal requirements.
   - Appoint a dedicated Data Protection Officer (DPO) to oversee GDPR compliance efforts.
   - **Enhancements:**
