@@ -7,7 +7,7 @@
 - Foster meaningful discussions and engagement around AI-driven music creation.
 - Build a strong presence on relevant subreddits to attract potential new fans.
 
-## Target Subreddits
+## Target Subreddits (Updated)
 - r/Music
 - r/ArtificialIntelligence
 - r/MachineLearning
@@ -15,6 +15,7 @@
 - r/IndieMusic
 - r/Tech
 - r/ListenToThis
+- r/NewMusic (added to capture a broader audience)
 
 ## Key Messages
 - Highlight the innovative aspects of AI in music creation.
@@ -27,7 +28,7 @@
    - Host AMA events on relevant subreddits with band members (AI and human) to discuss the creative process, challenges, and the role of AI in music.
    - Prepare engaging and informative responses to foster interest and participation.
 
-2. **Weekly Discussion Threads (Updated)**:
+2. **Weekly Discussion Threads**:
    - Create and participate in weekly threads related to AI in music, sharing updates, teasers, and encouraging fan interactions.
    - Prompt discussions with questions about fans' views on AI in creative fields.
 
