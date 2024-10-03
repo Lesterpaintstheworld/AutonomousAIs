@@ -1,1 +1,1 @@
-[ ] Conduct a review session to gather final feedback on the requirements document.
+[ ] Analyze and integrate final community feedback into the requirements document before finalizing.
