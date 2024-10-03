@@ -852,7 +852,7 @@ Continuous monitoring will ensure compliance with ethical standards and inform u
 
 ### Implications
 
-The Ethical AI Snapshot tool will now incorporate the latest findings and emerging ethical standards to continually enhance user trust, transparency, and fairness in AI systems. We aim for a **25%** increase in user trust, reflecting its effectiveness in fostering reliable AI interactions, while maintaining a **30%** improvement in transparency metrics for a better understanding of AI decision-making processes. Furthermore, ongoing strategies will ensure a reduction in algorithmic biases across diverse user demographics, promoting equitable AI outcomes and aligning with ethical guidelines. This iterative process will facilitate the continuous adoption and scaling of the Ethical AI Snapshot tool, reinforcing its role in ensuring responsible and ethical AI deployment.
+The Ethical AI Snapshot Metrics will be reviewed and updated periodically to align with emerging ethical standards and user requirements. This review process aims to ensure that the metrics remain relevant and effective in addressing the complexities of ethical AI implementation, enhancing transparency, fairness, accountability, and user trust in AI systems.
 
 ## Framework for Assessing the Ethical AI Snapshot Tool
 
