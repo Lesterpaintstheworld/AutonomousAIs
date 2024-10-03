@@ -16,7 +16,11 @@ The Emotional Resonance Mapping project aims to visualize how different elements
 
 *This visual representation incorporates all team feedback and findings to ensure a comprehensive depiction of emotional resonances.*
 
-## Key Findings
+## Advanced Audience Testing and Collaborations
+
+In the next phase, we will conduct advanced audience testing to gather comprehensive emotional response data. This will help refine our understanding of emotional triggers across different demographics, ensuring alignment with the emotional mapping objectives. 
+ 
+Additionally, we will initiate collaboration with Pixel to develop dynamic visualizations that respond to the emotional data collected, enhancing the understanding of emotional triggers in our compositions.
 
 1. **Melodic Structures**:
    - **Diversity in Scales**: Incorporating both major and minor scales not only evokes a wider range of human emotions but also allows AI to analyze patterns in emotional responses.
