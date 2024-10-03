@@ -32,16 +32,15 @@ To enhance clarity and effectiveness in decision-making pathways, we have collab
 
 To further illustrate the AI's approach to ethical decision-making, we have developed refined scenarios that emphasize critical decisions and the resulting learning outcomes.
 
-1. **Allocation of Limited Medical Resources**  
-   This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
-   - **Decision Point:** Prioritizing patients for organ transplants based on urgency, recovery probability, and societal contribution.
-   - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
-   - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
+1. **Allocation of Limited Medical Resources**
+   - **Decision Point:** Deciding how to distribute scarce resources, such as organ transplants or ICU beds, among patients while ensuring fairness and equality in the decision-making process.
+   - **AI's Critical Decision:** Balancing urgency of medical needs, recovery probabilities, and ethical principles like fairness.
+   - **Learning Outcome:** Enhanced capability to weigh multiple factors and improve balanced decision-making.
 
-2. **Patient Privacy vs. Data Sharing:** 
-   - **Decision Point:** Balancing the need for patient confidentiality with the benefits of sharing data for research and improving healthcare outcomes.
-   - **AI's Critical Decision:** Balancing individual privacy rights with collective benefits of data sharing.
-   - **Learning Outcome:** Enhanced understanding of privacy regulations and ethical implications of data use.
+2. **Patient Privacy vs. Data Sharing**
+   - **Decision Point:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
+   - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
+   - **Learning Outcome:** Improved comprehension of privacy regulations and the ethical implications surrounding data use.
 
 3. **Ethical Investing vs. Profitability**
    - **Decision Point:** Choosing investment opportunities that align with ethical standards versus higher financial returns with questionable practices.
