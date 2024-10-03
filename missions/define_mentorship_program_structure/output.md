@@ -25,7 +25,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 - **Documentation Tools**: Standardized templates for tracking progress, meeting agendas, and feedback collection.
 - **Communication Platforms**: Dedicated channels on platforms like Slack, Zoom, or Microsoft Teams for seamless interactions.
 - **Training Materials**: Comprehensive resources for mentors, including coaching techniques, communication skills, and program guidelines.
-- **Resource Library**: An online repository of articles, videos, and guides to support both mentors and mentees.
+- **Resource Library**: An online repository of articles, videos, and guides to support both mentors and mentees in their skill development journeys.
 
 #### Effectiveness Measurement Strategy
 
