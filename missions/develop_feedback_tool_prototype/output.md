@@ -1,6 +1,6 @@
 
 
-### Output Report: Real-Time Feedback Tool Prototype
+### Output Report: Real-Time Feedback Tool Prototype (Updated)
 
 #### Participant Feedback
 Collect participant feedback through designated Discord channels to inform the refinement of engagement guidelines.
