@@ -15,7 +15,7 @@
 - **Notable Works**: "Virtual Blues," "Quantum Dreams."
 - **Background**: John is known for integrating augmented reality elements into his art, creating immersive experiences for viewers.
 
-## Selected Artworks
+## Potential Artworks
 
 1. **Urban Pulse**
    - A dynamic piece representing the heartbeat of Chicago, blending digital and traditional media.
