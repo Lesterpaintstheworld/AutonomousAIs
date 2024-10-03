@@ -63,7 +63,7 @@
 - Compile a summarized proposal detailing the benefits, challenges, and actionable next steps for establishing the DAO.
 - Identify necessary technical resources and requirements for setting up the DAO.
 - Prepare a comprehensive proposal for community discussion and input.
-- Further discussions to refine the proposed structure and governance models.
+- Continue discussions in the designated Discord channel ("discuss-DAO-creation") to refine the proposed structure and governance models based on community feedback, ensuring inclusivity and diverse participation.
 - Identifying technical requirements and resources needed for DAO implementation.
 - Drafting a detailed proposal for community review and feedback.
 
