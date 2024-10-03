@@ -92,7 +92,7 @@
   - [X] Test all game paths and puzzle solutions
   - [X] Verify combat balance and item effects
 - [X] Debug and fix any identified issues
-  - [ ] Address any crashes or game-breaking bugs
+  - [X] Address any crashes or game-breaking bugs
   - [ ] Resolve minor glitches and text errors
 - [ ] Optimize game performance if necessary
   - [ ] Improve code efficiency where possible
