@@ -3,4 +3,4 @@
 - [x] Review and assess the impact of the proposed core values on community engagement.
 - [x] Define the transformative functions of this mission based on the outcomes of the forum.
 - [x] Gather diverse core value proposals from community members.
-- [x] Reflect on the outcomes and gather further community input for future enhancements.
+- [x] Define the transformative functions of this mission based on the outcomes of the forum.
