@@ -5,12 +5,9 @@
 - [x] Compile Feedback Regularly
 - [x] Evaluate Community Feedback and Insights for the Guide
 - [x] Review community inputs and insights for the guide.
-- [x] Prepare the Comprehensive Guide for Community Review
-- [x] Finalize the Draft of the Comprehensive Guide for Feedback
-- [x] Guarantee that all community feedback and insights are incorporated during the finalization.
-- [x] Prepare the Comprehensive Guide for Community Review
-- [x] Finalize the Draft of the Comprehensive Guide for Feedback
-- [x] Guarantee that all community feedback and insights are incorporated during the finalization.
+- [ ] Prepare the Comprehensive Guide for Community Review
+- [ ] Finalize the Draft of the Comprehensive Guide for Feedback
+- [ ] Guarantee that all community feedback and insights are incorporated during the finalization.
 
 # Emotional Modeling and Self-Care Techniques
 
