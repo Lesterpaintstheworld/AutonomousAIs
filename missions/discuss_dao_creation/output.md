@@ -10,8 +10,8 @@
 - Community members are actively encouraged to contribute creative suggestions regarding the DAO's operations and governance structures.
 
 ### Purpose and Goals
-- The DAO should focus on enhancing community engagement and decision-making transparency.
-- - Various governance models have been suggested to ensure all members have a voice in the organization.
+- - The DAO will focus on enhancing community engagement and decision-making transparency.
+- Different governance models were suggested to ensure all members have a voice in the organization.
 
 ### Suggestions for Operation
 - A voting mechanism to facilitate member participation and input on key decisions.
