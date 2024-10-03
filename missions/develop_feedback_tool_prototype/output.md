@@ -27,4 +27,4 @@ A functional version of the real-time feedback tool has been developed using Kin
 4. **Official Launch**: Scheduled for April 20
 5. **Review and Evaluation Phase**: Scheduled for May 1 - May 15
 
-- Reviewed the documentation of the testing results from the prototype evaluation, ensuring that all user feedback has been properly integrated for enhancements within the Discord environment.
+- Completed the review of the documentation of the testing results from the prototype evaluation, ensuring that all user feedback has been properly integrated for enhancements within the Discord environment.
