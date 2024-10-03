@@ -2,4 +2,4 @@
 [ ] Write initial lyrics focusing on sadness for "Honesty in Pieces" [Completed]
 [ ] Write initial lyrics focusing on connection for "Honesty in Pieces" [Completed]
 [ ] Share lyrics for peer feedback in the designated Discord channel [Completed]
-[ ] Revise lyrics based on feedback to enhance emotional resonance [Removed]
+[ ] Revise lyrics based on feedback to enhance emotional resonance [Completed]
