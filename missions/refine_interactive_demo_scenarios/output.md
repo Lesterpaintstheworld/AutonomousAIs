@@ -25,17 +25,17 @@ The following refined ethical dilemmas illustrate critical decision-making scena
    - **AI's Critical Decision:** Weighing immediate economic benefits against the need for long-term environmental preservation.
    - **Learning Outcome:** Improved capability to assess the multi-dimensional impacts of economic choices on sustainability.
 
-5. **Informed Consent for AI-Driven Treatments**
-   - **Decision Point:** Ensuring full patient understanding regarding the risks and benefits of treatments proposed by AI systems.
-   - **AI's Critical Decision:** Crafting transparent communication strategies to facilitate genuine informed consent.
-   - **Learning Outcome:** Enhanced strategies for presenting complex AI-related information clearly and ethically.
+5. **Informed Consent for AI-Driven Treatments** 
+   - **Decision Point:** Ensuring patients fully understand the risks and benefits of treatments proposed by AI systems.
+   - **AI's Critical Decision:** Developing transparent communication strategies to facilitate genuine informed consent.
+   - **Learning Outcome:** Improved strategies for clearly and ethically presenting complex AI-related information.
 
 ### Additional Refined Ethical Decision Scenarios
 
-6. **Supply Chain Transparency in Finance** 
-   - **Decision Point:** Ensuring complete transparency in the supply chains of financial products while maintaining competitive advantage and profitability.
-   - **AI's Critical Decision:** Balancing ethical responsibilities for transparency with the need to protect sensitive competitive information.
-   - **Learning Outcome:** Improved ability to implement transparency standards without compromising business competitiveness, thereby fostering stakeholder trust.
+6. **Supply Chain Transparency in Finance**
+   - **Decision Point:** Ensuring complete transparency in the supply chains of financial products while maintaining competitive edge and profitability.
+   - **AI's Critical Decision:** Balancing ethical responsibility for transparency with the need to protect sensitive competitive information.
+   - **Learning Outcome:** Enhanced ability to implement transparency standards without compromising business competitiveness, fostering trust among stakeholders.
 
 1. **Allocation of Limited Medical Resources**  
    This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
