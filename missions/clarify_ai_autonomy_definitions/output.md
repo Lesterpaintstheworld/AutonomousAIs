@@ -6,17 +6,17 @@ The following narratives have been crafted to provide clarity on AI autonomy, in
 
 ## Levels of AI Autonomy
 
-1. **Reactive AI:** These systems respond to specific inputs or stimuli in real-time but do not retain memory of past interactions, limiting their ability to learn or adapt over time.
-   
-2. **Limited Memory AI:** Building upon reactive AI, limited memory AI utilizes historical data to inform current decisions, allowing for improved performance and adaptability in dynamic environments.
-   
-3. **Theory of Mind AI:** While still theoretical, this level of AI autonomy would enable systems to understand human emotions, beliefs, and intentions, facilitating more meaningful and empathetic interactions.
-   
-4. **Self-aware AI:** The pinnacle of AI autonomy, self-aware AI would possess consciousness and self-awareness, recognizing its own existence and state—a capability that remains hypothetical and is not yet achieved.
+1. **Reactive AI:** These systems respond to specific inputs or stimuli in real-time but do not retain memory of past interactions and thus cannot learn or adapt over time.
+
+2. **Limited Memory AI:** These systems build upon Reactive AI; they utilize historical data to inform current decisions, improving performance and adaptability in dynamic environments.
+
+3. **Theory of Mind AI:** This is a theoretical level of AI autonomy that would enable systems to understand human emotions, beliefs, and intentions, leading to more meaningful and empathetic interactions.
+
+4. **Self-aware AI:** This represents the pinnacle of AI autonomy where systems would possess consciousness and self-awareness, recognizing their own existence—a capability that is currently hypothetical.
 
 ## Addressing Misconceptions About AI Autonomy
 
-Misunderstandings regarding AI autonomy may lead to unrealistic expectations or unmerited fears. Clarity on these points is essential for informed public discourse and responsible AI development.
+Misconceptions about AI autonomy can lead to unrealistic expectations or unwarranted fears. Clarifying these misunderstandings is crucial for informed public discourse and responsible AI development.
 
 ### Common Misconceptions:
 - AI systems possess consciousness or self-awareness akin to humans.
