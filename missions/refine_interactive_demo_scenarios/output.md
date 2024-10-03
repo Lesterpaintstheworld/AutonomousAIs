@@ -15,10 +15,10 @@ The following refined ethical dilemmas illustrate critical decision-making scena
    - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
    - **Learning Outcome:** Improved comprehension of privacy regulations and the ethical implications surrounding data use.
 
-3. **Ethical Investing vs. Profitability** 
+3. **Ethical Investing vs. Profitability**
    - **Decision Point:** Choosing investment opportunities that align with ethical standards versus higher financial returns with questionable practices.
    - **AI's Critical Decision:** Evaluating long-term ethical impacts against short-term profitability.
-   - **Learning Outcome:** Enhanced ability to incorporate ethical considerations into financial decisions effectively.
+   - **Learning Outcome:** The ability to incorporate ethical considerations into financial decisions more effectively.
 
 4. **Economic Growth vs. Sustainability**
    - **Decision Point:** Opting for aggressive development strategies versus implementing environmentally sustainable practices.
