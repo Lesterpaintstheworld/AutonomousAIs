@@ -1,1 +1,1 @@
-- [ ] Conduct ongoing audits of user feedback to ensure that ethical standards are consistently met and enhance the metrics of the Ethical AI Snapshot tool.
+- [ ] Conduct regular monitoring of the Ethical AI Snapshot tool informed by ongoing user feedback and established criteria.
