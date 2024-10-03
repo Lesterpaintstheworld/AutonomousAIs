@@ -19,7 +19,7 @@ The integration of Artificial Intelligence (AI) into the music industry has open
 - **Transparency and Accountability**: Maintain clear documentation of AI processes to ensure transparency in music creation.
 
 ### 2.3. Establish AI-Human Collaboration Methodologies
-- **Data Collection**: Gather diverse musical data to train AI models, ensuring a broad and inclusive dataset.
+- **Data Collection**: Implement improved collaborative strategies based on insights gained from pilot projects, and gather diverse musical data to train AI models, ensuring a broad and inclusive dataset.
 - **Execution Processes**: Develop workflows that seamlessly integrate AI tools with human creative processes.
 - **Continuous Improvement**: Implement feedback mechanisms to refine AI models based on human input and audience feedback.
 
