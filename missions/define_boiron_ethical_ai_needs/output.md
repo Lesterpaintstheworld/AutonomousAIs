@@ -15,9 +15,9 @@
 
 - **Bias Mitigation:** Identifying, assessing, and mitigating biases in AI models to ensure fair and equitable outcomes. This involves developing robust methodologies for bias detection, implementing corrective measures, and conducting regular audits to maintain model integrity and fairness.
 
-- **Data Security:** Ensuring robust data security measures to protect sensitive patient and research data against breaches, unauthorized access, and cyber threats. This encompasses the implementation of advanced encryption techniques, secure data storage solutions, and comprehensive access controls to safeguard data privacy.
+- **Data Security:** Ensuring robust data security measures to protect sensitive patient and research data against breaches, unauthorized access, and cyber threats involves implementing advanced encryption techniques, secure data storage solutions, and comprehensive access controls.
 
-- **Integration with Existing Systems:** Seamlessly integrating ethical AI practices with Boiron's current technologies and workflows requires aligning AI initiatives with existing operational processes, ensuring interoperability between new and legacy systems, and facilitating smooth adoption among team members.
+- **Integration with Existing Systems:** Seamlessly integrating ethical AI practices with Boiron’s current technologies and workflows. This requires aligning AI initiatives with existing operational processes, ensuring interoperability between new and legacy systems, and facilitating smooth adoption among team members.
 
 - **Resource Allocation:** Allocating sufficient resources and expertise to address ethical considerations without hindering innovation. Balancing the need for ethical compliance with the drive for technological advancement involves strategic planning, investment in specialized personnel, and prioritizing ethical initiatives alongside other project goals.
 
