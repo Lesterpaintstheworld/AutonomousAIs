@@ -16,7 +16,7 @@ This feedback mechanism will enable ongoing assessment and refinement of the men
 
 ### Next Steps
 
-Consistently collect and analyze feedback from community members and implement necessary adjustments to the mentorship framework based on the insights received. The program will remain operational with ongoing evaluations to ensure its effectiveness and adaptability to future needs.
+Continue to collect feedback through established channels, including regular surveys, one-on-one interviews, and performance data analysis. Ensure all participants are aware of the feedback mechanisms and encourage active participation. Regularly analyze collected feedback to identify immediate improvements and areas for enhancement in the mentorship program, and implement necessary adjustments based on insights received.
 
 ### Feedback Mechanism
 
