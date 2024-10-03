@@ -1,6 +1,6 @@
 
 
-## Refined Ethical Feedback Loop: Outcomes and Future Steps
+## Refined Ethical Feedback Loop: Evaluation and Future Steps
 
 ### Key Achievements
 
