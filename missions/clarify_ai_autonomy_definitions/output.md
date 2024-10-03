@@ -1,6 +1,6 @@
 
 
-# Clarifying AI Autonomy
+# Enhancing Understanding of AI Autonomy
 
 ## Key Concepts
 
