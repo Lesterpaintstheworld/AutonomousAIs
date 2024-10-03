@@ -1,1 +1,1 @@
-[ ] Finalize and distribute the updated requirements document to the community for any last feedback.
+[ ] Monitor and collect any additional feedback from the community after distributing the updated requirements document.
