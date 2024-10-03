@@ -41,7 +41,7 @@
 
 **Week 5:**
 - **Participation Rates**
-  - **Week 10: Develop and launch new puzzles based on community feedback**
+  - **Week 10: Develop and launch new puzzles based on community feedback, incorporating more advanced and collaborative puzzle formats**
   - Participation Rates: Expected participation of 270 participants
   - Feedback Scores: Aim for an average score of 4.9
   - Puzzle Completion Rates: Target 90% completion
