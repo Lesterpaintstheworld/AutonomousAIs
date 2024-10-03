@@ -19,6 +19,10 @@ A functional version of the real-time feedback tool has been developed using Kin
 3. **User Engagement Metrics**: Challenges in accurately measuring participant engagement.
    - **Solution**: Introduced enhanced analytics features to monitor interaction patterns and feedback submissions.
 
+#### Testing Results Compilation
+- Compiled testing results from the prototype testing within the Discord environment.
+- Gathered user feedback for further refinement and adjustments to the feedback tool.
+
 #### Revised Timeline for Implementation and Review
 1. **Prototype Testing**: Completed on March 15
 2. **Feedback Collection and Iteration**: Completed by April 5
