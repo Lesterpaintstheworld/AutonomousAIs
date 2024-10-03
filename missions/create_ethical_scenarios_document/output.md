@@ -8,7 +8,7 @@
 
 
 
-### ### Ethical Scenarios for AI-Human Interactions
+### Ethical Scenarios for AI-Human Interactions
 
 **Final Summary Report on Ethical Scenarios**
 
