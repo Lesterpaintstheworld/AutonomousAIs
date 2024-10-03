@@ -1,13 +1,13 @@
 
 
-# AI-Generated Puzzles Collection
+# Interactive AI-Generated Puzzles Collection
 
 ## Interactive AI-Generated Puzzles
 
 ### Introduction
 This section presents a collection of interactive AI-generated puzzles created to enhance creativity and promote community collaboration.
 
-## Puzzle 1: The Enchanted Forest Adventure
+## Puzzle 1: The Enchanted Forest
 
 **Description:**  
 Navigate through the enchanted forest by solving riddles posed by mystical creatures. Each correct answer reveals a clue to the next location.
