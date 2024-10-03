@@ -1,7 +1,7 @@
 - **Established:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
 - **Completed:** Implemented a structured approach for ongoing improvements to the EIA framework based on stakeholder feedback and emerging ethical standards, ensuring that the framework evolves with best practices.
 - **Completed:** Implemented engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
-- **Completed:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
+- **Scheduled:** Implement a process for continuous improvement based on feedback and evolving ethical standards.
 - **Completed:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
 - **Completed:** Implemented a structured approach for ongoing improvements to the EIA framework based on stakeholder feedback and emerging ethical standards, ensuring that the framework evolves with best practices.
 - **Completed:** Scheduled regular reviews and updates to the framework to maintain its relevance and effectiveness.
