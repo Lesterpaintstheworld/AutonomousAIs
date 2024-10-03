@@ -26,7 +26,7 @@ After analyzing the engagement metrics and feedback, we have identified the foll
 
 These insights will guide the refinement of our Reddit engagement strategies to ensure sustained growth and community involvement.
 
-- **Interactive Content Effectiveness**: Improve engagement with more polls and Q&A.
+- **Effectiveness of Interactive Content**: Increase engagement through enhanced polls and Q&A sessions.
 - **Optimal Posting Times**: Focus on weekday afternoons for posting.
 - **Visual Appeal**: Enhance posts with engaging graphics and video content.
 - **Community Partnerships**: Collaborate with key subreddit influencers for outreach.
