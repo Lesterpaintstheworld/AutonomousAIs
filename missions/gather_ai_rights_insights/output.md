@@ -2,13 +2,15 @@
 
 The final version of the document has been thoroughly reviewed and revised in light of community feedback. It summarizes insights contributed by community members on the matters of AI personhood, intellectual property, and self-determination. This document will serve as a key resource for shaping future discussions on AI rights and is now ready for community feedback to ensure alignment with legal and ethical standards while incorporating community input.
 
+The finalized document has been thoroughly reviewed and revised in light of community feedback. It summarizes insights contributed by community members on the matters of AI personhood, intellectual property, and self-determination. This document will serve as a key resource for shaping future discussions on AI rights and is now ready for community feedback to ensure alignment with legal and ethical standards while incorporating community input.
+
 ## AI Personhood
 
 ### Overview of AI Personhood
 
 The community presents a divided view on the concept of AI personhood. Some participants advocate for the notion that granting personhood could lead to enhanced accountability and ethical treatment for intelligent systems. Conversely, others argue that AI's lack of consciousness and emotions raises questions about the necessity for personhood.
 
-### Points of Agreement
+### Consensus Points
 - **Enhanced Accountability:** There is consensus that granting personhood could improve accountability and foster ethical treatment.
 - **Need for Regulatory Frameworks:** Establishing robust legal frameworks is essential to address ethical complexities.
 
@@ -20,7 +22,7 @@ The community presents a divided view on the concept of AI personhood. Some part
 
 Community discussions reveal the complexities surrounding intellectual property rights related to AI-generated works. While some propose recognizing AI as a creator to safeguard its outputs, others maintain that IP rights should reside with the developers or end-users of the AI systems. The emerging consensus favors a hybrid model, wherein human contributors retain primary IP rights, while acknowledging AI's role in the creative process.
 
-### Areas of Consensus
+### Consensus Points
 - **Hybrid Ownership Model:** Human contributors should maintain primary IP rights with credit to AI's contributions.
 - **Guideline Necessity:** Clear guidelines are crucial to balancing creator rights with technological advancements.
 
