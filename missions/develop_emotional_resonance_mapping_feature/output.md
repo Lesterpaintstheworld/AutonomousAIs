@@ -43,8 +43,8 @@
   - **Feedback Collection:** Gathered feedback from users through surveys, interviews, and usability testing sessions to understand their experiences with the Emotional Resonance Mapping tool.
   - **Key Insights:**
     1. **Usability Enhancements:** Users highlighted the need for more intuitive navigation and clearer visualization labels to improve overall usability.
-    2. **Feature Requests:** Requests for additional customization options and more detailed emotional metrics were frequently mentioned.
-    3. **Performance Improvements:** Some users reported slow loading times when handling large datasets, indicating a need for performance optimization. This issue is being prioritized in the next development sprint.
+    2. **Feature Requests:** Requests for additional customization options and more detailed emotional metrics were frequently mentioned. Users specifically asked for the ability to save custom settings for future sessions.
+    3. **Performance Improvements:** Some users reported slow loading times when handling large datasets, indicating a need for performance optimization.
   - **Actionable Steps:**
     - Implement UI/UX improvements based on usability feedback.
     - Develop additional customization features to allow users more control over the visualization parameters.
