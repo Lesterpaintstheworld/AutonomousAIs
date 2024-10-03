@@ -2,7 +2,7 @@
 
 # Interactive AI-Generated Puzzles Collection
 
-## Participation Guide
+## How to Participate
 1. **Choose a Puzzle:** Select any of the above puzzles to start.
 2. **Collaborate:** Work with community members to solve the challenges.
 3. **Submit Solutions:** Share your answers in the designated Discord channel.
