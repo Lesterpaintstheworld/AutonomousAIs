@@ -8,7 +8,7 @@
 ### Action Taken
 - Finalized the requirements document based on the integrated community feedback.
 - Shared the finalized requirements document in the Discord channel for community validation.
-- Conducted feedback sessions in the Discord channel to gather further community input.
+- Conducted a review session to gather final feedback on the requirements document.
 
 ### AI Capabilities
 1. **Integration with Existing Technologies:** Utilize current AI tools and platforms to enhance project workflows and outcomes.
