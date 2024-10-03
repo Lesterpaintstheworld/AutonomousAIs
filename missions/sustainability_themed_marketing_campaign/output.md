@@ -87,14 +87,14 @@ This vital information will inform our content creation and messaging strategies
 
 ## 6. Budget Allocation
 
-### Breakdown
+### Breakdown (Updated)
 - **Content Creation:** 30%
 - **Social Media Advertising:** 25%
 - **Event Hosting:** 20%
 - **Contests and Giveaways:** 15%
 - **Partnerships:** 10%
 
-## 7. Risk Management (Updated)
+## 7. Risk Management
 
 ### Potential Risks
 - **Low Engagement:** Mitigate by utilizing diverse content formats and targeted advertising.
