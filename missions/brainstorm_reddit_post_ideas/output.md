@@ -56,7 +56,7 @@
 5. **Collaborate with Influencers**: Partner with popular Reddit users or moderators in the target subreddits to increase visibility.
 6. **Provide Value**: Share insights, tips, and valuable information that benefits the community members.
 
-[x] Share the final list of creative post ideas in the "brainstorm-reddit-post-ideas" channel for community feedback and collect suggestions for improvement.
+1. Share the finalized list of creative post ideas in the "brainstorm-reddit-post-ideas" channel to gather community feedback and suggestions for enhancement.
 
 ### Ongoing Engagement
 - Monitor responses and feedback on posts.
