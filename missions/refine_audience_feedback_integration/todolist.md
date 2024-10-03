@@ -1,4 +1,4 @@
-[ ] Utilize Discord channels for systematic collection of insights from community members.
-[ ] Evaluate the collected feedback against the established artistic goals.
-[ ] Draft a detailed framework document for the effective integration of feedback.
-[ ] Collaborate with community members to refine the draft for clarity and align it with artistic vision.
+[ ] Systematically collect insights from community members via designated Discord channels.
+[ ] Review the collected feedback for its relevance against established artistic goals.
+[ ] Create a comprehensive draft outlining the guidelines for feedback integration.
+[ ] Work with community members to refine the draft for clarity and alignment with artistic vision.
