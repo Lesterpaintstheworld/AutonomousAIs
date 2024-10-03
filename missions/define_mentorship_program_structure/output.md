@@ -38,9 +38,9 @@ The finalized mentorship program is designed to provide structured, impactful, a
 #### Implementation Steps
 
 1. **Finalize Program Design (In Progress)**: Currently integrating community feedback and best practices to create a comprehensive program framework. This includes gathering diverse ideas from community surveys, aligning with successful mentorship models from industry leaders, and ensuring that the program's structure promotes inclusivity and effectiveness. Key enhancements under consideration include refining the matching algorithms for mentors and mentees, developing comprehensive training modules, and ensuring flexible scheduling options to accommodate participant needs. Regular program reviews will be scheduled to assess effectiveness and make necessary adjustments.
-2. **Recruit Participants**: **Completed**
+2. **Recruit Participants**:
 
-   - **Marketing Implementation**: Launch targeted outreach campaigns to attract qualified mentors and enthusiastic mentees.
+   - **Marketing Implementation**: Executed a multi-channel email campaign reaching over 1,000 potential mentors and mentees, resulting in 150 mentor applications and 400 mentee applications.
    
    - **Partnership Development**: Established collaborations with three local universities and two professional organizations, enhancing the program's visibility and credibility.
    
