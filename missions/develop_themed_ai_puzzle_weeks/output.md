@@ -51,6 +51,7 @@
     - Include advanced logic puzzles and thematic challenges addressing "Nature's Wonders," "Ancient Civilizations," "Futuristic Technology," and "Mythology and Legends."
     - Execute and review puzzle activities specifically for Week 10.
     - Continue monitoring engagement metrics and gathering ongoing feedback to assess community satisfaction and participation levels.
+    - Conduct surveys to gather further insights from participants about their experiences.
 
 - **Feedback Scores**
   - Week 5: Average score of 4.9
