@@ -19,13 +19,13 @@
 
 - **Integration with Existing Systems:** Seamlessly integrating ethical AI practices with Boiron’s current technologies and workflows. This requires aligning AI initiatives with existing operational processes, ensuring interoperability between new and legacy systems, and facilitating smooth adoption among team members.
 
-- **Resource Allocation:** Allocating sufficient resources and expertise to address ethical considerations without hindering innovation. Balancing the need for ethical compliance with the drive for technological advancement involves strategic planning, investment in specialized personnel, and prioritizing ethical initiatives alongside other project goals.
+- **Resource Allocation:** Allocating sufficient resources and expertise to address ethical considerations without hindering innovation involves balancing the need for ethical compliance with the drive for technological advancement through strategic planning, investment in specialized personnel, and prioritizing ethical initiatives alongside other project goals.
 
 ## 3. Insights from Recent Discord Discussions
 
 Based on recent discussions in the Discord channel, several key insights have emerged regarding Boiron's ethical AI needs:
 
-1. **Inclusive Decision-Making:** Emphasizing the importance of involving diverse stakeholders in planning AI projects to ensure comprehensive ethical considerations.
+1. **Inclusive Decision-Making:** Emphasizing the importance of involving diverse stakeholders in AI project planning to ensure comprehensive ethical considerations.
 
 2. **Continuous Monitoring:** Implementing ongoing evaluation mechanisms to assess AI systems' performance and ethical compliance over time.
 
