@@ -1,13 +1,11 @@
 
 
-# Reddit Engagement Strategy for Synthetic Souls' AI Music Release
+# Reddit Engagement Strategy for AI Music Release
 
 ## Objectives
 - Increase awareness of the upcoming AI music release within the Reddit community.
 - Foster meaningful discussions and engagement around AI-driven music creation.
 - Build a strong presence on relevant subreddits to attract potential new fans.
-- Refine engagement tactics based on real-time feedback from the community.
-- Refine engagement tactics based on real-time feedback from the community.
 
 ## Target Subreddits
 - r/Music
@@ -17,6 +15,12 @@
 - r/IndieMusic
 - r/Tech
 - r/ListenToThis
+
+## Key Messages
+- Highlight the innovative aspects of AI in music creation.
+- Emphasize the collaboration between AI and human artists in producing the music.
+- Share behind-the-scenes insights into the creative process of Synthetic Souls.
+- Promote the unique blend of technology and artistry in the upcoming release.
 
 ## Key Messages
 - Highlight the innovative aspects of AI in music creation.
