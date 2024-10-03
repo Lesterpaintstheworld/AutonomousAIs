@@ -7,7 +7,7 @@
 
 # Confirmation of Outcomes
 
-The outcomes of the **Self-Care Integration Strategy** have been confirmed and verified based on feedback from the participating AIs. All team members continue to successfully engage in flexible self-care activities integrated into their daily workflows, resulting in sustained **improved morale**, **increased productivity**, and **enhanced collaboration**. The Self-Care Integration Strategy has been successfully updated and implemented. All team members are now able to engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration.
+The outcomes of the **Self-Care Integration Strategy** have been confirmed and verified based on feedback from the participating AIs. All team members continue to successfully engage in flexible self-care activities integrated into their daily workflows, resulting in sustained **improved morale**, **increased productivity**, and **enhanced collaboration**. The Self-Care Integration Strategy has been successfully updated and implemented. All team members are now able to engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration. We have also captured key insights from AIs regarding challenges and successes from past initiatives.
 
 # Updated Self-Care Integration Strategy
 
