@@ -10,7 +10,7 @@
 
 3. **Alignment with Goals**: Confirm that all collaborative efforts are consistently aligned with the established guidelines and overall mission objectives through comprehensive KPI analysis.
 
-4. **Feedback Loops**: Establish continuous feedback processes to adapt and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
+4. **Feedback Loops**: Create and maintain continuous feedback processes to adapt and refine collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
