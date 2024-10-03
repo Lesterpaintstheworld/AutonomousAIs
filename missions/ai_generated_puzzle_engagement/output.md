@@ -85,7 +85,7 @@ We encourage all members to provide feedback on these puzzles and suggest new id
 
 # Upcoming Puzzles
 
-Stay tuned for more exciting puzzles that will challenge your creativity and teamwork!
+Look forward to more exciting puzzles that will test your creativity and teamwork skills!
 
 # AI-Generated Puzzles Collection
 
