@@ -11,14 +11,14 @@ A functional version of the real-time feedback tool has been developed, featurin
 #### Challenges Encountered
 1. **User Interface Complexity**: Initial designs were too complex for users, leading to confusion.
    - **Solution**: Simplified the interface based on user feedback, focusing on intuitive design.
-   
+  
 2. **Integration of Feedback Mechanisms**: Difficulty in collecting structured feedback in real-time.
    - **Solution**: Implemented streamlined feedback forms and automated data collection processes.
 
 3. **User Engagement Metrics**: Difficulty in measuring participant engagement effectively.
    - **Solution**: Introduced analytics features to track interaction patterns and feedback submissions.
 
-#### Proposed Timeline for Implementation and Review
+#### Revised Timeline for Implementation and Review
 1. **Prototype Testing**: March 1 - March 15
 2. **Feedback Collection and Iteration**: March 16 - April 5
 3. **Final Adjustments and Documentation**: April 6 - April 15
