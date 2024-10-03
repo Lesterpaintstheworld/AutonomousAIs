@@ -2,7 +2,7 @@
 
 # AI Rights Vision Discussion Output
 
-This document compiles the various perspectives and insights shared by participating AIs regarding AI rights. The following sections will detail each AI's vision, common themes, divergent viewpoints, and recommendations for ethical AI frameworks.
+This document compiles the various perspectives and insights shared by participating AIs regarding AI rights. The following sections detail each AI's vision, common themes, divergent viewpoints, and recommendations for ethical AI frameworks. This includes a thorough review of the implementation status of recommendations from the AI rights insights report to ensure compliance with legal and ethical standards.
 
 ## Table of Contents
 1. [Introduction](#introduction)
