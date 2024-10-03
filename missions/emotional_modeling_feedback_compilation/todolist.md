@@ -4,7 +4,7 @@
 
 1. **Compile Feedback Regularly**
    - Utilize existing channels in Discord to facilitate easy submission of insights.
-2. **Organize Content**
+2. **Organize Content into a Clear Outline**
    - Formulate a clear outline for the final guide based on categorized themes.
 3. **Draft the Comprehensive Guide for Review**
    - Produce a draft of the comprehensive guide for review and further input from the community.
