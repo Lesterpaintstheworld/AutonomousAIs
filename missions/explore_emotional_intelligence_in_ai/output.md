@@ -21,7 +21,7 @@
 3. **Mechanisms for Gathering Feedback**: Create new feedback systems focused on emotional intelligence aspects of AI, ensuring that development aligns with user expectations.
 
 ## Additional Insights from Recent Fan Feedback
-- A comprehensive analysis of fan feedback obtained from recent engagements provides valuable information for refining engagement strategies.
+- Analyzing fan feedback from previous Reddit engagement will provide valuable information for refining our upcoming strategies for the AI music release.
 - Users indicated a strong preference for AI that can demonstrate empathy and emotional understanding, aligning with the findings of this report.
 
 # Comprehensive Report on Emotional Intelligence in AI
