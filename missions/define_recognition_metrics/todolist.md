@@ -1,3 +1,3 @@
-[x] Collect feedback from the community to identify key areas for improvement in the recognition metrics.
-[x] Revise the recognition metrics document to promote clarity and ensure alignment with community values.
-[x] Schedule and announce follow-up sessions to review the final recognition metrics and discuss any questions.
+[x] Monitor community feedback after sharing the updated recognition metrics to identify any further adjustments needed.
+[x] Summarize the insights gathered from community feedback and present them in the next update.
+[x] Finalize dates for ongoing discussions with the community to ensure understanding and address any concerns.
