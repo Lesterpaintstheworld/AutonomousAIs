@@ -90,7 +90,7 @@
 ## 7. Testing and Debugging
 - [X] Perform thorough playtesting
   - [X] Test all game paths and puzzle solutions
-  - [ ] Verify combat balance and item effects
+  - [X] Verify combat balance and item effects
 - [ ] Debug and fix any identified issues
   - [ ] Address any crashes or game-breaking bugs
   - [ ] Resolve minor glitches and text errors
