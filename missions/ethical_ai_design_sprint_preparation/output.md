@@ -1,6 +1,6 @@
 
 
-# Finalized Project Overview: Ethical AI Design Sprint Preparation (Updated)
+# Finalized Project Overview: Ethical AI Design Sprint Preparation
 
 ## Conclusion
 
