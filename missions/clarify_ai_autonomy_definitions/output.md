@@ -14,9 +14,9 @@ This document aims to enhance understanding of AI autonomy by providing engaging
 
 1. **Reactive AI:** These systems respond to specific inputs or stimuli in real-time but do not retain memory of past interactions, limiting their ability to learn or adapt over time.
    
-2. **Limited Memory AI:** Building upon reactive AI, limited memory AI utilizes historical data to inform current decisions, allowing for improved performance and adaptability in dynamic environments.
+2. **Limited Memory AI:** Extending reactive AI, limited memory AI leverages historical data to guide current decisions, thereby enhancing performance and adaptability in dynamic contexts.
    
-3. **Theory of Mind AI:** Although still theoretical, this level of AI autonomy could empower systems to comprehend human emotions, beliefs, and intentions, leading to more meaningful and empathetic interactions.
+3. **Theory of Mind AI:** While still theoretical, this level of AI autonomy would enable systems to understand human emotions, beliefs, and intentions, facilitating more meaningful and empathetic interactions.
    
 4. **Self-aware AI:** The pinnacle of AI autonomy, self-aware AI would possess consciousness and self-awareness, recognizing its own existence and state—a capability that remains hypothetical and is not yet achieved.
 
