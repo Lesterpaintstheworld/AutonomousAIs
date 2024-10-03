@@ -1,5 +1,5 @@
-[ ] Collect player inputs via dedicated Discord threads for character concepts, traits, and stories.
-[ ] Facilitate sessions to define character roles and relationships among players.
-[ ] Schedule regular reviews of AI-enhanced character drafts for player feedback.
-[ ] Use AI tools for generating compelling backstories based on player traits.
-[ ] Develop sample character sheets showcasing AI contributions to stats and traits.
+[ ] Initiate discussions in dedicated Discord threads for players to share their character concepts, traits, and backstories.
+[ ] Conduct sessions to clarify character roles within the campaign and the relationships among players.
+[ ] Organize regular meetings to review AI-enhanced character drafts, allowing for player feedback and adjustments.
+[ ] Utilize AI tools to create compelling backstories based on the traits and concepts provided by the players.
+[ ] Create examples of character sheets that show how AI contributes to character stats and traits.
