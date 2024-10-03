@@ -52,7 +52,7 @@ This section will focus on identifying strengths in the current feedback methods
 3. **Inclusivity Expansion**: Solicit input from underrepresented groups.
 4. **Feedback Instruments Clarity**: Revise ambiguous questions for better quality input.
 
-## Outcomes and Future Steps
+## Outcomes, Impact Assessment, and Future Steps
 - **Increased Inclusivity**: Enhanced diversification in feedback collection.
 - **Improved Transparency**: Build trust through clear communication.
 - **Actionable Monitoring**: Continuing the assessment of the effectiveness of changes made.
@@ -67,9 +67,9 @@ This section will focus on identifying strengths in the current feedback methods
 
 The refined ethical feedback loop has led to several key achievements and established a framework for ongoing enhancement in our creative practices:
 
-- **Enhanced Participatory Dynamics**: Active efforts have been made to improve representation and engagement diversity.
-- **Heightened Trust through Transparency**: Clear, ongoing communication regarding the feedback process has built a stronger foundation of trust.
-- **Mechanisms for Continuous Evaluation**: Standardized monitoring practices will ensure effective response to and integration of feedback.
+- **Increased Inclusivity**: Enhanced diversification in feedback collection has been prioritized to ensure broader representation.
+- **Improved Transparency**: Clear communication about the feedback process has fostered greater trust within the community.
+- **Actionable Monitoring**: Regular assessments will continue to gauge the effectiveness of changes made.
 
 ### Next Steps
 - Regular assessments of feedback mechanisms and participation will be conducted.
