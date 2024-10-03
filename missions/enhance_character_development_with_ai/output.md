@@ -30,13 +30,11 @@ This framework outlines the collaborative process of integrating AI tools into c
     - **AI-Generated Backstory**: Kethan grew up in the city's alleys, surviving with his wits and agility, aspiring to uncover his true heritage while mastering stealth.
 
 ### Next Steps
-- **Start Discussions**: Discussions initiated in designated Discord threads to gather player inputs regarding their character concepts, traits, and backstories.
-- **Clarify Character Roles**: Focused development sessions conducted to establish clear dynamics within the campaign.
-- **Set Up Regular Review Meetings**: Regular meetings scheduled to incorporate player feedback into AI-enhanced drafts.
-- **Generate Captivating Backstories Using AI Tools**: Engaging backstories created that reflect player traits and concepts with the help of AI.
-- **Develop Character Sheets**: Character sheets developed that showcase AI contributions to character attributes and traits.
-- **Confirm Task Completion**: All tasks in the todolist have been fulfilled and documented.
-- **Enhance Collaboration with AI**: Procedures for integrating AI tools into character development processes have been effectively implemented.
+- Start discussions in the designated Discord threads to gather player inputs regarding their character concepts, traits, and backstories.
+- Clarify character roles and relationships during focused development sessions to establish clear dynamics within the campaign.
+- Set up regular review meetings to incorporate player feedback into AI-enhanced drafts.
+- Generate captivating backstories using AI tools that reflect player traits and concepts.
+- Create character sheets that illustrate AI contributions to character attributes and traits.
 2. **Clarify Character Roles**: Conduct focused development sessions to establish clear dynamics within the campaign.
 3. **Organize Regular Review Meetings**: Schedule regular meetings to incorporate player feedback into AI-enhanced drafts.
 4. **Utilize AI Tools**: Generate captivating backstories that reflect player traits and concepts.
