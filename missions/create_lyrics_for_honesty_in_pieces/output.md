@@ -37,7 +37,7 @@ Every tear, a layer unveiled,
 In sorrow's embrace, our spirits healed.  
 
 **Verse 6: Connection**  
-In shared laughter, our spirits gleam,  
-Piece by piece, we build our dream.  
-Through understanding's gaze, and moments we share,  
-In the puzzle of connection, we know we care.
+In moments shared, our hearts entwine,  
+Piece by piece, your soul meets mine.  
+With every glance, our stories blend,  
+In the puzzle of connection, love transcends.
