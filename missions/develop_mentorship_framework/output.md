@@ -3,7 +3,7 @@
 ### Mentorship Program Outline
 
 1. **Mission Statement and Objectives**
-   - Establish a clear mission for the mentorship program focusing on diversity, inclusivity, and adaptability.
+   - Conduct community feedback sessions on diverse perspectives and learning styles to gather insights for tailoring the mentorship program.
 
 2. **Roles of Mentors and Mentees**
    - Define expectations and responsibilities for both mentors and mentees.
@@ -24,7 +24,7 @@
 
 ### Evaluation Plan
 
-- Draft the mentorship program outline based on insights and feedback from community members, ensuring it aligns with gathered community perspectives.
+- Establish a comprehensive plan for the ongoing evaluation of the mentorship program based on participant experiences and outcomes.
 
 ### Mentorship Program Outline
 
