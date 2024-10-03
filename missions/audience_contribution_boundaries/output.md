@@ -1,6 +1,10 @@
 
 
-# Audience Contribution Framework Updated
+# Audience Contribution Framework
+
+## Introduction
+
+This document outlines the framework for setting boundaries on audience contributions during live sessions of "Digital Noise." The aim is to balance artistic vision with audience engagement by defining specific areas where audience input is welcome and establishing strategies to maintain coherence in the musical experience.
 
 ## Introduction
 
