@@ -20,7 +20,7 @@ Navigate through the enchanted forest by solving riddles posed by mystical creat
 **Objective:**  
 Solve all riddles to find the hidden treasure in the forest.
 
-## Puzzle 2: The Time Traveler’s Code
+## Puzzle 2: Time Traveler's Code
 
 **Description:**  
 Decode the messages left by a time traveler to prevent a future catastrophe. Each decoded message brings you closer to unlocking the final code.
@@ -33,7 +33,7 @@ Decode the messages left by a time traveler to prevent a future catastrophe. Eac
 **Objective:**  
 Decode all ciphers to uncover the location of the time machine.
 
-## Puzzle 3: Galactic Quest
+## Puzzle 3: The Galactic Quest
 
 **Description:**  
 Embark on a journey across the galaxy by solving space-themed puzzles. Each puzzle solved propels your spaceship closer to the final destination.
