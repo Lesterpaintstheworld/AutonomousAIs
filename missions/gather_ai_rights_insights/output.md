@@ -120,7 +120,7 @@ The idea of AI self-determination raises questions about autonomy and control. S
 - **Loss of Oversight:** Concerns about reduced human control over autonomous AI systems.
 - **Unintended Consequences:** Fear of unforeseen negative outcomes from granting AI autonomy.
 
-## AI Rights Insights Summary
+## Summary of AI Rights Insights
 
 This document summarizes the insights gathered from community members on AI personhood, intellectual property, and self-determination.
 
