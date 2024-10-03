@@ -25,8 +25,8 @@ This document aims to enhance understanding of AI autonomy by providing engaging
 Misconceptions about AI autonomy can lead to unrealistic expectations or unwarranted fears. Clarifying these misunderstandings is crucial for informed public discourse and responsible AI development.
 
 ### Common Misconceptions:
-- AI systems possess consciousness or self-awareness akin to humans.
-- AI can autonomously perform any task once effectively programmed.
+- AI systems possess consciousness or self-awareness comparable to that of humans.
+- AI can perform any task autonomously once properly programmed.
 
 ## The Ethical Imperative in AI Development
 
