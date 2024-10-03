@@ -13,9 +13,9 @@ This document outlines a marketing campaign focused on sustainability themes for
 - **Community and Conservation:** Showcase partnerships with local conservation projects and community initiatives that support sustainability.
 
 ### Audience Segments
-- **Environmentally Conscious Consumers:** Focus on the eco-friendly aspects and carbon footprint reduction benefits.
-- **Families and Traditions:** Highlight sustainable traditions and the joy of celebrating holidays responsibly.
-- **Corporate Clients:** Present sustainability as a value-add for businesses looking to enhance their green credentials during the holiday season.
+- **Environmentally Conscious Consumers:** Focus on the eco-friendly aspects and the benefits of reducing carbon footprints through sustainable choices.
+- **Families and Traditions:** Highlight sustainable holiday traditions and the positive impact of making responsible choices during the festive season.
+- **Corporate Clients:** Emphasize sustainability as a crucial value proposition for businesses aiming to improve their corporate social responsibility during the holiday season.
 
 ### Data Analysis of Tree Type Popularity
 - **Analysis Completion**: Data visualizations on the popularity of different tree types have been thoroughly analyzed. Key insights gathered include the top three most popular tree types: Fraser Fir, Douglas Fir, and Noble Fir, based on previous years' sales data. This analysis confirms a growing trend towards choosing native species, which resonate with customers valuing local biodiversity and sustainability. 
