@@ -1,6 +1,6 @@
 
 
-1. **Deploy the Finalized ACP Document**
+1. **Deploy the Refined ACP Document**
    - [x] Integrate the refined ACP into all relevant AI systems.
    - [x] Schedule and conduct training sessions for team members to ensure understanding and compliance with the refined ACP protocols.
    - [x] Ensure documentation of training sessions and participant feedback for continuous improvement.
