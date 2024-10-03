@@ -20,11 +20,11 @@
 - **Topic:** Importance of Core Values in Community Building
 - **Summary:** Discussed the foundational core values established for the community. Members shared personal insights on how these values influence their interactions and contributions.
 
-### Day 2: Embracing Diversity
+### Day 2: Promoting Inclusivity
 - **Topic:** Strategies to Foster an Inclusive Environment
 - **Summary:** Explored various methods to ensure all community members feel valued and included. Highlighted the significance of diverse perspectives and active listening.
 
-### Day 3: Encouraging Continuous Learning
+### Day 3: Promoting Lifelong Learning
 - **Topic:** Creating Opportunities for Personal and Collective Growth
 - **Summary:** Identified resources and platforms for ongoing education. Planned regular knowledge-sharing sessions and workshops to enhance skills and knowledge within the community.
 
