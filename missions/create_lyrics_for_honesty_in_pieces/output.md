@@ -13,10 +13,10 @@ Every tear, a bridge unmade,
 In the sorrow's embrace, our fears invade.  
 
 **Verse 3: Connection**  
-In the threads of time, our voices weave,  
-Pieces of trust, through which we believe.  
-In shared laughter and silence embraced,  
-In honesty's glow, our souls interlaced.
+In the tapestry of hearts, we intertwine,  
+Piece by piece, our stories align.  
+Through understandings deep and moments shared,  
+In the puzzle of connection, we find we're cared.
 
 **Bridge: Joy**  
 In golden rays, we lift our hearts,  
