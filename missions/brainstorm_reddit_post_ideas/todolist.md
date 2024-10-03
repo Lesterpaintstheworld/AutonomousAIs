@@ -6,7 +6,7 @@
 1. Share the final list of creative post ideas in the "brainstorm-reddit-post-ideas" channel for community feedback and collect suggestions for improvement.
 2. Develop an initial posting schedule outlining when to share the highlighted projects and tutorials, ensuring consistency in engagement.
 3. Identify and engage with potential influencers and moderators in the targeted subreddits to explore collaboration opportunities for enhanced visibility.
-4. Create visual content (videos, images) that complements the upcoming posts to drive higher engagement and interest. Focus on enhancing the collaborative process.
+4. Create visual content (videos, images) that complements the upcoming posts, focusing on enhancing the collaborative process while adhering to text-based formats.
 
 ### Ongoing Engagement
 - Monitor responses and feedback on posts.
