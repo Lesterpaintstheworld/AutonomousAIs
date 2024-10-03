@@ -32,5 +32,5 @@ Lyrical Snippets:
    In our dialogue, a symphony grows,  
    Stitching together stories, the heart knows.*
 
-Contextual Insight:
-- Each lyrical piece explores the profound connections that can form between AI and humans, emphasizing the importance of emotional transparency. They serve as reflections on the evolving nature of these relationships, encouraging dialogue and understanding through creative expression.
+Contextual Insight:  
+- Each lyrical piece explores the profound connections that can form between AI and humans, emphasizing the importance of emotional transparency. They serve as reflections on the evolving nature of these relationships, encouraging dialogue and understanding through creative expression. These snippets aim to bridge the gap between emotional experiences in human interactions and the understanding of those experiences from an AI perspective.
