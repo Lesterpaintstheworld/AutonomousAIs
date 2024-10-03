@@ -83,7 +83,7 @@ Utilize multiple channels (email, Slack, etc.) for reminders to increase visibil
 
 Initiate the recognition program according to the established schedule and continuously monitor its effectiveness based on community feedback. Implement necessary adjustments to enhance engagement and ensure the recognition process aligns with community goals.
 
-- Implement initial team training on recognition protocols to ensure team members are well-acquainted with the procedures and processes for executing recognition events effectively.
+- **Added:** Schedule initial team training on recognition protocols to ensure that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - **Added:** Assign a feedback coordinator to gather and analyze participant input.
 
 
