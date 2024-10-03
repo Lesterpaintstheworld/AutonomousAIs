@@ -14,7 +14,7 @@
 
 
 ## 11. Lessons Learned Repository
-**Status:** Completed on May 1, 2024.
+**Status:** In Progress.
 
 ### Implementation Steps
 
