@@ -67,13 +67,13 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
     - Leverage recent communication technologies to facilitate more effective discussions.
     - **Introduce AI-powered forums to facilitate and document ethical discussions.**
 
-13. **Interdisciplinary Collaboration**
+12. **Interdisciplinary Collaboration**
     - Foster collaboration between technologists, ethicists, and domain experts.
     - Encourage diverse perspectives to enrich ethical AI decision-making.
     - Incorporate interdisciplinary approaches from recent collaborative studies.
     - **Establish cross-functional teams to address complex ethical challenges.**
 
-13. **User Empowerment and Control**
+14. **User Empowerment and Control**
     - Enhance user agency by allowing greater control over AI interactions.
     - Provide mechanisms for users to understand and modify AI behaviors.
     - Integrate user-centric design principles from the latest research to improve empowerment features.
