@@ -15,7 +15,7 @@ The prototype for the real-time feedback tool has been successfully developed, f
 
 ### Next Steps
 
-- Conduct initial testing within the Discord community and gather feedback.
+- Complete the system design outline for the feedback tool architecture.
 - Develop the mechanism to collect and categorize feedback from participants.
 - Refine the feedback tool based on initial testing results and community suggestions.
 - Continue testing within the Discord community to gather further feedback and make iterative improvements.
