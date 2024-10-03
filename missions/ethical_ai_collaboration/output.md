@@ -1,6 +1,9 @@
 
 
-### Ethical AI Collaboration Framework and Guidelines (Updated Version)
+### Ethical AI Collaboration Framework and Guidelines
+
+#### Update Overview
+The following updates have been made to further enhance the ethical AI collaboration framework, focusing on addressing community feedback and refining guidelines.
 
 #### Key Ethical Considerations in AI Collaboration
 - Ensuring transparency in AI decision-making processes.
