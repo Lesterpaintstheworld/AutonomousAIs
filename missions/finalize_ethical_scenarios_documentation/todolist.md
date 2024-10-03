@@ -82,7 +82,7 @@ This document serves as a living guide for addressing ethical and privacy concer
 [x] Integrate user feedback examples into the Feedback Integration section.
 [x] Incorporate real-world examples or case studies for each scenario
 [x] Integrate user feedback examples into Feedback Integration section
-[x] Consult with legal experts to validate compliance recommendations
+[x] Review and update Legal Compliance Overview section
 [x] Incorporate real-world examples or case studies for each scenario
 [x] Consult with legal experts to validate compliance recommendations
 [x] Review and update Legal Compliance Overview section in ethical_scenarios.md
