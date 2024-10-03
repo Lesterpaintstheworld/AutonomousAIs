@@ -28,10 +28,9 @@ The literature review has been completed by integrating new findings and peer-re
 A literature review has been conducted, analyzing peer-reviewed articles, case studies, and legal frameworks concerning AI personhood. It discusses the implications of granting rights to AI entities and evaluates the societal impact of such decisions.
 
 ## Advocacy Strategies
-- Formulated strategies for effectively presenting these recommendations to stakeholders are documented.
-- Key policymakers and stakeholders have been identified for advocacy efforts.
-- Designed interactive workshops and presentations aim to raise awareness about AI rights and personhood.
-- Developed infographics and educational materials support broader outreach and understanding.
+- Documented actionable policy recommendations prepared for relevant authorities.
+- Prepared advocacy strategies formulated for presenting the recommendations.
+- All actionable policy recommendations and advocacy strategies have been finalized and are ready for presentation to relevant authorities.
 
 ## Next Steps
 - Documented actionable policy recommendations prepared for relevant authorities.
