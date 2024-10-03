@@ -22,7 +22,7 @@
 
 
 
-6. **Community Feedback Process**: Initiated a comprehensive feedback process following the sharing of AI-generated puzzles to gauge community enjoyment and effectiveness. Feedback results will be summarized and presented in a format easily digestible for community members.
+6. **Community Feedback Process**: Initiated a comprehensive feedback process to gauge community enjoyment and effectiveness following the sharing of AI-generated puzzles. Feedback results will be summarized and presented in a user-friendly format for easy understanding.
 
 ## Analysis of User Feedback
 - **Theme Preferences**: Majority of community members favor puzzles based on urban landscapes, digital surrealism, and fantasy settings.
