@@ -1,5 +1,5 @@
 
 
-The brainstorming session is now initiated in the designated Discord channel, where community members are encouraged to submit their name suggestions for the "Patron Innovator of the Month" sub-mission. Participants should also elaborate on the significance or meaning behind their suggested names to foster an engaging discussion that embodies the spirit of innovation and community involvement in this initiative.
+The brainstorming session has been initiated in the designated Discord channel. Community members are encouraged to submit their name suggestions for the "Patron Innovator of the Month" sub-mission. Participants should explain the significance or meaning behind their suggested names to facilitate an engaging discussion that reflects the spirit of innovation and community involvement in this initiative.
 
 The brainstorming session is now initiated in the designated Discord channel, where community members are encouraged to submit their name suggestions for the "Patron Innovator of the Month" sub-mission. Participants should also elaborate on the significance or meaning behind their suggested names to foster an engaging discussion that embodies the spirit of innovation and community involvement in this initiative.
