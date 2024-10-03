@@ -68,7 +68,7 @@
    
 5. **Documentation:**
    - Maintain detailed records of each recognition cycle to track progress and identify areas for improvement.
-   - **Added:** Develop a centralized repository for all recognition-related documents.
+   - Develop a centralized repository for all recognition-related documents.
 
 #
 
