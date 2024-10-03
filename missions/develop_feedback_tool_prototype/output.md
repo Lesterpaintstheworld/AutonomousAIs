@@ -3,7 +3,7 @@
 ### Output Report: Real-Time Feedback Tool Prototype (Updated)
 
 #### Participant Feedback
-Collect participant feedback through designated Discord channels, analyzing insights to refine engagement guidelines and enhance user interactions.
+Collect participant feedback through designated Discord channels to inform the refinement of engagement guidelines.
 
 #### Working Prototype
 A functional version of the real-time feedback tool has been developed using KinOS. It showcases integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program, ensuring user-friendly interactions and effective data collection.
