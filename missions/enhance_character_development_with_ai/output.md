@@ -8,6 +8,7 @@ This framework outlines the collaborative process of integrating AI tools into c
 #### Collaboration Steps
 1. **Collect Player Inputs**: 
    - Initiate discussions in dedicated Discord threads for players to share their character concepts, traits, and backstories.
+   - Ensure all players have access to the threads and encourage participation.
 2. **Define Roles and Relationships**: 
    - Facilitate sessions to clarify character roles within the campaign and their relationships to one another.
 3. **Iterative Reviews**: 
