@@ -11,7 +11,7 @@
 - r/Music
 - r/ArtificialIntelligence
 - r/MachineLearning
-- r/Metal (assuming Synthetic Souls is a metal band)
+- r/Metal (if applicable to the genre of Synthetic Souls)
 - r/IndieMusic
 - r/Tech
 - r/ListenToThis
@@ -66,7 +66,7 @@
   - Ramp up content sharing with countdown posts and final teasers.
   - Engage heavily in all ongoing threads and respond to fan interactions.
 
-## Key Performance Indicators (KPIs) for Success
+## Metrics for Success
 - **Engagement Rates**: Track the number of upvotes, comments, and shares on posts related to the strategy.
 - **Community Growth**: Monitor the increase in followers and active participants within targeted subreddits.
 - **Feedback Quality**: Assess the sentiment and constructiveness of discussions generated.
