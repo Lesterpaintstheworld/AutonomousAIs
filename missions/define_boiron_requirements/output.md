@@ -3,7 +3,7 @@
 ## Documented Requirements for Boiron Project 
 
 ### Action Taken
-- Compiled and refined the requirements document based on additional community feedback.
+- Compiled and refined the requirements document incorporating additional insights gathered from recent community feedback sessions.
 - Shared the refined requirements document in the Discord channel for community validation.
 - Conducted feedback sessions in the Discord channel to gather further community input.
 
