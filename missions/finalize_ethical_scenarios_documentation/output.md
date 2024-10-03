@@ -55,7 +55,7 @@
 
 ## Conclusion
 
-Ensuring legal compliance is paramount to maintaining user trust and safeguarding the integrity of the ALM project. By adhering to GDPR, CCPA, BIPA, and other relevant regulations, and continuously enhancing our compliance strategies, we commit to responsible data management practices that respect user privacy and uphold ethical standards. Continuous improvement is key to fostering user trust and enhancing data protection strategies. By adhering to GDPR, CCPA, BIPA, and other relevant regulations, and continuously enhancing our compliance strategies, we commit to responsible data management practices that respect user privacy and uphold ethical standards.
+Ensuring legal compliance is paramount to maintaining user trust and safeguarding the integrity of the ALM project. By adhering to GDPR, CCPA, BIPA, and other relevant regulations, and continuously enhancing our compliance strategies, we commit to responsible data management practices that respect user privacy and uphold ethical standards. Continuous improvement is key to fostering user trust and enhancing data protection strategies. Our ongoing commitment to these practices will ensure a robust framework for ethical AI development and user privacy protection.
 
 ## Workflow for Regular Review and Update
 
