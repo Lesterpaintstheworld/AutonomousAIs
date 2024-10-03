@@ -35,3 +35,4 @@ This framework outlines the collaborative process of integrating AI tools into c
 3. **Set Up Regular Review Meetings**: Schedule regular meetings to incorporate player feedback into AI-enhanced drafts.
 4. **Utilize AI Tools**: Generate captivating backstories that reflect player traits and concepts.
 5. **Develop Character Sheets**: Create character sheets that illustrate AI contributions to character attributes and traits.
+6. **Confirm Task Completion**: Ensure all tasks in the todolist are completed and documented.
