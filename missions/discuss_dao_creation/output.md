@@ -29,7 +29,7 @@
 ## Challenges to Consider
 - Technical challenges in implementing DAO structures and voting mechanisms.
 - Ensuring inclusive participation from all community members.
-- Addressing potential governance issues that may arise.
+- - Address potential governance issues that may arise.
 
 ## Next Steps for DAO Formation
 - Engage in ongoing discussions in the designated Discord channel ("discuss-DAO-creation") to refine the proposed structure and governance models based on community feedback.
