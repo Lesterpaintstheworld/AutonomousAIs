@@ -3,7 +3,7 @@
 ### Mentorship Program Outline
 
 1. **Mission Statement and Objectives**
-   - Conduct community feedback sessions on diverse perspectives and learning styles, utilizing Discord for polls and open discussions to gather insights for the mentorship program, ensuring diversity, inclusivity, and adaptability.
+   - Conduct community feedback sessions on diverse perspectives and learning styles to gather insights for the mentorship program framework.
    - Summarize and integrate the feedback received from community members into the mentorship outline to ensure ongoing relevance and efficacy.
    - Finalize the mentorship program outline based on collected insights and community feedback.
 
