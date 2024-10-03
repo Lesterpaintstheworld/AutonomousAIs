@@ -14,7 +14,7 @@
 
 
 3. **Establish Assessment Schedule:**
-   - Established regular assessment schedules to monitor AI projects and their adherence to ethical guidelines, ensuring continuous compliance with ethical standards.
+   - **Established:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
    - **Completed:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
 
 ## Challenges Encountered
