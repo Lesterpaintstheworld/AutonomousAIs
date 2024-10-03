@@ -4,7 +4,8 @@
 - [x] Develop and refine interactive case studies based on the prototypes.
 - [x] Conduct final review of the Mentor's Guide to ensure all ethical standards are met before distribution ahead of the design sprint.
 - [x] Distribute the Mentor's Guide to all facilitators.
-- [ ] Launch the Ethical Dilemma Generator ahead of the design sprint.
+- [x] Launch the Ethical Dilemma Generator ahead of the design sprint.
+- [ ] Prepare facilitators with necessary training to effectively use the case studies during sessions.
 - [ ] Prepare facilitators with necessary training to effectively use the case studies during sessions.
 - [ ] Launch the Ethical Dilemma Generator ahead of the design sprint.
 - [ ] Prepare facilitators with necessary training to effectively use the case studies during sessions.
