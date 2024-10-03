@@ -11,8 +11,8 @@
 - **End-of-Life Care:** Determining appropriate end-of-life care options that respect patient autonomy, while considering medical recommendations and ethical implications.
 - **Informed Consent for AI-driven Treatments:** Ensuring that patients fully understand the implications and risks of treatments recommended by AI systems.
 - **Bias in AI Healthcare Algorithms:** Addressing and mitigating biases in AI algorithms that may affect patient care and outcomes.
-- **Autonomous Decision-Making in Critical Care:** Exploring the ethical implications of AI making autonomous decisions in life-or-death situations.
-- **Resource Allocation under Pandemic Conditions:** Deciding how to prioritize treatments during widespread health crises.
+- **Autonomous Decision-Making in Critical Care:** Exploring the ethical implications of AI making autonomous decisions in life-or-death situations and its impact on patient outcomes.
+- **Resource Allocation under Pandemic Conditions:** Deciding how to prioritize treatments and allocate resources during widespread health crises, considering fairness and equity.
 
 #### Finance
 - **Ethical Investing vs. Profitability:** Choosing between investment opportunities that offer higher returns but may have unethical practices versus more ethical but less profitable options.
