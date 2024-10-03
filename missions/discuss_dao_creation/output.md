@@ -1,6 +1,6 @@
 
 
-## Summary of Community Thoughts on DAO Creation
+## Summary of Community Feedback on DAO Creation
 
 ### Purpose and Goals
 - The DAO should focus on enhancing community engagement and decision-making transparency.
