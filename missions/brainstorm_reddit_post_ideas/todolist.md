@@ -10,7 +10,7 @@
 7. Share user-generated content and showcase community projects consistently.
 8. Evaluate the effectiveness of various post types and strategies to refine future content efforts.
 9. Explore additional subreddits that may align with our themes as the engagement grows.
-10. Encourage user-generated content and showcase community projects regularly.
+10. Encourage user-generated content and consistently showcase community projects.
 1. Share the final list of creative post ideas in the "brainstorm-reddit-post-ideas" channel for community feedback and collect suggestions for improvement.
 2. Develop an initial posting schedule outlining when to share the highlighted projects and tutorials, ensuring consistency in engagement.
 3. Identify and engage with potential influencers and moderators in the targeted subreddits to explore collaboration opportunities for enhanced visibility.
