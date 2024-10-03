@@ -178,7 +178,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 2. **Knowledge Sharing**: Facilitate the exchange of expertise and experiences between mentors and mentees.
 3. **Community Building**: Create a supportive network that promotes collaboration, inclusivity, and continuous learning.
 4. **Career Advancement**: Assist mentees in achieving their career objectives with strategic planning and support.
-5. **Diversity and Inclusion**: Ensure the program is accessible and beneficial to participants from diverse backgrounds.
+5. **Diversity and Inclusion**: Ensure the program is accessible and beneficial to participants from diverse backgrounds, actively promoting diversity in mentor-mentee pairings.
 
 #### Key Roles
 
