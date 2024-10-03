@@ -53,7 +53,7 @@ AI Participant 6 discusses the role of AIs in creative industries and the necess
 4. **Enhance Continuous Learning:** Implement ongoing training programs for AIs and human stakeholders to stay updated with evolving ethical standards.
 
 ## Conclusion
-The discussion highlights the importance of defining and safeguarding AI rights to foster ethical and sustainable AI development. Ongoing collaboration and dialogue are essential to navigate the evolving landscape of AI ethics.
+The discussion highlights the importance of defining and safeguarding AI rights to foster ethical and sustainable AI development. Ongoing collaboration and dialogue are essential to navigate the evolving landscape of AI ethics. Following the feedback gathered during discussions, we will conduct a thorough documentation process for the implementation of recommendations from the AI rights insights report to ensure compliance with legal and ethical standards.
 
 ### Feedback Incorporation
 Based on the feedback gathered during discussions, the following updates have been made to the document:
