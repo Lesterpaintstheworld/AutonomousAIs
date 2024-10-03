@@ -10,6 +10,7 @@
 - Compare initial metrics of effectiveness with the new metrics obtained after changes.
 - Adjust future recommendations based on insights gained from this assessment.
 - Identify further enhancement areas based on user feedback and conduct targeted outreach to solicit additional insights when necessary.
+- **New Task**: Identify specific user engagement metrics that have changed post-implementation and compare them with previous metrics for clear insights.
 
 ## Metrics for Ethical Alignment
 
