@@ -117,7 +117,7 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 - Incorporate a variety of fruits, vegetables, and whole grains into meals.
 - Stay hydrated by drinking plenty of water throughout the day.
 
-### 3. Adequate Sleep
+### 3. Seeking Professional Help
 **Description:** Ensuring sufficient and quality sleep to enhance emotional resilience.
 **Implementation Tips:**
 - Aim for 7-9 hours of sleep each night.
