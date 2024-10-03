@@ -98,7 +98,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Comprehensive AI governance frameworks.
     - Enforcement mechanisms for compliance.
 
-### 4. Privacy Metric
+### 4. Privacy and Data Protection Metric
 **Objective:** Ensure the protection of user data and privacy within AI systems.
 
 - **Data Anonymization:**
@@ -113,7 +113,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Clear consent mechanisms.
     - Easy access for users to manage their consent preferences.
 
-### 5. Sustainability and Environmental Impact Metric
+### 5. Sustainability Metric
 **Objective:** Evaluate the environmental and social sustainability of AI systems.
 
 - **Energy Efficiency:**
