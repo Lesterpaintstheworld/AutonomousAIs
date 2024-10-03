@@ -1,1 +1,1 @@
-[x] Conduct a final review of the implementation of the recommendations from the ethical AI report for Boiron to confirm alignment with legal and ethical standards.
+[x] Validate that the ethical AI report recommendations have been effectively implemented and comply with all relevant legal standards.
