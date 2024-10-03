@@ -72,7 +72,7 @@ The following refined ethical dilemmas illustrate critical decision-making scena
 
 These additional scenarios further refine the AI's ethical decision-making capabilities, allowing for more comprehensive and nuanced handling of real-world challenges in various industries.
 
-### Refined Decision Tree for Ethical Decision-Making
+### Updated Decision Tree for Ethical Decision-Making
 
 To enhance clarity and effectiveness in decision-making pathways, we have collaboratively refined the decision tree guiding our AI through ethical dilemmas. This refined tree incorporates streamlined steps and clearer criteria, acknowledging stakeholder impact as a fundamental aspect for aiding in more nuanced decisions.
 
