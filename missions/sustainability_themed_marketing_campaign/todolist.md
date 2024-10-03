@@ -6,7 +6,7 @@
 [ ] Propose methods for engaging customers (e.g., contests, community events).
 [ ] Assemble all elements into a cohesive marketing campaign outline.
 =======
-[ ] Compile insights on sustainability from previous discussions.
+[ ] Analyze data visualizations on the popularity of different tree types.
 [ ] Analyze data visualizations on the popularity of different tree types.
 [ ] Compile insights on sustainability from previous discussions.
 [ ] Develop targeted messaging strategies for different audience segments.
