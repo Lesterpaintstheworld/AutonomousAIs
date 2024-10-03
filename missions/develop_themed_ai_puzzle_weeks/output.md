@@ -41,7 +41,7 @@
 
 **Week 5:**
 - **Participation Rates**
-  - Week 6: 230 participants
+  - Week 10: Add advanced logic puzzles and collaborative formats. Estimated participants: TBD
 
 - **Feedback Scores**
   - Week 5: Average score of 4.9
