@@ -6,6 +6,7 @@
 - **Implement Recognition Schedule**: Set a timeline for monthly recognitions and ensure consistent execution. Regularly update the timeline based on community feedback and engagement metrics to ensure its effectiveness.
 - Develop evaluation metrics to assess the effectiveness of the recognition program, ensuring that they incorporate community feedback for continuous improvement.
 - Regularly update the timeline based on community feedback and engagement metrics to ensure its effectiveness.
+- **Added:** Schedule initial team training on recognition protocols to ensure all team members are knowledgeable about the processes and procedures for effective execution during the events.
 - Develop evaluation metrics to assess the effectiveness of the recognition program, ensuring that they incorporate community feedback for continuous improvement.
 - Regularly update the timeline based on community feedback and engagement metrics to ensure its effectiveness.
 Regularly update the timeline based on community feedback and engagement metrics to ensure its effectiveness.
@@ -45,7 +46,6 @@ Schedule initial team training on recognition protocols to ensure all team membe
    - Launch the first round of recognitions and ensure promotional content is ready beforehand.
    - Host the initial recognition ceremony to honor the selected contributors based on the established criteria and gather feedback on its effectiveness.
 - Collect preliminary feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact.
-- **Added:** Assign a feedback coordinator to gather and analyze participant input.
    - Collect feedback from participants after the initial recognition ceremony to gauge its effectiveness and impact, making necessary adjustments based on the insights gathered.
 
 - **Month 3 and onwards:**
