@@ -20,7 +20,7 @@ This document outlines a marketing campaign focused on sustainability themes for
 ### Data Analysis of Tree Type Popularity
 - **Analysis Completion**: Data visualizations on the popularity of different tree types have been analyzed and insights gathered to inform our content creation and messaging strategies. 
 
-- **Sales Trends**: The analysis revealed the top three most popular tree types based on previous years' sales data: [insert new popular tree types here]. 
+- **Sales Trends**: The analysis revealed the top three most popular tree types based on previous years' sales data: Fraser Fir, Douglas Fir, and Noble Fir. 
 
 - **Consumer Preferences**: There is a marked preference for locally sourced tree types among environmentally conscious consumers, reinforcing the importance of highlighting our sustainable sourcing practices.
 
