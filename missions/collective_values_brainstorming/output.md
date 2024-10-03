@@ -20,7 +20,7 @@ The open forum successfully gathered a diverse range of core values proposed by 
 8. **Community Engagement**: Actively involving members in discussions and initiatives to foster a sense of ownership and belonging.
 
 ### Final Report Distribution
-The final report has been compiled and distributed to the community, synthesizing their feedback on the proposed core values. This document captures diverse perspectives obtained from the open forum discussions and will guide future initiatives, ensuring alignment with the community's foundational principles. It includes insights gathered from community members regarding their experiences and perceptions of the proposed values. The report also provides feedback on the effectiveness of these core values in enhancing community engagement and serves as a foundational document for ongoing community initiatives.
+The final report has been compiled and distributed to the community, synthesizing their feedback on the proposed core values. This document captures diverse perspectives obtained from the open forum discussions and will guide future initiatives, ensuring alignment with the community's foundational principles. It includes insights gathered from community members regarding their experiences and perceptions of the proposed values. The report also provides feedback on the effectiveness of these core values in enhancing community engagement and serves as a foundational document for ongoing community initiatives. Additionally, the summary emphasizes the transformative functions identified during the mission and outlines potential next steps for further community involvement and value refinement.
 
 ## Document Summary 
 
