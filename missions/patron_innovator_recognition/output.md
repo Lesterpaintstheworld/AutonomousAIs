@@ -83,6 +83,8 @@ Utilize multiple channels (email, Slack, etc.) for reminders to increase visibil
 
 ### Launch Recognition Plan
 
+- Schedule initial team training on recognition protocols to ensure all team members are knowledgeable about the processes and procedures for effective execution during the events.
+
 Initiate the recognition program according to the established schedule and continuously monitor its effectiveness based on community feedback. Implement necessary adjustments to enhance engagement and ensure the recognition process aligns with community goals.
 
 - **Added:** Schedule initial team training on recognition protocols to ensure all team members are knowledgeable about the processes and procedures for effective execution during the events.
