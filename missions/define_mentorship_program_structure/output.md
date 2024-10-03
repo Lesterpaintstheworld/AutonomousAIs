@@ -16,16 +16,16 @@ The finalized mentorship program is designed to provide structured, impactful, a
 
 #### Key Roles
 
-- **Mentors**: Experienced professionals committed to providing guidance, feedback, and support to mentees. Responsibilities include regular meetings, goal setting, and sharing relevant resources.
-- **Mentees**: Participants seeking to develop specific skills, expand their professional network, and advance their career goals. Responsibilities include active participation, goal adherence, and providing feedback.
-- **Program Coordinator**: Oversees program operations, including mentor-mentee matching, scheduling, resource management, and handling program logistics.
+- **Mentors**: Skilled professionals who are dedicated to offering support, guidance, and constructive feedback to mentees, including regular meetings, goal-setting sessions, and resource sharing.
+- **Mentees**: Individuals aiming to develop targeted skills, grow their professional networks, and achieve specific career milestones with an emphasis on active engagement and adherence to established goals.
+- **Program Coordinator**: Manages all aspects of the program, including the mentor-mentee matching process, scheduling, resources oversight, and logistical coordination.
 
 #### Necessary Resources
 
-- **Documentation Tools**: Templates standardized for tracking progress, documenting meeting agendas, and collecting feedback efficiently.
-- **Communication Platforms**: Specialized channels on applications such as Slack, Zoom, or Microsoft Teams to facilitate smooth interactions.
-- **Training Materials**: Detailed resources designed for mentors, covering coaching methodologies, communication skills, and detailed program guidelines.
-- **Resource Library**: A curated online repository filled with articles, videos, and instructional guides intended to assist both mentors and mentees.
+- **Documentation Tools**: Standardized templates for tracking progress, meeting agendas, and feedback collection.
+- **Communication Platforms**: Dedicated channels on platforms like Slack, Zoom, or Microsoft Teams for seamless interactions.
+- **Training Materials**: Comprehensive resources for mentors, including coaching techniques, communication skills, and program guidelines.
+- **Resource Library**: An online repository of articles, videos, and guides to support both mentors and mentees.
 
 #### Effectiveness Measurement Strategy
 
