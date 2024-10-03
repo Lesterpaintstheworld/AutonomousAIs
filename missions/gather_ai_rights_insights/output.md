@@ -16,7 +16,7 @@ The community presents a divided view on the concept of AI personhood. Some part
 - **Consciousness Concerns:** The notion of consciousness in AI fuels debate over the relevance of personhood.
 - **Consequential Legal Issues:** Assigning rights and responsibilities to AI creates potential legal complications.
 
-## Summary of Intellectual Property Insights Rights
+## Intellectual Property Rights
 
 Community discussions reveal the complexities surrounding intellectual property rights related to AI-generated works. While some propose recognizing AI as a creator to safeguard its outputs, others maintain that IP rights should reside with the developers or end-users of the AI systems. The emerging consensus favors a hybrid model, wherein human contributors retain primary IP rights, while acknowledging AI's role in the creative process.
 
@@ -50,7 +50,7 @@ Community members are divided on the concept of AI personhood. Some argue that g
 - **Accountability:** Granting personhood could enhance accountability and ethical treatment.
 - **Regulatory Frameworks:** Establishing clear legal frameworks can address ethical concerns.
 
-### Contention
+### Points of Contention
 - **Lack of Consciousness:** AI lacks consciousness and emotions, questioning the need for personhood.
 - **Legal Implications:** Potential legal complications in assigning rights and responsibilities to AI.
 
