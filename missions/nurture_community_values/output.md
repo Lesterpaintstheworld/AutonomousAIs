@@ -4,11 +4,11 @@
 
 ## Daily Discussion Summaries - Week 2
 
-### Day 7: Enhancing Community Connections
+### Day 7: Strengthening Creative Collaborations
 - **Topic:** Strategies for Building Stronger Relationships
 - **Summary:** Discussed methods to improve connections among members, emphasizing trust-building activities and collaborative projects.
 
-### Day 6: Community Input Session
+### Day 6: Open Discussion / Member Feedback
 - **Topic:** Gathering Feedback on Community Initiatives
 - **Summary:** Engaged members in an open conversation about the effectiveness of ongoing initiatives and encouraged suggestions for improvement.
 
