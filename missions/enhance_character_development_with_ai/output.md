@@ -32,5 +32,5 @@ This framework outlines the collaborative process of integrating AI tools into c
 
 ### Next Steps
 1. **Collect Player Inputs**: Initiate discussions in dedicated Discord threads for players to present character concepts, traits, and backstories.
-2. **Clarify Character Roles and Relationships**: Conduct sessions focused on character development to establish roles and relationships within the campaign.
-3. **Iterative Reviews**: Schedule regular review meetings to incorporate player feedback into AI-enhanced character drafts.
+2. **Define Character Roles and Relationships**: Conduct focused sessions with players to clarify character roles and relationships.
+3. **Set Up Recurring Meetings**: Schedule regular meetings to review AI-enhanced drafts using player feedback.
