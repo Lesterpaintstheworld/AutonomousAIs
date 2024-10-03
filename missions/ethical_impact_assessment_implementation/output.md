@@ -6,6 +6,7 @@
 - Analyze feedback and iterate on the framework based on stakeholder insights and suggestions.
 - **Established:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
 - **Scheduled:** Implement a process for continuous improvement based on feedback and evolving ethical standards.
+- **Scheduled:** Implement a process for continuous improvement based on feedback and evolving ethical standards.
 - **Scheduled:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
 - **Scheduled:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
 - 
