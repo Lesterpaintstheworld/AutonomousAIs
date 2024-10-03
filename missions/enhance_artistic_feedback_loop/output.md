@@ -28,7 +28,7 @@
 
 ### Metrics to Track
 
-1. **Contributor Diversity Index**
+1. **Diversity Index of Contributors**
    - Measure the diversity of contributors involved in the feedback process.
 
 2. **Feedback Frequency**
@@ -40,7 +40,7 @@
 4. **Satisfaction Score**
    - Conduct surveys to assess contributor satisfaction with the feedback process.
 
-5. **Balance Between Transparency and Creativity**
+5. **Transparency-Creativity Balance**
    - **Evaluation Method:** Utilize both qualitative assessments, such as thematic analysis of survey responses, and quantitative measures, including contributor satisfaction scores and the frequency of implemented creative suggestions.
    - **Data Sources:** Collect feedback through structured surveys, focus group discussions, and individual interviews to assess perceptions of transparency and creative freedom within the feedback process.
 
