@@ -3,4 +3,4 @@
 - [x] Review and assess the impact of the proposed core values on community engagement.
 - [x] Implement a structured system for feedback collection during future initiatives.
 - [x] Gather diverse core value proposals from community members.
-- [x] Document the feedback and suggestions gathered from the follow-up discussions.
+- [ ] Review and refine the proposed core values based on community feedback gathered during discussions.
