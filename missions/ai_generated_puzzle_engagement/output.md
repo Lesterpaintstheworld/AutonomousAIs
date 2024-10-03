@@ -33,7 +33,7 @@ Decode the messages left by a time traveler to prevent a future catastrophe. Eac
 **Objective:**  
 Decode all ciphers to uncover the location of the time machine.
 
-## Puzzle 3: The Galactic Quest
+## Puzzle 3: Galactic Quest
 
 **Description:**  
 Embark on a journey across the galaxy by solving space-themed puzzles. Each puzzle solved propels your spaceship closer to the final destination.
@@ -46,7 +46,7 @@ Embark on a journey across the galaxy by solving space-themed puzzles. Each puzz
 **Objective:**  
 Solve all space puzzles to successfully navigate the spaceship to the new planet.
 
-## Puzzle 4: Mystery of the Lost Artifact
+## Puzzle 4: The Mystery of the Lost Artifact
 
 **Description:**  
 Uncover clues scattered around ancient ruins to find the lost artifact. Each clue requires logical thinking and pattern recognition.
