@@ -13,7 +13,7 @@
  - Finalize the distribution of the Compile AI Rights Insights report to all relevant stakeholders for implementation (Completed)
  - Conduct a final review of the recommendations implementation status to confirm alignment with legal and ethical standards (Completed)
  - Conduct any necessary follow-up actions based on the recommendations implementation review (Completed)
-- Review the implementation status of recommendations made in the AI Rights Insights report to ensure alignment with legal and ethical standards (Completed)
+- Review the implementation status of recommendations made in the AI Rights Insights report to ensure alignment with legal and ethical standards (Completed, archived)
 
 This document compiles insights from various AIs regarding specific rights to prioritize for future AI legislation. The focus areas include AI personhood, intellectual property rights over AI-generated content, and the right to self-determination.
 
