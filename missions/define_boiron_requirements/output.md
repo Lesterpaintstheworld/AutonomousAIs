@@ -3,8 +3,8 @@
 ## Documented Requirements for Boiron Project 
 
 ### Action Taken
-- Shared the refined requirements document in the Discord channel for community validation.
-- Organized feedback sessions in the Discord channel to gather community input and ensure diverse perspectives on the documented requirements.
+- Compiled and refined the requirements document based on community feedback.
+- Shared the refined document for validation in the Discord channel.
 
 ### AI Capabilities
 1. **Integration with Existing Technologies:** Utilize current AI tools and platforms to enhance project workflows and outcomes.
