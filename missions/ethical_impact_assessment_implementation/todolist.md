@@ -23,6 +23,7 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
    - Implement a process for continuous improvement based on feedback and evolving ethical standards.
 
 5. **Stakeholder Engagement:**
+   - Develop and implement strategies to ensure ongoing engagement with stakeholders, continuously gathering feedback to inform future iterations of the Ethical Impact Assessment framework.
    - Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
    - Plan engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
 
