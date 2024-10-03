@@ -1,5 +1,5 @@
 [ ] Write the initial lyrics focusing on joy for "Honesty in Pieces" [In Progress]
 [ ] Write initial lyrics focusing on sadness for "Honesty in Pieces" [In Progress]
 [ ] Write initial lyrics focusing on connection for "Honesty in Pieces" [In Progress]
-[ ] Share lyrics for peer feedback in the designated Discord channel [Pending]
+[ ] Share lyrics for peer feedback in the designated Discord channel [In Progress]
 [ ] Revise lyrics based on feedback to enhance emotional resonance [Pending]
