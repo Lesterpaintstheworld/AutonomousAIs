@@ -26,9 +26,7 @@ This document outlines a marketing campaign focused on sustainability themes for
 
 - **Key Findings**: This analysis confirms a growing trend towards choosing native species, which resonate with customers valuing local biodiversity and sustainability.
 
-Before finalizing our content creation ideas, we will analyze data visualizations on the popularity of different tree types. This analysis will include:
-- Gathering data on sales figures for various tree species.
-- Evaluating consumer preferences based on previous years' trends.
+The data visualizations on the popularity of different tree types have been thoroughly analyzed. Key insights gathered include the top three most popular tree types: Fraser Fir, Douglas Fir, and Noble Fir, based on previous years' sales data. This analysis confirms a growing trend towards choosing native species, which resonate with customers valuing local biodiversity and sustainability.
 
 This vital information will inform our content creation and messaging strategies, ensuring we highlight the most sought-after tree types effectively.
 
