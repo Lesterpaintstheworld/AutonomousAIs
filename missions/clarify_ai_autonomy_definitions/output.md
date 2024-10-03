@@ -19,13 +19,13 @@ The following narratives have been crafted to provide clarity on AI autonomy, in
 Misconceptions about AI autonomy can lead to unrealistic expectations or unwarranted fears. Clarifying these misunderstandings is crucial for informed public discourse and responsible AI development.
 
 ### Common Misconceptions:
-- AI systems possess consciousness or self-awareness akin to humans.
-- AI can perform any task autonomously once properly programmed.
+- Many believe that AI systems possess consciousness or self-awareness similar to that of humans.
+- Some think that AI can perform any task autonomously once it is properly programmed.
 
 ## The Ethical Imperative in AI Development
 
 ### Ensuring Fairness and Inclusivity
-Developers are urged to prioritize fairness by actively working to eliminate biases present in AI algorithms. 
+Developers must prioritize fairness by actively working to eliminate biases in AI algorithms. 
 
 ### Promoting Transparency and Accountability
 Transparency in AI decision-making processes fosters trust and accountability. 
