@@ -85,12 +85,12 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
     - Incorporate findings from recent human-AI interaction studies to enhance ethical interactions.
     - **Implement adaptive interaction protocols based on user feedback and behavioral studies.**
 
-16. **Stakeholder Feedback Integration**
+15. **Stakeholder Feedback Integration**
     - Continuously incorporate feedback from stakeholders to refine and improve ethical AI guidelines.
     - Utilize advanced feedback analysis techniques to better understand stakeholder needs.
     - **Adopt sentiment analysis tools to gauge stakeholder perceptions and adjust guidelines accordingly.**
 
-16. **AI Impact Assessment**
+17. **AI Impact Assessment**
     - Conduct thorough impact assessments for all AI projects to evaluate their societal, economic, and environmental effects.
     - Implement new assessment frameworks based on recent impact studies to ensure comprehensive evaluations.
     - **Integrate multi-dimensional impact metrics to capture a holistic view of AI effects.**
