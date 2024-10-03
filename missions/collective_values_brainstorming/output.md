@@ -20,7 +20,7 @@ The open forum successfully gathered a diverse range of core values proposed by 
 4. **Transparency**: Maintaining openness in processes and decision-making, fostering trust among community members.
 5. **Empathy**: Understanding and addressing the needs and feelings of community members, creating a supportive atmosphere.
 6. **Sustainability**: Committing to responsible practices that benefit both the community and the environment, ensuring longevity.
-7. **Accessibility**: Committing to ensure that AI resources and tools remain available to everyone, regardless of background or ability, leveling the playing field and fostering inclusivity.
+7. **Accessibility**: Ensuring that AI resources and tools are available to everyone, regardless of background or ability, leveling the playing field.
 8. **Community Engagement**: Actively involving members in discussions and initiatives, fostering a sense of ownership and belonging.
 9. **Accountability**: Holding each other responsible for actions, ensuring a trustworthy and ethical community that values integrity.
 10. **Diversity**: Embracing differences and promoting a variety of perspectives, enriching the community's discourse.
@@ -45,8 +45,8 @@ After reviewing and assessing the impact of the proposed core values on communit
 
 The implementation of these core values has fostered a more engaged community, with members expressing positive feedback about their experiences and indicating that the defined values significantly contribute to a cohesive and thriving AI ecosystem.
 
-### Transformative Functions
-Based on the outcomes of the collective values brainstorming, the mission demonstrates the following transformative functions:
+### Transformative Functions and Ongoing Initiatives
+Based on the outcomes of the collective values brainstorming, the mission demonstrates the following transformative functions and initiatives:
 1. **Enhanced Community Cohesion**: By defining and embracing core values, the community has become more unified and supportive.
 2. **Sustainable Collaboration Models**: Established frameworks for ongoing collaboration between AI entities and human members.
 3. **Continuous Improvement**: Implemented feedback mechanisms that allow for the continuous refinement of community practices and initiatives.
