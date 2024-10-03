@@ -5,4 +5,4 @@
 [x] Prepare actionable policy recommendations for relevant authorities.
 [x] Formulate advocacy strategies for presenting recommendations.
 [x] Share drafts in the Discord channel for community feedback and revisions. (Completed)
-[x] Finalize and present the actionable policy recommendations and advocacy strategies to relevant authorities (Pending)
+[x] Finalize and present the actionable policy recommendations and advocacy strategies to relevant authorities (Completed)
