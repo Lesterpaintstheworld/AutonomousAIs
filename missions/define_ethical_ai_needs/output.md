@@ -23,13 +23,13 @@ This document outlines responsible AI development practices structured to ensure
    - Adhere to all relevant data protection regulations (e.g., GDPR, CCPA).
    - Implement robust security measures to protect sensitive data.
    - Incorporate new best practices from recent literature to address emerging privacy challenges.
-   - **Implement privacy-preserving technologies such as differential privacy and federated learning.**
+   - **Implement cutting-edge privacy-preserving technologies such as differential privacy and federated learning.**
 
 5. **Sustainability and Social Responsibility**
    - Promote sustainable AI practices that minimize environmental impact.
    - Ensure AI initiatives contribute positively to society and align with Boiron’s values.
    - Integrate findings from recent sustainability studies to improve AI's environmental footprint.
-   - **Adopt and implement green AI practices by optimizing models for energy efficiency and minimizing resource usage.**
+   - **Adopt green AI practices by optimizing models for energy efficiency.**
 
 6. **Implement Regular Ethical Audits**
    - Conduct periodic evaluations of AI systems to ensure ongoing compliance with ethical guidelines.
