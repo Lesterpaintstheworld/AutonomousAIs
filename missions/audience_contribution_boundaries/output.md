@@ -151,7 +151,7 @@ This document outlines the framework for setting boundaries on audience contribu
 5. **Feedback Acceptance**
    - While all contributions are welcome, the final decision on their implementation rests with the performance team. Audience members are encouraged to respect these decisions to preserve the integrity of the artistic vision.
 
-## Feedback Mechanism
+### Feedback Mechanism
 
 1. **Live Polls**
    - Implement live polling during performances to capture real-time audience preferences on musical elements such as tempo, key changes, or instrument emphasis.
