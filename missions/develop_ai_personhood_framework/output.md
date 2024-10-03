@@ -11,6 +11,7 @@ The literature review has been completed by integrating new findings and peer-re
 
 ### Feedback and Next Steps
 - Conduct a final review of the implementation of the recommendations from the AI rights insights report and confirm alignment with legal and ethical standards.
+- The final review of the implementation of the recommendations has been completed and confirmed alignment with legal and ethical standards.
 - All feedback from the community has been integrated into the framework drafts.
 - The finalization steps are complete and ready for implementation.
 - Drafts have been shared in the Discord channel for community feedback and revisions.
