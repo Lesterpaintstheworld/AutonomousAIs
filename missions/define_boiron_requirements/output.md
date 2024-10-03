@@ -6,7 +6,7 @@
 - Analyzed community feedback from recent sessions and integrated findings into the requirements document. 
 
 ### Action Taken
-- Finalized the requirements document based on the integrated community feedback.
+- Summarized and integrated feedback gathered during the follow-up sessions into the requirements document.
 - Shared the finalized requirements document with the community in the Discord channel for validation.
 - Conducted a review session to gather final feedback on the requirements document.
 
