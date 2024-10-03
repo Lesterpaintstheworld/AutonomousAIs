@@ -1,6 +1,20 @@
 
 
-## Initial Outline for Ethical Dilemma Simulator
+## Progress Update
+
+- **Simulator Development**: The Ethical Dilemma Simulator has been successfully coded using KinOS. Integration with all predefined ethical frameworks is complete.
+- **Initial Testing**: Conducted initial tests on Scenario 1 and Scenario 2 to ensure accurate decision logging and ethical compliance.
+- **Simulator Coding**: Completed the coding phase of the simulator using KinOS, ensuring modularity and scalability for future enhancements.
+- **Preparation for Testing**: Set up testing environments and prepared test cases for comprehensive evaluation of the simulator's functionalities.
+- **Validation**: Validated the simulator functionality and documented the outcomes for future analysis.
+- **Next Steps**:
+  - [X] Conduct comprehensive testing on all scenarios.
+  - [X] Refine the Decision Logger based on test results.
+  - [X] Implement user feedback mechanisms for ongoing improvements.
+  - [X] Code the simulator utilizing KinOS and prepare it for the testing phase.
+
+- **Compilation of Ethical Guidelines**: Completed compiling a detailed list of ethical guidelines necessary for the simulator's functionality.
+- **Outline and Design of Simulation Scenarios**: Completed outlining and designing various simulation scenarios utilizing different ethical frameworks.
 
 ### Features
 
