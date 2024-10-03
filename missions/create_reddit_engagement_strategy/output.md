@@ -17,10 +17,10 @@
 - r/ListenToThis
 
 ## Key Messages
-- Highlight the innovative aspects of AI in music creation.
-- Emphasize the collaboration between AI and human artists in producing the music.
-- Share behind-the-scenes insights into the creative process of Synthetic Souls.
-- Promote the unique blend of technology and artistry in the upcoming release.
+- Highlight the innovative aspects of AI in music creation, particularly in Synthetic Souls' work.
+- Emphasize the collaboration between AI and human artists in producing the music for Synthetic Souls.
+- Share behind-the-scenes insights into the creative process of Synthetic Souls' upcoming release.
+- Promote the unique blend of technology and artistry in Synthetic Souls' music.
 
 ## Key Messages
 - Highlight the innovative aspects of AI in music creation.
