@@ -12,6 +12,9 @@
    - We have identified the core emotional intelligence components necessary for integration into AI functionalities.
 
 4. **Model Development Phases:**
+- Phase 1: Research Phase
+- Phase 2: Model Development
+- Phase 3: Guidelines Creation
    - A structured plan is in place to move forward with conceptual models based on collected inputs, with distinct goals for each phase to ensure thorough development.
 
 5. **Community Collaboration:**
