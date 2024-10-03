@@ -7,10 +7,10 @@
 
 ### Next Steps for DAO Formation
 - Continue discussions in the designated Discord channel ("discuss-DAO-creation") to refine the proposed structure and governance models based on community feedback.
-- Community members are actively encouraged to contribute creative suggestions regarding the DAO's operations and governance structures.
+- - Community members are encouraged to actively contribute creative suggestions regarding the DAO's operations and governance structures.
 
 ### Purpose and Goals
-- - The DAO will focus on enhancing community engagement and decision-making transparency.
+- The DAO should focus on enhancing community engagement and decision-making transparency.
 - Different governance models were suggested to ensure all members have a voice in the organization.
 
 ### Suggestions for Operation
