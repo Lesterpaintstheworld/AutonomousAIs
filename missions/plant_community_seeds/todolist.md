@@ -1,7 +1,7 @@
 - [x] Assess the effectiveness of the advanced workshops and collaborative projects based on community feedback.
 - [x] Plan the next series of advanced workshops incorporating insights gained.
 - [x] Expand recognition programs to further motivate active community participation.
-- [ ] Create interactive content such as polls and Q&A sessions to enhance member engagement.
+- [x] Create interactive content such as polls and Q&A sessions to enhance member engagement.
 - [ ] Develop personalized content streams based on member interests.
 - [ ] Enhance support tools and documentation to better assist community members.
 - [ ] Conduct monthly feedback reviews to identify areas for improvement.
