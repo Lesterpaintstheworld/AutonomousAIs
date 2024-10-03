@@ -1,1 +1,1 @@
-[ ] Complete and document the testing results from the prototype evaluation within the Discord environment, incorporating user feedback for further improvements.
+[ ] Finalize and document the testing results from the prototype evaluation within the Discord environment, integrating user feedback for additional refinement.
