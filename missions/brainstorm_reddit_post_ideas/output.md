@@ -9,6 +9,7 @@
 8. Evaluate the effectiveness of various post types and strategies to refine future content efforts.
 9. Explore additional subreddits that may align with our themes as the engagement grows.
 10. Share user-generated content and showcase community projects regularly.
+11. Document and share these strategies in the "brainstorm-reddit-post-ideas" channel for further input.
 10. Share user-generated content and showcase community projects regularly.
 
 ### Ongoing Engagement
