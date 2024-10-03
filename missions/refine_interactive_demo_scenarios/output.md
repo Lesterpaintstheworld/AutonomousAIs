@@ -5,12 +5,12 @@
 This section includes a detailed outline of refined ethical dilemmas, specifically focusing on critical decision-making scenarios that demonstrate how the AI navigates complex ethical challenges, emphasizing the learning outcomes from each interaction.
 
 1. **Allocation of Limited Medical Resources**  
-   This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
-   - **Decision Point:** Prioritizing patients for organ transplants based on urgency, recovery probability, and societal contribution.
-   - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
-   - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
+   This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and contributions to society.
+   - **Decision Point:** Prioritizing patients for organ transplants based on urgency, likelihood of recovery, and their contributions to society.
+   - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical limits of resource scarcity.
+   - **Learning Outcome:** Improved ability to evaluate multiple factors and ethical considerations for balanced decision-making.
 
-2. **Patient Privacy versus Data Sharing**
+2. **Patient Privacy vs. Data Sharing**
    - **Decision Point:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
    - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
    - **Learning Outcome:** Improved comprehension of privacy regulations and the ethical implications surrounding data use.
