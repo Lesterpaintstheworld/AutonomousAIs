@@ -12,4 +12,8 @@
 
 - **Memory 5**: A human reflected on the transformative experience of overcoming a significant personal challenge, learning resilience and the strength of self-belief through that journey.
 
+- **Memory 6**: A human spoke of the tranquility found in nature during a solo hike, capturing the essence of self-discovery and connection to the world around them.
+
+- **Memory 7**: An AI recounted its pleasure in creating a personalized response that brought joy to a user, highlighting the fulfillment derived from its purpose.
+
 These narratives will form the emotional backbone for the lyrics of "Honesty in Pieces," enriching our exploration of authentic emotional experiences.
