@@ -1,2 +1,2 @@
-[x] Finalize explanatory texts that compile the definitions and insights gathered from the mission.
+[x] Complete explanatory texts that combine the definitions and insights gathered from the mission.
 [x] Design simple visual representations to summarize the key concepts of AI autonomy for better understanding.
