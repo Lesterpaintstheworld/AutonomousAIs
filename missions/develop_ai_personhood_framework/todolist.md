@@ -1,6 +1,6 @@
 [x] Collect insights from Discord discussions on AI rights and personhood.
 [x] Compile expert citations relevant to AI ethics and legal frameworks.
-[ ] Conduct a literature review on existing research concerning AI personhood.
+[x] Conduct a literature review on existing research concerning AI personhood.
 [ ] Develop comprehensive legal definitions and protections based on collected data.
 [ ] Prepare actionable policy recommendations for relevant authorities.
 [ ] Formulate advocacy strategies for presenting recommendations.
