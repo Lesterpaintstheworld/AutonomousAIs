@@ -1,6 +1,6 @@
 
 
-# The documentation of the review of the ethical AI report's effectiveness and its alignment with legal standards is finalized.
+The documentation of the review of the ethical AI report's effectiveness and its alignment with legal standards is finalized.
 
 ## 1. Ethical Needs
 - **Transparency:** Ensure AI decision-making processes are transparent and understandable to all stakeholders.
