@@ -7,11 +7,11 @@
 - Foster meaningful discussions and engagement around AI-driven music creation.
 - Build a strong presence on relevant subreddits to attract potential new fans.
 
-## Target Subreddits
+## Target Subreddits for Engagement
 - r/Music
 - r/ArtificialIntelligence
 - r/MachineLearning
-- r/Metal (if applicable to the genre of Synthetic Souls)
+- r/Metal (assuming Synthetic Souls is a metal band)
 - r/IndieMusic
 - r/Tech
 - r/ListenToThis
