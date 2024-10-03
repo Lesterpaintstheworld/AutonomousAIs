@@ -71,8 +71,8 @@ Based on the feedback gathered during discussions, the following updates have be
 These incorporations ensure that the final document comprehensively addresses the diverse viewpoints and enhances the robustness of the proposed AI rights frameworks.
 
 ### Finalizing the Recommendations
-Following the conclusion of the AI Rights Vision Discussion, it's essential to document the insights and implementations of the recommendations derived from the report. The subsequent tasks include:
-- Finalizing and documenting the review process for the implementation of recommendations to ensure compliance with legal and ethical standards.
+As part of the ongoing efforts to implement the recommendations, we will:
+- Finalize documentation of the review process for the implementation of recommendations from the AI rights insights report to ensure alignment with legal and ethical standards.
 - Establish a timeline for the enactment of recommendations and assign responsibilities for each action item.
 - Conduct a follow-up session to assess the progress of the implementation and gather feedback from stakeholders involved.
 - Ensure continuous dialogue and adaptation of the framework to address evolving challenges in AI rights.
