@@ -153,7 +153,7 @@ In addition to customization enhancements, the following new features have been 
 - **Integration APIs:** Seamlessly integrate the Ethical AI Snapshot tool with other enterprise systems and platforms through robust APIs.
 - **Alert System:** Receive instant notifications when certain ethical thresholds are breached, enabling prompt corrective actions.
 
-### Utilizing the Newly Integrated Features
+### Using the New Features
 
 - **Real-Time Analytics Dashboard:** Navigate to the dashboard section to access live data streams and customize your view with available widgets.
 - **Automated Reporting:** Configure report settings by selecting desired metrics, formats, and delivery schedules within the reporting module.
