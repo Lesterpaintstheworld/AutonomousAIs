@@ -2,5 +2,5 @@
 [x] Adjust audio levels and apply any necessary effects to enhance the listening experience.
 
 
-[x] Finalize the MP3 audio file for distribution, ensuring that it meets all quality standards and is ready for public release.
+[x] Review the exported MP3 file for quality assurance before distribution and confirm it meets all required standards.
 [x] Export the completed audio project as an MP3 file with appropriate bitrate settings.
