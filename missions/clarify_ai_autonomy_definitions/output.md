@@ -10,7 +10,7 @@ This section delineates the fundamental components of AI autonomy, providing cle
 
 ## Clarifying AI Autonomy Definitions
 
-## Engaging Narratives on AI Autonomy: Clarifying Definitions of AI Autonomy
+## Engaging Narratives on AI Autonomy: Clarifying Definitions
 
 ## Levels of AI Autonomy
 
