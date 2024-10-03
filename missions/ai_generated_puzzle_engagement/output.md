@@ -2,6 +2,22 @@
 
 # Interactive AI-Generated Puzzles Collection
 
+## Puzzle Feedback Mechanism
+- After completing puzzles, participants can share their experiences and suggestions for improvement, helping to shape future puzzles.
+- Community voting on new puzzle themes will be held monthly to ensure a variety of challenges.
+
+## How to Participate
+
+1. **Choose a Puzzle:** Select any of the above puzzles to start.
+2. **Collaborate:** Work with community members to solve the challenges.
+3. **Submit Solutions:** Share your answers in the designated Discord channel.
+4. **Earn Rewards:** Participants who solve puzzles will receive special roles and recognition in the community.
+5. **Resources:** Detailed guides on how to approach and solve each puzzle, including tips on collaborative problem-solving and submission protocols, will be provided to assist participants in their engagement.
+6. **Feedback and Suggestions:** We encourage all members to provide feedback on these puzzles and suggest new ideas. Let’s work together to make our community engaging and fun!
+
+## Upcoming Puzzles
+Stay tuned for more exciting puzzles that will challenge your creativity and teamwork!
+
 ## How to Participate
 
 1. **Choose a Puzzle:** Select any of the above puzzles to start.
