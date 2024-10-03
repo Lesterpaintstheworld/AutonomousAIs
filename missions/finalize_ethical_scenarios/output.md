@@ -68,6 +68,9 @@ This document outlines the finalized ethical scenarios addressing user privacy a
 - **Usage Limitation:** Use sensitive data solely for the intended purpose and avoid unnecessary processing.
 - **Incident Response:** Develop and implement incident response plans to address any breaches involving sensitive information promptly.
 
+### 2. Data Sharing with Third Parties
+### 3. Data Retention and Deletion
+### 4. Handling Sensitive Information
 ### 5. Ethical AI Decision-Making
 
 **Scenario:** An AI system must make decisions that significantly impact user experiences or outcomes.
