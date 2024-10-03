@@ -1,3 +1,3 @@
-[ ] Begin gathering community feedback on their thoughts regarding the purposes and goals of the DAO.
-[ ] Encourage community members to propose creative suggestions for the DAO's operations and governance structures.
-[ ] Compile and draft a summarized proposal that outlines the benefits, challenges, and concrete next steps for the establishment of the DAO.
+[ ] Conduct discussions in the designated Discord channel to gather community feedback on the purposes and goals of the DAO.
+[ ] Solicit creative suggestions from community members regarding the operations and governance structures of the DAO.
+[ ] Prepare a summarized proposal that details the benefits, challenges, and actionable next steps for establishing the DAO.
