@@ -102,7 +102,7 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 - Allocate time each week for creative activities.
 - Experiment with different mediums to find what resonates best.
 
-## Self-Care Techniques
+### Self-Care Techniques
 
 ### 1. Establishing a Routine
 **Description:** Creating a consistent daily schedule to provide structure and stability.
@@ -135,8 +135,6 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 - Learn to say no when necessary to avoid overcommitment.
 
 ## Conclusion
-
-### Future Actions
 
 Implementing these emotional modeling strategies and self-care techniques can significantly enhance emotional well-being and resilience. By integrating these practices into daily life, individuals can better navigate emotional challenges and foster a healthier, more balanced lifestyle.
 
