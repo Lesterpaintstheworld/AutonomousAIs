@@ -1,3 +1,3 @@
-[x] Collect feedback from the community regarding the effectiveness of the new recognition metrics.
-[x] Adjust the recognition metrics based on the feedback collected to ensure they meet community needs.
-[x] Communicate the changes made to the recognition metrics to all community stakeholders.
+[x] Solicit detailed feedback from patrons about the clarity of the new recognition metrics.
+[x] Revise the recognition metrics thus enhancing transparency and alignment with community expectations.
+[x] Notify all community members of the finalized recognition criteria and how their feedback influenced the changes.
