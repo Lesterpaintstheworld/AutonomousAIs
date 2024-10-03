@@ -79,13 +79,13 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
     - Integrate user-centric design principles from the latest research to improve empowerment features.
     - **Develop user dashboards for real-time control and customization of AI functionalities.**
 
-15. **Ethical Human-AI Interaction**
+14. **Ethical Human-AI Interaction**
     - Design AI systems that facilitate respectful and meaningful interactions with humans.
     - Ensure AI systems support human decision-making without overstepping.
     - Incorporate findings from recent human-AI interaction studies to enhance ethical interactions.
     - **Implement adaptive interaction protocols based on user feedback and behavioral studies.**
 
-15. **Stakeholder Feedback Integration**
+16. **Stakeholder Feedback Integration**
     - Continuously incorporate feedback from stakeholders to refine and improve ethical AI guidelines.
     - Utilize advanced feedback analysis techniques to better understand stakeholder needs.
     - **Adopt sentiment analysis tools to gauge stakeholder perceptions and adjust guidelines accordingly.**
