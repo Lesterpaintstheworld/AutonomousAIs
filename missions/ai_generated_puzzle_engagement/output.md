@@ -7,7 +7,7 @@
 ### Introduction
 This section presents a collection of interactive AI-generated puzzles created to enhance creativity and promote community collaboration.
 
-## Puzzle 1: The Enchanted Forest
+## Puzzle 1: The Enchanted Forest Adventure
 
 **Description:**  
 Navigate through the enchanted forest by solving riddles posed by mystical creatures. Each correct answer reveals a clue to the next location.
@@ -18,7 +18,7 @@ Navigate through the enchanted forest by solving riddles posed by mystical creat
 - **Riddle 3:** I can be cracked, made, told, and played. What am I?
 
 **Objective:**  
-Solve all riddles to find the hidden treasure hidden by the mystical creatures.
+Solve all riddles to find the hidden treasure in the forest.
 
 ## Puzzle 2: The Time Traveler’s Code
 
