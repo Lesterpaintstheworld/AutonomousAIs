@@ -47,7 +47,7 @@
 
 
 
-6. **Discord Channel Established**: Created a dedicated Discord channel titled "Puzzle Ideas" to gather and compile puzzle themes and suggestions from community members. Initial discussions have been recorded, outlining key themes and popular suggestions.
+6. **Discord Channel Created**: Established a dedicated Discord channel named "Puzzle Ideas" to solicit and compile puzzle themes and ideas from community members. Initial discussions around the ideas have been documented, capturing key themes and popular suggestions.
 
 
 
