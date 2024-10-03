@@ -1,1 +1,1 @@
-[ ] Conduct follow-up sessions to address any further feedback on the requirements document.
+[ ] Summarize and integrate feedback gathered during the follow-up sessions into the requirements document.
