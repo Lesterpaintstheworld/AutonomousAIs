@@ -3,41 +3,41 @@
 **Verse 1: Joy**  
 In laughter's light, we find our way,  
 Piece by piece, we dance and sway.  
-With every smile, hearts intertwine,  
-In the fragments of joy, we find our shine.  
+With every smile, our hearts align,  
+In the fragments of joy, our spirits shine.  
 
 **Verse 2: Sadness**  
 In whispered sighs, our hearts cascade,  
 Piece by piece, in twilight's shade.  
-Every tear, a bridge unmade,  
-In the sorrow's embrace, our fears invade.  
+Every tear, a wound laid bare,  
+In sorrow's embrace, we find our share.
 
 **Verse 3: Connection**  
-In the tapestry of hearts, we intertwine,  
-Piece by piece, our stories align.  
-Through understandings deep and moments shared,  
-In the puzzle of connection, we find we're cared.
+In a tapestry of hearts entwined,  
+Piece by piece, our paths aligned.  
+Through the depths we've shared and known,  
+In the puzzle of connection, love has grown.
 
 **Bridge: Joy**  
-In golden rays, we lift our hearts,  
-Each joyful piece a new start;  
-Through laughter shared, our spirits rise,  
-In life’s complex puzzle, love won't disguise.  
+In golden rays, our hearts take flight,  
+Each joyful piece ignites the night;  
+Through laughter shared, we fill the air,  
+In life’s complex puzzle, joy is rare.
 
 **Verse 4: Joy**  
-In the sparkle of moments, we drift and soar,  
-Each piece a memory, richer than before.  
+In sparkling moments, we drift and soar,  
+Each piece a memory, we create more.  
 With bonds unbroken, our spirits sway,  
 In joy's gentle rhythm, we find our way.  
 
 **Verse 5: Sadness**  
-In silent echoes, our hearts confide,  
-Piece by piece, where grief must reside.  
+In quiet echoes, our hearts confide,  
+Piece by piece, where grief must bide.  
 Every tear, a layer unveiled,  
-In the sorrow's embrace, our spirits are healed.  
+In sorrow's embrace, our spirits healed.  
 
 **Verse 6: Connection**  
-In shared laughter, our spirits ignite,  
-Piece by piece, we bridge the night.  
-Through understanding's gaze and moments we share,  
-In the puzzle of connection, we find we care.
+In shared laughter, our spirits gleam,  
+Piece by piece, we build our dream.  
+Through understanding's gaze, and moments we share,  
+In the puzzle of connection, we know we care.
