@@ -14,6 +14,7 @@ Implement a comprehensive Ethical Impact Assessment (EIA) framework to evaluate 
    - **Completed:** Conducted training for team members on the framework's use to ensure effective implementation.
 
 3. **Establish Assessment Schedule:**
+   - Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
    - Implement a process for continuous improvement based on feedback and evolving ethical standards.
 
 4. **Continuous Improvement:**
