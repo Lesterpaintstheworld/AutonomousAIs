@@ -14,11 +14,8 @@ This framework outlines the collaborative process of integrating AI tools into c
    - Set up regular review meetings for AI-enhanced character drafts while incorporating player feedback.
 
 #### AI Tool Integration Methods
-- **Generating Backstories**: 
-   - Utilize AI tools to create engaging backstories based on the traits and concepts provided by the players, ensuring they reflect character motivations and narratives within the campaign.
-  
-- **New Backstory Generation**:
-   - Generate engaging backstories using AI tools that reflect player traits and concepts.
+- **AI-Generated Backstories**: 
+   - Utilize AI tools to create engaging narratives based on the traits and concepts provided by the players, ensuring they align with character motivations and fit within the campaign.
   
 - **Examples of AI-Generated Characters**:
   - **Character Name**: Arin Brightwood
@@ -30,6 +27,6 @@ This framework outlines the collaborative process of integrating AI tools into c
     - **AI-Generated Backstory**: Kethan grew up in the city's alleys, surviving with his wits and agility, aspiring to uncover his true heritage while mastering stealth.
 
 Next steps to execute from the to-do list:
-1. Initiate discussions in dedicated Discord threads for character concepts, traits, and backstories.
-2. Clarify character roles and relationships during focused development sessions.
-3. Schedule regular reviews of AI-enhanced drafts with player feedback.
+1. Collect player inputs in dedicated Discord threads for character concepts, traits, and backstories.
+2. Clarify roles and relationships during sessions focused on character development.
+3. Schedule regular review meetings for incorporating player feedback into AI-enhanced drafts.
