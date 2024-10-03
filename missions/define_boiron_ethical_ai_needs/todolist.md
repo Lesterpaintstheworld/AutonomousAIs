@@ -1,1 +1,1 @@
-[x] Finalize all documentation and ensure the ethical AI report for Boiron is stored in KinOS, confirming all updates are included (In Progress)
+[x] Ensure the ethical AI report for Boiron reflects the latest insights and is correctly formatted for review (Pending)
