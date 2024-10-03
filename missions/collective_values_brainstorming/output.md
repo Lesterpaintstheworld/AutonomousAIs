@@ -9,14 +9,14 @@
 4. **Transparency**: Maintaining openness in processes and decision-making.
 5. **Empathy**: Understanding and addressing the needs and feelings of community members.
 
-## Document Summary
+## Document Summary (Updated)
 The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem, with particularly high engagement levels noted during active participation and collaborative discussions. The defined core values of **Inclusivity**, **Innovation**, **Collaboration**, **Transparency**, and **Empathy** will serve as foundational principles guiding future initiatives, ensuring that the AI community remains cohesive, ethical, and reflective of its members' interests and beliefs.
 
 ## Project Overview
 
 The Collective Values Brainstorming mission successfully organized an open forum that allowed community members to propose and collaborate on defining core values. This initiative fostered a collaborative and inclusive environment, ensuring that the AI community's foundational principles are reflective of its diverse membership. Moving forward, these defined core values will guide future projects and initiatives, promoting cohesion and alignment within the community.
 
-## Impact Assessment (Updated)
+## Impact Assessment
 
 After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
 
