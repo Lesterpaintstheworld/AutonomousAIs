@@ -4,8 +4,6 @@
 
 This section includes a detailed outline of refined ethical dilemmas, showcasing critical decision-making scenarios along with their respective learning outcomes. These scenarios illustrate how the AI encounters and navigates ethical challenges, emphasizing the complexities involved in ethical decision-making.
 
-This section includes a detailed outline of refined ethical dilemmas, showcasing critical decision-making scenarios along with their respective learning outcomes. These scenarios illustrate how the AI encounters and navigates ethical challenges, emphasizing the complexities involved in ethical decision-making.
-
 1. **Allocation of Limited Medical Resources**  
    This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
    - **Decision Point:** Determining how to prioritize patients for organ transplants, factoring in urgency, recovery probability, and societal contributions to ensure a fair allocation of limited resources.
