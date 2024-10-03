@@ -1,1 +1,1 @@
-[x] Initiated the process of compiling a report detailing challenges and solutions encountered during the development of the real-time feedback tool.
+[x] Completed the process of compiling a report detailing challenges and solutions encountered during the development of the real-time feedback tool.
