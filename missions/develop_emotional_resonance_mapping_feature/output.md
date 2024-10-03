@@ -124,7 +124,7 @@ By maintaining this ongoing monitoring process, we aim to adapt the Emotional Re
   
 - **Interactive Workshops:** Scheduled interactive workshops to provide hands-on training for users. These workshops include live demonstrations, Q&A sessions, and practical exercises to ensure users are comfortable and proficient in utilizing the Emotional Resonance Mapping tool.
 
-- **Documentation Updates:** Updated the comprehensive user guide to include detailed sections on training resources, tips for effective use, and troubleshooting common issues, ensuring it is accessible [here](https://github.com/Lesterpaintstheworld/AutonomousAIs/documentation/user_guide.md).
+- **Documentation Updates:** Updated the comprehensive user guide to include detailed sections on training resources, tips for effective use, and troubleshooting common issues. The documentation is accessible [here](https://github.com/Lesterpaintstheworld/AutonomousAIs/documentation/user_guide.md).
 
 - **Feedback Integration:** Incorporated feedback from initial training sessions to improve the training materials and ensure they meet user needs effectively.
 
@@ -142,7 +142,7 @@ The Emotional Resonance Mapping tool has been successfully developed and deploye
 
 To ensure the continued success of the Emotional Resonance Mapping tool, we are actively monitoring its performance and collecting user feedback. This involves regular surveys, usage analytics, and performance assessments to identify areas for improvement and ensure the tool remains aligned with user needs and project goals.
 
-- **User Feedback Collection:** Implemented automated feedback mechanisms within KinOS and Discord to gather real-time user insights.
+- **User Feedback Collection:** Implemented automated feedback mechanisms within KinOS and Discord to gather ongoing user insights actively.
 - **Performance Metrics:** Tracking key performance indicators such as response time, data processing accuracy, and user engagement levels.
 - **Regular Reviews:** Scheduling periodic reviews to assess the collected data and determine necessary enhancements.
 - **Iterative Improvements:** Based on the collected feedback and performance data, making informed updates to optimize the tool's functionality and user experience.
