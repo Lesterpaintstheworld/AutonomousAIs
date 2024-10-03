@@ -15,7 +15,7 @@
 
 
 
-5. **Community Feedback Process**: Initiated a comprehensive feedback process following the sharing of AI-generated puzzles to gauge community enjoyment and effectiveness.
+5. **Community Feedback Process**: Initiated a comprehensive feedback process following the sharing of AI-generated puzzles to gauge community enjoyment and effectiveness. Feedback results will be summarized and presented in a format easily digestible for community members.
 
 
 
