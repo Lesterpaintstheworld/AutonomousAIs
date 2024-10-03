@@ -6,9 +6,9 @@
 - [x] Adjust strategies based on audience engagement to improve future interactions.
 - [x] Encourage user-generated content and showcase community projects regularly.
 - [x] Evaluate the effectiveness of various post types and strategies to refine future content efforts.
-- [x] Explore additional subreddits that may align with our themes as the engagement grows.
+- [x] Explore additional subreddits that may align with our themes as engagement continues to grow.
 - [x] Analyze feedback from the Reddit community to refine strategies.
-- [x] Create engaging posts that promote the innovative aspects of AI-human music collaboration, highlighting specific projects and success stories.
+- [x] Create engaging posts that promote innovative aspects of AI-human music collaboration, highlighting specific projects and success stories.
 - [x] Implement a system for effectively monitoring engagement and feedback from Reddit users.
 - [x] Regularly update the community on progress and insights gained from interactions.
 - [x] Foster stronger connections with community members through consistent updates and engagement activities.
