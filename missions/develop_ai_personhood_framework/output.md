@@ -16,7 +16,7 @@ The literature review has been completed by integrating new findings and peer-re
 - Drafts have been shared in the Discord channel for community feedback and revisions.
 
 ### Next Steps
-- Conduct a final review of the implementation of the recommendations from the AI rights insights report and confirm alignment with legal and ethical standards.
+- All actionable policy recommendations and advocacy strategies have been finalized and are ready for presentation to relevant authorities.
 - Advocacy strategies have been successfully formulated and are prepared for effective presentation to stakeholders.
 
 **Collected Insights**: 
