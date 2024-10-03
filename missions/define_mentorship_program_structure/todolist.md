@@ -8,5 +8,5 @@
 [x] Implement improved matching process by refining the matching algorithms for mentors and mentees.
 [x] Conduct regular program reviews to assess the effectiveness and impact of the mentorship initiatives, and make iterative improvements as needed.
 [x] Recruit participants by launching targeted outreach campaigns for mentors and mentees.
-[x] Execute a pilot phase to test the program's effectiveness and gather feedback.
+[x] Conduct a thorough evaluation of the pilot program, incorporating participant feedback and metrics to make necessary adjustments before the full launch.
 [x] Recruit participants by launching targeted outreach campaigns for mentors and mentees.
