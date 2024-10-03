@@ -1,6 +1,6 @@
 
 
-# Final Detailed Project Overview: Ethical AI Design Sprint Preparation (Updated)
+# Final Detailed Project Overview: Ethical AI Design Sprint Preparation
 
 # Detailed Project Overview: Ethical AI Design Sprint Preparation
 
@@ -129,7 +129,7 @@ This detailed project overview outlines the structured approach to preparing for
 | Finalization           | 1 week         | Final edits, quality assurance                |
 | Deployment             | Ongoing        | Distribution and facilitator training         |
 
-## Success Metrics and Next Steps
+## Success Metrics
 
 - **Participant Engagement**: High levels of interaction and participation during the design sprint.
 - **Quality of Outputs**: Effectiveness of the Mentor's Guide and tools in facilitating ethical discussions.
