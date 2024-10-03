@@ -8,14 +8,17 @@ This framework outlines the collaborative process of integrating AI tools into c
 #### Collaboration Steps
 1. **Collect Player Inputs**: 
    - Initiate discussions in dedicated Discord threads for players to present character concepts, traits, and backstories.
-2. **Define Roles and Relationships**: 
-   - Conduct sessions to clarify character roles and their relationships within the campaign.
+2. **Clarify Character Roles and Relationships**: 
+   - Conduct sessions focused on character development to establish roles and relationships within the campaign.
 3. **Iterative Reviews**: 
-   - Set up regular review meetings for AI-enhanced character drafts while incorporating player feedback.
+   - Schedule regular review meetings to incorporate player feedback into AI-enhanced character drafts.
 
 #### AI Tool Integration Methods
-- **AI-Generated Backstories**: 
-   - Utilize AI tools to create engaging narratives based on the traits and concepts provided by the players, ensuring they align with character motivations and fit within the campaign.
+- **Generating Backstories**: 
+   - Utilize AI tools to create engaging backstories based on the traits and concepts provided by the players, ensuring they reflect character motivations and narratives within the campaign.
+  
+- **New Backstory Generation**:
+   - Generate engaging backstories using AI tools that reflect player traits and concepts.
   
 - **Examples of AI-Generated Characters**:
   - **Character Name**: Arin Brightwood
