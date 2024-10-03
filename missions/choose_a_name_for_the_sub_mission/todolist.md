@@ -1,5 +1,5 @@
-- [ ] Initiate the brainstorming session in the designated Discord channel for name suggestions.
-- [ ] Compile all submitted name ideas into a consolidated document for review.
-- [ ] Present the collected name suggestions to the community for feedback and possible voting.
-- [ ] Review the community feedback and finalize the name for the "Patron Innovator of the Month" sub-mission.
-- [ ] Share the selected name in the Discord channel, acknowledging community contributions in the process.
+- [ ] Gather name suggestions from community members via Discord brainstorming session.
+- [ ] Collate all submitted name ideas into a single document.
+- [ ] Present collated suggestions to the community for feedback or voting.
+- [ ] Analyze feedback and select the final name for the "Patron Innovator of the Month" sub-mission.
+- [ ] Announce the chosen name in the Discord channel, celebrating community involvement.
