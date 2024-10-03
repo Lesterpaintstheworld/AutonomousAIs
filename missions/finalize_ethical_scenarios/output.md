@@ -16,7 +16,7 @@ This document outlines the finalized ethical scenarios and guidelines addressing
 
 This document outlines the finalized ethical scenarios and guidelines addressing user privacy and data ethics, ensuring the responsible use of AI technologies while maintaining user trust.
 
-## Updates Summary
+## Summary
 All tasks related to the finalization of the `ethical_scenarios.md` document have been completed successfully and published, integrating feedback from the community to enhance clarity and transparency.
 
 ## Changes Made
@@ -28,7 +28,6 @@ This document outlines the finalized ethical scenarios addressing user privacy a
 
 ## Ethical Scenarios
 
-### Ethical Scenarios
 ### 1. User Data Collection
 
 **Scenario:** An AI agent requests access to personal user data to enhance service personalization.
