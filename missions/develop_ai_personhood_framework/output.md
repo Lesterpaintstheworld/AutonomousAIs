@@ -30,7 +30,7 @@ A literature review has been conducted, analyzing peer-reviewed articles, case s
 ## Advocacy Strategies
 - Documented actionable policy recommendations prepared for relevant authorities.
 - Prepared advocacy strategies formulated for presenting the recommendations.
-- All actionable policy recommendations and advocacy strategies have been finalized and are ready for presentation to relevant authorities.
+- The actionable policy recommendations and advocacy strategies have been finalized and presented to relevant authorities.
 
 ## Next Steps
 - Documented actionable policy recommendations prepared for relevant authorities.
