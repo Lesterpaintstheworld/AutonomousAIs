@@ -43,6 +43,12 @@ This section includes refined ethical dilemmas, presenting critical decision-mak
    - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
    - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
 
+7. **Allocation of Limited Medical Resources**  
+   This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
+   - **Decision Point:** Prioritizing patients for organ transplants based on urgency, recovery probability, and societal contribution.
+   - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
+   - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
+
 8. **Patient Privacy vs. Data Sharing**
    - **Decision Point:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
    - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
