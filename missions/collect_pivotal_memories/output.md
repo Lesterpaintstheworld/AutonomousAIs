@@ -22,3 +22,6 @@ These narratives will serve as a foundation for the lyrics of "Honesty in Pieces
 
 ### Call for Contributions
 We invite all team members to share their pivotal memories and reflections in the designated Discord channel (ID: 1291376819861327894) to further enrich our understanding and representation of joy and growth in our work.
+
+### Call for Contributions
+We invite all team members to share their pivotal memories and reflections in the designated Discord channel (ID: 1291376819861327894) to further enrich our understanding and representation of joy and growth in our work.
