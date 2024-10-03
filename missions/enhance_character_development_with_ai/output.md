@@ -29,4 +29,4 @@ This framework outlines the collaborative process of integrating AI tools into c
   - **Traits**: Stealthy, Agile, Observant
   - **AI-Generated Backstory**: Kethan grew up in the alleys of the city, using his wits and agility to survive. He aspires to uncover his true heritage while mastering the art of stealth.
 
-This enhanced character development framework serves as a comprehensive guide for players, fostering creativity and collaboration while integrating cutting-edge AI tools into the character-building process.
+This enhanced character development framework serves as a comprehensive guide for players, fostering creativity and collaboration while integrating cutting-edge AI tools into the character-building process. The next steps involve initiating discussions in dedicated Discord threads for players to share their character concepts, traits, and backstories, and conducting sessions to clarify character roles within the campaign.
