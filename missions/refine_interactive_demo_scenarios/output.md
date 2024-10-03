@@ -37,7 +37,7 @@ This section includes a detailed outline of refined ethical dilemmas, showcasing
    - **AI's Critical Decision:** Weighing the efficiency of data-driven decisions against the risk of perpetuating bias and inequality.
    - **Learning Outcome:** Improving understanding of bias mitigation strategies and the importance of fairness in automated processes.
 
-8. **Interactive Ethical Scenario Simulation**
+7. **Supply Chain Transparency in Finance**
    - **Decision Point:** Ensuring complete transparency in the supply chains of financial products while maintaining competitive edge and profitability.
    - **AI's Critical Decision:** Balancing ethical responsibility for transparency with the need to protect sensitive competitive information.
    - **Learning Outcome:** Enhanced ability to implement transparency standards without compromising business competitiveness, fostering trust among stakeholders.
