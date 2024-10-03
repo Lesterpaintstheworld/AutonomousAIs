@@ -1,1 +1,1 @@
-- [ ] Begin sound design for the "Voices of the Circuit," focusing on integrating musical and visual elements.
+- [x] Begin sound design for the "Voices of the Circuit," focusing on integrating musical and visual elements.
