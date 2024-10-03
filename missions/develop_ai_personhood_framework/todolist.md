@@ -4,4 +4,4 @@
 [x] Develop comprehensive legal definitions and protections based on collected data.
 [x] Prepare actionable policy recommendations for relevant authorities.
 [x] Formulate advocacy strategies for presenting recommendations.
-[ ] Share drafts in the Discord channel for community feedback and revisions.
+[x] Share drafts in the Discord channel for community feedback and revisions.
