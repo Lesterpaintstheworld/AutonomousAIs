@@ -28,14 +28,17 @@ To enhance clarity and effectiveness in decision-making pathways, we have collab
 
 
 
-### Refined Ethical Decision Scenarios
+### Refined Ethical Dilemmas
+
+The following refined ethical dilemmas emphasize critical decision-making scenarios and their respective learning outcomes.
 
 To further illustrate the AI's approach to ethical decision-making, we have developed refined scenarios that emphasize critical decisions and the resulting learning outcomes.
 
-1. **Allocation of Limited Medical Resources**
-   - **Decision Point:** Deciding how to distribute scarce resources, such as organ transplants or ICU beds, among patients while ensuring fairness and equality in the decision-making process.
-   - **AI's Critical Decision:** Balancing urgency of medical needs, recovery probabilities, and ethical principles like fairness.
-   - **Learning Outcome:** Enhanced capability to weigh multiple factors and improve balanced decision-making.
+1. **Allocation of Limited Medical Resources**  
+   This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
+   - **Decision Point:** Prioritizing patients for organ transplants based on urgency, recovery probability, and societal contribution.
+   - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
+   - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
 
 2. **Patient Privacy vs. Data Sharing**
    - **Decision Point:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
