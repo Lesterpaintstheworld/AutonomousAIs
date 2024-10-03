@@ -4,15 +4,15 @@
 
 #### Overview
 
-The finalized mentorship program is designed to deliver structured, impactful, and inclusive support to mentees by leveraging community insights and proven best practices. The program framework includes clearly defined goals, roles, necessary resources, and an effectiveness measurement strategy to ensure sustained success and adaptability.
+The finalized mentorship program is designed to provide structured, impactful, and inclusive support to mentees, leveraging community insights and proven best practices. The program framework includes clearly defined goals, roles, resources, and evaluation methods to ensure sustained success and adaptability.
 
 #### Goals
 
-1. **Skill Development**: Provide tailored skill enhancement opportunities through personalized guidance.
-2. **Knowledge Sharing**: Facilitate the exchange of expertise between mentors and mentees.
-3. **Community Building**: Develop a supportive network that fosters collaboration and continuous learning.
-4. **Career Advancement**: Help mentees achieve their career objectives with strategic planning support.
-5. **Diversity and Inclusion**: Ensure accessibility and benefits for participants from diverse backgrounds.
+1. **Skill Development**: Offer tailored skill enhancement opportunities to mentees through personalized guidance and resources.
+2. **Knowledge Sharing**: Facilitate the exchange of expertise and experiences between mentors and mentees.
+3. **Community Building**: Create a supportive network that promotes collaboration, inclusivity, and continuous learning.
+4. **Career Advancement**: Assist mentees in achieving their career objectives with strategic planning and support.
+5. **Diversity and Inclusion**: Actively promote diversity in mentor-mentee pairings to ensure the program is accessible and beneficial to participants from diverse backgrounds.
 
 #### Key Roles
 
@@ -29,7 +29,7 @@ The finalized mentorship program is designed to deliver structured, impactful, a
 
 #### Effectiveness Measurement Strategy
 
-- **Feedback Surveys**: Conduct regular surveys to gather insights from participants on their experiences and overall effectiveness of the mentorship program.
+- **Feedback Surveys**: Conduct regular surveys to gather insights from participants on their experiences and program impact.
 - **Progress Metrics**: Monitor mentee advancements against their individual goals and milestones.
 - **Program Reviews**: Perform periodic evaluations to assess program structure, identify strengths and weaknesses, and implement improvements.
 - **Continuous Improvement**: Utilize data-driven insights to refine program components, ensuring ongoing relevance and effectiveness.
