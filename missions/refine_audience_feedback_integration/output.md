@@ -10,7 +10,7 @@
    - Create clear criteria for acceptable feedback, focusing on constructive contributions that align with the project's artistic direction and goals.
 
 4. **Define Review Process**:
-   - Develop a detailed method for evaluating and integrating feedback into the artistic framework, ensuring transparency in decision-making and openness to diverse perspectives.
+   - Develop a detailed method for evaluating and integrating feedback into the artistic framework, ensuring transparency in decision-making while being open to diverse perspectives from community members.
 
 5. **Utilize Communication Channels**:
    - Designate specific platforms for feedback submission and maintain regular updates regarding how feedback is utilized, reinforcing community trust and engagement.
