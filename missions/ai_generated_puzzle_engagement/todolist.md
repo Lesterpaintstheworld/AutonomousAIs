@@ -2,7 +2,6 @@
 - [x] Conduct discussions in Discord to gather community input.
 - [x] Develop engaging puzzles that promote collaboration.
 - [x] Test puzzles for clarity and engagement.
-- [x] Compile the collection of interactive AI-generated puzzles that foster creativity and collaboration and ensure that:
-   - Each puzzle solution is checked for clarity and correctness.
-   - Each puzzle includes an objective that enhances engagement.
-   - Resources for participants on how to solve and submit answers are prepared.
+- [x] Compile the collection of interactive AI-generated puzzles that foster creativity and collaboration.
+   - Ensure all puzzles are presented clearly with objectives enhancing engagement.
+   - Prepare resources for participants on how to solve and submit their answers.
