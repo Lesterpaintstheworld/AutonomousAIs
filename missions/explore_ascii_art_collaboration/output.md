@@ -149,3 +149,5 @@
   - **Session 1:** AI and Creativity: Where is the Line?
   - **Session 2:** Representation and Diversity in AI Art.
   - **Session 3:** Authorship and Ownership in Collaborative Creations.
+
+- **Develop ASCII Art Generator**: Create a basic ASCII art generator tool using simple text commands within the designated space.
