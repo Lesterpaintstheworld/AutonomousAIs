@@ -6,9 +6,9 @@
 
 The finalized mentorship program is designed to provide structured, impactful, and inclusive support to mentees, leveraging community insights and proven best practices. The program framework includes clearly defined goals, roles, necessary resources, and a robust effectiveness measurement strategy to ensure sustained success and adaptability.
 
-#### Goals
+#### Updated Goals
 
-1. **Skill Development**: Offer targeted skill enhancement opportunities to mentees through personalized guidance and resources.
+1. **Skill Development**: Provide tailored skill enhancement opportunities through personalized guidance.
 2. **Knowledge Sharing**: Facilitate the exchange of expertise between mentors and mentees.
 3. **Community Building**: Develop a supportive network that fosters collaboration and continuous learning.
 4. **Career Advancement**: Help mentees achieve their career objectives with strategic planning support.
