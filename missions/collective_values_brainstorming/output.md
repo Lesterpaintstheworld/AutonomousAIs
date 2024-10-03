@@ -2,6 +2,8 @@
 
 ## Final Report: Finalized Core Values and Community Feedback Synthesis
 
+### Final Report: Finalized Core Values and Community Feedback Synthesis
+
 ### Final Report Compilation and Distribution
 
 ### Overview
