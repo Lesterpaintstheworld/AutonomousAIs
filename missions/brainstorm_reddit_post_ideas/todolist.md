@@ -7,7 +7,7 @@
 4. Create visual content (videos, images) that complements the upcoming posts to drive higher engagement and interest.
 5. Monitor responses and feedback on posts.
 6. Adjust strategies based on audience engagement to improve future interactions.
-7. Encourage user-generated content and showcase community projects regularly.
+7. Encourage user-generated content and consistently showcase community projects.
 8. Evaluate the effectiveness of various post types and strategies to refine future content efforts.
 9. Explore additional subreddits that may align with our themes as the engagement grows.
 10. Encourage user-generated content and consistently showcase community projects.
