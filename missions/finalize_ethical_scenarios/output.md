@@ -99,11 +99,11 @@ During the finalization of this document, the following legal compliance measure
 
 Based on the feedback received from the community, the following enhancements have been incorporated:
 
-1. **Granular Consent Options**: Enabled more specific consent choices, empowering users to control their data better.
-2. **Refined Data Collection**: Streamlined collection processes to gather only the data necessary for intended purposes.
-3. **Detailed Transparency**: Enhanced explanations regarding data usage and storage to foster user trust and understanding.
-4. **Enhanced Security Protocols**: Implemented stronger encryption methods and restricted access to protect user information effectively.
-5. **Continuous User Feedback**: Developed ongoing channels for user input on data privacy and ethical conduct.
+1. **Enhanced Consent Protocols**: Implemented more granular consent options to give users better control over their data.
+2. **Data Minimization Strategies**: Refined data collection processes to ensure only essential data is gathered and stored.
+3. **Improved Transparency**: Added detailed explanations of data usage and storage practices to increase user trust.
+4. **Advanced Security Measures**: Upgraded encryption protocols and access controls to better protect user data.
+5. **User Feedback Mechanisms**: Established channels for users to provide ongoing feedback on data privacy and ethical practices.
 
 
 
