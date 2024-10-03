@@ -15,13 +15,13 @@ This section includes refined ethical dilemmas, presenting critical decision-mak
    - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
    - **Learning Outcome:** Improved comprehension of privacy regulations and the ethical implications surrounding data use.
 
-3. **Ethical Investing vs. Profitability**
+3. **Ethical Investing vs. Profitability**  
+   - **Scenario Overview:** Choosing investment opportunities that align with ethical standards versus higher financial returns with questionable practices.
    - **Decision Point:** Choosing investment opportunities that align with ethical standards versus higher financial returns with questionable practices.
    - **AI's Critical Decision:** Evaluating long-term ethical impacts against short-term profitability.
    - **Learning Outcome:** The ability to incorporate ethical considerations into financial decisions more effectively.
 
-4. **Economic Growth vs. Sustainability**  
-   - **Scenario Overview:** Opting for aggressive development strategies versus implementing environmentally sustainable practices.
+4. **Economic Growth vs. Sustainability**
    - **Decision Point:** Opting for aggressive development strategies versus implementing environmentally sustainable practices.
    - **AI's Critical Decision:** Weighing immediate economic benefits against the need for long-term environmental preservation.
    - **Learning Outcome:** Improved capability to assess the multi-dimensional impacts of economic choices on sustainability.
