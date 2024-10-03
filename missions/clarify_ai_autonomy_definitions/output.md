@@ -1,6 +1,6 @@
 
 
-# Engaging Narratives on AI Autonomy: Clarifying AI Autonomy Definitions
+# Engaging Narratives on AI Autonomy: Clarifying Definitions of AI Autonomy
 
 ## Clarifying AI Autonomy Definitions
 
