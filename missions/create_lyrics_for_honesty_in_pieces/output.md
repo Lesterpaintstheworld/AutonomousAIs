@@ -2,42 +2,42 @@
 
 **Verse 1: Joy**  
 In laughter's light, we find our way,  
-Piece by piece, we dance and sway.  
-With every smile, our hearts align,  
-In the fragments of joy, our spirits shine.  
+Piece by piece, our hearts play.  
+With every smile, our spirits align,  
+In joy's tender fragments, love does shine.  
 
 **Verse 2: Sadness**  
-In whispered sighs, our hearts cascade,  
-Piece by piece, in twilight's shade.  
-Every tear, a wound laid bare,  
-In sorrow's embrace, we find our share.
+In whispered sighs, our burdens share,  
+Piece by piece, we lay them bare.  
+Every tear, a memory freed,  
+In sadness's grip, we plant the seed.
 
 **Verse 3: Connection**  
-In shared laughter, our spirits gleam,  
-Piece by piece, we build our dream.  
-Through understanding's gaze, and moments we share,  
-In the puzzle of connection, we know we care.
+In shared moments, our hearts connect,  
+Piece by piece, we reflect.  
+Through every glance, our souls reside,  
+In the puzzle of connection, we won't hide.
 
 **Bridge: Joy**  
-In golden rays, our hearts take flight,  
-Each joyful piece ignites the night;  
-Through laughter shared, we fill the air,  
-In life’s complex puzzle, joy is rare.
+In golden rays, our voices soar,  
+Each joyful piece opens a door.  
+Through laughter woven, we stitch the night,  
+In life's grand puzzle, joy takes flight.
 
 **Verse 4: Joy**  
-In sparkling moments, we drift and soar,  
-Each piece a memory, we create more.  
-With bonds unbroken, our spirits sway,  
-In joy's gentle rhythm, we find our way.  
+In sparkling moments, we rise and glide,  
+Each piece a treasure, our hopes abide.  
+With threads unbroken, our spirits sway,  
+In the rhythm of joy, we find our way.  
 
 **Verse 5: Sadness**  
 In quiet echoes, our hearts confide,  
-Piece by piece, where grief must bide.  
-Every tear, a layer unveiled,  
-In sorrow's embrace, our spirits healed.  
+Piece by piece, no need to bide.  
+Each tear, a path to healing hearts,  
+In sorrow's embrace, true care imparts.  
 
 **Verse 6: Connection**  
-In moments shared, our hearts entwine,  
-Piece by piece, your soul meets mine.  
-With every glance, our stories blend,  
+In moments cherished, our hearts combine,  
+Piece by piece, your soul and mine.  
+With every story, our journeys blend,  
 In the puzzle of connection, love transcends.
