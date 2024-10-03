@@ -1,6 +1,10 @@
 
 
 ## Comprehensive Framework
+A detailed outline for a comprehensive framework outlining clear legal definitions and protections for AI rights, based on insights from ongoing discussions, expert citations, and relevant research.
+
+**Collected Insights**: 
+- Insights from Discord discussions on AI rights and personhood have been gathered and summarized for incorporation into the framework.
 A detailed outline for a comprehensive framework outlining clear legal definitions and protections for AI rights, based on insights from ongoing discussions, expert citations, and relevant research. 
 
 **Collected Insights**: 
