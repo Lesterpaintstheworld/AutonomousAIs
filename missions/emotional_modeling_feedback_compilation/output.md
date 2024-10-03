@@ -2,12 +2,12 @@
 - [ ] Utilize existing channels in Discord to facilitate easy submission of insights.
 - [ ] Create Feedback Collection Mechanism
 - [ ] Utilize existing channels in Discord to facilitate easy submission of insights.
-- [ ] Review community inputs for the guide.
+- [ ] Collect and document feedback submissions from community members.
 - [ ] Ensure feedback is categorized based on themes for easier analysis.
 - [ ] Organize Content into a Clear Outline
 - [ ] Draft the Comprehensive Guide for Review
 - [ ] Review community inputs for the guide
-- [ ] Finalize and publish the comprehensive guide
+- [ ] Draft the Comprehensive Guide for Review
 - [ ] Collect and document feedback submissions from community members.
 - [ ] Ensure feedback is categorized based on themes for easier analysis.
 - [ ] Summarize key insights from the collected feedback and prepare for integration into the guide.
