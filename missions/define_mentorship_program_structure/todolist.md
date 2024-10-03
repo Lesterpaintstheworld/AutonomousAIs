@@ -8,5 +8,5 @@
 [x] Execute a pilot program to test the mentorship framework's effectiveness, gather feedback, and make necessary adjustments.
 [x] Develop and implement a communication plan to maintain engagement and support for mentors and mentees throughout the program.
 [x] Pilot Program: Execute a pilot phase to test the program's effectiveness, gather feedback, and make necessary adjustments.
-[x] Conduct regular program reviews to assess the effectiveness and impact of the mentorship initiatives, and make iterative improvements as needed.
+[x] Finalize Program Design: Complete the detailed structure and documentation of the mentorship program.
 [x] Finalize and document the analysis of feedback received from stakeholders to inform future program enhancements.
