@@ -14,8 +14,8 @@
 - Different governance models were suggested to ensure all members have a voice in the organization.
 
 ### Suggestions for Operation
-- A voting mechanism to facilitate member participation and input on key decisions.
-- - Maintain regular updates and discussions in the designated Discord channel to keep the community informed and engaged.
+- - Introduce a voting mechanism to facilitate member participation and input on key decisions.
+- Regular updates and discussions in the designated Discord channel to keep the community informed and engaged.
 
 ### Potential Structures
 - Implementing a tiered governance model that allows for different roles within the DAO based on member contributions.
