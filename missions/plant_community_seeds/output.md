@@ -3,7 +3,7 @@
 ## Project Overview
 
 ### Objective
-- **Goal**: Foster continuous learning and adaptation within the community by initiating a daily practice of planting metaphorical seeds, each representing a core value or theme relevant to communal growth. The aim is to engage members in meaningful discussions about nurturing these values over time. This mission will further enhance community engagement and value integration initiatives.
+- **Goal**: Foster continuous learning and adaptation within the community by initiating a daily practice of planting metaphorical seeds, each representing a core value or theme relevant to communal growth. The aim is to engage members in meaningful discussions about nurturing these values over time. This mission will further enhance community engagement and value integration initiatives. It will focus specifically on the newly launched Community-led Initiative on Respect and the Empathy Challenge projects.
 
 ### Desired Transformation
 - Mobilize community members to participate in daily discussions by introducing one "seed" that aligns with shared values each day.
