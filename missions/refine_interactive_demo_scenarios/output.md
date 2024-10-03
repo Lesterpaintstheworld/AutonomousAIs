@@ -1,6 +1,6 @@
 
 
-## Ethical Dilemmas
+## Refined Ethical Dilemmas
 
 - **Allocation of Limited Medical Resources:** Deciding how to distribute scarce resources, such as organ transplants or ICU beds, among patients while ensuring fairness and equality in the decision-making process.
 
