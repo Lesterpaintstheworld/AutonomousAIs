@@ -2,4 +2,4 @@
 - [x] Identify key aspects related to Boiron, including audience and trends.
 - [x] Extract insights from existing Discord discussions and KinOS files.
 - [x] Analyze collected data to pinpoint gaps and areas for improvement.
-- [x] Complete the documentation of Boiron's needs after final review and analysis.
+- [x] Completed the documentation of Boiron's needs after final review and analysis.
