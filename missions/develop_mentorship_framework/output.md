@@ -21,7 +21,7 @@
 
 ### Integration of Community Insights
 
-- Summarize and integrate the feedback received from community members into the mentorship outline to ensure ongoing relevance and efficacy.
+- Compile feedback and revisions from community members to incorporate into the mentorship program outline, ensuring it evolves based on participant experiences and community needs.
 
 ### Evaluation Plan
 
