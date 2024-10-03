@@ -285,15 +285,6 @@ By embedding these cultural motifs, the NFT collection will resonate with both l
 
 ## Selected Artworks
 
-1. **Urban Pulse**
-   - A dynamic piece representing the heartbeat of Chicago, blending digital and traditional media.
-   
-2. **Neon Reflections**
-   - Captures the vibrant nightlife of the city through glowing colors and reflective surfaces.
-   
-3. **Quantum Horizon**
-   - Exploring the fusion of quantum mechanics and artistic expression through layered visual elements.
-   
 4. **River Flow**
    - Depicting the Chicago River's movement and its role in the city's history and development.
    
