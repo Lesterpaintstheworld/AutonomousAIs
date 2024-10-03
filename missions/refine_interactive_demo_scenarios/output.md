@@ -32,10 +32,10 @@ This section includes refined ethical dilemmas, presenting critical decision-mak
 
 ### Additional Refined Ethical Decision Scenarios
 
-6. **Supply Chain Transparency in Finance**
-   - **Decision Point:** Ensuring complete transparency in the supply chains of financial products while maintaining competitive edge and profitability.
-   - **AI's Critical Decision:** Balancing ethical responsibility for transparency with the need to protect sensitive competitive information.
-   - **Learning Outcome:** Enhanced ability to implement transparency standards without compromising business competitiveness, fostering trust among stakeholders.
+6. **Algorithmic Bias in Financial Lending**
+   - **Decision Point:** Evaluating whether to approve loan applications using algorithms that may reflect historical bias.
+   - **AI's Critical Decision:** Weighing the efficiency of data-driven decisions against the risk of perpetuating bias and inequality.
+   - **Learning Outcome:** Improving understanding of bias mitigation strategies and the importance of fairness in automated processes.
 
 7. **Allocation of Limited Medical Resources**  
    This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
