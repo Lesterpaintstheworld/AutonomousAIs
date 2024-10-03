@@ -51,7 +51,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Regular security assessments.
     - Incorporation of defenses against common adversarial attacks.
 
-### 8. User Autonomy Metric
+### 8. User Autonomy and Control Metric
 **Objective:** Ensure that AI systems respect and enhance user autonomy without infringing on individual decision-making.
 
 - **User Control:**
@@ -68,7 +68,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
 
 
 
-### 2. Fairness and Equity Metric
+### 2. Fairness Metric
 **Objective:** Evaluate the impartiality and equity of AI systems.
 
 - **Bias Detection:**
