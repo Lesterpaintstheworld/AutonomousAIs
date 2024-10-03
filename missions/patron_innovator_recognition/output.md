@@ -51,8 +51,6 @@ Schedule initial team training on recognition protocols to ensure all team membe
   - Gather feedback and adjust the process as needed.
   - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
   - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
-  - Develop and introduce new recognition categories based on community feedback and ensure evaluation of their effectiveness to foster continuous improvement.
-  - Schedule quarterly review meetings to assess the program's overall success and make necessary adjustments.
 
 **Execution Plan:**
 
