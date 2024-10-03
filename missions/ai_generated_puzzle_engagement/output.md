@@ -70,7 +70,7 @@ Explore the secret garden by solving botanical puzzles. Each correct solution un
 - **Puzzle 3:** Solve the crossword related to garden flora.
 
 **Objective:**  
-Complete all botanical puzzles to fully explore the secret garden.
+Complete all botanical puzzles to fully explore and unlock the wonders of the secret garden.
 
 # How to Participate
 
