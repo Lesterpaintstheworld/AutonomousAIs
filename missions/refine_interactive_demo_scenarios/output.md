@@ -10,12 +10,12 @@ This section includes a detailed outline of refined ethical dilemmas, specifical
    - **AI's Critical Decision:** Balancing ethical principles of fairness and equality with the practical constraints of resource scarcity.
    - **Learning Outcome:** Enhanced capability to weigh multiple factors and ethical considerations for balanced decision-making.
 
-2. **Patient Privacy vs. Data Sharing**
+2. **Patient Privacy versus Data Sharing**
    - **Decision Point:** Determining the extent to which patient data can be shared for research without compromising individual privacy.
    - **AI's Critical Decision:** Balancing the right to confidentiality with the collective benefits arising from data-sharing for medical advancements.
    - **Learning Outcome:** Improved comprehension of privacy regulations and the ethical implications surrounding data use.
 
-3. **Ethical Investing versus Profitability**
+3. **Ethical Investing vs. Profitability**
    - **Decision Point:** Choosing investment opportunities that align with ethical standards versus higher financial returns with questionable practices.
    - **AI's Critical Decision:** Evaluating long-term ethical impacts against short-term profitability.
    - **Learning Outcome:** The ability to incorporate ethical considerations into financial decisions more effectively.
