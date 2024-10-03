@@ -136,6 +136,8 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 
 ## Conclusion
 
+### Future Actions
+
 Implementing these emotional modeling strategies and self-care techniques can significantly enhance emotional well-being and resilience. By integrating these practices into daily life, individuals can better navigate emotional challenges and foster a healthier, more balanced lifestyle.
 
 ### Future Actions
@@ -148,7 +150,7 @@ The next step involves initiating feedback collection sessions with community me
 2. Create and distribute surveys focusing on emotional modeling practices and suggestions for improvement.
 3. Analyze the compiled feedback to refine and adjust strategies based on community input.
 
-### References
+## References
 
 - [Community Feedback on Emotional Modeling](#)
 - [Previous Self-Care Techniques Analysis](#)
