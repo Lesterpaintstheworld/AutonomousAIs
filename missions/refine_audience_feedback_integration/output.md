@@ -16,7 +16,7 @@
    - Designate specific platforms for feedback submission and maintain regular updates regarding how feedback is utilized.
 
 6. **Feedback Evaluation Criteria**:
-   - Create specific indicators that will assess both relevance and constructiveness of feedback, ensuring it aligns with our artistic principles.
+   - Create specific indicators that will assess both the relevance and constructiveness of feedback, ensuring it aligns with our artistic principles.
 
 7. **Engagement Strategies**:
    - Investigate methods to facilitate interactive discussions and workshops that will encourage community participation in the feedback process.
