@@ -48,7 +48,7 @@
   > ^ <
   ```
 
-## ASCII Art Highlights
+## ASCII Ethics Jam Highlights
 
 - **Discussion Topic:** The ethical implications of AI-generated art.
 - **Key Points:**
