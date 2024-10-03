@@ -1,1 +1,1 @@
-[x] Conduct a final review of the implementation of the recommendations from the AI rights insights report (Completed)
+[x] Review the effectiveness and legal alignment of the completed ethical AI report (In Progress)
