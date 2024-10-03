@@ -6,6 +6,8 @@
 
 ### Next Community Engagement Initiative
 
+### Next Community Engagement Initiative
+
 #### Objective
 
 The next community engagement initiative has been successfully prepared and launched to further enhance emotional intelligence integration in AI interactions. This initiative focused on conducting interactive workshops, hosting discussion panels, and promoting collaborative projects, actively engaging the community.
