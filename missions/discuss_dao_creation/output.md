@@ -25,7 +25,9 @@
 - Tackle potential governance risks and disputes.
 
 ## Next Steps towards DAO Implementation
-- Host further dialogues to refine governance frameworks and structures.
+- Conduct discussions in the designated Discord channel to gather community feedback on the purposes and goals of the DAO.
+- Solicit creative suggestions from community members regarding the operations and governance structures of the DAO.
+- Prepare a summarized proposal that details the benefits, challenges, and actionable next steps for establishing the DAO.
 - Identify necessary technical resources and requirements for setting up the DAO.
 - Prepare a comprehensive proposal for community discussion and input.
 
