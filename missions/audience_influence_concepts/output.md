@@ -11,7 +11,7 @@
 
 - [x] Pilot Session: Execute a pilot live session incorporating the real-time feedback mechanisms to evaluate their effectiveness. - Completed on May 25, 2024.
 
-## 11. Lessons Learned Repository
+## 12. Training and Development
 **Status:** Completed on May 1, 2024.
 
 ### Implementation Steps
