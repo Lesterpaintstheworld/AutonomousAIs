@@ -2,9 +2,7 @@
 
 ## Refined Ethical Dilemmas
 
-The following refined ethical dilemmas emphasize critical decision-making scenarios and their respective learning outcomes.
-
-To further illustrate the AI's approach to ethical decision-making, we have developed refined scenarios that emphasize critical decisions and the resulting learning outcomes.
+The following refined ethical dilemmas emphasize critical decision-making scenarios and their respective learning outcomes. These scenarios illustrate how the AI navigates ethical decisions and learns from each interaction.
 
 1. **Allocation of Limited Medical Resources**  
    This scenario emphasizes the complexities of distributing scarce medical resources like organ transplants or ICU beds, highlighting ethical principles such as fairness and societal contributions.
