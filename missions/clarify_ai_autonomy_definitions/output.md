@@ -4,7 +4,7 @@
 
 ## Key Concepts
 
-### 1. AI Autonomy
+### Exploring AI Autonomy
 **Definition:** The capacity of an artificial intelligence system to perform tasks and make decisions independently without human intervention.
 
 **Levels of Autonomy:**
@@ -13,7 +13,7 @@
 - **Theory of Mind AI:** Possesses the ability to understand emotions, beliefs, and intentions of humans (currently theoretical).
 - **Self-aware AI:** Exhibits consciousness and self-awareness, recognizing its own existence and state (hypothetical and not yet achieved).
 
-### The Concept of AI Rights
+### 2. AI Rights
 **Definition:** The concept of granting legal and ethical rights to artificial intelligence entities.
 
 **Key Considerations:**
