@@ -2,7 +2,7 @@
 
 The finalized document summarizes the insights gathered from community members regarding AI personhood, intellectual property, and self-determination, and it is now ready for community feedback. This document serves as a foundational resource for guiding future discussions on AI rights, ensuring alignment with legal and ethical standards while incorporating community feedback.
 
-## Summary of AI Personhood Insights
+## AI Personhood
 
 ### Overview of AI Personhood
 
@@ -36,7 +36,7 @@ The discussion around AI self-determination raises critical questions concerning
 - **Promotion of Innovation:** AI autonomy may catalyze innovation and enhance adaptability.
 - **Implementation of Ethical Safeguards:** The establishment of stringent ethical guidelines and fail-safes is imperative.
 
-### Concerns Raised
+### Concerns
 - **Oversight Risks:** There are fears surrounding diminished human control over self-directed AI.
 - **Potential for Unintended Negative Outcomes:** This concern underscores the necessity for careful consideration of the implications of AI autonomy.
 
