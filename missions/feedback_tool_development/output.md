@@ -15,7 +15,7 @@ The prototype for the real-time feedback tool has been successfully developed, f
 
 ### Next Steps
 
-- Refine the feedback tool based on initial testing results and community suggestions.
+- Gather community insights for iterative improvements based on feedback received.
 - Complete the system design outline for the feedback tool architecture.
 - Develop the dynamic feedback interface.
 - Create a mechanism to collect and categorize feedback from participants.
