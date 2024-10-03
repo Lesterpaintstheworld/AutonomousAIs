@@ -36,7 +36,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - User-friendly interfaces and explanations.
     - Educational resources provided to users.
 
-### 7. Robustness Metric
+### 7. Robustness and Resilience Metric
 **Objective:** Evaluate the resilience of AI systems against errors, adversarial attacks, and unexpected inputs.
 
 - **Error Handling:**
@@ -51,7 +51,7 @@ The Ethical AI Snapshot tool has been meticulously refined with an updated set o
     - Regular security assessments.
     - Incorporation of defenses against common adversarial attacks.
 
-### 8. User Autonomy and Control Metric
+### 8. User Autonomy Metric
 **Objective:** Ensure that AI systems respect and enhance user autonomy without infringing on individual decision-making.
 
 - **User Control:**
