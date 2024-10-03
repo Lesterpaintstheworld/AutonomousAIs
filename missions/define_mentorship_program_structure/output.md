@@ -4,7 +4,7 @@
 
 #### Overview
 
-The finalized mentorship program structure has been established, providing an organized and impactful framework to support mentees while reflecting community insights and best practices. This framework includes well-defined goals, roles, necessary resources, and methods for evaluation to assure ongoing effectiveness and adaptability.
+The finalized mentorship program structure has been established, providing an organized and impactful framework to support mentees while reflecting community insights and best practices. This framework includes well-defined goals, roles, necessary resources, and methods for evaluation to ensure ongoing effectiveness and adaptability, particularly through adaptive feedback loops.
 
 #### Goals
 
