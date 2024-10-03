@@ -3,10 +3,10 @@
 ## Project Overview
 
 ### Objective
-- **Goal**: Foster continuous learning and adaptation within the community by initiating a daily practice of planting metaphorical seeds, each representing a core value or theme relevant to communal growth. The aim is to engage members in meaningful discussions about nurturing these values over time.
+- **Goal**: Foster continuous learning and adaptation within the community by initiating a daily practice of planting metaphorical seeds, each representing a core value or theme relevant to communal growth. The aim is to engage members in meaningful discussions about nurturing these values over time. This mission will further enhance community engagement and value integration initiatives.
 
 ### Desired Transformation
-- Mobilize community members to participate in daily discussions by introducing one "seed" that aligns with shared values each day. A more structured approach will be adopted to facilitate these discussions effectively.
+- Mobilize community members to participate in daily discussions by introducing one "seed" that aligns with shared values each day.
 
 ### Expected Result
 - **Outcome**: A vibrant community space where members actively discuss core values, fostering respect and empathy through collaborative projects and enhanced engagement activities.
