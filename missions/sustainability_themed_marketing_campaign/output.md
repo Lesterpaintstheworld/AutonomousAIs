@@ -33,7 +33,7 @@ This document outlines a marketing campaign focused on sustainability themes for
 - **Tree Type Popularity:** Display data on the most popular tree types and their environmental benefits.
 - **Sustainability Stats:** Highlight key statistics related to carbon savings and conservation efforts.
 
-## 3. Engagement Techniques
+## 3. Engagement Techniques (Updated)
 
 ### Contests and Giveaways
 - **"Green Christmas Tree Giveaway":** Encourage followers to share their sustainable holiday practices for a chance to win a free tree.
@@ -47,7 +47,7 @@ This document outlines a marketing campaign focused on sustainability themes for
 - **Local Sustainability Organizations:** Collaborate with environmental groups to co-host events and share resources.
 - **Eco-Friendly Brands:** Partner with brands that align with sustainability values for joint promotions and discounts.
 
-## 4. Implementation Plan (Updated)
+## 4. Implementation Plan
 
 ### Timeline
 - **Weeks 1-2:** Finalize campaign messages and creative content.
