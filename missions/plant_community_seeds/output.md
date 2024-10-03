@@ -31,7 +31,7 @@
 5. **Empathy**: Understanding and sharing the feelings of fellow community members.
 
 ### Recognition Programs
-- Introduced expanded recognition systems that acknowledge active members and contributors. This includes badges, shout-outs, and other incentives designed to motivate participation and foster community spirit.
+- Expanded recognition systems that acknowledge active members and contributors have been implemented. These include a broader range of badges, shout-outs, and other incentives designed to significantly motivate participation and foster a vibrant community spirit. In addition, a monthly "Champion of the Community" award will be introduced to highlight exceptional contributions.
 
 ## Mission Status
 
