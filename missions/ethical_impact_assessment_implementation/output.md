@@ -5,6 +5,7 @@
 - Conduct a comprehensive review of the gathered ethical guidelines from international sources to ensure they are up to date and relevant.
 - Analyze feedback and iterate on the framework based on stakeholder insights and suggestions.
 - **Established:** Set up regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
+- **Scheduled:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
 - 
 - **Completed:** Implemented engagement strategies to gather ongoing stakeholder feedback and incorporate it into future iterations of the framework.
 - **Completed:** Established regular assessment schedules to monitor AI projects and their adherence to ethical guidelines, ensuring continuous compliance with ethical standards.
