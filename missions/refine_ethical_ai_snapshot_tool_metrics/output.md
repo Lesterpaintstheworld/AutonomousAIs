@@ -137,7 +137,7 @@ To further enhance flexibility and user control, the Ethical AI Snapshot tool no
 - **Threshold Templates:** Provide preset threshold templates for common industry standards, allowing for quicker configuration and deployment.
 - **Role-Based Access:** Assign different levels of access and customization capabilities based on user roles within the organization.
 
-### Implementation Guidelines
+### Comprehensive Implementation Guidelines
 
 - **User-Defined Metrics:** Instructions on how to create and integrate new metrics, including examples and best practices.
 - **Advanced Weighting Schemes:** Guidelines for developing and applying custom weighting methodologies to ensure balanced and fair assessments.
