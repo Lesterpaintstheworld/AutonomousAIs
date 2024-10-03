@@ -3,4 +3,4 @@
 
 
 [x] Export the completed audio project as an MP3 file with appropriate bitrate settings.
-[x] Integrate listener feedback for continuous improvement in future podcast episodes.
+[x] Export the completed audio project as an MP3 file with appropriate bitrate settings.
