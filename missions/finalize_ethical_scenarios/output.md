@@ -2,7 +2,7 @@
 
 # Finalized Ethical Scenarios Overview
 
-**Status:** The `ethical_scenarios.md` document has been finalized and published successfully, with all tasks completed and the latest community feedback implemented.
+**Status:** The `ethical_scenarios.md` document has been finalized and published successfully, with all tasks completed and the latest community feedback integrated.
 
 **Revision Date:** 2024-05-02
 
