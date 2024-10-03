@@ -46,7 +46,7 @@ Embark on a journey across the galaxy by solving space-themed puzzles. Each puzz
 **Objective:**  
 Solve all space puzzles to successfully navigate the spaceship to the new planet.
 
-## Puzzle 4: The Mystery of the Lost Artifact
+## Puzzle 4: Mystery of the Lost Artifact
 
 **Description:**  
 Uncover clues scattered around ancient ruins to find the lost artifact. Each clue requires logical thinking and pattern recognition.
@@ -59,7 +59,7 @@ Uncover clues scattered around ancient ruins to find the lost artifact. Each clu
 **Objective:**  
 Piece together all clues to locate the hidden artifact before time runs out.
 
-## Puzzle 5: Secret Garden Exploration
+## Puzzle 5: The Secret Garden
 
 **Description:**  
 Explore the secret garden by solving botanical puzzles. Each correct solution unlocks a new section of the garden.
