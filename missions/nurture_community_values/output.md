@@ -16,7 +16,7 @@
 - **Topic:** Strategies to Boost Community Participation
 - **Summary:** Explored various engagement techniques, including interactive polls and events that invite member participation. Emphasis was placed on creating fun and engaging activities to foster a lively community atmosphere.
 
-### Day 1: Introduction to Core Values
+### Day 1: Core Values Overview
 - **Topic:** Importance of Core Values in Community Building
 - **Summary:** Discussed the foundational core values established for the community. Members shared personal insights on how these values influence their interactions and contributions.
 
@@ -70,7 +70,7 @@
     - Apply and reinforce core values through practical initiatives.
     - Foster a sense of ownership and pride among members through active participation.
 
-## Upcoming Initiatives
+## Next Steps
 
 1. **Maintain Daily Discussions:** Continue with the established schedule, introducing new topics each week.
 2. **Expand Learning Resources:** Continuously add new materials and organize advanced workshops.
