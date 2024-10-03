@@ -60,7 +60,7 @@ This document outlines a marketing campaign focused on sustainability themes for
 - **Design Team:** Development of infographics and visual content.
 - **Partnership Managers:** Establish and manage collaborations with organizations and brands.
 
-## 5. Measurement and Evaluation
+## 5. Measurement and Evaluation (Updated)
 
 ### Key Metrics
 - **Engagement Rates:** Likes, shares, comments, and participation in contests.
@@ -72,7 +72,7 @@ This document outlines a marketing campaign focused on sustainability themes for
 - **Weekly Reports:** Track progress and make real-time adjustments.
 - **Post-Campaign Analysis:** Comprehensive review of outcomes against objectives.
 
-## 6. Budget Allocation (Updated)
+## 6. Budget Allocation
 
 ### Breakdown
 - **Content Creation:** 30%
