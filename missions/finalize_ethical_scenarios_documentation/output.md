@@ -55,7 +55,7 @@
 
 ## Conclusion
 
-This document serves as a living guide for addressing ethical and privacy concerns in the ALM project. Regular reviews and updates are essential to maintain alignment with evolving ethical standards and legal requirements. Ensuring legal compliance is paramount to maintaining user trust and safeguarding the integrity of the ALM project. By adhering to GDPR, CCPA, BIPA, and other relevant regulations, and continuously enhancing our compliance strategies, we commit to responsible data management practices that respect user privacy and uphold ethical standards.
+This document serves as a living guide for addressing ethical and privacy concerns in the ALM project. Regular reviews and updates are essential to maintain aligned practices with evolving ethical standards and regulatory requirements. Continuous improvement is key to fostering user trust and enhancing data protection strategies. Ensuring legal compliance is paramount to maintaining user trust and safeguarding the integrity of the ALM project. By adhering to GDPR, CCPA, BIPA, and other relevant regulations, and continuously enhancing our compliance strategies, we commit to responsible data management practices that respect user privacy and uphold ethical standards.
 
 ## Workflow for Regular Review and Update
 
