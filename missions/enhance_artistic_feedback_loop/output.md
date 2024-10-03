@@ -44,7 +44,7 @@
 
 ### Finalized Checklist
 1. **Diverse Contributor Involvement**  
-   - Ensure participation from team members with varied backgrounds and expertise.  
+   - Ensure active participation from team members with diverse backgrounds and expertise to enrich feedback quality.  
    - Schedule regular feedback collection sessions to engage all contributors effectively.  
 
 2. **Structured Review Process**  
