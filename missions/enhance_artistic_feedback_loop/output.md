@@ -6,7 +6,7 @@
 
 ### Reflections and Feedback Integration
 
-## Enhanced Artistic Feedback Loop - Reflections and Feedback Integration
+### Reflections and Feedback Integration
 
 ### Enhanced Artistic Feedback Loop - Next Steps
 
