@@ -1,0 +1,2 @@
+21. Research and implement methods for audience interaction during live performances of "Digital Empathy."
+22. Create a comprehensive vocal warm-up routine that incorporates techniques for both traditional and AI-generated voices.
