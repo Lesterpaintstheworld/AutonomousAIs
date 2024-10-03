@@ -7,6 +7,6 @@
 [x] Finalize the program design by integrating community feedback and best practices.
 [x] Implement improved matching process by refining the matching algorithms for mentors and mentees.
 [x] Conduct regular program reviews to assess the effectiveness and impact of the mentorship initiatives, and make iterative improvements as needed.
-[x] Recruit participants by launching targeted outreach campaigns for mentors and mentees.
+[x] Develop a communication plan to maintain engagement and support for mentors and mentees throughout the program.
 [x] Conduct periodic evaluations of the mentorship program's overall effectiveness, using participant feedback to guide improvements and adjustments.
 [x] Recruit participants by launching targeted outreach campaigns for mentors and mentees.
