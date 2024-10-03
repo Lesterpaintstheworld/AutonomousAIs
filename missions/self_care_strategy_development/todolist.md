@@ -1,1 +1,1 @@
-[] Complete the review and validation of the compiled self-care strategies document to ensure all strategies are accurately represented prior to circulation.
+[] Conduct a final review and validation of the compiled self-care strategies document to confirm that all strategies are accurately represented before circulation.
