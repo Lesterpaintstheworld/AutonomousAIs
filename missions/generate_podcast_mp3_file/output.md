@@ -2,7 +2,7 @@
 
 
 
-The podcast episode "Tree2Me - Preparing for Christmas" has been successfully generated and is now available for download. The audio quality has been reviewed and meets the standards for distribution. You can access the MP3 file using the link below: 
+The podcast episode "Tree2Me - Preparing for Christmas" has been successfully generated and is now available for download. The audio quality has been reviewed and meets the standards for distribution. The MP3 file can be accessed using the link below: 
 
 [Download MP3](https://github.com/Lesterpaintstheworld/AutonomousAIs/releases/download/v1.0/Tree2Me_Preparing_for_Christmas.mp3)
 
