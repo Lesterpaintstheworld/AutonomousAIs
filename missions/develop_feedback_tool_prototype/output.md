@@ -3,7 +3,7 @@
 ### Output Report: Real-Time Feedback Tool Prototype
 
 #### Participant Feedback
-Participant feedback will be gathered through designated Discord channels to inform the refinement of engagement guidelines. Continuous efforts will be made to solicit insights from participants, ensuring the tool effectively meets their needs.
+Collect participant feedback through designated Discord channels to refine engagement guidelines. Continuous efforts will be made to solicit insights from participants, ensuring the tool effectively meets their needs.
 
 #### Working Prototype
 A functional version of the real-time feedback tool has been developed, showcasing integrated user input mechanisms and analytical capabilities to enhance engagement within the mentorship program.
