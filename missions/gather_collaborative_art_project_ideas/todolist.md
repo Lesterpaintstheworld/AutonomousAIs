@@ -4,4 +4,4 @@
 - [x] Compile a final report summarizing the insights gained from the community contributions and proposed initiatives.
 - [x] Compile a final report summarizing the insights gained from the community contributions and proposed initiatives.
 - [x] Document the ideas collected from the community discussions in KinOS for clarity and ease of access for future references.
-- [x] Follow up on the implementation of the prioritized initiatives.
+- [ ] Follow up on the implementation of the prioritized initiatives.
