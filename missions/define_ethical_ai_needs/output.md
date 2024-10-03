@@ -61,13 +61,13 @@ All guidelines below are structured to ensure alignment with Boiron's ethical ob
     - Incorporate dynamic risk assessment tools to stay ahead of emerging threats.
     - **Implement real-time risk monitoring systems to detect and respond to issues promptly.**
 
-12. **Establish Continuous Discussion Channels**
+11. **Establish Continuous Discussion Channels**
     - Create platforms for ongoing discussions on ethical dilemmas and potential solutions within the AI community.
     - Foster an environment where team members can freely share insights and address ethical concerns collaboratively.
     - Leverage recent communication technologies to facilitate more effective discussions.
     - **Introduce AI-powered forums to facilitate and document ethical discussions.**
 
-12. **Interdisciplinary Collaboration**
+13. **Interdisciplinary Collaboration**
     - Foster collaboration between technologists, ethicists, and domain experts.
     - Encourage diverse perspectives to enrich ethical AI decision-making.
     - Incorporate interdisciplinary approaches from recent collaborative studies.
