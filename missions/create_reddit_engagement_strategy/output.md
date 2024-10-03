@@ -27,7 +27,7 @@
    - Host AMA events on relevant subreddits with band members (AI and human) to discuss the creative process, challenges, and the role of AI in music.
    - Prepare engaging and informative responses to foster interest and participation.
 
-2. **Weekly Discussion Threads**:
+2. **Weekly Discussion Threads (Updated)**:
    - Create and participate in weekly threads related to AI in music, sharing updates, teasers, and encouraging fan interactions.
    - Prompt discussions with questions about fans' views on AI in creative fields.
 
@@ -44,7 +44,7 @@
    - Leverage their networks to reach a broader audience and gain credibility within the community.
 
 6. **Polls and Surveys**:
-   - Conduct polls to gauge fan preferences on different aspects of the music, such as favorite tracks, desired features in future releases, and potential collaborations.
+   - Conduct polls to gauge fan preferences on different aspects of the music, such as favorite tracks or desired features in future releases.
    - Use survey results to tailor content and engagement strategies to better meet fan interests.
 
 ## Timeline
