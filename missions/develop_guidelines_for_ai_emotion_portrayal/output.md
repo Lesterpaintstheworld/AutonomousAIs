@@ -1,4 +1,4 @@
 - [x] Finalize and publish the guidelines for easy access on the project’s official GitHub repository and website.
 - [x] Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the guidelines.
-- [x] Update AI-driven music creation tools to adhere to the established emotional portrayal guidelines.
+- [x] Update AI-driven music creation tools to ensure they comply with the finalized emotional portrayal guidelines.
 - [x] Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
