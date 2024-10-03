@@ -40,7 +40,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
 1. **Finalize Program Design (In Progress)**: Currently integrating community feedback and best practices to create a comprehensive program framework. This includes gathering diverse ideas from community surveys, aligning with successful mentorship models from industry leaders, and ensuring that the program's structure promotes inclusivity and effectiveness. Key enhancements under consideration include refining the matching algorithms for mentors and mentees, developing comprehensive training modules, and ensuring flexible scheduling options to accommodate participant needs. Regular program reviews will be scheduled to assess effectiveness and make necessary adjustments.
 2. **Recruit Participants**: **Completed**
 
-   - **Marketing Implementation**: Executed a multi-channel email campaign reaching over 1,000 potential mentors and mentees, resulting in 150 mentor applications and 400 mentee applications.
+   - **Marketing Implementation**: Launch targeted outreach campaigns to attract qualified mentors and enthusiastic mentees.
    
    - **Partnership Development**: Established collaborations with three local universities and two professional organizations, enhancing the program's visibility and credibility.
    
@@ -49,7 +49,7 @@ The finalized mentorship program is designed to provide structured, impactful, a
    - **Outreach Events**: Hosted five virtual information sessions and attended two local community events, further driving engagement and interest in the mentorship program.
 3. **Establish Communication Channels (Completed)**: Set up platforms and tools to facilitate efficient program operations.
 4. **Develop Training Modules (Completed)**: Create detailed training materials for mentors and mentees to ensure clarity and consistency.
-5. **Pilot Program**:
+5. **Pilot Program**: Execute a pilot phase to test the program's effectiveness, gather feedback, and make necessary adjustments.
 6. **Full Launch**: **Completed** - The full launch has been completed, successfully integrating the learnings and feedback from the pilot phase. The program is now actively engaging participants across the community.
 7. **Ongoing Monitoring and Evaluation**: Continuously assess program performance and participant satisfaction, making iterative improvements as needed.
 
