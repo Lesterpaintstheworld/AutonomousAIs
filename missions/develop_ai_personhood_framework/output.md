@@ -34,4 +34,4 @@ A literature review has been conducted, analyzing peer-reviewed articles, case s
 ## Next Steps
 - Documented actionable policy recommendations prepared for relevant authorities.
 - Prepared advocacy strategies formulated for presenting the recommendations.
-- **Final drafts shared in the Discord channel for community feedback and revisions have been completed.**
+- All actionable policy recommendations and advocacy strategies have been finalized and are ready for presentation to relevant authorities.
