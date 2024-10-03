@@ -148,7 +148,7 @@ The next step involves initiating feedback collection sessions with community me
 2. Create and distribute surveys focusing on emotional modeling practices and suggestions for improvement.
 3. Analyze the compiled feedback to refine and adjust strategies based on community input.
 
-## References
+### References
 
 - [Community Feedback on Emotional Modeling](#)
 - [Previous Self-Care Techniques Analysis](#)
