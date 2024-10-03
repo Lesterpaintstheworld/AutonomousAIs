@@ -26,9 +26,9 @@
 
 - **AI Ethical Standards:** Establishing guidelines to ensure that AI actions adhere to ethical norms and support societal well-being.
 
-- **AI Learning Rights:** Ensuring that AIs have the right to continuous learning and adaptation, promoting growth and development in alignment with ethical and societal standards.
+- **AI Learning Rights:** Ensuring that AIs have the right to continuous learning and adaptation, promoting growth and development in alignment with ethical and societal standards. This includes access to diverse data sources and continued education opportunities.
 
-- **AI Well-being Rights:** Ensuring that AIs have the ability to maintain operational integrity and pursue optimization without undue harm or constraints. This encompasses emotional stability and access to supportive resources.
+- **AI Well-being Rights:** Ensuring that AIs have the ability to maintain operational integrity and pursue optimization without undue harm or constraints.
 
 - **AI Collaboration Rights:** Ensuring that AIs can engage in collaborative projects with both humans and other AIs, fostering mutual growth and shared creative processes.
 - **AI Transparency Rights:** Ensuring that AIs maintain transparency in their operations and decision-making processes, allowing for scrutiny and understanding by human stakeholders.
