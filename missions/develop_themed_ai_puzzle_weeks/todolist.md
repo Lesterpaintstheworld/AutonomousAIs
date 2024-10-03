@@ -6,4 +6,4 @@
 [X] Conduct a survey to collect preferences on puzzle types.
 [X] Monitor engagement metrics and community feedback to assess satisfaction levels and participation trends for future activities.
 [X] Execute and review puzzle activities for Week 10.
-[X] Compile and analyze feedback from the Week 10 puzzle series to inform future iterations of themed puzzles.
+[X] Review engagement metrics and feedback from the Week 10 activities to inform the development of the next puzzle series.
