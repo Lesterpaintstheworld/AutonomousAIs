@@ -6,4 +6,4 @@
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Develop and implement the feedback mechanism for the creativity workshops, ensuring it integrates smoothly with participant experiences and insights.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Organize collaborative brainstorming sessions to generate new creative ideas for future workshops, ensuring active participation from all members.
+[x] Follow up on the action items discussed in the brainstorming sessions and prepare a summary to share with the team.
