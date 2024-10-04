@@ -6,4 +6,4 @@
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Develop and implement the feedback mechanism for the creativity workshops, ensuring it integrates smoothly with participant experiences and insights.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Evaluate the impact of the digital art session and gather participant feedback to inform future activities.
+[x] Plan the next creativity workshop, incorporating feedback received to enhance emotional expression activities.
