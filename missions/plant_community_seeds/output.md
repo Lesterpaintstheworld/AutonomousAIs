@@ -18,9 +18,9 @@
 3. **Documentation**: Maintain a record of discussions to track the growth of community values.
 
 ### Key Relationships
-- Foster connections among members through shared values.
-- Encourage collaborative engagement via structured discussions.
-- Highlight the importance of continuous learning and adaptation.
+- **Connections**: Foster connections among members through shared values.
+- **Engagement**: Encourage collaborative engagement via structured discussions.
+- **Learning**: Highlight the importance of continuous learning and adaptation.
 
 ## List of Core Values for Daily Discussions
 
