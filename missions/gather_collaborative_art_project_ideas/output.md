@@ -15,9 +15,9 @@ After concluding the mission to gather community ideas, the documented insights 
 3. **Generative Music and Art Fusion**
    - Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-### Community Feedback Summary
+### Summary of Community Insights
 
-The documented insights from community discussions have been reviewed, and the feedback has been integrated into actionable initiatives. This valuable input will guide the next steps in our project development. Here’s a summary of the community feedback:
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback:
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 2. **Interactive Digital Installations**
