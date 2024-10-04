@@ -70,7 +70,7 @@ These initiatives are pivotal in promoting creativity and community involvement 
 
 As we proceed with our mission, we will continue to actively monitor community feedback and document any new suggestions regarding collaborative projects, ensuring that we maintain an evolving and responsive approach to community engagement.
 
-Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback and prioritized projects:
+As we proceed with our mission, we will continue to actively monitor community feedback and document any new suggestions regarding collaborative projects, ensuring that we maintain an evolving and responsive approach to community engagement.
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
