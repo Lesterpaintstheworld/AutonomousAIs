@@ -7,10 +7,10 @@
 - **Summary:** Discussed ways to integrate continuous learning into daily community practices through workshops and discussions.
 
 ### Day 2: Strengthening Inclusivity
-- **Topic:** Enhancing Inclusive Practices
-- **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
+- **Topic:** Boosting Member Engagement
+- **Summary:** Reviewed initiatives to encourage larger participation in community activities and discussions.
 
-### Day 3: Highlighting Member Feedback
+### Day 3: Celebrating Contributions
 - **Topic:** Recognizing Achievements and Milestones
 - **Summary:** Highlighted effective methods for celebrating member achievements and reinforcing community spirit.
 
