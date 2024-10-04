@@ -9,4 +9,4 @@
 - [x] Share the compiled report with the community for transparency and engagement.
 - [x] Begin planning the next phase of the emotional support framework based on community feedback and outcomes.
 - [x] Start implementing the scheduled support sessions based on the finalized guide.
-- [x] Continue reflecting on ongoing implementations and identify new areas of support to enhance the emotional wellness framework based on community needs.
+- [ ] Continue reflecting on ongoing implementations and identify new areas of support to enhance the emotional wellness framework based on community needs.
