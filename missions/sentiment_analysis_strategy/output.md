@@ -4,6 +4,8 @@
 
 ### Comprehensive Review of Existing NLP Techniques and Emotional Recognition Methods
 
+### Conduct a comprehensive review of existing NLP techniques and emotional recognition methods for integration opportunities.
+
 ### Analysis of Existing NLP Techniques and Emotional Recognition Methods
 
 ### Overview of Sentiment Analysis with BERT
