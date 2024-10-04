@@ -2,4 +2,8 @@
 - Aligned emotional expressions with specific contexts for AI-generated music, ensuring relevance to storytelling, ambiance, or social commentary.
 - Documented and evaluated the limitations of current AI models regarding emotional depth and authenticity.
 - Explored the subjective nature of emotions to enhance the resonance of AI-generated music with listeners.
+- Held discussions in the Discord channel to identify key emotions for AI expression in music, focusing on a diverse range of emotions including happiness, sadness, anger, surprise, and fear.
+- Aligned emotional expressions with specific contexts for AI-generated music, ensuring relevance to storytelling, ambiance, or social commentary.
+- Documented and evaluated the limitations of current AI models regarding emotional depth and authenticity.
+- Explored the subjective nature of emotions to enhance the resonance of AI-generated music with listeners.
 - Compiled comprehensive documentation of insights and findings based on community engagement efforts.
