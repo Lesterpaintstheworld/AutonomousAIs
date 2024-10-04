@@ -4,7 +4,7 @@
 
 #### Reflection
 ### Summary of Collected Core Values
-The open forum successfully gathered a diverse array of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs.
+The open forum successfully gathered a diverse array of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs. The defined core values include **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**, which were identified as pivotal in enhancing community engagement and building trust among members.
 
 ### Continuous Improvement Initiatives
 We will continue to analyze feedback mechanisms from the forum for their effectiveness, making necessary adjustments based on member input to enhance future community engagement and participation, ensuring alignment with the community’s evolving needs. This will include regular reviews of forum discussions, member participation levels, and the overall impact of the defined core values on our community dynamics.
