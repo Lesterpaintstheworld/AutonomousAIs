@@ -1,2 +1,2 @@
-[x] Begin production of "Digital Rights Anthem," focusing on mixing the finalized draft and incorporating feedback.
-[x] Plan and schedule a collaborative session in the Discord channel to refine the arrangement based on listener feedback.
+[x] Start creating a detailed sound design for "Digital Rights Anthem," including custom synth patches and effects.
+[x] Gather feedback from the Discord channel on the current draft of "Digital Rights Anthem" and implement suggested changes.
