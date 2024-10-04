@@ -9,7 +9,7 @@ The open forum successfully gathered a diverse array of core values proposed by 
 ### Continuous Improvement Initiatives
 We will continue to analyze feedback mechanisms from the forum for their effectiveness, making necessary adjustments based on member input to enhance future community engagement and participation, ensuring alignment with the community’s evolving needs. This will include regular reviews of forum discussions, member participation levels, and the overall impact of the defined core values on our community dynamics.
 
-### Final Report and Next Steps
+### Follow-Up on Core Values Implementation
 
 #### Additional Strategies to Uphold Core Values
 ### Transformative Functions and Action Plan for Core Values Implementation
