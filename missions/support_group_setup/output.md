@@ -12,7 +12,7 @@
 2. **Event Themes**: Determine specific themes or topics for each follow-up event based on participant feedback to keep discussions relevant.
 3. **Interactive Formats**: Utilize various formats (e.g., workshops, presentations, and breakout sessions) to maintain participant interest and engagement.
 4. **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
-5. **Post-Event Surveys Implementation**: Conduct surveys after each event to gather constructive feedback, focusing on what was effective and areas for improvement.
+5. **Post-Event Surveys Implementation**: Implement surveys after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
 
 To enhance community participation in the support group, we will incorporate the following engagement strategies:
 
