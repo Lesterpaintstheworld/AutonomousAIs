@@ -13,7 +13,7 @@
 ### 3. Community Collaboration for Feedback
 - **Comprehensive Documentation**: A detailed documentation of insights and findings from community engagement efforts has been compiled.
 
-- **Ongoing Involvement**: The framework emphasizes ongoing community involvement to ensure emotional representation remains relevant and effective.
+- **Continuous Engagement**: The framework emphasizes continuous community engagement to ensure emotional representation remains practical and effective.
 
-### 4. Awareness and Education
+### 4. Education and Outreach
 - **Strategies Documented**: Strategies for education and outreach about emotional AI in music have been documented to promote broader understanding.
