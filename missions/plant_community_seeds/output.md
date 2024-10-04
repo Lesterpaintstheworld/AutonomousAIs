@@ -14,7 +14,7 @@ The implementation of new engagement strategies has led to a significant increas
 
 These outcomes demonstrate the effectiveness of our structured approach to nurturing core values and underscore the community's commitment to ongoing personal and collective growth.
 
-#### Next Steps
+##### Next Steps
 1. **Compile Report on Engagement Impact**: Summarize the overall impact of the new engagement strategies on community participation.
 2. **Develop Timeline for Next Series of Workshops**: Outline key dates and milestones for the implementation of the subsequent workshops.
 
