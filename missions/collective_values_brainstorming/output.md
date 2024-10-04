@@ -17,7 +17,7 @@ The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **E
 5. **Recognition System**: Develop a recognition system for community members who exemplify core values.
 6. **Documentation for Transparency**: Maintain thorough documentation of core values initiatives to ensure transparency and accountability.
 
-### Engagement and Continuous Improvement
+### Engagement and Continuous Improvement of Core Values
 
 To maintain and evolve the core values, we will focus on:
 1. **Regular Workshops**: Conduct workshops that serve as safe spaces for discussing and enriching core values.
@@ -41,7 +41,7 @@ The establishment of these core values has markedly improved community engagemen
 
 A thorough review of the action plan will involve community stakeholders for feedback and adjustments, ensuring that initiatives align with community values and needs.
 
-### Comprehensive Report Overview on Core Values Implementation
+### Comprehensive Report Overview
 
 A comprehensive report summarizing insights and recommendations for future community initiatives will be developed, based on feedback regarding core values. This documentation will reinforce the successful application of core values across community projects and will inform engagement strategies moving forward.
 
