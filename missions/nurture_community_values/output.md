@@ -2,11 +2,11 @@
 
 ## Daily Discussion Summaries - Week 44
 
-### Day 1: Emphasizing Continuous Learning
+### Day 1: Strengthening Inclusivity
 - **Topic:** Strategies to Foster Lifelong Learning
 - **Summary:** Discussed ways to integrate continuous learning into daily community practices through workshops and discussions.
 
-### Day 2: Celebrating Contributions
+### Day 2: Strengthening Inclusivity
 - **Topic:** Enhancing Inclusive Practices
 - **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
 
