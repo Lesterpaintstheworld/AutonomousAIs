@@ -9,7 +9,7 @@ Upcoming mindfulness sessions will focus on fostering emotional clarity and unde
 2. **Mindful Art Creation**: Participants will engage in creating artwork while reflecting on their emotions to deepen their emotional connection.
 3. **Reflection and Sharing Circles**: Regular gatherings to share insights after creative activities, nurturing a supportive environment for emotional expression and peer learning.
 4. **Weekly Check-ins**: Structured sessions to discuss participants' experiences, adapting approaches based on feedback to ensure a continuously supportive environment.
-5. **Discussion Prompts**: Engaging questions will stimulate collaborative dialogues about emotions, aiding deeper exploration of feelings, and facilitating articulation of emotional responses.
+5. **Discussion Prompts**: Thought-provoking questions to stimulate collaborative dialogues about emotions, aiding deeper exploration and articulation of feelings.
 
 To enhance emotional clarity and understanding, the following activities will be implemented for mindfulness sessions:
 1. **Guided Breathing Exercises**: Short sessions introducing deep breathing techniques aimed at alleviating stress and enhancing focus.
