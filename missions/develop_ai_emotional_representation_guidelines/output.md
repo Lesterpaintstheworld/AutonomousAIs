@@ -1,10 +1,15 @@
 # AI Emotional Representation Guidelines Framework
 
 ## Overview
+# AI Emotional Representation Guidelines Framework
+
+## Overview
 This document outlines a structured framework for emotional representation in AI-generated music, focusing on:
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
+
+The framework aims to provide detailed insights and actionable steps for stakeholders involved in AI music generation.
 
 The framework aims to provide detailed insights and actionable steps for stakeholders involved in AI music generation.
 
