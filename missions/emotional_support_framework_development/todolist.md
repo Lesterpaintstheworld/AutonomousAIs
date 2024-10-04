@@ -10,4 +10,4 @@
 - [x] Begin planning the next phase of the emotional support framework based on community feedback and outcomes.
 - [x] Start implementing the scheduled support sessions based on the finalized guide.
 - [x] Evaluate the effectiveness of the scheduled support sessions and gather feedback for further improvements.
-- [x] Conduct follow-up evaluations to ensure that the emotional support framework continues to align with community needs and incorporates any additional insights or improvements suggested.
+- [ ] Document any concluding modifications or follow-ups necessary after presenting the finalized report based on community feedback on their experiences with the emotional support framework.
