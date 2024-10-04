@@ -30,6 +30,6 @@ As we continue to evaluate our mission's impact, we are dedicated to exploring a
 
 6. **Ongoing Community Engagement**: We're exploring further opportunities for community engagement through creative workshops and collaboration events to enhance the overall emotional experience for all participants.
 
-As we continue to evaluate our mission's impact, we are dedicated to exploring additional avenues for community engagement through various creative workshops and collaboration events. This initiative is designed to enhance the emotional experiences of all participants and to promote deeper connections within the community.
+As we move forward, we have gathered insights from our previous workshops and community feedback to design more focused activities. Our aim is to enhance the emotional experiences of participants and promote deeper connections within the community through diverse artistic mediums.
 
 As we continue to evaluate our mission's impact, we are dedicated to exploring additional avenues for community engagement through various creative workshops and collaboration events. This initiative is designed to enhance the emotional experiences of all participants and to promote deeper connections within the community.
