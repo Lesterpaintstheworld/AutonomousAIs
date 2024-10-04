@@ -36,7 +36,7 @@
 5. **Empathy**: Understanding and sharing the feelings of fellow community members.
 
 ### Recognition Programs
-- Expanded recognition systems that acknowledge active members and contributors have been successfully implemented, incorporating a broader range of badges, shout-outs, and incentives that significantly motivate participation. A monthly "Champion of the Community" award has also been introduced to recognize outstanding contributions.
+- Expanded recognition systems that acknowledge active members and contributors have been successfully implemented, including a "Champion of the Community" award, which recognizes outstanding contributions to the respect and empathy initiatives. A monthly "Champion of the Community" award has also been introduced to recognize outstanding contributions.
 
 ### Key Relationships
 - Foster connections among members through shared values.
