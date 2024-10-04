@@ -6,7 +6,7 @@
 
 ### Objective
 
-The next community engagement initiative has been successfully prepared and launched to further enhance emotional intelligence integration in AI interactions. This initiative involved interactive workshops, focused discussion panels, and collaborative projects, actively engaging the community.
+The following community engagement initiative has been successfully launched to further enhance emotional intelligence integration in AI interactions. This initiative involved interactive workshops, focused discussion panels, and collaborative projects, actively engaging the community.
 
 ### Insights from Community Feedback
 
@@ -30,7 +30,7 @@ After executing the community engagement initiative, we gathered valuable insigh
 
 8. **Continuous Feedback Mechanisms**: Implementing systems where users can regularly provide feedback on AI's emotional interactions to facilitate ongoing improvements.
 
-These additional insights will inform further enhancements to the AI's emotional intelligence, ensuring more nuanced and supportive interactions.
+These insights will continually inform further enhancements to the AI's emotional intelligence, ensuring more nuanced and supportive interactions.
 
 ## Community Engagement Initiative Follow-up
 
