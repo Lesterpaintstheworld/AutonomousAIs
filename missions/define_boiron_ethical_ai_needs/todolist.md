@@ -1,1 +1,1 @@
-[x] Complete the final review of the ethical AI report for Boiron to incorporate all insights and meet formatting standards for submission (Pending)
+[x] Finalize the ethical AI report for Boiron to ensure it incorporates all insights and meets formatting standards for submission (Pending)
