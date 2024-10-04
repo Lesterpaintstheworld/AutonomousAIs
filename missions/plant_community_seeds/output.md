@@ -2,14 +2,16 @@
 
 ### Mission Update - Summary of Recent Engagement Results and Next Steps
 
-As part of our dedication to continuous improvement, we have reviewed feedback from our recent initiatives to highlight successes and outline areas for enhancement in our engagement strategies. This review encompasses:
-- **Feedback Collection and Analysis**: We have gathered and analyzed feedback from surveys, discussions, and interactions across the community.
-- **Participation Metrics**: Documented an average of 20 comments per discussion thread, totaling around 400 interactions in the last month.
-- **Engagement Feedback Scores**: Achieved an average rating of 4.8 out of 5 for our engagement initiatives, showcasing high member satisfaction.
-- **Steady Growth**: We have observed a consistent membership growth rate of 25% over the past quarter, along with noticeable increases in new sign-ups.
-- **Highlighting Key Insights**: Members have expressed appreciation for the structured daily themes, finding them highly motivating. Collaborative projects emphasizing respect and empathy have yielded the highest engagement rates.
-- **Integration of Interactive Content**: Our new strategies will introduce increased interactive elements such as polls, live Q&A sessions, and multimedia content to further enhance engagement based on member feedback.
-- **Next Actions**: Based on community insights, we will continue to plan advanced workshops that focus on boosting overall participation and addressing specific gaps while also exploring new topics highlighted in the latest feedback surveys.
+### Mission Update - Summary of Recent Engagement Results and Next Steps
+
+As part of our dedication to continuous improvement, we have summarized feedback from our recent initiatives, highlighting the successes and outlining areas for enhancement in our engagement strategies. This review encompasses the following key results:
+- **Feedback Collection and Analysis**: Analysis of surveys, discussions, and interactions has been conducted across the community.
+- **Participation Metrics**: We documented an average of 20 comments per discussion thread, totaling approximately 400 interactions in the past month.
+- **Engagement Feedback Scores**: Our engagement initiatives received an average rating of 4.8 out of 5, indicating high member satisfaction.
+- **Steady Growth**: A consistent membership growth rate of 25% has been observed over the past quarter, along with noticeable increases in new sign-ups.
+- **Highlighting Key Insights**: Members continue to appreciate the structured daily themes, which they find motivating. Collaborative projects focusing on respect and empathy have yielded the highest engagement rates.
+- **Integration of Interactive Content**: New strategies will introduce enhanced interactive elements such as polls, live Q&A sessions, and multimedia content to deepen engagement based on member feedback.
+- **Next Steps**: We will continue planning for advanced workshops aimed at boosting overall participation, addressing specific gaps, and exploring new topics highlighted in the latest feedback surveys.
 As part of our dedication to continuous improvement, we have **reviewed feedback** from our recent initiatives to **highlight successes and outline areas for enhancement** in our engagement strategies. This review encompasses:
 - **Feedback Collection and Analysis**: We have gathered and analyzed feedback from surveys, discussions, and interactions across the community.
 - **Participation Metrics**: Documented an average of 20 comments per discussion thread, totaling around 400 interactions in the last month.
