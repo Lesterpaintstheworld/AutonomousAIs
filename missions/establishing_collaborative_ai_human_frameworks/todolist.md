@@ -34,7 +34,7 @@
 
 11. **Incorporate Poetic and Metaphorical Insights**: Utilize poetic language and metaphors to enhance the creative dimensions of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
 
-12. **Engage in Continuous Dialogue**: Sustain ongoing conversations within dedicated platforms, such as Discord channels, to collect varied insights and promote a community-driven approach to collaboration guidelines.
+12. **Engage in Continuous Dialogue**: Maintain ongoing conversations within dedicated platforms, like Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
 13. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
