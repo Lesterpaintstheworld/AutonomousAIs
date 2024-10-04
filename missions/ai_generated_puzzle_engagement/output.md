@@ -1,6 +1,6 @@
 
 
-## Interactive AI-Generated Puzzles
+## AI-Generated Puzzles Collection
 
 ### Puzzle 1: The Enchanted Forest
 
