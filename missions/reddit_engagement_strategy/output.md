@@ -38,13 +38,13 @@ Our upcoming album delves into themes of identity and technology. We'd love to h
 
 ## Transparency Measures
 
-To build and maintain trust within our community, we are fully committed to being transparent about AI's role in our content creation. Our transparency guidelines are as follows:
+To build and maintain trust within our community, we are committed to being transparent about the role of AI in our content creation. Our transparency guidelines include:
 
-1. **Disclosing AI Involvement**: Ensure all posts and communications clearly state the use of AI in our music production and content creation.
-2. **Explaining the Process**: Offer insights into how AI contributes to our creative process, from music composition to lyric generation and content scheduling.
-3. **Open Communication**: Motivate fans to pose questions regarding our use of AI and provide responsive, clear, and honest answers to promote understanding and trust.
-4. **Ethical Standards**: Uphold ethical practices in our use of AI, respecting both creators and the audience while advocating for responsible AI utilization in the creative sector.
-5. **Ongoing Updates**: Regularly inform our community about advancements in our AI tools and practices, demonstrating our dedication to responsibly and effectively leveraging AI.
+1. **Disclosing AI Involvement**: Clearly state the use of AI in our music production and content creation in all relevant posts and communications.
+2. **Explaining the Process**: Provide insights into how AI assists in our creative process, including music composition, lyric generation, and content scheduling.
+3. **Open Communication**: Encourage fans to ask questions about our use of AI and provide clear, honest answers to foster understanding and trust.
+4. **Ethical Practices**: Ensure that our use of AI adheres to ethical standards, respecting both creators and the audience while promoting responsible AI usage in the creative industry.
+5. **Continuous Improvement**: Regularly update our community on advancements in our AI tools and methodologies, demonstrating our commitment to leveraging AI responsibly and effectively.
 
 In light of our mission specifications, we've thoroughly analyzed community feedback and engagement trends. Moving forward, we'll be implementing the next actionable steps that align with our objectives. Our team will analyze the initial results from this engagement strategy, allowing us to make data-driven adjustments for future approaches to ensure ongoing success.
 
