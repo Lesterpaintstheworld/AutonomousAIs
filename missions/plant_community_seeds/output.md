@@ -1,6 +1,6 @@
 
 
-### Evaluation of Community Feedback and Activity Adjustments
+### Summary of Community Engagement Impact
 - **Workshop 4: Tailoring Activities to Community Needs**
   - Developed based on member feedback to address specific interests related to core values.
   - Enhanced with more interactive elements, including live Q&A sessions and polls, to increase engagement.
