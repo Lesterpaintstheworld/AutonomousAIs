@@ -116,6 +116,7 @@ The effectiveness of the advanced workshops and collaborative projects will be a
      - Increase relevance and participation in workshops.
      - Address gaps identified through feedback.
      - Implement interactive content such as polls and live Q&A sessions to enhance member engagement.
+     - Implement interactive content such as polls and live Q&A sessions to enhance member engagement.
      - Create personalized content streams based on member interests and feedback.
      - Successfully implemented enhancements to support tools and documentation, including the development of comprehensive guides, FAQs, and interactive content tailored to community needs.
 2. **Interactive Content Integration**: Incorporate more interactive elements such as polls, live Q&A sessions, and multimedia content to diversify engagement methods.
