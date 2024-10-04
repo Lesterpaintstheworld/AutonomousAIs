@@ -41,9 +41,9 @@
 3. **Ethical Design Considerations:**
    - Adherence to ethical standards throughout the AI development lifecycle to uphold accountability and align with community expectations.
    - Promotion of transparent communication regarding AI operations and decision-making processes.
-   - Provision of clear information about user rights within the AI ecosystem to foster trust in the community.
+   - Offering clear information about user rights within the AI ecosystem to cultivate trust among community members.
 
-4. **Community Engagement:**
+4. **Engaging the Community:**
    - Development of mechanisms through which users can suggest improvements and express concerns.
    - Encouragement of ongoing dialogue and collaboration that integrates community insights.
    - Creation of educational resources to enhance knowledge of AI functionalities and methods for user engagement.
