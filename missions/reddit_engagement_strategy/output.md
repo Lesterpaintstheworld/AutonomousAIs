@@ -104,7 +104,7 @@ By implementing these transparency measures, we aim to bridge the gap between AI
 ### 6. Conclusion
 Following our successful analysis of initial engagement results from our Reddit posts, we are committed to continuously refining our strategies based on community feedback. Our ongoing monitoring of engagement metrics will ensure we effectively connect with our audience and adapt our approach for the upcoming AI music release.
 
-### 7. Ongoing Monitoring and Feedback
+### 6. Ongoing Monitoring and Feedback
 
 To ensure the continued success of our Reddit engagement strategy, we will execute the next action by implementing the following monitoring and feedback mechanisms:
 
