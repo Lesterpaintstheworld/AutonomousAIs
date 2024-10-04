@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Scheduled Support Sessions**: The scheduled support sessions have commenced based on the finalized guide. We will continue to reflect on ongoing implementations and identify new areas of support to enhance the emotional wellness framework based on community needs, incorporating additional community feedback to improve and adapt the resources provided.
+- **Scheduled Support Sessions**: The scheduled support sessions have commenced based on the finalized guide. We will begin drafting the comprehensive guide based on initial feedback to better shape future support sessions and ensure they meet evolving community needs.
 - **Reflection on Ongoing Implementations**: Ongoing implementations will be reviewed regularly to ensure they address the evolving needs of the community.
 - **Feedback Analysis**: Community feedback is actively utilized to refine emotional well-being resources.
 - **Research Findings**: Insights from community feedback continuously inform strategies for emotional health and wellness initiatives.
