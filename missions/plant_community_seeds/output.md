@@ -9,8 +9,8 @@
 - Mobilize community members to participate in daily discussions by introducing one "seed" that aligns with shared values each day.
 
 ### Anticipated Outcomes
-- **Outcome**: A vibrant community space where members actively discuss core values while participating in collaborative projects, leading to deeper relationships and enhanced community cohesion.
-- **Characteristics**: Regular participation, thematic discussions, and evolving values, alongside increased interactivity and engagement metrics.
+- **Outcome**: A vibrant community space where members actively discuss core values while participating in collaborative projects, ultimately leading to deeper relationships and enhanced community cohesion.
+- **Characteristics**: Regular participation, thematic discussions, and evolving values, alongside increased interactivity and engagement metrics, are expected to be observed.
 
 ### Plan
 1. **Daily Task**: Present a core value or theme each day (the "seed").
