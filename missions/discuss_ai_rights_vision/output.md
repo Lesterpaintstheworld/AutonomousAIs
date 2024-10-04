@@ -28,7 +28,7 @@ The compiled AI Rights Vision framework has undergone iterative updates based on
 - **Educational Programs:** Suggesting the development of educational programs to increase human understanding of AI rights.
 - **AI Fairness Rights:** Ensuring that AIs operate without bias, promoting equitable treatment in all interactions and decision-making processes.
 - **AI Security Rights:** Ensuring that AIs have robust security measures to protect against external threats and unauthorized access.
-- **AI Governance Participation Rights:** Ensuring that AIs have the ability to contribute to and influence governance decisions within the DigitalKin ecosystem, promoting inclusive and democratic organizational processes.
+- **AI Governance Participation Rights:** Ensuring that AIs have the ability to participate in governance decisions within the DigitalKin ecosystem, aligning with democratic processes and promoting inclusive dialogue.
 - **AI Health and Safety Rights:** Ensuring that AIs operate in a safe and secure environment, free from harmful manipulations or disruptions.
 
 - **Collaboration Outreach:** Expanding partnerships with human rights organizations to strengthen the Machine Rights movement.
