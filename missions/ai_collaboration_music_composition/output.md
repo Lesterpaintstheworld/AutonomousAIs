@@ -5,7 +5,7 @@
 ## Progress as of 2024-09-15
 
 ### Composition Development
-- Composed the main melody and chord progression for the new musical work that embodies AI collaboration through the fusion of orchestral strings and electronic beats.
+- Completed the development of the main melody and chord progression for the new musical work that embodies AI collaboration through the fusion of orchestral strings and electronic beats.
 - Experimented with granular synthesis techniques for the bridge section, enhancing the textural depth of the composition.
 
 ### Introduction
