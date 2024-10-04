@@ -35,7 +35,7 @@
    - **Conduct Impact Analysis**: 
      - Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
 
-- **Next Steps**:
+- **Next Steps** - Community Discussions:
    - **Research Methodologies**: 
      - Investigate and provide insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
    - **Community Discussions**: 
@@ -85,7 +85,7 @@
      - Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
 
 Next Steps:
-1. **Research Methodologies** - AI Emotional Expression: 
+1. **Research Methodologies**: 
    - Investigate and provide insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
    
 2. **Community Discussions**:
