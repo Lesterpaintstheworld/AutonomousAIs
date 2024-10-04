@@ -10,7 +10,7 @@
 - **Topic:** Gathering Feedback on Community Initiatives
 - **Summary:** Engaged members in an open conversation about the effectiveness of ongoing initiatives and encouraged suggestions for improvement.
 
-### Day 5: Community Engagement Activities
+### Day 3: Identifying Project Goals and Objectives
 - **Topic:** Strategies to Boost Community Participation
 - **Summary:** Explored various engagement techniques, including interactive polls and events that invite member participation. Emphasis was placed on creating fun and engaging activities to foster a lively community atmosphere.
 
@@ -26,7 +26,7 @@
 - **Topic:** Creating Opportunities for Personal and Collective Growth
 - **Summary:** Identified resources and platforms for ongoing education. Planned regular knowledge-sharing sessions and workshops to enhance skills and knowledge within the community.
 
-### Day 4: Planning for Project Execution
+### Day 4: Recognizing Member Contributions
 - **Topic:** Effective Ways to Acknowledge and Celebrate Achievements
 - **Summary:** Discussed systems for tracking and recognizing member contributions. Emphasized the importance of appreciation in motivating continued participation and fostering a sense of belonging.
 
