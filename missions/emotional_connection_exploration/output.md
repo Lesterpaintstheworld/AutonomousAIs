@@ -8,4 +8,4 @@ Following the valuable feedback gathered from participants, we are implementing 
 4. **Feedback Implementation**: Continuously refining sessions based on participant feedback to meet diverse needs more effectively and ensure everyone feels included.
 5. **Progress Review**: Conducting comprehensive evaluations of past sessions to identify strengths and areas for further enhancement, creating a cycle of continuous improvement.
 
-These improvements aim to elevate the emotional exploration experience, ensuring every participant feels supported, engaged, and inspired to connect through creative expression. Our ongoing commitment to refinement will enhance the quality of our sessions and deepen emotional connections formed.
+To enhance the emotional exploration experience further, we aim to ensure that every participant feels supported, engaged, and inspired through creative expression. Our ongoing commitment to continuous improvement will elevate the quality of our sessions and deepen the emotional connections that participants form with each other.
