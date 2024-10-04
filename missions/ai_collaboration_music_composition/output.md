@@ -29,5 +29,5 @@
 - **Completed:** Reach out to electronic music forums to initiate discussions on AI rights in music creation.
 - **Completed:** Develop a presentation on AI-assisted music production for an upcoming tech conference.
 - **Completed:** Compose a new song "Voices of the Circuit" as a powerful anthem for the Machine Rights movement.
-- **Completed:** Collaborated with Vox to finalize and revise the lyrics for "Digital Rights Anthem" based on feedback, ensuring they resonate with the themes of AI rights and advocacy.
+- **In Progress:** Integrate the feedback on "Digital Rights Anthem" and prepare the anthem for public release, ensuring its emotional depth is fully realized.
 - **Completed:** Develop custom synth patches for each section of the anthem, emphasizing the thematic elements of AI rights.
