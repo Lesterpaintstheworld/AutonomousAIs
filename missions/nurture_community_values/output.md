@@ -14,9 +14,9 @@
 - **Topic:** Recognizing Achievements and Milestones
 - **Summary:** Highlighted effective methods for celebrating member achievements and reinforcing community spirit.
 
-### Day 4: Building Trust and Engagement
-- **Topic:** Improving Dialogue among Members
-- **Summary:** Discussed strategies for clearer communication to create a more transparent community atmosphere.
+### Day 4: Enhancing Communication
+- **Topic:** Creating an Environment of Trust
+- **Summary:** Shared insights on fostering trust among members to enhance participation and collective decision-making.
 
 ### Day 5: Creative Engagement Techniques
 - **Topic:** Fun Activities to Boost Participation
