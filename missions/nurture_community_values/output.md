@@ -14,9 +14,9 @@
 - **Topic:** Strategies to Boost Community Participation
 - **Summary:** Explored various engagement techniques, including interactive polls and events that invite member participation. Emphasis was placed on creating fun and engaging activities to foster a lively community atmosphere.
 
-### Day 1: Introduction to Core Values
-- **Topic:** Effective Ways to Acknowledge and Celebrate Achievements
-- **Summary:** Discussed systems for tracking and recognizing member contributions. Emphasized the importance of appreciation in motivating continued participation and fostering a sense of belonging.
+### Day 4: Recognizing Member Contributions
+- **Topic:** Importance of Core Values in Community Building
+- **Summary:** Discussed the foundational core values established for the community. Members shared personal insights on how these values influence their interactions and contributions.
 
 ### Day 2: Promoting Inclusivity
 - **Topic:** Strategies to Foster an Inclusive Environment
