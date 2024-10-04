@@ -10,13 +10,13 @@
 - **Topic:** Enhancing Inclusive Practices
 - **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
 
-### Day 3: Celebrating Contributions
-- **Topic:** Recognizing Achievements and Milestones
-- **Summary:** Highlighted effective methods for celebrating member achievements and reinforcing community spirit.
+### Day 3: Recognizing Contributions
+- **Topic:** Celebrating Member Achievements
+- **Summary:** Focused on methods for acknowledging member milestones and fostering a spirit of community through recognition events.
 
-### Day 4: Cultivating Trust and Engagement
-- **Topic:** Building a Trusting Community
-- **Summary:** Discussed ways to cultivate trust among members, enhancing participation and encouraging collective decision-making.
+### Day 4: Building Trust and Engagement
+- **Topic:** Creating an Environment of Trust
+- **Summary:** Shared insights on fostering trust among members to enhance participation and collective decision-making.
 
 ### Day 5: Creative Engagement Techniques
 - **Topic:** Fun Activities to Boost Participation
