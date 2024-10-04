@@ -24,7 +24,7 @@
    - Captures the vibrant nightlife of the city through glowing colors and reflective surfaces.
 
 3. **Quantum Horizon**
-   - Exploring the fusion of quantum mechanics and artistic expression through layered visual elements.
+   - Exploring the fusion of quantum mechanics and artistic expression through layered visual elements, inviting viewers to reflect on the intersection of technology and creativity.
 
 4. **River Flow**
    - Depicting the Chicago River's movement and its role in the city's history and development.
@@ -45,7 +45,7 @@
    - Reflecting Chicago's commitment to sustainability and environmental conservation through eco-themed art.
 
 10. **Digital Metropolis**
-    - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements, showcasing the city's evolution in the digital age.
+    - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
 
 11. **River Flow**
     - Depicting the Chicago River's movement and its role in the city's history and development.
