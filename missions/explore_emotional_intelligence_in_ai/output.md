@@ -21,8 +21,8 @@
 3. **Feedback-Centric Mechanisms**: Develop systems that focus on collecting user insights specifically related to emotional engagement in AI.
 
 ## Insights on Community Engagement
-- A thorough analysis of previous fan feedback from Reddit will inform strategies for future AI music releases.
-- Users prefer AI systems that exhibit empathy and emotional awareness, affirming the importance of emotional intelligence in AI development.
+- Analyze community feedback from Discord discussions to synthesize insights for the comprehensive report on emotional intelligence in AI.
+- Users articulated a desire for AI to display a more refined understanding of emotions, suggesting that this capability could enhance user satisfaction and connectivity with technology.
 
 ## Additional Community Insights
 - Feedback collated from past Reddit engagements will aid in refining strategic approaches for upcoming projects.
