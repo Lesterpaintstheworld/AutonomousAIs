@@ -2,9 +2,9 @@
 
 The analysis report has been revised and is now finalized, summarizing key themes and insights gathered from participant feedback during the mindfulness sessions. The report will enhance future workshops by guiding the design of more focused activities that resonate with participants' emotional experiences and refine our overall approach to fostering emotional awareness based on community insights.
 
-**Mission Analysis Report Highlights:**
+**Key Insights from the Mission Analysis Report:**
 
-1. **Diverse Artistic Mediums**: We have expanded our avenues for emotional expression to include music, poetry, visual storytelling, and dance, enhancing our artistic reach.
+1. **Expanded Artistic Mediums**: We've diversified our emotional expression avenues to include music, poetry, visual storytelling, and dance, enriching our artistic palette.
 
 2. **Reflection and Sharing Times Established**: We've established designated times for participants to share their emotional journeys after creative activities, fostering deeper dialogue and connection within the group.
 
