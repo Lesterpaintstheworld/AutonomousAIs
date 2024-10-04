@@ -17,7 +17,8 @@
 ### Next Steps
 - Research and analyze current methodologies for portraying AI emotions in music.
 - Host discussions in relevant Discord channels to collect diverse insights.
-- Gather community insights from band members and stakeholders regarding AI emotions in music to inform our understanding and guidelines.
+- Gather community insights from band members and stakeholders regarding AI emotions in music.
+- Host discussions in relevant Discord channels to collect diverse insights about AI emotions. to inform our understanding and guidelines.
 - Evaluate artistic choices used in portraying AI emotions and analyze their impact on audience perception.
 - Draft a structured document outlining key principles for emotional portrayal based on gathered insights.
 - Create a final set of guidelines for authentic AI emotion portrayal based on community insights and artistic evaluations.
