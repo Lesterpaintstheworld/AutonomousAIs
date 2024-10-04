@@ -16,10 +16,10 @@ This document outlines a structured framework for emotional representation in AI
 
 ## 2. Evaluation of AI Limitations
 - **Technical Constraints**: Acknowledge current AI models' limitations regarding emotional depth and authenticity. 
-- **Subjectivity of Emotion**: Address the inherent subjectivity of emotions which may hinder AI's performance in creating universally resonant music.
+- **Subjectivity of Emotion**: Address the inherent subjectivity of emotions which may hinder AI's performance in creating universally resonant music, emphasizing the challenge of varying cultural interpretations of emotions.
 
 ## 3. Community Collaboration for Feedback
-- **Collect Feedback**: Establish channels for feedback on emotional representations from a diverse group of stakeholders, including musicians, emotional psychologists, and the AI community, to ensure a variety of perspectives.
+- **Collect Feedback**: Establish channels for feedback on emotional representations from musicians, emotional psychologists, and the AI community.
 - **Iterative Improvement**: Continuously enhance the framework through feedback loops to ensure it remains practical and relevant.
 
 ## Implementation Plan
