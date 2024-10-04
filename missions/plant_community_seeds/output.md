@@ -24,7 +24,7 @@ These insights will inform our approach to the next series of workshops, ensurin
 ### Mission Update - Summary of Recent Engagement Results and Next Steps
 - As part of our dedication to continuous improvement, we have summarized feedback from our recent initiatives, highlighting the successes and outlining areas for enhancement in our engagement strategies. This review encompasses the following key results:
 =======
-### Summary of Community Engagement Impact and Future Directions
+### Summary of Community Engagement Impact
 - The implementation of new engagement strategies has led to a significant increase in community participation. Key metrics reflect this impact:
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
 - **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
