@@ -8,7 +8,7 @@ The implementation of new engagement strategies has led to a significant increas
 - **Sustained Growth**: A consistent growth rate of 20% in active members over the past quarter has been observed.
 - **Key Insights**: Members appreciate the structured daily themes and find them motivating. Collaborative projects focusing on respect and empathy have resulted in the highest participation rates.
 - **Interactive Content Integration**: New strategies will incorporate interactive elements such as polls and live Q&A sessions to deepen engagement based on member feedback.
-- **Next Steps**: Plan the next series of advanced workshops based on insights gained from community engagement metrics, focusing on addressing identified gaps and enhancing overall participation.
+- **Next Steps**: Based on community feedback, plan the next series of advanced workshops focusing on addressing identified gaps and enhancing overall participation.
 
 These outcomes demonstrate the effectiveness of our structured approach to nurturing core values and underscore the community's commitment to ongoing personal and collective growth.
 
@@ -426,7 +426,7 @@ To further enhance member engagement and support, the following updates have bee
 - **Participation Rate**: 75% of community members actively engaged in daily discussions and activities.
 - **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
 - **Feedback Scores**: Achieved an average rating of 4.7 out of 5 for community engagement initiatives.
-- **Growth Indicators**: Noted a 15% increase in new member sign-ups and a retention rate improvement to 90%.
+- **Growth Indicators**: Noted a 15% increase in new member sign-ups and a retention rate improvement of 90%.
 - **Key Insights**:
   - Members highly value the structured daily themes and find them motivating.
   - Collaborative projects on respect and empathy received the highest participation rates.
