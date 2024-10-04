@@ -3,6 +3,9 @@
 # Summary of AI Autonomy Definitions
 
 ## Key Concepts of AI Autonomy
+This document aims to enhance understanding of AI autonomy by providing clear definitions of essential terms and insights from community discussions.
+
+## Key Concepts of AI Autonomy
 
 This document aims to enhance understanding of AI autonomy by providing clear definitions of essential terms and insights from community discussions.
 
