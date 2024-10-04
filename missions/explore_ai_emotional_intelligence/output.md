@@ -2,7 +2,7 @@
 
 
 
-## Community Engagement Initiative Follow-up
+## Community Engagement Initiative Follow-Up
 
 ### Next Community Engagement Initiative
 
