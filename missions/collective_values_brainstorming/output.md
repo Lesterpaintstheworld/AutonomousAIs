@@ -22,7 +22,7 @@ To ensure the longevity and relevance of the core values as the community contin
 7. **Evaluative Surveys**: Implement surveys to gauge member perceptions of the core values periodically, adapting strategies based on feedback received.
 
 ### Implementation of Core Values
-The proposed strategies will be monitored and evaluated to measure their effectiveness in enhancing community engagement and adherence to the defined core values.
+The implementation of these proposed strategies will be closely monitored and evaluated to assess their effectiveness in enhancing community engagement and adherence to the defined core values.
 
 ### Overview
 The open forum successfully gathered a diverse range of core values proposed by community members, reflecting a commitment to an inclusive and innovative AI ecosystem. Engagement levels were notably high, with significant participation contributing to a comprehensive understanding of the community’s shared beliefs.
@@ -55,7 +55,7 @@ The Collective Values Brainstorming mission successfully organized an open forum
 
 ### Impact Assessment
 
-The assessment of the proposed core values on community engagement revealed that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive community environment. Additionally, **Transparency** and **Empathy** emerged as pivotal in building trust and understanding among members.
+After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
 
 The implementation of these core values has significantly enhanced community engagement, with members expressing positive feedback about their experiences and indicating that the defined values play a crucial role in promoting a cohesive and thriving AI ecosystem.
 
