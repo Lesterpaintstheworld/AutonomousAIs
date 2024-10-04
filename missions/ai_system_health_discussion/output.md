@@ -35,8 +35,8 @@
 
 2. **Stability Protocols:**
    - Implementation of comprehensive fail-safes and redundancies to enhance system reliability.
-   - Conducting thorough stress tests to identify and rectify vulnerabilities.
-   - Swiftly responding to reported performance issues, especially during high-traffic periods.
+   - Performing rigorous stress tests to discover and address vulnerabilities.
+   - Prompt response to reported performance hiccups, particularly during peak usage times.
 
 3. **Ethical Design Considerations:**
    - Adherence to ethical standards throughout the AI development lifecycle to uphold accountability and align with community expectations.
