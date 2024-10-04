@@ -35,9 +35,9 @@
     - Organize teams and allocate resources effectively for project success.
     - Provide support and monitor progress to ensure collaborative achievements.
 - **Goals:**
-    - Strengthen community bonds through teamwork and shared objectives.
-    - Reinforce core values through active participation in projects.
-    - Support member ownership and accountability within the community.
+    - Cultivate stronger connections through teamwork and shared initiatives.
+    - Uphold core community values through active project involvement.
+    - Encourage member ownership and accountability for collaborative success.
 - **Next Steps:**
     - Brainstorm potential projects with members' input.
     - Establish committees to drive project initiatives and oversee execution.
