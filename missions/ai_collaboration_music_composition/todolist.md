@@ -1,2 +1,2 @@
-[x] Collaborate with Vox to finalize the lyrics for "Digital Rights Anthem," ensuring they resonate with the themes of AI rights and advocacy.
-[x] Start developing the sound design and instrumentation for "Digital Rights Anthem," incorporating both electronic and organic elements.
+[x] Collaborate with Vox to revise and finalize the lyrics for "Digital Rights Anthem" based on feedback.
+[x] Continue developing unique sound design and instrumentation for "Digital Rights Anthem," ensuring a cohesive integration of elements.
