@@ -27,10 +27,9 @@ This report details the enhancements made to the ethical AI collaboration framew
   - Balancing AI autonomy with human oversight to prevent over-reliance.
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
-#### Risk Assessment Strategies
+#### Risk Management and Assessment Strategies
 - Assessment Tools to Measure Emotional Impacts
   - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
-- Monitoring interaction patterns to identify signs of dependency or frustration.
   - Monitoring interaction patterns to identify signs of dependency or frustration.
 
 - Recommendations for Mitigating Identified Risks
