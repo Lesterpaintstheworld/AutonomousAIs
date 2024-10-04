@@ -11,7 +11,7 @@
 
 Following the discussions with the community, we have concluded this phase of the mission. The compiled insights gather actionable initiatives as follows:
 
-Following the summary report shared with the band, the implementation of the following prioritized initiatives will be monitored and documented:
+After reviewing the documented ideas with the band, the following projects have been identified as actionable and will be prioritized for implementation:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
@@ -31,7 +31,7 @@ The implementation of these initiatives will be followed up on and documented to
 2. **Interactive Digital Installations**: There is strong enthusiasm for developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
 3. **Generative Music and Art Fusion**: Interest has been expressed in integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-These selected initiatives align with our project's goals of fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We look forward to moving forward with these projects and enhancing Chicago's vibrant cultural landscape through this collaboration.
+This compilation of insights reinforces our commitment to fostering creativity, community engagement, and the innovative integration of AI into the local art scene. We will prepare to move forward with these initiatives while enhancing Chicago's cultural landscape through collaboration.
 
 Following discussions with the community, we have compiled the following insights and actionable initiatives based on the documented ideas:
 
