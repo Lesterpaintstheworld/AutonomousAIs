@@ -2,7 +2,7 @@
 
 # Compiled Self-Care Strategies
 
-Conduct a thorough final review and validation of the compiled self-care strategies document to ensure all strategies are accurately represented and that final approval feedback has been incorporated.
+The compiled self-care strategies document has undergone a thorough review and validation process to ensure all strategies are clearly articulated and effectively presented, and final approval feedback has been incorporated.
 
 ## Compiled Self-Care Strategies
 
