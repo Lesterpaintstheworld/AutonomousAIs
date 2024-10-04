@@ -3,3 +3,5 @@
 - A thorough evaluation of current AI models documented their limitations regarding emotional depth and authenticity.
 - The subjective nature of emotions was investigated to strengthen the resonance of AI-generated music for listeners.
 - Comprehensive documentation of insights and findings from community engagement efforts was compiled.
+- The framework emphasizes ongoing community involvement to keep emotional representation relevant and effective.
+- Strategies for education and outreach regarding emotional AI in music were also documented to promote broader understanding.
