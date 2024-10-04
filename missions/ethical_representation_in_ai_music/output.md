@@ -2,7 +2,7 @@
 
 ## Output of Ethical Representation in AI Music Mission - Updated Draft with Community Feedback Integration
 
-- Analyze fan feedback from previous events to evaluate emotional representation and community engagement strategies in AI-generated music, integrating insights from community feedback to improve future portrayals.
+- Analyze fan feedback from previous Reddit engagement, focusing on emotional responses to AI-generated music, in order to inform and enhance future engagement strategies for the upcoming AI music release.
 
 ### Updated Guidelines for Portraying AI Emotions in AI-Generated Music - Community Feedback Integrated
 
