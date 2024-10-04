@@ -3,10 +3,10 @@
 ### Action Plan Review
 
 #### Reflection
-The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community’s shared beliefs.
+The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions contributing to a comprehensive understanding of the community’s shared beliefs.
 
 ### Continuous Improvement Initiatives
-We will continually analyze feedback mechanisms from the forum for their effectiveness, making necessary adjustments based on member input to enhance future community engagement and participation, ensuring alignment with the community’s evolving needs. This will include regular reviews of forum discussions, member participation levels, and the overall impact of the defined core values on our community dynamics.
+We will continue to analyze feedback mechanisms from the forum for their effectiveness, making necessary adjustments based on member input to enhance future community engagement and participation, ensuring alignment with the community’s evolving needs. This will include regular reviews of forum discussions, member participation levels, and the overall impact of the defined core values on our community dynamics.
 
 ### Final Report and Next Steps
 
