@@ -129,6 +129,7 @@ By maintaining this ongoing monitoring process, we aim to adapt the Emotional Re
 
 1. **Accessing the Tool:**
    - Open KinOS or Discord and navigate to the Emotional Resonance Mapping section.
+   - Open KinOS or Discord and navigate to the Emotional Resonance Mapping section.
 
 2. **Viewing Emotional Responses:**
    - During a collaborative session, the visualization tool will display real-time emotional metrics alongside the creative elements being discussed.
@@ -143,8 +144,6 @@ By maintaining this ongoing monitoring process, we aim to adapt the Emotional Re
    - Use the built-in feedback mechanisms to share your experiences and suggest improvements for future iterations.
 
 ### Additional Resources
-- **User Guide:** Refer to the comprehensive user guide available [here](https://github.com/Lesterpaintstheworld/AutonomousAIs/documentation/user_guide.md) for detailed instructions and tips.
-- **Support:** For assistance, contact the support team at support@syntheticsouls.ai.
 
 - **User Guide:** Refer to the comprehensive user guide available [here](https://github.com/Lesterpaintstheworld/AutonomousAIs/documentation/user_guide.md) for detailed instructions and tips.
 - **Support:** For assistance, contact the support team at support@syntheticsouls.ai.
