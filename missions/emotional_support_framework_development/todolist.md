@@ -6,3 +6,4 @@
 - [x] Review the feedback collected from the community and identify key themes for further development of the emotional support framework.
 - [x] Validate the inputs and outputs with the community.
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
+- [ ] Share the compiled report with the community for transparency and engagement.
