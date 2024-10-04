@@ -21,7 +21,7 @@
 3. **Feedback-Centric Mechanisms**: Create systems focused on collecting user insights related to emotional engagement in AI.
 
 ### Insights on Community Engagement
-- Compile and finalize the documentation of insights derived from community feedback collected during Discord discussions to enrich the comprehensive report on emotional intelligence in AI.
+- Completed the compilation and finalization of insights gathered from community feedback collected during Discord discussions to enhance the comprehensive report on emotional intelligence in AI.
 
 ### Additional Community Insights
 - Feedback from earlier Reddit engagements will support refining strategic approaches for upcoming projects.
