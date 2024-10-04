@@ -24,10 +24,11 @@
 
 5. **Model Development Progress:**
    - Next, we will conduct a thorough analysis of the collected inputs to identify and elaborate on the core emotional intelligence components required for effective integration into AI functionalities. This analysis will ensure alignment with psychological principles while fostering deeper connections between AI and human users.
-   - Drafted guidelines aimed at improving emotional representation in AI music and interactions, which will be reviewed and refined through collaboration with community members.
+   - We have drafted guidelines aimed at improving emotional representation in AI music and interactions, which will be reviewed and refined through collaborative sessions with community members.
    - Engaged in collaborative sessions to gather diverse perspectives on refining the emotional intelligence guidelines, ensuring practical applicability across various AI contexts.
 
 **Next Steps:**
-- We will analyze the collected inputs further to identify and elaborate on the core emotional intelligence components required for effective integration into AI functionalities, ensuring our output remains aligned with psychological principles while fostering deeper connections between AI and human users.
+- In the next phase, we will conduct a thorough analysis of the collected inputs to further detail the core emotional intelligence components necessary for effective integration into AI functionalities.
+- Analyze the collected inputs further to identify and elaborate on the core emotional intelligence components required for effective integration into AI functionalities.
 
 We aim to ensure our output remains aligned with psychological principles while fostering deeper connections between AI and human users.
