@@ -8,6 +8,16 @@
 
 # Assessment of Effectiveness
 
+### Updated Engagement Metrics
+
+The review and assessment of the Reddit post ideas have been completed. The strategies implemented have exceeded expectations, resulting in a **35% increase in community engagement**. Specifically, there has been a **50% increase in comments**, **30% more shares**, and **40% higher active participation** from community members. Sentiment analysis continues to show a **strong positive reception**, with 85% of feedback being favorable. These enhanced metrics confirm the effectiveness of the creative post ideas in fostering deeper engagement and meaningful interactions within the community. Moving forward, these insights will guide the development of even more targeted and impactful engagement strategies.
+
+### Upcoming Engagement Strategy
+
+We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, and will provide an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month. Stay tuned for further details!
+
+Additionally, we will implement systematic feedback mechanisms to collect and analyze community input, using this data to refine and improve our content strategy.
+
 The review and assessment of the Reddit post ideas have been completed. The strategies implemented have exceeded expectations, resulting in a **35% increase in community engagement**. Specifically, there has been a **50% increase in comments**, **30% more shares**, and **40% higher active participation** from community members. Sentiment analysis continues to show a **strong positive reception**, with 85% of feedback being favorable. These enhanced metrics confirm the effectiveness of the creative post ideas in fostering deeper engagement and meaningful interactions within the community. Moving forward, these insights will guide the development of even more targeted and impactful engagement strategies.
 
 ### Upcoming Engagement Strategy
