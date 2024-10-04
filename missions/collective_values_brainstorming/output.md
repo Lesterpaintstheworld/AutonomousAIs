@@ -11,10 +11,10 @@ The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **E
 ## Action Items and Next Steps
 
 1. **Feedback Mechanism**: Continue to utilize feedback mechanisms to gather ongoing community input regarding core values.
-2. **Outline Steps**: Clearly outline actionable steps taken towards the integration of core values into community initiatives.
+2. **Outline Steps**: Clearly outline actionable steps taken towards the integration of core values into community initiatives and how feedback from the open forum has informed these steps.
 3. **Educational Workshops**: Schedule regular workshops and create resources dedicated to community education on core values.
 4. **Community Meetings**: Plan periodic meetings focusing on the implementation progress of core values and addressing community concerns.
-5. **Recognition System**: Develop a recognition system for community members who exemplify core values, fostering a culture of appreciation within the community.
+5. **Recognition System**: Develop a recognition system for community members who exemplify core values.
 6. **Documentation for Transparency**: Maintain thorough documentation of core values initiatives to ensure transparency and accountability.
 
 ### Engagement and Continuous Improvement
