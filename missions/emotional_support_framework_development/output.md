@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Next Steps**: We have begun implementing follow-up evaluations based on the first round of scheduled support sessions, which exceeded attendance expectations. Insights from community feedback will continue to inform the next phase of the emotional support framework.
+- **Next Steps**: We are reviewing insights and outcomes from community feedback to plan for the next phase of the emotional support framework.
 - **Scheduled Support Sessions**: The first round of support sessions has been successfully implemented, with attendance exceeding expectations.
 - **Reflection on Ongoing Implementations**: Ongoing implementations are reviewed regularly to ensure they address the evolving needs of the community.
 - **Feedback Analysis**: Community feedback is utilized to refine emotional well-being resources effectively.
