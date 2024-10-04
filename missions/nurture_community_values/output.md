@@ -10,9 +10,9 @@
 - **Topic:** Gathering Feedback on Community Initiatives
 - **Summary:** Engaged members in an open conversation about the effectiveness of ongoing initiatives and encouraged suggestions for improvement.
 
-### Day 5: Community Engagement Activities
-- **Topic:** Creating Opportunities for Personal and Collective Growth
-- **Summary:** Identified resources and platforms for ongoing education. Planned regular knowledge-sharing sessions and workshops to enhance skills and knowledge within the community.
+### Day 3: Encouraging Continuous Learning
+- **Topic:** Strategies to Boost Community Participation
+- **Summary:** Explored various engagement techniques, including interactive polls and events that invite member participation. Emphasis was placed on creating fun and engaging activities to foster a lively community atmosphere.
 
 ### Day 1: Introduction to Core Values
 - **Topic:** Importance of Core Values in Community Building
