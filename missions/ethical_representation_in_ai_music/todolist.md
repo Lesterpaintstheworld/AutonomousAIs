@@ -1,5 +1,5 @@
-- Gather insights from ongoing discussions and literature about emotional representation in AI music.
-- Collaborate with artists, ethicists, and psychologists in the guideline development process.
-- Continuously evaluate how AI emotional representations affect listener perceptions.
-- Compile community feedback to enrich the guidelines and refine them accordingly.
-- Document the finalized guidelines in a clear, accessible format for future reference.
+- Conduct a literature review on emotional representation in AI music.
+- Engage with artists, ethicists, and psychologists for collaborative development of guidelines.
+- Assess listener perceptions and responses to AI emotional representations continuously.
+- Develop a system for compiling and integrating community feedback.
+- Ensure the finalized guidelines are documented and easily accessible for stakeholders.
