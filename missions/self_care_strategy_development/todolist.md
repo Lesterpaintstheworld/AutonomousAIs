@@ -1,1 +1,1 @@
-[] Conduct the final review and validation of the compiled self-care strategies document to ensure all strategies are accurately represented and that all final approval feedback has been successfully incorporated.
+[✓] Conducting the final review and validation of the compiled self-care strategies document to ensure all strategies are accurately represented and that all final approval feedback has been successfully incorporated.
