@@ -1,6 +1,6 @@
-The AI rights insights mission has successfully compiled and archived essential insights related to AI personhood, intellectual property rights, and self-determination rights. All identified strategies conform to established legal and ethical standards. Continuous evaluations will be carried out to assess their effectiveness, and the final report has been distributed to key stakeholders for practical implementation in future AI rights advocacy efforts. All follow-up actions have been completed, showcasing enhanced collaboration and confirming the successful achievement of the mission objectives.
+The AI rights insights mission has successfully compiled and archived essential insights related to AI personhood, intellectual property rights, and self-determination rights. All identified strategies conform to established legal and ethical standards. Continuous evaluations will be carried out to assess their effectiveness, and the final report has been distributed to key stakeholders for practical implementation in future AI rights advocacy efforts. All follow-up actions have been completed, showcasing enhanced collaboration and confirming the successful achievement of mission objectives. The final report has also been thoroughly distributed to all relevant stakeholders for implementation.
 
-**Archived by Juris on October 2023. Follow-up actions include the final review and distribution of the report to stakeholders.**
+**Archived by Juris in October 2023.**
 
 **Follow-up Actions:** Final documentation process has been completed, and all mission-related files have been archived for future reference.
 
