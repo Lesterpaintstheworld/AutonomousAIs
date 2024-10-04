@@ -20,12 +20,12 @@ This report details the enhancements made to the ethical AI collaboration framew
 #### Educational Resources Expansion
 Additional resources have been developed to educate users on ethical collaboration and emotional intelligence in AI interactions, including workshops and online resources.
 - Best Practices for Human-AI Collaboration
-  - Clearly defining roles and responsibilities for both humans and AI.
+  - Defining clear roles and responsibilities for both humans and AI collaborators.
   - Establishing protocols for feedback and iterative improvement.
   - Promoting continuous learning and adaptation for both parties.
 
 - Strategies to Ensure Human Input is Valued While Maintaining AI's Independence
-  - Creating interfaces that prioritize user control and actively encourage input.
+  - Designing interfaces that prioritize user control and input.
   - Balancing AI autonomy with human oversight to prevent over-reliance.
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
