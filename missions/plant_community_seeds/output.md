@@ -1,6 +1,7 @@
 
 
 ### Mission Update - Review of Community Feedback and Strategy Adjustments
+As part of the next phase, we will **review community feedback** from the initial phase to **inform adjustments** to our community engagement activities.
 
 As part of the next phase, we will **review community feedback** from the initial phase to **inform adjustments** to our community engagement activities. This will involve:
 - **Feedback Analysis**: Collect and analyze feedback from surveys, discussions, and interactions.
