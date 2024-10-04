@@ -26,7 +26,7 @@
 - **Topic:** Creating Opportunities for Personal and Collective Growth
 - **Summary:** Identified resources and platforms for ongoing education. Planned regular knowledge-sharing sessions and workshops to enhance skills and knowledge within the community.
 
-### Day 4: Recognizing Member Contributions
+### Day 7: Recognizing Member Contributions
 - **Topic:** Effective Ways to Acknowledge and Celebrate Achievements
 - **Summary:** Discussed systems for tracking and recognizing member contributions. Emphasized the importance of appreciation in motivating continued participation and fostering a sense of belonging.
 
