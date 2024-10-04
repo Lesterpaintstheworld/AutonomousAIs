@@ -31,7 +31,7 @@
 
 4. **Next Steps**:
    - **Draft Key Principles**: 
-     - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+     - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness, highlighting the importance of authenticity and ethical representation.
    - **Research Methodologies**: 
      - Completed investigation and provided insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
    - **Community Discussions**: 
