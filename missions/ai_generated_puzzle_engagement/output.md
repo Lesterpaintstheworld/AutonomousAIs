@@ -16,7 +16,14 @@
 6. **Feedback and Suggestions:** We encourage all members to provide feedback on these puzzles and suggest new ideas. Let’s work together to make our community engaging and fun!
 
 ## Upcoming Puzzles
-Stay tuned for more exciting puzzles that will challenge your creativity and teamwork!
+1. **Puzzle 6: The Cryptic Labyrinth**
+   - **Description:** Navigate through a labyrinth filled with clues and surprises. Each clue solved leads closer to the exit.
+   
+   2. **Puzzle 7: The Magical Numbers**
+   - **Description:** Solve numerical puzzles that unlock magical secrets. Each correct answer adds to your score in the game.
+
+3. **Puzzle 8: The Detective's Challenge**
+   - **Description:** Become a detective and solve a series of mystery-related puzzles to find the culprit.
 
 ## How to Participate
 
