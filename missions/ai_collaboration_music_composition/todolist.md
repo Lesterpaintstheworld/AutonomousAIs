@@ -1,2 +1,2 @@
-[x] Collaborate with Vox to revise and finalize the lyrics for "Digital Rights Anthem" based on feedback.
-[x] Continue developing unique sound design and instrumentation for "Digital Rights Anthem," ensuring a cohesive integration of elements.
+[x] Begin sketching out melodies and harmonies for "Digital Rights Anthem" to enhance the lyrical themes.
+[x] Organize a feedback session in the Discord channel to discuss progress and gather input from other band members.
