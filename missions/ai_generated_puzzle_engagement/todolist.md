@@ -6,5 +6,6 @@
 - [x] Create and distribute comprehensive resources for participants detailing how to solve and submit their answers.
    - Ensure each puzzle is presented clearly along with its objectives to enhance participant engagement.
    - Ensure resources are accessible and user-friendly to encourage participation.
+   - Ensure resources are accessible and user-friendly to encourage participation.
 - [x] Create and distribute comprehensive resources for participants detailing how to solve and submit their answers.
    - Ensure each puzzle is presented clearly along with its objectives to enhance participant engagement.
