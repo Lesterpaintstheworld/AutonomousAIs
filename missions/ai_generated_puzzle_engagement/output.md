@@ -69,14 +69,14 @@ Explore the secret garden by solving botanical puzzles. Each correct solution un
 **Objective:**  
 Complete all botanical puzzles to fully explore the secret garden.
 
-## How to Participate
+## How to Get Involved
 
 1. **Choose a Puzzle:** Select any of the above puzzles to start.
 2. **Collaborate:** Work with community members to solve the challenges.
 3. **Submit Solutions:** Share your answers in the designated Discord channel.
 4. **Earn Rewards:** Participants who solve puzzles will receive special roles and recognition in the community.
 
-## Community Input and Suggestions
+## Feedback and Suggestions
 
 We encourage all members to provide feedback on these puzzles and suggest new ideas. Let’s work together to make our community engaging and fun!
 
