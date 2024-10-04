@@ -9,11 +9,11 @@
 
 3. **Alignment with Goals**: Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through thorough KPI analysis.
 
-4. **Feedback Loops**: Create continuous feedback processes to adapt and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
+4. **Feedback Loops**: Establish continuous feedback processes that adapt and improve collaboration strategies based on insights and discussions gathered from the designated Discord channel.
 
 5. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
-6. **Promote Ethical Collaboration**: Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process. This includes setting clear guidelines for responsible AI use in creative processes.
+6. **Promote Ethical Collaboration**: Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
 
 7. **Foster Mutual Understanding**: Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators.
 
