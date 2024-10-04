@@ -64,7 +64,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 - [x] Finalize and publish the guidelines for easy access on the project’s official GitHub repository and website.
 - [x] Facilitate workshops and training sessions for team members to guarantee comprehension and effective application of the finalized guidelines.
 - [x] Publish the finalized guidelines on the project’s official GitHub repository and website for easy access by all stakeholders.
-- [x] Assess the impact of the guidelines on AI-generated music after a defined period.
+- [x] Update AI-driven music creation tools to adhere to the established emotional portrayal guidelines.
 - [x] Update AI-driven music creation tools to adhere to the established emotional portrayal guidelines.
 - [x] Facilitate workshops and training sessions for team members to guarantee comprehension and effective application of the finalized guidelines.
 
