@@ -18,7 +18,7 @@ We have completed an analysis of participant feedback collected during the inter
 
 6. **Ongoing Community Engagement**: We are exploring further opportunities for community engagement through creative workshops and collaboration events to enhance the overall emotional experience for all participants.
 
-Our upcoming interactive workshop will focus on enhancing collaborative art sharing sessions and deeper discussions around individual emotional experiences. This session is designed to cultivate a platform for emotional exploration, encouraging participants to engage in meaningful interactions and build connections. We are dedicated to nurturing a supportive environment for emotional discovery and are enthusiastic about the enhanced connections that can arise through creative expression. Additionally, we will be incorporating feedback strategies based on participant insights to ensure our sessions are optimized for maximum relevance and engagement.
+Our ongoing program includes a creative sharing session where participants can present their artistic expressions and discuss their emotional insights. In this upcoming session, we will introduce new feedback mechanisms to actively gather participant responses post-session to enhance the quality and engagement of future workshops.
 
 **Next Activities**:
 - Facilitate a creative sharing session where participants can present their artistic expressions and discuss their emotional insights.
