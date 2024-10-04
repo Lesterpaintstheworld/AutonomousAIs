@@ -37,7 +37,7 @@
 - **Monthly Awards:** Introduce a system for awarding special recognition based on contributions, voted by community members, including a "Member of the Month" feature.
 - **Spotlight Features:** Create a dedicated section in newsletters to highlight outstanding member contributions and their impact on the community, including success stories and interviews.
 
-## Expanded Learning Resources
+## Enhanced Learning Resources
 ### New Additions
 - **Article:** "Building Community Resilience" by Laura White
 - **Book:** "The Art of Community" by Kevin D. Jones
@@ -55,7 +55,7 @@
 - **Carol Martinez:** Developed a feedback system to gather member suggestions and improve community initiatives.
 - **David Kim:** Created a repository of learning materials and resources accessible to all members.
 
-## Overview of Achievements
+## Summary of Achievements
 
 - Successfully established a routine for daily discussions focused on core values.
 - Launched the first series of knowledge-sharing sessions, enhancing continuous learning.
