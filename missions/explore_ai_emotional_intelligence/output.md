@@ -24,7 +24,7 @@ After executing the latest community engagement initiative, we have compiled val
 
 6. **Mental Health Resource Integration**: There is a strong interest in further integrating the AI with professional mental health resources to provide users with seamless access to support when needed.
 
-7. **User Control and Consent**: Ensuring that users have control over how AI interacts with their emotional data and gives consent to its use is vital for building trust.
+7. **User Control and Consent**: Ensuring that users have control over how AI interacts with their emotional data and consent to its use is vital for building trust.
 
 8. **Continuous Feedback Mechanisms**: Implementing systems where users can regularly provide feedback on AI's emotional interactions to facilitate ongoing improvements.
 
