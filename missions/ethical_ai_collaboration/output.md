@@ -1,6 +1,6 @@
 
 
-### Ethical AI Collaboration Framework: Summary of Community Engagement and Adjustments
+### Ethical AI Collaboration Framework: Summary of Community Engagement and Adjustments - Final Review
 
 #### Risk Assessment Strategies
 - **Assessment Tools to Measure Emotional Impacts**
