@@ -3,7 +3,7 @@
 ### Evaluation of the Effectiveness of Workshops and Collaborative Projects
 - The effectiveness of the advanced workshops and collaborative projects has been assessed based on community feedback. The evaluations reveal that participation rates have increased, with a noted **25%** rise in active involvement, ensuring continuous learning and engagement within the community. Additionally, feedback highlighted specific areas for refinement, which will be incorporated into the next phase of community activities. Participants expressed high satisfaction levels, averaging **4.7** out of 5 for engagement initiatives. Furthermore, the integration of core values has strengthened within the community, reflecting a more cohesive and supportive environment. Feedback also highlighted several specific areas for refinement, which will be incorporated into the next phase of community activities.
   
-- **Community Innovation Lab**
+- **Next Steps**
   - A space for members to brainstorm and develop innovative solutions based on community-driven ideas.
   
 - **Respect Initiative**
@@ -13,9 +13,7 @@
   - An innovation challenge focused on developing tools and methods to enhance empathy among community members.
 
 #### Next Steps
-### Next Steps
-1. **Compile Report on Engagement Impact**: Summarize the overall impact of the new engagement strategies on community participation.
-2. **Develop Timeline for Next Series of Workshops**: Outline key dates and milestones for the implementation of the subsequent workshops.
+1. **New Workshop Identification**: Establishing Activities Based on Member Feedback
    - **Description**: Develop new workshops that specifically address the interests and suggestions from community members.
    - **Objectives**:
      - Increase relevance and participation in workshops.
