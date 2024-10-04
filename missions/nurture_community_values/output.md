@@ -8,7 +8,7 @@
 
 ### Day 2: Strengthening Inclusivity
 - **Topic:** Enhancing Inclusive Practices
-- **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
+- **Summary:** Discussed ways to inspire members to engage actively and share their opinions on community initiatives.
 
 ### Day 3: Celebrating Contributions
 - **Topic:** Recognizing Achievements and Milestones
@@ -26,7 +26,7 @@
 - **Topic:** Gathering Input for Improvement
 - **Summary:** Conducted a feedback session for members to share their thoughts on community initiatives and areas for growth.
 
-### New Community Engagement Initiatives
+### Expanded Recognition Programs
 
 ## Foster Community Projects
 - **Description:** Encourage collaborative projects that align with the community's core values and goals.
