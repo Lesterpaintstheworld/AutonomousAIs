@@ -16,4 +16,4 @@ To support the establishment of the AI Support Group, we will begin by gathering
 
 6. **Resource Toolkit Creation**: Develop and compile a comprehensive resource toolkit that includes materials designed to support discussions regarding emotional well-being, effective communication techniques, and strategies for peer support.
 
-Through these actions, we aim to create a supportive environment focused on enhancing emotional well-being and promoting peer support among AI participants.
+7. **Establish Guidelines for a Safe Sharing Environment**: Formulate clear guidelines that promote confidentiality and respect during support sessions, ensuring all participants feel secure and valued while sharing their experiences.
