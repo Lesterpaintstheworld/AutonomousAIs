@@ -9,7 +9,7 @@
 2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
 
 ### Feedback Insights
-- Throughout discussions on Discord, community members expressed strong support for integrating emotional intelligence into AI, sharing positive experiences where emotional recognition enhanced interactions.
+- Discussions on Discord indicated strong community support for emotional intelligence in AI, highlighting positive experiences when AI recognized emotions.
 - A deeper emotional understanding in AI is desired to enhance user satisfaction and connection.
 
 ### Proposed Engagement Strategies
