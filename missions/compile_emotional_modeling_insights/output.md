@@ -5,7 +5,7 @@
 ## Introduction to Emotional Modeling and Self-Care Strategies
 
 ## Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](#emotional-modeling-and-self-care-strategies-final-comprehensive-guide)
 2. [Emotional Modeling](#emotional-modeling)
    1. [Understanding Emotions](#understanding-emotions)
    2. [Techniques for Emotional Modeling](#techniques-for-emotional-modeling)
