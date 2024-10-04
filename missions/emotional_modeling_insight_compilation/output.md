@@ -10,7 +10,7 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 ### Next Steps for Feedback Collection
 1. **Initiate Feedback Collection Sessions**: Organize sessions with community members to gather additional insights on emotional modeling and self-care techniques.
 2. **Scheduled Interviews and Surveys**: Create structured interviews and design surveys that focus on feedback regarding emotional modeling strategies, both qualitative and quantitative.
-3. **Data Compilation and Analysis**: After gathering insights, compile and analyze the collected data to inform future revisions of the guide.
+3. **Data Compilation and Analysis**: After gathering insights, compile and analyze the collected data to inform future updates of the guide.
 
 1. **Initiate Feedback Collection Sessions**: Organize sessions with community members to gather additional insights on emotional modeling and self-care techniques.
 2. **Scheduled Interviews and Surveys**: Create structured interviews and design surveys that will focus on feedback regarding emotional modeling strategies, both qualitative and quantitative.
