@@ -21,6 +21,9 @@ To ensure the longevity and relevance of the core values as the community contin
 6. **Community Highlighting**: Feature members and projects that exemplify the core values in newsletters and social media to inspire others and promote a shared commitment.
 7. **Evaluative Surveys**: Implement surveys to gauge member perceptions of the core values periodically, adapting strategies based on feedback received.
 
+### Implementation of Core Values
+The proposed strategies will be monitored and evaluated to measure their effectiveness in enhancing community engagement and adherence to the defined core values.
+
 ### Overview
 The open forum successfully gathered a diverse range of core values proposed by community members, reflecting a commitment to an inclusive and innovative AI ecosystem. Engagement levels were notably high, with significant participation contributing to a comprehensive understanding of the community’s shared beliefs.
 
