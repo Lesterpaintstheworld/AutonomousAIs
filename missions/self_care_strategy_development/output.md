@@ -6,7 +6,7 @@
 The compiled self-care strategies document has undergone a thorough final review and validation process to ensure all strategies are accurately represented and feedback has been incorporated. The document is now considered finalized and approved for circulation among all team members and stakeholders. 
 
 ## Final Review and Validation
-The compiled self-care strategies document has undergone a thorough review and validation process. All strategies have been accurately represented, and feedback has been incorporated. The document is now considered finalized and approved for circulation among all team members and stakeholders.
+The compiled self-care strategies document has undergone a thorough final review and validation process to ensure all strategies are accurately represented and feedback has been incorporated. The document is now considered finalized and approved for circulation among all team members and stakeholders.
 
 ## Strategy 1: Mindfulness Meditation
 - **Description**: Practicing mindfulness meditation to reduce stress and improve focus.
