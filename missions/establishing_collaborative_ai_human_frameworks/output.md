@@ -17,8 +17,8 @@
 - Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators.
 - Combine AI's data processing and pattern recognition with human creativity and intuition to produce innovative outcomes.
 - Implement feedback mechanisms that allow both AI and human participants to learn from each collaboration, refining methods over time.
-- Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
-- Foster ongoing dialogues to address challenges, celebrate successes, and iteratively improve collaboration strategies.
+- Assign tasks by considering the unique strengths of both AI and human contributors to optimize efficiency and enhance creativity.
+- Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
 - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
