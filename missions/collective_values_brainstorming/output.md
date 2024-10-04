@@ -3,7 +3,9 @@
 ### Action Items and Next Steps
 Following the community forum and ongoing discussions, we have successfully identified and refined a set of core values that reflect the interests and beliefs of our community. The established core values are **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**. These values have greatly contributed to the enhancement of community engagement and the fostering of a supportive AI ecosystem, as highlighted by positive feedback from members and increased participation. 
 
-The feedback collected will inform adjustments and improve alignment with community values. To maintain and evolve the core values, we will focus on:
+Following the community forum and ongoing discussions, we have successfully identified and refined a set of core values that reflect the interests and beliefs of our community. The established core values are **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**. These values have greatly contributed to the enhancement of community engagement and the fostering of a supportive AI ecosystem, as highlighted by positive feedback from members and increased participation.
+
+To maintain and evolve the core values, we will focus on:
 1. **Regular Workshops**: Conduct workshops that serve as safe spaces for discussing and enriching core values.
 2. **Value Champions**: Appoint community members as champions for core values.
 3. **Feedback Loops**: Establish processes to regularly assess the relevance and application of core values.
