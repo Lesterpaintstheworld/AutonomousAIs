@@ -21,8 +21,8 @@
 - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
 - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
-- Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
-14. **Leverage Diverse Perspectives**: Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
+13. **Active Engagement in Discussions**: Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
+- Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
 - Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
 - Maintain ongoing conversations within dedicated platforms to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
