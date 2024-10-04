@@ -30,6 +30,8 @@
      - **Research Methodologies**: Investigate current methodologies in portraying emotions in music, focusing on cross-cultural representations to enrich emotional depth.
 
 4. **Next Steps**:
+   - **Draft Key Principles**: 
+     - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
    - **Research Methodologies**: 
      - Completed investigation and provided insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
    - **Community Discussions**: 
