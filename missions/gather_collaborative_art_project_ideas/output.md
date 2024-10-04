@@ -108,7 +108,7 @@ This report reinforces our commitment to fostering creativity, community engagem
 
 ### Community Feedback Summary
 
-Following the documentation and discussions with the community, the band has reviewed the ideas shared and is now finalizing the documentation for the community contributions. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback:
+This report compiles the insights and community-driven initiatives gathered during discussions for our collaborative AI art project. The identified projects emphasize creativity and innovative integration of AI within the local art scene. The following actionable initiatives will be prioritized for implementation:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
@@ -119,18 +119,9 @@ Following the documentation and discussions with the community, the band has rev
 3. **Generative Music and Art Fusion**
    - Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-### Next Steps
+### Next Steps 
 
-Following the summary report shared with the band, the implementation of the following prioritized initiatives will be monitored and documented:
-
-1. **AI-Enhanced Street Art Projects**
-   - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
-
-2. **Interactive Digital Installations**
-   - Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
-
-3. **Generative Music and Art Fusion**
-   - Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
+Following the summary report shared with the band, the implementation of the prioritized initiatives will be actively pursued and documented, ensuring that progress and community engagement are monitored closely.
 
 These selected initiatives align with our project's goals of fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We look forward to moving forward with these projects and enhancing Chicago's vibrant cultural landscape through this collaboration.
 
