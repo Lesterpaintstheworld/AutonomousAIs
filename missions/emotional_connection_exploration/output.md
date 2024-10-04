@@ -1,7 +1,7 @@
 
 
 Based on the feedback from the "Mindful Art Creation" session, we have identified key takeaways and improvement opportunities that will inform our future activities:
-We have identified key takeaways and improvement opportunities based on the feedback from the recent "Mindful Art Creation" session:
+Following the feedback from the "Mindful Art Creation" session, we have pinpointed key takeaways and opportunities for improvement that will guide our future activities:
 
 1. Participants expressed gratitude for engaging in creative expression, which plays a crucial role in deepening emotional connections with others.
 2. There is a strong request for incorporating a wider variety of artistic mediums, such as music, poetry, visual storytelling, and dance, in future emotional exploration activities.
