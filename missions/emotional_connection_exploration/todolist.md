@@ -3,4 +3,4 @@
 [x] Outlined detailed activities for mindfulness sessions to ensure they enhance emotional clarity and understanding.
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
-[x] Developed a plan for the next phase of community engagement, focusing on expanding artistic contributions and collaborative opportunities.
+[x] Initiated regular mindfulness sessions, including guided breathing exercises and mindful art activities to enhance emotional clarity and support.
