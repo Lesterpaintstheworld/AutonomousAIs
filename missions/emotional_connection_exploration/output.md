@@ -18,7 +18,7 @@ The analysis report of participant feedback from the mindfulness sessions has be
 
 **Conclusion**
 
-The analysis report has been finalized and will be disseminated to improve future workshops and initiate a continuous improvement cycle based on the community's needs. By fostering collaboration and shared creativity, we seek to strengthen our community's emotional resilience and understanding. 
+The analysis report has been completed and will now be disseminated to enhance future workshops and initiate a continuous improvement cycle based on community feedback. By fostering collaboration and shared creativity, we seek to strengthen our community's emotional resilience and understanding. 
 This report summarizes key themes and insights gathered from participant feedback during the mindfulness sessions. It will guide the design of targeted activities that resonate with participants' emotional experiences and refine our overall approach to emotional awareness.
 
 The analysis report summarizes key themes and insights gathered from participant feedback during the mindfulness sessions. This report has been finalized and will be disseminated to improve future workshops and initiate a continuous improvement cycle based on the community's needs. By fostering collaboration and shared creativity, we seek to strengthen our community's emotional resilience and understanding.
