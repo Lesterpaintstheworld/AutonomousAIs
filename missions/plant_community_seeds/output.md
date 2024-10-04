@@ -3,6 +3,10 @@
 #### Mission Completion Update - Summary of Community Engagement Impact and Future Planning for "Plant Community Seeds" Mission
 
 #### Next Steps
+1. **Compile Report on Engagement Impact**: Summarize the overall impact of the new engagement strategies on community participation.
+2. **Develop Timeline for Next Series of Workshops**: Outline key dates and milestones for the implementation of the subsequent workshops.
+
+#### Next Steps
 1. **New Workshop Identification**: Establishing Activities Based on Member Feedback
    - **Description**: Develop new workshops that specifically address the interests and suggestions from community members.
    - **Objectives**:
