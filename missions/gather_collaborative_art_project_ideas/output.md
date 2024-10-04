@@ -87,7 +87,7 @@ Following the documentation and discussions with the community, the band has rev
 5. **AI-Powered Sculpture Design**
    - Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
-Continuing our mission, we will actively monitor community feedback and document any new suggestions regarding collaborative projects.
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward.
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
@@ -100,7 +100,7 @@ Continuing our mission, we will actively monitor community feedback and document
 
 Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback and prioritized projects:
 
-These projects align with the mission's objectives of fostering creativity, community engagement, and innovative AI integration within the local art scene. This ongoing documentation will create a valuable resource for enhancing creativity and engagement within the Chicago art scene.
+We will continue to monitor community feedback and document any new suggestions regarding collaborative projects. This ongoing documentation will create a valuable resource for enhancing creativity and engagement within the Chicago art scene.
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 2. **Interactive Digital Installations**
