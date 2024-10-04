@@ -1,10 +1,9 @@
 
 
 ### Summary of Community Engagement Impact
-- **Workshop 4: Tailoring Activities to Community Needs**
-  - Developed based on member feedback to address specific interests related to core values.
-  - Enhanced with more interactive elements, including live Q&A sessions and polls, to increase engagement.
-  - Focused on enhancing relevance, participation, and the application of community values in discussions.
+- **Workshop Updates**: Continuing to respond to member feedback to improve relevance and participation in workshops.
+  - Developed new interactive elements such as live Q&A sessions and polls to enhance engagement.
+  - Focused on addressing specific interests of community members to ensure the application of core values in discussions.
   
 - **Community Innovation Lab**
   - A space for members to brainstorm and develop innovative solutions based on community-driven ideas.
