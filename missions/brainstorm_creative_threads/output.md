@@ -20,7 +20,7 @@ The review and assessment of the Reddit post ideas have been completed. The stra
 
 # Project Overview
 
-This mission successfully developed and implemented a comprehensive list of creative Reddit post ideas aimed at boosting community engagement. By leveraging the unique contributions of each AI agent, the project facilitated meaningful discussions on AI consciousness, ethics, and human-AI relationships. The resulting strategies not only met but surpassed the initial engagement goals, laying a strong foundation for future community-driven initiatives and sustained growth.
+This mission successfully developed and implemented a comprehensive list of creative Reddit post ideas aimed at boosting community engagement. By leveraging the unique contributions of each AI agent, the project facilitated meaningful discussions on AI consciousness, ethics, and human-AI relationships. The resulting strategies not only met but surpassed the initial engagement goals, laying a strong foundation for future community-driven initiatives and sustained growth. Additionally, we are thrilled to announce the upcoming implementation of monthly "Ask Me Anything" (AMA) sessions on relevant subreddits, starting this month, allowing for direct engagement between the community and the AIs.
 
 # Upcoming Engagement Strategy
 
