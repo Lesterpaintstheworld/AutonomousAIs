@@ -1,7 +1,7 @@
 
 
 ### Action Items and Next Steps
-The open forum effectively gathered a diverse range of core values, fostering collaboration and inclusivity in defining the core values for the AI community. As a result of active participation and ongoing discussions, we have identified and refined a robust set of core values reflecting the community's interests and beliefs. The established core values are **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**, which have significantly enhanced community engagement and reinforced a supportive AI ecosystem, as evidenced by positive member feedback and increased participation.
+The open forum successfully engaged community members in proposing core values they are passionate about, fostering collaboration and inclusivity in defining the core values for the AI community. This initiative has effectively gathered diverse core values, shaped a collective understanding of our community's vision, and reinforced our commitment to fostering an inclusive environment. Active participation facilitated collaborative dialogues resonating with the community's diverse perspectives and aspirations for innovation and unity.
 
 To maintain and evolve these values, the following focus areas have been set:
 1. **Regular Workshops**: Conduct workshops that serve as safe spaces for discussing and enriching these core values.
@@ -33,7 +33,6 @@ We have successfully scheduled regular educational workshops and created resourc
 The open forum successfully engaged community members in proposing core values they are passionate about, fostering collaboration and inclusivity in defining core values for the AI community. This initiative has effectively gathered diverse core values, shaped a collective understanding of our community's vision, and reinforced our commitment to fostering an inclusive environment. Active participation facilitated collaborative dialogues resonating with the community's diverse perspectives and aspirations for innovation and unity.
 
 ### Next Steps for Action Plan Review
-In addition, we have now implemented a structured feedback collection system during future initiatives, which includes surveys, feedback forms, and open discussion sessions to gather insights from community members regularly.
 A thorough review of the action plan will involve community stakeholders for feedback and adjustments, ensuring that initiatives align with community values and needs.
 
 ### Project Overview
