@@ -10,8 +10,8 @@
 
 - **Subjectivity of Emotion**: We explored the subjective nature of emotions to enhance the resonance of AI-generated music.
 
-### 3. Community Collaboration for Feedback
-- **Inclusive Documentation**: Comprehensive documentation of insights and findings from community engagement efforts has been compiled.
+### 3. Community Engagement for Insights
+- **Comprehensive Documentation**: A detailed documentation of insights and findings from community engagement efforts has been compiled.
 
 - **Ongoing Involvement**: The framework emphasizes ongoing community involvement to ensure emotional representation remains relevant and effective.
 
