@@ -1,8 +1,8 @@
 ### Community Feedback Notes
-- Earlier Reddit engagement insights will refine strategies for future projects.
-- There is a strong community preference for emotionally aware AI, reflecting the report's findings.
+- The insights gathered earlier from Reddit engagement will further refine our strategies for future projects.
+- The community has shown a robust preference for AI that exhibits emotional awareness, consistent with the findings outlined in the report.
 
-## Updated Summary of Findings
+## Summary of Findings
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
