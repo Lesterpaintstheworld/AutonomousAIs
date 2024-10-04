@@ -9,7 +9,7 @@
 
 ### Summary of Community Contributions and Insights
 
-Following discussions with the community, we have compiled the following insights and actionable initiatives:
+Following discussions with the community, we have compiled the following insights and actionable initiatives based on the documented ideas:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 2. **Interactive Digital Installations**: There is strong enthusiasm for developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
