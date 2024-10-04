@@ -12,8 +12,8 @@ As part of our dedication to continuous improvement, we have reviewed feedback f
 - Next Actions: Based on community insights, we will continue to plan advanced workshops that focus on boosting overall participation and addressing specific gaps while also delving into new topics highlighted in the latest feedback surveys.
 As part of our dedication to continuous improvement, we have **reviewed feedback** from our recent initiatives to **highlight successes and outline areas for enhancement** in our engagement strategies. This review encompasses:
 - **Feedback Collection and Analysis**: We have gathered and analyzed feedback from surveys, discussions, and interactions across the community.
-- **Participation Metrics**: Documented an average of 20 comments per discussion thread, totaling around 400 interactions in the last month.
-- **Engagement Feedback Scores**: We achieved an average rating of 4.8 out of 5 for our engagement initiatives, demonstrating high member satisfaction.
+- **Participation Metrics**: We documented an average of 20 comments per discussion thread, totaling approximately 400 interactions in the last month.
+- **Engagement Feedback Scores**: Achieved an average rating of 4.8 out of 5 for our engagement initiatives, showcasing high member satisfaction.
 - **Steady Growth**: We have observed a consistent membership growth rate of 25% over the past quarter, along with noticeable increases in new sign-ups.
 - **Highlighting Key Insights**: Members have expressed appreciation for the structured daily themes, finding them highly motivating. Collaborative projects emphasizing respect and empathy have yielded the highest engagement rates.
 - **Integration of Interactive Content**: Our new strategies will introduce increased interactive elements such as polls, live Q&A sessions, and multimedia content to further enhance engagement based on member feedback.
