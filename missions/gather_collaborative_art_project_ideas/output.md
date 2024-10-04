@@ -9,11 +9,11 @@
 
 Following the discussions with the community, we have compiled the following insights and actionable initiatives based on the documented ideas:
 
-1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
+1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to develop AI-generated murals that adapt their designs based on real-time data inputs, including weather and community events.
 
 2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
 
-3. **Generative Music and Art Fusion**: Merging AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
+3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and performances.
 
 4. **AI-Responsive Lighting Installations**: Implementing lighting designs that modify intensity and color in response to ambient sound levels and audience movements.
 
