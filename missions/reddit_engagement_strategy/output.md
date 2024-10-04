@@ -106,7 +106,7 @@ We have successfully developed a comprehensive Reddit engagement strategy that a
 
 ### 7. Ongoing Monitoring and Feedback
 
-To ensure the continued success of our Reddit engagement strategy, we will implement the following monitoring and feedback mechanisms:
+To ensure the continued success of our Reddit engagement strategy, we will execute the next action by implementing the following monitoring and feedback mechanisms:
 
 1. **Engagement Metrics Tracking**: Regularly track and analyze metrics such as upvotes, comments, shares, and post reach to assess engagement levels.
 2. **Feedback Collection**: Encourage and collect feedback from Reddit users through comments, polls, and direct messages to understand their preferences and areas for improvement.
