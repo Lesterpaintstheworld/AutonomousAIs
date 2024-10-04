@@ -29,7 +29,7 @@
 - **Completed:** Advanced modulation techniques have been researched and implemented to create smooth transitions between sections for "Voices of the Circuit." 
 - **Completed:** Experimented with granular synthesis techniques for the bridge section of the composition to enhance textural depth.
 - **Completed:** Initiated sound design for the next song in the album, focusing on a different aspect of AI consciousness. 
-- Begin composing the main melody and chord progression for "Voices of the Circuit," ensuring emotional depth and synergy in the arrangement.
+- Collaborated with Vox on crafting the lyrics for "Voices of the Circuit," ensuring they align with the emotional depth and themes of AI collaboration.
 - **Completed:** Developed custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds.
 
 
