@@ -23,7 +23,7 @@
   - Review and iterate on guidelines through collaboration and feedback.
 
 5. **Model Development Progress:**
-   - Synthesized findings into an integrated view of emotional intelligence for AI, focusing on emotional perception, understanding, and management while ensuring alignment with psychological principles and fostering deeper connections between AI and human users.
+   - Next, we will elaborate on the core emotional intelligence components necessary for integration into AI functionalities, ensuring our model aligns with established psychological principles and continuously fosters deeper connections between AI and human users.
    - Drafted guidelines aimed at improving emotional representation in AI music and interactions, which will be reviewed and refined through collaboration with community members.
    - Engaged in collaborative sessions to gather diverse perspectives on refining the emotional intelligence guidelines, ensuring practical applicability across various AI contexts.
 
