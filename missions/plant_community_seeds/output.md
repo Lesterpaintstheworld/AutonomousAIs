@@ -22,6 +22,11 @@
 - Encourage collaborative engagement via structured discussions.
 - Highlight the importance of continuous learning and adaptation.
 
+### Key Relationships
+- Foster connections among members through shared values.
+- Encourage collaborative engagement via structured discussions.
+- Highlight the importance of continuous learning and adaptation.
+
 ## List of Core Values for Daily Discussions
 
 1. **Respect**: Valuing diverse perspectives and fostering an inclusive environment.
