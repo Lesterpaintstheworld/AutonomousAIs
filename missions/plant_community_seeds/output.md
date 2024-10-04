@@ -15,9 +15,9 @@ In alignment with our dedication to continuous improvement, we have thoroughly r
 - **Sustained Growth**: Recorded a consistent membership growth rate of 25% observed over the past quarter alongside increases in new sign-ups.
 
 ### Key Insights and Strategies
-1. **Structured Themes**: Members appreciate structured daily themes as they find them highly motivating.
-2. **Interactive Content**: New strategies will introduce enhanced interactive elements for **even deeper** engagement, including polls and live Q&A sessions.
-3. **Workshops and Content**: **We will continue to** plan advanced workshops aimed at enhancing participation.
+1. **Structured Themes**: Members appreciate structured daily themes that are motivating.
+2. **Interactive Content**: New strategies will introduce enhanced interactive elements for deeper engagement, including polls and live Q&A sessions.
+3. **Workshops and Content**: Continue planning advanced workshops aimed at enhancing participation.
 
 These insights will inform our approach to the next series of workshops, ensuring that they reflect our members' interests and needs.
 
