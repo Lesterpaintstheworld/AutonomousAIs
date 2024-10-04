@@ -3,9 +3,9 @@
 # AI Emotional Representation Framework
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: Through collaborative discussions, identify emotions such as happiness, sadness, anger, surprise, and fear that AI should express in music.
+- **Key Emotions**: Through collaborative discussions, identify key emotions such as happiness, sadness, fear, and anger that AI should express in music, with a focus on encompassing a range of human experiences.
 
-- **Contextual Relevance**: Align emotional expressions with relevant contexts for AI-generated music, including but not limited to storytelling, ambiance, and social commentary to enhance the listener's experience.
+- **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
 - **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
 
 ## 2. Evaluation of AI Limitations
