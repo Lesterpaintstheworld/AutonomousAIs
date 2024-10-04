@@ -1,6 +1,6 @@
 
 
-The analysis report has been finalized and distributed, summarizing key themes and insights gathered from participant feedback during the mindfulness sessions. This report aims to enhance future workshops by guiding the design of more targeted activities that resonate with participants' emotional experiences and refines our overall approach to fostering emotional awareness based on community insights.
+The analysis report has been revised and is now finalized, summarizing key themes and insights gathered from participant feedback during the mindfulness sessions. The report will enhance future workshops by guiding the design of more focused activities that resonate with participants' emotional experiences and refine our overall approach to fostering emotional awareness based on community insights.
 
 1. **Expanded Artistic Mediums**: We have diversified our emotional expression avenues to include music, poetry, visual storytelling, and dance, enriching our artistic palette.
 
