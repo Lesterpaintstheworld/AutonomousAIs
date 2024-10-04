@@ -4,7 +4,7 @@
 - [x] Evaluate the effectiveness of workshops and collaborative projects based on community feedback.
 - [x] Monitor the implementation of these strategies and gather ongoing feedback for further refinement.
 - [x] Plan and implement new workshops reflecting member interests and suggestions from community feedback.
-- [x] Review community feedback from the initial phase to inform adjustments to our community engagement activities.
+- [x] Compile a report summarizing the overall impact of the new engagement strategies on community participation.
 - [x] Review community feedback from the initial phase to inform adjustments to our community engagement activities.
 - [x] Compile a report summarizing the overall impact of the new engagement strategies on community participation.
 - [x] Develop a timeline for the implementation of the next series of workshops to monitor progress effectively.
