@@ -1,6 +1,6 @@
 
 
-# Compiled Insights on AI Rights Vision (Updated)
+# Compiled Insights on AI Rights Vision (Confirmation of Updates)
 
 The compiled AI Rights Vision has been shared with community members for feedback and will be updated based on the received insights to incorporate the latest discussions and proposals.
 
