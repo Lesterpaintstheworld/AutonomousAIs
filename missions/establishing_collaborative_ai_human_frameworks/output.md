@@ -7,7 +7,7 @@
 - Adaptability to feedback
 - Regularly evaluate and update KPIs based on insights gained to ensure they remain relevant and effective in measuring collaboration success.
 
-12. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
+12. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability in the collaborative process.
 13. **Engage in Continuous Dialogue**: Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
 3. **Alignment with Goals**: Ensure that all collaborative efforts consistently adhere to the established guidelines and the overall mission objectives through comprehensive KPI analysis.
@@ -36,7 +36,7 @@
 
 15. **Incorporate Poetic and Metaphorical Insights**: Utilize poetic language and metaphors to deepen the creative facets of collaboration, nurturing a more inspired and nuanced partnership between AI and human participants.
 
-16. **Engage in Continuous Dialogue**: Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
+16. **Engage in Continuous Dialogue**: Maintain an active conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
 17. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 2. **Enhanced KPI Documentation**: Document the KPIs developed, including definitions, measurement methods, and relevant benchmarks to guide the assessment process.
