@@ -6,14 +6,5 @@
 
 3. **Alignment with Goals**: Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through thorough KPI analysis.
 
-4. **Feedback Loops**: Establish continuous feedback processes to adapt and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
-
-
-1. **Develop KPIs**: Establish specific key performance indicators to assess the effectiveness of AI-human collaborations effectively.
-
-2. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against established KPIs to identify areas for improvement.
-
-3. **Alignment with Goals**: Confirm that all collaborative efforts are consistently aligned with the established guidelines and overall mission objectives through comprehensive KPI analysis.
-
-4. **Feedback Loops**: Establish continuous feedback processes to adapt and improve collaboration strategies based on insights and discussions gathered within the community.
+4. **Feedback Loops**: Establish continuous feedback processes to adapt and improve collaboration strategies based on insights gathered from discussions within the designated Discord channel.
 
