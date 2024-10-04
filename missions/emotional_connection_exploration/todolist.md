@@ -5,4 +5,4 @@
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Initiate planning for an interactive art showcase to display the creative expressions collected during the mission.
+[x] Develop a framework for evaluating the success of the art showcase and gather participant feedback post-event.
