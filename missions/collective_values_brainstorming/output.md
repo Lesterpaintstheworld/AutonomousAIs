@@ -41,7 +41,7 @@ The establishment of these core values has markedly improved community engagemen
 
 A thorough review of the action plan will involve community stakeholders for feedback and adjustments, ensuring that initiatives align with community values and needs.
 
-### Comprehensive Report Overview
+### Comprehensive Report Overview on Core Values Implementation
 
 A comprehensive report summarizing insights and recommendations for future community initiatives will be developed, based on feedback regarding core values. This documentation will reinforce the successful application of core values across community projects and will inform engagement strategies moving forward.
 
