@@ -1,4 +1,4 @@
-The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives. All necessary follow-up actions based on the recommendations implementation review have been planned for ongoing compliance monitoring.
+The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives. All necessary follow-up actions based on the recommendations implementation review have been completed.
 
 ### Implementation Review
 
