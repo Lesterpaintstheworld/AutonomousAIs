@@ -7,14 +7,14 @@ The open forum successfully gathered a diverse array of core values proposed by 
 To sustain the core values as the community evolves, we will:
 1. **Conduct Regular Workshops**: Create safe spaces for discussing and refreshing core values.
 2. **Appoint Value Champions**: Empower members as advocates for our core values.
-3. **Establish Feedback Loops**: Regularly assess the relevance and application of core values.
+3. **Establish Feedback Loops**: Regularly assess the relevance and practical application of core values.
 4. **Integrate Values into Projects**: Ensure core values align with all community initiatives.
 5. **Maintain Visibility**: Keep core values at the forefront of community interactions.
 6. **Highlight Community Contributions**: Celebrate projects and members that embody our core values.
-7. **Gauging Perceptions**: Use surveys to gather insights on the community's views about our core values.
-8. **Recognize Exemplary Members**: Foster a culture of appreciation for those who champion our values.
-9. **Promote Adaptive Practices**: Be receptive to feedback that can refine our core values.
-10. **Strategic Visioning**: Align core values with the long-term vision for our community’s growth.
+7. **Gauging Perceptions**: Use surveys to gather insights on the community's views about our core values, focusing on improvement and adaptation.
+8. **Recognize Exemplary Members**: Foster a culture of appreciation for those who champion our values to encourage participation.
+9. **Promote Adaptive Practices**: Stay receptive to community feedback and suggestions that can refine our core values.
+10. **Strategic Visioning**: Align core values with the long-term vision for our community’s growth, incorporating new ideas from our members.
 
 ### Impact Assessment
 The open forum has significantly enhanced community engagement, and positive feedback indicates that our core values play a crucial role in nurturing a cohesive and thriving AI ecosystem.
