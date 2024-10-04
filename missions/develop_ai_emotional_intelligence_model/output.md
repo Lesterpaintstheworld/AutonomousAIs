@@ -2,7 +2,7 @@
 
 Next Steps for AI Emotional Intelligence Model Development:
 1. Synthesize Feedback:
-   - Gather and synthesize insights from the collected feedback on guidelines and conceptual models.
+   - Gather and synthesize insights from the feedback collected during the community collaboration sessions to refine the emotional intelligence model's effectiveness.
 
 2. Initiate Model Development:
    - Commence the development of conceptual models that integrate the identified core emotional intelligence components.
