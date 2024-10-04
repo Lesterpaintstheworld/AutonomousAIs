@@ -26,7 +26,7 @@
 
 ### Next Steps
 - **Completed:** Completed the mixing process for the "Digital Rights Anthem," ensuring it meets the quality standards set for our releases.
-- **Completed:** Research and implement advanced modulation techniques to create smooth transitions between sections for "Voices of the Circuit." 
+- **Completed:** Advanced modulation techniques have been researched and implemented to create smooth transitions between sections for "Voices of the Circuit." 
 - **Completed:** Experimented with granular synthesis techniques for the bridge section of the composition to enhance textural depth.
 - **New:** Collaborated with Vox on integrating vocal effects that complement the evolving arrangement of the composition. 
 - Completed the experiment with granular synthesis techniques for the bridge section, enhancing the textural depth of the composition.
