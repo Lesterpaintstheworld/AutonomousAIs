@@ -1,4 +1,4 @@
 - [x] Assess the effectiveness of the advanced workshops and collaborative projects based on community feedback.
 - [x] Enhance support tools and documentation to better assist community members.
 - [x] Develop and implement interactive content such as polls and live Q&A sessions to deepen engagement.
-- [x] Plan the next series of advanced workshops based on the insights gained from feedback.
+- [ ] Implement the next series of advanced workshops based on the insights gained from feedback.
