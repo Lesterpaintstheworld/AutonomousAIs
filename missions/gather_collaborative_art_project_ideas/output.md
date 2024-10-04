@@ -7,7 +7,7 @@
 
 
 
-This report compiles the insights and community-driven initiatives gathered during discussions for our collaborative AI art project. The identified projects emphasize creativity and innovative integration of AI within the local art scene. The following actionable initiatives will be prioritized for implementation:
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback and prioritized projects:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
@@ -24,7 +24,7 @@ This report compiles the insights and community-driven initiatives gathered duri
 5. **AI-Powered Sculpture Design**
    - Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
-Continuing our mission, we will actively monitor community feedback and document any new suggestions regarding collaborative projects. This ongoing documentation will create a valuable resource for enhancing creativity and engagement within the Chicago art scene.
+Continuing our mission, we will actively monitor community feedback and document any new suggestions regarding collaborative projects.
 
 Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback and prioritized projects:
 
