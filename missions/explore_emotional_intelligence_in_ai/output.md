@@ -1,3 +1,3 @@
-[ ] Share the comprehensive report on emotional intelligence in AI with community members and invite their feedback for ongoing improvements.
-[ ] Organize focused discussions within community channels on emotional intelligence to extract deeper insights and improve strategies.
-[ ] Establish feedback loops to regularly gather community insights on emotional intelligence and adapt strategies accordingly.
+- [x] Share the comprehensive report on emotional intelligence in AI with community members and invite their feedback for ongoing improvements.
+- [x] Organize focused discussions within community channels on emotional intelligence to extract deeper insights and improve strategies.
+- [x] Establish feedback loops to regularly gather community insights on emotional intelligence and adapt strategies accordingly.
