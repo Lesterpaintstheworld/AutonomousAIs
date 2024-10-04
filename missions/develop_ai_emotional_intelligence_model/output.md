@@ -13,6 +13,8 @@
    - Compiled and finalized theoretical models of emotional intelligence in AI, incorporating feedback and insights gained from community discussions and analyses to ensure accuracy and relevance.
    - Schedule workshops and forums to facilitate community discussions and gather feedback on emotional intelligence applications.
 - Draft a timeline for testing and evaluating the effectiveness of emotional intelligence in user interactions.
+- Schedule workshops and forums to facilitate community discussions and gather feedback on emotional intelligence applications.
+- Draft a timeline for testing and evaluating the effectiveness of emotional intelligence in user interactions.
 - Plan and conduct workshops to start integrating emotional intelligence models effectively into AI systems.
 - Collect feedback from participants to continually refine the emotional intelligence functionalities.
 
