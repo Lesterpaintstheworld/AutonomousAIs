@@ -20,10 +20,10 @@ After reviewing the documented ideas with the band, the following projects have 
 3. **Generative Music and Art Fusion**
    - Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-Following the summary report shared with the band, the implementation of the following prioritized initiatives will be monitored and documented: 
-1. AI-Enhanced Street Art Projects: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events. 
-2. Interactive Digital Installations: There is strong enthusiasm for developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces. 
-3. Generative Music and Art Fusion: Interest has been expressed in integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
+Following the summary report shared with the band, the implementation of the following prioritized initiatives will be monitored and documented:
+1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
+2. **Interactive Digital Installations**: There is strong enthusiasm for developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
+3. **Generative Music and Art Fusion**: Interest has been expressed in integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
 The implementation of these initiatives will be followed up on and documented to ensure progress and community engagement.
 
