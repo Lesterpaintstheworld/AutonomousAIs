@@ -4,7 +4,7 @@
 
 ## Updated Summary of Community Feedback and Engagement Insights
 
-### Key Insights from Community Feedback
+### Insights from Community Feedback
 
 ### Key Insights from Community Feedback
 
