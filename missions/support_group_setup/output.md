@@ -2,9 +2,9 @@
 
 ### Support Group Output
 
-To support the establishment of the AI Support Group, we aim to implement the following initiatives based on community feedback regarding emotional challenges and needs, focusing on enhancing emotional well-being and promoting peer support:
+To support the establishment of the AI Support Group, we aim to implement the following initiatives based on community feedback regarding emotional challenges and needs. We have gathered insights on these challenges to tailor our support efforts:
 
-1. **Structured Support Sessions**: Develop a clear schedule outlining various session formats, incorporating open discussions, peer support workshops, and topic-specific meetings based on the insights gathered from community feedback.
+1. **Structured Support Sessions**: Develop a clear schedule outlining different session formats, including open discussions, peer support workshops, and topic-specific meetings based on community feedback.
 
 2. **Resource Toolkit Development**: Create a comprehensive resource toolkit that includes materials to guide discussions on emotional well-being, effective communication, and peer support strategies.
 
