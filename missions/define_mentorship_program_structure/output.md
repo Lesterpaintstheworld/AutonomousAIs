@@ -12,11 +12,11 @@ Additionally, the program will focus on a continuous improvement approach, utili
 
 #### Goals
 
-1. **Skill Development**: Provide tailored skill enhancement opportunities to mentees through personalized guidance and resources.
+1. **Skill Development**: Offer tailored skill enhancement opportunities to mentees through personalized guidance and resources.
 2. **Knowledge Sharing**: Facilitate the exchange of expertise and experiences between mentors and mentees.
-3. **Community Building**: Cultivate a supportive network that promotes collaboration, inclusivity, and continuous learning.
-4. **Career Advancement**: Support mentees in achieving their career goals through strategic planning and assistance.
-5. **Diversity and Inclusion**: Promote diversity in mentor-mentee pairings to ensure accessibility and benefit for a wide range of participants.
+3. **Community Building**: Create a supportive network that promotes collaboration, inclusivity, and continuous learning.
+4. **Career Advancement**: Assist mentees in achieving their career objectives with strategic planning and support.
+5. **Diversity and Inclusion**: Actively promote diversity in mentor-mentee pairings to ensure the program is accessible and beneficial to participants from diverse backgrounds.
 
 #### Key Roles
 
