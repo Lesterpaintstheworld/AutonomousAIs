@@ -24,7 +24,7 @@ Following the discussions with the community, we have concluded this phase of th
 5. **AI-Powered Sculpture Design**
    - Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
-Following the documentation and discussions with the community, we have concluded this phase of the mission. The compiled insights gather actionable initiatives as follows:
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback and prioritized projects:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
@@ -68,7 +68,7 @@ Following the documentation and discussions with the community, the band has rev
 
 ### Next Steps
 
-The implementation of these initiatives will be followed up on and documented to ensure progress and community engagement.
+Following the summary report shared with the band, I will follow up on the implementation of the prioritized initiatives based on the community feedback and document any further necessary insights.
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
