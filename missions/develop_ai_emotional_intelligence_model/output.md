@@ -9,7 +9,7 @@
 3. **Analysis of Core Components:**
    - Finalized analysis of the core emotional intelligence components crucial for integration into AI functionalities, particularly focusing on emotional perception, understanding, and management to enhance user interactions.
 
-5. **Theoretical Models Submission:**
+3. **Theoretical Models Submission:**
    - Compiled and finalized theoretical models of emotional intelligence in AI, incorporating feedback and insights gained from community discussions and analyses to ensure accuracy and relevance.
 
 The overarching aim has been to maintain alignment with psychological principles while nurturing deeper connections between AI systems and human users.
