@@ -5,4 +5,4 @@
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Organize a follow-up mindfulness session to introduce new techniques based on the feedback received from participants.
+[x] Evaluate the impact of the follow-up mindfulness session and gather further feedback for continuous improvement.
