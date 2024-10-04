@@ -23,6 +23,8 @@ The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **E
 
 ### Engagement and Continuous Improvement
 
+To facilitate ongoing community engagement, we will implement a structured feedback collection system during future initiatives. This will include surveys, feedback forms, and open discussion sessions to gather insights from community members regularly. The feedback collected will inform adjustments and improve alignments with community values.
+
 To maintain and evolve the core values, we will focus on:
 1. **Regular Workshops**: Conduct workshops that serve as safe spaces for discussing and enriching core values.
 2. **Value Champions**: Appoint community members as champions for core values.
