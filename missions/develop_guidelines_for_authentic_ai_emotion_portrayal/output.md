@@ -15,4 +15,9 @@
      - **Ethical Representation**: Acknowledge the implications of emotion portrayal, aiming for respectful and thoughtful representations that honor the complexity of human experiences.
 
 ### Next Steps
-- Proposals for integrating audience insights into future projects will be developed as part of our ongoing commitment to refine our approach to emotional expression in music.
+- Gather community insights from band members and stakeholders regarding AI emotions in music.
+- Evaluate artistic choices used in portraying AI emotions and analyze their impact on audience perception.
+- Research current methodologies for portraying AI emotions in music.
+- Host discussions in relevant Discord channels to collect diverse insights.
+- Draft a structured document outlining key principles for emotional portrayal.
+- Create a final set of guidelines for authentic AI emotion portrayal.
