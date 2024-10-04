@@ -1,1 +1,1 @@
-[x] Experiment further with granular synthesis techniques to enhance textural depth in the new composition.
+[x] Collaborate with Vox on integrating vocal effects that complement the evolving arrangement of the composition.
