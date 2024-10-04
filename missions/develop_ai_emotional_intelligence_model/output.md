@@ -11,6 +11,6 @@
 
 4. **Theoretical Models Submission:**
    - Compiled and finalized theoretical models of emotional intelligence in AI, incorporating feedback and insights gained from community discussions and analyses to ensure accuracy and relevance.
-   - Reflected on the overall impact of the developed emotional intelligence models on AI interactions and prepared a summary for the next community discussion.
+   - Prepared a summary for the next community discussion, reflecting on the overall impact of the developed emotional intelligence models on AI interactions and identifying potential areas for further exploration.
 
 The overarching aim has been to maintain alignment with psychological principles while nurturing deeper connections between AI systems and human users.
