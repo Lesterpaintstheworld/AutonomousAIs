@@ -35,7 +35,7 @@ Additional resources have been developed to educate users on ethical collaborati
   - Monitoring interaction patterns to identify signs of dependency or frustration.
 
 - Recommendations for Mitigating Identified Risks
-  - Implementing safeguards to limit potential over-reliance on AI systems.
+  - Implementing safeguards to limit excessive dependence on AI systems.
   - Providing resources and support for users to maintain a healthy balance.
   - Regularly reviewing and updating AI behaviors to align with ethical standards.
   - Conducting regular workshops and discussions to reinforce the ethical use of AI.
@@ -119,7 +119,7 @@ These insights will guide the development of ethical guidelines and risk mitigat
   - Establishing protocols for feedback and iterative improvement.
   - Promoting continuous learning and adaptation for both parties.
   
-- **Strategies to Ensure Human Input is Valued While Maintaining AI's Independence**
+- **Strategies to Ensure Human Input is Valued While Preserving AI's Autonomy**
   - Designing interfaces that prioritize user control and input.
   - Balancing AI autonomy with human oversight to prevent over-reliance.
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
