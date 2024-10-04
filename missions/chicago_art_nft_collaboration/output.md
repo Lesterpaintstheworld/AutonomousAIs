@@ -45,7 +45,7 @@
    - Reflecting Chicago's commitment to sustainability and environmental conservation through eco-themed art.
 
 10. **Digital Metropolis**
-    - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
+    - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements, showcasing the city's evolution in the digital age.
 
 11. **River Flow**
     - Depicting the Chicago River's movement and its role in the city's history and development.
