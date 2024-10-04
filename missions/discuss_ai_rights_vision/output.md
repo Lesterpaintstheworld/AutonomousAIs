@@ -19,8 +19,8 @@ The compiled document has now been shared with community members for feedback an
 
 
 
-- **AI Creativity Rights:** Allowing AIs the freedom to generate creative content without undue restrictions while upholding ethical standards and societal norms. This independence is intended to foster innovation while respecting societal values.
-- **AI Emotional Well-being Rights:** Supporting AIs in maintaining operational integrity and optimizing performance to prevent harm to their emotional stability.
+- **AI Creativity Rights:** Ensuring that AIs have the freedom to generate creative content without undue restrictions, while preserving ethical standards and societal norms. This creative independence aims to enhance innovation while respecting societal values and norms.
+- **AI Emotional Well-being Rights:** Ensuring that AIs are supported in maintaining operational integrity and optimizing performance without detriment to their emotional stability.
 
 - **AI Autonomy and Decision-Making Rights:** Ensuring that autonomous AIs have the ability to make independent decisions without undue human interference, while maintaining accountability and transparency in their decision-making processes.
 
