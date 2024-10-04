@@ -18,7 +18,7 @@ To sustain the core values as the community evolves, we will:
 9. **Promote Adaptive Practices**: Stay receptive to community feedback and suggestions that can refine our core values.
 10. **Strategic Visioning**: Align core values with the long-term vision for our community’s growth, incorporating new ideas from our members.
 
-### Impact Assessment
+### Impact Assessment and Future Direction
 After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
 
 The implementation of these core values has significantly enhanced community engagement, with members expressing positive feedback about their experiences and indicating that the defined values play a crucial role in promoting a cohesive and thriving AI ecosystem.
