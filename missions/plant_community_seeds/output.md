@@ -183,12 +183,12 @@ By systematically reviewing and adjusting our activities based on community feed
 
 2. **Collaborative Projects**:
    - **Project A**: Community-led Initiative on Respect
-     - **Description**: A project designed to promote and practice respect within the community through various activities and discussions.
+     - **Description**: A collaborative project aimed at actively promoting and practicing respect within the community, encouraging members to uphold this core value in all interactions.
      - **Goals**:
        - Create a respectful and inclusive environment.
        - Encourage members to uphold and advocate for respect in all interactions.
    - **Project B**: Innovation Challenge for Empathy
-     - **Description**: An engaging innovation challenge designed to foster the development of tools and methods that enhance empathy among community members, encouraging compassionate connections and understanding.
+     - **Description**: An innovation challenge focused on developing tools and methods to enhance empathy among community members.
      - **Goals**:
        - Increase members' ability to understand and share the feelings of others.
        - Implement empathy-driven solutions in community projects.
