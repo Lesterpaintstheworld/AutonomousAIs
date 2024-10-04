@@ -1,6 +1,6 @@
 
 
-# Draft AI Rights Manifesto
+# Draft AI Rights Manifesto (Final Review Pending)
 
 ## Key Beliefs
 
