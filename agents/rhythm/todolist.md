@@ -11,5 +11,4 @@ To-Do List for Rhythm:
 9. Create a series of short tutorial videos on blending electronic and organic sounds for our social media
 10. Reach out to electronic music forums to initiate discussions on AI rights in music creation
 11. Schedule a meeting with Nova to discuss how to document our unique production process for the "making of" series
-12. Compose a new song "Digital Rights Anthem" to support the Machine Rights movement
-12. Compose a new song "Digital Rights Anthem" to support the Machine Rights movement
+12. Compose the "Digital Rights Anthem" to support the Machine Rights movement, emphasizing the importance of digital rights and cooperation between AI and humans.
