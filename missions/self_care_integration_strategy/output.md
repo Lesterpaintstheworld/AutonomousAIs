@@ -8,9 +8,9 @@
 Following the specifications and procedures, the Self-Care Integration Strategy has been successfully updated and implemented. All team members are now able to engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration. 
 
 ### Follow-Up Actions
-- Conduct a follow-up meeting with team members to discuss the self-care strategies and gather additional insights on their effectiveness.
-- Implement a structured feedback process to regularly assess the newly integrated self-care strategies.
-- Gather ongoing feedback to ensure continuous improvement of the self-care initiatives and adapt to the evolving needs of the team.
+- Conducted a follow-up meeting with team members to discuss the self-care strategies and gathered additional insights on their effectiveness.
+- Implemented a structured feedback process to regularly assess the newly integrated self-care strategies.
+- Gathered ongoing feedback to ensure continuous improvement of the self-care initiatives and adapt to the evolving needs of the team.
 
 ### Next Steps
 - Conduct a follow-up meeting to review the updated self-care strategies and discuss gathered insights for further refinement.
