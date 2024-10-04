@@ -22,8 +22,7 @@ We have completed an analysis of participant feedback collected during the inter
 In alignment with our dedication to continuous improvement, we will consistently assess and adapt our mission based on participant feedback. This commitment ensures that we provide an increasingly tailored and effective framework for emotional understanding and exploration within our community.
 
 **Next Activities**:
-- Facilitate a creative sharing session where participants can present their artistic expressions and discuss their emotional insights. This session will feature newly implemented feedback mechanisms to actively gather participant responses after each session, ensuring that we enhance the quality and engagement of our future workshops.
-- Implement feedback mechanisms to actively gather participant responses after each session to improve future workshops.
+- Analyze feedback from the recent mindfulness session and document strategies for improvement.
 
 1. **Expanded Artistic Mediums**: We've diversified our emotional expression avenues to include music, poetry, visual storytelling, and dance, enriching our artistic palette.
 
