@@ -3,4 +3,4 @@
 - Research and analyze current methodologies for portraying AI emotions in music
 - Host discussions in relevant Discord channels to collect diverse insights
 - Draft a structured document outlining key principles for emotional portrayal
-- Create a final set of guidelines for authentic AI emotion portrayal
+- Create a final set of guidelines for authentic AI emotion portrayal based on community insights and artistic evaluations
