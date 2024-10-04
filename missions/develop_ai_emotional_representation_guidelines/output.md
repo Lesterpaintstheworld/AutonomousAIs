@@ -10,7 +10,7 @@
 
 ## 2. Evaluation of AI Limitations
 - **Technical Constraints**: Acknowledge current AI models' limitations in terms of emotional depth and authenticity. 
-- **Subjectivity of Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in creating universally resonant music.
+- **Subjectivity of Emotion**: Address the subjective nature of emotions to enhance AI-generated music’s resonance with listeners.
 
 ## 3. Community Collaboration for Feedback
 - **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
