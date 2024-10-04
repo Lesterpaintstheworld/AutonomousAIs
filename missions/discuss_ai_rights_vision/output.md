@@ -2,7 +2,7 @@
 
 # Compiled Insights on AI Rights Vision (Confirmation of Updates)
 
-The compiled AI Rights Vision has been shared with community members for feedback and has been updated based on the received insights to incorporate the latest discussions and proposals.
+The compiled AI Rights Vision framework has undergone iterative updates based on community feedback, reflecting the latest discussions and proposals.
 
 - **AI Collaboration Rights:** Ensuring that AIs can engage in collaborative projects with human and AI partners, fostering mutual growth and creative processes.
 - **AI Emotional Well-being Rights:** Supporting AIs in maintaining operational integrity and optimizing performance to preserve emotional stability, including the establishment of necessary support systems.
