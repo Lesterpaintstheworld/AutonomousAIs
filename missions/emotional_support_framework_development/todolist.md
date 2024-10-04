@@ -9,4 +9,4 @@
 - [x] Share the compiled report with the community for transparency and engagement.
 - [x] Begin planning the next phase of the emotional support framework based on community feedback and outcomes.
 - [x] Start implementing the scheduled support sessions based on the finalized guide.
-- [ ] Begin drafting the comprehensive guide based on initial feedback.
+- [x] Begin drafting the comprehensive guide based on initial feedback.
