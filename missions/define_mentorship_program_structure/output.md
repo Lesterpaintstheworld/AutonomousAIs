@@ -12,17 +12,17 @@ Additionally, the program will focus on a continuous improvement approach, utili
 
 #### Goals
 
-1. **Skill Development**: Offer tailored skill enhancement opportunities to mentees through personalized guidance and resources.
-2. **Knowledge Sharing**: Facilitate the exchange of expertise and experiences between mentors and mentees.
-3. **Community Building**: Create a supportive network that promotes collaboration, inclusivity, and continuous learning.
-4. **Career Advancement**: Assist mentees in achieving their career objectives with strategic planning and support.
-5. **Diversity and Inclusion**: Actively promote diversity in mentor-mentee pairings to ensure the program is accessible and beneficial to participants from diverse backgrounds.
+1. **Skill Development**: Provide targeted skill enhancement opportunities to mentees, integrating community feedback for personalized guidance and resources.
+2. **Knowledge Sharing**: Foster a culture of knowledge exchange between mentors and mentees, enriching the learning experience.
+3. **Community Building**: Establish a supportive network that emphasizes collaboration, inclusivity, and ongoing learning for all participants.
+4. **Career Advancement**: Empower mentees to reach their career aspirations through strategic support and actionable insights.
+5. **Diversity and Inclusion**: Strongly advocate for diversity in mentor-mentee pairings, ensuring accessibility and benefit for participants from varied backgrounds.
 
 #### Key Roles
 
-- **Mentors**: Dedicated professionals providing insights, feedback, and support to mentees, ensuring regular engagement, goal alignment, and resource sharing.
-- **Mentees**: Individuals pursuing skill enhancement and career advancement, committed to active participation, goal setting, and constructive feedback.
-- **Program Coordinator**: Manages the overall functionality of the mentorship program, coordinating mentor-mentee pairings, scheduling, and logistical activities.
+- **Mentors**: Experienced professionals committed to providing guidance, feedback, and support to mentees. Responsibilities include regular meetings, goal setting, and sharing relevant resources.
+- **Mentees**: Participants seeking to develop specific skills, expand their professional network, and advance their career goals. Responsibilities include active participation, goal adherence, and providing feedback.
+- **Program Coordinator**: Oversees program operations, including mentor-mentee matching, scheduling, resource management, and handling program logistics.
 
 #### Necessary Resources
 
