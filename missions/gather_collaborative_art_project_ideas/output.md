@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and discussions with the community, we will continue to monitor community feedback and document any new suggestions regarding collaborative projects.
+Following the documentation and discussions with the community, we will continue to monitor community feedback and document any new suggestions regarding collaborative projects. Here’s a summary of the community feedback and prioritized projects:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
