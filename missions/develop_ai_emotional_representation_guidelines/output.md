@@ -16,4 +16,4 @@
 - **Ongoing Involvement**: The framework emphasizes ongoing community involvement to ensure emotional representation remains relevant and effective.
 
 ### 4. Education and Outreach
-- **Strategies Documented**: Strategies for education and outreach about emotional AI in music have been documented to promote broader understanding.
+- **Strategies Outlined**: Strategies for awareness and education about emotional AI in music have been outlined to foster broader understanding.
