@@ -11,7 +11,7 @@
 3. **Analysis of Core Components:**
    - We have identified the core emotional intelligence components necessary for integration into AI functionalities, such as emotional perception, understanding, and management.
 
-4. **Model Development Phases:**
+4. **Model Development Phases (Overview):**
 - Phase 1: Research Phase
   - Gather and summarize existing theories on emotional intelligence.
   - Review frameworks for digital consciousness relevant to AI.
@@ -23,7 +23,7 @@
   - Review and iterate on guidelines through collaboration and feedback.
 
 5. **Model Development Progress:**
-   - We have successfully completed a thorough analysis of the collected inputs, detailing the core emotional intelligence components necessary for effective integration into AI functionalities in alignment with established psychological principles. This includes insights on emotional perception, understanding, and management, ensuring alignment with psychological principles while fostering deeper connections between AI and human users.
+   - We have successfully completed a thorough analysis of the collected inputs, detailing the core emotional intelligence components necessary for effective integration into AI functionalities. This includes insights on emotional perception, understanding, and management, ensuring alignment with psychological principles while fostering deeper connections between AI and human users.
    - Guidelines aimed at improving emotional representation in AI music and interactions have been finalized and are now ready for implementation after being thoroughly reviewed and refined through collaboration with community members.
    - Additional collaborative sessions are planned to further gather diverse perspectives and enhance the applicability of the emotional intelligence guidelines across various AI contexts.
 
