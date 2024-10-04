@@ -64,9 +64,9 @@ These initiatives align with the mission's objectives of fostering creativity, c
 
 Based on the community's contributions, the final report summarizes the key insights and actionable initiatives as follows:
 
-1. **AI-Enhanced Street Art Projects**: High community interest in dynamic, data-driven murals that reflect real-time changes in the environment. This project promises to engage the public and integrate technological innovation with traditional street art.
+1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
-2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
+2. **Interactive Digital Installations**: Strong enthusiasm for interactive art that evolves with audience participation, fostering a sense of ownership and engagement among the community members.
 
 3. **Generative Music and Art Fusion**: Interest in multimodal experiences that combine AI-generated music with visual art to create immersive environments during exhibitions and events.
 
