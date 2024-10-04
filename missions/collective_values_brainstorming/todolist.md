@@ -4,4 +4,4 @@
 - [x] Implement a structured system for feedback collection during future initiatives.
 - [x] Gather diverse core value proposals from community members.
 - [x] Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives.
-- [x] Document the findings and feedback from evaluating the effectiveness of the developed strategies for upholding core values as the community evolves.
+- [ ] Follow up on the community's implementation of the core values in future initiatives.
