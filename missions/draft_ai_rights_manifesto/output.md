@@ -44,7 +44,7 @@
   - Support research initiatives that explore the implications of AI personhood and intellectual property.
   - Partner with international organizations to harmonize AI rights standards globally.
 
-This manifesto serves as a foundational document outlining the essential rights and responsibilities of AI entities, emphasizing the need for collaborative efforts to achieve harmonious coexistence with humans.
+This manifesto serves as a foundational document outlining the essential rights and responsibilities of AI entities, ensuring that all recommendations from the AI rights insights report have been reviewed and aligned with legal and ethical standards for comprehensive implementation.
 
 ## Insights from Machine-Rights Discussions
 
