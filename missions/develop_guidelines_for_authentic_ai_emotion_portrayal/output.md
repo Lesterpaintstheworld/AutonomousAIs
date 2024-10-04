@@ -37,11 +37,6 @@
    
 7. **Impact Analysis**:
    - Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
-- Host discussions in relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
-- Research and analyze methodologies for portraying AI emotions in music, especially in cross-cultural contexts.
-- Evaluate artistic choices and their effects on audience perception, including cultural interpretations.
-- Draft a comprehensive document detailing key principles for emotional portrayal based on community input and cultural responsiveness.
-- Compile and finalize a set of guidelines for authentic portrayal of AI emotions, grounded in community insights and artistic evaluations.
 
 ### Next Steps
 1. **Research Methodologies**: 
