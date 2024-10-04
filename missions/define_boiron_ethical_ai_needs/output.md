@@ -1,6 +1,6 @@
 
 
-### Final Insights and Lessons Learned
+## Final Insights and Lessons Learned
 
 ## Key Highlights and Lessons Learned
 The ethical AI report has been finalized and includes key insights and lessons learned from the entire process. These insights reflect the contributions of ethical AI recommendations and their importance within Boiron's ethical framework, with updates made to enhance both clarity and structure.
