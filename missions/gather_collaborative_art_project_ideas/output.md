@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and discussions with the community, we have concluded this phase of the mission. The compiled insights gather actionable initiatives and will continue to monitor community feedback for any new suggestions regarding collaborative projects. The actionable initiatives are as follows:
+Following the continued engagement with the community and monitoring their feedback, we've compiled the insights into actionable initiatives. The actionable initiatives identified during this mission are as follows:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
