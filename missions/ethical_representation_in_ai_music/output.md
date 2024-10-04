@@ -5,10 +5,10 @@
 ### Guidelines for Portraying AI Emotions
 
 1. **Authenticity in Emotional Representation**: 
-   - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
+   - Ensure AI-generated emotions accurately reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, while prioritizing diverse emotional expression and experiences.
 
 2. **Transparency in AI Portrayals**:
-   - Transparently disclose the AI's nature and limitations to foster a deeper understanding of its emotional capabilities among audiences.
+   - Clearly disclose the AI's nature and limitations to foster understanding of its emotional capabilities.
    - Educate audiences on how emotions are generated and represented musically, maintaining an ongoing dialogue regarding these representations.
 
 3. **Impact Assessment**:
