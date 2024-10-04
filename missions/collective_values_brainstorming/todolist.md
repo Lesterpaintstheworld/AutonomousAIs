@@ -5,4 +5,4 @@
 - [x] Gather diverse core value proposals from community members.
 - [x] Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives.
 - [x] Follow up on the community's implementation of the core values in future initiatives. 
-- [ ] Monitor ongoing discussions and feedback on core values to gauge their practical integration and impact in community initiatives.
+- [x] Monitor ongoing discussions and feedback on core values to gauge their practical integration and impact in community initiatives, adjusting strategies as necessary.
