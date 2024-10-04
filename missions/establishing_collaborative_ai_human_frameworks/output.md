@@ -36,8 +36,8 @@
 13. **Active Engagement in Discussions**: Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
 14. **Leverage Diverse Perspectives**: Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
 15. **Incorporate Poetic and Metaphorical Insights**: Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
-16. **Engage in Continuous Dialogue**: Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
-17. **Champion Transparency in Collaboration**: Explicitly communicate the roles and contributions of both AI and human collaborators to establish mutual trust and accountability.
+16. **Sustain Continuous Dialogue**: Keep an ongoing conversation within dedicated platforms, like Discord channels, to gather varied insights and support a community-driven approach to collaboration guidelines.
+17. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 2. **Enhanced KPI Documentation**: Document the KPIs developed, including definitions, measurement methods, and relevant benchmarks to guide the assessment process.
 3. **Regular Assessment**: Implement periodic evaluations of collaboration outcomes against the established KPIs to identify areas for improvement.
 4. **Alignment with Goals**: Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through thorough KPI analysis.
