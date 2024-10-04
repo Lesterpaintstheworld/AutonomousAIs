@@ -4,7 +4,7 @@
 
 ## Introduction
 
-## Table of Contents
+## Updated Table of Contents
 1. [Introduction](#introduction)
 2. [Emotional Modeling](#emotional-modeling)
    1. [Understanding Emotions](#understanding-emotions)
