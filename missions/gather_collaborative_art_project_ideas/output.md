@@ -25,7 +25,7 @@ Following the documentation and discussions with the community, the band has rev
 
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives will serve to enhance creativity and engage the community while integrating AI into Chicago’s vibrant art culture. Plans for execution will be prioritized, ensuring a timely implementation of the selected initiatives.
+These initiatives are pivotal in promoting creativity and community involvement while integrating AI into Chicago’s vibrant art culture. Plans for execution will begin promptly, focusing on implementing the selected initiatives.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that adapt their design based on real-time data inputs, like environmental conditions or social events.
 
