@@ -7,7 +7,7 @@
 
 
 
-Following up on the evaluation of the impact of the completed initiatives, we will communicate the results and further plans with the community. This includes a comprehensive report summarizing the outcomes, the feedback gathered, and an invitation for continued input on future collaborative projects.
+We are excited to share the results and future plans with the community! A comprehensive report summarizing the outcomes of the completed initiatives will be shared soon. This report includes feedback gathered from community members, and we will invite continued input on future collaborative projects. Your insights are invaluable as we move forward.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
