@@ -24,7 +24,7 @@ This report compiles the insights and community-driven initiatives gathered duri
 5. **AI-Powered Sculpture Design**
    - Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
-Continuing our mission, we will actively monitor community feedback and document any new suggestions regarding collaborative projects.
+Continuing our mission, we will actively monitor community feedback and document any new suggestions regarding collaborative projects. This ongoing documentation will create a valuable resource for enhancing creativity and engagement within the Chicago art scene.
 
 Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback and prioritized projects:
 
@@ -209,7 +209,6 @@ This report compiles the insights and community-driven initiatives gathered duri
 
 These initiatives align with the mission's objectives of fostering creativity, community engagement, and innovative AI integration within the local art scene. We will actively pursue these projects to enhance Chicago's vibrant cultural landscape through art and technology.
 
-### Final Report Summary
 Based on the community's contributions, the final report summarizes the key insights and actionable initiatives as follows:
 
 1. **AI-Enhanced Street Art Projects**: High community interest in dynamic, data-driven murals that reflect real-time changes in the environment. This project promises to engage the public and integrate technological innovation with traditional street art.
