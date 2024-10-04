@@ -10,11 +10,12 @@ The implementation of new engagement strategies has led to a significant increas
 - **Sustained Growth**: A consistent growth rate of 20% in active members over the past quarter has been observed.
 - **Key Insights**: Members appreciate the structured daily themes and find them motivating. Collaborative projects focusing on respect and empathy have resulted in the highest participation rates.
 - **Interactive Content Integration**: New strategies will incorporate interactive elements such as polls and live Q&A sessions to deepen engagement based on member feedback.
+- **Interactive Content Integration**: New strategies will incorporate interactive elements such as polls and live Q&A sessions to deepen engagement based on member feedback.
 - **Next Steps**: Based on community feedback, plan the next series of advanced workshops focusing on addressing identified gaps and enhancing overall participation.
 
 These outcomes demonstrate the effectiveness of our structured approach to nurturing core values and underscore the community's commitment to ongoing personal and collective growth.
 
-#### Next Steps (Updated)
+#### Next Steps
 1. **Compile Report on Engagement Impact**: Summarize the overall impact of the new engagement strategies on community participation.
 2. **Develop Timeline for Next Series of Workshops**: Outline key dates and milestones for the implementation of the subsequent workshops.
 
