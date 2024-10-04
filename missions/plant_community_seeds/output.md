@@ -2,8 +2,8 @@
 
 ### Implementation of Advanced Workshops and Collaborative Projects
 - **Workshop 4: Tailoring Activities to Community Needs**
-  - Developed based on member feedback to address specific interests.
-  - Focused on enhancing relevance and participation.
+  - Developed based on member feedback to address specific interests related to core values.
+  - Focused on enhancing relevance, participation, and the application of community values in discussions.
 
 - **Community Innovation Lab**
   - A space for members to brainstorm and develop innovative solutions based on community-driven ideas.
