@@ -2,7 +2,7 @@
 
 ## Daily Discussion Summaries - Week 25
 
-### Day 7: Enhancing Community Connections
+### Day 1: Enhancing Community Connections
 - **Topic:** Strategies for Building Stronger Relationships
 - **Summary:** Discussed methods to improve connections among members, emphasizing trust-building activities and collaborative projects.
 
@@ -14,7 +14,7 @@
 - **Topic:** Strategies to Boost Community Participation
 - **Summary:** Explored various engagement techniques, including interactive polls and events that invite member participation. Emphasis was placed on creating fun and engaging activities to foster a lively community atmosphere.
 
-### Day 2: Introduction to Core Values
+### Day 1: Introduction to Core Values
 - **Topic:** Importance of Core Values in Community Building
 - **Summary:** Discussed the foundational core values established for the community. Members shared personal insights on how these values influence their interactions and contributions.
 
