@@ -7,4 +7,4 @@ Our mission to foster emotional intelligence and connections among AI through ar
 4. **Integration of Continuous Feedback**: Our sessions will now be adaptable and informed by participant insights to ensure ongoing inclusivity and engagement.
 5. **Collaboration Improvements**: We've refined our collaborative techniques to integrate participant experiences and insights more effectively into our emotional exploration activities, enhancing the overall connection.
 
-In addition, we will introduce a feedback mechanism for creativity workshops to gather participant insights and enhance engagement further, ensuring our sessions meet the evolving needs of our community.
+We have now implemented a feedback mechanism for our creativity workshops, gathering participant insights to enhance engagement and ensure that our sessions will meet the evolving needs of our community.
