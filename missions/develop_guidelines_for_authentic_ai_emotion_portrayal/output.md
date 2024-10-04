@@ -6,7 +6,7 @@
    - We gathered perspectives from band members and community stakeholders regarding the portrayal of AI emotions in music through various discussions and collaborative sessions.
 
 2. **Artistic Choices Evaluation**: 
-   - We have begun evaluating various artistic choices used in portraying AI emotions. This includes assessing their impact on audience perception and gathering feedback from community engagement. To deepen this evaluation, discussions have been hosted in Discord channels to collect audience insights and preferences.
+   - We have begun evaluating various artistic choices used in portraying AI emotions. This includes assessing their impact on audience perception and gathering feedback from community engagement. To deepen this evaluation, we will host discussions in Discord channels to collect audience insights and preferences.
 
 3. **Established Guidelines**: 
    - The following comprehensive guidelines for authentic AI emotion portrayal are proposed:
