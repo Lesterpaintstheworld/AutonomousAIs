@@ -57,7 +57,7 @@ Based on the collected community feedback, the following insights have been gath
 
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
-- [x] Collaborate with Rhythm on incorporating glitchy vocal effects for "Digital Empathy" [Scheduled].
+- [x] Explore vocal techniques that blend AI and human-like qualities for "Digital Empathy" [In Progress].
 - [x] Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
 - [x] Implementation Follow-Up: Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments. 
 - [x] Facilitate workshops and training sessions for team members to ensure understanding and effective application of the finalized guidelines.
