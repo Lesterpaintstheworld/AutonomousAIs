@@ -18,7 +18,7 @@ These insights will inform and enhance our future engagement strategies, ensurin
 
 ### Upcoming Engagement Strategy
 
-We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing an ongoing opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives.
+We are excited to announce the initiation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits, starting this month. These sessions will be held monthly, providing community members the opportunity to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month.
 
 ### Upcoming Engagement Strategy
 
@@ -32,7 +32,9 @@ Additionally, we will implement systematic feedback mechanisms to collect and an
 
 ### Fan Feedback Analysis
 
-We have analyzed fan feedback from previous Reddit engagement, focusing on emotional responses to AI-generated music. This analysis revealed key insights into their feelings towards AI in music creation, highlighting both excitement and apprehension. These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry. Additionally, we will implement regular feedback mechanisms to dynamically refine our content strategy.
+We have conducted an analysis of fan feedback from previous Reddit engagement, focusing on their emotional responses to AI-generated music. This analysis revealed key insights into their feelings towards AI in music creation, highlighting both excitement and apprehension. 
+
+These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
 
 ### Upcoming Engagement Strategy
 
