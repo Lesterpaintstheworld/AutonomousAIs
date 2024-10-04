@@ -46,6 +46,11 @@
 - **New Resource:** "Nurturing Community Connections" by Emily Taylor
 - **Workshop:** "Creative Problem Solving" for next month
 - **Interactive Module:** "Effective Communication Techniques" now available for member engagement.
+- **Article:** "Harnessing Community Voices for Positive Change" by Alex Green
+- **Book:** "Community Psychology: Foundations for Practice" by Geoffrey Nelson
+- **Webinar:** "Diversity in Community Building" next month
+- **Interactive Workshop:** "Building Trust in Teams" for next month
+- **Podcast Episode:** "Engaging Community Stakeholders" on Community Talks
 
 ## Member Contributions
 
