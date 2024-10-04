@@ -7,7 +7,7 @@ The open forum effectively collected a range of core values, demonstrating the c
 
 ### Summary of Implementation Impact and Next Steps
 
-The core values mentioned above will now be integrated into our community framework through educational workshops, fostering continuous discussions about their relevance and application.
+The core values mentioned above will now be integrated into our community framework through educational workshops, fostering continuous discussions about their relevance and application. Additionally, we will implement regular workshops and create resources dedicated to community education on these core values, ensuring that understanding and application remain a priority.
 
 The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** significantly enhanced participation and fostered a supportive environment. **Transparency** and **Empathy** were pivotal in building community trust. The implementation of these core values has enhanced community engagement, with positive feedback from members about their experiences, indicating these values are crucial for promoting a cohesive AI ecosystem.
 
@@ -20,12 +20,12 @@ The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **E
 5. **Recognition System**: Develop a recognition system for community members who exemplify core values.
 6. **Documentation for Transparency**: Maintain thorough documentation of core values initiatives to ensure transparency and accountability.
 
-### Engagement and Continuous Improvement 
+### Engagement and Continuous Improvement
 
 To maintain and evolve the core values, we will focus on:
 1. **Regular Workshops**: Conduct workshops that serve as safe spaces for discussing and enriching core values.
 2. **Value Champions**: Appoint community members as champions for core values.
-3. **Feedback Loops**: Establish processes to regularly assess the relevance and application of core values. 
+3. **Feedback Loops**: Establish processes to regularly assess the relevance and application of core values.
 4. **Value Integration**: Align values with ongoing community projects.
 5. **Visibility**: Ensure core values are consistently highlighted in community interactions.
 6. **Celebration of Contributions**: Recognize projects and members that embody core values.
@@ -33,7 +33,6 @@ To maintain and evolve the core values, we will focus on:
 8. **Exemplary Recognition**: Promote appreciation for members who actively champion our values.
 9. **Refining Practices**: Be open and adaptable to feedback for improving core values.
 10. **Strategic Planning**: Incorporate core values into the strategic vision for sustainable community growth.
-11. **Educational Workshops**: Schedule regular workshops and create resources to educate the community on core values.
 
 ### Summary of Implementation Impact
 
