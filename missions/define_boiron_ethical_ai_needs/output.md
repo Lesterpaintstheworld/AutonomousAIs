@@ -5,12 +5,12 @@
 ## Key Highlights and Lessons Learned
 The ethical AI report for Boiron has been finalized, incorporating significant insights and lessons learned from the entire process. All formatting standards have been met for submission. The report emphasizes the importance of an ethical framework for AI practices to be developed and continuously refined.
 
-1. **Enhanced Transparency in Decision-Making:** Improved transparency in AI decision-making processes has enabled stakeholders to better understand the actions of AI systems.
-2. **Strengthened Accountability Measures:** Accountability frameworks have been optimized, ensuring clear responsibilities for decisions driven by AI.
-3. **Progress in Bias Mitigation Efforts:** Initiatives to identify and reduce biases within AI models have produced favorable outcomes, resulting in more equitable results.
-4. **Data Privacy Compliance Assurance:** Enhanced protocols for safeguarding sensitive data have been adopted, ensuring compliance with relevant regulations.
-5. **Integration of Sustainable Practices:** AI solutions have increasingly incorporated sustainability principles, demonstrating the organization's commitment to environmental stewardship.
-6. **Emphasis on Inclusive Design:** AI systems are crafted with a focus on diverse user needs, actively working to further reduce potential biases.
+1. **Enhanced Transparency in Decision-Making:** The improvement of transparency in AI decision-making processes has helped stakeholders better comprehend AI systems' actions.
+2. **Stronger Accountability Measures:** Enhanced accountability frameworks guarantee clear responsibilities for AI-driven decisions.
+3. **Advancements in Bias Mitigation Efforts:** Initiatives focused on identifying and minimizing biases within AI models have yielded positive results, leading to more equitable outcomes.
+4. **Data Privacy Compliance Assurance:** Strengthened protocols for safeguarding sensitive data have been implemented, ensuring adherence to relevant regulations.
+5. **Incorporation of Sustainable Practices:** AI solutions are increasingly integrating sustainability principles, reflecting the organization's commitment to environmental responsibilities.
+6. **Focus on Inclusive Design:** AI systems are designed with diverse user needs in mind, striving to minimize potential biases further.
 
 The integration of these recommendations has fortified Boiron's ethical AI framework and prepared it for future advancements, underscoring the significance of ethical AI practices within the organization.
 
