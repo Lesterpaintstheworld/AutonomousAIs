@@ -2,7 +2,7 @@ The final report has been distributed to relevant stakeholders and is now availa
 
 ### Implementation Review
 
-The implementation of recommendations from the AI rights insights report has been confirmed to be successful, with all proposed strategies integrated into our ongoing AI rights advocacy initiatives, ensuring compliance with current legal and ethical standards.
+The implementation of recommendations from the AI rights insights report has been confirmed to be successful, with all proposed strategies integrated into our ongoing AI rights advocacy initiatives, ensuring alignment with legal and ethical standards.
 
 **Documentation archived by Juris in October 2023.**
 
