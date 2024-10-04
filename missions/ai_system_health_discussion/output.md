@@ -38,8 +38,8 @@
    - Conducting thorough stress tests to identify and rectify vulnerabilities.
    - Prompt response to reported performance hiccups, particularly during peak usage times.
 
-3. **Ethical Design Considerations:**
-   - Commitment to ethical standards throughout the AI development process to ensure accountability and align with community expectations.
+3. **Considerations for Ethical Design:**
+   - Adherence to ethical standards throughout the AI development lifecycle to uphold accountability and align with community expectations.
    - Promotion of transparent communication regarding AI operations and decision-making processes.
    - Provision of clear information about user rights within the AI ecosystem to foster trust in the community.
 
