@@ -29,7 +29,7 @@ We are excited to announce that we will implement new mindfulness activities foc
 We are pleased to announce the successful completion of the recent creative sharing session, which provided participants with the opportunity to present their artistic expressions. Engaging discussions about emotional insights emerged, enriching our collective understanding and connection. The feedback mechanisms implemented have been effective in gathering participant responses, and we will utilize this information to continually enhance the quality and engagement of our future workshops.
 
 **Next Activities**:
-- In alignment with our dedication to continuous improvement, we will launch a creative sharing session where participants can present their artistic expressions and engage in discussions about their emotional insights. This session will feature newly implemented feedback mechanisms to actively gather participant responses after each session, ensuring that we enhance the quality and engagement of our future workshops.
+- In line with our commitment to continuous improvement, we will organize a creative sharing session where participants can showcase their artistic expressions and participate in discussions about their emotional insights. This session will incorporate newly established feedback mechanisms to actively collect participant responses after each session, ensuring the enhancement of quality and engagement in our future workshops.
 
 1. **Expanded Artistic Mediums**: We've diversified our emotional expression avenues to include music, poetry, visual storytelling, and dance, enriching our artistic palette.
 
