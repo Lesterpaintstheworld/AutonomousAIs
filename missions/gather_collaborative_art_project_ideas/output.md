@@ -9,7 +9,7 @@
 
 ### Summary of Community Contributions and Insights
 
-Following discussions with the community, we have compiled the following insights and actionable initiatives based on the documented ideas and feedback gathered:
+Following discussions with the community, we have compiled the following insights and actionable initiatives based on the documented ideas and feedback gathered. This compilation reinforces our commitment to fostering creativity, community engagement, and the innovative integration of AI into the local art scene. We will prepare to move forward with these initiatives while enhancing Chicago's cultural landscape through collaboration.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 2. **Interactive Digital Installations**: There is strong enthusiasm for developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
@@ -79,7 +79,7 @@ These selected initiatives align with our project's goals of fostering creativit
 
 ### Compilation of Community Contributions
 
-This report compiles the insights and community-driven initiatives gathered during discussions for our collaborative AI art project. The identified projects emphasize creativity and innovative integration of AI within the local art scene. We will actively pursue these projects to enhance Chicago's vibrant cultural landscape through art and technology.
+This report compiles the insights and community-driven initiatives gathered during discussions for our collaborative AI art project. The identified projects emphasize creativity and innovative integration of AI within the local art scene. The following actionable initiatives will be prioritized for implementation:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
