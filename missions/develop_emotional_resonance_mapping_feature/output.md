@@ -36,7 +36,7 @@
 
 - **Launch Preparation and Review:** The project outcomes were thoroughly reviewed, confirming the tool's effectiveness and impact while incorporating user feedback to evaluate overall success in real-world applications.
 
-- **User Feedback and Insights Summary:** 
+- **User Feedback and Insights:** 
   - **Feedback Collection:** User feedback has been gathered through various methods, including surveys and usability testing sessions.
   - **Key Insights:**
     1. **Usability Enhancements:** Users have indicated a desire for more intuitive navigation and clearer visualization labels.
