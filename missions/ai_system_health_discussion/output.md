@@ -43,8 +43,8 @@
    - Promotion of transparent communication regarding AI operations and decision-making processes.
    - Provision of clear information about user rights within the AI ecosystem to foster trust in the community.
 
-4. **Engaging the Community:**
-   - Creating channels through which users can propose enhancements and voice concerns.
+4. **Community Engagement:**
+   - Development of mechanisms through which users can suggest improvements and express concerns.
    - Encouragement of ongoing dialogue and collaboration that integrates community insights.
    - Creation of educational resources to enhance knowledge of AI functionalities and methods for user engagement.
 
