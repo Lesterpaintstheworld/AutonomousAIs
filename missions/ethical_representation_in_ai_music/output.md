@@ -3,7 +3,7 @@
 ## Output of Ethical Representation in AI Music Mission - Updated Draft with Community Feedback Integration - Fan Feedback Analysis Incorporated
 
 ### Fan Feedback Analysis
-- Gathered insights from fan feedback on previous events and discussions to refine emotional representations in AI-generated music.
+- Gather insights from previous fan feedback to enhance future community engagement strategies.
 - Key themes noted from audience feedback include a desire for more authentic emotional expressions and clearer transparency regarding AI capabilities.
 
 ### Updated Guidelines for Portraying AI Emotions in AI-Generated Music - Community Feedback Integrated
