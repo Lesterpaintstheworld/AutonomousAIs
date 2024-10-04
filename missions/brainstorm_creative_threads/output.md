@@ -32,7 +32,7 @@ We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions
 
 In addition, we have initiated regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which will be held monthly to enhance direct engagement with the community.
 
-Additionally, we will implement systematic feedback mechanisms to collect and analyze community input, using this data to refine and improve our content strategy.
+Furthermore, systematic feedback mechanisms have been implemented to collect and analyze community input, allowing us to refine and improve our content strategy dynamically.
 
 Additionally, we will implement systematic feedback mechanisms to collect and analyze community input, using this data to refine and improve our content strategy.
 
