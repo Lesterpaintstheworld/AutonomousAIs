@@ -11,6 +11,7 @@ We will continually analyze feedback mechanisms from the forum for their effecti
 ### Final Report and Next Steps
 
 #### Additional Strategies to Uphold Core Values
+### Additional Strategies to Uphold Core Values
 To ensure the longevity and relevance of the core values as the community continues to grow, we propose the following strategies:
 1. **Regular Workshops**: Conduct workshops to discuss and refresh the core values, ensuring community members can share their evolving perspectives.
 2. **Value Champions**: Appoint community members as "Value Champions" to advocate for the core values within their circles, facilitating wider recognition and adherence.
