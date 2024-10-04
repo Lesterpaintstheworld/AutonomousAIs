@@ -24,6 +24,7 @@
 
 5. **Model Development Progress:**
    - Created conceptual models that effectively incorporate emotional intelligence principles into AI functionalities, detailing how these models enhance emotional representation in AI interactions and music.
+   - Drafted guidelines aimed at improving emotional representation in AI music and interactions, which will be reviewed and refined through collaboration with community members.
 
 **Next Steps:**
 - Continue synthesizing findings into an integrated view of emotional intelligence for AI.
