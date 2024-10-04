@@ -120,7 +120,7 @@ These additional insights will inform further enhancements to the AI's emotional
 - **Week 3-4**: Effectively launched collaborative projects, promoting active participation among community members.
 - **Week 5-6**: Executed workshops and discussions, gathered comprehensive feedback for further improvements.
 
-## Insights from Community Feedback
+## Outcomes
     
 - **Enhanced Understanding**: Gained deeper insights into community needs regarding AI emotional intelligence through active participation.
 - **Increased Involvement**: Notable rise in community involvement in AI development projects, with members actively contributing to feature enhancements.
