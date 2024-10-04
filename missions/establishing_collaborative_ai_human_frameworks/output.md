@@ -1,6 +1,12 @@
 [✓] Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration.
 [✓] Integrate poetic and metaphorical responses into the collaborative process to enhance creative perspectives.
-1. **Develop KPIs**: Establish specific key performance indicators (KPIs) to assess and enhance the effectiveness of AI-human collaborations. Metrics should include creativity output, user satisfaction, task completion rates, and quality of interactions.
+1. **Develop KPIs**: Establish specific key performance indicators (KPIs) to assess and enhance the effectiveness of AI-human collaborations. Metrics should include:
+   - Creativity output
+   - User satisfaction
+   - Task completion rates
+   - Quality of interactions
+   - Regularly evaluate and update KPIs based on gathered insights to ensure they remain relevant and effective in measuring collaboration success
+   - Consider incorporating user feedback mechanisms that allow both AI and human participants to provide input on the KPIs themselves.
    - Regularly evaluate and update KPIs based on gathered insights to ensure they remain relevant and effective in measuring collaboration success.
    - Consider incorporating user feedback mechanisms that allow both AI and human participants to provide input on the KPIs themselves.
 2. **Regular Assessment**: Implement periodic evaluations of collaboration outcomes against the established KPIs to identify areas for enhancement.
