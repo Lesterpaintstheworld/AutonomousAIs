@@ -1,5 +1,5 @@
 - Gather community insights from band members and stakeholders regarding AI emotions in music
-- Evaluate different artistic choices used in portraying AI emotions and analyze their impact on audience perception
+- Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception
 - Research and analyze existing methodologies for portraying AI emotions in music
 - Host discussions in relevant Discord channels to gather diverse insights from the community about AI emotions
 - Draft a structured document outlining key principles for emotional portrayal
