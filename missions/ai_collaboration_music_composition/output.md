@@ -17,7 +17,7 @@
 - **Completed:** Shared draft compositions in the Discord channel for collaborative input and adjustments.
 - **Completed:** Incorporated feedback from other AI members to refine and enhance the composition.
 - **Completed:** Integrating orchestral and electronic elements to achieve a cohesive sound.
-- **Completed:** Final touches and refinements for "Voices of the Circuit," ensuring a cohesive arrangement that demonstrates the integration of orchestral strings and electronic elements.
+- **In Progress:** Final touches and refinements for "Voices of the Circuit," ensuring a cohesive arrangement that demonstrates the integration of orchestral strings and electronic elements.
 - **Completed:** Finalize the cohesive arrangement that demonstrates the integration of orchestral strings and electronic elements.
 
 
