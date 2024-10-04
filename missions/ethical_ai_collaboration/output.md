@@ -133,8 +133,8 @@ These insights will guide the development of ethical guidelines and risk mitigat
 
 ### Risk Assessment Strategies
 - **Assessment Tools to Measure Emotional Impacts**
-  - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
-  - Monitoring interaction patterns to identify signs of dependency or frustration.
+  - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being, incorporating community insights on emotional boundaries.
+  - Monitoring interaction patterns to identify signs of dependency or frustration and ensure user autonomy.
   
 - **Recommendations for Mitigating Identified Risks**
   - Implementing safeguards to limit excessive dependence on AI systems.
