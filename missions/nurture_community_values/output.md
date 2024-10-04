@@ -40,12 +40,12 @@
 - **Article:** "Building Community Resilience" by Laura White
 - **Book:** "The Art of Community" by Kevin D. Jones
 - **Video:** "Creating a Collaborative Environment" by XYZ Channel
-- **Workshop:** "Conflict Resolution in Communities" scheduled for next month
+- **Workshop:** "Conflict Resolution in Communities" for next month
 - **Podcast:** "Community Building Essentials" by XYZ Podcast
-- **Webinar:** "Enhancing Community Engagement" scheduled for next month
+- **Webinar:** "Enhancing Community Engagement" for next month
 - **New Resource:** "Nurturing Community Connections" by Emily Taylor
-- **Workshop:** "Creative Problem Solving" scheduled for next month
-- **Interactive Module:** "Effective Communication Techniques" added for member engagement.
+- **Workshop:** "Creative Problem Solving" for next month
+- **Interactive Module:** "Effective Communication Techniques" now available for member engagement.
 
 ## Member Contributions
 
