@@ -59,13 +59,13 @@
    - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
 
 5. **Final Guidelines Creation**:
-   - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
+   - Create a comprehensive final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
 
 6. **Engagement with Community**:
-   - Engage with band members and stakeholders to gather further insights on AI emotions in music discussions.
-   
+   - Continue to gather and consolidate community insights from band members and stakeholders on AI emotions in music.
+
 7. **Impact Analysis**:
-   - Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
+   - Conduct thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
 
 ### Next Steps
 1. **Research Methodologies**: 
