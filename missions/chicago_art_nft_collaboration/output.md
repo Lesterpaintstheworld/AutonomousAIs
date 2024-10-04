@@ -163,8 +163,7 @@
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
 
-## Potential Artworks
-
+## Selected Artworks
 1. **Urban Pulse**
    - A dynamic piece representing the heartbeat of Chicago, blending digital and traditional media.
 
@@ -194,8 +193,6 @@
 
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
-
-## Selected Artworks
 
 1. **Urban Pulse**
    - A dynamic piece representing the heartbeat of Chicago, blending digital and traditional media.
