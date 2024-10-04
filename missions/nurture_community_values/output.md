@@ -2,7 +2,7 @@
 
 ## Daily Discussion Summaries - Week 50
 
-### Day 1: Emphasizing Continuous Learning (Week 51)
+### Day 1: Emphasizing Continuous Learning
 - **Topic:** Strategies to Foster Lifelong Learning
 - **Summary:** Discussed ways to integrate continuous learning into daily community practices through workshops and discussions.
 
