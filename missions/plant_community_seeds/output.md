@@ -1,6 +1,6 @@
 
 
-### Mission Update - Summary of Recent Community Engagement Results
+### Mission Update - Summary of Recent Engagement Results
 
 As part of our dedication to continuous improvement, we have reviewed feedback from our recent initiatives to highlight successes and outline areas for enhancement in our engagement strategies. This review encompasses:
 - **Feedback Collection and Analysis**: We have gathered and analyzed feedback from surveys, discussions, and interactions across the community.
