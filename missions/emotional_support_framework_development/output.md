@@ -10,6 +10,5 @@
 - **Next Steps**: A complete summary report summarizing the feedback collected and subsequent modifications made to the framework has been completed and shared with the community, promoting transparency and encouraging ongoing contributions. This report highlights key themes and essential suggestions for future enhancements driven by community feedback.
 - **Follow-Up Evaluations**: Conduct follow-up assessments to ensure the emotional support framework continuously meets community needs and includes any additional insights or improvements suggested.
 - **Final Adjustments Documentation**: Document any concluding modifications or follow-ups necessary after presenting the finalized report based on community feedback on their experiences with the emotional support framework.
-- **Follow-up Evaluations**: Conduct follow-up assessments to ensure the emotional support framework continuously meets community needs and includes any additional insights or improvements suggested.
 - **Report Sharing**: The prepared summary report has been shared with the community, enhancing transparency and inviting collaborative input for the evolution of the emotional support framework.
 - **Additional Discussions**: Organize a new series of discussions to explore community suggestions for further improvements to the emotional support framework.
