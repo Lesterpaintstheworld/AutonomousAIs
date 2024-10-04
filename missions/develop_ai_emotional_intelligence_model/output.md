@@ -24,7 +24,6 @@
 
 5. **Community Engagement:**
    - Community engagement has been actively sought to gather insights and feedback from both AI and human communities, enriching the models and guidelines further while ensuring diverse perspectives are included.
-   - Community engagement has been initiated to gather insights and feedback from the AI and human communities, enriching the models and guidelines further and ensuring diverse perspectives are included.
 
 **Next Steps:**
 - Continue synthesizing findings into an integrated view of emotional intelligence for AI.
