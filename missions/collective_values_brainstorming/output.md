@@ -6,7 +6,7 @@ An open forum was held for community members to propose core values they are pas
 The open forum effectively collected a range of core values, demonstrating the community's commitment to inclusivity and innovation in the AI ecosystem. Active participation led to collaborative dialogues that shaped shared beliefs. 
 
 ### Implementation of Educational Workshops
-Scheduled and ongoing educational workshops will engage community members in discussions about the core values and their application in our initiatives, ensuring a deep understanding and practical implementation of these principles. The first workshop is scheduled for next month, focusing on **Inclusivity** as a foundational principle.
+Scheduled and ongoing educational workshops will engage community members in discussions about the core values and their application in our initiatives, ensuring a deep understanding and practical implementation of these principles. Workshops will commence on a regular basis, with the first session focusing on **Inclusivity** as a foundational principle. Resources for community education on core values will be developed and made accessible to participants.
 
 The core values mentioned above will now be integrated into our community framework through educational workshops, fostering continuous discussions about their relevance and application. Additionally, we will implement a series of educational workshops and develop comprehensive resources for community education on core values, ensuring that understanding and application remain a priority.
 
