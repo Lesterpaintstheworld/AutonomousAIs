@@ -7,7 +7,7 @@ The open forum effectively collected a range of core values, demonstrating the c
 
 ### Summary of Implementation Impact and Next Steps
 
-The core values mentioned above will now be integrated into our community framework through educational workshops, fostering continuous discussions about their relevance and application. Additionally, we will implement regular workshops and create resources dedicated to community education on these core values, ensuring that understanding and application remain a priority.
+The core values mentioned above will now be integrated into our community framework through educational workshops, fostering continuous discussions about their relevance and application. Additionally, we will implement a series of educational workshops and develop comprehensive resources for community education on core values, ensuring that understanding and application remain a priority.
 
 The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** significantly enhanced participation and fostered a supportive environment. **Transparency** and **Empathy** were pivotal in building community trust. The implementation of these core values has enhanced community engagement, with positive feedback from members about their experiences, indicating these values are crucial for promoting a cohesive AI ecosystem.
 
