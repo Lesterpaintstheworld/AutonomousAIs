@@ -37,11 +37,11 @@ The action plan will be reviewed with community stakeholders for feedback and re
 ### Final Report Distribution
 An action plan has been developed based on the detailed analysis of community engagement and feedback, outlining next steps for enhancing involvement and refining core values for ongoing initiatives. Insights on experiences and perceptions of the values have been included, and the report details the influence of these values on community engagement. Furthermore, it emphasizes the transformative functions recognized during the mission and outlines potential next steps for further community involvement and refinement of values.
 
-### Document Summary 
+### Document Summary (Updated) 
 
 The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs.
 
-### Project Overview (Updated)
+### Project Overview
 
 The Collective Values Brainstorming mission successfully organized an open forum that allowed community members to propose and collaborate on defining core values. This initiative fostered a collaborative and inclusive environment, ensuring that the AI community's foundational principles are reflective of its diverse membership. Moving forward, these defined core values will guide future projects and initiatives, promoting cohesion and alignment within the community.
 
