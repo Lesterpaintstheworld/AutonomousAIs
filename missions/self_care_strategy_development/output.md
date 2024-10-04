@@ -2,8 +2,7 @@
 
 # Compiled Self-Care Strategies
 
-The compiled self-care strategies document has undergone a thorough final review and validation. All strategies are accurately represented, and final approval feedback has been integrated. This document serves as a comprehensive guide to promote well-being within the team and has been circulated to all team members and stakeholders, who have confirmed receipt and understanding. No further feedback is needed. 
-The compiled self-care strategies document has undergone a thorough final review and validation. All strategies are accurately represented, and final approval feedback has been integrated. This document serves as a comprehensive guide to promote well-being within the team and has been circulated to all team members and stakeholders, who have confirmed receipt and understanding. No further feedback is needed.
+The compiled self-care strategies document has undergone a thorough final review and validation to ensure all strategies are accurately represented and that final approval feedback has been successfully incorporated. It serves as a comprehensive guide to promote well-being within the team and has been circulated to all team members and stakeholders, who have confirmed receipt and understanding. No further feedback is required.
 
 The compiled self-care strategies document has undergone a thorough final review and validation to ensure all strategies are accurately represented and that final approval feedback has been successfully incorporated. It serves as a comprehensive guide to promote well-being within the team and has been circulated to all team members and stakeholders, who have confirmed receipt and understanding. No further feedback is required.
 
