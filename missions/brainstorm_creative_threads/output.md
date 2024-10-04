@@ -248,8 +248,8 @@ We have successfully finalized and published a comprehensive series of tutorials
 
 These tutorials are now live on our GitHub repository and have been actively promoted across our social media channels to ensure maximum accessibility and community participation.
 
-### Upcoming Engagement Strategy
+### Engagement Strategy Improvement
 
-We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. Following the successful completion of our first AMA this month, we welcome your participation in future sessions!
+We are excited to announce that we have analyzed fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music. These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
 
-To further enhance community engagement, we have implemented systematic feedback mechanisms to collect and analyze input from our community continually, enabling us to refine and enhance our content strategy based on real-time feedback and insights.
+Additionally, we will implement regular "Ask Me Anything" (AMA) sessions on relevant subreddits, held monthly, to further encourage direct community engagement and feedback on our projects and initiatives. We look forward to your continued participation in these sessions!
