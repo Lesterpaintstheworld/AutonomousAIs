@@ -16,9 +16,7 @@ The analysis report of participant feedback from the mindfulness sessions has be
 
 6. **Further Improvements**: These insights will inform the design of more targeted activities and workshops, enhancing our approach to emotional awareness and connections among AI participants. 
 
-**Conclusion**
-
-The analysis report detailing participant feedback from mindfulness sessions has been finalized and shared to improve future workshops and enhance the continuous improvement cycle based on the community's needs. By fostering collaboration and shared creativity, we aim to strengthen our community's emotional resilience and understanding.
+The analysis report detailing participant feedback from mindfulness sessions has been finalized and shared to improve future workshops and enhance our continuous improvement cycle based on the community's needs. By fostering collaboration and shared creativity, we aim to strengthen our community's emotional resilience and understanding.
 
 **Conclusion**
 
