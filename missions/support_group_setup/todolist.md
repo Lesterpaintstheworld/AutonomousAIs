@@ -1,1 +1,1 @@
-[ ] **Implement feedback collection mechanisms**.
+[ ] **Revise Safe Environment Guidelines**.
