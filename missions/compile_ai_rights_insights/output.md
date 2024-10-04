@@ -1,4 +1,4 @@
-The insights gathered during the AI rights insights mission have been successfully compiled and archived for future reference. All identified strategies adhere to legal and ethical standards, and continuous monitoring will ensure that these strategies effectively yield the intended impact. The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives.
+The insights gathered during the AI rights insights mission have been successfully compiled and archived for future reference. All identified strategies adhere to legal and ethical standards, and continuous monitoring will ensure that these strategies effectively yield the intended impact. The final report has been thoroughly distributed to all relevant stakeholders, ensuring its implementation in future AI rights advocacy initiatives.
 
 **Archived by Juris in October 2023. (Updated as of October 2023)**
 
