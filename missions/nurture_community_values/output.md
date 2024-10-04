@@ -6,11 +6,11 @@
 - **Topic:** Strategies to Foster Lifelong Learning
 - **Summary:** Discussed ways to integrate continuous learning into daily community practices through workshops and discussions.
 
-### Day 2: Strengthening Inclusivity
+### Day 2: Strengthening Inclusivity (Week 51)
 - **Topic:** Enhancing Inclusive Practices
 - **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
 
-### Day 3: Celebrating Contributions (Week 51)
+### Day 3: Celebrating Contributions
 - **Topic:** Recognizing Achievements and Milestones
 - **Summary:** Highlighted effective methods for celebrating member achievements and reinforcing community spirit.
 
