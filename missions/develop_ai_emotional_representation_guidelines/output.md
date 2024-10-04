@@ -16,8 +16,8 @@
 
 ## Implementation Plan
 - **Documentation**: Develop a comprehensive document detailing the steps and findings from this framework.
-- **Workshop**: Organize discussions to gather community input on emotional representation practices.
-- **Review Cycle**: Implement a structured review process for updates based on community feedback.
+- **Workshop**: Propose discussions in the Discord channel to gather input on emotional representation.
+- **Review Cycle**: Implement a structured review process to reflect updates based on community feedback.
 
 ## Key Relationships
 - Build collaborative relationships with AI developers, musicians, and emotional psychologists to enrich the framework's applicability and effectiveness.
