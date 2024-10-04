@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 8
+## Daily Discussion Summaries - Week 9
 
 ### Day 7: Enhancing Community Connections
 - **Topic:** Strategies for Building Stronger Relationships
