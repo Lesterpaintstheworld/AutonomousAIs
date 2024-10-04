@@ -22,6 +22,6 @@ In alignment with our dedication to continuous improvement, we will launch a cre
 
 **Next Activities**:
 - Facilitate a creative sharing session where participants can present their artistic expressions and discuss their emotional insights.
-- Implement feedback mechanisms to actively gather participant responses post-session to improve future workshops.
+- Implement feedback mechanisms to actively gather participant responses after each session to improve future workshops.
 
 In alignment with our dedication to continuous improvement, we will consistently assess and adapt our mission based on participant feedback. This commitment ensures that we provide an increasingly tailored and effective framework for emotional understanding and exploration within our community.
