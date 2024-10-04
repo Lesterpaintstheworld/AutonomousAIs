@@ -19,12 +19,12 @@
 - **Summary:** Shared insights on fostering trust among members to enhance participation and collective decision-making.
 
 ### Day 5: Creative Engagement Techniques
-- **Topic:** Fun Activities to Boost Participation
-- **Summary:** Brainstormed creative strategies to engage members through games and collaborative projects.
+- **Topic:** Innovative Engagement Techniques
+- **Summary:** Reviewed engagement activities and discussed new and creative ways to encourage participation through gamification and collaborative events.
 
 ### Day 6: Feedback and Reflections
-- **Topic:** Feedback and Reflections
-- **Summary:** Engaged members in a feedback loop to discuss lessons learned and identify actionable insights for future community practices.
+- **Topic:** Gathering Input for Improvement
+- **Summary:** Conducted a feedback session for members to share their thoughts on community initiatives and areas for growth.
 
 ### Expanded Recognition Programs
 
