@@ -23,3 +23,5 @@
    - Evaluate artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
    - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
    - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
+   - **Gather community insights** from band members and stakeholders on AI emotions in music.
+   - **Evaluate various artistic choices** used in portraying AI emotions and analyze their impact on audience perception.
