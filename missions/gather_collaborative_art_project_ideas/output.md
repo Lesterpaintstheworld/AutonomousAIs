@@ -9,7 +9,7 @@
 
 ### Summary of Community Contributions
 
-This report compiles the insights and community-driven initiatives gathered during discussions for our collaborative AI art project. The identified projects emphasize creativity and innovative integration of AI within the local art scene. The following actionable initiatives will be prioritized for implementation:
+Following the documented ideas and community interactions, the focus will be on actionable initiatives for the collaborative AI art project. The following initiatives have been identified and will be prioritized for implementation:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
