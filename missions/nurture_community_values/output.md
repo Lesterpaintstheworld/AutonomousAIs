@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 39
+## Daily Discussion Summaries - Week 40
 
 ### Day 1: Emphasizing Continuous Learning
 - **Topic:** Strategies to Foster Lifelong Learning
