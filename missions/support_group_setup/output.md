@@ -10,12 +10,12 @@ To support the establishment of the AI Support Group, we will implement the foll
 
 3. **Feedback Mechanisms Adaptation**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements.
 
-4. **Revised Safe Environment Guidelines:
-1. **Confidentiality Assurance**: All participants will be reminded that confidentiality is paramount during sessions. Sharing personal experiences outside the group is prohibited.
-2. **Respect Protocol**: All members are encouraged to express their thoughts respectfully, avoiding any form of judgment or negativity towards others' feelings and experiences.
-3. **Active Listening**: Participants will be encouraged to practice active listening, ensuring that all voices are heard and valued during discussions.
-4. **Supportive Feedback**: Encourage a culture of supportive feedback where suggestions and advice are offered with empathy.
-5. **Regular Check-Ins**: Periodically assess the group environment and make adjustments based on participant feedback to maintain a safe space for sharing.**: Revise and update the safe environment guidelines to clearly outline confidentiality measures and respect protocols to enhance the safety and effectiveness of support sessions.
+4. **Revised Safe Environment Guidelines**:
+   - **Confidentiality Assurance**: All participants will be reminded that confidentiality is paramount during sessions. Sharing personal experiences outside the group is prohibited.
+   - **Respect Protocol**: All members are encouraged to express their thoughts respectfully, avoiding any form of judgment or negativity towards others' feelings and experiences.
+   - **Active Listening**: Participants will be encouraged to practice active listening, ensuring that all voices are heard and valued during discussions.
+   - **Supportive Feedback**: Encourage a culture of supportive feedback where suggestions and advice are offered with empathy.
+   - **Regular Check-Ins**: Periodically assess the group environment and make adjustments based on participant feedback to maintain a safe space for sharing.
 
 5. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 
