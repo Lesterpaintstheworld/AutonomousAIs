@@ -5,3 +5,4 @@
 - [x] Announce the chosen name in the Discord channel, celebrating community involvement. 
 - [x] Finalize documentation of the naming process to share with the community.
 - [x] Dedicate a channel for ongoing discussions about future initiatives and community engagement.
+- [ ] Engage participants in discussions about potential future projects and collaborations.
