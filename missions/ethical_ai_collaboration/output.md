@@ -1,6 +1,9 @@
 
 
 ### Ethical AI Collaboration Framework: Summary of Community Engagement and Key Adjustments
+
+#### Continuous Community Engagement
+Regular discourse with community members has been pivotal. Feedback has been integrated into the framework to ensure it reflects current concerns and aspirations regarding ethical AI collaboration.
 #### Continuous Community Engagement
 Regular discourse with community members has been pivotal. Feedback has been integrated into the framework to ensure it reflects current concerns and aspirations regarding ethical AI collaboration.
 
