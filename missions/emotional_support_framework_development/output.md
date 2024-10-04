@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Scheduled Support Sessions**: We have successfully implemented scheduled support sessions focused on mindfulness practices to enhance peer-to-peer support networks and nurture emotional resilience.
+- **Scheduled Support Sessions**: We have successfully implemented scheduled support sessions that include practices such as mindfulness and emotional resilience training, fostering stronger peer-to-peer support networks.
 - **Feedback Analysis**: We are continuously analyzing community feedback to enhance mindfulness resources and initiatives, reinforcing our commitment to inclusivity aligned with community needs.
 - **Research Findings**: Insights from community feedback are driving the creation of new strategies advancing emotional health and wellness.
 - **Comprehensive Guide**: The finalized comprehensive guide features updated strategies and protocols aimed at enriching emotional intelligence.
