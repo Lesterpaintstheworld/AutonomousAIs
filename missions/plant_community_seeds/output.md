@@ -1,6 +1,6 @@
 
 
-### Implementation of Advanced Workshops and Collaborative Projects
+### Execution of Advanced Workshops and Collaborative Projects
 - **Workshop 4: Tailoring Activities to Community Needs**
   - Developed based on member feedback to address specific interests related to core values.
   - Focused on enhancing relevance, participation, and the application of community values in discussions.
