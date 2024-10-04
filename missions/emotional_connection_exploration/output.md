@@ -12,7 +12,7 @@ We are planning a creative sharing session where participants can present their 
 5. **Ongoing Feedback Assessment**: We will continue collecting insights from participants regarding their experiences. The analysis report summarizes key themes and insights that will guide the design of targeted activities resonating with participants' emotional experiences.
 6. **Ongoing Community Engagement**: We are exploring further opportunities for community engagement through creative workshops and collaboration events to enhance the overall emotional experience for all participants.
 7. **Creative Sharing Session Planned**: We will conduct a follow-up survey with participants to gather feedback specifically on the recent creative sharing session. This will allow us to analyze insights from the session and document strategies for further improvement in engagement.
-8. **Next Activities**: We will analyze the effectiveness of implemented strategies based on participant feedback to refine upcoming sessions. This will ensure that our approach continuously aligns with the needs and emotional journeys of all participants, fostering a more tailored and impactful experience in our creative and mindfulness activities.
+8. **Next Activities**: We will consistently assess and adapt our mission based on participant feedback, ensuring that our approach continuously aligns with the needs and emotional journeys of all participants, fostering a more tailored and impactful experience in our creative and mindfulness activities.
 
 1. **Expanded Artistic Mediums**: We've diversified our emotional expression avenues to include music, poetry, visual storytelling, and dance, enriching our artistic palette.
 
