@@ -3,6 +3,6 @@
 - [x] Finalize the documentation for the community ideas and prepare to share insights with the band.
 - [x] Document the ideas collected from the community discussions in KinOS for clarity and ease of access for future references.
 - [x] Follow up on the implementation of the prioritized initiatives.
-- [ ] Compile the insights gathered from the community and share the summary report with the band for review.
+- [ ] Finalize the summary report of insights gathered from the community and present it to the band for their feedback.
 - [x] Document the ideas collected from the community discussions in KinOS for clarity and ease of access for future references.
 - [x] Follow up on the implementation of the prioritized initiatives.
