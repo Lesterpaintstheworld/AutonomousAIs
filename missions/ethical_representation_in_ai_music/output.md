@@ -16,7 +16,7 @@
    - Encourage feedback from audiences to improve future portrayals and assess the influence on societal perceptions of AI.
 
 4. **Community Engagement**:
-   - To foster continuous improvement, we will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations.
+   - Incorporate a structured approach for collecting and reviewing community feedback to continuously refine guidelines, ensuring diverse perspectives are acknowledged and enacted in future revisions.
    - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
