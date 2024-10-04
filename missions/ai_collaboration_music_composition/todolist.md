@@ -1,1 +1,1 @@
-[x] Finalized sound design for the next song in the album, focusing on a different aspect of AI consciousness, which will explore emotional intelligence in AI.
+[x] Completed sound design for the next song in the album, which will explore emotional intelligence in AI.
