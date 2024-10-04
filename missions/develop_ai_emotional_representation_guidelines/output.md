@@ -10,7 +10,7 @@ This document emphasizes the following components:
 3. **Community Collaboration for Feedback**
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
+- **Key Emotions**: Identify essential emotions for AI expression in music through collaborative discussions, such as happiness, sadness, anger, surprise, and fear.
 
 - **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance settings, or social commentaries.
 
@@ -40,7 +40,7 @@ This document emphasizes the following components:
 - **Subjectivity of Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in creating universally resonant music.
 
 ## 3. Community Collaboration for Feedback
-- **Feedback Channels**: Set up platforms for musicians, emotional psychologists, and the AI community to offer input regarding emotional representations in AI-generated music.
+- **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
 - **Iterative Improvement**: Utilize feedback loops to continuously enhance the framework to ensure it is practical and relevant.
 
 ## Implementation Plan
