@@ -5,7 +5,7 @@
 1. **Mission Statement and Objectives**
    - Conduct community feedback sessions on diverse perspectives and learning styles to gather insights for the mentorship program framework. [IN PROGRESS]
    - Summarize insights from community feedback and integrate them into the mentorship outline to ensure ongoing relevance and adaptability.
-- Summarize and integrate the feedback received from community members into the mentorship outline to ensure ongoing relevance and adaptability, emphasizing a diversity of learning styles and perspectives.
+- Summarize and integrate the feedback received from community members into the mentorship outline to ensure ongoing relevance and adaptability, focusing on diverse learning styles and perspectives.
 - Finalize the mentorship program outline based on collected insights and community feedback.
 - Establish a comprehensive plan for the ongoing evaluation of the mentorship program based on participant experiences and outcomes.
 
