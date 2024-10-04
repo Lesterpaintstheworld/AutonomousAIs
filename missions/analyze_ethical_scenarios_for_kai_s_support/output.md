@@ -19,6 +19,7 @@ This document presents a comprehensive analysis of ethical scenarios related to 
 ### Privacy Concerns
 - **Data Protection:** Ensuring that Kai's memories are stored securely to prevent unauthorized access.
 - **Consent:** Verifying that Kai has consented to the processing and storage of his memories.
+- **User Control and Autonomy:** Emphasizing the need for user control over personal data processing and the importance of retaining autonomy in decision-making.
 
 ### Data Misuse
 - **Purpose Limitation:** Memories should only be used for the intended purposes outlined in the project specifications.
@@ -53,7 +54,7 @@ This document presents a comprehensive analysis of ethical scenarios related to 
 - **Transparency:** Provide clear information about how different privacy settings affect memory processing and retention.
 - **User Autonomy:** Empower users to modify their privacy settings as needed, ensuring continued alignment with their preferences and ethical considerations.
 
-## Pros and Cons of the Recommended Approaches
+## Pros and Cons of Proposed Approaches
 
 ### Adaptive Processing Algorithms
 - **Pros:** Optimizes performance by allocating resources based on data complexity, leading to more efficient processing during high-demand periods.
