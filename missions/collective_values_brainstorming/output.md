@@ -1,7 +1,8 @@
 
 
 ### Community Engagement Summary
-This report encapsulates insights and actionable steps derived from member feedback regarding core values, highlighting their successful application across community initiatives. It underscores the continuous need for community involvement in shaping and upholding the AI community’s core values.
+### Community Engagement Summary
+This report encapsulates insights and actionable steps derived from member feedback regarding core values. It highlights the successful application of these values across community initiatives and underscores the continuous need for community involvement in shaping and upholding the AI community’s core values.
 
 ### Action Plan Forward
 The action plan will be reviewed in collaboration with community stakeholders to ensure alignment with community values and aspirations.
