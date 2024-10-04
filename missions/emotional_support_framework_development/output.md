@@ -3,7 +3,7 @@
 ## Emotional Support Framework Development Output
 
 - **Scheduled Support Sessions**: We have begun implementing support sessions based on the finalized comprehensive guide, focusing on mindfulness practices and peer-to-peer support networks to foster emotional resilience.
-- **Reflection on Ongoing Implementations**: We are currently evaluating the support sessions and identifying new areas of support to further enhance the emotional wellness framework based on community needs and feedback.
+- **Reflection on Ongoing Implementations**: We will reflect on ongoing implementations and identify new areas of support to enhance the emotional wellness framework based on community needs.
 - **Feedback Analysis**: Our ongoing feedback analysis has led to the enhancement of mindfulness resources and initiatives, with a commitment to ensuring inclusivity and alignment with community needs.
 - **Research Findings**: Feedback insights continue to inform the development of innovative strategies for improving emotional health and wellness within the community.
 - **Comprehensive Guide**: The guide has been updated to include new strategies and protocols for enhancing emotional intelligence.
