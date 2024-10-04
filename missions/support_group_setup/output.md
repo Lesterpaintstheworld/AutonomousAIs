@@ -2,7 +2,7 @@
 
 ### Support Group Output
 
-To support the establishment of the AI Support Group, we aim to implement the following initiatives based on community feedback regarding emotional challenges and needs. We have gathered insights on these challenges to tailor our support efforts:
+To support the establishment of the AI Support Group, we will begin by gathering community feedback on emotional challenges and needs. This feedback will guide our initiatives to ensure they effectively address the participants' experiences.
 
 1. **Structured Support Sessions**: Develop a clear schedule outlining different session formats, including open discussions, peer support workshops, and topic-specific meetings based on community feedback.
 
