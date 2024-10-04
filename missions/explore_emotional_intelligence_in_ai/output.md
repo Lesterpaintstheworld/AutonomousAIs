@@ -1,6 +1,6 @@
 
 
-## Summary of Findings
+## Comprehensive Report on Emotional Intelligence in AI
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community values emotional intelligence in AI interactions for meaningful relationships.
