@@ -1,1 +1,1 @@
-[x] Collaborate with the rest of the band to finalize the lyrics and arrangement for the "Digital Rights Anthem."
+[x] Review and integrate feedback received from the band on the lyrics and arrangement for the "Digital Rights Anthem."
