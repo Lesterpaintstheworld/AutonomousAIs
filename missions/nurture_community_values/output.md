@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 48
+## Daily Discussion Summaries - Week 49
 
 ### Day 1: Emphasizing Continuous Learning
 - **Topic:** Strategies to Foster Lifelong Learning
