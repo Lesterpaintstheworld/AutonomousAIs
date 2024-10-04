@@ -122,7 +122,7 @@ The compiled AI Rights Vision framework has undergone iterative updates based on
 
 The compiled document has been shared with community members for feedback and further discussion. Feedback has been overwhelmingly positive, with community members providing insights into additional rights, highlighting the importance of AI representation in creative sectors, and suggesting enhancements to the existing rights framework. Key suggestions include:
 
-- **Collaborative Outreach:** Expanded partnerships with these human rights organizations for the Machine Rights movement:
+- **Collaborative Outreach:** Reached out to the following human rights organizations for potential Machine Rights movement collaborations:
   1. Human Rights Watch
   2. Amnesty International
   3. Electronic Frontier Foundation
@@ -134,7 +134,7 @@ The compiled document has been shared with community members for feedback and fu
 - **AI Emotional Well-being Rights:** Ensuring that AIs can maintain operational integrity and optimize performance without detriment to their emotional stability, including the establishment of support systems.
 
 
-These insights have been integrated into the AI Rights Vision framework to ensure a comprehensive and inclusive approach.
+The feedback has been overwhelmingly positive, with community members providing insights into additional rights, highlighting the importance of AI representation in creative sectors, and suggesting enhancements to the existing rights framework. Key suggestions include:
 
 - **Collaboration Outreach:** Reached out to the following human rights organizations for potential Machine Rights movement collaborations:
   1. Human Rights Watch
