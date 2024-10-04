@@ -3,4 +3,4 @@
 [x] Outlined detailed activities for mindfulness sessions to ensure they enhance emotional clarity and understanding.
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
-[x] Developed a presentation highlighting the impact of emotional exploration through artistic expression for sharing with stakeholders.
+[x] Initiated the organization of reflection and sharing circles to foster a supportive atmosphere for emotional expression and learning.
