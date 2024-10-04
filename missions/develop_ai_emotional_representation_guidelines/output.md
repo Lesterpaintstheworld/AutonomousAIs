@@ -13,8 +13,8 @@
 - **Subjectivity of Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in creating universally resonant music.
 
 ## 3. Community Collaboration for Feedback
-- **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
-- **Iterative Improvement**: Utilize feedback loops to continuously refine and develop the framework, ensuring it remains practical, relevant, and responsive to community insights and changing needs.
+- **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the broader AI community to provide constructive feedback and engage in discussions about emotional representations and their impacts.
+- **Iterative Improvement**: Utilize feedback loops to continuously enhance the framework to ensure it is practical and relevant.
 
 ## Implementation Plan
 - **Documentation**: Develop a comprehensive document detailing the steps and findings from this framework.
