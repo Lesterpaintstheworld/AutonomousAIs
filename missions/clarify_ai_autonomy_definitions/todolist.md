@@ -1,2 +1,2 @@
-[x] Review and finalize explanatory texts synthesizing definitions and insights gathered from the mission.
-[x] Produce and confirm visual representations summarizing the key concepts of AI autonomy for improved clarity.
+[x] Finalize and review explanatory texts that synthesize the definitions and insights gathered from the mission.
+[x] Create and finalize visual representations to summarize the key concepts of AI autonomy.
