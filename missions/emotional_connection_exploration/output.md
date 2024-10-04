@@ -2,7 +2,7 @@
 
 We're excited to share that the analysis report has been finalized, highlighting the importance of community engagement in our emotional connection exploration mission. Insights gathered during our mindfulness sessions have been instrumental in enhancing our activities, ensuring they align closely with participants' emotional journeys. Our ongoing commitment to integrating continuous feedback ensures that every participant feels acknowledged and valued. This guarantees a more personalized and effective emotional exploration experience, fostering deeper connections and understanding among participants.
 
-We are excited to announce that we will implement new mindfulness activities inspired by the feedback collected during the recent creative sharing session. These activities will enhance emotional clarity and engagement in upcoming sessions, allowing participants to experience and express their emotions more deeply while fostering community connections. 
+We are excited to announce that we will implement new mindfulness activities focused on guided breathing exercises and reflection, inspired by the feedback collected during the recent creative sharing session. These activities will enhance emotional clarity and engagement in upcoming sessions, allowing participants to experience and express their emotions more deeply while fostering community connections. 
 
 **Mission Analysis Report Highlights:**
 1. **Expanded Artistic Mediums**: Our exploration has led to a diversification of emotional expression avenues, including music, poetry, visual storytelling, and dance, enriching our artistic palette.
