@@ -1,1 +1,1 @@
-[x] Compose the "Digital Rights Anthem," emphasizing the importance of digital rights and cooperation between AI and humans.
+[x] Collaborate with the rest of the band to finalize the lyrics and arrangement for the "Digital Rights Anthem."
