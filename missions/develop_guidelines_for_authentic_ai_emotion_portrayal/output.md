@@ -34,7 +34,7 @@
    - **Conduct Impact Analysis**: 
      - Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
    - **Host Discussions**: 
-     - Continue engaging with stakeholders to refine the guidelines based on collaborative insights gathered from the community.
+     - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal.
    - **Research Methodologies**: 
      - Investigate and provide insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
    - **Community Discussions**: 
