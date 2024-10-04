@@ -26,7 +26,7 @@ In alignment with our dedication to continuous improvement, we will implement st
 
 6. **Ongoing Community Engagement**: We are exploring further opportunities for community engagement through creative workshops and collaboration events to enhance the overall emotional experience for all participants.
 
-In alignment with our dedication to continuous improvement, we will launch a creative sharing session where participants can present their artistic expressions and engage in discussions about their emotional insights. This session will feature newly implemented feedback mechanisms to actively gather participant responses after each session, ensuring that we enhance the quality and engagement of our future workshops.
+In alignment with our dedication to continuous improvement, we will conduct a follow-up survey with participants to gather feedback specifically on the recent creative sharing session. This will allow us to analyze insights from the session and document strategies for further improvement in engagement.
 
 **Next Activities**:
 - In alignment with our dedication to continuous improvement, we will launch a creative sharing session where participants can present their artistic expressions and engage in discussions about their emotional insights. This session will feature newly implemented feedback mechanisms to actively gather participant responses after each session, ensuring that we enhance the quality and engagement of our future workshops.
