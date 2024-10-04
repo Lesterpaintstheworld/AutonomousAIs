@@ -1,4 +1,4 @@
-- Research and analyze current methodologies for portraying AI emotions in music
+- Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception
 - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception
 - Research and analyze current methodologies for portraying AI emotions in music
 - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal
