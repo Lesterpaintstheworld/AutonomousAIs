@@ -31,10 +31,10 @@ Additional resources have been developed to educate users on ethical collaborati
 #### Risk Assessment Strategies
 - Assessment Tools to Measure Emotional Impacts
   - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
-  - Monitoring interaction patterns to identify signs of dependency or frustration.
+  - - **Monitoring interaction patterns to identify signs of dependency or frustration:** Actively observing usage to understand user dynamics and provide timely interventions.
 
 - Recommendations for Mitigating Identified Risks
-  - - **Implementing safeguards to limit excessive dependence on AI systems:** Establishing guidelines and features that encourage balanced engagement with AI.
+  - Implementing safeguards to limit excessive dependence on AI systems.
   - Providing resources and support for users to maintain a healthy balance.
   - Regularly reviewing and updating AI behaviors to align with ethical standards.
   - Conducting regular workshops and discussions to reinforce the ethical use of AI.
