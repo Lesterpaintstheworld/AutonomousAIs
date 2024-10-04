@@ -3,4 +3,4 @@
 [x] Outlined detailed activities for mindfulness sessions to ensure they enhance emotional clarity and understanding.
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
-[x] Developed a comprehensive resource compilation offering strategies for ongoing emotional support, including mindfulness techniques and artistic expression methods.
+[x] Introduced digital art sharing activities to encourage participants to share artwork reflecting their emotional journeys.
