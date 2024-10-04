@@ -7,7 +7,7 @@
 
 
 
-The community has continued to provide valuable feedback for the collaborative AI art project. Based on their latest contributions, several new actionable initiatives have been identified, and the process will carry on to gather more insights. Here’s a summary of the most recent community feedback:
+The community has provided valuable feedback for the collaborative AI art project. Based on their contributions, several actionable initiatives have been identified, and the process will continue to gather more insights. Here’s a summary of the community feedback:
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 2. **Interactive Digital Installations**
