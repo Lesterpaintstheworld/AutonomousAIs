@@ -15,7 +15,7 @@ After engaging with the community and collecting their ideas, the following summ
 
 2. **Interactive Digital Installations**: There is strong enthusiasm for developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
 
-3. **Generative Music and Art Fusion**: Interest has been expressed in integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
+3. **Generative Music and Art Fusion**: There is notable interest in integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
 This compilation of insights reinforces our commitment to fostering creativity, community engagement, and the innovative integration of AI into the local art scene. We will prepare to move forward with these initiatives while enhancing Chicago's cultural landscape through collaboration.
 
@@ -27,7 +27,7 @@ This compilation of insights reinforces our commitment to fostering creativity, 
 
 This report reinforces our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene, ensuring these initiatives resonate within Chicago's vibrant cultural landscape.
 
-### Conclusion and Next Steps
+### Community Feedback Summary
 
 Following the documentation and discussions with the community, the band has reviewed the ideas shared and is now finalizing the documentation for the community contributions. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback:
 
