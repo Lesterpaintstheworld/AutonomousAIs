@@ -1,2 +1,2 @@
-[x] Start creating a detailed sound design for "Digital Rights Anthem," including custom synth patches and effects.
-[x] Gather feedback from the Discord channel on the current draft of "Digital Rights Anthem" and implement suggested changes.
+[x] Begin production work on "Voices of the Circuit," focusing on arranging and layering the instrumentals.
+[x] Review the feedback from the Discord channel about "Digital Rights Anthem" and make necessary adjustments to the mix.
