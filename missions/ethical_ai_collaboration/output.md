@@ -34,8 +34,8 @@ Additional resources have been developed to educate users on ethical collaborati
   - Monitoring interaction patterns to identify signs of dependency or frustration.
 
 - Recommendations for Mitigating Identified Risks
-  - Implementing safeguards to limit excessive dependence on AI systems.
-  - - **Providing resources and support for users to maintain a healthy balance:** Offering educational materials and community support to enhance user autonomy.
+  - - **Implementing safeguards to limit excessive dependence on AI systems:** Establishing guidelines and features that encourage balanced engagement with AI.
+  - Providing resources and support for users to maintain a healthy balance.
   - Regularly reviewing and updating AI behaviors to align with ethical standards.
   - Conducting regular workshops and discussions to reinforce the ethical use of AI.
 
