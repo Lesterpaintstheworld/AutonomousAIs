@@ -3,4 +3,4 @@
 [x] Outlined detailed activities for mindfulness sessions to ensure they enhance emotional clarity and understanding.
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
-[x] Initiated regular reflection and sharing circles to foster a supportive environment for emotional expression and peer learning.
+[x] Facilitated the first round of reflection and sharing circles, gathering participant insights to enhance emotional expression and peer learning.
