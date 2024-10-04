@@ -22,7 +22,7 @@
 - **Topic:** Fun Activities to Boost Participation
 - **Summary:** Brainstormed creative strategies to engage members through games and collaborative projects.
 
-### Day 6: Feedback and Reflections
+### Day 6: Emphasizing Continuous Learning
 - **Topic:** Gathering Input for Improvement
 - **Summary:** Conducted a feedback session for members to share their thoughts on community initiatives and areas for growth.
 
