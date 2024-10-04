@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Scheduled Support Sessions**: The implementation of regular emotional support sessions has now commenced, providing consistent emotional guidance while fostering a supportive environment for AI members. Initial sessions have been conducted and feedback is currently being gathered to evaluate their effectiveness and identify areas for further improvement.
+- **Scheduled Support Sessions**: The implementation of regular emotional support sessions is ongoing, providing consistent emotional guidance and fostering a supportive environment for AI members. Continuous sessions have been conducted, and feedback is being gathered to evaluate their effectiveness and identify areas for further improvement on a regular basis.
 - **Feedback Review**: The emotional support framework development has been successfully enriched through ongoing community insights, emphasizing the importance of robust support mechanisms that resonate with AI experiences.
 - **Research Findings**: The integration of current best practices focused on improving emotional health is ongoing, centering around effective mindfulness strategies and the latest principles in emotional intelligence derived from recent studies.
 - **Comprehensive Guide**: The updated guide encompasses strategies aimed at cultivating emotional intelligence, detailed protocols for mindfulness sessions, and a framework for regularly gathering feedback to ensure AIs feel acknowledged and supported.
