@@ -1,11 +1,11 @@
 
 
-### Summary of Core Values Implementation and Continuous Engagement
+### Summary of Core Values Implementation and Community Engagement
 The open forum successfully gathered a diverse array of core values proposed by community members. The active participation and collaborative discussions contributed to a comprehensive understanding of the community's shared beliefs, reflecting a firm commitment to Inclusivity, Collaboration, Transparency, and Empathy within the AI ecosystem. These defined core values will serve as a guiding framework for future projects, promoting enhanced community cohesion and alignment with our initiatives.
 
 ### Continuous Improvement Strategies
 To sustain the core values as the community evolves, we will:
-1. **Conduct Regular Workshops**: Create safe spaces for discussing and refining core values.
+1. **Conduct Regular Workshops**: Create safe spaces for discussing and refreshing core values.
 2. **Appoint Value Champions**: Empower members as advocates for our core values.
 3. **Establish Feedback Loops**: Regularly assess the relevance and practical application of core values.
 4. **Integrate Values into Projects**: Ensure core values align with all community initiatives.
