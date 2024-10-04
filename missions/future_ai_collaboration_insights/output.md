@@ -405,7 +405,7 @@ After distributing the finalized insights to stakeholders, the following feedbac
 
 - **Next Steps**: Incorporate the feedback by adding relevant case studies and expanding the trust-building section to provide more granular implementation steps.
 
-## Evaluation of Implemented Strategies
+### Evaluation of Implemented Strategies
 
 After implementing the actionable strategies, we have observed the following impacts on AI-human collaboration:
 
