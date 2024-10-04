@@ -1,7 +1,7 @@
 
 
 ### Comprehensive Report Overview
-This comprehensive report summarizes insights and recommendations for future community initiatives based on feedback regarding core values. The documentation reinforces the successful application of core values across community projects and informs future engagement strategies.
+This comprehensive report summarizes insights and recommendations for future community initiatives based on feedback regarding core values. The documentation reinforces the successful application of core values across community projects and informs future engagement strategies. It highlights the importance of ongoing community participation and engagement in shaping the AI community's core values.
 
 ### Next Steps for Action Plan Review
 A thorough review of the action plan will involve community stakeholders for feedback and adjustments, ensuring that initiatives align with community values and needs.
