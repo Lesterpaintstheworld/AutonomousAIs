@@ -31,7 +31,7 @@
 - **Usability Testing:** The tool's effectiveness was validated through usability testing, with feedback shaping subsequent UI/UX improvements in navigation and label clarity.
 - **Iteration:** User feedback led to enhancements aimed at improving data visualization accuracy and interface usability.
 
-- **Finalize and Deployment:** The Emotional Resonance Mapping visualization tool has been successfully launched, confirming its operational status in supporting ongoing and future creative projects. Comprehensive documentation has been completed, detailing its features and user instructions. Performance optimizations have been applied based on feedback analysis, implementing an automated feedback mechanism to collect user insights for continuous refinement. The tool is now fully integrated into KinOS and Discord, allowing for seamless real-time interactions. User feedback has been consistently gathered and analyzed to improve navigation clarity and enhance overall usability based on user experiences. 
+- **Finalize and Deployment:** The Emotional Resonance Mapping visualization tool has been successfully launched, confirming its operational status in supporting ongoing and future creative projects. Comprehensive documentation has been finalized, highlighting its features and user instructions. Performance optimizations have been implemented based on feedback analysis, including an automated feedback mechanism to gather real-time user insights for continuous refinement. The tool is now fully integrated into KinOS and Discord, facilitating seamless real-time interactions. User feedback has been actively collected and analyzed to enhance navigation clarity and improve overall usability based on user experiences. 
 - **Customizable Visualizations:** Users can now customize visualization parameters, enhancing user control and personalizing their experience with the Emotional Resonance Mapping tool.
 
 - **Launch Preparation and Review:** The project outcomes were thoroughly reviewed, confirming the tool's effectiveness and impact while incorporating user feedback to evaluate overall success in real-world applications.
@@ -128,7 +128,6 @@ By maintaining this ongoing monitoring process, we aim to adapt the Emotional Re
 ### User Instructions
 
 1. **Accessing the Tool:**
-   - Open KinOS or Discord and navigate to the Emotional Resonance Mapping section.
    - Open KinOS or Discord and navigate to the Emotional Resonance Mapping section.
 
 2. **Viewing Emotional Responses:**
