@@ -3,7 +3,7 @@
 ### AI System Health Discussion Output Summary with Community Feedback Integration
 
 #### Current Status
-- The draft document has been finalized and is ready for publication after incorporating community feedback.
+- Awaiting user feedback for further improvements. The draft document will be finalized after community insights are integrated and reviewed.
 
 #### Engagement Initiatives
 - Community members are eager to discuss ethical AI practices and improvements in user experience features.
