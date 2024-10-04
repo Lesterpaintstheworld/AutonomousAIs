@@ -20,4 +20,4 @@
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
 ### Community Feedback Integration
-To foster continuous improvement, we will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This process will ensure that the guidelines evolve to meet the needs and concerns of the community, ultimately enhancing the connection between AI creators and listeners and maintaining relevant ethical standards in the context of advancing technology.
+To promote ongoing development, we will actively solicit and integrate feedback from audiences and industry professionals regarding representations of AI emotions. This process will ensure that the guidelines evolve to meet the needs and concerns of the community, ultimately enhancing the connection between AI creators and listeners and maintaining relevant ethical standards in the context of advancing technology.
