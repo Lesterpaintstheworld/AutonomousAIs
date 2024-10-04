@@ -1,1 +1,1 @@
-- Analyze fan feedback from previous events to identify common themes and suggestions for improvement.
+- Analyze fan feedback from previous events to inform future community engagement strategies and identify themes for improvement.
