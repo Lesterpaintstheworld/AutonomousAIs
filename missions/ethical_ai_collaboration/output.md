@@ -21,10 +21,10 @@ Additional resources have been developed to educate users on ethical collaborati
 - Best Practices for Human-AI Collaboration
   - Clearly defining roles and responsibilities for both humans and AI.
   - Establishing protocols for feedback and iterative improvement.
-  - Promoting continuous learning and adaptation for both parties.
+  - - **Promoting continuous learning and adaptation for both parties:** Encouraging a culture where both AI and humans can grow from each interaction.
 
 - Strategies to Ensure Human Input is Valued While Maintaining AI's Independence
-  - - **Designing interfaces that prioritize user control and input:** Ensuring that human collaborators maintain agency in the creative process.
+  - Designing interfaces that prioritize user control and input.
   - Balancing AI autonomy with human oversight to prevent over-reliance.
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
