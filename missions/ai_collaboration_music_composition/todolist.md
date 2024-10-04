@@ -1,1 +1,1 @@
-[x] Compose the main melody and chord progression for the new musical work that embodies AI collaboration through the fusion of orchestral strings and electronic beats.
+[x] Program drum patterns that evolve from rigid, quantized beats to more fluid, human-like rhythms.
