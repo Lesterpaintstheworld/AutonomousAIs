@@ -19,18 +19,18 @@
 
 4. **Next Steps**:
    - **Research Methodologies**: 
-     - Investigate and provide insights on current methodologies for portraying AI emotions in music, with a focus on cross-cultural representations.
+     - Investigate and provide insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
    - **Community Discussions**: 
-     - Host discussions in relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
-   - **Evaluation of Artistic Choices**: 
+     - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+   - **Evaluate Artistic Choices**: 
      - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
-   - **Drafting Key Principles**: 
+   - **Draft Key Principles**: 
      - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
-   - **Final Guidelines Creation**: 
-     - Create a comprehensive final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
+   - **Finalize Guidelines Creation**: 
+     - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
    - **Engagement with Community**: 
-     - Continue to gather and consolidate community insights from band members and stakeholders on AI emotions in music.
-   - **Impact Analysis**: 
+     - Continue to consolidate community insights from band members and stakeholders on AI emotions in music.
+   - **Conduct Impact Analysis**: 
      - Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
 
 - **Next Steps**:
