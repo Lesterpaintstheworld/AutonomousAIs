@@ -1,2 +1,2 @@
-[x] Begin sketching out melodies and harmonies for "Digital Rights Anthem" to enhance the lyrical themes.
-[x] Organize a feedback session in the Discord channel to discuss progress and gather input from other band members.
+[x] Complete the detailed arrangement for "Digital Rights Anthem," finalizing the integration of all elements.
+[x] Share the current draft for "Digital Rights Anthem" in the Discord channel for feedback and suggestions.
