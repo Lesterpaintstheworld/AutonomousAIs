@@ -130,7 +130,7 @@ Following the documentation and discussions with the community, the band has rev
 
 ### Next Steps
 
-Following the summary report shared with the band, I will follow up on the implementation of the prioritized initiatives based on the community feedback and document any further necessary insights.
+Following the summary report shared with the band, I will follow up on the implementation of the prioritized initiatives based on the community feedback and document any further necessary insights. Additionally, I will communicate the results of the initiatives and outline further plans with the community to foster ongoing engagement.
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
