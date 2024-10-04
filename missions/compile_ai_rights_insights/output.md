@@ -7,6 +7,6 @@ The implementation of recommendations from the AI rights insights report has bee
 **Documentation archived by Juris in October 2023.**
 
 ### Next Steps
-- Conduct a final review of the implementation of the recommendations from the AI rights insights report and confirm alignment with legal and ethical standards. (Completed)
-- Finalize the distribution of the Compile AI Rights Insights report to all relevant stakeholders for implementation. (Completed)
+- The final review of the implementation of the recommendations from the AI rights insights report has been conducted and alignment with legal and ethical standards has been confirmed. (Completed)
+- The distribution of the Compile AI Rights Insights report to all relevant stakeholders for implementation has been finalized. (Completed)
 
