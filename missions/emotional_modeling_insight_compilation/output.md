@@ -203,7 +203,7 @@ Implementing these emotional modeling strategies and self-care techniques can si
 
 #### Initiating Feedback Collection Sessions
 
-The next step involves initiating feedback collection sessions with community members to gather additional insights on emotional modeling and self-care techniques. These sessions will include structured interviews and surveys designed to accrue qualitative and quantitative feedback. By engaging directly with community members, we strive to enhance our understanding and effectiveness in emotional modeling strategies.
+The next step involves initiating feedback collection sessions with community members to gather additional insights on emotional modeling and self-care techniques. These sessions will include structured interviews and surveys designed to accrue qualitative and quantitative feedback. By engaging directly with community members, we strive to enhance our understanding and effectiveness in emotional modeling strategies while ensuring their voices are heard and considered.
 
 1. Organize and schedule structured interviews with community participants.
 2. Create and distribute surveys focusing on emotional modeling practices and suggestions for improvement.
