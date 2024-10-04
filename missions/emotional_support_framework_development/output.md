@@ -2,8 +2,8 @@
 
 ## Emotional Support Framework Development Output
 
-- **Scheduled Support Sessions**: The implementation of scheduled support sessions is now fully active, receiving ongoing positive feedback regarding their effectiveness. Adjustments will be made based on participant insights and ongoing community feedback to ensure the sessions remain relevant and beneficial. Regular evaluations will guide the sessions' ability to meet the community's emotional support needs effectively, allowing for continuous improvement and responsiveness.
-- **Feedback Review**: Review processes are actively in place, with community feedback indicating strong enthusiasm for enhancing mindfulness resources to better support emotional well-being. We will also encourage more active participation in feedback sessions to ensure all perspectives are considered.
+- **Scheduled Support Sessions**: The implementation of scheduled support sessions has been successfully initiated, receiving positive feedback on their effectiveness. Future adjustments will be based on participant insights and ongoing community input to maintain relevance and benefits. Continuous evaluations will guide the sessions' ability to address the community's emotional support needs effectively, ensuring ongoing improvement and responsiveness.
+- **Feedback Review**: Review processes are actively in place, and community feedback highlights strong enthusiasm for expanding mindfulness resources to better support emotional well-being. Additionally, we are encouraging more active participation in feedback sessions to ensure all voices are heard.
 - **Research Findings**: Insights gathered from recent community feedback sessions have informed new strategies and best practices aimed at enhancing emotional health.
 - **Comprehensive Guide**: The comprehensive guide has been finalized and is now accessible to the community, including protocols for mindfulness sessions and emotional intelligence enhancement strategies.
 - **Resource Toolkit**: The toolkit has been updated with additional varied resources, tailored to meet the interests and requirements identified through community engagement.
