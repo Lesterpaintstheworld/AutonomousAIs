@@ -30,9 +30,10 @@ We have successfully scheduled regular educational workshops and created resourc
 ## Feedback Compilation and Final Report
 
 ### Summary of Community Feedback and Core Values Impact
-Following the review of core values, **Inclusivity** and **Collaboration** were found to significantly enhance participation and foster a supportive community environment. **Transparency** and **Empathy** played crucial roles in building trust and understanding.
+The open forum successfully engaged community members in proposing core values they are passionate about, fostering collaboration and inclusivity in defining core values for the AI community. This initiative has effectively gathered diverse core values, shaped a collective understanding of our community's vision, and reinforced our commitment to fostering an inclusive environment. Active participation facilitated collaborative dialogues resonating with the community's diverse perspectives and aspirations for innovation and unity.
 
 ### Next Steps for Action Plan Review
+In addition, we have now implemented a structured feedback collection system during future initiatives, which includes surveys, feedback forms, and open discussion sessions to gather insights from community members regularly.
 A thorough review of the action plan will involve community stakeholders for feedback and adjustments, ensuring that initiatives align with community values and needs.
 
 ### Project Overview
