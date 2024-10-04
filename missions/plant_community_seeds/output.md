@@ -218,7 +218,7 @@ These outcomes demonstrate the effectiveness of our structured approach to nurtu
 
 ## Summary Report
 
-The effectiveness of the advanced workshops and collaborative projects has been further evaluated, confirming a **30%** increase in active participation within the community since implementing the new engagement strategies. Feedback from participants indicates high satisfaction levels, averaging **4.8** out of 5, particularly regarding the relevance of the content and the engagement techniques employed. Additionally, recognition systems have been implemented to acknowledge active members and contributors, which has further motivated participation. Alongside the collaborative projects, new community engagement strategies have been developed and initiated based on feedback insights from the advanced workshops. These strategies further enhance member participation and interactions, continuously refining community activities to meet members' needs and preferences. Furthermore, comprehensive educational materials and support tools related to core values have been developed, which have been well-received by members, enhancing their understanding and application of these principles. 
+Based on the evaluation of member participation and engagement metrics, several key insights have been identified: **a consistent growth rate of 20% in active members** over the past quarter has been observed, indicating the effectiveness of the new engagement strategies. Feedback from participants indicates high satisfaction levels, averaging **4.8** out of 5, particularly regarding the relevance of the content and the engagement techniques employed. Additionally, recognition systems have been implemented to acknowledge active members and contributors, which has further motivated participation. Alongside the collaborative projects, new community engagement strategies have been developed and initiated based on feedback insights from the advanced workshops. These strategies further enhance member participation and interactions, continuously refining community activities to meet members' needs and preferences. Furthermore, comprehensive educational materials and support tools related to core values have been developed, which have been well-received by members, enhancing their understanding and application of these principles. 
 
 ### Next Steps
 1. **Plan and Implement New Workshops**: Reflecting Member Interests
@@ -358,7 +358,7 @@ Building upon the successful planning phase, we are now initiating the execution
 
 #### Interactive Content Creation
 - Implement interactive content such as polls and live Q&A sessions to deepen engagement and encourage more participation in community discussions.
-- **Comprehensive educational materials and support tools related to core values have been developed, which have been well-received by members, enhancing their understanding and application of these principles.**
+- **Educational Materials Update**
   - **Description**: Revise and expand educational resources based on feedback to better support member learning and engagement.
   - **Components**:
     - Incorporate new case studies and practical examples.
