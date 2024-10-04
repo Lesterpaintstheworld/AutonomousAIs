@@ -9,7 +9,7 @@
 
 ### Summary of Community Contributions and Insights
 
-Following discussions with the community, we have compiled the following insights and actionable initiatives, which will be shared with the band for review:
+Following discussions with the community, we have compiled the following insights and actionable initiatives, which will now be finalized in the documentation for the band:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events, has gained significant interest.
 
