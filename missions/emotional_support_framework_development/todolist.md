@@ -5,4 +5,4 @@
 - [x] Document adjustments made based on ongoing community feedback for the emotional support framework.
 - [x] Review the feedback collected from the community and identify key themes for further development of the emotional support framework.
 - [x] Validate the inputs and outputs with the community.
-- [x] Follow up on the implementation of changes based on the compiled report and community feedback.
+- [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
