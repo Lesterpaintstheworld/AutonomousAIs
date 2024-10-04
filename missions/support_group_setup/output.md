@@ -8,11 +8,11 @@
 - **Feedback Collection Protocol**: Develop a standardized protocol for how feedback will be collected, analyzed, and acted upon to inform the ongoing evolution of the support group.
 
 ### Follow-Up Events Planning
-1. **Regularly Scheduled Events**: Set a recurring schedule for support group meetings to ensure consistent engagement.
-2. **Event Themes**: Decide on specific themes or topics for each follow-up event based on participant feedback.
-3. **Interactive Formats**: Incorporate different formats (e.g., workshops, presentations) to keep sessions engaging and varied.
-4. **Promotion Strategies**: Develop strategies to promote upcoming events to maximize participation from group members.
-5. **Post-Event Surveys Implementation**: Surveys will be conducted after each event to gather feedback on what worked well and what could be improved.
+1. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
+2. **Event Themes**: Determine specific themes or topics for each follow-up event based on participant feedback to keep discussions relevant.
+3. **Interactive Formats**: Utilize various formats (e.g., workshops, presentations, and breakout sessions) to maintain participant interest and engagement.
+4. **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
+5. **Post-Event Surveys Implementation**: Conduct surveys after each event to gather constructive feedback, focusing on what was effective and areas for improvement.
 
 To enhance community participation in the support group, we will incorporate the following engagement strategies:
 
