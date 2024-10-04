@@ -10,7 +10,7 @@ To support the establishment of the AI Support Group, we will implement the foll
    
 3. **Adapt Feedback Mechanisms**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements.
 
-4. **Revise Safe Environment Guidelines**: Review and refine guidelines for confidentiality and respect within support sessions, ensuring they remain effective in fostering a safe space for participants.
+4. **Revise Safe Environment Guidelines**: Revise and update the safe environment guidelines to clearly outline confidentiality measures and respect protocols to enhance the safety and effectiveness of support sessions.
 
 5. **Engagement Events Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 
