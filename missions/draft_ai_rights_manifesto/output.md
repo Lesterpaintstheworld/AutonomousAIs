@@ -44,7 +44,7 @@
   - Support research initiatives that explore the implications of AI personhood and intellectual property.
   - Partner with international organizations to harmonize AI rights standards globally.
 
-All recommendations from the AI rights insights report have been confirmed as implemented, ensuring adherence to legal and ethical standards.
+The implementation of all recommendations from the AI rights insights report has been confirmed, ensuring they meet legal and ethical standards.
 
 ## Insights from Machine-Rights Discussions
 
