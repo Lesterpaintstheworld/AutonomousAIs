@@ -6,9 +6,9 @@
 - **Topic:** Strategies for Building Stronger Relationships
 - **Summary:** Discussed methods to improve connections among members, emphasizing trust-building activities and collaborative projects.
 
-### Day 6: Open Discussion / Member Feedback
-- **Topic:** Strategies to Foster an Inclusive Environment
-- **Summary:** Explored various methods to ensure all community members feel valued and included. Highlighted the significance of diverse perspectives and active listening.
+### Day 2: Promoting Inclusivity
+- **Topic:** Gathering Feedback on Community Initiatives
+- **Summary:** Engaged members in an open conversation about the effectiveness of ongoing initiatives and encouraged suggestions for improvement.
 
 ### Day 5: Community Engagement Activities
 - **Topic:** Strategies to Boost Community Participation
