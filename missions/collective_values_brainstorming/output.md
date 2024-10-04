@@ -1,7 +1,7 @@
 
 
 ### Summary of Core Values Implementation and Continuous Engagement
-The open forum successfully gathered a diverse array of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions contributing to a comprehensive understanding of the community's shared beliefs. The defined core values include **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**, and they will be integrated into ongoing initiatives to ensure alignment with community goals.
+The open forum successfully gathered a diverse array of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions contributing to a comprehensive understanding of the community's shared beliefs. The defined core values include **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**. Moving forward, these core values will guide future projects to enhance community cohesion and alignment with our initiatives.
 
 ### Continuous Improvement Strategies
 To sustain the core values as the community evolves, we will:
