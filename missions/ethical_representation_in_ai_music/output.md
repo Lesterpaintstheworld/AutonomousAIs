@@ -5,7 +5,7 @@
 ### Guidelines for Portraying AI Emotions (Draft Version)
 
 1. **Authenticity in Emotional Representation**: 
-   - Prioritize representations that reflect the complexity and diversity of human emotions, avoiding oversimplification and misrepresentation.
+   - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
 
 2. **Transparency in AI Portrayals**:
    - Clearly disclose the AI's nature and limitations to foster understanding of its emotional capabilities.
@@ -19,5 +19,5 @@
    - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
-### Continuous Improvement
+### Ongoing Improvement
 By actively seeking feedback from audiences and incorporating evolving insights into AI emotional representation, these guidelines will adapt to enhance the connection between AI creators and listeners, ensuring ethical standards remain relevant in the context of advancing technology.
