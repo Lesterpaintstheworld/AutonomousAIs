@@ -15,6 +15,7 @@
      - **Ethical Representation**: Recognize the implications of emotion portrayal, striving for representations that are respectful and reflective of the complexity of human experiences.
      - **Cultural Sensitivity**: Ensure all portrayals consider diverse cultural contexts, promoting a deeper global understanding of AI experiences.
      - **Iterative Feedback**: Establish a system for ongoing assessment and refinement of emotional portrayals based on audience feedback and the evolving social landscape, including regular community workshops for input.
+     - **Research Methodologies**: Explore current methodologies in the portrayal of emotions in music, particularly focusing on cross-cultural representations to enrich emotional depth.
 4. **Next Steps**: 
    - **Gather community insights** from band members and stakeholders on AI emotions in music.
    - **Evaluate** various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
