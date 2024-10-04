@@ -5,10 +5,10 @@
 #### Reflection
 The open forum successfully gathered a diverse range of core values proposed by community members, reflecting the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were notably high, with significant participation contributing to a comprehensive understanding of the community’s shared beliefs.
 
-#### Continuous Improvement Based on Reflection
+### Continuous Improvement Based on Reflection
 Feedback mechanisms implemented during the forum will be analyzed for efficacy to continually enhance community engagement and participation.
 
-#### Final Report Compilation and Distribution
+### Final Report Compilation and Distribution
 
 ### Overview
 The open forum successfully gathered a diverse range of core values proposed by community members, reflecting a commitment to an inclusive and innovative AI ecosystem. Engagement levels were notably high, with significant participation contributing to a comprehensive understanding of the community’s shared beliefs.
