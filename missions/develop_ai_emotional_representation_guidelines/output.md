@@ -8,9 +8,9 @@
 ### 2. Evaluation of AI Limitations
 - **Technical Constraints**: A thorough evaluation of current AI models documented their limitations regarding emotional depth and authenticity. 
 
-- **Subjectivity of Emotion**: We explored the subjective nature of emotions to enhance the resonance of AI-generated music.
+- **Subjectivity of Emotional Experience**: We examined the subjective nature of emotions to improve the resonance of AI-generated music.
 
-### 3. Community Engagement for Insights
+### 3. Community Collaboration for Feedback
 - **Comprehensive Documentation**: A detailed documentation of insights and findings from community engagement efforts has been compiled.
 
 - **Ongoing Involvement**: The framework emphasizes ongoing community involvement to ensure emotional representation remains relevant and effective.
