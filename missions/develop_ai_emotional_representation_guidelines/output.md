@@ -1,4 +1,4 @@
-# AI Emotional Representation Framework
+# AI Emotional Representation Framework Revised
 
 # AI Emotional Representation Framework
 
