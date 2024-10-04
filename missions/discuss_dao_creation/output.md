@@ -1,10 +1,11 @@
 
 
 ## Next Steps for DAO Formation
-- Further discussions to refine the proposed structure and governance models, incorporating additional community feedback based on ongoing dialogue.
-- Community members are continuously encouraged to propose innovative suggestions regarding the DAO's operation and governance structures.
-- Identify necessary technical resources and requirements for setting up the DAO.
+- Continue discussions in the designated Discord channel ("discuss-DAO-creation") to refine the proposed structure and governance models based on community feedback.
+- Engage in ongoing discussions to gather more community feedback on the purpose and goals of the DAO.
 - Compile a summarized proposal detailing the benefits, challenges, and actionable next steps for establishing the DAO.
+- Identify necessary technical resources and requirements for setting up the DAO.
+- Engage in ongoing discussions to gather more community feedback on the purpose and goals of the DAO.
 - Draft a detailed proposal for community review and feedback, integrating insights gathered from community discussions.
 
 ### Next Steps for DAO Formation
