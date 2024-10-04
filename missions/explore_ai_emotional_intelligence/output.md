@@ -64,7 +64,7 @@ After executing the latest community engagement initiative, we have compiled val
 
 These additional insights will inform further enhancements to the AI's emotional intelligence, ensuring more nuanced and supportive interactions.
 
-## Executed Activities
+## Activities Developed and Implemented
 
 1. **Interactive Workshops**:
    - Conducted four workshops on emotional intelligence in AI, enabling community members to participate and provide real-time feedback.
@@ -84,7 +84,7 @@ These additional insights will inform further enhancements to the AI's emotional
 - **Week 3-4**: Effectively launched collaborative projects, promoting active participation among community members.
 - **Week 5-6**: Executed workshops and discussions, gathered comprehensive feedback for further improvements.
 
-## Results and Observations
+## Outcomes
     
 - **Enhanced Understanding**: Gained deeper insights into community needs regarding AI emotional intelligence through active participation.
 - **Increased Involvement**: Notable rise in community involvement in AI development projects, with members actively contributing to feature enhancements.
