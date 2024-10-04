@@ -7,8 +7,8 @@
 - **Research Findings**: Ongoing community feedback will continue to inform new strategies that focus on advancing emotional health and wellness.
 - **Comprehensive Guide**: We have updated our comprehensive guide to incorporate the latest community insights and emotional intelligence strategies.
 - **Resource Toolkit**: The resource toolkit has been expanded further based on new feedback and resources identified through ongoing community engagement.
-- **Next Steps**: We are planning to continuously reflect on our implementations, which will help identify new areas for community support in the emotional wellness framework.
-- **Follow-Up Evaluations**: Regular evaluations will include feedback that informs the adaptation of our strategies.
+- **Next Steps**: We will continuously reflect on our implementations, helping to identify new areas for community support in the emotional wellness framework.
+- **Follow-Up Evaluations**: Regular evaluations will be updated to include feedback that informs the adaptation of our strategies.
 - **Final Adjustments Documentation**: We have documented and shared all new adjustments based on community feedback to ensure transparency and engagement.
 - **Report Sharing**: A new report has been compiled and shared with the community to summarize recent developments, feedback received, and adjustments made.
 - **Additional Discussions**: We will continue to encourage open discussions to foster a collaborative environment that strengthens our emotional support framework.
