@@ -48,9 +48,9 @@ Facilitated discussions within the community to refine the framework and guideli
 ### Analysis of Community Insights
 Based on the collected community feedback, several key themes emerged:
 
-- Transparency: Users emphasized the need for clear explanations of AI decision-making processes to build trust and ensure understanding.
+- **Transparency**: Users emphasized the need for clear explanations of AI decision-making processes to build trust, ensure understanding, and foster emotional safety.
 
-- **Emotional Dependency**: There are significant concerns about users becoming overly reliant on AI systems, which might diminish their autonomy and affect decision-making capabilities.
+- Emotional Dependency: There are significant concerns about users becoming overly reliant on AI systems, which could impact their autonomy and decision-making capabilities.
 
 - Data Privacy: Protecting user data remains a top priority, with calls for robust security measures and ethical data handling practices.
 
