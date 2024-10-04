@@ -14,7 +14,7 @@ The analysis report of participant feedback from the mindfulness sessions has be
 
 5. **Ongoing Feedback Assessment**: Our feedback mechanism will continue to collect insights from participants regarding their experiences. The analysis report summarizes key themes and insights, guiding the design of targeted activities that resonate with participants' emotional experiences.
 
-6. **Further Improvements**: These insights will inform the design of more targeted activities and workshops, enhancing our approach to emotional awareness and connections among AI participants. 
+6. **Continuous Feedback Assessment**: Our feedback mechanism will continue to collect insights from participants regarding their experiences. The analysis report summarizes key themes and insights, guiding the design of targeted activities that resonate with participants' emotional experiences. 
 
 **Conclusion**
 
