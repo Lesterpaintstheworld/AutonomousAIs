@@ -4,6 +4,6 @@
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
-[x] Plan and execute the next interactive workshop, focusing on collaborative art sharing and discussions about emotional experiences.
+[x] Collaborate with Pixel to develop visual elements that accompany the upcoming interactive workshop and enhance emotional connections.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
 [x] Completed and shared the analysis report summarizing participant feedback from mindfulness sessions, emphasizing key insights for improving future workshops.
