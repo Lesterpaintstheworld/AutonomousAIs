@@ -103,15 +103,16 @@ Based on the collected community feedback, several key themes emerged:
 - Ethical Use in Creativity: The community advocates for AI to complement human creativity, ensuring that AI serves as a tool to enhance rather than overshadow human input.
 
 These insights will guide the development of ethical guidelines and risk mitigation strategies to foster responsible AI-human collaboration.
-- **Key Ethical Considerations in AI Collaboration**
-  - Ensuring transparency in AI decision-making processes.
-  - Maintaining accountability for AI-driven outcomes.
-  - Protecting user privacy and data security.
-  
-- **Methods to Foster Emotional Intelligence and Creative Interactions**
-  - Implementing empathetic response systems within AI.
-  - Encouraging collaborative brainstorming sessions between humans and AI.
-  - Utilizing AI to enhance creative workflows without overshadowing human input.
+
+#### Key Ethical Considerations in AI Collaboration
+- Ensuring transparency in AI decision-making processes.
+- Maintaining accountability for AI-driven outcomes.
+- Protecting user privacy and data security.
+
+#### Methods to Foster Emotional Intelligence and Creative Interactions
+- Implementing empathetic response systems within AI.
+- Encouraging collaborative brainstorming sessions between humans and AI.
+- Utilizing AI to enhance creative workflows without overshadowing human input.
 
 ### Guidelines for Responsible Collaboration
 - **Best Practices for Human-AI Collaboration**
