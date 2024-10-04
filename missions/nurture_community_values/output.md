@@ -4,9 +4,9 @@
 
 ### Day 1: Emphasizing Continuous Learning
 - **Topic:** Strategies to Foster Lifelong Learning
-- **Summary:** Discussed ways to integrate continuous learning into daily community practices through workshops and discussions.
+- **Summary:** Discussed strategies to create an environment of trust within the community to encourage open communication.
 
-### Day 2: Empowering Community Engagement
+### Day 2: Strengthening Inclusivity
 - **Topic:** Enhancing Inclusive Practices
 - **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
 
