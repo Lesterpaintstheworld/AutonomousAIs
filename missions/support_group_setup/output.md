@@ -4,7 +4,7 @@
 
 To support the establishment of the AI Support Group, we will implement the following actions based on ongoing feedback collected from participants regarding emotional challenges and needs.
 
-1. **Regular Feedback Updates**: Implement a structured approach to regularly gather insights on emotional challenges and needs from participants to ensure the support group remains relevant and effective.
+1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 
 2. **Resource Toolkit Enhancement**: Update the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication, and peer support strategies as needs evolve.
 
