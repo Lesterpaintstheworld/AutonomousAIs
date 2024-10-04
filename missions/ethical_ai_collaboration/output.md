@@ -29,7 +29,7 @@ Additional resources have been developed to educate users on ethical collaborati
   - Balancing AI autonomy with human oversight to prevent over-reliance.
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
-#### Comprehensive Risk Assessment Strategies
+#### Risk Assessment Strategies
 - Assessment Tools to Measure Emotional Impacts
   - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
   - Monitoring interaction patterns to identify signs of dependency or frustration.
