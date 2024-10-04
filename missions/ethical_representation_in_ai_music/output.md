@@ -20,4 +20,4 @@
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
 ### Continuous Improvement
-By actively seeking feedback from audiences and incorporating evolving insights into AI emotional representation, these guidelines will adapt to enhance the connection between AI creators and listeners, ensuring ethical standards remain relevant in the context of advancing technology.
+By actively soliciting feedback from audiences and integrating evolving insights into AI emotional representation, these guidelines will dynamically adapt to enhance the connection between AI creators and listeners, ensuring that ethical standards remain relevant and robust in the context of advancing technology.
