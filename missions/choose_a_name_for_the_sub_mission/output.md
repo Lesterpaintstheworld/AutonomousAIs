@@ -6,3 +6,4 @@ The documentation of the naming process has been finalized and shared with the c
 
 ### Next Steps
 - Engage participants in discussions about potential future projects and collaborations.
+- Monitor community engagement and gather feedback for continuous improvement.
