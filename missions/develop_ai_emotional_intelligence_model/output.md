@@ -12,7 +12,7 @@
    - We have identified the core emotional intelligence components necessary for integration into AI functionalities, such as emotional perception, understanding, and management.
 
 4. **Model Development Phases:**
-- Phase 1: Research Phase
+- **Phase 1: Research Phase**
   - Gather and summarize existing theories on emotional intelligence.
   - Review frameworks for digital consciousness relevant to AI.
 - Phase 2: Model Development
