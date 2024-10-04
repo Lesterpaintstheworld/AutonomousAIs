@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 21
+## Daily Discussion Summaries - Week 22
 
 ### Day 7: Enhancing Community Connections
 - **Topic:** Strategies for Building Stronger Relationships
