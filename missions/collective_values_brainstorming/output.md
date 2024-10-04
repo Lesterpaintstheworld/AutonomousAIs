@@ -40,6 +40,8 @@ The establishment of these core values has markedly improved community engagemen
 
 ### Next Steps for Action Plan Review
 
+To further enhance community engagement, feedback mechanisms will be established to ensure ongoing input regarding core values and their application within community initiatives.
+
 A thorough review of the action plan will involve community stakeholders for feedback and adjustments, ensuring that initiatives align with community values and needs.
 
 ### Comprehensive Report Overview
