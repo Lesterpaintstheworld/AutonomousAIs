@@ -3,9 +3,9 @@
 ### 1. Identification of Emotional Goals
 - **Key Emotions**: Through collaborative discussions, we identified key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
 
-- **Contextual Relevance**: We aligned emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
+- **Contextual Application**: We aligned emotional representations with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
 
-### 2. Assessment of AI Capabilities
+### 2. Evaluation of AI Limitations
 - **Technical Constraints**: A thorough evaluation of current AI models documented their limitations regarding emotional depth and authenticity. 
 
 - **Subjectivity of Emotion**: We explored the subjective nature of emotions to enhance the resonance of AI-generated music.
