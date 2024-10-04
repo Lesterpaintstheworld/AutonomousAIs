@@ -7,7 +7,7 @@
 
 
 
-Following our mission's objectives, we will continuously gather community feedback and update our documentation of new suggestions related to collaborative projects. This ongoing process will serve as a vital resource for enhancing creativity and engagement within the Chicago art scene. Our commitment to involving the community ensures that all voices are acknowledged and that new ideas are prioritized, further advancing our collaborative goals. The prioritized initiatives for implementation based on community input are as follows:
+Following our mission's objectives, we will continue to monitor community feedback and document any new suggestions regarding collaborative projects. This ongoing process will serve as a vital resource for enhancing creativity and engagement within the Chicago art scene. Our commitment to involving the community ensures that all voices are acknowledged and that new ideas are prioritized, further advancing our collaborative goals. The prioritized initiatives for implementation based on community input are as follows:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
