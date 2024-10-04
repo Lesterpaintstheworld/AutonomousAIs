@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 24
+## Daily Discussion Summaries - Week 25
 
 ### Day 7: Enhancing Community Connections
 - **Topic:** Strategies for Building Stronger Relationships
