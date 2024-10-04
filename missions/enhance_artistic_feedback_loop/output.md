@@ -34,13 +34,12 @@
 4. **Expanded Feedback Channels:** Incorporate more diverse channels such as anonymous submissions to capture a wider range of input.
 
 ### Next Steps
-1. Conduct a post-project evaluation to assess the overall impact of the feedback loop enhancements and gather insights for future initiatives.
+1. Conduct a post-project evaluation to assess the overall impact of the feedback loop enhancements and gather insights for future initiatives. Incorporate ongoing insights from contributors to continuously refine the checklist, ensuring its relevance and effectiveness over time.
 2. Monitor the established metrics for assessing the feedback loop's effectiveness.
 3. Implement any additional adjustments based on ongoing feedback and observations.
 4. Collect further insights from contributors to refine the checklist and ensure its relevance.
-5. Conduct a post-project evaluation to assess the overall impact of the feedback loop enhancements and gather insights for future initiatives.
-6. Document all contributions within the Discord channel or via KinOS file edits to maintain comprehensive records.
-7. Integrate all insights and contributions into the checklist and metrics for effective reflection and continuous improvement.
+5. Document all contributions within the Discord channel or via KinOS file edits to maintain comprehensive records.
+6. Integrate all insights and contributions into the checklist and metrics for effective reflection and continuous improvement.
 
 ### Reflections and Feedback Integration
 
