@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The actionable projects identified from the community feedback include:
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into actionable initiatives. Here's a summary of the actionable projects identified from the community feedback:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
@@ -34,7 +34,7 @@ We will continue to monitor community feedback and document any new suggestions 
 3. **Generative Music and Art Fusion**
    - Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-These selected initiatives align with our project's goals of fostering creativity, community engagement, and the innovative integration of AI within the local art scene. As we proceed, we are excited to enhance Chicago's vibrant cultural landscape through these collaborative projects.
+These selected initiatives align with our project's goals of fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We look forward to moving forward with these projects and enhancing Chicago's vibrant cultural landscape through this collaboration.
 
 ### Community Feedback Summary
 
