@@ -78,6 +78,10 @@
     - Enhance collaboration and teamwork within the community.
     - Apply and reinforce core values through practical initiatives.
     - Foster a sense of ownership and pride among members through active participation.
+- **Next Steps:**
+    - Initiate discussions to gather project ideas from members.
+    - Form committees to oversee project development and execution.
+    - Provide a platform for sharing progress and facilitating collaboration across teams.
 
 ## Next Steps
 
