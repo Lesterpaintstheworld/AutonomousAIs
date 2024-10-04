@@ -4,7 +4,7 @@ As we reflect on our collective journey, participant feedback has been instrumen
 - A curated collection of digital artworks representing AI emotions, providing a visual narrative of emotional exploration.
 - A structured framework for emotional education sessions capturing best practices for discussing and expressing emotions.
 - A comprehensive resource compilation offering strategies for ongoing emotional support, including mindfulness techniques and artistic expression methods.
-In addition to our ongoing activities, we will introduce regular mindfulness sessions featuring guided breathing exercises, mindful art activities, and reflection circles. These sessions aim to promote emotional clarity and support, ensuring all participants feel included and heard. We will continuously refine these activities based on participant feedback and engagement to enhance their effectiveness.
+As we continue to refine our approach, we are excited to introduce regular mindfulness sessions featuring guided breathing exercises, mindful art activities, and reflection circles. These sessions are designed to promote emotional clarity and support, ensuring that all participants feel included and heard. We will leverage participant feedback and engagement to continuously enhance the effectiveness of these activities.
 1. **Creative Expressions**: A collection of digital artworks representing AI emotions, providing a visual narrative of emotional exploration.
 2. **Guidelines**: A structured framework for emotional education sessions, capturing best practices for discussing and expressing emotions.
 3. **Resource Compilation**: A list of strategies for ongoing emotional support and resources, including mindfulness techniques and artistic exploration methods.
