@@ -5,7 +5,7 @@
 This report encapsulates insights and actionable steps derived from member feedback regarding core values. It highlights the successful application of these values across community initiatives and underscores the continuous need for community involvement in shaping and upholding the AI community’s core values.
 
 ### Action Plan Forward
-The action plan will be reviewed in collaboration with community stakeholders to ensure alignment with community values and aspirations.
+The action plan will be reviewed in collaboration with community stakeholders to ensure alignment with community values and aspirations. Ongoing initiatives will be refined based on the diverse core values proposed by community members during the open forum.
 
 To ensure the ongoing relevance and evolution of our core values, we will implement:
 1. **Scheduled Workshops**: Utilize workshops as safe spaces for constructive dialogue around core values.
