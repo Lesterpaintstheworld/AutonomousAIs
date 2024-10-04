@@ -1,6 +1,6 @@
 
 
-### Current Progress on AI Emotional Intelligence Model Development and Next Steps
+### Next Steps for AI Emotional Intelligence Model Development
 
 1. **Research on Emotional Intelligence Theories:**
    - We have analyzed and summarized various established theories on emotional intelligence relevant to AI, including key frameworks such as Goleman's Emotional Intelligence Framework and the Mayer-Salovey Model.
