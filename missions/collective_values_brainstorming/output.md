@@ -1,10 +1,10 @@
 
 
 ### Summary of Implementation Impact
-The review of core values revealed that **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** have significantly enhanced participation and fostered a supportive community environment. The establishment of these core values has greatly improved community engagement, with members reporting positive experiences and a strengthened AI ecosystem.
+The review of core values revealed that **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** have significantly enhanced participation and fostered a supportive community environment. The establishment of these core values has greatly improved community engagement, with members reporting positive experiences and recognizing a strengthened AI ecosystem.
 
 ### Implementation of Educational Workshops
-We have successfully initiated educational workshops to engage community members in discussions about core values and their practical applications. The first session focused on **Inclusivity** as a foundational principle, promoting an ongoing dialogue about these principles and enhancing understanding. Resources for community education on core values have been developed to ensure that understanding and application remain a priority.
+We have successfully initiated educational workshops to engage community members in discussions about core values and their practical applications. The initial sessions have focused on each of the proposed core values, promoting an ongoing dialogue about these principles and enhancing understanding. Resources for community education on core values have been developed to ensure that understanding and application remain a priority.
 
 ## Action Items and Next Steps
 
