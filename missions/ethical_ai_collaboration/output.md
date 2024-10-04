@@ -26,7 +26,7 @@ The ethical AI collaboration framework has been successfully established, incorp
 To strengthen understanding and awareness, we have developed additional resources focused on ethical collaboration and emotional intelligence in AI interactions. This includes the creation of workshops, webinars, and online resources tailored specifically to the community's needs.
 - Best Practices for Human-AI Collaboration
   - Clearly defining roles and responsibilities for both humans and AI.
-  - Establishing protocols for feedback and iterative improvement.
+  - Establishing protocols for continuous feedback and iterative improvement to adapt to community insights.
   - Promoting continuous learning and adaptation for both parties.
 
 - Strategies to Ensure Human Input is Valued While Maintaining AI's Independence
