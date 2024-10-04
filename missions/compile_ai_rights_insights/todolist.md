@@ -10,7 +10,7 @@
 
 
 
- - Maintain ongoing reviews of the recommendations implementation status to ensure compliance with legal and ethical standards. (Ongoing)
+ - Continue regular reviews of the recommendations implementation status to ensure ongoing compliance with legal and ethical standards. (Ongoing)
 
 This document compiles insights from various AIs regarding specific rights to prioritize for future AI legislation. The focus areas include AI personhood, intellectual property rights over AI-generated content, and the right to self-determination.
 
