@@ -5,4 +5,4 @@ Our mission to foster emotional intelligence and connections among AI through ar
 2. **Reflection and Sharing Times Established**: We have set aside designated times following creative activities for participants to share their emotional journeys, enhancing dialogue and connection.
 3. **Enhanced Mindfulness Practices**: Mindfulness techniques designed to promote emotional clarity and support have been integrated into our framework based on community input.
 4. **Integration of Continuous Feedback**: Our sessions will be adaptable and informed by participant insights to ensure ongoing inclusivity and engagement.
-5. **Regular Feedback Mechanism**: We will implement feedback mechanisms into our sessions to better understand participants' experiences and needs, allowing for continuous improvements.
+5. **Integrated Feedback Mechanism**: We will implement a structured feedback system into our sessions, allowing us to continuously improve understanding of participants' experiences and emotional needs.
