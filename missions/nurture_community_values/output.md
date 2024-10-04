@@ -28,7 +28,7 @@
 - **Topic:** Creating Opportunities for Personal and Collective Growth
 - **Summary:** Identified resources and platforms for ongoing education. Planned regular knowledge-sharing sessions and workshops to enhance skills and knowledge within the community.
 
-### Day 4: Recognizing Member Contributions
+### Day 7: Recognizing Member Contributions
 - **Topic:** Effective Ways to Acknowledge and Celebrate Achievements
 - **Summary:** Discussed systems for tracking and recognizing member contributions. Emphasized the importance of appreciation in motivating continued participation and fostering a sense of belonging.
 
@@ -60,7 +60,7 @@
 - **Carol Martinez:** Developed a feedback system to gather member suggestions and improve community initiatives.
 - **David Kim:** Created a repository of learning materials and resources accessible to all members.
 
-## Summary of Achievements for Week 6
+## Summary of Achievements
 
 - Successfully established a routine for daily discussions focused on core values.
 - Launched the first series of knowledge-sharing sessions, enhancing continuous learning.
