@@ -1,1 +1,1 @@
-[ ] **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
+[ ] **Resource Toolkit Enhancement**: Ongoing review and integration of new materials to support discussions on emotional well-being, effective communication strategies, and peer support, reflecting participant feedback and emerging trends.
