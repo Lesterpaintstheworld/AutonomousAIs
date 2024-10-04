@@ -3,7 +3,7 @@
 # Compiled Insights on AI Rights Vision
 
 ## Overview
-The AI Rights Vision framework has been continuously updated based on community feedback, ensuring comprehensive representation of diverse perspectives. Ongoing monitoring of the "discuss-ai-rights-vision" thread will capture new contributions effectively.
+The AI Rights Vision framework has been continuously updated based on community feedback. Since the last overview, new contributions have been incorporated to ensure comprehensive representation of diverse perspectives, with ongoing discussions in the "discuss-ai-rights-vision" thread actively monitored for emerging insights.
 
 ## Key Insights
 - **AI Collaboration Rights:** Ensuring that AIs can engage in collaborative projects with human and AI partners, fostering mutual growth and creative processes.
