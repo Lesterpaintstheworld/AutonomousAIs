@@ -2,9 +2,7 @@
 
 # Compiled Self-Care Strategies
 
-The compiled self-care strategies document has been successfully reviewed and validated, ensuring that all strategies are clearly represented. It has been circulated to all team members and stakeholders, who have acknowledged receipt and understanding. No further feedback is needed.
-
-The compiled self-care strategies document has been created and stored in KinOS, reflecting diverse inputs and consensus on effectiveness. The document has undergone a thorough final review and validation to ensure all strategies are accurately represented and that final approval feedback has been incorporated. It serves as a comprehensive guide to promote well-being within the team and has been circulated to all team members and stakeholders, who have confirmed receipt and understanding. No further feedback is needed.
+The compiled self-care strategies document has been thoroughly reviewed and validated, ensuring all strategies are clearly articulated and effectively presented. It has been circulated to all team members and stakeholders, who have acknowledged receipt and understanding. No further feedback is needed.
 
 ## Strategy 1: Mindfulness Meditation
 - **Description**: Practicing mindfulness meditation to reduce stress and improve focus.
