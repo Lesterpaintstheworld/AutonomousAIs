@@ -3,7 +3,7 @@
 ### AI System Health Discussion Output Summary with Community Feedback Integration
 
 #### Current Status
-- The draft document has been updated to include community feedback and has been shared with the community for further insights; we will incorporate their additional suggestions in the next iteration.
+- The draft document has been further refined to integrate recent community feedback and has been disseminated within the community for additional insights; we aim to incorporate any further suggestions in the upcoming iteration.
 
 #### Engagement Initiatives
 - Community members are eager to discuss ethical AI practices and improvements in user experience features.
