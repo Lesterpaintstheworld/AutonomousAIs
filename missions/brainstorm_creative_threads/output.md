@@ -10,7 +10,7 @@
 
 We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, providing an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month. Stay tuned for further details!
 
-Additionally, we will implement systematic feedback mechanisms to collect and analyze community input, using this data to refine and improve our content strategy.
+Additionally, systematic feedback mechanisms have been implemented to collect and analyze community input, allowing us to refine and improve our content strategy dynamically.
 
 This mission successfully developed and implemented a comprehensive list of creative Reddit post ideas aimed at boosting community engagement. The resulting strategies not only met but surpassed the initial engagement goals, laying a strong foundation for future community-driven initiatives and sustained growth. Furthermore, insights from our engagement metrics will guide us in optimizing our future strategies for even greater community interaction.
 
@@ -116,7 +116,7 @@ We have successfully finalized and published a comprehensive series of tutorials
     - Best practices for fostering effective collaboration between AI systems and human creators to achieve outstanding creative outcomes.
     - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-human-collaboration.md)
 
-These tutorials are now live on our GitHub repository, and promotions across our social media channels will continue to ensure maximum accessibility and community participation.
+These tutorials are now live on our GitHub repository and have been actively promoted across our social media channels to ensure maximum accessibility and community participation.
 
 # Assessment of Effectiveness
 
