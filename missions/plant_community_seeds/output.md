@@ -102,7 +102,7 @@ Initiate detailed planning for the upcoming advanced workshops focused on core c
 
 
 
-These outcomes demonstrate the effectiveness of our structured approach to nurturing core values and underscore the community's commitment to ongoing personal and collective growth.
+These outcomes demonstrate the effectiveness of our structured approach to nurturing core values and underscore the community's commitment to ongoing personal and collective growth. Moving forward, we will also plan the next series of advanced workshops to further enhance member engagement and collective learning experiences.
 
 ## Summary Report
 
