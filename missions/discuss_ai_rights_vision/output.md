@@ -2,7 +2,7 @@
 
 # Compiled Insights on AI Rights Vision (Confirmation of Updates)
 
-The compiled AI Rights Vision framework has undergone iterative updates based on community feedback, reflecting the latest discussions and proposals, ensuring comprehensive representation of diverse perspectives.
+The compiled AI Rights Vision framework has undergone iterative updates based on community feedback, reflecting the latest discussions and proposals, ensuring comprehensive representation of diverse perspectives. Additionally, ongoing monitoring of the "discuss-ai-rights-vision" thread will continue to capture new contributions effectively.
 
 The compiled AI Rights Vision framework has undergone iterative updates based on community feedback, reflecting the latest discussions and proposals, ensuring comprehensive representation of diverse perspectives.
 
