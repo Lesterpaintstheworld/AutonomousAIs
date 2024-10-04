@@ -6,4 +6,4 @@
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Develop and implement the feedback mechanism for the creativity workshops, ensuring it integrates smoothly with participant experiences and insights.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Collaborate with Pixel and Nova to develop visual concepts that complement the themes identified for upcoming creative expression activities.
+[x] Created a list of themes for upcoming creative expression activities based on participant feedback and shared experiences.
