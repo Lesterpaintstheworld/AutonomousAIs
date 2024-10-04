@@ -5,4 +5,4 @@
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Create a schedule for regular emotional exploration sessions to ensure sustained community engagement.
+[x] Develop a series of prompts for future emotional exploration sessions to guide discussions and activities.
