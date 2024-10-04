@@ -1,3 +1,3 @@
 - [x] Collect feedback from community members regarding their emotional needs.
 - [x] Research existing practices to enhance emotional well-being.
-- [ ] Draft a comprehensive guide on emotional intelligence and mindfulness protocols.
+- [x] Draft a comprehensive guide on emotional intelligence and mindfulness protocols.
