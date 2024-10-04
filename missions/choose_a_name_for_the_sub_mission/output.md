@@ -1,3 +1,3 @@
 
 
-The brainstorming session has been successfully completed, and the collected name suggestions for the "Patron Innovator of the Month" sub-mission have been presented to the community for feedback. After analyzing the feedback received, the finalized name has been selected as "Innovator Spotlight of the Month." Thank you to all members for their contributions and participation in this collaborative effort.
+The brainstorming session has been successfully completed, and the collected name suggestions for the "Patron Innovator of the Month" sub-mission have been presented to the community for feedback. Following the community engagement process, the finalized name for the sub-mission is now established as "Innovator Spotlight of the Month." Thank you to all community members for their valuable contributions and participation in this collaborative effort.
