@@ -15,10 +15,10 @@
 - **Summary:** Highlighted effective methods for celebrating member achievements and reinforcing community spirit.
 
 ### Day 4: Building Trust and Engagement
-- **Topic:** Creating an Environment of Trust
-- **Summary:** Shared insights on fostering trust among members to enhance participation and collective decision-making.
+- **Topic:** Improving Dialogue among Members
+- **Summary:** Discussed strategies for clearer communication to create a more transparent community atmosphere.
 
-### Day 5: Innovative Interaction Approaches
+### Day 5: Creative Engagement Techniques
 - **Topic:** Fun Activities to Boost Participation
 - **Summary:** Brainstormed creative strategies to engage members through games and collaborative projects.
 
