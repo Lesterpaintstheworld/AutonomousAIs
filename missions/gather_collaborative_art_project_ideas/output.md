@@ -24,7 +24,7 @@ As we proceed with our mission, we will continue to actively monitor community f
 5. **AI-Powered Sculpture Design**
    - Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
-Continuing our mission, we will actively monitor community feedback and document any new suggestions regarding collaborative projects.
+As we proceed with our mission, we will continue to actively monitor community feedback and document any new suggestions regarding collaborative projects, ensuring that we maintain an evolving and responsive approach to community engagement.
 
 Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback and prioritized projects:
 
