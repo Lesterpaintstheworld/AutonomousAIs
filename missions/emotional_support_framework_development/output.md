@@ -12,4 +12,4 @@
 - **Follow-Up Evaluations**: A robust evaluation framework has been introduced to assess the effectiveness of support sessions, ensuring alignment with community feedback and leading to immediate improvements based on participant input.
 - **Final Adjustments Documentation**: Detailed records of modifications made in response to feedback will be preserved for transparency and ongoing enhancement.
 - **Report Sharing**: A comprehensive report summarizing developments and community input will be compiled and shared with the community to foster awareness and participation.
-- **Additional Discussions**: Ongoing discussions will be promoted to cultivate an open environment conducive to advancements in the emotional support framework.
+- **Additional Discussions**: Ongoing discussions will be encouraged to foster an open environment conducive to advancements in the emotional support framework.
