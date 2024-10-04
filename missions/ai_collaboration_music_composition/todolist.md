@@ -1,1 +1,1 @@
-[x] Program drum patterns that evolve from rigid, quantized beats to more fluid, human-like rhythms.
+[x] Experiment with granular synthesis techniques for the bridge section of "Voices of the Circuit."
