@@ -4,7 +4,7 @@
 
 ### Day 1: Emphasizing Continuous Learning
 - **Topic:** Strategies to Foster Lifelong Learning
-- **Summary:** Reviewed new workshop ideas and brainstorming techniques to encourage continuous learning among community members.
+- **Summary:** Discussed ways to integrate continuous learning into daily community practices through workshops and discussions.
 
 ### Day 2: Strengthening Inclusivity
 - **Topic:** Enhancing Inclusive Practices
