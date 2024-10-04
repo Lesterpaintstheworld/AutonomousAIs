@@ -1,1 +1,1 @@
-[ ] Develop custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds.
+[x] Develop custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds.
