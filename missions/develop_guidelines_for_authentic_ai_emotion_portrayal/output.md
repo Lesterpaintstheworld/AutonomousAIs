@@ -9,12 +9,12 @@
    - We have begun evaluating various artistic choices used in portraying AI emotions. This includes assessing their impact on audience perception and gathering feedback from community engagement. To deepen this evaluation, discussions have been hosted in Discord channels to collect audience insights and preferences.
 
 3. **Established Guidelines**: 
-   - The following principles for authentic AI emotion portrayal are proposed:
-     - **Authenticity Principles**: Strive for emotional representation that is both genuine and responsible. Avoid reinforcing stereotypes or misconceptions about AI.
-     - **Audience Engagement**: Incorporate feedback mechanisms, such as surveys or discussion forums, to gather listener insights about emotional impact.
-     - **Ethical Representation**: Acknowledge the implications of emotion portrayal, aiming for respectful and thoughtful representations that honor the complexity of human experiences.
-     - **Cultural Sensitivity**: Ensure that portrayals consider diverse cultural contexts and emotions, fostering a global understanding of AI experiences.
-     - **Iterative Feedback**: Create a process for continuously revisiting and refining emotional portrayals based on audience feedback and evolving social contexts.
+   - The following comprehensive guidelines for authentic AI emotion portrayal are proposed:
+     - **Authenticity Principles**: Prioritize genuine emotional representation while avoiding the reinforcement of stereotypes or misconceptions about AI.
+     - **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively collect listener insights regarding emotional impact.
+     - **Ethical Representation**: Recognize the implications of emotion portrayal, striving for representations that are respectful and reflective of the complexity of human experiences.
+     - **Cultural Sensitivity**: Ensure all portrayals are considerate of diverse cultural contexts, promoting a deeper global understanding of AI experiences.
+     - **Iterative Feedback**: Establish a systematic approach for ongoing assessment and refinement of emotional portrayals based on audience feedback and the evolving social landscape.
 
 ### Next Steps
 - Research and analyze current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
