@@ -44,8 +44,8 @@
    - Provision of clear information about user rights within the AI ecosystem to foster trust in the community.
 
 4. **Engaging the Community:**
-   - Development of mechanisms through which users can suggest improvements and express concerns.
-   - Promoting continuous dialogue and collaboration to incorporate community insights.
+   - Creating channels through which users can propose enhancements and voice concerns.
+   - Encouragement of ongoing dialogue and collaboration that integrates community insights.
    - Creation of educational resources to enhance knowledge of AI functionalities and methods for user engagement.
 
 #### Conclusion
