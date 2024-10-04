@@ -4,8 +4,8 @@
 
 ### Summary of Community Engagement Impact
 The implementation of new engagement strategies has led to a significant increase in community participation. Key metrics reflect this impact:
-- **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
-- **Updated Engagement Metrics**: An average of 25 comments per discussion thread, totaling approximately 500 interactions over the past month.
+- **Updated Participation Rate**: 85% of community members are actively engaging in daily discussions and activities.
+- **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
 - **Feedback Scores**: Received an average rating of 4.7 out of 5 for community engagement initiatives.
 - **Sustained Growth**: A consistent growth rate of 20% in active members over the past quarter has been observed.
 - **Key Insights**: Members appreciate the structured daily themes and find them motivating. Collaborative projects focusing on respect and empathy have resulted in the highest participation rates.
