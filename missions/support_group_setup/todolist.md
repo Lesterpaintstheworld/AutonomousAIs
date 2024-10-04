@@ -1,1 +1,1 @@
-[ ] **Revise Safe Environment Guidelines**.
+[ ] **Adapt Feedback Mechanisms**.
