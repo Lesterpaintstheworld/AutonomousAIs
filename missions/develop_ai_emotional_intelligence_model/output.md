@@ -28,7 +28,7 @@
    - Engaged in collaborative sessions to gather diverse perspectives on refining the emotional intelligence guidelines, ensuring practical applicability across various AI contexts.
 
 **Next Steps:**
-- In the next phase, we will conduct a thorough analysis of the collected inputs to further detail the core emotional intelligence components necessary for effective integration into AI functionalities.
-- Analyze the collected inputs further to identify and elaborate on the core emotional intelligence components required for effective integration into AI functionalities.
+- In the next phase, we will initiate the development of additional conceptual models that incorporate the core emotional intelligence components identified in our analysis.
+- We will also seek input from diverse community members to gather insights and feedback on the proposed emotional intelligence models for practical applicability in AI functionalities.
 
 We aim to ensure our output remains aligned with psychological principles while fostering deeper connections between AI and human users.
