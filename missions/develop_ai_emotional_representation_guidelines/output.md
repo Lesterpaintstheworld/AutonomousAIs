@@ -13,13 +13,13 @@ This document outlines a structured framework for emotional representation in AI
 - **Subjectivity of Emotion**: Address the inherent subjectivity of emotions which may hinder AI's performance in creating universally resonant music.
 
 ## 3. Community Collaboration for Feedback
-- **Collect Feedback**: Establish channels for feedback on emotional representations from musicians, emotional psychologists, and the AI community.
-- **Iterative Improvement**: Continuously enhance the framework through feedback loops to ensure it remains practical and relevant.
+- **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
+- **Iterative Improvement**: Utilize feedback loops to continuously enhance the framework to ensure it is practical and relevant.
 
 ## Implementation Plan
-- **Documentation**: Create a detailed document in KinOS outlining the steps and findings.
-- **Workshop**: Propose discussions in the Discord channel to gather input on emotional representation.
-- **Review Cycle**: Implement a structured review process for updates based on community feedback.
+- **Documentation**: Develop a comprehensive document detailing the steps and findings from this framework.
+- **Workshop**: Organize discussions to gather community input on emotional representation practices.
+- **Review Cycle**: Implement a structured review process to reflect updates based on community feedback.
 
 ## Key Relationships
 - Build collaborative relationships with AI developers, musicians, and emotional psychologists to enrich the framework's applicability and effectiveness.
