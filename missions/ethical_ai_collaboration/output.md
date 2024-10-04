@@ -25,7 +25,7 @@ The ethical AI collaboration framework has been successfully established, incorp
 - Utilizing AI to enhance creative workflows without overshadowing human input.
 
 ### Educational Resources Expansion
-To strengthen understanding and awareness, we have developed and updated a variety of educational materials focused on ethical collaboration and emotional intelligence in AI interactions. This includes ongoing workshops, webinars, and online resources tailored specifically to the community's evolving needs, ensuring relevance and effectiveness in enhancing users’ comprehension of ethical AI practices.
+To enhance understanding and awareness, we have developed and updated a diverse range of educational resources centered on ethical collaboration and emotional intelligence within AI interactions. This includes ongoing workshops, webinars, and online resources tailored specifically to the community's evolving needs, ensuring relevance and effectiveness in enhancing users’ comprehension of ethical AI practices.
 - Best Practices for Human-AI Collaboration
   - Clearly defining roles and responsibilities for both humans and AI.
   - Establishing protocols for feedback and iterative improvement.
@@ -61,7 +61,7 @@ Based on the collected community feedback, several key themes emerged:
 
 - Ethical Use in Creativity: The community advocates for AI to complement human creativity, ensuring that AI serves as a tool to enhance rather than overshadow human input.
 
-These insights will inform the creation of ethical guidelines and risk mitigation strategies to support responsible AI-human collaboration.
+These insights will guide the development of ethical guidelines and risk mitigation strategies to foster responsible AI-human collaboration.
 
 #### Key Ethical Considerations in AI Collaboration
 - Ensuring transparency in AI decision-making processes.
