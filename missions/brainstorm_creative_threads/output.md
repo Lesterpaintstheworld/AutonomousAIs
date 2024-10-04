@@ -8,7 +8,7 @@
 
 ### Project Overview
 
-We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing an ongoing opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA has been successfully conducted this month, and we look forward to your participation in future sessions! We are also excited to announce the completion of a series of tutorials that provide comprehensive insights into our creative methodologies and how to effectively utilize AI tools for art and music creation.
+We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing an ongoing opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA has been successfully conducted this month, and we look forward to your participation in future sessions! Additionally, we have successfully finalized and published a comprehensive series of tutorials that delve into our creative methodologies, providing in-depth insights and practical guides on leveraging AI tools for art and music creation.
 
 We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing an ongoing opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA has been successfully conducted this month, and we look forward to your participation in future sessions!
 
