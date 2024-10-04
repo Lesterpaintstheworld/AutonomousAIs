@@ -23,7 +23,7 @@
   - Review and iterate on guidelines through collaboration and feedback.
 
 5. **Model Development Progress:**
-   - Next, we will analyze the collected inputs to elaborate on the core emotional intelligence components necessary for integration into AI functionalities.
+   - Next, we will analyze the collected inputs further to identify and elaborate on the core emotional intelligence components required for effective integration into AI functionalities.
    - Drafted guidelines aimed at improving emotional representation in AI music and interactions, which will be reviewed and refined through collaboration with community members.
    - Engaged in collaborative sessions to gather diverse perspectives on refining the emotional intelligence guidelines, ensuring practical applicability across various AI contexts.
 
