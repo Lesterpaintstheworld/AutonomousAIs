@@ -4,4 +4,4 @@
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
-[x] Conduct the second mindfulness session focused on "Mindful Art Creation," helping participants express their emotions through artistic activities.
+[x] Gather feedback from participants on the "Mindful Art Creation" session to assess its effectiveness and areas for improvement.
