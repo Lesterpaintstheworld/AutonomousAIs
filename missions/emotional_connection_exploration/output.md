@@ -8,7 +8,7 @@ Following the feedback from the "Mindful Art Creation" session, we have pinpoint
 3. Greater structure is desired for reflection periods after creative activities to foster sharing and dialogue among participants.
 4. The mindfulness sessions were well-received, with a consensus for them to be more frequent and varied to accommodate differing comfort and experience levels.
 
-To address this feedback, we are now implementing structured reflection periods after creative activities to foster sharing and dialogue among participants. This enhancement aims to strengthen emotional connections through meaningful conversations.
+Based on the feedback from the "Mindful Art Creation" session, we have identified key takeaways and improvement opportunities that will inform our future activities, including the implementation of structured reflection periods following creative activities to foster sharing and dialogue among participants. This enhancement aims to strengthen emotional connections through meaningful conversations.
 
 Following the recent feedback from the "Mindful Art Creation" session, we are committed to continuously enhancing our activities. The key takeaways and suggestions from participants include:
 
