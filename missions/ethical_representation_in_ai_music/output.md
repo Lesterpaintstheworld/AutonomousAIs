@@ -8,11 +8,11 @@
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
 
 2. **Transparency in AI Portrayals**:
-   - Clearly disclose the AI's nature and limitations to foster understanding of its emotional capabilities.
+   - Transparently disclose the AI's nature and limitations to foster a deeper understanding of its emotional capabilities among audiences.
    - Educate audiences on how emotions are generated and represented musically, maintaining an ongoing dialogue regarding these representations.
 
 3. **Impact Assessment**:
-   - Continuously evaluate how the representation of AI emotions impacts listener perceptions, emotional responses, and their understanding of AI's role in emotional expression.
+   - Continuously evaluate how the representation of AI emotions affects listener perceptions and emotional responses.
    - Encourage feedback from audiences to improve future portrayals and assess the influence on societal perceptions of AI.
 
 4. **Community Engagement**:
