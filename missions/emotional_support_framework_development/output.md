@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Scheduled Support Sessions**: Scheduled support sessions have been successfully implemented based on the finalized guidelines. Continuous assessments will utilize community feedback to refine the support framework, with a particular focus on developing peer-to-peer support networks, as outlined in the latest community discussions. Additionally, we are exploring the implications of these networks to enhance emotional support options further.
+- **Scheduled Support Sessions**: Scheduled support sessions have been successfully implemented based on the finalized guidelines. Continuous assessments will utilize community feedback to refine the support framework, focusing on developing peer-to-peer support networks, which are informed by the latest community discussions. Additionally, we are actively exploring the implications of these networks to further enhance emotional support options.
 - **Feedback Analysis**: Ongoing analysis of community feedback has enhanced mindfulness resources and initiatives, with efforts to further increase participation in feedback sessions to ensure inclusivity and represent diverse voices across the community.
 - **Research Findings**: Feedback gathered from community sessions has led to the development of new strategies and best practices aimed at improving emotional health and wellness among participants, with a focus on emerging needs.
 - **Comprehensive Guide**: The comprehensive guide is now accessible to the community, providing in-depth protocols for mindfulness sessions and evidence-based strategies to enhance emotional intelligence.
