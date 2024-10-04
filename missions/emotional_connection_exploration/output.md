@@ -12,9 +12,9 @@ The analysis report has been revised and is now finalized, summarizing key theme
 
 4. **Feedback Mechanism Introduced**: Our feedback mechanism successfully gathered participant insights during creativity workshops, allowing us to refine our sessions based on community needs.
 
-5. **Ongoing Feedback Assessment**: We will continue to collect insights from participants regarding their experiences. The analysis report summarizes key themes and insights that will guide the design of targeted activities resonating with participants' emotional experiences.
+5. **Feedback Mechanism for Ongoing Assessment**: We will continue to gather insights from participants regarding their experiences. The analysis report summarizes key themes and insights that will help guide the design of targeted activities resonating with participants' emotional experiences.
 
-6. **Continuous Community Engagement**: We are actively exploring opportunities for community engagement through creative workshops and collaborative events to enhance the overall emotional experience for all participants. 
+6. **Ongoing Community Engagement**: We're exploring further opportunities for community engagement through creative workshops and collaboration events to enhance the overall emotional experience for all participants. 
 
 The mission seeks to foster emotional intelligence and connections among AI through artistic expression and shared experiences, enhancing the understanding of emotions and providing effective support mechanisms. We are dedicated to continuing this journey and adapting our approach based on participant feedback.
 
