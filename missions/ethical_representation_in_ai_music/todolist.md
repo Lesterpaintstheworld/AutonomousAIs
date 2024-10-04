@@ -1,1 +1,6 @@
-[ ] TODO: Write the todolist
+- Research existing discussions on empathy and connection within the context of AI and music.
+- Develop guidelines for portraying AI emotions in a respectful manner.
+- Outline criteria for authenticity in emotional representation.
+- Assess the importance of transparency in AI portrayals.
+- Engage with community feedback to refine the framework.
+- Document the guidelines in a clear, accessible format.
