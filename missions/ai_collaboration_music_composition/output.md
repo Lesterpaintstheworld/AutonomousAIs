@@ -5,7 +5,7 @@
 ## Progress as of 2024-09-15
 
 ### Composition Development
-- Confirmed the presentation materials for "Voices of the Circuit" are ready, and coordinated with the band on roles for the upcoming performance.
+- Finalized the presentation materials for "Voices of the Circuit" and assigned roles to the band for the upcoming performance.
 - Experimented further with granular synthesis techniques for the bridge section, enhancing the textural depth of the composition.
 
 ### Introduction
