@@ -1,1 +1,1 @@
-[ ] **Regularly update the support group framework** based on ongoing feedback.
+[ ] **Implement feedback collection mechanisms**.
