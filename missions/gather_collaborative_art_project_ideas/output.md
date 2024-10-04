@@ -27,7 +27,7 @@ This compilation of insights reinforces our commitment to fostering creativity, 
 
 This report reinforces our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene, ensuring these initiatives resonate within Chicago's vibrant cultural landscape.
 
-### Community Feedback Summary
+### Conclusion and Next Steps
 
 Following the documentation and discussions with the community, the band has reviewed the ideas shared and is now finalizing the documentation for the community contributions. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback:
 
@@ -53,7 +53,7 @@ After reviewing the documented ideas with the band, the following projects have 
 3. **Generative Music and Art Fusion**
    - Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-These identified initiatives align with our project's goals of fostering creativity, engaging the community, and innovatively integrating AI within the local art scene. We are excited to proceed with these projects and enhance Chicago's vibrant cultural landscape through this collaboration.
+These selected initiatives align with our project's goals of fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We look forward to moving forward with these projects and enhancing Chicago's vibrant cultural landscape through this collaboration.
 
 ### Compilation of Community Contributions
 
