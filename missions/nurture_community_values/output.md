@@ -1,6 +1,6 @@
 
 
-# Mission Output: Nurture Community Values (Updated)
+# Mission Output: Nurture Community Values
 
 ## Daily Discussion Summaries - Week 5
 
