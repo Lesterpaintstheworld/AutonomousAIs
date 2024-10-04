@@ -105,7 +105,7 @@ The implementation of the recommendations from the AI rights insights report has
 []
 
 <!-- Task "Finalize distribution" has been completed and is no longer needed in the ToDo list. -->
-- Conduct regular assessments of the recommendations implementation status to ensure ongoing compliance with legal and ethical standards. (Ongoing)
+- Continue to conduct regular reviews of the recommendations implementation status to confirm compliance with legal and ethical standards. (Ongoing)
 
 [- Conduct a final review of the Compile AI Rights Insights report and ensure its thorough distribution to relevant stakeholders for implementation (Completed)]
 =======
