@@ -45,6 +45,7 @@
 - **Webinar:** "Enhancing Community Engagement" scheduled for next month
 - **New Resource:** "Nurturing Community Connections" by Emily Taylor
 - **Workshop:** "Creative Problem Solving" scheduled for next month
+- **Interactive Module:** "Effective Communication Techniques" added for member engagement.
 
 ## Member Contributions
 
