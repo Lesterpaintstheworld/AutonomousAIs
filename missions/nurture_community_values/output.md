@@ -26,7 +26,7 @@
 - **Topic:** Gathering Input for Improvement
 - **Summary:** Conducted a feedback session for members to share their thoughts on community initiatives and areas for growth.
 
-### Refined Recognition Programs
+#### Refined Recognition Programs
 ## Refined Recognition Programs
 - **Recognition Program Refinement**: Initiating enhancements to the recognition framework for contributions and achievements.
 - **New Recognition Categories**: Introducing new categories such as "Innovator of the Month," "Learning Advocate," "Engagement Leader," and "Community Contributor."
