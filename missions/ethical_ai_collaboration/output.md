@@ -11,9 +11,9 @@ The following updates have been made to further enhance the ethical AI collabora
 - Protecting user privacy and data security.
 
 #### Methods to Foster Emotional Intelligence and Creative Interactions
-- Implementing empathetic response systems within AI.
-- Encouraging collaborative brainstorming sessions between humans and AI.
-- Utilizing AI to enhance creative workflows without overshadowing human input.
+- Implementing systems to facilitate empathetic responses from AI.
+- Promoting collaborative brainstorming sessions that engage both humans and AI.
+- Leveraging AI to enhance and support creative workflows while prioritizing human input.
 
 #### Guidelines for Responsible Collaboration
 - Best Practices for Human-AI Collaboration
