@@ -35,8 +35,6 @@
 
 ### Mission Progress Update
 
-### Mission Progress Update
-
 1. **Community Insights**: 
    - Successfully gathered community insights from band members and stakeholders regarding AI emotions in music through discussions and engaging collaborative sessions.
 
