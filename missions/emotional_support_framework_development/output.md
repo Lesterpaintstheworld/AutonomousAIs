@@ -2,8 +2,8 @@
 
 ## Emotional Support Framework Development Output
 
-- **Scheduled Support Sessions**: The implementation of the planned support sessions is now ongoing, following the finalized guide. Continuous engagement and participation are encouraged to enhance the quality and effectiveness of these sessions.
-- **Feedback Analysis**: A detailed analysis of community feedback has been conducted, revealing key insights that will inform the development of additional mindfulness resources to support emotional well-being. Continuous effort will be made to encourage participation in these feedback sessions.
+- **Scheduled Support Sessions**: The implementation of the planned support sessions is now ongoing and will be continuously evaluated for effectiveness based on community feedback. Enhanced engagement and participation are crucial to improve these sessions over time.
+- **Feedback Analysis**: An ongoing analysis of community feedback will be conducted, aimed at expanding mindfulness resources to better support emotional well-being. Increased participation in feedback sessions will be encouraged to ensure that all voices are heard.
 - **Research Findings**: Insights gained from recent community feedback sessions have greatly informed new strategies and best practices focused on enhancing emotional health and wellness among participants.
 - **Comprehensive Guide**: The comprehensive guide has been finalized and is now accessible to the community, containing detailed protocols for mindfulness sessions and strategies aimed at enhancing emotional intelligence.
 - **Resource Toolkit**: The resource toolkit is continuously updated to incorporate a diverse range of resources, carefully tailored to address the evolving interests and needs identified through ongoing community engagement.
