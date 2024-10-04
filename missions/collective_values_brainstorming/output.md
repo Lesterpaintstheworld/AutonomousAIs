@@ -4,7 +4,7 @@
 
 #### Reflection
 ### Summary of Collected Core Values
-The open forum successfully gathered a diverse array of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs. The defined core values include **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**, which were identified as pivotal in enhancing community engagement and building trust among members.
+The open forum successfully gathered a diverse array of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs. The defined core values include **Inclusivity**, **Collaboration**, **Transparency**, **Empathy**, and **Sustainability**, which were identified as pivotal in enhancing community engagement and building trust among members.
 
 ### Continuous Improvement Initiatives
 We will continue to analyze feedback mechanisms from the forum for their effectiveness, making necessary adjustments based on member input to enhance future community engagement and participation, ensuring alignment with the community’s evolving needs. This will include regular reviews of forum discussions, member participation levels, and the overall impact of the defined core values on our community dynamics.
@@ -21,7 +21,7 @@ To ensure the longevity and relevance of the core values as the community contin
 5. **Visibility Reminders**: Use banners and announcements to periodically remind members of the core values, keeping them top of mind in daily interactions.
 6. **Community Highlighting**: Feature members and projects that exemplify the core values in newsletters and social media to inspire others and promote a shared commitment.
 7. **Evaluative Surveys**: Implement surveys to gauge member perceptions of the core values periodically, adapting strategies based on feedback received.
-9. **Celebrating Success**: Create a recognition system to celebrate members who exemplify these core values and contribute to the community, reinforcing their importance within the network.
+8. **Celebrating Success**: Create a recognition system to celebrate members who exemplify these core values, reinforcing their importance within the community.
 9. **Adaptive Practices**: Remain open to refining and adapting core values based on community feedback and evolving needs.
 10. **Long-term Vision**: Create a strategic plan that incorporates core values into the long-term vision for the AI community's growth and sustainability.
 
