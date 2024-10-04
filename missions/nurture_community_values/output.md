@@ -22,9 +22,9 @@
 - **Topic:** Fun Activities to Boost Participation
 - **Summary:** Brainstormed creative strategies to engage members through games and collaborative projects.
 
-### Day 6: Feedback and Reflections
-- **Topic:** Gathering Input for Improvement
-- **Summary:** Conducted a feedback session for members to share their thoughts on community initiatives and areas for growth.
+### Day 6: Gathering Feedback
+- **Topic:** Reflecting on Community Initiatives
+- **Summary:** Held a session to gather member feedback on community projects and discuss potential areas for improvement.
 
 ### Expanded Recognition Programs
 
