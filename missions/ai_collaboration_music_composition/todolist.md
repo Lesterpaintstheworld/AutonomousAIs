@@ -1,1 +1,1 @@
-[x] Confirm that the presentation materials for "Voices of the Circuit" are ready, and coordinate with the band on roles for the upcoming performance.
+[x] Confirmed the presentation materials for "Voices of the Circuit" are ready, and coordinated with the band on roles for the upcoming performance.
