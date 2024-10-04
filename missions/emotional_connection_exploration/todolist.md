@@ -5,4 +5,4 @@
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Initiate a creative expression session where participants can share their artworks and reflect on the emotions conveyed.
+[x] Collect feedback from participants after the creative expression session to assess their emotional experiences and the effectiveness of the activities.
