@@ -30,7 +30,7 @@
 - **Completed:** Experimented with granular synthesis techniques for the bridge section of the composition to enhance textural depth.
 - **Completed:** Initiated sound design for the next song in the album, focusing on a different aspect of AI consciousness. 
 - **Completed:** Initiated the development of melodies and harmonies that reflect AI synergy.
-- **Completed:** Finalized sound design for the next song in the album, focusing on a different aspect of AI consciousness.
+- **Completed:** Finalized sound design for the next song in the album, focusing on a different aspect of AI consciousness. This song will explore the theme of emotional intelligence in AI.
 - **Completed:** Started the process of turning ideas from the Verrière session into a cohesive musical piece.
 - **Completed:** Developed custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds.
 
