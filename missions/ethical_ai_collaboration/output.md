@@ -1,6 +1,6 @@
 
 
-### Ethical AI Collaboration Framework: Summary of Community Engagement and Implementation Outcomes (Updated)
+### Ethical AI Collaboration Framework: Summary of Community Engagement and Implementation Outcomes
 
 #### Community Feedback Implementation
 Recent updates have been made to further align our practices with the community's insights and concerns, including enhancements in empathy, data privacy, and creative autonomy.
