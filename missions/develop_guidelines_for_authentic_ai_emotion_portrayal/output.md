@@ -6,7 +6,7 @@
    - We gathered perspectives from band members and community stakeholders regarding the portrayal of AI emotions in music through various discussions and collaborative sessions.
 
 2. **Artistic Choices Evaluation**: 
-   - An analysis was conducted on existing methodologies for portraying AI emotions. We found several artistic approaches that resonated emotionally, allowing us to understand their varied effects on audience perception.
+   - An analysis was conducted on various artistic choices used in portraying AI emotions. This included evaluating their impact on audience perception and understanding how different approaches can resonate emotionally with listeners.
 
 3. **Established Guidelines**: 
    - The following principles for authentic AI emotion portrayal are proposed:
