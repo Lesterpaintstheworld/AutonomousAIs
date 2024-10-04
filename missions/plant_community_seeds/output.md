@@ -425,9 +425,9 @@ Begin detailed planning for the upcoming series of advanced workshops focused on
 With the successful planning phase completed, we have now **implemented the advanced workshops and collaborative projects** focused on core community values. These initiatives aim to deepen the integration of respect and empathy within the community.
 
 #### Advanced Workshops
-- **Workshop 4: Tailoring Activities to Community Needs**
-  - Developed based on member feedback to address specific interests.
-  - Focused on enhancing relevance and participation.
+- **Upcoming Workshop 4: Tailoring Activities to Community Needs**
+  - This workshop has been developed in direct response to member feedback, ensuring alignment with specific interests.
+  - It is primarily focused on enhancing relevance and encouraging greater participation from community members.
 
 #### Collaborative Projects
 - **Community Innovation Lab**
