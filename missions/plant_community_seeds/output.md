@@ -225,7 +225,7 @@ The effectiveness of the advanced workshops and collaborative projects has been 
 6. **Implementation of Changes**: Execute necessary modifications to activities to better align with community needs based on insights gained from feedback.
 ######
 
-- **Increased Participation**: Community engagement metrics have risen by 30%, indicating a higher level of active involvement from members.
+- **Increased Participation**: Community engagement metrics have risen by 25%, indicating a higher level of active involvement from members.
 - **Expanded Recognition Programs**: Implemented recognition systems to acknowledge active members and contributors through badges, shout-outs, and other incentives to motivate participation.
 - **Enhanced Understanding**: Feedback surveys reveal that members have a stronger grasp of the core values, fostering a more cohesive and supportive community environment.
 - **Comprehensive Documentation**: All discussions have been meticulously recorded, providing valuable insights for future community development and continuous improvement.
