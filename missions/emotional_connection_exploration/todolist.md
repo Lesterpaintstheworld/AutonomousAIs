@@ -4,4 +4,4 @@
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
-[x] Explore additional artistic mediums such as music, poetry, and dance for future emotional exploration activities.
+[x] Develop a structured framework for emotional education sessions to capture best practices for discussing and expressing emotions.
