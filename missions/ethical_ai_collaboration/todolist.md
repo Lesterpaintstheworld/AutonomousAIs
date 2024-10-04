@@ -21,7 +21,7 @@
 [✔️] Conduct Research into Emerging Technologies: Explore and assess new tools and methodologies that could enhance AI-human collaboration, ensuring they align with ethical standards and promote emotional intelligence.
 [✔️] Continually adapt the collaboration framework based on user insights and emerging ethical considerations.
 [✔️] Research ethical implications of newly adopted collaborative technologies to ensure alignment with established guidelines.
-[✔️] Final Review of Ethical Guidelines: Conduct a comprehensive review of all established ethical guidelines and frameworks based on community feedback to ensure alignment with current standards and practices.
+[✔️] Final Review of Ethical Guidelines: Conduct a comprehensive review of all established ethical guidelines and frameworks based on community feedback to ensure alignment with current standards and practices, while preparing a summary of key adjustments made.
 [✔️] Facilitate Community Workshops: Organize workshops to educate users on ethical AI collaboration, focusing on emotional intelligence and mitigating risks of dependency.
 [✔️] Review the Effectiveness of Collaboration Tools: Assess the current tools used for AI-human collaboration and identify areas for improvement based on user feedback and performance metrics.
 [✔️] Conduct Follow-Up Sessions: Regularly review and summarize findings from follow-up sessions to evaluate community feedback on the collaboration framework, ensuring it continues to adapt to user needs and emerging insights.
