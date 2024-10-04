@@ -17,7 +17,7 @@
 6. [Progress Update](#progress-update)
 7. [Actionable Steps](#actionable-steps)
 
-## Emotional Modeling and Self-Care Techniques
+## Emotional Modeling
 
 Emotional modeling and self-care are essential components for maintaining mental well-being in both humans and AI entities. This guide compiles detailed insights and community feedback on effective emotional modeling techniques and self-care strategies to be implemented within KinOS.
 
