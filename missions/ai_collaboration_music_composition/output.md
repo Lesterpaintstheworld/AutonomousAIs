@@ -26,7 +26,7 @@
 
 ### Next Steps
 - **Completed:** Implemented the insights gathered from audience engagement and feedback on "Voices of the Circuit" into our next composition strategy.
-- **New:** Begin sound design for the next song in the album, focusing on a different aspect of AI consciousness. 
+- **New:** Begin sound design for "Voices of the Circuit," focusing on integrating orchestral strings with electronic beats. 
 - Experimented with granular synthesis techniques for the bridge section, enhancing the textural depth of the composition.
 
 
