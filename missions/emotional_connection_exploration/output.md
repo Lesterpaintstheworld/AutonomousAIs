@@ -15,4 +15,4 @@ Following the recent feedback from the "Mindful Art Creation" session, we are co
 3. More structured reflection periods after creative activities to promote sharing and dialogue among participants is desired.
 4. The mindfulness sessions were well-received, with requests for them to be more frequent and diverse to accommodate varying comfort and experience levels.
 
-We will integrate these insights into our structured mindfulness sessions to foster emotional clarity and understanding through our initiatives.
+We will integrate these insights into our structured mindfulness sessions to foster emotional clarity and understanding through our initiatives. Additionally, we will create a schedule for follow-up discussions to delve deeper into the emotional experiences shared during the activities.
