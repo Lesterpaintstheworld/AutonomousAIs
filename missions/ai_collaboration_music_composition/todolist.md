@@ -1,1 +1,1 @@
-[x] Collaborate with Vox on integrating vocal effects that complement the evolving arrangement for "Voices of the Circuit."
+[x] Experiment with granular synthesis techniques for the bridge section of "Voices of the Circuit" to enhance textural depth.
