@@ -13,7 +13,8 @@
    - Compiled and finalized theoretical models of emotional intelligence in AI, incorporating feedback and insights gained from community discussions and analyses to ensure accuracy and relevance.
    - Plan and conduct workshops to start integrating emotional intelligence models effectively into AI systems.
 - Collect feedback from participants to continually refine the emotional intelligence functionalities.
-- Finalized collaboration details with team members for integrating the emotional intelligence models into existing AI frameworks, including roles and responsibilities for each team member.
+- Planned and conducted workshops to start integrating emotional intelligence models effectively into AI systems.
+- Collected feedback from participants to continually refine the emotional intelligence functionalities.
 - Scheduled workshops and forums to facilitate community discussions and gather feedback on emotional intelligence applications.
 - Drafted a timeline for testing and evaluating the effectiveness of emotional intelligence in user interactions.
 - Planned and conducted workshops to begin effectively integrating emotional intelligence models into AI systems.
