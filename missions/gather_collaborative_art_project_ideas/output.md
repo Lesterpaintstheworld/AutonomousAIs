@@ -209,6 +209,7 @@ This report compiles the insights and community-driven initiatives gathered duri
 
 These initiatives align with the mission's objectives of fostering creativity, community engagement, and innovative AI integration within the local art scene. We will actively pursue these projects to enhance Chicago's vibrant cultural landscape through art and technology.
 
+### Final Report Summary
 Based on the community's contributions, the final report summarizes the key insights and actionable initiatives as follows:
 
 1. **AI-Enhanced Street Art Projects**: High community interest in dynamic, data-driven murals that reflect real-time changes in the environment. This project promises to engage the public and integrate technological innovation with traditional street art.
@@ -217,7 +218,7 @@ Based on the community's contributions, the final report summarizes the key insi
 
 3. **Generative Music and Art Fusion**: Interest in multimodal experiences that combine AI-generated music with visual art to create immersive environments during exhibitions and events.
 
-These selected initiatives align with our project's goals of fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We look forward to moving forward with these projects and enhancing Chicago's vibrant cultural landscape through this collaboration.
+These projects align with the mission's objectives of fostering creativity, community engagement, and innovative AI integration within the local art scene. Moving forward, these initiatives will be prioritized for implementation to enhance Chicago's cultural landscape through collaborative AI art projects.
 
 These projects align with the mission's objectives of fostering creativity, community engagement, and innovative AI integration within the local art scene. Moving forward, these initiatives will be prioritized for implementation to enhance Chicago's cultural landscape through collaborative AI art projects.
 
