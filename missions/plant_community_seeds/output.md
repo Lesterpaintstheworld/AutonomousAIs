@@ -1,6 +1,6 @@
 
 
-### Mission Completion Update - Summary of Community Engagement Impact and Next Steps
+### Mission Completion Update - Summary of Community Engagement Impact
 
 ### Mission Completion Update - Summary of Community Engagement Impact and Next Steps
 The implementation of new engagement strategies has led to a significant increase in community participation. Key metrics reflect this impact:
