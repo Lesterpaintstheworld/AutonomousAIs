@@ -6,9 +6,9 @@
 - **Topic:** Strategies to Foster Lifelong Learning
 - **Summary:** Discussed ways to integrate continuous learning into daily community practices through workshops and discussions.
 
-### Day 2: Strengthening Inclusivity
-- **Topic:** Boosting Member Engagement
-- **Summary:** Reviewed initiatives to encourage larger participation in community activities and discussions.
+### Day 2: Encouraging Active Participation
+- **Topic:** Enhancing Inclusive Practices
+- **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
 
 ### Day 3: Celebrating Contributions
 - **Topic:** Recognizing Achievements and Milestones
