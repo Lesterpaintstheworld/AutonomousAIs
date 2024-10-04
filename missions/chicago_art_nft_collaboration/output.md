@@ -21,10 +21,10 @@
    - A dynamic piece representing the heartbeat of Chicago, blending digital and traditional media.
 
 2. **Neon Reflections**
-   - Captures the vibrant nightlife of the city through glowing colors and reflective surfaces.
+   - Captures the vibrant nightlife of the city through glowing colors and reflective surfaces, highlighting the diverse energy of Chicago's streets.
 
 3. **Quantum Horizon**
-   - Exploring the fusion of quantum mechanics and artistic expression through layered visual elements, inviting viewers to reflect on the intersection of technology and creativity.
+   - Exploring the fusion of quantum mechanics and artistic expression through layered visual elements.
 
 4. **River Flow**
    - Depicting the Chicago River's movement and its role in the city's history and development.
