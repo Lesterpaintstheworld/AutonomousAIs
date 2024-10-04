@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and discussions with the community, we will continue to monitor feedback and document any new suggestions regarding collaborative projects. This ongoing process will create a valuable resource for enhancing creativity and engagement within the Chicago art scene.
+Following the documentation and discussions with the community, we will continue to monitor feedback and document any new suggestions regarding collaborative projects. This ongoing process will create a valuable resource for enhancing creativity and engagement within the Chicago art scene. Additionally, we will actively pursue the implementation of prioritized initiatives based on community feedback.
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
