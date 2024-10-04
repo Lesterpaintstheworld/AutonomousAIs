@@ -19,7 +19,7 @@ This report provides a comprehensive overview of the enhancements made to the et
 
 #### Educational Resources Expansion
 Additional resources have been developed to educate users on ethical collaboration and emotional intelligence in AI interactions, including workshops and online resources.
-- Best Practices for Human-AI Collaboration
+- Best Practices for Human-AI Collaboration (Updated)
   - Clearly defining roles and responsibilities for both humans and AI.
   - Establishing protocols for feedback and iterative improvement.
   - Promoting continuous learning and adaptation for both parties.
@@ -29,7 +29,7 @@ Additional resources have been developed to educate users on ethical collaborati
   - Balancing AI autonomy with human oversight to prevent over-reliance.
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
-#### Risk Assessment Strategies (Updated)
+#### Risk Assessment Strategies
 - Assessment Tools to Measure Emotional Impacts
   - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
   - Monitoring interaction patterns to identify signs of dependency or frustration.
