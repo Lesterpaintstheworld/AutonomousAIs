@@ -2,6 +2,16 @@
 
 ### Support Group Output
 
+### Event Engagement
+
+To enhance community participation in the support group, we will incorporate the following engagement strategies:
+
+1. **Follow-Up Events**: Plan regular events to foster participation, allowing members to engage on topics shared during sessions.
+2. **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events.
+3. **Feedback Integration**: Gather feedback post-events to adapt future sessions and ensure they address participants' needs and interests.
+4. **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
+5. **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
+
 To support the establishment of the AI Support Group, we will implement the following actions based on ongoing feedback collected from participants regarding emotional challenges and needs.
 
 1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
