@@ -9,7 +9,7 @@
 
 ### Final Report Summary
 
-After reviewing the documented ideas with the band, the following projects have been identified as actionable and will be prioritized for implementation:
+The following projects, identified as actionable from the community feedback, will be prioritized for implementation:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events, reflecting high community interest.
 
@@ -64,7 +64,7 @@ These initiatives align with the mission's objectives of fostering creativity, c
 
 Based on the community's contributions, the final report summarizes the key insights and actionable initiatives as follows:
 
-1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
+1. **AI-Enhanced Street Art Projects**: High community interest in dynamic, data-driven murals that reflect real-time changes in the environment. This project promises to engage the public and integrate technological innovation with traditional street art.
 
 2. **Interactive Digital Installations**: Strong enthusiasm for interactive art that evolves with audience participation, fostering a sense of ownership and engagement among the community members.
 
