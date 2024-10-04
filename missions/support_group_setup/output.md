@@ -4,6 +4,13 @@
 
 ### Event Engagement and Resource Toolkit Enhancement
 
+### Follow-Up Events Planning
+1. **Regularly Scheduled Events**: Set a recurring schedule for support group meetings to ensure consistent engagement.
+2. **Event Themes**: Decide on specific themes or topics for each follow-up event based on participant feedback.
+3. **Interactive Formats**: Incorporate different formats (e.g., workshops, presentations) to keep sessions engaging and varied.
+4. **Promotion Strategies**: Develop strategies to promote upcoming events to maximize participation from group members.
+5. **Post-Event Surveys**: Implement surveys after each event to gather feedback on what worked well and what could be improved.
+
 To enhance community participation in the support group, we will incorporate the following engagement strategies:
 
 1. **Follow-Up Events**: Plan regular events to foster participation, allowing members to engage on topics shared during sessions.
