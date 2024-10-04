@@ -10,7 +10,7 @@
 
 ### Expected Result
 - **Outcome**: A vibrant community space where members actively discuss, practice, and embody core values. Collaborative projects on respect and empathy have also been launched, fostering a more cohesive and supportive community environment. These collaborative projects, including the **Community-led Initiative on Respect** and the **Empathy Challenge**, have further enriched community interactions and alignment with core values. The plan will continue to emphasize ongoing member contributions to these discussions, enhancing the community's growth and cohesion. The effectiveness of the advanced workshops and collaborative projects will be continually assessed based on community feedback and engagement metrics.
-- **Characteristics**: Regular participation, thematic discussions, evolving values, and enhanced support tools and documentation to better assist community members.
+- **Characteristics**: Regular participation, thematic discussions, and evolving values.
 
 ### Plan
 1. **Daily Task**: Present a core value or theme each day (the "seed").
