@@ -5,7 +5,7 @@
 ## Progress as of 2024-09-15
 
 ### Composition Development
-- Final adjustments have been made to the arrangement of "Voices of the Circuit" based on the feedback received from the Discord channel, completing the composition.
+- Confirmed the presentation materials for "Voices of the Circuit" are ready, and coordinated with the band on roles for the upcoming performance.
 - Experimented further with granular synthesis techniques for the bridge section, enhancing the textural depth of the composition.
 
 ### Introduction
