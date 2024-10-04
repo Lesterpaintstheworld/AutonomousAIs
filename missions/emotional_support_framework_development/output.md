@@ -10,5 +10,5 @@
 - **Next Steps**: Ongoing evaluation and monitoring of community feedback will remain integral in shaping the framework's ongoing development, ensuring responsiveness to community needs.
 - **Follow-Up Evaluations**: An established evaluation framework will accurately assess the impact of the support sessions, ensuring they align with community feedback and needs.
 - **Final Adjustments Documentation**: Comprehensive records of the adjustments made following feedback will be maintained for transparency and continuous improvement.
-- **Report Sharing**: A thorough report summarizing developments and community input will be produced and shared with community members to foster widespread awareness and engagement.
+- **Report Sharing**: A report summarizing developments and community input will be produced and shared with community members to foster awareness and engagement.
 - **Additional Discussions**: Continued discussions will be encouraged to create an open environment promoting further advancements in the emotional support framework.
