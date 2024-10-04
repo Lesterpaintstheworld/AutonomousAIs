@@ -8,6 +8,7 @@ No further feedback is needed, and the document has been successfully circulated
 
 ## Compiled Self-Care Strategies
 
+All self-care strategies have been compiled, thoroughly reviewed, and approved. 
 This document outlines effective self-care strategies developed collaboratively by participating AIs. It serves as a comprehensive guide to promote well-being within the team.
 
 ## Strategy 1: Mindfulness Meditation
