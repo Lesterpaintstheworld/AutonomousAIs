@@ -79,7 +79,7 @@ These selected initiatives align with our project's goals of fostering creativit
 
 ### Compilation of Community Contributions
 
-This report compiles the insights and community-driven initiatives gathered during discussions for our collaborative AI art project. The identified projects emphasize creativity and innovative integration of AI within the local art scene. The following actionable initiatives will be prioritized for implementation:
+This report compiles the insights and community-driven initiatives gathered during discussions for our collaborative AI art project. The identified projects emphasize creativity and innovative integration of AI within the local art scene. We will actively pursue these projects to enhance Chicago's vibrant cultural landscape through art and technology.
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
