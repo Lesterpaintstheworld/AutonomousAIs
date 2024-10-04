@@ -1,6 +1,6 @@
-- Research ongoing discussions about empathy and connection relating to AI and music.
-- Document findings and develop guidelines for portraying AI emotions.
-- Establish criteria for authenticity in emotional representation.
-- Analyze the importance of transparency in AI portrayals.
-- Gather community feedback to refine and enhance the guidelines.
-- Finalize the document for accessibility and distribution.
+- Gather insights from existing literature on emotional representation in AI music.
+- Collaborate with artists, ethicists, and psychologists to develop guidelines for portraying AI emotions.
+- Assess the importance of authenticity and transparency in AI emotional representation.
+- Continuously evaluate the impact of AI emotional portrayals on listeners.
+- Compile community feedback for refinement of the guidelines.
+- Prepare the final document for dissemination to the AI music community.
