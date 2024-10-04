@@ -89,7 +89,20 @@
 
 ## Expanded Learning Resources
 ### New Additions
-### Expanded Learning Resources
+- **Article:** "Innovative Approaches to Community Building" by Tom Smith
+- **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
+- **Video:** "Engaging Community Through Dialogue" by Community Leaders
+- **Workshop:** "Creative Problem Solving Techniques" scheduled for next month
+- **Podcast:** "Leadership in Community" on XYZ Podcast
+- **Webinar:** "Building Trust in Teams" happening next month
+- **New Resource:** "Fostering Engagement through Storytelling" by Emily Parker
+- **Workshop:** "Conflict Resolution Strategies" scheduled for next month
+- **Interactive Module:** "Understanding Community Needs" now available for members.
+- **Article:** "Empowering Community Voices" by David Green
+- **Book:** "Effective Communication in Teams" by Julia Brown
+- **Webinar:** "Inclusivity Strategies in Community Building" coming up next month
+- **Interactive Workshop:** "Building Strong Relationships" happening next month
+- **Podcast Episode:** "Community Engagement Success Stories" on Community Talks
 #### New Additions
 - **Article:** "Innovative Approaches to Community Building" by Tom Smith
 - **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
