@@ -7,8 +7,8 @@ This document provides the Ethical AI Collaboration Framework and Guidelines bas
 This report details the enhancements made to the ethical AI collaboration framework, reflecting incorporated community feedback and refined guidelines.
 
 #### Key Ethical Considerations in AI Collaboration
-- #### Key Ethical Considerations in AI Collaboration
-- **Ensuring clarity in AI decision-making processes**: This is crucial for fostering trust and comprehension between human collaborators and AI systems.
+- #### Core Ethical Principles in AI Collaboration
+- **Ensuring transparency in AI decision-making processes**: This is essential to build trust and understanding between human collaborators and AI systems.
 - **Maintaining accountability for AI-driven outcomes**.
 - **Protecting user privacy and data security**.
 
