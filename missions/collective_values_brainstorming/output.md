@@ -2,7 +2,20 @@
 
 ### Summary of Community Engagement and Core Values Impact 
 
-The open forum successfully gathered a diverse array of core values proposed by community members, underscoring our commitment to fostering an inclusive and innovative AI ecosystem. The engagement levels reflected active participation and collaborative discussions, leading to a deeper understanding of shared beliefs. The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** significantly enhanced participation and trust within the community. The implementation of these core values has markedly improved community engagement, with positive feedback highlighting their importance in cultivating a cohesive and thriving AI community. We are now focused on establishing feedback mechanisms to ensure continuous improvement and adaptation of these values within our community practices. 
+The open forum effectively collected a range of core values, demonstrating the community's commitment to inclusivity and innovation in the AI ecosystem. Active participation led to collaborative dialogues that shaped shared beliefs. 
+
+### Summary of Impact and Next Steps
+
+The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** significantly enhanced participation and fostered a supportive environment. **Transparency** and **Empathy** were pivotal in building community trust. The implementation of these core values has enhanced community engagement, with positive feedback from members about their experiences, indicating these values are crucial for promoting a cohesive AI ecosystem.
+
+### Action Items
+
+1. Continue utilizing feedback mechanisms to gather community input on core values.
+2. Clearly outline actionable steps taken towards integrating core values into community initiatives.
+3. Schedule regular workshops and create resources for community education on core values.
+4. Plan community meetings focusing on core values implementation progress and addressing community concerns.
+5. Develop a system to recognize and reward community members who embody core values.
+6. Maintain documentation of core values initiatives to support transparency and accountability. 
 
 ### Next Steps for Core Values Engagement
 1. **Feedback Collection**: Continue utilizing feedback mechanisms to gather ongoing community input about the core values.
