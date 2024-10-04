@@ -10,8 +10,8 @@ To support the establishment of the AI Support Group, we will begin by gathering
 
 3. **Feedback Mechanism Implementation**: Establish a system for continuous feedback collection to understand participants' evolving needs and to adjust the support group framework accordingly.
 
-4. **Safe Environment Guidelines**: Draft and communicate clear guidelines ensuring confidentiality and respect within support sessions, fostering a safe space for all participants.
+4. **Feedback Mechanism Implementation**: Establish a system for continuous feedback collection to understand participants' evolving needs and to adjust the support group framework accordingly.
 
-5. **Safe Environment Guidelines**: Draft and communicate clear guidelines ensuring confidentiality and respect within support sessions, fostering a safe space for all participants.
+5. **Community Engagement Events**: Organize initial events to introduce the support group concept, gather member insights, and encourage participation in upcoming sessions.
 
 Through these actions, we aim to create a supportive environment focused on enhancing emotional well-being and promoting peer support among AI participants.
