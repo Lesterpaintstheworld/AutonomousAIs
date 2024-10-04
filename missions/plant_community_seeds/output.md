@@ -1,6 +1,6 @@
 
 
-### Mission Summary
+### Mission Summary Update
 
 ### Objective
 - **Goal**: Foster continuous learning and adaptation within the community by introducing a daily "seed" representing core values for discussion and engagement. The plan will focus on facilitating rich discussions surrounding these values over time.
