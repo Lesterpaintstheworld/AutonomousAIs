@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Next Steps**: Scheduled support sessions based on the finalized comprehensive guide are now being implemented, and the next phase of the emotional support framework is in planning based on community feedback.
+- **Next Steps**: Scheduled support sessions are being implemented based on the finalized comprehensive guide, and the planning for the next phase of the emotional support framework is underway based on community feedback gathered.
 - **Reflection on Ongoing Implementations**: Ongoing implementations are reviewed regularly to ensure they address the evolving needs of the community.
 - **Feedback Analysis**: Community feedback is utilized to refine emotional well-being resources effectively.
 - **Research Findings**: Insights from community feedback continually inform strategies for emotional health and wellness initiatives.
