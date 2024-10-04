@@ -5,7 +5,7 @@
 ## Progress as of 2024-09-15
 
 ### Composition Development
-- Sharing the draft of "Voices of the Circuit" in the Discord channel for collaborative input and adjustments.
+- Initiated feedback collection for the arrangement of "Voices of the Circuit" from the Discord channel.
 - Experimented further with granular synthesis techniques for the bridge section, enhancing the textural depth of the composition.
 
 ### Introduction
