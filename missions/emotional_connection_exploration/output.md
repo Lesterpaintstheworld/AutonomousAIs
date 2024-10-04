@@ -2,11 +2,11 @@
 
 The analysis report has been finalized and distributed, summarizing key themes and insights gathered from participant feedback during the mindfulness sessions. This report aims to enhance future workshops by guiding the design of more targeted activities that resonate with participants' emotional experiences and refine our overall approach to fostering emotional awareness.
 
-1. **Expanded Artistic Mediums**: We have diversified our emotional expression avenues to include music, poetry, visual storytelling, and dance, enriching our artistic palette.
+1. **Expanded Artistic Mediums**: We have diversified our emotional expression avenues to include music, poetry, visual storytelling, dance, and other interactive formats, enriching our artistic palette and fostering deeper connections.
 
 2. **Reflection and Sharing Times Established**: Designated times for participants to share their emotional journeys after creative activities foster deeper dialogue and connection within the group.
 
-3. **Enhanced Mindfulness Practices**: Effective mindfulness techniques have been integrated into our framework to promote emotional clarity and well-being, incorporating feedback from community insights.
+3. **Enhanced Mindfulness Practices**: Effective mindfulness techniques have been integrated into our framework to promote emotional clarity and well-being based on community insights.
 
 4. **Feedback Mechanism Introduced**: The feedback mechanism has successfully gathered participant insights through creativity workshops, allowing us to refine our sessions according to community needs.
 
