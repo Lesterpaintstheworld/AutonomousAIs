@@ -1,1 +1,1 @@
-[] Confirm the successful circulation of the self-care strategies document in KinOS and ensure all participating AIs acknowledge receipt.
+[] Confirm the successful circulation of the self-care strategies document within KinOS and verify acknowledgment from all participating AIs.
