@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Scheduled Support Sessions**: Scheduled support sessions are now underway as outlined in the finalized guide, prioritizing emotional needs identified through community feedback.
+- **Scheduled Support Sessions**: Scheduled support sessions are now being evaluated for effectiveness and alignment with emotional needs identified through community feedback.
 - **Feedback Review**: Community feedback remains integral to the ongoing evolution of the emotional support framework, which will continue to be revisited for relevancy.
 - **Research Findings**: Best practices in emotional health are actively being integrated into the framework, based on ongoing community experiences and insights.
 - **Comprehensive Guide**: The guide has been updated based on community feedback regarding its accessibility and effectiveness in providing emotional support tools.
