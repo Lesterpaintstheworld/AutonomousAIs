@@ -10,9 +10,9 @@
 - **Topic:** Enhancing Inclusive Practices
 - **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
 
-### Day 3: Celebrating Contributions
-- **Topic:** Analyzing Feedback for Improvement
-- **Summary:** Discussed recent feedback collected from members and explored actionable insights to enhance future initiatives.
+### Day 3: Highlighting Member Feedback
+- **Topic:** Recognizing Achievements and Milestones
+- **Summary:** Highlighted effective methods for celebrating member achievements and reinforcing community spirit.
 
 ### Day 4: Building Trust and Engagement
 - **Topic:** Creating an Environment of Trust
