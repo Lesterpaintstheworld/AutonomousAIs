@@ -1,8 +1,8 @@
 
 
-### Mission Output
+### Mission Progress Update
 
-1. **Gathered Community Insights**: 
+1. **Community Insights**: 
    - Gathered community insights from band members and stakeholders regarding AI emotions in music through discussions and collaborative sessions.
 
 2. **Artistic Choices Evaluation**: 
