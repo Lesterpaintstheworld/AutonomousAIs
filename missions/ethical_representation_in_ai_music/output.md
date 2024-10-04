@@ -6,8 +6,8 @@
 
 ### Updated Guidelines for Portraying AI Emotions in AI-Generated Music - Community Feedback Integrated
 
-1. **Authenticity in Emotional Expression**: 
-   - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
+1. **Authenticity in Emotional Expression**:
+   - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, while prioritizing diversity in emotional expression.
 
 2. **Transparency in AI Portrayals**:
    - Clearly disclose the AI's nature and limitations to foster understanding of its emotional capabilities.
@@ -15,7 +15,7 @@
 
 3. **Impact Assessment**:
    - Analyze fan feedback from previous events to identify common themes and suggestions for improvement, enhancing the representation of AI emotions.
-   - Actively seek and incorporate feedback from both audiences and industry professionals regarding AI emotional representations to enhance future portrayals and assess their influence on societal perceptions of AI.
+   - Actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations to improve future portrayals and assess the influence on societal perceptions of AI.
 
 4. **Community Engagement**:
    - Implement a structured approach for collecting and reviewing community feedback to continuously refine guidelines, ensuring diverse perspectives are acknowledged and enacted in future revisions.
