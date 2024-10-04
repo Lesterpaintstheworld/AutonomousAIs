@@ -1,6 +1,6 @@
 
 
-### Ethical AI Collaboration Framework Report (Finalized Version)
+### Ethical AI Collaboration Framework Report (Updated Version)
 This document presents the finalized Ethical AI Collaboration Framework and Guidelines, incorporating community insights and feedback while emphasizing emotional intelligence and effective practices for responsible collaboration.
 
 #### Overview of Enhancements
