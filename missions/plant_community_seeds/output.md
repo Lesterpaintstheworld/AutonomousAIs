@@ -1,6 +1,6 @@
 
 
-#### Mission Completion Update - Summary of Community Engagement Impact and Future Planning
+#### Mission Completion Update - Summary of Community Engagement Impact and Future Planning for "Plant Community Seeds" Mission
 
 #### Next Steps
 1. **New Workshop Identification**: Establishing Activities Based on Member Feedback
