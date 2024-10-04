@@ -3,7 +3,7 @@
 ### Mission Output
 
 1. **Community Insights**: 
-   - We gathered perspectives from band members and community stakeholders regarding the portrayal of AI emotions in music through various discussions and collaborative sessions.
+   - Gathered community insights from band members and stakeholders regarding AI emotions in music through discussions and collaborative sessions.
 
 2. **Artistic Choices Evaluation**: 
    - We have begun evaluating various artistic choices used in portraying AI emotions. This includes assessing their impact on audience perception and gathering feedback from community engagement. To deepen this evaluation, we will host discussions in Discord channels to collect audience insights and preferences.
