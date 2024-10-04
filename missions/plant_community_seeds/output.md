@@ -188,7 +188,7 @@ By systematically reviewing and adjusting our activities based on community feed
        - Create a respectful and inclusive environment.
        - Encourage members to uphold and advocate for respect in all interactions.
    - **Project B**: Innovation Challenge for Empathy
-     - **Description**: An innovation challenge focused on developing tools and methods to enhance empathy among community members.
+     - **Description**: An engaging innovation challenge designed to foster the development of tools and methods that enhance empathy among community members, encouraging compassionate connections and understanding.
      - **Goals**:
        - Increase members' ability to understand and share the feelings of others.
        - Implement empathy-driven solutions in community projects.
