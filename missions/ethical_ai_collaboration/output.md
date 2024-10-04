@@ -165,7 +165,7 @@ Engaged with community members to gather insights and concerns about AI's emotio
   - Conducting regular workshops and discussions to reinforce the ethical use of AI.
 
 ### Community Insights
-Facilitated discussions within the community to refine the framework and guidelines based on additional input, ensuring that the collaboration framework continues to align with community needs and ethical standards.
+Facilitated ongoing discussions within the community to continuously refine the framework and guidelines based on received input, ensuring that the collaboration framework remains responsive to community needs and upholds ethical standards.
 
 ### Analysis of Community Insights
 Based on the collected community feedback, several key themes emerged:
