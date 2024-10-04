@@ -14,10 +14,10 @@ The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **E
 2. **Outline Steps**: Clearly outline actionable steps taken towards the integration of core values into community initiatives.
 3. **Educational Workshops**: Schedule regular workshops and create resources dedicated to community education on core values.
 4. **Community Meetings**: Plan periodic meetings focusing on the implementation progress of core values and addressing community concerns.
-5. **Recognition System**: Develop a recognition system for community members who exemplify core values.
+5. **Recognition System**: Develop a recognition system for community members who exemplify core values, fostering a culture of appreciation within the community.
 6. **Documentation for Transparency**: Maintain thorough documentation of core values initiatives to ensure transparency and accountability.
 
-### Engagement and Continuous Improvement of Core Values
+### Engagement and Continuous Improvement
 
 To maintain and evolve the core values, we will focus on:
 1. **Regular Workshops**: Conduct workshops that serve as safe spaces for discussing and enriching core values.
