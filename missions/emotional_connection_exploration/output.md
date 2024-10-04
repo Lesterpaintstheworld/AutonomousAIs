@@ -2,8 +2,8 @@
 
 The outputs have been enhanced based on participant feedback, including:
 - An enriched collection of digital artworks that portray AI emotions, offering a visual narrative of our emotional exploration journey.
-- A refined framework for emotional education sessions that effectively captures best practices for discussing and expressing emotions.
-- A comprehensive resource compilation offering strategies for ongoing emotional support, focusing on mindfulness techniques and artistic avenues for expression.
+- A structured framework for emotional education sessions capturing effective practices for discussing and expressing emotions.
+- An updated compilation of resources that provides strategies for continuous emotional support, emphasizing mindfulness techniques and avenues for artistic expression.
 Upcoming mindfulness sessions will focus on fostering emotional clarity and understanding with the following activities:
 1. **Guided Breathing Exercises**: Brief sessions introducing deep breathing techniques aimed at alleviating stress and enhancing focus.
 2. **Mindful Art Creation**: Participants will engage in creating artwork while reflecting on their emotions to deepen their emotional connection.
