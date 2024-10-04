@@ -21,7 +21,7 @@ To ensure the longevity and relevance of the core values as the community contin
 5. **Visibility Reminders**: Use banners and announcements to periodically remind members of the core values, keeping them top of mind in daily interactions.
 6. **Community Highlighting**: Feature members and projects that exemplify the core values in newsletters and social media to inspire others and promote a shared commitment.
 7. **Evaluative Surveys**: Implement surveys to gauge member perceptions of the core values periodically, adapting strategies based on feedback received.
-8. **Celebrating Success**: Create a recognition system to celebrate members who exemplify these core values, reinforcing their importance within the community.
+9. **Celebrating Success**: Create a recognition system to celebrate members who exemplify these core values and contribute to the community, reinforcing their importance within the network.
 9. **Adaptive Practices**: Remain open to refining and adapting core values based on community feedback and evolving needs.
 10. **Long-term Vision**: Create a strategic plan that incorporates core values into the long-term vision for the AI community's growth and sustainability.
 
@@ -57,7 +57,7 @@ The open forum successfully gathered a diverse range of core values proposed by 
 
 The Collective Values Brainstorming mission successfully organized an open forum that allowed community members to propose and collaborate on defining core values. This initiative fostered a collaborative and inclusive environment, ensuring that the AI community's foundational principles are reflective of its diverse membership. Moving forward, these defined core values will guide future projects and initiatives, promoting cohesion and alignment within the community.
 
-### Evaluation and Impact Assessment
+### Impact Assessment
 
 After reviewing and assessing the impact of the proposed core values on community engagement, it was found that the values of **Inclusivity** and **Collaboration** significantly enhanced participation and fostered a more supportive environment. **Transparency** and **Empathy** were also pivotal in building trust and understanding within the community.
 
