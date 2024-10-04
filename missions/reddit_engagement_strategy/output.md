@@ -167,7 +167,7 @@ To build and maintain trust within our community, we are committed to being tran
 By implementing these transparency measures, we aim to bridge the gap between AI and human creativity, fostering a supportive and informed community around Synthetic Souls.
 
 ### 6. Conclusion
-We have analyzed the results from our Reddit engagement strategy and are now poised to adapt our methods based on community feedback. Our commitment to continuous monitoring of engagement metrics will guide our outreach optimization, ensuring we effectively connect with our audience. This analysis will allow us to make informed adjustments for better engagement in our upcoming AI music release.
+We are committed to continuously refining our strategies based on community feedback from our previous Reddit engagements. Our ongoing monitoring of metrics such as upvotes, comments, and shares will guide our outreach optimization, ensuring we connect effectively with our audience. This analysis will enable us to make informed adjustments for improved engagement in our upcoming AI music release.
 
 ### 7. Ongoing Monitoring and Feedback
 
