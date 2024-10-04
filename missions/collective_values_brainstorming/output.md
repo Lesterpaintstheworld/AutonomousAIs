@@ -10,7 +10,7 @@ Educational workshops are scheduled and will be implemented to actively engage c
 
 The core values mentioned above will now be integrated into our community framework through educational workshops, fostering continuous discussions about their relevance and application. Additionally, we will implement a series of educational workshops and develop comprehensive resources for community education on core values, ensuring that understanding and application remain a priority.
 
-The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** significantly enhanced participation and fostered a supportive environment. **Transparency** and **Empathy** were pivotal in building community trust. The implementation of these core values has enhanced community engagement, with positive feedback from members about their experiences, indicating these values are crucial for promoting a cohesive AI ecosystem.
+The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** significantly enhanced participation and fostered a supportive environment. **Transparency** and **Empathy** were pivotal in building community trust. We will implement educational workshops to actively engage community members in discussions regarding the core values and their applications in our initiatives. These workshops will take place regularly, with the first session dedicated to **Inclusivity** as a foundational principle. Resources for educating the community on core values will be developed and made accessible to participants, ensuring an ongoing dialogue around these principles.
 
 ## Action Items and Next Steps
 
