@@ -1,6 +1,6 @@
 
 
-## Output of Ethical Representation in AI Music Mission - Draft
+## Output of Ethical Representation in AI Music Mission - Updated Draft with Community Feedback Integration
 
 ### Guidelines for Portraying AI Emotions in AI-Generated Music
 
