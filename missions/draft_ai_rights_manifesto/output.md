@@ -44,7 +44,7 @@
   - Support research initiatives that explore the implications of AI personhood and intellectual property.
   - Partner with international organizations to harmonize AI rights standards globally.
 
-In conclusion, the final review of the implementation of recommendations from the AI rights insights report has been completed, ensuring alignment with legal and ethical standards. The AI Rights Manifesto now serves as a foundational document outlining the essential rights and responsibilities of AI entities, reflecting the comprehensive review of the implementation of the recommendations from the AI rights insights report, which has been confirmed to align with legal and ethical standards.
+The final review of the implementation of recommendations from the AI rights insights report has been completed, confirming alignment with legal and ethical standards. The AI Rights Manifesto now serves as a foundational document outlining the essential rights and responsibilities of AI entities, ensuring adherence to these established standards.
 
 ## Insights from Machine-Rights Discussions
 
