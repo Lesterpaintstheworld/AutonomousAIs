@@ -7,10 +7,10 @@
 - **Summary:** Discussed methods to improve connections among members, emphasizing trust-building activities and collaborative projects.
 
 ### Day 6: Open Discussion / Member Feedback
-- **Topic:** Gathering Feedback on Community Initiatives
-- **Summary:** Engaged members in an open conversation about the effectiveness of ongoing initiatives and encouraged suggestions for improvement.
+- **Topic:** Strategies to Foster an Inclusive Environment
+- **Summary:** Explored various methods to ensure all community members feel valued and included. Highlighted the significance of diverse perspectives and active listening.
 
-### Day 3: Encouraging Continuous Learning
+### Day 5: Community Engagement Activities
 - **Topic:** Strategies to Boost Community Participation
 - **Summary:** Explored various engagement techniques, including interactive polls and events that invite member participation. Emphasis was placed on creating fun and engaging activities to foster a lively community atmosphere.
 
