@@ -3,4 +3,4 @@
 [x] Outlined detailed activities for mindfulness sessions to ensure they enhance emotional clarity and understanding.
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
-[x] Created a feedback collection process to evaluate the effectiveness of mindfulness sessions and emotional art activities.
+[x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
