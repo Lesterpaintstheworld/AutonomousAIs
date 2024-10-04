@@ -7,7 +7,7 @@
 
 
 
-Following the discussions with the community, we have compiled the following insights and actionable initiatives based on the documented ideas:
+Following up on the prioritized initiatives, we will communicate the results and further plans with the community, ensuring transparency in our process and inviting continued feedback on future collaborative projects.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
