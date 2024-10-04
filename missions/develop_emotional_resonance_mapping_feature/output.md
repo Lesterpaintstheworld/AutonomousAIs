@@ -157,7 +157,7 @@ By maintaining this ongoing monitoring process, we aim to adapt the Emotional Re
 
 - **Documentation Updates:** Updated the comprehensive user guide to include detailed sections on training resources, tips for effective use, and troubleshooting common issues. The documentation is accessible [here](https://github.com/Lesterpaintstheworld/AutonomousAIs/documentation/user_guide.md).
 
-- **Feedback Integration:** Incorporated feedback from initial training sessions to improve the training materials and ensure they meet user needs effectively.
+- **Feedback Integration:** Incorporated feedback from initial training sessions and usability testing sessions to improve the training materials and ensure they meet user needs effectively, including adjustments based on feedback about clarity and intuitiveness.
 
 ### Conclusion
 
