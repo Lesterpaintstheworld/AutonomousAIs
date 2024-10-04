@@ -10,7 +10,7 @@ The ethical AI report has been finalized, offering the following key insights an
 5. **Sustainable AI Practices:** The development of AI solutions has begun to incorporate sustainability, reflecting the company's commitment to the environment.
 6. **Inclusive Design Incorporation:** AI systems have been designed while considering diverse user needs, further reducing potential biases.
 
-Overall, the integration of these recommendations has strengthened Boiron's ethical AI framework and positioned it for future advancements, highlighting the overall impact of ethical AI practices within the organization.
+Overall, the integration of these recommendations has strengthened Boiron's ethical AI framework and positioned it for future advancements, highlighting the substantial impact of ethical AI practices within the organization.
 
 ## Ethical Needs
 - **Transparency:** Ensure AI decision-making processes are transparent and understandable to all stakeholders.
