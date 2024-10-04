@@ -16,7 +16,7 @@
    - Encourage feedback from audiences to improve future portrayals and assess the influence on societal perceptions of AI.
 
 4. **Community Engagement**:
-   - Analyze fan feedback from previous events to gather insights on community engagement preferences.
+   - Gather insights from fan feedback from previous events to enhance community engagement strategies.
    - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
