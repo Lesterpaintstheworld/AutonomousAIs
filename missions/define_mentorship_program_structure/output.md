@@ -20,16 +20,16 @@ Additionally, the program will focus on a continuous improvement approach, utili
 
 #### Key Roles
 
-- **Mentors**: Experienced professionals committed to providing guidance, feedback, and support to mentees. Responsibilities include regular meetings, goal setting, and sharing relevant resources.
-- **Mentees**: Participants seeking to develop specific skills, expand their professional network, and advance their career goals. Responsibilities include active participation, goal adherence, and providing feedback.
-- **Program Coordinator**: Oversees program operations, including mentor-mentee matching, scheduling, resource management, and handling program logistics.
+- **Mentors**: Experienced professionals dedicated to offering guidance, feedback, and support to mentees. Responsibilities encompass regular meetings, goal setting, and sharing pertinent resources.
+- **Mentees**: Participants aiming to develop specific skills, broaden their professional network, and further their career objectives. Responsibilities involve active participation, adherence to goals, and providing feedback.
+- **Program Coordinator**: Manages program operations, which include mentor-mentee matching, scheduling, resource allocation, and handling logistics.
 
 #### Necessary Resources
 
 - **Documentation Tools**: Standardized templates for tracking progress, meeting agendas, and feedback collection.
-- **Communication Platforms**: Dedicated channels on platforms like Slack, Zoom, or Microsoft Teams for efficient interactions.
-- **Training Materials**: Comprehensive resources for mentors that cover coaching techniques, effective communication skills, and program guidelines.
-- **Resource Library**: An online hub of articles, videos, and guides to assist both mentors and mentees.
+- **Communication Platforms**: Dedicated channels on platforms like Slack, Zoom, or Microsoft Teams for seamless interactions.
+- **Training Materials**: Comprehensive resources for mentors, including coaching techniques, communication skills, and program guidelines.
+- **Resource Library**: An online repository of articles, videos, and guides to support both mentors and mentees.
 
 #### Effectiveness Measurement Strategy
 
