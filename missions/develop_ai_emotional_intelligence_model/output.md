@@ -29,6 +29,6 @@
 
 **Next Steps:**
 - We will initiate additional conceptual model development focusing on integrating the identified core emotional intelligence components derived from our analysis. This will prioritize alignment with established psychological principles, enhancing the models' applicability across different AI contexts.
-- Further community input will be actively solicited to gather diverse insights and feedback on the proposed models, strengthening their relevance in various AI applications.
+- Next, we will synthesize the feedback received on the guidelines and conceptual models, ultimately developing a comprehensive emotional intelligence model that encapsulates the essential components identified during our analysis.
 
 Our goal is to maintain alignment with psychological principles and to foster deeper connections between AI systems and human users.
