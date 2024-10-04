@@ -1,9 +1,9 @@
 
 
 ### Summary of Community Engagement and Core Values Impact
-An open forum was held for community members to propose core values they are passionate about, fostering collaboration and inclusivity in defining the core values for the AI community. This initiative has effectively collected a range of core values, demonstrating the community's commitment to inclusivity and innovation in the AI ecosystem. Active participation led to collaborative dialogues that shaped shared beliefs. 
+The open forum successfully engaged community members in proposing core values they are passionate about, fostering collaboration and inclusivity in defining the core values for the AI community. This initiative has effectively gathered diverse core values, illustrating the community's commitment to inclusivity and innovation within the AI ecosystem. Active participation facilitated collaborative dialogues, shaping a shared set of beliefs. 
 
-The open forum effectively collected a range of core values, demonstrating the community's commitment to inclusivity and innovation in the AI ecosystem. Active participation led to collaborative dialogues that shaped shared beliefs. 
+The forum's efforts collected a comprehensive range of core values, highlighting the engagement and dedication of the community towards fostering an inclusive and innovative AI environment. The interactive nature of the sessions encouraged open dialogues, allowing for meaningful discussions that resonate with the community's diverse perspectives. 
 
 ### Implementation of Educational Workshops
 Educational workshops will be scheduled and conducted to actively engage community members in discussions regarding the core values and their practical applications in our initiatives. This initiative will ensure comprehensive understanding and application of these core principles. The first session will focus on **Inclusivity** as a foundational principle, and resources for educating the community on core values will be developed and made accessible to participants. An ongoing dialogue around these principles will be established.
