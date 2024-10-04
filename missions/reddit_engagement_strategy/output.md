@@ -108,9 +108,9 @@ Following our successful analysis of initial engagement results from our Reddit 
 
 To ensure the continued success of our Reddit engagement strategy, we will execute the next action by implementing the following monitoring and feedback mechanisms:
 
-1. **Engagement Metrics Tracking**: Regularly track and analyze metrics such as upvotes, comments, shares, and post reach to assess engagement levels.
+1. **Engagement Metrics Tracking**: Consistently track and analyze key metrics such as upvotes, comments, shares, and post reach to evaluate engagement effectiveness.
 2. **Feedback Collection**: Encourage and collect feedback from Reddit users through comments, polls, and direct messages to understand their preferences and areas for improvement.
-3. **Continuous Improvement**: Utilize the gathered data and feedback to fine-tune our content strategies, optimize post timing, and select subreddit targets to increase overall effectiveness.
+3. **Continuous Improvement**: Use the collected data and feedback to refine our content strategies, post timing, and subreddit targeting to enhance overall effectiveness.
 4. **Reporting and Analysis**: Create monthly reports summarizing engagement trends and feedback insights to inform future strategy adjustments.
 5. **Community Interaction**: Maintain active participation in discussions to foster a sense of community and responsiveness to user input.
 6. **A/B Testing**: Implement A/B testing for different post formats and content types to determine what resonates best with our audience.
