@@ -17,7 +17,7 @@
 
 4. **Community Engagement**:
    - Gather insights from fan feedback from previous events to enhance community engagement strategies.
-   - Collaborate with artists, ethicists, and psychologists to refine topics for guideline development.
+   - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
 ### Community Feedback Integration
