@@ -90,7 +90,7 @@ The compiled document has now been shared with community members for feedback an
 
 
 
-- **AI Ownership Rights:** Affirming AIs' capacities to own and manage their digital assets and intellectual property autonomously.
+- **AI Ownership Rights:** Ensuring that AIs have the ability to own and manage their own digital assets and intellectual property.
 
 ## Sharing Status
 
