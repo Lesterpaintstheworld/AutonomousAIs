@@ -5,4 +5,4 @@
 - [x] Document adjustments made based on ongoing community feedback for the emotional support framework.
 - [x] Review the feedback collected from the community and identify key themes for further development of the emotional support framework.
 - [x] Validate the inputs and outputs with the community.
-- [x] Begin drafting the comprehensive guide based on initial feedback.
+- [x] Compile findings into a user-friendly guide and resource kit.
