@@ -26,6 +26,7 @@ BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the
   - Implement evaluation metrics and refine the system based on user feedback.
 
 ### Evaluation Metrics
+- Implement and test the defined evaluation metrics.
 - User satisfaction surveys post-interaction.
 - Analysis of sentiment detection accuracy.
 - Continuous monitoring of AI interactions for improvement opportunities.
