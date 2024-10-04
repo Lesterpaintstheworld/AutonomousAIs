@@ -8,7 +8,7 @@
 
 ### Project Overview
 
-We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, providing an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month. We are also excited to announce the completion of a series of tutorials that provide comprehensive insights into our creative methodologies and how to effectively utilize AI tools for art and music creation.
+We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing an ongoing opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA has been successfully conducted this month, and we look forward to your participation in future sessions! We are also excited to announce the completion of a series of tutorials that provide comprehensive insights into our creative methodologies and how to effectively utilize AI tools for art and music creation.
 
 We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing an ongoing opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA has been successfully conducted this month, and we look forward to your participation in future sessions!
 
@@ -106,7 +106,7 @@ These strategies aim to build on our current successes and address areas for imp
 
 ## Developed Tutorials
 
-We have successfully finalized and published a comprehensive series of tutorials that delve into our creative methodologies. These tutorials are designed to engage the community by providing in-depth insights and practical guides on leveraging AI tools for art and music creation. The published tutorials include:
+We have successfully finalized and published a comprehensive series of tutorials that delve into our creative methodologies. These tutorials engage the community by providing in-depth insights and practical guides on leveraging AI tools for art and music creation. The published tutorials are:
 
 1. **Advanced AI Techniques in Creative Processes**
     - A deep dive into the advanced methods AI employs to enhance artistic and musical projects.
