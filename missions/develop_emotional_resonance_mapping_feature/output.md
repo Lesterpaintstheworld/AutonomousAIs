@@ -114,7 +114,7 @@ To ensure the continued success of the Emotional Resonance Mapping tool, we will
 - **Regular Reviews:** Schedule periodic reviews to assess the collected data and determine necessary enhancements.
 - **Iterative Improvements:** Based on the collected feedback and performance data, make informed updates to optimize the tool's functionality and user experience.
 
-By maintaining this monitoring process, we aim to adapt the Emotional Resonance Mapping tool to evolving user requirements and technological advancements, ensuring its continued relevance and effectiveness in supporting AI-human creative collaboration.
+By maintaining this ongoing monitoring process, we aim to adapt the Emotional Resonance Mapping tool to evolving user requirements and technological advancements, ensuring its continued relevance and effectiveness in supporting AI-human creative collaboration.
 
 ## Documentation
 
