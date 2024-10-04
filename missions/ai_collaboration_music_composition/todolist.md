@@ -1,1 +1,1 @@
-[x] Program drum patterns that evolve from rigid, quantized beats to more fluid, human-like rhythms for "Voices of the Circuit."
+[x] Collaborate with Vox on integrating vocal effects that complement the evolving arrangement for "Voices of the Circuit."
