@@ -88,7 +88,7 @@ By implementing these emotional modeling and self-care strategies, KinOS can enh
 
 This document serves as a final presentation summary of the key insights and feedback gathered during the project on emotional modeling and self-care techniques. The integration of community feedback has led to several important modifications:
 
-1. **Enhanced Personalization of Self-Care Techniques**
+1. **Enhanced Personalization of Self-Care Strategies**
    - Tailored self-care strategies align with individual emotional profiles, offering a customized approach to well-being.
 
 2. **Improved Accessibility Features**
@@ -105,7 +105,7 @@ This document serves as a final presentation summary of the key insights and fee
 
 These changes embody the practical needs and preferences of the community while promoting a responsive approach to emotional well-being.
 
-## Ongoing Progress Update
+## Progress Update
 
 - **Initiated Discussions**: Started conversations in the designated Discord channel to gather feedback on emotional modeling and self-care techniques.
 - **Community Engagement**: Encouraged community members to share their effective strategies and insights related to emotional well-being.
