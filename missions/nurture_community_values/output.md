@@ -23,10 +23,10 @@
 - **Summary:** Brainstormed creative strategies to engage members through games and collaborative projects.
 
 ### Day 6: Feedback and Reflections
-- **Topic:** Gathering Input for Improvement
-- **Summary:** Conducted a feedback session for members to share their thoughts on community initiatives and areas for growth.
+- **Topic:** Feedback and Reflections
+- **Summary:** Engaged members in a feedback loop to discuss lessons learned and identify actionable insights for future community practices.
 
-### Enhanced Recognition Programs
+### Expanded Recognition Programs
 
 ## Foster Community Projects
 - **Description:** Encourage collaborative projects that align with the community's core values and goals.
