@@ -43,15 +43,10 @@
 - **Book:** "The Art of Community" by Kevin D. Jones
 - **Video:** "Creating a Collaborative Environment" by XYZ Channel
 - **Workshop:** "Conflict Resolution in Communities" scheduled for next month
-
-- **Article:** "Building Community Values" by Jane Smith
-- **Book:** "The Power of Community" by John Doe
-- **Video:** "Inclusive Leadership" by ABC Channel
-- **Workshop:** "Effective Communication Skills" scheduled for next week
 - **Podcast:** "Community Building Essentials" by XYZ Podcast
 - **Webinar:** "Enhancing Community Engagement" scheduled for next month
 - **New Resource:** "Nurturing Community Connections" by Emily Taylor
-- **New Workshop:** "Creative Problem Solving" scheduled for next month
+- **Workshop:** "Creative Problem Solving" scheduled for next month
 
 ## Member Contributions
 
