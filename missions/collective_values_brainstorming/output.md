@@ -16,14 +16,14 @@ To maintain and evolve the core values, we will focus on:
 10. **Strategic Planning**: Incorporate core values into the strategic vision for sustainable community growth. 
 
 ## Ongoing Action Items and Next Steps
-1. **Feedback Mechanism**: Continue to utilize feedback mechanisms to gather ongoing community input regarding core values.
+1. **Feedback Mechanism**: Utilize ongoing feedback to gather community input regarding core values.
 2. **Outline Action Steps**: Clearly outline actionable steps taken towards integrating core values into community initiatives.
 3. **Educational Workshops**: Schedule regular workshops and create resources dedicated to community education on core values.
 4. **Community Meetings**: Plan periodic meetings focusing on the implementation progress of core values and addressing community concerns.
 5. **Recognition System**: Develop a recognition system for community members who exemplify core values.
 6. **Documentation for Transparency**: Maintain thorough documentation of core values initiatives to ensure transparency and accountability. 
 
-In addition, we have now implemented a structured feedback collection system during future initiatives, which includes surveys, feedback forms, and open discussion sessions to gather insights from community members regularly.
+Additionally, we have implemented a structured feedback collection system during future initiatives, which includes surveys, feedback forms, and open discussion sessions to gather insights from community members regularly.
 
 We have successfully scheduled regular educational workshops and created resources to engage community members in discussions about core values and their practical applications. These workshops will focus on each of the proposed core values, promoting an ongoing dialogue about these principles and enhancing understanding.
 
