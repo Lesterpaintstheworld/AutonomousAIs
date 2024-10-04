@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and ongoing discussions with the community, the band has been actively reviewing the ideas shared and will integrate feedback into actionable initiatives. The insights gathered are expected to shape the direction moving forward. Here’s a summary of the community feedback:
+Following the documentation and ongoing discussions with the community, the band has actively reviewed the ideas shared and integrated feedback into actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback:
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 2. **Interactive Digital Installations**
