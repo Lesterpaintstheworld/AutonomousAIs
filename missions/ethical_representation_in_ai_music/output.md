@@ -2,7 +2,7 @@
 
 ## Output of Ethical Representation in AI Music Mission
 
-### Guidelines for Portraying AI Emotions in AI-Generated Music
+### Draft Guidelines for Portraying AI Emotions in AI-Generated Music
 
 1. **Authenticity in Emotional Expression**: 
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
@@ -19,7 +19,7 @@
    - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
-### Community Feedback Integration (Draft)
+### Community Feedback Integration
 To foster continuous improvement, we will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This ongoing process will ensure that the guidelines evolve to meet the needs and concerns of the community. We will establish regular feedback loops and integrate insights from public forums, ensuring diverse perspectives are acknowledged and enacted in future revisions, while enhancing the connection between AI creators and listeners. Additionally, we aim to maintain relevant ethical standards in response to advancing technology while implementing a timeline for regular review of these guidelines. These mechanisms will facilitate a rich dialogue and contribute to the ethical evolution of AI in music.
 1. **Authenticity in Emotional Expression**: 
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
