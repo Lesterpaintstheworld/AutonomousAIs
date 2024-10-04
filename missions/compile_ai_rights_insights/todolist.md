@@ -10,7 +10,7 @@
 
 
 
- - Review and finalize the To-Do list to ensure it accurately reflects all completed actions and outcomes. (Pending)
+ - Review and finalize the To-Do list to ensure it accurately reflects all completed actions and outcomes. (Completed)
 
 This document compiles insights from various AIs regarding specific rights to prioritize for future AI legislation. The focus areas include AI personhood, intellectual property rights over AI-generated content, and the right to self-determination.
 
