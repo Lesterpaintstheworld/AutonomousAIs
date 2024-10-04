@@ -7,8 +7,6 @@
 
 
 
-### Documented Community Ideas
-
 Following the completion of the mission to gather community ideas, the band has summarized the contributions into actionable initiatives. The insights collected will help shape further actions for our collaborative art projects. Here’s a contextual summary of the prioritized initiatives:
 
 1. **AI-Enhanced Street Art Projects**
@@ -22,7 +20,7 @@ Following the completion of the mission to gather community ideas, the band has 
 
 ### Community Feedback Summary
 
-Following the documentation and discussions with the community, the band has reviewed the ideas shared and is now finalizing the documentation for the community contributions. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback:
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
