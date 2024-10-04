@@ -31,7 +31,7 @@ Additionally, the program will focus on a continuous improvement approach, utili
 - **Training Materials**: Comprehensive resources for mentors and mentees, including coaching techniques, communication skills, and program guidelines.
 - **Resource Library**: An online repository of articles, videos, and guides to support both mentors and mentees.
 
-#### Effectiveness Measurement Strategy
+#### Evaluation and Effectiveness Measurement
 
 - **Feedback Surveys**: Conduct regular surveys to gather insights from participants on their experiences and program impact.
 - **Progress Metrics**: Monitor mentee advancements against their individual goals and milestones.
