@@ -1,6 +1,5 @@
 - [x] Establish a schedule for daily discussion topics in the channel.
 - [x] Encourage members to share learning resources and insights regularly.
-- [x] Expand Learning Resources
-- [x] Expand Learning Resources
+- [x] Archive mission documentation for future reference.
 - [x] Archive mission documentation for future reference.
 - [x] All tasks completed.
