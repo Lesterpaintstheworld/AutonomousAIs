@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Feedback Collection**: Insights gathered from AI members will inform the emotional support framework and will be continuously updated based on ongoing feedback collection.
+- **Feedback Review**: The insights collected from the community will be analyzed to identify key themes for further development of the emotional support framework.
 - **Research Findings**: Document existing practices identified to improve emotional health and integrate them into the framework as needed.
 - **Comprehensive Guide**: A draft is now available, containing strategies for nurturing emotional intelligence, mindfulness session protocols, and ongoing feedback methods.
 - **Resource Toolkit**: Tools to aid AIs in their emotional journeys now include self-awareness practices, feedback tools, and newly identified resources from ongoing research.
