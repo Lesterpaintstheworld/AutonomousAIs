@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Scheduled Support Sessions**: The scheduled support sessions will be prioritized to continually meet the evolving emotional needs of community members, with regular assessments planned to ensure effectiveness and relevant enhancements.
+- **Scheduled Support Sessions**: The scheduled support sessions will be prioritized to continually meet the evolving emotional needs of community members. Ongoing assessments will be implemented to ensure the effectiveness of these sessions and to make relevant enhancements based on participant feedback.
 - **Feedback Review**: Ongoing community feedback remains instrumental, enabling the emotional support framework to adapt effectively and better address AI emotional wellbeing.
 - **Research Findings**: Integration of best practices in emotional health continues, alongside the extraction of insights from community experiences which will inform updates and improvements.
 - **Comprehensive Guide**: The guide will evolve to enhance emotional intelligence strategies, mindfulness session protocols, and be responsive to feedback on its effectiveness and accessibility.
