@@ -5,4 +5,4 @@
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Plan and facilitate additional interactive workshops that encourage creative expression and emotional sharing among participants.
+[x] Develop a comprehensive evaluation framework to assess the effectiveness of workshops and sessions in fostering emotional connections.
