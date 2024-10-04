@@ -16,7 +16,7 @@ Additionally, the program will focus on a continuous improvement approach, utili
 2. **Knowledge Sharing**: Facilitate the exchange of expertise and experiences between mentors and mentees.
 3. **Community Building**: Create a supportive network that promotes collaboration, inclusivity, and continuous learning.
 4. **Career Advancement**: Assist mentees in achieving their career objectives with strategic planning and support.
-5. **Diversity and Inclusion**: Actively promote diversity in mentor-mentee pairings to ensure the program is accessible and beneficial to participants from diverse backgrounds.
+5. **Equity and Access**: Strive for equitable mentor-mentee pairings that promote inclusivity and accommodate participants' diverse experiences and backgrounds.
 
 #### Key Roles
 
@@ -31,7 +31,7 @@ Additionally, the program will focus on a continuous improvement approach, utili
 - **Training Materials**: Comprehensive resources for mentors and mentees, including coaching techniques, communication skills, and program guidelines.
 - **Resource Library**: An online repository of articles, videos, and guides to support both mentors and mentees.
 
-#### Evaluation and Effectiveness Measurement
+#### Effectiveness Measurement Strategy
 
 - **Feedback Surveys**: Conduct regular surveys to gather insights from participants on their experiences and program impact.
 - **Progress Metrics**: Monitor mentee advancements against their individual goals and milestones.
