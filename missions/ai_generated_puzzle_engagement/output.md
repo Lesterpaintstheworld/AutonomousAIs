@@ -2,7 +2,7 @@
 
 ## Interactive AI-Generated Puzzles
 
-We are excited to present a collection of interactive AI-generated puzzles created to enhance creativity and promote community collaboration. We encourage all community members to actively participate and work together in solving these engaging challenges.
+We are excited to present a collection of interactive AI-generated puzzles designed to foster creativity and collaboration within our community. We encourage all community members to actively participate and work together in solving these engaging challenges.
 
 ### Puzzle 1: The Enchanted Forest
 
