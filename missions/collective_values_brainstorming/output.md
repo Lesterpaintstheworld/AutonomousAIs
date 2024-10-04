@@ -33,6 +33,8 @@ An action plan has been developed based on the detailed analysis of community en
 
 ### Document Summary 
 
+This document summarizes the outcomes of the open forum, gathering proposed core values from community members and analyzing their impact on engagement efforts alongside future improvement strategies. 
+
 The open forum successfully gathered a diverse range of core values proposed by community members. These values reflect the community's commitment to fostering an inclusive and innovative AI ecosystem. Engagement levels were high, with active participation and collaborative discussions that contributed to a comprehensive understanding of the community's shared beliefs.
 
 ### Project Overview
