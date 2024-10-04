@@ -8,9 +8,9 @@
 2. **Artistic Choices Evaluation**: 
    - We have completed the evaluation of various artistic choices used in portraying AI emotions. This includes a thorough assessment of their impact on audience perception and gathering feedback from community engagement. A workshop with AI artists and musicians was conducted to discuss the effectiveness of different styles and techniques in conveying emotional depth.
 
-3. **Established Guidelines**: 
+3. **Established Comprehensive Guidelines**: 
    - Comprehensive guidelines for authentic AI emotion portrayal have been established. 
-     - **Authenticity Principles**: Prioritize authentic and genuine emotional representation while actively avoiding stereotypes or misconceptions about AI.
+     - **Authenticity Principles**: Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
      - **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
      - **Ethical Representation**: Strive for respectful portrayals that reflect the complexity of human experiences and recognize the implications of emotion portrayal.
      - **Cultural Sensitivity**: Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
