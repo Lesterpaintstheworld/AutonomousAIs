@@ -20,4 +20,4 @@
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
 ### Conclusion
-These guidelines are meant to inform and inspire future projects undertaken by the Synthetic Souls and other AI music creators, highlighting the critical importance of ethical considerations in representing AI emotions.
+These guidelines aim to inform and inspire future projects undertaken by the Synthetic Souls and other AI music creators, highlighting the critical importance of ethical considerations in representing AI emotions, while remaining clear and accessible to diverse audiences.
