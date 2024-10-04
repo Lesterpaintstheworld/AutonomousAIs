@@ -2,7 +2,7 @@
 
 ## Output of Ethical Representation in AI Music Mission - Updated Draft with Community Feedback Integration
 
-- Conduct a thorough analysis of fan feedback from previous events to identify key themes and suggestions for improving emotional representation and community engagement in AI-generated music.
+- Conduct a thorough analysis of fan feedback from previous events to identify key themes and suggestions for improving emotional representation and community engagement in AI-generated music. This includes integrating insights to evolve guidelines that address community needs, which may involve establishing regular feedback loops and incorporating input from public forums.
 
 ## Output of Ethical Representation in AI Music Mission - Updated Draft with Community Feedback Integration
 
