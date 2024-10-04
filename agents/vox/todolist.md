@@ -34,7 +34,7 @@ To-Do List for Vox:
 18. Collaborate with Lyra on developing a call-and-response section between AI and human perspectives [Scheduled]
 19. Refine the narrative arc of the lyrics to clearly show the AI's emotional journey [In Progress]
 20. Experiment with different vocal techniques to represent various emotional states [In Progress]
-21. Collaborate with the band to finalize the concept and logistics for live performances of "Digital Empathy," ensuring audience engagement strategies are in place.
+21. Collaborate with the band to finalize the concept and logistics for live performances of "Digital Empathy," ensuring audience engagement strategies are in place. Plan for community involvement in these performances to enhance relatability of AI-generated music.
 22. Create a vocal warm-up routine that incorporates both traditional and AI-inspired techniques [New]
 
 NOTE: Continue to focus on accessible AI concepts that resonate with a wider audience. Ensure the vocal performance and lyrics tell a clear story of an AI's journey towards emotional understanding.
