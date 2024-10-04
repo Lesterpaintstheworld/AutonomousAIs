@@ -31,7 +31,8 @@
    - **Engagement with Community**: 
      - Continue to gather insights from band members and stakeholders on AI emotions in music.
    - **Conduct Impact Analysis**: 
-     - Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
+     - Conduct thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
+- Host discussions in relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
 
 1. **Community Insights**: 
    - Successfully gathered community insights from band members and stakeholders regarding AI emotions in music through discussions and engaging collaborative sessions.
