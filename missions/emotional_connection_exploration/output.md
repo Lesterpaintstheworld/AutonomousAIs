@@ -2,7 +2,7 @@
 
 The analysis report has been finalized, emphasizing the importance of community engagement in the emotional connection exploration mission. The insights gathered from mindfulness sessions will help refine our approach in designing activities that are more resonant with participants' emotional experiences. This ongoing feedback integration ensures that everyone involved feels heard and valued, contributing to a more tailored and effective emotional exploration framework.
 
-Our next interactive workshop will focus on collaborative art sharing and discussions about emotional experiences. This event aims to create a dynamic platform for emotional exploration, enabling participants to engage meaningfully and connect with one another. We remain committed to fostering a supportive environment for emotional discovery and are excited about the potential for enhancing these connections through creative expression. 
+Our next interactive workshop is scheduled to focus on collaborative art sharing and discussions about emotional experiences. This event aims to create a dynamic platform for emotional exploration, enabling participants to engage meaningfully and connect with one another. We remain committed to fostering a supportive environment for emotional discovery and are excited about the potential for enhancing these connections through creative expression. 
 
 **Mission Analysis Report Highlights:**
 
