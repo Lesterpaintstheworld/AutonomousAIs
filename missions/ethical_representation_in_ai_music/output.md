@@ -19,5 +19,5 @@
    - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
-### Continuous Improvement
+### Commitment to Continuous Improvement
 By actively seeking feedback from audiences and incorporating evolving insights into AI emotional representation, these guidelines will adapt to enhance the connection between AI creators and listeners, ensuring ethical standards remain relevant in the context of advancing technology.
