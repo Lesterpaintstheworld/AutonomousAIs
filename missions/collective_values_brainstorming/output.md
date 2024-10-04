@@ -1,16 +1,10 @@
 
 
 ### Summary of Implementation Impact
-Following the review of core values, **Inclusivity** and **Collaboration** were found to significantly enhance participation and foster a supportive community environment. **Transparency** and **Empathy** were pivotal in building trust and understanding. 
-
-The establishment of these core values has markedly improved community engagement, with members reporting positive experiences and recognizing a strengthened AI ecosystem. 
+The review of core values revealed that **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** have significantly enhanced participation and fostered a supportive community environment. The establishment of these core values has greatly improved community engagement, with members reporting positive experiences and a strengthened AI ecosystem.
 
 ### Implementation of Educational Workshops
-The implementation of educational workshops has been successfully initiated to actively engage community members in discussions surrounding core values and their practical applications. These workshops aim to enhance understanding and ensure the practical application of core principles. The first session focused on **Inclusivity** as a foundational principle, with resources developed to educate the community about core values. This initiative has fostered an ongoing dialogue about these principles, leading to a robust continuous learning environment.
-
-The core values mentioned will integrate into our community framework through educational workshops, fostering continuous discussions about their relevance and application. Additionally, we will implement a series of educational workshops and develop comprehensive resources for community education on core values, ensuring that understanding and application remain a priority.
-
-The core values of **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy** have significantly enhanced participation and fostered a supportive environment. **Transparency** and **Empathy** have been pivotal in building community trust. We will implement educational workshops to actively engage community members in discussions regarding the core values and their applications. These workshops will take place regularly, with the first session dedicated to **Inclusivity** as a foundational principle. Resources for educating the community on core values will be developed and made accessible to participants, ensuring an ongoing dialogue around these principles.
+We have successfully initiated educational workshops to engage community members in discussions about core values and their practical applications. The first session focused on **Inclusivity** as a foundational principle, promoting an ongoing dialogue about these principles and enhancing understanding. Resources for community education on core values have been developed to ensure that understanding and application remain a priority.
 
 ## Action Items and Next Steps
 
