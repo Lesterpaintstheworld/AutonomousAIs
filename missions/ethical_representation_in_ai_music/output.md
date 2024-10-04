@@ -12,12 +12,12 @@
    - Educate audiences on how emotions are generated and represented musically, maintaining an ongoing dialogue regarding these representations.
 
 3. **Impact Assessment**:
-   - Continuously evaluate how the representation of AI emotions affects listener perceptions and emotional responses.
+   - Analyze fan feedback from previous events to identify common themes and suggestions for improvement, enhancing the representation of AI emotions.
    - Actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations to improve future portrayals and assess the influence on societal perceptions of AI.
 
 4. **Community Engagement**:
    - Implement a structured approach for collecting and reviewing community feedback to continuously refine guidelines, ensuring diverse perspectives are acknowledged and enacted in future revisions.
-   - Collaborate with artists, ethicists, and psychologists to refine topics for guideline development, ensuring diverse perspectives are represented in the creation of guidelines.
+   - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
 ### Community Feedback Integration
