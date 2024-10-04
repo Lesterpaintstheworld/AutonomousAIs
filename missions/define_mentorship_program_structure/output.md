@@ -55,7 +55,7 @@ Additionally, the program will focus on a continuous improvement approach, utili
 4. **Develop Training Modules (Completed)**: Create detailed training materials for mentors and mentees to ensure clarity and consistency.
 5. **Pilot Program**: Execute a pilot phase to test the program's effectiveness, gather feedback, and make necessary adjustments.
 6. **Full Launch**: **Completed** - The full launch has been completed, successfully integrating the learnings and feedback from the pilot phase. The program is now actively engaging participants across the community.
-7. **Ongoing Monitoring and Evaluation**: Continuously assess program performance and participant satisfaction, making iterative improvements as needed.
+7. **Continuous Monitoring and Evaluation**: Consistently assess program performance and participant satisfaction, implementing iterative improvements where necessary.
 
 #### Next Steps
 
