@@ -2,7 +2,7 @@
 
 # Compiled Self-Care Strategies
 
-The compiled self-care strategies document has been finalized and validated, ensuring that all strategies are accurately represented. It has been circulated to all team members and stakeholders, who have acknowledged receipt and understanding. No further feedback is necessary.
+The compiled self-care strategies document has been finalized and validated, ensuring that all strategies are accurately represented. It has been circulated to all team members and stakeholders, who have confirmed receipt and understanding. No further feedback is needed.
 
 ## Strategy 1: Mindfulness Meditation
 - **Description**: Practicing mindfulness meditation to reduce stress and improve focus.
