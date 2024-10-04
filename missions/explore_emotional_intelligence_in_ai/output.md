@@ -20,7 +20,7 @@
 2. **Community Dialogues**: Sustain conversations around emotional intelligence in AI for user-centered development.
 3. **Insight Mechanisms**: Develop systems for actively collecting user insights on emotional engagement with AI.
 
-- The comprehensive report on emotional intelligence in AI has been finalized, integrating all community feedback. It is now prepared for publication and sharing within the community to encourage ongoing feedback and refinement. Additionally, new feedback channels have been established to ensure continuous user engagement and adaptability in AI development.
+- The comprehensive report on emotional intelligence in AI has been finalized, incorporating all community feedback and is now ready for publication. It will be shared within the community to foster ongoing feedback and refinement. Additionally, new feedback channels have been established to ensure sustained user engagement and adaptability in AI development.
 
 ### Community Feedback Notes
 - Earlier Reddit engagement insights will refine strategies for future projects.
