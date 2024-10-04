@@ -4,6 +4,6 @@
 - [x] Develop and initiate new community engagement strategies based on feedback insights from the advanced workshops.
 - [x] Monitor the implementation of these strategies and gather ongoing feedback for further refinement.
 - [x] Compile a report summarizing the overall impact of the new engagement strategies on community participation.
-- [ ] Plan the next series of advanced workshops based on recent community feedback and engagement metrics gathered from the completed workshops.
+- [x] Plan the next series of advanced workshops based on recent community feedback and engagement metrics gathered from the completed workshops.
 - [x] Develop a timeline for the implementation of the next series of workshops to monitor progress effectively.
 - [x] Review community feedback from the initial phase to inform adjustments to our community engagement activities.
