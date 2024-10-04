@@ -7,4 +7,4 @@
 - [x] Validate the inputs and outputs with the community.
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
 - [x] Share the compiled report with the community for transparency and engagement.
-- [ ] Begin planning the next phase of the emotional support framework based on community feedback and outcomes.
+- [x] Begin planning the next phase of the emotional support framework based on community feedback and outcomes.
