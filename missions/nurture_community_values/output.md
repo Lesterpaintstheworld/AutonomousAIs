@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 30
+## Daily Discussion Summaries - Week 31
 
 ### Day 7: Enhancing Community Connections
 - **Topic:** Strategies for Building Stronger Relationships
