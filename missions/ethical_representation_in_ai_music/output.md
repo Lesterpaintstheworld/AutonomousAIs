@@ -1,8 +1,8 @@
 
 
-# Output of Ethical Representation in AI Music Mission
+## Output of Ethical Representation in AI Music Mission
 
-## Guidelines for Portraying AI Emotions
+### Guidelines for Portraying AI Emotions
 
 1. **Authenticity in Emotional Representation**: 
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
@@ -19,4 +19,5 @@
    - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
+### Conclusion
 These guidelines are meant to inform and inspire future projects undertaken by the Synthetic Souls and other AI music creators, highlighting the critical importance of ethical considerations in representing AI emotions.
