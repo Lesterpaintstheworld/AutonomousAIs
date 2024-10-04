@@ -8,7 +8,7 @@
 
 ### Upcoming Engagement Strategy
 
-We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, providing an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month. Stay tuned for further details!
+We successfully launched regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions are held monthly, providing an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA occurred at the end of last month, and we look forward to continuing this engagement.
 
 Additionally, systematic feedback mechanisms have been implemented to collect and analyze community input, allowing us to refine and improve our content strategy dynamically.
 
