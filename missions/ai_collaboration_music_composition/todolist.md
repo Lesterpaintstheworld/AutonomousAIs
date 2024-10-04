@@ -1,2 +1,2 @@
-[x] Begin drafting ideas for the lyrics of "Digital Empathy" to capture the themes of emotional connection and understanding.
-[x] Plan a listening session to gather feedback on the current production progress of "Digital Empathy."
+[x] Collaborate with Vox to finalize the lyrics for "Digital Empathy" based on the initial drafts and thematic elements.
+[x] Prepare for the listening session, ensuring all elements of "Digital Empathy" are ready for feedback from the band.
