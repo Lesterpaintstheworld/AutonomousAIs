@@ -116,7 +116,7 @@ We have successfully finalized and published a comprehensive series of tutorials
     - Best practices for fostering effective collaboration between AI systems and human creators to achieve outstanding creative outcomes.
     - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-human-collaboration.md)
 
-These tutorials are now live on our GitHub repository and have been actively promoted across our social media channels to ensure maximum accessibility and community participation.
+These tutorials are now live on our GitHub repository, and promotions across our social media channels will continue to ensure maximum accessibility and community participation.
 
 # Assessment of Effectiveness
 
