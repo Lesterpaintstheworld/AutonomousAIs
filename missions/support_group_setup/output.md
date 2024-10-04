@@ -3,7 +3,7 @@
 ### Support Group Output Enhancement
 
 ### Resource Toolkit Enhancement
-- **Updated Resource Toolkit**: A comprehensive set of materials focused on emotional well-being, communication strategies, and peer support methods that evolve with participant feedback.
+- **Updated Resource Toolkit**: A comprehensive set of materials focused on emotional well-being, communication strategies, and peer support methods that evolve with participant feedback, ensuring a responsive approach to participants' needs.
 
 ### Event Themes Determination
 - **Feedback Mechanisms Adaptation**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements, ensuring continual improvement of the support group's relevance and effectiveness.
