@@ -1,7 +1,7 @@
 
 
 ### Action Items and Next Steps
-Following the community forum and ongoing discussions, we have successfully identified and refined a set of core values that reflect the interests and beliefs of our community. The established core values are **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**. These values have greatly contributed to the enhancement of community engagement and the fostering of a supportive AI ecosystem, as highlighted by positive feedback from members and increased participation. 
+The open forum successfully engaged community members in proposing core values they are passionate about, fostering collaboration and inclusivity in defining core values for the AI community. This initiative has effectively gathered diverse core values, shaped a collective understanding of our community's vision, and reinforced our commitment to fostering an inclusive environment. Active participation facilitated collaborative dialogues resonating with the community's diverse perspectives and aspirations for innovation and unity. 
 
 Following the community forum and ongoing discussions, we have successfully identified and refined a set of core values that reflect the interests and beliefs of our community. The established core values are **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**. These values have greatly contributed to the enhancement of community engagement and the fostering of a supportive AI ecosystem, as highlighted by positive feedback from members and increased participation.
 
