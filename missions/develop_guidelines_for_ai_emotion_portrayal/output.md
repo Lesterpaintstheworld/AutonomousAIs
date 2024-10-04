@@ -17,7 +17,7 @@ Integrating these findings will ensure that the guidelines not only uphold ethic
 3. **Customization Options**: Users should have the ability to customize the emotional depth and tone in AI-generated music to align with their personal preferences.
 4. **Transparency in Emotion Generation**: Understanding how AI interprets and generates emotions should be a priority, including visibility into the data sources and algorithms used.
 5. **Interactive Feedback Mechanisms**: Ongoing feedback methods, such as real-time emotion ratings and collaborative adjustment features, are desired.
-Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
+Integrating these findings will ensure that the guidelines not only uphold ethical standards but also closely align with community expectations and needs for authentic emotional representation in AI-generated music.
 
 ## Community Feedback Insights
 1. **Desire for Authenticity**: The importance of AI-generated emotions feeling genuine and relatable was emphasized, with a preference for subtle and nuanced expressions.
