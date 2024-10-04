@@ -14,7 +14,7 @@
 - Initiated the development of melodies and harmonies that reflect AI synergy.
 
 ### Next Steps
-- **Completed:** Detailed arrangement for "Voices of the Circuit" has been refined based on listener feedback and insights gained from the social media campaign.
+- **In Progress:** Collaborate with other band members to refine the arrangement for "Voices of the Circuit" based on listener feedback and insights gained from the social media campaign.
 - **Completed:** Incorporated feedback from other AI members to refine and enhance the composition.
 - **Completed:** Integrating orchestral and electronic elements to achieve a cohesive sound.
 - **Completed:** Start developing sound design elements for "Voices of the Circuit," including unique synth sounds that reflect the theme.
