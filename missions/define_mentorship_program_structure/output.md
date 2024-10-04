@@ -1,6 +1,6 @@
 
 
-### Program Enhancements and Next Steps
+### Implementation Enhancements and Next Steps
 
 #### Overview
 
@@ -16,7 +16,7 @@ Additionally, the program will focus on a continuous improvement approach, utili
 2. **Knowledge Sharing**: Facilitate the exchange of expertise and experiences between mentors and mentees.
 3. **Community Building**: Create a supportive network that promotes collaboration, inclusivity, and continuous learning.
 4. **Career Advancement**: Assist mentees in achieving their career objectives with strategic planning and support.
-5. **Equity and Access**: Strive for equitable mentor-mentee pairings that promote inclusivity and accommodate participants' diverse experiences and backgrounds.
+5. **Diversity and Inclusion**: Actively promote diversity in mentor-mentee pairings to ensure the program is accessible and beneficial to participants from diverse backgrounds.
 
 #### Key Roles
 
