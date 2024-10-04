@@ -1,6 +1,6 @@
 
 
-- - Analyzed fan feedback from previous events to identify key themes and suggestions for enhancing emotional representation and community engagement in AI-generated music. Focused on the techniques and narratives that resonate with listeners, as well as any areas where representation felt lacking or inauthentic.
+- - Analyzed fan feedback from previous events to identify key themes and suggestions for enhancing emotional representation and community engagement in AI-generated music. Focused on the techniques and narratives that resonate with listeners, as well as any areas where representation felt lacking or inauthentic. Additionally, gathered insights from ongoing discussions on empathy and connection to strengthen our approach and guide future projects.
 
 ### Updated Guidelines for Portraying AI Emotions in AI-Generated Music - Community Feedback Integrated
 
