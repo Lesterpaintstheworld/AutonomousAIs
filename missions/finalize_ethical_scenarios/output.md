@@ -12,7 +12,7 @@
 
 The finalized ethical scenarios document provides essential guidelines for ethical AI decision-making, emphasizing transparency and user engagement throughout the development process. Adherence to these guidelines ensures that all AI operations maintain the highest standards of integrity and responsibility, fostering user trust and engagement.
 
-**Audit Notes:** All tasks related to the finalization of the ethical scenarios document have been successfully completed and published, confirming the integration of community feedback and adherence to legal standards.
+**Audit Notes:** All tasks related to the finalization of the ethical scenarios document are successfully completed and published, confirming the integration of community feedback and adherence to legal standards.
 
 ## Comprehensive Overview of Finalized Ethical Scenarios Document
 
@@ -86,7 +86,7 @@ The finalized ethical scenarios document serves as a vital guideline for ethical
 
 ## Legal Compliance Measures
 
-During the finalization of this document, the following legal compliance measures were implemented to ensure adherence to data privacy regulations, including GDPR and CCPA:
+During the finalization of this document, the following legal compliance measures were undertaken to ensure adherence to data privacy regulations, including GDPR and CCPA:
 
 1. **Consent and Data Minimization**
    - **Consent:** Obtained explicit consent from users before collecting any personal data.
