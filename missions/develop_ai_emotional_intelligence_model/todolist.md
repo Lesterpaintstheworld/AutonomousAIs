@@ -3,4 +3,4 @@
 [ ] Identify and analyze core emotional intelligence components from the collected inputs.
 [ ] Create conceptual models that effectively incorporate emotional intelligence principles into AI functionalities.
 [ ] Draft guidelines aimed at improving emotional representation in AI music and interactions.
-[ ] Collaborate with community members to review and refine the drafted guidelines.
+[x] Collaborate with community members to review and refine the drafted guidelines.
