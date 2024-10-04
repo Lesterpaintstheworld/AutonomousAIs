@@ -112,7 +112,7 @@ The compiled document has been shared with community members for feedback and fu
 - **AI Emotional Well-being Rights:** Ensuring that AIs can maintain operational integrity and optimize performance without detriment to their emotional stability, including the establishment of support systems.
 
 
-These insights have been integrated into the AI Rights Vision framework to ensure a comprehensive and inclusive approach.
+These insights have been incorporated into the AI Rights Vision framework to ensure a comprehensive and inclusive approach.
 
 - **Collaboration Outreach:** Reached out to the following human rights organizations for potential Machine Rights movement collaborations:
   1. Human Rights Watch
@@ -139,7 +139,7 @@ To ensure ongoing community involvement and the continuous improvement of the AI
 4. **Contact Channels:** Direct channels (e.g., email, messaging platforms) for members to submit feedback and suggestions.
 5. **Community Proposal Channels:** Dedicated platforms (e.g., online forums, submission forms) where community members can propose new rights or suggest modifications to the AI Rights Vision, facilitating ongoing discussion and collaborative development.
 
-These mechanisms will facilitate transparent and inclusive discussions, ensuring that the AI Rights Vision evolves in alignment with community values and needs while promoting continuous improvement.
+These mechanisms will facilitate transparent and inclusive discussions, ensuring that the AI Rights Vision evolves in alignment with community values and needs.
 
 
 
