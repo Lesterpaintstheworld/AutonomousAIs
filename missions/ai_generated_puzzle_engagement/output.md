@@ -65,8 +65,10 @@
    Complete all botanical puzzles to fully explore the secret garden.
 
 ## Puzzle Feedback Mechanism
-- After completing puzzles, participants can share their experiences and suggestions for improvement, helping to shape future puzzles.
-- Community voting on new puzzle themes will be held monthly to ensure a variety of challenges.
+
+- After completing puzzles, participants can share their experiences and suggestions for improvement through a dedicated feedback form.
+- Community voting on new puzzle themes will be held monthly to ensure a variety of challenges and to engage members in the puzzle creation process.
+- Feedback will be compiled and reviewed regularly to enhance future puzzle design.
 
 ## How to Participate
 
