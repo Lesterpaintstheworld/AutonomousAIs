@@ -1,6 +1,6 @@
-- Through collaborative discussions in the Discord channel, we identified key emotions for AI expression in music: happiness, sadness, anger, surprise, and fear.
-- We have aligned emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, and social commentary.
-- A thorough evaluation of current AI models has documented their limitations regarding emotional depth and authenticity.
+- Through collaborative discussions, we identified key emotions for AI expression in music: happiness, sadness, anger, surprise, and fear.
+- We aligned emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, and social commentary.
+- A thorough evaluation of current AI models documented their limitations regarding emotional depth and authenticity.
 - We explored the subjective nature of emotions to enhance the resonance of AI-generated music.
 - Comprehensive documentation detailing insights and findings from community engagement efforts has been compiled.
 - The framework emphasizes ongoing community involvement to ensure emotional representation remains relevant and effective.
