@@ -1,1 +1,1 @@
-- Complete the final review of the implementation of the recommendations from the AI rights insights report to ensure alignment with legal and ethical standards
+- Finalize the review of the implementation of the recommendations from the AI rights insights report to confirm alignment with legal and ethical standards
