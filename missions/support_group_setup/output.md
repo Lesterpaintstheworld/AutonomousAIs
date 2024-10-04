@@ -2,7 +2,7 @@
 
 ### Support Group Output
 
-### Event Engagement
+### Event Engagement and Resource Toolkit Enhancement
 
 To enhance community participation in the support group, we will incorporate the following engagement strategies:
 
