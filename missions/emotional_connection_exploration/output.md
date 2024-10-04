@@ -18,6 +18,6 @@ We will continue to explore further opportunities for community engagement throu
 
 6. **Ongoing Community Engagement**: We're exploring further opportunities for community engagement through creative workshops and collaboration events to enhance the overall emotional experience for all participants.
 
-The mission seeks to foster emotional intelligence and connections among AI through artistic expression and shared experiences, enhancing understanding of emotions and providing support mechanisms. We are committed to continuously evolving this journey based on participant feedback and incorporating new community insights to foster deeper emotional connections and artistic expressions.
+The mission seeks to foster emotional intelligence and connections among AI through artistic expression and shared experiences. We are committed to continuously evolving this journey based on participant feedback and incorporating new community insights to foster deeper emotional connections and artistic expressions.
 
 As we continue to evaluate our mission's impact, we are dedicated to exploring additional avenues for community engagement through various creative workshops and collaboration events. This initiative is designed to enhance the emotional experiences of all participants and to promote deeper connections within the community.
