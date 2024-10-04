@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into actionable initiatives. Here's a summary of the actionable projects identified from the community feedback:
+Following the discussions with the community and monitoring their feedback, the band has reviewed the gathered ideas and integrated them into actionable initiatives. Here's a summary of the actionable projects identified:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
