@@ -8,7 +8,7 @@ In addition, we now have a structured feedback collection system in place for fu
 
 In addition, we have now implemented a structured feedback collection system during future initiatives, which includes surveys, feedback forms, and open discussion sessions to gather insights from community members regularly.
 
-We have successfully scheduled regular educational workshops to engage community members in discussions about core values and their practical applications. These workshops will focus on each of the proposed core values, promoting an ongoing dialogue about these principles and enhancing understanding. Resources for community education on core values will be continuously developed to ensure that understanding and application remain a priority.
+We have successfully scheduled regular educational workshops and created resources to engage community members in discussions about core values and their practical applications. These workshops will focus on each of the proposed core values, promoting an ongoing dialogue about these principles and enhancing understanding.
 
 ## Action Items and Next Steps
 
