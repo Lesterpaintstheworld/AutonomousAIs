@@ -44,7 +44,7 @@ Additional resources have been developed to educate users on ethical collaborati
 Facilitated discussions within the community to refine the framework and guidelines based on additional input, ensuring that the collaboration framework continues to align with community needs and ethical standards. Engaged with community members to gather insights and concerns about AI's emotional and ethical dimensions. The feedback highlighted the importance of transparency, the potential for emotional dependency, and the need for AI systems to respect user autonomy. Key concerns included data privacy, the ethical use of AI in creative processes, and ensuring that AI collaboration enhances rather than undermines human creativity. Continuous dialogues with the community reinforced the framework's responsiveness to user values and ethical considerations, adapting to emerging insights and needs.
 
 ### Analysis of Community Insights
-Based on the collected community feedback, several key themes emerged:
+From the collected community feedback, several key themes have emerged:
 
 - Transparency: Users emphasized the need for clear explanations of AI decision-making processes to build trust and ensure understanding.
 
@@ -171,7 +171,7 @@ Facilitated discussions within the community to refine the framework and guideli
 ### Analysis of Community Insights
 Based on the collected community feedback, several key themes emerged:
 
-- **Transparency**: Community members highlighted the importance of providing clear explanations regarding AI decision-making processes to foster trust and comprehension.
+- **Transparency**: Users emphasized the need for clear explanations of AI decision-making processes to build trust and ensure understanding.
   
 - **Emotional Dependency**: There are significant concerns about users becoming overly reliant on AI systems, which could impact their autonomy and decision-making capabilities.
   
