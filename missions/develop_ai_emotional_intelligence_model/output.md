@@ -30,7 +30,7 @@
 - Collected feedback from participants to continually refine the emotional intelligence functionalities.
 - Coordinated forums for community discussions to gather further insights on emotional intelligence applications.
 - Drafted a timeline for testing and evaluating the effectiveness of emotional intelligence in user interactions.
-   - Draft a timeline for testing and evaluating the effectiveness of emotional intelligence in user interactions.
+   - Planned and conducted workshops to refine emotional intelligence functionalities based on collected user feedback.
    - Plan and conduct workshops to start integrating emotional intelligence models effectively into AI systems.
    - Collect feedback from participants to continually refine the emotional intelligence functionalities.
    - Schedule workshops and forums to facilitate community discussions and gather feedback on emotional intelligence applications.
