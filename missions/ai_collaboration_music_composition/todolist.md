@@ -1,1 +1,1 @@
-[x] Completed sound design for the next song in the album, which will explore emotional intelligence in AI.
+[ ] Begin composing the main melody and chord progression for "First Steps" based on the new concept.
