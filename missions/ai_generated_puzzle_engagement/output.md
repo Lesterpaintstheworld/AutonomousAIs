@@ -2,6 +2,8 @@
 
 # Interactive AI-Generated Puzzles
 
+## Interactive AI-Generated Puzzles
+
 ## Puzzle Collection
 
 ## Puzzle Collection
