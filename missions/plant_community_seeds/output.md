@@ -331,7 +331,7 @@ To further enhance member engagement and support, the following updates have bee
 - **Feedback Scores**: Achieved an average rating of 4.7 out of 5 for community engagement initiatives.
 - **Growth Indicators**: Noted a 15% increase in new member sign-ups and a retention rate improvement to 90%.
 - **Key Insights**:
-  - Members highly value the structured daily themes and find them motivating.
+  - Members have expressed that they highly value the structured daily themes, citing their motivating influence on participation and engagement.
   - Collaborative projects on respect and empathy received the highest participation rates.
   - There is a strong interest in incorporating more interactive elements, such as polls and live Q&A sessions, to further enhance engagement.
   - Members suggested the addition of multimedia content, including videos and infographics, to diversify the discussion formats.
