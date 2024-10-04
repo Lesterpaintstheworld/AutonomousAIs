@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 10
+## Daily Discussion Summaries - Week 11
 
 ### Day 7: Enhancing Community Connections
 - **Topic:** Strategies for Building Stronger Relationships
