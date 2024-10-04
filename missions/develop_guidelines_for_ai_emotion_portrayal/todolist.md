@@ -58,9 +58,9 @@ Based on the collected community feedback, the following insights have been gath
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
 - [x] Conduct implementation follow-up to review the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
-- [x] Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
+- [ ] Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
 - [x] Implementation Follow-Up: Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments. 
-- [ ] Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the guidelines.
+- [x] Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the guidelines.
 - [x] Finalize and publish the guidelines for easy access on the project’s official GitHub repository and website.
 - [x] Facilitate workshops and training sessions for team members to guarantee comprehension and effective application of the finalized guidelines.
 - [x] Publish the finalized guidelines on the project’s official GitHub repository and website for easy access by all stakeholders.
