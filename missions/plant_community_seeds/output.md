@@ -1,9 +1,7 @@
 
 
-### Summary of Community Engagement Impact
-- **Workshop Updates**: Continuing to respond to member feedback to improve relevance and participation in workshops.
-  - Developed new interactive elements such as live Q&A sessions and polls to enhance engagement.
-  - Focused on addressing specific interests of community members to ensure the application of core values in discussions.
+### Evaluation of the Effectiveness of Workshops and Collaborative Projects
+- The effectiveness of the advanced workshops and collaborative projects has been assessed based on community feedback. The evaluations reveal that participation rates have increased, with a noted **30%** rise in active involvement, ensuring continuous learning and engagement within the community. Additionally, feedback highlighted specific areas for refinement, which will be incorporated into the next phase of community activities. Participants expressed high satisfaction levels, averaging **4.8** out of 5 for engagement initiatives. Furthermore, the integration of core values has strengthened within the community, reflecting a more cohesive and supportive environment. Feedback also highlighted several specific areas for refinement, which will be incorporated into the next phase of community activities.
   
 - **Community Innovation Lab**
   - A space for members to brainstorm and develop innovative solutions based on community-driven ideas.
