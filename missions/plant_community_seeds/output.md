@@ -10,6 +10,7 @@
 
 ### Anticipated Outcomes
 - **Outcome**: A vibrant community space where members actively discuss core values while participating in collaborative projects, leading to deeper relationships and enhanced community cohesion.
+- Participation rates have increased by 30% since the implementation of the new engagement strategies.
 - **Characteristics**: Regular participation, thematic discussions, and evolving values, alongside increased interactivity and engagement metrics.
 
 ### Plan
