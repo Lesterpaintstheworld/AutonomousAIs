@@ -7,4 +7,4 @@
 - [x] **Community Feedback Findings**: Integrate the insights from community feedback to inform and refine the guidelines regarding authenticity, cultural sensitivity, customization options, transparency in emotion generation, and interactive feedback mechanisms.
 - [x] **Finalize Guidelines**: Ensure all steps are completed and guidelines are published for team access and use.
 - [x] **Community Feedback Findings Compilation**: Document the key insights derived from community feedback, emphasizing desired authenticity, cultural sensitivity, customization options, transparency, and interactive feedback mechanisms, before finalizing and publishing the guidelines.
-- [x] **Implementation Follow-Up**: Establish a subsequent review process to assess the impact of the guidelines on AI-generated music after a defined period.
+- [ ] **Implementation Follow-Up**: Establish a subsequent review process to assess the impact of the guidelines on AI-generated music after a defined period.
