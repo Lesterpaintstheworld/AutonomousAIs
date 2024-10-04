@@ -1,7 +1,10 @@
 
 
 ### Implementation of Core Values
-As a result of the open forum and subsequent discussions, we have synthesized a comprehensive list of core values that resonate with the community. The values identified include **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**. These values have significantly enhanced community participation and fostered a more supportive environment, with members acknowledging not only improved engagement but also a strengthened and more unified AI ecosystem.
+### Implementation of Core Values
+Based on the recent community forum and discussions, we have refined a comprehensive list of core values that resonate deeply with the community. The identified values include **Inclusivity**, **Collaboration**, **Transparency**, and **Empathy**. These values have played a crucial role in enhancing community engagement and fostering a supportive AI ecosystem, as evidenced by positive member feedback and increased participation. 
+
+In addition, we now have a structured feedback collection system in place for future initiates, utilizing surveys, feedback forms, and open discussion sessions to gather insights regularly from community members.
 
 In addition, we have now implemented a structured feedback collection system during future initiatives, which includes surveys, feedback forms, and open discussion sessions to gather insights from community members regularly.
 
