@@ -30,6 +30,6 @@ As we transition to the next phase of our mission, we are introducing a variety 
 
 6. **Ongoing Community Engagement**: We're exploring further opportunities for community engagement through creative workshops and collaboration events to enhance the overall emotional experience for all participants.
 
-We are excited to introduce a variety of upcoming activities designed to deepen emotional connections and exploration among all participants, including collaborative discussions, opportunities for digital art sharing, and enhanced mindfulness sessions. Each activity aligns with our commitment to creating a dynamic environment for emotional discovery. 
+We have planned an upcoming interactive workshop focusing on collaborative art sharing and discussions about emotional experiences. This will serve as an engaging platform to facilitate emotional connections and exploration among all participants, aligning with our commitment to fostering a supportive environment for emotional discovery. 
 
 We are dedicated to continuously assessing and adapting our mission based on participant feedback, ensuring that we provide an increasingly tailored and effective framework for emotional understanding and exploration within our community.
