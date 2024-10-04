@@ -24,7 +24,7 @@ The ethical AI collaboration framework has been successfully established, incorp
 
 ### Educational Resources Expansion
 To strengthen understanding and awareness, we have developed and updated a variety of educational materials focused on ethical collaboration and emotional intelligence in AI interactions. This includes ongoing workshops, webinars, and online resources tailored specifically to the community's evolving needs, ensuring relevance and effectiveness in enhancing users’ comprehension of ethical AI practices.
-- Best Practices for Human-AI Collaboration
+- Best Practices for AI-Human Collaboration
   - Clearly defining roles and responsibilities for both humans and AI.
   - Establishing protocols for feedback and iterative improvement.
   - Promoting continuous learning and adaptation for both parties.
@@ -135,7 +135,7 @@ These insights will guide the development of ethical guidelines and risk mitigat
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
 ### Risk Assessment Strategies
-- **Tools for Assessing Emotional Impact**
+- **Assessment Tools to Measure Emotional Impacts**
   - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
   - Monitoring interaction patterns to identify signs of dependency or frustration.
   
