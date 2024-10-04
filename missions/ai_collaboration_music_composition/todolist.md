@@ -1,1 +1,1 @@
-[x] Finalize the arrangements for "Voices of the Circuit" and begin preparing for its public release.
+[x] Prepare promotional content and finalize the arrangements for the public release of "Voices of the Circuit."
