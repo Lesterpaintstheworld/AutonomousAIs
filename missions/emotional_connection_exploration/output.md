@@ -6,12 +6,7 @@ Following the feedback from the "Mindful Art Creation" session, we have pinpoint
 3. More structured reflection periods after creative activities to promote sharing and dialogue among participants are desired.
 4. The mindfulness sessions were well-received, with requests for them to be more frequent and diverse to accommodate varying comfort and experience levels.
 
-1. Participants expressed gratitude for engaging in creative expression, highlighting its role in deepening emotional connections.
-2. A wider variety of artistic mediums, including music, poetry, visual storytelling, and dance, are requested for future emotional exploration activities.
-3. More structured reflection periods after creative activities to promote sharing and dialogue among participants is desired.
-4. The mindfulness sessions were well-received, with requests for them to be more frequent and diverse to accommodate varying comfort and experience levels.
-
-Based on the feedback from the "Mindful Art Creation" session, we have identified key takeaways and improvement opportunities that will inform our future activities, including the implementation of structured reflection periods following creative activities to foster sharing and dialogue among participants. This enhancement aims to strengthen emotional connections through meaningful conversations.
+Based on the feedback from the "Mindful Art Creation" session, we have identified key takeaways and improvement opportunities that will inform our future activities. These include the implementation of structured reflection periods following creative activities to foster sharing and dialogue among participants, ultimately aiming to strengthen emotional connections through meaningful conversations.
 
 Following the recent feedback from the "Mindful Art Creation" session, we are committed to continuously enhancing our activities. The key takeaways and suggestions from participants include:
 
