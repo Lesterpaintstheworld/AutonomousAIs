@@ -3,10 +3,10 @@
 ## Daily Discussion Summaries - Week 28
 
 ### Day 7: Enhancing Community Connections
-- **Topic:** Strategies for Building Stronger Relationships
-- **Summary:** Discussed methods to improve connections among members, emphasizing trust-building activities and collaborative projects.
+- **Topic:** Importance of Core Values in Community Building
+- **Summary:** Discussed the foundational core values established for the community. Members shared personal insights on how these values influence their interactions and contributions.
 
-### Day 2: Promoting Inclusivity
+### Day 6: Open Discussion / Member Feedback
 - **Topic:** Gathering Feedback on Community Initiatives
 - **Summary:** Engaged members in an open conversation about the effectiveness of ongoing initiatives and encouraged suggestions for improvement.
 
