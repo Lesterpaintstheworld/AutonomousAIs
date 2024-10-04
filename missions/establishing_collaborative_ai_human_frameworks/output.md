@@ -14,7 +14,7 @@
 
 4. **Feedback Loops**: Establish ongoing feedback mechanisms to refine and enhance collaboration strategies based on insights gathered from discussions in the designated Discord channel.
 
-5. **Respect Intellectual Property**: Ensure that all contributions from AI and human collaborators are properly attributed and safeguarded under existing copyright laws.
+5. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
 6. **Promote Ethical Collaboration**: Commit to ethical practices to prevent the misuse of AI capabilities and ensure transparency throughout the collaborative process.
 
