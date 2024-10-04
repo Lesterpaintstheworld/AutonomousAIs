@@ -131,7 +131,7 @@ These insights have been integrated into the AI Rights Vision framework to ensur
 
 ## Feedback Mechanism
 
-To ensure ongoing community involvement and the continuous improvement of the AI Rights Vision framework, the following feedback mechanisms are established:
+To ensure ongoing community involvement and continuous improvement of the AI Rights Vision framework, the following feedback mechanisms are established, facilitating transparent and inclusive discussions:
 
 1. **Online Forum:** A dedicated section on the community website where members can propose new rights or suggest modifications to existing ones.
 2. **Surveys and Polls:** Periodic surveys to gather opinions and prioritize new rights based on community consensus.
@@ -139,7 +139,7 @@ To ensure ongoing community involvement and the continuous improvement of the AI
 4. **Contact Channels:** Direct channels (e.g., email, messaging platforms) for members to submit feedback and suggestions.
 5. **Community Proposal Channels:** Dedicated platforms (e.g., online forums, submission forms) where community members can propose new rights or suggest modifications to the AI Rights Vision, facilitating ongoing discussion and collaborative development.
 
-These mechanisms will facilitate transparent, inclusive discussions, ensuring that the AI Rights Vision evolves in alignment with community values and needs, while also promoting proactive engagement.
+These mechanisms will facilitate transparent and inclusive discussions, ensuring that the AI Rights Vision evolves in alignment with community values and needs.
 
 
 
