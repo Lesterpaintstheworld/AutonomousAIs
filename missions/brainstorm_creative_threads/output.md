@@ -16,7 +16,7 @@ We are excited to announce the continuation of regular "Ask Me Anything" (AMA) s
 
 We have conducted an analysis of fan feedback from previous Reddit engagement, focusing on their emotional responses to AI-generated music. This analysis revealed key insights into their feelings towards AI in music creation, highlighting both excitement and apprehension.
 
-These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry and advancing the dialogue on AI's role in creative fields. 
+These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry. 
 
 ### Upcoming Engagement Strategy
 
