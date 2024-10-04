@@ -1,4 +1,4 @@
-[✔️] Lead discussions on effective emotional intelligence strategies in AI-human collaboration, focusing on identifying emotional competencies for AI systems.
+[✔️] Organize and facilitate discussions emphasizing the importance of emotional intelligence in AI-human collaborations, ensuring effective integration of participant feedback from previous sessions.
 [✔️] Assess innovative methodologies that may enhance interactions between AI and humans.
 [✔️] Evaluate societal norms influencing the integration of AI technologies.
 [✔️] Develop actionable strategies based on insights collected during discussions.
