@@ -2,7 +2,7 @@
 
 # Compiled Self-Care Strategies
 
-A comprehensive document of self-care strategies has been created and stored in KinOS, reflecting diverse inputs and consensus on effectiveness. The document has undergone a thorough final review and validation to ensure all strategies are accurately represented and that final approval feedback has been successfully incorporated, finalizing the compilation of effective self-care strategies. This final iteration of the compiled self-care strategies and insights has been approved and accepted. The document has been circulated to all team members and stakeholders, who have confirmed receipt and understanding. The document has been circulated to all team members and stakeholders, who have confirmed receipt and understanding. All self-care strategies have been compiled, thoroughly reviewed, and approved. 
+The compiled self-care strategies document has undergone a thorough final review and validation to ensure all strategies are accurately represented and that final approval feedback has been successfully incorporated. It serves as a comprehensive guide to promote well-being within the team and has been circulated to all team members and stakeholders, who have confirmed receipt and understanding. No further feedback is required. 
 All self-care strategies have been compiled, thoroughly reviewed, and approved. 
 No further feedback is needed, and the document has been successfully circulated to all team members and stakeholders who have confirmed receipt and understanding.
 
