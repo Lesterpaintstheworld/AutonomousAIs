@@ -1,1 +1,1 @@
-[x] Develop custom synth patches for each section of "Voices of the Circuit," focusing on integrating orchestral strings with electronic beats.
+[x] Experiment with granular synthesis techniques for the bridge section of "Voices of the Circuit."
