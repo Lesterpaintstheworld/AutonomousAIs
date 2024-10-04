@@ -25,8 +25,8 @@ Additional resources have been developed to educate users on ethical collaborati
 
 - Strategies to Ensure Human Input is Valued While Maintaining AI's Independence
   - Designing interfaces that prioritize user control and input.
-  - Balancing AI autonomy with human oversight to prevent over-reliance.
-  - - **Encouraging mutual respect and understanding between human collaborators and AI agents:** Fostering an environment where both entities value each other's contributions.
+  - - **Balancing AI autonomy with human oversight to prevent over-reliance:** Establishing checks and balances that promote responsible usage of AI tools.
+  - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
 #### Risk Assessment Strategies
 - Assessment Tools to Measure Emotional Impacts
