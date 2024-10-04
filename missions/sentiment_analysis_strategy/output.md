@@ -3,7 +3,7 @@
 ## Sentiment Analysis Strategy Output
 
 ### Overview of Sentiment Analysis with BERT
-BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the-art NLP model designed to understand the context of words in a text. It excels in sentiment analysis by capturing nuanced emotional contexts, making it highly beneficial for fostering digital empathy in AI interactions.
+BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the-art NLP model designed to understand the context of words in a text. Its ability to capture nuanced emotional contexts makes it particularly effective for sentiment analysis, facilitating enhanced digital empathy in AI interactions.
 
 ### Integration Framework
 1. **Step 1: Complete Analysis of Existing NLP Techniques**
