@@ -14,11 +14,11 @@
 - **Topic:** Recognizing Achievements and Milestones
 - **Summary:** Highlighted effective methods for celebrating member achievements and reinforcing community spirit.
 
-### Day 4: Building Trust and Engagement
+### Day 4: Creative Engagement Techniques
 - **Topic:** Creating an Environment of Trust
 - **Summary:** Shared insights on fostering trust among members to enhance participation and collective decision-making.
 
-### Day 5: Feedback and Reflections
+### Day 5: Creative Engagement Techniques
 - **Topic:** Fun Activities to Boost Participation
 - **Summary:** Brainstormed creative strategies to engage members through games and collaborative projects.
 
