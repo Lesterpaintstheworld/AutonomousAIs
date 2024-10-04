@@ -7,7 +7,8 @@
 - **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
 
 ## 2. Evaluation of AI Limitations
-- **Technical Constraints**: Acknowledge current AI models' limitations in terms of emotional depth and authenticity. 
+- **Technical Constraints**: Acknowledge and critically assess the current AI models' limitations related to emotional depth, authenticity, and overall expressiveness.
+- **Subjectivity of Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in creating universally resonant music and the varying interpretations by different audiences. 
 - **Subjectivity of Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in creating universally resonant music.
 
 ## 3. Community Collaboration for Feedback
