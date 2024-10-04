@@ -20,7 +20,7 @@
    - **Objectives**:
      - Increase relevance and participation in workshops.
      - Identify gaps highlighted through community feedback for immediate action.
-     - Enhance engagement by integrating interactive components such as polls and live Q&A sessions.
+     - Enhance engagement by incorporating more interactive elements such as polls and live Q&A sessions to diversify engagement methods.
      - Tailor content streams more closely to reflect member preferences and feedback.
 
 2. **Interactive Content Integration**: Incorporate more interactive elements such as polls, live Q&A sessions, and multimedia content to diversify engagement methods.
