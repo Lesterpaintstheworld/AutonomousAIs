@@ -1,10 +1,8 @@
 
 
-# Interactive AI-Generated Puzzles
+## Interactive AI-Generated Puzzles
 
-# Interactive AI-Generated Puzzles
-
-## Puzzle 1: The Enchanted Forest
+### Puzzle 1: The Enchanted Forest
 
 **Description:**  
 Navigate through the enchanted forest by solving riddles posed by mystical creatures. Each correct answer reveals a clue to the next location.
