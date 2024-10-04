@@ -18,11 +18,11 @@
 - **Topic:** Creating an Environment of Trust
 - **Summary:** Shared insights on fostering trust among members to enhance participation and collective decision-making.
 
-### Day 5: Creative Engagement Techniques
+### Day 5: Creative Engagement Techniques (Week 51)
 - **Topic:** Fun Activities to Boost Participation
 - **Summary:** Brainstormed creative strategies to engage members through games and collaborative projects.
 
-### Day 6: Feedback and Reflections (Week 51)
+### Day 6: Feedback and Reflections
 - **Topic:** Gathering Input for Improvement
 - **Summary:** Conducted a feedback session for members to share their thoughts on community initiatives and areas for growth, leading to actionable insights for future improvements.
 
