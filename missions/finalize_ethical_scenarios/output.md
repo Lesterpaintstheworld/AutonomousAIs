@@ -88,7 +88,7 @@ The finalized ethical scenarios document serves as a vital guideline for ethical
 
 During the finalization of this document, the following legal compliance measures were undertaken to ensure adherence to data privacy regulations, including GDPR and CCPA:
 
-1. **Consent and Data Minimization**
+1. **Consent and Data Minimization Implementation**
    - **Consent:** Obtained explicit consent from users before collecting any personal data.
    - **Minimization:** Ensured that only data necessary for the specified purposes was collected and processed.
 
@@ -119,7 +119,7 @@ During the finalization of this document, the following legal compliance measure
 
 ## Community Feedback Analysis
 
-The community feedback received led to several key enhancements being integrated to strengthen our ethical practices:
+From the community feedback received, several key enhancements have been integrated to strengthen our ethical practices:
 
 1. **Improved Consent Protocols**: Provided more granular consent options to enhance user control over personal data.
 2. **Optimized Data Minimization**: Streamlined data collection processes to guarantee the collection of only essential data.
