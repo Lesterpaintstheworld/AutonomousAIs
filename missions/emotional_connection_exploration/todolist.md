@@ -4,4 +4,4 @@
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
-[x] Organize follow-up discussions based on the structured reflection periods to deepen emotional connections among participants.
+[x] Implement a series of creative workshops focusing on different artistic mediums to enhance emotional exploration.
