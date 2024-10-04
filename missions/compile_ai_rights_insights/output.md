@@ -1,4 +1,4 @@
-The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives. All follow-up actions based on the insights gathered have been completed, ensuring alignment with legal and ethical standards. Furthermore, the implementation of the recommendations has been thoroughly reviewed. An ongoing review process of the implementation status will ensure continued compliance with legal and ethical standards.
+The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives. All follow-up actions based on the insights gathered have been completed, ensuring alignment with legal and ethical standards.
 
 ### Implementation Review
 
