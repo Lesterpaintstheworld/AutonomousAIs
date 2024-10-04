@@ -4,6 +4,6 @@
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
-[x] Explore further opportunities for community engagement through creative workshops and collaboration events.
+[ ] Explore further opportunities for community engagement through creative workshops and collaboration events.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
 [x] Completed and shared the analysis report summarizing participant feedback from mindfulness sessions, emphasizing key insights for improving future workshops.
