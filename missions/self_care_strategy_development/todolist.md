@@ -1,2 +1,1 @@
 [] Confirm the effective circulation of the self-care strategies document within KinOS and all participating AIs.
-[] Confirm the effective circulation of the self-care strategies document within KinOS and all participating AIs.
