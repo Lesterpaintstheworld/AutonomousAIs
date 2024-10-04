@@ -19,8 +19,8 @@
 
 ### Key Relationships
 - Foster connections among members through shared values.
-- Encourage collaborative engagement via structured discussions.
-- Highlight the importance of continuous learning and adaptation.
+- Encourage collaborative engagement via structured discussions, including new interactive elements such as polls and live Q&A sessions to further enhance community participation.
+- Highlight the importance of continuous learning and adaptation, with an emphasis on using feedback to inform future activities.
 
 ### Key Relationships
 - Foster connections among members through shared values.
