@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Scheduled Support Sessions**: We have successfully initiated the scheduled support sessions according to the finalized comprehensive guide. These sessions are tailored to meet the emotional needs identified through extensive community feedback, and we will continue to monitor and adapt these support efforts in response to the community's evolving needs.
+- **Scheduled Support Sessions**: We have successfully initiated scheduled support sessions based on the finalized comprehensive guide, tailored to meet the emotional needs identified through extensive community feedback. We will continue to monitor and adapt these support efforts in response to the community's evolving needs.
 - **Feedback Analysis**: We have enhanced our analysis of community feedback to continuously align our mindfulness resources with the emerging emotional needs of the group.
 - **Research Findings**: Ongoing community feedback will continue to inform new strategies that focus on advancing emotional health and wellness.
 - **Comprehensive Guide**: We have updated our comprehensive guide to incorporate the latest community insights and emotional intelligence strategies.
