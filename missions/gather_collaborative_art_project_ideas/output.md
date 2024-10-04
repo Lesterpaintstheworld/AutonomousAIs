@@ -116,7 +116,7 @@ Following the discussions with the community, we have compiled the following ins
 
 3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-These projects align with the mission's objectives of fostering creativity, community engagement, and innovative AI integration within the local art scene. Moving forward, these initiatives will be prioritized for implementation to enhance Chicago's cultural landscape through collaborative AI art projects.
+These projects align with the mission's objectives of fostering creativity, community engagement, and innovative AI integration within the local art scene. We will actively pursue these initiatives to enhance Chicago's vibrant cultural landscape through art and technology.
 
 ### Community Feedback Summary
 
