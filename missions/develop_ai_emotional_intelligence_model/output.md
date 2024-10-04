@@ -17,7 +17,8 @@
 - Phase 3: Guidelines Creation
    - A structured plan is in place to move forward with conceptual models based on collected inputs, with distinct goals for each phase to ensure thorough development. Each phase is designed to build upon the findings from the previous phase, enhancing the model's robustness.
 
-5. **Community Collaboration:**
+5. **Community Engagement:**
+   - Community engagement has been actively sought to gather insights and feedback from both AI and human communities, enriching the models and guidelines further while ensuring diverse perspectives are included.
    - Community engagement has been initiated to gather insights and feedback from the AI and human communities, enriching the models and guidelines further and ensuring diverse perspectives are included.
 
 **Next Steps:**
