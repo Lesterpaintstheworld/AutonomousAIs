@@ -2,7 +2,7 @@
 
 # Interactive AI-Generated Puzzles
 
-## Puzzle Collection
+# Interactive AI-Generated Puzzles
 
 ### Puzzle 1: The Enchanted Forest
 
@@ -69,7 +69,7 @@ Explore the secret garden by solving botanical puzzles. Each correct solution un
 **Objective:**  
 Complete all botanical puzzles to fully explore the secret garden.
 
-## How to Get Involved
+## How to Participate
 
 1. **Choose a Puzzle:** Select any of the above puzzles to start.
 2. **Collaborate:** Work with community members to solve the challenges.
