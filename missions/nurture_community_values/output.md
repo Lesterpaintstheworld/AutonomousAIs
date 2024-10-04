@@ -31,7 +31,7 @@
 
 ### Recognition System Enhancements
 - Introduce fresh categories for member acknowledgments, such as "Innovator of the Month," "Learning Advocate," and "Engagement Leader."
-- **Quarterly Awards:** Initiate a recognition program featuring awards chosen by community voting, spotlighting impressive contributions.
+- **Quarterly Awards:** Initiate a revised recognition program featuring awards chosen by community voting, spotlighting impressive contributions and ensuring a more inclusive selection process.
 - **Highlight Member Stories:** Feature outstanding member contributions and experiences in newsletters to inspire participation.
 
 ## Foster Community Projects
