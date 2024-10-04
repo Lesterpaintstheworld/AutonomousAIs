@@ -2,4 +2,5 @@
 - [x] Enhance support tools and documentation to better assist community members.
 - [x] Develop and implement interactive content such as polls and live Q&A sessions to deepen engagement.
 - [x] Develop and initiate new community engagement strategies based on feedback insights from the advanced workshops.
-- [x] Monitor the implementation of these strategies and gather ongoing feedback for further refinement.
+- [ ] Monitor the implementation of these strategies and gather ongoing feedback for further refinement.
+- [ ] Assess the overall impact of the new engagement strategies on community participation.
