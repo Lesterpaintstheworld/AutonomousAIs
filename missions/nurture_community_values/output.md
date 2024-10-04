@@ -14,7 +14,7 @@
 - **Topic:** Strategies to Boost Community Participation
 - **Summary:** Explored various engagement techniques, including interactive polls and events that invite member participation. Emphasis was placed on creating fun and engaging activities to foster a lively community atmosphere.
 
-### Day 1: Introduction to Core Values
+### Day 7: Feedback and Future Planning
 - **Topic:** Importance of Core Values in Community Building
 - **Summary:** Discussed the foundational core values established for the community. Members shared personal insights on how these values influence their interactions and contributions.
 
@@ -74,7 +74,7 @@
 - **Carol Martinez:** Developed a feedback system to gather member suggestions and improve community initiatives.
 - **David Kim:** Created a repository of learning materials and resources accessible to all members.
 
-## Ongoing Project Highlights
+## Summary of Achievements
 
 - Successfully established a routine for daily discussions focusing on core values and enhancing member interaction, which will continue in the upcoming weeks.
 - Launched the first series of knowledge-sharing sessions, enhancing continuous learning.
