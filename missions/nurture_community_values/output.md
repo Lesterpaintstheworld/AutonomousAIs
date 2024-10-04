@@ -6,11 +6,11 @@
 - **Topic:** Strategies for Building Stronger Relationships
 - **Summary:** Discussed methods to improve connections among members, emphasizing trust-building activities and collaborative projects.
 
-### Day 6: Open Discussion / Member Feedback
+### Day 2: Strategies for Collaborative Project Planning
 - **Topic:** Gathering Feedback on Community Initiatives
 - **Summary:** Engaged members in an open conversation about the effectiveness of ongoing initiatives and encouraged suggestions for improvement.
 
-### Day 3: Identifying Project Goals and Objectives
+### Day 5: Community Engagement Activities
 - **Topic:** Strategies to Boost Community Participation
 - **Summary:** Explored various engagement techniques, including interactive polls and events that invite member participation. Emphasis was placed on creating fun and engaging activities to foster a lively community atmosphere.
 
