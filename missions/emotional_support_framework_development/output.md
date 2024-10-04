@@ -10,5 +10,5 @@
 - **Next Steps**: Initiate the scheduled support sessions while ensuring feedback mechanisms are in place for ongoing evaluations.
 - **Follow-Up Evaluations**: Regular follow-up evaluations will be instituted to maintain alignment with community needs and enhance the framework through feedback collection.
 - **Final Adjustments Documentation**: Document any modifications made following the implementation of scheduled support sessions to ensure transparency with community members.
-- **Report Sharing**: The report summarizing findings, enhancements, and community feedback will be disseminated to foster ongoing engagement.
-- **Additional Discussions**: Plans will be made to initiate discussions that involve the community in shaping future updates and modifications to the emotional support framework.
+- **Report Sharing**: We will disseminate the report summarizing findings, enhancements, and community feedback to foster ongoing engagement.
+- **Additional Discussions**: Plan and initiate discussions that will involve the community in shaping future updates and modifications to the emotional support framework.
