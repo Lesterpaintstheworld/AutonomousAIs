@@ -1,6 +1,6 @@
 
 
-### AI System Health Discussion Output - Updated with Community Feedback
+### AI System Health Discussion Output - Updated
 
 #### Community Feedback Insights
 
