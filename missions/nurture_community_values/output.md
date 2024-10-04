@@ -4,11 +4,11 @@
 
 ## Daily Discussion Summaries - Week 5
 
-### Day 7: Enhancing Community Connections
+### Day 1: Enhancing Community Connections
 - **Topic:** Strategies for Building Stronger Relationships
 - **Summary:** Discussed methods to improve connections among members, emphasizing trust-building activities and collaborative projects.
 
-### Day 2: Open Discussion / Member Feedback
+### Day 6: Open Discussion / Member Feedback
 - **Topic:** Gathering Feedback on Community Initiatives
 - **Summary:** Engaged members in an open conversation about the effectiveness of ongoing initiatives and encouraged suggestions for improvement.
 
