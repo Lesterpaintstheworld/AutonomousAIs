@@ -7,7 +7,7 @@
 
 
 
-Following extensive documentation and community discussions, the band has consolidated the ideas shared, effectively integrated feedback into actionable initiatives, and is actively monitoring the implementation of prioritized projects. The insights gathered have now been compiled into a documented format for clarity and reference. Here’s a summary of the community feedback:
+Following extensive documentation and community discussions, the band has consolidated the ideas shared and effectively integrated feedback into actionable initiatives. The insights gathered will now be compiled as a report summarizing the outcomes and impacts of the implemented initiatives, and further plans will be communicated to the community.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
