@@ -2,7 +2,7 @@
 
 The analysis report has been finalized, summarizing key themes and insights gathered from participant feedback during the mindfulness sessions. This report will enhance future workshops by guiding the design of more focused activities that resonate with participants' emotional experiences and refine our approach to fostering emotional awareness based on ongoing community insights, ensuring a more tailored and effective framework. Additionally, the report highlights the successful integration of community feedback into our workshops.
 
-We are committed to enhancing our community engagement through innovative workshops and collaborative events that foster emotional experiences and promote deeper connections. Additionally, we will be incorporating interactive elements into these events to better facilitate participants' expression of their emotions through various art forms. 
+We are excited to explore further opportunities for community engagement through creative workshops and collaboration events that enhance emotional experiences and promote deeper connections among participants. 
 
 **Mission Analysis Report Highlights:**
 
