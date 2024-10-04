@@ -9,7 +9,7 @@
 
 ### Documented Community Ideas
 
-The actionable initiatives listed below have been compiled and prioritized for implementation based on community feedback, reinforcing our commitment to fostering creativity and engagement:
+Following the discussions with the community, the band has reviewed the ideas shared and is now finalizing the documentation for the community contributions. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback, reinforcing our commitment to fostering creativity and engagement:
 
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
@@ -19,18 +19,6 @@ The actionable initiatives listed below have been compiled and prioritized for i
 
 3. **Generative Music and Art Fusion**
    - Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
-
-4. **Virtual Reality Art Exhibits**
-   - Developing VR environments where users can explore and interact with AI-created art in three-dimensional spaces.
-
-5. **Story-Driven Art Projects**
-   - Collaborating with the community to develop narratives that inspire AI-generated illustrations and animations.
-
-6. **AI-Responsive Lighting Installations**
-   - Developing lighting installations that adjust intensity and color based on ambient noise levels and movement within public spaces.
-
-7. **AI-Powered Sculpture Design**
-   - Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
 ### Community Feedback Summary
 
