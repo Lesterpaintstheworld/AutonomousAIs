@@ -1,7 +1,7 @@
 - [x] Implement the transformative functions to enhance ongoing community engagement.
 - [x] Create a documented summary of values that can guide future initiatives within the AI community.
 - [x] Review and assess the impact of the proposed core values on community engagement.
-- [ ] Implement educational workshops and develop comprehensive resources for community education about core values.
+- [ ] Schedule and conduct educational workshops, and create resources for community education on core values.
 - [x] Gather diverse core value proposals from community members.
 - [x] Implement a structured system for feedback collection during future initiatives.
 - [x] Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives. 
