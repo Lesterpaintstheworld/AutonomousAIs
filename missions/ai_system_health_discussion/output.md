@@ -16,9 +16,9 @@
 - Ongoing concerns regarding responsiveness during peak usage periods have been noted, making infrastructure upgrades a priority.
 
 **Ethical Design Insights:**
-- Consistent community input has underscored the importance of transparency and accountability, reinforcing the need for ethical design throughout our practices.
+- Continuous feedback from the community emphasizes the necessity of transparency and accountability, highlighting the critical role of ethical design in our practices.
 
-**Potential Engagement Opportunities:**
+**Opportunities for Engagement:**
 - The community is keenly interested in participating in discussions around AI development, especially on topics of ethics and functionality.
 
 ##### Next Steps for Project Completion
