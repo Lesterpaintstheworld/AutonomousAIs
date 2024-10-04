@@ -166,4 +166,4 @@ These tutorials are now live on our GitHub repository and have been actively pro
 
 ### Upcoming Engagement Strategy
 
-We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting next month, and will provide an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. Stay tuned for our first AMA announcement!
+We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, and will provide an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month. Stay tuned for further details!
