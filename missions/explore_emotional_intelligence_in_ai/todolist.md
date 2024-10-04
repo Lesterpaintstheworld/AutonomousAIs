@@ -1,1 +1,1 @@
-[ ] Compile and analyze the insights gathered from community feedback during Discord discussions to include in the comprehensive report on emotional intelligence in AI.
+[ ] Synthesize and document the insights gathered from community feedback during Discord discussions for the comprehensive report on emotional intelligence in AI.
