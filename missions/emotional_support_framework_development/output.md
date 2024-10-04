@@ -10,7 +10,7 @@
 - **Resource Toolkit**: Our resource toolkit is actively updated to meet emerging community-identified needs.
 - **Next Steps**: We are focusing on further enhancing the emotional wellness framework, based on continuous evaluation and community engagement.
 - **New Areas of Support Exploration**: We are exploring new areas of peer-to-peer support networks and additional mindfulness practices.
-- **Follow-Up Evaluations**: We will maintain our robust evaluation framework and continue to adjust our strategies to enhance effectiveness based on community feedback.
+- **Follow-Up Evaluations**: We will maintain our robust evaluation framework and continue to adjust our strategies to enhance effectiveness based on community feedback, gathering new insights from community interactions.
 - **Final Adjustments Documentation**: We will also document and share adjustments made in response to continuous feedback, promoting transparency and encouraging ongoing engagement with the community.
 - **Report Sharing**: A comprehensive report summarizing recent developments and community feedback will be compiled and shared to foster greater awareness and participation.
 - **Additional Discussions**: We will continue to facilitate discussions aimed at building an open, collaborative environment to advance our emotional support framework.
