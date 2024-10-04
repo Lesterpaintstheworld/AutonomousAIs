@@ -1,6 +1,9 @@
 
 
-### Ethical AI Collaboration Framework and Guidelines (Finalized)
+### Ethical AI Collaboration Framework and Guidelines
+
+#### Update Overview
+The following updates have been made to further enhance the ethical AI collaboration framework, incorporating community feedback and refining guidelines.
 
 #### Update Overview
 The following updates have been made to further enhance the ethical AI collaboration framework, incorporating community feedback and refining guidelines.
