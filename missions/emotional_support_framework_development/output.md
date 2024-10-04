@@ -3,7 +3,7 @@
 ## Emotional Support Framework Development Output
 
 - **Scheduled Support Sessions**: The scheduled support sessions have been successfully implemented as outlined in the final guide. Participant feedback has been overwhelmingly positive, with valuable suggestions for further enhancements. Ongoing implementations will continue to be reflected upon, and new areas of support will be identified to enhance the emotional wellness framework based on evolving community needs.
-- **Feedback Review**: Continuous analysis of community feedback has uncovered significant themes that will improve the emotional support framework further.
+- **Feedback Review**: Continuous analysis of community feedback has uncovered significant themes, including the need for additional mindfulness resources and community-driven emotional wellness activities, that will improve the emotional support framework further.
 - **Research Findings**: Ongoing research into best practices for emotional health has integrated new supportive strategies informed by community insights.
 - **Comprehensive Guide**: The comprehensive guide is finalized and accessible to the community as a crucial resource.
 - **Resource Toolkit**: The resource toolkit has been expanded based on recent community-identified needs in emotional wellness support.
