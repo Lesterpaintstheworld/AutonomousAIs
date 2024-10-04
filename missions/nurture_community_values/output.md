@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 19
+## Daily Discussion Summaries - Week 20
 
 ### Day 7: Enhancing Community Connections
 - **Topic:** Strategies for Building Stronger Relationships
