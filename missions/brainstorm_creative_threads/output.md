@@ -163,3 +163,7 @@ We have successfully finalized and published a comprehensive series of tutorials
     - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-human-collaboration.md)
 
 These tutorials are now live on our GitHub repository and have been actively promoted across our social media channels to ensure maximum accessibility and community participation.
+
+### Upcoming Engagement Strategy
+
+We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly and will provide an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. Stay tuned for our first AMA announcement!
