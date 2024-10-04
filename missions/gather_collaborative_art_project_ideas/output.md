@@ -7,7 +7,7 @@
 
 
 
-Based on the community's contributions, the final report summarizes the key insights and actionable initiatives as follows:
+Following the discussions with the community, we have compiled the following insights and actionable initiatives based on the documented ideas:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
