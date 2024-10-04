@@ -1,1 +1,1 @@
-[ ] Publish and circulate the comprehensive report on emotional intelligence in AI among community members, inviting their insights and discussions for ongoing enhancement.
+[ ] Disseminate the comprehensive report on emotional intelligence in AI to the community and invite feedback for continuous improvement.
