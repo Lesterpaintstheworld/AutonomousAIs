@@ -4,7 +4,7 @@ Based on the feedback from the "Mindful Art Creation" session, we have identifie
 - Participants expressed gratitude for the opportunity to engage in creative expression, noting its importance in deepening their emotional connections with others.
 - Suggestions for further development include incorporating a wider variety of artistic mediums, such as music, poetry, visual storytelling, and dance, to enhance emotional exploration and engagement.
 - Feedback indicated a desire for more structured reflection periods after creative activities to promote sharing and dialogue among participants.
-- The effectiveness of the mindfulness sessions was generally well-received, with requests for more frequent and diverse practices to accommodate varying levels of comfort and experience.
+- The effectiveness of the mindfulness sessions was generally well-received, with requests for them to be more frequent and diverse to accommodate varying comfort and experience levels. Additionally, we will implement structured reflection periods after creative activities to promote sharing and dialogue among participants regarding their emotional experiences.
 
 To enhance emotional exploration activities, we will introduce workshops centered on diverse artistic expressions such as music, poetry, and visual storytelling. This addition will allow participants to engage with a wider variety of mediums, deepening their emotional connections and experiences.
 
