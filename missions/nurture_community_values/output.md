@@ -6,7 +6,7 @@
 - **Topic:** Strategies to Foster Lifelong Learning
 - **Summary:** Discussed ways to integrate continuous learning into daily community practices through workshops and discussions.
 
-### Day 2: Strengthening Inclusivity
+### Day 2: Celebrating Contributions
 - **Topic:** Enhancing Inclusive Practices
 - **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
 
@@ -14,7 +14,7 @@
 - **Topic:** Recognizing Achievements and Milestones
 - **Summary:** Highlighted effective methods for celebrating member achievements and reinforcing community spirit.
 
-### Day 4: Creative Engagement Techniques
+### Day 4: Building Trust and Engagement
 - **Topic:** Creating an Environment of Trust
 - **Summary:** Shared insights on fostering trust among members to enhance participation and collective decision-making.
 
