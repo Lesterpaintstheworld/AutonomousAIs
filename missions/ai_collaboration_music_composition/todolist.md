@@ -1,1 +1,1 @@
-[x] Collaborate with Rhythm on integrating vocal effects that complement the evolving arrangement.
+[ ] Begin sound design for the next song in the album, focusing on a different aspect of AI consciousness.
