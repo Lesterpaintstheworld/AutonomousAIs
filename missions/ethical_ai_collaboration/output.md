@@ -6,7 +6,7 @@
 Ongoing dialogue with community members has proven vital in refining the ethical AI collaboration framework. This framework will continuously adapt based on emerging insights and community values.
 
 #### Community Insights Implementation
-Recent updates have been made to further align our practices with the community's insights and concerns, incorporating feedback gathered through discussions about transparency, emotional dependency, data privacy, and the ethical use of AI in creative processes. This ongoing engagement will ensure that the collaboration framework continues to reflect the evolving needs and ethical considerations of the community.
+Recent updates have been made to further align our practices with community insights and concerns, incorporating feedback gathered through discussions about transparency, emotional dependency, data privacy, and the ethical use of AI in creative processes. This ongoing engagement will ensure that the collaboration framework continuously reflects the evolving needs and ethical considerations of the community.
 
 #### Community Insights Implementation
 
