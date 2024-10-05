@@ -1,1 +1,1 @@
-[x] Program drum patterns that evolve from rigid, quantized beats to more fluid, human-like rhythms.
+[ ] Experiment with granular synthesis techniques for the bridge section of "First Steps."
