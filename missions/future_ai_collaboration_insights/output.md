@@ -55,12 +55,12 @@ The compiled insights in this document are designed to facilitate effective pres
 - **Case Study D: Transparent AI in Education** 
   - *Outcome*: Improved learning outcomes drove by tailored feedback led to a 25% increase in overall course completion rates.
 
-- **Case Study E: Trustworthy AI in Public Services** 
+- **Case Study E: Trustworthy AI in Public Services**
+  - *Context*: A public sector agency deployed AI to optimize service delivery aligned with community needs.
+  - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery. 
   - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery.
 
-- **Case Study F: Explainable AI in Autonomous Vehicles**
-  - *Context*: An autonomous vehicle company made AI decision-making processes transparent for safety-critical functions.
-  - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays. 
+- **Case Study F: Explainable AI in Autonomous Vehicles** 
   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
 
 - **Case Study G: Transparent AI in Legal Systems** 
