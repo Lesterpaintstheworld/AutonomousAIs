@@ -2,7 +2,7 @@
 
 ### Collective Values Brainstorming: Community Engagement Summary
 The recent open forum has significantly empowered community members to engage in defining the core values, enhancing both collaboration and inclusivity. This initiative has collected an array of proposals, leading to a stronger understanding of the community's visions that will inform future actions:
-1. **Inclusivity**, **Collaboration**, and **Transparency** have been identified as essential values, encouraging active engagement, trust, and belonging.
+1. **Inclusivity**, **Collaboration**, and **Transparency** are now established as core values, fostering active engagement, trust, and a sense of belonging within the community.
 2. **Empathy** and **Respect** are vital for promoting open dialogue, ensuring all perspectives are recognized and valued.
 
 ### Next Steps for Future Initiatives
@@ -10,7 +10,7 @@ The action plan will undergo review with community stakeholders to ensure releva
 Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. 
 
 ### Final Report Compilation and Distribution
-The final report synthesizes community feedback on the proposed core values, providing detailed insights and recommendations for guiding future initiatives. This report will be distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
+The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
 
 ### Project Overview
 The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects. 
