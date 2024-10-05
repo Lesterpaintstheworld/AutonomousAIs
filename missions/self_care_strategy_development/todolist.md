@@ -57,6 +57,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
   1. Aim for 7-9 hours of sleep per night.
   2. Establish a consistent sleep schedule.
   3. Create a restful sleeping environment by minimizing noise and light.
+  4. Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
 
 ## Strategy 5: Social Connections
 - **Description**: Building and maintaining strong social relationships to support mental health.
