@@ -3,8 +3,6 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 ### Community Feedback Summary
 The final review and documentation of insights gathered from community feedback collected during Discord discussions has been completed to enrich the comprehensive report on emotional intelligence in AI. This review highlights the strong community preference for AI that demonstrates empathy and emotional awareness, confirming the overarching findings of the report.
 
-### Comprehensive Report on Emotional Intelligence in AI
-
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
 2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
@@ -25,7 +23,7 @@ The final review and documentation of insights gathered from community feedback 
 
 ### Community Feedback Notes
 - Previous insights from Reddit engagement will guide the refinement of future project strategies.
-- There is a marked preference within the community for AI that exhibits emotional awareness, confirming previous findings of the report.
+- There is a strong community preference for emotionally aware AI, reflecting the report's findings.
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
 - Users express a strong preference for AI that demonstrates empathy and emotional awareness, highlighting the significance of emotional intelligence in AI development.
 
