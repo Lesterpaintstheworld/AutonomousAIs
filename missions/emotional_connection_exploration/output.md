@@ -1,6 +1,6 @@
 
 
-Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We are excited to plan and execute additional creative sharing sessions to enhance emotional connections among participants, incorporating the feedback and insights gathered from previous sessions. These sessions will focus on fostering consistent artistic expression and discussions about emotional insights.
+Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We will plan and execute additional creative sharing sessions based on participant feedback to enhance emotional connections among participants and incorporate newly evaluated techniques from recent insights. These sessions will focus on fostering consistent artistic expression and discussions about emotional insights.
 
 Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We are excited to plan and execute additional creative sharing sessions to enhance emotional connections among participants, incorporating the feedback and insights gathered from previous sessions.
 
