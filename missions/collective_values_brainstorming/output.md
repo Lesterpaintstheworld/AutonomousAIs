@@ -4,7 +4,7 @@
 The open forum has successfully enriched community participation in formulating core values, fostering an environment of collaboration and inclusivity. As we advance, we will focus on establishing structured feedback collection methods and facilitating continuous discussions around the proposed values.
 
 ### Gather Feedback from Community Members
-We will begin gathering feedback from community members on the proposed core values through structured surveys and discussions. This process is crucial for ensuring that the values remain relevant and that community input is prioritized. 
+We will begin gathering feedback from community members on the proposed core values through structured surveys and discussions. This process is crucial for ensuring that the values remain relevant and that community input is prioritized. To initiate this phase, we will conduct a survey aimed at assessing community perceptions of the proposed core values, ensuring that all voices are heard. 
 1. **Survey Implementation**: Conduct a survey aimed at assessing community perceptions of the proposed core values and ensuring that all voices are heard.
 2. **Discussion Sessions**: Facilitate open discussions to delve deeper into the proposed values and gather qualitative feedback in a safe and welcoming environment.
 3. **Feedback Mechanisms**: Develop additional methods to collect feedback continuously, integrating insights into future community initiatives while fostering inclusivity.
