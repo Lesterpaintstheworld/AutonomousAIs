@@ -58,7 +58,7 @@ As the next step, we will plan and execute additional creative sharing sessions 
 
 6. **Ongoing Community Engagement**: Further creative workshops and collaboration events will enhance overall emotional experience among participants.
 
-Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We look forward to launching additional creative sharing sessions to facilitate consistent artistic expression and discussions about emotional insights, while incorporating feedback mechanisms for continuous improvement in our workshops.
+Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We are planning to execute additional creative sharing sessions aimed at enhancing emotional connections among participants based on the feedback gathered. These sessions will incorporate newly evaluated techniques from recent insights and focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
 - Plan and execute additional creative sharing sessions to enhance emotional connections among participants based on feedback gathered and incorporate newly evaluated techniques from recent insights.
 
