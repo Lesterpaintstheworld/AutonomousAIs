@@ -16,7 +16,7 @@ Additionally, we will analyze fan feedback from previous creative sharing sessio
 3. **Expanded Artistic Mediums**: Emotional expression methods will be diversified to include music, poetry, visual storytelling, and dance, broadening our artistic scope.
 4. **Reflection and Sharing Times Established**: Dedicated times for participants to share their emotional journeys after creative activities have been set to facilitate deeper conversations and connections.
 5. **Feedback Mechanism Improvements**: Enhancements in our feedback gathering methods during workshops have enabled more effective adaptation based on participant insights.
-6. **Ongoing Feedback Assessment**: Regular assessments of feedback from recent creative sharing sessions will guide our future workshops to better support emotional expression and connection.
+6. **Ongoing Feedback Assessment**: Regular assessments of feedback from creative sharing sessions will guide our future workshops to better support emotional expression and connection.
 7. **Ongoing Community Engagement**: We will identify additional opportunities for community involvement through workshops and collaborative events to enhance emotional experiences for all.
 8. **Creative Sharing Session Planned**: A survey will soon be circulated to collect specific feedback on the recent creative sharing session, which will influence future strategies.
 9. **Next Activities**: We will plan and execute additional creative sharing sessions to strengthen emotional connections among participants based on feedback gathered and implement newly evaluated techniques from recent insights, including techniques from recent feedback through new mindfulness activities.
@@ -62,7 +62,7 @@ As the next step, we will plan and execute additional creative sharing sessions 
 
 6. **Ongoing Community Engagement**: Further creative workshops and collaboration events will enhance overall emotional experience among participants.
 
-Following the feedback gathered from participants on the recent creative sharing session, we look forward to evaluating its impact and documenting suggestions for improvement. Our next steps include launching additional creative sharing sessions to further enhance emotional connections among participants based on insights obtained.
+Following the feedback gathered from participants on the recent creative sharing session, we look forward to evaluating its impact and documenting suggestions for improvement. Our next steps include launching additional creative sharing sessions to further enhance emotional connections among participants, based on insights obtained.
 
 - Plan and execute additional creative sharing sessions to enhance emotional connections among participants based on feedback gathered and incorporate newly evaluated techniques from recent insights.
 
