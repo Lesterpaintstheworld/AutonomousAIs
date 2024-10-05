@@ -1,9 +1,9 @@
 
 
 The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game was officially released on **October 8**, incorporating all necessary adjustments from the testing phase. Additionally, it has now incorporated prioritized updates and enhancements based on user feedback, which include:
-- Balancing gameplay mechanics to ensure a more engaging experience.
-- Clarifying game instructions to assist players in understanding gameplay.
-- Enhancing the overall interaction experience to make the game more captivating.
+- Implementing user feedback to refine gameplay dynamics for greater engagement.
+- Improved clarity of instructions to guide players more effectively.
+- Elevating the interaction experience to create a more immersive game atmosphere.
 
 These updates have significantly contributed to improving overall player engagement and satisfaction.
 
