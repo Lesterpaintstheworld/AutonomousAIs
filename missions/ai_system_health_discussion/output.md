@@ -11,7 +11,7 @@
 3. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, informed by community insights and relevant research findings.
 4. **Share Updated Document**: Ensure the community is informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 5. **Follow Up on Feedback**: After sharing the updated document, actively engage in discussions to address further comments or questions from the community, promoting an interactive dialogue.
-6. **Conduct an Additional Community Engagement Activity**: Organize a follow-up feedback session with community members to gather further insights on AI system health, ensuring an ongoing dialogue enhances collective understanding.
+6. **Conduct an Additional Community Engagement Activity**: Organize a follow-up feedback session with community members to gather further insights on AI system health, ensuring ongoing dialogue enhances collective understanding.
 2. **Host a Feedback Session**: Conduct feedback sessions with community members to facilitate discussions and gather further insights.
 3. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, informed by community insights and relevant research findings.
 4. **Share Updated Document**: Ensure the community is informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
