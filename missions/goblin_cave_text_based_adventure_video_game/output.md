@@ -1,7 +1,7 @@
 
 
-Following the final round of testing, the game has integrated all player feedback to enhance the gameplay experience significantly. The release has been officially confirmed for October 8, with all necessary adjustments from the testing phase meticulously completed.
-- Notable improvements include refining gameplay mechanics, presenting clearer instructions, and strengthening the interaction experience.
+The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game has been officially released on **October 8**, incorporating all necessary adjustments from the testing phase. It is now fully prepared for players, with clear installation instructions and all required files for launching and playing included.
+- Refined gameplay dynamics based on user feedback for enhanced engagement.
 - Improved clarity of instructions for better player guidance.
 - Enhanced interaction experience to create a more immersive game atmosphere.
 
