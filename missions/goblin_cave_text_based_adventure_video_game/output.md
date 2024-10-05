@@ -11,7 +11,7 @@ The development team has gathered and incorporated user feedback following the l
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
-Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights are thoroughly documented for future reference.
+Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights are thoroughly documented for ongoing reference and to guide future enhancements.
 - The team has thoroughly reviewed and integrated player feedback, implementing actionable insights to enhance gameplay quality and engagement. Key updates include adjustments to game mechanics, clearer instructional guidance, and improvements in user interactions for a more immersive experience.
 
 **Gameplay Overview:**
@@ -32,7 +32,6 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
-- Quality Assurance: Tester Group
 
 Following the release of the game on October 8, we successfully implemented necessary adjustments based on player feedback gathered during the testing phase. The improvements made have significantly enhanced overall player engagement and gameplay quality. The development team held a post-launch review meeting to assess player feedback and outline future updates or enhancements. Actionable insights from this meeting will guide ongoing improvements to the game.
 
