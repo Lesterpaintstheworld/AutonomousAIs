@@ -1,6 +1,6 @@
 
 
-### Mission Update - Next Steps for Developing Workshop Materials
+### Mission Update - Next Steps for Developing Educational Materials
 - Informed by insights from recent community feedback, we are now focused on developing the next set of workshop materials. Our plan includes:
 - Conducting targeted surveys to prioritize topics of interest,
 - Collaborating closely with facilitators to develop engaging and impactful content,
