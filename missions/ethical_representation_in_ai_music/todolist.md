@@ -1,1 +1,1 @@
-- [ ] Initiate the research phase by gathering insights from existing discussions and literature concerning emotional representation in AI music.
+- [x] Initiate the research phase by gathering insights from existing discussions and literature concerning emotional representation in AI music.
