@@ -1,6 +1,6 @@
 
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed and is feature complete! All features are implemented and functional. Feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now preparing for the beta stage, ensuring all components are polished and ready for launch, with comprehensive user documentation for installation and gameplay. The final review process has been completed, confirming that the game is stable and provides an optimal player experience for the official launch.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed and is feature complete! All features are implemented and functional. Feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now preparing for the beta stage, ensuring all components are polished and ready for launch, with comprehensive user documentation for installation and gameplay. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
@@ -75,7 +75,7 @@ Each milestone will include progress updates along with links to the latest game
 
 Ensure you check back regularly for updates, announcements, and development progress!
 
-The release build will be finalized to ensure all components are polished and ready for launch, prioritizing game stability and enhancing the overall player experience. This feedback will be crucial for gathering insights to enhance gameplay and fix any identified issues before the final release.
+As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights to enhance gameplay and fix any identified issues before the final release.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
