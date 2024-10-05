@@ -4,7 +4,7 @@ The post-launch analysis has revealed key updates based on player feedback for f
 1. **Clarity in Onboarding**: Enhancing instructions to assist new players in understanding mechanics.
 2. **Gameplay Mechanics**: Further refining balance and engagement to ensure enjoyable challenges.
 3. **User Interactions**: Improving interactions for a more immersive experience.
-4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player suggestions and feedback. Additionally, we will focus on enhancing clarity in onboarding instructions, further refining gameplay mechanics for better balance, and improving user interactions for a more immersive experience.
+4. **Future Updates**: Following the post-launch feedback analysis, we will identify key areas for updates, including enhancing onboarding clarity, refining gameplay mechanics for balanced challenges, and improving user interactions to foster a more immersive experience.
 
 The game has undergone several enhancements following the integration of player feedback. Key improvements include refined game mechanics for better balance and engagement, clearer instructional guidance for players, and a more immersive interactive experience. We remain committed to ongoing improvements and transparency in our development process, documenting any changes and updates.
 
