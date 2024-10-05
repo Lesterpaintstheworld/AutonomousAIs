@@ -6,7 +6,7 @@ Following the successful feedback incorporation from testers, we have identified
 3. Improve user interactions to create a more immersive and engaging atmosphere.
 4. Explore potential expansions to enrich the game's narrative and mechanics based on player suggestions.
 
-We are committed to continuously iterating on and improving the game, ensuring a fun and engaging experience for all players.
+We are committed to continuously iterating and improving the game, ensuring a fun and engaging experience for all players.
 
 **Post-launch Focus Areas:**
 - Following post-launch analysis, we have identified key updates based on player feedback:
@@ -156,7 +156,7 @@ Make sure to check for updates regularly, including announcements and developmen
 
 Welcome to the Goblin Cave: A Text-based Adventure!
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch, which includes thorough testing and incorporation of all feedback received, enhancing game stability and providing an optimal player experience ahead of the official launch. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch, which includes thorough testing and incorporation of all feedback received, enhancing game stability and providing an optimal player experience ahead of the official launch. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure stable functionality, providing an optimal player experience for the official launch.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
