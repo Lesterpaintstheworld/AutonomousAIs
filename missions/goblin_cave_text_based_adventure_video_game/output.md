@@ -1,6 +1,6 @@
 
 
-Based on the successful feedback incorporation from testers, we have finalized the game for official launch. All elements have undergone rigorous testing, integrating player feedback to enhance stability and improve the overall experience. We will remain committed to ongoing engagement and evaluation of player feedback to ensure continuous improvement.
+Following the successful feedback incorporation from testers, we have finalized the launch build. All elements have undergone thorough testing, incorporating player feedback to enhance gameplay stability and improve the overall experience. We remain committed to ongoing engagement and evaluation of player feedback for continuous improvement.
 
 **Post-launch Focus Areas:**
 - Enhance gameplay mechanics
