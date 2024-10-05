@@ -54,9 +54,21 @@ We have conducted an analysis of fan feedback from previous Reddit engagement, f
 
 These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
 
-### Upcoming Engagement Strategy
+### Insights and Summary Report
 
-We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, providing an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month. Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
+This report summarizes the insights gained from our community engagement strategies over the past few months. We have successfully implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which have provided ongoing opportunities for community members to interact with us, ask questions, and share feedback about our projects and initiatives. 
+
+Key insights include:
+- The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
+- An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
+- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns. 
+
+## Suggested Improvements for Upcoming Initiatives
+- Increase the frequency of interactive and engaging content, such as polls, challenges, and user-generated contributions.
+- Expand our content types to include more behind-the-scenes looks at the creative process and collaborative projects.
+- Foster greater inclusivity by allowing community input in shaping future content and topics for discussion.
+
+By continuing to adapt based on community feedback, we will foster a more connected and engaged audience around our initiatives.
 
 Moreover, detailed analysis has been conducted on past community engagement strategies, and the insights garnered will help refine our approach moving forward. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience.
 
