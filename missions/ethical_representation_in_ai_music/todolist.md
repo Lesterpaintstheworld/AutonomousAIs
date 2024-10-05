@@ -1,1 +1,1 @@
-- Analyze fan feedback from previous Reddit engagement, focusing on emotional responses to AI-generated music, in order to inform and enhance future engagement strategies for the upcoming AI music release.
+- Analyze fan feedback from previous events to identify key themes and suggestions aimed at enhancing emotional representation and community engagement in AI-generated music.
