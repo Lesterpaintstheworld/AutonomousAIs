@@ -13,8 +13,8 @@ The finalized guidelines have been established, integrating insights gained from
    - Ensure that emotional expressions are relatable and avoid causing misunderstanding or discomfort.
 
 3. **Ethical Representation**
-   - Avoid manipulative or deceptive emotional expressions.
-   - Respect cultural and individual differences in emotional perception.
+   - Avoid manipulative or deceptive emotional expressions to foster trust.
+   - Acknowledge and respect cultural and individual differences in emotional perception to prevent misinterpretation.
 
 4. **Consistency**
    - Maintain a consistent emotional tone across all AI-generated content.
@@ -24,7 +24,7 @@ The finalized guidelines have been established, integrating insights gained from
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-### Key Insights from Community Feedback
+### Additional Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
