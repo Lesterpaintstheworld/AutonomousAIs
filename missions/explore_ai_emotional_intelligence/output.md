@@ -237,7 +237,7 @@ In conclusion, this report details the outcomes of the recent community engageme
 
 8. **Continuous Feedback Mechanisms**: Implementing systems where users can regularly provide feedback on AI's emotional interactions to facilitate ongoing improvements.
 
-These insights will continue to guide adjustments to emotional intelligence strategies, leading to even more nuanced and supportive interactions in future AI engagements.
+These insights will inform further enhancements to the AI's emotional intelligence, ensuring more nuanced and supportive interactions.
 
 1. **Empathetic Responses**: Community members have noticed and appreciated the AI's improved ability to respond with empathy, making interactions feel more genuine and supportive.
 
