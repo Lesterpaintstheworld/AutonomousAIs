@@ -7,7 +7,7 @@
 
 
 
-Following the documented community feedback, we have compiled a series of actionable initiatives to guide our collaborative AI art projects.
+Incorporating the received community feedback and insights gathered, we have outlined actionable initiatives to advance our collaborative AI art projects.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
@@ -25,7 +25,7 @@ Following the documented community feedback, we have compiled a series of action
 
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives are essential for promoting creativity, community participation, and the effective integration of AI into the local art environment. We are committed to advancing these projects and enriching Chicago’s artistic landscape through this collaboration.
+These initiatives reinforce our commitment to fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We will prepare to move forward with these initiatives while enhancing Chicago's cultural landscape through this collaboration.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
