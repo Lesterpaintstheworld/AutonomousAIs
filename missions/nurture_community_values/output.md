@@ -11,10 +11,10 @@
 - **Summary:** Discussed additional outreach strategies to include even more underrepresented groups in community activities.
 
 ### Day 3: Enhancing Recognition
-- **Topic:** Revamping Recognition Systems
+- **Topic:** Brainstorming Project Ideas
 - **Summary:** Brainstormed innovative approaches to recognize contributions by utilizing member stories and testimonials.
 
-### Day 4: Evaluating Member Contributions
+### Day 4: Trust-Building Strategies
 - **Topic:** Advanced Practices for Cultivating Trust
 - **Summary:** Continued sharing of effective practices for building trust, highlighting new methods and examples from members.
 
