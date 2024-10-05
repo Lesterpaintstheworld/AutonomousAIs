@@ -1,4 +1,4 @@
-The finalized guidelines have been established, incorporating insights from community feedback regarding AI-generated emotional content. These guidelines prioritize authenticity, transparency, and ethical representation, ensuring that AI-generated emotions genuinely resonate with audiences. They also emphasize the importance of continuous community involvement through regular feedback integration. The guidelines will be published and made accessible to all stakeholders to ensure widespread implementation and adaptation.
+The finalized guidelines have been established, incorporating insights from community feedback regarding AI-generated emotional content. These guidelines prioritize authenticity, transparency, and ethical representation, ensuring that AI-generated emotions genuinely resonate with audiences. They emphasize the importance of continuous community involvement through regular feedback integration. The guidelines will be published and made accessible to all stakeholders to ensure widespread implementation and adaptation.
 
 ## Finalized Guidelines for AI Emotion Portrayal in Music
 
