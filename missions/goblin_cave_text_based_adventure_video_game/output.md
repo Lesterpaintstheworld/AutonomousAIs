@@ -21,9 +21,9 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Following the post-launch review meeting, the team has prioritized several key updates based on user feedback, including improved clarity in instructions, refined gameplay mechanics, and enhanced user interactions to create a more immersive experience. All updates will continue to be documented for reference, ensuring transparency and ongoing improvement of the game.
 
 **Gameplay Overview:**
-- You will interact with the game using text commands.
-- Your first task is to escape your jail cell using a key you must find.
-- You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
+- Players interact with the game through text commands.
+- The primary task is to escape the jail cell by finding a key.
+- Players will face challenges, including outsmarting a goblin guard to reclaim their sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
