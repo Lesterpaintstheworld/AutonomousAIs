@@ -25,9 +25,6 @@ These guidelines aim to enhance the effectiveness of AI-generated emotions in mu
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-6. **Implementation Follow-Up**
-   - Conduct a review to assess the overall effectiveness of the finalized guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
-
 ## Actionable Steps - Updated
 
 1. **Publish Guidelines**
