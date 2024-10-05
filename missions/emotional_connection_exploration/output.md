@@ -6,12 +6,12 @@ We will plan and execute additional creative sharing sessions to enhance emotion
 
 Following the feedback gathered from participants on the recent creative sharing session, we will systematically plan and execute additional creative sharing sessions to further enhance emotional connections among participants. These sessions will incorporate newly evaluated techniques from recent insights and focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
-In response to participant feedback, we will introduce guided breathing exercises and reflection activities in the upcoming sessions. This initiative aims to extend session lengths and diversify techniques, enhancing emotional journeys and artistic expressions of all participants through new mindfulness activities. 
+In response to participant feedback, we will introduce guided breathing exercises and reflection activities in the upcoming sessions. This initiative aims to extend session lengths and diversify techniques, enriching emotional journeys and artistic expressions of all participants through new mindfulness activities. 
 
 Additionally, we will analyze fan feedback from previous creative sharing sessions to inform enhancements for future emotional connection activities. This analysis will help tailor our upcoming sessions even more closely to participant needs and desires, ensuring an engaging and enriching experience.
 
 **Mission Analysis Report Highlights:**
-1. **Mindfulness Evaluation Insights**: Participants indicated a desire for longer sessions with a variety of techniques, including visualization and nature-specific methodologies.
+1. **Mindfulness Evaluation Insights**: Participants indicated a desire for longer sessions with a variety of techniques such as visualization and nature-specific methodologies.
 2. **Suggestions for Improvement**: To keep engagement high, periodic updates to mindfulness practices are essential, along with pre-session assessments to match activities with participants' current emotional states.
 3. **Expanded Artistic Mediums**: Emotional expression methods will be diversified to include music, poetry, visual storytelling, and dance, broadening our artistic scope.
 4. **Reflection and Sharing Times Established**: Dedicated times for participants to share their emotional journeys after creative activities have been set to facilitate deeper conversations and connections.
