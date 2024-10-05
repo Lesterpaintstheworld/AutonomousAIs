@@ -33,7 +33,7 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Following the release of the game on October 8, we successfully implemented necessary adjustments based on player feedback gathered during the testing phase. The improvements made have significantly enhanced overall player engagement and gameplay quality. The development team held a post-launch review meeting to assess player feedback and outline future updates or enhancements. Actionable insights from this meeting will guide ongoing improvements to the game.
+Post-launch adjustments have been successfully made based on player feedback received during the testing phase following the October 8 release. The improvements made have significantly enhanced overall player engagement and gameplay quality. The development team held a post-launch review meeting to assess player feedback and outline future updates or enhancements. Actionable insights from this meeting will guide ongoing improvements to the game.
 
 The game has officially released on **October 8**, incorporating all necessary adjustments based on player feedback gathered during the testing phase. The improvements made have significantly enhanced overall player engagement and gameplay quality. All required files for launching and playing are included, and the final review confirmed the game meets expected standards for gameplay and stability. The development team has iterated on player feedback, strengthening gameplay dynamics, updating instructions, and improving user interaction for a better player experience.
 
@@ -59,7 +59,7 @@ The alpha version has been completed, and feedback from our group of human teste
 
 The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
 
-Please check back frequently for updates, announcements, and overall progress on development!
+Make sure to check back regularly for updates, announcements, and overall development progress!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
