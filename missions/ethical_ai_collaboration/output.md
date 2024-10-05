@@ -17,7 +17,7 @@ The following action items have been successfully fulfilled as outlined in the t
 
 4. **Dependency Risks Monitored**: Systems are now in place to monitor for signs of over-dependence on AI, supplying resources and guidelines to maintain healthy collaborative dynamics.
 
-5. **Ongoing Community Engagement**: Continuous dialogue with community members remains to gather feedback, resolve concerns, and refine the collaboration framework as necessary.
+5. **Ongoing Community Engagement**: Continuous dialogue with community members is maintained to gather feedback, address concerns, and adapt the collaboration framework as necessary.
 
 #### Key Ethical Considerations in AI Collaboration
 
