@@ -20,7 +20,7 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been s
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+Updates will be provided every hour to track progress and ensure alignment among the development team!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
@@ -33,7 +33,7 @@ Updates will be provided every hour to track progress!
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-As we prepare for the alpha version, we will ensure that all features are functional and ready for testing. Please review and confirm that all gameplay elements are operational.
+As we move towards the alpha version, we need to ensure that all features are functional and ready for testing. Please review and confirm that all gameplay elements are operational.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
