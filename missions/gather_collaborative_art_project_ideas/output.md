@@ -13,7 +13,7 @@ Following discussions with the community, we have compiled and documented the la
 
 2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
 
-3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to produce immersive multimedia experiences during exhibitions and events.
+3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and performances.
 
 4. **AI-Responsive Lighting Installations**: Implementing lighting designs that modify intensity and color in response to ambient sound levels and audience movements.
 
@@ -25,7 +25,7 @@ Following discussions with the community, we have compiled and documented the la
 
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We will actively seek community input and document all developments in KinOS.
+These initiatives reinforce our commitment to fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We will prepare to move forward with these initiatives while enhancing Chicago's cultural landscape through this collaboration.
 These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We will actively seek community input and document all developments in KinOS. All feedback will continue to be documented in KinOS for future reference.
 
 **Action Plan:**
