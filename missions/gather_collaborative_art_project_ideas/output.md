@@ -68,7 +68,7 @@ These initiatives are pivotal in promoting creativity and community involvement 
 5. **AI-Powered Sculpture Design**
    - Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
-As we proceed with our mission, we will continue to actively monitor community feedback and document any new suggestions regarding collaborative projects, ensuring that we maintain an evolving and responsive approach to community engagement.
+As we proceed with our mission, we will continue to actively monitor community feedback, document any new suggestions regarding collaborative projects, and communicate results and plans with the community.
 
 Based on the community contributions to the collaborative AI art project, the following actionable initiatives have been identified and will be prioritized for implementation:
 
