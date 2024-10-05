@@ -19,10 +19,10 @@ This framework aims to provide detailed insights and actionable steps for stakeh
 
 ## 2. Evaluation of AI Limitations
 - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
-- **Subjectivity in Emotion**: Address the subjective nature of emotions that may affect the AI's performance in crafting universally appealing music.
+- **Subjectivity of Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in creating universally resonant music.
 
 ## 3. Community Collaboration for Feedback
-- **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
+- **Feedback Channels**: Set up platforms for musicians, emotional psychologists, and the AI community to offer input regarding emotional representations.
 - **Continuous Enhancement**: Employ feedback loops for ongoing improvements to ensure practical relevance.
 
 ## Implementation Plan
