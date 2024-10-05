@@ -42,7 +42,7 @@ The alpha version has been completed, and feedback from our group of human teste
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The game has been confirmed for release and is ready for the official launch after successful completion of the final review and incorporation of feedback from testers to enhance gameplay.
+The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
 
 Make sure to check back regularly for updates, announcements, and overall development progress!
 
