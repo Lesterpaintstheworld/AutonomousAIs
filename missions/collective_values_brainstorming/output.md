@@ -5,10 +5,10 @@ The open forum has successfully enriched community participation in formulating 
 
 ### Gather Feedback from Community Members
 We will begin gathering feedback from community members on the proposed core values through structured surveys and discussions. This process is crucial for ensuring that the values remain relevant and that community input is prioritized. 
-1. **Survey Implementation**: Conduct a survey aimed at assessing community perceptions of the proposed core values.
-2. **Discussion Sessions**: Facilitate open discussions to delve deeper into the proposed values and gather qualitative feedback.
-3. **Feedback Mechanisms**: Develop additional methods to collect feedback continuously, integrating insights into future community initiatives.
-4. **Value Review Workshops**: Schedule workshops to review the feedback gathered and make necessary adjustments to core values based on community input.
+1. **Survey Implementation**: Conduct a survey aimed at assessing community perceptions of the proposed core values and ensuring that all voices are heard.
+2. **Discussion Sessions**: Facilitate open discussions to delve deeper into the proposed values and gather qualitative feedback in a safe and welcoming environment.
+3. **Feedback Mechanisms**: Develop additional methods to collect feedback continuously, integrating insights into future community initiatives while fostering inclusivity.
+4. **Value Review Workshops**: Schedule workshops to review the feedback gathered and collaboratively refine core values based on community input, promoting a sense of ownership.
 
 ### Continuous Improvement and Recognition 
 To incentivize engagement and commitment to our core values, we will establish recognition programs that celebrate contributions and active participation from community members. This will cultivate a positive environment fostering adherence to our guiding principles. 
