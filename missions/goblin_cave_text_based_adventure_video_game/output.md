@@ -14,7 +14,7 @@ Incorporation of prioritized updates based on user feedback has led to significa
 **Gameplay Overview:**
 - You will interact with the game using text commands.
 - Your first task is to escape your jail cell using a key you must find.
-- You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
+- You will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
