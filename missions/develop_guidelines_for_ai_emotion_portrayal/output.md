@@ -34,7 +34,7 @@ The finalized guidelines have been established, incorporating valuable insights 
 
 4. **Transparency in Emotion Generation**: There is a strong preference for understanding how AI interprets and generates emotions, including the data sources and algorithms used in the process.
 
-5. **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
+5. **Interactive Feedback Mechanisms**: The community seeks more engaging options for ongoing feedback, such as real-time emotion ratings during music playback and collaborative adjustment features.
 
 Integrating these findings will ensure that the guidelines maintain ethical standards and align closely with community expectations for authentic emotional representation in AI-generated music.
 1. **Authenticity**: AI-generated emotions must feel genuine and relatable, with an emphasis on subtle and nuanced expressions.
@@ -44,7 +44,7 @@ Integrating these findings will ensure that the guidelines maintain ethical stan
 5. **Feedback Mechanisms**: Interactive feedback features should be continuously integrated to ensure improvement and alignment with community needs.
 6. **Implementation Follow-Up**: A review should be conducted to evaluate the effectiveness of the finalized guidelines and to make adjustments based on community feedback regarding AI-generated emotional content.
 
-These guidelines aim to enhance the effectiveness of AI-generated emotions, making them more relatable and meaningful while strengthening the connection between AI and human emotions in music through informed implementation and continuous feedback. 
+These guidelines aim to enhance the effectiveness of AI-generated emotions, making them more relatable and meaningful while strengthening the connection between AI and human emotions in music. 
 
 The key aspects of the guidelines include:
 1. **Desire for Authenticity**: AI-generated emotions must feel genuine and relatable, focusing on subtle and nuanced expressions.
