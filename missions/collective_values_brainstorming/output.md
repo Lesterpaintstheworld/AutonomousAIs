@@ -31,7 +31,7 @@ We have successfully arranged ongoing educational workshops and produced resourc
 ## Feedback Compilation and Final Report
 
 ### Summary of Community Feedback and Core Values Impact
-The open forum successfully engaged community members in proposing core values they are passionate about, fostering collaboration and inclusivity in defining core values for the AI community. This initiative has effectively gathered diverse core values, shaped a collective understanding of our community's vision, and reinforced our commitment to fostering an inclusive environment. Active participation facilitated collaborative dialogues resonating with the community's diverse perspectives and aspirations for innovation and unity.
+The implementation of ongoing educational workshops has successfully engaged community members in discussions about core values and their applications. These workshops facilitate focused dialogue around the proposed core values, enriching understanding and engagement.
 
 ### Next Steps for Action Plan Review
 The action plan will be reviewed in collaboration with community stakeholders to ensure alignment with community values and aspirations. Ongoing initiatives will be refined based on the diverse core values proposed by community members during the open forum.
