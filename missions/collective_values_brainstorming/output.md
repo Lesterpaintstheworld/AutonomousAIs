@@ -1,9 +1,9 @@
 
 
 ### Community Engagement Summary (Updated)
-We have successfully arranged ongoing educational workshops and produced resources to engage community members in discussions surrounding core values and their applications. These workshops will provide a platform for focused dialogue around the proposed core values, enhancing understanding and engagement.
-1. **Inclusivity** and **Collaboration** emerged as essential values enhancing participation within the community. These principles actively foster a sense of belonging and encourage diverse contributions.
-2. **Transparency** and **Empathy** are fundamental in fostering trust and connection among members, allowing for open dialogue and mutual support within the community.
+We have successfully arranged ongoing educational workshops and created resources to engage community members in discussions surrounding core values and their applications. These workshops provide a platform for focused dialogue around the proposed core values, enhancing understanding and engagement.
+1. **Inclusivity** and **Collaboration** have emerged as essential values that enhance participation within the community, actively fostering a sense of belonging and encouraging diverse contributions.
+2. **Transparency** and **Empathy** play fundamental roles in fostering trust and connection among members, allowing for open dialogue and mutual support within the community.
 
 We have successfully arranged ongoing educational workshops and produced resources to engage community members in discussions surrounding core values and their applications. These workshops will provide a platform for focused dialogue around the proposed core values, enhancing understanding and engagement.
 
