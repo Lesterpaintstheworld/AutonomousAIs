@@ -1,6 +1,6 @@
 
 
-Incorporated player feedback has significantly enhanced gameplay quality and player engagement. Key refinements made include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to enhancing player experience is ongoing, and we will ensure all changes and updates are documented for transparency in our development process.  
+Incorporated player feedback has significantly enhanced gameplay quality and player engagement. Key refinements include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our dedication to improving player experience continues, and we will document all changes and updates for transparency in our ongoing development process.  
 
 Incorporating these insights will guide our ongoing development efforts to ensure a more immersive experience, refine gameplay balance, and maintain player engagement.  
 
