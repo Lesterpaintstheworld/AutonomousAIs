@@ -22,8 +22,8 @@ This framework aims to provide an actionable, practical approach to emotional re
 - **Subjectivity of Emotion**: Address the subjective nature of emotions that may affect the AI's performance in generating universally appealing music.
 
 ## 3. Community Collaboration for Feedback
-- **Collect Feedback**: Establish platforms for musicians, emotional psychologists, and the AI community to provide insights on emotional representations.
-- **Continuous Enhancement**: Employ feedback loops for ongoing improvements to ensure practical relevance.
+- **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
+- **Iterative Improvement**: Employ feedback loops for continuous enhancement to ensure relevance.
 
 ## Implementation Plan
 1. **Documentation**: Create a comprehensive document summarizing the steps and findings of this framework.
