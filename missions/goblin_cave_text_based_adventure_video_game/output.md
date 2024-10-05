@@ -18,7 +18,7 @@ Following the thorough post-launch review, we have documented and prioritized se
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
 Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights have been documented for future reference, ensuring transparency and ongoing improvement of the game.
-- Following the post-launch review meeting, the team has prioritized several key updates based on user feedback, including improved clarity in instructions, refined gameplay mechanics, and enhanced user interactions to create a more immersive experience. All updates will continue to be documented for reference, ensuring transparency and ongoing improvement of the game.
+- The team has prioritized several critical updates based on user feedback from the post-launch review meeting. These updates involve enhanced clarity in instructions, refined gameplay mechanics, and upgraded user interactions, all geared towards creating a more immersive experience. Continuous documentation of these updates will ensure transparency and ongoing game improvement.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
