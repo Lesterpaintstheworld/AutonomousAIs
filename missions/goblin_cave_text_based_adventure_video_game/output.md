@@ -4,7 +4,7 @@ The game was officially released on **October 8**, incorporating all necessary a
 - Enhanced gameplay dynamics based on user feedback.
 - Clear and concise installation instructions to guide users.
 - Improved user interaction to deepen immersion.
-- Comprehensive user documentation included to support installation and gameplay.
+- Comprehensive user documentation provided to assist with installation and gameplay.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
