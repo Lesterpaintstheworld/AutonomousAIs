@@ -12,7 +12,7 @@ The process for collecting feedback from community members on the proposed core 
 5. **Feedback Collection**: The feedback collection process continues, welcoming inclusive engagement from all community members.
 
 ### Continuous Improvement and Recognition 
-To incentivize engagement and commitment to our core values, we will establish recognition programs that celebrate contributions and active participation from community members. This will cultivate a positive environment fostering adherence to our guiding principles. 
+To incentivize engagement and commitment to our core values, we have established recognition programs that celebrate contributions and active participation from community members. This has cultivated a positive environment fostering adherence to our guiding principles. 
 
 ### Final Report Compilation and Distribution
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report has been distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
