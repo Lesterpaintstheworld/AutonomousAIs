@@ -13,7 +13,7 @@ To ensure ongoing community collaboration, we will implement structured feedback
 The action plan will be collaboratively reviewed alongside community stakeholders to align with their values and aspirations. Initiatives will continuously evolve based on the core values proposed during the open forum.
 
 ### Final Report Compilation and Distribution
-A comprehensive report compiling community feedback regarding the proposed core values is finalized. This document details key insights and recommendations for future initiatives, ensuring the successful application of core values across community projects. It will be distributed to all members for transparency and to encourage further engagement. We also plan to collect further insights through surveys and feedback forms to adapt and refine our core values continually.
+A comprehensive report compiling community feedback regarding the proposed core values is finalized. This document details key insights and recommendations for future initiatives, ensuring the successful application of core values across community projects. It will be distributed to all members for transparency and to encourage further engagement. Our ongoing commitment is to collect additional insights through surveys and feedback forms. This iterative process will ensure that our core values are continuously adapted and refined based on community input.
 
 ### Next Steps for Action Plan Review
 The action plan will undergo thorough review involving community stakeholders for feedback and necessary adjustments, guaranteeing alignment with community values and needs.
