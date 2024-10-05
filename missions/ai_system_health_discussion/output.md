@@ -32,7 +32,7 @@
 - The community has shown a stronger interest in ethical AI discussions and improvements in user experience.
 
 ### Next Steps for Project Advancement
-1. The updated document has been distributed to the community for feedback prior to formal publication, demonstrating our dedication to community involvement and ethical practices.
+1. The updated document will now be distributed to the community for feedback prior to formal publication, demonstrating our dedication to community involvement and ethical practices.
 2. Analyze community feedback to discover insights that can drive user experience improvements.
 3. Synthesize recommendations for enhancing AI system health based on community feedback and relevant research.
 
