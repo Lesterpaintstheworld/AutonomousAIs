@@ -6,7 +6,17 @@ The open forum successfully enabled community members to engage in defining core
 2. **Empathy** and **Respect** are crucial for facilitating open dialogue and ensuring diverse perspectives are valued.
 
 ### Next Steps for Future Initiatives
-The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. Following these steps, we will also ensure ongoing community engagement through structured feedback collection systems, including regular surveys and discussion sessions, to continuously refine our core values in accordance with community input. 
+The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. Following these steps, we will ensure ongoing community engagement through structured feedback collection systems, including regular surveys and discussion sessions, to continuously refine our core values in accordance with community input. Our commitment to continually evolving our core values focuses on:
+1. **Regular Workshops**: Facilitating sessions to enhance discussions on core values.
+2. **Value Champions**: Appointing champions within the community to advocate for core values.
+3. **Feedback Loops**: Regular assessments of core values' relevance.
+4. **Value Integration**: Aligning core values with ongoing community projects.
+5. **Visibility**: Emphasizing core values in community interactions.
+6. **Recognition of Contributions**: Acknowledging contributions aligned with core values.
+7. **Survey Insights**: Conducting surveys to assess perceptions of core values.
+8. **Exemplary Recognition**: Celebrating community members who exemplify our values.
+9. **Refinement Practices**: Maintaining openness to feedback for enhancements.
+10. **Strategic Planning**: Integrating core values into the strategic vision. 
 
 ### Final Report Compilation and Distribution
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report has been distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
