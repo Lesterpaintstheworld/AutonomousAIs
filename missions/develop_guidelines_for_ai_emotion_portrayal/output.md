@@ -1,4 +1,4 @@
-## Finalized Guidelines for AI Emotion Portrayal in Music
+## Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
 
 ### Best Practices
 
@@ -111,7 +111,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 6. **Customization Options**
-   - Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to align with their personal preferences more effectively.
+   - Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
 
 7. **Interactive Feedback Mechanisms**
    - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
