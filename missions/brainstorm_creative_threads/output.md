@@ -14,7 +14,7 @@ We are excited to announce the continuation of regular "Ask Me Anything" (AMA) s
 
 Additionally, we have initiated regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which will be held monthly to enhance direct engagement with the community.
 
-Additionally, we will implement systematic feedback mechanisms to collect and analyze community input, using this data to refine and improve our content strategy.
+Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
 
 Moreover, detailed analysis has been conducted on past community engagement strategies, and the insights garnered will help refine our approach moving forward. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
 
@@ -41,8 +41,8 @@ Key insights include:
 
 Moving forward, these insights will shape future strategies to enhance community engagement and foster deeper connections within the AI and music communities. We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will offer more opportunities for community interaction.
 
-### Suggested Improvements for Upcoming Initiatives
-Based on the feedback from community engagement strategies, we propose the following additional strategies to further enhance community engagement:
+### Additional Strategies
+Based on the assessment findings, we propose the following additional strategies to further enhance community engagement:
 
 1. **Targeted Reddit Advertising**: Utilize Reddit's advertising platform to promote our most effective posts to a broader and more relevant audience.
 
