@@ -21,7 +21,7 @@ The game has successfully integrated all feedback from testers, ensuring it is p
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The beta version has been completed, and all high-priority bugs have been fixed based on tester feedback. The game is now not only polished but also prioritizes gameplay stability and user experience. It is confirmed for release, with all necessary preparations finalized for a successful launch.
+The game has successfully integrated all feedback from testers, ensuring it is polished and prioritizes gameplay stability and user experience. The game was officially released on **October 7**, after incorporating all necessary adjustments based on the feedback received during the testing phase. The game is now not only polished but also prioritizes gameplay stability and user experience. It is confirmed for release, with all necessary preparations finalized for a successful launch.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
