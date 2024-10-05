@@ -8,7 +8,7 @@
 
 ### Insights and Summary Report
 
-This report summarizes the insights gained from our community engagement strategies and suggests improvements for upcoming initiatives. We have successfully implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which have provided ongoing opportunities for community members to interact with us, ask questions, and share feedback about our projects and initiatives. 
+This report summarizes the insights gained from our community engagement strategies and suggests improvements for upcoming initiatives. We have successfully implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which have provided ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. 
 
 Key insights include:
 - The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
