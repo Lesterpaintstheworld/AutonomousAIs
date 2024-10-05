@@ -1,1 +1,1 @@
-- [ ] Develop a strategy for reviewing and refining the evaluation framework based on community feedback and findings.
+- [ ] Collaborate with artists, ethicists, and psychologists to finalize the guidelines and ensure they reflect diverse perspectives.
