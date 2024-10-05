@@ -1,5 +1,5 @@
 - Begin evaluating various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
 - Continue hosting discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 - Begin evaluating various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
-- Begin evaluating current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
+- Begin evaluating various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
 - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
