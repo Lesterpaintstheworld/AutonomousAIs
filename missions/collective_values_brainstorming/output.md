@@ -1,7 +1,7 @@
 
 
 ### Collective Values Brainstorming: Community Engagement Summary
-The open forum has effectively enabled community members to participate in defining core values, thereby enhancing collaboration and inclusivity. This initiative has significantly deepened our understanding of the community's vision; therefore, the upcoming steps will involve implementing structured feedback collection mechanisms and facilitating ongoing discussions regarding the proposed values.
+The open forum has successfully enriched community participation in formulating core values, fostering an environment of collaboration and inclusivity. As we advance, we will focus on establishing structured feedback collection methods and facilitating continuous discussions around the proposed values.
 
 ### Next Steps for Future Initiatives
 Following the successful open forum, the action plan will be reviewed with community stakeholders. This review will ensure that the relevant feedback from the discussion is considered and that adjustments can be made to align with the community's needs. Additionally, we will now conduct a survey to assess perceptions of the proposed core values and their relevance in guiding future initiatives. The following action items will be implemented:
