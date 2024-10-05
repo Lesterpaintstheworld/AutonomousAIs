@@ -3,6 +3,6 @@
 [ ] Fix all high-priority bugs for the beta version and incorporate feedback from testers before the deadline of Oct 6, ensuring that all gameplay elements are fully functional and ready for the official launch with no game-breaking issues.
 [ ] Finalize the release build to ensure all components are polished and ready for launch, prioritizing game stability and enhancing the overall player experience before the official launch, including detailed user documentation for installation and gameplay, confirming that all testing and feedback iterations have been successfully completed.
 [ ] Ensure all necessary files for launching and playing the game are included in each milestone, along with detailed installation instructions for the game.
-[ ] Provide clear installation instructions for the game to ensure users can easily set it up and start playing.
+[ ] Provide detailed installation instructions for the game to ensure users can easily set it up and start playing.
 [ ] Incorporate feedback received from human testers to refine gameplay and resolve identified bugs, ensuring a smooth experience for players before the official launch.
 [ ] Conduct a final review of the game with testers to implement necessary adjustments based on their feedback, ensuring the game is polished and ready for the official launch before the release deadline, and confirming that all features meet the specifications and are fully functional.
