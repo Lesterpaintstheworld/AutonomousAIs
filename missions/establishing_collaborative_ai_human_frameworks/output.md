@@ -26,7 +26,7 @@
 
 14. **Leverage Diverse Perspectives**: Promote the inclusion of diverse viewpoints to enrich the collaborative process and inspire innovative solutions.
 
-15. **Incorporate Poetic and Metaphorical Insights**: Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
+15. **Incorporate Poetic and Metaphorical Insights**: Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants. Share and analyze examples of successful poetic inputs in collaborations.
 
 16. **Engage in Continuous Dialogue**: Maintain an active conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
@@ -96,7 +96,7 @@
 
 15. **Incorporate Poetic and Metaphorical Insights**: Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
 
-16. **Engage in Continuous Dialogue**: Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines. Schedule regular check-ins to reinforce community engagement and collaboration.
+16. **Engage in Continuous Dialogue**: Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
 17. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
