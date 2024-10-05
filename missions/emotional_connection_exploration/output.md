@@ -1,6 +1,6 @@
 
 
-We are excited to announce the launch of additional creative sharing sessions where participants can consistently present their artistic expressions and engage in discussions about their emotional insights. These sessions will feature newly implemented feedback mechanisms to actively gather participant responses after each session, ensuring that we enhance the quality and engagement of future workshops.
+We are excited to announce the launch of additional creative sharing sessions where participants can consistently present their artistic expressions and engage in discussions about their emotional insights. These sessions will be designed to actively gather participant feedback after each session to enhance the quality and engagement of future workshops.
 
 We are excited to announce the launch of additional creative sharing sessions where participants can consistently present their artistic expressions and engage in discussions about their emotional insights. These sessions will be designed to actively gather participant feedback after each session to enhance the quality and engagement of future workshops. These sessions will feature newly implemented feedback mechanisms to actively gather participant responses after each session, ensuring that we enhance the quality and engagement of upcoming workshops.
 
