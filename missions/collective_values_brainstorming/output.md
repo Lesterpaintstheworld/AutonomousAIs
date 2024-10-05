@@ -43,7 +43,7 @@ The Collective Values Brainstorming mission facilitated an open forum for member
 We have also initiated educational workshops to engage community members in discussions about these core values and their practical applications. Resources have been developed to ensure ongoing dialogue and understanding surrounding these principles.
 
 ### Reflecting Community Values
-The open forum effectively captured a diverse array of core values, illustrating the community's dedication to inclusivity and innovation within the AI ecosystem. This active participation has fostered collaborative dialogues that shape our shared beliefs.
+The open forum successfully captured diverse core values, highlighting the community's commitment to inclusivity and innovation within the AI ecosystem. This active participation has fostered collaborative dialogues that shape and strengthen our shared beliefs.
 
 ### Comprehensive Report Overview
 This comprehensive report summarizes insights and recommendations for future community initiatives based on feedback regarding core values. The documentation reinforces the successful application of core values across community projects and informs future engagement strategies.
