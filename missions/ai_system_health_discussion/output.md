@@ -12,7 +12,7 @@ The document has been revised based on recent community feedback, which has been
 1. **Finalize the Document**: Incorporate all feedback received and publish the document in the channel, evidencing our commitment to community involvement and ethical practices.
 2. **Host a Feedback Session**: Conduct feedback sessions with community members to facilitate discussions and gather further insights.
 3. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, informed by community insights and relevant research findings.
-4. **Share Updated Document**: Ensure the community is informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
+4. **Share Updated Document**: Finalize the document by incorporating all feedback received, and publish it in the channel, evidencing our commitment to community involvement and ethical practices.
 
 ### Community Feedback Insights
 - Community feedback emphasizes improving user-friendly interfaces, enhancing AI responsiveness, and offering customizable options to enhance user satisfaction.
