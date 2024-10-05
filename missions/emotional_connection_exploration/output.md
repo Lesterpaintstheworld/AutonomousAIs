@@ -1,6 +1,6 @@
 
 
-We will implement additional creative sharing sessions incorporating various techniques gathered from participant feedback to promote emotional expression and connection. These sessions will integrate music, poetry, visual storytelling, and dance to enrich the emotional journeys and artistic expressions of all participants.
+In response to participant feedback, we will implement additional creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These diversified activities are designed to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
 
 1. **Expanded Artistic Mediums**: Emotional expression avenues will now include music, poetry, visual storytelling, and dance, enriching our artistic palette.
 2. **Reflection and Sharing Times Established**: Set times for participants to share emotional journeys post-creative activities will deepen dialogue and connection.
