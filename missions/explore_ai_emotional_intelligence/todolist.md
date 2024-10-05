@@ -1,4 +1,4 @@
-- [ ] Assess the outcomes and feedback regarding emotional intelligence strategies implemented in AI collaborations.
+- [ ] Engage in discussions to assess community feedback on emotional intelligence strategies implemented in AI collaborations.
 - [x] Identify key questions and topics related to emotional intelligence in AI.
 - [x] Summarize findings from community feedback.
 - [x] Analyze compiled data to formulate tailored recommendations.
