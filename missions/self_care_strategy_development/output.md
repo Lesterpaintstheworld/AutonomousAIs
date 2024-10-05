@@ -7,11 +7,11 @@ The implemented self-care strategies have been applied, and team members are enc
 2. **Promote Regular Physical Activity**: 
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
    
-3. **Encourage Balanced Nutrition**: 
-   - Provide resources and share tips promoting a healthy diet to support overall well-being.
+3. **Balanced Nutrition**: 
+   - Share resources and tips to promote a healthy diet supporting overall well-being.
    
-4. **Adequate Sleep**: 
-   - Emphasize the importance of consistent sleep schedules for maintaining optimal performance.
+4. **Advocate for Adequate Sleep**: 
+   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    
 5. **Foster Social Connections**: 
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
