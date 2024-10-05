@@ -41,7 +41,7 @@ The post-launch analysis has revealed key updates based on player feedback for f
   3. Improve user interactions to create a more immersive and engaging experience.
 - Incorporated player feedback has significantly enhanced gameplay quality and player engagement. Key refinements made include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
 - The review process has been successfully completed, and all player feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure a polished player experience ready for the official launch, prioritizing stability and engagement.
-- Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players to ensure clarity on the setup process while emphasizing user experience and accessibility.
+- Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players to ensure clarity on the setup process while emphasizing user experience and accessibility. This documentation will guide new players through the game mechanics and enhance their understanding of gameplay.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
