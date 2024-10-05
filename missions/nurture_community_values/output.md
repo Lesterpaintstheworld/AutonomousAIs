@@ -105,6 +105,9 @@
 - **Podcast Episode:** "Community Engagement Success Stories" on Community Talks
 - **Resource:** "Advanced Facilitation Techniques" by Mark Johnson
 - **Webinar:** "Facilitating Effective Community Discussions" scheduled for next month
+- **New Resource:** "Innovative Engagement Strategies" by Lisa Johnson
+- **Webinar:** "Navigating Community Challenges" planned for next month
+- **Interactive Workshop:** "Digital Tools for Community Building" to be held next month
 #### New Additions
 - **Article:** "Innovative Approaches to Community Building" by Tom Smith
 - **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
