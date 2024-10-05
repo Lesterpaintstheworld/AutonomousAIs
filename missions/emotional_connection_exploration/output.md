@@ -17,7 +17,7 @@ We are excited to share that the analysis report has been finalized, highlightin
 8. **Creative Sharing Session Planned**: A follow-up survey will soon be distributed to participants to gather feedback specifically on the recent creative sharing session, informing strategies for future engagement.
 9. **Next Activities**: In alignment with our dedication to continuous improvement, we have developed new mindfulness activities that emphasize guided breathing exercises and reflection. These activities are directly informed by the feedback collected during the recent creative sharing session. Alongside this, we will schedule additional creative sharing sessions where participants can consistently present their artistic expressions and engage in fruitful discussions about their emotional insights.
 
-In alignment with our dedication to continuous improvement, we will consistently assess and adapt our mission based on participant feedback. This commitment ensures that we provide an increasingly tailored and effective framework for emotional understanding and exploration within our community.
+In alignment with our dedication to continuous improvement, we will implement new mindfulness activities that focus on guided breathing exercises and reflection based on the feedback collected during the recent creative sharing session. Additionally, we will plan and execute additional creative sharing sessions where participants can consistently present their artistic expressions and engage in discussions about their emotional insights.
 
 1. **Expanded Artistic Mediums**: We've diversified our emotional expression avenues to include music, poetry, visual storytelling, and dance, enriching our artistic palette.
 
