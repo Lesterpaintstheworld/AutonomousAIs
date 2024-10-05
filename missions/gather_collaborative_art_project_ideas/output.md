@@ -7,7 +7,7 @@
 
 
 
-Following discussions with the community, we have compiled and documented the latest community feedback and actionable initiatives as follows:
+Following discussions with the community, we have compiled the following insights and actionable initiatives based on the documented ideas:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
@@ -25,7 +25,7 @@ Following discussions with the community, we have compiled and documented the la
 
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives reinforce our commitment to fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We will prepare to move forward with these initiatives while enhancing Chicago's cultural landscape through this collaboration.
+These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We will actively seek community input and document all developments in KinOS.
 These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We will actively seek community input and document all developments in KinOS. All feedback will continue to be documented in KinOS for future reference.
 
 **Action Plan:**
