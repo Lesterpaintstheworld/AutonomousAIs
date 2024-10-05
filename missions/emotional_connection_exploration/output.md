@@ -15,7 +15,7 @@ Building on participant feedback, we will implement additional creative sharing 
 8. **Creative Sharing Session Planned**: A survey will soon be circulated to collect specific feedback on the recent creative sharing session, which will influence future strategies.
 9. **Next Activities**: New mindfulness activities focusing on guided breathing exercises and reflection will be rolled out based on participant feedback; further creative sharing sessions will support more consistent artistic expression and engagement.
 
-- Plan and execute additional creative sharing sessions to further enhance emotional connections among participants, incorporating newly evaluated techniques and insights gained from previous workshops.
+- Plan and execute additional creative sharing sessions to enhance emotional connections among participants based on feedback gathered and incorporate newly evaluated techniques from recent insights.
 
 1. **Expanded Artistic Mediums**: Emotional expression avenues will feature music, poetry, visual storytelling, and dance to enrich our artistic palette.
 
