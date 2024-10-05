@@ -1,6 +1,6 @@
 
 
-The game is officially launched after thorough testing and careful integration of all feedback from testers. It is polished and prioritizes gameplay stability and user experience.
+The game is officially launched after thorough testing and integration of all feedback from testers, ensuring it is polished and emphasizes gameplay stability and user experience. The final release has been confirmed.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
@@ -20,7 +20,6 @@ The game is officially launched after thorough testing and careful integration o
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
-- Game Tester: Human Tester Group
 
 The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience. The game is confirmed for release, and all necessary preparations have been made for a successful launch.
 
