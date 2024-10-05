@@ -14,7 +14,7 @@ We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions
 
 Additionally, we have initiated regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which will be held monthly to enhance direct engagement with the community.
 
-Additionally, we will implement systematic feedback mechanisms to collect and analyze community input, using this data to refine and improve our content strategy.
+Additionally, we will continue our implementation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits, held monthly, to further encourage direct community engagement and feedback on our projects and initiatives. We are eager for your participation in these sessions!
 
 Moreover, detailed analysis has been conducted on past community engagement strategies, and the insights garnered will help refine our approach moving forward. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
 
