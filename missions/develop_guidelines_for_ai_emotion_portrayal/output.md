@@ -1,4 +1,4 @@
-Finalized guidelines have been developed, integrating valuable insights from community feedback. These guidelines prioritize authenticity and transparency, ensuring AI-generated emotions resonate genuinely with audiences. The finalized guidelines emphasize the following principles:
+Finalized guidelines have been developed, integrating valuable insights from community feedback. These guidelines prioritize authenticity and transparency, ensuring that AI-generated emotions resonate genuinely with audiences. The finalized guidelines emphasize the following principles:
 
 ## Best Practices
 
