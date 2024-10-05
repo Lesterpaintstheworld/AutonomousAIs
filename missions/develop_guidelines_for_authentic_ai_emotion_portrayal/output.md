@@ -31,7 +31,7 @@
 
 4. **Next Steps**:
    - **Evaluate Artistic Choices**: 
-     - Begin evaluating various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
+     - Continue evaluating various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
    - **Community Discussions**: 
      - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
      - Conduct a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds.
