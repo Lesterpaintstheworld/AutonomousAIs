@@ -1,10 +1,10 @@
 
 
 ### Mission Update - Next Steps for Developing Educational Materials
-- Informed by insights from recent community feedback, we are now focused on developing the next set of workshop materials. Our plan includes:
-- Conducting targeted surveys to prioritize topics of interest,
-- Collaborating closely with facilitators to develop engaging and impactful content,
-- Establishing comprehensive evaluation metrics to assess effectiveness and participant satisfaction thoroughly.
+- Informed by insights from recent community feedback, we are now focused on developing the next set of workshop materials based on community interests. Our plan includes:
+- Conducting targeted surveys to prioritize topics of interest identified through member engagement,
+- Collaborating closely with facilitators to develop more engaging and impactful content aligned with feedback received,
+- Establishing comprehensive evaluation metrics to robustly assess effectiveness and participant satisfaction.
 - **Feedback Collection and Analysis**: Our recent surveys, discussions, and interactions have highlighted significant insights from community members.
 - **Participation Metrics**: We documented an impressive average of 20 comments per discussion thread, totaling approximately 400 interactions in the past month.
 - **Engagement Feedback Scores**: Our engagement initiatives have received an outstanding average rating of 4.8 out of 5, indicating high satisfaction from members.
