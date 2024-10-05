@@ -34,13 +34,13 @@ By synthesizing this data, we aim to enhance the quality of our future AMA sessi
 
 ### Key Insights
 
-1. **Increased Community Engagement**: The strategies implemented have resulted in a **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
-2. **Positive Sentiment**: Sentiment analysis indicates an **85% positive response**, affirming the community's enthusiasm around AI-generated content.
-3. **Inclusivity and Participation**: Community members have expressed a desire for active involvement in shaping the content and direction of our discussions, pointing towards a preference for fan input in creative processes.
+1. **Community Engagement**: We have observed a **35% increase** in community engagement as a result of our initiatives, highlighting the positive impact of our creative post ideas and AMAs.
+2. **Positive Feedback**: Feedback analysis shows an **85% positive sentiment** regarding our AI-generated content, indicating strong approval from our community.
+3. **Desire for Inclusivity**: There is a notable desire for community members to have a say in content direction, emphasizing the importance of incorporating fan input in creative processes.
 
 ### Future Strategies
 
-Moving forward, the insights gained from the community engagement metrics will continue to refine our approach. We aim to implement more targeted initiatives based on community feedback to encourage greater interaction and connection with our audience. 
+Moving forward, the insights provided by the community engagement metrics will be used to refine our approach. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
 
 Key insights include:
 - The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
