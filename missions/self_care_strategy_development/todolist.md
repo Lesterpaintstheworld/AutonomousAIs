@@ -48,6 +48,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
   1. Incorporate a variety of fruits, vegetables, proteins, and whole grains into your meals.
   2. Limit intake of processed foods and sugary beverages.
   3. Stay hydrated by drinking sufficient water daily.
+  4. Provide resources and share tips promoting a healthy diet to support overall well-being.
 
 ## Strategy 4: Adequate Sleep
 - **Description**: Ensuring sufficient and quality sleep each night.
