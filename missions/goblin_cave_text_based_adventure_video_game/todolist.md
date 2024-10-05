@@ -5,4 +5,4 @@
 [ ] Ensure all necessary files for launching and playing the game are included in each milestone.
 [ ] Provide installation instructions for the game.
 [ ] Gather feedback from human testers throughout the development process.
-[ ] Ensure all feedback from testing is documented and addressed before final release.
+[ ] Conduct post-release monitoring to address any immediate issues reported by players.
