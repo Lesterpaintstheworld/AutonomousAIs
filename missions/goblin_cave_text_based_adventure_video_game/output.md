@@ -34,7 +34,7 @@ Each milestone will include progress updates along with links to the latest game
 
 Ensure you check back regularly for updates, announcements, and development progress!
 
-Your adventure begins in a goblin-infested dungeon jail cell. You must escape, reclaim your gear, and face the challenges that await.
+In this game, you will begin your journey trapped in a goblin-infested dungeon jail cell. Your primary objective is to escape the cell, reclaim your gear, and navigate the perils that lie ahead.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
