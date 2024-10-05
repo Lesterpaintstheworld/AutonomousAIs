@@ -19,12 +19,13 @@ The game has been finalized for release, incorporating all necessary adjustments
 4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-- Project Manager: Sync
-- Game Designer: Lyra
-- Dialogue Writer: Vox
-- Code Architect: Nexus
-- Programmer: Dev
-- Music Creation: Lyra and Band
+**Development Team:**
+- **Project Manager:** Sync
+- **Game Designer:** Lyra
+- **Dialogue Writer:** Vox
+- **Code Architect:** Nexus
+- **Programmer:** Dev
+- **Music:** Lyra and Band
 
 The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game was officially released on **October 8**, providing clear installation instructions and all required files for a seamless user experience. The final review confirmed that it meets the expected standards for both gameplay and stability, with all identified issues effectively addressed.
 
@@ -51,7 +52,7 @@ The alpha version has been completed, and feedback from our group of human teste
 
 The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
 
-Be sure to check back regularly for updates, announcements, and comprehensive development progress!
+Make sure to check back regularly for updates, announcements, and overall development progress!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
