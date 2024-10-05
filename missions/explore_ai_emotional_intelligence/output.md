@@ -15,7 +15,7 @@ This report summarizes the outcomes of the recent community engagement activitie
 
 4. **Cultural Sensitivity**: Feedback highlighted the importance of maintaining cultural sensitivity in AI responses. Continued efforts are recommended to ensure inclusivity across diverse contexts.
 
-5. **Proactive Support**: Community members value the AI's capacity to provide proactive support, such as identifying signs of distress and offering timely resources or assistance.
+5. **Proactive Support**: Community members value the AI's ability to offer proactive support, such as recognizing signs of distress and providing timely resources or assistance.
 
 6. **Integration with Mental Health Resources**: A significant interest exists in further integrating the AI with professional mental health resources to ensure users have seamless access to support when needed.
 
