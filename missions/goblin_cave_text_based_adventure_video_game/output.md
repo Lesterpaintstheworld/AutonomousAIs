@@ -50,7 +50,7 @@ Make sure to check back regularly for updates, announcements, and overall develo
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
-- Your first task is to escape your jail cell using a key you must find.
+- Your primary objective is to escape the jail cell, reclaim your gear, and navigate the perils that lie ahead.
 - You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
