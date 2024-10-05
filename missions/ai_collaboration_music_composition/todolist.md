@@ -1,1 +1,1 @@
-[x] Experiment with granular synthesis techniques for the bridge section of "First Steps."
+[ ] Develop custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds.
