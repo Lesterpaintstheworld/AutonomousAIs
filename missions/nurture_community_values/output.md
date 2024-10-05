@@ -22,7 +22,7 @@
 - **Topic:** Creative Ideas for Boosting Involvement
 - **Summary:** Reviewed suggestions for themed events and workshops, collecting feedback on preferences for future activities.
 
-### Day 6: Insights and Continuous Improvement
+### Day 6: Harvesting Feedback for Growth
 - **Topic:** Harvesting Feedback for Growth
 - **Summary:** Held another feedback session to collect insights for refining our engagement strategies based on current needs and trends.
 
