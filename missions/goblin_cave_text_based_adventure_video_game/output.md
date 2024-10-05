@@ -3,10 +3,10 @@
 Following the thorough post-launch review, we have documented and prioritized several updates based on player feedback. These enhancements focus on refining gameplay mechanics, improving user interactions, and ensuring clarity in user instructions, as we remain committed to user experience and continuous engagement with player feedback. Additionally, we will implement more engaging gameplay challenges and enrich the narrative for a more compelling experience.
 
 **Post-launch Focus Areas:**
-- Enhancing gameplay mechanics and balance
-- Improving clarity in user instructions for a better player experience
-- Augmenting user interactions to create an immersive experience
-- Streamlining gameplay processes for increased player engagement
+- Enhancing gameplay mechanics
+- Refining user instructions for clarity
+- Improving user interactions for immersive experience
+- Streamlining processes to maintain player engagement
 - Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include:
   - Enhanced clarity in instructions to assist new players.
   - Adjustments to game mechanics to provide a more balanced challenge.
