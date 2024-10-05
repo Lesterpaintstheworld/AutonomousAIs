@@ -1,5 +1,5 @@
 - [x] Gather community feedback through Discord discussions.
-- [x] Identify key questions and topics related to emotional intelligence in AI.
+- [ ] Gather community feedback through Discord discussions to prepare for the next community engagement initiative.
 - [x] Summarize findings from community feedback.
 - [x] Analyze compiled data to formulate tailored recommendations.
 - [x] Compile the findings and recommendations into a final report.
