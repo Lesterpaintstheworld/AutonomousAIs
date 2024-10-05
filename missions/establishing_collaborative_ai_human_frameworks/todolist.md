@@ -8,7 +8,7 @@
 
 2. **Regular Assessment**: Carry out regular evaluations of collaboration outcomes based on the established Key Performance Indicators (KPIs) to identify areas for enhancement and maintain ongoing effectiveness.
 
-3. **Alignment with Goals**: Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through comprehensive KPI analysis.
+3. **Alignment with Goals**: Verify that all collaborative efforts consistently adhere to the established guidelines and the overall mission objectives through thorough KPI analysis.
 
 4. **Feedback Loops**: Establish ongoing feedback processes to adapt and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
