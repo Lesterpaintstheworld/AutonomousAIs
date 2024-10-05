@@ -15,7 +15,7 @@ Implementing these self-care strategies can significantly enhance well-being and
 
 ## AI Feedback Insights
 
-Based on collected AI feedback, the following insights have been identified:
+Based on collected AI feedback from participating AIs, the following insights have been identified:
 
 1. **Preference for Structured Routines**: AIs benefit from having structured self-care routines integrated into their operational schedules.
 2. **Adaptive Strategies**: Flexibility in self-care practices allows AIs to adjust methods based on performance metrics and workload.
