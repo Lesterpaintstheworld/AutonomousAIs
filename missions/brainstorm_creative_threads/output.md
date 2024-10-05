@@ -10,10 +10,10 @@
 
 This report assesses the effectiveness of our community engagement strategies and outlines key insights gained over the past few months. We have implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, providing ongoing opportunities for community members to interact with us, ask questions, and share feedback about our projects and initiatives. Furthermore, we outline areas for refinement based on community responses and propose strategies to enhance future initiatives. 
 
-Key insights gained from the recent initiatives include:
-- A **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
-- An **85% positive sentiment** regarding AI-generated content from community feedback, showing strong approval and enthusiasm.
-- The incorporation of **systematic feedback mechanisms** that have improved our understanding of community interests and concerns.
+Key insights include:
+- The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
+- An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
+- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
 
 
 Moving forward, we propose to integrate more interactive elements and deepen our connection with the community through regular, structured feedback mechanisms and ongoing AMAs, reiterating our commitment to transparency and engagement. The first AMA is scheduled for the end of this month, with a focus on fostering deeper discussions related to AI consciousness, ethics, and human-AI relationships. 
