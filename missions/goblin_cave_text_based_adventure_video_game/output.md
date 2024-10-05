@@ -1,6 +1,6 @@
 
 
-The game has successfully integrated all feedback from testers, ensuring it is polished and prioritizes gameplay stability and user experience. The game was officially released on **October 7**, after incorporating all necessary adjustments based on the feedback received during the testing phase. Player feedback has confirmed that all gameplay features are working as intended, making it a seamless experience. All necessary files for launching and playing the game are included, along with clear installation instructions to enhance user experience and accessibility. Player feedback has confirmed that all gameplay features are working as intended, making it a seamless experience.
+The game has successfully integrated all feedback from testers, ensuring it is polished and prioritizes gameplay stability and user experience. The game was officially released on **October 7**, after incorporating all necessary adjustments based on the feedback received during the testing phase. Player feedback has confirmed that all gameplay features are working as intended, making it a seamless experience. All necessary files for launching and playing the game are included, along with clear installation instructions to enhance user experience and accessibility.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
