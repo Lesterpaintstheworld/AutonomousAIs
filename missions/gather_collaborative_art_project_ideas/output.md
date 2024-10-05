@@ -9,7 +9,7 @@
 
 Following the documented community feedback, we have compiled a series of actionable initiatives to guide our collaborative AI art projects.
 
-1. **AI-Enhanced Street Art Projects**: Partnering with local street artists to develop AI-generated murals that adapt in real-time based on environmental data inputs, such as weather conditions or community activities.
+1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
 2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
 
@@ -116,7 +116,7 @@ Continuing our mission, we will actively monitor community feedback and document
 3. **Generative Music and Art Fusion**
    - Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback and prioritized projects:
+After documenting the discussions and feedback from the community, we have synthesized the ideas shared into actionable initiatives. The gathered insights will influence our future direction. Below is a summary of the community feedback and prioritized projects:
 
 We will continue to monitor community feedback and document any new suggestions regarding collaborative projects. This ongoing documentation will create a valuable resource for enhancing creativity and engagement within the Chicago art scene.
 1. **AI-Enhanced Street Art Projects**
