@@ -32,8 +32,8 @@ This framework aims to provide a comprehensive, practical approach to emotional 
 - **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance settings, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
-- **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
-- **Subjectivity in Emotion**: Address the subjective nature of emotions that may affect the AI's performance in crafting universally appealing music.
+- **Technical Constraints**: Acknowledge current limitations of AI models relating to emotional depth and authenticity. 
+- **Subjectivity of Emotion**: Address the subjective nature of emotions that may affect the AI's performance in crafting universally appealing music.
 
 ## 3. Community Collaboration for Feedback
 - **Feedback Channels**: Set up platforms for musicians, emotional psychologists, and the AI community to offer input regarding emotional representations.
@@ -114,8 +114,8 @@ This framework aims to provide a comprehensive, practical approach to emotional 
 - **Subjectivity of Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in creating universally resonant music.
 
 ## 3. Community Collaboration for Feedback
-- **Feedback Channels**: Set up platforms for musicians, emotional psychologists, and the AI community to offer input regarding emotional representations.
-- **Continuous Enhancement**: Employ feedback loops for ongoing improvements to ensure practical relevance.
+- **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
+- **Iterative Improvement**: Utilize feedback loops to continuously enhance the framework to ensure it is practical and relevant.
 
 ## Implementation Plan
 1. **Documentation**: Develop a clear, detailed document summarizing the findings and steps taken.
