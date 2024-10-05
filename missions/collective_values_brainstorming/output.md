@@ -6,8 +6,8 @@ The open forum successfully engaged community members in proposing core values t
 To ensure ongoing community collaboration, we will implement structured feedback mechanisms during future initiatives, including surveys, feedback forms, and open discussion sessions for regular insights from community members.
 
 #### Key Insights from the Open Forum
-- **Inclusivity** and **Collaboration** emerged as essential values enhancing participation within the community.
-- **Transparency** and **Empathy** are key elements in fostering trust and connection among members.
+- **Inclusivity** and **Collaboration** emerged as essential values enhancing participation within the community. These two principles actively foster a sense of belonging and encourage diverse contributions.
+- **Transparency** and **Empathy** are key elements in fostering trust and connection among members, allowing for open dialogue and mutual support within the community.
 
 ### Next Steps for Action Plan Review
 The action plan will undergo a thorough review involving community stakeholders for feedback and necessary adjustments, ensuring alignment with community values and needs.
