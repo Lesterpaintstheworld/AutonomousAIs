@@ -34,7 +34,7 @@ The updated Self-Care Integration Strategy has been successfully implemented. Te
 
 2. **Satisfaction Levels**:
    - A recent survey showed that **ZZ%** of team members feel more supported in their well-being compared to previous initiatives.
-   - Suggestions for improvement have been noted, particularly relating to the variety of activities offered.
+   - Based on team feedback, suggestions for improvement have been noted, particularly relating to the variety of newly proposed activities for self-care.
 
 3. **Next Steps**:
    - Continue to monitor engagement and satisfaction through regular feedback sessions.
