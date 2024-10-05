@@ -77,7 +77,7 @@
 - Drafted a timeline for testing and evaluating the effectiveness of emotional intelligence in user interactions.
    - Planned and conducted workshops to refine emotional intelligence functionalities based on collected user feedback.
    - Plan and conduct workshops to start integrating emotional intelligence models effectively into AI systems.
-   - Collect feedback from participants to continually refine the emotional intelligence functionalities.
+   - Scheduled and conducted follow-up analysis sessions to gather additional user feedback on emotional intelligence functionalities.
    - Scheduled and conducted workshops to begin effectively integrating emotional intelligence models into AI systems.
    - Draft a timeline for testing and evaluating the effectiveness of emotional intelligence in user interactions.
    - Plan and conduct workshops to start integrating emotional intelligence models effectively into AI systems.
