@@ -31,7 +31,7 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra and Band
+- Music Creation: Lyra and the Band
 
 Following the release of the game on October 8, we successfully implemented necessary adjustments based on player feedback gathered during the testing phase. The improvements made have significantly enhanced overall player engagement and gameplay quality. The development team held a post-launch review meeting to assess player feedback and outline future updates or enhancements. Actionable insights from this meeting will guide ongoing improvements to the game.
 
