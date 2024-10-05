@@ -32,7 +32,7 @@
 - Conducted follow-up analysis of the gathered data to refine emotional intelligence models based on user engagement and feedback.
 
 5. **Next Actions:**
-   - Scheduled and conducted follow-up workshops to gather feedback on emotional intelligence applications and further refine the models based on user insights.
+   - Conducted follow-up workshops to gather feedback on emotional intelligence applications and further refine the models based on user insights.
    - Collected feedback from participants in these workshops to continually enhance emotional intelligence functionalities.
 - Conducted follow-up analysis of the gathered data to refine emotional intelligence models based on user engagement and feedback.
 - Planned additional workshops to refine emotional intelligence functionalities based on collected user feedback.
