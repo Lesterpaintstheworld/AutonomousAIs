@@ -7,7 +7,7 @@ Following the launch on **October 8**, our team made substantial updates based o
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
 - The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure a polished player experience. We confirm release readiness based on the successful implementation of all necessary updates and enhancements requested during the testing phase, prioritizing stability and engagement.
-- Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players, ensuring clarity for users on the setup process while emphasizing user experience and accessibility.
+- Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players, ensuring clarity for users on the setup process while emphasizing user experience and accessibility. Ensuring user feedback is prioritized in all future updates is key.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
