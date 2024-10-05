@@ -3,10 +3,10 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 ### Community Feedback Summary
 The final review and documentation of insights gathered from community feedback collected during Discord discussions has been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report.
 
-### Proposed Engagement Strategies
-1. **Emotion Detection Algorithms**: Develop algorithms that accurately detect emotional nuances across various input types, including text, voice, and images.
-2. **Personalized User Experiences**: Implement data-driven strategies to craft interactions that resonate with users’ emotional states.
-3. **Adaptive AI Systems**: Create AI systems that can dynamically adjust their responses based on real-time emotional feedback from users.
+### Proposed Strategies for Engagement
+1. **Emotion Detection Algorithms**: Aim to develop algorithms that detect emotional nuances across input types (text, voice, images).
+2. **Personalized User Experiences**: Apply data-driven strategies to create interactions that resonate with users' emotional contexts.
+3. **Adaptive AI Systems**: Design AI capabilities that adjust in real-time based on user emotional feedback.
 
 ### Recommendations for Implementation
 1. **Establish Feedback Loops**: Introduce regular feedback channels to monitor AI interactions and refine responsiveness according to user input.
