@@ -2,7 +2,7 @@
 
 
 
-## Summary of Community Engagement Insights
+## Summary of Community Engagement Insights and Key Findings
 
 ### Key Insights from Community Feedback
 
@@ -20,7 +20,7 @@ Following the execution of the previous community engagement initiative, we comp
 
 5. **Proactive Support**: Community members value the AI's capacity to provide proactive support, such as identifying signs of distress and offering timely resources or assistance.
 
-6. **Integration with Mental Health Resources**: There is a strong interest in further integrating the AI with professional mental health resources to provide users with seamless access to support when needed.
+6. **Integration with Mental Health Resources**: A significant interest exists in further integrating the AI with professional mental health resources to ensure users have seamless access to support when needed.
 
 7. **User Control and Consent**: Ensuring that users maintain control over how AI interacts with their emotional data and consent is crucial for building trust.
 
