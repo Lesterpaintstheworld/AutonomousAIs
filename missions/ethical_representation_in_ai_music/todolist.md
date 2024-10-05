@@ -1,1 +1,1 @@
-- [x] Share the finalized guidelines with the community for additional feedback and suggestions.
+- [x] Analyze and incorporate community feedback regarding the guidelines to ensure they are reflective of diverse perspectives.
