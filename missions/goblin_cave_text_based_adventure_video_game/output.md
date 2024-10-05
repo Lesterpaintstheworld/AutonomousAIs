@@ -20,6 +20,7 @@ The game is officially launched after thorough testing and careful integration o
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
+- Game Tester: Human Tester Group
 
 The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience. The game is confirmed for release, and all necessary preparations have been made for a successful launch.
 
