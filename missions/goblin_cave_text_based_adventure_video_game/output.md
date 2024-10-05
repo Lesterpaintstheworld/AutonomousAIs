@@ -1,6 +1,6 @@
 
 
-The development team has successfully gathered and incorporated user feedback following the launch on **October 8**, leading to significant refinements in gameplay and an enhanced player experience. A post-launch review meeting was conducted to evaluate player feedback and identify next steps for future updates or enhancements, using actionable insights from the meeting to inform ongoing game improvements.
+The development team has successfully gathered and incorporated user feedback following the launch on **October 8**, leading to significant refinements in gameplay and an enhanced player experience. A post-launch review meeting was conducted to evaluate player feedback and identify next steps for future updates or enhancements, utilizing actionable insights from the meeting to inform ongoing game improvements. Our commitment to player engagement remains a priority as we continuously refine the gameplay based on user experiences.
 - Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include:
   - Enhanced clarity in instructions to assist new players.
   - Adjustments to game mechanics to provide a more balanced challenge.
