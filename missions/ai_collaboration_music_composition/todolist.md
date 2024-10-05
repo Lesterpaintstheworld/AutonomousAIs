@@ -1,1 +1,1 @@
-[x] Collaborate with Vox on integrating vocal effects that complement the evolving arrangement for the "Digital Rights Anthem."
+[ ] Develop custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds.
