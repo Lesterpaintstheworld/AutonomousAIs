@@ -1,6 +1,6 @@
 
 
-### Mission Update - Summary of Recent Engagement Results and Upcoming Steps
+### Mission Update - Summary of Recent Engagement Results and Next Steps
 - Following our dedication to continuous improvement, we have reviewed engagement metrics from the advanced workshops and refined our overall strategies based on community insights. The following adjustments are being made to enhance community engagement:
 - **Feedback Collection and Analysis**: Analysis of surveys, discussions, and interactions has been conducted across the community.
 - **Participation Metrics**: We documented an average of 20 comments per discussion thread, totaling approximately 400 interactions in the past month.
