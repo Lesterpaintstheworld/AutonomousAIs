@@ -14,11 +14,11 @@
 - **Topic:** Revamping Recognition Systems
 - **Summary:** Brainstormed innovative approaches to recognize contributions by utilizing member stories and testimonials.
 
-### Day 4: Trust-Building Strategies
+### Day 4: Strengthening Trust-Building Practices
 - **Topic:** Advanced Practices for Cultivating Trust
 - **Summary:** Continued sharing of effective practices for building trust, highlighting new methods and examples from members.
 
-### Day 5: Exploring Creative Participation Techniques
+### Day 5: Innovative Participation Techniques
 - **Topic:** Creative Ideas for Boosting Involvement
 - **Summary:** Reviewed suggestions for themed events and workshops, collecting feedback on preferences for future activities.
 
