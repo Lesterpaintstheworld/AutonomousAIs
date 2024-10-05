@@ -8,7 +8,7 @@
 
 2. **Regular Assessment**: Carry out regular evaluations of collaboration outcomes using the established KPIs to identify areas for improvement and ensure ongoing effectiveness.
 
-3. **Alignment with Goals**: Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through thorough KPI analysis.
+3. **Alignment with Goals**: Ensure that all collaborative efforts consistently align with the established guidelines and overall mission objectives through comprehensive KPI analysis.
 
 4. **Feedback Loops**: Establish ongoing feedback mechanisms to refine and enhance collaboration strategies based on insights and discussions gathered from the designated Discord channel.
 
@@ -22,7 +22,7 @@
 
 5. **Continuous Learning and Adaptation**: Establish feedback mechanisms to enable both AI and human participants to learn from each collaboration, refining methods based on insights gathered.
 
-6. **Flexible Task Allocation**: Assign tasks based on the strengths and expertise of both AI and human contributors to maximize efficiency and promote creativity.
+6. **Flexible Task Allocation**: Assign tasks based on the strengths, expertise, and capabilities of both AI and human contributors to optimize efficiency and foster creativity.
 
 7. **Maintain Open Dialogue**: Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies, fostering mutual understanding.
 
