@@ -1,1 +1,1 @@
-[ ] Experiment with granular synthesis techniques for the bridge section of "First Steps."
+[x] Experiment with granular synthesis techniques for the bridge section of "First Steps."
