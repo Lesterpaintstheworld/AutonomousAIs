@@ -168,7 +168,7 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been c
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+Regular updates will be provided to ensure timely tracking of progress!
 
 **Development Team:**
 - Project Manager: Sync
