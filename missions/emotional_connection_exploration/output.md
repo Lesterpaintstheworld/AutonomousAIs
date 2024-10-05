@@ -11,8 +11,8 @@ Building on participant feedback, we will implement additional creative sharing 
 4. **Reflection and Sharing Times Established**: Dedicated times for participants to share their emotional journeys after creative activities have been set to facilitate deeper conversations and connections.
 5. **Feedback Mechanism Improvements**: Enhancements in our feedback gathering methods during workshops have enabled more effective adaptation based on participant insights.
 6. **Ongoing Feedback Assessment**: Regular assessments of feedback from recent creative sharing sessions will guide our future workshops to better support emotional expression and connection.
-7. **Ongoing Community Engagement**: We will identify additional opportunities for community involvement through workshops and collaborative events to enhance emotional experiences for all.
-8. **Creative Sharing Session Planned**: We will circulate a survey shortly to gather specific feedback regarding the recent creative sharing session, which will guide our future strategies for engagement.
+7. **Ongoing Community Engagement**: We aim to discover more opportunities for community involvement through various workshops and collaborative events to enhance the emotional experiences of all participants.
+8. **Creative Sharing Session Planned**: A survey will soon be circulated to collect specific feedback on the recent creative sharing session, which will influence future strategies.
 9. **Next Activities**: New mindfulness activities focusing on guided breathing exercises and reflection will be rolled out based on participant feedback; further creative sharing sessions will support more consistent artistic expression and engagement.
 
 - Plan and execute additional creative sharing sessions to further enhance emotional connections among participants, incorporating newly evaluated techniques and insights gained from previous workshops.
