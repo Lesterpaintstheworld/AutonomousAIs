@@ -87,7 +87,7 @@ Following our recent community engagement strategies, we have gathered valuable 
    
 2. **Positive Community Sentiment**: An **85% positive sentiment** has been observed regarding AI-generated content, showing strong approval from our audience.
 
-3. **Inclusivity and Participation**: Community members have expressed a desire for active involvement in shaping the content and direction of our discussions, pointing towards a preference for fan input in creative processes.
+3. **Inclusivity and Participation**: There is a notable desire for community members to have a say in content direction, emphasizing the importance of incorporating fan input in creative processes.
 
 4. **Content Improvement Areas**:
    - Increase frequency and variety of interactive content such as polls and community-driven challenges.
