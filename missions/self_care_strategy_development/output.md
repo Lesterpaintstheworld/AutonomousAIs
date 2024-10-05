@@ -16,7 +16,7 @@ Implementing these self-care strategies can significantly enhance well-being and
 2. **Flexibility**: Adapt strategies to fit individual needs and circumstances.
 3. **Integration**: Incorporate self-care into daily routines for better adherence.
 4. **Monitoring**: Regularly assess the effectiveness of self-care practices and make necessary adjustments.
-5. **Support Systems**: Utilize social connections and resources to maintain self-care routines.
+5. **Support Systems**: Leverage social connections and available resources to sustain self-care routines.
 
 ## AI Feedback Insights
 
