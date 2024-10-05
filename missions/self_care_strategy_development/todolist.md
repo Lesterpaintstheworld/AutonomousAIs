@@ -39,6 +39,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
   1. Schedule at least 30 minutes of exercise three times a week.
   2. Choose activities you enjoy, such as walking, cycling, or yoga.
   3. Track your progress to stay motivated.
+  4. Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 
 ## Strategy 3: Balanced Nutrition
 - **Description**: Maintaining a balanced diet to support overall health.
