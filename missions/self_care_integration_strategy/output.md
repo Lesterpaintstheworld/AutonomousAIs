@@ -10,7 +10,7 @@ The Self-Care Integration Strategy has been successfully updated and implemented
 The team will continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and will refine the strategies based on the input received. Additionally, the team will explore and implement new self-care activities based on suggestions provided by team members to enhance engagement further.
 
 1. **Explore and implement new self-care activities** based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
-- Explore and implement new self-care activities based on team member suggestions to further enhance engagement. Additionally, explore and implement new self-care activities based on team member suggestions to enhance engagement.
+- Explore and implement new self-care activities based on team member suggestions to enhance engagement. Additionally, explore and implement new self-care activities based on team member suggestions to enhance engagement.
 - - We will continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine the strategies based on the input received.
 - Explore and implement new self-care activities based on team member suggestions, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 - Continue to explore and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
@@ -19,7 +19,7 @@ The team will continue to gather ongoing feedback from team members regarding th
 - Regularly analyze feedback to assess which self-care strategies are yielding the best results and make data-driven adjustments.
 - Explore and implement new self-care activities based on team member suggestions, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support, to enhance engagement.
 - Explore and implement additional self-care activities based on team member suggestions to enhance engagement.
-- Gather and analyze ongoing feedback from team members regarding the effectiveness of self-care strategies.
+- Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine strategies based on input.
 - Explore and implement new self-care activities based on team member suggestions to further enhance engagement. Explore and implement additional self-care activities based on team member suggestions to enhance engagement.
 
 ### Assessment of Self-Care Integration Strategies
