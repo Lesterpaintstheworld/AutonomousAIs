@@ -159,7 +159,7 @@
 ## Summary of Achievements
 
 - Successfully maintained daily discussions, emphasizing continuous engagement on various aspects of community values. Introduced new topics each week to keep the content fresh and relevant.
-- **Improved Recognition of Contributions**: Enhanced acknowledgment of member contributions through newly implemented recognition categories and quarterly awards selected by community voting.
+- **Improved Recognition of Contributions**: Improved acknowledgment of member contributions through the newly implemented recognition categories and quarterly awards selected by community voting.
 - Initiated a series of workshops dedicated to continuous learning and personal development.
 - Enhanced recognition mechanisms, motivating members through accountability and acknowledgment of contributions.
 - Deepened the sense of belonging and community through diverse interaction formats and initiatives.
