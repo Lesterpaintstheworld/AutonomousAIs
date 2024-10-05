@@ -2,12 +2,12 @@
 
 - Drafted initial guidelines for portraying AI emotions, incorporating community feedback to ensure diverse perspectives and needs are reflected in the portrayal of AI emotions, emphasizing authenticity in emotional expression and transparency in AI portrayals, as outlined in the mission specifications.
 
-1. **Authenticity in Emotional Expression**: 
-   - Ensure AI-generated emotions reflect the full spectrum of human feelings, avoiding oversimplification and misrepresentation while emphasizing diversity in emotional representation.
+1. **Authenticity in Emotional Expression**:
+   - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
 
 2. **Transparency in AI Portrayals**:
-   - Clearly disclose the AI's nature and limitations to foster understanding of its emotional capabilities.
-   - Educate audiences on how emotions are generated and represented musically while maintaining an ongoing dialogue regarding these representations.
+   - Clearly communicate the capabilities and limitations of AI to foster understanding of its emotional expressions.
+   - Provide audiences with insights into the processes behind emotional generation and representation in music.
 
 3. **Impact Assessment**:
    - Regularly assess how AI emotional representations influence listener perceptions and emotional responses.
