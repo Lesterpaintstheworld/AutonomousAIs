@@ -44,7 +44,7 @@ The alpha version has been completed, and feedback from our group of human teste
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The game has been thoroughly tested, and the release build is finalized, ensuring all components are polished and ready for the official launch. It incorporates all feedback received from testers to enhance game stability and provide an optimal player experience.
+The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
 
 Make sure to check back regularly for updates, announcements, and overall development progress!
 
