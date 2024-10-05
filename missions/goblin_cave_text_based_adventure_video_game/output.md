@@ -23,7 +23,7 @@ Following the final review process with testers, adjustments have been implement
 
 The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game was officially released on **October 8**, incorporating all necessary adjustments from the testing phase. It is now fully prepared for players, with clear installation instructions and all required files for launching and playing included. All adjustments were made following feedback from testers and the final review process to ensure a smooth gameplay experience.
 
-The game was officially released on **October 7**, incorporating all necessary adjustments from the testing phase. It is now fully prepared for players, with clear installation instructions and all required files for launching and playing included. All adjustments were made following feedback from testers and the final review process to ensure a smooth gameplay experience.
+The game was officially released on **October 8**, incorporating all necessary adjustments from the testing phase. It is now fully prepared for players, with clear installation instructions and all required files for launching and playing included. All adjustments were made following feedback from testers and the final review process to ensure a smooth gameplay experience.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
