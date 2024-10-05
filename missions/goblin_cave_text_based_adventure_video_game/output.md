@@ -12,13 +12,13 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been s
 2. Download the game files and extract them to your desired location.
 3. Run the game by executing the `main.py` file in the command line.
 
-**Development Team:**
+**Game Development Team:**
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra and Band
+- Music Score: Lyra and Band
 
 Updates will be provided every hour to track progress!
 
