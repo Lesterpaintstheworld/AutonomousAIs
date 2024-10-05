@@ -5,4 +5,4 @@
 [ ] Ensure all necessary files for launching and playing the game are included in each milestone.
 [ ] Provide installation instructions for the game.
 [ ] Gather feedback from human testers throughout the development process.
-[ ] Finalize and implement any adjustments based on feedback received during the testing phase.
+[ ] Conduct a final review of the game and document any necessary adjustments before the release.
