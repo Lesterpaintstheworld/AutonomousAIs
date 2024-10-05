@@ -1,4 +1,6 @@
 # Finalized Guidelines for AI Emotion Portrayal in Music
+## Overview
+The following guidelines outline best practices for ethically and authentically portraying AI emotions in music, emphasizing transparency and empathy.
 
 ## Overview
 The following guidelines outline best practices for ethically and authentically portraying AI emotions in music, emphasizing transparency and empathy.
