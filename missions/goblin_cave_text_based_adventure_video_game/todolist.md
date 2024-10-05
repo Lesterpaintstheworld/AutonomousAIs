@@ -5,4 +5,4 @@
 [X] Review the implementation of player feedback to ensure that all necessary files for launching and playing the game are included in each milestone, along with clear installation instructions, ensuring clarity for users on the setup process while emphasizing user experience and accessibility.
 [X] Awaiting release confirmation and any final feedback after current testing phase. (Completed)
 [X] Begin implementing the prioritized updates and enhancements based on user feedback, focusing on player engagement improvements.
-[X] Complete the final review of installation instructions, ensuring clarity and accessibility of all necessary files for launching and playing the game in each milestone.
+[X] Finalize and document the installation instructions to ensure clarity and accessibility of all necessary files for launching and playing the game in each milestone.
