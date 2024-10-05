@@ -4,8 +4,8 @@
 
 2. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
-3. **Alignment with Goals**: 
-   - Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through thorough KPI analysis.
+3. **Alignment with Goals**
+   - Ensure that all collaborative efforts consistently adhere to the established guidelines and the overall mission objectives through thorough KPI analysis.
    
 2. **Promote Ethical Collaboration**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
