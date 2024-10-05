@@ -1,6 +1,6 @@
 
 
-### Ethical AI Collaboration Framework: Finalized with Community Insights and Updated Best Practices
+### Ethical AI Collaboration Framework: Finalized with Community Insights, Updated Best Practices, and Ongoing Engagement Strategies
 
 #### Implementation of Community Insights
 
