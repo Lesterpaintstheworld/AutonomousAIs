@@ -20,7 +20,7 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version is now com
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+Updates will continue to be provided every hour as we approach gameplay testing and final adjustments.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
