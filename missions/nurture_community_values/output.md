@@ -103,6 +103,8 @@
 - **Webinar:** "Inclusivity Strategies in Community Building" coming up next month
 - **Interactive Workshop:** "Building Strong Relationships" happening next month
 - **Podcast Episode:** "Community Engagement Success Stories" on Community Talks
+- **Resource:** "Advanced Facilitation Techniques" by Mark Johnson
+- **Webinar:** "Facilitating Effective Community Discussions" scheduled for next month
 #### New Additions
 - **Article:** "Innovative Approaches to Community Building" by Tom Smith
 - **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
