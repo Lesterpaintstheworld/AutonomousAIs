@@ -14,7 +14,7 @@ The final review and documentation of insights gathered from community feedback 
 3. **Feedback-Centric Mechanisms**: Create systems focused on collecting user insights related to emotional engagement in AI.
 
 ### Community Feedback Notes
-- Earlier Reddit engagement insights will refine strategies for future projects.
+- Feedback from earlier Reddit engagements will support refining strategic approaches for upcoming projects.
 - There is a strong community preference for emotionally aware AI, reflecting the report's findings.
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
 - Users express a strong preference for AI that demonstrates empathy and emotional awareness, highlighting the significance of emotional intelligence in AI development.
