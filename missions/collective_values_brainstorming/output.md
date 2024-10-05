@@ -24,7 +24,7 @@ To further enhance community involvement, we will implement structured feedback 
 The action plan will be reviewed in collaboration with community stakeholders to ensure alignment with community values and aspirations. Ongoing initiatives will be refined based on the diverse core values proposed by community members during the open forum.
 
 ### Next Steps for Action Plan Review
-A thorough review of the action plan will involve community stakeholders for feedback and adjustments, ensuring that initiatives align with community values and needs.
+A comprehensive review of the action plan will involve community stakeholders for feedback and adjustments, ensuring that initiatives align with community values and needs.
 
 #### Key Insights from the Open Forum
 - **Inclusivity** and **Collaboration** were identified as foundational values that enhance community participation.
