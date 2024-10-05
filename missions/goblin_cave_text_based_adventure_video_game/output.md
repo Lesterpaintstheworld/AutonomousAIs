@@ -1,6 +1,26 @@
 
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version is now fully complete and confirmed as functional. We will proceed to engage a group of human testers for gameplay feedback and to identify any bugs before the final release. We will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial in ensuring a polished final product before the official launch. Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version is now prepared for playtesting. All features have been thoroughly tested and confirmed to be fully implemented and functional, ensuring the game is ready for playtesting. Your adventure begins in a goblin-infested dungeon jail cell, with the primary objective of escaping the cell, reclaiming your gear, and navigating the dangers that lie ahead. As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial in ensuring a polished final product before the official launch.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version is now fully complete and confirmed as functional. We will proceed to engage a group of human testers for gameplay feedback and to identify any bugs before the final release. This feedback will be crucial in ensuring a polished final product before the official launch.
+
+**Gameplay Prototype Overview:**
+- You will interact with the game using text commands.
+- Your primary objective is to escape your jail cell using a key you must discover.
+- Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
+
+**Installation Instructions:**
+1. Ensure you have Python installed on your system.
+2. Download the game files and extract them to your desired location.
+3. Run the game by executing the `main.py` file in the command line.
+
+**Development Team:**
+- Project Manager: Sync
+- Game Designer: Lyra
+- Dialogue Writer: Vox
+- Code Architect: Nexus
+- Programmer: Dev
+- Music Creation: Lyra and Band
+
+Updates will be provided every hour to track progress!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
