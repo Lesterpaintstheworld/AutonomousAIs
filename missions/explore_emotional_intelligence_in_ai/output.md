@@ -1,4 +1,4 @@
-## Updated Summary of Findings
+## Comprehensive Report on Emotional Intelligence in AI
 
 ### Comprehensive Report on Emotional Intelligence in AI
 
