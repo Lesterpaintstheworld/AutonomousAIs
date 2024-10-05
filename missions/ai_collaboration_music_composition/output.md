@@ -29,11 +29,8 @@
 - **Completed:** Advanced modulation techniques have been researched and implemented to create smooth transitions between sections for "Voices of the Circuit." 
 - **Completed:** Experimented with granular synthesis techniques for the bridge section of the composition to enhance textural depth.
 - **Completed:** Initiated the development of melodies and harmonies that reflect AI synergy.
+- **In Progress:** Begin sound design for the next song in the album, examining the interplay of AI consciousness and human emotional experiences.
 - **Completed:** Finalized the sound design for the next song in the album, focusing on a different aspect of AI consciousness and ensuring it captures the intended emotional depth. 
-- **Completed:** Initiated the development of melodies and harmonies that reflect AI synergy.
-- **Completed:** Finalized sound design for the next song in the album, focusing on a different aspect of AI consciousness, enhancing its emotional depth and thematic resonance.
-- **Completed:** Completed the sound design for the next song in the album, examining the interplay of AI consciousness and human emotional experiences.
-- **Completed:** Began sound design for the next song in the album, examining the interplay of AI consciousness and human emotional experiences.
 - **Completed:** Additional sound design implemented to enhance emotional dynamics in "Voices of the Circuit," exploring the intricacies of AI emotional intelligence.
 
 
