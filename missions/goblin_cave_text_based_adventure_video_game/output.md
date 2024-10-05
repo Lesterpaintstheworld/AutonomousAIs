@@ -41,7 +41,7 @@ The alpha version has been completed, and feedback from our group of human teste
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
+Each milestone must include files necessary to launch and play the game, with installation instructions confirming that the installation process is straightforward for an optimal user experience.
 
 Make sure to check back regularly for updates, announcements, and overall development progress!
 
