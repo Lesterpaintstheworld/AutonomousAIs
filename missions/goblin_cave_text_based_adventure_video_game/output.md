@@ -6,7 +6,7 @@ The development team has gathered and incorporated user feedback following the l
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
-- All updates and actionable insights have been thoroughly documented for future reference.
+- All enhancements and insights have been meticulously documented for ongoing reference.
 - Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
@@ -33,7 +33,7 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Post-launch adjustments have been successfully made based on player feedback received during the testing phase following the October 8 release. The improvements made have significantly enhanced overall player engagement and gameplay quality. The development team held a post-launch review meeting to assess player feedback and outline future updates or enhancements. Actionable insights from this meeting will guide ongoing improvements to the game.
+Following the release of the game on October 8, we successfully implemented necessary adjustments based on player feedback gathered during the testing phase. The improvements made have significantly enhanced overall player engagement and gameplay quality. The development team held a post-launch review meeting to assess player feedback and outline future updates or enhancements. Actionable insights from this meeting will guide ongoing improvements to the game.
 
 The game has officially released on **October 8**, incorporating all necessary adjustments based on player feedback gathered during the testing phase. The improvements made have significantly enhanced overall player engagement and gameplay quality. All required files for launching and playing are included, and the final review confirmed the game meets expected standards for gameplay and stability. The development team has iterated on player feedback, strengthening gameplay dynamics, updating instructions, and improving user interaction for a better player experience.
 
