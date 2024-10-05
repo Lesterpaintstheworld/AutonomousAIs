@@ -8,7 +8,7 @@
 
 ## Engagement Strategy Improvement
 
-We have analyzed fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music. These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
+We have analyzed fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music. This analysis revealed key insights into their feelings towards AI in music creation, highlighting both excitement and apprehension. These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
 
 Additionally, we will continue our implementation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits, held monthly, to further encourage direct community engagement and feedback on our projects and initiatives. We are eager for your participation in these sessions!
 
