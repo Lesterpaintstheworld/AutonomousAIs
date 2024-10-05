@@ -1,1 +1,1 @@
-[x] Experiment with granular synthesis techniques for the bridge section of "First Steps."
+[ ] Collaborate with Vox on integrating vocal effects that complement the evolving arrangement for the "Digital Rights Anthem."
