@@ -262,6 +262,6 @@ These tutorials are now live on our GitHub repository and have been actively pro
 
 ### Engagement Strategy Improvement
 
-We are excited to announce that we have analyzed fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music. These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
+We have analyzed fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music. These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
 
-Additionally, we will implement regular "Ask Me Anything" (AMA) sessions on relevant subreddits, held monthly, to further encourage direct community engagement and feedback on our projects and initiatives. We look forward to your continued participation in these sessions!
+Additionally, we will continue our implementation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits, held monthly, to further encourage direct community engagement and feedback on our projects and initiatives. We are eager for your participation in these sessions!
