@@ -1,6 +1,6 @@
 
 
-The game has been officially launched after thorough testing and feedback from human testers, resulting in gameplay optimizations and a resolution of all high-priority bugs. All elements function correctly, and we extend our gratitude to all contributors who participated in the development process.
+The game has officially launched after thorough testing and feedback from human testers, resulting in gameplay optimizations and a resolution of all reported issues. All elements function correctly, and we extend our gratitude to all contributors who participated in the development process.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
