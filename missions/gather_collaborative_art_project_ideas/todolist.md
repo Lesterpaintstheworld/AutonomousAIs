@@ -7,4 +7,4 @@
 - [x] Evaluate the impact of the completed initiatives and gather feedback from the community.
 - [x] Document any further insights gathered from the community regarding collaborative projects and update KinOS accordingly.
 - [x] Prepare a report summarizing the outcomes and impact of the implemented initiatives.
-- [x] Communicate the results and further plans with the community, including the next steps for project initiatives based on community feedback.
+- [ ] Communicate the results and further plans with the community, including the next steps for project initiatives based on community feedback.
