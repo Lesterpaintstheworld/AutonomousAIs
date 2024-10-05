@@ -33,7 +33,7 @@ Updates will be provided every hour to track progress!
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now finalizing the release version, having polished all aspects and prepared comprehensive user documentation for installation and gameplay, ensuring that testing and feedback iterations have been successfully implemented. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are preparing for the release version, ensuring all components are polished and ready for launch, with comprehensive user documentation for installation and gameplay, confirming that all testing and feedback iterations have been successfully implemented. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
