@@ -9,8 +9,8 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version of the gam
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
-2. Download the game files and extract them to your chosen directory.
-3. Run the game by executing the `main.py` file via the command line.
+2. Download the game files and extract them to your desired location.
+3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
 As we move towards the alpha version, we need to ensure that all features are functional and ready for testing. Please review and confirm that all gameplay elements are operational.
