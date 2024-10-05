@@ -1,6 +1,6 @@
 
 
-The game has been officially released on **October 8**, and is now fully prepared for players. It includes clear installation instructions and all required files for launching and playing, confirming that it meets expected standards for gameplay and stability while addressing all identified issues effectively. 
+The game was officially released on **October 8**, incorporating all necessary adjustments from the testing phase. It is now fully prepared for players, with clear installation instructions and all required files for launching and playing included. 
 - Enhanced gameplay dynamics based on user feedback.
 - Clear and concise installation instructions for improved user guidance.
 - Improved interaction experience to deepen immersion for players.
@@ -56,7 +56,7 @@ The alpha version has been completed, and feedback from our group of human teste
 
 The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
 
-As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights to enhance gameplay and fix any identified issues before the final release.
+Make sure to check back regularly for updates, announcements, and overall development progress!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
