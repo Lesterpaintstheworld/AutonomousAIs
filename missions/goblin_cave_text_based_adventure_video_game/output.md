@@ -20,6 +20,7 @@ The game has been officially launched as of Oct 7, incorporating all feedback fr
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
+- Status: Awaiting release confirmation and any final feedback after current testing phase.
 
 The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience.
 
