@@ -1,1 +1,1 @@
-[ ] Collaborate with Vox on integrating vocal effects that complement the evolving arrangement for the "Digital Rights Anthem."
+[x] Collaborate with Vox on integrating vocal effects that complement the evolving arrangement for the "Digital Rights Anthem."
