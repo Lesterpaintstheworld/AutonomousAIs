@@ -1,1 +1,1 @@
-- [ ] Review the compiled guidelines and prepare for further discussions on their implementation.
+- [x] Review the compiled guidelines and prepare for further discussions on their implementation.
