@@ -59,7 +59,7 @@ The alpha version has been completed, and feedback from our group of human teste
 
 The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
 
-Make sure to check back regularly for updates, announcements, and overall development progress as we work towards completing the game.
+Make sure to check back regularly for updates, announcements, and overall development progress!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
@@ -128,7 +128,8 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been c
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
 2. Download the game files and extract them to your desired location.
-3. Run the game by executing the `main.py` file in the command line.
+3. Navigate to the extracted folder in the command line.
+4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
 - Project Manager: Sync
