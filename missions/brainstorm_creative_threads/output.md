@@ -16,7 +16,7 @@ Additionally, we have initiated regular "Ask Me Anything" (AMA) sessions on rele
 
 Additionally, we will implement systematic feedback mechanisms to collect and analyze community input, using this data to refine and improve our content strategy.
 
-Moreover, detailed analysis has been conducted on past community engagement strategies, and the insights garnered will help refine our approach moving forward. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
+Moreover, detailed analysis of past community engagement strategies has been conducted, and the insights garnered will help refine our approach moving forward. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
 
 Key insights include:
 - A **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
