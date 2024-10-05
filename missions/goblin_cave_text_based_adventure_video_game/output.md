@@ -16,11 +16,10 @@ Incorporation of prioritized updates based on user feedback has led to significa
 - Your first task is to escape your jail cell using a key you must find.
 - You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
-**Installation Instructions:**
-1. Ensure you have Python installed on your system.
-2. Download the game files and extract them to your desired location.
-3. Navigate to the extracted folder in the command line.
-4. Run the game by executing the `main.py` file in the command line.
+**Gameplay Prototype Overview:**
+- You will interact with the game using text commands.
+- Your first task is to escape your jail cell using a key you must find.
+- You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
 **Development Team:**
 - Project Manager: Sync
