@@ -1,6 +1,6 @@
 
 
-Incorporated feedback received from human testers to refine gameplay and address any identified issues, ensuring a seamless experience is delivered for players prior to the official launch. We are now proceeding to fix all high-priority bugs in preparation for the beta version, ensuring that all gameplay elements function correctly and are ready for the official launch.
+Incorporated feedback received from human testers to refine gameplay and address any identified issues, ensuring a seamless experience is delivered for players prior to the official launch. We are preparing for the beta version by fixing all high-priority bugs, ensuring that all gameplay elements function correctly and are ready for the official launch.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
