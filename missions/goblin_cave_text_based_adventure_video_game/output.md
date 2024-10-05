@@ -13,6 +13,8 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** This gameplay prototype is n
 1. Ensure you have Python installed on your system.
 2. Download the game files and extract them to your desired location.
 3. Run the game by executing the `main.py` file in the command line.
+2. Download the game files and extract them to your desired location.
+3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
 - Project Manager: Sync
@@ -21,8 +23,6 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** This gameplay prototype is n
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
-
-Updates will be provided every hour to track progress!
 
 Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
 
