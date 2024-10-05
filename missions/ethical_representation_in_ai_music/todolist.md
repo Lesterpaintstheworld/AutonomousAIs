@@ -1,1 +1,1 @@
-- [ ] Develop a detailed implementation plan for the guidelines on authenticity in emotional representation, including specific actions, timelines, and responsible members.
+- [ ] Initiate the research phase by gathering insights from existing discussions and literature concerning emotional representation in AI music.
