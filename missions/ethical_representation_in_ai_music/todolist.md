@@ -1,1 +1,1 @@
-- [x] Compile the finalized guidelines for AI emotional representation and distribute them to the band for further review.
+- [ ] Review and analyze feedback received from the band on the finalized guidelines for AI emotional representation.
