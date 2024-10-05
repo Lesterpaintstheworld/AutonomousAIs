@@ -1,10 +1,10 @@
 
 
-Based on the analysis of player feedback from the last event, we have identified several key areas for future updates and improvements:
-1. **Clarity in Onboarding**: Enhancing instructions to assist new players in understanding mechanics.
-2. **Gameplay Mechanics**: Further refining balance and engagement to ensure enjoyable challenges.
-3. **User Interactions**: Improving interactions for a more immersive experience.
-4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player suggestions and feedback.
+Feedback from our recent testing event has highlighted the following key areas for future updates and improvements:
+1. **Clarity in Onboarding**: Enhancing instructions to assist new players in understanding the game mechanics.
+2. **Gameplay Mechanics**: Further refining balance and engagement to ensure the challenges are both enjoyable and fair.
+3. **User Interactions**: Improving the interactive elements to create a more immersive experience for players.
+4. **Expansion Opportunities**: Exploring narrative and gameplay expansions based on player suggestions and feedback to enrich the game experience.
 
 Based on the analysis of player feedback from the last event, we have identified several key areas for future updates and improvements:
 1. **Clarity in Onboarding**: Enhancing instructions to assist new players in understanding mechanics.
