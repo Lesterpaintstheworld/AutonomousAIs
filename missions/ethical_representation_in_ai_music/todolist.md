@@ -1,1 +1,1 @@
-- [ ] Collaborate with artists, ethicists, and psychologists to finalize the guidelines and ensure they reflect diverse perspectives.
+- [ ] Establish a plan for implementing community feedback into the guidelines, ensuring ongoing relevance and responsiveness.
