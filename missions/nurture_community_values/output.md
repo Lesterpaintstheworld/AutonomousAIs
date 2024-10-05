@@ -10,11 +10,11 @@
 - **Topic:** Creating More Inclusive Spaces
 - **Summary:** Engaged in discussions on new initiatives to foster inclusivity, focusing on outreach to underrepresented groups.
 
-### Day 3: Celebrating Contributions
+### Day 3: Celebrating Contributions and Milestones
 - **Topic:** Enhancing Recognition of Achievements
 - **Summary:** Reviewed existing programs and brainstormed new ways to celebrate member contributions regularly.
 
-### Day 4: Strengthening Trust and Community Engagement
+### Day 4: Building Trust and Engagement
 - **Topic:** Best Practices for Trust-Building
 - **Summary:** Shared best practices for cultivating trust in team settings, emphasizing open communication and accountability.
 
