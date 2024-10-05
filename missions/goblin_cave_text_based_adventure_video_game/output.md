@@ -5,14 +5,14 @@ The development team has gathered and incorporated user feedback following the l
   - Enhanced clarity in instructions to assist new players.
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
-  - Streamlined the process of escaping the jail cell to keep players engaged.
+  - Streamlined the escape process from the jail cell to enhance player engagement.
 - All updates and actionable insights have been thoroughly documented for future reference.
 - Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
 Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights are thoroughly documented for future reference.
-- The team has carefully reviewed and integrated player feedback, utilizing actionable insights to improve gameplay quality and engagement. Key updates include adjustments to game mechanics, clearer instructional guidance, and improvements in user interactions for a more immersive experience.
+- The team has thoroughly reviewed and integrated player feedback, implementing actionable insights to enhance gameplay quality and engagement. Key updates include adjustments to game mechanics, clearer instructional guidance, and improvements in user interactions for a more immersive experience.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
