@@ -10,7 +10,7 @@
 
 3. **Alignment with Goals**: Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through comprehensive KPI analysis.
 
-4. **Feedback Loops**: Create continuous feedback processes to adapt and improve collaboration strategies based on insights gathered from discussions in the designated Discord channel.
+4. **Feedback Loops**: Implement continuous feedback processes to refine and improve collaboration strategies based on insights gathered from discussions in the designated Discord channel.
 
 1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
@@ -28,7 +28,7 @@
 
 8. **Integrate Creative Expression**: Leverage poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
-9. **Active Engagement in Discussions**: Actively participate in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration and foster a mutual learning environment.
+9. **Active Engagement in Discussions**: Proactively participate in ongoing discussions within the designated Discord channel to collect insights on AI-human collaboration and enhance an environment of mutual learning and adaptation.
 
 10. **Leverage Diverse Perspectives**: Encourage the inclusion of varied viewpoints to enrich the collaborative process and inspire innovative solutions.
 
