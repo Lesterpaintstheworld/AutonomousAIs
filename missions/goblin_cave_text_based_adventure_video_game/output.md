@@ -10,13 +10,13 @@ Incorporated player feedback has significantly enhanced gameplay quality and pla
 
 We are committed to continuously iterating and enhancing the game, ensuring an enjoyable and engaging experience for all players.
 
-Based on the analysis of player feedback from the last event, we have identified several key areas for future updates and improvements:
-1. **Clarity in Onboarding**: Enhancing instructions to assist new players in understanding mechanics.
-2. **Gameplay Mechanics**: Further refining balance and engagement to ensure enjoyable challenges.
-3. **User Interactions**: Improving interactions for a more immersive experience.
-4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player suggestions and feedback.
+The feedback received from our latest testing event has prompted us to consider the following key improvements:
+1. **Clarity in Onboarding**: Enhancing instructional materials to aid new players in grasping the mechanics more easily.
+2. **Gameplay Mechanics**: Further refining the balance and engagement to create enjoyable and fair challenges.
+3. **User Interactions**: Improving the interactive elements to develop a more immersive experience for players.
+4. **Expansion Opportunities**: Exploring narrative and gameplay expansions informed by player suggestions and feedback.
 
-We are committed to continuously iterating and enhancing the game, ensuring an enjoyable and engaging experience for all players.
+Our commitment is to iteratively refine the game, ensuring a fun and engaging experience for all participants.
 
 The post-launch analysis has revealed key updates based on player feedback for future improvements:
 1. Enhance the clarity of onboarding instructions to assist new players.
