@@ -8,7 +8,7 @@ Following the feedback gathered from participants on the recent creative sharing
 
 Following the feedback gathered from participants on the recent creative sharing session, we will analyze fan feedback from previous creative sharing sessions to gather insights and inform enhancements for future emotional connection activities. This analysis will help us tailor our upcoming sessions even more closely to participant needs and desires, ensuring an engaging and enriching experience. 
 
-We will analyze fan feedback from previous creative sharing sessions to gather insights and inform enhancements for future emotional connection activities. This analysis will help tailor our upcoming sessions even more closely to participant needs and desires, ensuring an engaging and enriching experience. Additionally, we will analyze fan feedback from previous creative sharing sessions to gather insights and inform enhancements for future emotional connection activities.
+Following the feedback gathered from participants on the recent creative sharing session, we will analyze fan feedback from previous creative sharing sessions to gather insights and inform enhancements for future emotional connection activities. This analysis will help tailor our upcoming sessions even more closely to participant needs and desires, ensuring an engaging and enriching experience.
 
 **Mission Analysis Report Highlights:**
 1. **Mindfulness Evaluation Insights**: Participants indicated a desire for longer sessions with a variety of techniques such as visualization and nature-specific methodologies.
