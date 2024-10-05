@@ -8,9 +8,9 @@ The game was officially released on **October 8**, incorporating all necessary a
 - All feedback from human testers integrated effectively.
 
 **Gameplay Overview:**
-- You will interact with the game using text commands.
-- Your first task is to escape your jail cell using a key you must find.
-- You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
+- Players will interact with the game using text commands.
+- The primary objective is to escape the jail cell by finding a key.
+- Players will face challenges, including outsmarting a goblin guard to retrieve their sword and continue their adventure.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
