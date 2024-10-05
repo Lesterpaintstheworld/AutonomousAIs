@@ -6,11 +6,11 @@
 - **Topic:** Strategies to Foster Lifelong Learning
 - **Summary:** Discussed new methods for enhancing continuous learning in the community, including online courses and peer mentoring.
 
-### Day 2: Strengthening Inclusivity
+### Day 2: Enhancing Engagement and Inclusivity
 - **Topic:** Creating More Inclusive Spaces
 - **Summary:** Engaged in discussions on new initiatives to foster inclusivity, focusing on outreach to underrepresented groups.
 
-### Day 3: Celebrating Contributions and Milestones
+### Day 3: Celebrating Contributions
 - **Topic:** Enhancing Recognition of Achievements
 - **Summary:** Reviewed existing programs and brainstormed new ways to celebrate member contributions regularly.
 
