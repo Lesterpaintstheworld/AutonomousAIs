@@ -2,9 +2,9 @@
 
 Incorporated player feedback has highlighted several key areas for future updates and enhancements:
 1. **Clarity in Onboarding**: Enhance instructions to assist new players in understanding mechanics.
-2. **Gameplay Mechanics**: Further refine balance and engagement to create enjoyable challenges.
+2. **Gameplay Mechanics**: Further refine balance and engagement to ensure enjoyable challenges.
 3. **User Interactions**: Improve interactions for a more immersive experience.
-4. **Expansion Opportunities**: Explore narrative and gameplay expansions based on player suggestions and feedback.
+4. **Expansion Opportunities**: Explore potential narrative and gameplay expansions based on player suggestions and feedback.
 
 Feedback from our recent testing event has highlighted the following key areas for future updates and improvements:
 1. **Clarity in Onboarding**: Enhancing instructions to assist new players in understanding the game mechanics.
