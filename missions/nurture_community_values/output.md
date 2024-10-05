@@ -145,8 +145,8 @@
 - Continued encouraging collaborative projects aligned with the community's core values and goals, as outlined in the updated Recognition Programs and Community Projects initiatives.
 - **Next Steps:**
 1. **Continue Daily Discussions:** Maintain the rhythm of discussions and introduce new topics each week.
-2. **Broaden Learning Resources:** Expand the library of available educational materials and organize further workshops.
-3. **Refine Recognition Programs:** Continuously improve the recognition framework for contributions and achievements, incorporating member feedback.
+2. **Broaden Learning Resources:** Expand the library of available educational materials and organize further workshops, ensuring inclusivity in resource sharing.
+3. **Refine Recognition Programs:** Continuously improve the recognition framework for contributions and achievements.
 4. **Support Community Projects:** Encourage new collaborative initiatives aligned with community goals.
 
 ## Foster Community Projects
