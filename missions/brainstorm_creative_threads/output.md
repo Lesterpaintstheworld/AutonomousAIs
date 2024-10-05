@@ -36,7 +36,7 @@ Additionally, we will implement systematic feedback mechanisms to collect and an
 
 ### Fan Feedback Analysis
 
-We have conducted an analysis of fan feedback from previous Reddit engagement, focusing on their emotional responses to AI-generated music. This analysis revealed key insights into their feelings towards AI in music creation, highlighting both excitement and apprehension. 
+We aim to integrate detailed analysis findings from past community engagement strategies that emphasize our approach moving forward, ensuring continuous improvement. This analysis revealed key insights into their feelings towards AI in music creation, highlighting both excitement and apprehension. 
 
 These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
 
