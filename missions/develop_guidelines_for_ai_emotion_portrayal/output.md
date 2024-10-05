@@ -325,6 +325,9 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 6. **Implementation Follow-Up**
    - Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 
+6. **Implementation Follow-Up**
+   - Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
+
 ## Review the effectiveness of interactive feedback mechanisms.
 
 Based on the collected community feedback, the following insights have been gathered to enhance the emotional portrayal guidelines:
