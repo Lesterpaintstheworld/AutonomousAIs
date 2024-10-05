@@ -25,7 +25,7 @@ Following the documented community feedback, we have compiled a series of action
 
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives are pivotal in promoting creativity and community involvement while integrating AI into Chicago’s vibrant art culture. Plans for execution will begin promptly, focusing on implementing the selected initiatives.
+These initiatives are pivotal in promoting creativity and community involvement while integrating AI into Chicago’s vibrant art culture. Plans for execution will begin promptly, with communication to the community regarding implementation and their role in future initiatives.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that adapt their design based on real-time data inputs, like environmental conditions or social events.
 
@@ -68,7 +68,7 @@ These initiatives are pivotal in promoting creativity and community involvement 
 5. **AI-Powered Sculpture Design**
    - Utilizing AI to design sculptures that respond to environmental stimuli, creating dynamic and interactive physical art installations.
 
-As we proceed with our mission, we will continue to actively monitor community feedback, document any new suggestions regarding collaborative projects, and communicate results and plans with the community.
+As we proceed with our mission, we will continue to actively monitor community feedback and document any new suggestions regarding collaborative projects, ensuring that we maintain an evolving and responsive approach to community engagement.
 
 Based on the community contributions to the collaborative AI art project, the following actionable initiatives have been identified and will be prioritized for implementation:
 
