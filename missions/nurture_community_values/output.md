@@ -102,7 +102,7 @@
 - **Highlight Member Stories:** Feature outstanding member contributions and experiences in newsletters to inspire participation.
 
 ## Expanded Learning Resources
-### New Additions
+### New Recognized Contributions
 - **Article:** "Innovative Approaches to Community Building" by Tom Smith
 - **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
 - **Video:** "Engaging Community Through Dialogue" by Community Leaders
@@ -156,7 +156,7 @@
 - **Sophia Lewis:** Created an interactive feedback platform to collect and analyze member input.
 - **James Brown:** Compiled a guide of best practices for community engagement based on member suggestions.
 
-## Summary of New Initiatives
+## Summary of Achievements
 
 - Successfully maintained daily discussions, emphasizing continuous engagement on various aspects of community values. Introduced new topics each week to keep the content fresh and relevant.
 - **Improved Recognition of Contributions**: Enhanced acknowledgment of member contributions through newly implemented recognition categories and quarterly awards selected by community voting.
