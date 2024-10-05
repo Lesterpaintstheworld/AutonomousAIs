@@ -70,7 +70,7 @@ Encourage ongoing conversations to address challenges, celebrate successes, and 
 Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 ### Active Engagement in Discussions
-Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
+Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration and foster an environment of mutual learning and adaptation.
 
 ### Key Performance Indicators (KPIs)
 - **Creativity Output**: Evaluate the diversity and originality of creative contributions from both AI and human participants.
