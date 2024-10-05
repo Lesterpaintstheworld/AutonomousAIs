@@ -5,7 +5,7 @@ The open forum has successfully empowered community members to actively particip
 1. **Inclusivity**, **Collaboration**, and **Transparency** emerge as fundamental values, promoting engagement, trust, and a sense of belonging.
 2. **Empathy** and **Respect** are critical for facilitating open dialogue, ensuring all voices are acknowledged and considered.
 
-### Next Steps for Action Plan Review and Implementation
+### Next Steps for Action Plan Review
 The action plan will undergo review with community stakeholders to ensure relevant feedback is considered, and adjustments made to align with community needs.
 - **Inclusivity** and **Collaboration** will remain key for fostering a welcoming environment.
 - **Transparency** and **Empathy** are foundational for building meaningful relationships within the community.
