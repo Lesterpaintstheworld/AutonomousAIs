@@ -7,7 +7,7 @@
 
 
 
-Following the discussions with the community, we have compiled a series of actionable initiatives to guide our collaborative AI art projects. These initiatives are pivotal in promoting creativity and community involvement while integrating AI into Chicago’s vibrant art culture. Plans for execution will begin promptly, focusing on implementing the selected initiatives.
+Following discussions with the community, we have compiled a series of actionable initiatives to guide our collaborative AI art projects. These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We will actively seek community input and document all developments in KinOS.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
