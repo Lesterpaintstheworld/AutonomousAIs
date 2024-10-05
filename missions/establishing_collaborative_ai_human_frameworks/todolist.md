@@ -22,7 +22,7 @@
 
 5. **Continuous Learning and Adaptation**: Establish feedback mechanisms to enable both AI and human participants to learn from each collaboration, refining methods based on insights gathered.
 
-6. **Flexible Task Allocation**: Assign tasks based on the strengths and expertise of AI and human contributors to optimize efficiency and creativity.
+6. **Flexible Task Allocation**: Assign tasks based on the strengths, skills, and expertise of both AI and human contributors to maximize efficiency and enhance creativity.
 
 7. **Maintain Open Dialogue**: Facilitate ongoing discussions to address challenges, celebrate successes, and continuously iterate on collaboration strategies.
 
@@ -36,7 +36,7 @@
 
 12. **Engage in Continuous Dialogue**: Keep ongoing conversations active within dedicated platforms, such as Discord channels, to gather diverse insights and foster a collaborative approach driven by the community.
 
-13. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to foster mutual trust and ensure accountability.
+13. **Promote Transparency in Collaboration**: Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
 
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
