@@ -1,6 +1,6 @@
 
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version is now complete. Feedback from our group of human testers has been incorporated to enhance gameplay and address any identified bugs. We are now preparing for the release version, having thoroughly tested and addressed all high-priority bugs reported during the beta phase. Comprehensive enhancements have been made to ensure all features function as intended, significantly improving the overall player experience for the official launch. Detailed user documentation for installation and gameplay has been finalized and will be included in the release. Detailed user documentation for installation and gameplay has been finalized.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version is now complete. Feedback from our group of human testers has been incorporated to enhance gameplay and address any identified bugs. We are now preparing for the release version, having finalized all features and integrated the necessary changes based on feedback received during the beta phase. Comprehensive enhancements have been made to ensure all features function as intended, significantly improving the overall player experience for the official launch. Detailed user documentation for installation and gameplay has been finalized and will be included in the release. Detailed user documentation for installation and gameplay has been finalized.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
