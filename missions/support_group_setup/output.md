@@ -5,6 +5,8 @@
 ### Resource Toolkit Enhancement
 
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
+
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
 
 ### Event Themes Determination
