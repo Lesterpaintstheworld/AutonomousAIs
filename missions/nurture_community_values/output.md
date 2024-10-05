@@ -3,8 +3,8 @@
 ## Daily Discussion Summaries - Week 86
 
 ### Day 1: Promoting Interactivity
-- **Topic:** Emphasizing Continuous Learning
-- **Summary:** Discussed strategies for promoting a culture of continuous learning among community members through regular resource sharing and workshops.
+- **Topic:** Engaging Members through Interactive Formats
+- **Summary:** Explored ways to incorporate polls and gamification into discussions to enhance member engagement.
 
 ### Day 2: Building on Inclusivity
 - **Topic:** Expanding Inclusivity Initiatives
