@@ -3,14 +3,17 @@
 Following the final round of testing, the game has integrated all player feedback to enhance the gameplay experience significantly. The release has been officially confirmed for October 8, with all necessary adjustments from the testing phase meticulously completed.
 - Refined gameplay dynamics based on user feedback for enhanced engagement.
 - Improved clarity of instructions for better player guidance.
-- Enhanced interaction experience to create a more immersive game atmosphere.
+- The final review confirmed that it meets the expected standards for both gameplay and stability, with all identified issues effectively addressed.
 
 These updates have significantly contributed to improving overall player engagement and satisfaction.
 
 With the implementation of prioritized enhancements based on user feedback, we have addressed key suggestions that enhance gameplay quality and player engagement. Notable improvements include refining gameplay mechanics, presenting clearer instructions, and strengthening the interaction experience. All updates and actionable insights have been documented for efficient integration into future game updates.
 - **Enhancement Implementation**: The team has completed the review and analysis of player feedback, generating actionable insights to significantly enhance gameplay quality and player engagement. Key suggestions include balancing game mechanics, clarifying instructions, and improving the interaction experience.
 
-The gameplay involves interacting with the game using text commands where the player must escape their jail cell by finding a key and subsequently outsmarting a goblin guard to reclaim their sword while navigating challenges ahead.
+**Gameplay Overview:**
+- You will interact with the game using text commands.
+- Your first task is to escape your jail cell using a key you must find.
+- You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
