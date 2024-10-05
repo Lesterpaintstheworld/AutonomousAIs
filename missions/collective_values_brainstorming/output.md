@@ -6,7 +6,8 @@ The open forum has successfully empowered community members to actively particip
 2. **Empathy** and **Respect** are critical for facilitating open dialogue, ensuring all voices are acknowledged and considered.
 
 ### Next Steps for Action Plan Review
-The action plan will undergo review with community stakeholders to ensure that relevant feedback is considered and adjustments are made to align with community needs. 
+The action plan will undergo review with community stakeholders to ensure that relevant feedback is considered and adjustments are made to align with community needs.
+Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. 
 
 ### Final Report Compilation and Distribution
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
