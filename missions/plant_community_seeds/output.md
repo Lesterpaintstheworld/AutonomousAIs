@@ -1,6 +1,6 @@
 
 
-### Mission Update - Summary of Member Participation and Engagement Metrics
+### Mission Update - Summary of Engagement Metrics and Future Actions
 
 #### Key Insights from Feedback Analysis
 
