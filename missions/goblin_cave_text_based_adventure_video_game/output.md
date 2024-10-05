@@ -41,7 +41,7 @@ As we move towards the alpha version, we need to ensure that all features are fu
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
+Milestones will include progress updates and links to the latest game files, ensuring all team members remain aligned and informed on developments.
 
 Make sure to check back regularly for updates, announcements, and overall development progress!
 
