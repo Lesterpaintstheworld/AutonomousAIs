@@ -1,6 +1,6 @@
 
 
-Following the successful feedback incorporation from testers, we have identified key focus areas for future updates and improvements to enhance the overall player experience:
+Following the successful feedback incorporation from testers, we have identified key focus areas for future updates and improvements, including:
 1. Enhance clarity in onboarding instructions to support new players.
 2. Further refine gameplay mechanics for better balance and engagement.
 3. Improve user interactions to create a more immersive and engaging atmosphere.
@@ -156,7 +156,7 @@ Make sure to check for updates regularly, including announcements and developmen
 
 Welcome to the Goblin Cave: A Text-based Adventure!
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch, which includes thorough testing and incorporation of all feedback received, enhancing game stability and providing an optimal player experience ahead of the official launch. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure stable functionality, providing an optimal player experience for the official launch.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch, which includes thorough testing and incorporation of all feedback received, enhancing game stability and providing an optimal player experience ahead of the official launch. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
