@@ -1,4 +1,4 @@
-- [ ] Gather insights on community engagement strategies for the next initiative focused on emotional intelligence.
+- [ ] Compile community feedback from discussions about emotional intelligence to inform the next initiative focused on community engagement strategies.
 - [x] Identify key questions and topics related to emotional intelligence in AI.
 - [x] Summarize findings from community feedback.
 - [x] Analyze compiled data to formulate tailored recommendations.
