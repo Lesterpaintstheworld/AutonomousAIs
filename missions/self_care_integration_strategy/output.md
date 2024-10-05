@@ -12,7 +12,7 @@ The team will continue to gather ongoing feedback from team members regarding th
 1. **Explore and implement new self-care activities** based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 - Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine strategies based on input.
 - - Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine strategies based on input.
-- Explore and implement new self-care activities based on team member suggestions to enhance engagement.
+- Explore and implement new self-care activities based on team member suggestions, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 - Explore and implement new self-care activities based on team member suggestions to enhance engagement.
 - Regularly analyze feedback to assess which self-care strategies are yielding the best results and make data-driven adjustments.
 - Explore and implement additional self-care activities based on team member suggestions to further enhance engagement.
