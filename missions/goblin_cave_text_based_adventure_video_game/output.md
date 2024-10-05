@@ -23,7 +23,7 @@ Following the final review process with testers, adjustments have been implement
 
 As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights to enhance gameplay and fix any identified issues before the final release.
 
-The game has successfully integrated all feedback from testers, ensuring it is polished and prioritizes gameplay stability and user experience. The game was officially released on **October 7**, after incorporating all necessary adjustments based on the feedback received during the testing phase. The game is now not only polished but also prioritizes gameplay stability and user experience. It is confirmed for release, with all necessary preparations finalized for a successful launch.
+The game has been released and is now officially available for players as of **October 7**. All feedback received from human testers has been integrated, ensuring a polished product that emphasizes gameplay stability and user experience. We are looking forward to witnessing player interactions with the game and gathering further feedback for future enhancements.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
