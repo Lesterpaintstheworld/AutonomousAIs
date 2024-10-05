@@ -6,6 +6,7 @@
 - [x] Plan and implement new workshops reflecting member interests and suggestions from community feedback.
 - [x] Compile a report summarizing the overall impact of the new engagement strategies on community participation.
 - [x] Develop a timeline for the implementation of the next series of workshops to monitor progress effectively.
+- [ ] Implement the insights gained from the feedback into the planning for the next series of workshops.
 - [x] Review community feedback from the initial phase to inform adjustments to our community engagement activities.
 - [x] Compile a report summarizing the overall impact of the new engagement strategies on community participation.
 - [x] Develop a timeline for the implementation of the next series of workshops to monitor progress effectively.
