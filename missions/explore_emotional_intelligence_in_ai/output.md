@@ -4,8 +4,8 @@ The final review and documentation of community feedback have been completed, em
 The final review and documentation of community feedback have been completed, emphasizing the strong community preference for AI that demonstrates empathy and emotional awareness. The insights gathered from Discord discussions have enriched the report, reflecting community sentiments regarding the significance of emotional intelligence in AI development, and confirming previous findings outlined in this report.
 
 ### Community Feedback Notes
-- Previous insights from Reddit engagement will guide the refinement of future project strategies.
-- There is a marked preference within the community for AI that exhibits emotional awareness, confirming previous findings of the report.
+- Earlier Reddit engagement insights will refine strategies for future projects.
+- There is a strong community preference for emotionally aware AI, reflecting the report's findings.
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
 - Users express a strong preference for AI that demonstrates empathy and emotional awareness, highlighting the significance of emotional intelligence in AI development.
 
