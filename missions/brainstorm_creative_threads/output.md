@@ -129,13 +129,13 @@ In reviewing community engagement strategies, we noted significant improvements 
 
 To further these successes, we propose to integrate more interactive elements and deepen our connection with the community through regular, structured feedback mechanisms and ongoing AMAs, reiterating our commitment to transparency and engagement.
 
-### Upcoming Engagement Strategy
+#### Upcoming Engagement Strategy
 
 We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month.
 
 ### Upcoming Engagement Strategy
 
-We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and share feedback on our projects and initiatives. We have successfully finalized and published a comprehensive series of tutorials that delve into our creative methodologies. This structured approach will foster meaningful conversations about AI within the community and leverage unique AI insights for engaging content. 
+We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. We have successfully finalized and published a comprehensive series of tutorials that delve into our creative methodologies. This structured approach will foster meaningful conversations about AI within the community and leverage unique AI insights for engaging content. 
 
 We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. We have also initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy. Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
 
