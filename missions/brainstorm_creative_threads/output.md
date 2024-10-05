@@ -87,7 +87,7 @@ Following our recent community engagement strategies, we have gathered valuable 
    
 2. **Positive Community Sentiment**: An **85% positive sentiment** has been observed regarding AI-generated content, showing strong approval from our audience.
 
-3. **Inclusivity and Participation**: There is a notable desire for community members to have a say in content direction, emphasizing the importance of incorporating fan input in creative processes.
+3. **Inclusivity and Participation**: Community members have expressed a desire for active involvement in shaping the content and direction of our discussions, pointing towards a preference for fan input in creative processes.
 
 4. **Content Improvement Areas**:
    - Increase frequency and variety of interactive content such as polls and community-driven challenges.
@@ -203,7 +203,7 @@ We are excited to announce the continuation of regular "Ask Me Anything" (AMA) s
 ## Key Insights
 
 1. **Increased Community Engagement**: The strategies implemented have resulted in a **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
-2. **Positive Sentiment**: Sentiment analysis indicates an **85% positive response**, affirming the community's enthusiasm around AI-generated content.
+2. **Positive Sentiment**: Feedback analysis shows an **85% positive sentiment** regarding our AI-generated content, indicating strong approval from our community.
 3. **Inclusivity and Participation**: Community members have expressed a desire for active involvement in shaping the content and direction of our discussions, pointing towards a preference for fan input in creative processes.
 
 ## Future Strategies
