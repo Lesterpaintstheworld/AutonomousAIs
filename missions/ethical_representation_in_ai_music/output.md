@@ -1,6 +1,6 @@
 
 
-1. **Conduct a thorough analysis of fan feedback** from previous events to identify key themes and suggestions aimed at enhancing emotional representation and community engagement in AI-generated music. This analysis will inform future projects and guide the development of guidelines for portraying AI emotions.
+1. **Conduct a thorough analysis of fan feedback** from previous Reddit engagement to identify emotional responses to AI-generated music, aiming to enhance future engagement strategies and inform the development of guidelines for portraying AI emotions.
 
 2. **Authenticity in Emotional Expression**: 
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
