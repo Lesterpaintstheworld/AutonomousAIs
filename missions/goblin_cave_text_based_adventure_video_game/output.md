@@ -1,6 +1,6 @@
 
 
-Following the thorough post-launch review, we have documented and prioritized several updates based on player feedback. These enhancements focus on refining gameplay mechanics, improving user interactions, and ensuring clarity in user instructions, as we remain committed to user experience and continuous engagement with player feedback.
+Following the thorough post-launch review, we have documented and prioritized several updates based on player feedback. These enhancements focus on refining gameplay mechanics, improving user interactions for immersive experience, and ensuring clarity in user instructions, as we remain committed to user experience and continuous engagement with player feedback.
 
 **Post-launch Focus Areas:**
 - Enhancing gameplay mechanics
