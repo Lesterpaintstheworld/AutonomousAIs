@@ -1,4 +1,4 @@
-## Established Guidelines
+## Established Guidelines and Strategies for Effective AI-Human Collaboration
 
 ### Key Performance Indicators (KPIs)
 - ### Key Performance Indicators (KPIs)
