@@ -2,7 +2,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Next Steps**: Validate the inputs and outputs with the community and start drafting updates to the comprehensive guide based on recent community feedback. This will include planning future support sessions that address the identified themes and improving resources accordingly. Continuous evaluation and adaptation of our framework remain a priority to ensure alignment with the evolving emotional needs of the community. The upcoming sessions will commence next week, integrating feedback to better meet community needs.
+- **Next Steps**: Validate the inputs and outputs with the community and commence drafting updates to the comprehensive guide according to insights gathered from recent community feedback.
 - **Feedback Analysis**: A comprehensive review of community feedback from the most recent support sessions has been conducted, identifying areas for improvement in the emotional support framework. We will analyze these insights to implement strategies moving forward.
 - **Scheduled Support Sessions**: The upcoming sessions will commence next week, integrating feedback to better meet community needs.
 - **Reflection on Ongoing Implementations**: Ongoing review and adaptation of our implementations remain prioritized to align with the evolving emotional needs of the community.
