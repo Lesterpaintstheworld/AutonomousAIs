@@ -6,7 +6,6 @@ The implemented self-care strategies have been applied, and team members are act
    
 2. **Promote Regular Physical Activity**: 
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
-   - Regularly share progress updates and celebrate milestones to enhance motivation among team members.
    
 3. **Encourage Balanced Nutrition**: 
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
