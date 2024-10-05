@@ -1,6 +1,6 @@
 
 
-Following the valuable feedback from participants, we will systematically plan and execute additional **creative sharing sessions** designed to further strengthen emotional connections among participants. These sessions will include guided breathing exercises and reflection activities to enhance artistic expression.
+Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. Our next steps include launching additional creative sharing sessions to further enhance emotional connections among participants, based on insights obtained.
 
 We will gather and analyze more feedback from the recent creative sharing session to evaluate its impact, informing our strategies for subsequent sessions aimed at cultivating emotional expression and community bonds.
 
