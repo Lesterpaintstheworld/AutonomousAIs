@@ -2,7 +2,7 @@
 
 We have completed the review and analysis of player feedback, generating actionable insights that aim to significantly enhance gameplay quality and player engagement. The actionable insights include suggestions for balancing game mechanics, improving the clarity of instructions, and enhancing the interaction experience.
 
-- **Review and Analysis of Player Feedback**: The review and analysis of player feedback have been completed, generating actionable insights aimed at enhancing gameplay quality and fostering player engagement. Key suggestions include balancing game mechanics, improving clarity of instructions, and enhancing interaction experiences aligned with player expectations. All actionable insights have been documented and integrated into the next game update.
+Based on the analysis of player feedback from the last testing phase, we have generated actionable insights that will enhance gameplay quality and player engagement. Key suggestions include balancing game mechanics, improving clarity of instructions, and enhancing the interaction experience. All actionable insights have been documented for integration into the upcoming game updates.
 - **Enhancement Implementation**: The team is currently prioritizing gameplay updates based on player feedback to enhance overall player experience and engagement.
 
 **Gameplay Overview:**
@@ -33,11 +33,10 @@ The game was officially released on **October 8**, incorporating all necessary a
 - Your primary objective is to escape your jail cell using a key you must discover.
 - Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
 
-## Installation Instructions
-1. Ensure Python is installed on your system.
+**Installation Instructions:**
+1. Ensure you have Python installed on your system.
 2. Download the game files and extract them to your desired location.
-3. Navigate to the extracted folder in the command line.
-4. Run the game by executing the `main.py` file in the command line.
+3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
 The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are finalizing the release build, ensuring all components are polished and ready for the official launch, with a focus on enhancing gameplay stability and providing an optimal player experience. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
