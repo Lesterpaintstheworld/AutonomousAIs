@@ -1,6 +1,6 @@
 
 
-The game has been officially launched as of Oct 7, incorporating all feedback from testers to improve gameplay and ensure a stable experience for players. We are now preparing for ongoing maintenance and future updates based on user engagement and further feedback.
+The game has been officially launched as of **the latest date**, incorporating all feedback from testers to improve gameplay and ensure a stable experience for players. We are now preparing for ongoing maintenance and future updates based on user engagement and further feedback.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
@@ -20,7 +20,6 @@ The game has been officially launched as of Oct 7, incorporating all feedback fr
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
-- Status: Awaiting release confirmation and any final feedback after current testing phase.
 
 The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience.
 
