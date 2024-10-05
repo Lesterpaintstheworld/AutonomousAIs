@@ -1,6 +1,6 @@
 
 
-### Mission Update - Summary of Engagement Metrics and Future Actions
+### Mission Update - Comprehensive Review and Future Strategies
 
 As part of our dedication to continuous improvement, we have synthesized community feedback from the initial phase to inform adjustments to our community engagement activities. This will involve the following key actions:
 
