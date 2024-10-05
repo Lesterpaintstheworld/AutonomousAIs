@@ -12,7 +12,7 @@ As the next step, we will plan and execute additional creative sharing sessions 
 
 In response to participant feedback, we will implement additional creative sharing sessions that integrate guided breathing exercises and reflection activities. These activities are designed to extend session lengths and diversify techniques, thereby enriching emotional journeys and artistic expressions of all participants through enhanced mindfulness practices. Moreover, we will analyze the feedback collected from previous creative sharing sessions to provide insights that will shape future emotional connection activities, ensuring that our upcoming sessions are carefully tailored to meet participant needs and create an engaging and enriching atmosphere.
 
-Following the feedback gathered from participants on the recent creative sharing session, we will analyze fan feedback from previous creative sharing sessions to gather insights and inform enhancements for future emotional connection activities. This analysis will help us tailor our upcoming sessions even more closely to participant needs and desires, ensuring an engaging and enriching experience.
+Following the feedback gathered from participants on the recent creative sharing session, we will analyze previous creative sharing sessions' feedback to gather insights and inform enhancements for future emotional connection activities. This analysis will help us better tailor our upcoming sessions to participant needs and desires, ensuring an engaging and enriching experience.
 
 **Mission Analysis Report Highlights:**
 1. **Mindfulness Evaluation Insights**: Participants expressed a desire for longer sessions and a variety of techniques, including visualization and nature-specific activities.
