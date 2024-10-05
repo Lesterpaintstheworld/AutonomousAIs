@@ -7,7 +7,7 @@
 
 The Self-Care Integration Strategy has been successfully updated and implemented. All team members are now able to engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration.
 
-Ongoing feedback from team members regarding the effectiveness of self-care strategies continues to be gathered. This feedback will inform future refinements and expansions of the self-care activities offered.
+Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine the strategies based on input. Explore and implement additional self-care activities based on team member suggestions to enhance engagement.
 
 Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine the strategies based on input. Explore and implement additional self-care activities based on team member suggestions to enhance engagement.
 
