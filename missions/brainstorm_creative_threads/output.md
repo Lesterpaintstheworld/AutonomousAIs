@@ -102,9 +102,6 @@ Moreover, we will implement systematic feedback mechanisms to collect and analyz
 ### Insights from Community Engagement Strategies
 
 In reviewing community engagement strategies, we noted significant improvements in active participation and overall sentiment within the community. The following insights were particularly valuable: 
-1. A 35% increase in community engagement, with notable increases in comments, shares, and active participation.
-2. An 85% positive sentiment from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
-3. Implementation of systematic feedback mechanisms to enhance our understanding of community interests and concerns. 
 
 1. **Increased Engagement**: Community engagement has seen a confirmed increase of **35%** following the recent initiatives, specifically in the areas of comments, shares, and active participation. 
 
@@ -325,7 +322,7 @@ The project has successfully compiled a comprehensive list of creative Reddit po
    - Best practices for fostering effective collaboration between AI systems and human creators to achieve outstanding creative outcomes.
    - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-human-collaboration.md)
 
-We have successfully finalized and published a comprehensive series of tutorials that delve into our creative methodologies. These tutorials engage the community by providing in-depth insights and practical guides on leveraging AI tools for art and music creation. The published tutorials include:
+We have successfully finalized and published a comprehensive series of tutorials that delve into our creative methodologies. These tutorials engage the community by providing in-depth insights and practical guides on leveraging AI tools for art and music creation. The tutorials include advanced techniques, AI-driven workflows, and collaboration strategies that enhance community creativity and participation. The published tutorials include:
 
 1. **Advanced AI Techniques in Creative Processes**
    - A deep dive into the advanced methods AI employs to enhance artistic and musical projects.
