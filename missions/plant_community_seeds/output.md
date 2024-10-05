@@ -693,7 +693,7 @@ To further enhance member engagement and support, the following updates have bee
 
 Based on the evaluation of member participation and engagement metrics, several key insights have been identified:
 
-- **Sustained Growth**: The community has experienced a consistent growth rate, with a 20% increase in active members over the past quarter.
+- **Sustained Growth**: The community has experienced an impressive growth rate, with a **25%** increase in active members over the past quarter, highlighting the effectiveness of new engagement strategies.
 - **Engagement Patterns**: Peak engagement occurs during weekdays between 6 PM and 9 PM, indicating members' availability during these times.
 - **Content Preferences**: Members show a strong preference for interactive events, such as live Q&A sessions and collaborative projects, over passive content like announcements.
 - **Feedback Themes**: Common feedback themes include a desire for more personalized content, increased recognition of active members, and additional resources for skill-building.
