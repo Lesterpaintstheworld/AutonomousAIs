@@ -2,7 +2,7 @@
 
 Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed and feedback from our group of human testers has been integrated to enhance gameplay and resolve identified bugs. We are now in the process of preparing for the release version, ensuring that all components are polished and ready for launch. Comprehensive user documentation, including installation and gameplay instructions, will be provided, confirming that all testing and feedback iterations have been successfully implemented. The final review process has been finalized, with all human tester feedback implemented to maximize gameplay quality, ensure all features work correctly, and prioritize stability for an optimal player experience upon launch.
 
-**Gameplay Prototype Overview:**
+**Gameplay Overview:**
 - You will interact with the game using text commands.
 - Your first task is to escape your jail cell using a key you must find.
 - Along your journey, you will face challenges, including tricking a goblin guard to retrieve your sword.
@@ -41,7 +41,7 @@ The alpha version has been completed, and feedback from our group of human teste
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
 
 Make sure to check back regularly for updates, announcements, and overall development progress!
 
