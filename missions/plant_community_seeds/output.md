@@ -1,6 +1,6 @@
 
 
-### Mission Update - Summary of Member Participation and Engagement Metrics (Updated)
+### Mission Update - Summary of Member Participation and Engagement Metrics
 
 #### Key Insights from Feedback Analysis
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
