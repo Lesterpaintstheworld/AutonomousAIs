@@ -10,7 +10,7 @@ To ensure ongoing community collaboration, we will implement structured feedback
 - **Transparency** and **Empathy** are key elements in fostering trust and connection among members.
 
 ### Action Plan Forward
-The action plan will be collaboratively reviewed with community stakeholders to ensure alignment with community values and aspirations. We will now gather diverse core value proposals from community members to further enrich our understanding and implementation of these values.
+The action plan will be collaboratively reviewed with community stakeholders to ensure alignment with community values and aspirations. We will now gather diverse core value proposals from community members to further enrich our understanding and implementation of these values. Additionally, we will be implementing structured feedback mechanisms during future initiatives to continually engage community input.
 
 ### Final Report Compilation and Distribution
 A comprehensive report compiling community feedback about the proposed core values has been finalized. This document details key insights and recommendations for future initiatives, ensuring the successful application of core values across community projects. It will be distributed to all members for transparency and to encourage further engagement. Our commitment includes ongoing collection of additional insights through surveys and feedback forms to adapt and refine core values based on community input continually.
