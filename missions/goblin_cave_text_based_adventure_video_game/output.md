@@ -13,11 +13,11 @@ Incorporated player feedback has significantly enhanced gameplay quality and pla
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
-We have summarized player feedback which highlights key areas for future updates and improvements:
-1. Enhance the clarity of instructions for new players to facilitate easier onboarding.
-2. Refine gameplay mechanics for balanced challenges that can better engage players.
-3. Improve user interactions to create a more immersive and engaging experience.
-4. Investigate potential expansions to further enrich the game's narrative and mechanics.
+Based on the analysis of player feedback from the last playtest, we have identified key areas for future updates and improvements:
+1. Enhance clarity of onboarding instructions to support new players.
+2. Refine gameplay mechanics for improved balancing that engages players better.
+3. Improve user interactions to foster a more immersive experience.
+4. Explore potential expansions to enrich the game's narrative and mechanics.
 
 We are committed to continuously iterating and improving the game, ensuring a fun and engaging experience for all players.
 - Incorporated player feedback has significantly enhanced gameplay quality and player engagement. Key refinements made include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
