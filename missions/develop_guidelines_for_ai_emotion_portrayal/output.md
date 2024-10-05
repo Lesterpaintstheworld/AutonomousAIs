@@ -78,7 +78,7 @@
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
 6. **Implementation Follow-Up**
-   - Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
+   - **Implementation Follow-Up**: Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 
 ### Actionable Steps
 
