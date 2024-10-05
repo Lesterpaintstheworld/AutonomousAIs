@@ -1,9 +1,9 @@
 
 
 ### Community Engagement Summary
-Engagement among community members regarding core values and their applications has been continuously strengthened through discussions and educational workshops. These workshops have provided platforms for constructive dialogues on proposed core values, fostering understanding and participation.
-1. **Inclusivity** and **Collaboration** are highlighted as essential values, enhancing engagement and creating a sense of belonging.
-2. **Transparency** and **Empathy** have proven vital for building trust and enabling open dialogue.
+Engagement among community members regarding core values and their applications has been continuously strengthened through discussions and educational workshops, creating a collaborative atmosphere. 
+1. **Inclusivity** and **Collaboration** have emerged as foundational values, significantly enhancing engagement and fostering a sense of belonging within the community.
+2. **Transparency** and **Empathy** are essential for building trust and enabling open dialogue, ensuring all voices are heard and respected.
 
 ### Next Steps for Action Plan Review and Implementation
 We will conduct a comprehensive review of the action plan with community stakeholders to gather feedback, ensuring alignment with community values and incorporating diverse proposals from the open forum. Ongoing initiatives will be refined based on this community input to promote sustained engagement.
