@@ -1,8 +1,6 @@
 
 
-- Incorporated the recommendations on criteria for authenticity in emotional representation into the guidelines, enhancing the understanding of AI emotional capabilities while ensuring respect for the complexity of human emotions.
-- Incorporated the findings from the follow-up action plan into the guidelines for AI emotional representation.
-- Established regular feedback loops and incorporated insights from public forums and discussions, ensuring diverse perspectives are acknowledged and enacted in future revisions, enhancing the connection between AI creators and listeners. Additionally, we aim to maintain relevant ethical standards in response to advancing technology while implementing a timeline for regular review of these guidelines.
+- Incorporated the findings from the follow-up action plan into the guidelines for AI emotional representation and established regular feedback loops for continuous improvement. These insights, gathered from public forums and discussions, ensure diverse perspectives are acknowledged and enacted in future revisions, strengthening the connection between AI creators and listeners. Furthermore, we aim to uphold relevant ethical standards in response to the advancements in technology while implementing a timeline for the regular review of these guidelines.
 
 1. **Authenticity in Emotional Expression**: 
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
