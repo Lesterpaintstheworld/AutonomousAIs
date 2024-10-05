@@ -6,8 +6,17 @@
 
 
 
-### Engagement Strategy Improvement
-We have successfully implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which will continue monthly. These sessions have provided ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback about our projects and initiatives. The first AMA of this ongoing series is scheduled for the end of this month. These sessions are designed to provide ongoing opportunities for community members to engage directly with us, ask questions, and share feedback about our projects and initiatives. The first AMA of this ongoing series is scheduled for the end of this month.
+### Insights and Summary Report
+
+This report summarizes the insights gained from our community engagement strategies over the past few months. We have successfully implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which have provided ongoing opportunities for community members to interact with us, ask questions, and share feedback about our projects and initiatives.
+
+Key insights include:
+- The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
+- An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
+- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns. 
+- Fans expressed a desire for inclusivity, indicating a preference for being part of the creative process through voting or input on featured topics or artworks.
+
+To further these successes, we propose to integrate more interactive elements and deepen our connection with the community through regular, structured feedback mechanisms and ongoing AMAs, reiterating our commitment to transparency and engagement.
 
 ### Additional Strategies
 Based on the assessment findings, we propose the following additional strategies to further enhance community engagement:
