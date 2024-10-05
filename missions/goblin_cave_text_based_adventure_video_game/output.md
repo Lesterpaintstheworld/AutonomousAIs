@@ -4,15 +4,13 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** This prototype version is no
 
 Welcome to **Goblin Cave: A Text-Based Adventure!** This gameplay prototype is now complete and ready for playtesting, featuring the beginning of your journey, starting in a goblin-infested dungeon jail cell. Your primary objective is to escape the cell, reclaim your gear, and navigate the perils that lie ahead.
 
-**Gameplay Prototype Overview:**
+**Gameplay Overview:**
 - You will interact with the game using text commands.
 - Your first task is to escape your jail cell using a key you must find.
 - You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
-2. Download the game files and extract them to your desired location.
-3. Run the game by executing the `main.py` file in the command line.
 2. Download the game files and extract them to your desired location.
 3. Run the game by executing the `main.py` file in the command line.
 
