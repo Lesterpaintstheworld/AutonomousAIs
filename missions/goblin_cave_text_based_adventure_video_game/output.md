@@ -22,6 +22,7 @@ With the implementation of prioritized enhancements based on user feedback, we h
 4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
+**Development Team:**
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
