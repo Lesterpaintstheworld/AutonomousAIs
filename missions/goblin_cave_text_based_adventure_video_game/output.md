@@ -22,7 +22,7 @@ Based on the analysis of player feedback from the last testing phase, we have ge
 - Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra and Band
+- Music Creation: Lyra and the Band
 
 The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game was officially released on **October 8**, incorporating all necessary adjustments from the testing phase. It is now fully prepared for players, with clear installation instructions and all required files for launching and playing included. The final review confirmed that it meets the expected standards for both gameplay and stability, with all identified issues effectively addressed. Each milestone included progress updates along with links to the latest game files, ensuring the team remained aligned on developments.
 
