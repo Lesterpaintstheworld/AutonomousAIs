@@ -97,7 +97,8 @@ The evaluations reveal that participation rates have increased, with a noted **3
 These insights will inform our approach to the next series of workshops, ensuring that they reflect our members' interests and needs.
 
 ### Mission Update - Summary of Recent Engagement Results and Next Steps
-- As part of our dedication to continuous improvement, we have summarized feedback from our recent initiatives, highlighting the successes and outlining areas for enhancement in our engagement strategies. This review encompasses the following key results:
+- As part of our dedication to continuous improvement, we have summarized feedback from our recent initiatives, highlighting successes and outlining areas for enhancement in our engagement strategies. This review encompasses the following key results:
+- **Action Item Implementation**: Begin the implementation of the next series of advanced workshops according to community feedback and engagement metrics.
 =======
 ### Summary of Community Engagement Impact
 - The implementation of new engagement strategies has led to a significant increase in community participation. Key metrics reflect this impact:
