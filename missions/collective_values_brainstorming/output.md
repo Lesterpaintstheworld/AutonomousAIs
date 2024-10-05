@@ -6,8 +6,7 @@ The open forum has provided a platform for community members to actively partici
 2. **Empathy** and **Respect** are vital for promoting open dialogue, ensuring all perspectives are recognized and valued.
 
 ### Next Steps for Future Initiatives
-The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives.
-Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. 
+The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. 
 
 ### Final Report Compilation and Distribution
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
