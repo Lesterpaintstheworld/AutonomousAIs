@@ -3,7 +3,7 @@
 ### Collective Values Brainstorming: Community Engagement Summary
 The open forum has successfully enriched community participation in formulating core values, fostering an environment of collaboration and inclusivity. As we advance, we will focus on establishing structured feedback collection methods and facilitating continuous discussions around the proposed values.
 
-### Gather Feedback from Community Members (Completed)
+### Gather Feedback from Community Members (In Progress)
 The process for collecting feedback from community members on the proposed core values has been successfully completed through structured surveys and discussions. We engaged deeply with community members and explored these values further, reinforcing a collaborative environment for qualitative feedback.
 1. **Survey Implementation**: Structured surveys are being disseminated to gauge community perceptions of the proposed core values accurately.
 2. **Discussion Sessions**: Open discussions are ongoing to facilitate deeper engagement with the proposed values and gather qualitative feedback.
