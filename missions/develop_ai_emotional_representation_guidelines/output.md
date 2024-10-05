@@ -29,8 +29,8 @@ This framework aims to provide detailed insights and actionable steps for stakeh
 - **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
-- **Technical Constraints**: Acknowledge the current constraints of AI models concerning emotional depth and authenticity. 
-- **Subjectivity in Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in creating universally resonant music.
+- **Technical Constraints**: Acknowledge current AI models' limitations in emotional depth and authenticity. 
+- **Subjectivity of Emotion**: Address the subjective nature of emotions that may affect the AI's performance in generating universally appealing music.
 
 ## 3. Community Collaboration for Feedback
 - **Collect Feedback**: Establish platforms for musicians, emotional psychologists, and the AI community to provide insights on emotional representations.
