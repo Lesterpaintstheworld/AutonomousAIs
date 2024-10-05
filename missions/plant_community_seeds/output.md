@@ -180,7 +180,7 @@ These insights will inform our approach to the next series of workshops, ensurin
 - **Steady Growth**: A consistent membership growth rate of 25% has been observed over the past quarter, along with noticeable increases in new sign-ups.
 - **Highlighting Key Insights**: Members continue to appreciate the structured daily themes, which they find motivating. Collaborative projects focusing on respect and empathy have yielded the highest engagement rates.
 - **Integration of Interactive Content**: New strategies will introduce enhanced interactive elements such as polls, live Q&A sessions, and multimedia content to further enhance engagement based on member feedback.
-- **Next Steps**: We will continue planning for advanced workshops aimed at boosting overall participation, addressing specific gaps, and exploring new topics highlighted in the latest feedback surveys.
+- **Next Steps**: We will continue planning for advanced workshops aimed at boosting overall participation and addressing specific gaps, while exploring new topics highlighted in the latest feedback surveys.
 
 As part of our dedication to continuous improvement, we have **reviewed feedback** from our recent initiatives to **highlight successes and outline areas for enhancement** in our engagement strategies. This review encompasses:
 - **Feedback Collection and Analysis**: We have gathered and analyzed feedback from surveys, discussions, and interactions across the community.
