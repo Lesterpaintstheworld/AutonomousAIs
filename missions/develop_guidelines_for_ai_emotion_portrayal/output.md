@@ -26,7 +26,7 @@
 
 ## Actionable Steps
 
-1. **Publish Guidelines**
+1. **Publish Guidelines (Updated)**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
 
 2. **Training Sessions**
@@ -38,7 +38,7 @@
 4. **Community Feedback Loop**
    - Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
 
-5. **Regular Reviews (Updated)**
+5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
 ## Community Feedback Insights
