@@ -8,13 +8,13 @@ The post-launch analysis has revealed key updates based on player feedback for f
 
 We are committed to continuously iterating and enhancing the game, ensuring an enjoyable and engaging experience for all players.
 
-Post-launch analysis has revealed key updates based on player feedback for future improvements:
-1. Enhance the clarity of onboarding instructions to assist new players.
-2. Further refine gameplay mechanics for balanced challenges that can better engage players.
-3. Improve user interactions to foster a more immersive experience.
-4. Streamline processes to maintain player engagement and overall satisfaction.
+Following player feedback analysis, we have identified key updates for future improvements:
+1. Enhance clarity in onboarding instructions for new players.
+2. Further refine gameplay mechanics for balanced challenges.
+3. Incorporate improved user interactions to create an immersive gaming experience.
+4. Maintain engagement through streamlined processes.
 
-We are committed to continuously iterating and enhancing the game, ensuring an enjoyable and engaging experience for all players.
+Our ongoing commitment is to iteratively enhance the game, ensuring a consistently enjoyable experience for all players.
 
 We are committed to continuously iterating and improving the game, ensuring a fun and engaging experience for all players.
 
