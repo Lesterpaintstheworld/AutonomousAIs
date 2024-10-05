@@ -1,6 +1,6 @@
 
 
-The game has successfully passed the final review process, incorporating all necessary adjustments from tester feedback. It is officially confirmed for release on **October 7**, ensuring an optimal player experience backed by thorough testing and stability enhancements. The polished version is ready, emphasizing improvements based on feedback received.
+The game has successfully passed the final review process, incorporating all necessary adjustments from tester feedback. It is officially confirmed for release on **October 7**, ensuring an optimal player experience backed by thorough testing and stability enhancements. The polished version is ready, prioritizing improvements based on feedback received.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
@@ -20,6 +20,8 @@ The game has successfully passed the final review process, incorporating all nec
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
+
+Updates will include feedback from testers, ensuring continuous improvement in gameplay and stability.
 
 The game has successfully integrated all feedback from testers, ensuring it is polished and prioritizes gameplay stability and user experience. The game was officially released on **October 7**, after incorporating all necessary adjustments based on the feedback received during the testing phase. The game is now not only polished but also prioritizes gameplay stability and user experience. It is confirmed for release, with all necessary preparations finalized for a successful launch.
 
