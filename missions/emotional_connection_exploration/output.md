@@ -43,7 +43,7 @@ Based on participant feedback from the recent creative sharing session, we will 
 
 6. **Ongoing Community Engagement**: We will identify new creative workshops and collaborative engagements to improve emotional experiences for all participants.
 
-To ensure continuous improvement, we will gather feedback from participants regarding the recent creative sharing session to evaluate its impact and inform future workshops aimed at effectively fostering emotional expression and connections. We look forward to launching additional creative sharing sessions for consistent artistic expression and discussions about emotional insights, incorporating feedback mechanisms to enhance future workshops. 
+Following the feedback gathered from participants on the recent creative sharing session, we look forward to evaluating its impact and documenting suggestions for improvement. Our next steps include launching additional creative sharing sessions to further enhance emotional connections among participants, based on insights obtained. 
 
 We are excited to introduce guided breathing exercises and reflection activities in our upcoming sessions. This initiative stems from feedback collected during the recent creative sharing session, highlighting the desire for extended session lengths and a diverse range of techniques. Our aim is to enrich emotional journeys and artistic expressions of all participants through the incorporation of new mindfulness activities.
 
