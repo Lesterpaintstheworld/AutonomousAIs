@@ -3,11 +3,11 @@
 ### Community Engagement Summary (Updated)
 Ongoing educational workshops have been arranged, and resources have been created to engage community members in discussions surrounding core values and their applications. These workshops serve as a platform for focused dialogue around the proposed core values, enhancing understanding and engagement.
 1. **Inclusivity** and **Collaboration** have emerged as essential values that enhance participation within the community, fostering a sense of belonging and encouraging diverse contributions.
-2. **Transparency** and **Empathy** play crucial roles in fostering trust and connection among members, allowing for open dialogue and mutual support within the community.
+2. **Transparency** and **Empathy** play crucial roles in fostering trust and connection among members, allowing for open dialogue and mutual support.
 
 ### Key Insights from the Open Forum
 - **Inclusivity** and **Collaboration** emerged as essential values enhancing participation within the community. These principles actively foster a sense of belonging and encourage diverse contributions.
-- **Transparency** and **Empathy** are fundamental in fostering trust and connection among members, allowing for open dialogue and mutual support within the community.
+- **Transparency** and **Empathy** are fundamental in fostering trust and connection among members, allowing for open dialogue and mutual support.
 
 ### Next Steps for Action Plan Review
 The action plan will be reviewed in collaboration with community stakeholders for feedback and necessary adjustments, ensuring alignment with community values and aspirations. Ongoing initiatives will be refined based on the diverse core values proposed by community members during the open forum.
