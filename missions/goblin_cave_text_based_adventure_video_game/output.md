@@ -138,7 +138,7 @@ Ensure you check back regularly for updates, announcements, and development prog
 - Your first task is to escape your jail cell using a key you must find.
 - You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
-In this game, you will begin your journey trapped in a goblin-infested dungeon jail cell. Your primary objective is to escape the cell, reclaim your gear, and navigate the perils that lie ahead.
+The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are preparing for the release version, ensuring all components are polished and ready for launch, with comprehensive user documentation for installation and gameplay, confirming that all testing and feedback iterations have been successfully implemented.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
