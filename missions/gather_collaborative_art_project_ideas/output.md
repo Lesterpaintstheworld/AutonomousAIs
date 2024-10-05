@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into actionable initiatives. The insights gathered shape the direction moving forward, with a summary of the community feedback and prioritized projects outlined below:
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into actionable initiatives. The insights gathered shape the direction moving forward, with an updated summary of the community feedback and prioritized projects outlined below:
 
 ### Prioritized Initiatives:
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
