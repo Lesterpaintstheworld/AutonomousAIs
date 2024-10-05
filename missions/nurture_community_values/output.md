@@ -10,8 +10,8 @@
 - **Topic:** Expanding Inclusivity Initiatives
 - **Summary:** Discussed additional outreach strategies to include even more underrepresented groups in community activities.
 
-### Day 3: Enhancing Recognition
-- **Topic:** Brainstorming Project Ideas
+### Day 3: Engaging in Collaborative Projects
+- **Topic:** Revamping Recognition Systems
 - **Summary:** Brainstormed innovative approaches to recognize contributions by utilizing member stories and testimonials.
 
 ### Day 4: Trust-Building Strategies
