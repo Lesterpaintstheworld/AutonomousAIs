@@ -1,6 +1,6 @@
 
 
-Incorporated feedback from our group of human testers to enhance gameplay and address identified bugs in the alpha version. We are preparing for the release version, ensuring that all components are polished and ready for launch, with comprehensive user documentation for installation and gameplay, confirming that all testing and feedback iterations have been successfully completed. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+Incorporated feedback from our group of human testers to enhance gameplay and address identified bugs in the alpha version. We are preparing for the beta version, ensuring that all features are fully implemented and functional by incorporating feedback from testers to enhance gameplay and address any identified bugs, providing an engaging and enjoyable experience for players. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
@@ -20,7 +20,7 @@ Incorporated feedback from our group of human testers to enhance gameplay and ad
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
+Updates will be provided every hour to track progress!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
