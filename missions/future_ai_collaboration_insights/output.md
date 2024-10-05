@@ -49,12 +49,12 @@ The compiled insights in this document are designed to facilitate effective pres
 - **Case Study B: Explainable AI in Healthcare** 
   - *Outcome*: Patient engagement improved, resulting in higher satisfaction scores and better health outcomes.
 
-- **Case Study C: Building Confidence in Financial AI Systems** 
+- **Case Study C: Building Confidence in Financial AI Systems**
+  - *Context*: A bank utilized transparent AI models to clarify investment recommendations given to customers.
+  - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake. 
   - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake.
 
-- **Case Study D: Transparent AI in Education**
-  - *Context*: An educational platform employed explainable AI to tailor learning pathways based on student performance data.
-  - *Outcome*: Improved learning outcomes driven by tailored feedback led to a 25% increase in overall course completion rates. 
+- **Case Study D: Transparent AI in Education** 
   - *Outcome*: Improved learning outcomes drove by tailored feedback led to a 25% increase in overall course completion rates.
 
 - **Case Study E: Trustworthy AI in Public Services** 
