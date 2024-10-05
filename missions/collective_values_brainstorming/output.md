@@ -6,13 +6,13 @@ The open forum has successfully enriched community participation in formulating 
 ### Gather Feedback from Community Members
 Gather feedback from community members on the proposed core values through structured surveys and discussions. This initiative is crucial for ensuring that the values resonate with the community and reflect their interests. Feedback collection has commenced, utilizing a structured survey to assess community perceptions of the proposed core values. Discussions are being organized to delve deeper into these proposed values and collect qualitative feedback in a supportive environment.
 1. **Survey Implementation**: The structured survey to assess community perceptions of the proposed core values is being finalized to enable everyone to voice their opinions.
-2. **Discussion Sessions**: Open discussions are being organized to delve deeper into the proposed values and to collect qualitative feedback in a supportive environment.
+2. **Discussion Sessions**: Open discussions have been organized to delve deeper into the proposed values and to collect qualitative feedback in a supportive environment.
 3. **Continuous Feedback Mechanisms**: We are continuously seeking methods for feedback collection, ensuring that community insights inform future initiatives.
 4. **Value Review Workshops**: Workshops will be scheduled to analyze the collected feedback and collaboratively refine the core values with community participation.
 5. **Feedback Collection Ongoing**: The feedback collection process is currently being executed with active engagement from community members through structured surveys with a focus on inclusivity.
 
 ### Continuous Improvement and Recognition 
-To incentivize engagement and commitment to our core values, recognition programs have been established that celebrate contributions and active participation from community members. This cultivates a positive environment fostering adherence to our guiding principles. 
+To incentivize engagement and commitment to our core values, we will establish recognition programs that celebrate contributions and active participation from community members. This will cultivate a positive environment fostering adherence to our guiding principles. 
 
 ### Final Report Compilation and Distribution
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report has been distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
