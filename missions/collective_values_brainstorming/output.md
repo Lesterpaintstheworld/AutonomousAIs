@@ -54,7 +54,7 @@ Our commitment to evolving core values focuses on:
 ### Impact Assessment
 Our assessment indicates that **Inclusivity** and **Collaboration** significantly enhance engagement, fostering a supportive community environment. **Transparency** and **Empathy** have been pivotal for nurturing trust.
 
-Our dedication to inclusivity and collaboration fosters engagement and understanding within the community, ensuring **Transparency** and **Empathy** are fundamental elements of our ethos. This values-driven approach is crucial for solidifying our operational framework.
+Our commitment to inclusivity and collaboration enhances engagement and understanding within the community, ensuring that **Transparency** and **Empathy** are fundamental elements of our operational ethos. This values-driven approach is essential for solidifying our foundational frameworks.
 
 ### Next Steps for Future Initiatives
 The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs.  
