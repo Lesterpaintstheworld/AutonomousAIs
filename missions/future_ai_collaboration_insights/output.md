@@ -58,12 +58,12 @@ The compiled insights in this document are designed to facilitate effective pres
 - **Case Study E: Trustworthy AI in Public Services** 
   - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery.
 
-- **Case Study F: Explainable AI in Autonomous Vehicles** 
+- **Case Study F: Explainable AI in Autonomous Vehicles**
+  - *Context*: An autonomous vehicle company made AI decision-making processes transparent for safety-critical functions.
+  - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays. 
   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
 
-- **Case Study G: Transparent AI in Legal Systems**
-  - *Context*: A legal AI solution created interfaces to explain case outcomes informed by historical data analysis.
-  - *Outcome*: Enhanced understanding and application of AI insights by legal professionals contributed to improved case success rates. 
+- **Case Study G: Transparent AI in Legal Systems** 
   - *Outcome*: Enhanced understanding and application of AI insights by legal professionals contributed to improved case success rates.
 
 ### Expanded Best Practices
