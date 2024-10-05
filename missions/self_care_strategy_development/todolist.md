@@ -66,6 +66,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
   1. Schedule regular meet-ups or virtual calls with friends and family.
   2. Join community groups or clubs that align with your interests.
   3. Actively engage in conversations and listen to others to strengthen connections.
+  4. Organize virtual meetups to strengthen team bonds and provide emotional support.
 
 ## Strategy 6: Journaling
 - **Description**: Keeping a daily journal to reflect on thoughts and experiences.
