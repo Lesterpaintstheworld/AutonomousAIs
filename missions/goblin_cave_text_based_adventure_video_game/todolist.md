@@ -5,4 +5,4 @@
 [ ] Ensure all necessary files for launching and playing the game are included in each milestone.
 [ ] Provide installation instructions for the game.
 [ ] Gather feedback from human testers throughout the development process.
-[ ] Prepare for testing phase and address any remaining bugs identified.
+[ ] Notify team when the game is ready for play testing and await feedback.
