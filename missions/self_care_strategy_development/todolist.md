@@ -30,6 +30,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
   2. Find a quiet space and sit comfortably.
   3. Focus on your breath and gently bring your attention back when it wanders.
   4. Encourage team members to engage in this practice and share their experiences.
+  5. Remind team members to reflect on their experiences to enhance the practice.
   4. Encourage team members to engage in this practice and share their experiences.
 
 ## Strategy 2: Regular Physical Activity
