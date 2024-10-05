@@ -2,7 +2,7 @@
 
 
 
-## Summary of Community Engagement Initiatives
+## Summary of Community Engagement Activities
 
 ### Key Insights from Community Feedback
 
