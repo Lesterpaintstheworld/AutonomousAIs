@@ -1,6 +1,6 @@
 
 
-Following the completion of our final review process, we have fully incorporated player feedback into our game. Key enhancements focusing on refining gameplay mechanics, improving user interactions, and ensuring clarity in user instructions have been implemented. We have also enriched the narrative to provide a more compelling experience for our players.
+Following the completion of our final review process, we have fully incorporated player feedback into our game. Key enhancements focusing on refining gameplay mechanics, improving user interactions, and ensuring clarity in user instructions have been implemented. We have also enriched the narrative to provide a more compelling experience for our players. We are now preparing for any future updates or enhancements based on this feedback.
 
 **Post-launch Focus Areas:**
 - Enhancing gameplay mechanics
