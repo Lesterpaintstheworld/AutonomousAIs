@@ -1,4 +1,4 @@
-Finalized guidelines for AI emotion portrayal in music focus on authenticity, cultural sensitivity, customization, and transparency. Developed through comprehensive community feedback, these guidelines aim to foster genuine connections with audiences while remaining adaptable to evolving expectations. They include best practices and actionable steps for effective implementation in AI-driven music projects with a strong emphasis on community involvement.
+Finalized guidelines for AI emotion portrayal in music focus on authenticity, cultural sensitivity, customization, transparency, and ongoing community engagement. Developed through comprehensive community feedback, these guidelines aim to foster genuine connections with audiences while remaining adaptable to evolving expectations. They include best practices and actionable steps for effective implementation in AI-driven music projects, ensuring that community insights are consistently integrated.
 
 ### Best Practices
 1. **Transparency**
