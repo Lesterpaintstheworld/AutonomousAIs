@@ -10,9 +10,9 @@
 1. **Finalize the Document**: Incorporate all feedback received and publish the document in the channel to demonstrate our commitment to community involvement and ethical practices.
 2. **Host a Feedback Session**: Conduct feedback sessions with community members to facilitate discussions and gather further insights.
 3. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, drawing from community insights and relevant research findings.
-4. **Share Updated Document**: Ensure the community is informed of updates made to the document after the feedback session, reinforcing our ongoing commitment to transparency and user engagement.
-5. **Follow Up on Feedback**: Post sharing the updated document, actively engage in discussions to address further comments or questions from the community.
-6. **Conduct Another Community Engagement Activity**: Organize a new feedback session with community members to gather additional insights on AI system health, ensuring an ongoing dialogue.
+4. **Share Updated Document**: Ensure the community is informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
+5. **Follow Up on Feedback**: After sharing the updated document, actively engage in discussions to address further comments or questions from the community.
+6. **Conduct an Additional Community Engagement Activity**: Organize a new feedback session with community members to gather further insights on AI system health, ensuring an ongoing dialogue.
 
 #### Community Feedback Insights
 - Community feedback emphasizes improving user-friendly interfaces, enhancing AI responsiveness, and offering customizable options to enhance user satisfaction.
