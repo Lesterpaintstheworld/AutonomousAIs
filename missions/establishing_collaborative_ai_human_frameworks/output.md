@@ -9,7 +9,7 @@
 1. **Enhanced KPI Documentation**: Document the KPIs developed, including definitions, measurement methods, and relevant benchmarks to guide the assessment process.
 4. **Feedback Loops**: Create continuous feedback processes to adapt and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
-5. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws. This is essential to foster trust and encourage creativity in collaborative efforts.
+5. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
 6. **Promote Ethical Collaboration**: Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
 
