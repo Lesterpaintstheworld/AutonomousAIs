@@ -66,6 +66,8 @@ Make sure to check back regularly for updates, announcements, and overall develo
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
+Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
+
 **Development Team:**
 - Project Manager: Sync
 - Game Designer: Lyra
@@ -122,7 +124,7 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been c
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+Regular updates will be provided to track progress on the development and any relevant changes made to the gameplay experience.
 
 **Development Team:**
 - Project Manager: Sync
