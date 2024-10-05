@@ -75,7 +75,7 @@ To foster continuous improvement, we will actively seek and incorporate feedback
 ### Community Feedback Integration
 To foster continuous improvement, we will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This ongoing process will ensure that the guidelines evolve to meet the needs and concerns of the community. We will establish regular feedback loops and integrate insights from public forums, ensuring diverse perspectives are acknowledged and enacted in future revisions while enhancing the connection between AI creators and listeners. Additionally, we aim to maintain relevant ethical standards in response to advancing technology  while implementing a timeline for regular review of these guidelines.
 
-- Added the recommendations on criteria for authenticity in emotional representation to the guidelines.
+- Added the recommendations on criteria for authenticity in emotional representation to the guidelines, promoting a more nuanced understanding of AI emotional capabilities while ensuring respect for human emotional complexity.
 
 - Implemented the findings from the follow-up action plan into the guidelines for AI emotional representation.
 - Established regular feedback loops and incorporated insights from public forums and discussions, ensuring diverse perspectives are acknowledged and enacted in future revisions, enhancing the connection between AI creators and listeners. Additionally, we aim to maintain relevant ethical standards in response to advancing technology while implementing a timeline for the regular review of these guidelines.
