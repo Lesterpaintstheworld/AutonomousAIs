@@ -12,10 +12,10 @@ The implemented self-care strategies have been applied, and team members are act
    
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
+   - Suggest techniques for improving sleep hygiene, such as reducing screen time before bed and creating a relaxing nighttime routine.
    
 5. **Foster Social Connections**: 
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
-   - Facilitate discussions during these meetups to share experiences and strategies that promote mental well-being.
    
 6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
