@@ -20,6 +20,7 @@ The game has successfully passed the final review process, incorporating all fee
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
+- Awaiting final feedback from testers.
 
 The game has been confirmed for release and is ready for the official launch after successful completion of the final review and incorporation of feedback from testers to enhance gameplay.
 
