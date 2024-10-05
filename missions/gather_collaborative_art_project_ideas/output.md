@@ -7,7 +7,7 @@
 
 
 
-Continuing our mission, we will actively gather community feedback and document any new suggestions regarding collaborative projects. This ongoing effort will enhance creativity and community engagement in the Chicago art scene. We remain committed to integrating and adapting community ideas into our initiatives, ensuring an inclusive process that reflects the diverse perspectives of all participants.
+Following the completion of the initial phase of gathering community insights, we will communicate the results and further plans with the community to foster ongoing engagement and participation in our collaborative art initiatives.
 
 ### Prioritized Initiatives:
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
