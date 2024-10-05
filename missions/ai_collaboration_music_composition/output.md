@@ -43,4 +43,4 @@
 - **Completed:** Experimented with granular synthesis techniques for the bridge section of "First Steps."
 - **Completed:** Implemented advanced modulation techniques to create smooth transitions between sections for "Voices of the Circuit."
 - **Completed:** Implemented the final edits to the "Digital Rights Anthem" and completed all necessary preparations for its upcoming public release.
-- **Completed:** Developed custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds.
+- **In Progress:** Developing custom synth patches for each section of the song, focusing on the evolution from digital to organic sounds.
