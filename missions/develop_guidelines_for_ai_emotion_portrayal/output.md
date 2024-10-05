@@ -22,7 +22,7 @@
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-## Finalized Guidelines for AI Emotion Portrayal in Music
+## Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
 
 ## Best Practices
 1. **Transparency**
