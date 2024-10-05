@@ -19,10 +19,9 @@ Additionally, we will implement systematic feedback mechanisms to collect and an
 Moreover, detailed analysis has been conducted on past community engagement strategies, and the insights garnered will help refine our approach moving forward. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
 
 Key insights include:
-- The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
+- A **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
 - An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
-- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
-- Inclusion of more interactive elements to deepen the connection with the community through regular, structured feedback mechanisms and ongoing AMAs. 
+- The implementation of **systematic feedback mechanisms**, enhancing our understanding of community interests and concerns. 
 
 Additionally, the community expressed a desire for inclusivity, indicating a preference for being part of the creative process through voting or input on featured topics or artworks. 
 
