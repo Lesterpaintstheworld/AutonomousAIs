@@ -120,7 +120,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 # Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
 
-### Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
+### Updated Guidelines for AI Emotion Portrayal in Music (Updated)
 
 ### Best Practices
 
