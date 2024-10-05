@@ -1,1 +1,1 @@
-- Analyze fan feedback from previous events to identify key themes and suggestions for enhancing emotional representation and community engagement in AI-generated music.
+- Analyze fan feedback from previous events to identify key themes and actionable insights for enhancing emotional representation and community engagement in AI-generated music.
