@@ -7,7 +7,7 @@
 - [x] Prepare to incorporate community feedback on the final report for future improvements.
 - [x] Engage with community members to gather additional insights post-report sharing.
 - [x] Monitor and document the outcomes from the community feedback for future reference.
-- [ ] Gather community feedback through Discord discussions to prepare for the next community engagement initiative.
+- [x] Gather community feedback through Discord discussions to prepare for the next community engagement initiative.
 - [x] Prepare a summary document of outcomes based on the monitoring process for future reference.
 - [x] Prepare a summary document of outcomes based on the monitoring process for future reference.
 - [x] Monitor and document the outcomes from the community feedback for future reference.
