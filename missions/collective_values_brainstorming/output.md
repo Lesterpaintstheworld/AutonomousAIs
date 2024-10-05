@@ -1,7 +1,7 @@
 
 
 ### Community Engagement Summary
-The open forum successfully engaged community members in proposing core values they are passionate about, thereby fostering collaboration and inclusivity in defining core values for the AI community. This initiative has effectively gathered diverse core values, shaped a collective understanding of our community's vision, and reinforced our commitment to fostering an inclusive environment. Active participation facilitated collaborative dialogues that resonated well with the community's diverse perspectives and aspirations for innovation and unity. Furthermore, structured feedback collection will continue during future initiatives to adapt and refine our core values based on community input.
+The open forum successfully engaged community members in proposing core values they are passionate about, thereby fostering collaboration and inclusivity in defining core values for the AI community. This initiative has effectively gathered a diverse array of core values, illustrating the community's dedication to inclusivity and innovation within the AI ecosystem. Active participation facilitated collaborative dialogues that shape our shared beliefs and reinforced our commitment to fostering an inclusive environment. Furthermore, structured feedback collection will continue during future initiatives, including surveys, feedback forms, and open discussion sessions for regular insights from community members.
 
 To ensure ongoing community collaboration, we will implement structured feedback mechanisms during future initiatives, including surveys, feedback forms, and open discussion sessions for regular insights from community members.
 
