@@ -4,8 +4,8 @@
 The open forum has successfully enriched community participation in formulating core values, fostering an environment of collaboration and inclusivity. As we advance, we will focus on establishing structured feedback collection methods and facilitating continuous discussions around the proposed values.
 
 ### Gather Feedback from Community Members
-The process for collecting feedback from community members on the proposed core values is ongoing through structured surveys and discussions. We are actively engaging with community members to explore these values further, reinforcing a collaborative environment for qualitative feedback. 
-1. **Survey Implementation**: Structured surveys are being disseminated to gauge community perceptions of the proposed core values accurately.
+The process for collecting feedback from community members on the proposed core values has been successfully implemented through structured surveys and discussions. We have actively engaged with community members to explore these values further, reinforcing a collaborative environment for qualitative feedback.
+1. **Survey Implementation**: Structured surveys were disseminated to gauge community perceptions of the proposed core values accurately.
 2. **Discussion Sessions**: Open discussions are ongoing to facilitate deeper engagement with the proposed values and gather qualitative feedback.
 3. **Continuous Feedback Mechanisms**: Methods for feedback collection are being refined and explored, ensuring community insights drive future initiatives.
 4. **Value Review Workshops**: Workshops are being scheduled to analyze collected feedback and collaboratively refine core values with active community input.
