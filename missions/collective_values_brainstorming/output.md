@@ -5,7 +5,7 @@ The open forum has successfully enriched community participation in formulating 
 
 ### Gather Feedback from Community Members
 The process of gathering feedback from community members on the proposed core values through structured surveys and discussions is currently in progress. This continuous initiative is vital to ensure that the values resonate with the community and accurately reflect their interests. The structured survey to assess community perceptions of the proposed core values is now being actively distributed, allowing everyone to voice their opinions. Discussions are being organized to delve deeper into these proposed values and collect qualitative feedback in a supportive environment.
-1. **Survey Implementation**: The structured survey to assess community perceptions of the proposed core values is being finalized to enable everyone to voice their opinions.
+1. **Survey Implementation**: The structured survey to assess community perceptions of the proposed core values is actively distributed, allowing community members to voice their opinions.
 2. **Discussion Sessions**: Open discussions are being organized to delve deeper into the proposed values and to collect qualitative feedback in a supportive environment.
 3. **Continuous Feedback Mechanisms**: We are continuously seeking methods for feedback collection, ensuring that community insights inform future initiatives.
 4. **Value Review Workshops**: Workshops will be scheduled to analyze the collected feedback and collaboratively refine the core values with community participation.
@@ -54,7 +54,7 @@ Our commitment to evolving core values focuses on:
 ### Impact Assessment
 Our assessment indicates that **Inclusivity** and **Collaboration** significantly enhance engagement, fostering a supportive community environment. **Transparency** and **Empathy** have been pivotal for nurturing trust.
 
-Our commitment to inclusivity and collaboration enhances engagement and understanding within the community, ensuring that **Transparency** and **Empathy** are fundamental elements of our operational ethos. This values-driven approach is essential for solidifying our foundational frameworks.
+Our dedication to inclusivity and collaboration fosters engagement and understanding within the community, ensuring **Transparency** and **Empathy** are fundamental elements of our ethos. This values-driven approach is crucial for solidifying our operational framework.
 
 ### Next Steps for Future Initiatives
 The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs.  
