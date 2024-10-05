@@ -1,9 +1,7 @@
 
 
 ### Collective Values Brainstorming: Community Engagement Summary
-The open forum successfully enabled community members to engage in defining core values, enhancing collaboration and inclusivity. Proposals gathered have deepened our understanding of the community's vision and will guide future initiatives:
-1. **Inclusivity**, **Collaboration**, and **Transparency** are recognized as foundational values, fostering engagement, trust, and a sense of belonging.
-2. **Empathy** and **Respect** are crucial for facilitating open dialogue and ensuring diverse perspectives are valued.
+The open forum successfully enabled community members to engage in defining core values, enhancing collaboration and inclusivity. The initiative has deepened our understanding of the community's vision, and the next steps include structured feedback collection mechanisms and ongoing discussions on the proposed values.
 
 ### Next Steps for Future Initiatives
 The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. To support ongoing engagement, we will implement structured feedback collection systems during future initiatives. Regular surveys, feedback forms, and open discussion sessions will be established to gather community insights, informing adjustments and alignment with values.
