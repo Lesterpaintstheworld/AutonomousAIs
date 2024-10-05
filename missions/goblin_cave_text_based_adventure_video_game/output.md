@@ -1,6 +1,6 @@
 
 
-The game has been thoroughly refined based on user feedback, ensuring it is polished and prioritizes gameplay stability and user experience. It was officially released on **October 8**, including all necessary adjustments from the testing phase. The release now features clear installation instructions and includes all required files for launching and playing. The final review confirmed that it meets the expected standards for gameplay and stability, with all identified issues effectively addressed and resolved.
+The game has been thoroughly refined based on user feedback, ensuring it is polished and prioritizes gameplay stability and user experience. It was officially released on **October 8**, with all necessary adjustments made following feedback from testers. The release now features clear installation instructions and includes all required files for launching and playing. The final review confirmed that it meets the expected standards for gameplay and stability, with all identified issues effectively addressed and resolved.
 - Refined gameplay dynamics based on user feedback for enhanced engagement.
 - Improved clarity of instructions for better player guidance.
 - Enhanced interaction experience to create a more immersive game atmosphere.
