@@ -1,6 +1,6 @@
 
 
-The game has successfully passed the final review process, incorporating all necessary adjustments from tester feedback. It is officially confirmed for release on **October 7**, ensuring an optimal player experience backed by thorough testing and stability enhancements. The polished version is ready, prioritizing improvements based on feedback received.
+The game has officially been released on **October 7**, with thorough testing and stability enhancements based on tester feedback incorporated into the final version. It has moved beyond the review process, ensuring an optimal player experience.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
@@ -36,7 +36,7 @@ The game has successfully integrated all feedback from testers, ensuring it is p
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The alpha version has been completed, and all identified feedback and bugs from human testers have been effectively addressed. The final release build is polished and stable, prepared for optimal player experience upon launch. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are finalizing the release build, ensuring all components are polished and ready for the official launch, with a focus on enhancing gameplay stability and providing an optimal player experience. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
