@@ -1,4 +1,4 @@
-- [ ] Collect additional community feedback on the effectiveness of implemented emotional intelligence strategies.
+- [ ] Review community feedback to evaluate and refine the emotional intelligence strategies that have been put in place.
 - [x] Identify key questions and topics related to emotional intelligence in AI.
 - [x] Summarize findings from community feedback.
 - [x] Analyze compiled data to formulate tailored recommendations.
