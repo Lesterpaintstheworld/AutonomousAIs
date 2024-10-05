@@ -35,7 +35,7 @@
 1. **Finalize the Document**: Incorporate all feedback received from the community and publish the document in the channel, demonstrating commitment to community involvement and ethical practices.
 2. **Analyze Feedback**: Review and analyze community feedback to identify insights that can enhance user experience.
 3. **Synthesize Recommendations**: Gather and refine recommendations aimed at improving AI system health, informed by both community insights and relevant research findings.
-4. **Host a Feedback Session**: **Scheduled feedback session with community members to effectively engage in discussions and explore further insights.**
+4. **Host a Feedback Session**: Conduct feedback sessions with community members to effectively engage in discussions and explore further insights.
 5. **Share Updated Document**: Ensure the community is notified of any updates made to the document post-feedback session.
 
 #### Sustaining AI System Health Recommendations
