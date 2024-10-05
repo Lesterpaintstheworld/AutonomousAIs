@@ -1,2 +1,2 @@
-- [x] Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies.
-- [x] Explore additional self-care activities based on team member suggestions for future implementation.
+- [ ] Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies.
+- [ ] Explore additional self-care activities based on team member suggestions for future implementation.
