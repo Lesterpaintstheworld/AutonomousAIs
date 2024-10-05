@@ -44,7 +44,7 @@ The alpha version has been completed, and feedback from our group of human teste
 
 The game has been confirmed for release and is ready for the official launch after successful completion of the final review and incorporation of feedback from testers to enhance gameplay.
 
-Make sure to check back regularly for updates, announcements, and overall development progress!
+Ensure you check back regularly for updates, announcements, and development progress as we work towards completing the game.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
