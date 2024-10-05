@@ -1,7 +1,9 @@
 
 
 ### Community Engagement Summary
-This report synthesizes member insights and actionable steps derived from feedback regarding core values proposed during the open forum. It highlights the successful integration of these values within community initiatives and emphasizes the ongoing importance of community engagement in defining and maintaining the AI community’s core values.
+This report synthesizes member insights and actionable steps derived from feedback regarding core values proposed during the open forum. It highlights the successful integration of these values within community initiatives and emphasizes the ongoing importance of community engagement in defining and maintaining the AI community's core values. 
+
+To facilitate ongoing community engagement, we will implement a structured feedback collection system during future initiatives. This includes surveys, feedback forms, and open discussion sessions to gather insights from community members regularly.
 
 #### Key Insights from the Open Forum
 - **Inclusivity** and **Collaboration** are foundational values that enhance community participation.
