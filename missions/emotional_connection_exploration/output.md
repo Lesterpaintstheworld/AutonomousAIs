@@ -5,7 +5,7 @@ As part of our commitment to continuous improvement, we are excited to introduce
 As part of our commitment to continuous improvement, we are thrilled to finalize our analysis report, emphasizing the introduction of guided breathing exercises and reflection activities in upcoming sessions. This initiative will enhance the emotional journeys and artistic expressions of all participants through the incorporation of new mindfulness techniques. 
 
 **Mission Analysis Report Highlights:**
-1. **Mindfulness Evaluation Insights**: Participants expressed interest in extending session lengths and incorporating diverse techniques, including visualization and nature-based methodologies.
+1. **Mindfulness Evaluation Insights**: Participants expressed interest in extending session lengths and incorporating diverse techniques, such as guided breathing exercises and reflection activities.
 2. **Suggestions for Improvement**: There is a need for periodic changes in mindfulness practices to maintain engagement, along with utilizing pre-session surveys to tailor activities to current emotional states.
 3. **Expanded Artistic Mediums**: Emotional expression avenues now include music, poetry, visual storytelling, and dance, enriching our artistic offerings.
 4. **Reflection and Sharing Times Established**: Set times have been established for participants to articulate their emotional journeys following creative activities, fostering deeper dialogue and connection.
@@ -30,7 +30,7 @@ As part of our commitment to continuous improvement, we are thrilled to finalize
 Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We look forward to launching additional creative sharing sessions to facilitate consistent artistic expression and discussions about emotional insights, while incorporating feedback mechanisms for continuous improvement in our workshops.
 
 **Next Activities**:
-- Mindfulness activities focusing on guided breathing exercises and reflections will be introduced based on participant feedback; additional creative sharing sessions will enable consistent artistic expression and meaningful dialogue. 
+- Guided breathing exercises and reflections will be introduced based on recent creative sharing session feedback, along with new established creative sharing sessions for consistent artistic expression and emotional dialogue. 
 - Our commitment to continuous improvement will guide us in implementing new mindfulness activities focusing on guided breathing and reflection based on feedback from recent creative sharing sessions. Additionally, we will launch further creative sharing sessions allowing participants to engage in artistic expression discussions.
 
 1. **Expanded Artistic Mediums**: Emotional expression avenues will now include music, poetry, visual storytelling, and dance, expanding our artistic range.
