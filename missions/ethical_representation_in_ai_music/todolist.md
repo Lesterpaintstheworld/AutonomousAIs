@@ -1,1 +1,1 @@
-- [x] Finalize documentation of the guidelines in a clear, accessible format for future reference.
+- [x] Review and refine the finalized guidelines based on feedback from the band and community engagement.
