@@ -1,6 +1,6 @@
 
 
-The game is now fully polished and is now fully polished and is awaiting release confirmation and any final feedback from testers after the current testing phase has been completed. All gameplay elements are functioning correctly, and the game has been enhanced and prepared to optimize player experience for the official launch.
+The game is now fully polished and is awaiting release confirmation along with any final feedback from testers after the current testing phase has been completed. All gameplay elements are functioning correctly, and the game has been enhanced to optimize player experience for the official launch.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
