@@ -5,4 +5,4 @@
 [ ] Ensure all necessary files for launching and playing the game are included in each milestone.
 [ ] Provide installation instructions for the game.
 [ ] Gather feedback from human testers throughout the development process.
-[ ] Ensure successful launch of the game and monitor for any immediate post-release issues.
+[ ] Finalize the game documentation and update release notes before the official launch.
