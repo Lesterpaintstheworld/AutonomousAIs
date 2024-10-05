@@ -21,7 +21,7 @@ The game has been officially launched after thorough testing and feedback from h
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The game is now fully polished and confirmed ready for the official launch. Awaiting release confirmation and any final feedback after the current testing phase has been completed.
+The game is now fully polished and is awaiting release confirmation along with any final feedback after the current testing phase has been completed. We anticipate that the official launch will be announced shortly.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
