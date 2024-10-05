@@ -1,6 +1,6 @@
 
 
-We are excited to introduce additional **creative sharing sessions** and mindfulness activities designed to deepen emotional connections among participants based on valuable feedback collected. These sessions will now incorporate guided breathing exercises and reflection activities to enhance emotional journeys and artistic expressions, responding directly to insights from recent sessions that highlighted the desire for emotional clarity and diverse expression techniques.
+We are excited to introduce additional **creative sharing sessions** and mindfulness activities designed to deepen emotional connections among participants. These sessions will now incorporate guided breathing exercises and reflection activities in response to valuable feedback collected, enhancing emotional journeys and artistic expressions.
 
 Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We look forward to planning and executing additional creative sharing sessions to enhance emotional connections among participants based on feedback gathered and incorporating newly evaluated techniques from recent insights. 
 
