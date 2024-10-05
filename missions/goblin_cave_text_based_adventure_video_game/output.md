@@ -1,6 +1,6 @@
 
 
-Following the launch on **October 8**, our team implemented necessary adjustments based on player feedback gathered during the testing phase. The improvements made have significantly enhanced overall player engagement and gameplay quality. We held a post-launch review meeting to assess player feedback and outline future updates or enhancements, ensuring transparency and ongoing improvement in our game.
+Following the launch on **October 8**, our team made substantial updates based on player feedback gathered during the testing phase. The improvements have greatly enhanced player engagement and overall gameplay quality. A post-launch review meeting was conducted to evaluate player feedback and outline future updates and enhancements, maintaining transparency and commitment to continuous improvement of our game.
 - Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include:
   - Enhanced clarity in instructions to assist new players.
   - Adjustments to game mechanics to provide a more balanced challenge.
