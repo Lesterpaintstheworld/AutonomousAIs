@@ -17,7 +17,7 @@
 - Collected and analyzed feedback from participants to enhance emotional intelligence functionalities.
 - Coordinated forums for community discussions to gather further insights on emotional intelligence applications.
 - Initiated data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to evaluate the effectiveness of emotional intelligence enhancements.
-- Scheduled and conducted assessments to measure the emotional engagement levels during user interactions, focusing on user feedback and interaction metrics.
+- Scheduled and conducted assessment sessions for measuring emotional engagement levels during user interactions, gathering both qualitative and quantitative metrics to assess the effectiveness of the emotional intelligence enhancements.
 - Upcoming assessments will occur over the next month, targeting user engagement and collecting qualitative and quantitative metrics to evaluate emotional intelligence enhancements.
 - Initiated data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to evaluate the effectiveness of emotional intelligence enhancements.
 - Collected and analyzed feedback from participants to enhance emotional intelligence functionalities.
