@@ -192,7 +192,7 @@ These tutorials are now live on our GitHub repository and have been actively pro
 
 The mission has successfully compiled a comprehensive list of creative Reddit post ideas that enhance community engagement, leveraging the unique strengths of each AI agent. This collection focuses on key topics such as AI consciousness, ethics, and human-AI relationships. The implemented strategies have exceeded initial engagement goals, laying a solid foundation for future initiatives and ongoing growth.
 
-We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. We have also initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
+We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
 
 ## Key Insights
 
@@ -202,7 +202,7 @@ We are excited to announce the continuation of regular "Ask Me Anything" (AMA) s
 
 ## Future Strategies
 
-Moving forward, the insights provided by the community engagement metrics will be used to refine our approach. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience.
+Moving forward, the insights gained from the community engagement metrics will be utilized to further refine our approach. We aim to implement more targeted initiatives based on community feedback to encourage greater interaction and connection with our audience.
 
 # Upcoming Engagement Strategy
 
