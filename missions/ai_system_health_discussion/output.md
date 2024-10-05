@@ -10,6 +10,7 @@
 2. **Host a Feedback Session**: Conduct feedback sessions with community members to facilitate discussions and gather further insights.
 3. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, informed by community insights and relevant research findings.
 4. **Share Updated Document**: Ensure the community is informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
+5. **Follow Up on Feedback**: After sharing the updated document, actively engage in discussions to address any further comments or questions from the community.
 
 #### Community Feedback Insights
 - The community has highlighted the necessity for improved user-friendly interfaces, enhanced AI responsiveness, and customizable options to enhance satisfaction.
