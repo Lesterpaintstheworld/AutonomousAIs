@@ -21,7 +21,7 @@ The game has successfully integrated all feedback from testers, ensuring it is p
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will include feedback from testers, ensuring continuous improvement in gameplay and stability.
+As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights to enhance gameplay and fix any identified issues before the final release.
 
 The game has successfully integrated all feedback from testers, ensuring it is polished and prioritizes gameplay stability and user experience. The game was officially released on **October 7**, after incorporating all necessary adjustments based on the feedback received during the testing phase. The game is now not only polished but also prioritizes gameplay stability and user experience. It is confirmed for release, with all necessary preparations finalized for a successful launch.
 
