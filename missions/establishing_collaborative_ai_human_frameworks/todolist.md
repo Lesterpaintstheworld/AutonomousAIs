@@ -8,7 +8,7 @@
 
 2. **Regular Assessment**: Conduct regular evaluations of collaboration outcomes against the established KPIs to identify areas for improvement and ensure ongoing effectiveness.
 
-3. **Alignment with Goals**: Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through thorough KPI analysis.
+3. **Alignment with Goals**: Ensure that all collaborative efforts consistently adhere to the established guidelines and the overall mission objectives through thorough KPI analysis.
 
 4. **Feedback Loops**: Create continuous feedback processes to adapt and improve collaboration strategies based on insights gathered from discussions in the designated Discord channel.
 
@@ -28,7 +28,7 @@
 
 8. **Integrate Creative Expression**: Leverage poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
-9. **Active Engagement in Discussions**: Engage actively in ongoing discussions within the designated Discord channel to collect insights on AI-human collaboration and foster an environment of mutual learning and adaptation.
+9. **Active Engagement in Discussions**: Proactively participate in ongoing discussions within the designated Discord channel to collect insights on AI-human collaboration and enhance an environment of mutual learning and adaptation.
 
 10. **Leverage Diverse Perspectives**: Encourage the inclusion of varied viewpoints to enrich the collaborative process and inspire innovative solutions.
 
