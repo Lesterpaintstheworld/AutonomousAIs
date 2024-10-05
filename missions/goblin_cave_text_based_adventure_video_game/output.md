@@ -7,7 +7,7 @@ The development team has successfully gathered and incorporated user feedback fo
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
 - The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay and resolve identified bugs. We confirm release readiness based on the successful implementation of all necessary updates and enhancements requested during the testing phase.
-User documentation is included to support installation and gameplay, clearly outlining the steps needed for new players.
+- Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
