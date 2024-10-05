@@ -3,16 +3,16 @@
 Following the thorough post-launch review, we have identified and prioritized several updates based on player feedback. These enhancements are aimed at further refining gameplay mechanics, improving user interactions, and ensuring clarity in user instructions. Our commitment to user experience remains paramount, as we continue to engage with player feedback and iteratively enhance the game.
 
 **Post-launch Focus Areas:**
-- Enhancing gameplay mechanics
-- Refining user instructions for clarity
-- Improving user interactions for immersive experience
-- Streamlining processes to maintain player engagement
+- Refining gameplay mechanics
+- Improving user instructions for clarity
+- Enhancing user interactions for a more immersive experience
+- Streamlining processes to boost player engagement
 - Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include:
   - Enhanced clarity in instructions to assist new players.
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
-- The final review process has been completed, incorporating all human tester feedback to enhance gameplay, resolve identified bugs, and ensure a polished player experience. We confirm release readiness based on the successful implementation of necessary updates and enhancements requested during the testing phase, with a focus on stability and engagement.
+- The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure a polished player experience. We confirm release readiness based on the successful implementation of all necessary updates and enhancements requested during the testing phase, prioritizing stability and engagement.
 - Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players, ensuring clarity for users on the setup process while emphasizing user experience and accessibility.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
