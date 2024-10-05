@@ -4,8 +4,8 @@ The game is now fully polished and is awaiting release confirmation along with a
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
-- Your first task is to escape your jail cell using a key you must find.
-- Along your journey, you will face challenges, including tricking a goblin guard to retrieve your sword.
+- Your initial objective is to escape the goblin-infested jail cell using a key you must discover.
+- You will encounter various challenges, including outsmarting a goblin guard to reclaim your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
