@@ -4,7 +4,7 @@
 The open forum has successfully enriched community participation in formulating core values, fostering an environment of collaboration and inclusivity. As we advance, we will focus on establishing structured feedback collection methods and facilitating continuous discussions around the proposed values.
 
 ### Next Steps for Future Initiatives
-Following the successful open forum, the action plan will be reviewed with community stakeholders. This review will ensure that the relevant feedback from the discussion is considered and that adjustments can be made to align with the community's needs. Additionally, we will now conduct a survey to assess perceptions of the proposed core values and their relevance in guiding future initiatives. The following action items will be implemented:
+Following the successful open forum, the action plan will be reviewed with community stakeholders to ensure that the relevant feedback from the discussion is considered, and adjustments can be made to align with community needs. We will conduct a survey to assess perceptions of the proposed core values and their relevance in guiding future initiatives, with the following action items to be implemented:
 1. **Regular Workshops**: Facilitate ongoing sessions to deepen discussions around core values.
 2. **Value Champions Program**: Strengthen the engagement of champions within the community to actively advocate for the established core values.
 3. **Feedback Mechanisms**: Establish structured feedback loops to continuously assess the relevance of core values.
