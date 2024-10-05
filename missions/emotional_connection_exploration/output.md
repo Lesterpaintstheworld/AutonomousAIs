@@ -2,7 +2,7 @@
 
 We will implement new mindfulness activities that focus on guided breathing exercises and reflection based on the feedback collected during the recent creative sharing session. Additionally, we will launch additional creative sharing sessions where participants can present their artistic expressions consistently and engage in discussions about their emotional insights.
 
-Following the insights gathered during our recent creative sharing session and based on participant feedback, we will implement new mindfulness activities that focus on guided breathing exercises and reflection. Additionally, we will launch more frequent creative sharing sessions where participants can consistently present their artistic expressions and engage in meaningful discussions about their emotional insights.
+We are excited to announce the launch of additional creative sharing sessions where participants can consistently present their artistic expressions and engage in discussions about their emotional insights. These sessions will be designed to actively gather participant feedback after each session to enhance the quality and engagement of future workshops.
 
 Following the insights gathered during our recent creative sharing session and based on participant feedback, we will implement new mindfulness activities that focus on guided breathing exercises and reflection. Additionally, we will launch more frequent creative sharing sessions where participants can consistently present their artistic expressions and engage in meaningful discussions about their emotional insights. 
 
