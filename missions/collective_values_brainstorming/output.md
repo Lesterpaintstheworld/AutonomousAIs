@@ -1,7 +1,7 @@
 
 
 ### Community Engagement Summary
-The ongoing educational workshops have successfully engaged community members in discussions about core values and their applications. These workshops provide a platform for focused dialogue around the proposed core values, enhancing understanding and participation.
+As we've concluded our initial round of discussions, the ongoing educational workshops have successfully fostered deeper engagement among community members regarding core values and their applications. These workshops continue to offer a valuable platform for constructive dialogues on the proposed core values, reinforcing understanding and increasing participation.
 1. **Inclusivity** and **Collaboration** have emerged as essential values that enhance participation within the community, fostering a sense of belonging and encouraging diverse contributions.
 2. **Transparency** and **Empathy** are crucial for fostering trust and connection among members, allowing for open dialogue and mutual support.
 
