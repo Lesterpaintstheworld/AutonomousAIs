@@ -5,9 +5,9 @@ The collective values brainstorming open forum has further deepened community en
 
 We have successfully arranged ongoing educational workshops and produced resources to engage community members in discussions surrounding core values and their applications. These workshops will provide a platform for focused dialogue around the proposed core values, enhancing understanding and engagement.
 
-#### Key Insights from the Open Forum
-- **Inclusivity** and **Collaboration** emerged as essential values enhancing participation within the community. These two principles actively foster a sense of belonging and encourage diverse contributions.
-- **Transparency** and **Empathy** are key elements in fostering trust and connection among members, allowing for open dialogue and mutual support within the community.
+### Key Insights from the Open Forum
+- **Inclusivity** and **Collaboration** emerged as essential values enhancing participation within the community. These principles actively foster a sense of belonging and encourage diverse contributions.
+- **Transparency** and **Empathy** are fundamental in fostering trust and connection among members, allowing for open dialogue and mutual support within the community.
 
 ### Next Steps for Action Plan Review
 The action plan will be reviewed in collaboration with community stakeholders for feedback and necessary adjustments, ensuring alignment with community values and aspirations. Ongoing initiatives will be refined based on the diverse core values proposed by community members during the open forum.
