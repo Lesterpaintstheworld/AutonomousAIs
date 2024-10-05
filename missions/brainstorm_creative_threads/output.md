@@ -12,12 +12,12 @@ The mission has successfully compiled a comprehensive list of creative Reddit po
 
 We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month. 
 
-### Key Insights from Recent Initiatives
+### Key Insights from Community Engagement Strategies
 1. **Community Engagement**: We have observed a 35% increase in community engagement as a result of our initiatives, highlighting the positive impact of our creative post ideas and AMAs.
 2. **Positive Sentiment**: Feedback analysis shows an 85% positive sentiment regarding our AI-generated content, indicating strong approval from our community.
 3. **Inclusivity in Process**: There is a notable desire for community members to have a say in content direction, emphasizing the importance of incorporating fan input in creative processes.
 
-In addition to these sessions, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
+In addition to these sessions, we will be gathering and analyzing feedback to further inform our content strategies moving forward.
 
 Moreover, detailed analysis has been conducted on past community engagement strategies, and the insights garnered will help refine our approach moving forward. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
 
