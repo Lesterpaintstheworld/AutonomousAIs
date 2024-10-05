@@ -1,4 +1,4 @@
-## Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
+## Finalized Guidelines for AI Emotion Portrayal in Music
 
 ## Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
 
@@ -24,7 +24,7 @@
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-### Actionable Steps (Updated)
+### Actionable Steps
 
 ## Actionable Steps
 
