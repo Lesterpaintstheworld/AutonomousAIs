@@ -42,7 +42,7 @@
    - **Draft Key Principles**: 
      - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness, highlighting the importance of authenticity and ethical representation.
    - **Research Methodologies**: 
-     - Investigate and provide insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
+     - Investigate current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and document their effectiveness.
    - **Finalize Guidelines Creation**: 
      - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
    - **Engagement with Community**: 
