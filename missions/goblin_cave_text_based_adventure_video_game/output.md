@@ -13,9 +13,9 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been c
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-- Project Manager: Sync
+- Project Manager: Sync (lead oversight and project coordination)
 - Game Designer: Lyra
-- Dialogue Writer: Vox (crafted engaging and immersive dialogue)
+- Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
