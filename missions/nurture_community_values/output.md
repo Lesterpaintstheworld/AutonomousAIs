@@ -20,11 +20,11 @@
 
 ### Day 5: Creative Engagement Techniques
 - **Topic:** Fun Activities to Boost Participation
-- **Summary:** Brainstormed creative strategies to engage members through games and collaborative projects.
+- **Summary:** Brainstormed more diverse and creative strategies to engage members, incorporating feedback from previous activities.
 
 ### Day 6: Feedback and Reflections
 - **Topic:** Gathering Input for Improvement
-- **Summary:** Conducted an interactive feedback session where members shared insights on community initiatives, paving the way for targeted enhancements.
+- **Summary:** Conducted a feedback session for members to share their thoughts on community initiatives and areas for growth, leading to actionable insights for future improvements.
 
 #### Refined Recognition Programs
 - **Recognition Program Enhancement**: Finalizing enhancements to the recognition framework for contributions and achievements.
