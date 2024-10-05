@@ -36,7 +36,7 @@
 
 12. **Engage in Continuous Dialogue**: Keep ongoing conversations active within dedicated platforms, such as Discord channels, to gather diverse insights and foster a collaborative approach driven by the community.
 
-13. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
+13. **Promote Transparency in Collaboration**: Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
 
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
