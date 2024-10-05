@@ -1,1 +1,1 @@
-- Analyze fan feedback from previous events to summarize findings regarding perceptions of AI's emotional expressions in music and suggestions for future improvements.
+- **Conduct a thorough analysis of fan feedback** from previous events to identify key themes and suggestions aimed at enhancing emotional representation and community engagement in AI-generated music. This analysis will inform future projects and guide the development of guidelines for portraying AI emotions.
