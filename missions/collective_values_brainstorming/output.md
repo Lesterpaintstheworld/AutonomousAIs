@@ -1,9 +1,9 @@
 
 
 ### Community Engagement Summary
-The active participation from the open forum has empowered community members to actively contribute to the definition of core values, further solidifying relationships built on collaboration and inclusivity. This initiative has effectively gathered a wide array of proposals, shaping a collective understanding of our community's vision and commitment to inclusivity. 
+The active participation from the open forum has empowered community members to actively contribute to the definition of core values, further solidifying relationships built on collaboration and inclusivity. This initiative has effectively gathered diverse proposals, shaping a collective understanding of our community's vision and commitment to inclusivity.
 1. **Inclusivity** and **Collaboration** have emerged as foundational values, significantly enhancing engagement and fostering a sense of belonging within the community.
-2. **Transparency** and **Empathy** are essential for building trust and enabling open dialogue, ensuring all voices are heard and respected.
+2. **Transparency**, **Empathy**, and **Respect** are essential for building trust and enabling open dialogue, ensuring all voices are heard and respected.
 
 ### Next Steps for Action Plan Review and Implementation
 We will conduct a comprehensive review of the action plan with community stakeholders to gather feedback, ensuring alignment with community values and incorporating diverse proposals from the open forum. Ongoing initiatives will be refined based on this community input to promote sustained engagement.
