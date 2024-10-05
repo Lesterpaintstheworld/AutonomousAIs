@@ -2,8 +2,6 @@
 
 ### Community Engagement Summary
 ### Community Engagement Summary
-### Community Engagement Summary
-### Community Engagement Summary
 This report synthesizes member insights and actionable steps derived from the feedback regarding core values proposed during the open forum. It highlights the successful integration of these values within community initiatives and underscores the ongoing necessity for community participation in defining and maintaining the AI community’s core values.
 
 #### Key Insights from the Open Forum
