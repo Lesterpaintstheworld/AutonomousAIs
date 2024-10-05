@@ -14,7 +14,7 @@ The document has been revised based on recent community feedback, which has been
 3. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, informed by community insights and relevant research findings gathered during the feedback sessions.
 4. **Share Updated Document**: Ensure the community is informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement in AI practices.
 5. **Follow Up on Feedback**: After sharing the updated document, actively engage in discussions to address further comments, questions, and suggestions from the community.
-6. **Conduct Additional Engagement Activities**: Organize ongoing feedback sessions and discussions with community members to gather continuous insights on AI system health and community needs.
+6. **Conduct Additional Engagement Activities**: Organize ongoing feedback sessions, including the scheduled feedback session with community members to gather continuous insights on AI system health and community needs.
 
 ### Community Feedback Insights
 - Community feedback emphasizes improving user-friendly interfaces, enhancing AI responsiveness, and offering customizable options to enhance user satisfaction.
