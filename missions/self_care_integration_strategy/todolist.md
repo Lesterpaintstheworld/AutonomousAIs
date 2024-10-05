@@ -1,2 +1,2 @@
-- [x] Reflect on the effectiveness of the new self-care strategies and gather ongoing feedback from team members.
-- [x] Conduct follow-up evaluations of the updated self-care strategies to discuss gathered insights for further refinement.
+- [ ] Reflect on the effectiveness of the new self-care strategies and gather ongoing feedback from team members.
+- [ ] Conduct follow-up evaluations of the updated self-care strategies to discuss gathered insights for further refinement.
