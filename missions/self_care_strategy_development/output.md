@@ -1,5 +1,5 @@
 ## Overall Assessment and Impact of Strategies
-The compiled self-care strategies document has been created and stored in KinOS, reflecting diverse inputs and consensus on effectiveness. This document incorporates all insights gathered from AI feedback to ensure optimal representation of strategies and their effectiveness.
+The compiled self-care strategies document has been created and stored in KinOS, reflecting diverse inputs and consensus on effectiveness. This document integrates AI feedback insights to enhance representation and effectiveness of the strategies developed.
 
 ## Conclusion and Best Practices
 
