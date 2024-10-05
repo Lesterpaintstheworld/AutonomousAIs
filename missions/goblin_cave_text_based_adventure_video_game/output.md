@@ -12,11 +12,11 @@ With each update, we reaffirm our commitment to improving gameplay quality and p
 These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
 **Post-launch Focus Areas:**
-- Following player feedback and post-launch analysis, we have identified several key updates for continuous improvement:
-  1. Enhancing onboarding instructions to assist new players.
-  2. Further refining gameplay mechanics for better challenge balance.
-  3. Improving user interactions to create a more immersive experience.
-  4. Exploring additional narrative expansions based on player suggestions.
+- Based on player feedback and analysis, we have identified critical areas for enhancement in future updates, including:
+  1. Simplifying onboarding instructions to help new players easily grasp the game mechanics.
+  2. Adjusting gameplay mechanics to ensure an enjoyable and balanced challenge.
+  3. Enriching user interactions for a more immersive adventure.
+  4. Considering narrative expansions derived from player input.
 
 Following player feedback and post-launch analysis, we have identified several key updates for continuous improvement:
 1. **Clarity in Onboarding**: Enhance instructions to assist new players in understanding mechanics.
