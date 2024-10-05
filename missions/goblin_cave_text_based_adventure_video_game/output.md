@@ -1,6 +1,6 @@
 
 
-The game has successfully passed the final review process, incorporating all feedback from human testers. It is now fully polished and ready for release confirmation. All gameplay elements function correctly, ensuring an optimized player experience for the official launch. We are currently finalizing the release build and awaiting any last comments from the testing phase.
+The game has successfully passed the final review process, incorporating all feedback from human testers. It is now fully polished and ready for release confirmation. All gameplay elements function correctly, ensuring an optimized player experience for the official launch. The game has been confirmed for release and is awaiting release confirmation along with any final feedback after the current testing phase has been completed.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
