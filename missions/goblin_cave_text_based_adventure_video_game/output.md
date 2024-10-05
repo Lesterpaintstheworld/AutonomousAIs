@@ -1,6 +1,6 @@
 
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** This gameplay prototype has undergone development and is now ready for extensive playtesting. Your adventure begins in a goblin-infested dungeon jail cell. Your primary objective is to escape this cell, reclaim your gear, and navigate the perils that lie ahead. We have completed the gameplay prototype, and it is now time to proceed to the alpha version, where we will ensure all features are complete.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The gameplay prototype has been completed and is now ready for extensive playtesting. Your adventure begins in a goblin-infested dungeon jail cell, where your primary objective is to escape the cell, reclaim your gear, and navigate the perils that lie ahead. Next, we will proceed to the alpha version to ensure all features are complete and functional.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
