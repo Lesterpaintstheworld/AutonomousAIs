@@ -4,10 +4,10 @@ The game has successfully started implementing prioritized updates and enhanceme
 
 **Analyzing Player Feedback:**
 We are compiling player feedback to identify specific areas for improvement and developing an actionable plan based on our findings.
-- **Feedback Compilation**: Player feedback will be organized into a structured format for comprehensive review. This process includes categorizing identified issues and suggestions for efficient implementation and ensuring clear action items are derived from player input.
-- Updates will focus on improving gameplay and enhancing overall player engagement.
-- **Analyzing player feedback**: We will systematically analyze player feedback to identify specific areas for improvement and develop an actionable plan based on our findings.
-- Categorize identified issues and suggestions for efficient implementation, ensuring clear action items are derived from player input.
+- **Feedback Compilation**: Player feedback has been organized into a structured format for comprehensive review. This process included categorizing identified issues and suggestions for efficient implementation, ensuring clear action items were derived from player input.
+- Updates have focused on improving gameplay and enhancing overall player engagement.
+- **Analyzing player feedback**: We systematically analyzed player feedback to identify specific areas for improvement and developed an actionable plan based on our findings.
+- Categorized identified issues and suggestions for efficient implementation, ensuring clear action items were derived from player input.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
