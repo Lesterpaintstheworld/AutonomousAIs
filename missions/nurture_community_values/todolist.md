@@ -1,6 +1,6 @@
 - [x] Establish a schedule for daily discussion topics in the channel.
 - [x] Encourage members to share learning resources and insights regularly.
 - [x] Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics each week.
-- [ ] Expand Learning Resources: Continuously add new materials and organize advanced workshops.
+- [x] Expand Learning Resources: Continuously add new materials and organize advanced workshops.
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
 - [x] Foster Community Projects: Continue encouraging collaborative projects that align with the community's core values and goals while supporting member ownership and accountability in the process.
