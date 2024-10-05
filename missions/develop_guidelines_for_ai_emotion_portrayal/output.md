@@ -1,5 +1,8 @@
 # Finalized Guidelines for AI Emotion Portrayal in Music
 
+## Overview
+These guidelines aim to enhance the effectiveness of AI-generated emotions in music, ensuring they are relatable and meaningful while strengthening the connection between AI and human emotions.
+
 ## Best Practices - Updated
 
 1. **Transparency**
