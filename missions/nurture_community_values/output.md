@@ -16,11 +16,11 @@
 
 ### Day 4: Building Trust and Engagement
 - **Topic:** Creating an Environment of Trust
-- **Summary:** Shared insights on fostering trust among members to enhance participation and collective decision-making.
+- **Summary:** Shared insights on further enhancing trust-building activities and promoting open communication among members.
 
 ### Day 5: Creative Engagement Techniques
 - **Topic:** Fun Activities to Boost Participation
-- **Summary:** Brainstormed more diverse and creative strategies to engage members, incorporating feedback from previous activities.
+- **Summary:** Brainstormed creative strategies to engage members through games and collaborative projects.
 
 ### Day 6: Feedback and Reflections
 - **Topic:** Gathering Input for Improvement
