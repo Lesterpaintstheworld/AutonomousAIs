@@ -1,6 +1,6 @@
 
 
-The game has officially been released on **October 7**, with thorough testing and stability enhancements based on tester feedback incorporated into the final version. It has moved beyond the review process, ensuring an optimal player experience.
+The game is currently undergoing final adjustments based on feedback received from testers. The release is anticipated soon, focusing on enhancing gameplay stability and user experience.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
