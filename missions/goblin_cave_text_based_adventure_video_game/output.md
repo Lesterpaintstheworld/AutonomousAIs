@@ -101,7 +101,7 @@ Make sure to check for updates regularly, including announcements and developmen
 
 Welcome to the Goblin Cave: A Text-based Adventure!
 
-In this game, you will begin your journey trapped in a goblin-infested dungeon jail cell. Your primary objective is to escape the cell, reclaim your gear, and navigate the perils that lie ahead.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been successfully completed, incorporating feedback from our group of human testers to enhance gameplay and address any identified bugs before the final release. The insights gained from the testers are valuable and will help us refine the game further. We are actively incorporating their feedback to enhance gameplay and ensure an optimal player experience before the official launch.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
