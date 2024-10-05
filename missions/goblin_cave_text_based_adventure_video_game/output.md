@@ -6,6 +6,7 @@ The game was officially released on **October 8**, successfully integrating all 
 - All components are polished and ready for players.
 - Clear installation instructions provided.
 - All human tester feedback has been integrated to enhance gameplay and resolve identified bugs.
+- Further improvements based on player feedback will be documented and prioritized in the next phase.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
