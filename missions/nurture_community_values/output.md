@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 60
+## Daily Discussion Summaries - Week 61
 
 ### Day 1: Emphasizing Continuous Learning
 - **Topic:** Strategies to Foster Lifelong Learning
