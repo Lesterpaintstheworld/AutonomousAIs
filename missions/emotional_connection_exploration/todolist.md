@@ -6,4 +6,4 @@
 [x] Organized the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Gather feedback from participants on the recent creative sharing session to evaluate its impact and document suggestions for improvement.
 [x] Compiled a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Launch additional creative workshops based on participant feedback to explore new avenues for emotional expression.
+[x] Evaluate the outcomes of the additional creative workshops and adjust future sessions based on participant input.
