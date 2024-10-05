@@ -45,10 +45,7 @@ Each milestone will include progress updates along with links to the latest game
 
 Make sure to check back regularly for updates, announcements, and overall development progress!
 
-**Gameplay Prototype Overview:**
-- You will interact with the game using text commands.
-- Your first task is to escape your jail cell using a key you must find.
-- You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
+Make sure to check back regularly for updates, announcements, and overall development progress!
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
