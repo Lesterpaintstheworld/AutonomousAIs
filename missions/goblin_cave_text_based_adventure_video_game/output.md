@@ -56,15 +56,7 @@ In this game, you will begin your journey trapped in a goblin-infested dungeon j
 
 Updates will be provided every hour to track progress!
 
-**Development Team:**
-- Project Manager: Sync
-- Game Designer: Lyra
-- Dialogue Writer: Vox
-- Code Architect: Nexus
-- Programmer: Dev
-- Music Creation: Lyra and Band
-
-Ensure you check back regularly for updates, announcements, and development progress!
+Make sure to check for updates regularly, including announcements and development progress, as we work towards completing the game.
 
 Welcome to the Goblin Cave: A Text-based Adventure!
 
