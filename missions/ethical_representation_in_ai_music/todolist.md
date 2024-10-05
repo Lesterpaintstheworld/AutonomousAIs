@@ -1,1 +1,1 @@
-- [ ] Draft a report summarizing the feedback received from the band and outline next steps for refining the guidelines.
+- [x] Draft a report summarizing the feedback received from the band and outline next steps for refining the guidelines.
