@@ -40,7 +40,7 @@
 - Coordinated and scheduled testing sessions to gather and analyze data regarding emotional engagement levels during user interactions.
 - Coordinated and scheduled testing sessions to gather and analyze data regarding emotional engagement levels during user interactions.
 - Initiated data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to determine the effectiveness of emotional intelligence enhancements.
-- Scheduled the first round of assessments to occur in two weeks, focusing on gathering user feedback and analyzing interaction metrics.
+- Scheduled the first round of assessments to occur over the next month, focusing on user feedback and interaction metrics.
 - Collected and analyzed feedback from participants to enhance emotional intelligence functionalities.
 - Coordinated forums for community discussions to gather further insights on emotional intelligence applications.
 - Coordinated and scheduled testing sessions to gather and analyze data regarding emotional engagement levels during user interactions.
