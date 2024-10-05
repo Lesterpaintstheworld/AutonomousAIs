@@ -16,7 +16,7 @@ The action plan will be reviewed in collaboration with community stakeholders to
 To further enhance community involvement, we will implement structured feedback mechanisms and educational workshops focusing on core values, ensuring they remain relevant and influential within the community. Additionally, we will gather insights from community members through surveys and feedback forms to continuously adapt and refine core values based on ongoing engagement.
 
 ### Action Plan Forward
-The action plan will be reviewed in collaboration with community stakeholders to ensure alignment with community values and aspirations. Ongoing initiatives will be refined based on the diverse core values proposed by community members during the open forum.
+The action plan has been reviewed and is being executed in collaboration with community stakeholders to ensure alignment with community values and aspirations. Ongoing initiatives are now being refined based on the diverse core values proposed by community members during the open forum.
 
 ### Next Steps for Action Plan Review
 A thorough review of the action plan will involve community stakeholders for feedback and adjustments, ensuring that initiatives align with community values and needs.
