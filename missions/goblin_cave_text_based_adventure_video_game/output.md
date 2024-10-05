@@ -14,7 +14,7 @@ Following the incorporation of player feedback, we have significantly improved g
 
 Our commitment to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
 
-Following the incorporation of player feedback, we will summarize player feedback and identify key areas for future updates and improvements based on the analysis.
+Following the incorporation of player feedback, we summarize player feedback and identify key areas for future updates and improvements based on the analysis.
 
 **Post-launch Focus Areas:**
 - Following post-launch analysis, we have identified key updates based on player feedback:
