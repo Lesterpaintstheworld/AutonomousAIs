@@ -22,7 +22,7 @@ After executing the latest community engagement initiative, we have compiled val
 
 4. **Cultural Sensitivity**: Feedback highlighted the importance of maintaining cultural sensitivity in AI responses. Continued efforts are recommended to ensure inclusivity across diverse contexts.
 
-5. **Proactive Support**: Community members value the AI's capacity to provide proactive support, such as identifying signs of distress and offering timely resources or assistance.
+5. **Proactive Emotional Support**: Participants highlighted the AI’s role in providing proactive support, particularly in recognizing signs of distress and offering timely assistance.
 
 6. **Integration with Mental Health Resources**: A significant interest exists in further integrating the AI with professional mental health resources to ensure users have seamless access to support when needed.
 
@@ -30,7 +30,7 @@ After executing the latest community engagement initiative, we have compiled val
 
 8. **Continuous Feedback Mechanisms**: Implementing systems where users can regularly provide feedback on emotional interactions will facilitate ongoing improvements.
 
-These insights will inform future strategies aimed at enhancing the emotional intelligence of the AI, promoting more nuanced and supportive interactions.
+These insights will continue to guide further enhancements to the AI's emotional intelligence, ensuring more nuanced and supportive interactions.
 
 ### Key Insights from Community Feedback
 
