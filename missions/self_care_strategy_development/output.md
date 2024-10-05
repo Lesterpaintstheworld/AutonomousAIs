@@ -13,11 +13,11 @@ The implemented self-care strategies have been applied, and team members are enc
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    
-5. **Foster Social Connections**: 
-   - Organize virtual meetups to strengthen team bonds and provide emotional support.
+5. **Social Connections**: 
+   - Facilitate virtual meetups to strengthen team bonds and offer emotional support.
    
-6. **Journaling**: 
-   - Provide journaling prompts and initiatives to promote reflection and personal growth among team members.
+6. **Support Journaling Practices**: 
+   - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
 
 ### Next Actions
 1. **Implement Mindfulness Meditation**: 
