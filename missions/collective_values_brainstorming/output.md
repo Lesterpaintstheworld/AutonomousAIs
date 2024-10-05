@@ -6,7 +6,7 @@ The recent open forum has significantly empowered community members to engage in
 2. **Empathy** and **Respect** are vital for promoting open dialogue, ensuring all perspectives are recognized and valued.
 
 ### Next Steps for Future Initiatives
-The action plan will undergo review with community stakeholders to ensure that relevant feedback is considered and adjustments are made to align with community needs.
+The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives.
 Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. 
 
 ### Final Report Compilation and Distribution
