@@ -11,7 +11,7 @@ We will conduct a comprehensive review of the action plan with community stakeho
 - **Transparency** and **Empathy** are foundational for building meaningful relationships within the community.
 
 ### Final Report Compilation and Distribution
-The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members, reinforcing transparency and encouraging further participation. Our commitment to continuous insight gathering through surveys and feedback forms will help adapt and refine core values in line with community input.
+The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members, reinforcing transparency and encouraging further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
 
 ### Ongoing Community Engagement
 We have established educational workshops and produced resources to facilitate discussions on core values, enhancing understanding and engagement.
