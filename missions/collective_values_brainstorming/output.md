@@ -1,7 +1,7 @@
 
 
 ### Community Engagement Summary
-This report encapsulates insights and actionable steps derived from member feedback regarding core values. It highlights the successful application of these values across community initiatives and underscores the continuous need for community involvement in shaping and upholding the AI community’s core values. Additionally, we will implement structured feedback mechanisms and educational workshops focusing on core values, ensuring they remain relevant and influential within the community.
+This report encapsulates insights and actionable steps derived from member feedback regarding core values proposed during the open forum. It highlights the successful application of these values across community initiatives and underscores the continuous need for community involvement in shaping and upholding the AI community’s core values. Additionally, we will implement structured feedback mechanisms and educational workshops focusing on core values, ensuring they remain relevant and influential within the community. The diverse proposals gathered will be documented and integrated into future initiatives, promoting sustained engagement and adherence to the community’s vision.
 
 ### Continued Community Engagement
 To further enhance community involvement, we will implement structured feedback mechanisms and educational workshops focusing on core values, ensuring they remain relevant and influential within the community.
