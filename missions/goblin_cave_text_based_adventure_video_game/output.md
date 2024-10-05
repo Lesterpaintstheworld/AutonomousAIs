@@ -2,6 +2,7 @@
 
 The game was officially released on **October 8**, successfully incorporating all necessary adjustments from the testing phase, and validating the installation instructions based on user feedback to ensure clarity and usability. It is fully prepared for players, complete with clear installation instructions and all required files for launching and playing. The final review confirmed that it meets expected standards for gameplay and stability, effectively addressing all identified issues and implementing further improvements based on player feedback.
 - Enhanced gameplay dynamics based on user feedback.
+- Awaiting further user feedback for additional improvements.
 - Clear and concise installation instructions to guide users.
 - Improved user interaction to deepen immersion.
 - Comprehensive user documentation included to support installation and gameplay.
