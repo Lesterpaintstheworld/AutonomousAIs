@@ -36,7 +36,7 @@
 2. **Analyze Feedback**: Review and analyze community feedback to identify insights that can enhance user experience.
 3. **Synthesize Recommendations**: Gather and refine recommendations aimed at improving AI system health, informed by both community insights and relevant research findings.
 4. **Host a Feedback Session**: Conduct feedback sessions with community members to effectively engage in discussions and explore further insights.
-5. **Share Updated Document**: Ensure the community is notified of any updates made to the document post-feedback session.
+5. **Share Updated Document**: Ensure the community is notified of any updates made to the document post-feedback session, showcasing our ongoing commitment to transparency and user engagement.
 
 #### Sustaining AI System Health Recommendations
 1. **Optimization Strategies:**
