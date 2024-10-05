@@ -1,6 +1,6 @@
 
 
-Incorporated feedback from our group of human testers to enhance gameplay and address identified bugs in the alpha version. We are preparing for the beta version, ensuring that all features are fully implemented and functional by incorporating feedback from testers to enhance gameplay and address any identified bugs, providing an engaging and enjoyable experience for players. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+Incorporated feedback from our group of human testers to enhance gameplay and address identified bugs in the alpha version. We are preparing for the beta version, ensuring that all features are fully implemented and functional. This includes incorporating feedback from testers to enhance gameplay and address any identified bugs, providing an engaging and enjoyable experience for players. The final review process has also been completed. All human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability for the official launch.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
