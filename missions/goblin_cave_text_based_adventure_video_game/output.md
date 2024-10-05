@@ -54,7 +54,7 @@ In this game, you will begin your journey trapped in a goblin-infested dungeon j
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
 
 Make sure to check for updates regularly, including announcements and development progress, as we work towards completing the game.
 
