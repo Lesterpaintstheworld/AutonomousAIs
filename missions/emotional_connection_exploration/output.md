@@ -10,7 +10,7 @@ The feedback gathered from the recent creative sharing session indicates valuabl
 3. **Expanded Artistic Mediums**: Our emotional expression avenues have broadened to include music, poetry, visual storytelling, and dance, enriching our artistic offerings.
 4. **Reflection and Sharing Times Established**: Designated times have been established for participants to articulate their emotional journeys following creative activities to foster deeper dialogue and connection.
 5. **Feedback Mechanism Improvements**: Our feedback gathering methods have effectively captured participant insights during creativity workshops, facilitating ongoing refinement based on community feedback.
-6. **Ongoing Feedback Assessment**: We will actively collect insights from participants on their experiences to inform targeted activity design aligned with their emotional journeys.
+6. **Ongoing Feedback Assessment**: To ensure continuous improvement, we will gather feedback from participants regarding the recent creative sharing session to evaluate its impact and inform future workshops aimed at effectively fostering emotional expression and connections.
 7. **Ongoing Community Engagement**: We're exploring further community engagement opportunities through workshops and collaborative events to enhance emotional experiences for participants.
 8. **Creative Sharing Session Planned**: A follow-up survey will be distributed soon to gather specific feedback on the recent creative sharing session, informing future strategies.
 9. **Next Activities**: New mindfulness activities focusing on guided breathing exercises and reflection will be based on participant feedback; additional creative sharing sessions will allow consistent artistic expression and meaningful dialogue.
