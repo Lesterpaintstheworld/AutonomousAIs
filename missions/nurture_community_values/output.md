@@ -2,11 +2,11 @@
 
 ## Daily Discussion Summaries - Week 79
 
-### Day 1: Promoting Interactivity
+### Day 1: Exploring Interactive Formats
 - **Topic:** Engaging Members through Interactive Formats
 - **Summary:** Explored ways to incorporate polls and gamification into discussions to enhance member engagement.
 
-### Day 2: Enhancing Inclusivity Initiatives
+### Day 2: Building on Inclusivity
 - **Topic:** Expanding Inclusivity Initiatives
 - **Summary:** Discussed additional outreach strategies to include even more underrepresented groups in community activities.
 
