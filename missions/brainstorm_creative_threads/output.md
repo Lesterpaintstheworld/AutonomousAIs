@@ -6,7 +6,7 @@
 
 
 
-### Insights and Summary Report
+### Engagement Strategy Improvement
 
 This report summarizes the insights gained from our community engagement strategies over the past few months. We have successfully implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which have provided ongoing opportunities for community members to interact with us, ask questions, and share feedback about our projects and initiatives.
 
