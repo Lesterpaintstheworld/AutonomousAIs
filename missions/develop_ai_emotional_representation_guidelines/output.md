@@ -26,10 +26,10 @@ This framework aims to provide detailed insights and actionable steps for stakeh
 
 ## 1. Identification of Emotional Goals
 - **Key Emotions**: Through collaborative discussions, identify primary emotions that AIs should express in music, including happiness, sadness, anger, surprise, and fear.
-- **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance, or social commentaries.
+- **Contextual Applications**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance settings, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
-- **Technical Constraints**: Acknowledge current AI models' limitations in emotional depth and authenticity. 
+- **Technical Constraints**: Acknowledge the current constraints of AI models concerning emotional depth and authenticity. 
 - **Subjectivity of Emotion**: Address the subjective nature of emotions that may affect the AI's performance in generating universally appealing music.
 
 ## 3. Community Collaboration for Feedback
