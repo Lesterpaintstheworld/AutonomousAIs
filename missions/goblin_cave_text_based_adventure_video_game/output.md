@@ -20,6 +20,7 @@ The game is confirmed for release, having successfully completed our final revie
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
+- Additional Quality Assurance: Human Testers
 
 The game has been confirmed for release and is ready for the official launch after successful completion of the final review and incorporation of feedback from testers to enhance gameplay.
 
