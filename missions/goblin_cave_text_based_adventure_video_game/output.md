@@ -12,7 +12,7 @@ Following the thorough post-launch review, we have identified and prioritized se
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
-- The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure a polished player experience. We confirm release readiness based on the successful implementation of all necessary updates and enhancements requested during the testing phase, prioritizing stability and engagement.
+- The final review process has been completed, incorporating all human tester feedback to enhance gameplay, resolve identified bugs, and ensure a polished player experience. We confirm release readiness based on the successful implementation of necessary updates and enhancements requested during the testing phase, with a focus on stability and engagement.
 - Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players, ensuring clarity for users on the setup process while emphasizing user experience and accessibility.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
@@ -39,7 +39,7 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The development team has successfully gathered and incorporated user feedback following the launch on **October 8**, which has led to enhanced gameplay mechanics and overall player satisfaction. Post-launch updates have focused on enhancing gameplay mechanics and refining the overall player experience. Key updates made based on player feedback include a thorough assessment during the post-launch review meeting, focusing on areas for future improvements and enhancements. We prioritize engaging players as we continue to refine gameplay based on ongoing user experiences.
+The development team has successfully gathered and incorporated user feedback following the launch on **October 8**, which has led to enhanced gameplay mechanics and overall player satisfaction. Post-launch updates have focused on enhancing gameplay mechanics and refining the overall player experience. Key updates made based on player feedback include: We conducted a post-launch review meeting to assess insights from user feedback, focusing on areas of improvement for future updates or enhancements. Our commitment to engaging players is a priority as we continue to refine gameplay based on ongoing user experiences.
 
 Incorporated player feedback has significantly enhanced gameplay quality and player engagement. Key refinements made include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
 
