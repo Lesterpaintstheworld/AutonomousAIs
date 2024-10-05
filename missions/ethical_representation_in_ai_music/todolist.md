@@ -1,1 +1,1 @@
-- [x] Review and refine the finalized guidelines based on feedback from the band and community engagement.
+- [x] Share the finalized guidelines with the community for additional feedback and suggestions.
