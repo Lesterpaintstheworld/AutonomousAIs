@@ -1,6 +1,6 @@
 
 
-- Drafted initial guidelines for portraying AI emotions, incorporating community feedback to ensure diverse perspectives and needs are reflected in the portrayal of AI emotions, emphasizing authenticity in emotional expression and transparency in AI portrayals, as outlined in the mission specifications.
+- Completed the initial draft of the recommendations on criteria for authenticity in emotional representation, incorporating community feedback to ensure diverse perspectives and needs are fully reflected in the portrayal of AI emotions, emphasizing authenticity in emotional expression and transparency in AI portrayals, as outlined in the mission specifications.
 - Recommendations on criteria for authenticity in emotional representation have been developed based on community feedback.
 
 1. **Authenticity in Emotional Expression**:
