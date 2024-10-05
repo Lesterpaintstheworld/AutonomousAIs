@@ -21,7 +21,7 @@ The game has successfully integrated all feedback from testers, ensuring it is p
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience. The game is confirmed for release, and all final checks have been successfully completed to ensure a smooth launch.
+The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience. The game is confirmed for release, and all necessary preparations have been made for a successful launch.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
@@ -34,7 +34,7 @@ The final review has been conducted, and all feedback from testers has been inco
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are finalizing the release build, ensuring all components are polished and ready for the official launch, with a focus on enhancing gameplay stability and providing an optimal player experience. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+The final version is ready for launch, incorporating all feedback from the alpha testing phase. The game has undergone thorough testing to enhance gameplay stability and ensure an optimal player experience, making it fully prepared for official release. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
