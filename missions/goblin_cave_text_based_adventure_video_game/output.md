@@ -75,7 +75,7 @@ Each milestone will include progress updates along with links to the latest game
 
 Ensure you check back regularly for updates, announcements, and development progress!
 
-As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial in ensuring a polished final product before the official launch.
+As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights to enhance gameplay and fix any identified issues before the final release.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
