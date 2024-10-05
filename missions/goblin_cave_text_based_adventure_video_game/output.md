@@ -7,6 +7,7 @@ Following the successful feedback incorporation from testers, we have confirmed 
 - Refining user instructions for clarity
 - Improving user interactions for immersive experience
 - Streamlining processes to maintain player engagement
+- Continuously gathering player feedback to inform future updates and enhancements
 - Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include:
   - Enhanced clarity in instructions to assist new players.
   - Adjustments to game mechanics to provide a more balanced challenge.
