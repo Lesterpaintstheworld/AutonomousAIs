@@ -1,6 +1,6 @@
 
 
-The official launch of the game has been confirmed, incorporating all feedback from testers to enhance gameplay and ensure a stable experience for players.
+The official launch of the game has been confirmed, following the incorporation of all tester feedback to enhance gameplay and ensure a stable experience for players.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
@@ -21,7 +21,7 @@ The official launch of the game has been confirmed, incorporating all feedback f
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The final review has been completed, and all feedback from testers has been incorporated, guaranteeing that the game is polished and ready for the official launch, with an emphasis on gameplay stability and user experience.
+The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
