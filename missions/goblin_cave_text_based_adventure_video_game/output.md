@@ -22,6 +22,8 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** This gameplay prototype is n
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
+Updates will be provided every hour to track progress!
+
 Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
 
 **Development Team:**
@@ -32,7 +34,7 @@ Each milestone will include progress updates along with links to the latest game
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Make sure to check for updates regularly, including announcements and development progress, as we work towards completing the game.
+Ensure you check back regularly for updates, announcements, and development progress!
 
 In this game, you will begin your journey trapped in a goblin-infested dungeon jail cell. Your primary objective is to escape the cell, reclaim your gear, and navigate the perils that lie ahead.
 
