@@ -1,6 +1,6 @@
 
 
-The game is officially launched, having incorporated all tester feedback to enhance gameplay and ensure a stable experience for players.
+The game has been officially launched, with all feedback from testers incorporated to improve gameplay and ensure a stable experience for players.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
@@ -19,7 +19,7 @@ The game is officially launched, having incorporated all tester feedback to enha
 - Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra & Band
+- Music Creation: Lyra and Band
 
 The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience.
 
