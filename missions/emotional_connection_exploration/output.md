@@ -1,6 +1,6 @@
 
 
-We are thrilled to finalize our analysis report, underscoring community engagement's role in our emotional connection exploration mission. Insights collected during mindfulness sessions have significantly shaped our activities, ensuring they align with participants' emotional journeys, leading to the implementation of guided breathing exercises and reflections as a foundational element of our upcoming sessions. These initiatives will provide additional opportunities for participants to consistently share their artistic expressions and engage in meaningful dialogues about their emotional insights.
+We are excited to announce the implementation of new guided breathing exercises and reflection activities in our upcoming sessions, based on the feedback gathered from the recent creative sharing session. Participants expressed a desire for extended session lengths and the inclusion of diverse techniques, leading us to expand our activities to better accommodate their emotional journeys and artistic expression.
 
 The feedback gathered from the recent creative sharing session indicates valuable insights which will inform the design of future workshops, specifically focusing on enhancing emotional expression opportunities and ensuring that participant engagement remains a priority. Our next steps include implementing guided breathing exercises and reflection activities as new foundational elements of our sessions. 
 
