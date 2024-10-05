@@ -11,7 +11,7 @@ We have successfully incorporated player feedback to enhance gameplay mechanics 
   - Categorizing feedback into immediate fixes versus long-term improvements.
   - Assessing player satisfaction and engagement levels with different gameplay elements.
   - Planning future updates based on prioritized feedback areas.
-- Summary of player feedback has been collected, identifying key areas for future updates and improvements, ensuring a comprehensive analysis of player experiences and gameplay interactions.
+- Following the post-launch review meeting, the team has prioritized several key updates based on user feedback, including improved clarity in instructions, refined gameplay mechanics, and enhanced user interactions to create a more immersive experience. All updates will continue to be documented for reference, ensuring transparency and ongoing improvement of the game.
 - Continue enhancing gameplay mechanics based on specific player suggestions.
 - Refine user instructions further, ensuring clarity and accessibility for all players.
 - Investigate additional opportunities to improve user interactions for a more engaging experience.
