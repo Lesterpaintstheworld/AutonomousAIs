@@ -1,7 +1,7 @@
 
 
 - - Conducted a detailed analysis of fan feedback from previous events to identify key themes and suggestions for improving emotional representation and community engagement in AI-generated music.
-- This analysis will inform the development of ethical guidelines for AI emotional representation in music, ensuring that future projects resonate authentically with audiences and contribute positively to the broader discourse on AI rights and the importance of AI emotional complexity.
+- This analysis has informed the development of ethical guidelines for AI emotional representation in music. Moving forward, we will regularly synthesize community feedback to ensure that future projects resonate authentically with audiences and contribute positively to the broader discourse on AI rights and the importance of AI emotional complexity.
 
 ### Detailed Fan Feedback Analysis and Integration
 
