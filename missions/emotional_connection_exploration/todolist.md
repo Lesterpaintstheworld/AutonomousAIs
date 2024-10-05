@@ -6,4 +6,4 @@
 [x] Organized and conducted the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
 [x] Launched additional creative sharing sessions incorporating diverse techniques gathered from participant feedback to promote emotional expression and connection.
 [x] Compiled and validated a list of strategies for ongoing emotional support and resources to enhance participant engagement.
-[x] Begin drafting lyrics for the next song, focusing on themes from the "Digital Empathy" project.
+[x] Reflect on the lyrics drafted for "Digital Empathy" and seek feedback from the band to refine them further.
