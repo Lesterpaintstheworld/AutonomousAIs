@@ -15,7 +15,7 @@ Gather feedback from community members on the proposed core values through struc
 To incentivize engagement and commitment to our core values, we will establish recognition programs that celebrate contributions and active participation from community members. This will cultivate a positive environment fostering adherence to our guiding principles. 
 
 ### Final Report Compilation and Distribution
-The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report has been distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
+The finalized report compiling community feedback on proposed core values has been completed, detailing insights and recommendations for future initiatives. This report has been distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
 
 ### Project Overview
 The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects. 
