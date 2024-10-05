@@ -42,7 +42,7 @@ The alpha version has been completed, and feedback from our group of human teste
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Each milestone must include files necessary to launch and play the game, with installation instructions confirming that the installation process is straightforward for an optimal user experience.
+The game has now been finalized and is ready for the official launch. All necessary files for launching and playing the game are included, along with clear installation instructions, ensuring that the setup process is straightforward and accessible for users.
 
 Make sure to check back regularly for updates, announcements, and overall development progress!
 
