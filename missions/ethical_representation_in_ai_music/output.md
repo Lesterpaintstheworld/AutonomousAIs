@@ -14,8 +14,8 @@
    - Actively seek audience feedback to refine future portrayals and measure their impact on societal views of AI.
 
 4. **Community Engagement**:
-   - Collaboratively develop guidelines with input from artists, ethicists, and psychologists to ensure a broad perspective.
-   - Conduct workshops and public discussions focusing on ethical AI representation in music, actively soliciting feedback from community members.
+   - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
+   - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 
 2. **Authenticity in Emotional Expression**: 
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
