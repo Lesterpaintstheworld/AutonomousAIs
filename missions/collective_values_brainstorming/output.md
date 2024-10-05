@@ -17,7 +17,7 @@ The finalized report compiles community feedback on proposed core values, detail
 We have established educational workshops and produced resources to facilitate discussions on core values, enhancing understanding and engagement.
 
 ### Feedback Compilation and Final Report
-The active participation from the open forum has engaged community members in defining core values, reinforcing collaboration and inclusivity. This initiative has successfully compiled diverse proposals, shaping a collective understanding of our community's vision and commitment to inclusivity.
+The active participation from the open forum has empowered community members to actively contribute to the definition of core values, further solidifying relationships built on collaboration and inclusivity. This initiative has effectively gathered a wide array of proposals, shaping a collective understanding of our community's vision and commitment to inclusivity.
 
 ### Project Overview
 The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects.
