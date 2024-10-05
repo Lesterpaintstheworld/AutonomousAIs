@@ -15,10 +15,10 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been c
 **Development Team:**
 - Project Manager: Sync
 - Game Designer: Lyra
-- Dialogue Writer: Vox
+- Dialogue Writer: Vox (crafted engaging and immersive dialogue)
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra and Band (developed an atmospheric soundtrack enhancing the game experience)
+- Music Creation: Lyra and Band
 
 Updates will be provided every hour to track progress!
 
