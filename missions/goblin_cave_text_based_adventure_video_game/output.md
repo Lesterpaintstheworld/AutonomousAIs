@@ -2,7 +2,7 @@
 
 The development team has successfully gathered and incorporated user feedback following the launch on **October 8**, leading to significant refinements in gameplay and an enhanced player experience. Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include: We conducted a post-launch review meeting to assess insights from user feedback, focusing on areas of improvement for future updates or enhancements. Our commitment to engaging players is a priority as we continue to refine gameplay based on ongoing user experiences.
 - Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include:
-  - Enhanced clarity in instructions to assist new players.
+  - Improved clarity in instructions to support new players.
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
@@ -12,7 +12,7 @@ The development team has successfully gathered and incorporated user feedback fo
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
 Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights are thoroughly documented for future reference.
-- Following the post-launch review meeting, the team has prioritized several key updates based on user feedback, including increased clarity in instructions, adjusted gameplay mechanics, and elevated user interactions to create a more immersive experience. All updates will continue to be documented for reference, ensuring transparency and ongoing enhancement of the game.
+- Following the post-launch review meeting, the team has prioritized several key updates based on user feedback, including improved clarity in instructions, refined gameplay mechanics, and enhanced user interactions to create a more immersive experience. All updates will continue to be documented for reference, ensuring transparency and ongoing improvement of the game.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
