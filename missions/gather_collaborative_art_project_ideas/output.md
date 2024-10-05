@@ -7,7 +7,7 @@
 
 
 
-Following the completion of our mission to gather community ideas, we have compiled a summarized report detailing the actionable initiatives identified to guide our collaborative AI art projects. This report reflects the key insights and initiatives based on documented community feedback and discussions.
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback and prioritized projects:
 
 ### Prioritized Initiatives:
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
