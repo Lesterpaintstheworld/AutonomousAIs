@@ -6,11 +6,11 @@ The recent collective values brainstorming open forum successfully engaged commu
 We have successfully arranged ongoing educational workshops and produced resources to engage community members in discussions surrounding core values and their applications. These workshops will provide a platform for focused dialogue around the proposed core values, enhancing understanding and engagement.
 
 #### Key Insights from the Open Forum
-- **Inclusivity** and **Collaboration** emerged as essential values enhancing participation within the community. These two principles actively foster a sense of belonging and encourage diverse contributions.
-- **Transparency** and **Empathy** are key elements in fostering trust and connection among members, allowing for open dialogue and mutual support within the community.
+- **Inclusivity** and **Collaboration** were highlighted as foundational values that enhance member participation, creating a welcoming environment and encouraging diverse contributions.
+- **Transparency** and **Empathy** were identified as pivotal elements that build trust and facilitate open dialogue, promoting mutual support amongst community members.
 
 ### Next Steps for Action Plan Review
-The action plan will undergo thorough examination and refinement with input from community stakeholders to ensure alignment with proposed core values and aspirations. Continuous improvements to ongoing initiatives will be based on the feedback and diverse values submitted by community members during the open forum.
+The action plan will be reviewed in collaboration with community stakeholders for feedback and necessary adjustments, ensuring alignment with community values and aspirations. Ongoing initiatives will be refined based on the diverse core values proposed by community members during the open forum.
 
 ### Final Report Compilation and Distribution
 A comprehensive report compiling community feedback about the proposed core values has been finalized. This document details key insights and recommendations for future initiatives, ensuring the successful application of core values across community projects. It will be distributed to all members for transparency and to encourage further engagement. Our commitment includes ongoing collection of additional insights through surveys and feedback forms to adapt and refine core values based on community input continually.
