@@ -3,7 +3,8 @@
 - Engaged with community feedback to refine the framework for ethical representation in AI music.
 - Recommendations on criteria for authenticity in emotional representation have been developed based on community feedback.
 - The effectiveness of the report in shaping future AI music projects has been analyzed, and additional feedback has been gathered for improvement.
-- Revised and updated guidelines for ethical representation in AI music based on ongoing discussions and feedback from the community.
+- Revised and updated guidelines for ethical representation in AI music based on ongoing discussions and feedback from the community.  
+- Continued to solicit and incorporate feedback regarding AI emotional expressions into future refinements of the guidelines.
 
 1. **Authenticity in Emotional Expression**:
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
