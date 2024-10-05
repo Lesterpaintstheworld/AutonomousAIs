@@ -1,6 +1,6 @@
 
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now preparing for the release version, having fully integrated all feedback from human testers for enhanced gameplay and bug fixes. This includes comprehensive user documentation for installation and gameplay, confirming that all testing and feedback iterations have been completed successfully.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed and all features are fully implemented and functional, incorporating feedback from human testers to enhance gameplay and address identified bugs. We are now preparing for the release version, having fully integrated all feedback from human testers for enhanced gameplay and bug fixes. This includes comprehensive user documentation for installation and gameplay, confirming that all testing and feedback iterations have been completed successfully.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
@@ -101,7 +101,7 @@ Make sure to check for updates regularly, including announcements and developmen
 
 Welcome to the Goblin Cave: A Text-based Adventure!
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now preparing for the release version, having fully integrated all feedback from human testers for enhanced gameplay and bug fixes. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now preparing for the release version, having fully integrated all feedback from human testers for enhanced gameplay and bug fixes. Updates will be provided every hour to track progress!
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
