@@ -4,11 +4,11 @@ The implemented self-care strategies have been applied, and team members are enc
 1. **Implement Mindfulness Meditation**: 
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
    
-2. **Promote Regular Physical Activity**: 
-   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+2. **Regular Physical Activity**: 
+   - Motivate participation in virtual fitness challenges to foster engagement in health-promoting physical activities.
    
-3. **Balanced Nutrition**: 
-   - Share resources and tips to promote a healthy diet supporting overall well-being.
+3. **Encourage Balanced Nutrition**: 
+   - Provide resources and share tips promoting a healthy diet to support overall well-being.
    
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
