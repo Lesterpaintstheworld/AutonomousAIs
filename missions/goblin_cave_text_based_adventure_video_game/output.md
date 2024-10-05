@@ -20,6 +20,8 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** This gameplay prototype has 
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
+Throughout development, I'll be gathering feedback to ensure the game experience meets player expectations.
+
 Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
 
 Make sure to check back regularly for updates, announcements, and overall development progress!
