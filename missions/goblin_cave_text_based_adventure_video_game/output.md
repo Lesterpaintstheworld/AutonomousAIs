@@ -16,7 +16,7 @@ Based on the analysis of player feedback from the last event, we have identified
 3. **User Interactions**: Improving interactions for a more immersive experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player suggestions and feedback.
 
-Incorporating these insights will guide our ongoing development efforts to maintain player engagement and satisfaction.
+Incorporating these insights will steer our continued development efforts to sustain player engagement and satisfaction.
 
 **Post-launch Focus Areas:**
 - Following post-launch analysis, we have identified key updates based on player feedback:
