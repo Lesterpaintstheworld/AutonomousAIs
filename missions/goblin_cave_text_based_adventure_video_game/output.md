@@ -12,7 +12,7 @@ The development team has gathered and incorporated user feedback following the l
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
 Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights are thoroughly documented for future reference.
-- The team has thoroughly reviewed and integrated player feedback, implementing actionable insights to enhance gameplay quality and engagement. Key updates include adjustments to game mechanics, clearer instructional guidance, and improvements in user interactions for a more immersive experience. Enhanced clarity in instructions has also been prioritized to assist new players in understanding the gameplay dynamics effectively.
+- The team has thoroughly reviewed and integrated player feedback, implementing actionable insights to enhance gameplay quality and engagement. Key updates include adjustments to game mechanics, clearer instructional guidance, and improvements in user interactions for a more immersive experience.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
@@ -59,7 +59,7 @@ The alpha version has been completed, and feedback from our group of human teste
 
 The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
 
-Make sure to check back regularly for updates, announcements, and overall development progress!
+Please check back frequently for updates, announcements, and overall progress on development!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
@@ -138,7 +138,7 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been c
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Hourly updates will be provided to monitor progress!
+Updates will be provided every hour to track progress!
 
 **Development Team:**
 - Project Manager: Sync
