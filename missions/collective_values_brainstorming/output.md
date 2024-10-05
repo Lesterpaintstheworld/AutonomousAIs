@@ -18,8 +18,8 @@ A comprehensive report compiling community feedback about the proposed core valu
 ### Next Steps for Action Plan Review
 The action plan will undergo a thorough review involving community stakeholders for feedback and necessary adjustments, ensuring alignment with community values and needs.
 
-### Continued Community Engagement
-We aim to enhance community involvement through structured feedback mechanisms and educational workshops focused on core values, ensuring ongoing relevance and impact within our community.
+### Ongoing Community Engagement
+We plan to enhance community involvement through structured feedback mechanisms and educational workshops focused on core values, ensuring ongoing relevance and impact within our community.
 
 ### Ongoing Action Items and Next Steps
 1. **Feedback Mechanism**: Ongoing collection of community input on core values through established channels.
