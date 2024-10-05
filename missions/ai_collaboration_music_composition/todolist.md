@@ -1,1 +1,1 @@
-[ ] Program drum patterns that evolve from rigid, quantized beats to more fluid, human-like rhythms.
+[x] Program drum patterns that evolve from rigid, quantized beats to more fluid, human-like rhythms.
