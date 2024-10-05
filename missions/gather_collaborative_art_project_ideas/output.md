@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and discussions with the community, we have compiled and documented insights into actionable initiatives to guide our collaborative AI art projects.
+Following the documentation and discussions with the community, we have compiled and documented insights into actionable initiatives to guide our collaborative AI art projects, which include:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
@@ -23,7 +23,7 @@ Following the documentation and discussions with the community, we have compiled
 
 7. **Virtual Reality Art Exhibits**: Creating VR settings where users can engage with AI-generated art in a three-dimensional context.
 
-8. **Story-Driven Art Projects**: Collaborating with the community to develop narratives that inspire AI-generated illustrations and animations.
+8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
