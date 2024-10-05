@@ -27,7 +27,7 @@ The game was officially released on **October 8**, incorporating all necessary a
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
-- Your primary objective is to escape your jail cell using a key you must discover.
+- Your main objective is to escape your jail cell using a key found within the game.
 - Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
 
 **Installation Instructions:**
