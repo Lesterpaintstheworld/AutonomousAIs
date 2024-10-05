@@ -2,7 +2,7 @@
 
 We have completed the review and analysis of player feedback, which has generated actionable insights aimed at significantly enhancing gameplay quality and player engagement. We are currently implementing prioritized updates based on this feedback to ensure an engaging experience that meets player expectations.
 
-- **Review and Analysis of Player Feedback**: The review and analysis of player feedback is now completed, generating actionable insights aimed at significantly enhancing gameplay quality and player engagement. We are implementing prioritized updates based on this feedback to ensure an engaging experience that meets player expectations, and we will gather further player feedback after these updates to continue improving the game.
+- **Review and Analysis of Player Feedback**: The review and analysis of player feedback has been completed, generating actionable insights aimed at significantly enhancing gameplay quality and player engagement. We are currently implementing prioritized updates based on this feedback to ensure an engaging experience that meets player expectations. Ongoing feedback will be gathered after these updates to support continuous improvement of the game.
 - **Enhancement Implementation**: The team is implementing prioritized gameplay updates. Feedback integration will further enhance the player experience and overall game engagement.
 
 **Gameplay Overview:**
