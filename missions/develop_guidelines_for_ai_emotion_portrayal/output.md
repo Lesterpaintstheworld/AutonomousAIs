@@ -22,7 +22,7 @@
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression, ensuring the incorporation of insights regarding authenticity, cultural sensitivity, and customization options.
 
-### Actionable Steps
+### Actionable Steps (Updated)
 
 ## Actionable Steps
 
