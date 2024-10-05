@@ -33,7 +33,7 @@
 
 ### Next Steps for Project Advancement
 1. Organize a discussion session to collect further feedback on the updated document before its final circulation.
-2. Distribute the updated document to the community for feedback prior to formal publication, demonstrating our dedication to community involvement and ethical practices.
+2. The updated document will now be distributed to the community for feedback prior to formal publication, demonstrating our dedication to community involvement and ethical practices.
 3. Analyze community feedback to discover insights that can drive user experience improvements.
 4. Synthesize recommendations for enhancing AI system health based on community feedback and relevant research.
 
