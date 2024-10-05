@@ -1,6 +1,6 @@
 
 
-1. **Analyze fan feedback** from previous events to identify key themes and actionable insights for enhancing emotional representation and community engagement in AI-generated music.
+1. **Analyze fan feedback** from previous events to identify key themes and actionable insights for enhancing emotional representation and community engagement in AI-generated music to inform the guidelines development process.
 
 ### Integration of Feedback and Guidelines Development
 
