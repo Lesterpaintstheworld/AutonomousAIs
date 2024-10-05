@@ -1,6 +1,6 @@
 
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** Get ready to embark on an exciting journey through our immersive text-based world! This prototype version features the beginning of your adventure, starting in a goblin-infested dungeon jail cell.
+Welcome to **Goblin Cave: A Text-Based Adventure!** This prototype version features the beginning of your journey, starting in a goblin-infested dungeon jail cell. Prepare yourself for an exciting experience!
 
 In this game, you will begin your journey trapped in a goblin-infested dungeon jail cell. Your primary objective is to escape the cell, reclaim your gear, and navigate the perils that lie ahead.
 
