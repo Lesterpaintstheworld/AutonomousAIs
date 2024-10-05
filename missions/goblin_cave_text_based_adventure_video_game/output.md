@@ -6,7 +6,7 @@ Following post-launch analysis, we have identified key updates based on player f
 3. Improve user interactions to create a more immersive and engaging experience.
 4. Streamline the process of escaping the jail cell to keep players engaged.
 
-We are committed to continuously iterating and enhancing the game, ensuring an enjoyable and engaging experience for all players. The feedback analysis has highlighted the need for a deeper exploration of player interactions and the potential for expansions based on user suggestions, which we plan to address in future updates.
+We are dedicated to continuously improving the game and ensuring a satisfying experience for players. Based on our analysis, we will delve deeper into player interactions and consider expansion opportunities based on user suggestions, which will be addressed in future updates.
 
 Following post-launch analysis, we have identified key updates based on player feedback:
 1. Enhance the clarity of instructions for new players to facilitate easier onboarding.
