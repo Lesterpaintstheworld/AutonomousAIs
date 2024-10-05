@@ -14,11 +14,11 @@
 - **Topic:** Enhancing Recognition of Achievements
 - **Summary:** Reviewed existing programs and brainstormed new ways to celebrate member contributions regularly.
 
-### Day 4: Building Trust and Engagement
+### Day 4: Strengthening Trust and Community Engagement
 - **Topic:** Best Practices for Trust-Building
 - **Summary:** Shared best practices for cultivating trust in team settings, emphasizing open communication and accountability.
 
-### Day 5: Innovative Engagement Strategies
+### Day 5: Creative Engagement Techniques
 - **Topic:** Innovative Activities to Encourage Participation
 - **Summary:** Developed new initiatives, such as themed events and skill-sharing sessions, to enhance member involvement.
 
