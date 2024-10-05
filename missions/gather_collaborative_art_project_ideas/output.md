@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into actionable initiatives. The insights gathered shape the direction moving forward, and the implementation of prioritized initiatives will be actively pursued to enhance community engagement in our collaborative art projects.
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into actionable initiatives. The insights gathered will continue to shape the direction moving forward. Ongoing implementation of the prioritized initiatives will be actively pursued to enhance community engagement in our collaborative art projects.
 
 ### Prioritized Initiatives:
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
@@ -37,7 +37,7 @@ These initiatives reflect our commitment to fostering creativity and collaborati
 
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives reinforce our commitment to fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We are excited to move forward with these initiatives, emphasizing our commitment to enhancing Chicago's cultural landscape through this collaboration.
+These initiatives reinforce our commitment to fostering creativity, community engagement, and the innovative integration of AI within the local art scene. We will prepare to move forward with these initiatives while enhancing Chicago's cultural landscape through this collaboration.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
