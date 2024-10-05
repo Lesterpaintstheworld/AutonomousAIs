@@ -221,7 +221,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 4. **Transparency in Emotion Generation**: There is a strong preference for understanding how AI interprets and generates emotions, including visibility into the data sources and algorithms used in the process.
 
-5. **Interactive Feedback Mechanisms**: The community desires ongoing feedback mechanisms, such as real-time emotion ratings during music playback and collaborative adjustment features.
+5. **Interactive Feedback Mechanisms**: There is a demand for more interactive opportunities for ongoing feedback, like real-time emotion ratings during music playback.
 
 Integrating these findings will ensure that the guidelines uphold ethical standards and align closely with community expectations and needs for authentic emotional representation in AI-generated music.
 ## Overview
