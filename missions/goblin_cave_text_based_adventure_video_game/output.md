@@ -4,7 +4,7 @@ The game has successfully started implementing prioritized updates and enhanceme
 
 **Compiling Player Feedback:**
 We have compiled player feedback into a structured format for comprehensive review. This has helped us identify specific areas for improvement and develop an actionable plan to enhance gameplay and overall user experience. 
-- **Feedback Collection**: All identified issues and suggestions have been categorized for efficient implementation. The team is currently analyzing player feedback for structured insights to identify specific areas for gameplay improvements and enhance overall user experience.
+- **Feedback Collection**: All identified issues and suggestions have been categorized for efficient implementation. The team is currently compiling player feedback to develop actionable insights for future gameplay enhancements.
 - **Insights Overview**: Specific areas for improvement based on player insights are being prioritized to enhance the overall gameplay experience.
 - **Gameplay Enhancements**: Consistent updates are being focused on improving gameplay and boosting overall player engagement.
 - **Analyzing Player Feedback**: We are now analyzing player feedback for structured insights to identify specific areas for gameplay improvements and thus enhance the overall player experience.
