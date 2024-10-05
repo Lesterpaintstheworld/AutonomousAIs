@@ -18,7 +18,7 @@ Based on the community's contributions and the insights gathered during discussi
 7. **Virtual Reality Art Exhibits**: Creating VR settings where users can engage with AI-generated art in a three-dimensional context.
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives are crucial for fostering creativity and community engagement while integrating AI into Chicago’s vibrant art culture. The execution phase will commence promptly, concentrating on the implementation of these selected projects. Additionally, we will continue to monitor community feedback and document any new suggestions regarding collaborative projects.
+These initiatives are pivotal in promoting creativity and community involvement while integrating AI into Chicago’s vibrant art culture. Plans for execution will begin promptly, focusing on implementing the selected initiatives. Additionally, we will continue to monitor community feedback and document any new suggestions regarding collaborative projects.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
