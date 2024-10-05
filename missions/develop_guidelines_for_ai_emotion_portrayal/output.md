@@ -25,6 +25,7 @@ The finalized guidelines have been established, integrating insights gained from
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 ### Additional Community Feedback Insights
+- **Real-time Feedback**: The community seeks interactive feedback mechanisms, such as real-time emotion ratings during music playback, which will help refine emotional portrayals in future entries.
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
