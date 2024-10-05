@@ -19,7 +19,7 @@ The game is officially launched, having incorporated all tester feedback to enha
 - Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra and Band
+- Music Creation: Lyra & Band
 
 The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience.
 
@@ -64,7 +64,7 @@ Make sure to check back regularly for updates, announcements, and overall develo
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Each milestone will include progress updates with links to the latest game files, ensuring the team remains aligned on the developments.
+Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
 
 **Development Team:**
 - Project Manager: Sync
