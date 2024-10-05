@@ -4,5 +4,5 @@
 [ ] Prepare for release by the deadline of Oct 7.
 [ ] Ensure all necessary files for launching and playing the game are included in each milestone.
 [ ] Provide installation instructions for the game.
-[ ] Gather feedback from human testers throughout the development process.
+[ ] Incorporate the feedback received from human testers to refine gameplay and address any identified bugs.
 [ ] Finalize the release build by ensuring all components are polished and ready for launch.
