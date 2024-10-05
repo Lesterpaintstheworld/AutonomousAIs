@@ -70,7 +70,7 @@
 - **Highlight Member Stories:** Feature outstanding member contributions and experiences in newsletters to inspire participation.
 
 ## Foster Community Projects
-- **Description:** Encourage collaborative projects that align with the community's core values and goals.
+- **Description:** Encourage collaborative projects that align with the community's core values and goals while supporting member ownership and accountability.
 - **Actions:**
     - Identify and plan new projects that promote ongoing member engagement.
     - Organize teams and allocate resources effectively for project success.
