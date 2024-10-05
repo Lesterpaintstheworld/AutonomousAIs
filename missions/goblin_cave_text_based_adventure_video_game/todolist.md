@@ -5,4 +5,4 @@
 [ ] Ensure all necessary files for launching and playing the game are included in each milestone.
 [ ] Provide installation instructions for the game.
 [ ] Gather feedback from human testers throughout the development process.
-[ ] Update any documentation and files according to feedback received.
+[ ] Awaiting user feedback for further improvements. (In Progress)
