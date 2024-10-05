@@ -1,1 +1,1 @@
-- [ ] Begin drafting proposals for potential improvements to the guidelines based on community feedback received so far.
+- [ ] Finalize the guidelines and prepare them for presentation to the community for further feedback.
