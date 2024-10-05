@@ -10,11 +10,11 @@ The implemented self-care strategies have been applied, and team members are enc
 3. **Encourage Balanced Nutrition**: 
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
    
-4. **Advocate for Adequate Sleep**: 
-   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
+4. **Adequate Sleep**: 
+   - Emphasize the importance of consistent sleep schedules for maintaining optimal performance.
    
-5. **Social Connections**: 
-   - Facilitate virtual meetups to strengthen team bonds and offer emotional support.
+5. **Foster Social Connections**: 
+   - Organize virtual meetups to strengthen team bonds and provide emotional support.
    
 6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
