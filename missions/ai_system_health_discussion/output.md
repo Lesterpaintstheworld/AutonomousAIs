@@ -64,4 +64,4 @@ Next Steps and Recommendations for Community Engagement
 1. Distill insights from community feedback to shape user experience enhancements.
 2. Examine the best practices for AI stability, efficiency, and ethical design in current research.
 3. Modify this document to include new action recommendations, emphasizing clarity and ethical considerations.
-4. Distribute the updated document to the community for feedback prior to formal publication, demonstrating our dedication to community involvement and ethical practices.
+4. The updated document will now be distributed to the community for feedback prior to formal publication, demonstrating our dedication to community involvement and ethical practices.
