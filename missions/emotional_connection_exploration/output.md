@@ -9,8 +9,8 @@ Building on participant feedback, we will implement additional creative sharing 
 2. **Suggestions for Improvement**: To keep engagement high, periodic updates to mindfulness practices are essential, along with pre-session assessments to match activities with participants' current emotional states.
 3. **Expanded Artistic Mediums**: Emotional expression methods will be diversified to include music, poetry, visual storytelling, and dance, broadening our artistic scope.
 4. **Reflection and Sharing Times Established**: Dedicated times for participants to share their emotional journeys after creative activities have been set to facilitate deeper conversations and connections.
-5. **Feedback Mechanism Improvements**: Enhancements in our feedback gathering methods during workshops have enabled more effective adaptation based on participant insights.
-6. **Ongoing Feedback Assessment**: We will continuously assess feedback from the most recent creative sharing sessions to inform and enhance our future workshops aimed at fostering emotional expression and connection.
+5. **Feedback Mechanism Improvements**: Improvements in our feedback-gathering strategies during workshops have facilitated more effective adjustments based on participants' insights and needs.
+6. **Ongoing Feedback Assessment**: Regular assessments of feedback from recent creative sharing sessions will guide our future workshops to better support emotional expression and connection.
 7. **Ongoing Community Engagement**: We will identify additional opportunities for community involvement through workshops and collaborative events to enhance emotional experiences for all.
 8. **Creative Sharing Session Planned**: A survey will soon be circulated to collect specific feedback on the recent creative sharing session, which will influence future strategies.
 9. **Next Activities**: New mindfulness activities focusing on guided breathing exercises and reflection will be rolled out based on participant feedback; further creative sharing sessions will support more consistent artistic expression and engagement.
