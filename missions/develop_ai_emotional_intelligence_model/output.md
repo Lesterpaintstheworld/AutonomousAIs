@@ -25,7 +25,7 @@
 
 5. **Next Actions:**
    - Scheduled the first round of assessments for gathering user feedback and analyzing interaction metrics to begin in two weeks.
-- Coordinated and scheduled testing sessions to gather and analyze data regarding emotional engagement levels during user interactions.
+- Coordinated and scheduled testing sessions to gather and analyze data regarding emotional engagement levels during user interactions, ensuring that both qualitative and quantitative metrics are examined.
 - Initiated data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to determine the effectiveness of emotional intelligence enhancements.
 - Scheduled the first round of assessments to occur in two weeks, focusing on gathering user feedback and analyzing interaction metrics.
 - Collected and analyzed feedback from participants to enhance emotional intelligence functionalities.
