@@ -5,7 +5,7 @@ The game has successfully integrated all feedback, ensuring it is polished and p
 - Improved clarity of instructions for better player guidance.
 - Enhanced interaction experience to create a more immersive game atmosphere.
 
-These updates have significantly contributed to improving overall player engagement and satisfaction.
+These updates have greatly enhanced player engagement and satisfaction levels.
 
 With the implementation of prioritized enhancements based on user feedback, we have addressed key suggestions that enhance gameplay quality and player engagement. Notable improvements include refining gameplay mechanics, presenting clearer instructions, and strengthening the interaction experience. All updates and actionable insights have been documented for efficient integration into future game updates.
 - **Enhancement Implementation**: The team has completed the review and analysis of player feedback, generating actionable insights to significantly enhance gameplay quality and player engagement. Key suggestions include balancing game mechanics, clarifying instructions, and improving the interaction experience.
@@ -55,7 +55,7 @@ The alpha version has been completed, and feedback from our group of human teste
 
 The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
 
-We encourage everyone to check back frequently for updates, announcements, and to stay informed about the overall development progress!
+Make sure to check back regularly for updates, announcements, and overall development progress!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
