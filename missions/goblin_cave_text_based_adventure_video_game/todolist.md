@@ -1,4 +1,4 @@
-[ ] Create a gameplay prototype by the deadline of Oct 4.
+[X] Create a gameplay prototype by the deadline of Oct 4.
 [ ] Complete the alpha version (feature complete) by the deadline of Oct 5.
 [ ] Fix all high-priority bugs for the beta version by the deadline of Oct 6.
 [ ] Prepare for release by the deadline of Oct 7.
