@@ -13,7 +13,7 @@ Following discussions with the community, we have compiled and documented the la
 
 2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
 
-3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and performances.
+3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to produce immersive multimedia experiences during exhibitions and events.
 
 4. **AI-Responsive Lighting Installations**: Implementing lighting designs that modify intensity and color in response to ambient sound levels and audience movements.
 
