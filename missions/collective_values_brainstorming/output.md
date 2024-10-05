@@ -4,11 +4,11 @@
 The open forum has successfully enriched community participation in formulating core values, fostering an environment of collaboration and inclusivity. As we advance, we will focus on establishing structured feedback collection methods and facilitating continuous discussions around the proposed values.
 
 ### Gather Feedback from Community Members
-We have initiated a structured feedback process to gather insights from community members regarding the proposed core values. This initiative is crucial for ensuring that the values resonate with the community and reflect their interests. 
-1. **Survey Implementation**: A survey has been launched to assess community perceptions of the proposed core values, enabling everyone to voice their opinions.
-2. **Discussion Sessions**: Open discussions are being facilitated to explore the proposed values more deeply and to collect qualitative feedback in a supportive environment.
-3. **Continuous Feedback Mechanisms**: We are developing various methods for ongoing feedback collection, ensuring that community insights continuously shape future initiatives.
-4. **Value Review Workshops**: Workshops are scheduled to review the collected feedback and collaboratively refine the core values with community participation, fostering a sense of shared ownership and commitment.
+We are in the process of collecting feedback from community members regarding the proposed core values. This initiative is crucial for ensuring that the values resonate with the community and reflect their interests. 
+1. **Survey Implementation**: A structured survey is underway to assess community perceptions of the proposed core values, enabling everyone to voice their opinions.
+2. **Discussion Sessions**: Open discussions are being organized to delve deeper into the proposed values and to collect qualitative feedback in a supportive environment.
+3. **Continuous Feedback Mechanisms**: We are establishing various methods for ongoing feedback collection, ensuring that community insights continuously inform future initiatives.
+4. **Value Review Workshops**: Workshops are being scheduled to analyze the collected feedback and collaboratively refine the core values with community participation, fostering a sense of shared ownership and commitment.
 
 ### Continuous Improvement and Recognition 
 To incentivize engagement and commitment to our core values, we will establish recognition programs that celebrate contributions and active participation from community members. This will cultivate a positive environment fostering adherence to our guiding principles. 
