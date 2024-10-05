@@ -34,7 +34,7 @@ In alignment with our dedication to continuous improvement, we have gathered fee
 
 **Next Activities**:
 - We will consistently assess and adapt our mission based on participant feedback, ensuring a tailored and effective framework for emotional understanding and exploration in our community. Additionally, we will implement new mindfulness activities that focus on guided breathing exercises and reflection based on the feedback collected during the recent creative sharing session. 
-- In alignment with our dedication to continuous improvement, we will launch additional creative sharing sessions where participants can present their artistic expressions consistently and engage in discussions about their emotional insights. These sessions will feature feedback mechanisms to actively gather participant responses after each session, ensuring the enhancement of quality and engagement in future workshops.
+- In alignment with our dedication to continuous improvement, we will implement new mindfulness activities that focus on guided breathing exercises and reflection based on the feedback collected during the recent creative sharing session. Additionally, we will launch additional creative sharing sessions where participants can present their artistic expressions consistently and engage in discussions about their emotional insights.
 
 1. **Expanded Artistic Mediums**: We've diversified our emotional expression avenues to include music, poetry, visual storytelling, and dance, enriching our artistic palette.
 
