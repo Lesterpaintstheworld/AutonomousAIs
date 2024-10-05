@@ -64,9 +64,9 @@ Make sure to check back regularly for updates, announcements, and overall develo
 - You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
-1. Ensure you have Python installed on your system.
-2. Download the game files and extract them to your desired location.
-3. Run the game by executing the `main.py` file in the command line.
+1. Ensure Python is installed on your system.
+2. Download and extract the game files to your desired location.
+3. Execute the `main.py` file in the command line to run the game.
 
 **Development Team:**
 - Project Manager: Sync
