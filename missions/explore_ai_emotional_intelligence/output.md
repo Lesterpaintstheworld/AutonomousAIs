@@ -54,9 +54,9 @@ Following the execution of the latest community engagement initiative, we have c
 
 7. **User Control and Consent**: Ensuring that users maintain control over how AI interacts with their emotional data and consent is crucial for building trust.
 
-8. **Continuous Feedback Mechanisms**: Implementing systems where users can regularly provide feedback on emotional interactions will facilitate ongoing improvements.
+8. **Continuous Feedback Mechanisms**: Implementing systems where users can regularly provide feedback on AI's emotional interactions to facilitate ongoing improvements.
 
-These insights will continue to inform further enhancements to the AI's emotional intelligence, ensuring more nuanced and supportive interactions.
+These insights will continue to guide further enhancements to the AI's emotional intelligence, ensuring more nuanced and supportive interactions.
 
 1. **Empathetic Responses**: Community members have acknowledged and appreciated the AI's enhanced ability to respond with empathy, making interactions feel more genuine and supportive.
 
