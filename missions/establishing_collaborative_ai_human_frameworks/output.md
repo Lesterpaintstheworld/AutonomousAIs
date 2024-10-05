@@ -1,5 +1,11 @@
 ## Established Guidelines
 
+### Key Performance Indicators (KPIs)
+- **Creativity Output**: Measure the quantity and quality of creative contributions from both AI and human participants.
+- **User Satisfaction**: Gather feedback from collaborators to assess their satisfaction with the collaboration process and outcomes.
+- **Task Completion Rates**: Track the efficiency of task allocation and completion by both AI and human collaborators.
+- **Engagement Metrics**: Analyze the frequency and quality of interactions within collaboration platforms.
+
 1. **Regular Assessment**: Implement regular evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness.
 2. **Alignment with Goals**: Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through thorough KPI analysis.
 
