@@ -27,7 +27,7 @@ Following the review of player feedback, we have identified several key areas fo
   1. Enhance the clarity of instructions for new players to facilitate easier onboarding.
   2. Refine gameplay mechanics for balanced challenges that can better engage players.
   3. Improve user interactions to create a more immersive and engaging experience.
-- Incorporating player feedback has significantly enhanced gameplay quality and player engagement. Key refinements made include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights have been documented for future reference, ensuring transparency and ongoing improvement of the game.
+- Incorporated player feedback has significantly enhanced gameplay quality and player engagement. Key refinements made include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
 - The review process has been successfully completed, and all player feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure a polished player experience ready for the official launch, prioritizing stability and engagement.
 - Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players to ensure clarity on the setup process while emphasizing user experience and accessibility.
 
