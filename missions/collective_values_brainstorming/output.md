@@ -1,7 +1,7 @@
 
 
 ### Community Engagement Summary
-Engagement among community members regarding core values and their applications has been continuously strengthened through discussions and educational workshops, creating a collaborative atmosphere. 
+The active participation from the open forum has empowered community members to actively contribute to the definition of core values, further solidifying relationships built on collaboration and inclusivity. This initiative has effectively gathered a wide array of proposals, shaping a collective understanding of our community's vision and commitment to inclusivity. 
 1. **Inclusivity** and **Collaboration** have emerged as foundational values, significantly enhancing engagement and fostering a sense of belonging within the community.
 2. **Transparency** and **Empathy** are essential for building trust and enabling open dialogue, ensuring all voices are heard and respected.
 
