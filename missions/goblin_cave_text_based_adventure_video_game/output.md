@@ -4,8 +4,8 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been c
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
-- Your primary objective is to escape your jail cell using a key you must discover.
-- Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
+- Your first task is to escape your jail cell using a key you must find.
+- Along your journey, you will face challenges, including tricking a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
