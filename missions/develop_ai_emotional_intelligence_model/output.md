@@ -13,7 +13,7 @@
    - Compiled and finalized theoretical models of emotional intelligence in AI, incorporating feedback and insights gained from community discussions and analyses to ensure accuracy and relevance.
    - Planned and conducted initial workshops to begin effectively integrating emotional intelligence models into AI systems based on participant insights.
 - Coordinated and scheduled a detailed data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to determine the effectiveness of emotional intelligence enhancements.
-- Scheduled and conducted follow-up workshops to further refine the emotional intelligence models based on feedback and findings.
+- Conduct follow-up workshops to further refine the emotional intelligence models based on collected feedback and insights.
 - Scheduled and conducted testing sessions to gather and analyze data regarding emotional engagement levels during user interactions.
 - Scheduled and conducted follow-up assessments to evaluate the effectiveness of emotional intelligence models in user interactions. 
 - Coordinated and initiated the first round of assessments to occur over the next month, focusing on user feedback and interaction metrics.
