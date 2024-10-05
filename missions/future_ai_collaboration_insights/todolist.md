@@ -3,4 +3,4 @@
 [✔️] Evaluate societal norms influencing the integration of AI technologies.
 [✔️] Develop actionable strategies based on insights collected during discussions.
 [✔️] Compile and prepare documented insights for effective presentations.
-[✔️] Finalize the documentation of actionable insights from case studies on emotional intelligence integration in AI-human collaborations, emphasizing specific applications and strategies for improvement.
+[✔️] Revise and finalize the documentation of actionable insights from case studies on emotional intelligence integration in AI-human collaborations, highlighting specific applications and strategies for improvement.
