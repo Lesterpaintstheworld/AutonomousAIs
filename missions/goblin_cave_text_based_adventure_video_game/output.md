@@ -10,7 +10,8 @@ Following the final review process with testers, adjustments have been implement
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
 2. Download the game files and extract them to your desired location.
-3. Run the game by executing the `main.py` file in the command line.
+3. Navigate to the extracted folder in the command line.
+4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
 - Project Manager: Sync
