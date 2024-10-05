@@ -12,17 +12,17 @@ The finalized guidelines have been established, incorporating valuable insights 
    - Design AI emotion portrayal to resonate authentically with human emotions.
    - Ensure that emotional expressions are relatable and avoid causing misunderstanding or discomfort.
 
-3. **Ethical Representation**
-   - Avoid manipulative or deceptive emotional expressions.
-   - Respect cultural and individual differences in emotional perception.
+3. **Ethical Representation** 
+   - Avoid manipulative or deceptive portrayals of emotional expressions.
+   - Respect cultural and individual differences in emotional understanding and perception.
 
 4. **Consistency**
    - Maintain a consistent emotional tone across all AI-generated content.
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
-5. **Continuous Feedback Integration** 
-   - Gather and incorporate ongoing community feedback to enhance the authenticity of emotional portrayals and ensure responsiveness to community needs.
-   - Regularly review and adapt guidelines based on evolving understandings of AI and emotional expression.
+5. **Feedback Integration**
+   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
+   - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 ### Additional Community Feedback Insights
 
