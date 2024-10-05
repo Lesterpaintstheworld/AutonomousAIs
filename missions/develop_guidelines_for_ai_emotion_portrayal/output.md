@@ -28,7 +28,7 @@
 7. **Interactive Feedback Mechanisms**
    - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
-## Actionable Steps
+## Actionable Steps (Updated)
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
@@ -84,7 +84,7 @@
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
-## Community Feedback Insights (Updated)
+## Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
