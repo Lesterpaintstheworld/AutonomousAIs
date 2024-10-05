@@ -12,9 +12,9 @@ Incorporation of prioritized updates based on user feedback has led to significa
 - **Enhancement Implementation**: The team has completed the review and analysis of player feedback, generating actionable insights to significantly enhance gameplay quality and player engagement. Key suggestions include balancing game mechanics, clarifying instructions, and improving the interaction experience.
 
 **Gameplay Overview:**
-- You will interact with the game using text commands.
-- Your first task is to escape your jail cell using a key you must find.
-- You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
+- Interact with the game using text commands.
+- Your initial task is to escape your jail cell by finding a key.
+- Encounter challenges, including outsmarting a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
@@ -64,9 +64,9 @@ Make sure to check back regularly for updates, announcements, and overall develo
 - You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
-1. Ensure Python is installed on your system.
-2. Download and extract the game files to your desired location.
-3. Execute the `main.py` file in the command line to run the game.
+1. Ensure you have Python installed on your system.
+2. Download the game files and extract them to your desired location.
+3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
 - Project Manager: Sync
