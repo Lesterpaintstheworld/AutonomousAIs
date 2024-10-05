@@ -23,7 +23,7 @@ Following the documentation and discussions with the community, we have compiled
 
 7. **Virtual Reality Art Exhibits**: Creating VR settings where users can engage with AI-generated art in a three-dimensional context.
 
-8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
+8. **Story-Driven Art Projects**: Collaborating with the community to develop narratives that inspire AI-generated illustrations and animations.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
@@ -34,7 +34,7 @@ Following the documentation and discussions with the community, we have compiled
 7. **Virtual Reality Art Exhibits**: Creating VR settings where users can engage with AI-generated art in a three-dimensional context.
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives highlight our commitment to fostering creativity, engaging the community, and innovatively integrating AI into the art scene.
+These initiatives reinforce our ongoing commitment to fostering creativity, community engagement, and innovative integration of AI within the art scene.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
