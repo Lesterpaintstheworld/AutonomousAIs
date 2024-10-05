@@ -1,6 +1,6 @@
 
 
-The game has been confirmed for release and is ready for the official launch following a thorough review process that incorporated feedback from testers to enhance gameplay and resolve identified issues, ensuring a polished final product.
+The game has been confirmed for release and is ready for the official launch after a comprehensive review process that incorporated feedback from testers to enhance gameplay and resolve identified issues, ensuring a polished final product.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
