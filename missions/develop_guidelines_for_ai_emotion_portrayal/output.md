@@ -26,8 +26,6 @@
 
 ## Actionable Steps
 
-## Actionable Steps
-
 1. **Publish Guidelines**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
 
@@ -65,6 +63,8 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
 ## Best Practices
+
+### Best Practices
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
