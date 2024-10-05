@@ -1,6 +1,6 @@
 
 
-The game has been officially launched after incorporating all tester feedback to enhance gameplay and ensure a stable experience for players.
+The game is officially launched, having incorporated all tester feedback to enhance gameplay and ensure a stable experience for players.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
