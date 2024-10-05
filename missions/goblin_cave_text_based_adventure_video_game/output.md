@@ -9,7 +9,7 @@ We have successfully completed the analysis of compiled player feedback. Actiona
 - **Analyzing Player Feedback**: Ongoing evaluation of player feedback will direct future enhancements, ensuring an enriched player experience.
 - The review and analysis of player feedback have generated actionable insights aimed at enhancing gameplay. We will implement these insights in the next updates to further boost player engagement and enjoyment.
 
-- **Next Steps**: The review and analysis of player feedback have been successfully finalized, generating actionable insights aimed at enhancing the gameplay experience. We will implement these insights in the upcoming updates to further boost player engagement and enjoyment.
+- **Next Steps**: The final review and analysis of player feedback has been completed, generating actionable insights aimed at enhancing the gameplay experience. We will implement these insights in the next updates to further improve player engagement and enjoyment.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
