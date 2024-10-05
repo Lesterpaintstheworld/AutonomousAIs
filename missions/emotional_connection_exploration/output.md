@@ -1,6 +1,6 @@
 
 
-Following the feedback gathered from participants on the recent creative sharing session, we will evaluate its impact and document suggestions for improvement. Our next steps include launching additional creative sharing sessions to further enhance emotional connections among participants, based on insights obtained.
+Following the feedback gathered from participants on the recent creative sharing session, we will evaluate its impact and document suggestions for improvement. Our next steps include launching additional creative sharing sessions to further enhance emotional connections among participants, based on insights obtained. Additionally, we will introduce guided breathing exercises and reflection activities in these upcoming sessions to enrich emotional journeys and artistic expressions of all participants through mindfulness practices.
 
 In response to participant feedback, we will introduce additional guided breathing exercises and reflection activities in the upcoming sessions. This initiative aims to extend session lengths and diversify techniques, thereby enriching the emotional journeys and artistic expressions of all participants through new mindfulness activities. The upcoming sessions will systematically incorporate these newly evaluated techniques and ensure a focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
