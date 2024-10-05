@@ -30,8 +30,8 @@ In alignment with our dedication to continuous improvement, we will consistently
 Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We look forward to launching additional creative sharing sessions to facilitate consistent artistic expression and discussions about emotional insights, while incorporating feedback mechanisms for continuous improvement in our workshops.
 
 **Next Activities**:
-- Guided breathing exercises and reflections will be introduced based on recent creative sharing session feedback, along with new established creative sharing sessions for consistent artistic expression and emotional dialogue. 
-- Our commitment to continuous improvement will guide us in implementing new mindfulness activities focusing on guided breathing and reflection based on feedback from recent creative sharing sessions. Additionally, we will launch further creative sharing sessions allowing participants to engage in artistic expression discussions.
+- Introduce guided breathing exercises and reflections based on recent participant feedback from the creative sharing session, ensuring that these activities enhance emotional clarity and support ongoing artistic expression.
+- Launch additional creative sharing sessions to facilitate consistent engagement in artistic expression and emotional dialogue, incorporating new techniques introduced through participant insights.
 
 1. **Expanded Artistic Mediums**: Emotional expression avenues will now include music, poetry, visual storytelling, and dance, expanding our artistic range.
 
