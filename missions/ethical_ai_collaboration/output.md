@@ -15,7 +15,7 @@ Recent updates have been made to enhance alignment of our practices with communi
 
 #### Community Insights Implementation
 
-#### Additional Community Feedback
+### Mission Overview
 Recent discussions have underscored the necessity for continuous adaptation of our ethical framework, highlighting the importance of remaining responsive to user feedback and emerging community insights.
 
 #### Mission Overview
