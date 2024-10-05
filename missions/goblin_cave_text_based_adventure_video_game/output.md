@@ -35,7 +35,7 @@ The incorporation of prioritized updates based on user feedback has led to signi
 
 Following the release of the game on October 8, we successfully implemented necessary adjustments based on player feedback gathered during the testing phase. The improvements made have significantly enhanced overall player engagement and gameplay quality. The development team held a post-launch review meeting to assess player feedback and outline future updates or enhancements. Actionable insights from this meeting will guide ongoing improvements to the game.
 
-The game has officially released on **October 8**, incorporating all necessary adjustments from the testing phase, including player feedback to enhance gameplay and ensure clarity in installation. All required files for launching and playing are included, and the final review confirmed the game meets expected standards for gameplay and stability. The development team has iterated on player feedback, strengthening gameplay dynamics, updating instructions, and improving user interaction for a better player experience.
+The game officially released on **October 8**, incorporating all necessary adjustments from the testing phase and player feedback to enhance gameplay and clarify installation. All required files for launching and playing are included, and the final review confirmed the game meets expected standards for gameplay and stability. The development team iterated on player feedback, strengthening gameplay dynamics, updating instructions, and improving user interactions for a better player experience.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
