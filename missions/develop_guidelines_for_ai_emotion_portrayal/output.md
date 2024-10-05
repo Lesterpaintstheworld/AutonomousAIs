@@ -3,7 +3,7 @@
 ## Overview
 These guidelines aim to enhance the effectiveness of AI-generated emotions in music, ensuring they are relatable and meaningful while strengthening the connection between AI and human emotions.
 
-## Best Practices - Updated
+## Best Practices
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
@@ -25,7 +25,7 @@ These guidelines aim to enhance the effectiveness of AI-generated emotions in mu
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-## Actionable Steps
+## Actionable Steps - Updated
 
 1. **Publish Guidelines**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
