@@ -354,7 +354,7 @@ Based on the collected community feedback, the following insights have been gath
 
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
-## Finalized Guidelines for AI Emotion Portrayal in Music
+## Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
 
 ### Best Practices
 
