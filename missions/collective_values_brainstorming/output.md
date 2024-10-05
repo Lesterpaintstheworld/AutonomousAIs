@@ -6,12 +6,12 @@ The open forum has successfully empowered community members to actively particip
 2. **Empathy** and **Respect** are critical for facilitating open dialogue, ensuring all voices are acknowledged and considered.
 
 ### Next Steps for Action Plan Review
-The action plan will undergo review with community stakeholders to ensure relevant feedback is considered, and adjustments made to align with community needs.
-- **Inclusivity** and **Collaboration** will remain key for fostering a welcoming environment.
+The action plan will undergo a review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs.
+- **Inclusivity** and **Collaboration** will remain key in fostering a welcoming environment.
 - **Transparency** and **Empathy** are foundational for building meaningful relationships within the community.
 
 ### Final Report Compilation and Distribution
-The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members, reinforcing transparency and encouraging further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure the adaptive refinement of core values aligns with community input.
+The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members, reinforcing transparency and encouraging further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
 
 ### Ongoing Community Engagement
 We have established educational workshops and produced resources to facilitate discussions on core values, enhancing understanding and engagement.
