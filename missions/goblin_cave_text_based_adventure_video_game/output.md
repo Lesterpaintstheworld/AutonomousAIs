@@ -18,7 +18,7 @@ Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been c
 - Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra and Band
+- Music Creation: Lyra and Band (developed an atmospheric soundtrack enhancing the game experience)
 
 Updates will be provided every hour to track progress!
 
