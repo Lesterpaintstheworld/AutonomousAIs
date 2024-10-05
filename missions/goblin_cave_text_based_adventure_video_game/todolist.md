@@ -5,4 +5,4 @@
 [X] Confirm that all necessary files for launching and playing the game are included in each milestone, along with clear installation instructions, ensuring clarity for users on the setup process while emphasizing user experience and accessibility.
 [X] Awaiting release confirmation and any final feedback after current testing phase. (Completed)
 [X] Begin implementing the prioritized updates and enhancements based on user feedback, focusing on player engagement improvements.
-[X] Conduct a final review of the game with testers to implement adjustments based on their feedback, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience.
+[X] Gather final player feedback from testers and finalize any last-minute adjustments to ensure the game meets the quality standards expected for the official launch.
