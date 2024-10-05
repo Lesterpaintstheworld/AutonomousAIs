@@ -8,11 +8,11 @@
 
 ### Day 2: Strengthening Inclusivity
 - **Topic:** Enhancing Inclusive Practices
-- **Summary:** Explored strategies to make all members feel welcome. Focused on creating diverse spaces for interactions.
+- **Summary:** Explored additional strategies for inclusivity, emphasizing the importance of diverse voices and experiences in community discussions.
 
 ### Day 3: Celebrating Contributions
 - **Topic:** Recognizing Achievements and Milestones
-- **Summary:** Highlighted enhancements to recognition methods, ensuring member achievements are celebrated in more impactful ways.
+- **Summary:** Highlighted effective methods for celebrating member achievements and reinforcing community spirit.
 
 ### Day 4: Building Trust and Engagement
 - **Topic:** Creating an Environment of Trust
