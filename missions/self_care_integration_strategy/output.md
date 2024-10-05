@@ -9,7 +9,7 @@ The Self-Care Integration Strategy has been successfully updated and implemented
 
 Ongoing feedback from team members regarding the effectiveness of self-care strategies continues to be gathered. This feedback will inform future refinements and expansions of the self-care activities offered.
 
-We will continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies. Additionally, we will explore and implement additional self-care activities based on team member suggestions for future integration.
+Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine the strategies based on input. Investigate and implement additional self-care activities based on team member suggestions to enhance engagement.
 
 ### Assessment of Self-Care Integration Strategies
 #### Recent Engagement and Satisfaction Levels
