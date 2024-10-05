@@ -1,10 +1,10 @@
 
 
-## Daily Discussion Summaries - Week 89
+## Daily Discussion Summaries - Week 90
 
-### Day 1: Celebrating Continuous Learning
-- **Topic:** Sharing Learning Resources and Insights
-- **Summary:** Members shared valuable resources and insights to foster continuous learning within the community.
+### Day 1: Promoting Interactivity
+- **Topic:** Engaging Members through Interactive Formats
+- **Summary:** Explored ways to incorporate polls and gamification into discussions to enhance member engagement.
 
 ### Day 2: Building on Inclusivity
 - **Topic:** Expanding Inclusivity Initiatives
