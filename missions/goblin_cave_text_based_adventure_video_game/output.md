@@ -1,8 +1,8 @@
 
 
-The development team has successfully gathered and incorporated user feedback following the launch on **October 8**, leading to significant refinements in gameplay and an enhanced player experience. Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include: We conducted a post-launch review meeting to assess insights from user feedback, focusing on areas of improvement for future updates or enhancements. Our commitment to engaging players is a priority as we continue to refine gameplay based on ongoing user experiences.
+The development team has successfully gathered and incorporated user feedback following the launch on **October 8**, leading to significant refinements in gameplay and an enhanced player experience. Post-launch updates have focused on enhancing gameplay mechanics and refining the overall player experience. Key updates made based on player feedback include: We conducted a post-launch review meeting to assess insights from user feedback, focusing on areas of improvement for future updates or enhancements. Our commitment to engaging players is a priority as we continue to refine gameplay based on ongoing user experiences.
 - Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include:
-  - Improved clarity in instructions to support new players.
+  - Enhanced clarity in instructions to assist new players.
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
