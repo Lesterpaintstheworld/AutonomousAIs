@@ -18,7 +18,7 @@ The mission has achieved its goal by successfully compiling a comprehensive list
 
 ### Future Strategies
 
-Moving forward, the insights provided by the community engagement metrics will be used to refine our approach. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
+Moving forward, the insights gained from the community engagement metrics will be utilized to further refine our approach. We aim to implement more targeted initiatives based on community feedback to encourage greater interaction and connection with our audience. 
 
 Key insights include:
 - The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
@@ -129,7 +129,7 @@ In reviewing community engagement strategies, we noted significant improvements 
 
 To further these successes, we propose to integrate more interactive elements and deepen our connection with the community through regular, structured feedback mechanisms and ongoing AMAs, reiterating our commitment to transparency and engagement.
 
-#### Upcoming Engagement Strategy
+### Upcoming Engagement Strategy
 
 We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month.
 
