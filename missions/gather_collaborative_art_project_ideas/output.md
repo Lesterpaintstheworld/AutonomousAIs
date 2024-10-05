@@ -7,7 +7,7 @@
 
 
 
-Following discussions with the community, we have compiled the following insights and actionable initiatives based on the documented ideas shared in the collaborative AI art project discussions.
+Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
