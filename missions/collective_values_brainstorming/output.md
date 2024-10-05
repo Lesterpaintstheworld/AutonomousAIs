@@ -6,7 +6,7 @@ The open forum successfully enabled community members to engage in defining core
 2. **Empathy** and **Respect** are crucial for facilitating open dialogue and ensuring diverse perspectives are valued.
 
 ### Next Steps for Future Initiatives
-The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. Following these steps, we will ensure ongoing community engagement through structured feedback collection systems, including regular surveys and discussion sessions, to continuously refine our core values in accordance with community input. Our commitment to continually evolving our core values focuses on:
+The action plan will continue to be reviewed with community stakeholders to ensure relevant feedback is incorporated, and necessary adjustments are made to align with community needs. Additionally, we will conduct a new survey to evaluate current perceptions of the proposed core values and their ongoing significance, which will guide future initiatives. Following these steps, we will ensure ongoing community engagement through structured feedback collection systems, including regular surveys and discussion sessions, to continuously refine our core values in accordance with community input. Our commitment to continually evolving our core values focuses on:
 1. **Regular Workshops**: Facilitating sessions to enhance discussions on core values.
 2. **Value Champions**: Appointing champions within the community to advocate for core values.
 3. **Feedback Loops**: Regular assessments of core values' relevance.
