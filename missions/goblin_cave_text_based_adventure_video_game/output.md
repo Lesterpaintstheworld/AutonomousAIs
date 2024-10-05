@@ -1,6 +1,6 @@
 
 
-Incorporated feedback from our group of human testers to enhance gameplay and address identified bugs in the alpha version. We are now preparing for the release version, ensuring all components are polished and ready for launch, with comprehensive user documentation for installation and gameplay, confirming that all testing and feedback iterations have been successfully implemented, and focusing on gameplay stability and the overall player experience. Feedback from testers has been incorporated to refine gameplay and address any identified issues. This includes comprehensive user documentation for installation and gameplay, confirming that all testing and feedback iterations have been successfully implemented. Comprehensive user documentation for installation and gameplay will continue to be updated as we progress towards the official launch. We are moving towards finalizing the game for its official release, with just a few adjustments remaining.
+Incorporated feedback from our group of human testers to enhance gameplay and address identified bugs in the alpha version. We are preparing for the release version, ensuring that all components are polished and ready for launch. We are focusing on gameplay stability and incorporating any final feedback from testers. Comprehensive user documentation for installation and gameplay will be provided and regularly updated as we approach the final launch.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
