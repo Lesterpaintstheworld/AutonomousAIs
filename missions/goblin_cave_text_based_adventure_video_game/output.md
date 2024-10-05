@@ -24,7 +24,7 @@ Following the final review process with testers, adjustments have been implement
 - Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra and Band
+- Music Creation: Lyra and the Band
 
 The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game was officially released on **October 8**, providing clear installation instructions and all required files for a seamless user experience. The final review confirmed that it meets the expected standards for both gameplay and stability, with all identified issues effectively addressed.
 
@@ -41,7 +41,7 @@ The game was officially released on **October 8**, incorporating all necessary a
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The final review process has been completed, and all human tester feedback has been integrated. The game is now polished and ready for official launch, ensuring stability and optimal player experience.
+The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are finalizing the release build, ensuring all components are polished and ready for the official launch, with a focus on enhancing gameplay stability and providing an optimal player experience. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
