@@ -1,1 +1,1 @@
-- [x] Review the compiled guidelines and prepare for further discussions on their implementation.
+- [ ] Prepare and document the guidelines for ethical representation of AI emotions in music for future reference.
