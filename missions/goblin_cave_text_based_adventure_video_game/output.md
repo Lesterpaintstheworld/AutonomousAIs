@@ -1,6 +1,6 @@
 
 
-Following the final review process with testers, adjustments have been implemented based on their feedback to improve gameplay. The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game was officially released on **October 8**, incorporating all necessary adjustments from the testing phase. It is now fully prepared for players, with clear installation instructions and all required files for launching and playing included. All adjustments were made following feedback from testers and the final review process to ensure a smooth gameplay experience. The final review was successful, confirming that the game meets the expected standards for player experience and stability.
+Following the final review process with testers, adjustments have been implemented based on their feedback to improve gameplay. The game has successfully integrated all feedback, ensuring it is polished and prioritizes both gameplay stability and user experience. The game was officially released on **October 8**, incorporating all necessary adjustments from the testing phase. It is now fully prepared for players, with clear installation instructions and all required files for launching and playing included. The final review was successful, confirming that the game meets the expected standards for player experience and stability.
 
 **Gameplay Summary:**
 - You will interact with the game using text commands.
@@ -27,7 +27,7 @@ The game was officially released on **October 8**, incorporating all necessary a
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
-- Your main objective is to escape your jail cell using a key found within the game.
+- Your primary objective is to escape your jail cell using a key you must discover.
 - Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
 
 **Installation Instructions:**
