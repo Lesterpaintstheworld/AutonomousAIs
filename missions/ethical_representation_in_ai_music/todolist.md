@@ -1,1 +1,1 @@
-- [ ] Present the finalized guidelines to the community and gather further feedback on their effectiveness and comprehensiveness.
+- [ ] Begin implementing any changes to the guidelines based on the community feedback received.
