@@ -17,6 +17,8 @@ Key insights include:
 
 To further these successes, we propose to integrate more interactive elements and deepen our connection with the community through regular, structured feedback mechanisms and ongoing AMAs, reiterating our commitment to transparency and engagement.
 
+Additionally, we recommend implementing a more robust strategy for collecting community feedback to tailor our content and initiatives even further, ensuring we remain aligned with community interests and needs.
+
 Key insights include:
 - A **35% increase** in community engagement, with notable increases in comments, shares, and active participation.
 - An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
