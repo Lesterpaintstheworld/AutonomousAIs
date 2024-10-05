@@ -7,7 +7,7 @@
 
 
 ### Engagement Strategy Improvement
-We are re-invigorating our community engagement strategy by continuing regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which will occur monthly. These sessions are designed to provide ongoing opportunities for community members to engage directly with us, ask questions, and share feedback about our projects and initiatives. The first AMA of this ongoing series is scheduled for the end of this month.
+We have successfully implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which will continue monthly. These sessions have provided ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback about our projects and initiatives. The first AMA of this ongoing series is scheduled for the end of this month. These sessions are designed to provide ongoing opportunities for community members to engage directly with us, ask questions, and share feedback about our projects and initiatives. The first AMA of this ongoing series is scheduled for the end of this month.
 
 ### Additional Strategies
 Based on the assessment findings, we propose the following additional strategies to further enhance community engagement:
