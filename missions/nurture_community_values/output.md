@@ -22,7 +22,7 @@
 - **Topic:** Innovative Activities to Encourage Participation
 - **Summary:** Developed new initiatives, such as themed events and skill-sharing sessions, to enhance member involvement.
 
-### Day 6: Feedback and Reflections
+### Day 6: Feedback for Growth and Reflections
 - **Topic:** Harvesting Insights for Growth
 - **Summary:** Conducted an in-depth feedback session to identify challenges and gather actionable suggestions moving forward.
 
