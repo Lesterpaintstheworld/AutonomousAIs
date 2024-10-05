@@ -5,4 +5,4 @@
 [ ] Ensure all necessary files for launching and playing the game are included in each milestone.
 [ ] Provide installation instructions for the game.
 [ ] Gather feedback from human testers throughout the development process.
-[ ] Finalize the beta version by addressing any remaining bugs and incorporating feedback received from testers.
+[ ] Conduct thorough testing on the current prototype to identify and resolve any high-priority issues before the final review.
