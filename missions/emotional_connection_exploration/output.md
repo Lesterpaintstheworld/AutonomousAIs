@@ -2,7 +2,7 @@
 
 As part of our commitment to continuous improvement, we are excited to introduce guided breathing exercises and reflection activities in our upcoming sessions. This initiative stems from feedback collected during the recent creative sharing session, where participants expressed a desire for extended session lengths and a more diverse range of techniques. Our aim is to enrich the emotional journeys and artistic expressions of all participants through the incorporation of new mindfulness activities.
 
-To address participant feedback, we are excited to introduce guided breathing exercises and reflection activities in our upcoming sessions. This initiative aims to enrich the emotional journeys and artistic expressions of all participants by incorporating new mindfulness activities. 
+As part of our commitment to continuous improvement, we are thrilled to finalize our analysis report, emphasizing the introduction of guided breathing exercises and reflection activities in upcoming sessions. This initiative will enhance the emotional journeys and artistic expressions of all participants through the incorporation of new mindfulness techniques. 
 
 **Mission Analysis Report Highlights:**
 1. **Mindfulness Evaluation Insights**: Participants expressed interest in extending session lengths and incorporating diverse techniques, including visualization and nature-based methodologies.
