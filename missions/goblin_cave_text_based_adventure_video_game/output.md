@@ -8,13 +8,13 @@ The game has been successfully finalized and is now fully prepared for players, 
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
-Incorporation of prioritized updates based on user feedback has led to significant enhancements in gameplay quality and player engagement. Key refinements include balanced game mechanics, clearer instructional guidance, and an enriched player interaction atmosphere. All updates and actionable insights have been carefully documented for future reference.
+Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better-balanced game mechanics, clearer instructions, and an enriched player interaction atmosphere. All updates and actionable insights have been documented for future reference.
 - **Enhancement Implementation**: The team has completed the review and analysis of player feedback, generating actionable insights to significantly enhance gameplay quality and player engagement. Key suggestions include balancing game mechanics, clarifying instructions, and improving the interaction experience.
 
 **Gameplay Overview:**
-- Interact with the game using text commands.
-- Your initial task is to escape your jail cell by finding a key.
-- Encounter challenges, including outsmarting a goblin guard to retrieve your sword.
+- You will interact with the game using text commands.
+- Your first task is to escape your jail cell using a key you must find.
+- You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
