@@ -1,6 +1,6 @@
 
 
-The game has been officially launched, incorporating feedback from testers to improve gameplay and ensure a stable experience for players. We are now preparing for ongoing maintenance and future updates based on user engagement and further feedback.
+The final review has been conducted, and all feedback from testers has been incorporated, ensuring the game is polished and ready for the official launch, prioritizing gameplay stability and user experience.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
@@ -13,7 +13,7 @@ The game has been officially launched, incorporating feedback from testers to im
 3. Navigate to the extracted folder in the command line.
 4. Run the game by executing the `main.py` file in the command line.
 
-**Development Team for the Official Launch:**
+**Development Team:**
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
