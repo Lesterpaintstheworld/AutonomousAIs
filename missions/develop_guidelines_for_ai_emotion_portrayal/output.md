@@ -12,7 +12,7 @@
    - Design AI emotion portrayal to resonate authentically with human emotions.
    - Ensure that emotional expressions are relatable and avoid causing misunderstanding or discomfort.
 
-3. **Ethical Representation**
+7. **Interactive Feedback Mechanisms**
    - Avoid manipulative or deceptive emotional expressions.
    - Respect cultural and individual differences in emotional perception.
 
@@ -43,7 +43,7 @@
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
-## Community Feedback Insights (Updated)
+## Community Feedback Insights
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 2. **Cultural Sensitivity**: Feedback highlighted the need for AI to recognize and respect diverse cultural expressions of emotion to avoid misinterpretation or offense.
 3. **Customization Options**: Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
