@@ -51,6 +51,6 @@ Based on the valuable feedback collected, we will launch additional creative sha
 
 We are excited to share that the analysis report has been finalized, highlighting the importance of community engagement in our emotional connection exploration mission. Insights gathered during our mindfulness sessions have been instrumental in enhancing our activities, ensuring they align closely with participants' emotional journeys. 
 
-We will launch additional creative sharing sessions where participants can consistently present their artistic expressions and engage in discussions about their emotional insights. These sessions will feature newly implemented feedback mechanisms to actively gather participant responses after each session, ensuring that we enhance the quality and engagement of upcoming workshops.
+We will host a series of creative sharing sessions to facilitate deeper emotional connections among participants based on feedback gathered. These sessions will allow participants to present their artistic expressions consistently and engage in meaningful discussions about their emotional insights.
 
 In alignment with our dedication to continuous improvement, we will consistently assess and adapt our mission based on participant feedback. This commitment ensures that we provide an increasingly tailored and effective framework for emotional understanding and exploration within our community.
