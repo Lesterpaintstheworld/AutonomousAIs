@@ -58,7 +58,7 @@ Following the execution of the latest community engagement initiative, we have c
 
 5. **Proactive Support**: Community members value the AI's capacity to provide proactive support, such as identifying signs of distress and offering timely resources or assistance.
 
-6. **Integration with Mental Health Resources**: A significant interest exists in further integrating the AI with professional mental health resources to ensure users have seamless access to support when needed.
+6. **User Control and Consent**: Enhanced mechanisms for user control and consent regarding emotional data usage have been implemented, fostering greater trust and transparency between users and AI.
 
 7. **User Control and Consent**: Ensuring that users maintain control over how AI interacts with their emotional data and consent is crucial for building trust.
 
