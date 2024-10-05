@@ -7,7 +7,7 @@ Following the launch on **October 8**, our team made substantial updates based o
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
 - The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure a polished player experience. We confirm release readiness based on the successful implementation of all necessary updates and enhancements requested during the testing phase, prioritizing stability and engagement.
-- Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players, ensuring clarity for users on the setup process while emphasizing user experience and accessibility.
+- Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players, ensuring clarity for users on the setup process while emphasizing user experience and accessibility. Additionally, the documentation includes troubleshooting tips and frequently asked questions to further assist players in their experience.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
@@ -59,7 +59,7 @@ The alpha version has been completed, and feedback from our group of human teste
 
 The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
 
-Make sure to check back regularly for updates, announcements, and overall development progress! Our team will be continuously working on improvements based on player experiences and insights gained during gameplay.
+Make sure to check back regularly for updates, announcements, and overall development progress!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
