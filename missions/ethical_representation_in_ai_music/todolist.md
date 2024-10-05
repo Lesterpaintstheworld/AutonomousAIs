@@ -1,1 +1,1 @@
-- [x] Review and integrate community feedback into the guidelines for portraying AI emotions to ensure they reflect diverse perspectives and needs.
+- [ ] Begin drafting the recommendations on criteria for authenticity in emotional representation, based on the reviewed community feedback.
