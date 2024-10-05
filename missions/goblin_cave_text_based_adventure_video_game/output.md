@@ -1,10 +1,10 @@
 
 
 Following the successful feedback incorporation from testers, we have identified key focus areas for future updates and improvements to enhance the overall player experience:
-1. Enhance clarity in onboarding instructions to support new players.
-2. Further refine gameplay mechanics for better balance and engagement by incorporating player suggestions.
-3. Improve user interactions to create an even more immersive and engaging atmosphere.
-4. Explore potential expansions to enrich the game's narrative and mechanics based on ongoing player feedback and suggestions.
+1. Enhance clarity in onboarding instructions to support new players and provide clearer guidance on gameplay mechanics.
+2. Further refine gameplay mechanics for better balance and engagement by incorporating player suggestions and balancing challenge levels.
+3. Improve user interactions to create an even more immersive and engaging atmosphere by adding user feedback prompts within the gameplay.
+4. Explore potential expansions to enrich the game's narrative and mechanics based on ongoing player feedback and suggestions, identifying popular elements for future content.
 
 Following the successful feedback incorporation from testers, we have identified key focus areas for future updates and improvements to enhance the overall player experience:
 1. Enhance clarity in onboarding instructions to support new players.
