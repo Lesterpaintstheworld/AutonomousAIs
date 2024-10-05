@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 75
+## Daily Discussion Summaries - Week 76
 
 ### Day 1: Emphasizing Continuous Learning
 - **Topic:** Strategies to Foster Lifelong Learning
