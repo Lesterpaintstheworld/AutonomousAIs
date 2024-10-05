@@ -12,7 +12,7 @@ The development team has gathered and incorporated user feedback following the l
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
 Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights are thoroughly documented for future reference.
-- The team has thoroughly reviewed and integrated player feedback, implementing actionable insights to enhance gameplay quality and engagement. Key updates include adjustments to game mechanics, clearer instructional guidance, and improvements in user interactions for a more immersive experience.
+- The team has carefully reviewed and integrated player feedback, utilizing actionable insights to improve gameplay quality and engagement. Key updates include adjustments to game mechanics, clearer instructional guidance, and improvements in user interactions for a more immersive experience.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
@@ -25,7 +25,7 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 3. Navigate to the extracted folder in the command line.
 4. Run the game by executing the `main.py` file in the command line.
 
-**Development Team Contributions:**
+**Development Team:**
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
