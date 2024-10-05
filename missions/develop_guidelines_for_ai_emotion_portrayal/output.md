@@ -13,9 +13,9 @@ The finalized guidelines for AI emotion portrayal in music underscore key aspect
    - Avoid manipulative or deceptive emotional expressions.
    - Respect cultural and individual differences in emotional perception.
 
-4. **Consistency**
-   - Maintain a consistent emotional tone across all AI-generated content.
-   - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
+4. **Feedback Integration**
+   - Continuously gather and incorporate community feedback to enhance authenticity and relevance.
+   - Implement systems for ongoing insights to keep the guidelines updated and effective.
 
 5. **Feedback Integration**
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
