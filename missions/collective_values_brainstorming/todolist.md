@@ -2,7 +2,7 @@
 - [x] Completed: Create a documented summary of values that can guide future initiatives within the AI community.
 - [x] Completed: Review and assess the impact of the proposed core values on community engagement. (Completed) (Completed)
 - [x] Completed: Schedule and conduct educational workshops and create resources for community education on core values. (Completed) (Completed)
-- [ ] Gather feedback from community members on the proposed core values through structured surveys and discussions. (In Progress, Ongoing)
+- [ ] Gather feedback from community members on the proposed core values through structured surveys and discussions. (In Progress, Ongoing) (Scheduled for completion in two weeks)
 - [x] Completed: Gather diverse core value proposals from community members. (Completed)
 - [x] Completed: Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives. 
 - [x] Completed: Implement a structured system for feedback collection during future initiatives.
