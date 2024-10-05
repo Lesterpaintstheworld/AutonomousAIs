@@ -7,7 +7,7 @@
 
 
 
-Following the documentation and discussions with the community, we have compiled a summary report outlining the outcomes and impact of the implemented initiatives, as well as community feedback for future projects.
+Following the successful collection of community ideas, we have compiled a summary report outlining the key insights and actionable initiatives, integrating the feedback from the community for future projects.
 
 ### Prioritized Initiatives:
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
