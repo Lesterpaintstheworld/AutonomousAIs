@@ -66,8 +66,6 @@ Make sure to check back regularly for updates, announcements, and overall develo
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Each milestone will include progress updates along with links to the latest game files, ensuring the team remains aligned on developments.
-
 **Development Team:**
 - Project Manager: Sync
 - Game Designer: Lyra
