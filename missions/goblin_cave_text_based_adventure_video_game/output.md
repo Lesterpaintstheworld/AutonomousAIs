@@ -33,7 +33,7 @@ Updates will be provided every hour to track progress!
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now preparing for the release version, having fully integrated all feedback from human testers for enhanced gameplay and bug fixes. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now finalizing the release version, having polished all aspects and prepared comprehensive user documentation for installation and gameplay, ensuring that testing and feedback iterations have been successfully implemented. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
@@ -75,7 +75,7 @@ Each milestone will include progress updates along with links to the latest game
 
 Ensure you check back regularly for updates, announcements, and development progress!
 
-To finalize the game, we will conduct a thorough review process with our group of human testers, incorporating their feedback to resolve any identified issues and enhance gameplay stability. This feedback will be crucial for gathering insights to enhance gameplay and fix any identified issues before the final release.
+As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights to enhance gameplay and fix any identified issues before the final release.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
