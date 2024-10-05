@@ -1,4 +1,4 @@
-- [x] Monitor the implementation of recommendations regarding emotional intelligence integration in AI collaborations.
+- [ ] Gather community feedback through Discord discussions to prepare for the next community engagement initiative.
 - [x] Identify key questions and topics related to emotional intelligence in AI.
 - [x] Summarize findings from community feedback.
 - [x] Analyze compiled data to formulate tailored recommendations.
