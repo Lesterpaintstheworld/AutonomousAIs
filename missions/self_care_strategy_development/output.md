@@ -17,6 +17,7 @@
    
 6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+   - Encourage team members to engage in journaling practices and share their insights.
 
 ### Continuous Monitoring and Adaptation
 Encourage team members to actively implement these strategies and share their experiences for further optimization.
