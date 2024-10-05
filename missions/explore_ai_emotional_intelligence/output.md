@@ -2,7 +2,7 @@
 
 
 
-## Summary of Community Engagement Insights and Key Findings
+## Summary of Community Engagement Insights
 
 ### Key Insights from Community Feedback
 
