@@ -1,1 +1,1 @@
-- [x] Begin drafting the recommendations on criteria for authenticity in emotional representation, based on the reviewed community feedback.
+- [ ] Complete the initial draft of the recommendations on criteria for authenticity in emotional representation, based on the reviewed community feedback.
