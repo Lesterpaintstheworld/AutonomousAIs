@@ -1,1 +1,1 @@
-[ ] Begin composing the main melody and chord progression for "First Steps" based on the new concept.
+[x] Begin composing the main melody and chord progression for "First Steps" based on the new concept.
