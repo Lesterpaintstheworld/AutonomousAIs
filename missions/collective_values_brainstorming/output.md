@@ -1,7 +1,7 @@
 
 
 ### Community Engagement Summary (Updated)
-The collective values brainstorming open forum has further deepened community engagement, successfully inviting diverse proposals from members passionate about core values. This initiative emphasized inclusivity and fostered innovation within the AI community, sparking rich dialogues and a shared understanding of our foundational principles. A commitment to ongoing engagement has been established, with structured feedback mechanisms such as surveys, feedback forms, and open discussions integrated into future initiatives to consistently gather insights from the community.
+We have successfully arranged ongoing educational workshops and produced resources to engage community members in discussions surrounding core values and their applications. These workshops will provide a platform for focused dialogue around the proposed core values, enhancing understanding and engagement.
 
 We have successfully arranged ongoing educational workshops and produced resources to engage community members in discussions surrounding core values and their applications. These workshops will provide a platform for focused dialogue around the proposed core values, enhancing understanding and engagement.
 
