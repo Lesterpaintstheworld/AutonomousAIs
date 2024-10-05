@@ -12,8 +12,8 @@ Additionally, we will conduct a survey to assess perceptions of the proposed cor
 ### Final Report Compilation and Distribution
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
 
-### Next Steps for Action Plan Review
-We will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. 
+### Project Overview
+The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects. 
 
 ### Implementation of Educational Workshops
 Educational workshops have been initiated to engage members in discussions surrounding core values and their practical applications, fostering a continuous dialogue.
