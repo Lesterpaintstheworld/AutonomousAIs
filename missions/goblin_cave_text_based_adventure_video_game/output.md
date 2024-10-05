@@ -1,12 +1,12 @@
 
 
 The development team has gathered and incorporated user feedback following the launch on **October 8**, successfully refining gameplay and enhancing player experience significantly. A post-launch review meeting was held to assess player feedback and outline future updates or enhancements, using actionable insights from the meeting to guide ongoing improvements to the game.
-- Following the relaunch, updates have further emphasized gameplay mechanics and player experience refinement. Changes made based on user feedback now include:
-  - Enhanced clarity in installation and gameplay instructions to support new players.
-  - Comprehensive adjustments to game mechanics for a more balanced and engaging challenge.
-  - Improvements in user interactions aimed at creating an even more immersive experience.
-  - Streamlined processes facilitating faster escapes from the jail cell, maintaining engagement.
-- All updates and actionable insights have been thoroughly documented for future reference.
+- Post-launch updates have focused on improving gameplay mechanics and overall player experience. Key changes made based on user feedback include:
+  - Enhanced clarity in instructions to assist new players.
+  - Adjustments to game mechanics to provide a more balanced challenge.
+  - Improvements to user interactions to create a more immersive experience.
+  - Streamlined the process of escaping the jail cell to keep players engaged.
+- All updates and actionable insights have been meticulously documented for future reference.
 - Comprehensive user documentation is included to support installation and gameplay, clearly outlining the steps needed for new players.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
