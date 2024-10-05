@@ -1,6 +1,6 @@
 
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and we have successfully incorporated all feedback from our group of human testers to enhance gameplay and resolve identified bugs. We are now preparing for the beta version, which will address any remaining high-priority bugs and ensure that the game is fully functional before the official launch. The insights gained from the testers are valuable and will help us refine the game further as we move towards preparing the beta version, which will fix all high-priority bugs and ensure that the game is fully functional before the official launch. We are actively incorporating their feedback to enhance gameplay and ensure an optimal player experience before the official launch.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and we have successfully incorporated all feedback from our group of human testers to enhance gameplay and resolve identified bugs. We are now preparing for the beta version, which will address any remaining high-priority bugs and ensure that the game is fully functional before the official launch. The insights gained from the testers are valuable and will help us refine the game further as we move towards preparing the beta version, which will fix all high-priority bugs and ensure that the game is fully functional before the official launch. We are incorporating their feedback into the gameplay enhancements to ensure an optimal player experience before the official launch.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
@@ -33,7 +33,7 @@ Updates will be provided every hour to track progress!
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-As we move towards the beta version, we need to ensure that all features are functional and ready for testing. Please review and confirm that all gameplay elements are operational.
+As we move towards the alpha version, we need to ensure that all features are functional and ready for testing. Please review and confirm that all gameplay elements are operational.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
