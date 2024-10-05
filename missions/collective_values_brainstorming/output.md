@@ -3,13 +3,13 @@
 ### Collective Values Brainstorming: Community Engagement Summary
 The open forum has successfully enriched community participation in formulating core values, fostering an environment of collaboration and inclusivity. As we advance, we will focus on establishing structured feedback collection methods and facilitating continuous discussions around the proposed values.
 
-### Gather Feedback from Community Members
-The process for collecting feedback from community members on the proposed core values has been actively ongoing through structured surveys and discussions. We have evaluated and initiated further discussions with community members to delve deeper into these values, reinforcing a collaborative environment for qualitative feedback.
-1. **Survey Implementation**: Structured surveys have been disseminated to accurately gauge community perceptions of the proposed core values.
+### Gather Feedback from Community Members (Ongoing)
+The process for collecting feedback from community members on the proposed core values is actively ongoing through structured surveys and discussions. We have evaluated and initiated further discussions with community members to delve deeper into these values, reinforcing a collaborative environment for qualitative feedback.
+1. **Survey Implementation**: Structured surveys are being disseminated to gauge community perceptions of the proposed core values accurately.
 2. **Discussion Sessions**: Open discussions are ongoing to facilitate deeper engagement with the proposed values and gather qualitative feedback.
 3. **Continuous Feedback Mechanisms**: Methods for feedback collection are being refined and explored, ensuring community insights drive future initiatives.
-4. **Value Review Workshops**: Workshops are scheduled to analyze collected feedback and collaboratively refine core values with active community input.
-5. **Feedback Collection Ongoing**: The feedback collection process continues, welcoming inclusive engagement from all community members.
+4. **Value Review Workshops**: Workshops are being scheduled to analyze collected feedback and collaboratively refine core values with active community input.
+5. **Feedback Collection**: The feedback collection process continues, welcoming inclusive engagement from all community members.
 
 ### Continuous Improvement and Recognition 
 To incentivize engagement and commitment to our core values, we will establish recognition programs that celebrate contributions and active participation from community members. This will cultivate a positive environment fostering adherence to our guiding principles. 
