@@ -5,4 +5,4 @@
 [ ] Ensure all necessary files for launching and playing the game are included in each milestone.
 [ ] Provide installation instructions for the game.
 [ ] Gather feedback from human testers throughout the development process.
-[ ] Conduct thorough testing on the current prototype to identify and resolve any high-priority issues before the final review.
+[ ] Finalize the release build by ensuring all components are polished and ready for launch.
