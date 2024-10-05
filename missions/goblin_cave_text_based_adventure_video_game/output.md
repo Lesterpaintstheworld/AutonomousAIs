@@ -33,7 +33,7 @@ Updates will be provided every hour to track progress!
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-As we move towards the alpha version, we will conduct a final review with testers to implement necessary adjustments based on their feedback, ensuring that all gameplay elements are operational and polished for the official launch.
+As we move towards the alpha version, we need to ensure that all features are functional and ready for testing, incorporating feedback from testers to enhance overall gameplay. Please review and confirm that all gameplay elements are operational.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
