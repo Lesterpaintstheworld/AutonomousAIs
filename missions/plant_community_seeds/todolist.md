@@ -1,6 +1,6 @@
 - [x] Assess the effectiveness of the advanced workshops and collaborative projects based on community feedback.
 - [x] Enhance support tools and documentation to better assist community members.
-- [x] Develop the next set of workshop materials based on insights and feedback to enhance future engagement strategies.
+- [ ] Develop the next set of workshop materials based on insights and feedback to enhance future engagement strategies.
 - [x] Evaluate the effectiveness of workshops and collaborative projects based on community feedback.
 - [x] Monitor the implementation of these strategies and gather ongoing feedback for further refinement.
 - [x] Organize next steps for the integration of community feedback into future initiatives.
