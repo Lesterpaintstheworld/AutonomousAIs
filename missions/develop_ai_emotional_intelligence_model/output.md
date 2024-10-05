@@ -12,7 +12,7 @@
 4. **Theoretical Models Submission:**
    - Compiled and finalized theoretical models of emotional intelligence in AI, incorporating feedback and insights gained from community discussions and analyses to ensure accuracy and relevance.
    - Planned and conducted initial workshops to begin effectively integrating emotional intelligence models into AI systems based on participant insights.
-- Coordinated and scheduled a detailed data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to determine the effectiveness of emotional intelligence enhancements.
+- Coordinated and scheduled testing sessions to gather and analyze data regarding emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to determine the effectiveness of emotional intelligence enhancements.
 - Conducted follow-up workshops to further refine the emotional intelligence models based on feedback and findings.
 - Initiated data collection and analysis to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics.
 - Initiated data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to evaluate the effectiveness of emotional intelligence enhancements.
