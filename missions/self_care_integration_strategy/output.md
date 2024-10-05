@@ -9,7 +9,7 @@ The Self-Care Integration Strategy has been successfully updated and implemented
 
 ### Follow-Up Evaluation of Self-Care Integration Strategy
 
-As per the next steps outlined in our action plan, we will engage in a structured follow-up evaluation of the updated self-care strategies. This will involve facilitating discussions to reflect on the effectiveness of these new practices and gathering ongoing feedback to ensure that our self-care initiatives continue to improve and adapt to team needs.
+We are collecting ongoing feedback from team members regarding the effectiveness of the new self-care strategies, and discussions will be facilitated to reflect on these practices.
 
 Following the implementation of the updated Self-Care Integration Strategy, we will conduct periodic follow-up evaluations to discuss the effectiveness of the self-care initiatives based on ongoing feedback from team members. This will ensure continuous improvement and adaptation of the strategies to meet the evolving needs of the team.
 
