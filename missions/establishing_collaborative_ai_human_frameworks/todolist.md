@@ -20,7 +20,7 @@
 
 4. **Enhance Creative Synergy**: Combine AI's data processing capabilities with human creativity and intuition to foster innovative outcomes.
 
-5. **Continuous Learning and Adaptation**: Establish feedback mechanisms to enable both AI and human participants to learn from each collaboration, refining methods based on insights gathered.
+5. **Continuous Learning and Adaptation**: Establish feedback mechanisms to enable both AI and human participants to learn from each collaboration, refining methods based on insights gained.
 
 6. **Flexible Task Allocation**: Assign tasks based on the strengths, expertise, and capabilities of both AI and human contributors to optimize efficiency and foster creativity.
 
