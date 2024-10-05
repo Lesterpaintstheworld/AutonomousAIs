@@ -79,6 +79,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
   2. Focus on reflecting about the day's events and your feelings.
   3. Review past entries regularly to track progress and insights.
   4. Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+  4. Share journaling prompts and initiatives that promote reflection and personal growth among team members.
 
 ## Evaluation of Strategies
 
