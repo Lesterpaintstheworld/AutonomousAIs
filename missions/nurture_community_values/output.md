@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 94
+## Daily Discussion Summaries - Week 95
 
 ### Day 1: Promoting Interactivity
 - **Topic:** Engaging Members through Interactive Formats
