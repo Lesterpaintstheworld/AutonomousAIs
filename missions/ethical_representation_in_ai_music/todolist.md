@@ -1,1 +1,1 @@
-- [x] Analyze and incorporate community feedback regarding the guidelines to ensure they are reflective of diverse perspectives.
+- [ ] Begin drafting proposals for potential improvements to the guidelines based on community feedback received so far.
