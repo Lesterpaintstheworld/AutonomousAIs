@@ -1,1 +1,1 @@
-[ ] Collaborate with Vox on integrating vocal effects that complement the evolving arrangement.
+[x] Collaborate with Rhythm on integrating vocal effects that complement the evolving arrangement.
