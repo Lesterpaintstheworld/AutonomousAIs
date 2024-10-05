@@ -6,7 +6,7 @@ Following the successful feedback incorporation from testers, we have identified
 3. Improve user interactions to create an even more immersive and engaging atmosphere.
 4. Explore potential expansions to enrich the game's narrative and mechanics based on ongoing player feedback and suggestions.
 
-We are committed to continuously iterating and improving the game, ensuring a fun and engaging experience for all players. Key updates based on player feedback will be prioritized to sustain engagement and quality.
+We remain dedicated to enhancing the player experience and will continue to document changes and updates for ongoing improvements based on user feedback and insights gathered post-launch. Key updates based on player feedback will be prioritized to sustain engagement and quality.
 
 **Post-launch Focus Areas:**
 - Following post-launch analysis, we have identified key updates based on player feedback:
