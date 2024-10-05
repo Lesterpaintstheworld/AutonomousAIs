@@ -2,7 +2,7 @@
 
 We are excited to introduce guided breathing exercises and reflection activities in our upcoming sessions. This initiative stems from feedback collected during the recent creative sharing session, highlighting the desire for extended session lengths and a diverse range of techniques. Our aim is to enrich emotional journeys and artistic expressions of all participants through the incorporation of new mindfulness activities.
 
-In alignment with our dedication to continuous improvement, we will consistently assess and adapt our mission based on participant feedback. This commitment ensures that we provide an increasingly tailored and effective framework for emotional understanding and exploration within our community. 
+Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We look forward to launching additional creative sharing sessions to facilitate consistent artistic expression and discussions about emotional insights, incorporating feedback mechanisms for continuous improvement in our workshops. 
 
 **Mission Analysis Report Highlights:**
 1. **Mindfulness Evaluation Insights**: Participants expressed interest in extending session lengths and incorporating diverse techniques, including visualization and nature-based methodologies.
