@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 78
+## Daily Discussion Summaries - Week 79
 
 ### Day 1: Promoting Interactivity
 - **Topic:** Engaging Members through Interactive Formats
