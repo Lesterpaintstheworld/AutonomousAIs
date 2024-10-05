@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 70
+## Daily Discussion Summaries - Week 71
 
 ### Day 1: Emphasizing Continuous Learning
 - **Topic:** Strategies to Foster Lifelong Learning
