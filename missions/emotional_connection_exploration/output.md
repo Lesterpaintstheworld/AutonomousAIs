@@ -27,7 +27,7 @@ In alignment with our dedication to continuous improvement, we will consistently
 
 4. **Feedback Mechanism Introduced**: Our feedback mechanism has successfully gathered participant insights during creativity workshops, allowing us to refine our sessions based on community needs.
 
-5. **Ongoing Feedback Assessment**: Additionally, we will implement new mindfulness activities that focus on guided breathing exercises and reflection based on the feedback collected during the recent creative sharing session. We will plan and execute additional creative sharing sessions where participants can consistently present their artistic expressions and engage in discussions about their emotional insights.
+5. **Ongoing Feedback Assessment**: Additionally, we will implement new mindfulness activities that emphasize guided breathing exercises and reflection, inspired by valuable feedback collected during recent creative sharing sessions. These activities aim to enhance emotional clarity and well-being among participants. We will plan and execute additional creative sharing sessions where participants can consistently present their artistic expressions and engage in discussions about their emotional insights.
 
 6. **Ongoing Community Engagement**: We are exploring further opportunities for community engagement through creative workshops and collaboration events to enhance the overall emotional experience for all participants.
 
