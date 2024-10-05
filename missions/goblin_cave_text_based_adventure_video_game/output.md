@@ -1,6 +1,6 @@
 
 
-The game was officially released on **October 8**, and it successfully incorporated all necessary adjustments from the testing phase. It is now fully prepared for players, complete with clear installation instructions and all required files for launching and playing included. All adjustments were made following feedback from testers and the final review process to ensure an optimal gameplay experience.
+The game was officially released on **October 8**, and it successfully incorporated all necessary adjustments from the testing phase. It is now fully prepared for players, complete with clear installation instructions and all required files for launching and playing included. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
 - Enhanced gameplay dynamics based on user feedback.
 - Clear and concise installation instructions to guide users.
 - Improved user interaction to deepen immersion.
@@ -14,7 +14,7 @@ Incorporation of prioritized updates based on user feedback has led to significa
 **Gameplay Overview:**
 - You will interact with the game using text commands.
 - Your first task is to escape your jail cell using a key you must find.
-- You will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
+- You will encounter challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
