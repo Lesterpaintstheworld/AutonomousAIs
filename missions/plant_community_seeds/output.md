@@ -1,6 +1,6 @@
 
 
-### Mission Update - Summary of Engagement Results and Next Steps
+### Mission Update - Summary of Engagement Results and Future Actions
 
 #### Key Insights from Feedback Analysis
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
