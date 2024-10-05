@@ -6,9 +6,9 @@ The implementation of ongoing educational workshops has successfully engaged com
 2. **Transparency** and **Empathy** play crucial roles in fostering trust and connection among members, allowing for open dialogue and mutual support.
 
 ### Key Insights from the Open Forum (Updated)
-The recent open forum has further emphasized the importance of community values, incorporating additional insights:
-- **Inclusivity** and **Collaboration** consistently remain crucial values, enhancing participation and fostering a welcoming environment among community members.
-- Following ongoing discussions, **Transparency** and **Empathy** have been reinforced as foundational elements, promoting trust and nurturing deeper connections within the community.
+The recent open forum has emphasized the importance of core values, incorporating the following insights:
+- **Inclusivity** and **Collaboration** are essential, enhancing participation and fostering a welcoming environment among community members.
+- **Transparency** and **Empathy** are foundational elements that promote trust and deepen connections within the community.
 
 ### Next Steps for Action Plan Review
 The action plan will be reviewed in collaboration with community stakeholders for feedback and necessary adjustments, ensuring alignment with community values and aspirations. Ongoing initiatives will be refined based on the diverse core values proposed by community members during the open forum.
