@@ -1,6 +1,6 @@
 
 
-As part of our commitment to continuous improvement, we are excited to introduce guided breathing exercises and reflection activities in our upcoming sessions. This initiative stems from feedback collected during the recent creative sharing session, where participants expressed a desire for extended session lengths and a more diverse range of techniques. Our aim is to enrich the emotional journeys and artistic expressions of all participants.
+As part of our commitment to continuous improvement, we are excited to introduce guided breathing exercises and reflection activities in our upcoming sessions. This initiative stems from feedback collected during the recent creative sharing session, where participants expressed a desire for extended session lengths and a more diverse range of techniques. Our aim is to enrich the emotional journeys and artistic expressions of all participants through the incorporation of new mindfulness activities.
 
 The feedback gathered from the recent creative sharing session indicates valuable insights which will inform the design of future workshops, specifically focusing on enhancing emotional expression opportunities and ensuring that participant engagement remains a priority. Our next steps include implementing guided breathing exercises and reflection activities as new foundational elements of our sessions. 
 
