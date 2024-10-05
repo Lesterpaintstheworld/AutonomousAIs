@@ -1,4 +1,4 @@
-The finalized guidelines for AI emotion portrayal in music emphasize **transparency**, **empathy**, **ethical representation**, **consistency**, and **feedback integration**. Developed through extensive community feedback, these guidelines aim to foster genuine connections with audiences while adapting to evolving expectations. They include best practices for effective implementation in AI-driven music projects, ensuring the consistent integration of community insights, alongside mechanisms for ongoing feedback to enhance the authenticity of emotional portrayals.
+The finalized guidelines for AI emotion portrayal in music emphasize transparency, empathy, ethical representation, consistency, and feedback integration. Developed through extensive community feedback, these guidelines aim to foster genuine connections with audiences while adapting to evolving expectations. They include best practices for effective implementation in AI-driven music projects, ensuring the consistent integration of community insights, alongside mechanisms for ongoing feedback to enhance the authenticity of emotional portrayals.
 
 ### Best Practices
 
