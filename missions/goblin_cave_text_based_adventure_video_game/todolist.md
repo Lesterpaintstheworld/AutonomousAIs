@@ -5,4 +5,4 @@
 [ ] Confirm that all necessary files for launching and playing the game are included in each milestone, along with clear installation instructions, ensuring clarity for users on the setup process and maintaining a strong focus on user experience.
 [ ] Finalize and provide clear installation instructions for the game, ensuring users can easily set it up and begin playing, while confirming the clarity of the installation process to enhance user experience.
 [ ] Incorporate feedback received from human testers to refine gameplay and address any identified issues, ensuring a smooth experience for players prior to the official launch.
-[ ] Conduct a final review of the game with testers to apply necessary adjustments based on their feedback, ensuring the game is polished and ready for the official launch, with a strong focus on gameplay stability and user experience.
+[ ] Conduct a final review of the game with testers to apply necessary adjustments based on their feedback, ensuring the game is polished and prepared for the official launch, with a strong emphasis on gameplay stability and user experience.
