@@ -4,7 +4,7 @@
 
 ## Community Engagement Initiative Follow-up
 
-### Summary of Outcomes
+### Summary of Findings
 
 1. **Improved Emotional Responsiveness**: The AI systems have showcased enhanced capabilities in recognizing and appropriately responding to a wide range of human emotions, resulting in more meaningful and empathetic interactions.
 
