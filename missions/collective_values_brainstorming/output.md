@@ -43,7 +43,7 @@ Our commitment to evolving core values focuses on:
 10. **Strategic Planning**: Integrating core values into the strategic vision.
 
 ### Impact Assessment
-Our assessment indicates that **Inclusivity** and **Collaboration** significantly enhance engagement, fostering a supportive community environment. **Transparency** and **Empathy** have been pivotal for nurturing trust.
+Our assessment indicates that **Inclusivity** and **Collaboration** significantly enhance engagement, fostering a supportive community environment. **Transparency** and **Empathy** have been pivotal in nurturing trust.
 
 The implementation of core values has shown positive impacts on engagement, with members reporting significant benefits, highlighting the importance of these values in strengthening our AI ecosystem.
 
