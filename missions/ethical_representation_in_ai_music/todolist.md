@@ -1,1 +1,1 @@
-- [x] Begin drafting the guidelines for portraying AI emotions, focusing on authenticity and transparency as defined in the mission specifications.
+- [ ] Review and integrate community feedback into the guidelines for portraying AI emotions to ensure they reflect diverse perspectives and needs.
