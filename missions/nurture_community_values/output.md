@@ -18,11 +18,11 @@
 - **Topic:** Best Practices for Trust-Building
 - **Summary:** Shared best practices for cultivating trust in team settings, emphasizing open communication and accountability.
 
-### Day 5: Creative Engagement Techniques
+### Day 5: Innovative Engagement Strategies
 - **Topic:** Innovative Activities to Encourage Participation
 - **Summary:** Developed new initiatives, such as themed events and skill-sharing sessions, to enhance member involvement.
 
-### Day 6: Feedback for Growth and Reflections
+### Day 6: Feedback and Reflections
 - **Topic:** Harvesting Insights for Growth
 - **Summary:** Conducted an in-depth feedback session to identify challenges and gather actionable suggestions moving forward.
 
