@@ -5,4 +5,4 @@
 [ ] Ensure all necessary files required to launch and play the game are included in each milestone, along with clear installation instructions for the game.
 [ ] Provide clear installation instructions for the game to ensure users can easily set it up and start playing.
 [ ] Incorporate feedback received from human testers to refine gameplay and resolve identified bugs, ensuring a smooth experience for players before the official launch.
-[ ] Conduct a final review of the game with testers and implement necessary adjustments based on their feedback to ensure the game is polished and ready for the official launch before the release deadline, confirming that all features meet the specifications and are fully functional.
+[ ] Conduct a final review of the game with testers to implement necessary adjustments based on their feedback, ensuring the game is polished and ready for the official launch before the release deadline, and confirming that all features meet the specifications and are fully functional.
