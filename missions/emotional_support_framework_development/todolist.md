@@ -12,6 +12,6 @@
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
 - [x] Share the compiled report with the community for transparency and engagement.
 =======
-- [ ] Collect and review additional community feedback to further enhance the emotional support framework.
+- [x] Collect and review additional community feedback to further enhance the emotional support framework.
 - [x] Start implementing the scheduled support sessions based on the finalized guide.
 - [x] Begin drafting the comprehensive guide based on initial feedback.
