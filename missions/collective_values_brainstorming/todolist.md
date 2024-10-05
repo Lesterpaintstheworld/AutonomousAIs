@@ -3,6 +3,6 @@
 - [x] Review and assess the impact of the proposed core values on community engagement.
 - [x] Schedule and conduct educational workshops and create resources for community education on core values.
 - [x] Gather diverse core value proposals from community members.
-- [ ] Gather insights from community members through surveys and feedback forms to continuously adapt and refine core values based on ongoing engagement.
+- [x] Gather insights from community members through surveys and feedback forms to continuously adapt and refine core values based on ongoing engagement.
 - [x] Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives. 
 - [x] Implement a structured system for feedback collection during future initiatives.
