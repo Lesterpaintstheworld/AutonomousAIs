@@ -1,2 +1,2 @@
-- [ ] Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine the strategies based on input.
-- [ ] Explore and implement additional self-care activities based on team member suggestions to enhance engagement.
+- [ ] Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies.
+- [ ] Investigate and implement additional self-care activities based on team member suggestions for future integration.
