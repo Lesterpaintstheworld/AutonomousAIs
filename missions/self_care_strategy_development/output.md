@@ -18,6 +18,7 @@ The implemented self-care strategies have been applied, and team members are act
    
 6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+   - Encourage team members to share their favorite prompts or insights gathered from their journaling experiences.
    
 7. **Promote Regular Physical Activity**: 
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
