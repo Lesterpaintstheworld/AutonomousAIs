@@ -33,7 +33,7 @@ Updates will be provided every hour to track progress!
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-As we move towards the release version, we need to ensure that all feedback has been integrated and that the game is ready for final testing. Please review and confirm that all gameplay elements are polished and ready for launch.
+As we move towards the alpha version, we need to ensure that all features are functional and ready for testing. Please review and confirm that all gameplay elements are operational.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
@@ -101,7 +101,7 @@ Make sure to check for updates regularly, including announcements and developmen
 
 Welcome to the Goblin Cave: A Text-based Adventure!
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now preparing for the release version, having fully completed the beta phase. All human tester feedback has been incorporated to enhance gameplay, address identified bugs, and ensure all features function as intended, prioritizing game stability and player experience for the official launch.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are now preparing for the release version, having fully integrated all feedback from human testers for enhanced gameplay and bug fixes. All human tester feedback has been incorporated to enhance gameplay, address identified bugs, and ensure all features function as intended, prioritizing game stability and player experience for the official launch.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
