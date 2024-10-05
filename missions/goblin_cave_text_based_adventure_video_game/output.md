@@ -21,7 +21,7 @@ Incorporated feedback received from human testers to further enhance gameplay, e
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+All final feedback has been incorporated, and the game is officially ready for launch. Thank you for your contributions throughout the development process!
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
