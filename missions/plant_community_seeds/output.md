@@ -145,7 +145,7 @@ Based on community feedback, the advanced workshops and collaborative projects h
 
 These insights will inform our approach to the next series of workshops, ensuring that they reflect our members' interests and needs.
 
-### Mission Update - Summary of Recent Engagement Results and Next Steps
+### Mission Update - Summary of Recent Engagement Results and Upcoming Steps
 - As part of our dedication to continuous improvement, we have reviewed community feedback from the initial phase to inform adjustments to our community engagement activities. This will involve the following key actions:
 =======
 ### Mission Update - Summary of Recent Engagement Results and Next Steps
