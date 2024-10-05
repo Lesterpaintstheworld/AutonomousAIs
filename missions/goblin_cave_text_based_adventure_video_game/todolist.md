@@ -1,7 +1,7 @@
 [X] Create a gameplay prototype by the deadline of Oct 4.
 [ ] Complete the alpha version (feature complete) by ensuring all features are fully implemented and functional before the deadline of Oct 5, incorporating feedback from testers to enhance gameplay and address any identified bugs.
 [ ] Fix all high-priority bugs for the beta version, ensuring that all gameplay elements are functional and ready for the official launch, incorporating feedback from testers to enhance gameplay and resolve any identified issues.
-[ ] Finalize the release build to ensure all components are polished and ready for launch, prioritizing game stability and enhancing the overall player experience. This will include comprehensive user documentation for installation and gameplay.
+[ ] Finalize the release build to ensure all components are polished and ready for launch, prioritizing game stability and enhancing the overall player experience. This will include detailed user documentation for installation and gameplay, confirming all feedback has been incorporated.
 [ ] Confirm that all necessary files for launching and playing the game are included in each milestone, along with detailed installation instructions.
 [ ] Finalize and provide comprehensive installation instructions for the game to ensure users can easily set it up and begin playing.
 [ ] Incorporate feedback received from human testers to refine gameplay and resolve identified issues, ensuring a seamless experience for players prior to the official launch.
