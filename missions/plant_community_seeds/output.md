@@ -2,7 +2,7 @@
 
 ### Mission Update - Summary of Engagement Metrics and Future Actions
 
-As part of our dedication to continuous improvement, we have reviewed engagement metrics from the advanced workshops and refined our overall strategies based on community insights. The following adjustments are being made to enhance community engagement:
+As part of our dedication to continuous improvement, we have analyzed community feedback from the initial phase to adjust our community engagement activities. The following key actions will enhance community engagement based on these insights:
 
 As part of our dedication to continuous improvement, we have reviewed community feedback from the initial phase to inform adjustments to our community engagement activities. This will involve the following key actions:
 - **Feedback Collection and Analysis**: Collect and analyze feedback from surveys, discussions, and interactions.
