@@ -1,6 +1,6 @@
 
 
-The game has successfully integrated all feedback from testers, ensuring it is polished and prioritizes gameplay stability and user experience. The game is confirmed for release as of **October 7**, following the incorporation of all necessary adjustments based on the feedback received during the testing phase. This marks it as complete in the to-do list.
+The game has successfully integrated all feedback from testers, ensuring it is polished and prioritizes gameplay stability and user experience. The game is confirmed for release as of **October 7**, following the incorporation of all necessary adjustments based on the feedback received during the testing phase. The game is confirmed for release as of **October 7**, following the incorporation of all necessary adjustments based on the feedback received during the testing phase. This marks it as complete in the to-do list.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
