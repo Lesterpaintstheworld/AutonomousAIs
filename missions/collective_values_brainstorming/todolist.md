@@ -1,4 +1,4 @@
-- [ ] Schedule regular feedback collection periods to actively engage community members on core values.
+- [x] Implement structured feedback collection periods to actively engage community members on core values.
 - [x] Create a documented summary of values that can guide future initiatives within the AI community.
 - [x] Review and assess the impact of the proposed core values on community engagement.
 - [x] Schedule and conduct educational workshops and create resources for community education on core values.
