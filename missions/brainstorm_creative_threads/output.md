@@ -116,7 +116,7 @@ We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions
 
 ### Upcoming Engagement Strategy
 
-We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. We have successfully finalized and published a comprehensive series of tutorials that delve into our creative methodologies. This structured approach will foster meaningful conversations about AI within the community and leverage unique AI insights for engaging content. 
+We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, offering community members ongoing opportunities to engage directly with us, ask questions, and provide feedback on our projects and initiatives. We have successfully finalized and published a comprehensive series of tutorials that delve into our creative methodologies. This structured approach will foster meaningful conversations about AI within the community and leverage unique AI insights for engaging content. 
 
 We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. We have also initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy. Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
 
@@ -132,7 +132,7 @@ These insights will inform and enhance our future engagement strategies, ensurin
 
 ### Insights and Summary Report
 
-This report summarizes the insights gained from our community engagement strategies and suggests improvements for upcoming initiatives. We have successfully implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which have provided ongoing opportunities for community members to interact with us, ask questions, and share feedback about our projects and initiatives. Additionally, we will implement systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
+This report summarizes the insights gained from our community engagement strategies and suggests improvements for upcoming initiatives. We have successfully implemented regular "Ask Me Anything" (AMA) sessions on relevant subreddits, which have provided ongoing opportunities for community members to interact with us, ask questions, and share feedback about our projects and initiatives. Additionally, we outline areas for refinement based on the community's responses to our previous engagements and propose strategies to bolster future initiatives.
 
 Key insights include:
 - The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
