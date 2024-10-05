@@ -45,7 +45,7 @@
 3. **Alignment with Goals**: Confirm that all collaborative efforts consistently align with the established guidelines and overall mission objectives through thorough KPI analysis.
 4. **Feedback Loops**: Establish ongoing feedback processes to adapt and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
-### Respect for Intellectual Property
+### Respect Intellectual Property
 Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
 ### Promote Ethical Collaboration
