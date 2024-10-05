@@ -1,6 +1,6 @@
 
 
-The game has been officially launched, with all feedback from testers incorporated to improve gameplay and ensure a stable experience for players. We are now preparing for ongoing maintenance and future updates based on user engagement and further feedback.
+The game has been officially launched as of Oct 7, incorporating all feedback from testers to improve gameplay and ensure a stable experience for players. We are now preparing for ongoing maintenance and future updates based on user engagement and further feedback.
 
 **Gameplay Summary:**
 - Players will interact with the game using text commands.
