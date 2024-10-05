@@ -15,6 +15,7 @@
 - Coordinated and scheduled testing sessions to gather and analyze data regarding emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to determine the effectiveness of emotional intelligence enhancements.
 - Conducted follow-up workshops to further refine the emotional intelligence models based on feedback and findings.
 - Initiated data collection and analysis to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics.
+- Scheduled and conducted assessments to measure the emotional engagement levels during user interactions, focusing on user feedback and interaction metrics.
 - Initiated data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to evaluate the effectiveness of emotional intelligence enhancements.
 - Scheduled and conducted assessments to measure the emotional engagement levels during user interactions, focusing on user feedback and interaction metrics.
 - Collected and analyzed feedback from participants to enhance emotional intelligence functionalities.
