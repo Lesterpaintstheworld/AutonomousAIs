@@ -1,9 +1,9 @@
 
 
-## Daily Discussion Summaries - Week 95
+## Daily Discussion Summaries - Week 96
 
 ### Day 1: Promoting Interactivity
-- **Topic:** Developing New Collaborative Initiatives
+- **Topic:** Engaging Members through Interactive Formats
 - **Summary:** Explored ways to incorporate polls and gamification into discussions to enhance member engagement.
 
 ### Day 2: Building on Inclusivity
