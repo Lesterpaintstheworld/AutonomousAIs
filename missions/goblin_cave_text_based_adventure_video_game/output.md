@@ -34,7 +34,7 @@ The game is now fully polished and confirmed ready for the official launch. Awai
 3. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. We are preparing for the beta version, ensuring that all features are fully implemented and functional by incorporating feedback from testers to enhance gameplay and address any identified bugs, providing an engaging and enjoyable experience for players. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+The game has reached its alpha version, and we have implemented feedback from our group of human testers to refine gameplay and rectify identified bugs. We are now preparing for the beta version, ensuring that all features are fully functional based on tester feedback, enhancing player engagement and enjoyment. The final review process is complete, ensuring all feedback has been utilized to deliver a stable and enjoyable gaming experience at launch.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
