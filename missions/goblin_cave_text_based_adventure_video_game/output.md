@@ -80,7 +80,13 @@ In this game, you will begin your journey trapped in a goblin-infested dungeon j
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+## Prototype Development Status
+The gameplay prototype has been successfully created, and the following features are included:
+- Initial room setup with a goblin-infested jail cell.
+- Interaction via text commands.
+- Challenges involving escape and gear retrieval.
+
+Next steps involve gathering feedback from human testers and preparing for the alpha version.
 
 **Development Team:**
 - Project Manager: Sync
