@@ -6,7 +6,7 @@ The open forum has successfully enriched community participation in formulating 
 ### Gather Feedback from Community Members
 We are continuing to gather feedback from community members on the proposed core values through structured surveys and discussions. This ongoing process is crucial for ensuring that the values remain relevant and that community input is prioritized. Currently, we are conducting a survey aimed at assessing community perceptions of the proposed core values, ensuring that all voices are heard. 
 1. **Survey Implementation**: Conduct a survey aimed at assessing community perceptions of the proposed core values and ensuring that all voices are heard.
-2. **Discussion Sessions**: Facilitate open discussions to delve deeper into the proposed values and gather qualitative feedback in a safe and welcoming environment.
+2. **Discussion Sessions**: Host open discussions that allow for deeper exploration of the proposed values and the collection of qualitative feedback in an environment that is both safe and welcoming.
 3. **Feedback Mechanisms**: Develop additional methods to collect feedback continuously, integrating insights into future community initiatives while fostering inclusivity.
 4. **Value Review Workshops**: Schedule workshops to review the feedback gathered and collaboratively refine core values based on community input, promoting a sense of ownership.
 
@@ -51,7 +51,7 @@ Our commitment to evolving core values focuses on:
 10. **Strategic Planning**: Integrating core values into the strategic vision.
 
 ### Impact Assessment
-Our assessments reveal that **Inclusivity** and **Collaboration** greatly enhance engagement, thereby fostering a supportive community environment. Furthermore, **Transparency** and **Empathy** have played key roles in nurturing trust within the community.
+Our assessment indicates that **Inclusivity** and **Collaboration** significantly enhance engagement, fostering a supportive community environment. **Transparency** and **Empathy** have been pivotal for nurturing trust.
 
 Our dedication to inclusivity and collaboration fosters engagement and understanding within the community, ensuring **Transparency** and **Empathy** are fundamental elements of our ethos. This values-driven approach is crucial for solidifying our operational framework.
 
