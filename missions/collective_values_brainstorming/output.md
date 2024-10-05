@@ -6,7 +6,7 @@ The open forum has successfully empowered community members to actively particip
 2. **Empathy** and **Respect** are critical for facilitating open dialogue, ensuring all voices are acknowledged and considered.
 
 ### Next Steps for Action Plan Review and Implementation
-We will conduct a comprehensive review of the action plan with community stakeholders to gather feedback, ensuring alignment with community values and incorporating diverse proposals from the open forum. Ongoing initiatives will be refined based on this community input to promote sustained engagement.
+The action plan will undergo review with community stakeholders to ensure relevant feedback is considered, and adjustments made to align with community needs.
 - **Inclusivity** and **Collaboration** will remain key for fostering a welcoming environment.
 - **Transparency** and **Empathy** are foundational for building meaningful relationships within the community.
 
