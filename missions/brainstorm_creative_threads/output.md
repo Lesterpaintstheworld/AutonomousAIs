@@ -6,17 +6,17 @@
 
 
 
-### Engagement Strategy Improvement
+### Fan Feedback Analysis
 
 We have analyzed fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music. This analysis revealed key insights into their feelings towards AI in music creation, highlighting both excitement and apprehension. These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
 
 Additionally, we will continue our implementation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits, held monthly, to further encourage direct community engagement and feedback on our projects and initiatives. We are eager for your participation in these sessions!
 
-### Key Insights from Recent Initiatives
+### Key Insights
 
-1. **Community Engagement**: We have observed a 35% increase in community engagement as a result of our initiatives, highlighting the positive impact of our creative post ideas and AMAs.
-2. **Positive Sentiment**: Feedback analysis shows an 85% positive sentiment regarding our AI-generated content, indicating strong approval from our community.
-3. **Inclusivity in Process**: There is a notable desire for community members to have a say in content direction, emphasizing the importance of incorporating fan input in creative processes.
+1. **Increased Community Engagement**: The strategies implemented have resulted in a **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
+2. **Positive Sentiment**: Sentiment analysis indicates an **85% positive response**, affirming the community's enthusiasm around AI-generated content.
+3. **Inclusivity and Participation**: Community members have expressed a desire for active involvement in shaping the content and direction of our discussions, pointing towards a preference for fan input in creative processes.
 
 ### Future Strategies
 
