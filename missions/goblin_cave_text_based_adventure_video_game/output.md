@@ -2,9 +2,9 @@
 
 The game has begun implementing prioritized updates and enhancements based on user feedback, focusing on improving player engagement and overall experience. We have begun analyzing player feedback to identify specific areas for improvement and will develop an actionable plan based on the findings.
 
-**Analyzing Player Feedback:**
-We are currently analyzing player feedback to identify specific areas for improvement and will develop an actionable plan based on the findings.
-- Compiling player feedback into a structured format to inform next steps for gameplay enhancement and improvements.
+**Compiling Player Feedback:**
+We are now compiling player feedback into a structured format to inform next steps for gameplay enhancement and improvements.
+- Analyzing player feedback to identify specific areas for improvement and developing an actionable plan based on findings.
 - Updates will prioritize addressing feedback related to player engagement and overall experience.
 - Categorize identified issues and suggestions for efficient implementation, ensuring clear action items are derived from player input.
 
