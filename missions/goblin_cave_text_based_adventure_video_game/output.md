@@ -11,8 +11,8 @@ The development team has successfully gathered and incorporated user feedback fo
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
-Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights are thoroughly documented for future reference.
-- Following the post-launch review meeting, the team has prioritized critical updates based on user feedback, such as enhanced clarity in instructions, balanced gameplay mechanics, and improved user interactions designed to foster a more immersive experience. All updates will continue to be documented to maintain transparency and support ongoing game improvement.
+Prioritized updates based on user feedback have greatly strengthened the overall gameplay experience and player engagement. Key refinements include a more balanced challenge in game mechanics, clearer instructional guidance for new players, and improvements to user interactions that create a more immersive atmosphere. All updates and actionable insights are documented for transparency and future reference.
+- Following the post-launch review meeting, the team has prioritized several key updates based on user feedback, including improved clarity in instructions, refined gameplay mechanics, and enhanced user interactions to create a more immersive experience. All updates will continue to be documented for reference, ensuring transparency and ongoing improvement of the game.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
