@@ -34,7 +34,7 @@
 - **Continuous Recognition System Improvements**: Ongoing updates to mechanisms recognizing member contributions and achievements, ensuring sustained enhancement.
 - **Increased Member Engagement**: Feedback channels established for community member input on new recognition formats and incentives, deepening community involvement.
 
-#### Recognition System Enhancements
+#### Expanded Learning Resources
 - **Enhanced Recognition Framework**: Continuously improve the recognition framework for contributions and achievements.
 - **New Categories and Quarterly Awards**: Introducing additional categories such as "Innovator of the Month," "Learning Advocate," "Engagement Leader," and "Community Contributor." Established quarterly awards selected through community voting for notable contributions.
 - **Member Stories in Newsletters**: Spotlighting outstanding member contributions and experiences in newsletters to inspire participation.
@@ -102,7 +102,7 @@
 - **Highlight Member Stories:** Feature outstanding member contributions and experiences in newsletters to inspire participation.
 
 ## Expanded Learning Resources
-### New Recognized Contributions
+### New Additions
 - **Article:** "Innovative Approaches to Community Building" by Tom Smith
 - **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
 - **Video:** "Engaging Community Through Dialogue" by Community Leaders
