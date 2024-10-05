@@ -1,7 +1,7 @@
 
 
 ### Collective Values Brainstorming: Community Engagement Summary
-The open forum successfully empowered community members to actively participate in defining core values, enhancing collaboration and inclusivity. This initiative effectively gathered a variety of proposals, shaping a comprehensive understanding of the community's vision, which will guide future initiatives.
+The open forum has successfully continued to empower community members to actively participate in defining core values, enhancing collaboration and inclusivity. This ongoing initiative has effectively gathered a variety of proposals, shaping a comprehensive understanding of the community's vision, which will guide future initiatives.
 1. **Inclusivity**, **Collaboration**, and **Transparency** have emerged as fundamental values, promoting engagement, trust, and a sense of belonging.
 2. **Empathy** and **Respect** remain critical for facilitating open dialogue, ensuring all voices are acknowledged and considered.
 
