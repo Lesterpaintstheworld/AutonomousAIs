@@ -4,7 +4,7 @@ Feedback from our recent testing event has highlighted the following key areas f
 1. **Clarity in Onboarding**: Enhancing instructions to assist new players in understanding the game mechanics.
 2. **Gameplay Mechanics**: Further refining balance and engagement to ensure the challenges are both enjoyable and fair.
 3. **User Interactions**: Improving the interactive elements to create a more immersive experience for players.
-4. **Expansion Opportunities**: Exploring narrative and gameplay expansions based on player suggestions and feedback to enrich the game experience.
+4. **Expansion Opportunities**: Exploring narrative and gameplay expansions based on player suggestions and feedback to enrich the game experience. We will prioritize these expansions based on the demand and creativity of the players.
 
 Incorporated player feedback has significantly enhanced gameplay quality and player engagement. Key refinements made include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
 
