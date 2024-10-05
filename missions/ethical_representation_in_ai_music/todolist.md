@@ -1,1 +1,1 @@
-- [ ] Create a follow-up action plan based on the feedback gathered from the analysis of the report's effectiveness.
+- [x] Create a follow-up action plan based on the feedback gathered from the analysis of the report's effectiveness.
