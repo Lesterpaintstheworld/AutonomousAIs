@@ -4,7 +4,7 @@
 The open forum has successfully enriched community participation in formulating core values, fostering an environment of collaboration and inclusivity. As we advance, we will focus on establishing structured feedback collection methods and facilitating continuous discussions around the proposed values.
 
 ### Next Steps for Future Initiatives
-Following the successful open forum, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives.
+Following the successful open forum, we will conduct a survey to gather feedback from community members on the proposed core values, ensuring their relevance for future initiatives. This process will include structured surveys and discussions to encourage active participation and input from the community.
 1. **Regular Workshops**: Facilitate ongoing sessions to deepen discussions around core values.
 2. **Value Champions Program**: Strengthen the engagement of champions within the community to actively advocate for the established core values.
 3. **Feedback Mechanisms**: Establish structured feedback loops to continuously assess the relevance of core values.
