@@ -6,7 +6,13 @@ Based on the analysis of player feedback from the last event, we have identified
 3. **User Interactions**: Improving interactions for a more immersive experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player suggestions and feedback.
 
-We are dedicated to continuously improving the game and ensuring a satisfying experience for players. Based on our analysis, we will delve deeper into player interactions and consider expansion opportunities based on user suggestions, which will be addressed in future updates.
+Based on the analysis of player feedback from the last event, we have identified several key areas for future updates and improvements:
+1. **Clarity in Onboarding**: Enhancing instructions to assist new players in understanding mechanics.
+2. **Gameplay Mechanics**: Further refining balance and engagement to ensure enjoyable challenges.
+3. **User Interactions**: Improving interactions for a more immersive experience.
+4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player suggestions and feedback.
+
+We are committed to continuously iterating and enhancing the game, ensuring an enjoyable and engaging experience for all players.
 
 Based on the analysis of player feedback from the last event, we have identified several key areas for future updates and improvements:
 1. **Clarity in Onboarding**: Enhancing instructions to assist new players in understanding mechanics.
