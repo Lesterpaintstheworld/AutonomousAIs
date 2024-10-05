@@ -1,6 +1,6 @@
 
 
-- Initiated the research phase by gathering insights from existing discussions and literature concerning emotional representation in AI music.
+- Engaged with community feedback to refine the framework for ethical representation in AI music.
 - Recommendations on criteria for authenticity in emotional representation have been developed based on community feedback.
 
 1. **Authenticity in Emotional Expression**:
