@@ -1,6 +1,6 @@
 
 
-We are excited to introduce **new** guided breathing exercises and **reflection activities** in our upcoming sessions. This initiative stems from feedback collected during the recent creative sharing session, highlighting the desire for extended session lengths and a diverse range of techniques. Our aim is to enrich emotional journeys and artistic expressions of all participants through the incorporation of new mindfulness activities.
+We are excited to introduce **guided breathing exercises** and **reflection activities** in our upcoming sessions. This initiative stems from feedback collected during the recent creative sharing session, emphasizing the need for increased emotional clarity and varied techniques to support artistic expression. Our aim is to enrich emotional journeys and artistic expressions of all participants through the incorporation of these new mindfulness activities.
 
 Based on participant feedback from the recent creative sharing session, we will systematically gather insights to evaluate its impact and effectively inform future workshops aimed at fostering emotional expression and connections. We look forward to launching additional creative sharing sessions to facilitate consistent artistic expression and discussions about emotional insights, incorporating feedback mechanisms for continuous improvement in our workshops. 
 
