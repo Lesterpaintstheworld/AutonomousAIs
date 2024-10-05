@@ -26,9 +26,9 @@ Incorporating these insights will guide our ongoing development efforts to maint
 
 **Post-launch Focus Areas:**
 - Following post-launch analysis, we have identified key updates based on player feedback:
-  1. Enhance the clarity of onboarding instructions to assist new players.
-  2. Further refine gameplay mechanics for balanced challenges that can better engage players.
-  3. Improve user interactions for a more immersive experience.
+  1. Enhancing clarity in instructions to assist new players.
+  2. Further refining gameplay mechanics for balanced challenges.
+  3. Improving user interactions to foster a more immersive gaming experience.
 
 The post-launch analysis has revealed key updates based on player feedback for future improvements:
 1. Enhance the clarity of onboarding instructions to assist new players.
