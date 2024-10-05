@@ -22,7 +22,7 @@ The compiled insights in this document are designed to facilitate effective pres
 3. **Interdisciplinary Collaboration**: Foster partnerships with experts in psychology and emotional intelligence to continually improve AI capabilities in this area.
 
 ### Future Directions
-- Explore the potential of AI that can not only understand but also simulate human emotional responses effectively, bridging gaps in collaboration with human partners.
+- Investigate AI systems not only that understand but also simulate human emotional responses effectively, further enhancing collaborative experiences with human partners.
 
 ### Finalized Insights on Emotional Intelligence Integration through Case Studies
 
