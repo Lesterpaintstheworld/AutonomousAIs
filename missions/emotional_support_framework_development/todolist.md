@@ -12,7 +12,7 @@
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
 - [x] Share the compiled report with the community for transparency and engagement.
 =======
-- [ ] Document findings from community feedback analysis and outline subsequent steps for the emotional support framework, including planning future support sessions and enhancing resources.
+- [ ] Validate the inputs and outputs with the community and begin drafting the comprehensive guide based on initial feedback.
 - [x] Outline next steps for implementing improved strategies based on feedback analysis.
 - [x] Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development.
 - [x] Implement improved strategies based on feedback analysis.
