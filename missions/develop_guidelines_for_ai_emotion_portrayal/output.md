@@ -18,11 +18,11 @@
    - Avoid manipulative or deceptive emotional expressions.
    - Respect cultural and individual differences in emotional perception.
 
-4. **Consistency**
+4. **Consistency**: Maintain a consistent emotional tone across all AI-generated content.
    - Maintain a consistent emotional tone across all AI-generated content.
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
-5. **Feedback Integration**: Continuously gather and incorporate community feedback.
+5. **Feedback Integration**
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
