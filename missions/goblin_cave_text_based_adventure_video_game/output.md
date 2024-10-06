@@ -71,7 +71,7 @@ Following the incorporation of player feedback from the last event, we have iden
 We remain committed to iteratively enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback analysis.
 
 We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback-analysis.
-Based on player feedback from the last event, we have pinpointed several key updates for ongoing enhancement, emphasizing:
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
 2. **Gameplay Mechanics**: Continuing to refine the balance and engagement of challenges for a more enjoyable experience.
 3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
@@ -94,7 +94,7 @@ These improvements will guide our ongoing development efforts to maintain player
   3. Improve user interactions to heighten immersion during gameplay.
   4. Investigate narrative expansions to enhance the overall experience based on player suggestions.
 
-We have successfully summarized player feedback and identified key areas for future updates and improvements:
+We have effectively summarized player feedback and pinpointed crucial areas for future updates and enhancements:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
 2. **Gameplay Refinement**: Continuously refining gameplay mechanics for balanced challenges that enhance player enjoyment.
 3. **User Experience**: Focusing on improving overall user interactions to create a more immersive experience.
