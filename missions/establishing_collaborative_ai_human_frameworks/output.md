@@ -41,6 +41,7 @@
 
 13. **Promote Transparency in Collaboration**
     - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
+    - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
 1. **Creativity Output**: Evaluate the diversity and originality of creative contributions from both AI and human participants to encourage a wide range of innovative ideas.
 2. **User Satisfaction**: Use structured feedback mechanisms from collaborators to measure their satisfaction with the collaboration experience and outcomes.
