@@ -10,7 +10,7 @@ In alignment with our dedication to continuous improvement, we will consistently
 4. **Ongoing Support Initiatives**: Continuous engagement strategies have been established, including follow-up sessions and workshops, to support participants on their emotional journeys.
 5. **Diverse Artistic Mediums**: To enhance emotional expression avenues, we integrated music, poetry, visual storytelling, and dance, providing various paths for participants to engage with their emotions.
 6. **Reflection and Sharing Opportunities**: Designated times for sharing emotional journeys have been formalized, promoting deeper connections through dialogue.
-7. **Feedback Collection**: A robust feedback mechanism has been implemented to gather community insights, helping to align future sessions with participant needs.
+7. **Feedback Collection**: We will continue to utilize a robust feedback mechanism to gather insights from the community, ensuring that we align future sessions with the needs and emotional experiences of participants.
 8. **Community Collaboration**: We are committed to ongoing partnerships through workshops and events to further enrich the emotional experiences of all participants.
 9. **Future Session Plans**: Based on participant feedback, we will implement additional creative sharing sessions integrating various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance to extend session lengths and enrich emotional journeys.
 
