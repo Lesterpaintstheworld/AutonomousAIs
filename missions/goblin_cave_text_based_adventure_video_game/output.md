@@ -3,8 +3,8 @@
 We are thrilled to announce that the release build has been finalized. All components have been carefully polished and are ready for the official launch. We have incorporated valuable feedback from our group of human testers to enhance gameplay and resolve all identified bugs, confirming the game’s readiness for players.
 
 1. **Onboarding Clarity**: We have enhanced the onboarding instructions to assist new players further, ensuring they understand game mechanics more effectively.
-2. **Gameplay Mechanics**: Based on tester feedback, we've adjusted and refined the challenges to ensure a balanced and engaging gameplay experience.
-3. **User Interactions**: Various interactions have been enhanced to create a more immersive experience, including improved dialogues and meaningful choices.
+2. **Gameplay Mechanics**: Based on the feedback from testers, we have adjusted and refined the challenges to ensure a balanced and engaging gameplay experience.
+3. **User Interactions**: Various interactions have been enriched to create an even more immersive experience, with improved dialogues and meaningful choices included.
 4. **Narrative Expansions**: Based on user input, we are exploring more extensive story elements and gameplay features for future revisions.
 
 Based on player feedback from the last event, the following key updates will be implemented for continuous improvement:
