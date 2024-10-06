@@ -29,6 +29,7 @@
 10. Assign "Value Champions" to advocate for these principles within the community, ensuring visibility and consistent promotion of core values.
 11. Review and assess the effectiveness of the workshops and educational sessions to ensure community understanding of core values and their applications.
 12. Document the outcomes and insights gained from workshops to enhance future core values discussions.
+13. **Ensure that all future actions and strategies align with the identified core values, reinforcing the commitment to inclusivity, collaboration, and transparency throughout the mission.**
 
 ### Project Overview
 The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects.
