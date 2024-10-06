@@ -12,7 +12,7 @@
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
 - [x] Validate the inputs and outputs with the community.
 =======
-- [x] Develop a structured evaluation schedule to maintain the responsiveness of our offerings.
+- [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
 - [x] Evaluate the inputs and outputs with the community based on feedback collected and adjust strategies accordingly.
 - [x] Start reviewing the feedback collected to identify key themes for further development of the emotional support framework.
 - [x] Validate the inputs and outputs with the community.
