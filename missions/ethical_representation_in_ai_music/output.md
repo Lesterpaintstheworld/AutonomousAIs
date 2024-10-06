@@ -1,6 +1,6 @@
 
 
-- **Ongoing Task**: Monitor the implementation of the revised guidelines for AI emotional representation and gather further feedback from the community.
+- **Ongoing Task**: Gather insights and feedback from participants during the public discussions and workshops on AI emotional representation.
 
 1. **Authenticity in Emotional Expression**: 
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritize diversity in emotional expression.
