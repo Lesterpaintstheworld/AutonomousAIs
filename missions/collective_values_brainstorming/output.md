@@ -3,6 +3,14 @@
 ### Summary of Community Feedback Insights
 1. **Inclusivity**:
    - Community members emphasized the importance of creating a welcoming atmosphere that encourages diverse perspectives and active participation.
+2. **Collaboration**:
+   - Increased participation in discussions and value proposals has fostered greater teamwork and cohesion among community members.
+3. **Transparency**:
+   - There is a strong demand for maintaining open lines of communication regarding proposals and their processes, which is vital for fostering trust within the community.
+4. **Empathy**:
+   - Recognizing and valuing community input has significantly enhanced engagement and created a stronger sense of belonging among members.
+5. **Adaptive Dialogue**:
+   - Establishing ongoing feedback mechanisms is crucial for adapting core values to meet the evolving expectations of the community.
 
 2. **Collaboration**:
    - Increased participation in discussions and value proposals has fostered greater teamwork and cohesion among community members.
