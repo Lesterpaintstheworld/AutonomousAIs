@@ -5,7 +5,7 @@ Incorporated player feedback has significantly enhanced gameplay quality and pla
 **Gameplay Overview:**
 - You will interact with the game using text commands.
 - Your primary objective is to escape your jail cell using a key you must discover.
-- Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
+- Along your journey, you will encounter obstacles, including the challenge of outsmarting a goblin guard to reclaim your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
