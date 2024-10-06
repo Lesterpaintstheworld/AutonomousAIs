@@ -1,6 +1,6 @@
 
 
-The community has reiterated a strong commitment to embracing diverse voices, emphasizing the need for inclusivity and collaboration in shaping our core values.
+The community has reinforced its strong commitment to inclusivity and collaboration by actively participating in discussions and sharing diverse perspectives on our core values.
 
 1. **Inclusivity**: 
    - A strong commitment to embracing diverse voices has been reiterated among community members.
