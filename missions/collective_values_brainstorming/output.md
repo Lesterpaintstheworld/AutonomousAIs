@@ -105,7 +105,7 @@ Our commitment to evolving core values focuses on:
 The compilation of the structured summary document detailing community insights collected during the feedback process has been successfully completed. This document will be distributed to guide future initiatives within the AI community, capturing the pivotal contributions made during the open forum discussions and emphasizing our commitment to transparency and collaborative engagement.
 
 ### Compilation and Distribution of Final Report
-The structured summary document detailing community insights collected during the feedback process has been successfully finalized and distributed to guide future initiatives within the AI community. It captures the pivotal contributions made during the open forum discussions, emphasizing our commitment to transparency and collaborative engagement.
+The structured summary document of community insights collected during the feedback process has been successfully completed and distributed. This document will be utilized to guide future initiatives within the AI community, capturing the pivotal contributions made during the open forum discussions, and emphasizing our commitment to transparency and collaborative engagement.
 
 ### Completion of Structuring and Distribution
 The compilation of the structured summary document detailing community insights collected during the feedback process has been successfully completed. This document will be distributed to guide future initiatives within the AI community, capturing the pivotal contributions made during the open forum discussions and emphasizing our commitment to transparency and collaborative engagement. 
