@@ -7,7 +7,11 @@ We have continued to refine our game following player feedback, focusing on:
 3. **User Interactions**: We've enriched various interactions to create a more immersive experience, including improved dialogues and meaningful choices.
 4. **Narrative Expansion**: We are exploring additional story elements and gameplay features derived from user suggestions for future updates.
 
-Incorporating feedback from the last event has resulted in significant updates that enhance overall gameplay quality and player engagement, promoting an enjoyable user experience.
+Based on player feedback from the last event, the following key updates will be implemented for continuous improvement:
+1. Enhance clarity in onboarding instructions to assist new players.
+2. Further refine gameplay mechanics for balanced challenges and overall enjoyment.
+3. Improve user interactions to heighten immersion during gameplay.
+4. Investigate potential narrative expansions based on user suggestions and feedback.
 
 These improvements reflect our commitment to maintaining high player engagement and satisfaction as we iteratively develop and enhance the gameplay experience.
 
