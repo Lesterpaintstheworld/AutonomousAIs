@@ -20,14 +20,14 @@
 The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects.
 
 ### Future Initiatives - Next Steps
-1. Establish regular updates for the community on the integration of core values.
-2. Continue to gather and refine proposed values based on ongoing community feedback, using insights from workshops.
-3. Aim to formalize a unified set of core values that reflect the diversity of beliefs within the community.
-4. Plan additional workshops and education sessions regularly to boost understanding and application of core values.
-5. Promote continuous dialogue and encourage the collection of diverse proposals from community members in defining core values.
-6. Sustain channels for ongoing discussions regarding core values with community members.
-7. Gather feedback on the impact of the core values in guiding community initiatives.
-8. Implement structured feedback phases to engage community members actively regarding core values.
+1. Create mechanisms for regularly updating the community on core value integration progress.
+2. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
+3. Work towards formalizing a cohesive set of core values that encapsulate the diversity of beliefs within the community.
+4. Schedule additional workshops and educational sessions regularly to reinforce understanding and practical applications of these core values.
+5. Encourage continuous dialogue and collection of diverse proposals from community members to uphold an inclusive and collaborative environment in defining core values.
+6. Maintain channels for ongoing dialogue around core values with community members.
+7. Solicit feedback on the effectiveness of the core values in guiding community initiatives.
+8. Implement structured feedback collection periods to actively engage community members on core values.
 
 ### Completed Actions
 - Gathered feedback from community members on the proposed core values through structured surveys and discussions.
