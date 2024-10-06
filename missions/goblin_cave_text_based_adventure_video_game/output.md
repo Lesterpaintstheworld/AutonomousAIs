@@ -20,7 +20,7 @@ As we move forward, incorporating player feedback will continue to enhance gamep
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback analysis.
+We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on user feedback analysis.
 
 **Post-launch Focus Areas:**
 1. **Onboarding Clarity**: Improve instructions for easy comprehension for new players.
