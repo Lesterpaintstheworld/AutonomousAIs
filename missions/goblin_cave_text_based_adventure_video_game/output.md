@@ -1,6 +1,12 @@
 
 
-As we move forward, incorporating player feedback will continue to enhance gameplay quality and engagement. Key refinements made include balanced game mechanics, clearer instructional guidance for new players, and immersive interactive elements. Our ongoing commitment to improving player experience drives us to document changes transparently, ensuring smooth onboarding through refined instructions and focused gameplay balance.
+Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continuing to refine the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on player suggestions and feedback.
+
+We remain committed to improving the player's experience and satisfaction as we continue our development efforts.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
