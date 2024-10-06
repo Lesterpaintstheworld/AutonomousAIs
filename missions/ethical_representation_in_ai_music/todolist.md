@@ -1,1 +1,1 @@
-- [ ] (Upcoming Task) Organize a series of public discussions and workshops to gather insights on the emotional representation of AI from the community.
+- [ ] (Upcoming Task) Compile feedback received from the public discussions and workshops to revise the guidelines for AI emotional representation.
