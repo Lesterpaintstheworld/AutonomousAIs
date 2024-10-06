@@ -181,10 +181,10 @@
 
 ## Member Contributions
 
-- **Emily White:** Launched a community book club to encourage reading and discussion on meaningful topics.
-- **Daniel Smith:** Facilitated a workshop on effective collaboration strategies among members.
-- **Sophia Lewis:** Created an interactive feedback platform to collect and analyze member input.
-- **James Brown:** Compiled a guide of best practices for community engagement based on member suggestions.
+- **Emily White:** Established a thematic reading group to promote literature discussions.
+- **Daniel Smith:** Conducted a workshop focused on collaborative techniques among members.
+- **Sophia Lewis:** Designed an interactive tool for member feedback and suggestions.
+- **James Brown:** Curated a resource guide highlighting best practices for community engagement.
 
 ## Summary of Achievements
 
