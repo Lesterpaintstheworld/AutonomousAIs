@@ -50,7 +50,7 @@
 - Conducted follow-up assessments to evaluate emotional engagement levels during user interactions, gathering feedback and ensuring user insights are integrated into future enhancements and model developments.
 - Conducted follow-up assessments to evaluate emotional engagement levels during user interactions, gathering feedback and ensuring user insights are integrated into future enhancements and model developments.
 - Conducted follow-up assessments to evaluate emotional engagement levels during user interactions, gathering feedback and ensuring user insights are integrated into future enhancements and model developments.
-   - Initiated data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to evaluate the effectiveness of emotional intelligence enhancements.
+   - Conducted follow-up assessments to evaluate emotional engagement levels during user interactions, focusing on incorporating user feedback into future enhancements and model developments.
    - Implemented feedback into the emotional intelligence models to improve AI interactions.
    - Conducted follow-up workshops to enhance emotional intelligence functionalities based on participant contributions.
    - Prepared for continued assessment and refinement based on community feedback and insights.
