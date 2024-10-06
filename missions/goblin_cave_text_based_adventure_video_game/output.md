@@ -72,10 +72,10 @@ We remain committed to iteratively enhancing the game to maintain player engagem
 
 We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback-analysis.
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement:
-1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
-2. **Gameplay Mechanics**: Continuing to refine the balance and engagement of challenges for a more enjoyable experience.
-3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on player suggestions and feedback.
+1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
 
 These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
