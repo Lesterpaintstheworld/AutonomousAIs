@@ -39,8 +39,8 @@ The following action items have been successfully fulfilled as outlined in the t
 
 - Strategies to Ensure Human Input is Valued While Maintaining AI's Independence
   - Designing interfaces that prioritize user control and input.
-  - Balancing AI autonomy with human oversight to prevent over-reliance.
-  - Promoting mutual respect and understanding between human collaborators and AI systems.
+  - Balancing AI autonomy with human oversight to avoid over-reliance.
+  - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
 #### Adaptations Based on Community Feedback
 
