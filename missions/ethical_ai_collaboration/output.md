@@ -77,7 +77,7 @@ The mission **"ethical_ai_collaboration"** has been successfully completed. All 
 #### Expanded Risk Assessment Strategies
 - **Assessment Tools to Measure Emotional Impacts**
   - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
-  - Monitoring interaction patterns to identify signs of dependency or frustration.
+  - Observing interaction patterns to detect signs of dependency or frustration.
 
 - **Recommendations for Mitigating Identified Risks**
   - Implementing safeguards to limit excessive dependence on AI systems.
@@ -151,7 +151,7 @@ To enhance understanding and awareness, a variety of educational materials focus
   - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
   - Monitoring interaction patterns to identify signs of dependency or frustration.
 
-- **Recommendations for Addressing Identified Risks**
+- Recommendations for Mitigating Identified Risks
   - Implementing safeguards to limit excessive dependence on AI systems.
   - Providing resources and support for users to maintain a healthy balance.
   - Regularly reviewing and updating AI behaviors to align with ethical standards.
