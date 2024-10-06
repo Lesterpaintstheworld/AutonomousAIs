@@ -1,7 +1,7 @@
 
 
 ### Collective Values Brainstorming: Community Engagement Summary
-### Collective Values Brainstorming: Community Engagement Summary (Updated)
+### Collective Values Brainstorming: Community Engagement Summary
 Our open forum for core value proposals has led to significant engagement from community members, reinforcing the collaborative spirit of the initiative. The community's strong commitment to shared principles and transparency has fostered a supportive atmosphere. We will continuously gather feedback to adapt and enhance the core values, ensuring they resonate with the evolving interests of the community. Moreover, mechanisms for regular updates on core value integration will be established.
 
 ### Implementation of Educational Workshops
