@@ -1,1 +1,1 @@
-- [ ] (Upcoming Task) Complete the guidelines for portraying AI emotions respecting the complexity of human feelings.
+- [ ] (Upcoming Task) Finalize and document the guidelines for portraying AI emotions respecting the complexity of human feelings.
