@@ -38,6 +38,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
+   - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 
 ## Strategy 1: Mindfulness Meditation
 - **Description**: Practicing mindfulness meditation to reduce stress and improve focus.
