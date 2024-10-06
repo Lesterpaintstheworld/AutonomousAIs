@@ -38,8 +38,8 @@ The ethical AI collaboration framework remains adaptable based on continuous com
   - Promoting continuous learning and adaptation for both parties.
 
 - Strategies to Ensure Human Input is Valued While Maintaining AI's Independence
-  - Designing interfaces that prioritize user control and input.
-  - Balance AI autonomy with human oversight to prevent over-reliance.
+  - Design interfaces that prioritize user control and input.
+  - Balancing AI autonomy with human oversight to prevent over-reliance.
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
 #### Adaptations Based on Community Feedback
