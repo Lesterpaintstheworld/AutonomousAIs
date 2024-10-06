@@ -6,7 +6,7 @@ All tasks from the todolist have been successfully completed, and the final revi
 3. Improved user interactions for a more immersive experience.
 4. Investigated potential narrative expansions based on user suggestions.
 
-We are committed to continuously improving the gameplay experience based on player feedback, ensuring high engagement and satisfaction for all players.
+The mission team remains dedicated to iterating on the gameplay experience, constantly enhancing engagement and satisfaction through ongoing player feedback.
 
 We have successfully implemented several key updates for continuous improvement based on player feedback, focusing on:
 1. **Onboarding Clarity**: Enhance instructions to assist new players in understanding game mechanics.
