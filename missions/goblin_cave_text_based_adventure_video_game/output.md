@@ -6,7 +6,11 @@ Post-launch updates will focus on enhancing gameplay mechanics and refining user
 3. **User Interaction Enhancements**: We are working on creating more engaging interactions to immerse players fully in the game.
 4. **Expanding the Narrative**: We will explore adding new stories and gameplay elements based on user feedback, increasing player engagement.
 
-These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
+Post-launch updates will focus on enhancing gameplay mechanics and refining user instructions for clarity. 
+1. **Onboarding Clarity**: New player instructions will be improved for better understanding of game mechanics.
+2. **Gameplay Refinements**: Regular balancing of challenges will be prioritized to ensure an enjoyable experience.
+3. **User Interaction Enhancements**: We are working on creating more engaging interactions to immerse players fully in the game.
+4. **Expanding the Narrative**: We will explore adding new stories and gameplay elements based on user feedback, increasing player engagement.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
