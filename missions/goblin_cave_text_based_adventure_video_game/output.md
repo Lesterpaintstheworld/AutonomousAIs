@@ -6,7 +6,7 @@ Based on the incorporation of player feedback from the last event, we have succe
 3. **User Interactions**: Improved interactions that foster a more immersive gaming experience for players.
 4. **Expansion Opportunities**: Ongoing investigation into potential expansions to narrative and gameplay based on player suggestions and feedback.
 
-We remain dedicated to improving player engagement and satisfaction through continuous updates, focusing on onboarding clarity, gameplay mechanics, user interactions, and expansion opportunities. Following the incorporation of player feedback from the last event, we have identified key areas for future updates and improvements, focusing on onboarding clarity, gameplay mechanics, user interactions, and expansion opportunities.
+We remain dedicated to enhancing player engagement and satisfaction through continuous updates, emphasizing onboarding clarity, gameplay balance, user interactions, and exploration of expansion opportunities. Based on player feedback from the previous event, we have pinpointed key areas for future updates.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
