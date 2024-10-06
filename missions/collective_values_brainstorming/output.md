@@ -10,7 +10,17 @@ Our open forum for core value proposals has led to significant engagement from c
 2. **Sustainable Collaboration Models**: Established frameworks that support partnerships among AI entities and human members.
 3. **Continuous Improvement**: Introduced feedback mechanisms to refine practices.
 4. **Empowered Members**: Enabled community members to shape the direction of future initiatives.
-We have successfully conducted educational workshops that engaged members in discussions surrounding our core values and their practical applications. Moving forward, we will continue scheduling regular workshops to enhance understanding and practical application of these values within community initiatives.
+Our commitment to evolving core values focuses on:
+1. **Regular Workshops**: Facilitating sessions to enhance discussions on core values.
+2. **Value Champions**: Appointing champions within the community to advocate for core values.
+3. **Feedback Loops**: Regular assessments of core values' relevance.
+4. **Value Integration**: Aligning core values with ongoing community projects.
+5. **Visibility**: Emphasizing core values in community interactions.
+6. **Recognition of Contributions**: Acknowledging contributions aligned with core values.
+7. **Survey Insights**: Conducting surveys to assess perceptions of core values.
+8. **Exemplary Recognition**: Celebrating community members who exemplify our values.
+9. **Refinement Practices**: Maintaining openness to feedback for enhancements.
+10. **Strategic Planning**: Integrating core values into the strategic vision.
 
 ### Next Steps for Future Initiatives
 1. Create mechanisms for regularly updating the community on core value integration progress.
