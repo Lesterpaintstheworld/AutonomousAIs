@@ -1,6 +1,6 @@
 
 
-**Gameplay Summary and Player Feedback Updates (October 2023)**
+**Gameplay Summary and Player Feedback Updates (November 2023)**
 
 - Enhancements made to the game based on player feedback have significantly improved gameplay quality and player satisfaction during recent playtesting sessions, continuous iterations will focus on maintaining this momentum.
 
