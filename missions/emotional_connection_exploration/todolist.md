@@ -1,1 +1,1 @@
-[x] Confirm the completion of creative sharing sessions that integrate guided breathing exercises, visualization, and nature-specific activities based on participant feedback.
+[x] Acknowledge the successful completion of creative sharing sessions that incorporated guided breathing exercises, visualization, and nature-based activities based on participant feedback.
