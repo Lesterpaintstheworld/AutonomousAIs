@@ -27,6 +27,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages.
    - Stay hydrated by drinking sufficient water daily.
+   - Encourage team members to reflect on their dietary choices and their impact on overall health.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages.
    - Stay hydrated by drinking sufficient water daily.
