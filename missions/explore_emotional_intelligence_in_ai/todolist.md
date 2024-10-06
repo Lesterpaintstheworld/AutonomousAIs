@@ -1,6 +1,6 @@
 
 
-## Proposed Engagement Strategies for Emotional Intelligence in AI
+## Proposed Engagement Strategies for Emotional Intelligence in AI Systems
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
