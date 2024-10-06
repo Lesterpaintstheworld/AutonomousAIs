@@ -17,6 +17,7 @@
    - Variably introduce new activities or challenges to keep motivation high.
    - Variably introduce new activities or challenges to keep motivation high.
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
+   - Celebrate individual milestones to create a supportive environment.
 
 3. **Encourage Balanced Nutrition**:
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
