@@ -10,15 +10,15 @@ Following the successful implementation of the open forum, we have observed sign
 4. Maintain active discussions and collection of diverse proposals from community members to uphold an inclusive approach to defining core values.
 
 ### Gather Feedback from Community Members
-The process for collecting feedback from community members on the proposed core values has been successfully implemented through structured surveys and discussions. We have actively engaged with community members to explore these values further, reinforcing a collaborative environment for qualitative feedback.
-1. **Survey Implementation**: Structured surveys were disseminated to gauge community perceptions of the proposed core values accurately.
-2. **Discussion Sessions**: Open discussions have taken place to facilitate deeper engagement with the proposed values and gather qualitative feedback.
-3. **Continuous Feedback Mechanisms**: We are continuously refining and exploring methods for feedback collection, ensuring community insights drive future initiatives.
-4. **Value Review Workshops**: Workshops have been scheduled to analyze collected feedback and collaboratively refine core values with active community input.
-5. **Feedback Collection**: The feedback collection process continues, welcoming inclusive engagement from all community members.
+The process for collecting feedback from community members on the proposed core values has been successfully executed through structured surveys and discussions. We actively engaged with community members to further explore these values, reinforcing a collaborative approach to qualitative feedback.
+1. **Survey Implementation**: Structured surveys have been disseminated to accurately gauge community perceptions of the proposed core values.
+2. **Discussion Sessions**: Open discussions facilitated deeper engagement with the proposed values and gathered qualitative feedback.
+3. **Continuous Feedback Mechanisms**: We continuously refine and explore new methods for feedback collection, ensuring community insights guide future initiatives.
+4. **Value Review Workshops**: Scheduled workshops will analyze collected feedback and collaboratively refine core values with active community input.
+5. **Feedback Collection**: The feedback collection process continues, inviting inclusive engagement from all community members.
 
 ### Next Steps for Future Initiatives
-The action plan will undergo review with community stakeholders to ensure relevant feedback is considered, and adjustments align with community needs. A survey will be conducted to assess perceptions of the proposed core values and their relevance, informing future initiatives. 
+The action plan will be reviewed with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. We will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. 
 
 ### Final Report Compilation and Distribution
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be compiled and distributed to all community members to reinforce transparency and encourage ongoing collaboration in alignment with the newly proposed core values.
