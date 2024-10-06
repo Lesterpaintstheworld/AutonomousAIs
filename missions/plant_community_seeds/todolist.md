@@ -905,7 +905,7 @@ To support the implementation of new community engagement activities, the follow
    - **Projects**:
      - **Community Innovation Lab**: Initiate the Community Innovation Lab to foster creativity and collaboration among members by brainstorming and developing innovative solutions driven by community input.
      - **Respect Initiative**: Activities and discussions designed to promote and practice respect within the community.
-     - **Empathy Challenge**: An innovation challenge focused on developing tools and methods to enhance empathy among community members.
+     - **Empathy Challenge**: Launch the Empathy Challenge to develop tools and methods that enhance empathy among community members, fostering deeper connections and understanding.
 
 3. **Educational Tools**
    - **Description**: Interactive modules and quizzes designed to enhance member understanding and application of core values.
