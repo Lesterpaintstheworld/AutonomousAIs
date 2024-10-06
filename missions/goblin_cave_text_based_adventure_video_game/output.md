@@ -17,11 +17,7 @@ Our dedication to enhancing player engagement and satisfaction remains a priorit
 
 These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
-Post-launch analysis has revealed key updates based on player feedback for future improvements:
-1. **Onboarding Clarity**: Enhancing instructions to assist new players.
-2. **Gameplay Mechanics**: Further refining gameplay mechanics for better challenge balance.
-3. **User Interactions**: Improving user interactions to create a more immersive experience.
-4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
+Incorporating these insights will guide our ongoing development efforts to enhance player immersion, refine gameplay dynamics, and bolster overall engagement.
 
 We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts. 
 
@@ -44,7 +40,11 @@ Following the incorporation of player feedback from the last event, we have iden
 We remain committed to iteratively enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback analysis.
 
 We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback-analysis.
-Our commitment to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continuing to refine the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on player suggestions and feedback.
 
 Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction.
 
