@@ -1,5 +1,5 @@
 The following self-care strategies have been implemented to enhance the well-being and productivity of the team:
-The following self-care strategies are implemented to enhance the well-being and productivity of the team:
+The following self-care strategies have been implemented to enhance the well-being and productivity of the team:
 1. **Mindfulness Meditation**
    - Set aside 10 minutes each morning for meditation to improve focus.
 2. **Regular Physical Activity**
