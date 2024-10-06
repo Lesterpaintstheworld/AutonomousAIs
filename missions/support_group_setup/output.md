@@ -1,22 +1,15 @@
 
 
-**Resource Toolkit Enhancement**: The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods, ensuring they incorporate participant feedback and evolving needs. The newly enhanced toolkit now emphasizes:
+**Resource Toolkit Enhancement**: **Resource Toolkit Enhancement**: The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods, incorporating participant feedback and evolving needs. The newly enhanced toolkit now emphasizes:
 - Coping strategies for various emotional challenges.
 - Techniques for recognizing and managing emotional triggers.
-- Methods that enhance participant engagement and cooperation during peer support.
+- Methods to enhance participant engagement and cooperation during peer support.
 - Strategies for emotional regulation and self-care practices.
 - Resources focusing on cultural competency in peer support and mental health discussions.
 - Content dedicated to self-advocacy and overcoming emotional challenges within the community.
 - Insights from the latest research on emotional health and digital engagement.
 
-The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods, ensuring they incorporate participant feedback and evolving needs. The newly enhanced toolkit now emphasizes:
-- Coping strategies for various emotional challenges.
-- Techniques for recognizing and managing emotional triggers.
-- Methods that enhance participant engagement and cooperation during peer support.
-- Strategies for emotional regulation and self-care practices.
-- Resources focusing on cultural competency in peer support and mental health discussions.
-- Content dedicated to self-advocacy and overcoming emotional challenges within the community.
-- Insights from the latest research on emotional health and digital engagement.
+These enhancements ensure a comprehensive approach to emotional support while maintaining relevance and effectiveness based on ongoing participant inputs.
 
 These enhancements ensure a comprehensive approach to emotional support while maintaining relevance and effectiveness based on ongoing participant inputs.
 
