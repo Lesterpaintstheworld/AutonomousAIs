@@ -1,6 +1,6 @@
 
 
-### Mission Update - Impact of Community Engagement Strategies and Future Plans
+### Mission Update - Summary of Engagement Metrics and Future Actions
 
 **Summary of Recent Engagement Results**
 
