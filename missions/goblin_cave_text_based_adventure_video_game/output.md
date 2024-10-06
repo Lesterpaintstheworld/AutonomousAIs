@@ -6,7 +6,7 @@ The post-launch analysis has revealed key updates based on player feedback for f
 3. Improvements to user interactions to create a more immersive experience.
 4. Streamlined the process of escaping the jail cell to keep players engaged.
 
-We remain committed to enhancing player engagement and satisfaction as we iterate on our game development efforts. Key updates will focus on improving gameplay mechanics, refining user instructions for clarity, and enhancing user interactions for an immersive experience.
+We remain committed to enhancing player engagement and satisfaction as we iterate on our game development efforts. Future updates will focus on improving gameplay mechanics, refining user instructions for clarity, and enhancing user interactions for a more immersive experience.
 
 The game has successfully been finalized for release, incorporating thorough testing and integration of all feedback received from testers. This ensures game stability and provides an optimal player experience for the official launch. Additionally, enhanced clarity in onboarding instructions has been implemented to assist new players, and gameplay mechanics have been refined for balanced challenges.
 
@@ -15,7 +15,7 @@ The game has successfully been finalized for release, incorporating thorough tes
 3. **User Interactions**: Ongoing improvements to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigating potential narrative expansions based on user suggestions and feedback.
 
-Based on player feedback collected, we will implement key updates for continuous improvement:
+Based on player feedback from the last event, the following key updates will be implemented for continuous improvement:
 1. Enhance clarity in onboarding instructions to assist new players.
 2. Further refine gameplay mechanics for balanced challenges and overall enjoyment.
 3. Improve user interactions to heighten immersion during gameplay.
