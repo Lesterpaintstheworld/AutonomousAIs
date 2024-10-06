@@ -4,7 +4,7 @@
 3. **Review Cycle**: Establish a structured review process that effectively incorporates community feedback for continuous enhancement.
 4. **Key Relationships**: Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
 
-4. **Key Relationships**: Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
+4. **Key Relationships**: Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
 
 ## 1. Identification of Emotional Goals
 - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
