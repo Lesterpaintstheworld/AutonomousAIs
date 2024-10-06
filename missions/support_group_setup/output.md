@@ -3,11 +3,11 @@
 ### Support Group Output Enhancement
 
 ### Resource Toolkit Enhancement
-- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
-- These enhancements include new resources on coping strategies, emotional triggers, and peer support techniques to enrich discussions and provide valuable insights.
-- Updated materials now introduce tips for fostering resilience and emotional literacy while covering key topics related to mental health awareness.
-- Additional resources will focus on self-care practices and emotional regulation techniques to bolster participants' emotional well-being.
-- Enhancements are based on participant suggestions, ensuring the toolkit meets the evolving needs of all members and fosters a supportive group environment.
+- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods.
+- New resources now include coping strategies, emotional triggers, and peer support techniques that enrich discussions and provide valuable insights.
+- Updated materials introduce tips for fostering resilience and emotional literacy while covering key topics related to mental health awareness.
+- Additional resources focus on self-care practices and emotional regulation techniques aimed at bolstering participants' emotional well-being.
+- These enhancements are directly informed by participant suggestions, ensuring the toolkit meets the evolving needs of all members and fosters a supportive group environment.
 
 ### Resource Toolkit Enhancement
 
