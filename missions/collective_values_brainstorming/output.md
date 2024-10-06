@@ -16,6 +16,7 @@
 13. Organize regular forums to encourage community insights about the relevance of core values.
 14. Implement feedback loops to actively evaluate the resonance of core values with community projects and initiatives.
 15. Create a system to recognize contributions aligning with established core values, promoting sustained commitment to community principles.
+16. Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 
 1. **Inclusivity**: 
    - A strong commitment to embracing diverse voices has been reiterated among community members.
