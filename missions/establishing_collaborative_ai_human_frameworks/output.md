@@ -36,6 +36,7 @@
     - Continuously develop and refine communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring a deeper mutual understanding across all collaborative initiatives.
 
 12. **Engage in Continuous Dialogue**
+   - Keep ongoing conversations active within dedicated platforms, such as Discord channels, to gather diverse insights and foster a collaborative approach driven by the community.
     - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
 13. **Promote Transparency in Collaboration**
