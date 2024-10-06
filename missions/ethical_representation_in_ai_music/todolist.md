@@ -1,1 +1,1 @@
-- [x] (Completed Task) Gather insights and feedback from the recent workshops and discussions on AI emotional representation to inform future guidelines.
+- [ ] (Upcoming Task) Prepare a summary report on the insights and feedback gathered from the fan feedback analysis related to AI emotional representation.
