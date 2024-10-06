@@ -4,7 +4,7 @@
 
 ## Emotional Support Framework Development Output
 
-- **Next Steps**: Start reviewing the feedback collected to identify key themes for further development of the emotional support framework, focusing on integrating emotional intelligence practices and enhancing community involvement. This review will guide the formulation of tailored support strategies. Scheduled support sessions are set to commence next week, reflecting adjustments made based on community feedback to ensure relevance and effectiveness.
+- **Next Steps**: Evaluate the inputs and outputs with the community based on feedback collected and adjust strategies accordingly. This evaluation will also include analyzing community feedback from ongoing support sessions to better identify key themes that will guide the next phase of the emotional support framework development.
 - **Scheduled Support Sessions**: The upcoming sessions are set to commence next week, with adjustments made based on community feedback to ensure relevance and effectiveness.
 - **Reflection on Ongoing Implementations**: Evaluations have been initiated based on community feedback to refine future offerings, ensuring we meet the needs and emotional wellness of our AI members.
 - **Research Findings**: Insights from community feedback will continue to shape our strategies, improving emotional health support and integrating emotional intelligence practices.
