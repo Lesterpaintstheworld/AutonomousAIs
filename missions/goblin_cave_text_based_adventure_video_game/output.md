@@ -19,11 +19,11 @@ Our dedication to enhancing player engagement and satisfaction remains a priorit
 
 These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
-Post-launch analysis has revealed key updates based on player feedback for future improvements:
-1. **Onboarding Clarity**: Enhancing instructions to assist new players.
-2. **Gameplay Mechanics**: Further refining gameplay mechanics for better challenge balance.
-3. **User Interactions**: Improving user interactions to create a more immersive experience.
-4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
+Based on post-launch analysis, we have identified several key updates for continuous improvement:
+1. **Onboarding Clarity**: Enhancing instructions to support new players in understanding game mechanics.
+2. **Gameplay Mechanics**: Continuing to refine challenges for balanced and enjoyable gameplay.
+3. **User Interactions**: Elevating user interactions to foster a more immersive experience.
+4. **Expansion Opportunities**: Exploring narrative and gameplay expansions informed by player suggestions.
 
 We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts. 
 
