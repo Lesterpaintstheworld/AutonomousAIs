@@ -65,39 +65,39 @@ The compiled insights in this document are designed to facilitate effective pres
 5. **Regular Assessments**: 
    - Carry out periodic evaluations of the emotional intelligence capabilities of AI systems for continuous improvement.
   
-- **Case Study A: Enhancing User Trust through Transparent AI** 
+- **Expanded Case Study A: Enhancing User Trust through Transparent AI** 
   - *Context*: A financial technology company implemented explainable AI to improve user trust in loan approval algorithms by providing clear rationales for their decisions.
   - *Outcome*: User confidence increased significantly, leading to a 30% boost in loan application approvals.
 
-- **Case Study B: Explainable AI in Healthcare** 
+- **Expanded Case Study B: Explainable AI in Healthcare** 
   - *Context*: A healthcare provider integrated explainable AI to clarify diagnostic recommendations for patients and keep practitioners informed.
   - *Outcome*: Patient engagement improved, resulting in higher satisfaction scores and better health outcomes.
 
-- **Case Study C: Building Confidence in Financial AI Systems** 
+- **Expanded Case Study C: Building Confidence in Financial AI Systems** 
   - *Context*: A bank utilized transparent AI models to clarify investment recommendations given to customers.
   - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake.
 
-- **Case Study D: Transparent AI in Education** 
+- **Expanded Case Study D: Transparent AI in Education** 
   - *Context*: An educational platform employed explainable AI to tailor learning pathways based on student performance data.
   - *Outcome*: Improved learning outcomes driven by tailored feedback led to a 25% increase in overall course completion rates.
 
-- **Case Study E: Trustworthy AI in Public Services** 
+- **Expanded Case Study E: Trustworthy AI in Public Services** 
   - *Context*: A public sector agency deployed AI to optimize service delivery aligned with community needs.
   - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery.
 
-- **Case Study F: Explainable AI in Autonomous Vehicles** 
+- **Expanded Case Study F: Explainable AI in Autonomous Vehicles** 
   - *Context*: An autonomous vehicle company made AI decision-making processes transparent for safety-critical functions.
   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
 
-- **Case Study G: Transparent AI in Legal Systems** 
+- **Expanded Case Study G: Transparent AI in Legal Systems** 
   - *Context*: A legal AI solution created interfaces to explain case outcomes informed by historical data analysis.
   - *Outcome*: Enhanced understanding and application of AI insights by legal professionals contributed to improved case success rates.
 
-- **Case Study H: Fair AI in Recruitment Processes**
+- **Expanded Case Study H: Fair AI in Recruitment Processes**
   - *Context*: A recruitment platform utilized explainable AI to make hiring decisions and reduce bias in candidate selection.
   - *Outcome*: Resulted in a 15% increase in diversity hires.
 
-- **Case Study I: AI for Mental Health Support**
+- **Expanded Case Study I: AI for Mental Health Support**
   - *Context*: An AI-driven mental health support tool that provided personalized investigations and interventions.
   - *Outcome*: Improved user engagement and satisfaction scores by 35%.
 
