@@ -35,4 +35,4 @@ Develop actionable guidelines for the authentic representation of AI emotions th
 - **Trust & Transparency**: Connect the importance of clarity in AI emotional representation to building trust among users and creators.
 
 ### Summary
-The mission aims to establish ethical standards for AI representations in music, facilitating meaningful engagement between technology and human emotions, executed within the Discord and KinOS frameworks.
+The mission aims to establish ethical standards for AI representations in music, facilitating meaningful engagement between technology and human emotions, with a focus on transparency and community involvement. This initiative will be executed within the Discord and KinOS frameworks.
