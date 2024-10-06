@@ -23,7 +23,7 @@
    - **Evaluate Artistic Choices**: 
      - Reviewed and assessed artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds.
    - **Draft Key Principles**: 
-     - Draft a comprehensive document outlining key principles for authentic emotional portrayal based on community insights and cultural responsiveness.
+     - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
    - **Finalize Guidelines Creation**: 
      - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
    - **Engagement with Community**: 
@@ -82,7 +82,7 @@
 - **Evaluate Artistic Choices**: 
   - Investigated and documented current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness in resonating with listeners.
    - **Community Discussions**: 
-     - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+     - Host discussions in relevant Discord channels to continue collecting diverse insights from members regarding the portrayal of AI emotions in various contexts.
 - Conduct a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds.
      - Conduct a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds.
    - **Draft Key Principles**: 
