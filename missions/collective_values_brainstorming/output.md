@@ -94,6 +94,7 @@ Our commitment to evolving core values focuses on:
 9. Monitor the effectiveness of the initiated follow-up actions and adjust as necessary.
 10. Assign "Value Champions" to advocate for these principles within the community, ensuring visibility and consistent promotion of core values.
 11. Review and assess the effectiveness of the workshops and educational sessions to ensure community understanding of core values and their applications.
+12. **Document the outcomes and insights gained from workshops to enhance future core values discussions.**
 
 ### Continued Engagement Strategies
 - Schedule regular forums to encourage the community to provide insights on the relevance of the core values.
