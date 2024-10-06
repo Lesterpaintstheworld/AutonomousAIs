@@ -6,8 +6,9 @@
   - Coping strategies for various emotional challenges.
   - Techniques for recognizing and managing emotional triggers.
   - Peer support methods that enhance participant engagement and cooperation.
-- Additional strategies for emotional regulation and self-care practices have been integrated based on participant feedback to strengthen well-being.
-- These enhancements ensure a comprehensive approach to emotional support while maintaining relevance and effectiveness based on the evolving needs of members.
+  - Additional strategies for emotional regulation and self-care practices.
+  
+These enhancements ensure a comprehensive approach to emotional support while maintaining relevance and effectiveness based on the evolving needs of members.
 
 ### Event Engagement and Resource Toolkit Enhancement
 
