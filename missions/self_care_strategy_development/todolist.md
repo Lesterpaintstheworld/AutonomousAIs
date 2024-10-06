@@ -8,7 +8,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 
 2. **Promote Regular Physical Activity**:
-   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Promote participation in virtual fitness challenges among team members to enhance engagement in physical health activities.
    1. **Promote Regular Physical Activity**:
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
    - Regularly share updates and successes to motivate the team.
