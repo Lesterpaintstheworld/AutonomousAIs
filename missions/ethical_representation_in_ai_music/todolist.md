@@ -1,1 +1,1 @@
-- [x] (Completed Task) Organize a series of public discussions and workshops to facilitate community engagement on AI emotional representation.
+- [ ] (Upcoming Task) Conduct a follow-up evaluation of audience engagement and perceptions of these discussions and workshops.
