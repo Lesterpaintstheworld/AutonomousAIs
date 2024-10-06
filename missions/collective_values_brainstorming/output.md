@@ -16,6 +16,8 @@ We have successfully conducted several educational workshops that engaged member
 6. Encourage continuous dialogue and collection of diverse proposals from community members to uphold an inclusive and collaborative environment in defining core values.
 7. **Structured feedback collection periods will be routinely implemented to actively engage community members on core values.**
 8. Develop a structured evaluation framework to assess the adaptability of core values within community initiatives.
+9. Create mechanisms for regularly updating the community on core value integration progress.
+10. Solicit feedback on the effectiveness of the core values in guiding community initiatives.
 
 ### Review and Assess the Impact of the Proposed Core Values on Community Engagement
 Following the successful implementation of our feedback collection process, we have carefully analyzed the impact of the proposed core values on community engagement. Insights gathered from the structured surveys and discussions highlighted the importance of maintaining a continuous dialogue within the community, enabling adaptability in our core values.
