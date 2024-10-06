@@ -1,1 +1,1 @@
-- [x] (Completed Task) Develop promotional strategies to enhance audience engagement with our music and advocacy efforts.
+- [ ] (Upcoming Task) Implement the promotional strategies developed to engage audiences with our music and advocacy efforts.
