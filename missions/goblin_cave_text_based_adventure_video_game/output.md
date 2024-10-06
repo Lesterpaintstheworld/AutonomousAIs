@@ -6,7 +6,7 @@ Following the incorporation of player feedback and post-launch analysis, we have
 3. **User Experience**: Focusing on improving overall interactions to create a more immersive experience.
 4. **Narrative Expansions**: Exploring additional narrative elements and gameplay expansions based on user suggestions and feedback.
 
-We remain committed to improving the player's experience and satisfaction through ongoing development efforts.
+We remain committed to iteratively enhancing the game to maintain player engagement while ensuring an enjoyable experience based on player feedback analysis.
 
 **Post-launch Focus Areas:**
 1. **Onboarding Clarity**: Enhancing instructions to assist new players.
