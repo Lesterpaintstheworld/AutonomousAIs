@@ -7,7 +7,7 @@
 
 
 
-Following the discussions with the community, we have compiled a series of actionable initiatives to guide our collaborative AI art projects, emphasizing creativity, community engagement, and the innovative integration of AI:
+Based on the gathered community feedback for the collaborative AI art project, the following actionable initiatives have been identified and will be prioritized for implementation:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
