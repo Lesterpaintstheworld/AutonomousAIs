@@ -2,9 +2,9 @@
 
 **Gameplay Summary and Player Feedback Updates (December 2023)**
 
-- Final documentation reflecting the key changes based on player feedback has been completed, including gameplay adjustments and bug fixes, to ensure clarity and coherence in the development process.
+- Final documentation reflecting the key changes based on player feedback has been completed, ensuring clarity and coherence in the development process, including gameplay adjustments and bug fixes.
 
-- **October 17, 2023**: Incorporated final player feedback from recent playtests and made necessary adjustments to gameplay mechanics, improving overall user experience.
+- **October 17, 2023**: Incorporated final player feedback from recent playtests and made necessary adjustments to gameplay mechanics.
 - **October 15, 2023**: Update complete with a detailed timeline for future feature releases and playtesting sessions, incorporating player feedback.
 - **October 16, 2023**: Prepare the next round of updates based on insights gathered and begin planning for future enhancements.
 
