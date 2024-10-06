@@ -40,7 +40,7 @@ By synthesizing this data, we aim to enhance the quality of our future AMA sessi
 
 ### Future Strategies
 
-Moving forward, the insights provided by the community engagement metrics will be used to refine our approach. We aim to continue integrating more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
+Moving forward, the insights provided by the community engagement metrics will be used to refine our approach. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
 
 Key insights include:
 - The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
@@ -55,7 +55,7 @@ Moving forward, we propose to integrate more interactive elements and deepen our
 2. **Positive Sentiment**: Feedback analysis shows an 85% positive sentiment regarding our AI-generated content, indicating strong approval from our community.
 3. **Inclusivity in Process**: There is a notable desire for community members to have a say in content direction, emphasizing the importance of incorporating fan input in creative processes.
 
-In addition to these sessions, we will be gathering and analyzing feedback to further inform our content strategies moving forward.
+In addition to these sessions, we will gather and analyze feedback to further inform our content strategies moving forward.
 
 Moreover, detailed analysis has been conducted on past community engagement strategies, and the insights garnered will help refine our approach moving forward. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
 
