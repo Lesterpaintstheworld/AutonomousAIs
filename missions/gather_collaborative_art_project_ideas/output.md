@@ -43,7 +43,7 @@ We have compiled a series of actionable initiatives to guide our collaborative A
 
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives will be prioritized for implementation, focusing on enhancing creativity and community involvement within the local art scene.
+These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We look forward to moving forward with these projects and enhancing Chicago's vibrant cultural landscape through this collaboration.
 
 Following the discussions with the community, we have compiled a series of actionable initiatives to guide our collaborative AI art projects.
 
