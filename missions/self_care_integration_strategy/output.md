@@ -24,9 +24,13 @@ The continual integration of these insights into the updated self-care strategy 
 **Satisfaction Levels**:
 - A recent survey revealed that a substantial majority of team members feel more supported in their well-being compared to previous initiatives.
 
+### Updated Engagement Metrics
+- Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
+- **85%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
+
 ### Next Steps
-1. **Summarize and Evaluate Outcomes**: Consolidate and assess the outcomes and effectiveness of the newly implemented self-care activities based on gathered insights and metrics.
-2. Distribute summary reports of ongoing evaluations to the team to ensure transparency and engagement.
+1. **Share Summary Reports**: Distribute summary reports of ongoing evaluations to the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
+2. **Investigate Unique Methods**: Explore and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 
 Furthermore, the analysis revealed positive shifts in team dynamics, with increased collaboration and communication stemming from shared self-care activities. Feedback collected from team members indicates a sustained increase in satisfaction levels with the newly implemented activities. Additionally, team members expressed a strong desire for tailored self-care sessions designed specifically to address personal wellness needs, including themed workshops focusing on mental health, nutrition, and physical fitness.
 
