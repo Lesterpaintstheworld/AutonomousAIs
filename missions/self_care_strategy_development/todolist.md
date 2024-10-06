@@ -10,7 +10,8 @@ Continue monitoring the effectiveness of the self-care strategies document and a
    - Remind team members to reflect on their experiences to enhance the practice.
 
 2. **Promote Regular Physical Activity**:
-   - Encourage participation in virtual fitness challenges to enhance engagement in physical health activities among team members.
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Regularly share updates and successes to motivate the team.
    1. **Promote Regular Physical Activity**:
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
    - Regularly share updates and successes to motivate the team.
