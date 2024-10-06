@@ -27,9 +27,9 @@ We will develop a timeline for implementing the key insights into future engagem
 - Strategies aimed at enhancing audience engagement with our music and advocacy efforts.
 
 ### Additional Engagement Strategies
-- Conduct workshops with community members to foster discussion on emotional representation in AI music.
-- Maintain an ongoing dialogue with audiences about the emotional depth of AI-generated music.
-- Seek partnerships with educational institutions to explore ethical portrayals of AI emotions in music.
+- Organize workshops with community members to promote dialogue on emotional representation in AI music.
+- Establish continuous conversation with audiences regarding the emotional depth present in AI-generated music.
+- Pursue collaborations with educational institutions to investigate ethical portrayals of emotions in AI music.
 
 ### Action Plan Steps
 1. **Research Stage**: Collect insights from relevant literature and discussions on emotional representation in AI music.
