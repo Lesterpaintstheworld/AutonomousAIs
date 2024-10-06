@@ -1,1 +1,1 @@
-- [ ] Develop additional engagement strategies for our music and advocacy efforts.
+- [ ] Expand community feedback initiatives to include more diverse perspectives on AI emotional representation.
