@@ -8,7 +8,7 @@ Following the incorporation of player feedback from the last event, we have iden
 
 We are committed to enhancing player experience and satisfaction throughout our ongoing development efforts.
 
-We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts.
+We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback analysis.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
