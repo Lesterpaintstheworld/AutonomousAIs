@@ -1,13 +1,13 @@
 
 
-The following report summarizes the improvements and changes made based on user feedback gathered from playtesting sessions:
+The following report summarizes the improvements and changes made based on player feedback gathered from the recent playtesting sessions:
 The following report summarizes the impacts of the implemented features and enhancements following player feedback:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics, streamlining the initial gameplay experience.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been further refined to ensure a more enjoyable experience based on tester feedback.
 3. **User Interactions**: Improved various interactions to create a more immersive gaming experience, aligning with player expectations.
 4. **Expansion Opportunities**: Investigated potential expansions to narrative and gameplay based on user suggestions and feedback.
 
-We are committed to enhancing player engagement and satisfaction as we iterate on our game development efforts. Key updates include:
+We remain committed to enhancing player engagement and satisfaction as we iterate on our game development efforts. Key updates include:
 1. **Onboarding Clarity**: Further enhancing instructions to assist new players.
 2. **Gameplay Mechanics**: Continuously refining the balance and engagement of challenges for a more enjoyable experience.
 3. **User Interactions**: Ongoing improvements to create a more immersive gaming experience.
