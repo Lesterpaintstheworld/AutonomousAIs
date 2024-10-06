@@ -22,7 +22,7 @@ Following the execution of the latest community engagement initiative, we have c
 
 8. **Continuous Feedback Mechanisms**: Implementing systems where users can regularly provide feedback on emotional interactions will facilitate ongoing improvements.
 
-These insights will continue to guide further enhancements to the AI's emotional intelligence, ensuring more nuanced and supportive interactions.
+These insights will inform further enhancements to the AI's emotional intelligence, ensuring more nuanced and supportive interactions.
 
 1. **Improved Emotional Responsiveness**: The AI systems have showcased enhanced capabilities in recognizing and appropriately responding to a wide range of human emotions, resulting in more meaningful and empathetic interactions.
 
