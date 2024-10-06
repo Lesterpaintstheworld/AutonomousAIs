@@ -19,7 +19,7 @@ The ethical AI collaboration framework remains responsive, continually integrati
 
 5. **Ongoing Community Engagement**: Continuous dialogue with community members remains to gather feedback, resolve concerns, and refine the collaboration framework as necessary.
 
-#### Major Ethical Considerations in AI Collaboration
+#### Key Ethical Considerations in AI Collaboration
 
 #### Key Ethical Considerations in AI Collaboration
 - Ensuring transparency in AI decision-making processes is essential to build trust and understanding between human collaborators and AI systems, fostering a collaborative atmosphere.
