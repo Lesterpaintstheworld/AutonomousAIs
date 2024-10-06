@@ -2,7 +2,7 @@
 
 ### Mission Progress Update
 1. **Community Insights**: 
-   - Successfully gathered community insights from band members and stakeholders regarding AI emotions in music through discussions and engaging collaborative sessions, ensuring diverse perspectives are represented.
+   - Investigated and documented current methodologies for portraying AI emotions in music, with a focus on cross-cultural representations and their effectiveness in resonating with listeners.
    - **Artistic Choices Evaluation**: Successfully completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 2. **Artistic Choices Evaluation**: 
    - Initiated the thorough evaluation of various artistic choices used in portraying AI emotions, collecting feedback through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
