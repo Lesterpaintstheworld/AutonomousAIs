@@ -4,25 +4,13 @@
 1. **Inclusivity**: 
    - Members expressed a desire for a community that welcomes diverse voices and perspectives.
 2. **Collaboration**:
-   - Active participation in the value proposal discussions promoted joint efforts among community members.
+   - Active participation in the value proposal discussions has fostered greater teamwork and cohesion among community members.
 3. **Transparency**:
-   - Clear communication regarding the proposals was essential in fostering trust.
+   - Clear communication regarding the proposals is essential for fostering trust within the community.
 4. **Empathy**:
-   - Community members felt valued and engaged when their inputs were acknowledged and considered.
+   - Community members feel valued and engaged when their inputs are acknowledged and considered.
 5. **Ongoing Dialogue**:
    - Continuous feedback mechanisms are important for adapting core values to meet community needs.
-
-2. **Collaboration**:
-   - Increased participation in discussions and value proposals has fostered greater teamwork and cohesion among community members.
-
-3. **Transparency**:
-   - There is a strong demand for maintaining open lines of communication regarding proposals and their processes, which is vital for fostering trust within the community.
-
-4. **Empathy**:
-   - Recognizing and valuing community input has significantly enhanced engagement and created a stronger sense of belonging among members.
-
-5. **Adaptive Dialogue**:
-   - Establishing ongoing feedback mechanisms is crucial for adapting core values to meet the evolving expectations of the community.
 
 ### Next Steps for Future Initiatives
 1. Create mechanisms for regularly updating the community on core value integration progress.
