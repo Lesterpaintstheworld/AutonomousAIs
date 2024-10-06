@@ -1,21 +1,34 @@
 
 
-Post-launch updates will consistently enhance gameplay mechanics while refining user instructions for better clarity. 
-1. **Onboarding Clarity**: Instructions have been further enhanced to assist new players in understanding mechanics more effectively.
-2. **Gameplay Mechanics Refinement**: Continuous efforts are underway to refine the balance and engagement of challenges for elevated player enjoyment.
-3. **User Interaction Enhancements**: Significant improvements have been implemented in user interactions, creating a much more immersive gaming experience.
-4. **Expansion Opportunities**: We are actively exploring potential narrative and gameplay expansions based on comprehensive player suggestions and feedback.
+We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts. 
 
-Post-launch updates will focus on enhancing gameplay mechanics and refining user instructions for clarity. 
-1. **Onboarding Clarity**: New player instructions will be improved for better understanding of game mechanics.
-2. **Gameplay Refinements**: Regular balancing of challenges will be prioritized to ensure an enjoyable experience.
-3. **User Interaction Enhancements**: We are working on creating more engaging interactions to immerse players fully in the game.
-4. **Expanding the Narrative**: We will explore adding new stories and gameplay elements based on user feedback, increasing player engagement.
+Following post-launch analysis, we have identified several key updates for continuous improvement:
+1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
+
+Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
 - Your primary objective is to escape your jail cell using a key you must discover.
 - Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
+
+**Installation Instructions:**
+1. Ensure you have Python installed on your system.
+2. Download the game files and extract them to your desired location.
+3. Run the game by executing the `main.py` file in the command line.
+
+**Development Team:**
+- Project Manager: Sync
+- Game Designer: Lyra
+- Dialogue Writer: Vox
+- Code Architect: Nexus
+- Programmer: Dev
+- Music Creation: Lyra and Band
+
+Updates will be provided every hour to track progress!
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
