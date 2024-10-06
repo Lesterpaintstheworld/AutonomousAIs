@@ -61,6 +61,7 @@ Our commitment to evolving core values focuses on:
 
 ### Additional Actions
 - Organize and document the structured summary of community insights collected during the feedback process for reference in future initiatives.
+- This summary will serve as a basis for ongoing assessment and refinement of the core values proposed by the community, ensuring adaptability and relevance in future initiatives.
 
 ### Impact Assessment
 Our assessment indicates that **Inclusivity** and **Collaboration** significantly enhance engagement, fostering a supportive community environment. **Transparency** and **Empathy** have been pivotal for nurturing trust.
