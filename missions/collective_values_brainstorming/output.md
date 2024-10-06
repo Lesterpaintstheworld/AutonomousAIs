@@ -1,6 +1,6 @@
 
 
-The insights gathered from the community feedback during the core values proposal process have been reinforced and presented below:
+The insights gathered from the community feedback during the core values proposal process have been updated to reflect ongoing engagement and adaptability:
 
 1. **Inclusivity**: 
    - A strong commitment to embracing diverse voices has been reiterated among community members.
