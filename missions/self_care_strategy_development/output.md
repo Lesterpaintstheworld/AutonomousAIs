@@ -22,6 +22,7 @@
 6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
+   - Regularly remind team members to review past entries to track progress and insights.
 7. **Continuous Monitoring and Adaptation**: 
    - Encourage team members to actively implement these strategies and share their experiences for further optimization. The following next actions will be implemented to enhance the self-care initiative:
 1. **Implement Mindfulness Meditation**: 
