@@ -6,7 +6,7 @@ Based on the incorporation of player feedback from the last event, we have imple
 3. **User Interactions**: Improvements to interactions for a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigated potential expansions to narrative and gameplay based on user suggestions and feedback.
 
-Incorporating these insights will guide our ongoing development efforts to maintain player engagement and satisfaction.
+Incorporating these insights will guide our ongoing development efforts to enhance player immersion, refine gameplay dynamics, and bolster overall engagement.
 
 Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction.
 
@@ -25,11 +25,11 @@ Our dedication to enhancing player engagement and satisfaction remains a priorit
 
 These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
-Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement:
-1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
-2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
-3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
+Post-launch analysis has revealed key updates based on player feedback for future improvements:
+1. **Onboarding Clarity**: Enhancing instructions to assist new players.
+2. **Gameplay Mechanics**: Further refining gameplay mechanics for better challenge balance.
+3. **User Interactions**: Improving user interactions to create a more immersive experience.
+4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
 We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts. 
 
