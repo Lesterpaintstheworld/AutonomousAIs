@@ -43,6 +43,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
 6. **Support Journaling Practices**:
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
+   - Regularly remind team members to review past entries to track progress and insights.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 
