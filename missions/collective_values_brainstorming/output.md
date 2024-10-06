@@ -19,7 +19,7 @@
 ### Project Overview
 The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects.
 
-### Future Initiatives - Next Steps
+**Next Steps for Future Initiatives**
 1. Create mechanisms for regularly updating the community on core value integration progress.
 2. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
 3. Work towards formalizing a cohesive set of core values that encapsulate the diversity of beliefs within the community.
