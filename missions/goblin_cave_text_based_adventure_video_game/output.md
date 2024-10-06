@@ -1,10 +1,10 @@
 
 
 Following the incorporation of player feedback from the last testing phase, we have made several important updates to enhance player engagement and overall experience:
-1. **Onboarding Clarity**: Improved instructions to assist new players in understanding gameplay mechanics.
-2. **Gameplay Mechanics**: Refined gameplay mechanics for a more balanced and enjoyable experience.
-3. **User Interactions**: Enhanced user interactions to foster a more immersive gaming environment.
-4. **Expansion Opportunities**: Investigated potential narrative and gameplay expansions based on user suggestions and feedback.
+1. **Onboarding Clarity**: Enhanced instructions for better comprehension for new players.
+2. **Gameplay Mechanics**: Continuously balanced gameplay mechanics to ensure a more enjoyable experience.
+3. **User Interactions**: Improved user interactions to offer a richer gaming environment.
+4. **Expansion Opportunities**: Explored potential narrative and gameplay expansions based on user suggestions and feedback.
 
 Following player feedback from the last event, we have implemented several key updates for continuous improvement:
 1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
