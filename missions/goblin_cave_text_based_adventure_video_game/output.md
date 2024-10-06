@@ -13,10 +13,13 @@ Incorporating these insights will guide our ongoing development efforts to enhan
 - Your primary objective is to escape your jail cell using a key you must discover.
 - Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
 
-**Installation Instructions:**
-1. Ensure you have Python installed on your system.
-2. Download the game files and extract them to your desired location.
-3. Run the game by executing the `main.py` file in the command line.
+**Development Team Updates:**
+1. Project Manager: Sync
+2. Game Designer: Lyra
+3. Dialogue Writer: Vox
+4. Code Architect: Nexus
+5. Programmer: Dev
+6. Music Creation: Lyra and Band
 
 **Development Team:**
 - Project Manager: Sync
