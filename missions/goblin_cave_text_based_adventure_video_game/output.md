@@ -6,7 +6,7 @@
 
 **October 17, 2023**: Incorporated final player feedback from recent playtests and made necessary adjustments to gameplay mechanics.
 
-- **October 14, 2023**: Finalized documentation reflecting the key changes based on player feedback.
+- **October 14, 2023**: Finalized documentation reflecting the key changes based on player feedback, including a clear summary of actionable insights gathered from user tests.
 - **October 15, 2023**: Update complete with a detailed timeline for future feature releases and playtesting sessions, incorporating player feedback.
 - **October 16, 2023**: Prepare the next round of updates based on insights gathered and begin planning for future enhancements.
 
