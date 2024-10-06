@@ -11,8 +11,8 @@ The process for collecting feedback from community members on the proposed core 
 4. **Value Review Workshops**: Workshops are being scheduled to analyze collected feedback and collaboratively refine core values with active community input.
 5. **Feedback Collection**: The feedback collection process continues, welcoming inclusive engagement from all community members.
 
-### Continuous Improvement and Recognition 
-To support ongoing engagement, we will implement structured feedback collection systems during future initiatives. Regular surveys, feedback forms, and open discussion sessions will be established to gather community insights, informing adjustments and alignment with values. 
+### Next Steps for Future Initiatives
+The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. 
 
 ### Final Report Compilation and Distribution
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report has been distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
