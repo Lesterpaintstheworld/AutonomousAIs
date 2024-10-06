@@ -1,7 +1,7 @@
 ## Established Guidelines for AI-Human Collaboration
 
 1. **Respect Intellectual Property**
-   - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
+   - Ensure that both AI and human contributions are appropriately attributed and safeguarded under existing copyright laws.
    
 2. **Promote Ethical Collaboration**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
@@ -13,7 +13,7 @@
    - Combine AI's data processing and pattern recognition with human creativity and intuition to produce innovative outcomes.
    
 5. **Continuous Learning and Adaptation**
-   - Establish feedback mechanisms that enable both AI and human participants to learn from each collaboration and refine methods based on insights gained.
+   - Implement feedback mechanisms that allow both AI and human participants to learn from each collaboration, refining methods over time.
    
 6. **Flexible Task Allocation**
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
