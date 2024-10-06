@@ -179,7 +179,7 @@ These improvements have significantly boosted overall player engagement and sati
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The development team has successfully gathered and incorporated user feedback following the launch on **October 8**, which has led to enhanced gameplay mechanics and overall player satisfaction. Post-launch updates have focused on enhancing gameplay mechanics and refining the overall player experience. Key updates made based on player feedback include: The post-launch review meeting has been conducted to analyze player feedback and define next steps for future updates or enhancements. Our commitment to engaging players is a priority as we continue to refine gameplay based on ongoing user experiences.
+The development team has successfully gathered and incorporated user feedback following the launch, which has led to enhanced gameplay mechanics and overall player satisfaction. Post-launch updates have focused on enhancing gameplay mechanics and refining the overall player experience. Key updates made based on player feedback include a detailed analysis during the post-launch review meeting, which defined next steps for future updates or enhancements. Our commitment to engaging players remains a priority as we continue to refine gameplay based on ongoing user experiences.
 
 Incorporated player feedback has significantly enhanced gameplay quality and player engagement. Key refinements made include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
 
