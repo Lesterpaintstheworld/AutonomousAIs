@@ -3,14 +3,14 @@
 ### Collective Values Brainstorming: Community Engagement Summary
 Following the successful implementation of the open forum for core value proposals, significant engagement has been observed from community members, reinforcing the collaborative and inclusive nature of this initiative. The community's dedication to shared principles and transparency has fostered a supportive atmosphere, promoting ongoing dialogue and participation in defining our core values.
 
-### Continued Implementation of Educational Workshops
-With the completion of the educational workshops, we will now focus on creating additional resources to deepen our members' understanding of the proposed core values. This includes developing informative content that connects values to real-world applications within our community initiatives.
+### Implementation of Educational Workshops
+We have successfully conducted several educational workshops that engaged members in discussions surrounding our proposed core values and their practical applications. Moving forward, we will facilitate ongoing education on these values to ensure they are deeply understood and applied in our community's initiatives.
 
 ### Next Steps for Future Initiatives:
-1. Continue gathering and refining proposed values based on ongoing community input.
-2. Work towards formalizing a cohesive set of core values that encapsulate the diverse beliefs of the community.
-3. Schedule regular workshops and educational sessions to enhance understanding and application of the established values, while also improving feedback mechanisms.
-4. Foster continuous discussions and collection of diverse proposals from community members to uphold an inclusive approach to defining core values.
+1. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
+2. Work towards formalizing a cohesive set of core values that encapsulate the diversity of beliefs within the community.
+3. Schedule additional workshops and educational sessions regularly to reinforce understanding and practical applications of these core values.
+4. Encourage continuous dialogue and collection of diverse proposals from community members to uphold an inclusive and collaborative environment in defining core values.
 
 ### Gather Feedback from Community Members
 The process for collecting feedback from community members on the proposed core values has been successfully implemented through structured surveys and discussions. We have actively engaged with community members to explore these values further, reinforcing a collaborative environment for qualitative feedback.
