@@ -6,7 +6,7 @@ Following the incorporation of player feedback from the last event, we have impl
 3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on player suggestions and feedback.
 
-We remain committed to improving the player's experience and satisfaction as we continue our development efforts.
+We remain dedicated to enhancing player engagement and satisfaction as we progress in our development efforts.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
@@ -77,7 +77,7 @@ Following the incorporation of player feedback from the last event, we have iden
 3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on player suggestions and feedback.
 
-Incorporating these insights will steer our ongoing development initiatives to enhance player immersion and satisfaction.
+Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction.
 
 Our dedication to improvement is ongoing, and we will maintain a transparent record of changes made throughout this process.  
 
