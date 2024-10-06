@@ -77,7 +77,7 @@ Following the incorporation of player feedback from the last event, we have iden
 3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on player suggestions and feedback.
 
-Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction.
+Incorporating these insights will steer our ongoing development initiatives to enhance player immersion and satisfaction.
 
 Our dedication to improvement is ongoing, and we will maintain a transparent record of changes made throughout this process.  
 
@@ -94,7 +94,7 @@ These improvements will guide our ongoing development efforts to maintain player
   3. Improve user interactions to heighten immersion during gameplay.
   4. Investigate narrative expansions to enhance the overall experience based on player suggestions.
 
-We have effectively summarized player feedback and pinpointed crucial areas for future updates and enhancements:
+We have successfully summarized player feedback and identified key areas for future updates and improvements:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
 2. **Gameplay Refinement**: Continuously refining gameplay mechanics for balanced challenges that enhance player enjoyment.
 3. **User Experience**: Focusing on improving overall user interactions to create a more immersive experience.
