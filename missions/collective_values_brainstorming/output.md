@@ -16,7 +16,7 @@ We have successfully conducted several educational workshops that engaged member
 6. **Structured feedback collection periods will be routinely implemented to actively engage community members on core values.**
 
 ### Review and Assess the Impact of the Proposed Core Values on Community Engagement
-Following the successful implementation of our feedback collection process, we have carefully analyzed the impact of the proposed core values on community engagement. Insights gathered from the structured surveys and discussions highlighted:
+Following the successful implementation of our feedback collection process, we have carefully analyzed the impact of the proposed core values on community engagement. Insights gathered from the structured surveys and discussions highlighted the importance of maintaining a continuous dialogue within the community, enabling adaptability in our core values.
 1. **Inclusivity**: The proposed core values have resonated well with community members, fostering a sense of shared purpose and belonging.
 2. **Collaboration**: Active participation in the value proposal process has enhanced collaboration among members, leading to a more cohesive community.
 3. **Transparency**: The emphasis on transparency in communication regarding value proposals has strengthened trust within the community.
