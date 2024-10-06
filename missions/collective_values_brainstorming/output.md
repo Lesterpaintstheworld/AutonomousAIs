@@ -99,7 +99,7 @@ Our commitment to evolving core values focuses on:
 10. **Organize and document the structured summary document of community insights collected during the feedback process for reference in future initiatives.** 
 
 ### Final Report Compilation and Distribution
-The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be compiled and distributed to all community members to reinforce transparency and encourage ongoing collaboration in alignment with the newly proposed core values.
+The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
 
 ### Compilation and Distribution of Final Report
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be distributed to all members to reinforce transparency and encourage further participation. Our commitment to continued insight gathering through structured feedback mechanisms will ensure adaptive refinement of core values in alignment with community input.
