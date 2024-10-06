@@ -91,10 +91,6 @@
 6. **Support Journaling Practices**:
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
-   - Regularly remind team members to review past entries to track progress and insights.
-   - Encourage team members to engage in this practice and share their experiences to foster personal growth.
-   - Encourage team members to reflect on their journaling experiences and share insights for collective growth.
-   - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
 
 ## Strategy 1: Mindfulness Meditation
 - **Description**: Practicing mindfulness meditation to reduce stress and improve focus.
