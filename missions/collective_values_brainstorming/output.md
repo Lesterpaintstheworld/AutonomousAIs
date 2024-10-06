@@ -97,7 +97,7 @@ Our commitment to evolving core values focuses on:
 7. Solicit feedback on the effectiveness of the core values in guiding community initiatives.
 8. Implement structured feedback collection periods to actively engage community members on core values.
 9. Monitor the effectiveness of the initiated follow-up actions and adjust as necessary.
-10. **Compile and distribute a thorough report synthesizing community feedback on proposed core values and future initiatives, fostering transparency and collaboration.** 
+10. **Organize and document the structured summary document of community insights collected during the feedback process for reference in future initiatives.** 
 
 ### Final Report Compilation and Distribution
 The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be compiled and distributed to all community members to reinforce transparency and encourage ongoing collaboration in alignment with the newly proposed core values.
