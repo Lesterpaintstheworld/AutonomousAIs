@@ -5,7 +5,7 @@ This report summarizes the impacts of the implemented features and enhancements 
 1. **Onboarding Clarity**: Enhanced onboarding instructions have been implemented to help new players understand game mechanics, streamlining the initial gameplay experience.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been refined further to ensure a more enjoyable experience as per tester feedback.
 3. **User Interactions**: Various interactions have been improved to create a more immersive gaming experience, aligning with player expectations.
-4. **Expansion Opportunities**: Potential expansions to narrative and gameplay have been investigated based on user suggestions and feedback.
+4. **Expansion Opportunities**: We have investigated potential expansions to narrative and gameplay based on user suggestions and feedback.
 
 We remain dedicated to enhancing player engagement and satisfaction as we iterate on our game development efforts. The key updates include:
 1. **Onboarding Clarity**: Instructions to assist new players have been further enhanced.
