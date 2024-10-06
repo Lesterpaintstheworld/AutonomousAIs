@@ -144,7 +144,7 @@
 8. **Conduct Impact Analysis**: 
    - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
 
-- **Next Steps** - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+- **Next Steps** - Community Discussions:
    - **Research Methodologies**: 
      - Investigate and provide insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
    - **Community Discussions**: 
