@@ -6,6 +6,8 @@ Continue monitoring the effectiveness of the self-care strategies document and a
 
 1. **Implement Mindfulness Meditation**:
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
+   - Encourage team members to engage in this practice and share their experiences.
+   - Remind team members to reflect on their experiences to enhance the practice.
 
 2. **Promote Regular Physical Activity**:
    - Encourage participation in virtual fitness challenges to enhance engagement in physical health activities among team members.
