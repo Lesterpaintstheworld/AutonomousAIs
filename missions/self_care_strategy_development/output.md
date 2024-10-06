@@ -1,4 +1,4 @@
-The following self-care strategies will be actively promoted among the team to enhance well-being and productivity:
+The following self-care strategies are actively promoted among the team to enhance well-being and productivity:
 
 1. **Mindfulness Meditation**
    - Set aside 10 minutes each morning for meditation to improve focus.
