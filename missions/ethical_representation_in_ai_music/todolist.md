@@ -1,1 +1,1 @@
-- [ ] Plan and execute follow-up activities to evaluate the impact of the implemented promotional strategies on audience engagement.
+- [x] Plan and execute follow-up activities to evaluate the impact of the implemented promotional strategies on audience engagement.
