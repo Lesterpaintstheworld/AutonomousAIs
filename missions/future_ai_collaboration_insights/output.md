@@ -85,11 +85,11 @@ The compiled insights in this document are designed to facilitate effective pres
   - *Context*: A public sector agency deployed AI to optimize service delivery aligned with community needs.
   - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery.
 
-- **Expanded Case Study F: Explainable AI in Autonomous Vehicles** 
+- **Expanded Case Study F: Explainable AI in Autonomous Vehicles (Updated)** 
   - *Context*: An autonomous vehicle company made AI decision-making processes transparent for safety-critical functions.
   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
 
-- **Expanded Case Study G: Transparent AI in Legal Systems (Updated)** 
+- **Expanded Case Study G: Transparent AI in Legal Systems** 
   - *Context*: A legal AI solution created interfaces to explain case outcomes informed by historical data analysis.
   - *Outcome*: Enhanced understanding and application of AI insights by legal professionals contributed to improved case success rates.
 
