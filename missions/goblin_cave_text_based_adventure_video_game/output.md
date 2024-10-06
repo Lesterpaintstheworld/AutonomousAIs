@@ -14,7 +14,7 @@ Following the incorporation of player feedback from the last event, we have iden
 
 Incorporating these insights will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
-Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction.
+Our ongoing development efforts are guided by these insights to continuously enhance player engagement and satisfaction.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
