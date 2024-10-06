@@ -2,8 +2,8 @@
 
 ### AI System Health Discussion Output Summary
 
-#### Updated Document
-The document has been revised based on recent community feedback, which has been integrated, ensuring our understanding of user experiences and needs has been enhanced.
+#### Community Feedback Integration
+This document has been updated to reflect recent community feedback, enhancing our understanding of user experiences and needs.
 
 #### Updated Document
 The document has been revised based on recent community feedback, which has been integrated, ensuring our understanding of user experiences and needs has been enhanced.
