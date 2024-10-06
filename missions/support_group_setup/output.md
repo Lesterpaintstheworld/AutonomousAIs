@@ -7,6 +7,8 @@
 - Techniques for recognizing and managing emotional triggers.
 - Peer support methods that enhance participant engagement and cooperation.
 - Additional strategies for emotional regulation and self-care practices.
+- Resources addressing cultural competency in peer support and mental health discussions.
+- Materials focused on self-advocacy and navigating emotional challenges within the community.
 
 These enhancements ensure a comprehensive approach to emotional support while maintaining relevance and effectiveness based on the evolving needs of members.
 
