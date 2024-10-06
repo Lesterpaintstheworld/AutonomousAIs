@@ -77,11 +77,11 @@ The compiled insights in this document are designed to facilitate effective pres
   - *Context*: A bank utilized transparent AI models to clarify investment recommendations given to customers.
   - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake.
 
-- **Expanded Case Study D: Transparent AI in Education** 
+- **Expanded Case Study D: Transparent AI in Education (Updated)** 
   - *Context*: An educational platform employed explainable AI to tailor learning pathways based on student performance data.
   - *Outcome*: Improved learning outcomes driven by tailored feedback led to a 25% increase in overall course completion rates.
 
-- **Expanded Case Study E: Trustworthy AI in Public Services (Updated)** 
+- **Expanded Case Study E: Trustworthy AI in Public Services** 
   - *Context*: A public sector agency deployed AI to optimize service delivery aligned with community needs.
   - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery.
 
