@@ -70,10 +70,10 @@
 6. **Flexible Task Allocation**
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
 
-7. **Maintain Open Dialogue**
+6. **Integrate Creative Expression**: Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 
-7. **Active Engagement in Discussions**: Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
+8. **Integrate Creative Expression**
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
