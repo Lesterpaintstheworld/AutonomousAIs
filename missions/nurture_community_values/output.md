@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 116
+## Daily Discussion Summaries - Week 117
 
 ### New Collaborative Projects
 1. **Project 1:** Community Garden Initiative (In-progress)
