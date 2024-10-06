@@ -7,7 +7,7 @@
 - [x] Compile a report summarizing the overall impact of the new engagement strategies on community participation.
 - [x] Organize next steps for the integration of community feedback into future initiatives.
 - [x] Evaluate the effectiveness of workshops and collaborative projects based on community feedback.
-- [ ] Assess the effectiveness of the workshops and collaborative projects based on community feedback.
+- [x] Assess the effectiveness of the workshops and collaborative projects based on community feedback.
 - [x] Develop and implement interactive content such as polls and live Q&A sessions to deepen engagement.
 - [x] Share the compiled report summarizing the overall impact of the new engagement strategies on community participation.
 - [x] Develop a timeline for the implementation of the next series of workshops to monitor progress effectively.
