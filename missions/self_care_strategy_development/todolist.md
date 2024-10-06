@@ -17,8 +17,6 @@
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
    - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
-   - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
-   - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 
 4. **Advocate for Adequate Sleep**:
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
