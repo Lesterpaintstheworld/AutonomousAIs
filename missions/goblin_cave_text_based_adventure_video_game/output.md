@@ -2,18 +2,18 @@
 
 The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience ahead of the official launch. The final review process has been completed, and all human tester feedback has been meticulously incorporated to further enhance gameplay, resolve any identified bugs, and ensure that all features function as intended, prioritizing not only game stability but also providing an optimal player experience ahead of the official launch.
 
-Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement:
-1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
+Following the recent player feedback incorporation, we've identified crucial updates for continuous improvement:
+1. **Onboarding Clarity**: Enhance instructions to assist new players in understanding mechanics.
 2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
-3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
+3. **User Interactions**: Focus on enhancing interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Explore potential expansions to narrative and gameplay based on player suggestions and feedback.
 
 Our dedication to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
 
 **Gameplay Overview:**
-- Players will interact with the game using text commands.
-- The primary objective is to escape the jail cell using a key found within the environment.
-- Players will face challenges, including the need to outsmart a goblin guard to retrieve their sword.
+- You will interact with the game using text commands.
+- Your primary objective is to escape your jail cell using a key you must discover.
+- Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
