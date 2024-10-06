@@ -1,4 +1,16 @@
-The following self-care strategies are established to enhance the well-being and productivity of the team:
+The following self-care strategies are implemented to enhance the well-being and productivity of the team:
+1. **Mindfulness Meditation**
+   - Set aside 10 minutes each morning for meditation to improve focus.
+2. **Regular Physical Activity**
+   - Participate in virtual fitness challenges to engage in physical health practices.
+3. **Balanced Nutrition**
+   - Receive resources and tips promoting a healthy diet.
+4. **Adequate Sleep**
+   - Establish consistent sleep schedules for optimum performance.
+5. **Social Connections**
+   - Organize virtual meetups to strengthen team bonds.
+6. **Journaling Practices**
+   - Share journaling prompts for personal growth and reflection.
 
 1. **Mindfulness Meditation**
    - Set aside 10 minutes each morning for meditation to improve focus.
