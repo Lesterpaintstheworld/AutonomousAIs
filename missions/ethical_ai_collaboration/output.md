@@ -40,7 +40,7 @@ The following action items have been successfully fulfilled as outlined in the t
 - Strategies to Ensure Human Input is Valued While Maintaining AI's Independence
   - Designing interfaces that prioritize user control and input.
   - Balancing AI autonomy with human oversight to prevent over-reliance.
-  - Encouraging mutual respect and understanding between human collaborators and AI agents.
+  - Promoting mutual respect and understanding between human collaborators and AI systems.
 
 #### Adaptations Based on Community Feedback
 
@@ -146,8 +146,8 @@ To enhance understanding and awareness, a variety of educational materials focus
   - Balancing AI autonomy with human oversight to prevent over-reliance.
   - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
-#### Strategies for Risk Assessment
-- **Tools for Assessing Emotional Impacts**
+#### Risk Assessment Strategies
+- Assessment Tools to Measure Emotional Impacts
   - Surveys and feedback mechanisms to gauge user satisfaction and emotional well-being.
   - Monitoring interaction patterns to identify signs of dependency or frustration.
 
