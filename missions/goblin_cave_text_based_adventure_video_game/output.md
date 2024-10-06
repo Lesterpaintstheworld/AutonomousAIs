@@ -10,10 +10,10 @@ We remain committed to enhancing player engagement and satisfaction as we iterat
 
 The game has successfully been finalized for release, incorporating thorough testing and integration of all feedback received from testers. This ensures game stability and provides an optimal player experience for the official launch. Additionally, enhanced clarity in onboarding instructions has been implemented to assist new players, and gameplay mechanics have been refined for balanced challenges.
 
-1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players, ensuring a more intuitive understanding of the game mechanics and streamlining the starting experience.
-2. **Gameplay Mechanics**: Adjustments and refinements based on feedback to ensure balanced and engaging gameplay.
-3. **User Interactions**: Improved interactions for a more immersive experience, including better dialogues and meaningful choices.
-4. **Narrative Expansions**: Exploring further story elements and gameplay features for future updates based on user input.
+1. **Onboarding Clarity**: Continuing to enhance instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Further refining gameplay mechanics for balanced challenges and overall enjoyment.
+3. **User Interactions**: Ongoing improvements to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigating potential narrative expansions based on user suggestions and feedback.
 
 Based on player feedback from the last event, the following key updates will be implemented for continuous improvement:
 1. Enhance clarity in onboarding instructions to assist new players.
