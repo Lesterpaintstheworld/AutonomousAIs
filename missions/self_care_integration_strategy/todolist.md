@@ -3,5 +3,6 @@
 - [x] Explore and implement additional self-care activities based on team member suggestions to further enhance engagement.
 - [x] Document the outcomes and effectiveness of the newly implemented self-care activities.
 - [x] Review the impact of the self-care activities on team morale and productivity for future strategy adjustments.
+- [x] Share summary reports of ongoing evaluations with the team to maintain transparency.
 - [x] Explore additional ways to enhance engagement based on feedback from team members.
 - [x] Share summary reports of ongoing evaluations with the team to maintain transparency.
