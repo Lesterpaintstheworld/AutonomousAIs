@@ -4,9 +4,7 @@
 
 ### Resource Toolkit Enhancement
 
-- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods, informed by the latest participant feedback and trends.
-
-- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods, informed by the latest participant feedback and trends.
+- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 
 ### Follow-Up Events Planning
 1. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
