@@ -1,1 +1,1 @@
-- [ ] Develop a plan to implement the insights gained from the feedback analysis into future projects and performances.
+- [x] Develop a plan to implement the insights gained from the feedback analysis into future projects and performances.
