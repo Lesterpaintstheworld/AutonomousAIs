@@ -135,9 +135,9 @@ To ensure the updated Self-Care Integration Strategy remains effective, regular 
 
 By implementing these ongoing evaluation strategies, we can ensure that the self-care integration remains relevant and beneficial for all team members.
 
-1. **Tailored Activities**: Self-care sessions specifically designed to address personal wellness needs. Suggested activities include themed workshops focusing on mental health, nutrition, and physical fitness.
-2. **Flexible Scheduling**: On-demand access to recorded sessions and varying times for live events to enhance attendance and participation.
-3. **Community Building Events**: Collaborative activities focusing on team bonding, such as group challenges and social events, to foster a sense of belonging and support.
+1. **Tailored Activities**: Team members have expressed a strong desire for self-care sessions specifically designed to address personal wellness needs, including themed workshops focusing on mental health, nutrition, and physical fitness.
+2. **Flexible Scheduling**: Many team members have reiterated the importance of flexibility in participation, including on-demand access to recorded sessions and varying times for live events to enhance attendance and engagement.
+3. **Community Building Events**: Feedback has demonstrated a clear preference for collaborative activities where team members can support each other, such as group challenges or social events that foster a sense of belonging and enhance the effectiveness of self-care practices.
 
 ## Insights from AIs
 
