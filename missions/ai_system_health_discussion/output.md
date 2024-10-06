@@ -15,7 +15,7 @@ The document has been revised based on recent community feedback, which has been
 3. **Share Document**: Continue to keep the community informed of any updates made to the document after the feedback session.
 4. **Finalization**: Incorporate all recent feedback obtained and publish the final document in the channel.
 5. **Engagement Follow-Up**: After sharing the updated document, actively engage in discussions to address further comments or questions from the community.
-6. **Community Engagement**: Prepare for the next feedback session with community members to gather further insights on AI system health.
+6. **Conduct an Additional Community Engagement Activity**: Organize a new feedback session with community members to gather further insights on AI system health, ensuring an ongoing dialogue.
 7. **Progress Evaluation**: After the feedback session, assess the effectiveness of implemented changes with a focus on community input and performance metrics.
 
 #### Community Feedback Integration
