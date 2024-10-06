@@ -208,7 +208,7 @@ Incorporated player feedback has significantly enhanced gameplay quality and pla
 4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch. This process includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
+The release build has been finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience. Post-launch updates will focus on enhancing gameplay mechanics and refining user instructions for clarity.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
