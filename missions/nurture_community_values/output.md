@@ -14,7 +14,7 @@
 - **Project 2:** Monthly Skill-Sharing Workshops
   - **Description:** A series of workshops where community members can share their skills or hobbies with others.
   - **Goals:** Foster continuous learning, enhance member connections, and provide opportunities for personal development.
-  - **Next Steps:** Create a schedule of workshops and invite members to propose topics.
+  - **Next Steps:** Finalize the workshop schedule, incorporating member feedback on proposed topics and themes.
 
 - **Project 3:** Art for Community Awareness
   - **Description:** A community art project aimed at raising awareness regarding local issues.
