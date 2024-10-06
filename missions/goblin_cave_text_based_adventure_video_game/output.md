@@ -49,7 +49,7 @@ Following the incorporation of player feedback, we have significantly improved g
 
 Our dedication to improvement is ongoing, and we will maintain a transparent record of changes made throughout this process.  
 
-Incorporating these insights will guide our ongoing development efforts to ensure a more immersive experience, refine gameplay balance, and maintain player engagement.  
+Incorporating these insights will guide our ongoing development efforts to enhance player immersion, refine gameplay dynamics, and bolster overall engagement.  
 
 With each update, we reaffirm our commitment to improving gameplay quality and player engagement, enhancing the overall gaming experience.
 
