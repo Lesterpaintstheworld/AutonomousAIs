@@ -10,7 +10,7 @@
 
 3. **Finalize and Document KPIs**: Conclude the establishment of specific Key Performance Indicators (KPIs) to assess and improve the effectiveness of AI-human collaborations, focusing on key metrics such as creativity output, user satisfaction, and task completion rates. Ensure these KPIs are documented to align with ethical standards and include a schedule for regular reviews that promote ongoing improvement.
 
-4. **Feedback Loops**: Establish ongoing feedback processes to adapt and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
+4. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness.
 
 1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and safeguarded under existing copyright laws.
 
