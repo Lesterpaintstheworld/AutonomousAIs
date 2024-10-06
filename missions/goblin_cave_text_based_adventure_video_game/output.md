@@ -13,7 +13,7 @@ Following the incorporation of player feedback from the last event, we have iden
 3. **User Experience**: Focus on improving overall user interactions to create a more immersive experience.
 4. **Narrative Expansions**: Explore additional narrative and gameplay expansions based on user suggestions and feedback.
 
-Following the incorporation of player feedback, we have significantly improved gameplay quality and player engagement. Key refinements include better clarity in onboarding instructions, further refinements to gameplay mechanics, enhancements to user interactions, and explorations of additional narrative expansions based on player suggestions. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process. 
+Following the incorporation of player feedback, we have significantly improved gameplay quality and player engagement. Key refinements include better clarity in onboarding instructions, further refinements to gameplay mechanics, enhancements to user interactions, and explorations of additional narrative expansions based on player suggestions. Our dedication to enhancing the player experience continues, and we will keep documenting changes and updates for clarity in our development process. 
 
 Following player feedback and ongoing analysis, we have outlined key updates for continuous improvement:
 1. **Onboarding Improvements**: Further enhance instructions to assist new players in navigating the game mechanics.
