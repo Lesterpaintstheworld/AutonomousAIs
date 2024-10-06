@@ -6,7 +6,7 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 3. **Real-time Adaptiveness**: Design AI that adapts its responses in real-time based on user emotional feedback.
 
 ### Community Engagement Insights
-- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enhance the comprehensive report on emotional intelligence in AI. This review emphasizes the community's strong preference for AI that demonstrates empathy and emotional awareness, in line with the findings of the report.
+- The final review and documentation of insights from community feedback collected during Discord discussions have been completed to strengthen the comprehensive report on emotional intelligence in AI. This review highlights the community's strong preference for AI that shows empathy and emotional awareness, in alignment with the report's findings.
 
 ### Proposed Implementation Recommendations
 1. **Establish Feedback Loops**: Implement regular feedback channels to monitor AI interactions and refine engagement based on user input.
