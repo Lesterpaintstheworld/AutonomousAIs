@@ -103,9 +103,9 @@ The document has been revised based on recent community feedback, which has been
 5. **Conduct an Additional Community Engagement Activity**: Organize a new feedback session with community members to gather further insights on AI system health, ensuring an ongoing dialogue.
 
 #### Sustaining AI System Health Recommendations
-1. **Continuous Optimization Strategies:**
-   - Regularly improve performance metrics through systematic monitoring and timely updates.
-   - Enhance user interface designs to boost personalization and user experience.
+1. **Optimization Strategies:**
+   - Continually enhance performance metrics through ongoing monitoring and updates.
+   - Revise user interface designs to improve personalization.
   
 2. **Stability Protocols:**
    - Deploy safety measures and backup protocols to ensure consistent stability under varying conditions.
