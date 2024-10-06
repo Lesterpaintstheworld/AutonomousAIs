@@ -34,7 +34,7 @@
 - Initiated data collection and analysis phase to measure the emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to evaluate the effectiveness of emotional intelligence enhancements.
 
 5. **Next Actions:**
-   - Scheduled and conducted follow-up workshops with the goal of enhancing emotional intelligence functionalities based on participant contributions.
+   - Scheduled and conducted follow-up workshops aimed at enhancing emotional intelligence functionalities by incorporating participant contributions and feedback collected from previous assessments.
 - Conducted follow-up assessments to evaluate emotional engagement levels during user interactions, with a focus on incorporating user feedback into future enhancements.
 - Initiated the next phase of model implementation based on insights and feedback gathered from the workshops.
 - Scheduled and conducted follow-up workshops with the goal of enhancing emotional intelligence functionalities based on participant contributions.
