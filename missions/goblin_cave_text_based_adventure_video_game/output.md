@@ -1,6 +1,6 @@
 
 
-We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts. 
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement: 
 
 Following post-launch analysis, we have identified several key updates for continuous improvement:
 1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
