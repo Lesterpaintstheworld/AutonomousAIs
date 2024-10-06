@@ -1,6 +1,6 @@
 
 
-We will implement additional creative sharing sessions incorporating newly evaluated techniques, such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These newly designed sessions will aim to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
+In response to participant feedback, we will introduce guided breathing exercises and reflection activities in the upcoming sessions. This initiative aims to extend session lengths and diversify techniques, enriching emotional journeys and artistic expressions of all participants through new mindfulness activities.
 
 **Emotional Connection Exploration: Enhancements and Next Steps**
 
