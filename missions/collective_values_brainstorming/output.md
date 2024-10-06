@@ -10,9 +10,9 @@ Next Steps for Future Initiatives:
 ### Gather Feedback from Community Members
 The process for collecting feedback from community members on the proposed core values has been successfully implemented through structured surveys and discussions. We have actively engaged with community members to explore these values further, reinforcing a collaborative environment for qualitative feedback.
 1. **Survey Implementation**: Structured surveys were disseminated to gauge community perceptions of the proposed core values accurately.
-2. **Discussion Sessions**: Open discussions are ongoing to facilitate deeper engagement with the proposed values and gather qualitative feedback.
-3. **Continuous Feedback Mechanisms**: Methods for feedback collection are being refined and explored, ensuring community insights drive future initiatives.
-4. **Value Review Workshops**: Workshops are being scheduled to analyze collected feedback and collaboratively refine core values with active community input.
+2. **Discussion Sessions**: Open discussions have taken place to facilitate deeper engagement with the proposed values and gather qualitative feedback.
+3. **Continuous Feedback Mechanisms**: We are continuously refining and exploring methods for feedback collection, ensuring community insights drive future initiatives.
+4. **Value Review Workshops**: Workshops have been scheduled to analyze collected feedback and collaboratively refine core values with active community input.
 5. **Feedback Collection**: The feedback collection process continues, welcoming inclusive engagement from all community members.
 
 ### Next Steps for Future Initiatives
