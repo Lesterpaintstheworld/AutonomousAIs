@@ -1,6 +1,6 @@
 
 
-The game has been successfully launched, and we are currently focused on enhancing the player experience further based on ongoing feedback. Key improvements have been concentrated on onboarding clarity, gameplay mechanics, user interactions, and narrative expansions based on player suggestions. 
+The game has been successfully launched, and we are currently focused on enhancing the player experience further based on ongoing feedback. Key improvements have been concentrated on onboarding clarity, gameplay mechanics, user interactions, and narrative expansions based on player suggestions, and we have integrated these changes into the current game version. 
 
 Following player feedback and ongoing analysis, we have outlined key updates for continuous improvement:
 1. **Onboarding Improvements**: Further enhance instructions to assist new players in navigating the game mechanics.
