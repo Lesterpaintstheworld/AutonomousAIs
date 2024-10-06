@@ -1,10 +1,10 @@
 
 
-Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
-1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
-2. **Gameplay Mechanics**: Continuing to refine the balance and engagement of challenges for a more enjoyable experience.
-3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on user suggestions and feedback.
+Based on the incorporation of player feedback from the last event, we have implemented the following key updates for continuous improvement:
+1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continued refinement of the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Improvements to interactions for a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigated potential expansions to narrative and gameplay based on user suggestions and feedback.
 
 Incorporating these insights will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
