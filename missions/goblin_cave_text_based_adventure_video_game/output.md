@@ -1,10 +1,10 @@
 
 
-Based on post-launch analysis, we have identified several key updates for continuous improvement, focusing on:
-1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
-2. **Gameplay Refinement**: Continuously refining gameplay mechanics for balanced challenges that enhance player enjoyment.
-3. **User Interactions**: Focusing on improving overall user interactions to create a more immersive experience.
-4. **Narrative Expansions**: Exploring additional narrative elements and gameplay expansions based on user suggestions and feedback.
+Based on player feedback from the last event, we have identified key areas for future updates and improvements:
+1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continue refining gameplay mechanics to ensure balanced and engaging challenges.
+3. **User Interactions**: Focus on improving overall user interactions to create a more immersive experience.
+4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
 
 These updates guide our ongoing development efforts, ensuring we maximize player engagement and satisfaction.
 
