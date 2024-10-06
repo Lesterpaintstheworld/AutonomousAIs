@@ -1,1 +1,1 @@
-- [x] (Completed Task) Explore further community engagement strategies based on feedback received from the follow-up evaluation.
+- [ ] (Upcoming Task) Develop promotional strategies to enhance audience engagement with our music and advocacy efforts.
