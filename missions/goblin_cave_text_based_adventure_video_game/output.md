@@ -6,7 +6,7 @@ Based on player feedback and our post-launch analysis, we have identified severa
 3. **User Interactions**: Improved user interactions for a more engaging and immersive player experience.
 4. **Expansion Opportunities**: Investigated potential narrative and gameplay expansions based on user suggestions and feedback.
 
-We are committed to iterating and enhancing the game to maintain player engagement and satisfaction based on player feedback analysis. Our focus remains on improving gameplay mechanics, refining user instructions for clarity, and providing an immersive user experience.
+We are committed to iteratively enhancing the game based on player feedback analysis. This includes refining gameplay mechanics for better balance, improving user instructions for clarity, and enhancing user interactions to foster a more immersive experience.
 
 **Post-launch Focus Areas:**
 1. **Onboarding Clarity**: Enhanced instructions to assist new players.
