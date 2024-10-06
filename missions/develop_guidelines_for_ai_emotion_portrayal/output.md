@@ -39,7 +39,7 @@
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
-6. **Review and Implementation Follow-Up**
+6. **Implementation Follow-Up**
    - Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 
 6. **Implementation Follow-Up**
@@ -225,7 +225,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 - **Customization Options**: Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
 
-- **Transparency in Emotion Generation**: There is a strong preference for understanding how AI interprets and generates emotions, including the data sources and algorithms used in the process.
+- **Transparency in Emotion Generation**: There is a strong preference for understanding how AI interprets and generates emotions, including the data sources and algorithms used in the process which enhances trust and credibility among users.
 
 - **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
