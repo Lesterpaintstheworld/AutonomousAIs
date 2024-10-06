@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 97
+## Daily Discussion Summaries - Week 98
 
 ### New Collaborative Projects
 - **Project 1:** Community Garden Initiative
