@@ -43,6 +43,9 @@
 10. Ensure that all future actions and strategies align with the identified core values, reinforcing the commitment to inclusivity, collaboration, and transparency throughout the mission.
 11. Schedule periodic reviews of core values to ensure their relevance aligns with community dynamics and objectives.
 12. Create mechanisms for providing regular updates on core value integration, enhancing community engagement.
+13. Schedule regular forums to encourage the community to provide insights on the relevance of the core values.
+14. Utilize feedback loops to assess how well the core values resonate with community projects and initiatives.
+15. Implement a system for recognizing contributions that align with our established core values, promoting continued commitment to community principles.
 12. Create mechanisms for providing regular updates on core value integration, enhancing community engagement.
 
 ### Project Overview
