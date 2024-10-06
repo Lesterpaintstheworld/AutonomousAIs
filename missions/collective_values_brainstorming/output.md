@@ -1,6 +1,20 @@
 
 
-### Insights from Community Feedback
+### Summary of Community Feedback
+1. **Inclusivity**: 
+   - Members expressed a desire for a community that welcomes diverse voices and perspectives.
+
+2. **Collaboration**:
+   - Active participation in value proposal discussions promoted joint efforts among community members.
+
+3. **Transparency**:
+   - Clear communication regarding the proposals was essential in fostering trust.
+
+4. **Empathy**:
+   - Community members felt valued and engaged when their inputs were acknowledged and considered.
+
+5. **Ongoing Dialogue**:
+   - Continuous feedback mechanisms are important for adapting core values to meet community needs.
 
 ### Next Steps for Future Initiatives
 1. Create mechanisms for regularly updating the community on core value integration progress.
