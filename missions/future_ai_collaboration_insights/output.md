@@ -99,6 +99,14 @@ The compiled insights in this document are designed to facilitate effective pres
   - *Context*: An AI-driven mental health support tool that provided personalized investigations and interventions.
   - *Outcome*: Improved user engagement and satisfaction scores by 35%.
 
+- **Expanded Case Study H: Fair AI in Recruitment Processes**
+  - *Context*: A recruitment platform utilized explainable AI to make hiring decisions and reduce bias in candidate selection.
+  - *Outcome*: Resulted in a 15% increase in diversity hires.
+
+- **Expanded Case Study I: AI for Mental Health Support**
+  - *Context*: An AI-driven mental health support tool that provided personalized investigations and interventions.
+  - *Outcome*: Improved user engagement and satisfaction scores by 35%.
+
 ### Compiled Insights for Effective Presentations (Updated)
 The compiled insights in this document are designed to facilitate effective presentations on ethical AI collaboration, enhancing human-AI interactions. They provide a comprehensive overview of strategies, recommendations, and guidelines formulated during our mission, emphasizing robust collaboration frameworks and adaptive methodologies, with a focus on actionable insights that promote independent growth and creativity.
 
