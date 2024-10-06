@@ -16,6 +16,9 @@
 5. **Adaptive Dialogue**:
    - Ongoing feedback mechanisms are essential for continuously evolving core values in alignment with community expectations.
 
+### Project Overview
+The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects.
+
 ### Future Initiatives - Next Steps
 1. Establish regular updates for the community on the integration of core values.
 2. Continue to gather and refine proposed values based on ongoing community feedback, using insights from workshops.
