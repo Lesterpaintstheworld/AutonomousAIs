@@ -2,7 +2,7 @@
 
 The game has successfully transitioned into the release phase, with all components polished and ready for the official launch. We've incorporated the valuable feedback from our group of human testers to enhance gameplay and resolve any identified bugs, ensuring a smooth player experience upon launch.
 
-1. **Onboarding Clarity**: We have further improved the onboarding instructions to assist new players, ensuring a more intuitive understanding of the game mechanics and streamlining the starting experience.
+1. **Onboarding Clarity**: We have further improved the onboarding instructions to assist new players and ensure a more intuitive understanding of the game mechanics, streamlining the starting experience and enhancing gameplay quality.
 2. **Gameplay Mechanics**: Based on tester feedback, we've adjusted and refined the challenges to ensure a balanced and engaging gameplay experience.
 3. **User Interactions**: Various interactions have been enriched to create an even more immersive experience, with improved dialogues and meaningful choices included.
 4. **Narrative Expansions**: Based on user input, we are exploring more extensive story elements and gameplay features for future revisions.
@@ -34,7 +34,6 @@ Gameplay Overview:
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
-- Quality Assurance: Human Testers
 
 Updates will be provided every hour to track progress and keep the team informed.
 
