@@ -77,7 +77,7 @@
    - **Engagement with Community**: 
      - Continue to gather and consolidate community insights from band members and stakeholders on AI emotions in music.
    - **Conduct Impact Analysis**: 
-     - Investigate current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
+     - Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness.
    - **Host Discussions**: 
      - Continue engaging with stakeholders to refine the guidelines based on collaborative insights gathered from the community.
    - **Host Discussions**: 
