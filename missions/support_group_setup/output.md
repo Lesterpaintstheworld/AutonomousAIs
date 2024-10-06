@@ -9,13 +9,13 @@
 - Additional strategies for emotional regulation and self-care practices have been integrated based on participant feedback to strengthen well-being.
 - These enhancements ensure a comprehensive approach to emotional support while maintaining relevance and effectiveness based on the evolving needs of members.
 
-### Resource Toolkit Enhancement
-- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods. New materials include:
-  - Coping strategies for various emotional challenges.
-  - Techniques for recognizing and managing emotional triggers.
-  - Peer support methods that enhance participant engagement and cooperation.
-- Additional strategies for emotional regulation and self-care practices have been integrated based on participant feedback to strengthen well-being.
-- These enhancements ensure a comprehensive approach to emotional support while maintaining relevance and effectiveness based on the evolving needs of members.
+### Event Engagement and Resource Toolkit Enhancement
+
+1. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
+2. **Event Themes**: Determine specific themes or topics for each follow-up event based on participant feedback to keep discussions relevant.
+3. **Interactive Formats**: Utilize various formats (e.g., workshops, presentations, and breakout sessions) to maintain participant interest and engagement.
+4. **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
+5. **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
 
 ### Follow-Up Events Planning
 1. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
