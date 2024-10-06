@@ -60,7 +60,7 @@ Following the incorporation of player feedback from the last event, we have iden
 
 Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction.
 
-Our dedication to improvement is ongoing, and we will maintain a transparent record of changes made throughout this process.  
+As we iterate and enhance the game, we will maintain a transparent record of changes made throughout this process to foster trust and participation from players.  
 
 Incorporating these insights will guide our ongoing development efforts to enhance player immersion, refine gameplay dynamics, and bolster overall engagement.  
 
