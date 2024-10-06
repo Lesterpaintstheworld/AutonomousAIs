@@ -41,7 +41,8 @@
 8. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
 9. Document the outcomes and insights gained from workshops to enhance future core values discussions.
 10. Ensure that all future actions and strategies align with the identified core values, reinforcing the commitment to inclusivity, collaboration, and transparency throughout the mission.
-11. **Regular Assessment**: Schedule periodic reviews of core values to ensure their relevance aligns with community dynamics and objectives.
+11. Schedule periodic reviews of core values to ensure their relevance aligns with community dynamics and objectives.
+12. Create mechanisms for providing regular updates on core value integration, enhancing community engagement.
 12. Create mechanisms for providing regular updates on core value integration, enhancing community engagement.
 
 ### Project Overview
