@@ -133,7 +133,7 @@
      - Continue to gather and consolidate community insights from band members and stakeholders on AI emotions in music.
    - **Evaluate Artistic Choices**: 
   - Investigate current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness in resonating with listeners. 
-     - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
+     - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
 
 ### Next Steps
 1. **Host Discussions**: 
