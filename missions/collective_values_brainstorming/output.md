@@ -19,6 +19,8 @@
    - Participants gained a better understanding of how the proposed core values could be integrated into community practices.
 3. **Actionable Recommendations**: 
    - The feedback emphasized specific actions that could be taken to embody the core values within future initiatives.
+4. **Integration of Feedback**: 
+   - Incorporating community suggestions into the proposed values will enhance ownership and relevance.
 
 ### Additional Insights from Community Engagement
 1. **Strengthened Relationships**: 
