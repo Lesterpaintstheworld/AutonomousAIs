@@ -19,11 +19,11 @@ Incorporating these insights into the updated self-care strategy will facilitate
 
 The recent updates to self-care strategies have shown measurable improvements in team morale, productivity, and engagement. Feedback collected from team members indicates a sustained increase in satisfaction levels with the newly implemented activities.
 
-1. **Engagement Metrics**:
+4. **Engagement Metrics**:
    - Participation in self-care activities has risen by **29%** since the implementation of new strategies.
    - **85%** of team members reported that they find the current self-care offerings beneficial.
 
-5. **Satisfaction Levels**:
+2. **Satisfaction Levels**:
    - A recent survey revealed that a substantial majority of team members feel more supported in their well-being compared to previous initiatives.
 
 3. **Next Steps**:
