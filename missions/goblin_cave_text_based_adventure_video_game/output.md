@@ -31,7 +31,7 @@ These improvements reflect our commitment to maintaining high player engagement 
 
 **Gameplay Overview:**
 Gameplay Overview:
-- You will interact with the game using text commands.
+- In this game, you will begin your journey trapped in a goblin-infested dungeon jail cell. Your primary objective is to escape the cell, reclaim your gear, and navigate the perils that lie ahead.
 - Your primary objective is to escape your jail cell using a key you must discover.
 - Along your journey, you will face challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
@@ -337,7 +337,7 @@ Updates will be provided every hour to track progress and keep the team informed
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress and keep the team informed.
+Ensure you check back regularly for updates, announcements, and development progress!
 
 As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and overall player engagement strategies as we prepare for potential expansions.
 
