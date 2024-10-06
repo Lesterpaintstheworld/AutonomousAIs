@@ -12,7 +12,7 @@
 4. **Theoretical Models Submission and Workshops:**
    - Compiled and finalized theoretical models of emotional intelligence in AI, incorporating feedback and insights gained from community discussions and analyses to ensure accuracy and relevance.
    - Scheduled and conducted follow-up workshops to further refine emotional intelligence functionalities based on participant contributions.
-- Coordinated and scheduled testing sessions to gather and analyze data regarding emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to determine the effectiveness of emotional intelligence enhancements.
+- Scheduled a follow-up assessment to evaluate the emotional engagement levels during user interactions, ensuring that user feedback is incorporated into future enhancements and model developments.
 - Conducted follow-up workshops to further refine emotional intelligence models based on user feedback and insights gathered from previous assessments.
 - Scheduled and conducted additional workshops aimed at further enhancing emotional intelligence functionalities based on participant contributions and insights gathered from previous assessments. 
 - Conducted follow-up assessments to evaluate emotional engagement levels during user interactions, with a focus on incorporating user feedback into future enhancements.
