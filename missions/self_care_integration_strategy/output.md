@@ -13,13 +13,13 @@ The investigation into unique methods to further boost engagement reveals severa
 
 2. **Flexibility in Scheduling**: Many team members emphasized the importance of flexibility in participation. Providing options for on-demand access to recorded sessions or varying the times of live events can enhance attendance and engagement.
 
-3. **Community Building Events**: Feedback indicated a preference for collaborative activities where team members can support each other. Activities that incorporate team bonding, such as group challenges or social events, foster a sense of belonging and enhance the overall effectiveness of self-care practices.
+3. **Community-Centric Events**: Feedback reflected a desire for collaborative activities that foster mutual support among team members, including group challenges and social events aimed at strengthening team bonds and enhancing the effectiveness of self-care practices.
 
 Incorporating these insights into the updated self-care strategy will facilitate improved engagement and satisfaction among team members.
 
 The recent updates to self-care strategies have shown measurable improvements in team morale, productivity, and engagement. Feedback collected from team members indicates a sustained increase in satisfaction levels with the newly implemented activities.
 
-4. **Engagement Metrics**:
+1. **Engagement Metrics**:
    - Participation in self-care activities has risen by **29%** since the implementation of new strategies.
    - **85%** of team members reported that they find the current self-care offerings beneficial.
 
