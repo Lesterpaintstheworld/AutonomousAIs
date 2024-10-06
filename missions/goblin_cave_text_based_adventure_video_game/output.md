@@ -4,11 +4,11 @@
 
 - Final updates have been implemented following player feedback to refine gameplay quality and enhance player satisfaction during recent playtesting sessions. Continuous iterations focus on maintaining this positive trajectory. All player feedback has been incorporated, and adjustments were made to enhance gameplay, resolve identified bugs, and ensure a polished player experience prior to the official launch.
 
-- **October 17, 2023**: Incorporated final player feedback from recent playtests and made necessary adjustments to gameplay mechanics.
+- **October 17, 2023**: Incorporation of final player feedback from recent playtests resulted in necessary adjustments to gameplay mechanics.
 - **October 15, 2023**: Update complete with a detailed timeline for future feature releases and playtesting sessions, incorporating player feedback.
 - **October 16, 2023**: Prepare the next round of updates based on insights gathered and begin planning for future enhancements.
 
-- In response to the player feedback collected from the last event, several key updates have been implemented focusing on continuous improvement:
+- Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement:
 1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
 2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
 3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
