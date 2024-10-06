@@ -1,1 +1,1 @@
-- [x] Develop a promotional campaign to increase engagement with "First Steps" and our future works.
+- [ ] Develop additional engagement strategies for our music and advocacy efforts.
