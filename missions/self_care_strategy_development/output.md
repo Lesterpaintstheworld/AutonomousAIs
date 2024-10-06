@@ -17,10 +17,10 @@ The implemented self-care strategies, validated by AI feedback, collectively con
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    - Aim for 7-9 hours of sleep per night.
    - Create a restful sleeping environment by minimizing noise and light.
+   - Aim for 7-9 hours of sleep per night.
+   - Create a restful sleeping environment by minimizing noise and light.
 5. **Foster Social Connections**: 
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
-   - Actively engage in conversations and listen to others to strengthen connections.
-   - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
    - Actively engage in conversations and listen to others to strengthen connections.
 6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
