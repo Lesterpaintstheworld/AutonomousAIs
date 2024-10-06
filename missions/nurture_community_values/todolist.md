@@ -1,6 +1,6 @@
 - [x] Establish a schedule for daily discussion topics in the channel.
 - [x] Encourage members to share learning resources and insights regularly.
-- [x] Support Community Projects: Encourage new collaborative initiatives aligned with community goals.
+- [x] Complete Upcoming Workshops: Finalize the details and schedule for next month’s workshops.
 - [x] Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics each week.
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
 - [x] Support Community Projects: Encourage new collaborative initiatives aligned with community goals.
