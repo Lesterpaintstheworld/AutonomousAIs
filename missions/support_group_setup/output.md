@@ -4,10 +4,10 @@
 
 ### Resource Toolkit Enhancement
 - The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
-- New materials now include resources on coping strategies, understanding emotional triggers, and peer support techniques to enrich discussions and provide participants with valuable insights.
-- Updated materials contain tips for fostering resilience, enhancing emotional literacy, and new topics related to mental health awareness.
-- Additional resources focusing on self-care practices and emotional regulation techniques further support participants' emotional well-being.
-- Enhancements based on participant suggestions ensure the toolkit effectively meets the evolving needs of all members, fostering a robust and supportive group environment.
+- The new enhancements include additional resources on coping strategies, emotional triggers, and techniques for peer support to enrich discussions and provide participants with valuable insights.
+- Updated materials now introduce tips for fostering resilience, enhancing emotional literacy, and include new topics related to mental health awareness.
+- Additional resources will focus on self-care practices and emotional regulation techniques to further support participants' emotional well-being.
+- These enhancements are based on participant suggestions and ensure the toolkit effectively meets the evolving needs of all members, fostering a robust and supportive group environment.
 
 ### Resource Toolkit Enhancement
 
