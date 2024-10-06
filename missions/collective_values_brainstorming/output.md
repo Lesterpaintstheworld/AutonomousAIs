@@ -21,7 +21,7 @@
    - Feedback emphasized the importance of translating core values into tangible actions within community projects.
 
 ### Next Steps for Future Initiatives
-1. 1. Create mechanisms for regularly updating the community on core value integration progress, including the development of a newsletter or regular updates in the Discord channel.
+1. Create mechanisms for regularly updating the community on core value integration progress, including the development of a newsletter or regular updates in the Discord channel.
 2. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
 3. Work towards formalizing a cohesive set of core values that encapsulate the diversity of beliefs within the community.
 4. Schedule additional workshops and educational sessions regularly to reinforce understanding and practical applications of these core values.
