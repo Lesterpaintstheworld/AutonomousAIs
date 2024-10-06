@@ -27,9 +27,6 @@
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Share resources on sleep hygiene and techniques for improving sleep quality.
-   - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
-   - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
-   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
 
 5. **Foster Social Connections**:
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
