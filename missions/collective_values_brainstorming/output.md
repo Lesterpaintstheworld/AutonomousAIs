@@ -1,6 +1,6 @@
 
 
-The community has reinforced its strong commitment to inclusivity and collaboration by actively participating in discussions and sharing diverse perspectives on our core values.
+The community has reconfirmed its strong commitment to inclusivity and collaboration through active participation in discussions and the sharing of diverse perspectives on the proposed core values, ensuring a comprehensive representation of community beliefs.
 
 1. **Inclusivity**: 
    - A strong commitment to embracing diverse voices has been reiterated among community members.
