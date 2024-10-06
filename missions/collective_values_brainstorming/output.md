@@ -25,10 +25,10 @@
 6. Maintain channels for ongoing dialogue around core values with community members.
 7. Solicit feedback on the effectiveness of the core values in guiding community initiatives.
 8. Implement structured feedback collection periods to actively engage community members on core values.
-9. Monitor the effectiveness of the initiated follow-up actions and adjust as necessary.
+9. Monitor the effectiveness of the follow-up actions and adjust as necessary.
 10. Assign "Value Champions" to advocate for these principles within the community, ensuring visibility and consistent promotion of core values.
 11. Review and assess the effectiveness of the workshops and educational sessions to ensure community understanding of core values and their applications.
-12. Document the outcomes and insights gained from workshops to enhance future core values discussions.
+12. Document the outcomes and insights gained from workshops to enhance future core values discussions, while ensuring adaptability.
 13. **Ensure that all future actions and strategies align with the identified core values, reinforcing the commitment to inclusivity, collaboration, and transparency throughout the mission.**
 
 ### Project Overview
