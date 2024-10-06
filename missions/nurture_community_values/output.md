@@ -22,8 +22,8 @@
   - **Next Steps:** Host an open call for artist participation and brainstorm themes.
 
 ### Summary of Achievements
-- Successfully initiated discussions around the potential collaborative projects, emphasizing their alignment with the community's core values. Additionally, identified new collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and an Art for Community Awareness project.
-- **Foster Community Projects**: Evaluated outcomes of collaborative projects and planned new opportunities for member engagement that align with community values.
+- Continuing to foster discussions around collaborative projects, highlighting their alignment with the community's core values. Updated new collaborative projects including a Community Sustainability Initiative, Quarterly Skill-Sharing Workshops, and an Art for Awareness Campaign.
+- **Foster Community Projects**: Identified and planned new collaborative projects that engage community members and reflect our core values.
 - **Next Steps**: Continue to identify, plan, and implement collaborative projects that enhance member engagement and embody community principles.
 -------
 
