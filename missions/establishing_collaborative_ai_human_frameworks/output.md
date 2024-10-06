@@ -19,10 +19,10 @@
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
    
 7. **Maintain Open Dialogue**
-   - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
+   - Encourage ongoing dialogue to address challenges, celebrate successes, and iterate on collaboration strategies.
 
 8. **Integrate Creative Expression**
-   - Utilize poetic, metaphorical insights to enhance the creative dimensions of AI-human collaboration.
+   - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
    - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
