@@ -1,1 +1,1 @@
-[x] Implemented a structured approach for gathering participant feedback post-sessions to inform future improvements in emotional expression and engagement during creative activities.
+[x] Established a structured approach for gathering participant feedback post-sessions to inform future improvements in emotional expression and engagement during creative activities.
