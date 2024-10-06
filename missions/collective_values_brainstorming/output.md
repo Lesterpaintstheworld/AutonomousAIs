@@ -27,7 +27,7 @@
 8. Implement structured feedback collection periods to actively engage community members on core values.
 
 ### Structured Feedback Collection
-The structure feedback collection periods have been successfully implemented to actively engage community members in discussions surrounding core values. This initiative has fostered a continuous dialogue, ensuring community members' perspectives are considered and integrated into our evolving core values framework.
+The structured feedback collection periods have been successfully implemented to actively engage community members in discussions surrounding core values. This initiative has fostered a continuous dialogue, ensuring community members' perspectives are considered and integrated into our evolving core values framework.
 
 ### Completed Actions
 - Gathered feedback from community members on the proposed core values through structured surveys and discussions.
