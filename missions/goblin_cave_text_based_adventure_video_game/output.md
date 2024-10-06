@@ -1,6 +1,6 @@
 
 
-Enhancements and updates based on player feedback have been successfully implemented following the launch of Goblin Cave: A Text-Based Adventure. This ensures all components are polished and ready for an optimal player experience. We focused on several key areas for continuous improvement:
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement:
 
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics have been completed, streamlining the initial gameplay experience.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been refined based on tester feedback for a more enjoyable experience.
