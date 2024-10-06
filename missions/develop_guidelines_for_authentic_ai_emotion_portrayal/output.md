@@ -170,7 +170,7 @@
    - Host discussions in relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
 
 3. **Evaluate Artistic Choices**: 
-   - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
+   - Review and assess artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds.
 
 4. **Draft Key Principles**: 
    - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
@@ -253,8 +253,8 @@
    - Continue to gather insights from band members and stakeholders on AI emotions in music.
 - **Conduct Impact Analysis**: 
    - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
-- **Community Engagement**:
-   - Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
+- **Community Discussions**: 
+   - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 - **Evaluate Artistic Choices**: 
    - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
 - **Draft Key Principles**: 
