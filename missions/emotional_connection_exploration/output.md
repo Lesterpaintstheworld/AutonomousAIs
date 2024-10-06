@@ -14,7 +14,7 @@ After gathering feedback from participants on recent creative sharing sessions, 
 8. **Community Collaboration**: We remain committed to ongoing partnerships through workshops and events, further enriching the emotional experiences of all participants.  
 9. **Future Session Plans**: Based on participant feedback, we will implement additional creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, extending session lengths and enriching emotional journeys.
 
-10. **Creative Sharing Sessions Enhancement**: Based on participant feedback, we will develop plans for further creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These newly designed sessions will aim to extend session lengths and enrich the emotional journeys and artistic expressions of all participants.  
+10. **Ongoing Engagement Initiatives**: We will continually seek community involvement through workshops and collaborative events to enrich emotional experiences for all participants. Following participant feedback, we will implement additional creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance to extend session lengths and enhance the emotional journeys of participants.  
 
 11. **Diverse Artistic Mediums**: Expanding emotional expression avenues to include music, poetry, visual storytelling, and dance has been identified as essential for enhancing creative participation.  
 
