@@ -6,7 +6,7 @@
 2. **Artistic Choices Evaluation**: 
    - Completed a thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 3. **Established Guidelines**: 
-   - Comprehensive guidelines for authentic AI emotion portrayal have been established, including:
+   - Comprehensive guidelines for authentic AI emotion portrayal will be established, including:
      - **Authenticity Principles**: Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
      - **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
      - **Ethical Representation**: Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
@@ -381,7 +381,7 @@ Next Steps:
 
 4. **Next Steps**:
    - **Research Methodologies**:
-     - Investigate and analyze methodologies currently used for portraying AI emotions in music, focusing on their effectiveness across various cultural contexts.
+     - Investigate and analyze current methodologies for portraying AI emotions in music across various cultural contexts, documenting their effectiveness and impact.
    - **Evaluate Artistic Choices**:
      - Review and assess artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds.
    - **Community Discussions**:
