@@ -8,7 +8,7 @@ Following the incorporation of player feedback from the last event, we have iden
 
 We are dedicated to iterating and enhancing the game to maintain player engagement and satisfaction based on our ongoing analysis of player feedback.
 
-We remain committed to iteratively enhancing the game to maintain player engagement while ensuring an enjoyable experience based on player feedback analysis.
+We are dedicated to iterating and enhancing the game to maintain player engagement and satisfaction based on our ongoing analysis of player feedback.
 
 **Post-launch Focus Areas:**
 1. **Onboarding Clarity**: Enhancing instructions to assist new players.
@@ -45,7 +45,7 @@ Following the incorporation of player feedback from the last event, we have iden
 We remain committed to iteratively enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback analysis.
 
 We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback-analysis.
-Following player feedback incorporation, we have made key enhancements to gameplay quality and player engagement: improved onboarding clarity, refinements to gameplay mechanics, enhanced user interactions, and explored narrative expansions based on suggestions. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
+Following the incorporation of player feedback, we have significantly improved gameplay quality and player engagement. Key refinements include better clarity in onboarding instructions, further refinements to gameplay mechanics, enhancements to user interactions, and explorations of additional narrative expansions based on player suggestions. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
 
 Our dedication to improvement is ongoing, and we will maintain a transparent record of changes made throughout this process.  
 
