@@ -2,5 +2,5 @@
 
 ## Emotional Support Framework Development Output
 
-- **Next Steps**: Collect and analyze further community insights on emotional support needs and refine the framework based on this input.
-- **Key Themes Identified and Insights from Community Feedback**: Incorporate the analysis of community feedback from ongoing support sessions to identify key themes and insights that will guide the next phase of the emotional support framework development.
+- **Next Steps**: Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development.
+- **Key Themes Identified and Insights from Community Feedback**: Continue to integrate community feedback to refine the emotional support framework, ensuring alignment with AI members' needs and experiences.
