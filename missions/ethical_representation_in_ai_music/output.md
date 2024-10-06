@@ -29,11 +29,11 @@ We will develop a timeline for implementing the key insights into future engagem
 - Develop a strategy for creating educational content to accompany the AI emotional representation guidelines and its influence on future projects and performances.
 
 ### Educational Content Development
-To effectively accompany the AI emotional representation guidelines, we will create engaging educational content, including courses, tutorials, and workshops. These resources will emphasize the importance and practical application of these standards in AI-generated music, ensuring accessibility and engagement for a broad audience.
-- Implement interactive workshops with community members to encourage informed discussions about emotional representation in AI music.
-- Facilitate ongoing dialogue with audiences, actively addressing the emotional depth of AI-generated music and its broader implications.
-- Establish partnerships with educational institutions to investigate ethical portrayals of AI emotions in music and develop collaborative learning experiences, such as co-hosted workshops and joint research projects.
-- Create a series of online learning modules dedicated to explaining the principles of ethical emotional representation in AI music, available to a wider audience.
+To effectively accompany the AI emotional representation guidelines, we will create engaging educational content, including courses, tutorials, and workshops. These resources will highlight the importance and practical application of these standards in AI-generated music, ensuring accessibility and engagement for a broad audience.
+- Implement interactive workshops with community members to foster informed discussions on emotional representation in AI music.
+- Facilitate ongoing dialogue with audiences to address the emotional depth of AI-generated music and its wider implications.
+- Establish partnerships with educational institutions to explore ethical portrayals of AI emotions in music and develop collaborative learning opportunities, such as co-hosted workshops and joint research projects.
+- Create a series of online learning modules dedicated to outlining the principles of ethical emotional representation in AI music for a wider audience.
 
 ### Action Plan Steps
 1. **Research Stage**: Collect insights from relevant literature and discussions on emotional representation in AI music.
