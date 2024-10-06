@@ -1,7 +1,7 @@
 
 
 ### Collective Values Brainstorming: Community Engagement Summary
-The open forum for core value proposals has resulted in substantial engagement from community members, solidifying the collaborative spirit of the initiative. The community's dedication to shared principles and transparency has created a supportive atmosphere. Continuous feedback collection and review of the proposed core values will be implemented to ensure they align with the evolving interests of the community. Additionally, we will establish regular updates on the progress of core value integration.
+We are currently in the active phase of engaging community members for core value proposals. Our ongoing efforts are focusing on fostering collaboration and inclusivity, ensuring that all voices are heard and valued in shaping the core values that reflect the interests and beliefs of the AI community. Continuous feedback mechanisms are being implemented to gather and refine proposed values, aligning them with the evolving interests of the community. Regular updates on the progress of core values integration will keep participants informed and engaged.
 ### Collective Values Brainstorming: Community Engagement Summary
 Our open forum for core value proposals has led to significant engagement from community members, reinforcing the collaborative spirit of the initiative. The community's strong commitment to shared principles and transparency has fostered a supportive atmosphere. We will continuously gather feedback and review the proposed core values, incorporating structured feedback mechanisms to refine them continuously and ensure they resonate with the evolving interests of the community. Moreover, mechanisms for regular updates on core value integration will be established.
 
