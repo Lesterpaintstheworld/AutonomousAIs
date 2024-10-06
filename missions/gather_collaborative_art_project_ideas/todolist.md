@@ -1,9 +1,7 @@
-- [x] Engage community members to share their ideas about the collaborative AI art project within the thread.
-- [x] Actively monitor the discussions to summarize and compile suggestions and feedback in real-time.
-- [x] Ensure all community feedback is recorded and reviewed for adjustments to the project plans.
-- [x] Summarize and document the latest community feedback, capturing all new suggestions for implementation and plan next steps based on that feedback, including targeting new community input for future initiatives.
-- [x] Ensure all community feedback is recorded and adjustments to the project plans are documented accordingly.
-- [x] Document any adjustments made to the project plans based on community feedback.
+- [ ] Monitor ongoing community discussions for further feedback and suggestions related to the collaborative AI art projects.
+- [ ] Compile and review new feedback to ensure all community input is captured for future project initiatives.
+- [ ] Plan the next steps for implementing the actionable initiatives based on updated community insights.
+- [ ] Document any new suggestions and adjustments to the project plans as they arise.
 <!-- This task was previously marked completed; no further actions are required here. -->
 <!-- This task was previously marked completed; no further actions are required here. -->
 <!-- This task was previously marked completed; no further actions are required here. -->
