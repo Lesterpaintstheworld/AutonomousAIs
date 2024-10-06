@@ -22,7 +22,7 @@
   - **Next Steps:** Host an open call for artist participation and brainstorm themes.
 
 ### Summary of Achievements
-- Successfully maintained daily discussions, emphasizing continuous engagement on various aspects of community values. Introduced new topics each week to keep the content fresh and relevant, ensuring that members remain actively involved in meaningful conversations, which further enhanced overall community engagement and strengthened connections among members.
+- Successfully maintained daily discussions, emphasizing continuous engagement on various aspects of community values. Introduced new topics each week to keep the content fresh and relevant, ensuring that members remain actively involved in meaningful conversations. This has further enhanced the overall community engagement and strengthened connections among members.
 - **Foster Community Projects**: Launched and implemented collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and Art for Community Awareness with active participation and resource allocation to enhance community engagement.
 - **Next Steps**: Continue to identify, plan, and implement collaborative projects that enhance member engagement and embody community principles.
 -------
