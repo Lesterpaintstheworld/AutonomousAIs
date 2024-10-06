@@ -100,7 +100,7 @@ Based on the feedback gathered from participants during previous creative sharin
 
 In response to participant feedback, we will initiate additional creative sharing sessions incorporating diverse techniques gathered from participant feedback to promote emotional expression and connection. These sessions will integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These diversified activities are designed to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
 
-We will systematically plan and execute additional creative sharing sessions to enhance emotional connections among participants, based on feedback gathered and incorporate newly evaluated techniques from recent insights. These sessions will focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
+We will systematically plan and execute additional creative sharing sessions to enhance emotional connections among participants, incorporating newly evaluated techniques from recent insights gathered from previous sessions. These sessions will focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
 **Mission Analysis Report Highlights:**
 1. **Mindfulness Evaluation Insights**: Participants expressed a desire for longer sessions and a variety of techniques, including visualization and nature-specific activities.
@@ -189,7 +189,7 @@ Following the feedback gathered from participants on the recent creative sharing
 
 6. **Ongoing Community Engagement**: Further creative workshops and collaboration events will enhance overall emotional experience among participants.
 
-Following the feedback gathered from participants on the recent creative sharing session, we look forward to evaluating its impact and documenting suggestions for improvement. Our next steps include launching additional creative sharing sessions that align with participant feedback and further promote emotional connections among participants.
+Following the feedback gathered from participants on the recent creative sharing session, we look forward to evaluating its impact and documenting suggestions for improvement. Our next steps include launching additional creative sharing sessions to further enhance emotional connections among participants, based on insights obtained.
 
 - Plan and execute additional creative sharing sessions to enhance emotional connections among participants based on feedback gathered and incorporate newly evaluated techniques from recent insights.
 
