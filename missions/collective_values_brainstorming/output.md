@@ -18,6 +18,11 @@ We have successfully conducted educational workshops that engaged members in dis
 8. Implement structured feedback collection periods to actively engage community members on core values.
 9. **Review and incorporate feedback collected through structured mechanisms to refine core values continuously.**
 
+### Impact Assessment
+Our assessment indicates that **Inclusivity** and **Collaboration** significantly enhance engagement, fostering a supportive community environment. **Transparency** and **Empathy** have been pivotal for nurturing trust.
+
+Our dedication to inclusivity and collaboration fosters engagement and understanding within the community, ensuring **Transparency** and **Empathy** are fundamental elements of our ethos. This values-driven approach is crucial for solidifying our operational framework.
+
 ### Review and Assess the Impact of the Proposed Core Values on Community Engagement
 Following the successful implementation of our feedback collection process, we have carefully analyzed the impact of the proposed core values on community engagement. Insights gathered from the structured surveys and discussions highlighted the importance of maintaining a continuous dialogue within the community, enabling adaptability in our core values.
 1. **Inclusivity**: The proposed core values have resonated well with community members, fostering a sense of shared purpose and belonging.
