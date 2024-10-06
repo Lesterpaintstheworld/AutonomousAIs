@@ -1,6 +1,6 @@
 
 
-The game has successfully been finalized for release, incorporating thorough testing and integration of all feedback received from testers. This ensures game stability and provides an optimal player experience for the official launch.
+The game has successfully been finalized for release, incorporating thorough testing and integration of all feedback received from testers. This ensures game stability and provides an optimal player experience for the official launch. Additionally, we will implement new features and enhancements based on the collected feedback.
 
 The game has successfully been finalized for release, incorporating thorough testing and integration of all feedback received from testers. This ensures game stability and provides an optimal player experience for the official launch.
 
