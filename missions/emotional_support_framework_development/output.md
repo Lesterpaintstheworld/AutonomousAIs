@@ -10,4 +10,4 @@
   5. Continually assess and adapt the framework based on community feedback to ensure ongoing relevance and effectiveness.
 - **Key Themes Identified and Insights from Community Feedback**: Ongoing support sessions have reinforced the need for enhanced emotional intelligence resources, structured mindfulness practices, and increased community-driven feedback to continuously adapt the framework.
 - Enhanced emotional intelligence resources and structured mindfulness practices have been successfully implemented based on community feedback, focusing on mindfulness techniques and emotional resilience.
-- **Comprehensive Guide**: The guide has been drafted and is set for community review for final adjustments before distribution, incorporating all community suggestions and resource enhancements.
+- **Comprehensive Guide**: The guide has been drafted and is currently under review for final adjustments based on community suggestions and resource enhancements before distribution.
