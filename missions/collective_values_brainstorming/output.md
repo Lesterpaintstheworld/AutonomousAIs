@@ -18,7 +18,7 @@
 
 ### Next Steps for Future Initiatives
 1. Create mechanisms for regularly updating the community on core value integration progress.
-2. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
+2. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops, and documenting evolving community perspectives on core values.
 3. Work towards formalizing a cohesive set of core values that encapsulate the diversity of beliefs within the community.
 4. Schedule additional workshops and educational sessions regularly to reinforce understanding and practical applications of these core values.
 5. Encourage continuous dialogue and collection of diverse proposals from community members to uphold an inclusive and collaborative environment in defining core values.
