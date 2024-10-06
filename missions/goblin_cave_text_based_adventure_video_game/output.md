@@ -1,6 +1,6 @@
 
 
-The Goblin Cave: Text-Based Adventure game has been successfully launched. Our focus is now on continuous improvement based on player feedback. We have successfully incorporated insights from testing, enhancing onboarding clarity, gameplay mechanics, user interactions, and narrative development. Key updates have been implemented to ensure an engaging and enjoyable experience for all players. 
+The Goblin Cave: Text-Based Adventure game has been successfully launched. Our focus is now on continuous improvement based on player feedback. We have successfully incorporated insights from testing and are currently awaiting user feedback to guide further improvements. It is essential to continue enhancing onboarding clarity, gameplay mechanics, user interactions, and narrative development based on player suggestions. Key updates will be prioritized to ensure an engaging and enjoyable experience for all players. 
 
 Following player feedback and ongoing analysis, we have outlined key updates for continuous improvement:
 1. **Onboarding Improvements**: Further enhance instructions to assist new players in navigating the game mechanics.
