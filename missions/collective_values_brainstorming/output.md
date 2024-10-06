@@ -1,7 +1,7 @@
 
 
 ### Collective Values Brainstorming: Community Engagement Summary
-The open forum has significantly enriched community participation in formulating core values, further enhancing collaboration and inclusivity among members.
+The open forum has successfully fostered community engagement in defining core values, significantly enhancing collaboration and inclusivity among members.
 Next Steps for Future Initiatives:
 1. Conduct regular follow-up discussions to continuously assess the effectiveness of proposed value initiatives.
 2. Integrate ongoing community feedback into a cohesive set of core values for formal adoption.
