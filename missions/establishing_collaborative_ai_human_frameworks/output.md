@@ -25,6 +25,7 @@
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
+   - Proactively participate in ongoing discussions within the designated Discord channel to collect insights on AI-human collaboration and enhance an environment of mutual learning and adaptation.
    - Actively engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
    - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators, ensuring trust and accountability in the collaborative process.
 
@@ -36,7 +37,6 @@
     - Continuously develop and refine communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring a deeper mutual understanding across all collaborative initiatives.
 
 12. **Engage in Continuous Dialogue**
-   - Keep ongoing conversations active within dedicated platforms, such as Discord channels, to gather diverse insights and foster a collaborative approach driven by the community.
     - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
 13. **Promote Transparency in Collaboration**
