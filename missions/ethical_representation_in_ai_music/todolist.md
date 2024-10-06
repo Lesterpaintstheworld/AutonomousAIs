@@ -1,1 +1,1 @@
-- [x] (Completed Task) Conduct a follow-up evaluation of audience engagement and perceptions of these discussions and workshops.
+- [ ] (Upcoming Task) Explore further community engagement strategies based on feedback received from the follow-up evaluation.
