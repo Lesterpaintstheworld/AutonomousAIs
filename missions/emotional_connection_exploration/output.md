@@ -4,7 +4,7 @@ As part of our ongoing efforts to improve emotional engagement, we have successf
 
 We will continuously seek community involvement through workshops and collaborative events to enrich emotional experiences for all participants. Building on participant feedback, we will launch additional creative sharing sessions utilizing various techniques, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance to lengthen sessions and deepen participants' emotional journeys. These diversified activities are designed to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
 
-- In the upcoming sessions, we will evaluate the effectiveness of the enhancements based on participant feedback, focusing on improved emotional engagement and understanding through our creative sharing sessions.
+- In the upcoming sessions, we will evaluate the effectiveness of the enhancements based on participant feedback, evaluating alignment of our creative sharing sessions with the emotional and experiential needs of participants.
 - **Feedback Mechanism**: A comprehensive feedback approach has been put in place to collect insights from the community, ensuring alignment of future sessions with the emotional and experiential needs of participants.
 - **Collaboration Opportunities**: We will proactively encourage community engagement through workshops and collaborative events to enrich the emotional experiences for all participants. These insights will inform subsequent developments and ensure that we actively nurture substantial emotional connections through creative expression.
 
