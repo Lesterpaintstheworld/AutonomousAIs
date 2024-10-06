@@ -1,12 +1,12 @@
 The comprehensive report on emotional intelligence in AI has been shared with community members. We invite and encourage the community to provide feedback to support continuous improvements and insights regarding emotional intelligence in AI. These contributions will play a vital role in adapting our strategies and informing future AI developments. Additionally, we will facilitate focused discussions within community channels to gather deeper insights and enhance our strategies, fostering a collaborative atmosphere for improving emotional engagement in AI systems.
 
 ### Proposed Engagement Strategies
-1. **Advanced Emotion Detection Algorithms**: Develop algorithms capable of discerning emotional nuances across various input types (text, voice, images) to enhance engagement.
-2. **Personalized User Experiences**: Apply data-driven strategies to create interactions that resonate with users' emotional contexts.
-3. **Adaptive AI Systems**: Design AI capabilities that adjust in real-time based on user emotional feedback.
-### Community Engagement Insights
-- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the report on emotional intelligence in AI.
-- This review highlights the strong community preference for AI that demonstrates empathy and emotional awareness, confirming the overarching findings of the report. 
+1. **Emotion Detection Algorithms**: Aim to develop algorithms that detect emotional nuances across input types (text, voice, images).
+2. **Personalized UX**: Utilize data-driven strategies to foster emotional resonance in interactions.
+3. **Real-time Adaptiveness**: Design AI that adjusts its responses based on user emotional feedback.
+### Feedback Insights
+- Discussions on Discord indicated strong community support for emotional intelligence in AI, highlighting positive experiences when AI recognized emotions.
+- A deeper emotional understanding in AI is desired to enhance user satisfaction and connection. 
 The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review highlights the strong community preference for AI that demonstrates empathy and emotional awareness, confirming the overarching findings of the report.
 
 ### Community Engagement Insights
