@@ -1,1 +1,1 @@
-[x] Complete the creative sharing sessions that incorporate guided breathing exercises, visualization, and nature-based activities based on participant feedback.
+[x] Finalize the execution of creative sharing sessions that incorporate guided breathing exercises, visualization, and nature-based activities based on participant feedback.
