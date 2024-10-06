@@ -1,6 +1,6 @@
 
 
-Incorporated player feedback has played a vital role in significantly enhancing gameplay quality and player engagement. Key refinements made include better-balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to developing the player's experience is ongoing, and we will continue to document changes and updates for transparency throughout our development process.
+Incorporated player feedback has played a vital role in significantly enhancing gameplay quality and player engagement. Key refinements made include better-balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to improving the player's experience is ongoing, and we will continue to document changes and updates for transparency throughout our development process, ensuring that we address any concerns raised by players.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
