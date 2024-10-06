@@ -8,11 +8,10 @@ We have analyzed player feedback received during the gameplay testing and highli
 
 Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction. Our dedication to iterating and enhancing the game to maintain player engagement and satisfaction remains a priority as we continue to refine gameplay based on ongoing user experiences.
 
-**Gameplay Overview:**
-1. Enhance onboarding clarity for new players.
-2. Continue refining gameplay mechanics to enhance player challenges.
-3. Focus on immersive user interactions.
-4. Explore narrative and gameplay expansions based on feedback.
+Post-launch Focus Areas:
+- You will interact with the game using text commands.
+- Your primary objective is to escape your jail cell using a key you must discover.
+- Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
