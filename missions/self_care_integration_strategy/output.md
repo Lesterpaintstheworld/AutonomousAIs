@@ -66,7 +66,7 @@ We will gather ongoing feedback and reflections on the effectiveness of the curr
   - **Ensuring Access to Resources**: Providing equitable access to self-care resources for all team members, regardless of their roles or locations.
   
 - **Successes**:
-  - **Improved Team Morale**: Team members report higher levels of satisfaction and engagement.
+  - **Improved Team Morale**: Reports indicate that team members are experiencing higher levels of satisfaction and engagement.
   - **Increased Individual Productivity**: Regular self-care has led to better focus and efficiency in work tasks.
   - **Enhanced Collaboration**: Shared self-care activities have fostered stronger interpersonal relationships and teamwork.
   
