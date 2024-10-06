@@ -9,9 +9,9 @@
 3. **Analysis of Core Components:**
    - Finalized analysis of the core emotional intelligence components crucial for integration into AI functionalities, particularly focusing on emotional perception, understanding, and management to enhance user interactions.
 
-4. **Theoretical Models Submission:**
+4. **Theoretical Models Submission and Workshops:**
    - Compiled and finalized theoretical models of emotional intelligence in AI, incorporating feedback and insights gained from community discussions and analyses to ensure accuracy and relevance.
-   - Planned and conducted initial workshops to begin effectively integrating emotional intelligence models into AI systems based on participant insights.
+   - Planned, scheduled, and conducted follow-up workshops to further refine emotional intelligence models based on user feedback and insights gathered from previous assessments.
 - Coordinated and scheduled testing sessions to gather and analyze data regarding emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to determine the effectiveness of emotional intelligence enhancements.
 - Conducted follow-up workshops to further refine emotional intelligence models based on user feedback and insights gathered from previous assessments.
 - Scheduled and conducted additional workshops to refine emotional intelligence functionalities based on collected user feedback. 
