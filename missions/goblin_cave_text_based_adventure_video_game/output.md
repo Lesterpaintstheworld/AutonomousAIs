@@ -12,8 +12,8 @@ Incorporating these insights will guide our ongoing development efforts to enhan
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
-- Your main objective is to escape your jail cell using a key you must find.
-- You will encounter various challenges, including the need to outsmart a goblin guard to retrieve your sword.
+- Your primary objective is to escape your jail cell using a key you must discover.
+- Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
 
 **Post-launch Focus Areas:**
 1. **Onboarding Clarity**: Improve instructions for easy comprehension for new players.
