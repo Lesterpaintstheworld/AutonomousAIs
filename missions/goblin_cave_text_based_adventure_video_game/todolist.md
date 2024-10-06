@@ -1,2 +1,2 @@
-[X] Prepare a report summarizing the updates made based on player feedback.
-[X] Define the next steps for the upcoming playtests and incorporate lessons learned.
+[X] Compile a summary of the player feedback gathered during the recent playtesting sessions.
+[X] Plan the next features to implement based on player feedback and document the strategy for the upcoming milestones.
