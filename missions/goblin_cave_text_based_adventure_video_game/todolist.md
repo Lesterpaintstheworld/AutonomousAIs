@@ -1,2 +1,2 @@
-[X] Finalize documentation of player feedback and the resulting updates made to the game.
-[X] Establish a precise timeline for the release of new features and the scheduling of playtesting events.
+[X] Document the key changes implemented as a result of player feedback.
+[X] Prepare a detailed schedule for the upcoming feature launches and playtesting sessions.
