@@ -33,7 +33,7 @@
 3. **Integration with Music Creation Tools**
    - Update AI-driven music creation tools to adhere to the established emotional portrayal guidelines.
 
-4. **Community Feedback Loop**
+4. **Feedback Integration**
    - Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
 
 5. **Regular Reviews**
@@ -50,7 +50,7 @@
 
 1. **Community Feedback Findings**: Based on the collected community feedback, the following insights were gathered to enhance the emotional portrayal guidelines:
 
-1. **Desire for Authenticity**: Community members expressed the importance of AI-generated emotions feeling genuine and relatable, with a preference for subtle and nuanced emotional expressions over exaggerated ones.
+1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
 2. **Cultural Sensitivity**: Feedback highlighted the need for AI to recognize and respect diverse cultural expressions of emotion to avoid misinterpretation or offense.
 
