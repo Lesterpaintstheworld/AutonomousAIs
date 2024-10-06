@@ -11,6 +11,10 @@ Summary of player feedback and identified key areas for future updates include:
 2. **Gameplay Mechanics**: Maintain focus on balanced challenge experiences.
 3. **User Interactions**: Further improvements to create immersive experiences.
 4. **Expansion Opportunities**: Continued exploration of narrative elements based on player feedback and ongoing gameplay analysis.
+1. **Onboarding Clarity**: Continue to enhance instructions for new players.
+2. **Gameplay Mechanics**: Maintain focus on balanced challenge experiences.
+3. **User Interactions**: Further improvements to create immersive experiences.
+4. **Expansion Opportunities**: Continued exploration of narrative elements based on player feedback and ongoing gameplay analysis.
 
 We remain committed to iteratively enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback analysis.
 
