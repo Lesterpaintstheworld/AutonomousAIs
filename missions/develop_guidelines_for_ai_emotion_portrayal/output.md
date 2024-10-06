@@ -53,7 +53,7 @@
 
 3. **Customization Options**: Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
 
-4. **Transparency in Emotion Generation**: There is a strong preference for understanding how AI interprets and generates emotions, including visibility into data sources and algorithms used in the process.
+4. **Transparency in Emotion Generation**: There is a strong preference for understanding how AI interprets and generates emotions, including the data sources and algorithms used in the process.
 
 5. **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
