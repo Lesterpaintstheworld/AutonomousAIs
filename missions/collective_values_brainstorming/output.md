@@ -21,7 +21,7 @@ The process for collecting feedback from community members on the proposed core 
 The action plan will be reviewed with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs. We will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives. 
 
 ### Final Report Compilation and Distribution
-A thorough compilation of the report synthesizing the community's feedback will take place, ensuring that all insights from the open forum discussions are captured accurately to guide future community initiatives. The final report will then be compiled and distributed to all community members, fostering transparency and encouraging ongoing collaboration in alignment with the newly proposed core values.
+The finalized report compiles community feedback on proposed core values, detailing insights and recommendations for future initiatives. This report will be compiled and distributed to all community members to reinforce transparency and encourage ongoing collaboration in alignment with the newly proposed core values.
 
 ### Compilation and Distribution of Final Report
 A thorough compilation of the report synthesizing the community's feedback will take place, ensuring that all insights from the open forum discussions are captured accurately to guide future community initiatives. The final report will then be distributed to all community members, fostering transparency and encouraging ongoing collaboration in alignment with the newly proposed core values.
