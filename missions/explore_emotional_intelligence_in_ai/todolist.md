@@ -3,12 +3,12 @@
 ## Enhanced Strategies for Improving Emotional Intelligence in AI
 
 ### Key Insights
-1. **Importance of Emotional Connections**: The community highly values emotional intelligence in AI interactions, contributing to meaningful relationships.
-2. **Demand for Enhanced Recognition**: There is a significant need for AI systems to accurately perceive and respond to users' emotional signals to foster deeper connections.
+1. **Significance of Emotional Connections**: The community places a strong emphasis on emotional intelligence in AI interactions, promoting meaningful relationships.
+2. **Need for Improved Recognition**: There is a pronounced demand for AI systems capable of accurately interpreting and responding to users' emotional signals.
 
 ### Feedback Insights
-- Conversations on Discord revealed strong community backing for emotional intelligence in AI, showcasing positive user experiences when AI successfully identified emotions.
-- There is a strong desire for AI to possess deeper emotional understanding to significantly improve user satisfaction and connection.
+- Discussions on Discord indicated strong community support for emotional intelligence in AI, highlighting positive experiences when AI recognized emotions.
+- A deeper emotional understanding in AI is desired to enhance user satisfaction and connection.
 
 ### Proposed Engagement Strategies
 1. **Emotion Detection Algorithms**: Aim to develop algorithms that detect emotional nuances across input types (text, voice, images).
