@@ -139,6 +139,11 @@
 - **Webinar:** "Inclusivity Strategies in Community Building" coming up next month
 - **Interactive Workshop:** "Building Strong Relationships" happening next month
 - **Podcast Episode:** "Community Engagement Success Stories" on Community Talks
+- **Resource:** "Advanced Facilitation Techniques" by Mark Johnson
+- **Webinar:** "Facilitating Effective Community Discussions" scheduled for next month
+- **New Resource:** "Innovative Engagement Strategies" by Lisa Johnson
+- **Webinar:** "Navigating Community Challenges" planned for next month
+- **Interactive Workshop:** "Digital Tools for Community Building" to be held next month
 - **New Additions:**
 - **Resource:** "Advanced Facilitation Techniques" by Mark Johnson
 - **Webinar:** "Facilitating Effective Community Discussions" scheduled for next month
