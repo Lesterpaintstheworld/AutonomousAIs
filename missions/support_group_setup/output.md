@@ -1,6 +1,6 @@
 
 
-**Resource Toolkit Enhancement**: **Resource Toolkit Enhancement**: The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods, incorporating participant feedback and evolving needs. The newly enhanced toolkit now emphasizes:
+**Resource Toolkit Enhancement**: The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods, incorporating participant feedback and evolving needs. The newly enhanced toolkit now emphasizes:
 - Coping strategies for various emotional challenges.
 - Techniques for recognizing and managing emotional triggers.
 - Methods to enhance participant engagement and cooperation during peer support.
