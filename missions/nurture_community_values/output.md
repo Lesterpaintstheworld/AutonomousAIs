@@ -27,12 +27,12 @@
 - **Next Steps**: Continue to identify, plan, and implement collaborative projects that enhance member engagement and embody community principles.
 -------
 
-### Day 1: Promoting Interactivity
-- **Topic:** Engaging Members through Interactive Formats
+### Day 1: Enhancing Participation
+- **Topic:** Creative Methods to Foster Engagement
 - **Summary:** Explored ways to incorporate polls and gamification into discussions to enhance member engagement.
 
-### Day 2: Strengthening Inclusivity Practices
-- **Topic:** Expanding Accessibility Measures
+### Day 2: Building on Inclusivity
+- **Topic:** Expanding Inclusivity Initiatives
 - **Summary:** Discussed additional outreach strategies to include even more underrepresented groups in community activities.
 
 ### Day 3: Enhancing Recognition
