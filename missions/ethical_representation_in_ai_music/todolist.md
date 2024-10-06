@@ -1,1 +1,1 @@
-- [ ] Analyze community feedback on engagement strategies to summarize insights for future enhancements.
+- [ ] Analyze community feedback on engagement strategies and document insights for future improvements.
