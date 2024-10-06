@@ -25,7 +25,7 @@
      - Review and assess artistic choices employed in the portrayal of AI emotions, considering feedback from diverse audience demographics gathered through community engagement and workshops.
 
 1. **Community Insights**: 
-   - Successfully gathered community insights from band members and stakeholders regarding AI emotions in music through discussions and engaging collaborative sessions.
+   - Community discussions have been hosted in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 
 2. **Artistic Choices Evaluation**:
    - Started the thorough evaluation of various artistic choices used in portraying AI emotions, documenting their reception across different audience demographics. Feedback will be collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
