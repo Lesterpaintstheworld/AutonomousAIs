@@ -11,7 +11,7 @@ In alignment with our dedication to continuous improvement, we will consistently
 3. **Artistic Expression Impact**: Evaluations demonstrate that artistic contributions have significantly fostered emotional clarity and connection among participants.
 4. **Ongoing Support Initiatives**: Continuous engagement strategies have been established, including follow-up sessions and workshops, to support participants in their emotional journeys.
 5. **Diverse Artistic Mediums**: We expanded emotional expression avenues to integrate music, poetry, visual storytelling, and dance, providing various paths for participants to engage with their emotions.
-6. **Reflection and Sharing Opportunities**: Formalized times for sharing emotional journeys have been established, promoting deeper connections through dialogue.
+6. **Reflection and Sharing Opportunities**: We have reinforced scheduled times for participants to share their emotional journeys post-creative activities, enhancing dialogue and connection.
 7. **Feedback Collection**: A robust feedback mechanism has been implemented to gather insights from the community, ensuring alignment of future sessions with participants' needs and emotional experiences.
 8. **Community Collaboration**: We remain committed to ongoing partnerships through workshops and events to further enrich the emotional experiences of all participants.
 9. **Future Session Plans**: Based on participant feedback, we will implement additional creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance to extend session lengths and enrich emotional journeys.
