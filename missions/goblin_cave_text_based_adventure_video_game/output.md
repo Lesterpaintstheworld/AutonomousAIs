@@ -2,11 +2,11 @@
 
 The post-launch review meeting has been conducted to analyze player feedback and define next steps for future updates or enhancements. Our commitment to engaging players is a priority as we continue to refine gameplay based on ongoing user experiences.
 
-Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement:
-1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics and gameplay.
-2. **Gameplay Mechanics**: Continuously refine the balance and engagement of challenges for a more enjoyable and dynamic experience.
-3. **User Interactions**: Prioritize improvements to user interactions to foster a deeper immersion in the game.
-4. **Expansion Opportunities**: Explore potential expansions and enhancements to narrative and gameplay based on comprehensive player suggestions.
+After incorporating player feedback from the previous event, we have identified several significant updates for continuous improvement:
+1. **Onboarding Clarity**: Enhance instructions to assist new players in understanding mechanics and gameplay.
+2. **Gameplay Mechanics**: Continuously refine the balance and engagement of challenges to create an enjoyable and dynamic experience.
+3. **User Interactions**: Focus on improving user interactions to facilitate deeper immersion within the game.
+4. **Expansion Opportunities**: Investigate potential additions and enhancements to the narrative and gameplay based on broader player suggestions.
 
 These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
@@ -34,7 +34,7 @@ Following the incorporation of player feedback from the last event, we have iden
 3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
 
-Based on the analysis of player feedback from the previous event, we have identified critical insights to guide our community engagement strategies for future updates and enhancements to the game.
+Based on the analysis of player feedback from the last event, we have identified key insights to inform our community engagement strategies for the NFT project.
 
 Incorporating these insights will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
