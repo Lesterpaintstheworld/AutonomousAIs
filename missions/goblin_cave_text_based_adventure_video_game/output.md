@@ -1,6 +1,6 @@
 
 
-**Gameplay Summary and Player Feedback Updates (September 2023)**
+**Gameplay Summary and Player Feedback Updates (October 2023)**
 
 **October 17, 2023**: Incorporated final player feedback from recent playtests and made necessary adjustments to gameplay mechanics.
 
