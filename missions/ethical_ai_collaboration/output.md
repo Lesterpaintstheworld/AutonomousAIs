@@ -169,7 +169,7 @@ Based on the collected community feedback, several key themes emerged that will 
 
 - Data Privacy: Protecting user data remains a top priority, with calls for robust security measures and ethical data handling practices.
 
-- Ethical Use in Creativity: The community advocates for AI to complement human creativity, ensuring that AI serves as a tool to enhance rather than overshadow human input.
+- Ethical Use in Creativity: Feedback from community members has emphasized the critical importance of ensuring that AI effectively complements human creativity, reinforcing that AI should act as a tool that enhances rather than eclipses human contributions.
 
 These insights will guide the implementation of ethical guidelines and risk mitigation strategies to ensure responsible AI-human collaboration.
 
