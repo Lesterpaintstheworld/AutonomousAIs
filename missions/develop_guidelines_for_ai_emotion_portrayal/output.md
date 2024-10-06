@@ -21,7 +21,7 @@
 
 5. **Feedback Integration**
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
-   - Adapt guidelines based on evolving understandings of AI and emotional expression.
+   - Adapt guidelines based on evolving understandings of AI and emotional expression, including insights on customization and transparency.
 
 ## Actionable Steps
 
@@ -289,7 +289,6 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 ## Actionable Steps
 1. **Publish Guidelines**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
-   - Conduct a review and implementation follow-up to evaluate the effectiveness of the guidelines based on community feedback.
 
 2. **Training Sessions**
    - Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the guidelines.
