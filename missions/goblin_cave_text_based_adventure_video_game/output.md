@@ -6,7 +6,7 @@ Following the post-launch analysis, we have identified several key updates for c
 3. **User Interactions**: Focusing on improving overall user interactions to create a more immersive experience.
 4. **Expansion Opportunities**: Exploring additional narrative elements and gameplay expansions based on user suggestions and feedback.
 
-We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on user feedback analysis. Following the incorporation of player feedback from the last event, we have identified key areas for future updates and improvements, focusing on onboarding clarity, gameplay mechanics, user interactions, and expansion opportunities.
+We remain dedicated to improving player engagement and satisfaction through continuous updates, focusing on onboarding clarity, gameplay mechanics, user interactions, and expansion opportunities. Following the incorporation of player feedback from the last event, we have identified key areas for future updates and improvements, focusing on onboarding clarity, gameplay mechanics, user interactions, and expansion opportunities.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
