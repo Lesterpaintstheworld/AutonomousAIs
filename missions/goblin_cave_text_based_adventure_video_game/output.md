@@ -45,7 +45,7 @@ Following the incorporation of player feedback from the last event, we have iden
 We remain committed to iteratively enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback analysis.
 
 We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback-analysis.
-Following the incorporation of player feedback, we have significantly improved gameplay quality and player engagement. Key refinements include better clarity in onboarding instructions, further refinements to gameplay mechanics, enhancements to user interactions, and explorations of additional narrative expansions based on player suggestions. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
+Following player feedback incorporation, we have made key enhancements to gameplay quality and player engagement: improved onboarding clarity, refinements to gameplay mechanics, enhanced user interactions, and explored narrative expansions based on suggestions. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
 
 Our dedication to improvement is ongoing, and we will maintain a transparent record of changes made throughout this process.  
 
@@ -74,7 +74,7 @@ These improvements will guide our ongoing development efforts to maintain player
 
 Following the incorporation of player feedback, we have significantly improved gameplay quality and player engagement. Key refinements include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our dedication to enhancing player experience continues, and we will document further changes and updates for transparency in our ongoing development process.
 
-We are committed to ongoing iteration and enhancement of the game, ensuring an enjoyable experience for all players, guided by feedback analysis.
+Our commitment to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
 
 Following post-launch analysis, we have identified several key updates for continuous improvement:
 1. **Clarity in Onboarding**: Enhancing instructions to assist new players.
