@@ -1,7 +1,7 @@
 
 
-- Developed a communication plan to engage with the community for ongoing feedback and discussions related to the emotional representation of AI, including organizing a series of public discussions and workshops.
-- Included a clear timeline for regular reviews of these guidelines to ensure they remain effective and reflective of ongoing discussions in the field.
+- Compiled feedback received from the public discussions and workshops to revise the guidelines for AI emotional representation.
+- Established a systematic approach for integrating community feedback into the ongoing revision of the emotional representation guidelines to enhance engagement and uphold ethical standards.
 
 1. **Authenticity in Emotional Expression**: 
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritize diversity in emotional expression.
