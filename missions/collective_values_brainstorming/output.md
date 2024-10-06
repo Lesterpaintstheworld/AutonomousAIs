@@ -78,7 +78,7 @@ Our commitment to evolving core values focuses on:
 7. Solicit feedback on the effectiveness of the core values in guiding community initiatives.
 8. Implement structured feedback collection periods to actively engage community members on core values.
 9. Monitor the effectiveness of the initiated follow-up actions and adjust as necessary.
-10. **New Action**: Assign "Value Champions" to advocate for these principles within the community, ensuring visibility and consistent promotion of core values.
+10. **Action**: Assign "Value Champions" to advocate for these principles within the community, ensuring visibility and consistent promotion of core values.
 
 ### Additional Actions
 This summary will serve as a basis for ongoing assessment and refinement of the core values proposed by the community, ensuring adaptability and relevance in future initiatives.
