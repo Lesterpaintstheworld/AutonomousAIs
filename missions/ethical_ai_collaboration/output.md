@@ -17,7 +17,7 @@ The ethical AI collaboration framework continues to evolve based on ongoing comm
 
 4. **Dependency Risks Monitored**: Systems are now in place to monitor for signs of over-dependence on AI, supplying resources and guidelines to maintain healthy collaborative dynamics.
 
-5. **Ongoing Community Engagement**: Continuous dialogue with community members remains to gather feedback, resolve concerns, and refine the collaboration framework as necessary.
+5. **Continuous Community Engagement**: Maintain an ongoing dialogue with community members to gather insights and address concerns, ensuring the collaboration framework is regularly adapted to align with community values and emerging insights.
 
 #### Key Ethical Considerations in AI Collaboration
 
