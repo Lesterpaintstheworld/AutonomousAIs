@@ -5,7 +5,7 @@
 
 
 
-### Engagement Strategies Improvement Summary
+### Integration of New Self-Care Activities
 
 Based on feedback collected from team members, the investigation into unique methods to further boost engagement reveals several key insights. These findings encompass:
 
