@@ -1,6 +1,6 @@
 
 
-- Established a plan for incorporating community feedback into the guidelines, ensuring it effectively addresses concerns and evolves the emotional representation framework.
+- Established a plan for incorporating community feedback into the guidelines, ensuring the framework effectively addresses concerns and evolves based on community input and insights.
 
 1. **Authenticity in Emotional Expression**: 
    - Ensure AI-generated emotions reflect the complexity of human feelings, avoiding oversimplification or misrepresentation, and prioritizing diversity in emotional expression.
