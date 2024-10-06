@@ -107,7 +107,7 @@
      - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
    - **Draft Key Principles**: 
      - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness, highlighting authenticity and cultural sensitivity.
-- Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
+- Investigate current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness.
 - Investigate and provide insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations to enhance emotional depth.
 - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal within various cultural contexts.
 - Create a final set of guidelines for authentic AI emotion portrayal based on comprehensive community insights, artistic evaluations, and cultural considerations.
