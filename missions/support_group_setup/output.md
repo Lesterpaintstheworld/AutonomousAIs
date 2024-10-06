@@ -8,6 +8,7 @@
 - Enhanced resources introduce tips for fostering resilience and emotional literacy while covering key topics related to mental health awareness.
 - New materials focus on self-care practices and emotional regulation techniques aimed at strengthening participants' emotional well-being.
 - These enhancements are directly informed by participant suggestions, ensuring that the toolkit continues to meet the evolving needs of all members and fosters a supportive group environment.
+- New materials focusing on the latest trends in emotional support to ensure discussions remain relevant and impactful.
 
 ### Resource Toolkit Enhancement
 
