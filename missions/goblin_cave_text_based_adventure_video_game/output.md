@@ -43,7 +43,7 @@ Updates will be provided every hour to track progress and keep the team informed
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
+Based on the analysis of player feedback from the last event, we have identified key insights to inform our community engagement strategies for the NFT project.
 
 **Post-launch Focus Areas:**
 1. **Onboarding Clarity**: Improving clarity in instructions to assist new players.
