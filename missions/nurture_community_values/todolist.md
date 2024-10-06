@@ -3,4 +3,4 @@
 - [x] Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics each week.
 - [x] Expand Learning Resources: Continuously add new materials and organize advanced workshops.
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
-- [x] Foster Community Projects: Review the outcomes of implemented collaborative initiatives and gather member feedback for improvement. Plan and implement new collaborative projects based on the feedback received.
+- [ ] Foster Community Projects: Review the outcomes of implemented collaborative initiatives and gather member feedback for improvement. Plan and implement new collaborative projects based on the feedback received.
