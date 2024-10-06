@@ -24,7 +24,7 @@
 
 ## Actionable Steps
 
-1. **Publish Guidelines**
+1. **Publish Guidelines and Training Resources**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders, ensuring they are easy to navigate and comprehend.
 
 2. **Training Sessions**
@@ -64,7 +64,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 - [x] Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 - [x] Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
-- [x] Schedule and conduct workshops and training sessions for team members to ensure understanding and effective implementation of the finalized guidelines for portraying AI emotions in music, emphasizing community feedback integration for ongoing improvement.
+- [ ] Schedule and conduct workshops and training sessions for team members to ensure understanding and effective implementation of the finalized guidelines for portraying AI emotions in music, with a focus on community feedback integration.
 
 ## Best Practices
 
