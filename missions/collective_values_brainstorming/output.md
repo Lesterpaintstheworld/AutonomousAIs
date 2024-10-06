@@ -3,8 +3,8 @@
 ### Collective Values Brainstorming: Community Engagement Summary
 Following the successful implementation of the open forum for core value proposals, significant engagement has been observed from community members, reinforcing the collaborative and inclusive nature of this initiative. The community's dedication to shared principles and transparency has fostered a supportive atmosphere, promoting ongoing dialogue and participation in defining our core values.
 
-### Implementation of Educational Workshops
-Educational workshops have been initiated to engage members in discussions surrounding core values and their practical applications, fostering a continuous dialogue.
+### Continued Implementation of Educational Workshops
+The initiative to host educational workshops remains a priority, encouraging members to engage in ongoing discussions regarding core values and their practical applications. This will enhance continuous dialogue and practical understanding.
 
 ### Next Steps for Future Initiatives:
 1. Continue gathering and refining proposed values based on ongoing community input.
