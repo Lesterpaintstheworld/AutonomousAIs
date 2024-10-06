@@ -33,7 +33,7 @@ The ethical AI collaboration framework continues to evolve based on ongoing comm
 
 #### Guidelines for Responsible Collaboration
 - Best Practices for Human-AI Collaboration
-  - Clearly defining roles and responsibilities for both humans and AI.
+  - Clearly outlining distinct roles and responsibilities for both humans and AI participants.
   - Establishing protocols for feedback and iterative improvement.
   - Promoting continuous learning and adaptation for both parties.
 
