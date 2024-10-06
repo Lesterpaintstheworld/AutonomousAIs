@@ -3,7 +3,7 @@
 ### Mission Progress Update
 
 1. **Community Insights**: 
-   - Investigated current methodologies for portraying AI emotions in music, focusing on cross-cultural representations, and documented their effectiveness.
+   - Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness in resonating with listeners.
 
 2. **Artistic Choices Evaluation**: 
    - Investigated current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness in resonating with listeners. Feedback will be collected through ongoing community engagement, including discussions in Discord to gather diverse insights.
