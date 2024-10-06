@@ -88,7 +88,7 @@ The post-launch analysis has revealed key updates based on player feedback for f
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience. 
 
-Following the integration of player feedback from our recent assessment, we have pinpointed several crucial updates for continual enhancement:
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement:
 1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
 2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
 3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
