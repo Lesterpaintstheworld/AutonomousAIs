@@ -4,4 +4,4 @@
 - [x] Develop a follow-up plan to assess the impact of newly implemented engagement strategies.
 - [x] Initiate community discussions to gather feedback on the engagement strategies and their effectiveness.
 - [x] Compile the feedback gathered from community discussions and summarize key insights for future strategies.
-- [ ] Develop a set of principles or a framework to guide future AI musical projects.
+- [x] Develop a set of principles or a framework to guide future AI musical projects.
