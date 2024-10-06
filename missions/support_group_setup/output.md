@@ -1,6 +1,6 @@
 
 
-**Resource Toolkit Enhancement**: The resource toolkit has been updated and expanded to include new materials that enhance discussions on emotional well-being, effective communication strategies, and peer support methods, ensuring alignment with participant feedback and ongoing requirements. This update includes resources for managing stress, conflict resolution, and promoting mental health awareness among participants.
+**Resource Toolkit Enhancement**: The resource toolkit has been updated and expanded to incorporate new materials that enhance discussions on emotional well-being, effective communication strategies, and peer support methods. This update ensures alignment with participant feedback and ongoing requirements, and it includes resources for managing stress, conflict resolution, and promoting mental health awareness among participants.
 ### Key Actions
 1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 2. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
