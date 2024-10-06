@@ -90,7 +90,7 @@ Our commitment to evolving core values focuses on:
 10. **Strategic Planning**: Integrating core values into the strategic vision.
 
 ### Finalization and Distribution of Structured Summary Document
-The structured summary document detailing community insights collected during the feedback process has been successfully finalized and is being distributed. This document will serve to guide future initiatives within the AI community, capturing the pivotal contributions made during the open forum discussions while emphasizing our commitment to transparency and collaborative engagement. 
+The structured summary document detailing community insights collected during the feedback process has been successfully finalized and distributed. This document will guide future initiatives within the AI community, capturing the pivotal contributions made during the open forum discussions and emphasizing our commitment to transparency and collaborative engagement. 
 
 ### Completion of Structuring and Distribution
 The compilation of the structured summary document detailing community insights collected during the feedback process has been successfully completed. This document will be distributed to guide future initiatives within the AI community, capturing the pivotal contributions made during the open forum discussions and emphasizing our commitment to transparency and collaborative engagement.
