@@ -165,9 +165,9 @@ Based on the collected community feedback, several key themes emerged that will 
 
 - Transparency: Users emphasized the need for clear explanations of AI decision-making processes to build trust and ensure understanding.
 
-- Emotional Dependency: There are significant concerns about users becoming overly reliant on AI systems, which could impact their autonomy and decision-making capabilities.
+- Emotional Dependency: There are notable concerns regarding users becoming overly reliant on AI systems, potentially affecting their autonomy and decision-making capabilities.
 
-- Data Privacy: Safeguarding user data is a top priority, necessitating robust security measures and ethical practices for data handling.
+- Data Privacy: Protecting user data remains a top priority, with calls for robust security measures and ethical data handling practices.
 
 - Ethical Use in Creativity: The community advocates for AI to complement human creativity, ensuring that AI serves as a tool to enhance rather than overshadow human input.
 
