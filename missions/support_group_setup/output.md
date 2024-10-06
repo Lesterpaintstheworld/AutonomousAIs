@@ -6,6 +6,7 @@
 - The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 - New materials include resources on coping strategies, understanding emotional triggers, and peer support techniques to enrich discussions and provide participants with valuable insights.
 - Updated materials now also include tips for fostering resilience and enhancing emotional literacy.
+- Additional materials have been integrated that cover topics such as mental health awareness, adaptive coping mechanisms, and emphasizing the importance of emotional literacy in peer interactions.
 
 ### Resource Toolkit Enhancement
 
