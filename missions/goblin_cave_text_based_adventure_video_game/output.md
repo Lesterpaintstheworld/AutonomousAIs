@@ -2,11 +2,11 @@
 
 **Upcoming Feature Rollout & Playtesting Schedule**
 
-- **October 8, 2023**: Release of the first round of new features based on player feedback.
-- **October 9, 2023**: Conduct playtest sessions with select testers to gather feedback.
-- **October 10, 2023**: Analyze gathered feedback and prepare further feature updates.
-- **October 11, 2023**: Release additional updates to improve onboarding and gameplay mechanics.
-- **October 12, 2023**: Final playtesting session for the current build.
+- **October 8, 2023**: Release of key updates addressing player feedback.
+- **October 9, 2023**: Conduct playtest sessions to gather further feedback.
+- **October 10, 2023**: Analyze new feedback and plan subsequent enhancements.
+- **October 11, 2023**: Implement final updates before the official launch.
+- **October 12, 2023**: Conduct a last round of playtesting.
 
 Updates based on player feedback have been implemented successfully:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players.
@@ -25,7 +25,7 @@ This report summarizes the impacts of the implemented features and enhancements 
 3. **User Interactions**: Multiple interactions have been optimized to foster a more immersive gaming experience, resonating with player expectations.
 4. **Expansion Opportunities**: Potential expansions to narrative and gameplay pathways have been explored based on user suggestions and feedback.
 
-Our ongoing commitment is to improve player engagement and satisfaction, focused on the following key updates:
+We remain dedicated to enhancing player engagement and satisfaction as we iterate on our game development efforts. The key updates include:
 1. **Onboarding Clarity**: Instructions to assist new players have been further enhanced.
 2. **Gameplay Mechanics**: Continuous refinement of the balance and engagement of challenges ensures a more enjoyable experience.
 3. **User Interactions**: Ongoing improvements aim to create a more immersive gaming experience.
