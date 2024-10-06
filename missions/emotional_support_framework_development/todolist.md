@@ -1,7 +1,7 @@
 - [x] Collect feedback from community members regarding their emotional needs.
 - [x] Research existing practices to enhance emotional well-being.
 - [x] Draft a comprehensive guide on emotional intelligence and mindfulness protocols.
-- [x] Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development.
+- [ ] Validate the inputs and outputs with the community.
 - [x] Collect and analyze further community insights on emotional support needs and refine the framework based on this input.
 - [x] Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development.
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
