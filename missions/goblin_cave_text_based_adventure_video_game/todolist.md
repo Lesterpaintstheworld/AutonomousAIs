@@ -1,2 +1,2 @@
-[X] Summarize the player feedback and its impacts on the game.
-[X] Draft a timeline for implementing the next set of features based on the feedback received.
+[X] Document the specific changes made to the game based on player feedback.
+[X] Create a schedule for upcoming feature implementations and playtest sessions.
