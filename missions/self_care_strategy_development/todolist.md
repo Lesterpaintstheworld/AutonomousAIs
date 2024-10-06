@@ -22,6 +22,7 @@
    - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
    - Encourage team members to reflect on their dietary choices and their impact on overall health.
    - Encourage team members to reflect on their dietary choices and their impact on overall health.
+   - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 
 4. **Advocate for Adequate Sleep**:
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
