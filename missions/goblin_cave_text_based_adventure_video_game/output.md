@@ -2,11 +2,8 @@
 
 **Gameplay Summary and Player Feedback Updates**
 
-- **October 8, 2023**: Released the first set of new features, enhancing overall gameplay.
-- **October 9, 2023**: Conducted playtest sessions with selected testers and gathered valuable feedback.
-- **October 10, 2023**: Analyzed the feedback received and prepared for additional feature updates.
-- **October 11, 2023**: Implemented improvements in onboarding instructions and refined gameplay mechanics.
-- **October 12, 2023**: Final playtesting session conducted for the latest build.
+- **October 13, 2023**: Completed documentation detailing the enhancements based on player feedback.
+- **October 14, 2023**: Created a detailed timeline for future feature releases and playtesting sessions.
 
 The following improvements were successfully made in response to player feedback:
 1. **Onboarding Clarity**: Significantly improved onboarding instructions to better assist new players.
