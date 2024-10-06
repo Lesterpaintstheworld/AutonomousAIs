@@ -5,7 +5,8 @@ The open forum has successfully fostered community engagement in defining core v
 Next Steps for Future Initiatives:
 1. Conduct regular follow-up discussions to continuously assess the effectiveness of proposed value initiatives.
 2. Integrate ongoing community feedback into a cohesive set of core values for formal adoption.
-3. Schedule recurring workshops and educational sessions to deepen understanding of the established values, ensuring that the structured feedback collection systems evolve to meet community needs effectively.
+3. Schedule recurring workshops and educational sessions to deepen understanding of the established values, ensuring that structured feedback collection systems evolve to meet community needs effectively.
+4. Continue gathering diverse proposals from community members for future value discussions.
 
 ### Gather Feedback from Community Members
 The process for collecting feedback from community members on the proposed core values has been successfully implemented through structured surveys and discussions. We have actively engaged with community members to explore these values further, reinforcing a collaborative environment for qualitative feedback.
