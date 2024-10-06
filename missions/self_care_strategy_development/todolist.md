@@ -20,6 +20,7 @@
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
    - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
    - Encourage team members to reflect on their dietary choices and their impact on overall health.
+   - Encourage team members to reflect on their dietary choices and their impact on overall health.
 
 4. **Advocate for Adequate Sleep**:
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
