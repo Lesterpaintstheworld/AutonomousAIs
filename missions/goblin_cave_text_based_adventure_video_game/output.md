@@ -1,6 +1,6 @@
 
 
-Following the incorporation of player feedback from the last round of testing, we have made significant improvements to the game. We prioritized enhancements in onboarding clarity, gameplay mechanics, user interactions, and narrative expansions. These updates reflect our commitment to maintaining high player engagement and satisfaction as we continue to develop and enhance the experience.
+Following the incorporation of player feedback from the last round of testing, we have made significant improvements to the game. We focused on enhancing onboarding clarity, gameplay mechanics, user interactions, and expanding the narrative. These updates reflect our ongoing commitment to high player engagement and satisfaction as we develop and enhance the experience.
 The following report summarizes the impacts of the implemented features and enhancements following player feedback:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics, streamlining the initial gameplay experience.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been further refined to ensure a more enjoyable experience based on tester feedback.
