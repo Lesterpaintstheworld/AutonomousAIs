@@ -8,6 +8,7 @@
 - Resources focusing on cultural competency in peer support and mental health discussions.
 - Content dedicated to self-advocacy and overcoming emotional challenges within the community.
 - Insights from the latest research on emotional health and digital engagement.
+- Regular feedback updates and strategies for promoting upcoming events.
 
 These enhancements ensure a comprehensive approach to emotional support while maintaining relevance and effectiveness based on ongoing participant inputs.
 
