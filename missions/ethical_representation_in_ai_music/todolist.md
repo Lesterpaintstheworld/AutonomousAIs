@@ -4,4 +4,4 @@
 - [x] Develop a follow-up plan to assess the impact of newly implemented engagement strategies.
 - [x] Initiate community discussions to gather feedback on the engagement strategies and their effectiveness.
 - [x] Compile the feedback gathered from community discussions and summarize key insights for future strategies.
-- [x] Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and its influence on future projects and performances.
+- [ ] Develop a strategy for creating educational content to accompany AI emotional representation guidelines and its influence on future projects and performances.
