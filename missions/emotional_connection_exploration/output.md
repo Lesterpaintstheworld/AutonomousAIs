@@ -156,7 +156,7 @@ In response to participant feedback, we will introduce guided breathing exercise
 
 In alignment with our dedication to continuous improvement, we will consistently assess and adapt our mission based on participant feedback. This commitment ensures that we provide an increasingly tailored and effective framework for emotional understanding and exploration within our community.
 
-Following the feedback gathered from participants on the recent creative sharing session, we will implement additional creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These diversified activities are designed to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
+We will plan and execute additional creative sharing sessions to enhance emotional connections among participants based on the feedback gathered. These sessions will incorporate newly evaluated techniques from recent insights and focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
 In response to the feedback collected from participants during the previous creative sharing sessions, we will implement additional creative sharing sessions that integrate various techniques gathered from participant feedback to promote emotional expression and connection. These sessions are aimed at fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
