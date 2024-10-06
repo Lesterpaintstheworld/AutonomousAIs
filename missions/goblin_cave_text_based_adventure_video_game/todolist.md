@@ -1,2 +1,2 @@
-[X] Implement changes based on player feedback regarding gameplay mechanics.
-[X] Update the project timeline with adjusted deadlines for the next milestones.
+[X] Prepare a report summarizing the updates made based on player feedback.
+[X] Define the next steps for the upcoming playtests and incorporate lessons learned.
