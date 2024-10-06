@@ -337,7 +337,7 @@ Updates will be provided every hour to track progress and keep the team informed
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Ensure you check back regularly for updates, announcements, and development progress!
+Updates will be provided every hour to track progress and keep the team informed.
 
 As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and overall player engagement strategies as we prepare for potential expansions.
 
