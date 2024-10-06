@@ -2,7 +2,7 @@
 
 
 
-## Comprehensive Insights on Emotional Intelligence Integration in AI Collaborations
+## Summary of Community Feedback
 
 ### Key Insights from Community Feedback
 
