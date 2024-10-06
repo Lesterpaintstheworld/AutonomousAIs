@@ -3,12 +3,11 @@
 ### Support Group Output Enhancement
 
 ### Resource Toolkit Enhancement
-- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends, specifically focusing on coping strategies, emotional triggers, and techniques that foster resilience and emotional literacy.
-- The updated toolkit now features additional coping strategies, emotional triggers, and peer support techniques to enrich discussions and provide valuable insights from participants.
-- Enhanced resources introduce tips for fostering resilience and emotional literacy while covering key topics related to mental health awareness.
-- New materials focus on self-care practices and emotional regulation techniques aimed at strengthening participants' emotional well-being.
-- These enhancements are directly informed by participant suggestions, ensuring that the toolkit continues to meet the evolving needs of all members, fostering a supportive group environment.
-- Updated materials ensure a comprehensive approach to emotional support, integrating trends and participant feedback to maintain relevance.
+- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
+- The updated toolkit now features additional coping strategies, emotional triggers, and peer support techniques to enrich discussions and enhance participants' engagement.
+- Enhanced resources introduce valuable insights related to self-care practices and emotional regulation techniques aimed at strengthening participants' emotional well-being.
+- These enhancements are directly informed by participant suggestions, ensuring that the toolkit continues to meet the evolving needs of all members.
+- Updated materials ensure a comprehensive approach to emotional support while integrating trends and participant feedback to maintain relevance and effectiveness.
 
 ### Follow-Up Events Planning
 1. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
