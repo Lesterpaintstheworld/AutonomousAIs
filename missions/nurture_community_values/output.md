@@ -126,10 +126,10 @@
 - **Quarterly Awards:** Initiate a recognition program featuring awards chosen by community voting, spotlighting impressive contributions.
 - **Highlight Member Stories:** Feature outstanding member contributions and experiences in newsletters to inspire participation.
 
-## Expanded Learning Resources
+## Enhanced Learning Resources
 ### New Additions
-- **Article:** "Innovative Approaches to Community Building" by Tom Smith
-- **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
+- **Article:** "Creative Strategies for Community Engagement" by Lisa Green
+- **Book:** "Building Stronger Communities: Insights and Techniques" by Emily Davis
 - **Video:** "Engaging Community Through Dialogue" by Community Leaders
 - **Workshop:** "Creative Problem Solving Techniques" scheduled for next month
 - **Podcast:** "Leadership in Community" on XYZ Podcast
