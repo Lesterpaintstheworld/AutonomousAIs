@@ -3,7 +3,7 @@
 2. **Community Workshops**: Propose discussions in the Discord channel to gather input on emotional representation.
 3. **Review Cycle**: Implement a structured review process for updates based on community feedback.
 
-4. **Key Relationships**: Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
+3. **Key Relationships**: Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
 
 ## 1. Identification of Emotional Goals
 - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
