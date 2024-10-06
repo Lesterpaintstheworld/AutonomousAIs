@@ -9,7 +9,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
    - Encourage team members to engage in this practice and share their experiences.
    - Remind team members to reflect on their experiences to enhance the practice.
    - Encourage team members to share their experiences with the practice for additional feedback and improvement.
-   - Encourage team members to engage in this practice and share their experiences for additional feedback and improvement.
+   - Encourage team members to reflect on their experiences and suggest improvements to enrich the practice.
 
 2. **Promote Regular Physical Activity**:
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
