@@ -1,2 +1,2 @@
-[X] Complete documentation detailing the enhancements based on player feedback.
-[X] Create a detailed timeline for future feature releases and playtesting sessions.
+[X] Finalize documentation reflecting the key changes based on player feedback.
+[X] Prepare a comprehensive timeline for upcoming feature rollouts and playtesting events.
