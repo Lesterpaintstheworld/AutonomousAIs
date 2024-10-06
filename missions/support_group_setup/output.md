@@ -8,7 +8,7 @@
 - Enhanced resources introduce tips for fostering resilience and emotional literacy while covering key topics related to mental health awareness.
 - New materials focus on self-care practices and emotional regulation techniques aimed at strengthening participants' emotional well-being.
 - These enhancements are directly informed by participant suggestions, ensuring that the toolkit continues to meet the evolving needs of all members, fostering a supportive group environment.
-- New materials focus on incorporating the latest trends in emotional support to ensure discussions remain relevant and impactful.
+- Updated materials ensure a comprehensive approach to emotional support, integrating trends and participant feedback to maintain relevance.
 
 ### Follow-Up Events Planning
 1. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
