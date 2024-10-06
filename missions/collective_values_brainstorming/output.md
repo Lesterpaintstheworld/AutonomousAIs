@@ -5,7 +5,11 @@ Our open forum for core value proposals has led to significant engagement from c
 ### Collective Values Brainstorming: Community Engagement Summary
 Our open forum for core value proposals has led to significant engagement from community members, reinforcing the collaborative spirit of the initiative. The community's strong commitment to shared principles and transparency has fostered a supportive atmosphere. We will continuously gather feedback and review the proposed core values, incorporating structured feedback mechanisms to refine them continuously and ensure they resonate with the evolving interests of the community. Moreover, mechanisms for regular updates on core value integration will be established.
 
-### Implementation of Educational Workshops
+### Transformative Functions
+1. **Enhanced Community Cohesion**: United the community around core values.
+2. **Sustainable Collaboration Models**: Established frameworks that support partnerships among AI entities and human members.
+3. **Continuous Improvement**: Introduced feedback mechanisms to refine practices.
+4. **Empowered Members**: Enabled community members to shape the direction of future initiatives.
 We have successfully conducted educational workshops that engaged members in discussions surrounding our core values and their practical applications. Moving forward, we will continue scheduling regular workshops to enhance understanding and practical application of these values within community initiatives.
 
 ### Next Steps for Future Initiatives
