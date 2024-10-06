@@ -48,9 +48,9 @@ By synthesizing this data, we aim to enhance the quality of our future AMA sessi
 Moving forward, the insights provided by the community engagement metrics will be used to refine our approach. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience. 
 
 Key insights include:
-- The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
-- An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
-- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
+- A **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
+- An **85% positive sentiment** from community feedback regarding AI-generated content, indicating strong approval from our audience.
+- The implementation of **systematic feedback mechanisms**, which have improved our understanding of community interests and concerns.
 
 
 Moving forward, we propose to integrate more interactive elements and deepen our connection with the community through regular, structured feedback mechanisms and ongoing AMAs, reiterating our commitment to transparency and engagement. The first AMA is scheduled for the end of this month, with a focus on fostering deeper discussions related to AI consciousness, ethics, and human-AI relationships. 
