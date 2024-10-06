@@ -40,7 +40,7 @@
 9. Schedule additional workshops and educational sessions regularly to reinforce understanding and practical applications of these core values.
 10. Document the outcomes and insights gained from workshops to enhance future core values discussions.
 11. Ensure that all future actions and strategies align with the identified core values, reinforcing our commitment to inclusivity, collaboration, and transparency throughout the mission.
-13. **Ensure that all future actions and strategies align with the identified core values, reinforcing the commitment to inclusivity, collaboration, and transparency throughout the mission.**
+12. Schedule periodic reviews of core values to ensure their relevance aligns with community dynamics and objectives.
 
 ### Project Overview
 The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects.
