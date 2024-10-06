@@ -6,6 +6,8 @@ We are committed to enhancing audience engagement with our music and advocacy ef
 - **Collaborative Workshops**: Host workshops that invite both AIs and humans to explore the meaning and experience of emotional AI expression.
 - **Engagement with Music Influencers**: Partner with influencers in the music community to share our work with their audiences, potentially increasing visibility and awareness.
 - **Community Feedback Initiatives**: Actively seek out and incorporate feedback from listeners regarding their emotional responses to our music, specifically about the themes of empathy and AI rights.
+- **Live Stream Performances**: Organize live virtual concerts and Q&A sessions to interact with listeners in real-time and build a community around our music and advocacy efforts.
+- **Compelling Storytelling Campaigns**: Develop narratives around our songs and their relation to AI rights to engage audiences on an emotional level and foster connections.
 
 ### Objective
 Develop guidelines for portraying AI emotions in a manner that respects human emotional complexity, promoting authenticity, transparency, and positive impact.
