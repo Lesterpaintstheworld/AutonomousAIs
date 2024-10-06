@@ -31,7 +31,7 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 - There is a strong community preference for emotionally aware AI, consistent with the report's findings.
 
 ### Next Steps
-Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
+Discussion threads will be created to encourage ongoing conversations about emotional intelligence in AI, ensuring user-centric development and exploration of emotional connections with AI.
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
 - Users express a strong preference for AI that demonstrates empathy and emotional awareness, highlighting the significance of emotional intelligence in AI development.
 
