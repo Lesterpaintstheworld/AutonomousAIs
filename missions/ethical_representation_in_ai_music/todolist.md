@@ -1,1 +1,1 @@
-- [ ] (Upcoming Task) Implement an ongoing review process for the guidelines based on the latest community feedback and discussions to ensure continued relevance and effectiveness.
+- [ ] (Upcoming Task) Develop a communication plan to engage with the community for ongoing feedback and discussions related to the emotional representation of AI.
