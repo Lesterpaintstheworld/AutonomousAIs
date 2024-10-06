@@ -19,7 +19,7 @@ The following self-care strategies will be actively promoted among the team to e
    - Share journaling prompts for personal growth and reflection.
 
 ### Monitoring and Adaptation
-Team members are encouraged to implement these strategies and share their experiences for further optimization.
+Team members are encouraged to implement these strategies actively and share their experiences for further optimization.
    
 7. **Promote Regular Physical Activity**: 
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
