@@ -5,7 +5,7 @@
 
 
 
-### Updated Engagement Strategies Summary
+### Engagement Strategies Improvement Summary
 
 The investigation into unique methods to further boost engagement reveals several key insights based on feedback collected from team members. These findings encompass preferences for tailored activities, flexible scheduling, and opportunities for community building.
 
