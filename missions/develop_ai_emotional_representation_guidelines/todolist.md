@@ -2,7 +2,7 @@
 
 1. **Documentation**: Create a detailed document in KinOS summarizing the steps and findings related to emotional representation frameworks.
 2. **Community Workshops**: Conduct workshops in the Discord channel to gather input from the community on methods for emotional representation in AI-generated music.
-3. **Review Cycle**: Implement a systematic review process to incorporate community feedback effectively, ensuring ongoing improvements and relevance.
+3. **Review Cycle**: Implement a structured review process to reflect updates based on community feedback, ensuring continuous enhancement and relevance.
 
 1. **Documentation**: Develop a comprehensive document detailing the steps and findings from this framework.
 2. **Community Workshops**: Organize discussions to gather community input on emotional representation practices.
