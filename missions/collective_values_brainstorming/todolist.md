@@ -5,4 +5,4 @@
 - [x] Completed: Gather feedback from community members on the proposed core values through structured surveys and discussions. (Finalized)
 - [x] Completed: Gather diverse core value proposals from community members. (Completed)
 - [x] Completed: Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives. 
-- [x] Maintain channels for ongoing dialogue around core values with community members.
+- [ ] Solicit feedback on the effectiveness of the core values in guiding community initiatives.
