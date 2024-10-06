@@ -4,7 +4,7 @@ Based on participant feedback, we will implement additional creative sharing ses
 
 **Emotional Connection Exploration: Summary of Outputs and Next Steps**
 
-Following participant feedback, we will implement additional creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These diversified activities are designed to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
+Based on participant feedback, we will implement additional creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These newly designed sessions aim to extend session lengths and further enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
 
 1. **Creative Sharing Sessions Enhancement**: We successfully launched additional creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These diversified activities are tailored to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
 2. **Insights and Recommendations**: Key findings from our sessions have been documented, focusing on strengths and areas for improvement, along with actionable suggestions for future activities.
