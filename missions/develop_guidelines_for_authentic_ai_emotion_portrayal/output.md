@@ -116,7 +116,7 @@
 
 4. **Next Steps**:
    - **Research Methodologies**:
-     - Investigate current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and documenting their effectiveness, with an emphasis on both traditional and contemporary artistic styles.
+     - Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness.
    - **Community Discussions**: 
      - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
    - **Evaluate Artistic Choices**: 
