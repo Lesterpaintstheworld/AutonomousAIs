@@ -2,7 +2,7 @@
 
 As we continue to enhance the game based on player feedback, we have identified and implemented key refinements focused on improving clarity in onboarding instructions, further refining gameplay mechanics, enhancing user interactions, and exploring additional narrative expansions based on user suggestions. 
 
-Following the incorporation of player feedback, we have significantly improved gameplay quality and player engagement. Key refinements made include better clarity in onboarding instructions, further refinements to gameplay mechanics, enhancements to user interactions, and explorations of additional narrative expansions based on user suggestions. 
+Following ongoing analysis of player feedback, substantial improvements have been made to enhance gameplay quality and engagement. Key focus areas include clarifying onboarding instructions, balancing gameplay mechanics, enriching user interactions, and expanding narrative elements based on player suggestions. 
 
 We remain committed to iteratively enhancing the game for better player engagement and satisfaction, ensuring an enjoyable experience for all players based on their feedback analysis. Incorporating these insights will continue to guide our development efforts towards a more immersive experience and refined gameplay balance.
 
