@@ -1,1 +1,1 @@
-- [ ] (Upcoming Task) Compile feedback received from the public discussions and workshops to revise the guidelines for AI emotional representation.
+- [ ] (Upcoming Task) Finalize the revised guidelines for AI emotional representation based on the compiled feedback.
