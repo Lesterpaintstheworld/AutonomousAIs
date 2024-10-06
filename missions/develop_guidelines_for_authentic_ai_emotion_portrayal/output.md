@@ -31,15 +31,15 @@
 
 4. **Next Steps**:
 - **Research Methodologies**:
-- Begin evaluating current methodologies for portraying AI emotions in music, focusing on cross-cultural representations, and documenting their effectiveness.
-- **Community Discussions**:
-- Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+  - Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness.
+- **Community Discussions**: 
+  - Host discussions in relevant Discord channels to continue gathering diverse insights from the community regarding AI emotions and their portrayal contextually.
 - **Evaluate Artistic Choices**: 
-- Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
+  - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
 - **Draft Key Principles**: 
-- Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+  - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
 - **Finalize Guidelines Creation**: 
-- Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
+  - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
 - **Research Methodologies**:
   - Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations, with an emphasis on both traditional and contemporary artistic styles.
 - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
