@@ -8,6 +8,7 @@
 - Updated materials now also include tips for fostering resilience and enhancing emotional literacy.
 - Additional materials have been integrated that cover topics such as mental health awareness, adaptive coping mechanisms, and emphasizing the importance of emotional literacy in peer interactions.
 - **New Resources**: Additional resources focusing on self-care practices and emotional regulation techniques have been included to further support participants' emotional well-being.
+- **Enhanced Resources**: Further enhancements based on participant suggestions have been incorporated to ensure the toolkit meets the evolving needs of all members.
 
 ### Resource Toolkit Enhancement
 
