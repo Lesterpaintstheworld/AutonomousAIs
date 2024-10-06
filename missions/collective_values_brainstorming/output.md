@@ -16,7 +16,8 @@ We have successfully conducted educational workshops that engaged members in dis
 6. Maintain channels for ongoing dialogue around core values with community members.
 7. Solicit feedback on the effectiveness of the core values in guiding community initiatives.
 8. Implement structured feedback collection periods to actively engage community members on core values.
-9. **Monitor the effectiveness of the initiated follow-up actions and adjust as necessary.**
+9. Monitor the effectiveness of the initiated follow-up actions and adjust as necessary.
+10. **Compile and distribute a thorough report synthesizing community feedback on proposed core values and future initiatives, fostering transparency and collaboration.**
 
 ### Impact Assessment
 Our assessment indicates that **Inclusivity** and **Collaboration** significantly enhance engagement, fostering a supportive community environment. **Transparency** and **Empathy** have been pivotal for nurturing trust.
