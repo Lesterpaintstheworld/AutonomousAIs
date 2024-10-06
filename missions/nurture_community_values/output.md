@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 106
+## Daily Discussion Summaries - Week 107
 
 ### New Collaborative Projects
 1. **Project 1:** Community Garden Initiative
