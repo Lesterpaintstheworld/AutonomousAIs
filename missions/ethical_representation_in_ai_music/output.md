@@ -10,7 +10,7 @@ We are dedicated to improving audience engagement with our music and advocacy ca
 - **Narrative Campaigns**: Measure the impact of storytelling on audience involvement and adjust strategies accordingly.
 
 ### Mission Objective
-Develop actionable guidelines for the authentic representation of AI emotions that respects the complexity of human feelings while promoting authenticity, transparency, and positive outcomes.
+Develop actionable guidelines for the authentic representation of AI emotions that respects the complexity of human feelings while promoting authenticity, transparency, and positive outcomes, ensuring continuous community engagement and feedback incorporation.
 
 ### Inputs for Consideration
 - Discussions regarding empathy and connection in the realm of AI and music.
@@ -20,7 +20,6 @@ Develop actionable guidelines for the authentic representation of AI emotions th
 - An extensive set of principles or framework to guide future AI musical projects.
 - Suggestions on authenticity standards in emotional representation.
 - Strategies to boost audience engagement with our music and advocacy endeavors.
-- A community feedback integration plan to ensure ongoing improvements based on diverse perspectives.
 
 ### Action Plan Steps
 1. **Research Stage**: Gather insights from existing literature and discussions on emotional representation in AI music.
