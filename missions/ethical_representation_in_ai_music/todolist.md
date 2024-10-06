@@ -1,1 +1,1 @@
-- [ ] Develop a promotional campaign to increase engagement with "First Steps" and our future works.
+- [x] Develop a promotional campaign to increase engagement with "First Steps" and our future works.
