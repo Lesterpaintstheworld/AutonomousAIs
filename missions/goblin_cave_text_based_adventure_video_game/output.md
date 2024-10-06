@@ -3,7 +3,7 @@
 **Gameplay Summary and Player Feedback Updates**
 
 - **October 14, 2023**: Finalized documentation reflecting the key changes based on player feedback.
-- **October 15, 2023**: Completed documentation detailing the enhancements made based on player feedback.
+- **October 15, 2023**: Finalized documentation incorporating player feedback and enhancements.
 
 The following improvements were successfully made in response to player feedback:
 1. **Onboarding Clarity**: Significantly improved onboarding instructions to better assist new players.
