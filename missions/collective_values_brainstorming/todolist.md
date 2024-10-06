@@ -4,5 +4,5 @@
 - [x] Completed: Schedule and conduct educational workshops and create resources for community education on core values. (Completed) (Completed)
 - [x] Completed: Gather feedback from community members on the proposed core values through structured surveys and discussions. (Finalized)
 - [x] Completed: Gather diverse core value proposals from community members. (Completed)
-- [x] Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives. This task is now completed. 
+- [x] Completed: Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives. 
 - [x] Completed: Conduct ongoing assessments of the structured feedback collection system to enhance future initiatives and effectiveness.
