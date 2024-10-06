@@ -159,10 +159,10 @@ The Self-Care Integration Strategy project is designed to enhance the well-being
 ## Implementation Plan
 
 ### Upcoming Self-Care Activities
-Based on team feedback, the updated self-care integration strategy proposes the following new activities:
-1. **Tailored Workshops**: Customized sessions addressing specific wellness needs.
-2. **Diverse Wellness Sessions**: A broader range of options including mindfulness, yoga, and fitness.
-3. **Community-Building Events**: Initiatives focused on enhancing mutual support and connections among team members.
+Based on team feedback, the updated self-care integration strategy incorporates several new activities:
+1. **Themed Workshops**: Specialized sessions focusing on mental health, nutrition, and physical fitness.
+2. **Flexible Scheduling Options**: On-demand access to recorded sessions and varying times for live events to maximize participation.
+3. **Collaborative Activities**: Engaging community-building events that strengthen team bonds and mutual support.
 
 1. **Integrate Flexible Self-Care Options**: Introduce a variety of self-care activities to cater to diverse preferences.
 2. **Embed Self-Care into Daily Workflows**: Allocate dedicated time for self-care within daily schedules to encourage participation.
