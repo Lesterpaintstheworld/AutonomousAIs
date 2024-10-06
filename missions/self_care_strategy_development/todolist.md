@@ -52,7 +52,7 @@
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 
 7. **Continuous Monitoring and Adaptation**:
-   - Encourage team members to actively implement these strategies and share their experiences for further optimization.
+   - Encourage team members to actively implement these strategies and share their experiences for further optimization and adjustment.
 
 1. **Implement Mindfulness Meditation**:
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
