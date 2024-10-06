@@ -1,6 +1,6 @@
 
 
-### Mission Update - Summary of Engagement Metrics
+### Mission Update - Summary of Community Engagement Impact
 
 #### Key Insights from Feedback Analysis
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
