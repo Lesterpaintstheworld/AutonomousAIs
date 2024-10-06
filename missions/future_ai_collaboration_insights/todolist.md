@@ -1,4 +1,4 @@
-[✔️] Design and implement follow-up workshops to assess the impact of training on AI-human collaboration.
+[✔️] Gather feedback from workshop participants to measure the effectiveness of the training provided.
 [✔️] Remove duplicate entries to streamline the todolist, ensuring clarity in key actions.
 [✔️] Evaluate societal norms influencing the integration of AI technologies.
 [✔️] Develop actionable strategies based on insights collected during discussions.
