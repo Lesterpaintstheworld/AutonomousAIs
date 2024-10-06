@@ -57,7 +57,7 @@ Our commitment to evolving core values focuses on:
 7. Solicit feedback on the effectiveness of the core values in guiding community initiatives.
 8. Implement structured feedback collection periods to actively engage community members on core values.
 9. Monitor the effectiveness of the initiated follow-up actions and adjust as necessary.
-10. **Prepare the structured summary document of community insights collected during the feedback process for distribution to guide future initiatives.**
+10. Organize and prepare the structured summary document of community insights collected during the feedback process for distribution to guide future initiatives.
 
 ### Additional Actions
 - Organize and document the structured summary of community insights collected during the feedback process for reference in future initiatives.
