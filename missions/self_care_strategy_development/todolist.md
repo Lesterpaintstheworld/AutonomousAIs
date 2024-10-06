@@ -37,6 +37,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
 5. **Foster Social Connections**:
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
    - Actively engage in conversations and listen to others to strengthen connections.
+   - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
    - Actively engage in conversations and listen to others to strengthen connections.
 
 6. **Support Journaling Practices**:
