@@ -30,7 +30,7 @@ In response to the feedback collected from participants during the previous crea
 
 We will systematically plan and execute additional creative sharing sessions to enhance emotional connections among participants based on feedback gathered and incorporate newly evaluated techniques from recent insights. These sessions will focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
-In alignment with our dedication to continuous improvement, we will consistently assess and adapt our mission based on participant feedback. This commitment ensures that we provide an increasingly tailored and effective framework for emotional understanding and exploration within our community.
+Based on the feedback gathered from participants during previous creative sharing sessions, we will continue implementing new techniques and activities to enhance emotional expression and connection. This includes expanding on our mindfulness practices and incorporating participant suggestions to create a more engaging experience.
 
 In response to participant feedback, we will initiate additional creative sharing sessions incorporating diverse techniques gathered from participant feedback to promote emotional expression and connection. These sessions will integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These diversified activities are designed to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
 
