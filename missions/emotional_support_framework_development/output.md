@@ -5,4 +5,5 @@
 - **Next Steps**: 
   1. Validate the inputs and outputs with the community.
   2. Draft and circulate the comprehensive guide based on initial feedback.
+  3. **Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.**
 - **Key Themes Identified and Insights from Community Feedback**: Ongoing support sessions have revealed key themes for the development of the emotional support framework, including the need for enhanced emotional intelligence resources and structured mindfulness practices.
