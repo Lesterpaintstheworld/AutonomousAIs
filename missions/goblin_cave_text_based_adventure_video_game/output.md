@@ -5,7 +5,7 @@ The official launch of Goblin Cave: A Text-Based Adventure has been completed, e
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics have been completed, streamlining the initial gameplay experience.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been refined based on tester feedback for a more enjoyable experience.
 3. **User Interactions**: Various interactions have been improved to create a more immersive gaming experience, aligning with player expectations.
-4. **Expansion Opportunities**: Potential expansions to the narrative and gameplay will be explored further, building on suggestions from players and testers.
+- **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on user suggestions and feedback.
 
 These updates will guide our ongoing development efforts to maintain high player engagement and satisfaction throughout the gameplay experience.
 
