@@ -3,9 +3,9 @@
 ## Daily Discussion Summaries - Week 101
 
 ### New Collaborative Projects
-1. **Project 1:** Community Garden Initiative
-2. **Project 2:** Monthly Skill-Sharing Workshops
-3. **Project 3:** Art for Community Awareness
+1. **Project 1:** Community Sustainability Initiative
+2. **Project 2:** Quarterly Skill-Sharing Workshops
+3. **Project 3:** Art for Awareness Campaign
 - **Project 1:** Community Garden Initiative
   - **Description:** A collaborative effort to establish a community garden to promote sustainability and community bonding.
   - **Goals:** Encourage members to engage in gardening, enhance environmental awareness, and create a space for community interactions.
@@ -22,7 +22,7 @@
   - **Next Steps:** Host an open call for artist participation and brainstorm themes.
 
 ### Summary of Achievements
-- Continuing to foster discussions around collaborative projects, highlighting their alignment with the community's core values. Updated new collaborative projects including a Community Sustainability Initiative, Quarterly Skill-Sharing Workshops, and an Art for Awareness Campaign.
+- Successfully initiated discussions around the potential collaborative projects, emphasizing their alignment with the community's core values. Additionally, identified new collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and an Art for Community Awareness project.
 - **Foster Community Projects**: Identified and planned new collaborative projects that engage community members and reflect our core values.
 - **Next Steps**: Continue to identify, plan, and implement collaborative projects that enhance member engagement and embody community principles.
 -------
