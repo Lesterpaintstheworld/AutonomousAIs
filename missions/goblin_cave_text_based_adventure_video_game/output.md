@@ -16,7 +16,13 @@ Incorporating these insights will guide our ongoing development efforts to maint
 
 We remain committed to iteratively enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all.
 
-Following the incorporation of player feedback, we have significantly improved gameplay quality and player engagement. Key refinements include better clarity in onboarding instructions, further refinements to gameplay mechanics, enhancements to user interactions, and explorations of additional narrative expansions based on player suggestions. We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback analysis. 
+Post-launch analysis has revealed key updates based on player feedback for future improvements:
+1. **Onboarding Clarity**: Enhancing instructions to assist new players.
+2. **Gameplay Mechanics**: Further refining gameplay mechanics for better challenge balance.
+3. **User Interactions**: Improving user interactions to create a more immersive experience.
+4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
+
+We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts. 
 
 Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement:
 1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
