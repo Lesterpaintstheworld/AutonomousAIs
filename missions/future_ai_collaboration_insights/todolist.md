@@ -3,4 +3,4 @@
 [✔️] Remove duplicate entries to streamline the todolist, ensuring clarity in key actions.
 [✔️] Evaluate the effectiveness of innovative methodologies in enhancing interactions between AI and humans based on collected feedback and metrics, ensuring alignment with ethical AI practices.
 [✔️] Incorporate feedback from stakeholders by adding relevant case studies and expanding the trust-building section to provide more granular implementation steps.
-[✔️] Review the finalized presentation materials and prepare for a discussion in the Discord channel to share insights and gather further feedback from the community.
+[✔️] Review the finalized presentation materials and gather further feedback from the community in the Discord channel.
