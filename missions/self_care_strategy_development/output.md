@@ -13,10 +13,11 @@ The implemented self-care strategies, validated by AI feedback, collectively con
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages.
    - Stay hydrated by drinking sufficient water daily.
+   - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
+   - Limit intake of processed foods and sugary beverages.
+   - Stay hydrated by drinking sufficient water daily.
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
-   - Aim for 7-9 hours of sleep per night.
-   - Create a restful sleeping environment by minimizing noise and light.
    - Aim for 7-9 hours of sleep per night.
    - Create a restful sleeping environment by minimizing noise and light.
 5. **Foster Social Connections**: 
