@@ -10,10 +10,10 @@ We have successfully conducted several educational workshops that engaged member
 ### Next Steps for Future Initiatives
 1. Conduct ongoing assessments of the structured feedback collection system to enhance future initiatives and effectiveness.
 2. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
-2. Work towards formalizing a cohesive set of core values that encapsulate the diversity of beliefs within the community.
-3. Schedule additional workshops and educational sessions regularly to reinforce understanding and practical applications of these core values.
-4. Encourage continuous dialogue and collection of diverse proposals from community members to uphold an inclusive and collaborative environment in defining core values.
-5. **Implement structured feedback collection periods to actively engage community members on core values.**
+3. Work towards formalizing a cohesive set of core values that encapsulate the diversity of beliefs within the community.
+4. Schedule additional workshops and educational sessions regularly to reinforce understanding and practical applications of these core values.
+5. Encourage continuous dialogue and collection of diverse proposals from community members to uphold an inclusive and collaborative environment in defining core values.
+6. **Structured feedback collection periods will be routinely implemented to actively engage community members on core values.**
 
 ### Review and Assess the Impact of the Proposed Core Values on Community Engagement
 Following the successful implementation of our feedback collection process, we have carefully analyzed the impact of the proposed core values on community engagement. Insights gathered from the structured surveys and discussions highlighted:
