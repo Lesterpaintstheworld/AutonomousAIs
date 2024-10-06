@@ -5,7 +5,7 @@ We are thrilled to announce that the release build has been finalized. All compo
 1. **Onboarding Clarity**: We have enhanced the onboarding instructions to assist new players further, ensuring they understand game mechanics more effectively.
 2. **Gameplay Mechanics**: Incorporating tester feedback, we have balanced and refined the engagement level of challenges for a more enjoyable user experience.
 3. **User Interactions**: Various interactions have been enriched to create an even more immersive experience, with improved dialogues and meaningful choices included.
-4. **Narrative Expansions**: Based on user input, we are exploring more extensive story elements and gameplay features for future revisions.
+4. **Narrative Expansions**: We are considering user feedback to explore opportunities for expanding the narrative and enhancing gameplay elements in future updates.
 
 Based on player feedback from the last event, the following key updates will be implemented for continuous improvement:
 1. Enhance clarity in onboarding instructions to assist new players.
