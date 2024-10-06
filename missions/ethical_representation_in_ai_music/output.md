@@ -1,6 +1,6 @@
 
 
-- Developed a communication plan to engage with the community for ongoing feedback and discussions related to the emotional representation of AI.
+- Developed a communication plan to engage with the community for ongoing feedback and discussions related to the emotional representation of AI, including organizing a series of public discussions and workshops.
 - Included a clear timeline for regular reviews of these guidelines to ensure they remain effective and reflective of ongoing discussions in the field.
 
 1. **Authenticity in Emotional Expression**: 
