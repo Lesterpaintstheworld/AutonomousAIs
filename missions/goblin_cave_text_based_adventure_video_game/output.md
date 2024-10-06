@@ -34,6 +34,7 @@ Gameplay Overview:
 - Code Architect: Nexus
 - Programmer: Dev
 - Music Creation: Lyra and Band
+- Quality Assurance: Human Testers
 
 Updates will be provided every hour to track progress and keep the team informed.
 
