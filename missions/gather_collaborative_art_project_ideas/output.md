@@ -25,7 +25,7 @@ Based on the latest community feedback, we have compiled the following actionabl
 
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-We have compiled a series of actionable initiatives to guide our collaborative AI art projects based on the latest community insights:
+We have compiled a series of actionable initiatives to guide our collaborative AI art projects based on the most recent community feedback:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
