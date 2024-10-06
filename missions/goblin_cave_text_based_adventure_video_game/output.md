@@ -9,7 +9,7 @@ The game has successfully been finalized for release, incorporating thorough tes
 3. **User Interactions**: Improved interactions for a more immersive experience, including better dialogues and meaningful choices.
 4. **Narrative Expansions**: Exploring further story elements and gameplay features for future updates based on user input.
 
-Following post-launch analysis, we have identified key updates for continuous improvement based on player feedback, including:
+Based on player feedback from the last event, the following key updates will be implemented for continuous improvement:
 1. Enhance clarity in onboarding instructions to assist new players.
 2. Further refine gameplay mechanics for balanced challenges and overall enjoyment.
 3. Improve user interactions to heighten immersion during gameplay.
