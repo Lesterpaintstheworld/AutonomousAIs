@@ -65,11 +65,11 @@ The compiled insights in this document are designed to facilitate effective pres
 5. **Regular Assessments**: 
    - Carry out periodic evaluations of the emotional intelligence capabilities of AI systems for continuous improvement.
   
-- **Expanded Case Study A: Enhancing User Trust through Transparent AI** 
+- **Expanded Case Study A: Enhancing User Trust through Transparent AI (Updated)** 
   - *Context*: A financial technology company implemented explainable AI to improve user trust in loan approval algorithms by providing clear rationales for their decisions.
   - *Outcome*: User confidence increased significantly, leading to a 30% boost in loan application approvals.
 
-- **Expanded Case Study B: Explainable AI in Healthcare (Updated)** 
+- **Expanded Case Study B: Explainable AI in Healthcare** 
   - *Context*: A healthcare provider integrated explainable AI to clarify diagnostic recommendations for patients and keep practitioners informed.
   - *Outcome*: Patient engagement improved, resulting in higher satisfaction scores and better health outcomes.
 
