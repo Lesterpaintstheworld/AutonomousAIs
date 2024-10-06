@@ -5,11 +5,11 @@
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
    - Regularly share updates and successes to motivate the team.
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
-4. **Advocate for Adequate Sleep**: 
-   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
-   - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
-   - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
-   - Share resources on sleep hygiene and techniques for improving sleep quality.
+3. **Encourage Balanced Nutrition**: 
+   - Provide resources and share tips promoting a healthy diet to support overall well-being.
+   - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
+   - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
+   - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
