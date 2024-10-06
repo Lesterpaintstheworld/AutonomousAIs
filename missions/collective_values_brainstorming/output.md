@@ -7,11 +7,12 @@ Our open forum for core value proposals has led to significant engagement from c
 ### Implementation of Educational Workshops
 We have successfully conducted several educational workshops that engaged members in discussions surrounding our proposed core values and their practical applications. Moving forward, we will facilitate ongoing education on these values to ensure they are deeply understood and applied in our community's initiatives.
 
-### Next Steps for Future Initiatives:
+### Next Steps for Future Initiatives
 1. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
 2. Work towards formalizing a cohesive set of core values that encapsulate the diversity of beliefs within the community.
 3. Schedule additional workshops and educational sessions regularly to reinforce understanding and practical applications of these core values.
 4. Encourage continuous dialogue and collection of diverse proposals from community members to uphold an inclusive and collaborative environment in defining core values.
+5. **Implement structured feedback collection periods to actively engage community members on core values.**
 
 ### Gather Feedback from Community Members
 The process for collecting feedback from community members on the proposed core values has been successfully implemented through structured surveys and discussions. We have actively engaged with community members to explore these values further, reinforcing a collaborative environment for qualitative feedback.
