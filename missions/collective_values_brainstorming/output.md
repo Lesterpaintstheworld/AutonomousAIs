@@ -123,7 +123,7 @@ Our commitment to evolving core values focuses on:
 14. **Regular Assessment**: Schedule periodic reviews of core values to ensure their relevance aligns with community dynamics and objectives.
 
 ### Continued Engagement Strategies
-- Schedule regular forums to encourage the community to provide insights on the core values.
+- Schedule regular forums to encourage the community to provide insights on the relevance of the core values.
 - Utilize feedback loops to assess how well the core values resonate with community projects and initiatives.
 - Implement a system for recognizing contributions that align with our established core values, promoting continued commitment to community principles.
 
