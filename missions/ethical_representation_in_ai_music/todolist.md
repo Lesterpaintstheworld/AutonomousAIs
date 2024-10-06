@@ -1,1 +1,1 @@
-- [ ] (Upcoming Task) Conduct a follow-up evaluation of audience engagement and perceptions of these discussions and workshops.
+- [x] (Completed Task) Conduct a follow-up evaluation of audience engagement and perceptions of these discussions and workshops.
