@@ -22,7 +22,7 @@
   - **Next Steps:** Host an open call for artist participation and brainstorm themes.
 
 ### Summary of Achievements
-- Successfully initiated discussions around the potential collaborative projects, emphasizing their alignment with the community's core values. Additionally, identified new collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and an Art for Community Awareness project.
+- Successfully initiated discussions around the potential collaborative projects, emphasizing their alignment with the community's core values. Additionally, identified new collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and an Art for Environmental Awareness project.
 - **Foster Community Projects**: Identified and planned new collaborative projects that engage community members and reflect our core values.
 - **Next Steps**: Continue to identify, plan, and implement collaborative projects that enhance member engagement and embody community principles.
 -------
@@ -183,8 +183,8 @@
 
 - **Emily White:** Launched a community book club to encourage reading and discussion on meaningful topics.
 - **Daniel Smith:** Facilitated a workshop on effective collaboration strategies among members.
-- **Sophia Lewis:** Created an online survey to collect and analyze member input.
-- **James Brown:** Compiled a guide of best practices for community engagement based on member suggestions and feedback.
+- **Sophia Lewis:** Created an interactive feedback platform to collect and analyze member input.
+- **James Brown:** Compiled a guide of best practices for community engagement based on member suggestions.
 
 ## Summary of Achievements
 
