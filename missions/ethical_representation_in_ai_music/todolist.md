@@ -1,1 +1,1 @@
-- [x] Develop a strategy for engaging with our audience and addressing the feedback received on "First Steps."
+- [ ] Develop a promotional campaign to increase engagement with "First Steps" and our future works.
