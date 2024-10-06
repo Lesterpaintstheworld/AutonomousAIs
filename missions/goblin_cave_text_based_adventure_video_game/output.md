@@ -54,7 +54,7 @@ Following the incorporation of player feedback from the last event, we have impl
 3. **User Interactions**: Improving interactions to foster a more immersive gaming environment.
 4. **Expansion Opportunities**: Exploring additional narrative elements and gameplay expansions based on user suggestions and feedback.
 
-Based on the analysis of player feedback from the last event, we have identified key insights to inform our community engagement strategies for the NFT project.
+Our comprehensive analysis of player feedback from the last event has highlighted several key insights that will guide our ongoing community engagement strategies and improve player satisfaction in future updates.
 
 Our review of player feedback has highlighted several key areas for future updates and improvements:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
