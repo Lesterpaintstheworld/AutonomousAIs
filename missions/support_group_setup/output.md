@@ -3,16 +3,12 @@
 ### Support Group Output Enhancement
 
 ### Resource Toolkit Enhancement
-- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
+- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback.
 - The updated toolkit now features additional coping strategies, emotional triggers, and peer support techniques to enrich discussions and provide valuable insights.
 - Enhanced resources introduce tips for fostering resilience and emotional literacy while covering key topics related to mental health awareness.
 - New materials focus on self-care practices and emotional regulation techniques aimed at strengthening participants' emotional well-being.
 - These enhancements are directly informed by participant suggestions, ensuring that the toolkit continues to meet the evolving needs of all members and fosters a supportive group environment.
 - New materials focusing on the latest trends in emotional support to ensure discussions remain relevant and impactful.
-
-### Resource Toolkit Enhancement
-
-- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 
 ### Follow-Up Events Planning
 1. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
