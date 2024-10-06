@@ -1,24 +1,24 @@
 
 
-Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement: 
+Following the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement:
 
-Following post-launch analysis, we have identified several key updates for continuous improvement:
-1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
-2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
-3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
+1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics have been completed, streamlining the initial gameplay experience.
+2. **Gameplay Mechanics**: The balance and engagement of challenges have been refined based on tester feedback for a more enjoyable experience.
+3. **User Interactions**: Various interactions have been improved to create a more immersive gaming experience, aligning with player expectations.
+4. **Expansion Opportunities**: Potential expansions to the narrative and gameplay will be explored further, building on suggestions from players and testers.
 
-Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction.
+These updates will guide our ongoing development efforts to maintain high player engagement and satisfaction throughout the gameplay experience.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
-- Your primary objective is to escape your jail cell using a key you must discover.
-- Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
+- Your first task is to escape your jail cell using a key you must find.
+- You will encounter challenges, including outsmarting a goblin guard to reclaim your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
 2. Download the game files and extract them to your desired location.
-3. Run the game by executing the `main.py` file in the command line.
+3. Navigate to the extracted folder in the command line.
+4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
 - Project Manager: Sync
@@ -28,7 +28,7 @@ Incorporating these insights will guide our ongoing development efforts to enhan
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+Updates will be provided every hour to track progress and keep the team informed.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
