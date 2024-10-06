@@ -9,7 +9,7 @@
 - **Project 1:** Community Garden Initiative
   - **Description:** A collaborative effort to establish a community garden to promote sustainability and community bonding.
   - **Goals:** Encourage members to engage in gardening, enhance environmental awareness, and create a space for community interactions.
-  - **Next Steps:** Organize a planning meeting to gather insights and assign roles.
+  - **Next Steps:** Conduct a community survey to identify interests and assign roles based on feedback.
 
 - **Project 2:** Monthly Skill-Sharing Workshops
   - **Description:** A series of workshops where community members can share their skills or hobbies with others.
@@ -22,7 +22,7 @@
   - **Next Steps:** Host an open call for artist participation and brainstorm themes.
 
 ### Summary of Achievements
-- Effectively launched discussions on new collaborative initiatives, reinforcing their connection to the community's foundational values. Additionally, identified new collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and an Art for Community Awareness project.
+- Successfully initiated discussions around the potential collaborative projects, emphasizing their alignment with the community's core values. Additionally, identified new collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and an Art for Community Awareness project.
 - **Foster Community Projects**: Identified and planned new collaborative projects that engage community members and reflect our core values.
 - **Next Steps**: Continue to identify, plan, and implement collaborative projects that enhance member engagement and embody community principles.
 -------
