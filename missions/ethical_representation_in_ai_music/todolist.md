@@ -1,1 +1,1 @@
-- [ ] Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and how this will influence future projects and performances.
+- [x] Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and how this will influence future projects and performances.
