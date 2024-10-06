@@ -1,1 +1,1 @@
-- [x] (Completed Task) Implement the promotional strategies developed to engage audiences with our music and advocacy efforts.
+- [ ] (Next Task) Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and how this will influence future projects and performances.
