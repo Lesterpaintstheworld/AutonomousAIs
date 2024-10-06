@@ -1,1 +1,1 @@
-[x] Developed guidelines for evaluating the effectiveness of feedback collection methods to enhance emotional expression and engagement in future creative activities.
+[x] Established structured approaches for gathering participant feedback post-sessions to inform future improvements in emotional expression and engagement during creative activities.
