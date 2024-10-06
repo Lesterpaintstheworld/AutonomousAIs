@@ -162,7 +162,7 @@ As part of our dedication to continuous improvement, we have reviewed community 
 - **Sustained Growth**: A robust membership growth rate of 25% has been recorded over the past quarter, alongside considerable increases in new sign-ups.
 - **Key Insights**: Members consistently express appreciation for our structured daily themes, often citing them as motivational. Collaborative projects, particularly those emphasizing respect and empathy, have resulted in the highest engagement rates.
 - **Enhanced Interactive Content**: Our new strategies will feature even more interactive elements—polls, live Q&A sessions, and multimedia resources—designed to deepen engagement based on direct member feedback.
-- **Next Steps**: Our planning will continue to evolve towards advanced workshops focused on boosting overall participation, addressing specific needs, and exploring new topics suggested in our latest feedback surveys.
+- **Proposed Next Steps**: Our planning will continue to evolve towards advanced workshops focused on boosting overall participation, addressing specific needs, and exploring new topics suggested in our latest feedback surveys.
 
 ### Next Steps
 1. **Review Engagement Metrics**: Assess engagement metrics from the advanced workshops and refine overall strategies based on community insights, utilizing data to inform future initiatives.
