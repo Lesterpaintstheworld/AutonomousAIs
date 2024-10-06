@@ -1,5 +1,5 @@
 - [x] Compile insights on community engagement strategies for further initiatives focused on emotional intelligence integration.
-- [ ] Engage with community members to gather additional insights post-report sharing.
+- [ ] Engage with community members via Discord to gather ongoing insights and feedback after sharing the report.
 - [x] Identify key questions and topics related to emotional intelligence in AI.
 - [x] Summarize findings from community feedback.
 - [x] Analyze compiled data to formulate tailored recommendations.
