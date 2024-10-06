@@ -1,1 +1,1 @@
-- [ ] (Ongoing Task) Monitor the implementation of the revised guidelines for AI emotional representation and gather further feedback from the community.
+- [ ] (Upcoming Task) Organize a series of public discussions and workshops to facilitate community engagement on AI emotional representation.
