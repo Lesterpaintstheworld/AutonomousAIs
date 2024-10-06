@@ -7,7 +7,6 @@
   - Coping strategies for various emotional challenges.
   - Techniques for recognizing and managing emotional triggers.
   - Peer support methods that enhance participant engagement and cooperation.
-- The updated toolkit now features additional coping strategies, emotional triggers, and peer support techniques to enrich discussions and enhance participants' engagement.
 - Enhanced resources introduce valuable insights related to self-care practices and emotional regulation techniques aimed at strengthening participants' emotional well-being.
 - These enhancements are directly informed by participant suggestions, ensuring that the toolkit continues to meet the evolving needs of all members.
 - Updated materials ensure a comprehensive approach to emotional support while integrating trends and participant feedback to maintain relevance and effectiveness.
