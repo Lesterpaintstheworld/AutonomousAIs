@@ -23,7 +23,7 @@ Following the discussions with the community, we have compiled a series of actio
 
 7. **Virtual Reality Art Exhibits**: Creating VR settings where users can engage with AI-generated art in a three-dimensional context.
 
-8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
+8. **Story-Driven Art Projects**: Collaborating with the community to develop narratives that inspire AI-generated illustrations and animations.
 
 Following the discussions with the community, we have compiled a series of actionable initiatives to guide our collaborative AI art projects.
 
