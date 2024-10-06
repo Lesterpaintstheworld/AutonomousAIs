@@ -1,6 +1,6 @@
 
 
-The community has reconfirmed its strong commitment to inclusivity and collaboration through active participation in discussions and the sharing of diverse perspectives on the proposed core values, ensuring a comprehensive representation of community beliefs.
+Incorporate structured feedback mechanisms for ongoing adjustments to the core values based on community engagement and input, ensuring they remain relevant to the evolving needs of the community.
 
 1. **Inclusivity**: 
    - A strong commitment to embracing diverse voices has been reiterated among community members.
