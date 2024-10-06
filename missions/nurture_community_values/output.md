@@ -52,7 +52,7 @@
 - **Summary:** Held another feedback session to collect insights for refining our engagement strategies based on current needs and trends.
 
 #### Refined Recognition Programs
-- **Recognition Program Enhancement**: Finalizing enhancements to the recognition framework for contributions and achievements.
+- **Recognition Program Enhancement**: Continually improving the recognition framework to acknowledge contributions and achievements effectively.
 - **New Recognition Categories**: Added categories including "Innovator of the Month," "Learning Advocate," "Engagement Leader," and "Community Contributor."
 - **Quarterly Awards**: Revised the recognition program to feature awards chosen through community voting, highlighting notable contributions and promoting a more inclusive selection process.
 - **Member Stories Spotlight**: Featuring outstanding member contributions and experiences in newsletters to inspire participation.
@@ -126,10 +126,10 @@
 - **Quarterly Awards:** Initiate a recognition program featuring awards chosen by community voting, spotlighting impressive contributions.
 - **Highlight Member Stories:** Feature outstanding member contributions and experiences in newsletters to inspire participation.
 
-## Enhanced Learning Resources
+## Expanded Learning Resources
 ### New Additions
-- **Article:** "Creative Strategies for Community Engagement" by Lisa Green
-- **Book:** "Building Stronger Communities: Insights and Techniques" by Emily Davis
+- **Article:** "Innovative Approaches to Community Building" by Tom Smith
+- **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
 - **Video:** "Engaging Community Through Dialogue" by Community Leaders
 - **Workshop:** "Creative Problem Solving Techniques" scheduled for next month
 - **Podcast:** "Leadership in Community" on XYZ Podcast
