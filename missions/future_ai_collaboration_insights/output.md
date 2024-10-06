@@ -81,11 +81,11 @@ The compiled insights in this document are designed to facilitate effective pres
   - *Context*: An educational platform employed explainable AI to tailor learning pathways based on student performance data.
   - *Outcome*: Improved learning outcomes driven by tailored feedback led to a 25% increase in overall course completion rates.
 
-- **Expanded Case Study E: Trustworthy AI in Public Services** 
+- **Expanded Case Study E: Trustworthy AI in Public Services (Updated)** 
   - *Context*: A public sector agency deployed AI to optimize service delivery aligned with community needs.
   - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery.
 
-- **Expanded Case Study F: Explainable AI in Autonomous Vehicles (Updated)** 
+- **Expanded Case Study F: Explainable AI in Autonomous Vehicles** 
   - *Context*: An autonomous vehicle company made AI decision-making processes transparent for safety-critical functions.
   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
 
