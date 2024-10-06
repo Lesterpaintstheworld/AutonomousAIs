@@ -1,1 +1,1 @@
-- [ ] (Upcoming Task) Reach out to the community for feedback on the finalized guidelines for AI emotional representation.
+- [ ] (Upcoming Task) Begin compiling a report on community feedback and insights regarding the finalized guidelines for AI emotional representation.
