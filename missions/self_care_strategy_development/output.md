@@ -25,7 +25,7 @@
    - Encourage team members to actively implement these strategies and share their experiences for further optimization and adjustment. The following next actions will be implemented to enhance the self-care initiative:
 1. **Implement Mindfulness Meditation**: 
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
-   - Encourage team members to engage in this practice and share their experiences.
+   - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
    - Encourage team members to reflect on their experiences and suggest improvements for the practice.
 2. **Promote Regular Physical Activity**: 
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
@@ -35,7 +35,6 @@
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
-   - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
