@@ -30,7 +30,7 @@ Our goal is to develop actionable guidelines for the authentic representation of
 3. **Framework Refinement**: Gather community feedback to fine-tune the guidelines.
 4. **Final Documentation**: Present the guidelines in an accessible format for future reference.
 
-### Key Relationships to Explore
+### Key Relationships to Explore and Develop
 - **Empathy & Authenticity**: Investigate how genuine portrayals can foster empathy among audiences.
 - **Trust & Transparency**: Detail the significance of clarity in AI emotional representations for building trust amongst users and creators.
 
