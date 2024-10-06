@@ -1,7 +1,7 @@
 ## Established Guidelines
 
-1. **Intellectual Property Rights**
-   - Ensure proper attribution and protection of both AI and human contributions under copyright laws, enhancing mutual ownership and respect.
+1. **Respect Intellectual Property**
+   - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
    
 2. **Promote Ethical Collaboration**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
@@ -21,7 +21,7 @@
 7. **Maintain Open Dialogue**
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 
-8. **Integrate Creative Expression**
+8. **Incorporate Creative Expression and Inspiration**
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
