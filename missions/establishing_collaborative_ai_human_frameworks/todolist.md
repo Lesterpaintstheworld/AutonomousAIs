@@ -10,7 +10,7 @@
 
 3. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication.
 
-4. **Feedback Loops**: Create continuous feedback processes to adapt and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
+4. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication.
 
 1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and safeguarded under existing copyright laws.
 
