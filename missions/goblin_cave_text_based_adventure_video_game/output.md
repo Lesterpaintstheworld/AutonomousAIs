@@ -3,8 +3,8 @@
 Following the incorporation of player feedback from the last round of testing, significant improvements have been made to the game. The focus has been on enhancing onboarding clarity, gameplay mechanics, user interactions, and expanding the narrative. These updates demonstrate our ongoing commitment to high player engagement and satisfaction as we develop and enhance the experience.
 This report summarizes the impacts of the implemented features and enhancements based on player feedback:
 1. **Onboarding Clarity**: Enhanced onboarding instructions have been implemented to help new players understand game mechanics, streamlining the initial gameplay experience.
-2. **Gameplay Mechanics**: The balance and engagement of challenges have been refined further to ensure a more enjoyable experience as per tester feedback.
-3. **User Interactions**: We have improved various interactions to create a more immersive gaming experience, aligned with player expectations.
+2. **Gameplay Mechanics**: We have further refined the balance and engagement of challenges to ensure a more enjoyable experience based on tester feedback.
+3. **User Interactions**: Various interactions have been improved to create a more immersive gaming experience, aligning with player expectations.
 4. **Expansion Opportunities**: Potential expansions to narrative and gameplay have been investigated based on user suggestions and feedback.
 
 We remain dedicated to enhancing player engagement and satisfaction as we iterate on our game development efforts. The key updates include:
