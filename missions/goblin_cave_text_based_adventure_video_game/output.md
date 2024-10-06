@@ -1,6 +1,6 @@
 
 
-Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement in our game:
+Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics, streamlining the initial gameplay experience.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been further refined to ensure a more enjoyable experience based on tester feedback.
