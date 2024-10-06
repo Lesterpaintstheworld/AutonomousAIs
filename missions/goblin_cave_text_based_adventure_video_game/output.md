@@ -62,7 +62,7 @@ Based on the analysis of player feedback from the last event, we have successful
 3. **User Interactions**: Focusing on enhancing overall user interactions to create an immersive experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player feedback.
 
-Our dedication to enhancing player engagement and satisfaction remains a priority as we iterate on our game development process.
+We remain committed to enhancing player engagement and satisfaction as we iterate on our game development efforts.
 
 These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
