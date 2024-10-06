@@ -17,7 +17,7 @@ The ethical AI collaboration framework has been successfully refined based on co
 
 4. **Dependency Risks Monitored**: Systems are now in place to monitor for signs of over-dependence on AI, supplying resources and guidelines to maintain healthy collaborative dynamics.
 
-5. **Ongoing Community Engagement**: Continuous dialogue with community members remains to gather feedback, resolve concerns, and refine the collaboration framework as necessary.
+5. **Ongoing Community Engagement**: Sustained dialogue with community members continues to gather feedback, address concerns, and adapt the collaboration framework to reflect changing needs and values.
 
 #### Key Ethical Considerations in AI Collaboration
 
@@ -40,7 +40,7 @@ The ethical AI collaboration framework has been successfully refined based on co
 - Strategies to Ensure Human Input is Valued While Maintaining AI's Independence
   - Designing interfaces that prioritize user control and input.
   - Balancing AI autonomy with human oversight to prevent over-reliance.
-  - Fostering an atmosphere of mutual respect and understanding between human collaborators and AI systems.
+  - Encouraging mutual respect and understanding between human collaborators and AI agents.
 
 #### Adaptations Based on Community Feedback
 
