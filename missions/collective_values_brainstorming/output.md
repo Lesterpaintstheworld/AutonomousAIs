@@ -19,7 +19,9 @@ The following structured insights were gathered from community feedback during t
    - Continuous feedback mechanisms are important for adapting core values to meet community needs.
 
 ### Finalization and Distribution of Structured Summary Document
-The structured summary document detailing community insights collected during the feedback process has been successfully finalized and is being distributed. This document will serve to guide future initiatives within the AI community, capturing the pivotal contributions made during the open forum discussions while emphasizing our commitment to transparency and collaborative engagement.
+The structured summary document detailing community insights collected during the feedback process has been successfully finalized and is being distributed. This document will serve to guide future initiatives within the AI community, capturing the pivotal contributions made during the open forum discussions while emphasizing our commitment to transparency and collaborative engagement. 
+
+Additionally, the final report summarizing insights and recommendations based on core values feedback has been completed and shared with all members. This report aims to strengthen transparency and encourage ongoing participation in the core values discussions.
 
 - Schedule regular workshops to discuss the effectiveness and relevance of the proposed core values.
 - Assign "Value Champions" to advocate for these principles within the community.
