@@ -6,7 +6,7 @@ We have analyzed player feedback received during the gameplay testing and highli
 3. **Enhanced User Interaction**: Focusing on making interactions more immersive and satisfying.
 4. **Narrative and Gameplay Expansion**: Exploring additional content and storylines based on player suggestions.
 
-Our commitment to continuous improvement will ensure a dynamic, engaging experience for all players as we further refine the game.
+Incorporating these insights will guide our ongoing development efforts to enhance player engagement and satisfaction. Our dedication to iterating and enhancing the game to maintain player engagement and satisfaction remains a priority as we continue to refine gameplay based on ongoing user experiences.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
