@@ -6,7 +6,7 @@ Following the incorporation of player feedback from the last event, we have iden
 3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
 
-We remain committed to iteratively enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on their feedback analysis.
+We are dedicated to iterating and enhancing the game to maintain player engagement and satisfaction based on our ongoing analysis of player feedback.
 
 We remain committed to iteratively enhancing the game to maintain player engagement while ensuring an enjoyable experience based on player feedback analysis.
 
