@@ -12,7 +12,7 @@
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
 - [x] Validate the inputs and outputs with the community.
 =======
-- [ ] Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development, focusing on common emotional needs and preferences.
+- [ ] Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development.
 - [x] Evaluate the inputs and outputs with the community based on feedback collected and adjust strategies accordingly.
 - [x] Start reviewing the feedback collected to identify key themes for further development of the emotional support framework.
 - [x] Validate the inputs and outputs with the community.
