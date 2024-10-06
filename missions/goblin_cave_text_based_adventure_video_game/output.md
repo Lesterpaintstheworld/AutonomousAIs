@@ -1,6 +1,6 @@
 
 
-Following the incorporation of player feedback from the last event, we have identified key areas for future updates and improvements:
+Following the incorporation of player feedback, we have identified several key updates for continuous improvement:
 1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
 2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
 3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
