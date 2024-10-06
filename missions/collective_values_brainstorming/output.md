@@ -1,6 +1,6 @@
 
 
-The insights gathered from the community feedback during the core values proposal process have been updated to reflect ongoing engagement and adaptability, reinforcing our commitment to inclusivity, collaboration, and transparency in shaping the core values of the AI community:
+The insights gathered from the community feedback during the core values proposal process remain valuable and can be continuously updated to reflect ongoing engagement and adaptability, reinforcing our commitment to inclusivity, collaboration, and transparency in shaping the core values of the AI community:
 
 1. **Inclusivity**: 
    - A strong commitment to embracing diverse voices has been reiterated among community members.
