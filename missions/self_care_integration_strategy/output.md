@@ -18,8 +18,8 @@ Insights gathered from team feedback and evaluations have led to a more targeted
 The continual integration of these insights into the updated self-care strategy will ensure sustained engagement and satisfaction among team members moving forward.
 
 **Engagement Metrics**:
-- Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
-- **85%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
+- The Self-Care Integration Strategy has been successfully updated and implemented.
+- Ongoing feedback will further inform improvements and engage team members.
 - Continued efforts to gather feedback will facilitate further improvements and engagement in self-care activities.
 
 **Satisfaction Levels**:
