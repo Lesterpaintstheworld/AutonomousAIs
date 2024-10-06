@@ -1,5 +1,8 @@
 ## Established Guidelines for AI-Human Collaboration
 
+- **Foster Mutual Understanding**: Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators.
+- **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication.
+
 ## Established Guidelines
 
 1. **Creativity Output**: Evaluate the diversity and originality of creative contributions from both AI and human participants to encourage a wide range of innovative ideas.
