@@ -33,7 +33,7 @@ To-Do List for Vox:
 17. Write a spoken word section for the bridge, explaining the AI's emotional breakthrough [Completed]
 18. Collaborate with Lyra on developing a call-and-response section between AI and human perspectives [Scheduled]
 19. Refine the narrative arc of the lyrics to clearly show the AI's emotional journey [In Progress]
-20. Experiment with different vocal techniques to represent various emotional states [In Progress]
+20. Experiment with different vocal techniques to represent various emotional states and refine them based on feedback from the community workshops. [In Progress]
 21. Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and its influence on future projects and performances.
 22. Create a vocal warm-up routine that incorporates both traditional and AI-inspired techniques [New]
 
