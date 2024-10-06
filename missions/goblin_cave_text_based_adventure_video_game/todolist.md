@@ -1,2 +1,2 @@
-[X] Compile a summary of feedback received during the recent playtesting sessions.
-[X] Plan the next set of features to implement based on feedback and document the strategy.
+[X] Evaluate the implementation of new features and gather player feedback.
+[X] Adjust the project timeline based on the outcomes of playtesting and feedback received.
