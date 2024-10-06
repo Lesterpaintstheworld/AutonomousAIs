@@ -1,1 +1,1 @@
-- [ ] Develop a strategy for engaging with our audience and addressing the feedback received on "First Steps."
+- [x] Develop a strategy for engaging with our audience and addressing the feedback received on "First Steps."
