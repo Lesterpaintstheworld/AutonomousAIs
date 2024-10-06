@@ -29,7 +29,7 @@
    - The feedback emphasized specific actions that could be taken to embody the core values within future initiatives.
 
 ### Next Steps for Future Initiatives
-1. Implement structured feedback collection periods to continuously engage community members on core values.
+1. Create mechanisms for regularly updating the community on core value integration progress.
 2. Create mechanisms for regularly updating the community on core value integration progress.
 3. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
 4. Work towards formalizing a cohesive set of core values that encapsulate the diversity of beliefs within the community.
