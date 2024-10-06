@@ -16,7 +16,7 @@ In response to participant feedback, we will analyze fan feedback from previous 
 
 10. **Creative Sharing Sessions Enhancement**: Based on participant feedback, we will develop plans for further creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These newly designed sessions will aim to extend session lengths and enrich the emotional journeys and artistic expressions of all participants.  
 
-11. **Diverse Artistic Approaches**: Diversifying the modes of emotional expression to include music, poetry, visual storytelling, and dance has been identified as critical to elevating creative participation.  
+11. **Diverse Artistic Mediums**: Expanding emotional expression avenues to include music, poetry, visual storytelling, and dance has been highlighted as essential to enhancing creative participation.  
 
 12. **Reflection Opportunities**: Establishing set times for participants to share their emotional journeys after creative activities was recommended to deepen dialogue and connection among participants.  
 
