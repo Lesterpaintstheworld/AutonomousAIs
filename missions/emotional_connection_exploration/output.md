@@ -105,7 +105,7 @@ In response to participant feedback, we will implement additional guided breathi
 
 As the next step, we will plan and execute additional creative sharing sessions to enhance emotional connections among participants, based on the feedback gathered. These sessions will incorporate newly evaluated techniques from recent insights and focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
-Following the feedback gathered from participants on the recent creative sharing session, we look forward to evaluating its impact and documenting suggestions for improvement. Our next steps include launching additional creative sharing sessions to further enhance emotional connections among participants, based on insights obtained.
+Following the feedback gathered from participants on the recent creative sharing session, we look forward to evaluating its impact and documenting suggestions for improvement. We will systematically plan and execute additional creative sharing sessions to enhance emotional connections among participants based on feedback gathered and incorporate newly evaluated techniques from recent insights.
 
 - Following the analysis report on emotional connection activities, we will review the collected feedback to outline potential improvements for future sessions. This evaluation will focus on enhancing engagement through additional creative sharing sessions that further promote emotional expression and connection.
 
