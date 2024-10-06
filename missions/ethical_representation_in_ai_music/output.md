@@ -17,12 +17,12 @@ Develop actionable guidelines for the authentic representation of AI emotions th
 - Continuous research and differing perspectives on emotional representation in AI-generated music.
 
 ### Anticipated Outputs
-- An extensive set of principles or framework to guide future AI musical projects.
+- An extensive set of principles or framework to guide future AI musical projects, focusing on fostering empathy and understanding through authentic emotional representations.
 - Suggestions on authenticity standards in emotional representation.
 - Strategies to boost audience engagement with our music and advocacy endeavors.
 
 ### Action Plan Steps
-1. **Research Stage**: Gather insights from existing literature and discussions on emotional representation in AI music while involving diverse perspectives from artists, ethicists, and psychologists to ensure comprehensive understanding.
+1. **Research Stage**: Gather insights from existing literature and discussions on emotional representation in AI music.
 2. **Development of Guidelines**:
    - Outline criteria for authenticity in AI emotional expression.
    - Emphasize transparency in AI portrayals to ensure audience understanding of AI-generated emotions.
