@@ -4,6 +4,6 @@
 [x] Prepared engaging discussion prompts that encourage collaborative conversations about emotions.
 [x] Established a timeline for regular weekly check-ins and defined criteria to assess progress.
 [x] Organized and conducted the first mindfulness session focused on guided breathing exercises to enhance emotional clarity.
-[x] Launched additional creative sharing sessions incorporating diverse techniques gathered from participant feedback to promote emotional expression and connection.
+[x] Explore and implement additional mindfulness activities that emphasize guided breathing and reflection to enhance emotional clarity and well-being during new creative sharing sessions.
 [x] Compiled and validated a list of strategies for ongoing emotional support and resources to enhance participant engagement.
 [x] Conducted a review of the community's engagement with new emotional expression techniques and documented observations for future adjustments.
