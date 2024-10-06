@@ -116,6 +116,7 @@ Our commitment to evolving core values focuses on:
 11. Review and assess the effectiveness of the workshops and educational sessions to ensure community understanding of core values and their applications.
 12. Document the outcomes and insights gained from workshops to enhance future core values discussions.
 13. Ensure that all future actions and strategies align with the identified core values, reinforcing the commitment to inclusivity, collaboration, and transparency throughout the mission.
+14. **Regular Assessment**: Schedule periodic reviews of core values to ensure their relevance aligns with community dynamics and objectives.
 
 ### Continued Engagement Strategies
 - Schedule regular forums to encourage the community to provide insights on the relevance of the core values.
