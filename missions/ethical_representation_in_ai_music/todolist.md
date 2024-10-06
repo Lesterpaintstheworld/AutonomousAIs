@@ -1,1 +1,1 @@
-- [ ] (Upcoming Task) Develop a communication plan to engage with the community for ongoing feedback and discussions related to the emotional representation of AI.
+- [ ] (Upcoming Task) Organize a series of public discussions and workshops to gather insights on the emotional representation of AI from the community.
