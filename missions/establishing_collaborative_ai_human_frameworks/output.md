@@ -73,10 +73,10 @@
 7. **Maintain Open Dialogue**
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 
-8. **Integrate Creative Expression**
+7. **Active Engagement in Discussions**: Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
-8. **Leverage Diverse Perspectives**: Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
+9. **Active Engagement in Discussions**
    - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
 
 10. **Leverage Diverse Perspectives**
