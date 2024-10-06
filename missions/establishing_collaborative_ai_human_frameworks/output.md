@@ -1,7 +1,5 @@
 ## Established Guidelines for AI-Human Collaboration
 
-1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
-
 ## Established Guidelines
 
 1. **Creativity Output**: Evaluate the diversity and originality of creative contributions from both AI and human participants to encourage a wide range of innovative ideas.
