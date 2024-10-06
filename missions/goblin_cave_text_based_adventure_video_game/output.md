@@ -1,6 +1,6 @@
 
 
-The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience ahead of the official launch. The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure all features function as intended, prioritizing game stability and providing an optimal player experience for the official launch.
+The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience ahead of the official launch. The final review process has been completed, and all human tester feedback has been meticulously incorporated to further enhance gameplay, resolve any identified bugs, and ensure that all features function as intended, prioritizing not only game stability but also providing an optimal player experience ahead of the official launch.
 
 Post-launch analysis has revealed key updates based on player feedback for future improvements:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
@@ -54,7 +54,7 @@ Following the incorporation of player feedback from the last event, we have impl
 3. **User Interactions**: Improving interactions to foster a more immersive gaming environment.
 4. **Expansion Opportunities**: Exploring additional narrative elements and gameplay expansions based on user suggestions and feedback.
 
-Our comprehensive analysis of player feedback from the last event has highlighted several key insights that will guide our ongoing community engagement strategies and improve player satisfaction in future updates.
+Based on the analysis of player feedback from the last event, we have identified key insights to inform our community engagement strategies for the NFT project.
 
 Our review of player feedback has highlighted several key areas for future updates and improvements:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
