@@ -48,8 +48,8 @@ Continue monitoring the effectiveness of the self-care strategies document and a
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
    - Actively engage in conversations and listen to others to strengthen connections.
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
-   - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
-   - Actively engage in conversations and listen to others to strengthen connections.
+   - Join community groups or clubs that align with your interests.
+   - Encourage team members to build connections within and outside the team.
 
 6. **Support Journaling Practices**:
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
