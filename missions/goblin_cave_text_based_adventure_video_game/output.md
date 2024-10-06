@@ -96,11 +96,11 @@ Incorporated player feedback has significantly enhanced gameplay quality and pla
   2. Further refining gameplay mechanics for balanced challenges.
   3. Improving user interactions to foster a more immersive gaming experience.
 
-The post-launch analysis has revealed key updates based on player feedback for future improvements:
-1. Enhance the clarity of onboarding instructions to assist new players.
-2. Further refine gameplay mechanics for balanced challenges that can better engage players.
-3. Improve user interactions to foster a more immersive experience.
-4. Streamline processes to maintain player engagement and overall satisfaction.
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement:
+1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
 
 **Post-launch Focus Areas:**
 - Following post-launch analysis, we have identified key updates based on player feedback:
