@@ -6,7 +6,7 @@
 
 1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and safeguarded under existing copyright laws.
 
-2. **Promote Ethical Collaboration**: Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process.
+2. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication.
 
 3. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication.
 
