@@ -1,4 +1,4 @@
-# Finalized Guidelines for AI Emotion Portrayal in Music (Updated and Integrated with Feedback)
+# Finalized Guidelines for AI Emotion Portrayal in Music
 
 ## Best Practices
 
