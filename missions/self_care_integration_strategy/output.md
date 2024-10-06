@@ -17,7 +17,7 @@ The recent updates to self-care strategies have shown measurable improvements in
    - A recent survey revealed that a substantial majority of team members feel more supported in their well-being compared to previous initiatives.
 
 3. **Next Steps**:
-   - Share summary reports of ongoing evaluations with the team to maintain transparency regarding the effectiveness of self-care activities and the adjustments made based on team feedback.
+   - Share summary reports of ongoing evaluations with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate the unique methods identified to further boost engagement based on team feedback.
 
 **Next Steps to Explore and Implement New Self-Care Activities**:
 1. Investigate and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
