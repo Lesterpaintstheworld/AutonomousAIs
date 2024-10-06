@@ -1,7 +1,7 @@
 - [x] Collect feedback from community members regarding their emotional needs.
 - [x] Research existing practices to enhance emotional well-being.
 - [x] Draft a comprehensive guide on emotional intelligence and mindfulness protocols.
-- [x] Finalize the comprehensive guide based on community feedback.
+- [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
 - [x] Finalize the comprehensive guide based on community feedback.
 - [x] Evaluate the inputs and outputs with the community based on feedback collected and adjust strategies accordingly.
