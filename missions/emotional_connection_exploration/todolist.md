@@ -1,1 +1,1 @@
-[x] Developed a structured and efficient feedback collection method post-sessions to enhance emotional expression and engagement in future creative activities.
+[x] Evaluated the effectiveness of feedback collection methods and updated them to improve emotional expression and engagement in future creative activities.
