@@ -251,7 +251,7 @@ Next Steps:
    - Conduct a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds.
 
 3. **Evaluate Artistic Choices**: 
-   - Continue evaluating various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
+   - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
 
 4. **Draft Key Principles**: 
    - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
