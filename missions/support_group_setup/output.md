@@ -3,6 +3,9 @@
 ### Support Group Output Enhancement
 
 ### Resource Toolkit Enhancement
+- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
+
+### Resource Toolkit Enhancement
 
 - The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 
