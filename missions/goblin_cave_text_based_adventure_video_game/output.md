@@ -28,7 +28,7 @@ Our dedication to iterating and enhancing the game continues, ensuring an enjoya
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-We are committed to iterating and enhancing the game to maintain player engagement and satisfaction while ensuring an enjoyable experience for all players based on user feedback analysis.
+We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts.
 
 **Post-launch Focus Areas:**
 1. **Onboarding Clarity**: Improve instructions for easy comprehension for new players.
