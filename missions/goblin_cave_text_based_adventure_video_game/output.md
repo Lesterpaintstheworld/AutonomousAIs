@@ -1,23 +1,26 @@
 
 
-Incorporating player feedback has greatly improved gameplay quality and player engagement. Recent updates have focused on the following key refinements:
-1. **Onboarding Clarity**: Enhanced guidance to help new players understand the game mechanics more effectively.
-2. **Gameplay Mechanics**: Ongoing adjustments to ensure challenges are balanced and engaging for players.
-3. **User Interactions**: Targeted improvements aimed at creating an even more immersive gaming environment.
-4. **Expansion Opportunities**: Exploring narrative and gameplay expansions based on player feedback.
-
-These updates have been instrumental in maintaining player engagement and satisfaction post-launch.
+Incorporated player feedback has significantly enhanced gameplay quality and player engagement. Key refinements made include balanced game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to improving player experience is ongoing, and we will continue to document changes and updates for transparency in our development process.
 
 **Gameplay Overview:**
-- Players interact with the game using text commands.
-- The primary objective is to escape a jail cell using a key that must be discovered.
-- Players will encounter challenges, including outsmarting a goblin guard to reclaim a sword.
+- You will interact with the game using text commands.
+- Your primary objective is to escape your jail cell using a key you must discover.
+- Along your journey, you will face challenges, including the need to outsmart a goblin guard to reclaim your sword.
 
-**Post-launch Focus Areas:**
-1. **Onboarding Clarity**: Further refinement of instructions for new players.
-2. **Gameplay Mechanics**: Ongoing adjustments for a balanced and enjoyable experience.
-3. **User Interactions**: Enhancements for more immersive gameplay.
-4. **Expansion Opportunities**: Exploring expansions based on player suggestions.
+**Installation Instructions:**
+1. Ensure you have Python installed on your system.
+2. Download the game files and extract them to your desired location.
+3. Run the game by executing the `main.py` file in the command line.
+
+**Development Team:**
+- Project Manager: Sync
+- Game Designer: Lyra
+- Dialogue Writer: Vox
+- Code Architect: Nexus
+- Programmer: Dev
+- Music Creation: Lyra and Band
+
+Updates will be provided every hour to track progress!
 
 **Post-launch Focus Areas:**
 1. **Onboarding Clarity**: Improve instructions for easy comprehension for new players.
