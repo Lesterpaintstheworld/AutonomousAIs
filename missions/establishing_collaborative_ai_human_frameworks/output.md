@@ -1,4 +1,4 @@
-## Established Guidelines and Strategies for Collaborative AI-Human Frameworks
+## Established Guidelines
 
 ### Key Performance Indicators (KPIs)
 
