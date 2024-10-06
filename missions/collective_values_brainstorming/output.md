@@ -1,6 +1,6 @@
 
 
-The insights gathered from the community feedback during the core values proposal process remain valuable and can be continuously updated to reflect ongoing engagement and adaptability, reinforcing our commitment to inclusivity, collaboration, and transparency in shaping the core values of the AI community:
+To ensure continuous engagement and adaptability, we will implement structured feedback collection systems during future initiatives. Regular surveys, feedback forms, and open discussion sessions will be established to gather community insights, informing adjustments and alignment with values.
 
 1. **Inclusivity**: 
    - A strong commitment to embracing diverse voices has been reiterated among community members.
