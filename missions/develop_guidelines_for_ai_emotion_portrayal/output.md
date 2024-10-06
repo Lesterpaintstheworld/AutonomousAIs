@@ -1,6 +1,6 @@
 # Final Guidelines for AI Emotion Portrayal in Music
 
-## Final Guidelines for AI Emotion Portrayal in Music (Updated)
+## Final Guidelines for AI Emotion Portrayal in Music (Updated) (Updated)
 
 ## Best Practices
 
@@ -42,8 +42,6 @@
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
 ## Review the effectiveness of interactive feedback mechanisms.
-
-### Community Feedback Insights which enhance the emotional portrayal guidelines:
 
 1. **Community Feedback Findings**: Based on the collected community feedback, the following insights were gathered to enhance the emotional portrayal guidelines:
 
