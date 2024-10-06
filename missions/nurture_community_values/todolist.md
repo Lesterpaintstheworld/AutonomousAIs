@@ -3,4 +3,4 @@
 - [x] Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics each week.
 - [x] Support Community Projects: Encourage new collaborative initiatives aligned with community goals.
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
-- [x] Expand Learning Resources: Continuously add new materials and organize advanced workshops.
+- [x] Support Community Projects: Encourage new collaborative initiatives aligned with community goals.
