@@ -31,12 +31,12 @@
 - **Topic:** Engaging Members through Interactive Formats
 - **Summary:** Explored ways to incorporate polls and gamification into discussions to enhance member engagement.
 
-### Day 2: Building on Inclusivity
-- **Topic:** Expanding Inclusivity Initiatives
+### Day 2: Strengthening Inclusivity Practices
+- **Topic:** Expanding Accessibility Measures
 - **Summary:** Discussed additional outreach strategies to include even more underrepresented groups in community activities.
 
-### Day 3: Improving Acknowledgment
-- **Topic:** Innovating Recognition Programs
+### Day 3: Enhancing Recognition
+- **Topic:** Revamping Recognition Systems
 - **Summary:** Brainstormed innovative approaches to recognize contributions by utilizing member stories and testimonials.
 
 ### Day 4: Trust-Building Strategies
