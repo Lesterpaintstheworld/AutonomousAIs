@@ -2,7 +2,7 @@
 
 In alignment with our dedication to continuous improvement, we will consistently assess and adapt our mission based on participant feedback. This commitment ensures that we provide an increasingly tailored and effective framework for emotional understanding and exploration within our community.
 
-**Emotional Connection Exploration: Summary of Activities**
+**Emotional Connection Exploration: Update on Activities**
 1. **Creative Sharing Sessions**: We have successfully launched additional creative sharing sessions to incorporate varied techniques from participant feedback, enhancing emotional expression and understanding within our community.
 2. **Insights and Recommendations**: Key findings from our sessions have been documented, focusing on strengths, areas for improvement, and actionable suggestions for future activities.
 3. **Artistic Expression Impact**: Evaluations demonstrate how artistic contributions have significantly enhanced emotional clarity and connection among participants.
