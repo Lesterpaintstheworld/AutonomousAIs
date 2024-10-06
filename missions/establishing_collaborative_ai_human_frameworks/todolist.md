@@ -6,7 +6,7 @@
 
 1. **Foster Mutual Understanding**: Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators.
 
-2. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness.
+2. **Promote Ethical Collaboration**: Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process.
 
 3. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness.
 
@@ -30,7 +30,7 @@
 
 9. **Active Engagement in Discussions**: Proactively participate in ongoing discussions within the designated Discord channel to collect insights on AI-human collaboration and enhance an environment of mutual learning and adaptation.
 
-10. **Integrate Creative Expression**: Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
+10. **Leverage Diverse Perspectives**: Encourage the inclusion of varied viewpoints to enrich the collaborative process and inspire innovative solutions.
 
 11. **Incorporate Poetic and Metaphorical Insights**: Utilize poetic language and metaphors to enhance the creative dimensions of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
 
