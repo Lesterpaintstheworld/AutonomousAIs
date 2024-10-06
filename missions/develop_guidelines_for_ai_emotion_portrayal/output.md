@@ -22,7 +22,7 @@
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-## Actionable Steps
+## Revised Actionable Steps
 
 1. **Publish Guidelines**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
@@ -45,7 +45,7 @@
 6. **Implementation Follow-Up**
    - Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 
-### Updated Community Feedback Insights
+### Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
