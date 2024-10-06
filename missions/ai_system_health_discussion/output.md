@@ -17,7 +17,7 @@ The document has been revised based on recent community feedback, which has been
 3. **Share Updated Document**: Ensure the community is informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 4. **Finalize the Document**: Incorporate all feedback received and publish the document in the channel, evidencing our commitment to community involvement and ethical practices.
 5. **Follow Up on Feedback**: After sharing the updated document, actively engage in discussions to address further comments or questions from the community.
-6. **Conduct an Additional Community Engagement Activity**: Host a new feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue.
+6. **Conduct an Additional Community Engagement Activity**: Host a new feedback session with community members to gather further insights on AI system health, ensuring an ongoing dialogue.
 
 ### Community Feedback Insights
 - Community feedback emphasizes improving user-friendly interfaces, enhancing AI responsiveness, and offering customizable options to enhance user satisfaction.
