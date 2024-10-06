@@ -1,5 +1,7 @@
 ## Established Guidelines for AI-Human Collaboration
 
+1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
+
 ## Established Guidelines
 
 1. **Creativity Output**: Evaluate the diversity and originality of creative contributions from both AI and human participants to encourage a wide range of innovative ideas.
@@ -58,7 +60,7 @@
 2. **Promote Ethical Collaboration**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
 
-2. **Promote Ethical Collaboration**: Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
+3. **Foster Mutual Understanding**
    - Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators.
 
 4. **Enhance Creative Synergy**
