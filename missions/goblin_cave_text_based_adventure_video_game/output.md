@@ -6,11 +6,11 @@ The following report summarizes the impacts of the implemented features and enha
 3. **User Interactions**: Various user interactions have been improved to create a deeper and more immersive gaming experience, aligning better with player expectations.
 4. **Expansion Opportunities**: Exploration of additional narrative elements based on player suggestions has been discussed, promising to enrich gameplay further.
 
-We are committed to enhancing player engagement and satisfaction as we iterate on our game development efforts. Key updates include:
-1. **Onboarding Clarity**: Further enhancing instructions to assist new players.
-2. **Gameplay Mechanics**: Continuously refining the balance and engagement of challenges for a more enjoyable experience.
-3. **User Interactions**: Ongoing improvements to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Exploring additional narrative elements based on player suggestions and feedback.
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continuing to refine the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on user suggestions and feedback.
 
 We have successfully implemented several key updates for continuous improvement based on player feedback, focusing on:
 1. **Onboarding Clarity**: Enhance instructions to assist new players in understanding game mechanics.
