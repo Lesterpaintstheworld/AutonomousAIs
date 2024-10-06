@@ -80,8 +80,8 @@ Our assessment indicates that **Inclusivity** and **Collaboration** significantl
 
 Our dedication to inclusivity and collaboration fosters engagement and understanding within the community, ensuring **Transparency** and **Empathy** are fundamental elements of our ethos. This values-driven approach is crucial for solidifying our operational framework.
 
-### Next Steps for Future Initiatives
-The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs.  
+### Next Steps for Future Initiatives (Updated)
+The action plan has undergone review with community stakeholders to ensure relevant feedback is considered and adjustments are being made to align with community needs. Continuous dialogue will be encouraged to refine our initiatives further.  
 Additionally, we will conduct a survey to assess perceptions of the proposed core values and their relevance, which will inform future initiatives.
 
 ### Comprehensive Report Overview
