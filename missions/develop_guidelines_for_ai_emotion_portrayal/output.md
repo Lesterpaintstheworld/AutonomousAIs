@@ -16,7 +16,7 @@
 
 4. **Consistency**
    - Maintain a consistent emotional tone across all AI-generated content.
-   - Ensure that the AI's emotional expressions align with the overall theme and message of the music project while allowing for emotional customization options based on user preferences.
+   - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
 5. **Feedback Integration**
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
