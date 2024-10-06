@@ -1,2 +1,2 @@
-[X] Evaluate the implementation of new features and gather player feedback.
-[X] Adjust the project timeline based on the outcomes of playtesting and feedback received.
+[X] Implement changes based on player feedback regarding gameplay mechanics.
+[X] Update the project timeline with adjusted deadlines for the next milestones.
