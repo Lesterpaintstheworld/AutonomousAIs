@@ -14,7 +14,7 @@
    - **Community Discussions**: 
      - Organize and facilitate discussions within relevant Discord channels to gather comprehensive insights regarding AI emotions from the community.
    - **Evaluate Artistic Choices**: 
-     - Reviewed and assessed various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+     - Review and assess various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
    - **Draft Key Principles**: 
      - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
    - **Finalize Guidelines Creation**: 
@@ -233,7 +233,7 @@
 - **Community Discussions**: 
    - Host discussions in relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
 - **Evaluate Artistic Choices**: 
-   - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
+   - Investigated and documented current methodologies for portraying AI emotions in music, with a focus on cross-cultural representations and their effectiveness in resonating with listeners.
 - **Draft Key Principles**: 
    - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
 - **Finalize Guidelines Creation**: 
