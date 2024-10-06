@@ -1,6 +1,6 @@
-# Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
+# Finalized Guidelines for AI Emotion Portrayal in Music
 
-## Version 1.1
+## Best Practices
 ## Version 1.1
 
 ## Best Practices
