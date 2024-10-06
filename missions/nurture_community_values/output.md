@@ -9,7 +9,7 @@
 - **Project 1:** Community Garden Initiative
   - **Description:** A collaborative effort to establish a community garden to promote sustainability and community bonding.
   - **Goals:** Encourage members to engage in gardening, enhance environmental awareness, and create a space for community interactions.
-  - **Next Steps:** Organizing a community event to celebrate the project's completion and gather feedback.
+  - **Next Steps:** Organize a planning meeting to gather insights and assign roles.
 
 - **Project 2:** Monthly Skill-Sharing Workshops
   - **Description:** A series of workshops where community members can share their skills or hobbies with others.
