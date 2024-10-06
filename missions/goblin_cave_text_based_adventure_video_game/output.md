@@ -81,7 +81,7 @@ These updates will guide our ongoing development efforts to maintain player enga
 
 Our dedication to improvement is ongoing, and we will maintain a transparent record of changes made throughout this process.  
 
-Incorporating these insights will guide our ongoing development efforts to enhance player immersion, refine gameplay dynamics, and bolster overall engagement.  
+Incorporating the key updates, we will focus on enhancing player onboarding clarity, refining gameplay mechanics, improving user interactions for a more immersive experience, and exploring potential narrative expansions based on player feedback.  
 
 With each update, we reaffirm our commitment to improving gameplay quality and player engagement, enhancing the overall gaming experience.
 
