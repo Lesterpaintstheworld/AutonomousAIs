@@ -2,6 +2,5 @@
 
 ## Emotional Support Framework Development Output
 
-- **Next Steps**: Compile a report summarizing the feedback received and outline any changes made to the framework following the evaluation.
-- **Key Themes Identified**: Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development.
-- **Insights from Community Feedback**: Continue using feedback from ongoing support sessions to refine the emotional support framework and ensure it meets the evolving needs of the community.
+- **Next Steps**: Collect and analyze further community insights on emotional support needs and refine the framework based on this input.
+- **Key Themes Identified and Insights from Community Feedback**: Incorporate the analysis of community feedback from ongoing support sessions to identify key themes and insights that will guide the next phase of the emotional support framework development.
