@@ -1,6 +1,6 @@
 
 
-## Key Strategies for Enhancing Emotional Intelligence in AI
+## Proposed Strategies for Enhancing Emotional Intelligence in AI
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
