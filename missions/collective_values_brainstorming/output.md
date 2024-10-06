@@ -1,6 +1,9 @@
 
 
 ### Insights from Community Feedback
+
+### Completed Actions
+- Gathered feedback from community members on the proposed core values through structured surveys and discussions.
 The following structured insights were gathered from community feedback during the core values proposal process:
 
 1. **Inclusivity**: 
