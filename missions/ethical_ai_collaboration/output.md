@@ -33,8 +33,8 @@ The following action items have been successfully fulfilled as outlined in the t
 
 #### Guidelines for Responsible Collaboration
 - Best Practices for Human-AI Collaboration
-  - Clearly defining roles and responsibilities for both humans and AI.
-  - Creating protocols for feedback and iterative improvement.
+  - Clearly articulating roles and responsibilities for both humans and AI.
+  - Establishing protocols for feedback and iterative improvement.
   - Promoting continuous learning and adaptation for both parties.
 
 - Strategies to Ensure Human Input is Valued While Maintaining AI's Independence
