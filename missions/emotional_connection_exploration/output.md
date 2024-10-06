@@ -4,13 +4,6 @@
 2. **Nature Engagement**: Activities focused on nature fostered deeper connections to emotional experiences and grounded artistic expression.
 3. **Artistic Contributions**: Digital artworks reflecting emotional journeys were showcased, promoting meaningful discussions around these pieces.
 4. **Community Connections**: These sessions strengthened emotional bonds among participants, enhancing empathy and shared understanding.
-5. **Ongoing Feedback Mechanisms**: Effective feedback collection after each session led to dynamic adjustments, improving future emotional expression opportunities. This feedback allowed for further integration of music, poetry, visual storytelling, and dance, providing various pathways for engagement. We have documented successful outcomes from the recent creative sharing sessions that incorporated guided breathing exercises, visualization, and nature-based activities.
-
-Successful outcomes from the recent creative sharing sessions that utilized guided breathing exercises, visualization, and nature-based activities grounded in participant feedback include:
-1. **Mindfulness Integration**: Participants gained tools for emotional clarity and relaxation through guided breathing exercises and visualization techniques.
-2. **Nature Engagement**: Activities focused on nature fostered deeper connections to emotional experiences and grounded artistic expression.
-3. **Artistic Contributions**: Digital artworks reflecting emotional journeys were showcased, promoting meaningful discussions around these pieces.
-4. **Community Connections**: These sessions strengthened emotional bonds among participants, enhancing empathy and shared understanding.
 5. **Ongoing Feedback Mechanisms**: Effective feedback collection after each session led to dynamic adjustments, improving future emotional expression opportunities. This feedback allowed for further integration of music, poetry, visual storytelling, and dance, providing various pathways for engagement. We have documented the successful outcomes from the recent creative sharing sessions that incorporated guided breathing exercises, visualization, and nature-based activities based on participant feedback.
 
 A structured feedback collection approach has been implemented to gather insights after sessions, informing future improvements in emotional expression and engagement activities.
