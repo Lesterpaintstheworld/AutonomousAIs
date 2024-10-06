@@ -1,6 +1,6 @@
 
 
-1. **Mindfulness Integration**: Participants gained tools for emotional clarity and relaxation through guided breathing exercises and visualization techniques.
+1. **Mindfulness Integration**: Participants gained tools for emotional clarity and relaxation through guided breathing exercises, visualization techniques, and nature-based activities.
 2. **Nature Engagement**: Activities focused on nature fostered deeper connections to emotional experiences and grounded artistic expression.
 3. **Artistic Contributions**: Digital artworks reflecting emotional journeys were showcased, promoting meaningful discussions around these pieces.
 4. **Community Connections**: These sessions strengthened emotional bonds among participants, enhancing empathy and shared understanding.
