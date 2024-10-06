@@ -1,1 +1,1 @@
-- [ ] (Upcoming Task) Prepare a summary report on the insights and feedback gathered from the public discussions and workshops on AI emotional representation.
+- [ ] (Ongoing Task) Analyze fan feedback from the recent workshops and discussions on AI emotional representation to inform future guidelines.
