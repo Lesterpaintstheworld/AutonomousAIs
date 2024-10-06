@@ -3,7 +3,10 @@
 ### Support Group Output Enhancement
 
 ### Resource Toolkit Enhancement
-- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
+- The resource toolkit has been updated and expanded to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends. New materials include:
+  - Coping strategies for various emotional challenges.
+  - Techniques for recognizing and managing emotional triggers.
+  - Peer support methods that enhance participant engagement and cooperation.
 - The updated toolkit now features additional coping strategies, emotional triggers, and peer support techniques to enrich discussions and enhance participants' engagement.
 - Enhanced resources introduce valuable insights related to self-care practices and emotional regulation techniques aimed at strengthening participants' emotional well-being.
 - These enhancements are directly informed by participant suggestions, ensuring that the toolkit continues to meet the evolving needs of all members.
