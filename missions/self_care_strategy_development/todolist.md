@@ -40,6 +40,7 @@ Continue monitoring the effectiveness of the self-care strategies document and a
    - Create a restful sleeping environment by minimizing noise and light.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
+   - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
 
 5. **Foster Social Connections**:
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
