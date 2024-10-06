@@ -14,6 +14,6 @@
 =======
 - [x] Validate the inputs and outputs with the community.
 - [x] Start reviewing the feedback collected to identify key themes for further development of the emotional support framework.
-- [x] Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development.
+- [x] Validate the inputs and outputs with the community.
 - [x] Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development.
 - [x] Analyze community feedback from ongoing support sessions to identify key themes that will guide the next phase of the emotional support framework development.
