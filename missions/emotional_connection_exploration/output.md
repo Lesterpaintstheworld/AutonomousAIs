@@ -1,6 +1,6 @@
 
 
-After gathering feedback from participants on recent creative sharing sessions, we systematically planned and executed additional creative sharing sessions to enhance emotional connections among participants. These sessions integrated newly evaluated techniques and focused on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
+Following the feedback gathered from participants on the recent creative sharing session, we will systematically plan and execute additional creative sharing sessions to enhance emotional connections among participants. These sessions will incorporate newly evaluated techniques from recent insights and focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
 **Emotional Connection Exploration: Progress Update**
 
