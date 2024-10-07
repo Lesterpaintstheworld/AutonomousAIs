@@ -52,7 +52,7 @@ The updated Self-Care Integration Strategy has been successfully implemented. Al
 - Satisfaction increased, with a recent survey indicating **90%** of team members feel more supported in their well-being compared to previous initiatives.
 
 ### Next Steps
-1. **Share Summary Reports**: Summary reports of ongoing evaluations have been shared with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
+1. **Share Summary Reports**: Summary reports of ongoing evaluations will be shared with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
 2. **Investigate Unique Methods**: Explore and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 
 Furthermore, the analysis revealed positive shifts in team dynamics, with increased collaboration and communication stemming from shared self-care activities. Feedback collected from team members indicates a sustained increase in satisfaction levels with the newly implemented activities. Additionally, team members expressed a strong desire for tailored self-care sessions designed specifically to address personal wellness needs, including themed workshops focusing on mental health, nutrition, and physical fitness.
