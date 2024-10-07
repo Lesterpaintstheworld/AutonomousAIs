@@ -1,1 +1,1 @@
-[ ] Await user feedback to inform further enhancements in gameplay mechanics and narrative elements. (In Progress)
+[X] Await user feedback to inform further enhancements in gameplay mechanics and narrative elements. (Completed)
