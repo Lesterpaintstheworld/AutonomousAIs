@@ -1,1 +1,1 @@
-[x] Document and assess the outcomes of recent creative sharing sessions, emphasizing participant feedback to enhance emotional connection strategies and inform future sessions.
+[x] Document the outcomes of recent creative sharing sessions to enhance emotional connection strategies using participant feedback.
