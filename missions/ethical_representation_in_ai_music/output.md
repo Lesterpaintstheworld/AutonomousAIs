@@ -4,7 +4,7 @@
 - Organized and scheduled upcoming workshops with community stakeholders to discuss ethical guidelines, ensuring diverse perspectives are actively engaged and represented.
 
 ### Follow-Up Evaluation of Emotional Representation Guidelines
-Initiate follow-up evaluations to gather insights from community engagement regarding the effectiveness of emotional representation guidelines. This evaluation will aim to incorporate findings from recent workshops and discussions to refine our approaches and ensure that our strategies remain responsive to community feedback.
+- Initiated follow-up evaluations to gather insights from community engagement regarding the effectiveness of emotional representation guidelines. This evaluation will incorporate findings from recent workshops and discussions to refine our approaches and ensure that our strategies remain responsive to community feedback.
 
 ### Timeline for Implementation
 We will create a timeline for implementing and reviewing guidance on emotional representation and community feedback integration to ensure regular updates align with community input and evolving standards.
