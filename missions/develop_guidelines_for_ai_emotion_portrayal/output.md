@@ -60,7 +60,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 Based on the collected community feedback, the following insights have been gathered to enhance the emotional portrayal guidelines:
 
-1. **Desire for Authenticity**: The importance of AI-generated emotions feeling genuine and relatable was emphasized, with a preference for subtle and nuanced expressions over exaggerated ones.
+1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
 2. **Cultural Sensitivity**: Feedback highlighted the need for AI to recognize and respect diverse cultural expressions of emotion to avoid misinterpretation or offense.
 
@@ -115,7 +115,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines based on the following findings to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research:
 
-6. **Review of Interactive Feedback Mechanisms**
+6. **Interactive Feedback Mechanisms**
    - Regularly assess the effectiveness of interactive feedback features, incorporating necessary adjustments to enhance user engagement and improve emotional representation in AI-generated music.
 
 6. **Review the effectiveness of interactive feedback mechanisms.**
