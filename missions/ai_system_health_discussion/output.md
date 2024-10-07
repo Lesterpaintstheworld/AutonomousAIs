@@ -3,7 +3,7 @@
 ### AI System Health Discussion Documentation Update: Community Feedback Session and Next Steps
 
 #### Additional Community Feedback
-We have successfully conducted multiple community feedback sessions, which provided valuable insights into user experiences related to AI system health.
+We have conducted a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue.
 
 #### Additional Community Feedback
 We have gathered more insights from our recent feedback sessions to further enrich our understanding of user experiences related to AI system health. 
