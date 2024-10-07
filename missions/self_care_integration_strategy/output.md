@@ -6,9 +6,9 @@
 
 
 ### Next Steps
-1. **Share Summary Reports**: Distribute summary reports of ongoing evaluations with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
-2. **Investigate Unique Methods**: Explore and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
-3. **Summarize Outcomes**: Summarize and evaluate the outcomes and effectiveness of the newly implemented self-care activities to inform future strategies.
+1. **Distribute Summary Reports**: Share summary reports of ongoing evaluations with the team to ensure transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
+2. **Explore New Methods**: Investigate and implement new self-care activities based on team member suggestions to further enhance engagement, including tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
+3. **Evaluate Outcomes**: Summarize and evaluate the outcomes and effectiveness of the newly implemented self-care activities to inform future strategies.
 
 1. **Tailored Activities**: Team members continue to express a strong desire for self-care sessions specifically designed to address personal wellness needs. Suggested activities include themed workshops focusing on mental health, nutrition, and physical fitness.
 
