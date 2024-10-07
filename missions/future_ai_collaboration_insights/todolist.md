@@ -3,4 +3,4 @@
 [✔️] Remove duplicate entries to streamline the todolist, ensuring clarity in key actions.
 [✔️] Evaluate the effectiveness of innovative methodologies in enhancing interactions between AI and humans based on collected feedback and metrics, ensuring alignment with ethical AI practices and incorporating insights from previous discussions.
 [✔️] Incorporate feedback from stakeholders by adding relevant case studies that illustrate the applications of strategies discussed and further developing the trust-building section to provide more detailed implementation steps.
-[✔️] Finalize and present the compilation of actionable insights and case studies to stakeholders to gather feedback for future enhancements.
+[✔️] Prepare a follow-up report summarizing community engagement and artist involvement metrics for the Chicago Art NFT Collaboration project.
