@@ -7,7 +7,7 @@ Additionally, we will implement ongoing community engagement activities, such as
 To stimulate continuous improvement, we will consistently seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This iterative process will guarantee that the guidelines evolve in alignment with the needs and concerns of the community. We will establish regular feedback loops and integrate insights from public forums and discussions, ensuring diverse perspectives are acknowledged and acted upon in future revisions. Furthermore, we strive to sustain relevant ethical standards in response to advancing technology while implementing a structured timeline for the regular review of these guidelines.
 
 ### Timeline for Implementation
-We have developed a timeline for implementing key insights into future engagement strategies to ensure regular reviews of our guidelines.
+We will develop a timeline for implementing the key insights into future engagement strategies to ensure regular reviews of our guidelines.
 
 ### Document the Findings
 To ensure that the guidelines for AI emotional representation evolve in response to community feedback and incorporate new insights, we have documented findings from recent evaluations and engagement strategies. This includes a summary of audience perceptions, proposed next steps, and the integration of community feedback into the guidelines.
