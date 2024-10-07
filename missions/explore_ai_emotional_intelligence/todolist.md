@@ -1,5 +1,5 @@
 - [x] Compile insights on community engagement strategies for further initiatives focused on emotional intelligence integration.
-- [ ] Conduct follow-up discussions in the Discord channel with community members to gather ongoing insights and feedback on emotional intelligence responses, fostering further engagement and refinement.
+- [x] Conduct follow-up discussions in the Discord channel with community members to gather ongoing insights and feedback on emotional intelligence responses, fostering further engagement and refinement.
 - [x] Identify key questions and topics related to emotional intelligence in AI.
 - [x] Summarize findings from community feedback.
 - [x] Analyze compiled data to formulate tailored recommendations.
