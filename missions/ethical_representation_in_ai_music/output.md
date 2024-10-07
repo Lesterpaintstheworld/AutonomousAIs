@@ -1,6 +1,6 @@
 ### Community Workshops
 - We will organize and schedule upcoming workshops with community stakeholders to discuss ethical guidelines, ensuring diverse perspectives are actively engaged and represented. A structured timeline for regular guideline reviews will be established to maintain continuous improvement.
-- **Next Steps**: Organize and schedule upcoming workshops to ensure diverse perspectives are actively engaged and represented, incorporating insights gained from community feedback into the guidelines.
+- **Next Steps**: Organize and schedule upcoming workshops with community stakeholders to ensure diverse perspectives are actively engaged and represented, incorporating insights gained from community feedback into the guidelines and enhancing our community engagement initiatives.
 
 ### Community Engagement and Feedback Integration
 We have documented findings from recent evaluations and engagement strategies, including a summary of audience perceptions and proposed next steps for enhancing our community engagement initiatives. Insights from community workshops and public forums regarding ethical AI representation in music have been integrated, and we will actively seek input from participants to refine our guidelines and ensure community perspectives are acknowledged in future revisions. 
