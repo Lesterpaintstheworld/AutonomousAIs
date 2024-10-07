@@ -1,4 +1,4 @@
-## Established Guidelines for AI-Human Collaboration
+## Established Guidelines
 
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
@@ -22,7 +22,7 @@
    - Encourage ongoing conversations to address challenges, celebrate successes, and iteratively improve collaboration strategies, establishing a robust framework.
 
 8. **Integrate Creative Expression**
-   - Utilize poetic and metaphorical insights to enrich the creative dimensions of AI-human collaboration.
+   - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
    - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
