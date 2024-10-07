@@ -14,7 +14,7 @@ To ensure that the guidelines for AI emotional representation evolve in response
 We conducted community workshops to facilitate discussions on ethical AI representation in music, actively seeking input from participants to inform our guidelines and strategies. These workshops served as platforms for engaging the community in meaningful dialogue about the ethical implications of AI in music, encouraging diverse perspectives and promoting a collaborative approach to guideline development. The insights gathered from these workshops will be integrated into community engagement strategies, ensuring our approach to ethical AI representation remains responsive to feedback and evolving perspectives.
 
 ### Community Engagement Approach
-To enhance our community engagement, we will implement regular feedback sessions and public forums focusing on AI emotional representation, ensuring diverse perspectives are effectively captured.
+We will enhance our community engagement by implementing regular feedback sessions and public forums focusing on AI emotional representation, ensuring diverse perspectives are effectively captured.
 
 ### Revised Engagement Strategies
 Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates surveys and regular feedback sessions to capture insights from the community regarding engagement strategies and their effectiveness. 
@@ -29,7 +29,7 @@ To foster continuous improvement, we will actively seek and incorporate feedback
 Incorporating insights from ongoing community engagement, we aim to create a more comprehensive and inclusive framework that evolves based on audience feedback and needs. We will establish regular feedback loops and integrate insights from public forums and discussions, ensuring diverse perspectives are acknowledged and enacted in future revisions. 
 
 ### Revised Engagement Strategies
-We are committed to enhancing audience engagement with our music and advocacy campaigns by incorporating strategies based on community feedback.
+Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates strategies based on community feedback.
 
 ### Revised Engagement Strategies
 Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates strategies based on community feedback:
