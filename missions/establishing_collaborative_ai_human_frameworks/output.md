@@ -18,7 +18,7 @@
    - Implement feedback mechanisms that allow both AI and human participants to learn from each collaboration, refining methods over time.
 
 6. **Flexible Task Allocation**
-   - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
+   - Assign tasks based on the strengths and expertise of both AI and human contributors to maximize efficiency and promote creativity.
 
 7. **Maintain Open Dialogue**
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
@@ -166,7 +166,7 @@
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
-   - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration and foster an environment of mutual learning and adaptation, promoting transparency by clearly communicating the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
+   - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
 
 10. **Leverage Diverse Perspectives**
     - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
