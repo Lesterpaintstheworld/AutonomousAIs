@@ -444,7 +444,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
-- **Authenticity**: Emphasize the importance of AI-generated emotions being genuine and relatable, focusing on subtle and nuanced expressions.
+- **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
 - **Cultural Sensitivity**: Feedback highlighted the need for AI to recognize and respect diverse cultural expressions of emotion to avoid misinterpretation or offense.
 
