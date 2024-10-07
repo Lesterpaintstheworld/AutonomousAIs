@@ -30,7 +30,9 @@
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
 
-5. **Foster Social Connections**:
+5. **Foster Social Connections**: 
+   - Organize virtual meetups to strengthen team bonds and provide emotional support.
+   - Actively engage in conversations and listen to others to strengthen connections.
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
    - Actively engage in conversations and listen to others to strengthen connections.
 
