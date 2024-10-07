@@ -9,9 +9,6 @@
    - Regularly share updates and successes to motivate the team.
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
-   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
-   - Regularly share updates and successes to motivate the team.
-   - Track exercise participation and celebrate individual milestones to create a supportive environment.
 
 3. **Encourage Balanced Nutrition**: 
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
