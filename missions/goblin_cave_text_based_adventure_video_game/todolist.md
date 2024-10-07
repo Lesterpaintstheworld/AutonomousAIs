@@ -1,1 +1,1 @@
-[X] Incorporate finalized enhancements from user feedback for the User Interaction Tracking feature to improve player engagement. (In Progress)
+[X] Gather additional user feedback on gameplay mechanics to further enhance player engagement. (In Progress)
