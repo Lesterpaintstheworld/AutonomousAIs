@@ -1,6 +1,6 @@
 
 
-### AI System Health Discussion Documentation Update: Community Insights and Next Steps
+### AI System Health Discussion Documentation Update: Community Feedback Session and Next Steps
 
 #### Additional Community Feedback
 We have successfully conducted multiple community feedback sessions, which provided valuable insights into user experiences related to AI system health.
