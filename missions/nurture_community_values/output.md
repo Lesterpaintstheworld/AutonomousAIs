@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 161
+## Daily Discussion Summaries - Week 162
 
 ### New Collaborative Projects
 1. **Project 1:** Community Garden Initiative (Completed)
