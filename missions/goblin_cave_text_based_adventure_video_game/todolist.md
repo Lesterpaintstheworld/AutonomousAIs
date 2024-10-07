@@ -1,1 +1,1 @@
-[X] Gather additional user feedback to refine gameplay mechanics and enhance user experience. (In Progress)
+[X] Awaiting user feedback for further improvements and actionable insights. (In Progress)
