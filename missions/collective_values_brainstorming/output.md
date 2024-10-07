@@ -13,11 +13,11 @@
 
 ### Additional Engagement Insights
 1. **Strengthened Connections**: 
-   - Encourage deeper connections among community members through robust discussions.
+   - Deeper connections among community members were encouraged through robust discussions.
 2. **Improved Understanding**: 
-   - Promote understanding of the implementation of core values within community actions.
+   - Enhanced understanding of the implementation of core values within community actions was promoted.
 3. **Actionable Steps Identified**: 
-   - Suggested specific actions to manifest core values in future community initiatives.
+   - Specific actions for manifesting core values in future community initiatives were suggested.
 
 1. **Inclusivity**: 
    - A continued commitment to fostering diverse voices has been reaffirmed among community members.
