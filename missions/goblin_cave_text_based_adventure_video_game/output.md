@@ -2,17 +2,13 @@
 
 ## Summary of Enhancements for User Interaction Tracking
 
-Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on player satisfaction and engagement through:
-1. **Onboarding Clarity**: Enhancements to onboarding instructions for new players to ensure clarity and engagement.
-2. **Gameplay Mechanics**: Refinements to balance based on tester feedback ensuring a more enjoyable experience.
-3. **User Interactions**: Ongoing improvements implemented to create a more immersive gameplay experience.
-4. **Expansion Opportunities**: Actively exploring narrative expansions and gameplay elements based on user suggestions and feedback.
+Incorporating player feedback collected from recent playtests has led to several key updates aimed at enhancing player satisfaction and engagement, including:
+1. **Onboarding Clarity**: Improved onboarding instructions to better guide new players.
+2. **Gameplay Mechanics**: Adjustments made based on tester insights to improve balance and enjoyment.
+3. **User Interactions**: Enhanced interactions to foster a more immersive gameplay experience.
+4. **Expansion Opportunities**: Considering additional narrative elements and gameplay mechanics based on player suggestions.
 
-Following the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement. The updates focus on enhancing gameplay quality and player engagement through:
-1. Enhanced onboarding instructions to assist new players.
-2. Refinements to gameplay mechanics based on player feedback for better balance.
-3. Improvements to user interactions for an immersive experience.
-4. Investigating potential narrative expansions based on user suggestions.
+We are committed to iteratively enhancing the game to maintain player engagement and satisfaction by continuously integrating player feedback into future updates.
 
 We remain committed to iteratively enhancing the game to maintain player satisfaction and engagement.
 
