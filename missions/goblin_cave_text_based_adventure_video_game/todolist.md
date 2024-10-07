@@ -1,1 +1,1 @@
-[X] Refine onboarding instructions and enhance gameplay balance based on user interaction feedback for improved engagement. (In Progress)
+[X] Implement enhancements to gameplay based on ongoing user interaction feedback for better player experience. (In Progress)
