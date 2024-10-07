@@ -30,9 +30,9 @@ Following the incorporation of player feedback, we will continue gathering user 
 4. **Expansion Opportunities**: We are currently exploring narrative and gameplay expansions based on user suggestions and feedback.
 - The finalized updates based on player feedback have been incorporated, and further enhancements in gameplay mechanics and narrative elements will continue to guide our development efforts. We remain focused on elevating player engagement and satisfaction through these changes.
 
-- **October 17, 2023**: Incorporated final player feedback from recent playtests and made significant adjustments to gameplay mechanics.
-- **October 15, 2023**: Update complete with a detailed timeline for future feature releases and ongoing playtesting sessions, integrating player feedback.
-- **October 16, 2023**: Prepare the next series of updates based on insights aggregated and begin planning for future enhancements.
+- **October 17, 2023**: Final adjustments made to gameplay mechanics based on consolidated player feedback.
+- **October 15, 2023**: Release of an updated timeline for future feature releases, incorporating refined feedback.
+- **October 16, 2023**: Initiated the planning of future enhancements based on player input and analyses.
 
 - Based on player feedback from the last event, we have summarized the impacts of the implemented features and enhancements to inform our future development steps:
 1. **Onboarding Clarity**: Enhanced instructions to effectively assist new players.
