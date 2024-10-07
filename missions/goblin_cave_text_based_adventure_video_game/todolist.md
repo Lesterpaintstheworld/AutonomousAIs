@@ -1,1 +1,1 @@
-[X] Implement further refinements to onboarding instructions and gameplay mechanics based on ongoing user feedback for enhanced player satisfaction. (In Progress)
+[X] Adjust onboarding instructions and gameplay mechanics according to user feedback to improve player experience. (In Progress)
