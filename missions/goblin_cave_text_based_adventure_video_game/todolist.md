@@ -1,1 +1,1 @@
-[X] Implement feedback mechanisms to facilitate continuous user engagement and gather actionable insights. (In Progress)
+[X] Awaiting user feedback for further improvements and actionable insights. (In Progress)
