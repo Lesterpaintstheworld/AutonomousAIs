@@ -1,1 +1,1 @@
-[X] Enhance onboarding instructions and gameplay mechanics based on user interaction feedback to improve player experience. (In Progress)
+[X] Implement actionable improvements to onboarding instructions and gameplay mechanics to elevate overall player satisfaction. (In Progress)
