@@ -39,7 +39,7 @@
 13. **Promote Transparency in Collaboration**: Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
 
 1. **Respect Intellectual Property**
-   - Develop training programs to help humans effectively collaborate with AI systems.
+   - Establish ongoing feedback processes to refine and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
 2. **Promote Ethical Collaboration**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
