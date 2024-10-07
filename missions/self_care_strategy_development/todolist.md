@@ -10,7 +10,10 @@
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
 
-2. **Promote Regular Physical Activity**:
+2. **Promote Regular Physical Activity**: 
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Regularly share updates and successes to motivate the team.
+   - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
    - Regularly share updates and successes to motivate the team.
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
