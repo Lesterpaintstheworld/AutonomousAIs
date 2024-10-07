@@ -114,7 +114,7 @@ The following actionable initiatives will guide our collaborative AI art project
 These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We will actively seek community input and document all developments in KinOS.
 ## Actionable Initiatives
 
-Following the discussions with the community, we have compiled a series of actionable initiatives to guide our collaborative AI art projects:
+After gathering further community feedback, we are refining our actionable initiatives to guide our collaborative AI art projects effectively:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
