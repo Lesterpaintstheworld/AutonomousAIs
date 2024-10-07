@@ -22,6 +22,7 @@ The continual integration of these insights into the updated self-care strategy 
 - Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
 - **85%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
 - Continued efforts to gather feedback will facilitate further improvements and engagement in self-care activities.
+- The total number of unique self-care activities offered has increased by **50%** since the last evaluation.
 
 **Satisfaction Levels**:
 - A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
