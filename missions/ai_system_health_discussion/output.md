@@ -5,7 +5,7 @@
 
 2. **Document Updates**: Continue to keep the community informed of any updates made to the structured document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 3. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings. The next feedback session is scheduled for **[insert date and time here]**. This will ensure continuous engagement and further insights from the community.
-2. **Conduct Feedback Session**: Host a feedback session with community members on **February 15, 2024, at 3 PM EST** to gather further insights on AI system health, maintaining an ongoing dialogue. Ensure that this session is actively promoted to maximize participation and community involvement.
+2. **Prepare for Feedback Session**: Conduct a feedback session with community members on **April 15, 2024, at 3 PM EST** to gather further insights on AI system health, maintaining an ongoing dialogue. Ensure that this session is actively promoted to maximize participation and community involvement.
 3. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings.
 4. **Share Document**: Continue to keep the community informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 5. **Finalize Document**: Incorporate all recent feedback obtained and publish the final document in the channel.
