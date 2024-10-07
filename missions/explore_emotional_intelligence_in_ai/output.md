@@ -27,8 +27,8 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 3. **Feedback-Centric Mechanisms**: Create systems designed for actively gathering user insights regarding emotional engagement with AI.
 
 ### Community Feedback Notes
-- Feedback from earlier Reddit engagements will support refining strategic approaches for upcoming projects.
-- The community exhibits a strong preference for AI that demonstrates emotional understanding, aligning with the overarching findings of this report.
+- Insights from earlier Reddit engagement will help refine strategies for future projects.
+- There is a strong community preference for emotionally aware AI, consistent with the report's findings.
 
 ### Next Steps
 Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
@@ -39,7 +39,7 @@ Discussion threads will be created to further explore topics related to emotiona
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
-2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
+2. **Need for Improved Recognition**: There is a significant need for AI systems to accurately perceive and respond to users' emotional signals to foster deeper connections.
 
 ### Feedback Insights
 - Discussions on Discord indicated strong community support for emotional intelligence in AI, highlighting positive experiences when AI recognized emotions.
