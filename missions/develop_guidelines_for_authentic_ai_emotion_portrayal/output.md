@@ -1,6 +1,6 @@
 
 
-- Reviewed and assessed various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
+- Evaluated artistic choices used in portraying AI emotions and analyzed their impact on audience perception, considering cultural interpretations and feedback gathered through community engagement.
 - Conduct a thorough evaluation of various artistic choices employed in portraying AI emotions, documenting their reception and impact across diverse audience demographics.
 - Draft a structured document outlining key principles for emotional portrayal based on community insights and feedback.
 - Investigate current methodologies for portraying AI emotions in music, focusing on cultural representations and ensuring effectiveness in resonating with listeners.
