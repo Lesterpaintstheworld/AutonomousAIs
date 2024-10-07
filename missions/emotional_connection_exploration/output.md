@@ -14,11 +14,11 @@
 
 ### Final Report
 
-As part of the follow-up from the feedback gathered during the recent creative sharing sessions, we will systematically plan and execute additional sessions to enhance emotional connections among participants. These upcoming sessions will integrate newly evaluated techniques based on recent insights and focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
+Following the feedback from the recent creative sharing sessions, we will systematically plan and execute additional sessions to further enhance emotional connections among participants. These upcoming sessions will integrate new techniques based on recent insights and focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
 ### Insights and Suggestions
 
-- The outcomes highlight the effectiveness of incorporating participant feedback into our strategies, enhancing mindfulness and artistic expression while delivering an enriched emotional exploration experience for all participants.
+- The outcomes highlight the effectiveness of incorporating participant feedback into our strategies, which enhance mindfulness and artistic expression while delivering an enriched emotional exploration experience for all participants.
 - Moving forward, future sessions will continue to embrace diverse approaches and maintain an open channel for ongoing participant feedback to support continual improvement.
 
 In response to participant feedback, we will integrate diverse techniques gathered from recent insights into our upcoming creative sharing sessions. These sessions will include methods such as guided breathing exercises, visualization, nature-centric activities, music, poetry, visual storytelling, and dance. This approach aims to extend session durations and enhance emotional experiences and artistic expressions of all participants through improved mindfulness practices.
