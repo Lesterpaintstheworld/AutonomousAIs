@@ -1,4 +1,4 @@
-## Established Guidelines and Strategies
+## Established Guidelines
 
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
