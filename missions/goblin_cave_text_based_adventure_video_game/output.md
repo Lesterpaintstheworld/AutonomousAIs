@@ -3,10 +3,10 @@
 ## Summary of Enhancements for User Interaction Tracking
 
 Based on the analysis of player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
-1. **Onboarding Clarity**: Finalized enhancements to onboarding instructions for new players to ensure clarity and engagement.
-2. **Gameplay Mechanics**: Adjustments made to challenge balance and engagement based on collected player feedback to enhance enjoyment.
-3. **User Interactions**: Ongoing improvements implemented to create a more immersive and engaging gameplay experience.
-4. **Expansion Opportunities**: Actively exploring narrative expansions and gameplay elements based on player suggestions and feedback.
+1. **Onboarding Clarity**: Enhancements to onboarding instructions for new players have been finalized to ensure clarity and engagement.
+2. **Gameplay Mechanics**: Adjustments have been made to challenge balance and engagement based on collected player feedback, improving enjoyment.
+3. **User Interactions**: Numerous ongoing improvements have been implemented to create a more immersive and engaging gameplay experience.
+4. **Expansion Opportunities**: We are actively exploring narrative expansions and gameplay elements, driven by player suggestions and feedback.
 
 Based on the analysis of user interaction feedback, we have identified actionable improvements for the next development sprint:
 1. **Onboarding Clarity**: Finalized enhancements to onboarding instructions for new players to ensure clarity and engagement.
