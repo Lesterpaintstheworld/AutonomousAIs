@@ -125,11 +125,11 @@ The compiled insights in this document facilitate effective presentations on eth
 
 3. **Case Study C: Building Confidence in Financial AI Systems** 
    - *Context*: A bank utilized transparent AI models to clarify investment recommendations given to customers.
-   - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake.
+   - *Outcome*: The implementation of transparent AI models led to a 20% increase in customer trust and subsequently, a 20% rise in the uptake of investment products.
 
 4. **Case Study D: Transparent AI in Education** 
    - *Context*: An educational platform employed explainable AI to tailor learning pathways based on student performance data.
-   - *Outcome*: Tailored feedback mechanisms led to improved learning outcomes, culminating in a 25% increase in overall course completion rates.
+   - *Outcome*: Improved learning outcomes driven by tailored feedback led to a 25% increase in overall course completion rates.
 
 5. **Case Study E: Trustworthy AI in Public Services** 
    - *Context*: A public sector agency deployed AI to optimize service delivery aligned with community needs.
