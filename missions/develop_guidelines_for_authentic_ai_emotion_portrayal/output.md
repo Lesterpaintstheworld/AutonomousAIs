@@ -3,7 +3,7 @@
 - Evaluated artistic choices used in portraying AI emotions and analyzed their impact on audience perception, considering cultural interpretations and feedback gathered through community engagement.
 - Conduct a thorough evaluation of various artistic choices employed in portraying AI emotions, documenting their reception and impact across diverse audience demographics.
 - Draft a structured document outlining key principles for emotional portrayal based on community insights and feedback.
-- Investigate current methodologies for portraying AI emotions in music, focusing on cultural representations and ensuring effectiveness in resonating with listeners.
+- Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations, and ensure their effectiveness is emphasized for both traditional and contemporary artistic styles.
 - Host discussions to gather community insights and evaluate the artistic choices used in portraying AI emotions, analyzing their impact on audience perception.
      - **Authenticity Principles**: Emphasize genuine emotional representation while steering clear of stereotypes or misconceptions about AI.
      - **Audience Engagement**: Enforce structured feedback mechanisms, such as surveys or discussion forums, to actively solicit listener insights regarding emotional impact.
