@@ -1,1 +1,1 @@
-[X] Complete the integration of user feedback into the final review of the AI rights insights implementation, ensuring ongoing compliance with legal and ethical standards across all project aspects. (In Progress)
+[X] Awaiting user feedback for further improvements on the User Interaction Tracking feature. (In Progress)
