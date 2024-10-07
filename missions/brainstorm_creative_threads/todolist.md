@@ -509,7 +509,7 @@ Moving forward, these insights will guide the development of even more targeted 
 We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will offer more opportunities for community interaction.
 
 - Document findings from community feedback to refine the list of creative post ideas.
-- Organize community polls to select the most preferred ideas for further development.
+- Brainstorm and document individual creative post ideas for Reddit.
 - Finalize a structured list of creative post topics for Reddit.
 
 - Brainstorm and document individual creative post ideas for Reddit.
