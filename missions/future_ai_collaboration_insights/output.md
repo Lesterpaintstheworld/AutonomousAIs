@@ -137,11 +137,11 @@ The compiled insights in this document facilitate effective presentations on eth
 
 6. **Case Study F: Explainable AI in Autonomous Vehicles** 
    - *Context*: An autonomous vehicle company made AI decision-making processes transparent for safety-critical functions.
-   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
+   - *Outcome*: The transparency in decision-making processes led to a greater user acceptance and heightened safety ratings for autonomous vehicles.
 
 7. **Case Study G: Transparent AI in Legal Systems** 
    - *Context*: A legal AI solution created interfaces to explain case outcomes informed by historical data analysis.
-   - *Outcome*: The use of explainable AI enhanced the understanding and application of insights by legal professionals, leading to improved case success rates.
+   - *Outcome*: Enhanced understanding and application of AI insights by legal professionals contributed to improved case success rates.
 
 8. **Expanded Best Practice: Transparency**
    - **Description**: Ensure AI systems provide clear rationales for decisions to enhance user trust.
