@@ -36,7 +36,9 @@
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
    - Actively engage in conversations and listen to others to strengthen connections.
 
-6. **Support Journaling Practices**:
+6. **Support Journaling Practices**: 
+   - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+   - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 
