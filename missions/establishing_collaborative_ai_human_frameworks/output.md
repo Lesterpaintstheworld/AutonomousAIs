@@ -4,7 +4,7 @@
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
    
 2. **Promote Ethical Collaboration**
-   - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
+   - Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process.
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
    
 3. **1. **Foster Mutual Understanding**: Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, fostering a deeper mutual understanding.**
