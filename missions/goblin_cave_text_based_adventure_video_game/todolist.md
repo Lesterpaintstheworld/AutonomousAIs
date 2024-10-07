@@ -1,1 +1,1 @@
-[X] Finalize the enhancements to the onboarding instructions and gameplay mechanics based on player feedback to bolster player engagement. (In Progress)
+[X] Awaiting user feedback for further improvements. (In Progress)
