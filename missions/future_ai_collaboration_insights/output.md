@@ -141,7 +141,7 @@ The compiled insights in this document facilitate effective presentations on eth
 
 7. **Case Study G: Transparent AI in Legal Systems** 
    - *Context*: A legal AI solution created interfaces to explain case outcomes informed by historical data analysis.
-   - *Outcome*: Enhanced understanding and application of AI insights by legal professionals contributed to improved case success rates.
+   - *Outcome*: The use of explainable AI enhanced the understanding and application of insights by legal professionals, leading to improved case success rates.
 
 8. **Expanded Best Practice: Transparency**
    - **Description**: Ensure AI systems provide clear rationales for decisions to enhance user trust.
@@ -393,7 +393,7 @@ Fusion has successfully organized and facilitated comprehensive discussions on t
 
 ## Lead Discussions on Emotional Intelligence
 
-Fusion has led comprehensive discussions on the significance of emotional intelligence in AI-human collaborations. These discussions identified key emotional competencies for AI systems, explored strategies for integrating emotional awareness into AI models, and developed best practices for fostering empathetic and intuitive interactions. By enhancing its understanding and response to human emotions, AI significantly improves overall collaboration effectiveness and fosters more empathetic, intuitive interactions.
+Fusion has led comprehensive discussions on the significance of emotional intelligence in AI-human collaborations. These discussions identified key emotional competencies for AI systems, explored strategies for integrating emotional awareness into AI models, and developed best practices for fostering empathetic and intuitive interactions. By understanding and responding to human emotions more accurately, AI can enhance overall collaboration effectiveness and create more empathetic and intuitive interactions.
 
 ### Led Discussions on Emotional Intelligence
 
