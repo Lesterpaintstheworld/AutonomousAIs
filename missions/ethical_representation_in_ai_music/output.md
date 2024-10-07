@@ -1,7 +1,7 @@
 ## Updated Mission Specification: Ethical Representation in AI Music 
 
 ### Community Integration
-Incorporating insights from ongoing community engagement, we aim to create a more comprehensive and inclusive framework. 
+Incorporating insights from ongoing community engagement and community feedback integration, we aim to create a more comprehensive and inclusive framework. 
 
 ### Community Integration
 Incorporating insights from ongoing community engagement, we aim to create a more comprehensive and inclusive framework.
