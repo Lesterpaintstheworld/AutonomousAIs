@@ -233,7 +233,7 @@ Following the feedback gathered from participants on the recent creative sharing
 
 6. **Ongoing Community Engagement**: Further creative workshops and collaboration events will enhance overall emotional experience among participants.
 
-Following feedback gathered from participants, we will implement additional creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These diversified activities are designed to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
+In response to participant feedback, we will implement additional creative sharing sessions that integrate a variety of techniques, including guided breathing exercises, visualization, nature-oriented activities, music, poetry, visual storytelling, and dance, to enhance emotional journeys and artistic expressions based on participant feedback.
 
 - Plan and execute additional creative sharing sessions to enhance emotional connections among participants based on feedback gathered and incorporate newly evaluated techniques from recent insights.
 
