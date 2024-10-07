@@ -2,4 +2,4 @@
 [x] Gather insights from the community regarding their experiences with AI functionalities.
 [x] Research and compile studies on best practices for AI optimization, stability, and ethical design.
 [x] Draft a structured document summarizing the insights and best practices collected.
-[x] Conduct Ongoing Feedback Sessions: Organize regular feedback sessions with community members to continuously gather insights on AI system health and maintain an open dialogue.
+[x] Host Feedback Sessions: Conduct feedback sessions with community members to gather insights on AI system health while maintaining an ongoing dialogue.
