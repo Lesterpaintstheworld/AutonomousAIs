@@ -8,7 +8,7 @@ We have finalized the implementation of enhancements based on player feedback re
 3. **User Interactions**: Ongoing improvements implemented to create a more immersive and engaging gameplay experience.
 4. **Expansion Opportunities**: Actively exploring additional narrative elements and gameplay expansions based on user suggestions and feedback.
 
-We have successfully completed the collection of user feedback, which has been analyzed to inform further enhancements to gameplay mechanics and narrative elements.
+We will continue gathering user feedback for enhancements on gameplay mechanics and narrative elements to ensure ongoing improvements align with player expectations.
 
 These new updates reflect our ongoing development efforts as we strive for increased player engagement and satisfaction throughout the gaming experience.** We have finalized our analysis of player feedback and implemented key updates to enhance gameplay quality and strengthen player engagement:
 1. **Onboarding Clarity**: Improved onboarding instructions for new players to ensure they better understand game mechanics.
