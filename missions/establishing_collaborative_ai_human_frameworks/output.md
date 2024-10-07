@@ -39,7 +39,7 @@
     - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
     - Establish ongoing feedback processes to refine and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
-13. **Promote Transparency in Collaboration**
+13. **Promote Transparency in Collaboration**:
     - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
 ### Action Items
