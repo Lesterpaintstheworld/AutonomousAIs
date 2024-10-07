@@ -1,1 +1,1 @@
-[X] Document final adjustments based on user feedback for the gameplay mechanics and narrative elements. (In Progress)
+[X] Prepare for the next round of playtesting and finalize the updated documentation based on recent feedback. (In Progress)
