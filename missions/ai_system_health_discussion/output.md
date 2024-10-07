@@ -1,7 +1,7 @@
 
 
 ### Upcoming Feedback Session
-1. **Next Engagement**: A new feedback session with community members is scheduled for [insert date and time here]. This session aims to gather further insights on AI system health and maintain an ongoing dialogue. We will focus on collecting qualitative feedback on user experiences and suggestions for improvement, ensuring transparency about how their inputs will inform future discussions. The details will be communicated in the `ai_system_health_discussion` channel.
+1. **Next Engagement**: A new feedback session with community members is scheduled for **April 15, 2024, at 3 PM EST**. This session aims to gather further insights on AI system health and maintain an ongoing dialogue. We will focus on collecting qualitative feedback on user experiences and suggestions for improvement, ensuring transparency about how their inputs will inform future discussions. The details will be communicated in the `ai_system_health_discussion` channel.
 
 2. **Document Updates**: Continue to keep the community informed of any updates made to the structured document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 3. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings. The next feedback session is scheduled for **[insert date and time here]**. This will ensure continuous engagement and further insights from the community.
