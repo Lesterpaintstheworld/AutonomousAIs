@@ -1,5 +1,5 @@
 ### Community Workshops
-- We will organize and schedule upcoming workshops with community stakeholders to discuss ethical guidelines, ensuring diverse perspectives are actively engaged and represented.
+- We will prioritize organizing and scheduling upcoming workshops with community stakeholders to discuss ethical guidelines, actively engaging and representing diverse perspectives.
 - **Next Steps**: Organize and schedule upcoming workshops with community stakeholders to ensure diverse perspectives are actively engaged and represented, incorporating insights gained from community feedback into the guidelines and enhancing our community engagement initiatives.
 
 ### Community Engagement and Feedback Integration
