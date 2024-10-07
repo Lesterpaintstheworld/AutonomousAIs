@@ -1,9 +1,10 @@
 
 
 ### Future Engagement Strategies
-- Schedule periodic reviews of core values to ensure their relevance aligns with community dynamics and objectives.
-- Organize regular forums to encourage community insights regarding the core values' relevance.
-- Maintain channels for ongoing dialogue around core values with community members.
+- Schedule regular assessments of the core values to ensure they align with community needs and objectives.
+- Organize regular forums to encourage community insights regarding core values' relevance.
+- Create mechanisms for regularly updating the community on core value integration progress.
+- Solicit feedback on the effectiveness of the core values in guiding community initiatives.
 
 ### Next Steps for Future Initiatives
 1. Implement mechanisms for regularly updating the community on core value integration progress.
