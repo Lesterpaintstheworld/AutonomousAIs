@@ -37,7 +37,8 @@
 11. **Incorporate Poetic and Metaphorical Insights**
     - Leverage creative expressions, poetic language, and metaphors to enrich the collaborative process, fostering a deeper emotional connection and inspiration between AI and human participants.
 
-12. **Create Feedback Loops**: Establish ongoing feedback processes to refine and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
+12. **Integrate Continuous Feedback Processes**
+    - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
     - Create continuous feedback processes to adapt and improve collaboration strategies based on insights gathered from discussions in the designated Discord channel.
 
 13. **Promote Transparency in Collaboration**
