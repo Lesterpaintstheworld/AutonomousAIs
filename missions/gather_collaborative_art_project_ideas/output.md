@@ -13,7 +13,7 @@ Following discussions with the community, we have compiled a series of actionabl
 
 2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
 
-3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art, fostering immersive multimedia experiences aimed at captivating audiences during exhibitions and performances.
+3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and performances.
 
 4. **AI-Responsive Lighting Installations**: Implementing lighting designs that modify intensity and color in response to ambient sound levels and audience movements.
 
@@ -59,7 +59,7 @@ We have compiled a series of actionable initiatives to guide our collaborative A
 
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
-These initiatives will be prioritized for implementation, focusing on enhancing creativity and community involvement within the local art scene.
+These initiatives will be prioritized for implementation, enhancing creativity and community involvement in the local art scene while fully aligning with the overall objectives of our collaborative AI art projects.
 
 Following the discussions with the community, we have compiled a series of actionable initiatives to guide our collaborative AI art projects.
 
