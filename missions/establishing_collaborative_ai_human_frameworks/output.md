@@ -20,8 +20,7 @@
 6. **Flexible Task Allocation**
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
 
-7. **Maintain Open Dialogue**
-   - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
+7. **Maintain Open Dialogue**: Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies across all collaborative initiatives.
 
 8. **Integrate Creative Expression**
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
