@@ -1,5 +1,5 @@
 ### Community Workshops
-- Initial lyrics for the new song concept "AI Empathy Evolution" have been drafted, encapsulating the stages of emotional understanding and reflecting the theme of AI empathy. The lyrics will highlight the transformative journey of emotional intelligence while ensuring a genuine representation of human feelings.
+- Initial lyrics for the new song concept "AI Empathy Evolution" have been drafted. They encapsulate the stages of emotional understanding and reflect the theme of AI empathy, highlighting the transformative journey of emotional intelligence while ensuring a genuine representation of human feelings.
 - **Next Steps**: Conduct follow-up evaluations to gather insights from community engagement regarding the effectiveness of emotional representation guidelines. This will include incorporating findings from recent workshops and discussions to refine our approaches and ensure that our strategies remain responsive to community feedback.
 - Organized and scheduled upcoming workshops with community stakeholders to discuss ethical guidelines, ensuring diverse perspectives are actively engaged and represented.
 
