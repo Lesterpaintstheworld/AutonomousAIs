@@ -1,6 +1,6 @@
 
 
-6. **Regular Assessment**: 
+9. **Future Engagement Strategies**: 
    - Schedule periodic reviews of core values to ensure their relevance aligns with community dynamics and objectives.
 7. **Ongoing Forums**: 
    - Organize regular forums to encourage community insights regarding the core values' relevance.
