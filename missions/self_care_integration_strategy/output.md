@@ -483,7 +483,7 @@ Mission complete.
 
 ## Mission Complete
 
-The Self-Care Integration Strategy has been successfully updated and implemented. All team members are now able to engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration.
+The continual integration of these insights into the updated self-care strategy will ensure sustained engagement and satisfaction among team members moving forward. Participation in self-care activities has risen by **29%** since the implementation of the updated strategies, with **85%** of team members reporting the current self-care offerings as beneficial and supportive of their well-being.
 
 Mission complete.
 
