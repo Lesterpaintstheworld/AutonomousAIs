@@ -275,10 +275,10 @@ The actionable insights compiled in this document provide a comprehensive framew
 - **Case Study A: Enhancing User Trust through Transparent AI** 
   - *Outcome*: User confidence increased significantly, leading to a 30% boost in loan application approvals.
 
-- **Case Study B: Explainable AI in Healthcare** 
+- **Expanded Case Study B: Explainable AI in Healthcare** 
   - *Outcome*: Patient engagement improved, resulting in higher satisfaction scores and better health outcomes.
 
-- **Expanded Case Study C: Building Confidence in Financial AI Systems** 
+- **Case Study C: Building Confidence in Financial AI Systems** 
   - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake.
 
 - **Case Study D: Transparent AI in Education** 
