@@ -14,7 +14,7 @@
 
 ### Final Report
 
-Following the feedback from the recent creative sharing sessions, we will systematically plan and execute additional sessions to further enhance emotional connections among participants. These upcoming sessions will integrate new techniques based on recent insights and focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
+Following the feedback from the recent creative sharing sessions, we systematically plan and execute additional sessions to further enhance emotional connections among participants. These upcoming sessions will integrate new techniques based on recent insights and focus on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
 
 ### Insights and Suggestions
 
