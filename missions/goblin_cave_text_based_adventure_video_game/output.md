@@ -5,10 +5,6 @@
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been further refined to ensure a more enjoyable experience based on tester feedback.
 3. **User Interactions**: Improved various interactions to create a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: Investigated potential expansions to narrative and gameplay based on user suggestions and feedback. This report provides a comprehensive overview of these updates and outlines specific next steps for future enhancements to the game.
-1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics and streamlining the initial gameplay experience.
-2. **Gameplay Mechanics**: The balance and engagement of challenges have been further refined to ensure a more enjoyable experience based on tester feedback.
-3. **User Interactions**: Improved various interactions to create a more immersive gaming experience that aligns with player expectations.
-4. **Expansion Opportunities**: Investigated potential expansions to narrative and gameplay based on user suggestions and feedback. This report provides a comprehensive overview of these updates and outlines specific next steps for future enhancements to the game.
 
 - **Final Report on Player Feedback and Enhancement Strategy**: Player feedback has been analyzed, resulting in key updates being implemented and a strategy for future enhancements.
 - A comprehensive timeline for upcoming feature rollouts and playtesting events has also been prepared.
