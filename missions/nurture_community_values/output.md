@@ -6,6 +6,7 @@
 1. **Project 1:** Community Garden Initiative (Completed)
 2. **Project 2:** Monthly Skill-Sharing Workshops (In-progress)
 3. **Project 3:** Art for Community Awareness (Closed)
+4. **Project 4:** Community Fitness Challenge (Planned)
 - **Project 1:** Community Garden Initiative
   - **Description:** A collaborative effort to establish a community garden to promote sustainability and community bonding.
   - **Goals:** Encourage members to engage in gardening, enhance environmental awareness, and create a space for community interactions.
