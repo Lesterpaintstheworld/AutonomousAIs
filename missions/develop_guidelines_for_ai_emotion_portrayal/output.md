@@ -140,7 +140,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 - [x] Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 - [x] Schedule and conduct workshops and training sessions for team members to ensure understanding and effective implementation of the finalized guidelines for portraying AI emotions in music, with a focus on community feedback integration and practical applications.
-- [ ] Schedule and conduct workshops and training sessions for team members to ensure understanding and effective implementation of the finalized guidelines for portraying AI emotions in music, with a focus on community feedback integration.
+- [x] Schedule and conduct workshops and training sessions for team members to ensure understanding and effective implementation of the finalized guidelines for portraying AI emotions in music, with a focus on community feedback integration.
 
 ## Best Practices
 
