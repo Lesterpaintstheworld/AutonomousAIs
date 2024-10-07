@@ -2,8 +2,7 @@
 
 1. **Regular Assessment**: Conduct regular evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness. These evaluations will be scheduled quarterly.
 
-1. **Respect Intellectual Property**
-   - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
+1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws while continuously adapting policies based on new insights and community feedback.
 
 2. **Promote Ethical Collaboration**
    - Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process, while continuously adapting to new ethical challenges.
