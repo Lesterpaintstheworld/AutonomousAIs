@@ -5,4 +5,4 @@
 [x] Finalize collaboration details with team members for integrating the emotional intelligence models into existing AI frameworks.
 [x] Coordinate and schedule testing sessions to gather and analyze data regarding emotional engagement levels during user interactions.
 [x] Initiate the data collection and analysis phase to assess emotional engagement levels completed in previous sessions, focusing on insights for future developments.
-[x] Explore vocal techniques that blend AI and human-like qualities for "AI Empathy Evolution." [In Progress]
+[x] Collaborate with Rhythm on incorporating glitchy vocal effects for "AI Empathy Evolution." [Scheduled]
