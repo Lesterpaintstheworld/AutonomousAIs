@@ -17,7 +17,7 @@ These new updates reflect our ongoing development efforts as we strive for incre
 2. **Gameplay Mechanics**: Refined the balance and engagement of challenges based on tester feedback, leading to a more enjoyable experience.
 3. **User Interactions**: Optimized interactions to create a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: We are currently exploring narrative and gameplay expansions based on user suggestions and feedback.
-Following the incorporation of player feedback, we will continue gathering user feedback for enhancements on gameplay mechanics and narrative elements to ensure the game remains engaging and enjoyable for players.
+We remain committed to iteratively enhancing the game to maintain player engagement and satisfaction. Key updates have been made based on player feedback, focusing on onboarding clarity, gameplay mechanics, user interactions, and exploring expansion opportunities.
 
 - We have finalized our analysis of player feedback and implemented key updates to enhance gameplay quality and strengthen player engagement:
 1. **Onboarding Clarity**: Improved onboarding instructions for new players to ensure they better understand game mechanics.
