@@ -15,7 +15,7 @@
 5. **Continuous Learning and Adaptation**
    - Implement feedback mechanisms that allow both AI and human participants to learn from each collaboration, refining methods over time.
    
-6. **Flexible Task Allocation**
+6. **Flexible Task Allocation Based on Strengths**
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
    
 7. **Maintain Open Dialogue**
@@ -35,7 +35,7 @@
 11. **Incorporate Poetic and Metaphorical Insights**
     - Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
 
-12. **Engage in Continuous Dialogue for Improvement**
+12. **Engage in Continuous Dialogue**
     - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
 13. **Promote Transparency in Collaboration**
