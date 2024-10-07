@@ -35,6 +35,7 @@
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones to create a supportive environment.
+   - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones to create a supportive environment.
    - Celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation. 
