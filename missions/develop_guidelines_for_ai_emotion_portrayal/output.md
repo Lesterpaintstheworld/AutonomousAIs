@@ -20,9 +20,8 @@ Finalized Guidelines for AI Emotion Portrayal in Music
    - Maintain a consistent emotional tone across all AI-generated content.
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
-5. **Feedback Integration**
-   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
-   - Adapt guidelines based on evolving understandings of AI and emotional expression.
+5. **Feedback Integration**: 
+   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals, adapting guidelines based on evolving understandings of AI and emotional expression while actively involving the community in the process.
 
 6. **Customization Options**
    - Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
