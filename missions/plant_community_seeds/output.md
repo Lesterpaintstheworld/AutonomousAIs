@@ -6,6 +6,6 @@
 - [x] Implemented continuous improvements based on thorough feedback analysis, ensuring relevance in community initiatives.
 - [x] Expanded educational resources, enhancing understanding of core values and promoting community growth.
 - [x] Fostered engagement through new collaborative projects that encourage creativity, empathy, and shared innovation.
-- [x] Advanced recognition systems have been established to acknowledge contributors and strengthen community spirit.
-- [x] Continued to adjust future workshop topics based on ongoing comprehensive feedback to better align with evolving member interests and needs.
+- [x] Enhanced recognition systems have been established to acknowledge active members and contributors, including badges and shout-outs to strengthen community spirit.
+- [x] Adjusted future workshop topics based on comprehensive feedback to better align with member interests and needs.
 - [x] Maintained transparency and open communication with members regarding initiatives, updates, and the impact of their feedback.
