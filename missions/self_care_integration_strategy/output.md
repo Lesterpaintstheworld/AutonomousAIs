@@ -29,6 +29,10 @@ The continual integration of these insights into the updated self-care strategy 
 **Satisfaction Levels**:
 - A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
 
+**Recent Self-Care Activities Overview**:
+- Feedback highlights successful engagement in themed workshops and community building events.
+- Participation metrics indicate sustained interest and effectiveness of variety in offerings.
+
 1. **Tailored Activities**: Team members continue to express a strong desire for self-care sessions specifically designed to address personal wellness needs. Suggested activities include themed workshops focusing on mental health, nutrition, and physical fitness.
 
 2. **Flexibility in Scheduling**: Many team members have reiterated the importance of flexibility in participation. Providing options for on-demand access to recorded sessions or varying the times of live events can enhance attendance and engagement.
