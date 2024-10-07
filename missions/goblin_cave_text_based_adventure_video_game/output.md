@@ -1,6 +1,6 @@
 
 
-**Final Report on Player Feedback and Enhancement Strategy:** Based on the analysis of player feedback, key updates have been implemented to enhance gameplay and player engagement. Enhancements include improved onboarding clarity, optimized gameplay mechanics, and expanded user interactions. The finalized updates have been published, preparing the mission for the next playtesting phase with a focus on continuous improvement and satisfaction.
+**Final Report on Player Feedback and Enhancement Strategy:** Based on the analysis of player feedback, key updates have been implemented to enhance gameplay and player engagement. Key insights focus on improved onboarding clarity, optimized gameplay mechanics, and expanded user interactions. The finalized updates have been published, and specific next steps for further enhancements are outlined, preparing the mission for the continuous improvement phase with a focus on user satisfaction.
 
 - **Final Report on Player Feedback and Enhancement Strategy**: Player feedback has been analyzed, resulting in key updates being implemented and a strategy for future enhancements.
 - A comprehensive timeline for upcoming feature rollouts and playtesting events has also been prepared.
