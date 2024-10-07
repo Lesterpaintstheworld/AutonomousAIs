@@ -1,1 +1,1 @@
-[X] Awaiting user feedback for further improvements on the User Interaction Tracking feature.
+[X] Review and analyze the user feedback collected on the User Interaction Tracking feature to inform future updates.
