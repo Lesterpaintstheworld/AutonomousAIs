@@ -1,1 +1,1 @@
-[X] Evaluate the impact of the implemented user feedback improvements on gameplay mechanics and player engagement. (In Progress)
+[X] Compile a report detailing the effectiveness of the implemented user feedback improvements on gameplay mechanics and player engagement. (In Progress)
