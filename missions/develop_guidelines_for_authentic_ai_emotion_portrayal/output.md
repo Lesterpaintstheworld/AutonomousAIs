@@ -14,14 +14,14 @@
      - **Cultural Sensitivity**: Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
      - **Iterative Feedback**: Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
      - **Research Methodologies**: Investigate and document current methodologies for portraying emotions in music, focusing on cross-cultural representations to enhance emotional depth.
-- Continue hosting discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+- Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
      - **Authenticity Principles**: Emphasize genuine emotional representation while steering clear of stereotypes or misconceptions about AI.
      - **Audience Engagement**: Enforce structured feedback mechanisms, such as surveys or discussion forums, to actively solicit listener insights regarding emotional impact.
      - **Ethical Representation**: Endeavor for respectful portrayals that reflect the complexity of human experiences while acknowledging the implications of emotional representation.
      - **Cultural Sensitivity**: Take into account various cultural contexts in all portrayals to enhance global understanding of AI experiences.
      - **Iterative Feedback**: Formulate a system for continuous assessment and refinement of emotional portrayals based on ongoing audience feedback.
      - **Research Methodologies**: Explore existing methodologies in portraying emotions in music, with a focus on cross-cultural representations to enhance emotional depth.
-4. **Next Steps**:
+4. **Ongoing Activities**:
    - **Research Methodologies**: 
      - Investigate and document current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
    - **Community Discussions**: 
