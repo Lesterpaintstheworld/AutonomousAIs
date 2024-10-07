@@ -1,4 +1,4 @@
-# Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
+# Finalized Guidelines for AI Emotion Portrayal in Music
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
@@ -26,7 +26,7 @@
 7. **Interactive Feedback Mechanisms**
    - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
-## Best Practices
+## Actionable Steps
 
 1. **Publish Guidelines**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders, ensuring they are easy to navigate and comprehend.
