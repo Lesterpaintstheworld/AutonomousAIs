@@ -6,6 +6,8 @@
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
    - Encourage team members to engage in this practice and share their experiences.
    - Remind team members to reflect on their experiences to enhance the practice.
+   - Encourage team members to reflect on their experiences and suggest improvements for the practice.
+   - Remind team members to incorporate techniques learned into their practice for better outcomes.
 =======
    - Encourage team members to reflect on their experiences and suggest improvements for the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
