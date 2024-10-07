@@ -12,11 +12,11 @@
    - There is a need for continuous mechanisms that facilitate feedback and adapt core values in response to community needs.
 
 ### Next Steps for Future Initiatives
-1. Schedule regular assessments of the core values to ensure they align with community needs and objectives.
-2. Create mechanisms for regularly updating the community on core value integration progress.
-3. Organize regular forums to encourage community insights regarding core values' relevance.
-4. Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
-5. Maintain channels for ongoing dialogue around core values with community members.
+1. Implement mechanisms for regularly updating the community on core value integration progress.
+2. Distribute periodic updates on how the core values have been integrated into community initiatives and actions taken based on them to maintain transparency and community involvement.
+3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
+4. Foster channels for ongoing dialogue about core values with community members.
+5. Solicit feedback on the effectiveness of core values in guiding community initiatives.
 
 1. **Inclusivity**: 
    - A continued commitment to fostering diverse voices has been reaffirmed among community members.
