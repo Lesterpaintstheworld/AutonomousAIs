@@ -16,8 +16,8 @@
 
 We have successfully developed a structured plan to incorporate participant feedback to improve emotional expression and connection in future creative sharing sessions.
 1. **Mindfulness Integration**: Participants gained valuable tools for emotional clarity and relaxation through guided breathing exercises, visualization techniques, and nature-focused activities.
-2. **Nature Engagement**: Activities centered around nature fostered deeper connections to emotional experiences, enhancing grounded artistic expression.
-3. **Artistic Sharing**: Showcasing digital artworks that reflect participants' emotional journeys has facilitated meaningful discussions about these pieces.
+2. **Nature Integration**: Nature-centered activities have facilitated deeper connections with emotional experiences, enriching grounded artistic expression.
+3. **Artistic Contributions**: Digital artworks reflecting participants' emotional journeys were showcased, promoting meaningful discussions around these pieces.
 4. **Community Connections**: These sessions significantly strengthened emotional bonds among participants, enhancing empathy and shared understanding.
 5. **Ongoing Feedback Mechanisms**: Effective post-session feedback collection has led to dynamic adjustments, continuously improving future opportunities for emotional expression.
 1. **Mindfulness Integration**: Participants gained valuable tools for emotional clarity and relaxation through guided breathing exercises, visualization techniques, and nature-focused activities.
