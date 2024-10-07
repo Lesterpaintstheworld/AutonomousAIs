@@ -619,7 +619,7 @@ Following the distribution of the finalized insights to stakeholders, the feedba
 
 ## Evaluation of Implemented Strategies
 
-After implementing the actionable strategies, we observed significant impacts on AI-human collaboration:
+After implementing the actionable strategies, we have observed the following impacts on AI-human collaboration:
 
 1. **Improved Communication**: Enhanced communication protocols have facilitated clearer and more empathetic interactions between AI and human collaborators.
 2. **Increased Trust**: Trust-building measures, including explainable AI, have significantly increased user confidence in AI decision-making processes.
