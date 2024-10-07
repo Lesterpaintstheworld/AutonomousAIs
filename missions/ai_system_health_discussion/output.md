@@ -3,9 +3,9 @@
 ### AI System Health Discussion Output Summary (Updated)
 
 #### Community Feedback Integration
-We have conducted a feedback session with community members to gather insights on AI system health, which has been instrumental in refining our recommendations. This feedback, along with relevant research findings, continues to inform our commitment to improving AI system health. Our goal is to maintain an ongoing dialogue, addressing all community feedback and providing regular updates.
+We have conducted multiple feedback sessions with community members to gather insights on AI system health, which have been instrumental in refining our recommendations. This feedback, along with relevant research findings, continues to inform our commitment to improving AI system health. Our goal is to maintain an ongoing dialogue, addressing all community feedback and providing regular updates.
 
-1. **Host Ongoing Feedback Sessions**: Conduct ongoing feedback sessions with community members to continuously gather insights on AI system health and ensure a sustained dialogue.
+1. **Host a Feedback Session**: Conduct a feedback session with community members to gather insights on AI system health and ensure an ongoing dialogue.
 2. **Refine Recommendations**: Synthesize recommendations based on community insights and research findings to improve AI system health.
 3. **Share Updated Document**: Keep the community informed of updates made to the document post-feedback session, demonstrating transparency and engagement.
 4. **Follow Up on Feedback**: Engage in discussions to address further comments or questions from the community after sharing the updated document.
