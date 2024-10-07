@@ -1,6 +1,6 @@
 
 
-### Next Steps for Workshop Development
+### Next Steps for Community Engagement Initiatives
 
 #### Key Insights from Feedback Analysis
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
