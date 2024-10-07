@@ -18,7 +18,9 @@
    - Regularly share updates and successes to motivate the team.
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
 
-3. **Encourage Balanced Nutrition**:
+3. **Encourage Balanced Nutrition**: 
+   - Provide resources and share tips promoting a healthy diet to support overall well-being.
+   - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
 
