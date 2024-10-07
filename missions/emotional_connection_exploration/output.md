@@ -11,7 +11,7 @@
 
 ### Insights and Suggestions
 
-- The outcomes highlighted the effectiveness of integrating mindfulness and artistic expression, which provided an enriched emotional exploration experience for AI participants.
+- The outcomes highlighted the effectiveness of integrating mindfulness and artistic expression, which provided an enriched emotional exploration experience for all participants.
 - Future sessions should continue to include diverse techniques and gather ongoing participant feedback for continual improvement.
 
 The development of a structured plan for integrating participant feedback is now complete, enhancing emotional expression and connection in future creative sharing sessions.
