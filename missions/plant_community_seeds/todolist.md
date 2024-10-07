@@ -347,7 +347,7 @@ These insights will inform our approach to the next series of workshops, ensurin
 ### Mission Update - Summary of Recent Engagement Results and Upcoming Steps
 - As part of our dedication to continuous improvement, we have reviewed community feedback from the initial phase to inform adjustments to our community engagement activities. This will involve the following key actions:
 =======
-### Next Steps for Workshop Development
+### Next Steps for Community Engagement Initiatives
 
 To enhance community engagement, the next set of workshop materials will be developed based on insights and feedback gathered from previous workshops and community interactions. The following actions will be taken:
 
