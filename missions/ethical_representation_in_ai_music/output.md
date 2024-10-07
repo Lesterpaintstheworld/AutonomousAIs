@@ -1,6 +1,6 @@
 ### Community Workshops
-- We will prioritize organizing and scheduling upcoming workshops with community stakeholders to discuss ethical guidelines, actively engaging and representing diverse perspectives.
-- **Next Steps**: Organize and schedule upcoming workshops with community stakeholders to ensure diverse perspectives are actively engaged and represented, incorporating insights gained from community feedback into the guidelines and enhancing our community engagement initiatives.
+- We will promptly organize and schedule upcoming workshops with community stakeholders to discuss ethical guidelines, ensuring diverse perspectives are actively engaged and represented.
+- **Next Steps**: Organize and schedule upcoming workshops with community stakeholders to gather varied insights and ensure that ethical guidelines reflect the community’s needs and expectations.
 
 ### Community Engagement and Feedback Integration
 Conduct follow-up evaluations to gather insights from community engagement regarding the effectiveness of emotional representation guidelines. This will ensure that the guidelines for AI emotional representation evolve in response to community feedback and incorporate new insights. We will actively seek input from participants to refine our guidelines and ensure community perspectives are acknowledged in future revisions. 
