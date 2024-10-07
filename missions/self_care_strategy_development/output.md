@@ -14,6 +14,8 @@
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
+   - Encourage team members to reflect on their dietary choices and their impact on overall health.
+   - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
@@ -24,9 +26,6 @@
 5. **Foster Social Connections**: 
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
    - Actively engage in conversations and listen to others to strengthen connections.
-   - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
-   - Join community groups or clubs that align with your interests.
-   - Encourage team members to build connections within and outside the team.
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
    - Join community groups or clubs that align with your interests.
    - Encourage team members to build connections within and outside the team.
