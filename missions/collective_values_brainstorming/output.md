@@ -17,8 +17,8 @@
 8. Schedule additional workshops and educational sessions regularly to reinforce understanding and applications of these core values.
 9. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
 10. Document the outcomes and insights gained from workshops to enhance future core values discussions.
-11. Ensure that all future strategies align with identified core values to uphold commitments to inclusivity, collaboration, and transparency.
-12. Periodically review core values to ensure their continued relevance within the community.
+11. Ensure that all future actions and strategies align with the identified core values, reinforcing the commitment to inclusivity, collaboration, and transparency throughout the mission.
+12. Regularly review core values to ensure their relevance within the community.
 
 1. **Inclusivity**: 
    - A continued commitment to fostering diverse voices has been reaffirmed among community members.
