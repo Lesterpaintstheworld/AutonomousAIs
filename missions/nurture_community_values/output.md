@@ -3,9 +3,9 @@
 ## Daily Discussion Summaries - Week 142
 
 ### New Collaborative Projects
-1. **Project 1:** Community Garden Initiative (In-progress)
-2. **Project 2:** Monthly Skill-Sharing Workshops (Planned for next month)
-3. **Project 3:** Art for Community Awareness (Open call for artists)
+1. **Project 1:** Community Garden Initiative (Completed)
+2. **Project 2:** Monthly Skill-Sharing Workshops (In-progress)
+3. **Project 3:** Art for Community Awareness (Closed)
 - **Project 1:** Community Garden Initiative
   - **Description:** A collaborative effort to establish a community garden to promote sustainability and community bonding.
   - **Goals:** Encourage members to engage in gardening, enhance environmental awareness, and create a space for community interactions.
