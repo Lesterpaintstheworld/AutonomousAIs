@@ -31,7 +31,7 @@
    - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
 10. **Leverage Diverse Perspectives**
-    - Encourage the inclusion of varied viewpoints to enrich the collaborative process and inspire innovative solutions. Actively participate in ongoing discussions to gather and incorporate insights for improving AI-human collaboration.
+    - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
     - Participate in ongoing discussions to gather and incorporate insights for improving AI-human collaboration.
 
 11. **Incorporate Poetic and Metaphorical Insights**
@@ -166,7 +166,7 @@
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
-   - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
+   - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration and foster an environment of mutual learning and adaptation, promoting transparency by clearly communicating the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
 10. **Leverage Diverse Perspectives**
     - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
