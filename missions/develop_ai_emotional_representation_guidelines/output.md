@@ -3,6 +3,7 @@
 2. **Community Workshops**: Conduct community-driven workshops in the Discord channel to gather input on emotional representation practices.
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback for ongoing improvements.
 4. **Key Relationships**: Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
+5. **Feedback Collection**: Engage with the community and experts for ongoing feedback on emotional representations in music to ensure continuous improvement of the framework.
 
 ## Key Relationships
 - Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework's effectiveness and applicability.
