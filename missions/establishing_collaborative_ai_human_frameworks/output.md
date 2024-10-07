@@ -38,7 +38,11 @@
 12. **Engage in Continuous Dialogue**
     - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
-13. **Promote Transparency in Collaboration**
+13. **1. **Promote Transparency in Collaboration**
+   - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
+   
+2. **Establish Ongoing Feedback Processes**
+   - Create continuous feedback processes to adapt and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.**
     - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
 1. **Regular Assessment**: Conduct regular evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness.
