@@ -124,7 +124,7 @@
      - Continue to gather insights from band members and stakeholders on AI emotions in music.
    - **Conduct Impact Analysis**: 
      - Begin evaluating various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
-- Host discussions in relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
+- Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually. This includes engaging with various demographics to ensure a comprehensive understanding of how emotions are represented in AI.
 
 1. **Community Insights**: 
    - Successfully gathered community insights from band members and stakeholders regarding AI emotions in music through discussions and engaging collaborative sessions, ensuring diverse perspectives are represented.
@@ -308,7 +308,7 @@ Next Steps:
    - Conduct a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds.
 
 3. **Evaluate Artistic Choices**: 
-   - Evaluate artistic choices used in portraying AI emotions and analyze their impact on audience perception, ensuring that feedback is documented across different audience demographics to enhance representation.
+   - Evaluate artistic choices used in portraying AI emotions and analyze their impact on audience perception.
 
 4. **Draft Key Principles**: 
    - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
