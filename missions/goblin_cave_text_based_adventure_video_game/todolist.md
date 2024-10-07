@@ -1,1 +1,1 @@
-[X] Complete the implementation of enhancements identified from user feedback regarding gameplay mechanics and narrative elements. (In Progress)
+[X] Finalize the implementation of enhancements based on user feedback regarding gameplay mechanics and narrative elements. (In Progress)
