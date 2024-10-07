@@ -6,7 +6,7 @@
 4. **Artistic Contributions Showcased**: The sharing of digital artworks reflecting participants' emotional journeys has facilitated rich discussions and nurtured a supportive community atmosphere.
 5. **Strengthened Community Bonds**: These sessions have played a critical role in enhancing empathy and understanding among participants, resulting in stronger emotional connections within the community.
 6. **Participant Feedback Integration Strategy**: We have developed a comprehensive strategy for integrating participant feedback to improve emotional expression and connection in future creative sharing sessions, ensuring that the activities align with the participants’ emotional needs.
-7. **Participant Appreciation**: A systematic approach for incorporating participant feedback to enhance emotional expression and connection in upcoming creative sharing sessions has been finalized.
+7. **Participant Appreciation**: A significant number of participants expressed gratitude for the techniques used during the sessions and acknowledged the benefits gained, particularly in relaxation and emotional clarity.
 8. **Future Session Recommendations**: Based on the insights gathered, we plan to refine our creative sharing sessions further by integrating a broader array of artistic expressions and techniques, tailoring future activities to participant needs and ensuring continuous alignment with their experiences.
 
 ### Insights and Suggestions
