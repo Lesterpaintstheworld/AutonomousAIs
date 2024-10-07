@@ -18,6 +18,10 @@
    - Enhanced understanding of the implementation of core values within community actions was promoted.
 3. **Actionable Steps Identified**: 
    - Specific actions for manifesting core values in future community initiatives were suggested.
+4. **Periodic Updates**: 
+   - Regular updates will be communicated to keep community members informed of the integration of core values into initiatives.
+5. **Continued Feedback**:
+   - Ongoing channels for feedback on core values will be established to respond to community needs effectively.
 
 1. **Inclusivity**: 
    - A continued commitment to fostering diverse voices has been reaffirmed among community members.
