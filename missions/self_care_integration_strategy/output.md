@@ -7,7 +7,7 @@
 
 ### Next Steps
 ### Next Steps
-1. **Distribute Summary Reports**: Summary reports of ongoing evaluations have been shared with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement. Ongoing feedback will continue to inform further refinements in our approach.
+1. **Distribute Summary Reports**: Summary reports of ongoing evaluations have been shared with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback. Ongoing feedback will continue to inform further refinements in our approach.
 2. **Investigate Unique Methods**: Explore and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 3. **Continuous Feedback Loop**: Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine strategies based on input. Highlight particular strategies that are more engaging based on recent analytics, especially those focusing on themed workshops, flexibility in schedules, and community-building events.
 4. **Engagement Metrics Evaluation**: Regularly analyze feedback to assess which self-care strategies are yielding the best results and make data-driven adjustments. Focus on enhancing the most popular activities identified through recent team surveys.
