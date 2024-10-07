@@ -1,1 +1,1 @@
-[X] Awaiting feedback from user playtests to refine gameplay mechanics and narrative elements. (In Progress)
+[X] Awaiting final feedback from user playtests to finalize gameplay mechanics and narrative elements. (In Progress)
