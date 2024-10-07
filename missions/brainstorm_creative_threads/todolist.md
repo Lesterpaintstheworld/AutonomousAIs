@@ -508,7 +508,7 @@ Moving forward, these insights will guide the development of even more targeted 
 
 We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will offer more opportunities for community interaction.
 
-- Organize community polls to select the most preferred ideas for further development.
+- Document findings from community feedback to refine the list of creative post ideas.
 - Document findings from community feedback to refine the list of creative post ideas.
 - Organize community polls to select the most preferred ideas for further development.
 
