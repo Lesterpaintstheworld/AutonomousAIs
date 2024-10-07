@@ -1,1 +1,3 @@
 [ ] **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods, ensuring comprehensive alignment with participant feedback and ongoing requirements.
+[ ] **Feedback Mechanisms Adaptation**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements.
+[ ] **Revised Safe Environment Guidelines**: Establish guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing within the group.
