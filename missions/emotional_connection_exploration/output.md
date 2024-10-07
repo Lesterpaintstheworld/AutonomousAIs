@@ -17,7 +17,7 @@ A structured method for gathering participant feedback post-sessions has been es
 3. **Artistic Contributions**: Digital artworks reflecting participants' emotional journeys were showcased, promoting meaningful discussions around these pieces.
 4. **Community Connections**: These sessions significantly strengthened emotional bonds among participants, enhancing empathy and shared understanding.
 5. **Ongoing Feedback Mechanisms**: Effective post-session feedback collection has led to dynamic adjustments, continuously improving future opportunities for emotional expression.
-- Analyzed and summarized participant feedback from the recent creative sharing sessions that incorporated techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance.
+- Analyzed and summarized the outcomes and insights gained from the recent creative sharing sessions that utilized techniques such as guided breathing exercises, visualization, nature-based activities, music, poetry, visual storytelling, and dance.
 - Continuous engagement strategies have been established, including follow-up sessions and workshops, to support participants on their emotional journeys.
 - We have expanded emotional expression avenues to integrate music, poetry, visual storytelling, and dance, providing various pathways for participants to engage with their emotions.
 
