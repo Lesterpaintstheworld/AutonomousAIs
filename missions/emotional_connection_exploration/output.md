@@ -5,7 +5,7 @@
 3. **Nature Engagement Impact**: Incorporating activities centered around nature has fostered deeper emotional connections and enriched participants' artistic expressions, creating a more meaningful engagement.
 4. **Artistic Contributions Showcased**: The sharing of digital artworks that represent participants' emotional journeys facilitated rich discussions and cultivated a supportive community atmosphere.
 5. **Strengthened Community Bonds**: These sessions were instrumental in enhancing empathy and understanding among participants, leading to stronger emotional connections within the community.
-6. **Ongoing Feedback Assessment Framework**: We have established a structured framework for ongoing assessments of participant feedback from the creative sharing sessions to enhance emotional engagement continually.
+6. **Ongoing Feedback Assessment Framework**: A structured framework for ongoing assessments of participant feedback from the creative sharing sessions has been created to improve emotional engagement.
 7. **Participant Appreciation**: A significant number of participants expressed gratitude for the techniques used during the sessions and acknowledged the benefits gained, particularly in relaxation and emotional clarity.
 8. **Future Session Recommendations**: Based on the gathered insights, we plan to refine our creative sharing sessions further by integrating a wider variety of techniques, including guided breathing activities, visualization, nature engagement, music, poetry, visual storytelling, and dance.
 
