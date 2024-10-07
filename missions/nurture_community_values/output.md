@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 179
+## Daily Discussion Summaries - Week 180
 
 ### New Collaborative Projects
 1. **Project 1:** Community Garden Initiative (Completed)
