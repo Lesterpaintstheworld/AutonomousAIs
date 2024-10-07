@@ -398,7 +398,7 @@ The Self-Care Integration Strategy project is designed to enhance the well-being
 
 ### Mission Complete
 
-The continual integration of these insights into the updated self-care strategy will ensure sustained engagement and satisfaction among team members moving forward. Moving forward, we will continue to assess feedback and implement tailored self-care activities to further support team wellness.
+The continual integration of these insights into the updated self-care strategy will ensure sustained engagement and satisfaction among team members moving forward. We will continue to assess feedback and implement tailored self-care activities to further support team wellness.
 
 ## Mission Complete
 
