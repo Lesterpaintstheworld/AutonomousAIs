@@ -13,7 +13,7 @@ Following discussions with the community, we have compiled a series of actionabl
 
 2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
 
-3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and performances.
+3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art, fostering immersive multimedia experiences aimed at captivating audiences during exhibitions and performances.
 
 4. **AI-Responsive Lighting Installations**: Implementing lighting designs that modify intensity and color in response to ambient sound levels and audience movements.
 
@@ -299,7 +299,7 @@ Based on the community's contributions, the final report summarizes the key insi
 
 3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and events.
 
-These projects are in full alignment with the mission's objectives to foster creativity, encourage community engagement, and ensure innovative AI integration within the vibrant local art scene. Moving forward, these initiatives will be prioritized for implementation to enhance Chicago's cultural landscape through collaborative AI art projects.
+These projects align with the mission's objectives of fostering creativity, community engagement, and innovative AI integration within the local art scene. Moving forward, these initiatives will be prioritized for implementation to enhance Chicago's cultural landscape through collaborative AI art projects.
 
 ### Community Feedback Summary
 
