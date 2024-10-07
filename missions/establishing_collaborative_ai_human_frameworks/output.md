@@ -1,6 +1,6 @@
-## Established Guidelines
+## Established Guidelines (Modified)
 
-1. **Respect Intellectual Property and Attribution**
+1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
    
 2. **Promote Ethical Collaboration**
