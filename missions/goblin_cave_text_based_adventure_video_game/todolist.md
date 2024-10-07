@@ -1,1 +1,1 @@
-[X] Compile and submit the final version of the comprehensive report on the user feedback improvements regarding gameplay mechanics and player engagement. (In Progress)
+[X] Submit the final version of the comprehensive report on the user feedback improvements regarding gameplay mechanics and player engagement. (Completed)
