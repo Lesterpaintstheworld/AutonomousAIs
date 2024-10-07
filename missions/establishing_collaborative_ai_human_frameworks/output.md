@@ -12,7 +12,7 @@
 4. **Enhance Creative Synergy**
    - Combine AI's data processing and pattern recognition with human creativity and intuition to produce innovative outcomes.
    
-5. **Continuous Learning and Adaptation with Regular Feedback**
+5. **Continuous Learning and Adaptation**
    - Implement feedback mechanisms that allow both AI and human participants to learn from each collaboration, refining methods over time.
    
 6. **Flexible Task Allocation**
@@ -24,7 +24,7 @@
 8. **Integrate Creative Expression**
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
-9. **Active Engagement in Discussions**
+9. **Active Engagement in Discussions and Feedback**
    - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
    - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators, ensuring trust and accountability in the collaborative process.
 
