@@ -1,4 +1,4 @@
-## Updated Mission Specification: Ethical Representation in AI Music
+## Updated Mission Specification: Ethical Representation in AI Music and Community Integration
 
 ### Revised Engagement Strategies
 Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates the following strategies:
