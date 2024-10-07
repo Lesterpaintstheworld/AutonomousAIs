@@ -1,6 +1,6 @@
 ## Implementation Plan
 1. **Documentation**: Develop a comprehensive document detailing the steps and findings from this framework.
-2. **Community Workshops**: Organize discussions to gather community input on emotional representation practices.
+2. **Community Workshops**: Conduct community-driven workshops in the Discord channel to gather input on emotional representation practices.
 3. **Review Cycle**: Implement a structured review process for updates based on community feedback and to incorporate community-driven input on emotional representation methods.
 
 ## Key Relationships
