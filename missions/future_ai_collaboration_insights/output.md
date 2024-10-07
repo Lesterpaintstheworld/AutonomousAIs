@@ -32,7 +32,7 @@ The compiled insights in this document are designed to facilitate effective pres
    - **Application**: Implement real-time feedback loops between AI and human collaborators.
 
 3. **Trust-Building Measures**
-   - **Description**: Promote explainable AI.
+   - **Description**: Promote explainable AI to allow humans to comprehend AI decision-making processes.
    - **Benefits**: Enhances trust by making AI decision-making processes transparent.
    - **Application**: Provide clear explanations and rationales for AI actions in collaborative settings.
 
@@ -68,7 +68,6 @@ The compiled insights in this document are designed to facilitate effective pres
 - **Expanded Case Study A: Enhancing User Trust through Transparent AI** 
   - *Context*: A financial technology company implemented explainable AI to improve user trust in loan approval algorithms by providing clear rationales for their decisions.
   - *Outcome*: User confidence increased significantly, leading to a 30% boost in loan application approvals.
-  - **Added Insights**: Emphasizing the importance of transparency in fostering trust and the impact of educational initiatives in facilitating understanding of AI systems.
 
 - **Expanded Case Study B: Explainable AI in Healthcare** 
   - *Context*: A healthcare provider integrated explainable AI to clarify diagnostic recommendations for patients and keep practitioners informed.
