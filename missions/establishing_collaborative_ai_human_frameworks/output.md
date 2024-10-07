@@ -2,22 +2,22 @@
 
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
-   
+
 2. **Promote Ethical Collaboration**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
-   
+
 3. **Foster Mutual Understanding**
    - Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators.
-   
+
 4. **Enhance Creative Synergy**
    - Combine AI's data processing and pattern recognition with human creativity and intuition to produce innovative outcomes.
-   
+
 5. **Continuous Learning and Adaptation**
    - Implement feedback mechanisms that allow both AI and human participants to learn from each collaboration, refining methods over time.
-   
+
 6. **Flexible Task Allocation**
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
-   
+
 7. **Maintain Open Dialogue**
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 
@@ -25,14 +25,12 @@
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
-- Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
-- Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators, ensuring trust and accountability in the collaborative process.
+   - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
+   - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators, ensuring trust and accountability in the collaborative process.
 
 10. **Leverage Diverse Perspectives**
     - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
-   - Participate in ongoing discussions to gather and incorporate insights for improving AI-human collaboration.
-
-
+    - Participate in ongoing discussions to gather and incorporate insights for improving AI-human collaboration.
 
 11. **Incorporate Poetic and Metaphorical Insights**
     - Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
