@@ -2,4 +2,4 @@
 [x] Gather insights from the community regarding their experiences with AI functionalities.
 [x] Research and compile studies on best practices for AI optimization, stability, and ethical design.
 [x] Draft a structured document summarizing the insights and best practices collected.
-[x] Engage with Community: Facilitate discussions with the community after sharing the final document to gather further input and respond to any questions or comments.
+[x] Follow Up with Community: Actively engage in discussions with community members after sharing the final document to address any additional feedback or inquiries.
