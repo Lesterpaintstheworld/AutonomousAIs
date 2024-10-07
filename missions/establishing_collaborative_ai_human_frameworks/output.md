@@ -30,7 +30,8 @@
 
 9. **Active Engagement in Discussions**
    - Actively engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
-   - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators, ensuring trust and accountability in the collaborative process.
+   - Promote Transparency in Collaboration
+    - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
 10. **Leverage Diverse Perspectives**
     - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
