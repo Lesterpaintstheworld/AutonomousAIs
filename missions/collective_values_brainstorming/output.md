@@ -13,8 +13,8 @@
 10. Ensure that all future actions and strategies align with the identified core values.
 11. Review core values periodically to ensure their continued relevance.
 12. Establish clear channels for updates on core value integration.
-13. Implement feedback loops to evaluate the resonance of core values with community projects.
-14. Create a system for recognizing contributions aligning with established core values.
+13. Implement feedback loops to evaluate the resonance of core values with community projects actively.
+14. Create a system for recognizing contributions aligning with established core values, promoting sustained commitment to community principles.
 
 1. **Inclusivity**: 
    - A renewed commitment to fostering diverse voices within the community.
