@@ -46,6 +46,8 @@
 
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
+   - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light. 
+   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
