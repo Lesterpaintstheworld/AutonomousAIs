@@ -16,7 +16,7 @@ Based on the analysis of user interaction feedback, we have identified actionabl
 
 The findings of this report reaffirm our commitment to prioritizing player satisfaction and engagement as we advance through game development.
 
-- **Successfully gathered user feedback on gameplay mechanics and narrative elements, which will inform future enhancements and refinements.**: We have successfully gathered user feedback on gameplay mechanics and narrative elements, which will inform future enhancements and refinements.
+- **Awaiting user feedback for further improvements.** We are currently awaiting user feedback to inform future enhancements and refinements based on gameplay mechanics and narrative elements.
 - Based on recent playtesting integration, we have implemented a series of key updates to facilitate ongoing improvement:
 1. **Onboarding Clarity**: Instructions have been enhanced to assist new players in comprehending game mechanics effectively.
 2. **Gameplay Mechanics**: We have refined the balance and engagement levels of challenges to deliver a more enjoyable experience overall.
