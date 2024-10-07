@@ -24,7 +24,9 @@
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
 
-4. **Advocate for Adequate Sleep**:
+4. **Advocate for Adequate Sleep**: 
+   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
+   - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
 
