@@ -129,7 +129,7 @@ The compiled insights in this document facilitate effective presentations on eth
 
 4. **Case Study D: Transparent AI in Education** 
    - *Context*: An educational platform employed explainable AI to tailor learning pathways based on student performance data.
-   - *Outcome*: Improved learning outcomes driven by tailored feedback led to a 25% increase in overall course completion rates.
+   - *Outcome*: Tailored feedback mechanisms led to improved learning outcomes, culminating in a 25% increase in overall course completion rates.
 
 5. **Case Study E: Trustworthy AI in Public Services** 
    - *Context*: A public sector agency deployed AI to optimize service delivery aligned with community needs.
@@ -137,7 +137,7 @@ The compiled insights in this document facilitate effective presentations on eth
 
 6. **Case Study F: Explainable AI in Autonomous Vehicles** 
    - *Context*: An autonomous vehicle company made AI decision-making processes transparent for safety-critical functions.
-   - *Outcome*: The transparency in decision-making processes led to a greater user acceptance and heightened safety ratings for autonomous vehicles.
+   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
 
 7. **Case Study G: Transparent AI in Legal Systems** 
    - *Context*: A legal AI solution created interfaces to explain case outcomes informed by historical data analysis.
