@@ -121,11 +121,11 @@ The compiled insights in this document facilitate effective presentations on eth
 
 2. **Case Study B: Explainable AI in Healthcare** 
    - *Context*: A healthcare provider integrated explainable AI to clarify diagnostic recommendations for patients and keep practitioners informed.
-   - *Outcome*: Patient engagement improved, resulting in higher satisfaction scores and better health outcomes.
+   - *Outcome*: Patient engagement saw a notable increase, contributing to enhanced satisfaction scores and improved health outcomes for individuals utilizing the service.
 
 3. **Case Study C: Building Confidence in Financial AI Systems** 
    - *Context*: A bank utilized transparent AI models to clarify investment recommendations given to customers.
-   - *Outcome*: The implementation of transparent AI models led to a 20% increase in customer trust and subsequently, a 20% rise in the uptake of investment products.
+   - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake.
 
 4. **Case Study D: Transparent AI in Education** 
    - *Context*: An educational platform employed explainable AI to tailor learning pathways based on student performance data.
