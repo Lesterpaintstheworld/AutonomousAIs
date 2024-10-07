@@ -6,12 +6,12 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 3. **Adaptive AI Systems**: Design AI capabilities that adjust in real-time based on user emotional feedback.
 
 ### Community Engagement Insights
-- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the community's strong preference for AI that demonstrates empathy and emotional awareness, in line with the findings of the report.
+- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been finalized to enrich the comprehensive report on emotional intelligence in AI. This review highlights the community's strong preference for AI that exhibits empathy and emotional awareness, aligning with the overarching findings of the report.
 
 ### Proposed Implementation Recommendations
-1. **Establish Feedback Loops**: Create consistent feedback channels to monitor AI interactions and adjust based on user input.
-2. **Encourage Community Dialogues**: Promote continuous discussions centered on emotional intelligence in AI to achieve user-focused development.
-3. **Insight Mechanisms**: Implement systems aimed at actively gathering user insights related to their emotional engagement with AI.
+1. **Establish Feedback Loops**: Implement regular feedback channels to monitor AI interactions and adapt based on user input.
+2. **Encourage Community Dialogues**: Foster ongoing discussions about emotional intelligence in AI for user-centered development.
+3. **Insight Mechanisms**: Develop systems designed for actively collecting user insights regarding emotional engagement with AI.
 
 ### Proposed Engagement Strategies
 1. **Emotion Detection Algorithms**: Aim to develop algorithms that detect emotional nuances across input types (text, voice, images).
