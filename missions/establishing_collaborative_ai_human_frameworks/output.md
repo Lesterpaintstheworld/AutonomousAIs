@@ -5,6 +5,7 @@
 
 2. **Promote Ethical Collaboration**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
+   - Commit to ethical practices to prevent the misuse of AI capabilities and ensure transparency throughout the collaborative process.
 
 3. **Foster Mutual Understanding**
    - Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators.
@@ -211,10 +212,6 @@ Utilize poetic and metaphorical insights to enhance the creative aspects of AI-h
 Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
 
 ### Key Performance Indicators (KPIs)
-- **Creativity Output**: Evaluate the diversity and originality of creative contributions from both AI and human participants to encourage a wide range of innovative ideas.
-- **User Satisfaction**: Use structured feedback mechanisms from collaborators to measure their satisfaction with the collaboration experience and outcomes.
-- **Task Completion Rates**: Monitor the effectiveness of task allocation and completion by both AI and human contributors using time metrics for productivity.
-- **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication.
 - **Creativity Output**: Evaluate the diversity and originality of creative contributions from both AI and human participants.
 - **User Satisfaction**: Use structured feedback mechanisms from collaborators to measure their satisfaction with the collaboration experience and outcomes.
 - **Task Completion Rates**: Monitor the effectiveness of task allocation and completion by both AI and human contributors using time metrics for productivity.
