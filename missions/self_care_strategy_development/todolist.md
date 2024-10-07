@@ -36,6 +36,7 @@
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones to create a supportive environment.
    - Celebrate individual milestones to create a supportive environment.
+   - Celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation. 
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
    - Regularly share updates and successes to motivate the team.
