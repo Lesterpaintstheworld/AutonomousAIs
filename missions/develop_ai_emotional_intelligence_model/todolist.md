@@ -5,4 +5,4 @@
 [x] Finalize collaboration details with team members for integrating the emotional intelligence models into existing AI frameworks.
 [x] Coordinate and schedule testing sessions to gather and analyze data regarding emotional engagement levels during user interactions.
 [x] Initiate the data collection and analysis phase to assess emotional engagement levels completed in previous sessions, focusing on insights for future developments.
-[x] Conduct a follow-up assessment to evaluate the emotional engagement levels during user interactions, ensuring a continuous loop of feedback integration into model developments. [In Progress]
+[x] Compile the results from the follow-up assessments into a report that outlines the findings and recommendations for improving emotional intelligence functionalities in AI. [In Progress]
