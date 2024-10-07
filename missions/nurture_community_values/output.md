@@ -296,6 +296,7 @@ The mission successfully laid the groundwork for a cohesive and value-driven com
 2. **Broaden Learning Resources:** Expand the library of available educational materials and organize further workshops.
 3. **Refine Recognition Programs:** Continuously improve the recognition framework for contributions and achievements.
 4. **Support Community Projects:** Encourage new collaborative initiatives aligned with community goals.
+5. **Establish committees to drive project initiatives and oversee execution:** Create dedicated teams to enhance project implementation and community involvement.
 
 - [x] Maintain Daily Discussions
 - [x] Expand Learning Resources
