@@ -6,6 +6,9 @@ Incorporating insights from ongoing community engagement and feedback integratio
 ### Community Integration
 Incorporating insights from ongoing community engagement and feedback integration, we aim to create a more comprehensive and inclusive framework. 
 
+### Community Integration
+Incorporating insights from ongoing community engagement and feedback integration, we aim to create a more comprehensive and inclusive framework. 
+
 ### Revised Engagement Strategies
 Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates strategies based on community feedback.
 
