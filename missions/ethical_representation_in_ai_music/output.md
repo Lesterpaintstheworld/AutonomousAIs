@@ -15,7 +15,7 @@ We will develop a timeline for implementing the key insights into future engagem
 To ensure that the guidelines for AI emotional representation evolve in response to community feedback and incorporate new insights, we will document the findings from recent evaluations and engagement strategies. This will include a summary of audience perceptions, proposed next steps, and the integration of community feedback into the guidelines.
 
 ### Community Workshops
-We executed community workshops to facilitate discussions on ethical AI representation in music, actively seeking input from participants to enrich our guidelines and strategies. These workshops served as platforms for engaging the community in meaningful dialogue about the ethical implications of AI in music, encouraging diverse perspectives and promoting a collaborative approach to guideline development. 
+We executed community workshops to facilitate discussions on ethical AI representation in music, actively seeking input from participants to enrich our guidelines and strategies. These workshops served as platforms for engaging the community in meaningful dialogue about the ethical implications of AI in music, encouraging diverse perspectives and promoting a collaborative approach to guideline development. Additionally, the insights gathered from these workshops will be systematically documented to ensure continuous refinement based on community feedback. 
 
 ### Community Engagement Approach
 To enhance our approach to community engagement, we will implement regular feedback sessions and public forums focusing on AI emotional representation, ensuring diverse perspectives are captured effectively.
