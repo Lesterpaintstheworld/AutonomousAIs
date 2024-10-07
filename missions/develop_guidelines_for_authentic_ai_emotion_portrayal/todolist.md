@@ -1,3 +1,3 @@
-- Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
-- Review and assess artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds.
-- Create a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+- Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+- Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
+- Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
