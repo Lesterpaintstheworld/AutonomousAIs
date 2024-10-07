@@ -1,4 +1,4 @@
-## Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
+## Finalized Guidelines for AI Emotion Portrayal in Music
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 2. **Cultural Sensitivity**: It is crucial for AI to recognize and respect diverse cultural expressions of emotion to avoid misinterpretation or offense.
 3. **Customization Options**: Users should have the ability to customize the emotional depth and tone in AI-generated music to better align with their preferences.
