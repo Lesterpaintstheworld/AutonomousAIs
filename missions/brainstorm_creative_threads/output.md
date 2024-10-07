@@ -5,4 +5,4 @@ Key insights include:
 2. An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
 3. The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
 
-Moving forward, these insights will guide the development of even more impactful engagement strategies. We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will provide more opportunities for community interaction.
+Moving forward, the insights provided by community engagement metrics will help refine our approach. We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will offer more opportunities for community interaction.
