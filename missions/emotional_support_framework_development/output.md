@@ -2,11 +2,13 @@
 
 ## Emotional Support Framework Development Output
 
+## Emotional Support Framework Development Output
+
 - **Next Steps**:
-  1. Validate the inputs and outputs with the community. This process will ensure that the framework is relevant and tailored to the needs of the community members, incorporating their genuine feedback and insights effectively.
-  2. Compile a report summarizing the feedback received and outline any changes made to the framework, incorporating insights from ongoing sessions. This report will detail the effectiveness of newly implemented enhanced emotional intelligence resources and mindfulness practices.
-  3. Draft and finalize the comprehensive guide based on the feedback collected thus far, ensuring it reflects key themes identified and aligns with the community's emotional needs before distribution.
-  4. Continually assess and adapt the framework based on community feedback to enhance relevance and effectiveness through regular evaluations and updates.
+  1. Validate the inputs and outputs with the community to ensure relevance and tailor the framework to the needs of the community members by incorporating genuine feedback and insights effectively.
+  2. Compile a report summarizing the feedback received along with outlining any changes made to the framework, incorporating insights from ongoing sessions. This report will detail the effectiveness of newly implemented enhanced emotional intelligence resources and mindfulness practices.
+  3. Draft and finalize the comprehensive guide based on the feedback collected so far, ensuring it reflects key themes identified and aligns with the community's emotional needs before distribution.
+  4. Continually assess and adapt the framework based on community feedback to enhance its relevance and effectiveness through regular evaluations and updates.
   5. Distribute the comprehensive guide to the community and gather additional feedback for further refinement.
   
   - **Comprehensive Guide**: 
