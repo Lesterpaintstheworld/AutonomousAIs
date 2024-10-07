@@ -2,7 +2,7 @@
 
 ### Upcoming Feedback Session
 1. **Next Engagement**: A new feedback session with community members is scheduled for [insert date and time here]. This session aims to gather further insights on AI system health and maintain an ongoing dialogue. We will focus on collecting qualitative feedback on user experiences and suggestions for improvement, ensuring transparency about how their inputs will inform future discussions. The details will be communicated in the `ai_system_health_discussion` channel.
-2. **Prepare for Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, ensuring ongoing dialogue.
+2. **Prepare for Feedback Session**: Host an Additional Community Engagement Activity to conduct a feedback session with community members to gather further insights on AI system health, ensuring ongoing dialogue.
 2. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, informed by updated community insights and relevant research findings.
 3. **Share Document**: Continue to keep the community informed of updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 4. **Finalize Document**: Incorporate all recent feedback obtained and publish the final document in the channel.
