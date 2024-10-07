@@ -48,8 +48,9 @@ The continual integration of these insights into the updated self-care strategy 
 - A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
 
 ### Updated Engagement Metrics
-- Participation in self-care activities has risen by **29%** since the implementation of new strategies.
+- Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
 - **85%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
+- Satisfaction increased, with a recent survey indicating **90%** of team members feel more supported in their well-being compared to previous initiatives.
 
 ### Next Steps
 1. **Share Summary Reports**: Summary reports of ongoing evaluations have been shared with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
