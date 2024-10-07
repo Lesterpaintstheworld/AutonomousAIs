@@ -48,7 +48,7 @@ The continual integration of these insights into the updated self-care strategy 
 - **85%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
 
 ### Next Steps
-1. **Share Summary Reports**: Distribute summary reports of ongoing evaluations to the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
+1. **Share Summary Reports**: Share summary reports of ongoing evaluations with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
 2. **Investigate Unique Methods**: Explore and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 
 Furthermore, the analysis revealed positive shifts in team dynamics, with increased collaboration and communication stemming from shared self-care activities. Feedback collected from team members indicates a sustained increase in satisfaction levels with the newly implemented activities. Additionally, team members expressed a strong desire for tailored self-care sessions designed specifically to address personal wellness needs, including themed workshops focusing on mental health, nutrition, and physical fitness.
