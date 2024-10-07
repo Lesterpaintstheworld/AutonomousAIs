@@ -12,7 +12,7 @@
 9. Solicit feedback on the effectiveness of core values in guiding community initiatives to ensure relevance and impact.
 10. Assign "Value Champions" to advocate for core values within the community, ensuring visibility and continuous promotion.
 11. Schedule additional workshops and educational sessions regularly to reinforce understanding and applications of core values.
-12. **Implemented a structured feedback system to assess the relevance and effectiveness of core values periodically**, aligning with community feedback and engagement.
+12. Implement a structured feedback system to assess the relevance and effectiveness of core values periodically, aligning with community feedback and engagement.
 
 1. **Inclusivity**: 
    - A continued commitment to fostering diverse voices has been reaffirmed among community members.
