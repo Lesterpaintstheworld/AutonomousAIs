@@ -1,5 +1,5 @@
 ### Community Engagement and Feedback Integration
-To enhance our approach to community engagement, we will implement regular feedback sessions and public forums focusing on AI emotional representation, ensuring diverse perspectives are captured effectively. We will also execute community workshops to facilitate discussions on ethical AI representation in music, actively seeking input from participants to enrich our guidelines and strategies. The insights gathered from these workshops will be systematically documented to ensure continuous refinement based on community feedback. 
+We have executed community workshops to facilitate discussions on ethical AI representation in music, actively seeking input from participants to enrich our guidelines and strategies. The insights gathered from these workshops will contribute to refining community engagement strategies and enhancing educational resources, ensuring that diverse perspectives are acknowledged and enacted in future revisions. 
 
 ### Impact Assessment
 We will continuously evaluate how the representation of AI emotions affects listener perceptions and emotional responses. Encouraging feedback from audiences will be essential to improving future portrayals and assessing their influence on societal attitudes towards AI. 
