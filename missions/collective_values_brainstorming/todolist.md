@@ -8,7 +8,7 @@
 - [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 - [x] Create mechanisms for regularly updating the community on core value integration progress.
 - [x] Implement mechanisms for regularly updating the community on core value integration progress.
-- [x] Organize regular forums to encourage community insights regarding core values' relevance.
+- [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 - [x] Organize regular forums to encourage community insights regarding core values' relevance.
 - [x] Maintain channels for ongoing dialogue around core values with community members.
 - [x] Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
