@@ -1,4 +1,4 @@
-## Established Guidelines
+## Established Guidelines and Strategies
 
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
@@ -21,7 +21,7 @@
 7. **Maintain Open Dialogue**
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 
-8. **Integrate Creative and Poetic Expression**
+8. **Integrate Creative Expression**
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
