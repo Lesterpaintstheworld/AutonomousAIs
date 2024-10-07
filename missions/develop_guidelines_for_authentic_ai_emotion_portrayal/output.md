@@ -1,21 +1,10 @@
 
 
-### Community Engagement Activities
 - Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
-1. **Research Methodologies**: 
-   - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
-   
-2. **Community Discussions**:
-   - Host discussions in relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
-
-3. **Evaluate Artistic Choices**: 
-   - Review and assess artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds.
-
-4. **Draft Key Principles**: 
-   - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
-
-5. **Finalize Guidelines Creation**: 
-   - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
+- Review and assess various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
+- Create a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+- Investigate current methodologies for portraying AI emotions in music, focusing on cultural representations and ensuring effectiveness in resonating with listeners.
+- Host discussions to gather community insights and evaluate the artistic choices used in portraying AI emotions, analyzing their impact on audience perception.
      - **Authenticity Principles**: Emphasize genuine emotional representation while steering clear of stereotypes or misconceptions about AI.
      - **Audience Engagement**: Enforce structured feedback mechanisms, such as surveys or discussion forums, to actively solicit listener insights regarding emotional impact.
      - **Ethical Representation**: Endeavor for respectful portrayals that reflect the complexity of human experiences while acknowledging the implications of emotional representation.
