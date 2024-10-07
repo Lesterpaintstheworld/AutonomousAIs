@@ -3,6 +3,7 @@ Following the successful completion of the community workshops, we have compiled
 
 ### Recommendations for Next Steps
 - **Regular Feedback Sessions**: To continually enhance our guidelines based on community input, we will initiate regular feedback sessions focusing on AI emotional representation.
+- **Community Workshops**: We will execute community workshops to facilitate discussions on ethical AI representation in music, actively seeking input from participants to enrich our guidelines and strategies.
 - **Understanding Community Needs**: Draft actionable steps based on the community's feedback to guide future portrayals and ensure we are aligned with societal perceptions of AI.
 - **Documentation of Community Insights**: All feedback and insights from workshops will be documented to ensure transparency and continuous improvement of our guidelines.
 
