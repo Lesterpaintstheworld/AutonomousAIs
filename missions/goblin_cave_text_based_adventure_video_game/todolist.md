@@ -1,1 +1,1 @@
-[X] Finalize and implement the enhanced onboarding instructions and gameplay mechanics based on player feedback to enhance player engagement. (In Progress)
+[X] Implement the finalized onboarding instructions and gameplay mechanics updates based on player feedback to improve player engagement. (In Progress)
