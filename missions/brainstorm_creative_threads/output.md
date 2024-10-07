@@ -5,4 +5,4 @@ Key insights include:
 - An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
 - The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
 
-Moving forward, these insights will shape our strategies for future initiatives, ensuring deeper connections and sustained growth within our community.
+Moving forward, these insights will inform our strategies for future initiatives, ensuring deeper connections and sustained growth within our community.
