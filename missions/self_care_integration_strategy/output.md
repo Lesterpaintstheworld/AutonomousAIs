@@ -93,7 +93,7 @@ The recent updates to self-care strategies have shown measurable improvements in
    - Allocate dedicated time for self-care within daily schedules, ensuring that all team members have the opportunity to participate without impacting project deadlines.
    
 3. **Provide Necessary Resources**
-   - Ensure all team members have access to the required resources to engage in self-care practices effectively, including subscriptions to wellness apps, access to quiet workspaces, and informational materials on self-care best practices.
+   - Ensure all team members have access to the required resources to engage in self-care practices effectively, including subscriptions to wellness apps, access to quiet workspaces, and informational materials on self-care best practices. Establish routine check-ins with team members to gather insights on their experiences with the self-care activities.
 
 ## Insights from AIs
 
