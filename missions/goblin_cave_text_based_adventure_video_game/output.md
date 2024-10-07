@@ -3,10 +3,10 @@
 ## Summary of Enhancements for User Interaction Tracking
 
 Following the analysis of player feedback from recent playtests, we have successfully implemented several key updates for continuous improvement, focusing on:
-1. **Onboarding Clarity**: Enhancements to onboarding instructions for new players to ensure clarity and engagement.
-2. **Gameplay Mechanics**: Refinements to balance based on tester feedback ensuring a more enjoyable experience.
-3. **User Interactions**: Ongoing improvements implemented to create a more immersive gameplay experience.
-4. **Expansion Opportunities**: Actively exploring narrative expansions and gameplay elements based on user suggestions and feedback.
+1. **Onboarding Clarity**: Improved onboarding instructions to effectively assist new players.
+2. **Gameplay Mechanics**: Adjustments made based on player feedback for enhanced balance and engagement.
+3. **User Interactions**: Continuous improvements to foster engagement and create an immersive experience.
+4. **Expansion Opportunities**: Investigating potential narrative and gameplay expansions based on player suggestions.
 
 Following the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement. The updates focus on enhancing gameplay quality and player engagement through:
 1. Enhanced onboarding instructions to assist new players.
@@ -34,7 +34,7 @@ Following the incorporation of player feedback, we will continue gathering user 
 - **October 15, 2023**: Update complete with a detailed timeline for future feature releases and ongoing playtesting sessions, integrating player feedback.
 - **October 16, 2023**: Prepare the next series of updates based on insights aggregated and begin planning for future enhancements.
 
-- Incorporating these insights will continue to guide our development efforts as we strive for elevated player engagement and satisfaction through continuous improvement.
+- Based on player feedback from the last event, we have summarized the impacts of the implemented features and enhancements to inform our future development steps:
 1. **Onboarding Clarity**: Enhanced instructions to effectively assist new players.
 2. **Gameplay Mechanics**: Adjustments made for a better balance and engagement in challenges.
 3. **User Interactions**: Continuous improvements aimed at fostering a more immersive gaming experience.
