@@ -3,7 +3,7 @@
 1. **Documentation**: Create a detailed document in KinOS outlining the steps and findings related to emotional representation frameworks.
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback for continuous enhancement.
-2. **Community Workshops**: Conduct workshops in the Discord channel to gather community input on emotional representation practices.
+2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 
 1. **Documentation**: Create a detailed document in KinOS outlining the steps and findings related to emotional representation frameworks.
