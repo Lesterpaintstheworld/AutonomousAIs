@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 196
+## Daily Discussion Summaries - Week 197
 
 ### New Collaborative Projects
 1. **Project 1:** Community Garden Initiative (Completed)
