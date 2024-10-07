@@ -11,7 +11,7 @@
 8. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback from the workshops.
 9. Document the outcomes and insights gained from workshops to enhance future core values discussions.
 10. Ensure that all future actions and strategies align with the identified core values, reinforcing the commitment to inclusivity, collaboration, and transparency throughout the mission.
-11. Review core values periodically to ensure their relevance.
+11. Regularly review core values to ensure their relevance within the community.
 12. Establish clear channels for providing regular updates on core value integration and enhancements.
 13. Organize regular forums to encourage community insights regarding core values' relevance.
 14. Implement feedback loops to evaluate the resonance of core values with community projects and initiatives actively.
