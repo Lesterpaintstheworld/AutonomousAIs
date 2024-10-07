@@ -7,7 +7,7 @@
 2. **Artistic Choices Evaluation**:
    - Review and assess various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics. Feedback will be collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 3. **Evaluated Artistic Choices**: 
-   - Thorough evaluations have begun regarding various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. This feedback is being gathered through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+   - Completed thorough evaluations regarding various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. This feedback has been gathered through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 4. **Next Steps**:
    - **Research Methodologies**: 
      - Research and document current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
