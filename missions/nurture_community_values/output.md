@@ -81,7 +81,7 @@
 - **Next Steps:**
     - Brainstorm potential projects with input from community members.
     - Establish committees to drive project initiatives and oversee execution.
-    - Implement a collaborative platform for idea sharing and tracking progress.
+    - Implement a collaborative platform such as Trello or Notion for sharing ideas, planning, and tracking progress.
 - **Description**: Continue encouraging collaborative projects that align with the community's core values and goals while supporting member ownership and accountability.
 - **Actions**:
     - Identify and plan new projects that promote ongoing member engagement.
