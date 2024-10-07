@@ -84,8 +84,7 @@
 11. **Foster Mutual Understanding**
     - Continuously develop and refine communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring a deeper mutual understanding across all collaborative initiatives.
 
-12. **Engage in Continuous Dialogue**
-    - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
+12. **Engage in Continuous Dialogue**: Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
     - Establish ongoing feedback processes to refine and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
 13. **Promote Transparency in Collaboration**
@@ -139,7 +138,7 @@
 
 12. **Incorporate Poetic and Metaphorical Insights**: Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
 
-13. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability across all collaborative efforts.
+13. **Promote Transparency in Collaboration**: Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
