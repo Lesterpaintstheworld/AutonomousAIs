@@ -1,5 +1,5 @@
-## Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
-1. **Desire for Authenticity**: AI-generated emotions must feel genuine and relatable, with community members preferring subtle and nuanced expressions over exaggerated ones.
+## Finalized Guidelines for AI Emotion Portrayal in Music
+1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 2. **Cultural Sensitivity**: It is crucial for AI to recognize and respect diverse cultural expressions of emotion to avoid misinterpretation or offense.
 3. **Customization Options**: Users should have the ability to customize the emotional depth and tone in AI-generated music to better align with their preferences.
 4. **Transparency in Emotion Generation**: Clear communication about how AI generates emotions is essential, including insights into the data sources and algorithms used.
@@ -61,7 +61,7 @@ Based on the collected community feedback, the following insights have been gath
 
 4. **Transparency in Emotion Generation**: There is a strong preference for understanding how AI interprets and generates emotions, including the data sources and algorithms used in the process.
 
-5. **Interactive Feedback Mechanisms**: Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences. The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
+5. **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
