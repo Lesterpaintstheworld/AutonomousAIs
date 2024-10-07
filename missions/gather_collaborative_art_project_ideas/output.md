@@ -303,7 +303,7 @@ These projects align with the mission's objectives of fostering creativity, comm
 
 ### Community Feedback Summary
 
-Following the documentation and discussions with the community, the band has reviewed the ideas shared and integrated feedback into the actionable initiatives. The insights gathered will shape the direction moving forward. Here’s a summary of the community feedback:
+Based on the community contributions and the insights gathered during discussions, the following projects have been identified as actionable and will be prioritized for implementation:
 1. **AI-Enhanced Street Art Projects**
    - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 2. **Interactive Digital Installations**
