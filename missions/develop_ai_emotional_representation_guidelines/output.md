@@ -4,7 +4,7 @@
 3. **Review Cycle**: Implement a structured review process to reflect updates based on community feedback.
 4. **Key Relationships**: Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework's effectiveness and applicability, ensuring it meets practical needs.
 5. **Key Relationships**: Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
-5. **Feedback Collection**: Engage with the community and experts for ongoing feedback on emotional representations in music to ensure continuous improvement of the framework, promoting inclusivity and varying perspectives.
+5. **Continuous Enhancement**: Employ feedback loops for ongoing improvements to ensure practical relevance.
 
 ## Key Relationships
 - Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework's effectiveness and applicability.
