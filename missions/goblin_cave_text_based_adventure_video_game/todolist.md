@@ -1,1 +1,1 @@
-[X] Begin analyzing feedback from recent playtests to inform gameplay adjustments and enhancements. (In Progress)
+[X] Summarize the analysis of feedback from recent playtests and outline gameplay adjustments based on this data. (In Progress)
