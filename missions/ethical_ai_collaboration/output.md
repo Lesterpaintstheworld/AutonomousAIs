@@ -16,7 +16,7 @@ The **Ethical AI Collaboration Framework Update** has been enhanced to align wit
 
 4. **Maintaining Accountability for AI-Driven Outcomes**: Clear responsibility is assigned to ensure ethical practices and accountability among both AI and human contributors.
 
-5. **Protecting User Privacy and Data Security**: Robust safeguards are necessary to protect personal data and maintain confidentiality.
+5. **Protecting User Privacy and Data Security**: Strengthened protocols on user information protection ensure ethical handling and robust security through the implementation of safeguards and regular audits.
 
 6. **Valuing Human Creativity**: AI acts as a complementary tool that enhances human creativity without overshadowing it, ensuring that human input remains central to collaborative processes.
 
