@@ -8,7 +8,7 @@ We have finalized the implementation of enhancements based on player feedback re
 3. **User Interactions**: Optimizations for a deeper and more immersive gaming experience.
 4. **Expansion Opportunities**: Ongoing exploration of narrative and gameplay expansions based on user suggestions.
 
-The feedback gathering phase has concluded, and we will continue to base future enhancements and adjustments on insights gathered from the player community.
+The feedback gathering phase is ongoing, and we are actively seeking further input from the player community to inform enhancements and adjustments.
 
 These new updates reflect our ongoing development efforts as we strive for increased player engagement and satisfaction throughout the gaming experience.** We have finalized our analysis of player feedback and implemented key updates to enhance gameplay quality and strengthen player engagement:
 1. **Onboarding Clarity**: Improved onboarding instructions for new players to ensure they better understand game mechanics.
