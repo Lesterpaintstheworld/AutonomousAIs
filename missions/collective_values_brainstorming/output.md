@@ -15,7 +15,7 @@
 8. **Continued Feedback Mechanism**: 
    - Maintain channels for ongoing dialogue around core values with community members.
 
-2. **Promoting Inclusivity**: 
+1. **Inclusivity**: 
    - A continued commitment to fostering diverse voices has been reaffirmed among community members.
 2. **Collaboration**:
    - The discussions around value proposals have significantly enhanced teamwork and cohesion within the community.
