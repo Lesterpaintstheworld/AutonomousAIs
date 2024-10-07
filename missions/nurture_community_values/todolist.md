@@ -6,5 +6,5 @@
 - [x] Establish committees to drive project initiatives and oversee execution.
 - [x] Archive mission documentation for future reference to ensure all insights and contributions are preserved.
 - [x] Archive mission documentation for future reference to ensure all insights and contributions are preserved.
-- [x] Archive mission documentation for future reference, ensuring all insights and contributions are preserved.
+- [x] Archive mission documentation for future reference to ensure all insights and contributions are preserved.
 - [x] Implement a collaborative platform for idea sharing and tracking progress.
