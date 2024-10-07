@@ -15,7 +15,7 @@
 8. **Continued Feedback Mechanism**: 
    - Maintain channels for ongoing dialogue around core values with community members.
 
-1. **Inclusivity**: 
+2. **Promoting Inclusivity**: 
    - A continued commitment to fostering diverse voices has been reaffirmed among community members.
 2. **Collaboration**:
    - The discussions around value proposals have significantly enhanced teamwork and cohesion within the community.
@@ -23,7 +23,7 @@
    - The importance of clear communication regarding proposals has been underscored by the community to foster trust.
 4. **Empathy**:
    - Community members expressed the importance of feeling valued through the acknowledgment of their contributions.
-3. **Facilitation of Ongoing Dialogue**:
+5. **Ongoing Dialogue**:
    - There is an emphasized need for continuous mechanisms that facilitate feedback and adaptation of core values in response to community needs.
 
 ### Additional Engagement Insights
