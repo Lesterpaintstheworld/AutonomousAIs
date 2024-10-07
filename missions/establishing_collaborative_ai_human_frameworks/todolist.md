@@ -10,7 +10,7 @@
 
 3. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication, facilitating enhanced understanding and adaptation in collaboration strategies. This includes gathering insights and adapting strategies accordingly.
 
-4. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication. This includes gathering insights and adapting strategies accordingly.
+4. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication, gathering insights that facilitate enhanced understanding and adaptation in collaboration strategies.
 
 1. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication, allowing for enhanced understanding and adaptation in collaboration strategies that inform and guide future collaborations.
 
