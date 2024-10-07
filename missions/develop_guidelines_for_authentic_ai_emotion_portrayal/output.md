@@ -192,7 +192,7 @@
    - Continue to gather insights from band members and stakeholders on AI emotions in music.
 
 8. **Conduct Impact Analysis**: 
-   - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
+   - Evaluate various artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds.
 
 - **Next Steps** - Community Discussions:
    - **Research Methodologies**: 
