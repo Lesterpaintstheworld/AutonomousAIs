@@ -1,3 +1,3 @@
-- Organize and facilitate discussions within relevant Discord channels to gather diverse community insights regarding the portrayal of AI emotions in music.
-- Evaluate various artistic choices used in representing AI emotions and analyze their impact on audience response.
-- Draft a structured document summarizing key principles for emotional portrayal based on community insights and feedback.
+- Organize and facilitate discussions within relevant Discord channels to gather community insights regarding the portrayal of AI emotions in music.
+- Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
+- Draft a structured document outlining key principles for emotional portrayal based on community insights.
