@@ -104,7 +104,7 @@
    - **Host Discussions**: 
      - Continue engaging with stakeholders to refine the guidelines based on collaborative insights gathered from the community.
    - **Host Discussions**: 
-     - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal.
+     - Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
    - **Research Methodologies**: 
      - Investigate and analyze current methodologies for portraying AI emotions in music across various cultural contexts, documenting their effectiveness and impact, with an emphasis on both traditional and contemporary artistic styles.
    - **Community Discussions**: 
