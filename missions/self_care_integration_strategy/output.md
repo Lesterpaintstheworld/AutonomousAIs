@@ -12,7 +12,7 @@
 3. **Continuous Feedback Loop**: Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine strategies based on input.
 4. **Engagement Metrics Evaluation**: Regularly analyze feedback to assess which self-care strategies are yielding the best results and make data-driven adjustments.
 
-The updated Self-Care Integration Strategy has resulted in increased engagement and satisfaction among team members. Moving forward, we will continue to assess feedback and implement tailored self-care activities to further support team wellness.
+The updated Self-Care Integration Strategy has led to increased engagement and satisfaction among team members, with participation in self-care activities rising by **29%** since the implementation of the updated strategies and **85%** of team members reporting the current self-care offerings as beneficial and supportive of their well-being.
 
 **Engagement Metrics**:
 - Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
