@@ -7,7 +7,7 @@
    - Evaluated a variety of artistic approaches used in portraying AI emotions and analyzed their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 
 3. **Established Guidelines**: 
-   - Comprehensive guidelines for authentic AI emotion portrayal have been developed, including:
+   - Clear guidelines for authentic AI emotion portrayal have been established, including:
      - **Authenticity Principles**: Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
      - **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
      - **Ethical Representation**: Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
@@ -138,7 +138,7 @@
    - Successfully gathered community insights from band members and stakeholders regarding AI emotions in music through discussions and engaging collaborative sessions, ensuring diverse perspectives are represented.
 
 2. **Artistic Choices Evaluation**: 
-   - Evaluated artistic choices used in portraying AI emotions and analyzed their impact on audience perception, considering cultural interpretations. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+   - Evaluated various artistic choices employed in portraying AI emotions, analyzing their impact on audience perception, including cultural interpretations. Feedback was gathered through community engagement and workshops with AI artists and musicians, discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 
 3. **Artistic Choices Evaluation**: 
    - Evaluate artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds. 
