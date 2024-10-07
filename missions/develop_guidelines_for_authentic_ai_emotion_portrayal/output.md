@@ -4,7 +4,7 @@
    - Engaged in discussions within relevant Discord channels to gather diverse community insights regarding the portrayal of AI emotions in music.
 
 2. **Artistic Choices Evaluation**: 
-   - Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+   - Evaluated a variety of artistic approaches used in portraying AI emotions and analyzed their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 
 3. **Established Guidelines**: 
    - Clear guidelines for authentic AI emotion portrayal have been established, including:
