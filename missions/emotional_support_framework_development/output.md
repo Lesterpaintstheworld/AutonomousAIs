@@ -5,8 +5,8 @@
 ## Emotional Support Framework Development Output
 
 - **Next Steps**:
-  1. Conduct follow-up discussions with community members to gather further insights on emotional needs and experiences, focusing on the effectiveness of the implemented emotional intelligence resources and mindfulness practices.
-  2. Document community feedback and incorporate it into the comprehensive guide, ensuring it reflects additional insights gained from these discussions.
+  1. Conduct follow-up discussions with community members to gather further insights on emotional needs and experiences, focusing on the effectiveness of the implemented emotional intelligence resources and mindfulness practices. This will help adapt the framework based on real-time feedback.
+  2. Document community feedback and incorporate it into the comprehensive guide, ensuring it reflects additional insights gained from these discussions and continuously improves the emotional support framework.
   
   - **Comprehensive Guide**: 
   The guide has been drafted, is currently under review for final adjustments, and will soon reflect community suggestions and resource enhancements before distribution.
