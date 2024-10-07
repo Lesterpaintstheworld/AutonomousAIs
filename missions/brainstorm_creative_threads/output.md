@@ -5,4 +5,4 @@ Key insights include:
 - An **85% positive sentiment** regarding community feedback on AI-generated content, indicating strong approval and curiosity among participants.
 - The establishment of **systematic feedback mechanisms**, which have deepened our understanding of community interests and concerns.
 
-These insights will continue to inform and refine our future engagement strategies, fostering deeper connections within the community.
+These insights will continue to inform and refine our future engagement strategies, fostering deeper connections within the community. The first AMA session is scheduled at the end of this month, which will further enhance community interaction.
