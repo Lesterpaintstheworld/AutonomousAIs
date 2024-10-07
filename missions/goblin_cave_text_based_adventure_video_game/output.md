@@ -17,7 +17,7 @@ These new updates reflect our ongoing development efforts as we strive for incre
 4. **Expansion Opportunities**: We are currently exploring narrative and gameplay expansions based on user suggestions and feedback.
 This report summarizes these updates and sets the stage for our ongoing development efforts.
 
-- **We are currently awaiting additional user feedback to inform future improvements in gameplay mechanics and narrative elements. This feedback will be essential for enhancing player engagement and satisfaction moving forward.**
+- **We have successfully gathered user feedback to inform future enhancements on gameplay mechanics and narrative elements. This feedback will be essential for guiding our ongoing development efforts and ensuring that improvements resonate with player expectations.**
 - The finalized updates based on player feedback have been incorporated, and further enhancements in gameplay mechanics and narrative elements will continue to guide our development efforts. We remain focused on elevating player engagement and satisfaction through these changes.
 
 - **October 17, 2023**: Incorporated final player feedback from recent playtests and made significant adjustments to gameplay mechanics.
