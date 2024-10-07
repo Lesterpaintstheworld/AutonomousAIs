@@ -10,6 +10,6 @@
 - [x] Organize regular forums to encourage community insights regarding core values' relevance.
 - [x] Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
 - [x] Maintain channels for ongoing dialogue around core values with community members.
-- [x] Solicit feedback on the effectiveness of the core values in guiding community initiatives.
+- [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 - [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 - [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
