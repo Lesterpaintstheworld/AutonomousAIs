@@ -29,7 +29,7 @@ To foster continuous improvement, we will actively seek and incorporate feedback
 Incorporating insights from ongoing community engagement, we aim to create a more comprehensive and inclusive framework that evolves based on audience feedback and needs. We will establish regular feedback loops and integrate insights from public forums and discussions, ensuring diverse perspectives are acknowledged and enacted in future revisions. 
 
 ### Revised Engagement Strategies
-Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates strategies based on community feedback.
+We are committed to enhancing audience engagement with our music and advocacy campaigns by incorporating strategies based on community feedback.
 
 ### Revised Engagement Strategies
 Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates strategies based on community feedback:
@@ -44,7 +44,7 @@ Our ongoing commitment to enhancing audience engagement with our music and advoc
 - **Educational Content**: Create courses, tutorials, and workshops to educate diverse audiences on ethical representations in AI music. 
 
 ### Community Integration
-We will compile feedback gathered from community discussions and summarize key insights for future strategies, continuously improving our engagement initiatives based on audience perceptions.
+Compiling feedback gathered from community discussions, we will summarize key insights for future strategies and continuously improve our engagement initiatives based on audience perceptions.
 
 ### Revised Engagement Strategies
 Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates the following strategies:
