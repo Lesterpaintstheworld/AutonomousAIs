@@ -22,7 +22,7 @@
   - **Next Steps:** Host an open call for artist participation and brainstorm themes.
 
 ### Review of Community Engagement
-- Conducted a comprehensive review of community engagement based on gathered feedback from members. The analysis highlighted key areas of strength and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. Key insights will be utilized to refine discussions and projects moving forward.
+- Based on the gathered feedback from community members, a comprehensive review of community engagement has been conducted. This analysis highlights key areas of strength and identifies opportunities for improvement, guiding future initiatives aimed at enhancing participation and satisfaction within the community. Insights derived from this review will be employed to refine ongoing discussions and inform project initiatives moving forward.
 - Maintained a structured schedule for daily discussion topics, promoting better organization and participation among members.
 - Implemented a collaborative platform for idea sharing and tracking progress, enhancing transparency and teamwork within the community. Introduced new topics each week to keep the content fresh and relevant, ensuring that members remain actively involved in meaningful conversations and this has further enhanced engagement, strengthened connections, and built a deeper sense of belonging among community members.
 - Launched new collaborative projects including the Community Garden Initiative, Monthly Skill-Sharing Workshops, and Art for Community Awareness, with active participation and resource allocation to enhance community engagement.
