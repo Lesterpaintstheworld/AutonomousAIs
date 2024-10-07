@@ -1,5 +1,5 @@
 ### Community Workshops
-- Organized feedback sessions to document community responses to the initial lyrics for "AI Empathy Evolution" and refined them based on this input.
+- Organized feedback sessions to document community responses to the emotional representation guidelines and refined them based on this input.
 - Following the integration of community feedback, we will review the initial lyrics for "AI Empathy Evolution" and implement necessary adjustments to better reflect the emotional complexity and authenticity emphasized in our guidelines.
 - **Next Steps**: Organize feedback sessions to document community responses to the emotional representation guidelines and refine them based on this input.
 - Organize and schedule community workshops to gather insights from the community about the effectiveness of emotional representation guidelines and refine them based on this input.
