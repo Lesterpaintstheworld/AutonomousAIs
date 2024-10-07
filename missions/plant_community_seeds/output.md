@@ -2,7 +2,7 @@
 - [x] Established comprehensive documentation practices for tracking contributions, providing valuable insights for ongoing improvement and fostering a stronger sense of community involvement.
 - [x] Achieved a **40%** increase in member engagement and satisfaction due to recent workshops and collaborative projects, emphasizing the effectiveness of the strategic approach.
 - [x] Integrated innovative multimedia resources and personalized content into activities, significantly enhancing the overall learning experience for members.
-- [x] Launched collaborative projects such as the Community Innovation Lab and the Empathy Challenge aimed at enhancing respect and empathy within the community.
+- [x] Launched collaborative projects such as the Community Innovation Lab and the Empathy Challenge, aimed at enhancing respect and empathy within the community.
 - [x] Implemented comprehensive feedback analysis to continuously improve community initiatives and ensure they align with member needs.
 - [x] Enhanced educational materials that reflect varied learning styles and actively engage members in understanding core values.
 - [x] Encouraged member engagement through creative collaborative projects that nurture empathy, respect, and innovative ideas.
