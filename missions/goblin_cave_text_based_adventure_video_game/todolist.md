@@ -1,1 +1,1 @@
-[X] Await user feedback for additional actionable insights and improvements. (In Progress)
+[X] Collect user feedback on gameplay mechanics and overall experience for future enhancements. (In Progress)
