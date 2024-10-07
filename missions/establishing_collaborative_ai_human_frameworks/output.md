@@ -41,10 +41,10 @@
     - Continuously develop and refine communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring a deeper mutual understanding across all collaborative initiatives.
 
 12. **Engage in Continuous Dialogue**
-    - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
+    - Maintain ongoing conversations within dedicated platforms, such as Discord channels, to gather diverse insights and foster a collaborative approach to improving guidelines based on community feedback.
 
 13. **Promote Transparency in Collaboration**
-    - Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability in collaborative efforts.
+    - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
 1. **Creativity Output**: Evaluate the diversity and originality of creative contributions from both AI and human participants to encourage a wide range of innovative ideas.
 2. **User Satisfaction**: Use structured feedback mechanisms from collaborators to measure their satisfaction with the collaboration experience and outcomes.
