@@ -1,6 +1,6 @@
 - [x] Successfully implemented advanced workshops aimed at enhancing core community values, resulting in a **30%** increase in member engagement and satisfaction. Feedback from participants has been analyzed, and adjustments are being incorporated into upcoming activities to reflect their evolving needs.
 - [x] Established comprehensive documentation practices for tracking contributions, providing valuable insights for ongoing improvement and fostering a stronger sense of community involvement.
-- [x] Achieved a **35%** increase in member engagement and satisfaction due to recent workshops and collaborative projects, emphasizing the effectiveness of our strategic approach.
+- [x] Achieved a **35%** increase in member engagement and satisfaction due to recent workshops and collaborative projects, emphasizing the effectiveness of the strategic approach.
 - [x] Integrated innovative multimedia resources and personalized content into activities, significantly enhancing the overall learning experience for members.
 - [x] Launched impactful collaborative projects focusing on respect and empathy, garnering exceptional feedback and enriching member interactions.
 - [x] Continuous improvements have been implemented based on thorough feedback analysis, ensuring ongoing relevance and effectiveness of community initiatives.
