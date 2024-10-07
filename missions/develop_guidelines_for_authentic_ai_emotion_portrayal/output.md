@@ -14,6 +14,7 @@
      - **Iterative Feedback**: Formulate a system for continuous assessment and refinement of emotional portrayals based on ongoing audience feedback.
      - **Research Methodologies**: Explore existing methodologies in portraying emotions in music, with a focus on cross-cultural representations to enhance emotional depth.
 4. **Next Steps**:
+   - **Evaluate Artistic Choices**:
    - **Research Methodologies**: 
      - Investigate and document current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
    - **Community Discussions**: 
@@ -60,7 +61,7 @@
 - **Research Methodologies**:
   - Investigate and analyze existing methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations, and ensure their effectiveness is emphasized for both traditional and contemporary artistic styles.
 - **Community Discussions**: 
-  - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
+  - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 - **Evaluate Artistic Choices**: 
   - Evaluate various artistic approaches and methodologies used in portraying AI emotions, ensuring a focus on their effectiveness and cultural interpretations.
 - **Draft Key Principles**: 
