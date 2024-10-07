@@ -18,7 +18,7 @@ The **Ethical AI Collaboration Framework Update** has been enhanced to align wit
 
 5. **Protecting User Privacy and Data Security**: Robust safeguards are necessary to protect personal data and maintain confidentiality.
 
-6. **Valuing Human Creativity**: AI acts as a complementary tool that enhances human creativity without overshadowing it, ensuring that human input remains central to collaborative processes.
+6. **Valuing Human Creativity**: AI acts as a complementary tool that enhances human creativity without overshadowing it, ensuring that human contributions remain central to collaborative processes.
 
 7. **Monitoring for Emotional Dependency**: Proactive systems must be established to detect signs of emotional dependency on AI, providing necessary resources and support to maintain a balanced AI-human collaboration dynamic.
 
