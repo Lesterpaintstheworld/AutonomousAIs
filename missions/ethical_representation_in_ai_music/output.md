@@ -5,7 +5,7 @@ Continue executing community workshops to facilitate discussions aimed at refini
 Moreover, based on the insights gathered from previous community workshops, we will conduct more focused sessions aimed at addressing specific concerns regarding ethical representation in music. These workshops will serve as platforms for participants to discuss their perspectives and collaboratively refine the guidelines to ensure they are more applicable to real-world scenarios.
 
 ### Community Feedback Integration
-To foster continuous improvement, we will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This ongoing process will ensure that the guidelines evolve to meet the needs and concerns of the community. We will establish regular feedback loops and integrate insights from public forums and discussions, ensuring diverse perspectives are acknowledged and enacted in future revisions while enhancing the connection between AI creators and listeners. Additionally, we aim to maintain relevant ethical standards in response to advancing technology while implementing a timeline for regular reviews of these guidelines.
+To foster continuous improvement, we will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This ongoing process will ensure that the guidelines remain relevant to evolving ethical standards and audience perspectives. We will establish regular feedback loops, including community discussions, to integrate insights from public forums while ensuring diverse perspectives are acknowledged and enacted in future revisions.
 
 ### Timeline for Implementation
 We have developed a timeline for implementing key insights into future engagement strategies to ensure regular reviews of our guidelines.
@@ -65,7 +65,7 @@ Our ongoing commitment to enhancing audience engagement with our music and advoc
 Our objective is to develop comprehensive guidelines for authentically representing AI emotions, recognizing the complexity of human feelings while actively integrating community feedback to ensure the guidelines remain relevant to evolving ethical standards and audience perspectives. A strategic timeline for implementing key insights gained from community discussions will be established, ensuring regular reviews and updates of our guidelines. This will involve continuous evaluation and adjustment based on diverse feedback, fostering a dynamic and responsive framework. 
 
 ### Timeline for Implementation
-We will develop a timeline for implementing key insights gained from community discussions to ensure regular reviews and updates of our guidelines.
+We will develop a timeline for implementing the key insights into future engagement strategies to ensure regular reviews of our guidelines.
 
 ### Inputs for Consideration
 - Ongoing discussions on empathy and connection within the context of AI and music.
