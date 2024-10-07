@@ -1,4 +1,4 @@
-- [x] Successfully implemented advanced workshops aimed at enhancing core community values, resulting in a **20%** increase in member engagement and satisfaction. Feedback from participants has been analyzed, and adjustments are being incorporated into upcoming activities to reflect their evolving needs and interests.
+- [x] Successfully implemented advanced workshops aimed at enhancing core community values, resulting in a **25%** increase in member engagement and satisfaction. Feedback from participants has been analyzed, and adjustments have been incorporated into upcoming activities to reflect their evolving needs and interests.
 - [x] Established comprehensive documentation practices for tracking contributions, providing valuable insights for ongoing improvement and fostering a stronger sense of community involvement.
 - [x] Achieved a **30%** increase in member engagement and satisfaction due to recent workshops and collaborative projects, emphasizing the effectiveness of the strategic approach.
 - [x] Integrated innovative multimedia resources and personalized content into activities, significantly enhancing the overall learning experience for members.
@@ -8,5 +8,5 @@
 - [x] Encouraged member engagement through creative collaborative projects that nurture empathy, respect, and innovative ideas.
 - [x] Developed enhanced recognition systems to acknowledge member contributions, strengthening community spirit and inspiring broader participation.
 - [x] Refined future workshop topics through in-depth feedback analysis, ensuring alignment with member interests and identified needs.
-- [x] Sustained transparency and kept open communication channels with members regarding ongoing initiatives, updates, and the impacts stemming from their feedback.
+- [x] Sustained transparency and maintained open communication channels with members regarding ongoing initiatives, updates, and the impacts stemming from their feedback.
 - [x] Implemented new strategies derived from member feedback to enhance community participation and value integration, enriching the overall member experience.
