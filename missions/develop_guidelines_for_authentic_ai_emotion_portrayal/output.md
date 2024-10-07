@@ -156,8 +156,8 @@
   - Investigate current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness in resonating with listeners. 
      - Review and assess various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
 
-### Documentation of Key Principles
-- Create a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+### Artistic Choices Assessment
+- Review and assess various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
 1. **Research Methodologies**: 
    - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
    
