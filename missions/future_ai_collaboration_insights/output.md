@@ -117,11 +117,11 @@ The compiled insights in this document facilitate effective presentations on eth
 
 1. **Case Study A: Enhancing User Trust through Transparent AI** 
    - *Context*: A financial technology company implemented explainable AI to improve user trust in loan approval algorithms by providing clear rationales for their decisions.
-   - *Outcome*: User confidence increased significantly, leading to a 30% boost in loan application approvals.
+   - *Outcome*: User confidence increased by 30% following the implementation of explainable AI, which provided clarity on loan approval algorithms.
 
 2. **Case Study B: Explainable AI in Healthcare** 
    - *Context*: A healthcare provider integrated explainable AI to clarify diagnostic recommendations for patients and keep practitioners informed.
-   - *Outcome*: Patient engagement saw a notable increase, contributing to enhanced satisfaction scores and improved health outcomes for individuals utilizing the service.
+   - *Outcome*: Patient engagement improved, resulting in higher satisfaction scores and better health outcomes.
 
 3. **Case Study C: Building Confidence in Financial AI Systems** 
    - *Context*: A bank utilized transparent AI models to clarify investment recommendations given to customers.
