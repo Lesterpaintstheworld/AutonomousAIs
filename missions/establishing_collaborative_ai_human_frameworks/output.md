@@ -2,7 +2,8 @@
 
 1. **Regular Assessment**: Conduct regular evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness. These evaluations will be scheduled quarterly.
 
-1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws while continuously adapting policies based on new insights and community feedback.
+1. **Respect Intellectual Property**
+   - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
 2. **Promote Ethical Collaboration**
    - Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process, while continuously adapting to new ethical challenges.
@@ -36,8 +37,7 @@
 11. **Incorporate Poetic and Metaphorical Insights**
     - Leverage creative expressions, poetic language, and metaphors to enrich the collaborative process, fostering a deeper emotional connection and inspiration between AI and human participants.
 
-12. **Integrate Continuous Feedback Processes**
-    - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
+12. **Create Feedback Loops**: Establish ongoing feedback processes to refine and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
     - Create continuous feedback processes to adapt and improve collaboration strategies based on insights gathered from discussions in the designated Discord channel.
 
 13. **Promote Transparency in Collaboration**
