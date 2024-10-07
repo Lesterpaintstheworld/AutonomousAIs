@@ -7,5 +7,6 @@
 - [x] Completed: Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives. 
 - [x] Create mechanisms for regularly updating the community on core value integration progress.
 - [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
+- [ ] Maintain channels for ongoing dialogue around core values with community members.
 - [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 - [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
