@@ -33,7 +33,7 @@
 ## Actionable Steps
 
 1. **Publish Guidelines**
-   - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders, ensuring they are easy to navigate and comprehend.
+   - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders. Ensure that the guidelines are formatted for clarity and easy navigation.
 
 2. **Training Sessions**
    - Conduct workshops and training sessions for team members to ensure understanding and effective implementation of the guidelines, focusing on practical applications and community feedback integration.
