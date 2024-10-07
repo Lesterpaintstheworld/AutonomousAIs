@@ -7,7 +7,7 @@
 8. **Continued Feedback Mechanism**: 
    - Maintain channels for ongoing dialogue around core values with community members.
 
-### Next Steps for Future Initiatives
+### Steps for Future Engagement Initiatives
 6. **Regular Assessment**: 
    - Schedule periodic reviews of core values to ensure their relevance aligns with community dynamics and objectives.
 7. **Ongoing Forums**: 
