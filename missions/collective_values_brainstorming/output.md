@@ -6,7 +6,7 @@
 - Organize regular forums to encourage community insights regarding core values' relevance.
 - Create mechanisms for regularly updating the community on core value integration progress.
 - Solicit feedback on the effectiveness of core values in guiding community initiatives.
-- **(Next Action)** Schedule regular assessments of the core values to ensure they align with community needs and objectives.
+- Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 
 ### Future Engagement Strategies
 - Schedule regular assessments of the core values to ensure they align with community needs and objectives.
