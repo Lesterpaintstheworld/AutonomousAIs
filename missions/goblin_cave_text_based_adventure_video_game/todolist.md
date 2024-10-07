@@ -1,1 +1,1 @@
-[X] Incorporate user feedback for the User Interaction Tracking feature and ensure that all identified improvements have been properly implemented and tested. (In Progress)
+[X] Awaiting user feedback for further improvements on the User Interaction Tracking feature. (In Progress)
