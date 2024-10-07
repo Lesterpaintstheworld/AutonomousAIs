@@ -14,7 +14,7 @@
 
 ### Final Report
 
-Following the feedback from the recent creative sharing sessions, we systematically plan and execute additional sessions to further enhance emotional connections among participants. We will integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance to enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices. These upcoming sessions will integrate new techniques based on recent insights, focusing on fostering consistent artistic expression and discussions about emotional insights, all guided by participant feedback.
+Following the feedback from the recent creative sharing sessions, we systematically plan and execute additional sessions to further enhance emotional connections among participants. We will integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance to enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices. These upcoming sessions will focus on engaging participants through these diverse techniques to cultivate emotional exploration, connection, and expression.
 
 ### Insights and Suggestions
 
