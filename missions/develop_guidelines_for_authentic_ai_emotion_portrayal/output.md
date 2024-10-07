@@ -25,7 +25,7 @@
      - Review and assess artistic choices employed in the portrayal of AI emotions, considering feedback from diverse audience demographics gathered through community engagement and workshops.
 
 1. **Community Insights**: 
-   - Community discussions have been hosted in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+   - Facilitate discussions in relevant Discord channels to gather comprehensive insights from the community regarding AI emotions and their portrayal contextually.
 
 2. **Artistic Choices Evaluation**:
    - Started the thorough evaluation of various artistic choices used in portraying AI emotions, documenting their reception across different audience demographics. Feedback will be collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
@@ -136,7 +136,7 @@
    - **Community Discussions**: 
      - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
    - **Evaluate Artistic Choices**: 
-     - Evaluate various artistic choices used in depicting AI emotions, considering their reception by audiences from diverse backgrounds.
+     - Evaluated various artistic choices used in depicting AI emotions, considering their reception by audiences from diverse backgrounds, and gathered insights through community engagement.
    - **Draft Key Principles**: 
      - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness, highlighting authenticity and cultural sensitivity.
 - Investigated and analyzed current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
