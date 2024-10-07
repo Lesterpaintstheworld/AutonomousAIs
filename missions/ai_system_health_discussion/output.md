@@ -22,7 +22,7 @@ We have gathered more insights from our recent feedback sessions to further enri
 6. **Assess Progress**: After the feedback session, evaluate the effectiveness of implemented changes, focusing on community input and performance metrics.
 
 ### Commitment to Community
-We are dedicated to continuously integrating community feedback into our processes to enhance AI system health and foster an inclusive environment for user participation.
+We are dedicated to continuously integrating community feedback into our processes to enhance AI system health and foster an inclusive environment for user participation. This document synthesizes feedback, best practices, and next steps gathered from community engagement on AI system health, based on our recent discussions and interactions with community members.
 
 #### Summary of Insights
 This document synthesizes feedback, best practices, and next steps gathered from community engagement on AI system health, based on our recent discussions and interactions with community members. 
