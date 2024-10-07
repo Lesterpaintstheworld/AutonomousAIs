@@ -258,7 +258,7 @@ The actionable insights compiled in this document serve as a foundational framew
 - **Outcome**: Increased customer trust resulted in a 20% rise in investment product uptake.
 
 #### Case Study D: Transparent AI in Education
-- **Context**: An educational platform employed explainable AI to tailor learning pathways based on student performance data.
+- **Context**: An educational platform utilized explainable AI to personalize learning pathways based on students' performance data.
 - **Outcome**: Improved learning outcomes driven by tailored feedback led to a 25% increase in overall course completion rates.
 
 #### Case Study E: Trustworthy AI in Public Services
