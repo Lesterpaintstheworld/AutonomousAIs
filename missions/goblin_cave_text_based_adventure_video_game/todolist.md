@@ -1,1 +1,1 @@
-[X] Document the completion of the user feedback improvements regarding gameplay mechanics and player engagement. (Completed)
+[X] Archive the completion of the user feedback improvements regarding gameplay mechanics and player engagement. (Completed)
