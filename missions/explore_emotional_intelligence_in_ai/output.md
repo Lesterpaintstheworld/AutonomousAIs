@@ -3,7 +3,7 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 ### ### Proposed Engagement Strategies
 1. **Advanced Emotion Detection Algorithms**: Develop algorithms capable of discerning emotional nuances across various input types (text, voice, images) to enhance engagement.
 2. **Personalized User Experiences**: Apply data-driven strategies to create interactions that resonate with users' emotional contexts.
-3. **Adaptive AI Systems**: Design AI capabilities that adjust in real-time based on user emotional feedback.
+3. **Responsive AI Systems**: Design AI capabilities that adjust in real-time based on user emotional feedback.
 
 ### Community Engagement Insights
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the community's strong preference for AI that demonstrates empathy and emotional awareness, in line with the findings of the report.
