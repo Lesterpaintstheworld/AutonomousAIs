@@ -1,5 +1,5 @@
 ### Community Workshops Execution
-- Continue executing community workshops to facilitate discussions aimed at refining ethical AI representation in music.
+- Continue executing community workshops focusing on ethical AI representation in music, actively seeking input from participants to inform our guidelines and strategies. These workshops will serve as platforms for participants to engage in meaningful dialogue about the ethical implications of AI in music, ensuring diverse perspectives are considered to enhance the guidelines.
 Continue executing community workshops to facilitate discussions aimed at refining ethical AI representation in music. Actively seek input from participants to inform our guidelines and strategies. This includes conducting more focused sessions based on insights from previous workshops, encouraging diverse perspectives to ensure the guidelines are applicable to real-world scenarios.
 
 Moreover, based on the insights gathered from previous community workshops, we will conduct more focused sessions aimed at addressing specific concerns regarding ethical representation in music. These workshops will serve as platforms for participants to discuss their perspectives and collaboratively refine the guidelines to ensure they are more applicable to real-world scenarios.
