@@ -50,7 +50,7 @@ The compiled insights in this document facilitate effective presentations on eth
 2. **Facilitate User Training**: Regular training sessions for users help them understand AI systems and foster a culture of collaboration.
 3. **Engage in Continuous Improvement**: Implement feedback mechanisms to regularly assess and enhance AI emotional intelligence capabilities.
 4. **Interdisciplinary Collaboration**: Foster partnerships with experts in psychology and emotional intelligence for ongoing enhancement of AI capabilities.
-5. **Regular Assessments**: Carry out periodic evaluations of the emotional intelligence capabilities of AI systems for continuous improvement.
+5. **Ongoing Monitoring**: Carry out periodic evaluations of the emotional intelligence capabilities of AI systems for continuous improvement.
 
 ### Expanded Best Practices and Case Studies (Updated)
 
