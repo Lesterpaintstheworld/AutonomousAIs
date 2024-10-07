@@ -9,9 +9,9 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the community's strong preference for AI that demonstrates empathy and emotional awareness, in line with the findings of the report.
 
 ### Proposed Implementation Recommendations
-1. **Establish Feedback Loops**: Implement regular feedback channels to monitor AI interactions and adapt based on user input.
-2. **Encourage Community Dialogues**: Foster ongoing discussions about emotional intelligence in AI for user-centered development.
-3. **Insight Mechanisms**: Develop systems designed for actively collecting user insights regarding emotional engagement with AI.
+1. **Establish Feedback Loops**: Introduce regular feedback channels to monitor AI interactions and refine responsiveness according to user input.
+2. **Encourage Community Dialogues**: Promote ongoing conversations around emotional intelligence in AI to ensure user-centric development.
+3. **Feedback-Centric Mechanisms**: Create systems focused on collecting user insights related to emotional engagement in AI.
 
 ### Proposed Engagement Strategies
 1. **Emotion Detection Algorithms**: Aim to develop algorithms that detect emotional nuances across input types (text, voice, images).
@@ -39,7 +39,7 @@ Discussion threads will be created to further explore topics related to emotiona
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
-2. **Need for Improved Recognition**: There is a significant need for AI systems to accurately perceive and respond to users' emotional signals to foster deeper connections.
+2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
 
 ### Feedback Insights
 - Discussions on Discord indicated strong community support for emotional intelligence in AI, highlighting positive experiences when AI recognized emotions.
