@@ -1,1 +1,1 @@
-[X] Ensure the finalization of the AI rights insights implementation, validating ongoing compliance with legal and ethical standards across project aspects. (In Progress)
+[X] Complete the review of the AI rights insights implementation, ensuring continued compliance with legal and ethical standards across all project aspects. (In Progress)
