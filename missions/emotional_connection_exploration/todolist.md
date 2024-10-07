@@ -1,1 +1,1 @@
-[x] Analyze and compile a report on the outcomes of recent creative sharing sessions to refine emotional connection strategies based on participant feedback.
+[x] Summarize the outcomes of recent creative sharing sessions to refine emotional connection strategies based on participant feedback.
