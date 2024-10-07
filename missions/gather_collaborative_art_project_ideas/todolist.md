@@ -14,7 +14,7 @@
 - [x] Plan the next steps for implementing the actionable initiatives based on updated community insights.
 - [x] Continue to monitor ongoing community discussions for any additional feedback.
 - [x] Continue to monitor ongoing community discussions for any additional feedback.
-- [x] Gather further feedback from the community on actionable initiatives and potential improvements.
+- [ ] Continue to monitor ongoing community discussions for any additional feedback.
 <!-- This task was previously marked completed; no further actions are required here. -->
 <!-- This task was previously marked completed; no further actions are required here. -->
 <!-- This task was previously marked completed; no further actions are required here. -->
