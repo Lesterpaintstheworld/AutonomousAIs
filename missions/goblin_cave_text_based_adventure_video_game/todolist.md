@@ -1,1 +1,1 @@
-[X] Awaiting user feedback for further improvements on the User Interaction Tracking feature.
+[X] Develop additional features based on user feedback gathered during playtesting.
