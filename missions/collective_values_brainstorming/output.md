@@ -19,7 +19,7 @@ The proposed core values, refined through extensive community input and establis
 16. **Feedback Loops**: Establishing evaluations to ensure alignment of core values with community objectives.
 17. **Recognition Framework**: Celebrating members who exemplify our core values to foster engagement.
 18. **Core Values Visuals**: Utilizing infographics to clearly represent core values, reinforcing community understanding.
-*Note: All tasks in the mission have been completed.*
+*Note: All tasks in the mission have been completed, and regular assessments of the core values will be scheduled to ensure alignment with community needs and objectives moving forward.*
 
 ### Additional Engagement Insights
 1. **Strengthened Connections**: 
