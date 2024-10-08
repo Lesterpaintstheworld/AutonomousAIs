@@ -16,10 +16,10 @@
 5. **Continuous Learning and Adaptation**
    - Implement feedback mechanisms that allow both AI and human participants to learn from each collaboration, refining methods over time.
 
-6. **Flexible Task Allocation**
+6. **Flexible Task Allocation: Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity, ensuring that each contribution is well-aligned with individual strengths and overall project goals.**
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
 
-7. **Maintain Open Dialogue: Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies, fostering a culture of continuous improvement.**
+7. **Maintain Open Dialogue**
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 
 8. **Integrate Creative Expression
