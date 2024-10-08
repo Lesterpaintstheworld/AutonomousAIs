@@ -1,4 +1,4 @@
-## Established Guidelines
+## Established Guidelines with Action Items
 
 ## Established Guidelines
 
@@ -25,8 +25,7 @@
     - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
 11. **Incorporate Poetic and Metaphorical Insights**
     - Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
-12. **Ongoing Assessment**
-- Implement periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness. These evaluations will be scheduled quarterly.
+12. **Engage in Continuous Dialogue**
     - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 13. **Promote Transparency in Collaboration**
     - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
