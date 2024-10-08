@@ -280,6 +280,7 @@ The actionable insights compiled in this document provide a comprehensive framew
   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
 
 - **Case Study G: Transparent AI in Legal Systems** 
+  - *Context*: A legal AI solution created interfaces to explain case outcomes informed by historical data analysis.
   - *Outcome*: Enhanced understanding and application of AI insights by legal professionals contributed to improved case success rates.
 
 ### Expanded Best Practices
