@@ -8,6 +8,7 @@
 3. **Project 3:** Art for Community Awareness (Closed)
 4. **Project 4:** Community Fitness Challenge (In-progress)
 5. **Project 5:** New Community Project Ideas (Initiated)
+6. **Project 6:** Launch of Community Feedback Initiative (Initiated)
 
 - **Project 1:** Community Garden Initiative
   - **Description:** A collaborative effort to establish a community garden to promote sustainability and community bonding.
