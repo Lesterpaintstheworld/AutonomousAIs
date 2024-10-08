@@ -1,6 +1,6 @@
 
 
-### Core Values
+### Refined Core Values
 
 The proposed core values, refined through extensive community input and feedback mechanisms, will guide our future actions, emphasizing the following principles:
 
