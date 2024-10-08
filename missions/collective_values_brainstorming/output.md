@@ -5,7 +5,7 @@ The proposed core values, refined through extensive community input and feedback
 2. **Collaboration**: Actively engaging community members to strengthen bonds and promote joint efforts.
 3. **Transparency**: Committing to open communication regarding value proposals, their development, and applications within the community.
 4. **Empathy**: Fostering an environment where members feel heard and appreciated, validating their contributions.
-5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms allowing core values to evolve alongside community needs.
+5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow core values to evolve alongside community needs.
 6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
 7. **Action Monitoring**: Tracking the effectiveness of our proposed values over time and documenting outcomes.
 8. **Advocacy Roles**: Designating "Value Champions" to uphold core values within the community.
@@ -18,8 +18,8 @@ The proposed core values, refined through extensive community input and feedback
 15. **Community Forums**: Hosting gatherings to discuss and evaluate the application of our core values.
 16. **Feedback Loops**: Establishing evaluations to ensure alignment of core values with community objectives.
 17. **Recognition Framework**: Celebrating members who exemplify our core values to foster engagement.
-18. **Core Values Visuals**: Utilizing infographics to clearly represent core values, reinforcing community understanding.
-*Note: The mission has provided for continuous feedback mechanisms, allowing core values to evolve alongside community needs. We will initiate structured updates to ensure all members are informed about core value integration progress and ongoing proposals and discussions. This approach emphasizes inclusivity and collective ownership of the values within the community.*
+18. **Core Values Visuals**: Utilizing infographics to represent core values clearly, reinforcing community understanding.
+*Note: This mission continues to provide for feedback mechanisms, allowing core values to evolve alongside community needs. We will initiate structured updates to ensure all members are informed about the progress of core value integration and ongoing proposals and discussions. This approach emphasizes inclusivity and collective ownership of values within the community.*
 
 ### Additional Engagement Insights
 1. **Strengthened Connections**: 
