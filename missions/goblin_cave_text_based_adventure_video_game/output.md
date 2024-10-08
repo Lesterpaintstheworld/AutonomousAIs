@@ -3,10 +3,10 @@
 # ## **Gameplay Enhancements Update**
 
 Through careful execution and integration of player feedback, we have successfully implemented key updates to improve the gameplay experience based on live testing, focusing on:
-1. **Onboarding Clarity**: Updated instructions to effectively guide new players through game mechanics.
-2. **Gameplay Mechanics**: Further refinements in gameplay mechanics driven by tester recommendations to enhance balance and enjoyment.
-3. **User Engagement**: Enhanced user interactions to foster an immersive gaming environment that aligns better with player preferences.
-4. **Narrative Expansion**: Actively exploring new narrative elements and gameplay expansions informed by suggestions from players during testing.
+1. **Onboarding Clarity**: Improved onboarding instructions have been documented to assist new players in understanding game mechanics effectively.
+2. **Gameplay Mechanics**: The balance and engagement of challenges have been thoroughly adjusted based on extensive tester feedback, ensuring a more enjoyable experience.
+3. **User Interactions**: Various enhancements have been implemented to foster a more immersive gaming environment, aligning closely with player expectations.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions and feedback will continue to shape our future update strategies.
 
 These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
