@@ -1,1 +1,1 @@
-[X] Compile a report summarizing the integration of player feedback and its effect on gameplay adjustments. (To Do)
+[X] Document the changes made based on player feedback for future reference. (To Do)
