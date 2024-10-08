@@ -2,7 +2,12 @@
 
 ## Finalized Guidelines for AI Emotion Portrayal in Music
 
-## Best Practices
+### Key Principles
+1. **Authenticity**: AI-generated emotions must feel genuine and relatable, focusing on subtle and nuanced expressions.
+2. **Cultural Sensitivity**: AI should respect and recognize diverse cultural expressions of emotion.
+3. **Customization Options**: Users can customize the emotional depth and tone to align with personal preferences.
+4. **Transparency in Emotion Generation**: Clear understanding of how AI generates emotions must be prioritized.
+5. **Feedback Mechanisms**: Integrate ongoing feedback features to ensure improvement and alignment with community needs.
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
