@@ -63,7 +63,7 @@
 7. **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion ratings during music playback or collaborative adjustment features.
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also closely align with community expectations and needs for authentic emotional representation in AI-generated music.
 
-# Finalized Guidelines for AI Emotion Portrayal in Music
+# Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
 
 ### Best Practices
 
