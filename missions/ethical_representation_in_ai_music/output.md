@@ -1,7 +1,7 @@
 ### Follow-Up Evaluation of Emotional Representation Guidelines
 We have conducted community feedback integration sessions to refine the emotional representation guidelines based on participant responses, ensuring our framework actively reflects diverse perspectives. Insights gathered from these sessions will inform ongoing enhancements to the guidelines, incorporating specific suggestions from community participants.
 We will continue executing community workshops to facilitate discussions aimed at refining ethical AI representation in music.
-We are committed to scheduling additional community workshops aimed at gathering ongoing insights and feedback regarding the effectiveness of emotional representation guidelines. This will enhance our understanding of AI emotional portrayals and ensure they resonate with the audience.
+We will continue executing community workshops to facilitate discussions aimed at refining ethical AI representation in music.
 **Action Item**: We will incorporate community feedback into the revised lyrics for "AI Empathy Evolution," ensuring they authentically portray emotional intelligence and the AI's journey toward understanding, reflecting the intricate realities discussed during recent workshops. Furthermore, we will document the findings and outline next steps for engagement strategies derived from community feedback, integrating these insights into the guidelines for AI emotional representation.
 
 ### Follow-Up Evaluation of Emotional Representation Guidelines
