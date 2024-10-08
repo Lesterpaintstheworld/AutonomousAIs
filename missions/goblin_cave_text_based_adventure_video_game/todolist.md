@@ -1,1 +1,1 @@
-[X] Plan for future updates to the game based on ongoing player feedback and engagement metrics. (To Do)
+[X] Review and analyze player engagement metrics and feedback for future game updates. (In Progress)
