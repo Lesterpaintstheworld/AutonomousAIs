@@ -36,7 +36,7 @@
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
-## Review the effectiveness of interactive feedback mechanisms.
+## Review of Interactive Feedback Mechanisms
 
 ## Key Principles
 1. **Authenticity**: AI-generated emotions must feel genuine and relatable, focusing on subtle and nuanced expressions.
@@ -112,7 +112,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 ## Review the effectiveness of interactive feedback mechanisms.
 
-Based on collected community feedback, the following insights have been gathered to enhance the emotional portrayal guidelines:
+Based on the collected community feedback, the following insights have been gathered to enhance the emotional portrayal guidelines:
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
