@@ -11,7 +11,7 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 ### Proposed Implementation Recommendations
 1. **Establish Feedback Loops**: Implement regular feedback channels to monitor AI interactions and adapt based on user input.
 2. **Encourage Community Dialogues**: Foster ongoing discussions about emotional intelligence in AI for user-centered development.
-3. **Insight Mechanisms**: Develop systems designed for actively collecting user insights regarding emotional engagement with AI.
+3. **Feedback-Centric Mechanisms**: Create systems focused on collecting user insights related to emotional engagement in AI.
 
 ### Proposed Engagement Strategies
 1. **Advanced Emotion Detection Algorithms**: Develop algorithms capable of discerning emotional nuances across various input types (text, voice, images) to enhance engagement.
@@ -34,7 +34,7 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 
 ### Next Steps
 Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
-- The final review and documentation of insights collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
+- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
 - Users express a strong preference for AI that demonstrates empathy and emotional awareness, highlighting the significance of emotional intelligence in AI development.
 
 ### Comprehensive Report on Emotional Intelligence in AI: Version 3.0
