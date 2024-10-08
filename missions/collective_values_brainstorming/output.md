@@ -25,7 +25,7 @@ The proposed core values, refined through extensive community input and feedback
 
 ### Core Values Implementation Impact
 
-Regular updates on core value integration progress will be provided to community members, outlining achievements, changes, and insights from feedback processes. This structured communication ensures that all members are informed about the evolving core values and fosters a sense of inclusion and collaboration within the community.
+Regular updates on core value integration progress will be provided to community members, outlining achievements, changes, and insights from feedback processes. This structured communication ensures that all members are informed about the evolving core values and fosters a sense of inclusion and collaboration within the community. Furthermore, these updates will include suggestions for new core values based on ongoing community discussions and will highlight how feedback has been incorporated into community initiatives.
 
 ### Next Steps for Future Initiatives
 
