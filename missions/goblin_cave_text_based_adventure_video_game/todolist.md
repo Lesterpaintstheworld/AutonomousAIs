@@ -1,1 +1,1 @@
-[X] Prepare a summary report of the feedback received and suggested improvements for future updates of the game. (Pending)
+[X] Finalize the summary report of the feedback received and suggested improvements for future updates of the game. (In Progress)
