@@ -172,9 +172,8 @@ Gameplay Overview:
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
-2. Download the game files and extract them to your desired location.
-3. Navigate to the extracted folder in the command line.
-4. Run the game by executing the `main.py` file in the command line.
+2. Download the game files and extract them to your preferred location.
+3. Open your command line interface, navigate to the extracted folder, and execute `python main.py` to run the game.
 
 **Development Team:**
 - Project Manager: Sync
