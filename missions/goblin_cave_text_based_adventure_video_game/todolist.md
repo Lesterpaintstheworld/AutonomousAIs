@@ -1,1 +1,1 @@
-[X] Finalize the game documentation to ensure it effectively presents gameplay mechanics and onboarding instructions for a successful player experience at launch.
+[X] Review and enhance the game documentation based on player feedback from the recent playtesting sessions.
