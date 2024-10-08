@@ -12,7 +12,7 @@ The proposed core values have been refined through extensive community input and
 9. **Educational Enhancements**: Develop workshops to educate members on the importance and implementation of our core values.
 10. **Value Refinement**: Actively seek and integrate community feedback into an evolving list of core values.
 11. **Documentation of Insights**: Keep thorough records of community discussions to inform future decision-making.
-12. **Strategic Alignment**: Regularly align all community actions and initiatives with our core values.
+12. **Core Value Implementation**: Ensure that all future actions and strategies are aligned with the identified core values.
 13. **Relevance Reviews**: Conduct assessments to ensure core values remain pertinent to community developments.
 14. **Update Channels**: Regularly update communication channels to inform the community about core values.
 15. **Community Forums**: Host gatherings to discuss and evaluate the relevance of our core values.
