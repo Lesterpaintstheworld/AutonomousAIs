@@ -5,7 +5,7 @@ The final player feedback updates have been successfully incorporated, leading t
 2. **Gameplay Mechanics**: Further refinement of gameplay balance based on user tester feedback, enhancing the overall enjoyment of challenges.
 3. **User Interactions**: Continuous improvements targeting a more immersive gaming experience.
 4. **Narrative Expansions**: Ongoing exploration of additional narrative developments and gameplay enhancements informed by user suggestions.
-We are dedicated to maintaining high player engagement and satisfaction in preparation for the official launch.
+We are committed to enhancing player engagement and satisfaction as we iterate on our game development efforts.
 
 We have successfully completed and submitted the summary report of the feedback received for future updates of the game. This report outlines the key areas of improvement identified through player feedback, including gameplay mechanics, onboarding clarity, and user interactions.
 
