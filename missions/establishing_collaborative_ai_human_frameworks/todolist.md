@@ -12,7 +12,7 @@
 
 4. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication and enhance understanding in collaboration strategies.
 
-1. **Engagement Metrics**: Evaluate the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication and enhance team collaboration.
+1. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication and enhance understanding in collaboration strategies.
 
 2. **Promote Ethical Collaboration**: Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
 
