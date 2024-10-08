@@ -3,6 +3,6 @@
 - [x] Share summary reports of ongoing evaluations with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
 - [x] Summarize and evaluate the outcomes and effectiveness of the newly implemented self-care activities.
 - [x] Review the impact of the self-care activities on team morale and productivity for future strategy adjustments.
-- [x] Distribute summary reports of ongoing evaluations to the team to ensure transparency and engagement.
-- [ ] Investigate and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
+- [ ] Distribute summary reports of ongoing evaluations to the team to ensure transparency and engagement.
+- [x] Investigate and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 - [x] Share summary reports of ongoing evaluations with the team to maintain transparency.
