@@ -52,8 +52,7 @@
    - **Evaluate Artistic Choices**: 
      - Review and assess various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
    - **Draft Key Principles**: 
-     - **Draft Key Principles**: 
-  - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+     - Draft a structured document outlining key principles for emotional portrayal based on community insights and feedback.
    - **Finalize Guidelines Creation**: 
      - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
    - **Engagement with Community**: 
@@ -165,7 +164,8 @@
    - Evaluated artistic choices used in portraying AI emotions and analyzed their impact on audience perception, including cultural interpretations. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance, ensuring a focus on their effectiveness and cultural interpretations.
 
 3. **Artistic Choices Evaluation**: 
-   - Evaluate artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds. 
+   - **Evaluate Artistic Choices**: 
+  - Review and assess artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds. 
      - **Authenticity Principles**: Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
      - **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
      - **Ethical Representation**: Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
