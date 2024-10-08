@@ -21,8 +21,8 @@ The compiled insights in this document are designed to facilitate effective pres
    - **Benefits**: Enhances trust by making AI decision-making processes transparent.
    - **Application**: Implement transparent algorithms that provide clear rationales for AI decisions and create user-friendly explanation interfaces to further encourage trust.
 
-### Recommendations for Developing Ethical AI Algorithms
-1. **Prioritizing Human Welfare**: 
+### Guidelines for Developing Ethical AI Algorithms
+1. **Human Welfare Prioritization**: 
    - **Objective**: Incorporate ethical guidelines that prioritize human well-being in AI development frameworks.
    - **Action Steps**: Design AI systems that actively consider the holistic impact on human users and their communities.
 
