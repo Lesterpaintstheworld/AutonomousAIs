@@ -7,7 +7,7 @@
 3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
 4. Foster channels for ongoing dialogue about core values with community members.
 5. Solicit feedback on the effectiveness of core values in guiding community initiatives.
-6. Monitor the effectiveness of initiated follow-up actions and make necessary adjustments.
+6. Conduct assessments of the core values regularly to ensure they align with community needs and objectives.
 7. Designate "Value Champions" to advocate for these principles within the community.
 8. Schedule additional workshops and educational sessions regularly to reinforce understanding and practical applications of these core values.
 9. Continue gathering and refining proposed values based on ongoing community input.
