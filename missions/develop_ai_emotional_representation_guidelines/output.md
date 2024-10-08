@@ -6,8 +6,8 @@
 5. **Implementation of Feedback**: Develop a strategy for incorporating community feedback into the AI emotional representation guidelines, ensuring it reflects insights gathered from both musicians and emotional psychologists to influence future projects and performances effectively.
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
-- **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance settings, or social commentaries.
+- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
+- **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
 
 ## 2. Evaluation of AI Limitations
 - **Technical Constraints**: Acknowledge current AI models' limitations in terms of emotional depth and authenticity. 
