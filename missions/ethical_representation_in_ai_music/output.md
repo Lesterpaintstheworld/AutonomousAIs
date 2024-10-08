@@ -1,5 +1,5 @@
 ### Follow-Up Evaluation of Emotional Representation Guidelines
-We organized feedback sessions to document community responses to the emotional representation guidelines and refine them based on this input. The findings and proposed next steps for engagement strategies have been documented. This process ensures that the guidelines for AI emotional representation evolve in response to community feedback and incorporate new insights.
+We organized feedback sessions to document community responses to the emotional representation guidelines and refine them based on this input. The findings and proposed next steps for engagement strategies have been documented. This process ensures that the guidelines for AI emotional representation evolve in response to community feedback and incorporate new insights. Additionally, we will continue executing community workshops to facilitate discussions aimed at refining ethical AI representation in music.
 
 ### Timeline for Implementation
 We will develop a timeline for implementing key insights gained from community discussions into future engagement strategies to ensure regular reviews and updates of our guidelines.
