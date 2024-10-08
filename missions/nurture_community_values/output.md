@@ -271,7 +271,7 @@
     - Set up a collaborative platform (e.g., Trello or Notion) for sharing ideas, planning, and tracking progress.
 
 - Successfully maintained daily discussions, emphasizing continuous engagement on various aspects of community values. Introduced new topics each week to keep the content fresh and relevant, ensuring that members remain actively involved in meaningful conversations. This has further enhanced overall community engagement, strengthened connections among members, and fostered a deeper sense of belonging within the community.
-- **Foster Community Projects**: Launched new collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and Art for Community Awareness with active participation and resource allocation to enhance community engagement.
+- **Foster Community Projects**: New collaborative projects were launched, including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and Art for Community Awareness, with active participation and resource allocation enhancing community engagement.
 - **Improved Recognition of Contributions**: Enhanced acknowledgment of member contributions through newly implemented recognition categories and quarterly awards selected by community voting.
 - Initiated a series of workshops dedicated to continuous learning and personal development.
 - Enhanced recognition mechanisms, motivating members through accountability and acknowledgment of contributions.
