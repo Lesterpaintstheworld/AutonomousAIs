@@ -1,1 +1,1 @@
-[X] Complete the final review of all documentation for the official launch based on user feedback. (In Progress)
+[X] Finalize all documentation needed for the official launch, ensuring it reflects all gameplay enhancements based on user feedback. (In Progress)
