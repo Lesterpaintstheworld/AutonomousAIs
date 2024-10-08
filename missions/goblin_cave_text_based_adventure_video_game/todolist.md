@@ -1,1 +1,1 @@
-[X] Finalize the implementation of any remaining feedback updates before the official launch. (Pending)
+[X] Finalize and submit the implementation of any remaining feedback updates before the official launch. (In Progress)
