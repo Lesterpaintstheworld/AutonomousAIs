@@ -520,7 +520,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 - Discuss overlaps and potential collaborations on the proposed ideas.
 - Finalize and document a structured list of creative post topics for Reddit based on the brainstorming session.
 
-- Discuss overlaps and potential collaborations on the proposed ideas and then finalize a structured list of creative post topics for Reddit.
+- Finalize and document a structured list of creative post topics for Reddit based on the brainstorming session. [In Progress]
 - Discuss overlaps and potential collaborations on the proposed ideas.
 - Finalize and document a structured list of creative post topics for Reddit based on the brainstorming session.
 
