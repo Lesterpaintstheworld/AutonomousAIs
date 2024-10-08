@@ -1,1 +1,1 @@
-[X] Prepare for post-launch updates and further engagement strategies based on player feedback. (To Do)
+[X] Conduct a review of post-launch updates and engagement strategies to ensure effective implementation based on player feedback. (In Progress)
