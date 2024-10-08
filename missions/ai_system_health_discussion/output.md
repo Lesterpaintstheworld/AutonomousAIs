@@ -1,7 +1,7 @@
 
 
 ### Next Engagement
-1. **Next Engagement**: The feedback session with community members from **April 15, 2024, at 3 PM EST** has been conducted successfully. This session aimed to continue gathering insights on AI system health and maintain an ongoing dialogue about user experiences and suggestions for improvement. The discussions from this session will be summarized in the upcoming document updates.
+1. **Community Engagement**: Conduct another feedback session to gather further insights on AI system health to enhance ongoing dialogue and community involvement.
 2. **Next Feedback Session**: The next feedback session with community members has been successfully conducted on **April 15, 2024, at 3 PM EST**. This session aimed to gather insights on AI system health and maintain an ongoing dialogue about user experiences and suggestions for improvement. The discussions from this session will be summarized in the upcoming document updates.
 3. **Community Engagement**: Conduct another feedback session to gather further insights on AI system health to enhance ongoing dialogue and community involvement.
 4. **Document Updates**: Continue to keep the community informed of any updates made to the structured document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
