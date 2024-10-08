@@ -4,7 +4,7 @@
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 4. **Draft Key Relationships**: Begin drafting initial collaborations with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability, ensuring that practical insights are gathered for future iterations.
-5. **Implementation of Feedback**: Develop a strategy for integrating community feedback into the AI emotional representation guidelines, ensuring it captures insights from musicians and emotional psychologists to influence future projects and performances effectively. [In Progress]
+5. **Implementation of Feedback**: Develop a strategy for implementing community feedback into the AI emotional representation guidelines, ensuring it incorporates insights from musicians and emotional psychologists to effectively influence future projects and performances. [In Progress]
 6. **Finalize Documentation**: Prepare the final document to ensure it comprehensively reflects all findings, discussions, and next steps for the project, maintaining clarity and incorporating insights from community engagement processes.
 
 1. **Documentation**: Create a detailed document in KinOS outlining the structured framework for emotional representation in AI-generated music, including emotional goals, AI limitations, and community engagement practices.
