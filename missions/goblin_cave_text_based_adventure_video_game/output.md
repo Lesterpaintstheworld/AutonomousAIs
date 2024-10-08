@@ -2,7 +2,7 @@
 
 # ## **Gameplay Enhancements Update**
 
-The final documentation has been thoroughly updated to accurately reflect gameplay mechanics, enhancements, and onboarding instructions based on player feedback from recent playtests, ensuring a seamless player experience at launch. We remain committed to elevating player engagement and satisfaction by integrating this final round of input while polishing the overall gameplay experience. The documentation accurately reflects gameplay enhancements and critical updates, guaranteeing a smooth and engaging player experience. This release includes a complete integration of player feedback into the game design and finalized documentation that comprehensively outlines gameplay mechanics and onboarding instructions for a successful player experience at launch. Updates will be provided every hour to track progress and keep the team informed.
+The final documentation has been thoroughly updated to accurately reflect gameplay mechanics, enhancements, and onboarding instructions based on player feedback from recent playtests, ensuring a seamless player experience at launch. We are committed to enhancing player engagement and satisfaction as we iterate on our game development efforts. The documentation accurately reflects gameplay enhancements and critical updates, guaranteeing a smooth and engaging player experience. This release includes a complete integration of player feedback into the game design and finalized documentation that comprehensively outlines gameplay mechanics and onboarding instructions for a successful player experience at launch. Updates will be provided every hour to track progress and keep the team informed.
 1. **Onboarding Clarity**: Further enhancing instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience that aligns with player expectations.
@@ -10,7 +10,7 @@ The final documentation has been thoroughly updated to accurately reflect gamepl
 
 These updates are instrumental in guiding our development strategy and ensuring sustained player satisfaction moving forward.
 
-Through the incorporation of player feedback, we have integrated key updates to enhance gameplay quality, focusing on:
+Through careful execution and integration of player feedback, we have successfully implemented key updates to improve the gameplay experience based on live testing, focusing on:
 1. **Onboarding Clarity**: Updated instructions to effectively guide new players through game mechanics.
 2. **Gameplay Mechanics**: Further refinements in gameplay mechanics driven by tester recommendations to enhance balance and enjoyment.
 3. **User Engagement**: Enhanced user interactions to foster an immersive gaming environment that aligns better with player preferences.
