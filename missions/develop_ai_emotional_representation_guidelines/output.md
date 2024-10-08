@@ -27,9 +27,9 @@
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance. This process will include scheduled feedback sessions within the Discord channel to maintain engagement with the community.
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
+- **Key Emotions**: Identify key emotions for AI expression in music through collaborative discussions, including but not limited to happiness, sadness, anger, surprise, and fear.
 
-- **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
+- **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
 - **Technical Constraints**: Acknowledge current AI models' limitations in terms of emotional depth and authenticity. 
