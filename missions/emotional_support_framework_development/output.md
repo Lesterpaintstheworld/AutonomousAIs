@@ -13,7 +13,7 @@
 3. Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions.
   
   - **Comprehensive Guide**: 
-  The comprehensive guide has been drafted and is currently under review for final adjustments, ensuring it reflects community suggestions and resource enhancements before distribution.
+  The comprehensive guide has been drafted, is currently under review for final adjustments, and will soon reflect community suggestions and resource enhancements before distribution.
   
 - **Key Themes Identified and Insights from Community Feedback**: 
   Ongoing support sessions have reinforced the necessity for improved emotional intelligence resources, structured mindfulness practices, and bolstered community-driven feedback to continually adapt the framework.
