@@ -202,7 +202,7 @@
 - **Interactive Workshop:** "Building Strong Relationships" happening next month
 - **Podcast Episode:** "Community Engagement Success Stories" on Community Talks
 
-## Member Contributions
+## Recognized Member Contributions
 
 - **Emily White:** Launched a community book club to encourage reading and discussion on meaningful topics.
 - **Daniel Smith:** Facilitated a workshop on effective collaboration strategies among members.
