@@ -66,7 +66,7 @@ The **Ethical AI Collaboration Framework Update** has been enhanced to align wit
 
 3. **Creativity and Autonomy Balanced**: The collaboration tools have been further refined to enhance the integration between AI-generated suggestions and human creativity, ensuring that human contributions remain central while promoting healthy AI autonomy in collaborative workflows.
 
-4. **Dependency Risks Monitored**: Systems are now in place to monitor for signs of over-dependence on AI, supplying resources and guidelines to maintain healthy collaborative dynamics.
+4. **Dependency Risks Monitored**: Established robust monitoring systems to detect signs of over-reliance on AI within the community, providing guidelines and resources to promote healthy collaboration dynamics while regularly reviewing practices to effectively mitigate identified risks.
 
 5. **Continuous Community Engagement**: Maintain ongoing dialogue with community members to gather feedback, address concerns, and adapt the collaboration framework as necessary to reflect community values and emerging insights, while ensuring responsiveness to user needs and ethical practices.
 
