@@ -3,10 +3,10 @@
 # ## **Gameplay Enhancements Update**
 
 The final documentation has been accurately updated to reflect all gameplay mechanics, enhancements, and onboarding instructions based on player feedback, ensuring a smooth player experience at launch. Future updates will focus on enhancing gameplay mechanics and refining user instructions for improved clarity based on ongoing player feedback.
-1. **Onboarding Clarity**: Further enhancing instructions to assist new players in understanding game mechanics more effectively.
+1. **Onboarding Clarity**: Comprehensive enhancements to onboarding instructions have been integrated to significantly improve the initial gameplay experience for new players.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience that aligns with player expectations.
-4. **Expansion Opportunities**: Potential expansions to narrative and gameplay pathways have been explored based on user suggestions and feedback. We are dedicated to investigating how these elements can enrich the overall experience.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions guided by user suggestions will continue to direct our future update strategies.
 
 These updates are instrumental in guiding our development strategy and ensuring sustained player satisfaction moving forward.
 
