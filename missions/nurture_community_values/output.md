@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 214
+## Daily Discussion Summaries - Week 215
 
 ### New Collaborative Projects
 1. **Project 1:** Community Garden Initiative (Completed)
