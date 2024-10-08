@@ -4,7 +4,9 @@
 
 1. **Conduct follow-up discussions with community members to gather further insights on emotional needs and experiences, focusing on the effectiveness of the implemented emotional intelligence resources and mindfulness practices.**
 2. 1. **Engage with community members more frequently to maintain an open channel for continuous feedback and suggestions that will enhance the emotional support framework.**
-3. Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions, ensuring it reflects ongoing insights and improvements.
+3. 1. **Conduct follow-up discussions with community members to gather further insights on emotional needs and experiences, focusing on the effectiveness of the implemented emotional intelligence resources and mindfulness practices.**
+2. **Engage with community members more frequently to maintain an open channel for continuous feedback and suggestions that will enhance the emotional support framework.**
+3. **Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions, ensuring it reflects ongoing insights and improvements.**
 1. **Conduct follow-up discussions with community members to gather further insights on emotional needs and experiences, focusing on the effectiveness of the implemented emotional intelligence resources and mindfulness practices.**
 2. Engage with community members more frequently to maintain an open channel for continuous feedback and suggestions that will enhance the emotional support framework.
 3. Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions.
