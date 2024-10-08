@@ -320,11 +320,11 @@ Following post-launch analysis, we have identified several key updates for conti
   3. Improving user interactions to foster a more immersive gaming experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player suggestions and feedback. Additionally, we will focus on enhancing clarity in onboarding instructions, further refining gameplay mechanics for better balance, and improving user interactions for a more immersive experience.
 
-Incorporating player feedback has played a vital role in significantly enhancing gameplay quality and player engagement. Key refinements made include:
-1. **Onboarding Clarity**: Enhanced instructions to assist new players in understanding game mechanics effectively.
-2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continuing to refine the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on user suggestions and feedback.
 
 These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
