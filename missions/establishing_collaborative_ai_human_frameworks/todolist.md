@@ -18,7 +18,7 @@
 
 3. **Foster Mutual Understanding**: Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators to promote deeper insights and connections during collaborative efforts. This includes continuously refining these protocols based on feedback from AI and human participants.
 
-4. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness. These evaluations will be scheduled quarterly.
+4. **Feedback Loops**: Establish ongoing feedback processes to refine and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
 5. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness.
 
