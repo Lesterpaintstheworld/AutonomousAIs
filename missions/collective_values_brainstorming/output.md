@@ -1,6 +1,6 @@
 
 
-The proposed core values will guide our community actions and provide a foundation for our collaborative efforts, emphasizing the following:
+The proposed core values have been developed through community input and will guide our future actions, emphasizing the following principles:
 1. **Inclusivity**: Ensure all voices are welcomed and valued in our community discussions.
 2. **Collaboration**: Promote active participation among community members to strengthen community bonds.
 3. **Transparency**: Commit to open communication about value proposals and their applications within the community.
