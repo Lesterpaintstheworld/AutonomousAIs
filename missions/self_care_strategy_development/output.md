@@ -34,6 +34,9 @@
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones to create a supportive environment.
+   - Set a goal to engage in regular exercise by participating in virtual fitness challenges.
+   - Celebrate individual milestones to create a supportive environment.
+   - Track exercise participation and celebrate individual milestones to create a supportive environment.
 
 3. **Encourage Balanced Nutrition**: 
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
