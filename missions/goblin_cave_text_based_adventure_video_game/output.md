@@ -2,7 +2,7 @@
 
 # ## **Gameplay Enhancements Update**
 
-The final documentation has been accurately updated to reflect all gameplay mechanics, enhancements, and onboarding instructions based on recent playtest feedback, ensuring a smooth player experience at launch. Future updates will focus on further improving gameplay mechanics and user instructions for increased clarity, using the latest feedback received.
+The final documentation has been accurately updated to reflect all gameplay mechanics, enhancements, and onboarding instructions based on recent playtest feedback, ensuring a smooth player experience at launch. Future updates will focus on enhancing gameplay mechanics and refining user instructions for improved clarity based on ongoing player feedback.
 1. **Onboarding Clarity**: Further enhancing instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience that aligns with player expectations.
