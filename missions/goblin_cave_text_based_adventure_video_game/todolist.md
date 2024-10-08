@@ -1,1 +1,1 @@
-[X] Finalize post-launch review and adjust engagement strategies according to player feedback. (Completed)
+[X] Plan for future updates to the game based on ongoing player feedback and engagement metrics. (To Do)
