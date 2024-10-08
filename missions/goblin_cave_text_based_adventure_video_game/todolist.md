@@ -1,1 +1,1 @@
-[X] Finalize the integration and comprehensive documentation of all player feedback into the game design for the upcoming launch. (In Progress)
+[X] Complete the integration and thorough documentation of all player feedback into the game design for the upcoming launch. (In Progress)
