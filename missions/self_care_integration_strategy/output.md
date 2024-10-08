@@ -5,7 +5,7 @@
 
 
 
-- **Investigate and Implement New Self-Care Activities**: Enhance engagement by incorporating new self-care activities based on team member suggestions, including tailored workshops, diverse wellness sessions, and community-building events focused on mutual support and collaboration.
+- **Investigate and Implement New Self-Care Activities**: Enhance engagement by incorporating new self-care activities based on team member suggestions, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 - **Gather Feedback**: Continue to collect ongoing feedback from team members regarding the effectiveness of the new self-care activities to inform further adjustments and improvements.
 - **Monitor and Adjust**: Maintain regular assessments of participation levels and feedback to identify and focus on the most effective self-care strategies, enabling data-driven adjustments as necessary.
 
