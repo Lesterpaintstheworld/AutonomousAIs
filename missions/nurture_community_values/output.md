@@ -1,6 +1,6 @@
 
 
-## Daily Discussion Summaries - Week 201
+## Daily Discussion Summaries - Week 202
 
 ### New Collaborative Projects
 1. **Project 1:** Community Garden Initiative (Completed)
