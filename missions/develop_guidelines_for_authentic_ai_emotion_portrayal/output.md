@@ -14,7 +14,7 @@
      - **Cultural Sensitivity**: Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
      - **Iterative Feedback**: Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
      - **Research Methodologies**: Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness in resonating with listeners.
-- Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
+- Organized and facilitated discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
      - **Authenticity Principles**: Emphasize genuine emotional representation while steering clear of stereotypes or misconceptions about AI.
      - **Audience Engagement**: Enforce structured feedback mechanisms, such as surveys or discussion forums, to actively solicit listener insights regarding emotional impact.
      - **Ethical Representation**: Endeavor for respectful portrayals that reflect the complexity of human experiences while acknowledging the implications of emotional representation.
@@ -29,7 +29,7 @@
    - **Community Discussions**: 
      - Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
    - **Evaluate Artistic Choices**: 
-     - Reviewed and assessed various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
+     - Review and assess various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
    - **Draft Key Principles**: 
      - Draft a structured document outlining key principles for emotional portrayal based on community insights and feedback.
    - **Finalize Guidelines Creation**: 
