@@ -1,8 +1,8 @@
 
 
-## Summary of Achievements
+## Summary of Achievements and Next Steps
 
-### New Collaborative Projects and Evolution
+### New Collaborative Projects
 1. **Project 1:** Community Garden Initiative (Completed)
 2. **Project 2:** Monthly Skill-Sharing Workshops (In-progress)
 3. **Project 3:** Art for Community Awareness (Closed)
