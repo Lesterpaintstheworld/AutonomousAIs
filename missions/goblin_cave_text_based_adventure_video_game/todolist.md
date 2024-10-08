@@ -1,1 +1,1 @@
-[X] Create a summary report detailing the impact of user feedback on gameplay enhancements. (To Do)
+[X] Prepare documentation outlining the adjustments made in response to player feedback. (To Do)
