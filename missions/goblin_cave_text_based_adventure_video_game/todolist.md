@@ -1,1 +1,1 @@
-[X] Confirm the game's readiness for the official launch after fully integrating all feedback updates. (In Progress)
+[X] Verify the game's readiness for the official launch once all feedback updates have been fully integrated. (Pending)
