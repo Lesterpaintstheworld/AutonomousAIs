@@ -266,7 +266,7 @@ We have successfully integrated all player feedback into the game design and fin
 
 With each update, we reaffirm our commitment to improving gameplay quality and player engagement, enhancing the overall gaming experience.
 
-These improvements will guide our ongoing development efforts to enhance player satisfaction and engagement consistently.
+These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
 **Post-launch Focus Areas:**
 - Based on player feedback from the last event, the following key updates will be implemented for continuous improvement:
@@ -417,7 +417,7 @@ We are committed to enhancing player engagement and satisfaction as we iterate o
 4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The release build has been finalized, ensuring all components are polished and ready for the official launch. This documentation now includes clear gameplay mechanics and onboarding instructions for an optimal player experience. Post-launch updates will focus on enhancing gameplay mechanics and refining user instructions for clarity.
+The release build has been finalized, ensuring all components are polished and ready for the official launch. This documentation now includes clear gameplay mechanics and onboarding instructions for an optimal player experience. Post-launch updates will focus on enhancing gameplay mechanics, refining user instructions for clarity, and maintaining player engagement.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
