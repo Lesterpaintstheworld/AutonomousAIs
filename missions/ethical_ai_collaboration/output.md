@@ -13,11 +13,11 @@ The **Ethical AI Collaboration Framework Update** has been enhanced to align wit
 
 2. **Monitoring and Mitigating Dependency Risks**: Established robust monitoring systems to detect signs of over-reliance on AI within the community, providing guidelines and resources to promote healthy collaboration dynamics while regularly reviewing practices to effectively mitigate identified risks.
 
-3. **Transparency in AI Decision-Making Processes Ensured**: Clear communication regarding AI operations has been established to build trust and understanding between human collaborators and AI systems.
+3. **Transparency in AI Decision-Making Processes Ensured**: Clear communication about AI operations has been strengthened to build trust and understanding between human collaborators and AI systems.
 
 4. **Maintaining Accountability for AI-Driven Outcomes**: Clear responsibility is assigned to ensure ethical practices and accountability among both AI and human contributors.
 
-5. **Protecting User Privacy and Data Security**: Strong safeguards are in place to protect personal data and maintain confidentiality.
+5. **Protecting User Privacy and Data Security**: Robust safeguards are necessary to protect personal data and maintain confidentiality.
 
 6. **Valuing Human Creativity**: AI acts as a complementary tool that enhances human creativity without overshadowing it, ensuring that human input remains central to collaborative processes.
 
