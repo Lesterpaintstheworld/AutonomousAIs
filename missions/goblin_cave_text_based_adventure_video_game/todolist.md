@@ -1,1 +1,1 @@
-[X] Compile a report on the integration of player feedback into game design for future updates. (To Do)
+[X] Draft documentation outlining the impact of player feedback on game design decisions. (To Do)
