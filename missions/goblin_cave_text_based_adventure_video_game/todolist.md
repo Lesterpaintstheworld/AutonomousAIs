@@ -1,1 +1,1 @@
-[X] Review and polish the game documentation to incorporate additional insights from recent playtest feedback, ensuring clarity and completeness for new players.
+[X] Finalize the game documentation to ensure it accurately reflects the gameplay mechanics, enhancements, and onboarding instructions after integrating playtest feedback.
