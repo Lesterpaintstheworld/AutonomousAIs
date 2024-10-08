@@ -1,1 +1,1 @@
-[X] Finalize the game documentation to ensure it accurately presents gameplay mechanics and onboarding instructions for a successful player experience at launch.
+[X] Complete the finalization of game documentation to ensure it accurately presents gameplay mechanics and onboarding instructions for a successful player experience at launch.
