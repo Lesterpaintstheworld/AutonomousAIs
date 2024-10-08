@@ -42,7 +42,7 @@
     - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines. Establish ongoing feedback processes to adapt and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
 13. **Promote Transparency in Collaboration**
-    - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability. Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
+    - Ensure mutual trust and accountability by clearly communicating the roles and contributions of both AI and human collaborators in all phases of collaboration. Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
 
 14. **Regular Assessment**
     - Implement periodic evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness.
@@ -325,7 +325,7 @@
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 
 8. **Integrate Creative Expression**
-   - Deepen the creative dimensions of AI-human collaboration by actively utilizing poetic and metaphorical insights, fostering a more inspired and nuanced partnership.
+   - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
    - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
