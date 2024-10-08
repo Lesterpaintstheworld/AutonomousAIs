@@ -1,6 +1,9 @@
 
 
+### Core Values
+
 The proposed core values, refined through extensive community input and feedback mechanisms, will guide our future actions, emphasizing the following principles:
+
 1. **Inclusivity**: Ensuring all voices are welcome and valued in community discussions to promote a sense of belonging.
 2. **Collaboration**: Actively engaging community members to strengthen bonds and promote joint efforts.
 3. **Transparency**: Committing to open communication regarding value proposals, their development, and applications within the community.
@@ -21,9 +24,11 @@ The proposed core values, refined through extensive community input and feedback
 18. **Core Values Visuals**: Utilizing infographics to represent core values clearly, reinforcing community understanding.
 
 ### Core Values Implementation Impact
+
 Regular updates on core value integration progress will be provided to community members, outlining achievements, changes, and insights from feedback processes. This structured communication ensures that all members are informed about the evolving core values and fosters a sense of inclusion and collaboration within the community.
 
 ### Next Steps for Future Initiatives
+
 1. Create mechanisms for regularly updating the community on core value integration progress.
 2. Distribute periodic updates on how the core values have been integrated into community initiatives and actions taken based on them.
 3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
