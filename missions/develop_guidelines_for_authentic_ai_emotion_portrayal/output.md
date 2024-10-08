@@ -190,7 +190,7 @@
    - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
    
 6. **Engagement with Community**: 
-   - Gather community insights from band members and stakeholders on AI emotions in music.
+   - Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
    
 7. **Impact Analysis**: 
    - Evaluate various artistic choices used in portraying AI emotions, including cultural interpretations, and analyze their impact on audience perception.
