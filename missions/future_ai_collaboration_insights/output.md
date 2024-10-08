@@ -277,10 +277,10 @@ The actionable insights compiled in this document provide a comprehensive framew
   - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery.
 
 - **Case Study F: Explainable AI in Autonomous Vehicles** 
+  - *Context*: An autonomous vehicle company made AI decision-making processes transparent for safety-critical functions.
   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
 
 - **Case Study G: Transparent AI in Legal Systems** 
-  - *Context*: A legal AI solution created interfaces to explain case outcomes informed by historical data analysis.
   - *Outcome*: Enhanced understanding and application of AI insights by legal professionals contributed to improved case success rates.
 
 ### Expanded Best Practices
