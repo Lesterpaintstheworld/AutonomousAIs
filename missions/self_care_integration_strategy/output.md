@@ -37,7 +37,7 @@ Following the specifications and procedures, the Self-Care Integration Strategy 
 
 3. **Community Building Events**: Feedback indicates a strong preference for collaborative events that foster support among team members. Group challenges or social events will be prioritized to strengthen team cohesion and enhance self-care practices.
 
-The updated Self-Care Integration Strategy has been successfully implemented. All team members can now engage in flexible self-care activities integrated into their daily workflows, leading to improved morale, increased productivity, and enhanced collaboration.
+The Self-Care Integration Strategy has been successfully updated and implemented. All team members are now able to engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration.
 
 **Engagement Metrics**:
 - Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
