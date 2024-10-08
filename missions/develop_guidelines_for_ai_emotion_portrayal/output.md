@@ -112,7 +112,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 ## Review the effectiveness of interactive feedback mechanisms.
 
-Based on the collected community feedback, the following insights have been gathered to enhance the emotional portrayal guidelines:
+Based on collected community feedback, the following insights have been gathered to enhance the emotional portrayal guidelines:
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
