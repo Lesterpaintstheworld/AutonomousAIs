@@ -31,7 +31,7 @@
    - **Evaluate Artistic Choices**:
      - Review and assess various artistic choices used in portraying AI emotions, documenting their reception across different audience demographics.
    - **Draft Key Principles**: 
-     - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+     - Created a structured document detailing key principles for authentic emotional portrayal, emphasizing cultural responsiveness and authenticity based on gathered insights.
    - **Finalize Guidelines Creation**: 
      - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
    - **Engagement with Community**: 
