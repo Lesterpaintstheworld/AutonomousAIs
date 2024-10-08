@@ -34,7 +34,7 @@
 - Enhanced acknowledgment of member contributions through newly implemented recognition categories and quarterly awards selected through community voting.
 - **Foster Community Projects**: Initiated collaborative projects including the Community Garden Initiative, Monthly Skill-Sharing Workshops, and Art for Community Awareness, emphasizing active participation and resource allocation to enhance community engagement.
 - **Improved Recognition of Contributions**: Expanded recognition of member contributions through newly implemented recognition categories and quarterly awards selected through community voting. A continuous feedback mechanism has been established to further recognize and reward member contributions.
-- **Next Steps**: Continue identifying, planning, and implementing collaborative projects that enhance member engagement and embody community principles. Establish committees to drive project initiatives and oversee execution. Assign leads to each committee and ensure regular check-ins for progress updates.
+- **Next Steps**: Continue identifying, planning, and implementing innovative community projects that elevate member engagement and represent the community's core values. Establish committees to drive project initiatives and oversee execution. Assign leads to each committee and ensure regular check-ins for progress updates.
 
 ### Day 1: Promoting Interactivity
 - **Topic:** Engaging Members through Interactive Formats
@@ -56,7 +56,7 @@
 - **Topic:** Creative Ideas for Boosting Involvement
 - **Summary:** Reviewed suggestions for themed events and workshops, collecting feedback on preferences for future activities.
 
-### Day 6: Gaining Insights for Continuous Improvement
+### Day 6: Insights and Continuous Improvement
 - **Topic:** Harvesting Feedback for Growth
 - **Summary:** Held another feedback session to collect insights for refining our engagement strategies based on current needs and trends.
 
