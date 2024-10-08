@@ -4,7 +4,7 @@ We will continue executing community workshops to facilitate discussions aimed a
 ### Timeline for Implementation
 
 - **Community Workshops**: Organize community workshops to facilitate discussions aimed at refining ethical AI representation in music based on recent feedback. These workshops will actively seek input from participants to inform our guidelines and strategies, serving as platforms for engaging the community in meaningful dialogue about the ethical implications of AI in music.
-A timeline for implementing key insights gained from community discussions into future engagement strategies will be established to ensure regular reviews and updates of our guidelines.
+We will develop a timeline for implementing key insights gained from community discussions into future engagement strategies to ensure regular reviews and updates of our guidelines.
 
 ### Document the Findings
 We will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This ongoing process will ensure that the guidelines evolve to meet the needs and concerns of the community. We will establish regular feedback loops and integrate insights from public forums and discussions, ensuring diverse perspectives are acknowledged and enacted in future revisions while enhancing the connection between AI creators and listeners.
