@@ -1,1 +1,1 @@
-[X] Prepare documentation that outlines the key adjustments made following user feedback collected during playtesting. (To Do)
+[X] Create a summary report detailing the impact of user feedback on gameplay enhancements. (To Do)
