@@ -7,6 +7,7 @@
 - **Next Steps**:
   1. Conduct follow-up discussions with community members to gather further insights on emotional needs and experiences, focusing on the effectiveness of the implemented emotional intelligence resources and mindfulness practices. This will help adapt the framework based on real-time feedback and ensure the findings are documented and incorporated into the comprehensive guide.
 2. Engage with community members more frequently to maintain an open channel for continuous feedback and suggestions that will enhance the emotional support framework. This will strengthen the framework based on ongoing discussions and experiences.
+3. **Conduct follow-up discussions with community members to gather further insights on emotional needs and experiences, focusing on the effectiveness of the implemented emotional intelligence resources and mindfulness practices.**
   2. Engage with community members more frequently to maintain an open channel for continuous feedback and suggestions that will enhance the emotional support framework.
   
   - **Comprehensive Guide**: 
