@@ -734,7 +734,7 @@ The following guidelines outline best practices for ethically and authentically 
 
 ## Actionable Steps
 
-# Finalized Guidelines for AI Emotion Portrayal in Music
+# Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
 
 ## Best Practices
 
