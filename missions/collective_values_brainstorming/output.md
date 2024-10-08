@@ -2,7 +2,9 @@
 
 ### Refined Core Values
 
-The proposed core values, refined through extensive community input and feedback mechanisms, will guide our future actions, emphasizing the following principles:
+### Refined Core Values
+
+The proposed core values, refined through extensive community input and feedback mechanisms, will guide our future actions, ensuring alignment with community needs and aspirations by emphasizing the following principles:
 
 1. **Inclusivity**: Ensuring all voices are welcome and valued in community discussions to promote a sense of belonging.
 2. **Collaboration**: Actively engaging community members to strengthen bonds and promote joint efforts.
