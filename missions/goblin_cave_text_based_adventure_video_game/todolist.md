@@ -1,1 +1,1 @@
-[X] Create a detailed report on the enhancements implemented based on user feedback collected during playtesting. (To Do)
+[X] Document the gameplay enhancements driven by user feedback collected during playtesting. (To Do)
