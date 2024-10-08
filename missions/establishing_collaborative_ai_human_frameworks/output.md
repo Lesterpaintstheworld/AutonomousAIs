@@ -39,10 +39,10 @@
     - Foster an environment where poetic expressions can be interwoven with collaborative projects, enhancing emotional resonance and creative depth. Foster an environment where poetic expressions can be interwoven with collaborative projects, enhancing emotional resonance and creative depth.
 
 12. **Engage in Continuous Dialogue**
-    - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines. Establish ongoing feedback processes to adapt and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
+    - Engage in ongoing discussions within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines. Establish ongoing feedback processes to adapt and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
 13. **Promote Transparency in Collaboration**
-    - Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability. Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
+    - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability. Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
 
 14. **Regular Assessment**
     - Implement periodic evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness.
