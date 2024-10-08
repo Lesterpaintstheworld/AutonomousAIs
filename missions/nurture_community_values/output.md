@@ -30,6 +30,16 @@
    - **Goals:** Promote intergenerational learning and mentorship.
    - **Next Steps:** Plan the first discussion theme and gather questions from participants.
 
+10. **Project 10:** Creative Collective
+    - **Description:** A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
+    - **Goals:** Enhance creative collaboration and promote local talent within the community.
+    - **Next Steps:** Host an initial meeting to discuss ideas and establish participation.
+
+11. **Project 11:** Skills for Success Series
+    - **Description:** A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
+    - **Goals:** Equip community members with valuable skills to enhance their personal and professional lives.
+    - **Next Steps:** Survey community interest in workshops and begin scheduling sessions.
+
 ### New Project Ideas
 11. **Project 10:** Creative Collective
     - **Description:** A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
