@@ -1,1 +1,1 @@
-[X] Review and update the documentation of gameplay enhancements based on feedback responses from playtesting. (Complete)
+[X] Archive the finalized documentation of gameplay enhancements based on feedback responses from playtesting. (Complete)
