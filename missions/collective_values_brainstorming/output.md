@@ -9,11 +9,11 @@
 5. Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 6. Organize regular forums to encourage community insights regarding core values' relevance.
 7. Monitor the effectiveness of initiated follow-up actions and make necessary adjustments.
-8. Designate "Value Champions" to advocate for these principles within the community, ensuring visibility and consistent promotion of core values.
+8. Designate "Value Champions" to advocate for these principles within the community to ensure visibility and consistent promotion of core values.
 9. Schedule additional workshops and educational sessions regularly to reinforce understanding and applications of these core values.
-10. Ensure all future actions and strategies align with the identified core values.
+10. Ensure that all future actions and strategies align with the identified core values.
 11. Create a system for recognizing contributions that align with established core values, promoting sustained commitment to community principles.
-12. Conduct regular assessments of core values to ensure alignment with community needs and objectives.
+12. Conduct regular assessments of core values to ensure that they continue to meet community needs and objectives.
 
 ### Additional Engagement Insights
 1. **Strengthened Connections**: 
