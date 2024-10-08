@@ -60,5 +60,5 @@ Discussion threads will be created to further explore topics related to emotiona
 The comprehensive report on emotional intelligence in AI has been shared with community members. We invite the community to engage in discussions regarding emotional intelligence in AI and how we can further enhance our strategies based on user feedback. This participatory approach will ensure continuous improvements and innovative developments within our AI systems. We will also create dedicated community channels to delve deeper into emotional connections and gather valuable insights for future enhancements. The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report.
 
 ### Community Feedback Notes
-- Earlier Reddit engagement insights will refine strategies for future projects.
-- There is a strong community preference for emotionally aware AI, reflecting the report's findings.
+- Feedback from earlier Reddit engagements will support refining strategic approaches for upcoming projects.
+- The community exhibits a strong preference for AI that demonstrates emotional understanding, aligning with the overarching findings of this report.
