@@ -2,11 +2,11 @@
 
 # Gameplay Adjustments Based on User Feedback
 
-Following the incorporation of feedback from recent playtests, we have implemented several key updates aimed at improving player experience:
-1. **Onboarding Clarity**: Enhanced instructions to assist new players in understanding the game's mechanics.
-2. **Gameplay Mechanics**: Adjustments have been made to refine the balance and engagement of challenges, resulting in a more enjoyable experience.
-3. **User Interaction Optimization**: We have improved interactions to create a more immersive gaming environment, aligning with player expectations.
-4. **Expansion Opportunities**: We are exploring additional narrative elements and gameplay expansions based on user suggestions.
+Based on user feedback, the following enhancements have been made to improve player experience in the Goblin Cave:
+1. **Onboarding Clarity**: Streamlined instructions to guide new players in understanding the game's mechanics more effectively.
+2. **Gameplay Mechanics**: Refined the difficulty and engagement levels of challenges for a more enjoyable experience.
+3. **User Interaction Optimization**: Elevated user interface interactions to create a more immersive gaming environment.
+4. **Expansion Opportunities**: Actively considering narrative expansions based on user suggestions and gameplay testing.
 
 Additionally, robust user documentation is now included to support installation and gameplay, outlining clear steps for new players to enhance their understanding of the game mechanics and ensure an enjoyable user experience during installation and play.
 
