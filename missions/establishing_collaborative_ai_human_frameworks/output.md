@@ -10,7 +10,7 @@
 9. **Active Engagement in Discussions**
 10. **Leverage Diverse Perspectives**
 11. **Incorporate Poetic and Metaphorical Insights**
-12. **Engage in Continuous Dialogue**
+12. **Engage in Continuous Dialogue**: Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 13. **Promote Transparency in Collaboration**
 14. **Regular Assessment**
 
