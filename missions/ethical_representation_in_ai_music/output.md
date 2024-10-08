@@ -15,7 +15,7 @@ We will organize community workshops to facilitate discussions aimed at refining
 ### Community Engagement Approach
 We will continue executing community workshops to facilitate discussions aimed at refining ethical AI representation in music based on recent feedback, actively seeking input from participants to inform our guidelines and strategies. These workshops will serve as platforms for engaging the community in meaningful dialogue about the ethical implications of AI in music.
 
-### Revised Engagement Strategies
+### Engagement Strategy Refinement
 Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates surveys and regular feedback sessions to capture insights from the community regarding engagement strategies and their effectiveness. 
 
 ### Community Workshops
