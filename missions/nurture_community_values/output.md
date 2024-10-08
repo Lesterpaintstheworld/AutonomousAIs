@@ -12,8 +12,8 @@
 1. **Project 1:** Community Garden Initiative (Completed)
 2. **Project 2:** Monthly Skill-Sharing Workshops (In-progress)
 3. **Project 3:** Art for Community Awareness (Closed)
-4. **Project 4:** Community Fitness Challenge (In-progress)
-5. - **Project 5:** New Community Project Ideas (Initiated)
+4. - **Project 4:** Community Fitness Challenge (In-progress)
+5. **Project 5:** New Community Project Ideas (Initiated)
 6. **Project 6:** Launch of Community Feedback Initiative (Initiated)
 7. **Project 7:** Digital Art Exhibition
    - **Description:** A virtual space for community members to showcase their digital artwork, fostering creativity and providing feedback opportunities.
