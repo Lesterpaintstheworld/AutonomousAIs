@@ -9,8 +9,8 @@ Following the incorporation of player feedback, we have updated several elements
 4. **Expansion Opportunities**: Extensive explorations into narrative and gameplay expansions have been documented, guided by user recommendations for future updates.
 
 Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates to enhance gameplay quality and player engagement. The primary updates include:
-1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
-2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on player feedback, ensuring a balanced and enjoyable experience.
+1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
+2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 1. **Onboarding Clarity**: Comprehensive enhancements to onboarding instructions have been integrated to significantly improve the initial gameplay experience for new players.
