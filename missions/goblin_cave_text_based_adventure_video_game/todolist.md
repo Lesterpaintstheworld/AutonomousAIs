@@ -1,1 +1,1 @@
-[X] Archive the documentation of gameplay enhancements based on user feedback from playtesting. (Complete)
+[X] Confirm that the documentation of gameplay enhancements based on user feedback from playtesting has been archived. (Complete)
