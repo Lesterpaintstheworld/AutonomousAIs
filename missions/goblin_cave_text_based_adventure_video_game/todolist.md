@@ -1,1 +1,1 @@
-[X] Complete thorough documentation updates incorporating player feedback and enhancements to onboarding and gameplay mechanics for the official launch.
+[X] Finalize documentation updates to clearly outline gameplay mechanics and onboarding instructions for new players ahead of the official launch.
