@@ -86,7 +86,7 @@ This document has been updated to reflect recent community feedback, enhancing o
 
 ### Follow-Up Actions
 1. **Engagement with Community**: Actively engage in discussions with community members after sharing the final document to address any additional feedback or inquiries.
-2. **Host a Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue.
+2. **Host a Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue. The next feedback session with community members is scheduled for **April 15, 2024, at 3 PM EST**.
 3. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, informed by updated community insights and relevant research findings.
 4. **Share Document**: Continue to keep the community informed of updates after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 5. **Finalize Document**: Incorporate all recent feedback obtained and publish the final document in the channel.
