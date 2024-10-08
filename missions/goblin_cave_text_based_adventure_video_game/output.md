@@ -6,7 +6,7 @@ We have successfully analyzed player feedback and implemented updates to enhance
 3. **User Interactions**: Improved various interactions to enhance immersion and align with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative and gameplay expansions informed by player suggestions and feedback.
 
-Our commitment to enhancing player engagement and satisfaction remains strong, and we are dedicated to continually refining the game based on valuable insights from our community.
+We have successfully completed and submitted the summary report of the feedback received for future updates of the game. This report outlines the key areas of improvement identified through player feedback, including gameplay mechanics, onboarding clarity, and user interactions.
 
 - We have finalized our player feedback analysis and made updates to enhance gameplay quality and strengthen player engagement:
 1. **Onboarding Clarity**: Improved onboarding instructions for new players to ensure a comprehensive understanding of game mechanics.
