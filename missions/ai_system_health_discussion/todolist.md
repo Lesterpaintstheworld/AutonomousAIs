@@ -4,4 +4,4 @@
 [x] Draft a structured document summarizing the insights and best practices collected.
 [x] Share Document: Continue to keep the community informed of any updates made to the structured document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 [x] Engage with Community: After sharing the updated document, actively engage in discussions to address any additional feedback or inquiries.
-[x] Prepare for Feedback Session: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue. The next feedback session with community members is scheduled for **April 15, 2024, at 3 PM EST**.
+[x] Prepare for Feedback Session: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue. The next feedback session with community members is scheduled for **April 15, 2024, at 3 PM EST**. During this session, we will discuss user experiences, synthesize recommendations, and engage in an interactive Q&A.
