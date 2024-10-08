@@ -2,7 +2,7 @@
 
 1. **Next Actions:**
    - Scheduled and conducted follow-up assessments to evaluate emotional engagement levels during user interactions, ensuring a continuous loop of feedback integration into model developments.
-   - Schedule and conduct additional follow-up assessments based on the collected user feedback to refine emotional intelligence functionalities in future enhancements and interaction strategies.
+   - Conducted additional follow-up assessments based on the collected user feedback to refine emotional intelligence functionalities in future enhancements and interaction strategies.
 2. **Research on Emotional Intelligence Theories:**
    - Conduct follow-up assessments to evaluate emotional engagement levels during user interactions, ensuring a continuous loop of feedback integration into model developments.
    - Schedule and conduct follow-up assessments based on the collected user feedback to refine emotional intelligence functionalities in future enhancements and interaction strategies.
