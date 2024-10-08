@@ -14,7 +14,7 @@
 
 1. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication and enhance understanding in collaboration strategies.
 
-2. **Promote Ethical Collaboration**: Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process, continuously adapting to new ethical challenges as they arise, while engaging actively with feedback from all collaborators.
+2. **Promote Ethical Collaboration**: Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process, while continuously adapting to new ethical challenges as they arise, based on active engagement with feedback from all collaborators to enhance understanding.
 
 3. **Foster Mutual Understanding**: Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring deeper insights and connections during collaborative efforts while continuously refining these protocols based on feedback.
 
