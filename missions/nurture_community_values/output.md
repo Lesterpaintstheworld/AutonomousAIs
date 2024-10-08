@@ -3,7 +3,7 @@
 #### Summary of Achievements and Next Steps (Updated)
 
 #### Archive Mission Documentation
-- Successfully completed archival of mission documentation for future reference to ensure all insights and contributions are preserved.
+- Successfully completed archival of mission documentation for future reference, ensuring all insights and contributions are preserved.
 
 - **Action Completed:** Archived mission documentation, ensuring all insights and contributions are preserved for future reference.
 - **New Community Project Ideas:** Exploration of innovative community project ideas has been integrated into the planning stages for future initiatives.
