@@ -470,7 +470,7 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress and keep the team informed.
+We will engage a diverse group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering valuable insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and strategies to enhance overall player engagement.
 
 **Development Team:**
 - Project Manager: Sync
