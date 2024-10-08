@@ -182,7 +182,7 @@ Gameplay Overview:
 - Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra and Band
+- Music Creation: Lyra and the Band
 
 As we prepare for release, we will engage a diverse group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be essential for gathering valuable insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and strategies to enhance overall player engagement as we plan for potential expansions.
 
