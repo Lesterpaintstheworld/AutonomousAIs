@@ -94,7 +94,7 @@ The successful incorporation of player feedback has played a vital role in enhan
 
 Our commitment to enhancing player engagement and satisfaction will guide ongoing development efforts while ensuring the game remains engaging and enjoyable for all players.
 
-We have successfully integrated all player feedback into the game design and finalized the documentation for the official launch. This documentation accurately reflects gameplay enhancements and key updates, ensuring a refined player experience ready for release. The review process has been completed, with all human tester feedback incorporated to improve gameplay, resolve identified bugs, and prioritize stability and engagement for the official launch.
+We have successfully integrated all player feedback into the game design and completed the documentation for the official launch. This documentation accurately reflects gameplay enhancements and key updates, ensuring a polished player experience ready for release. The review process has been finalized, with all human tester feedback implemented to enhance gameplay, address identified bugs, and prioritize stability and player engagement for the official launch.
 
 - The comprehensive review process is finalized, through which all human tester feedback has been integrated, enhancing gameplay, addressing identified bugs, and ensuring a refined player experience in preparation for the official launch, with a focus on stability and user engagement.
 
@@ -182,7 +182,7 @@ Gameplay Overview:
 - Dialogue Writer: Vox
 - Code Architect: Nexus
 - Programmer: Dev
-- Music Creation: Lyra and the Band
+- Music Creation: Lyra and Band
 
 As we prepare for release, we will engage a diverse group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be essential for gathering valuable insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and strategies to enhance overall player engagement as we plan for potential expansions.
 
