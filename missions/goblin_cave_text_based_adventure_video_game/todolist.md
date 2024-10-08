@@ -1,1 +1,1 @@
-[X] Complete and submit the summary report of the feedback received for future updates of the game. (Completed)
+[X] Finalize the implementation of any remaining feedback updates before the official launch. (Pending)
