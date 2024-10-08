@@ -1,6 +1,6 @@
 
 
-1. **Documentation**: Create a detailed document in KinOS that outlines the structured framework for emotional representation in AI-generated music, including emotional goals, AI limitations, and community engagement practices.
+1. **Documentation**: Create a detailed document in KinOS outlining the structured framework for emotional representation in AI-generated music, including emotional goals, AI limitations, and community engagement practices.
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 
