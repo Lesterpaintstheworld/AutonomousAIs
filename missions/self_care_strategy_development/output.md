@@ -44,13 +44,13 @@
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
-   - Share resources on sleep hygiene and techniques for improving sleep quality.
 
 5. **Foster Social Connections**: 
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
    - Actively engage in conversations and listen to others to strengthen connections.
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
    - Join community groups or clubs that align with your interests.
+   - Encourage team members to build connections within and outside the team.
 
 6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
