@@ -1,7 +1,7 @@
 ### Implementation Plan
 1. **Documentation**: Create a detailed document in KinOS outlining the structured framework for emotional representation in AI-generated music, including emotional goals, AI limitations, and community engagement practices.
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
-3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
+3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback through scheduled feedback sessions, ensuring continuous improvements and relevance.
 4. **Key Relationships**: Begin drafting initial collaborations with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability, ensuring that practical insights are gathered for future iterations.
 5. **Implementation of Feedback**: Develop a strategy for implementing community feedback into the AI emotional portrayal guidelines and its influence on future projects and performances.
 
@@ -96,7 +96,7 @@ This document outlines a structured framework for emotional representation in AI
 - **Collect Feedback**: Engage with the community and experts for feedback on emotional representations in music.
 - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs.
 
-This framework aims to provide a comprehensive, practical approach to emotional representation in AI-generated music, highlighting critical emotional goals, acknowledging AI limitations, and fostering community collaboration for continuous improvement. It will also emphasize the importance of iterative feedback for enhancing emotional accuracy in AI-generated compositions.
+This framework aims to provide a comprehensive, practical approach to emotional representation in AI-generated music, highlighting critical emotional goals, acknowledging AI limitations, and fostering community collaboration for continuous improvement.
 
 This document outlines a structured framework for emotional representation in AI-generated music, focusing on:
 1. **Identification of Emotional Goals**
