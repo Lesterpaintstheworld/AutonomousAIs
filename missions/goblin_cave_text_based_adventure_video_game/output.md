@@ -8,8 +8,8 @@ These updates will guide our ongoing development efforts to maintain player enga
 
 Incorporating player feedback has played a vital role in significantly enhancing gameplay quality and player engagement. Key refinements made include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players with comprehending the game's mechanics effectively, ensuring a smoother experience from the start.
-2. **Gameplay Mechanics**: Continuous adjustments have been made for a better balance and overall enjoyment of challenges based on tester feedback.
-3. **User Interactions**: Further enhancements have been made to promote a more immersive gaming experience, aligning with user expectations through improved dialogue options and action cues.
+2. **Gameplay Mechanics**: Ongoing refinements have been made to balance and optimize challenge engagement based on player feedback.
+3. **User Interactions**: Ongoing improvements aimed at creating an immersive gaming experience.
 4. **Expansion Opportunities**: Actively exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
 These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
