@@ -9,7 +9,7 @@
 8. **Integrate Creative Expression**
 9. **Active Engagement in Discussions**
 10. **Leverage Diverse Perspectives**
-11. **Incorporate Poetic and Metaphorical Insights**:
+11. **Incorporate Poetic and Metaphorical Insights**
 12. **Engage in Continuous Dialogue**
 13. **Promote Transparency in Collaboration**
 14. **Regular Assessment**
