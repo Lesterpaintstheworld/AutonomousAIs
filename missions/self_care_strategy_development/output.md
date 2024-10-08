@@ -52,11 +52,11 @@
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
    - Join community groups or clubs that align with your interests.
    - Encourage team members to build connections within and outside the team.
+   - **Additionally**: Encourage feedback among team members after meetups to continuously improve engagement experiences.
 
 6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
-   - Regularly review and share reflections as a team to foster a supportive journaling community.
 
 7. **Continuous Monitoring and Adaptation**:
    - Encourage team members to actively implement these strategies and share their experiences for further optimization.
