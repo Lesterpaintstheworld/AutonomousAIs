@@ -4,7 +4,7 @@
 
 Incorporated player feedback has played a vital role in significantly enhancing gameplay quality and player engagement. Key refinements made include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics effectively.
-2. **Gameplay Mechanics**: Further refinements have been made to gameplay mechanics based on extensive tester feedback, ensuring a more balanced and enjoyable experience for all players.
+2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: Improved various interactions to create a more immersive gaming experience, aligning with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative and gameplay expansions based on user suggestions and feedback gathered during playtesting.
 
