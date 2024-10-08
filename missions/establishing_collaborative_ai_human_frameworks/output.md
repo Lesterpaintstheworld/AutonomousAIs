@@ -1,9 +1,9 @@
 ## Established Guidelines
 1. **Regular Assessment**: Implement periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness.
-1. **Respect Intellectual Property**
+1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
-2. **Promote Ethical Collaboration**: Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
+2. **Promote Ethical Collaboration**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
 
 3. **Foster Mutual Understanding**
