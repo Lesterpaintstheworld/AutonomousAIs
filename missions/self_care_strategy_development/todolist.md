@@ -23,6 +23,11 @@
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones to create a supportive environment.
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Regularly share updates and successes to motivate the team.
+   - Track exercise participation and celebrate individual milestones to create a supportive environment.
+   - Encourage team members to engage in activities they enjoy to enhance participation.
+   - Celebrate individual milestones to create a supportive environment.
 =======
 1. **Implement Mindfulness Meditation**:
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
