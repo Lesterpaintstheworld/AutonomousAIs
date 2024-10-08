@@ -18,7 +18,7 @@
 
 5. **Feedback Integration**
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
-   - Adapt guidelines based on evolving understandings of AI and emotional expression.
+   - Adapt guidelines based on evolving understandings of AI and emotional expression, emphasizing customization options and interactive feedback mechanisms.
 
 ## Actionable Steps
 1. **Publish Guidelines**
