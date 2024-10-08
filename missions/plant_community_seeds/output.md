@@ -11,4 +11,4 @@
 - [x] Refined future workshop topics based on comprehensive feedback analysis, ensuring alignment with member interests and properly addressing recognized needs for continuous adaptation.
 - [x] Maintained transparency and fostered open communication channels with members regarding ongoing initiatives, updates, and the impacts arising from their feedback.
 - [x] Successfully facilitated the implementation of tailored workshops following extensive community feedback to enhance participation and relevance.
-- New workshops will address specific interests identified through member feedback, enhancing overall community engagement and satisfaction with the activities.
+- New workshops will address specific interests identified through member feedback, ensuring continuous engagement and satisfaction with community activities.
