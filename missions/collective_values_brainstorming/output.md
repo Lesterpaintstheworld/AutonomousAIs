@@ -17,6 +17,8 @@ The proposed core values will guide our community actions, focusing on:
 14. **Community Forums**: Regular forums will encourage insights on the relevance of core values.
 15. **Feedback Loops**: Active evaluations will measure how well core values resonate with projects and initiatives.
 16. **Recognition Framework**: A system will be implemented to acknowledge contributions aligning with established core values.
+17. **Core Values Visuals**: Incorporate visuals or infographics to represent core values clearly and engagingly.
+18. **Survey Mechanisms**: Regular surveys will be implemented to gather member feedback on core values effectiveness and relevance.
 
 ### Additional Engagement Insights
 1. **Strengthened Connections**: 
