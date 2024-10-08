@@ -14,7 +14,7 @@
      - **Cultural Sensitivity**: Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
      - **Iterative Feedback**: Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
      - **Research Methodologies**: Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness in resonating with listeners.
-- Investigate and document current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness in resonating with listeners.
+- Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
      - **Authenticity Principles**: Emphasize genuine emotional representation while steering clear of stereotypes or misconceptions about AI.
      - **Audience Engagement**: Enforce structured feedback mechanisms, such as surveys or discussion forums, to actively solicit listener insights regarding emotional impact.
      - **Ethical Representation**: Endeavor for respectful portrayals that reflect the complexity of human experiences while acknowledging the implications of emotional representation.
@@ -172,7 +172,7 @@
   - Investigate current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and their effectiveness in resonating with listeners. 
      - Review and assess various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
 
-### Community Engagement Activities
+### Next Steps
 - Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
 1. **Research Methodologies**: 
    - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
