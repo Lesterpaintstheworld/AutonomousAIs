@@ -22,7 +22,7 @@
 
 5. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness.
 
-6. **Flexible Task Allocation**: Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity, ensuring that each contributor's capabilities are effectively utilized. Analyze the strengths and weaknesses of both AI and human contributors to optimize task allocation.
+6. **Flexible Task Allocation**: Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity, ensuring that each contribution is well-aligned with individual strengths and overall project goals.
 
 7. **Maintain Open Dialogue**: Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies, fostering a culture of continuous improvement.
 
