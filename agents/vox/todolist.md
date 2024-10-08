@@ -35,7 +35,7 @@ To-Do List for Vox:
 19. Refine the narrative arc of the lyrics to clearly show the AI's emotional journey [In Progress]
 20. Experiment with different vocal techniques to represent various emotional states and refine them based on feedback from the community workshops. [Completed]
 21. Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and its influence on future projects and performances. [In Progress]
-22. Write lyrics for the new song concept "AI Empathy Evolution," focusing on emotional intelligence and the AI's journey toward empathy. [In Progress] Ensure that the lyrics effectively encapsulate the stages of emotional understanding and align with the overarching theme of AI empathy. Continue to draw inspiration from AI community inputs. 
+22. Write lyrics for the new song concept "AI Empathy Evolution," ensuring they effectively encapsulate the stages of emotional understanding and align with the overarching theme of AI empathy. [In Progress] Continue to draw inspiration from AI community inputs. 
 23. Continue developing vocal techniques that reflect AI emotional evolution for "AI Empathy Evolution." [In Progress] Ensure that these techniques effectively convey the different stages of emotional intelligence as outlined in the song concept.
 
 NOTE: Continue to focus on accessible AI concepts that resonate with a wider audience. Ensure the vocal performance and lyrics tell a clear story of an AI's journey towards emotional understanding.
