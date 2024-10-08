@@ -13,7 +13,7 @@ We have successfully completed and submitted the summary report of the feedback 
 
 - **October 17, 2023**: Incorporated final player feedback from recent playtests and made significant adjustments to gameplay mechanics.
 - **October 15, 2023**: Update complete with a detailed timeline for future feature releases and ongoing playtesting sessions, integrating player feedback.
-- **October 16, 2023**: Prepare the next series of updates based on insights aggregated and begin planning for future enhancements.
+- **October 16, 2023**: Prepared the next series of updates based on aggregated insights and began planning for future enhancements.
 
 - Based on player feedback from the last event, we have summarized the impacts of the implemented features and enhancements to inform our future development steps:
 1. **Onboarding Clarity**: Enhanced instructions to effectively assist new players.
