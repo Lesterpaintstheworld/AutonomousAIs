@@ -3,7 +3,7 @@
 # ## Gameplay Enhancements Update 
 
 Following the incorporation of player feedback, we have updated several elements to enhance overall gameplay quality:
-1. **Onboarding Clarity**: Comprehensive improvements to onboarding instructions have been integrated to significantly enhance the initial gameplay experience for new players.
+1. **Onboarding Clarity**: Comprehensive enhancements to onboarding instructions have been integrated to significantly improve the initial gameplay experience for new players.
 2. **Gameplay Mechanics**: Adjustments made to gameplay mechanics ensure a balanced and enjoyable experience based on testing.
 3. **User Interactions**: Various enhanced interactions foster a more immersive gaming experience and align with player expectations.
 4. **Expansion Opportunities**: Extensive explorations into narrative and gameplay expansions have been documented, guided by user recommendations for future updates.
