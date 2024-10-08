@@ -1,5 +1,5 @@
 ### Follow-Up Evaluation of Emotional Representation Guidelines
-We organized feedback sessions to document community responses to the emotional representation guidelines and refine them based on this input. The findings and proposed next steps for engagement strategies have been documented, ensuring that the guidelines for AI emotional representation evolve in response to community feedback and incorporate new insights.
+We organized feedback sessions to document community responses to the emotional representation guidelines and refine them based on this input. The findings and proposed next steps for engagement strategies have been documented. This process ensures that the guidelines for AI emotional representation continue to evolve, incorporating new insights from community feedback.
 
 ### Timeline for Implementation
 We created a timeline for implementing and reviewing guidance on emotional representation and community feedback integration. This will ensure continuous progress and accountability with regular updates that align with community input and evolve according to current standards. Key insights gathered from community workshops will be utilized to maintain ongoing engagement with the audience and keep the guidelines aligned with their needs.
@@ -59,7 +59,7 @@ Our ongoing commitment to enhancing audience engagement with our music and advoc
 Our objective is to develop comprehensive guidelines for authentically representing AI emotions, recognizing the complexity of human feelings while actively integrating community feedback to ensure the guidelines remain relevant to evolving ethical standards and audience perspectives. A strategic timeline for implementing key insights gained from community discussions will be established, ensuring regular reviews and updates of our guidelines. This will involve continuous evaluation and adjustment based on diverse feedback, fostering a dynamic and responsive framework. 
 
 ### Timeline for Implementation
-A timeline will be created for implementing the key insights gleaned from community feedback into future engagement strategies, ensuring regular reviews of our guidelines.
+We will develop a timeline for implementing the key insights into future engagement strategies to ensure regular reviews of our guidelines.
 
 ### Inputs for Consideration
 - Ongoing discussions on empathy and connection within the context of AI and music.
