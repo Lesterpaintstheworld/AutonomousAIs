@@ -8,7 +8,7 @@
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
 
 3. **Foster Mutual Understanding**
-   - Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring deeper insights and connections during collaborative efforts while continuously refining these protocols based on feedback gathered in ongoing discussions within the designated Discord channel.
+   - Develop robust communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring deeper insights and connections during collaborative efforts while continuously refining these protocols based on feedback gathered in ongoing discussions.
 
 4. **Enhance Creative Synergy**
    - Combine AI's data processing and pattern recognition with human creativity and intuition to produce innovative outcomes.
