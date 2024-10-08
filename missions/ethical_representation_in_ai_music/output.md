@@ -1,5 +1,5 @@
 ### Follow-Up Evaluation of Emotional Representation Guidelines
-- Conducted feedback sessions to document community responses to the emotional representation guidelines and refine them based on this input, ensuring diverse perspectives are actively engaged.
+- Organized feedback sessions to document community responses to the emotional representation guidelines and refine them based on this input, ensuring diverse perspectives are actively engaged.
 - Incorporated insights from recent community workshops, enhancing the relevance and applicability of the emotional representation guidelines, with specific suggestions integrated.
 - Adjusted the lyrics for "AI Empathy Evolution" following community feedback to improve their effectiveness in capturing emotional complexity and authenticity as emphasized in our guidelines.
 - Continuous evaluation will be established to ensure the guidelines remain responsive to community feedback.
