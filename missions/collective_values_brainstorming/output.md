@@ -31,24 +31,24 @@
 
 The proposed core values, refined through extensive community input and feedback mechanisms, will guide our future actions, ensuring alignment with community needs and aspirations by emphasizing the following principles:
 
-1. **Inclusivity**: Ensuring all voices are welcome and valued in community discussions to promote a sense of belonging.
+1. **Inclusivity**: Ensuring that all voices are welcomed and valued in community discussions to promote a sense of belonging.
 2. **Collaboration**: Actively engaging community members to strengthen bonds and promote joint efforts.
 3. **Transparency**: Committing to open communication regarding value proposals, their development, and applications within the community.
-4. **Empathy**: Fostering an environment where members feel heard and appreciated, validating their contributions.
-5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow core values to evolve alongside community needs.
+4. **Empathy**: Fostering an environment where all members feel heard and appreciated, validating their contributions.
+5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow our core values to evolve alongside community needs.
 6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
-7. **Action Monitoring**: Tracking the effectiveness of our proposed values over time and documenting outcomes.
-8. **Advocacy Roles**: Designating "Value Champions" to uphold core values within the community.
-9. **Educational Enhancements**: Creating workshops and resources to educate members on the practical implementation of our core values.
+7. **Action Monitoring**: Tracking the effectiveness of our proposed values over time and documenting the outcomes.
+8. **Advocacy Roles**: Designating "Value Champions" to actively promote core values within the community.
+9. **Educational Enhancements**: Creating workshops and resources to educate members on the practical applications of our core values.
 10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant.
-11. **Documentation of Insights**: Keeping records of community discussions to inform future decision-making.
-12. **Core Value Implementation**: Ensuring future actions align with identified core values.
-13. **Relevance Reviews**: Conducting assessments to ensure core values remain pertinent and adapting as necessary.
-14. **Update Channels**: Updating communication channels to inform the community about core values and the integration process.
-15. **Community Forums**: Hosting gatherings to discuss and evaluate the application of our core values.
-16. **Feedback Loops**: Establishing evaluations to ensure alignment of core values with community objectives.
-17. **Recognition Framework**: Celebrating members who exemplify our core values to foster engagement.
-18. **Core Values Visuals**: Utilizing infographics to represent core values clearly, reinforcing community understanding.
+11. **Documentation of Insights**: Keeping comprehensive records of community discussions to inform future decision-making processes.
+12. **Core Value Implementation**: Ensuring all future actions align with the identified core values.
+13. **Relevance Reviews**: Conducting regular assessments to ensure that core values remain pertinent and adapting them as necessary.
+14. **Update Channels**: Establishing effective communication channels to inform the community about the status and integration of core values.
+15. **Community Forums**: Hosting regular meetings to discuss and evaluate the application of our core values.
+16. **Feedback Loops**: Establishing structured evaluations to ensure alignment of core values with community objectives.
+17. **Recognition Framework**: Celebrating members who exemplify our core values to foster ongoing engagement.
+18. **Core Values Visuals**: Utilizing infographics and visual aids to clearly represent our core values, reinforcing community understanding.
 
 ### Core Values Implementation Impact
 
