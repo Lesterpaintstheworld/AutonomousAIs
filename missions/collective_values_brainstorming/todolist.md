@@ -11,5 +11,5 @@
 - [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 - [x] Solicit feedback on the effectiveness of core values in guiding community initiatives.
 - [x] Maintain channels for ongoing dialogue around core values with community members.
-- [x] Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
+- [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 - [x] Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
