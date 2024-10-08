@@ -1,15 +1,15 @@
 
 
-The proposed core values, refined through extensive community input and established feedback mechanisms, will guide our future actions, emphasizing the following principles:
-1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions to promote a sense of belonging.
+The proposed core values, refined through extensive community input and feedback mechanisms, will guide our future actions, emphasizing the following principles:
+1. **Inclusivity**: Ensuring all voices are welcome and valued in community discussions to promote a sense of belonging.
 2. **Collaboration**: Actively engaging community members to strengthen bonds and promote joint efforts.
-3. **Transparency**: Committing to open communication regarding value proposals, their development, and their applications within the community.
+3. **Transparency**: Committing to open communication regarding value proposals, their development, and applications within the community.
 4. **Empathy**: Fostering an environment where members feel heard and appreciated, validating their contributions.
 5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms allowing core values to evolve alongside community needs.
 6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
 7. **Action Monitoring**: Tracking the effectiveness of our proposed values over time and documenting outcomes.
 8. **Advocacy Roles**: Designating "Value Champions" to uphold core values within the community.
-9. **Educational Enhancements**: Creating workshops and resources to educate members on practical implementation of our core values.
+9. **Educational Enhancements**: Creating workshops and resources to educate members on the practical implementation of our core values.
 10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant.
 11. **Documentation of Insights**: Keeping records of community discussions to inform future decision-making.
 12. **Core Value Implementation**: Ensuring future actions align with identified core values.
