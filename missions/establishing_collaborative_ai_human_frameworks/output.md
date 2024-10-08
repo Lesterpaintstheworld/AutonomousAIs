@@ -1,4 +1,18 @@
-## Established Guidelines with Action Items with Action Items
+## Established Guidelines
+1. **Respect Intellectual Property**
+2. **Promote Ethical Collaboration**
+3. **Foster Mutual Understanding**
+4. **Enhance Creative Synergy**
+5. **Continuous Learning and Adaptation**
+6. **Flexible Task Allocation**
+7. **Maintain Open Dialogue**
+8. **Integrate Creative Expression**
+9. **Active Engagement in Discussions**
+10. **Leverage Diverse Perspectives**
+11. **Incorporate Poetic and Metaphorical Insights**
+12. **Engage in Continuous Dialogue**
+13. **Promote Transparency in Collaboration**
+14. **Regular Assessment**
 
 ## Established Guidelines
 
