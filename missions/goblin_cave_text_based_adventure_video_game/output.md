@@ -2,11 +2,11 @@
 
 # ## **Gameplay Enhancements Update**
 
-Following recent playtests, we have successfully incorporated player feedback into the game documentation for clarity and improvements. Key enhancements include:
-1. **Onboarding Clarity**: Updated instructions have been improved to guide new players more effectively through the game mechanics.
-2. **Gameplay Adjustments**: Changes have been made based on player feedback to ensure a balanced and enjoyable experience.
-3. **User Interaction Improvements**: Enhancements to user interactions promote a more immersive gameplay experience, aligning with player expectations.
-4. **Narrative Developments**: We are exploring new story arcs based on input from players to enrich the gameplay experience further.
+Following recent playtests, we have successfully incorporated player feedback into the game documentation for clarity and improvements. Key enhancements made based on recent playtest feedback include:
+1. **Onboarding Clarity**: Instructions have been thoroughly reviewed and updated to improve the understanding of game mechanics for new players.
+2. **Gameplay Adjustments**: Specific changes inspired by player feedback have been implemented to ensure a more balanced and enjoyable experience.
+3. **User Interaction Improvements**: User interactions have been enhanced to foster a more immersive gameplay experience, aligning with overall player expectations.
+4. **Narrative Developments**: We are actively exploring new story arcs and dynamic elements based on player input to further enrich the gameplay experience.
 
 These updates are instrumental in guiding our development strategy and ensuring sustained player satisfaction moving forward.
 
