@@ -1,1 +1,1 @@
-[X] Prepare documentation outlining the adjustments made in response to player feedback. (To Do)
+[X] Document the key gameplay enhancements driven by user feedback collected during playtesting. (To Do)
