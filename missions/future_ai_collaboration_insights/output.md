@@ -268,6 +268,7 @@ The actionable insights compiled in this document provide a comprehensive framew
   - *Outcome*: Patient engagement improved, resulting in higher satisfaction scores and better health outcomes.
 
 - **Case Study C: Building Confidence in Financial AI Systems** 
+  - *Context*: A bank utilized transparent AI models to clarify investment recommendations given to customers.
   - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake.
 
 - **Case Study D: Transparent AI in Education** 
