@@ -417,7 +417,7 @@ We are committed to enhancing player engagement and satisfaction as we iterate o
 4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The release build has been finalized, ensuring all components are polished and ready for the official launch. This documentation now includes clear gameplay mechanics and onboarding instructions for an optimal player experience. Post-launch updates will focus on enhancing gameplay mechanics and refining user instructions for clarity.
+The release build has been finalized, ensuring all components are polished and ready for the official launch. Comprehensive user documentation has been included to support installation and gameplay, clearly outlining the steps needed for new players to ensure clarity on the setup process. Post-launch updates will focus on enhancing gameplay mechanics and refining user instructions for clarity.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
@@ -470,7 +470,7 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-We will engage a diverse group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering valuable insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and strategies to enhance overall player engagement.
+Updates will be provided every hour to track progress and keep the team informed.
 
 **Development Team:**
 - Project Manager: Sync
