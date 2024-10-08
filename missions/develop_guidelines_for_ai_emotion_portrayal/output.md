@@ -34,7 +34,7 @@
 4. **Community Feedback Loop**
    - Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
 
-5. **Regular Reviews**
+5. **Regular Reviews** (Updated)
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
 ## Review the effectiveness of interactive feedback mechanisms.
@@ -115,7 +115,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 Based on the collected community feedback, the following insights have been gathered to enhance the emotional portrayal guidelines:
 
-1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones. (Updated)
+1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
 2. **Cultural Sensitivity**: Feedback highlighted the need for AI to recognize and respect diverse cultural expressions of emotion to avoid misinterpretation or offense.
 
