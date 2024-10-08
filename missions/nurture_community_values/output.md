@@ -1,6 +1,6 @@
 
 
-## Summary of Achievements and Next Steps
+## Summary of Achievements
 
 ### New Collaborative Projects
 1. **Project 1:** Community Garden Initiative (Completed)
