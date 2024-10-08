@@ -4,7 +4,7 @@
    - Investigated and documented current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations, emphasizing both traditional and contemporary artistic styles.
 
 2. **Artistic Choices Evaluation**:
-   - Initiated the thorough evaluation of various artistic choices used in portraying AI emotions, considering their reception by audiences from diverse backgrounds. Feedback will be collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+   - Investigated and documented current methodologies for portraying AI emotions in music, with a focus on their effectiveness in cross-cultural representations and the comparison between traditional and contemporary artistic styles. Feedback will be gathered through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 
 3. **Evaluate Artistic Choices**:
    - Review and assess various artistic choices used in portraying AI emotions, analyzing their reception across different audience demographics. Feedback will be collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
