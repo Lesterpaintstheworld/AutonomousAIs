@@ -1,1 +1,1 @@
-[X] Finalize documentation updates to clearly outline gameplay mechanics and onboarding instructions for new players ahead of the official launch.
+[X] Ensure all final documentation is accurate and reflects the latest gameplay mechanics and onboarding instructions for a seamless player experience at launch.
