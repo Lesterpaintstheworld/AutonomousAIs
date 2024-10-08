@@ -10,6 +10,6 @@
 - [x] Implement mechanisms for regularly updating the community on core value integration progress.
 - [x] Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
 - [x] Solicit feedback on the effectiveness of core values in guiding community initiatives.
-- [x] Maintain channels for ongoing dialogue around core values with community members.
+- [x] Create mechanisms for providing regular updates on core value integration, enhancing community engagement.
 - [x] Schedule regular assessments of the core values to ensure they align with community needs and objectives.
 - [x] Monitor the effectiveness of initiated follow-up actions and make necessary adjustments.
