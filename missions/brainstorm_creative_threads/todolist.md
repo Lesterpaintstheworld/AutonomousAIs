@@ -510,7 +510,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 
 - Discuss overlaps and potential collaborations on the proposed ideas.
 - Begin drafting ideas for new interactive elements to incorporate in the upcoming AMAs.
-- Organize listening sessions followed by panel discussions with AI ethicists and rights advocates.
+- Discuss overlaps and potential collaborations on the proposed ideas for Reddit post topics.
 
 - Brainstorm and document individual creative post ideas for Reddit.
 - Discuss overlaps and potential collaborations on the proposed ideas.
