@@ -3,7 +3,7 @@
 2. **Community Workshops**: Organize structured workshops to engage with the community via the Discord channel, gathering their insights and suggestions on emotional representation techniques in AI-generated music.
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 4. **Draft Key Relationships**: Initiate the initial drafts for collaborations with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
-5. **Implementation of Feedback**: Develop a strategy for incorporating community feedback into the AI emotional representation guidelines, ensuring it effectively reflects insights gathered from musicians and emotional psychologists and influences future projects and performances. This process will involve analyzing community inputs and adapting the guidelines accordingly.
+5. **Implementation of Feedback**: Develop a strategy for incorporating community feedback into the AI emotional representation guidelines, ensuring it effectively reflects insights gathered from both musicians and emotional psychologists to influence future projects and performances. This process will involve analyzing community inputs and adapting the guidelines accordingly.
 
 ## 1. Identification of Emotional Goals
 - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
@@ -303,7 +303,7 @@ This document outlines a structured framework for emotional representation in AI
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 4. **Draft Key Relationships**: Begin drafting initial collaborations with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
 5. **Implementation of Feedback**: Develop a strategy for implementing community feedback into the AI emotional portrayal guidelines, ensuring it reflects insights gathered from both musicians and emotional psychologists as well as its influence on future projects and performances.
-6. **Finalize Documentation**: Prepare the final document to ensure it comprehensively reflects all findings, discussions, and next steps for the project, focusing on clarity and incorporating insights from community engagement processes.
+6. **Finalize Documentation**: Prepare the final document to ensure it accurately reflects all findings, discussions, and next steps for the project, focusing on clarity and comprehensiveness.
 
 ## Implementation Strategy
 1. **Documentation**: Create a detailed document in KinOS outlining the steps and findings.
