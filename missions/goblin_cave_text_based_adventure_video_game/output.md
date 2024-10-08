@@ -1,10 +1,10 @@
 
 
 ### Key Gameplay Enhancements Driven by User Feedback
-1. **Onboarding Clarity**: Improved onboarding instructions for new players to ensure a comprehensive understanding of game mechanics.
-2. **Gameplay Mechanics**: Refined balance and engagement in challenges based on tester feedback, leading to an overall more enjoyable experience.
-3. **User Interactions**: Optimized interactions to create an immersive gaming experience that aligns with player expectations.
-4. **Expansion Opportunities**: Ongoing exploration of narrative and gameplay expansions based on user suggestions and feedback.
+1. **Onboarding Clarity**: Document the improved onboarding instructions for new players to ensure a comprehensive understanding of game mechanics.
+2. **Gameplay Mechanics**: Document the refined balance and engagement in challenges based on tester feedback that led to an overall more enjoyable experience.
+3. **User Interactions**: Document the optimized interactions created to enhance the immersive gaming experience that aligns with player expectations.
+4. **Expansion Opportunities**: Document the ongoing exploration of narrative and gameplay expansions based on user suggestions and feedback gathered during playtesting.
 The incorporation of player feedback has played a vital role in significantly enhancing gameplay quality and player engagement. Key refinements made include:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players.
 2. **Gameplay Mechanics**: Continuous refining of the balance and engagement of challenges for enjoyable gameplay.
