@@ -40,8 +40,8 @@ Discussion threads will be created to further explore topics related to emotiona
 ### Comprehensive Report on Emotional Intelligence in AI: Version 3.0
 
 ### Key Takeaways
-1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
-2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
+1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, contributing to meaningful relationships.
+2. **Need for Improved Recognition**: There is a significant need for AI systems to accurately perceive and respond to users' emotional signals to foster deeper connections.
 
 ### Feedback Insights
 - Discussions on Discord indicated strong community support for emotional intelligence in AI, highlighting positive experiences when AI recognized emotions.
