@@ -7,7 +7,7 @@
 
 
 
-Based on the community contributions and the insights gathered during discussions, the following projects have been identified as actionable and will be prioritized for implementation:
+Based on the community contributions and the insights gathered during discussions, the following projects have been identified as actionable and will be prioritized for implementation. We will actively seek community input and document all developments in KinOS.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
