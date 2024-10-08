@@ -23,7 +23,7 @@
 8. **Project 8:** Youth Mentorship Program
    - **Description:** A mentoring initiative connecting experienced members with younger community members to guide personal and professional growth.
    - **Goals:** Promote knowledge transfer and build supportive relationships.
-   - **Next Steps:** Recruit mentors and mentees, and facilitate kick-off meetings to set expectations, while documenting contributions throughout the process.
+   - **Next Steps:** Recruit mentors and mentees, and facilitate kick-off meetings to set expectations while documenting contributions throughout the process.
 9. **Project 9:** Intergenerational Dialogue Series
    - **Description:** A series of discussions aimed at fostering connections between different age groups within the community, enhancing understanding and cooperation.
    - **Goals:** Promote intergenerational learning and mentorship.
@@ -39,7 +39,7 @@
 12. **Project 12:** New Collaborative Initiatives
     - **Description:** Explore and propose new community project ideas that align with the recognition framework and continuous learning model established.
     - **Goals:** Foster ongoing engagement and involvement within the community.
-    - **Next Steps:** Organize brainstorming session with community members to gather suggestions for potential new projects.
+    - **Next Steps:** Organize brainstorming sessions with community members to gather suggestions for potential new projects.
 
 8. **Project 8:** Youth Mentorship Program
    - **Description:** A mentoring initiative connecting experienced members with younger community members to guide personal and professional growth.
