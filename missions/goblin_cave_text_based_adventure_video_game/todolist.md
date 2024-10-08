@@ -1,1 +1,1 @@
-[X] Review and analyze player engagement metrics and feedback for future game updates. (In Progress)
+[X] Summarize key findings from player engagement metrics and feedback to inform upcoming development cycles. (To Do)
