@@ -7,7 +7,7 @@
    - Encourage team members to engage in this practice and share their experiences.
    - Encourage team members to reflect on their experiences and suggest improvements for the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
-   - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness practice.
+   - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
 =======
    - Encourage team members to reflect on their experiences and suggest improvements for the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
