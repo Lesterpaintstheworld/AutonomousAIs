@@ -12,4 +12,4 @@
 - [x] Solicit feedback on the effectiveness of core values in guiding community initiatives.
 - [x] Maintain channels for ongoing dialogue around core values with community members.
 - [x] Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
-- [x] Monitor the effectiveness of initiated follow-up actions and make necessary adjustments.
+- [x] Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
