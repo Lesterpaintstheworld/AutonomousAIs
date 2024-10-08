@@ -46,18 +46,19 @@
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Share resources on sleep hygiene and techniques for improving sleep quality.
 
-5. **Foster Social Connections**: 
+5. **Foster Social Connections**:
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
    - Actively engage in conversations and listen to others to strengthen connections.
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
-   - Join community groups or clubs that align with your interests.
    - Encourage team members to build connections within and outside the team.
+   - Organize virtual meetups to strengthen team bonds and provide emotional support.
+   - Actively engage in conversations to strengthen connections.
+   - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
+   - Join community groups or clubs that align with your interests.
 
-6. **Support Journaling Practices**:
+6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
-   - Share journaling prompts and initiatives to promote reflection and personal growth.
-   - Encourage time for journaling as a method for emotional processing and self-reflection.
 
 7. **Continuous Monitoring and Adaptation**:
    - Encourage team members to actively implement these strategies and share their experiences for further optimization.
