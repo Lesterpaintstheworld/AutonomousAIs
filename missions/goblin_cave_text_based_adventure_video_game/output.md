@@ -386,11 +386,11 @@ These improvements have significantly boosted overall player engagement and sati
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-We are committed to enhancing player engagement and satisfaction as we iterate on our game development efforts. Key updates include:
-1. **Onboarding Clarity**: Further enhancing instructions to assist new players.
-2. **Gameplay Mechanics**: Continuously refining the balance and engagement of challenges for a more enjoyable experience.
-3. **User Interactions**: Ongoing improvements to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Exploring additional narrative elements based on player suggestions and feedback.
+We are committed to enhancing player engagement and satisfaction as we finalize our game development efforts. Key updates based on player feedback include:
+1. **Onboarding Clarity**: Finalized improved onboarding instructions to assist new players with understanding game mechanics.
+2. **Gameplay Mechanics**: Adjusted gameplay mechanics for better challenge balance and improved overall enjoyment.
+3. **User Interactions**: Enhanced user interactions that create a more engaging and immersive gaming experience.
+4. **Expansion Opportunities**: Planned future expansions to narrative and gameplay based on player suggestions and feedback received during playtesting.
 
 These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
