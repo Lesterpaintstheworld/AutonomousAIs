@@ -15,7 +15,7 @@
 2. **Empathy**: Design AI emotion portrayal to resonate authentically with human emotions. Ensure that emotional expressions are relatable and avoid causing misunderstanding or discomfort. Incorporate community insights to tailor emotional representations effectively.
 3. **Ethical Representation**: Avoid manipulative or deceptive emotional expressions. Respect cultural and individual differences in emotional perception.
 4. **Consistency**: Maintain a consistent emotional tone across all AI-generated content. Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
-6. **Customization Options**: Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals. Adapt guidelines based on evolving understandings of AI and emotional expression.
+5. **Feedback Integration**: Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals. Adapt guidelines based on evolving understandings of AI and emotional expression.
 6. **Customization Options**: Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
 7. **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion ratings during music playback or collaborative adjustment features.
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also closely align with community expectations and needs for authentic emotional representation in AI-generated music.
