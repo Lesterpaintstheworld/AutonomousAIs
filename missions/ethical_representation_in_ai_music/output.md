@@ -2,7 +2,7 @@
 We organized feedback sessions to document community responses to the emotional representation guidelines and refine them based on this input. The findings and proposed next steps for engagement strategies have been documented. This process ensures that the guidelines for AI emotional representation evolve in response to community feedback and incorporate new insights.
 
 ### Timeline for Implementation
-We created a timeline for implementing and reviewing guidance on emotional representation and community feedback integration. This will ensure continuous progress and accountability with regular updates that align with community input and evolve according to current standards. Key insights gathered from community workshops will be utilized to maintain ongoing engagement with the audience and keep the guidelines aligned with their needs.
+We will develop a timeline for implementing key insights gained from community discussions into future engagement strategies to ensure regular reviews and updates of our guidelines.
 
 ### Document the Findings
 We will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This ongoing process will ensure that the guidelines evolve to meet the needs and concerns of the community. We will establish regular feedback loops and integrate insights from public forums and discussions, ensuring diverse perspectives are acknowledged and enacted in future revisions while enhancing the connection between AI creators and listeners.
