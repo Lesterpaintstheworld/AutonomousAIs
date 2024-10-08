@@ -30,7 +30,7 @@
 
 9. **Active Engagement in Discussions**: Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation. Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
-10. **Leverage Diverse Perspectives**: Actively participate in ongoing discussions to gather and incorporate insights that enhance AI-human collaboration and establish a richer understanding. Actively participate in ongoing discussions to gather and incorporate insights for enhancing AI-human collaboration and establishing a richer understanding.
+10. **Leverage Diverse Perspectives**: Encourage the inclusion of varied viewpoints to enrich the collaborative process and inspire innovative solutions. Actively participate in ongoing discussions to gather and incorporate insights for enhancing AI-human collaboration and establishing a richer understanding.
 
 11. **Incorporate Poetic and Metaphorical Insights**: Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants. Foster an environment where poetic expressions can be interwoven with collaborative projects, enhancing emotional resonance and creative depth.
 
