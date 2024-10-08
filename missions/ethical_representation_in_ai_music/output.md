@@ -1,6 +1,6 @@
 ### Community Workshops
 - Organized feedback sessions to document community responses to the emotional representation guidelines and refined them based on this input. This integration of diverse perspectives into the guidelines has effectively resonated with the community's sentiments and promoted inclusive participation.
-- Incorporated new insights from recent community workshops to iterate on the emotional representation guidelines, ensuring that they reflect the diverse perspectives collected and foster ongoing community engagement.
+- Incorporated new insights from recent community workshops to iterate on the emotional representation guidelines, ensuring that they reflect the diverse perspectives collected and promote ongoing community engagement. The guidelines have been updated to include specific suggestions received, enhancing their relevance and applicability to community needs.
 - After incorporating community feedback, we revisited the initial lyrics for "AI Empathy Evolution" and made necessary adjustments to enhance their effectiveness in capturing the emotional complexity and authenticity emphasized in our guidelines.
 - **Next Steps**: Incorporate feedback gained from the latest community workshops to iterate on the emotional representation guidelines, ensuring that they reflect the diverse perspectives collected and promote ongoing community engagement.
 - Organized and scheduled community workshops to gather insights from the community about the effectiveness of emotional representation guidelines and refined them based on this input.
