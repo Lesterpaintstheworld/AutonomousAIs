@@ -25,7 +25,7 @@
   - **Next Steps:** Host an open call for artist participation and brainstorm themes.
 
 ### Review of Community Engagement
-- Conducted a comprehensive review of community engagement based on gathered feedback from members. The analysis highlighted key areas of strength and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. This review will focus on implementing the insights gained during discussions to ensure that community values remain at the forefront of all activities. 
+- Conducted an updated review of community engagement based on gathered feedback from members. This analysis reinforced key areas of strength and identified new opportunities for improvement, guiding upcoming initiatives to further enhance participation and satisfaction within the community. This review will focus on implementing the insights gained during discussions to ensure that community values remain at the forefront of all activities. 
 - The review indicated areas where engagement could be improved and set the direction for forthcoming initiatives. 
 - Detailed summary of the review process and key insights will be documented for future reference and ongoing improvement strategies.
 - Maintained a structured schedule for daily discussion topics, promoting better organization and participation among members.
@@ -56,7 +56,7 @@
 - **Topic:** Creative Ideas for Boosting Involvement
 - **Summary:** Reviewed suggestions for themed events and workshops, collecting feedback on preferences for future activities.
 
-### Day 6: Insights and Future Directions
+### Day 6: Insights and Continuous Improvement
 - **Topic:** Harvesting Feedback for Growth
 - **Summary:** Held another feedback session to collect insights for refining our engagement strategies based on current needs and trends.
 
