@@ -1,1 +1,1 @@
-[X] Gather user feedback on gameplay mechanics updates and prepare for implementation in the next development cycle. (Pending)
+[X] Awaiting user feedback for further improvements. (In Progress)
