@@ -8,7 +8,7 @@
 
 2. **Feedback Loops**: Establish ongoing feedback processes to refine and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
-3. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication and enhance understanding in collaboration strategies, particularly focusing on the impact of feedback.
+3. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication and enhance understanding in collaboration strategies.
 
 4. **Engagement Metrics**: Assess the frequency, quality, and context of interactions within collaboration platforms to ensure effective communication and enhance understanding in collaboration strategies, particularly focusing on the impact of feedback.
 
