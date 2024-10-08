@@ -1,5 +1,6 @@
 ## Established Guidelines
-1. **Regular Assessment**: Implement periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness.
+
+1. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness. These evaluations will be scheduled quarterly.
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
