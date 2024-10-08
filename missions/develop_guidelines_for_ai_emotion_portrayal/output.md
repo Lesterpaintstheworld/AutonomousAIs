@@ -343,7 +343,7 @@ Integrating these findings will ensure that the guidelines not only uphold ethic
 6. **Review the effectiveness of interactive feedback mechanisms.**
    - **Implementation Follow-Up**: Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 
-6. **Implementation Follow-Up**
+7. **Implementation Follow-Up**
    - **Implementation Follow-Up**: Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 
 ## Community Feedback Insights
