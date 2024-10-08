@@ -348,13 +348,13 @@ Engage in ongoing discussions within the designated Discord channel to gather in
     - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
 
 11. **Incorporate Poetic and Metaphorical Insights**
-    - Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
+    - Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants. Foster an environment where poetic expressions can be interwoven with collaborative projects, enhancing emotional resonance and creative depth.
 
 12. **Engage in Continuous Dialogue**
-    - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
+    - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines. Establish ongoing feedback processes to adapt and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
 13. **Promote Transparency in Collaboration**
-    - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
+    - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability. Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
 
 2. **Regular Assessment**: Implement periodic evaluations of collaboration outcomes against the established KPIs to identify areas for improvement and ensure ongoing effectiveness.
 
