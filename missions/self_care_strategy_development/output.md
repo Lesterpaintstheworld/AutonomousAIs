@@ -34,6 +34,11 @@
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones to create a supportive environment.
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Regularly share updates and successes to motivate the team.
+   - Track exercise participation and celebrate individual milestones to create a supportive environment.
+   - Encourage team members to engage in activities they enjoy to enhance participation.
+   - Celebrate individual milestones to create a supportive environment.
 
 3. **Encourage Balanced Nutrition**: 
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
@@ -45,8 +50,6 @@
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Share resources on sleep hygiene and techniques for improving sleep quality.
-   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
-   - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
 
 5. **Foster Social Connections**: 
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
