@@ -1,6 +1,6 @@
 
 
-All remaining feedback updates have been implemented successfully, enhancing gameplay quality and player engagement. The key updates are as follows:
+All remaining feedback updates have been implemented successfully, enhancing gameplay quality and player engagement. The major updates include:
 1. **Onboarding Clarity**: Further refined onboarding instructions to aid new players in understanding game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments have been made for a better balance and overall enjoyment of challenges based on tester feedback.
 3. **User Interactions**: Continued improvements aimed at creating an immersive gaming experience.
