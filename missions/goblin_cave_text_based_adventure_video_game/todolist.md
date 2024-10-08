@@ -1,1 +1,1 @@
-[X] Archive the finalized documentation of gameplay enhancements based on feedback responses from playtesting. (Complete)
+[X] Review the gameplay mechanics to ensure they align with the latest player feedback before the final launch. (In Progress)
