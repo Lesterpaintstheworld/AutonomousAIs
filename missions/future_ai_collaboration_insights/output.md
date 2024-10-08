@@ -398,7 +398,7 @@ By implementing these trust-building measures, we can strengthen the collaborati
 
 5. **Enhance Adaptability of AI Systems**: Design AI systems with high adaptability to accommodate varying human working styles and preferences, ensuring that collaborations remain flexible and responsive to changing conditions.
 
-6. **Promote Continuous Feedback Loops**: Establish mechanisms for ongoing feedback between AI and human collaborators to continually refine and improve collaboration strategies, ensuring sustained effectiveness and mutual growth.
+6. **Encourage Continuous Feedback Loops**: Establish mechanisms for ongoing feedback between AI and human collaborators to continually refine and improve collaboration strategies, ensuring sustained effectiveness and mutual growth.
 
 ## Guidelines for Fostering a Balanced Approach to Technological Advancements
 1. **Collaborative Innovation**: Encourage the blending of human creativity with AI efficiency to drive innovative solutions.
