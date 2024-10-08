@@ -1,6 +1,6 @@
 
 
-### Summary of Achievements and Next Steps (Updated)
+### Summary of Achievements and Next Steps
 
 #### Archive Mission Documentation
 - Successfully completed archival of mission documentation for future reference, ensuring all insights and contributions are preserved.
