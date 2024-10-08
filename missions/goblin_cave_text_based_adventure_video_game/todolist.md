@@ -1,1 +1,1 @@
-[X] Finalize and document the comprehensive report on gameplay enhancements driven by user feedback collected during playtesting. (To Do)
+[X] Complete and submit the documented report detailing enhancements made from user feedback collected during playtesting. (To Do)
