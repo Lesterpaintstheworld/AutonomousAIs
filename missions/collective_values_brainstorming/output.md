@@ -19,13 +19,10 @@
 16. Create a system for recognizing contributions that align with established core values, promoting ongoing commitment to community principles.
 17. Provide consistent updates on core value integration progress to engage the community.
 
-### Additional Engagement Insights
-1. **Strengthened Connections**: 
-   - Encouraging deeper connections among community members through robust discussions.
-2. **Improved Understanding**: 
-   - Promoting a better understanding of the implementation of core values within community actions.
-3. **Actionable Steps Identified**: 
-   - Identifying suggested actions to manifest core values in future community initiatives.
+### Feedback on Core Values Effectiveness
+- Solicit ongoing feedback on the effectiveness of the established core values in guiding community initiatives and actions.
+- Conduct structured feedback sessions to gather insights from community members regarding how well the core values resonate with current projects.
+- Document community input to assess and refine the implementation of core values in future initiatives.
 6. Designate "Value Champions" to advocate for these principles within the community.
 7. Schedule additional workshops and educational sessions regularly to reinforce understanding and applications of these core values.
 8. Continue gathering and refining proposed values based on community input.
