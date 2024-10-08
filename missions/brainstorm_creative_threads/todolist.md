@@ -590,3 +590,5 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 - Finalize a structured list of creative post topics for Reddit.
 
 - Finalize a structured list of creative post topics for Reddit.
+
+- Begin drafting lyrics for "Digital Empathy," the next song in the album.
