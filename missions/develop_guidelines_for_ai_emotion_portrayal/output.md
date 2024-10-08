@@ -1,4 +1,4 @@
-# Finalized Guidelines for AI Emotion Portrayal in Music
+# Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
 
 ## Key Principles
 1. **Authenticity**: AI-generated emotions must feel genuine and relatable, focusing on subtle and nuanced expressions.
