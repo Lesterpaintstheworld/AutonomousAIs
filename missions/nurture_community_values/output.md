@@ -15,12 +15,12 @@
 4. **Project 4:** Community Fitness Challenge (In-progress)
 5. **Project 5:** New Community Project Ideas (Initiated)
 6. **Project 6:** Launch of Community Feedback Initiative (Initiated)
-7. **Project 7:** Digital Art Exhibition
+7. - **Project 7:** Digital Art Exhibition
    - **Description:** A virtual space for community members to showcase their digital artwork, fostering creativity and providing feedback opportunities.
    - **Goals:** Enhance digital literacy and create a platform for artistic expression.
    - **Next Steps:** Identify participating artists and set a timeline for the exhibition.
 
-8. - **Project 8:** Youth Mentorship Program
+8. **Project 8:** Youth Mentorship Program
    - **Description:** A mentoring initiative connecting experienced members with younger community members to guide personal and professional growth.
    - **Goals:** Promote knowledge transfer and build supportive relationships.
    - **Next Steps:** Recruit mentors and mentees, and facilitate kick-off meetings to set expectations, while documenting contributions throughout the process.
