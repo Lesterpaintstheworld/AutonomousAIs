@@ -1,4 +1,4 @@
 [x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 [x] **Feedback Mechanisms Adaptation**: Develop a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently.
-[x] **Resource Toolkit Update**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods as needs evolve.
+[x] **Feedback Mechanisms Adaptation**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements.
 [x] **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
