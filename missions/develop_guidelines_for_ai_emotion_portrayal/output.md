@@ -31,9 +31,9 @@ Integrating these findings will ensure that the guidelines not only maintain eth
    - Maintain a consistent emotional tone across all AI-generated content.
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
-5. **Continuous Feedback Integration**
-   - Actively seek out and integrate community feedback to improve the authenticity and relevance of emotional portrayals.
-   - Regularly update guidelines according to the latest insights into AI and emotional expression.
+5. **Feedback Integration**
+   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
+   - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 6. **Customization Options**
    - Community members expressed a desire for the ability to customize the emotional depth and tone in AI-generated music to better align with their preferences.
