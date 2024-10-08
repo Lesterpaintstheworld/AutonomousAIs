@@ -1,4 +1,4 @@
-## Action Items
+## Established Guidelines
 
 ### Action Items
 1. **Regular Assessment**: Conduct regular evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness. These evaluations will be scheduled quarterly.
