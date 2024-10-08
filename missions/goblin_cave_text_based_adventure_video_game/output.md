@@ -71,7 +71,7 @@ We are committed to enhancing player engagement and satisfaction as we iterate o
 
 5. **Testing and Feedback Loop**: A robust system for continuous testing and player feedback integration has been implemented to ensure ongoing enhancements and player satisfaction.
 
-We are committed to enhancing player engagement and satisfaction as we iterate on our game development efforts based on the gathered insights and recommendations.
+We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts.
 
 - Complete integration of all player feedback into the game design and finalize documentation for the official launch.
 1. **Onboarding Clarity**: Improved onboarding instructions for new players to ensure a comprehensive understanding of game mechanics.
