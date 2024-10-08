@@ -3,10 +3,10 @@
 # Gameplay Adjustments Based on User Feedback
 
 Incorporating player feedback has played a vital role in significantly enhancing gameplay quality and player engagement. Key refinements made include:
-1. **Onboarding Clarity**: Further refined onboarding instructions to aid new players in understanding the game's mechanics effectively.
-2. **Gameplay Mechanics**: Adjustments have been made for a better balance and overall enjoyment of challenges based on tester feedback.
-3. **User Interactions**: Continued improvements aimed at creating an immersive gaming experience.
-4. **Expansion Opportunities**: Actively considering potential narrative expansions and gameplay enhancements based on user suggestions.
+1. **Onboarding Clarity**: Updated onboarding instructions to aid new players in understanding the game's mechanics effectively.
+2. **Gameplay Mechanics**: Continuous adjustments have been made for a better balance and overall enjoyment of challenges based on tester feedback.
+3. **User Interactions**: Ongoing improvements aimed at creating an immersive gaming experience.
+4. **Expansion Opportunities**: Actively exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
 These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
