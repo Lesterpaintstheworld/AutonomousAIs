@@ -1,1 +1,1 @@
-[X] Draft documentation outlining the impact of player feedback on game design decisions. (To Do)
+[X] Compile a report summarizing the integration of player feedback and its effect on gameplay adjustments. (To Do)
