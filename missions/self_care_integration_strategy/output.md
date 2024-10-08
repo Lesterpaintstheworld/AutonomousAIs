@@ -25,6 +25,7 @@ Following the specifications and procedures, the Self-Care Integration Strategy 
 ### Upcoming Adjustments:
 - The self-care integration strategy will continue to evolve based on team input to effectively support their well-being.
 - **Investigate and implement new self-care activities** based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
+- **Investigate and implement new self-care activities** based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 
 1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Suggested themes include mental health, nutrition, and physical fitness workshops.
 
