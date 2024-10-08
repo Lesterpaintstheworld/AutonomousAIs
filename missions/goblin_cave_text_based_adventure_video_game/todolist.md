@@ -1,1 +1,1 @@
-[X] Summarize key findings from player engagement metrics and feedback to inform upcoming development cycles. (To Do)
+[X] Compile a report on the integration of player feedback into game design for future updates. (To Do)
