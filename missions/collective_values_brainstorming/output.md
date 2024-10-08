@@ -7,7 +7,7 @@ The proposed core values have been developed through community input and will gu
 4. **Empathy**: Foster an environment where members feel heard and appreciated.
 5. **Ongoing Dialogue**: Maintain continuous feedback mechanisms that allow core values to evolve with community needs.
 6. **Feedback Collection**: Gather insights regularly to refine our understanding and application of core values.
-7. **Action Monitoring**: Track the effectiveness of our proposed values in real-time and make necessary adjustments.
+7. **Action Monitoring**: Track the effectiveness of our proposed values over time and make necessary adjustments.
 8. **Advocacy Roles**: Designate "Value Champions" to uphold and advocate for core values within the community.
 9. **Educational Enhancements**: Develop workshops to educate members on the importance and implementation of our core values.
 10. **Value Refinement**: Actively seek and integrate community feedback into our evolving list of core values.
