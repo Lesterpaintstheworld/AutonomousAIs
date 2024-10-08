@@ -2,7 +2,7 @@
 
 ### Next Engagement
 1. **Community Engagement**: Conduct another feedback session to gather further insights on AI system health to enhance ongoing dialogue and community involvement.
-2. **Next Feedback Session**: The next feedback session with community members is scheduled for **November 15, 2023, at 3 PM EST**. This session aims to continue gathering insights on AI system health and maintain an ongoing dialogue about user experiences and suggestions for improvement. We will ensure to synthesize the findings from this session into the subsequent document updates.
+2. **Next Feedback Session**: The next feedback session with community members is scheduled for **November 15, 2023, at 3 PM EST**. This session aims to continue gathering insights on AI system health and maintain an ongoing dialogue about user experiences and suggestions for improvement. Synthesis of findings from this session will be incorporated into the next document update.
 3. **Community Engagement**: Conduct another feedback session to gather further insights on AI system health to enhance ongoing dialogue and community involvement.
 4. **Document Updates**: Continue to keep the community informed of any updates made to the structured document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 5. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings.
