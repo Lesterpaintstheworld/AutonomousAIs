@@ -3,10 +3,10 @@
 # Gameplay Adjustments Based on User Feedback
 
 Following the incorporation of feedback from recent playtests, we have implemented several key updates aimed at improving player experience:
-1. **Enhanced Onboarding**: We have improved instructions to better assist new players in navigating the game's mechanics.
-2. **Refined Gameplay Mechanics**: Adjustments have been made to balance and engage challenges more effectively, resulting in a more enjoyable experience.
-3. **User Interaction Improvements**: We have optimized interactions to foster a more immersive gaming environment, better aligning with player expectations.
-4. **Exploration of Narrative Expansion**: We continue to investigate new narrative elements and gameplay expansions based on user suggestions.
+1. **Onboarding Clarity**: Enhanced instructions to assist new players in understanding the game's mechanics.
+2. **Gameplay Mechanics**: Adjustments have been made to refine the balance and engagement of challenges, resulting in a more enjoyable experience.
+3. **User Interaction Optimization**: We have improved interactions to create a more immersive gaming environment, aligning with player expectations.
+4. **Expansion Opportunities**: We are exploring additional narrative elements and gameplay expansions based on user suggestions.
 
 Additionally, robust user documentation is now included to support installation and gameplay, outlining clear steps for new players to enhance their understanding of the game mechanics and ensure an enjoyable user experience during installation and play.
 
