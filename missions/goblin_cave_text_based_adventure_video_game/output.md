@@ -32,7 +32,7 @@ These updates will guide our ongoing development efforts to maintain player enga
 3. **User Interaction Enhancements**: Interaction enhancements have been made to foster a more immersive gaming experience, aligning with player expectations through improved dialogue options and clearer action cues.
 4. **Potential for Future Expansions**: New narrative elements and gameplay expansions are being researched based on player suggestions, aimed at enriching the overall experience.
 
-Overall, a robust system for ongoing testing and player feedback integration ensures that gameplay quality will evolve to meet player expectations and satisfaction.
+Overall, a robust system for continuous testing and player feedback integration guarantees that gameplay quality will evolve to meet player expectations and satisfaction.
 
 1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to clarify game mechanics, improving the initial gameplay experience for new players.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been further refined to ensure a more enjoyable experience based on tester feedback.
