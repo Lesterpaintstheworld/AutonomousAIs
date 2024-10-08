@@ -1,4 +1,4 @@
-## Established Guidelines with Action Items
+## Established Guidelines with Action Items with Action Items
 
 ## Established Guidelines
 
@@ -16,7 +16,7 @@
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
 7. **Maintain Open Dialogue**
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
-8. **Integrate Creative and Poetic Expression**
+8. **Integrate Creative Expression**
    - Leverage poetic and metaphorical insights to deepen the creative dimensions of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
 9. **Active Engagement in Discussions**
    - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
