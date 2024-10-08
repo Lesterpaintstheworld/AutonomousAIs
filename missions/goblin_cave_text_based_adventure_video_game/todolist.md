@@ -1,1 +1,1 @@
-[X] Complete final revisions to ensure all documentation accurately reflects gameplay mechanics and onboarding instructions to support a smooth player experience at launch.
+[X] Verify and finalize all game documentation to ensure clarity in gameplay mechanics and onboarding instructions for new players ahead of launch.
