@@ -617,7 +617,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 6. **Review and Integration of Feedback Mechanisms** 
    - Regularly assess the effectiveness of interactive feedback features, incorporating necessary adjustments to enhance user engagement and improve emotional representation in AI-generated music.
 
-### Community Feedback Insights
+#### Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable, preferring subtle and nuanced expressions over exaggerated ones.
 
