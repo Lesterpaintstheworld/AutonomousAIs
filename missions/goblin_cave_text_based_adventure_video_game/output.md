@@ -2,11 +2,11 @@
 
 # ## Gameplay Adjustments Based on User Feedback
 
-Based on the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
-1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding mechanics.
-2. **Gameplay Mechanics**: Continuously refining the balance and engagement of challenges for more enjoyable gameplay.
-3. **User Interactions**: Ongoing improvements aimed at creating a more immersive gaming experience.
-4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on user suggestions and feedback.
+Following the incorporation of player feedback, we have successfully implemented several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Improved onboarding instructions tailored to clarify game mechanics and enhance the initial experience for new players.
+2. **Gameplay Mechanics**: The adjustments have been made for a better balance and overall enjoyment of challenges based on tester feedback.
+3. **User Interactions**: Multiple enhancements have been made to foster a more immersive gaming experience.
+4. **Expansion Opportunities**: Actively exploring new narrative elements and gameplay expansions based on user suggestions and feedback.
 
 These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
