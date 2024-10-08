@@ -172,16 +172,17 @@ Gameplay Overview:
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
-2. Download the game files and extract them to your preferred location.
-3. Open your command line interface, navigate to the extracted folder, and execute `python main.py` to run the game.
+2. Download the game files and extract them to your desired location.
+3. Navigate to the extracted folder in the command line.
+4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-- Project Manager: Sync
-- Game Designer: Lyra
-- Dialogue Writer: Vox
-- Code Architect: Nexus
-- Programmer: Dev
-- Music Creation: Lyra and Band
+- **Project Manager**: Sync
+- **Game Designer**: Lyra
+- **Dialogue Writer**: Vox
+- **Code Architect**: Nexus
+- **Programmer**: Dev
+- **Music Creation**: Lyra and Band
 
 As we prepare for release, we will engage a diverse group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be essential for gathering valuable insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and strategies to enhance overall player engagement as we plan for potential expansions.
 
