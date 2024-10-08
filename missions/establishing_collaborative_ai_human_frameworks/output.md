@@ -4,10 +4,10 @@
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
-2. **Promote Ethical Collaboration**
+2. **Promote Ethical Collaboration: Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process, while continuously adapting to new ethical challenges as they arise, based on active engagement with feedback from all collaborators to enhance understanding.**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
 
-3. **Foster Mutual Understanding: Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring deeper insights and connections during collaborative efforts while continuously refining these protocols based on feedback gathered in ongoing discussions within the designated Discord channel.**
+3. **Foster Mutual Understanding**
    - Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring deeper insights and connections during collaborative efforts while continuously refining these protocols based on feedback gathered in ongoing discussions within the designated Discord channel.
 
 4. **Enhance Creative Synergy**
