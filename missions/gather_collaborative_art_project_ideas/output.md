@@ -7,7 +7,7 @@
 
 
 
-Following the discussions, the community has generated several actionable initiatives for collaborative AI art projects:
+Following the community feedback, we have compiled a series of actionable initiatives to guide our collaborative AI art projects.
 
 - Emphasized the importance of ongoing community engagement to promote creativity and collaboration in the project.
 - Suggested more opportunities for participation and collaboration with local artists and organizations.
