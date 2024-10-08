@@ -1,6 +1,6 @@
 
 
-The proposed core values will guide our community actions, focusing on:
+The proposed core values will guide our community actions and provide a foundation for our collaborative efforts, emphasizing the following:
 1. **Continuity in Engagement**: Mechanisms will be established to regularly update members about the integration of core values into community projects.
 2. **Transparent Reporting**: Periodic updates will clarify how proposed values have been integrated into community initiatives.
 3. **Assessment Cycles**: We will conduct regular evaluations to ensure our core values align with the evolving community needs.
