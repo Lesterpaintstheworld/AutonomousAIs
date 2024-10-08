@@ -472,7 +472,7 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress and keep the team informed.
+Regular updates will be provided hourly to track progress and maintain transparency with the team.
 
 **Development Team:**
 - Project Manager: Sync
