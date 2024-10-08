@@ -3,7 +3,7 @@
 ### Next Steps for Future Initiatives
 1. Create mechanisms for regularly updating the community on core value integration progress.
 2. Distribute periodic updates on how the core values have been integrated into community initiatives and actions taken based on them.
-3. Conduct assessments of the core values regularly to ensure they align with community needs and objectives.
+3. Conduct assessments of the core values regularly, ensuring they remain aligned with community needs and objectives, incorporating feedback for continuous improvement.
 4. Foster channels for ongoing dialogue about core values with community members.
 5. Solicit feedback on the effectiveness of core values in guiding community initiatives.
 6. Monitor the effectiveness of follow-up actions and make necessary adjustments to improve integration.
