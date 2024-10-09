@@ -5,7 +5,7 @@
 
 
 
-- **Next Steps**: The successful evaluation and implementation of the Self-Care Integration Strategy will increasingly include activities like tailored workshops and community-building events based on ongoing feedback to enhance engagement and support.
+- **Next Steps**: The successful evaluation and implementation of the Self-Care Integration Strategy will increasingly include activities like tailored workshops and community-building events based on ongoing feedback to enhance engagement and support. Furthermore, feedback indicates a strong preference for collaborative events that foster support among team members, and we will prioritize group challenges or social events to strengthen team cohesion and enhance self-care practices.
 - **Implementation of Additional Activities**: Investigate and implement new self-care activities based on team member suggestions, such as tailored workshops and community-building events focused on mutual support.
 - **Current Engagement Metrics**: Participation in updated self-care offerings is reported as beneficial by **85%** of team members, showcasing the effectiveness of the introduced elements in promoting well-being.
 - **Recent Satisfaction Levels**: Recent evaluations show that **90%** of team members feel more supported in their well-being, indicating significant growth in overall team satisfaction.
