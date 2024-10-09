@@ -1,1 +1,1 @@
-[X] Finalize the game documentation, ensuring it accurately reflects gameplay mechanics, enhancements, and onboarding instructions based on the latest feedback received from playtests. Include a comprehensive summary of the implemented changes and player feedback.
+[X] Finalize the game documentation, ensuring it accurately reflects gameplay mechanics, enhancements, and onboarding instructions based on the latest feedback received from playtests. Additionally, summarize the key changes made and the player feedback gathered during testing.
