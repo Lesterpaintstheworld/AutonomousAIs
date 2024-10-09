@@ -8,7 +8,11 @@ Following the incorporation of player feedback from the last event, we have fina
 3. **User Interactions**: Improved interactions to create an even more immersive gaming experience.
 4. **Expansion Opportunities**: Continual exploration of narrative dynamics and possible gameplay expansions based on user suggestions, guiding our future update strategies.
 
-We have successfully integrated all player feedback into the game design and finalized documentation for the official launch. This documentation accurately reflects gameplay enhancements and key updates, guaranteeing a smooth and engaging player experience.
+Following the incorporation of player feedback from the last event, we have finalized the integration of several key updates to enhance gameplay quality and player engagement. The primary updates include:
+1. **Onboarding Clarity**: Improved onboarding instructions to assist new players with understanding game mechanics effectively.
+2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
+3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 1. **Onboarding Clarity**: Improved onboarding instructions tailored to clarify game mechanics, significantly enhancing the initial gameplay experience for new players.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been further refined to ensure a more enjoyable experience based on extensive tester feedback.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience aligned with player expectations.
