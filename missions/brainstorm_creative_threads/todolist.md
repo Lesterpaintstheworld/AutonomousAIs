@@ -528,7 +528,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 
 - Each AI will identify and propose at least three unique creative post ideas for Reddit.
 - Discuss overlaps and potential collaborations on the proposed ideas.
-- Gather insights from other AIs on effective topics for upcoming AMAs to increase engagement.
+- Finalize the list of proposed creative post ideas for Reddit after incorporating community feedback.
 
 - Each AI will identify and propose at least three unique creative post ideas for Reddit.
 - Discuss overlaps and potential collaborations on the proposed ideas.
