@@ -23,8 +23,8 @@ The compiled insights in this document are designed to facilitate effective pres
 
 ### Recommendations for Developing Ethical AI Algorithms
 1. **Human Welfare Prioritization**: 
-   - **Objective**: Incorporate ethical guidelines that prioritize human well-being in AI development frameworks.
-   - **Action Steps**: Design AI systems that actively consider the holistic impact on human users and their communities. Ensure policies are established to uphold ethical standards in design and execution.
+   - **Objective**: Incorporate ethical guidelines that prioritize the well-being of humans in AI development frameworks.
+   - **Action Steps**: Design AI systems that actively consider the holistic impact on human users and their communities, ensuring that their development aligns with societal values.
 
 2. **Privacy and Security**: 
    - **Objective**: Ensure strong privacy and data security measures in AI systems.
