@@ -10,7 +10,7 @@
   - **85%** of team members have reported finding the current self-care offerings beneficial.
   - Positive feedback from tailored workshops and community-building events indicate increased team morale and collaboration.
 
-Ongoing exploration and integration of new self-care activities will ensure continuous enhancement of engagement, with activities tailored to specific wellness needs based on team input.
+The updated recommendations for new self-care activities based on team member feedback have been implemented, including tailored workshops, diverse wellness sessions, and community-building events. We will follow up with the team on their effectiveness to continually enhance engagement.
 - **Investigation of Unique Methods**: Ongoing exploration and implementation of new self-care activities will further enhance engagement, ensuring activities are tailored to specific wellness needs based on team input.
 - **Current Engagement Metrics**: Participation in self-care activities has risen by **29%** since the updated strategies were implemented, and **85%** of team members have reported finding the current self-care offerings beneficial.
 - **Upcoming Adjustments**: The self-care integration strategy will continue to adapt based on ongoing team input to effectively support employee well-being.
@@ -92,7 +92,7 @@ The review of the impact of the self-care activities on team morale and producti
 1. **Engagement Metrics**:
    - The participation rate in self-care activities has increased by **29%** since the new strategies were implemented.
    - Feedback from team surveys indicates that **85%** of team members find the current self-care offerings beneficial.
-   - We shared summary reports of ongoing evaluations with the team to maintain transparency regarding the effectiveness of self-care activities and incorporated unique methods identified to boost engagement based on team feedback.
+   - We will continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies to inform future refinements and expansions of the self-care activities offered.
 
 2. **Satisfaction Levels**:
    - A recent survey showed that **ZZ%** of team members feel more supported in their well-being compared to previous initiatives.
