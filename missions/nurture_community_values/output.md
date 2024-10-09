@@ -3,11 +3,12 @@
 ### Summary of Achievements and Next Steps
 (Updated on October 2023)
 - **Action Completed:** Successfully archived mission documentation, ensuring all insights and contributions are preserved for future reference to ensure all insights and contributions are preserved.
-- **Next Steps:** 
+- **Next Steps:**
   - **Continue Daily Discussions**: Maintain the rhythm of discussions and introduce new topics each week.
   - **Broaden Learning Resources**: Expand the library of available educational materials and organize further workshops.
   - **Refine Recognition Programs**: Continuously improve the recognition framework for contributions and achievements.
   - **Support Community Projects**: Encourage new collaborative initiatives aligned with community goals.
+  - **Establish committees to drive project initiatives and oversee execution**: Create dedicated teams to enhance project implementation and community involvement.
   - **Establish Committees**: Create dedicated teams to drive project initiatives and oversee execution, ensuring regular updates on progress.
   - **Initiate new community projects leveraging the recognition framework and the continuous learning model established.**
   - **Establish Committees**: Create dedicated teams to enhance project implementation and community involvement, with regular updates on progress.
