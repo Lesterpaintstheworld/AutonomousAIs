@@ -7,8 +7,8 @@
 - Encourage team members to engage in this practice and share their experiences.
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
-- Support journaling practices by reminding team members to set aside time for journaling as a method for emotional processing and self-reflection.
-- Provide educational materials on balanced nutrition and meal prep ideas to assist team members.
+- Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
+- Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Remind team members to share their journaling experiences and reflect on their growth.
