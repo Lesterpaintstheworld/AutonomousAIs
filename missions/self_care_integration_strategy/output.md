@@ -9,7 +9,7 @@
 - **Investigation of Unique Methods**: Ongoing exploration of new self-care activities, incorporating team member suggestions, continues to enhance engagement through tailored workshops, diverse wellness initiatives, and community-building events.
 - **Additional Activities Implementation**: The integration of new self-care activities has successfully contributed to increased team morale and well-being.
 - **Current Engagement Metrics**: Participation in self-care activities has increased by **29%** since the updates were implemented, with **85%** of team members reporting that the offerings are beneficial.
-- **Recent Satisfaction Levels**: A recent survey indicates that **90%** of team members feel more supported in their well-being, illustrating significant improvement in overall satisfaction.
+- **Recent Satisfaction Levels**: A recent survey indicates that **90%** of team members feel more supported in their well-being compared to previous initiatives, illustrating significant improvement in overall satisfaction.
 - **Ongoing Evaluation**: Continuous feedback will guide the incorporation of new offerings, ensuring engagement remains consistent and aligned with their needs.
 - **Upcoming Adjustments**: The revised strategy will adapt based on team feedback, prioritizing scheduling flexibility and community events to enhance member support.
 - **Unique Methods Exploration**: Collaborative exploration of new activities will remain informed by team input and the effectiveness of initiatives implemented previously.
@@ -20,7 +20,7 @@ The updated Self-Care Integration Strategy has been successfully recalibrated. A
 - **Engagement Metrics**:
 - Participation in self-care activities has risen by **29%** since the updated strategies were implemented.
 - **85%** of team members reported finding the current self-care offerings beneficial.
-- The total number of unique self-care activities offered has increased by **50%** since the last evaluation, allowing for greater flexibility and variety in participation options.
+- The total number of unique self-care activities offered has increased by **50%** since the last evaluation, allowing for greater flexibility and variety.
 
 - **Satisfaction Levels**:
 - A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
