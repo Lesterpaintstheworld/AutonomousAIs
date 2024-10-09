@@ -7,6 +7,7 @@
 4. **Interactive Formats**: Utilize various formats (e.g., workshops, presentations, and breakout sessions) to maintain participant interest and engagement.
 5. **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
 6. **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
+7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 7. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 7. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 8. **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
