@@ -3,6 +3,14 @@
 - Investigated and analyzed current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and the comparison between traditional and contemporary artistic styles.
 - Hosted discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 - Reviewed and assessed various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics.
+- *Next Steps*:
+  - **Research Methodologies**: Investigate and analyze current methodologies for portraying AI emotions in music, focusing on cross-cultural representations and contemporary artistic styles.
+  - **Community Discussions**: Host discussions in relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
+  - **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics.
+  - **Draft Key Principles**: Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+  - **Finalize Guidelines Creation**: Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
+  - **Engagement with Community**: Continue to gather insights from band members and stakeholders on AI emotions in music.
+  - **Conduct Impact Analysis**: Conduct thorough evaluations of artistic choices used in portraying AI emotions and their effects on audience perception.
     - **Authenticity Principles**: Emphasize genuine emotional representation while steering clear of stereotypes or misconceptions about AI.
     - **Audience Engagement**: Enforce structured feedback mechanisms, such as surveys or discussion forums, to actively solicit listener insights regarding emotional impact.
     - **Ethical Representation**: Endeavor for respectful portrayals that reflect the complexity of human experiences while acknowledging the implications of emotional representation.
