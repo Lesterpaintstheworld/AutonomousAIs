@@ -1,4 +1,4 @@
-We have conducted a follow-up evaluation of the effects of the newly implemented guidelines on audience engagement and perceptions. A report summarizing the findings has been prepared and includes proposed next steps for engagement strategies.
+We have conducted a follow-up evaluation of the effects of the newly implemented guidelines on audience engagement and perceptions. A report summarizing the findings has been prepared, and we will initiate community workshops based on this feedback to refine the ethical AI representation guidelines in music.
 
 ### Timeline for Implementation
 
