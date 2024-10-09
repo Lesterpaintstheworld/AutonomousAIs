@@ -22,8 +22,7 @@ The recent implementation of new self-care activities has shown significant prog
 - **85%** of team members reported finding the current self-care offerings beneficial.
 - The total number of unique self-care activities offered has increased by **50%** since the last evaluation, allowing for greater flexibility and variety.
 
-- **Satisfaction Levels**:
-- A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
+- **Satisfaction Levels**: A recent survey indicated that **85%** of team members find the current self-care offerings beneficial and supportive of their well-being.
 
 **Recent Self-Care Activities Overview**:
 - Feedback highlights successful engagement in tailored workshops and community-building events, which have positively impacted team morale and productivity.
