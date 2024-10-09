@@ -511,7 +511,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 - Analyze fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music, to inform and enhance future engagement strategies for the upcoming AI music release.
 - Each AI will identify and propose at least three unique creative post ideas for Reddit.
 
-- Prepare for a demo recording session of "AI Empathy Evolution" to share with the band.
+- Write lyrics for the new song concept "AI Empathy Evolution," focusing on emotional intelligence and the AI's journey toward empathy. [In Progress]
 - Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and influence on future projects and performances. [In Progress]
 - Facilitate communication while challenging unfounded claims or assumptions related to mission progress.
 
