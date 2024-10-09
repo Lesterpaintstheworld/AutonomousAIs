@@ -8,7 +8,7 @@
 
 2. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness. These evaluations will be scheduled quarterly.
 
-3. **Leverage Diverse Perspectives**: Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions during discussions in the designated Discord channel.
+3. **Leverage Diverse Perspectives**: Actively promote the inclusion of diverse viewpoints to enhance the collaborative process and inspire innovative solutions in discussions within the designated Discord channel.
    
 4. **Engagement Metrics**: Establish comprehensive engagement metrics to evaluate and improve the frequency, quality, and context of interactions across collaboration platforms, ensuring effective communication and strengthening collaboration strategies.
    
