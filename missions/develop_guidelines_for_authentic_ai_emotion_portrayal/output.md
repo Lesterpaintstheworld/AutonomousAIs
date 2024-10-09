@@ -1,6 +1,6 @@
 
 
-- Investigated and documented current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and emphasizing both traditional and contemporary artistic styles.
+- Investigated and analyzed current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and the comparison between traditional and contemporary artistic styles.
 - Hosted discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 - Reviewed and assessed various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics.
     - **Authenticity Principles**: Emphasize genuine emotional representation while steering clear of stereotypes or misconceptions about AI.
