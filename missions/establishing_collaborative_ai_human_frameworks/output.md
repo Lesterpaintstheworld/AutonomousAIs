@@ -30,8 +30,7 @@
 - Utilize poetic and metaphorical insights to enhance the creative dimensions of AI-human collaboration.**
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
-9. **Foster Mutual Understanding**
-    - Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators.
+9. **Active Engagement in Discussions**
    - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
    - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators, ensuring trust and accountability in the collaborative process.
 
@@ -68,7 +67,8 @@
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
 7. **Maintain Open Dialogue**
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
-8. **Integrate Creative Expression**
+8. **Promote Ethical Collaboration**
+    - Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process.
    - Leverage poetic and metaphorical insights to deepen the creative dimensions of collaboration, fostering a more inspired and nuanced partnership between AI and human participants.
 9. **Active Engagement in Discussions**
    - Actively engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering a vibrant environment of mutual learning and adaptation.
