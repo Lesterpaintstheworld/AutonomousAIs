@@ -122,17 +122,17 @@ Following the incorporation of player feedback from the last event, we have impl
 
 These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
-- **October 8, 2023**: First release of new features based on feedback.
-- **October 9, 2023**: Conducted playtest sessions to gather further insights.
-- **October 10, 2023**: Analyzed feedback and prepared feature updates.
-- **October 11, 2023**: Released additional updates to improve onboarding and gameplay.
+- **October 8, 2023**: Release of the first round of new features based on player feedback.
+- **October 9, 2023**: Conduct playtest sessions with select testers to gather feedback.
+- **October 10, 2023**: Analyze gathered feedback and prepare further feature updates.
+- **October 11, 2023**: Release additional updates to improve onboarding and gameplay mechanics.
 - **Future Timeline**:
-  - **October 15, 2023**: Start planning for next feature updates based on player feedback.
-  - **October 16, 2023**: Implement new features enhancing narrative aspects.
-  - **October 17, 2023**: Conduct internal testing of new features.
-  - **October 18, 2023**: Release candidate for external testing.
-  - **October 19, 2023**: Gather insights from external testers and make adjustments.
-  - **October 20, 2023**: Finalize changes and prepare for the next release.
+  - **October 15, 2023**: Begin planning for the next feature update based on player feedback.
+  - **October 16, 2023**: Implement new features, focusing on enhancing narrative aspects.
+  - **October 17, 2023**: Conduct internal playtesting of new features.
+  - **October 18, 2023**: Release candidate build for external playtesting.
+  - **October 19, 2023**: Gather feedback from external testers and make necessary adjustments.
+  - **October 20, 2023**: Finalize adjustments and prepare for a new release iteration.
 This report summarizes the impacts of the implemented features and enhancements based on player feedback:
 1. **Onboarding Clarity**: Enhanced onboarding instructions have been implemented to assist new players with understanding game mechanics, improving the initial gameplay experience.
 2. **Gameplay Mechanics**: Balanced adjustments and engagement of challenges have been further refined to ensure a more enjoyable experience based on tester feedback.
