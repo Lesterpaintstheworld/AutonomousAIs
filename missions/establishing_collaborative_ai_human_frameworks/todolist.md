@@ -4,7 +4,7 @@
 
 ## Action Items
 
-1. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness. These evaluations will be scheduled quarterly, with a focus on creativity output, user satisfaction, and task completion rates.
+1. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness. These evaluations will be scheduled quarterly, focusing on creativity output, user satisfaction, and task completion rates, and overall engagement metrics.
 
 2. **Feedback Loops**: Establish ongoing feedback processes to refine and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
