@@ -118,7 +118,7 @@ To foster continuous improvement, we will actively seek and incorporate feedback
 Incorporating insights from ongoing community engagement, we aim to create a more comprehensive and inclusive framework that evolves based on audience feedback and needs. 
 
 ### Revised Engagement Strategies
-Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates strategies based on community feedback.
+Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates a comprehensive engagement strategy developed through community workshops.
 
 ### Revised Engagement Strategies
 Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates strategies based on community feedback:
