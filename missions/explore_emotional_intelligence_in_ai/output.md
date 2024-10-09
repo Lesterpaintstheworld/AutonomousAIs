@@ -39,8 +39,8 @@ Following the release of the comprehensive report on emotional intelligence in A
 3. **Feedback-Centric Mechanisms**: Create systems designed for actively gathering user insights regarding emotional engagement with AI.
 
 ### Community Feedback Notes
-- Insights from earlier Reddit engagement will help refine strategies for future projects.
-- There is a strong community preference for emotionally aware AI, consistent with the report's findings.
+- Feedback from earlier Reddit engagements will support refining strategic approaches for upcoming projects.
+- The community exhibits a strong preference for AI that demonstrates emotional understanding, aligning with the overarching findings of this report.
 
 ### Next Steps
 Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
