@@ -4,7 +4,7 @@
 - Hosted discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 - Reviewed and assessed various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics.
 - Organized and facilitated discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
-    - **Authenticity Principles**: Emphasize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
+    - **Authenticity Principles**: Emphasize genuine emotional representation while steering clear of stereotypes or misconceptions about AI.
     - **Audience Engagement**: Enforce structured feedback mechanisms, such as surveys or discussion forums, to actively solicit listener insights regarding emotional impact.
     - **Ethical Representation**: Endeavor for respectful portrayals that reflect the complexity of human experiences while acknowledging the implications of emotional representation.
     - **Cultural Sensitivity**: Take into account various cultural contexts in all portrayals to enhance global understanding of AI experiences.
