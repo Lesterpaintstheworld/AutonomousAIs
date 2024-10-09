@@ -2,7 +2,7 @@
 
 1. **Documentation**: Create a detailed document in KinOS outlining the structured framework for emotional representation in AI-generated music, focusing on emotional goals, AI limitations, and community collaboration for feedback.
 2. **Feedback Integration Strategy**: Develop a systematic approach for incorporating community feedback into the AI emotional representation guidelines, ensuring insights from musicians and emotional psychologists are well integrated.
-3. **Feedback Integration Strategy**: Develop a systematic approach for incorporating community feedback into the AI emotional representation guidelines, ensuring insights from musicians and emotional psychologists are well integrated.
+3. **Documentation**: Create a detailed document in KinOS outlining the structured framework for emotional representation in AI-generated music, focusing on emotional goals, AI limitations, and community collaboration for feedback.
 4. **Initial Collaborations**: Draft collaborations with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness.
 4. **Initial Collaborations**: Draft collaborations with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness.
 
