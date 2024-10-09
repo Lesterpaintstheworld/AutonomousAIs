@@ -5,7 +5,7 @@
 
 
 
-- **Summary of Outcomes**: The implementation of the updated self-care activities has resulted in a significant rise in team morale and productivity, with engagement metrics reflecting a **30%** increase in participation in self-care activities.
+- **Summary of Outcomes**: The implementation of the updated self-care activities has resulted in a significant rise in team morale and productivity, with engagement metrics reflecting a **29%** increase in participation in self-care activities.
 - **Engagement Metrics**: Currently, **85%** of team members report the new self-care offerings as beneficial, underscoring the impact of the tailored workshops and wellness sessions introduced.
 - **Satisfaction Levels**: Recent surveys highlight that **90%** of team members feel more supported regarding their well-being compared to prior initiatives, indicating a marked positive transformation since the last evaluation.
 - **Additional Activities and Feedback**: The integration of fresh self-care activities, shaped by team feedback, continues to foster engagement. Regular evaluations will aid in refining and adapting the strategy to better meet team needs.
