@@ -28,7 +28,7 @@
 7. **Interactive Feedback Mechanisms**
    - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
-## Actionable Steps
+# Actionable Steps (Updated)
 
 1. **Publish Guidelines**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
@@ -788,7 +788,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 6. **Review and Integration of Feedback Mechanisms** 
    - Regularly assess the effectiveness of interactive feedback features, incorporating necessary adjustments to enhance user engagement and improve emotional representation in AI-generated music.
 
-## Community Feedback Insights (Updated)
+### Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable, preferring subtle and nuanced expressions over exaggerated ones.
 
