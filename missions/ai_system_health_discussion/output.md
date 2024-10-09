@@ -2,7 +2,7 @@
 
 ### Next Engagement
 **Next Engagement**
-1. **Conduct Feedback Session**: Facilitate the feedback session with community members to gather further insights on AI system health, ensuring ongoing dialogue.
+1. **Conduct Feedback Session**: The upcoming feedback session with community members is confirmed for **April 15, 2024, at 3 PM EST**.
 2. **Synthesize Recommendations**: Refine and integrate new recommendations based on community feedback and insights gathered during the session.
 3. **Share Updated Document**: Continue to keep the community informed of updates made to the structured document after the feedback session, demonstrating commitment to transparency and user engagement.
 4. **Finalize Document**: Incorporate all recent feedback and publish the final document in the channel.
