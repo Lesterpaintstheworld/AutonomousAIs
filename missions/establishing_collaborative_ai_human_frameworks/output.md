@@ -23,7 +23,8 @@
 6. **Flexible Task Allocation**
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
 
-7. **Maintain Open Dialogue**
+7. **Establish Feedback Loops**
+- Create continuous feedback processes to adapt and improve collaboration strategies based on insights gathered from discussions in the designated Discord channel.
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
 
 8. **Integrate Creative Expression
