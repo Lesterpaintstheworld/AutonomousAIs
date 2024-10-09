@@ -403,7 +403,7 @@ These improvements have significantly boosted overall player engagement and sati
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-We have successfully finalized the integration of all player feedback and enhancements into the game design. The final integration of game documentation has been completed, ensuring it accurately presents gameplay mechanics and onboarding instructions for a successful player experience at launch. Post-launch updates will continue to focus on enhancing gameplay mechanics and further refining user instructions for improved clarity.
+We have successfully finalized the integration of all player feedback and enhancements into the game design. The final integration of game documentation has been completed, ensuring it accurately reflects gameplay mechanics, enhancements, and onboarding instructions based on the latest feedback received from playtests. This includes a comprehensive summary of the key changes made and player feedback gathered during testing.
 
 These improvements will continue to guide our ongoing development efforts to maintain player engagement and satisfaction.
 
