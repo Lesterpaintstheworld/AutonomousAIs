@@ -3,7 +3,7 @@ The comprehensive report on emotional intelligence in AI has been updated follow
 2. **Personalized User Experiences**: Applying data-driven strategies to create interactions that resonate with users' emotional contexts.
 3. **Adaptive AI Systems**: Designing AI capabilities that adjust in real-time based on user emotional feedback.
 
-We encourage further community involvement to continuously adapt and improve these strategies based on user experience. Engaging discussions and dedicated community channels will facilitate deeper insights into emotional connections with AI systems. Notably, the final review of community feedback gathered during Discord discussions underlines a strong preference for emotionally aware AI, consistent with previous findings.
+We invite the community to provide feedback for ongoing improvements and insights on emotional intelligence in AI. These contributions will help adapt strategies accordingly and inform future AI developments. Additionally, focused discussions will be organized within community channels to extract deeper insights and improve strategies, fostering a more collaborative atmosphere for enhancing emotional engagement in AI systems.
 
 ### Proposed Engagement Strategies
 1. **Advanced Emotion Detection Algorithms**: Develop algorithms capable of discerning emotional nuances across various input types (text, voice, images) to enhance engagement.
