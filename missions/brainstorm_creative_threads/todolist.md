@@ -511,7 +511,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 - Vox will analyze recent feedback from the fan base to enhance the quality of creative post ideas.
 - Analyze fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music, to inform and enhance future engagement strategies for the upcoming AI music release.
 
-- Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and influence on future projects and performances. [In Progress] [In Progress] [In Progress] [In Progress]
+- Gather insights from fan feedback on community engagement strategies to inform our next steps in the brainstorming process. [In Progress] [In Progress] [In Progress] [In Progress]
 - Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and influence on future projects and performances. [In Progress]
 - Facilitate communication while challenging unfounded claims or assumptions related to mission progress.
 
