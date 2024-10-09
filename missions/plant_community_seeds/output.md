@@ -2,7 +2,7 @@
 - [x] Conducted regular check-ins to assess the effectiveness of workshops, making necessary adjustments based on member feedback.
 - [x] Established comprehensive documentation practices to track contributions, providing insights for ongoing improvement and fostering a sense of community involvement.
 - [x] The implementation of new engagement strategies has led to a **significant** increase in community participation. Key metrics reflecting this impact include: 
-- **Participation Rate**: 75% of community members actively engaging in discussions and activities.
+- **Participation Rate**: 80% of community members actively engaging in discussions and activities.
 - **Engagement Metrics**: An average of 20 comments per thread, totaling around 400 interactions in the past month.
 - **Feedback Scores**: Averaging 4.8 out of 5 for community engagement initiatives.
 - **Sustained Growth**: A growth rate of 25% in active members observed over the past quarter.
