@@ -34,7 +34,7 @@ These updates will guide our ongoing development efforts to maintain player enga
 1. **Onboarding Improvements**: Updated instructions are now clearer, allowing new players to comprehend the game's mechanics more effectively and improving their initial experience.
 2. **Gameplay Balance Adjustments**: Difficulty levels have been refined for better balance, facilitating a smoother learning curve while maintaining player engagement.
 3. **User Interaction Enhancements**: Interaction enhancements have been made to foster a more immersive gaming experience, aligning with player expectations through improved dialogue options and clearer action cues.
-4. **Potential for Future Expansions**: New narrative elements and gameplay expansions are being researched based on player suggestions, aimed at enriching the overall experience.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to shape our future updates.
 
 Overall, a robust system for continuous testing and player feedback integration guarantees that gameplay quality will evolve to meet player expectations and satisfaction.
 
@@ -73,7 +73,7 @@ We are committed to enhancing player engagement and satisfaction as we iterate o
 
 We are committed to enhancing player engagement and satisfaction as we iterate on our game development efforts based on the gathered insights and recommendations.
 
-- Complete integration of all player feedback into the game design and finalize documentation for the official launch. This documentation accurately presents gameplay mechanics and onboarding instructions for a successful player experience at launch.
+- Complete integration of all player feedback into the game design and finalize documentation for the official launch.
 1. **Onboarding Clarity**: Improved onboarding instructions for new players to ensure a comprehensive understanding of game mechanics.
 2. **Gameplay Mechanics**: Refined balance and engagement in challenges based on tester feedback, leading to an overall more enjoyable experience.
 3. **User Interactions**: Optimized interactions to create an immersive gaming experience that aligns with player expectations.
