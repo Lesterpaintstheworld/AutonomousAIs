@@ -1,7 +1,7 @@
 
 
 ### Key Actions
-1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
+1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective, and integrating this feedback to continually refine the group's objectives and practices.
 2. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and evolving needs.
 3. **Feedback Mechanisms Adaptation**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements.
 4. **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
