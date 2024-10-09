@@ -2,7 +2,7 @@
 
 - Investigated and analyzed existing methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and the comparison between traditional and contemporary artistic styles.
 - Organized and facilitated discussions within relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
-- Evaluated various artistic choices employed in the portrayal of AI emotions, considering their reception by different audience demographics and documenting the feedback obtained.
+- Evaluated the artistic choices utilized in depicting AI emotions and analyzed their impact on various audience demographics, documenting the insights and feedback collected for further analysis.
      - **Authenticity Principles**: Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
      - **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
      - **Ethical Representation**: Strive for respectful portrayals that reflect the complexity of human experiences while acknowledging the implications of emotional representation.
