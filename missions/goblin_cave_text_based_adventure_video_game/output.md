@@ -502,7 +502,11 @@ Prioritized updates based on user feedback have significantly enhanced gameplay 
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Comprehensive updates will be provided every hour to track progress, keep the team informed, and ensure transparency in the development process.
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continuing to refine the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on user suggestions and feedback.
 
 **Development Team:**
 - Project Manager: Sync
