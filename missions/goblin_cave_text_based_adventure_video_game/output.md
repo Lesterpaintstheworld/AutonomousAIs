@@ -400,7 +400,7 @@ These updates will direct our ongoing development efforts to sustain player enga
   2. Further refining gameplay mechanics for balanced challenges.
   3. Improving user interactions to foster a more immersive gaming experience.
 
-These improvements have greatly enhanced overall player engagement and satisfaction, enriching the gaming experience.
+These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
@@ -457,7 +457,7 @@ Finalize the game documentation, ensuring it accurately reflects gameplay mechan
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
+The release build has been finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience at launch.
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
