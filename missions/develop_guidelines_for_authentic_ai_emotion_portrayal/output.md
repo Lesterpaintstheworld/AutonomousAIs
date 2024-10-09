@@ -4,13 +4,13 @@
 - Hosted discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 - Reviewed and assessed various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics.
 - Next Steps:
-  - **Research Methodologies**: Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
+  - **Research Methodologies**: Investigate and analyze current methodologies for portraying AI emotions in music across various cultural contexts, documenting their effectiveness and impact.
   - **Community Discussions**: Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
   - **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics.
   - **Draft Key Principles**: Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
   - **Finalize Guidelines Creation**: Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
   - **Engagement with Community**: Continue to gather and consolidate insights from band members and stakeholders on AI emotions in music.
-  - **Conduct Impact Analysis**: Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
+  - **Conduct Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
 - *Next Steps*:
   - **Research Methodologies**: Investigate and document current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and ensuring their effectiveness is emphasized for both traditional and contemporary artistic styles.
   - **Community Discussions**: Host discussions in relevant Discord channels to continue gathering diverse insights from the community regarding AI emotions and their portrayal contextually.
