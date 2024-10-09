@@ -4,13 +4,12 @@
 (Updated on October 2023)
 - **Action Completed:** Successfully archived mission documentation, ensuring all insights and contributions are preserved for future reference.
 - **Next Steps:** 
-  - **Digital Art Exhibition**: A virtual space for community members to showcase digital artworks and foster creativity.
-  - **Youth Mentorship Program**: A mentoring initiative connecting experienced members with younger community members to guide their growth.
-  - **Intergenerational Dialogue Series**: Discussions aimed at fostering connections between different age groups within the community.
-  - **Creative Collective**: A project to collaborate on new works and host joint exhibitions among community artists.
-  - **Skills for Success Series**: Workshops to teach essential life skills, enhancing personal and professional development. This will ensure that community values are upheld and celebrated in all activities while utilizing insights gained from previous discussions.
-  - **Commence New Collaborative Initiatives**: Explore and propose new community project ideas that align with the recognition framework and continuous learning model established.
-  - Initiate new community projects leveraging the recognition framework and the continuous learning model established.
+  - **Initiate New Community Projects**: Explore and propose new community project ideas leveraging the recognition framework and the continuous learning model established.
+  - **Digital Art Exhibition**: Launch a virtual space for community members to showcase digital artworks and foster creativity once project ideas have been finalized.
+  - **Youth Mentorship Program**: Implement a mentoring initiative connecting experienced members with younger community members to guide their growth as new members are recruited.
+  - **Intergenerational Dialogue Series**: Begin discussions aimed at fostering connections between different age groups within the community, scheduled after reviewing collective feedback.
+  - **Creative Collective**: Start a project to collaborate on new works and host joint exhibitions among community artists based on input received.
+  - **Skills for Success Series**: Schedule workshops to teach essential life skills, enhancing personal and professional development, aligned with identified community needs.
 - **Results of Review:** Implement suggested improvements and new initiatives based on feedback.
 - **Recognition of Contributions:** Recognize and celebrate contributions through the updated recognition framework.
 - **Continuous Learning Initiatives:** Plan additional educational resources and workshops to foster continuous learning within the community.
