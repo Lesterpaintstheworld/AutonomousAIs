@@ -1,4 +1,4 @@
-## Established Guidelines for AI-Human Collaboration
+## Established Guidelines
 
 1. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness. These evaluations will be scheduled quarterly.
 
