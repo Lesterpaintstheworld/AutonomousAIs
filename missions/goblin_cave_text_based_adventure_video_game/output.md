@@ -616,6 +616,6 @@ The final integration of game documentation has been successfully completed, ens
 1. **Onboarding Clarity**: Significantly improved onboarding instructions to assist new players in comprehensively understanding game mechanics.
 2. **Gameplay Mechanics**: Additional adjustments have been made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: Enhanced user interactions have been implemented to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions based on user suggestions will guide our future update strategies.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 
 These updates will direct our ongoing development efforts to maintain and elevate player engagement and satisfaction.
