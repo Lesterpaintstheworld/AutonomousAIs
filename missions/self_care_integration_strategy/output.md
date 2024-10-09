@@ -6,7 +6,7 @@
 
 
 The updated Self-Care Integration Strategy has successfully incorporated ongoing evaluations of self-care activities. Recent metrics demonstrate notable improvements in team morale, with continued positive feedback on newly implemented activities and a focus on community engagement.
-- Recent evaluations indicate a sustained **29%** increase in participation in self-care activities since implementing the newly recommended activities, showcasing the effectiveness of the updated strategy and engagement methods.
+- Recent evaluations reflect a **30%** increase in participation in self-care activities following the implementation of new recommendations, indicating further success in enhancing engagement.
 - **85%** of team members continue to report that the current self-care offerings are beneficial.
 The implementation of new self-care activities based on team member suggestions has shown significant progress, with team members actively engaging in tailored workshops, community-building events, and diverse wellness sessions. We will continue to explore and implement additional self-care activities based on team member suggestions to further enhance engagement, ensuring activities are tailored to specific wellness needs including themed workshops and diverse wellness sessions. These initiatives have continued to enhance team morale and productivity.
 
@@ -33,7 +33,7 @@ The detailed review of the impact of the self-care activities on team morale and
 - Upcoming adjustments will include investigating and implementing new self-care activities based on team member suggestions, such as tailored workshops, diverse wellness sessions, and community-building events, to enhance engagement and support mutual benefit.
 - Ongoing feedback collection will be maintained to ensure continuous improvement and enhancement of self-care offerings, promoting elevated team wellness initiatives.
 
-1. **Tailored Activities**: There has been significant interest in continuing to develop self-care sessions tailored to individual wellness needs, with themes such as mental health awareness, nutrition education, and physical fitness workshops regularly suggested.
+1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Suggested themes include mental health, nutrition, and physical fitness workshops.
 
 2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
