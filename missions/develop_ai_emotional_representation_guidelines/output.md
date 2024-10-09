@@ -4,7 +4,7 @@
    - Identification of Emotional Goals
    - Evaluation of AI Limitations
    - Community Collaboration for Feedback
-2. **Community Workshops**: Organize sessions within the Discord channel to collect community-driven input on emotional representation practices.
+2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Initial Collaborations**: Draft collaborations with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness.
 4. **Feedback Integration Strategy**: Develop a systematic approach for incorporating community feedback into the AI emotional representation guidelines, ensuring insights from musicians and emotional psychologists are well integrated.
 5. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
