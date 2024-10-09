@@ -18,7 +18,7 @@ The revamped Self-Care Integration Strategy has introduced new activities such a
 - **Engagement Metrics**:
 - Participation in self-care activities has risen by **29%** since the updated strategies were implemented.
 - **85%** of team members reported finding the current self-care offerings beneficial.
-- The total number of unique self-care activities offered has increased by **50%** since the last evaluation, allowing for greater flexibility and variety.
+- Since the last evaluation, the total number of unique self-care activities offered has seen an increase of **50%**, providing enhanced flexibility and variety for team members.
 
 - **Satisfaction Levels**:
 - A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
@@ -47,10 +47,10 @@ The updated Self-Care Integration Strategy has shown measurable improvements in 
 **Satisfaction Levels**:
 - A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
 
-### Revised Engagement Metrics
-- Engagement in self-care activities has shown an increase of **29%** following the updated strategies' implementation.
-- **85%** of team members have reported the current self-care offerings as beneficial and supportive of their well-being.
-- Recent surveys indicate a satisfaction rate of **90%**, confirming that team members feel more supported in their well-being than in previous initiatives.
+### Updated Engagement Metrics
+- Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
+- **85%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
+- Satisfaction increased, with a recent survey indicating **90%** of team members feel more supported in their well-being compared to previous initiatives.
 
 ### Next Steps
 1. **Share Summary Reports**: Summary reports of ongoing evaluations will be shared with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
