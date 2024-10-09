@@ -7,8 +7,10 @@
 - Encourage team members to engage in this practice and share their experiences.
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
 - Remind team members to share their journaling experiences and reflect on their growth over time.
-- Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
-- Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+- Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
+- Encourage team members to reflect on their dietary choices and their impact on overall health.
+- Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
+- Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
