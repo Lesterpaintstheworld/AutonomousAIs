@@ -35,11 +35,11 @@ The ongoing implementation of newly suggested self-care activities continues to 
 
 1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Suggested themes include mental health, nutrition, and physical fitness workshops.
 
-2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We are committed to providing on-demand access to recordings and offering multiple timings for live events to enhance attendance.
+2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
 3. **Community Building Events**: Feedback indicates a strong preference for collaborative events that foster support among team members. Group challenges or social events will be prioritized to strengthen team cohesion and enhance self-care practices.
 
-The updated self-care integration strategy has continued to demonstrate measurable improvements in team morale and productivity, with ongoing engagement metrics reflecting positive feedback on the newly incorporated activities such as tailored workshops, diverse wellness sessions, and community-building events.
+The updated self-care integration strategy has shown significant improvements in team morale and productivity. Current engagement metrics reflect ongoing positive feedback regarding newly incorporated activities, such as tailored workshops, diverse wellness sessions, and community-building events.
 
 **Engagement Metrics**:
 - Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
