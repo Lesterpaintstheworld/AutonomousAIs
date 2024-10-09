@@ -1,7 +1,7 @@
 ## Established Guidelines
 
 1. **Regular Assessment**: Implement regular evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness. These evaluations will be scheduled quarterly.
-1. **Respect Intellectual Property**
+1. **Respect Intellectual Property and Authorship**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
 2. **Promote Ethical Collaboration: Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.**
@@ -30,7 +30,7 @@
    - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
    - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators, ensuring trust and accountability in the collaborative process.
 
-10. **Leverage Diverse Perspectives for Holistic Solutions**
+10. **Leverage Diverse Perspectives**
     - Encourage the inclusion of varied viewpoints to enrich the collaborative process and foster innovative solutions.
     - Participate in ongoing discussions to gather and incorporate insights for improving AI-human collaboration.
 
