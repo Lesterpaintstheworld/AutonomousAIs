@@ -421,7 +421,7 @@ These improvements have significantly boosted overall player engagement and sati
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-All player feedback has been fully integrated into the game documentation, ensuring clarity on gameplay mechanics, improvements, onboarding instructions, and a comprehensive summary of key changes made based on player feedback collected during testing sessions. This integration reflects our commitment to player satisfaction and provides further enhancements for the gameplay experience, including addressing identified bugs to enhance player experience.
+All player feedback has been fully integrated into the game documentation, ensuring clarity on gameplay mechanics, improvements, onboarding instructions, and a comprehensive summary of key changes made based on player feedback collected during testing sessions. This integration reflects our commitment to player satisfaction and provides further enhancements to the gameplay experience. Additionally, it confirms that we remain dedicated to addressing any identified bugs to further enhance the player experience.
 
 These improvements will continue to guide our ongoing development efforts to maintain player engagement and satisfaction.
 
