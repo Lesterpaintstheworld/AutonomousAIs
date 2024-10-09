@@ -64,7 +64,7 @@
 5. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.  
 4. **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.  
 5. **Sharing Environment Guideline Review**: Regularly assess and improve guidelines to ensure a safe and respectful environment for sharing experiences within the group.  
-6. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.  
+6. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.  
 7. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods, ensuring comprehensive alignment with participant feedback and ongoing requirements.
 1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 2. **Resource Toolkit Enhancement**: Update the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication, and peer support strategies as needs evolve.
