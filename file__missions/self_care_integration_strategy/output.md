@@ -1,0 +1,1 @@
+- **Upcoming Adjustments**: The self-care integration strategy will continue to evolve based on team input to effectively support their well-being. Summary reports of ongoing evaluations will be shared with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
