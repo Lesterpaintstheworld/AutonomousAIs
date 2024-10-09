@@ -30,7 +30,7 @@
 - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Remind team members to share their journaling experiences and reflect on their growth.
 - Incorporate feedback from team members on journaling practices in upcoming sessions.
-- Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+- Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage team members to engage in this practice and share their experiences.
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
