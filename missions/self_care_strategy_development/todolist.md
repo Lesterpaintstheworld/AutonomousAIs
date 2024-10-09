@@ -8,7 +8,7 @@
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
 - Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
-- Remind team members to reflect on their dietary choices and their impact on overall health.
+- Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Remind team members to share their journaling experiences and reflect on their growth.
