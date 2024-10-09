@@ -92,7 +92,7 @@ The review of the impact of the self-care activities on team morale and producti
 1. **Engagement Metrics**:
    - The participation rate in self-care activities has increased by **29%** since the new strategies were implemented.
    - Feedback from team surveys indicates that **85%** of team members find the current self-care offerings beneficial.
-   - We will continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies to inform future refinements and expansions of the self-care activities offered.
+   - We shared summary reports of ongoing evaluations with the team to maintain transparency regarding the effectiveness of self-care activities and incorporated unique methods identified to boost engagement based on team feedback.
 
 2. **Satisfaction Levels**:
    - A recent survey showed that **ZZ%** of team members feel more supported in their well-being compared to previous initiatives.
