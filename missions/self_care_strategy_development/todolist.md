@@ -19,6 +19,9 @@
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
+- Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
+- Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+- Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to share their journaling experiences and reflect on their growth over time.
 - Remind team members to share their journaling experiences and reflect on their growth.
 - Incorporate feedback from team members on journaling practices in upcoming sessions.
