@@ -728,7 +728,7 @@ Following the distribution of the finalized insights to stakeholders, the feedba
 
 - **Areas for Improvement**: Some stakeholders suggested including more case studies to illustrate the application of the strategies. There was also a call for more detailed guidelines on implementing trust-building measures.
 
-- **Next Steps**: Incorporate the feedback by adding relevant case studies and expanding the trust-building section to provide more granular implementation steps.
+- **Next Steps**: Incorporate the feedback by adding relevant case studies and expanding the trust-building section to provide more detailed implementation steps.
 
 ## Evaluation of Implemented Strategies
 
