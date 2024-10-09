@@ -186,7 +186,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 ## Best Practices (Updated)
 
-## Best Practices (Updated)
+### Best Practices
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
