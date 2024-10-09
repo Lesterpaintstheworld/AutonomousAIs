@@ -1,3 +1,3 @@
-- Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and documenting their impact through community engagement.
-- Host structured discussions in relevant Discord channels to gather diverse insights from the community on the contextual portrayal of AI emotions.
-- Review and assess various artistic choices used in portraying AI emotions, documenting their reception across different audience demographics.
+- Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and ensuring they adhere to established ethical standards.
+- Host structured discussions in relevant Discord channels to continually gather diverse insights regarding the contextual portrayal of AI emotions.
+- Review and assess various artistic choices used in portraying AI emotions, documenting their reception across different audience demographics and gathering feedback through community engagement.
