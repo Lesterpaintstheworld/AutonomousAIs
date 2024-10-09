@@ -5,7 +5,7 @@
 
 
 
-- **Next Steps**: All team members are now able to engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration.
+- **Next Steps**: Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine strategies based on input. Additionally, explore and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
   - Participation in self-care activities has risen by **29%** since the updated strategies were implemented.
   - **85%** of team members have reported finding the current self-care offerings beneficial.
   - Positive feedback from tailored workshops and community-building events indicate increased team morale and collaboration.
