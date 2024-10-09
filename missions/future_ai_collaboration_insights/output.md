@@ -648,8 +648,8 @@ The compiled insights in this document facilitate effective presentations on eth
    - **Action Steps**: Design AI systems that actively consider the holistic impact on human users and their communities, ensuring that their development aligns with societal values.
 
 2. **Privacy and Security Enhancements**: 
-   - **Objective**: Ensure strong privacy and data security measures in AI systems.
-   - **Action Steps**: Implement robust cybersecurity measures and comprehensive data protection protocols to safeguard user information, including regular audits and updates to security practices.
+   - **Objective**: Ensure robust privacy and data security measures within AI systems.
+   - **Action Steps**: Adopt extensive cybersecurity measures and thorough data protection protocols to protect user information. This includes conducting regular audits and updates to security practices.
 
 3. **Bias Mitigation Strategies**: 
    - **Objective**: Prevent biases in AI algorithms through inclusive practices.
