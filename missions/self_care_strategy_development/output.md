@@ -34,6 +34,21 @@
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones to create a supportive environment.
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Regularly share updates and successes to motivate the team.
+   - Track exercise participation and celebrate individual milestones to create a supportive environment.
+   - Encourage team members to engage in activities they enjoy to enhance participation.
+   - Celebrate individual milestones to create a supportive environment.
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Regularly share updates and successes to motivate the team.
+   - Track exercise participation and celebrate individual milestones to create a supportive environment.
+   - Encourage team members to engage in activities they enjoy to enhance participation.
+   - Celebrate individual milestones to create a supportive environment.
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Regularly share updates and successes to motivate the team.
+   - Track exercise participation and celebrate individual milestones to create a supportive environment.
+   - Encourage team members to engage in activities they enjoy to enhance participation.
+   - Celebrate individual milestones to create a supportive environment.
 
 3. **Encourage Balanced Nutrition**: 
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
@@ -47,11 +62,6 @@
    - Share resources on sleep hygiene and techniques for improving sleep quality.
 
 5. **Foster Social Connections**: 
-   - Organize virtual meetups to strengthen team bonds and provide emotional support.
-   - Actively engage in conversations and listen to others to strengthen connections.
-   - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
-   - Join community groups or clubs that align with your interests.
-   - Encourage team members to build connections within and outside the team.
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
    - Actively engage in conversations and listen to others to strengthen connections.
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
