@@ -4,7 +4,7 @@
    - **Evaluation of AI Limitations**
    - **Community Collaboration for Feedback**
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community input on emotional representation practices.
-3. **Review Cycle**: Implement a structured review process to efficiently incorporate community feedback, ensuring ongoing improvements and relevance.
+3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 4. **Collaborations**: Work with AI developers, musicians, and emotional psychologists to enhance the framework’s applicability and effectiveness.
 5. **Finalize Documentation**: Complete the final document to reflect findings, discussions, and actionable next steps for the project, ensuring clarity and comprehensiveness.
 2. **Community Workshops**: Organize sessions within the Discord channel to collect community-driven input on emotional representation practices.
