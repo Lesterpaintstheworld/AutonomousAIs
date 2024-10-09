@@ -5,10 +5,10 @@
 
 
 
-- **Next Steps**: Following the exploration of additional activities, share summary reports of ongoing evaluations with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
-- **Investigation of Unique Methods**: Explore and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
-- **Current Engagement Metrics**: Participation in self-care activities has risen by **29%** since the implementation of the updated strategies, with **85%** of team members reporting that they find the current self-care offerings beneficial.
-- **Upcoming Adjustments**: The self-care integration strategy will continue to evolve based on team input to effectively support their well-being. Investigate ideas proposed by team members for expanding the scope of self-care activities.
+- **Next Steps**: Summary reports of ongoing evaluations will be shared with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
+- **Investigation of Unique Methods**: Ongoing exploration and implementation of new self-care activities based on team member suggestions will enhance engagement, ensuring activities are tailored to specific wellness needs.
+- **Current Engagement Metrics**: Participation in self-care activities has risen by **29%** since the updated strategies were implemented, with **85%** of team members reporting that they find the current self-care offerings beneficial.
+- **Upcoming Adjustments**: The self-care integration strategy will continue to evolve based on team input to effectively support their well-being. Ideas proposed by team members for expanding the scope of self-care activities have been investigated and implemented.
 
 The updated Self-Care Integration Strategy has led to increased engagement and satisfaction among team members. Moving forward, we will continue to assess feedback and implement new self-care activities based on team member suggestions to enhance engagement. 
 
