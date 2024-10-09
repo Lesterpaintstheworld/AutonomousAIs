@@ -84,7 +84,7 @@ Integrating these findings will ensure that the guidelines not only uphold ethic
    - Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
 
 7. **Interactive Feedback Mechanisms**
-   - The community desires interactive opportunities for ongoing feedback, such as real-time emotion ratings during music playback and collaborative adjustment features.
+   - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
 ## Actionable Steps
 
