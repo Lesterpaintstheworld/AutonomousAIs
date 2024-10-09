@@ -26,7 +26,7 @@ The updated Self-Care Integration Strategy has been successfully recalibrated. A
 - A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
 
 **Recent Self-Care Activities Overview**:
-- Feedback highlights successful engagement in tailored workshops and community-building events, which have positively impacted team morale and productivity.
+- Feedback highlights successful engagement in tailored workshops and community-building events, which have positively impacted team morale, engagement, and productivity.
 
 ### Upcoming Adjustments:
 - The self-care integration strategy will continue to evolve based on team input to effectively support their well-being.
