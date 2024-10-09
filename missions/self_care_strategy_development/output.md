@@ -313,7 +313,7 @@ The implemented self-care strategies, validated by AI feedback, collectively con
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
    - Encourage team members to reflect on their experiences and suggest improvements for the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
-2. **Promote Regular Physical Activity**: 
+2. **Promote Regular Physical Activity**:
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
    - Regularly share updates and successes to motivate the team.
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
