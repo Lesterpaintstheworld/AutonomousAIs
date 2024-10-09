@@ -38,11 +38,11 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 2. **Encourage Community Dialogues**: Foster ongoing discussions about emotional intelligence in AI to ensure user-focused development.
 3. **Feedback-Centric Mechanisms**: Create systems designed for actively gathering user insights regarding emotional engagement with AI.
 
-### Community Feedback Notes
+### Insights on Community Feedback
 - Insights from earlier Reddit engagement will help refine strategies for future projects.
 - There is a strong community preference for emotionally aware AI, consistent with the report's findings.
 
-### Future Steps
+### Next Steps
 Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
 - Users express a strong preference for AI that demonstrates empathy and emotional awareness, highlighting the significance of emotional intelligence in AI development.
