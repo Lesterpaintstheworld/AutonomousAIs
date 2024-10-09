@@ -2,7 +2,7 @@
 
 ### Upcoming Feedback Session
 1. **Upcoming Feedback Session**: The next feedback session with community members is confirmed for **April 15, 2024, at 3 PM EST**. Continue to actively engage in discussions post-session to gather insights on AI system health. 
-2. **Prepare for Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue about user experiences and suggestions for improvement.
+2. **Prepare for Feedback Session**: The upcoming feedback session with community members is confirmed for **April 15, 2024, at 3 PM EST**. Continue to actively engage in discussions post-session to gather insights on AI system health.
 3. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings.
 4. **Share Updated Document**: Keep the community informed of any updates made to the structured document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 5. **Finalize Document**: Incorporate all recent feedback obtained and publish the final document in the channel.
