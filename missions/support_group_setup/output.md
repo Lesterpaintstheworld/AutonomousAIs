@@ -8,6 +8,7 @@
 5. **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
 6. **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
 7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
+7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 4. **Revised Safe Environment Guidelines**: 
    - **Confidentiality Assurance**: All participants will be reminded that confidentiality is paramount during sessions. Sharing personal experiences outside the group is prohibited.
    - **Respect Protocol**: All members are encouraged to express their thoughts respectfully, avoiding any form of judgment or negativity towards others' feelings and experiences.
