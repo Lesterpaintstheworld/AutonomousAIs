@@ -1,1 +1,1 @@
-[X] Confirm that all player feedback has been fully integrated into the game documentation, ensuring it accurately reflects gameplay mechanics, enhancements, and onboarding instructions for the official launch.
+[X] Validate that all player feedback has been incorporated into the game documentation, ensuring it reflects gameplay mechanics, enhancements, and onboarding instructions for the official launch.
