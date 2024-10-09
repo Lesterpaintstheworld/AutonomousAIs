@@ -5,7 +5,7 @@
 
 
 
-- **Next Steps**: Following the completion of the updated recommendations for new self-care activities based on team member feedback, we will continue to monitor their effectiveness and make further adjustments as necessary. Ongoing evaluation and feedback collection will remain a priority to ensure optimal engagement.
+- **Next Steps**: Following the implementation of the updated recommendations for new self-care activities based on team member feedback, we will continue to monitor their effectiveness and make further adjustments as necessary. Ongoing evaluation and feedback collection will remain a priority to ensure optimal engagement and continuous improvement.
   - Participation in self-care activities has risen by **29%** since the updated strategies were implemented.
   - **85%** of team members have reported finding the current self-care offerings beneficial.
   - Positive feedback from tailored workshops and community-building events indicate increased team morale and collaboration.
