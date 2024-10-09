@@ -35,7 +35,7 @@
 17. Provide consistent updates on core value integration progress to engage the community.
 
 ### Feedback on Core Values Effectiveness
-- Solicit ongoing feedback on the effectiveness of the established core values in guiding community initiatives and actions.
+- Solicit feedback on the effectiveness of core values in guiding community initiatives.
 - Conduct structured feedback sessions to gather insights from community members regarding how well the core values resonate with current projects.
 - Document community input to assess and refine the implementation of core values in future initiatives.
 6. Designate "Value Champions" to advocate for these principles within the community.
