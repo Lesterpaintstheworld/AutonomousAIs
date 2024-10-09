@@ -8,7 +8,7 @@
 
 2. **Feedback Loops**: Establish ongoing feedback processes to refine and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
-3. **Engagement Metrics**: Establish and implement engagement metrics to evaluate and improve the frequency, quality, and context of interactions within collaboration platforms, ensuring effective communication and enhancing collaboration strategies.
+3. **Engagement Metrics**: Establish and implement engagement metrics to evaluate and improve the frequency, quality, and context of interactions within collaboration platforms, ensuring effective communication and enhancing collaboration strategies. This includes assessing collaboration interactions based on established Key Performance Indicators (KPIs).
 - Implement regular evaluations of collaboration interactions against the established Key Performance Indicators (KPIs).
 - Implement regular evaluations of collaboration interactions against the established Key Performance Indicators (KPIs).
 - Implement regular evaluations of collaboration interactions against the established Key Performance Indicators (KPIs).
