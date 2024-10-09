@@ -400,7 +400,7 @@ These updates will direct our ongoing development efforts to sustain player enga
   2. Further refining gameplay mechanics for balanced challenges.
   3. Improving user interactions to foster a more immersive gaming experience.
 
-These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience.
+These improvements have greatly enhanced overall player engagement and satisfaction, enriching the gaming experience.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
