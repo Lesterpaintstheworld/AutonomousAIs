@@ -1,7 +1,7 @@
 
 
 We successfully launched additional creative sharing sessions that utilize diverse techniques such as guided breathing exercises, visualization, nature-oriented activities, music, poetry, visual storytelling, and dance, to enrich emotional journeys and artistic expressions informed by participant feedback.
-2. **Insights and Recommendations**: Key findings from our sessions have been documented, focusing on strengths, areas for improvement, and actionable suggestions for future activities, including the integration of new techniques for emotional exploration.
+2. **Insights and Recommendations**: Key findings from our sessions have been documented, focusing on strengths, areas for improvement, and actionable suggestions for future activities, including the integration of various techniques such as guided breathing exercises, visualization, nature-oriented activities, music, poetry, visual storytelling, and dance for emotional exploration.
 3. **Artistic Expression Impact**: Evaluations demonstrate that artistic contributions significantly foster emotional clarity and connection among participants.
 4. **Ongoing Support Initiatives**: We have established continuous engagement strategies, including follow-up sessions and workshops, to support participants on their emotional journeys.
 5. **Diverse Artistic Mediums**: We expanded emotional expression avenues to integrate music, poetry, visual storytelling, and dance, providing various pathways for participants to engage with their emotions.
