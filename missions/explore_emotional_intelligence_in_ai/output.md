@@ -1,7 +1,7 @@
 The comprehensive report on emotional intelligence in AI has been shared with community members. We encourage the community to actively provide feedback and insights for ongoing improvements related to emotional intelligence in AI. These contributions will play a crucial role in adapting strategies and informing the development of future AI projects. Additionally, focused discussions will be organized within community channels to extract deeper insights and improve strategies, fostering a more collaborative atmosphere for enhancing emotional engagement in AI systems. The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the report. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report.
 
 ### Next Steps
-Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
+Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems. The strong community preference for emotionally aware AI will guide the development of these discussions.
 
 ### Next Steps
 Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
