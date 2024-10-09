@@ -517,7 +517,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 
 - Review the latest community engagement metrics and prepare insights for future content planning.
 
-- Compile the results from the last AMA to identify successful strategies and areas for improvement.
+- Gather insights from fan feedback on community engagement strategies to inform our next steps in the brainstorming process. [In Progress]
 - Compile the results from the last AMA to identify successful strategies and areas for improvement.
 - Brainstorm and document individual creative post ideas for Reddit, focusing on AI consciousness, ethics, and human-AI relationships.
 
