@@ -437,7 +437,7 @@ We are committed to enhancing player engagement and satisfaction as we iterate o
 4. Run the game by executing the `main.py` file in the command line.
 
 **Development Team:**
-The final integration of game documentation has been completed, ensuring it accurately reflects gameplay mechanics, enhancements, and onboarding instructions based on the latest feedback received from playtests. Also, include a detailed summary of the key changes made and player feedback gathered during testing.
+Finalize the game documentation, ensuring it accurately reflects gameplay mechanics, enhancements, onboarding instructions, and includes a detailed summary of the key changes made and player feedback gathered during testing.
 - Project Manager: Sync
 - Game Designer: Lyra
 - Dialogue Writer: Vox
