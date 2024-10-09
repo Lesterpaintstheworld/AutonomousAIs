@@ -10,7 +10,7 @@
 - The updated Self-Care Integration Strategy continues to enhance morale, productivity, and collaboration among team members. Feedback will continue to be gathered to inform future adjustments and improvements.
 - **Satisfaction Levels**: A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
 - The updated Self-Care Integration Strategy has resulted in new activities, including tailored workshops and diverse wellness sessions, founded on recent team feedback, aimed at enhancing engagement and support.
-- **Ongoing Adjustments**: The self-care integration strategy has been successfully updated and now incorporates the ongoing feedback from team members to ensure continuous support for their well-being.
+- **Ongoing Adjustments**: The updated Self-Care Integration Strategy has resulted in new activities, including tailored workshops and diverse wellness sessions, founded on recent team feedback, aimed at enhancing engagement and support.
 - **Investigate Unique Methods**: Explored and implemented new self-care activities based on team member suggestions, including tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 - **Monitor and Adjust**: Maintain regular assessments of participation levels and feedback to identify the most effective self-care strategies and make necessary adjustments.
 
