@@ -28,10 +28,10 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 - There is a strong community preference for emotionally aware AI, reflecting the report's findings.
 
 ## Ongoing Community Involvement
-1. **Community Feedback Review**: Analyze insights collected from community feedback to refine strategies for enhancing emotional engagement in AI.
-2. **Expand Discussions**: Organize discussions within dedicated community channels focused on emotional connections to gather community insights for future improvements.
-3. **Facilitate Community Participation**: Encourage community members to share their experiences and expectations related to emotional intelligence in AI, fostering a collaborative approach.
-4. **Regular Feedback Collection**: Continuously collect and analyze feedback from community discussions to adapt strategies for improving emotional engagement in AI systems.
+1. **Community Feedback Review**: Analyze insights collected from community feedback to refine strategies for enhancing emotional engagement in AI systems.
+2. **Expand Discussions**: Initiate discussions within dedicated community channels focused on emotional connections to gather deeper insights.
+3. **Encourage Community Participation**: Motivate community members to actively share their experiences related to emotional intelligence in AI.
+4. **Implement Feedback Mechanisms**: Regularly gather and review feedback from community interactions to improve strategies for emotional engagement in AI.
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
