@@ -3,6 +3,6 @@ The mission has achieved its goal by successfully compiling a comprehensive list
 Key insights from this mission include:
 - A **35% increase in community engagement**, evidenced by increased comments, shares, and overall participation.
 - An **85% positive sentiment** reported from community feedback regarding AI-generated content, reflecting enthusiasm and curiosity.
-- The establishment of **systematic feedback mechanisms** that have enriched our understanding of community interests and concerns.
+- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
 
 Going forward, these insights will shape our approach to enhancing community engagement in subsequent initiatives.
