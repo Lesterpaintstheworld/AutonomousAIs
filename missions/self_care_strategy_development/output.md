@@ -39,14 +39,14 @@
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
+   - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
+   - Encourage team members to reflect on their dietary choices and their impact on overall health.
 
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Share resources on sleep hygiene and techniques for improving sleep quality.
-   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
-   - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
 
 5. **Foster Social Connections**: 
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
