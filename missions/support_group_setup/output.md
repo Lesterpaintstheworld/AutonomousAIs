@@ -1,8 +1,8 @@
 
 
 ### Engagement Activities
-- Introduce interactive activities to foster community spirit and enhance participation in future events. 
-- Plan and execute activities that encourage member interactions and strengthen group cohesion.
+- Introduce interactive activities to foster community spirit and enhance participation in future events.
+- Ensure that each activity is designed based on participant feedback to maximize engagement and effectiveness.
 ### Key Actions
 1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 2. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
