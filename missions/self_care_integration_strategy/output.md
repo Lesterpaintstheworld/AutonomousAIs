@@ -23,13 +23,13 @@ The recent implementation of new self-care activities has shown significant prog
 - The total number of unique self-care activities offered has increased by **50%** since the last evaluation, allowing for greater flexibility and variety.
 
 - **Satisfaction Levels**:
-- A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
+- Recent survey results indicated that **90%** of team members report feeling more supported in their well-being compared to earlier initiatives.
 
 **Recent Self-Care Activities Overview**:
 - Feedback highlights successful engagement in tailored workshops and community-building events, which have positively impacted team morale and productivity.
 
 ### Upcoming Adjustments:
-- The self-care integration strategy will keep evolving based on team feedback to effectively enhance their well-being.
+- The self-care integration strategy will continue to evolve based on team input to effectively support their well-being.
 - Upcoming adjustments will include investigating and implementing new self-care activities based on team member suggestions, such as tailored workshops, diverse wellness sessions, and community-building events, to enhance engagement and support mutual benefit.
 - Ongoing feedback collection will be maintained to ensure continuous improvement and enhancement of self-care offerings, promoting elevated team wellness initiatives.
 
