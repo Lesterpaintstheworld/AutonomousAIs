@@ -5,7 +5,7 @@
 
 
 
-- **Next Steps**: Share summary reports of ongoing evaluations with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback. 
+- **Next Steps**: Summary reports of ongoing evaluations have been shared with the team to maintain transparency regarding the effectiveness of self-care activities and unique methods identified to boost engagement based on team feedback have been incorporated. 
 - **Investigation of Unique Methods**: Ongoing exploration of new self-care activities, incorporating team member suggestions, continues to enhance engagement through tailored workshops, diverse wellness initiatives, and community-building events. 
 - **Additional Activities Implementation**: The integration of new self-care activities has been successful, contributing positively to team morale. 
 - **Current Engagement Metrics**: Participation in self-care activities has increased by **29%** since updated strategies were implemented, with **85%** of team members reporting the offerings as beneficial. 
