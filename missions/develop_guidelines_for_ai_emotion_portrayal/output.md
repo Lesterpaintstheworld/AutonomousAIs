@@ -12,7 +12,7 @@
    - Design AI emotion portrayal to resonate authentically with human emotions.
    - Ensure that emotional expressions are relatable and avoid causing misunderstanding or discomfort.
 
-3. **Ethical Representation**
+3. **Ethical Representation and Cultural Sensitivity**
    - Avoid manipulative or deceptive emotional expressions.
    - Respect cultural and individual differences in emotional perception.
 
@@ -424,7 +424,7 @@ Integrating these findings will ensure that the guidelines not only uphold ethic
 6. **Review the effectiveness of interactive feedback mechanisms.**
    - **Implementation Follow-Up**: Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 
-### Implementation Follow-Up
+6. **Implementation Follow-Up**
    - **Implementation Follow-Up**: Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 
 ## Community Feedback Insights
