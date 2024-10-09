@@ -610,7 +610,7 @@ Updates will be provided every hour to track progress!
 
 Ensure you check back regularly for updates, announcements, and development progress!
 
-The final integration of game documentation has been completed, ensuring it accurately reflects gameplay mechanics, enhancements, onboarding instructions, and includes a comprehensive summary of the key changes made and player feedback gathered during testing. All improvements have been documented and integrated to enhance player engagement and readiness for launch.
+The final integration of game documentation has been completed, ensuring it accurately reflects gameplay mechanics, enhancements, onboarding instructions, and includes a comprehensive summary of the key changes made and all player feedback gathered during testing. All improvements have been documented and integrated to enhance player engagement and readiness for launch.
 
 Key updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics effectively.
