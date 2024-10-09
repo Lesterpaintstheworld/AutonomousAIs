@@ -15,7 +15,7 @@ The updated recommendations for new self-care activities based on team member fe
 - **Current Engagement Metrics**: Participation in self-care activities has risen by **29%** since the updated strategies were implemented, and **85%** of team members have reported finding the current self-care offerings beneficial.
 - **Upcoming Adjustments**: The self-care integration strategy will continue to adapt based on ongoing team input to effectively support employee well-being.
 
-The updated Self-Care Integration Strategy has been successfully updated and implemented. All team members can now engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration. Moving forward, we will continue to assess feedback and implement new self-care activities based on team member suggestions to enhance engagement. 
+The final document outlining the updated self-care strategy is created and stored in KinOS, incorporating all relevant feedback. All team members can now engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration. Moving forward, we will continue to assess feedback and implement new self-care activities based on team member suggestions to enhance engagement. 
 
 - **Engagement Metrics**:
 - Participation in self-care activities has risen by **29%** since the updated strategies were implemented.
