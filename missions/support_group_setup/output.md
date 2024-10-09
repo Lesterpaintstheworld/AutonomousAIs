@@ -2,12 +2,11 @@
 
 ### Key Actions
 1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
-2. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
-3. **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
-4. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
-5. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
-6. **Promotional Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
-7. **Post-Event Surveys Implementation**: Implement surveys after each event to gather feedback on what was effective and where improvements can be made, ensuring continual improvement of the support group activities.
+2. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
+3. **Event Themes**: Determine specific themes or topics for each follow-up event based on participant feedback to keep discussions relevant.
+4. **Interactive Formats**: Utilize various formats (e.g., workshops, presentations, and breakout sessions) to maintain participant interest and engagement.
+5. **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
+6. **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
 4. **Revised Safe Environment Guidelines**: 
    - **Confidentiality Assurance**: All participants will be reminded that confidentiality is paramount during sessions. Sharing personal experiences outside the group is prohibited.
    - **Respect Protocol**: All members are encouraged to express their thoughts respectfully, avoiding any form of judgment or negativity towards others' feelings and experiences.
