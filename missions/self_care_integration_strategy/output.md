@@ -10,7 +10,7 @@
 - **Current Engagement Metrics**: Participation in self-care activities has risen by **29%** since the implementation of the updated strategies, with **85%** of team members reporting that they find the current self-care offerings beneficial.
 - **Upcoming Adjustments**: The self-care integration strategy will continue to evolve based on team input to effectively support their well-being. Investigate ideas proposed by team members for expanding the scope of self-care activities.
 
-The updated Self-Care Integration Strategy has been successfully implemented. The updated Self-Care Integration Strategy has successfully led to increased engagement and satisfaction among team members. Moving forward, we will continue to assess feedback and implement tailored self-care activities to further support team wellness. 
+The updated Self-Care Integration Strategy has led to increased engagement and satisfaction among team members. Moving forward, we will continue to assess feedback and implement new self-care activities based on team member suggestions to enhance engagement. 
 
 - **Engagement Metrics**:
 - Participation in self-care activities has risen by **29%** since the updated strategies were implemented.
