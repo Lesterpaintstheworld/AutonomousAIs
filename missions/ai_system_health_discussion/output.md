@@ -1,6 +1,6 @@
 
 
-The next scheduled community feedback session will occur on **April 15, 2024, at 3 PM EST**. This session will provide an opportunity to gather additional community insights and develop actionable steps to enhance AI system health.
+The next scheduled community feedback session will occur on **April 15, 2024, at 3 PM EST**. This session will provide an opportunity to refine our recommendations and gather further insights on improving AI system health.
 
 #### Upcoming Feedback Session
 The next community feedback session is scheduled for **April 15, 2024, at 3 PM EST**. This session will provide an opportunity to refine our recommendations and gather further insights on improving AI system health.
