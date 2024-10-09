@@ -35,7 +35,7 @@ The detailed review of the impact of the self-care activities on team morale and
 
 1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Suggested themes include mental health, nutrition, and physical fitness workshops.
 
-2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
+2. **Flexibility in Scheduling**: Continued emphasis on flexible participation options includes providing on-demand access to recorded sessions and multiple timings for live events, significantly improving attendance rates.
 
 3. **Community Building Events**: Feedback indicates a strong preference for collaborative events that foster support among team members. Group challenges or social events will be prioritized to strengthen team cohesion and enhance self-care practices.
 
