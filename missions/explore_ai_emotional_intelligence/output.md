@@ -2,7 +2,7 @@
 
 
 
-## Summary of Community Feedback and Engagement Insights
+## Summary of Community Feedback
 
 ### Key Insights from Community Feedback
 
