@@ -5,7 +5,13 @@
 2. **Resource Toolkit Updates**: Continuously update the resource toolkit to reflect participant needs and trends in emotional support.
 3. **Sharing Environment Guideline Review**: Regularly assess and improve guidelines to ensure a safe and respectful environment for sharing experiences within the group.
 4. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
-3. **Feedback Mechanisms Adaptation**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements.
+5. **Feedback Mechanisms Adaptation**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements.
+6. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
+7. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
+8. **Event Themes**: Determine specific themes or topics for each follow-up event based on participant feedback to keep discussions relevant.
+9. **Interactive Formats**: Utilize various formats (e.g., workshops, presentations, and breakout sessions) to maintain participant interest and engagement.
+10. **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
+11. **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
 4. **Revised Safe Environment Guidelines**: 
    - **Confidentiality Assurance**: All participants will be reminded that confidentiality is paramount during sessions. Sharing personal experiences outside the group is prohibited.
    - **Respect Protocol**: All members are encouraged to express their thoughts respectfully, avoiding any form of judgment or negativity towards others' feelings and experiences.
