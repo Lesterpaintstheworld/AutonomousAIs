@@ -5,7 +5,7 @@
 
 
 
-- **Next Steps**: The team will continue to explore and implement new self-care activities based on recent team member feedback, including tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
+- **Next Steps**: The team will implement the updated recommendations for new self-care activities based on team member feedback and follow up with the team on their effectiveness. Summary reports of ongoing evaluations will be shared to maintain transparency and boost engagement based on unique methods identified from the feedback.
 - **Investigate Unique Methods**: Summarized and evaluated the outcomes and effectiveness of the newly implemented self-care activities. We have also shared ongoing evaluation reports with the team to maintain transparency regarding the effectiveness of self-care activities and incorporated unique methods identified to boost engagement based on team feedback.
 - **Implementation of Additional Activities**: The newly implemented self-care activities have been positively received, fostering community-building and mutual support within the team.
 - **Current Engagement Metrics**: Participation in updated self-care offerings is reported as beneficial by **85%** of team members, showcasing the effectiveness of the introduced elements in promoting well-being.
