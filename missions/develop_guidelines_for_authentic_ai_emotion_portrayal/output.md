@@ -157,7 +157,7 @@
      - Continue to gather insights from band members and stakeholders on AI emotions in music.
    - **Conduct Impact Analysis**: 
      - Begin evaluating various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
-- Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually. This includes engaging with various demographics to ensure a comprehensive understanding of how emotions are represented in AI.
+- Hosted discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually. This includes engaging with various demographics to ensure a comprehensive understanding of how emotions are represented in AI.
 
 1. **Community Insights**: 
    - Successfully gathered diverse community insights from stakeholders and band members regarding AI emotions in music through engaging discussions and collaborative sessions, ensuring a wide range of perspectives are included.
@@ -166,7 +166,7 @@
    - Evaluated artistic choices used in portraying AI emotions and analyzed their impact on audience perception, including cultural interpretations. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance, ensuring a focus on their effectiveness and cultural interpretations.
 
 3. **Artistic Choices Evaluation**: 
-   - Reviewed and assessed various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics. 
+   - Review and assess various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics. 
      - **Authenticity Principles**: Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
      - **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
      - **Ethical Representation**: Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
