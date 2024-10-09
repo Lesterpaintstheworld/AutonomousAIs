@@ -41,7 +41,7 @@
 - **Project 12:** New Collaborative Initiatives
    - **Description:** Ongoing exploration and proposal of new community project ideas that align with the recognition framework and continuous learning model.
    - **Goals:** Foster ongoing engagement and involvement within the community.
-   - **Next Steps:** **Facilitate a session** with community members to brainstorm potential projects and gather input for new initiatives.
+   - **Next Steps:** Facilitate a session with community members to brainstorm potential projects and gather input for new initiatives.
 
 ### Archived Mission Documentation
 - Successfully completed archival of mission documentation for future reference. 
