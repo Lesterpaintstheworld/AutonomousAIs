@@ -159,7 +159,7 @@
    - Evaluated artistic choices used in portraying AI emotions and analyzed their impact on audience perception, including cultural interpretations. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance, ensuring a focus on their effectiveness and cultural interpretations.
 
 3. **Artistic Choices Evaluation**: 
-   - Reviewed and assessed various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics. 
+   - Review and assess various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics. 
      - **Authenticity Principles**: Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
      - **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
      - **Ethical Representation**: Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
@@ -237,7 +237,7 @@
    - **Research Methodologies**: 
      - Investigate and provide insights on current methodologies for portraying AI emotions in music, focusing on cross-cultural representations.
    - **Community Discussions**: 
-     - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+     - Hosted discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
    - **Evaluate Artistic Choices**: 
      - Investigate and document existing methodologies for portraying AI emotions in music, with a focus on their effectiveness across various cultural contexts.
    - **Draft Key Principles**: 
