@@ -386,7 +386,7 @@ Incorporating these insights will guide our ongoing development efforts to maint
 3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on user suggestions and feedback.
 
-We remain committed to enhancing player engagement and satisfaction by integrating final feedback and polishing the gameplay experience for the official launch. Key updates include:
+We remain committed to enhancing player engagement and satisfaction as we iterate on our game development efforts. Key updates include:
 1. **Onboarding Clarity**: Further enhancing instructions to assist new players.
 2. **Gameplay Mechanics**: Continuously refining the balance and engagement of challenges for a more enjoyable experience.
 3. **User Interactions**: Ongoing improvements to create a more immersive gaming experience.
