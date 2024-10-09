@@ -5,7 +5,7 @@
 2. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
 3. **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
 4. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
-5. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
+5. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events, such as icebreaker games, group discussions, and collaborative projects to encourage bonding among participants.
 6. **Promotional Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
 7. **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
 4. **Revised Safe Environment Guidelines**: 
