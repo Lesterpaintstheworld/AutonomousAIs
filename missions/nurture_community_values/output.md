@@ -3,7 +3,7 @@
 ### Summary of Achievements and Next Steps
 (Updated on October 2023)
 - **Action Completed:** Successfully archived mission documentation, ensuring all insights and contributions are preserved for future reference.
-- **Next Steps:** Initiate new community projects leveraging the recognition framework and the continuous learning model established. This review will utilize the insights gained during discussions to ensure that community values are upheld and celebrated in all activities.
+- **Next Steps:** Initiate new community projects leveraging the recognition framework and the continuous learning model established. This will ensure that community values are upheld and celebrated in all activities while utilizing insights gained from previous discussions.
 - **Results of Review:** Implement suggested improvements and new initiatives based on feedback.
 - **Recognition of Contributions:** Recognize and celebrate contributions through the updated recognition framework.
 - **Continuous Learning Initiatives:** Plan additional educational resources and workshops to foster continuous learning within the community.
