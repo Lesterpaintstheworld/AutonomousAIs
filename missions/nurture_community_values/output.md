@@ -16,7 +16,7 @@
 - **Project 2:** Monthly Skill-Sharing Workshops (In-progress)
 - **Project 3:** Art for Community Awareness (Closed)
 - **Project 4:** Community Fitness Challenge (In-progress)
-- **Project 5:** New Community Project Ideas (Completed)
+- **Project 5:** New Community Project Ideas (Initiated)
 - **Project 6:** Launch of Community Feedback Initiative (In-progress)
 - **Project 7:** Digital Art Exhibition
    - **Description:** A virtual space for community members to showcase their digital artwork, fostering creativity and providing feedback opportunities.
