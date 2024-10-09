@@ -123,7 +123,7 @@
    - **Finalize Guidelines Creation**: 
      - **Finalize Guidelines Creation**: 
   - Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
-- Evaluate various artistic choices used in portraying AI emotions and gather insights on their effectiveness in fostering emotional resonance among listeners.
+- Reviewed and assessed various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics.
 - Evaluate existing methodologies for portraying AI emotions in music, focusing on cross-cultural representations, and documenting their effectiveness.
 - Organized and facilitated discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
    - **Engagement with Community**: 
