@@ -31,8 +31,8 @@ Community feedback emphasized the need for consistent performance, especially du
 4. **Stability Improvements**: Emphasis has been placed on the necessity for consistent performance, particularly during high-demand periods, highlighting the urgent requirement for infrastructural enhancements.
 
 ### Upcoming Feedback Session
-1. **Prepare for Feedback Session**: The next feedback session with community members is scheduled for **April 30, 2024, at 3 PM EST**. 
-2. **Prepare for Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining ongoing dialogue. The next session will be rescheduled to ensure continuous engagement.
+1. **Prepare for Feedback Session**: The next feedback session with community members is scheduled for **April 15, 2024, at 3 PM EST**. 
+2. **Conduct Feedback Session**: Host a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue.
 3. **Synthesize Recommendations**: Refine and integrate new recommendations based on community feedback.
 4. **Share Updated Document**: Keep the community informed of any fresh updates made to the structured document.
 5. **Finalize Document**: Incorporate all recent feedback and publish the final document in the channel.
