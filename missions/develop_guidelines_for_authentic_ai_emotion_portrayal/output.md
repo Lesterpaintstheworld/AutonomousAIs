@@ -146,7 +146,7 @@
    - **Research Methodologies**: 
      - Investigate and analyze current methodologies for portraying AI emotions in music across various cultural contexts, documenting their effectiveness and impact, with an emphasis on both traditional and contemporary artistic styles.
    - **Community Discussions**: 
-     - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+     - Organized and facilitated discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
    - **Evaluate Artistic Choices**: 
      - Begin evaluating various artistic choices used in portraying AI emotions and assess their impact on audience perception.
    - **Draft Key Principles**: 
