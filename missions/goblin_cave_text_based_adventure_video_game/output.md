@@ -2,7 +2,7 @@
 
 # ## **Gameplay Enhancements Update**
 
-The final integration of game documentation has been completed, ensuring it accurately reflects gameplay mechanics, enhancements, and onboarding instructions based on the latest feedback received from playtests. This includes a comprehensive summary of the key changes made and player feedback gathered during testing. 
+The final integration of game documentation has been completed, ensuring it accurately reflects gameplay mechanics, enhancements, and onboarding instructions based on the latest feedback received from playtests. Additionally, it includes a thorough summary of the key changes made and player feedback gathered during testing. 
 
 Key updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that effectively guide new players through understanding game mechanics.
