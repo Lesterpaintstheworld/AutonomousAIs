@@ -1,7 +1,7 @@
 
 
 ### Summary of Achievements and Next Steps
-(Updated on November 2, 2023)
+(Updated on [Insert current date here])
 
 #### Mission Documentation
 - The mission documentation has been archived, ensuring all insights and contributions are preserved for future reference.
