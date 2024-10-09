@@ -30,7 +30,7 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 ## Ongoing Community Involvement
 1. **Community Feedback Review**: Analyze insights collected from community feedback to refine strategies.
 2. **Expand Discussions**: Initiate discussions within dedicated community channels to explore emotional connections and gather insights for future enhancements.
-3. **Ongoing Community Involvement**: Ensure continuous community participation in the development and refinement of emotional intelligence in AI.
+3. **Community Feedback Review**: Analyze insights collected from community feedback to refine strategies.
 4. **Expand Discussions**: Initiate discussions within dedicated community channels to explore emotional connections and gather insights for future enhancements.
 
 ### Key Takeaways
