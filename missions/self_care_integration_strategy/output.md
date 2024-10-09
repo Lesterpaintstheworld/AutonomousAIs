@@ -7,10 +7,10 @@
 
 - **Summary of Outcomes**: The updated self-care activities have demonstrated measurable improvements in team morale and productivity, as evidenced by recent engagement metrics indicating sustained participation in the enhanced self-care initiatives and tailored activities.
 - **Engagement Metrics**: Currently, **87%** of team members report the updated self-care offerings as beneficial, emphasizing the effectiveness of the newly introduced workshops and wellness sessions.
-- **Satisfaction Levels**: Recent surveys reveal that **92%** of team members feel more supported regarding their well-being since the last strategic update, highlighting significant improvements in team satisfaction.
+- **Satisfaction Levels**: Recent surveys reveal that **91%** of team members feel more supported regarding their well-being since the last strategic update, highlighting significant improvements in team satisfaction.
 - **Additional Activities and Feedback**: Ongoing incorporation of new self-care activities based on direct team feedback continues to enhance engagement. Regular assessments will inform further refinements to better serve team needs.
-- **Upcoming Adjustments**: The revised Self-Care Integration Strategy continues to evolve with the addition of new activities such as focused wellness workshops and enriching community-building events based on ongoing team feedback.
-- **Explore Unique Methods**: Continued exploration of new self-care activities as per team member suggestions, including customized workshops, diverse wellness initiatives, and collaborative support events.
+- **Upcoming Adjustments**: The revised Self-Care Integration Strategy continues to evolve with the addition of new activities such as tailored workshops and diverse wellness sessions based on ongoing team feedback.
+- **Explore Unique Methods**: Continued exploration of new self-care activities as per team member suggestions, including customized workshops, diverse wellness initiatives, and community-building events.
 - **Continuous Monitoring and Adjustment**: Ongoing evaluations of participation rates and feedback collection to identify the most effective self-care strategies and implement necessary adjustments.
 
 The revamped Self-Care Integration Strategy has introduced new activities such as tailored workshops and diverse wellness sessions based on recent team feedback, focusing on enhancing engagement and support. 
