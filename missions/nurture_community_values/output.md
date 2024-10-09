@@ -2,7 +2,7 @@
 
 ### Summary of Achievements and Next Steps
 (Updated on October 2023)
-- **Action Completed:** Archived mission documentation, ensuring all insights and contributions are preserved for future reference.
+- **Action Completed:** Archived mission documentation for future reference to ensure all insights and contributions are preserved.
 - **Next Steps:**
   - **Continue Daily Discussions**: Maintain the rhythm of discussions and introduce new topics each week.
   - **Broaden Learning Resources**: Expand the library of available educational materials and organize further workshops.
