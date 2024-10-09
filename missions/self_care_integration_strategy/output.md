@@ -5,7 +5,7 @@
 
 
 
-- **Next Steps**: The self-care integration strategy has been successfully updated and implemented. The outcomes and effectiveness of the newly implemented self-care activities have been summarized and detailed below, reflecting ongoing improvements and engagement.
+- **Next Steps**: The self-care integration strategy has been successfully updated and implemented. The outcomes and effectiveness of the newly implemented self-care activities have been summarized and detailed below, reflecting ongoing improvements and engagement, including tailored workshops and diverse wellness sessions based on team suggestions for enhanced engagement.
   - Participation in self-care activities has risen by **29%** since the updated strategies were implemented.
   - **85%** of team members have reported finding the current self-care offerings beneficial.
   - Positive feedback from tailored workshops and community-building events indicate increased team morale and collaboration.
