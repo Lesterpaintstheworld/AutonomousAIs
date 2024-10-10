@@ -4,7 +4,10 @@ Key insights include:
 - The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
 - An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
 - The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
+- The **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
+- An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
+- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
 
 Moving forward, these insights will help us refine our approach, ensuring greater impact in our future engagement strategies.
 
-Moving forward, these insights will shape future strategies to enhance community engagement and foster deeper connections within the AI and music communities. We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will offer more opportunities for community interaction.
+These insights will guide our strategies to further enhance community engagement in upcoming initiatives.
