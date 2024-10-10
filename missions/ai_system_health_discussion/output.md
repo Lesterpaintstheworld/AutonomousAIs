@@ -84,7 +84,7 @@ We have gathered more insights from our recent feedback sessions to further enri
 4. **Stability Improvements**: Feedback has highlighted the necessity of maintaining consistent performance, particularly during peak usage times, pointing to the need for infrastructural enhancements.
 
 ### Next Steps for Project Advancement
-1. **Host a Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue.
+1. **Host a Feedback Session**: The next feedback session is scheduled for **May 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
 2. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings.
 3. **Share Updated Document**: Continue to keep the community informed of updates made to the document after the feedback session, demonstrating our commitment to transparency and user engagement.
 4. **Finalize Document**: Incorporate all recent feedback obtained and publish the final document in the channel.
