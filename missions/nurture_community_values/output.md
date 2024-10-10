@@ -3,7 +3,7 @@
 ### Summary of Achievements and Next Steps
 (Updated on December 2023)
 - **Action Completed:** Recognized and celebrated member contributions through the updated recognition framework, enhancing documentation of insights and contributions for ongoing improvement. Continued to expand the library of educational materials and organized additional workshops to enhance continuous learning within the community.
-- **Next Steps:** Broaden Learning Resources: Expand the library of available educational materials and organize further workshops. Additionally, integrate feedback from community members to ensure continuous improvement.
+- **Next Steps:** Broaden Learning Resources: Expand the library of available educational materials and organize further workshops. Additionally, integrate feedback from community members to ensure continuous improvement. Initiated new collaborative projects that enhance member engagement and embody community principles.
 - Initiated new collaborative projects that enhance member engagement and embody community principles, including a Digital Art Exhibition, Youth Mentorship Program, Intergenerational Dialogue Series, Creative Collective, and Skills for Success Series.  
 - Implement additional feedback from community members to iterate on current projects and proposals for future initiatives.  
 - Broaden Learning Resources: Expand the library of educational materials and organize further workshops to enhance continuous learning within the community.  
