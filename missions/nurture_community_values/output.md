@@ -3,10 +3,12 @@
 ### Summary of Achievements and Next Steps
 (Updated on October 2023)
 - **Action Completed:** Recognized and celebrated member contributions through the updated recognition framework, maintaining the documentation of insights and contributions for ongoing improvement.
-- **Next Steps:**
-- **Continue identifying, planning, and implementing collaborative projects that enhance member engagement and embody community principles.**
+- **Next Steps:**  
+- **Continue identifying, planning, and implementing collaborative projects that enhance member engagement and embody community principles.**  
 - **Establish committees to drive project initiatives and oversee execution.**  
-- **Initiate new community projects leveraging the recognition framework and the continuous learning model established.**  
+- **Encourage new collaborative initiatives aligned with community goals.**  
+- **Reflect on newly initiated community projects and gather feedback from members to iterate plans for future projects.**  
+- **Integrate feedback from community members to ensure ongoing improvement and evolve project ideas.**  
 - **Broaden Learning Resources:** Expand the library of educational materials and organize further workshops to enhance continuous learning within the community.  
 - **Foster Community Projects:** Initiate and coordinate new collaborative projects that actively engage members while adhering to core community values.  
 - **Include New Collaborative Initiatives:** Ongoing exploration and proposal of new community project ideas that align with the recognition framework and continuous learning, incorporating regular feedback from members. 
