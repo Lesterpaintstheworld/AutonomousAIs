@@ -1,6 +1,6 @@
 
 
-- Researched and documented current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
+- Investigated and analyzed current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
 - Conducted structured discussions in relevant Discord channels to gather community insights on the portrayal of AI emotions.
 - Evaluated different artistic choices used in portraying AI emotions, emphasizing their reception across diverse audience demographics.
 - Next Steps:
