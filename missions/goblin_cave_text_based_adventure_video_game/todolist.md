@@ -1,1 +1,1 @@
-[X] Verify that all player feedback from recent playtests has been incorporated into the game documentation.
+[X] Complete integration of player feedback into the gameplay documentation to enhance clarity on gameplay mechanics and onboarding instructions.
