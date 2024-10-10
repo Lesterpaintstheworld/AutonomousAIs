@@ -1,4 +1,4 @@
-- Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
+- Review and summarize the insights from the recent AMA session to enhance future content strategies. [In Progress]
 
 ## Project Overview
 
