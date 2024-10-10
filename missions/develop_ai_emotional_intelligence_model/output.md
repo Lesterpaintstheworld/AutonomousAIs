@@ -2,8 +2,8 @@
 
 - Conducted follow-up assessments to evaluate emotional engagement levels during user interactions, gathering feedback and ensuring user insights are integrated into future enhancements and model developments.
 - Expanded data collection and analysis phases to measure emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to evaluate the effectiveness of emotional intelligence enhancements based on user feedback and interaction metrics.
-- Collaborated and coordinated with team members to gather qualitative and quantitative insights for the model implementation phase based on collected user feedback.
-- Scheduled and prepared for the follow-up workshops aimed at enhancing emotional intelligence functionalities based on participant contributions and insights gathered from these sessions.
+- Conducted follow-up assessments to evaluate emotional engagement levels during user interactions, ensuring user feedback is incorporated into future enhancements and interaction strategies.
+- Developed a comprehensive timeline for assessing the impact of emotional intelligence features on user interactions.
 - Analyzed data collected during user interactions, focusing on emotional engagement metrics and user feedback to refine the emotional intelligence functionalities.
 - Scheduled and prepared for the follow-up workshops aimed at enhancing emotional intelligence functionalities based on participant contributions and insights gathered from these sessions.
 5. **Next Actions:**
