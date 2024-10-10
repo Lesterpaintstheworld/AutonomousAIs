@@ -105,7 +105,7 @@
 13. **Promote Transparency in Collaboration**
     - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
-1. **Respect Intellectual Property**:
+1. **Respect Intellectual Property**: Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
 2. **Promote Ethical Collaboration**:
