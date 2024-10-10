@@ -11,7 +11,7 @@
 5. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 6. **Finalize Documentation**: Prepare the final document to ensure it accurately reflects all findings, discussions, and next steps for the project, focusing on clarity and comprehensiveness.
 
-2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring that the voices of musicians and emotional psychologists are prioritized in the feedback sessions. These workshops will facilitate a more inclusive approach to defining emotional representation in AI-generated music.
+2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included.
 
 3. **Initial Collaborations**: Establish partnerships with AI developers, musicians, and emotional psychologists to collaboratively refine and enhance the emotional representation guidelines.
 
