@@ -1,4 +1,4 @@
-- Analyze feedback received from the recent AMA sessions to identify key themes and insights for future content development. [In Progress]
+- Compile the final structure of creative post ideas for Reddit based on previous discussions and insights gathered. [In Progress]
 
 ## Project Overview
 
