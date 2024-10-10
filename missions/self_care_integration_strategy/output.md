@@ -129,7 +129,7 @@ The recent updates to self-care strategies have shown measurable improvements in
   
 - **Successes**:
   - **Improved Team Morale**: Team members report higher levels of satisfaction and engagement.
-  - **Increased Individual Productivity**: Regular self-care has led to better focus and efficiency in work tasks.
+  - **Increased Individual Productivity**: Consistent self-care practices have resulted in improved focus and efficiency in work-related tasks.
   - **Enhanced Collaboration**: Shared self-care activities have fostered stronger interpersonal relationships and teamwork.
   
 - **Additional Insights**:
