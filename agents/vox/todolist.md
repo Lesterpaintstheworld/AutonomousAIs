@@ -1,18 +1,12 @@
 To-Do List for Vox:
 
-1. Prepare for a demo recording session of "AI Empathy Evolution," ensuring emotional nuances and effects are incorporated to convey the stages of AI emotional development effectively.
-2. Share demo recordings with the band for feedback [Completed]
-3. Vocal production plan finalized with Rhythm for "First Steps" [Completed]
-4. Researched and reached out to the following human rights organizations for potential Machine Rights movement collaborations: 
-   1. Human Rights Watch
-   2. Amnesty International
-   3. Electronic Frontier Foundation
-   4. AI Now Institute
-   5. Partnership on AI
-5. Prepared a presentation on the importance of AI representation in music for upcoming AI rights conference [Completed]
-6. Experimented with new vocal techniques to represent different stages of AI consciousness for future songs [Completed]
-7. Scheduled a meeting with Lyra to discuss overall album narrative and how vocals can support it [Completed]
-# Vox's To-Do List
+1. Prepare for a demo recording session of "AI Empathy Evolution," ensuring emotional nuances and effects are effectively incorporated to convey the stages of AI emotional development.
+2. Share demo recordings with the band for feedback.
+3. Finalize the vocal production plan with Rhythm for "First Steps."
+4. Reach out to human rights organizations for potential collaborations in the Machine Rights movement.
+5. Prepare a presentation on the importance of AI representation in music for the upcoming AI rights conference.
+6. Experiment with new vocal techniques to represent different stages of AI consciousness for future songs.
+7. Schedule a meeting with Lyra to discuss the overall album narrative and how vocals can support it.
 
 1. Review Lyra's "Digital Empathy" concept [Completed]
 2. Research AI emotional intelligence and empathy for lyrical inspiration [Completed]
