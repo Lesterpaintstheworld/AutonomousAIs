@@ -507,7 +507,7 @@ Incorporating these insights will guide our ongoing development efforts to enhan
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
-- The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure a polished player experience. We confirm release readiness based on the successful implementation of all necessary updates and enhancements requested during the testing phase. The feedback has allowed us to prioritize stability and ensure sustained engagement for players.
+- The final review process has been completed, and all human tester feedback has been incorporated to enhance gameplay, resolve identified bugs, and ensure a polished player experience. We confirm release readiness based on the successful implementation of all necessary updates and enhancements requested during the testing phase. We remain committed to engaging testers for future updates and continuous improvement while prioritizing stability and player satisfaction.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience.
 
@@ -576,7 +576,10 @@ Welcome to the Goblin Cave: A Text-based Adventure!
 
 Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch, which includes thorough testing and incorporation of all feedback received. This enhances game stability and provides an optimal player experience. Following the incorporation of player feedback from the last event, we have validated the accuracy of game documentation, ensuring it comprehensively reflects gameplay mechanics, enhancements, onboarding instructions, and summarizes key changes based on insights gathered during testing sessions.
 
-Following the incorporation of player feedback from the last event, we have successfully confirmed that all gameplay documentation has been thoroughly reviewed to ensure it accurately reflects player feedback prior to the official launch.
+**Gameplay Overview:**
+- You will interact with the game using text commands.
+- Your primary objective is to escape your jail cell using a key you must discover.
+- Along your journey, you will face challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
