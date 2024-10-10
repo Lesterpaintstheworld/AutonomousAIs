@@ -24,10 +24,10 @@ We will organize community workshops to facilitate discussions aimed at refining
 To foster continuous improvement, we will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This ongoing process will ensure that the guidelines remain relevant to evolving ethical standards and audience perspectives. We will establish regular feedback loops, including community discussions, to integrate insights from public forums while ensuring diverse perspectives are acknowledged and enacted in future revisions.
 
 ### Comprehensive Engagement Strategy
-To foster continuous improvement, we will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This ongoing process will ensure that the guidelines evolve to meet the needs and concerns of the community. We will establish regular feedback loops and integrate insights from public forums and discussions, ensuring diverse perspectives are acknowledged and enacted in future revisions. 
+Incorporating insights from ongoing community engagement, we aim to create a more comprehensive and inclusive framework that evolves based on audience feedback and needs. We will establish regular feedback loops and integrate insights from public forums and discussions, ensuring diverse perspectives are acknowledged and enacted in future revisions. 
 
 ### Revised Engagement Strategies
-Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates a comprehensive engagement strategy developed through community workshops.
+Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates strategies based on community feedback.
 
 ### Revised Engagement Strategies
 Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates strategies based on community feedback:
