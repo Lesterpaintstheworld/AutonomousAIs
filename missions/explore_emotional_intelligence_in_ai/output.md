@@ -51,7 +51,7 @@ Discussion threads will be created to further explore topics related to emotiona
 ### Next Steps
 Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
-- Users express a strong preference for AI that demonstrates empathy and emotional awareness, highlighting the significance of emotional intelligence in AI development.
+- Community feedback emphasizes a strong preference for AI systems that embody emotional intelligence and demonstrate empathy, reinforcing the importance of these qualities in AI development.
 
 ### Comprehensive Report on Emotional Intelligence in AI: Version 3.0
 
