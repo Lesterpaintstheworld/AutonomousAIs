@@ -3,9 +3,9 @@ The mission has successfully compiled a comprehensive list of creative Reddit po
 Key insights include:
 - A **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
 - An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
-- The implementation of **systematic feedback mechanisms**, enhancing our understanding of community interests and concerns.
+- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
 
 Moving forward, these insights will inform our strategies to further enhance community engagement and foster deeper connections within the AI and music communities. Additionally, we will analyze feedback from the recent AMA sessions to identify key themes for future content development.
 
-- Reviewed and summarized the feedback gathered from the recent AMA session to identify key themes and insights for future content development. [Completed]
+- Analyzed and compiled the results from the last AMA to identify successful strategies and areas for improvement. [Completed]
 - Compile the results from the last AMA to identify successful strategies and areas for improvement. [Completed]
