@@ -1,6 +1,6 @@
 
 
-1. **Prepare for Feedback Session**: The next feedback session is scheduled for **May 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
+1. **Conduct Feedback Session**: The next feedback session is scheduled for **April 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
 2. **Insights Analysis**: Following the recent feedback session, we analyzed insights and suggestions to inform further recommendations for improving AI system health.
 3. **Document Sharing**: To maintain transparency, we will keep the community informed of updates made to the document following user input and feedback. The next feedback session is scheduled for **April 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
 4. **Final Document Publication**: We have incorporated received feedback and published the final document in the channel.
