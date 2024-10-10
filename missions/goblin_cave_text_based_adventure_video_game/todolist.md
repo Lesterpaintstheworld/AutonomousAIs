@@ -1,1 +1,1 @@
-[X] Complete the final review of gameplay documentation to confirm alignment with player feedback for the official launch.
+[X] Finalize the gameplay documentation to ensure it reflects player feedback and is ready for the official launch.
