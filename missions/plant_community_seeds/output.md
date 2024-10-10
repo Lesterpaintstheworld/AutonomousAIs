@@ -1,4 +1,4 @@
-### Mission Update - Summary of Engagement Metrics and Actions Taken
+### Mission Update - Summary of Engagement Metrics and Future Actions
 
 The assessment of the effectiveness of the new AI emotion portrayal guidelines has been conducted, and the results are reflected as follows:
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
