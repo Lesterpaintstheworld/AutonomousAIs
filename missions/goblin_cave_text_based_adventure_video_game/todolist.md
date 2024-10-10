@@ -1,1 +1,1 @@
-[X] Confirm that all gameplay documentation has been reviewed and finalized, ensuring it accurately reflects player feedback prior to the official launch.
+[X] Validate that all gameplay documentation has been finalized and reflects player feedback accurately before the official launch.
