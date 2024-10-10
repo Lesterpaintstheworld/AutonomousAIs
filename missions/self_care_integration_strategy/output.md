@@ -368,7 +368,7 @@ The team will continue to explore and implement additional self-care activities 
 
 The Self-Care Integration Strategy will continue to evolve based on team input to effectively support their well-being. We will investigate and implement new self-care activities based on team member suggestions to further enhance engagement, including tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 
-The self-care integration strategy has been successfully updated and implemented. All team members can now engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration.
+The updated Self-Care Integration Strategy has been implemented successfully. All team members are now participating in flexible self-care activities integrated into their daily workflows, leading to improved morale, increased productivity, and strengthened collaboration.
 ```
 ```
 
