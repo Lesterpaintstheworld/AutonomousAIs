@@ -55,7 +55,7 @@ Based on the collected community feedback, the following insights have been gath
 
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
-## Best Practices
+## Best Practices (Updated)
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
@@ -94,7 +94,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
-### Community Feedback Insights
+### Key Insights from Community Feedback
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable, preferring subtle and nuanced expressions over exaggerated ones.
 
