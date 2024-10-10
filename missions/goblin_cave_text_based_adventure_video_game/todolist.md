@@ -1,1 +1,1 @@
-[X] Verify that all player feedback from recent playtests has been incorporated into the game documentation.
+[X] Assess the effectiveness of the new AI emotion portrayal guidelines and how they should influence future projects and performances. [In Progress]
