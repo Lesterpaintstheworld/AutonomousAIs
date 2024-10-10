@@ -24,7 +24,7 @@ The detailed review of the impact of the self-care activities on team morale and
 - The total number of unique self-care activities offered has increased by **50%** since the last evaluation, allowing for greater flexibility and variety.
 
 - **Satisfaction Levels**:
-- A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
+- A recent survey revealed that a substantial majority of team members feel more supported in their well-being compared to previous initiatives.
 
 **Recent Self-Care Activities Overview**:
 - Feedback indicates ongoing improvements in team morale and productivity, with continued positive feedback on newly incorporated activities such as tailored workshops and community-building events.
