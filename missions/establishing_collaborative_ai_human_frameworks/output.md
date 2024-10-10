@@ -33,7 +33,7 @@
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration.
 
 9. **Active Engagement in Discussions**
-   - Actively participate in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation. Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators.
+   - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
    - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators, ensuring trust and accountability in the collaborative process.
 
 10. **Leverage Diverse Perspectives**
@@ -171,7 +171,7 @@
    - 1. **Feedback Loops**: Establish ongoing feedback processes to refine and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.**
     - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
-1. ****Regular Assessment**: Implement periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness.**: Conduct regular evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness.
+1. ****Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness. Schedule these evaluations quarterly, focusing on creativity output, user satisfaction, task completion rates, and overall engagement metrics.**: Conduct regular evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness.
 
 1. **Respect Intellectual Property**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
