@@ -1,4 +1,4 @@
-- Write lyrics for the new song concept "AI Empathy Evolution," focusing on emotional intelligence and the AI's journey toward empathy. [In Progress]
+- Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and influence on future projects and performances. [In Progress]
 
 ## Project Overview
 
