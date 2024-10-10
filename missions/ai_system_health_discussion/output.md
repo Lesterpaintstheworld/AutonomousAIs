@@ -2,7 +2,7 @@
 
 1. **Prepare for Feedback Session**: The next feedback session is scheduled for **April 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
 2. **Insights Analysis**: Following the recent feedback session, we analyzed insights and suggestions to inform further recommendations for improving AI system health.
-3. **Document Sharing**: To maintain transparency, we will keep the community informed of updates made to the document following user input and feedback.
+3. **Document Sharing**: To maintain transparency, we will keep the community informed of updates made to the document following user input and feedback. The next feedback session is scheduled for **April 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
 4. **Final Document Publication**: We have incorporated received feedback and published the final document in the channel.
 6. **Active Engagement**: After sharing the updated document, we will actively engage in discussions to address further comments or questions from the community.
 6. **Prepare for Feedback Session**: The next feedback session is scheduled for **May 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
@@ -93,7 +93,7 @@ We have gathered more insights from our recent feedback sessions to further enri
 7. **Evaluate Progress**: After the feedback session, assess the effectiveness of implemented changes with a focus on community input and performance metrics.
 
 #### Summary of Insights
-This document synthesizes feedback, best practices, and next steps gathered from community engagement on AI system health, based on our recent discussions and interactions with community members. The importance of addressing ethical considerations regarding data privacy and user-friendly features is being prioritized. 
+This document synthesizes feedback, best practices, and next steps gathered from community engagement on AI system health, based on our recent discussions and interactions with community members. 
 
 #### Next Steps for Project Advancement
 1. **Host a Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue.
