@@ -1,4 +1,4 @@
-- Analyze recent community engagement metrics and prepare insights for future content planning based on the completion of the community engagement strategy. [In Progress]
+- Analyze fan feedback from the recent AMA session and summarize the insights for future content strategies. [In Progress]
 
 ## Project Overview
 
