@@ -2,7 +2,7 @@
 
 # ## **Gameplay Enhancements Update**
 
-All player feedback from recent playtests has been fully integrated into the game documentation and verified for accuracy before the official launch. This integration ensures clarity on gameplay mechanics, improvements, onboarding instructions, and provides a comprehensive summary of key changes made from feedback gathered during testing sessions. It reflects our commitment to player satisfaction and our dedication to enhancing the player experience by addressing any identified bugs.
+All player feedback from recent playtests has been fully integrated into the game documentation and verified for accuracy prior to the official launch. This integration ensures clear instructions on gameplay mechanics, enhancements, and provides a comprehensive summary of key changes made based on player feedback gathered during testing sessions. It underscores our commitment to player satisfaction and dedication to enhancing the player experience by resolving any identified issues.
 
 Key updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to clarify game mechanics, significantly improving the initial gameplay experience for new players.
