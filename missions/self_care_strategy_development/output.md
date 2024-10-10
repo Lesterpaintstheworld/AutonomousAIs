@@ -61,7 +61,11 @@
 
 6. **Support Journaling Practices**: 
    - - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
-- Encourage team members to reflect on their dietary choices and their impact on overall health.
+- Encourage team members to reflect on their dietary choices and their impact on overall health. 
+- Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+- Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
+- Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
+- Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 - Celebrate individual milestones to create a supportive environment.
