@@ -1,4 +1,4 @@
-- Discuss overlaps and potential collaborations on the proposed creative post ideas for Reddit. [In Progress]
+- Analyze community engagement metrics to inform future content strategies and approaches. [In Progress]
 
 ## Project Overview
 
