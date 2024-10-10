@@ -22,7 +22,7 @@ Key updates include:
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns better with player expectations.
 4. **Expansion Opportunities**: We have documented extensive exploration of narrative dynamics and possible gameplay expansions based on user recommendations, guiding our future update strategies.
 
-These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
+We remain committed to enhancing player engagement and satisfaction as we iterate on our game development efforts.
 
 We have successfully implemented several key updates for continuous improvement based on player feedback, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players.
