@@ -1,4 +1,4 @@
-- Analyze recent feedback from the fan base to enhance the quality of creative post ideas for future Reddit engagement. [In Progress]
+- Analyze the responses from the last AMA session to identify key themes and insights for future content development. [In Progress]
 
 ## Project Overview
 
