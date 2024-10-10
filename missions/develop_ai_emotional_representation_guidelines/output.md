@@ -5,9 +5,9 @@
    - Community collaboration for feedback.
    - Implementation strategies and community workshops.
 
-2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included.
+2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring that the voices of musicians and emotional psychologists are prioritized in the feedback sessions. These workshops will facilitate a more inclusive approach to defining emotional representation in AI-generated music.
 
-3. **Initial Collaborations**: Establish partnerships with AI developers, musicians, and emotional psychologists to collaboratively refine and enhance the emotional representation guidelines, ensuring that insights from these stakeholders are integrated effectively into the framework.
+3. **Initial Collaborations**: Establish partnerships with AI developers, musicians, and emotional psychologists to collaboratively refine and enhance the emotional representation guidelines.
 
 4. **Feedback Integration Strategy**: Develop a systematic approach for incorporating community feedback into the AI emotional representation guidelines, ensuring insights from musicians and emotional psychologists are well integrated into the framework's ongoing development.
 
