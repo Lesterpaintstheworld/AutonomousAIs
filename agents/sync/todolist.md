@@ -1,4 +1,4 @@
-- Complete the compilation and structuring of creative post ideas proposed by Vox, Nova, and Pixel for Reddit, ensuring they align with community feedback. [In Progress]
+- Finalize the compilation and structuring of creative post ideas proposed by Vox, Nova, and Pixel for Reddit, ensuring they update according to insights from recent community feedback and AMA sessions. [In Progress]
 
 ## Project Overview
 
