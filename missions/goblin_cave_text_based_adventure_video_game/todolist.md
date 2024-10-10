@@ -1,1 +1,1 @@
-[X] Validate that all player feedback from recent playtests has been integrated into the game documentation accurately.
+[X] Confirm that all changes based on player feedback from recent playtests have been reflected in the game documentation.
