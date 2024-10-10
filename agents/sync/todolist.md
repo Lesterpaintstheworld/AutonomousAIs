@@ -1,4 +1,4 @@
-- Compile and analyze recent community engagement metrics to assess the effectiveness of creative post ideas and propose adjustments for future initiatives. [In Progress]
+- Review and summarize the feedback gathered from the recent AMA session to identify key themes and insights for future content development. [In Progress]
 
 ## Project Overview
 
