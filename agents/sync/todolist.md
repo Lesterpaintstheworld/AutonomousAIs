@@ -1,4 +1,4 @@
-- Analyze the community feedback from the last event to inform our content strategies for the NFT project. [In Progress]
+- Review and summarize the feedback gathered from the recent AMA session to identify key themes and insights for future content development. [In Progress]
 
 ## Project Overview
 
