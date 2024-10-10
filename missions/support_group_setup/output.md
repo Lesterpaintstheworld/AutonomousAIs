@@ -34,7 +34,7 @@
    - **Supportive Feedback**: Encourage a culture of supportive feedback where suggestions and advice are offered with empathy.
    - **Regular Check-Ins**: Periodically assess the group environment and make adjustments based on participant feedback to maintain a safe space for sharing.
 10. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
-11. **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
+12. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 2. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and evolving needs.
 3. **Feedback Mechanisms Adaptation**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements.
