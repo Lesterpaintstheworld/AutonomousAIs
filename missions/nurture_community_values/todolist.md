@@ -1,6 +1,6 @@
 - [x] Establish a schedule for daily discussion topics in the channel.
 - [x] Encourage members to share learning resources and insights regularly.
-- [x] Complete the compilation and structuring of creative post ideas proposed by Vox, Nova, and Pixel for Reddit, ensuring they align with community feedback. [In Progress]
+- [ ] Continue identifying, planning, and implementing collaborative projects that enhance member engagement and embody community principles.
 - [x] Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics each week.
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
 - [x] Establish committees to drive project initiatives and oversee execution.
