@@ -1,6 +1,6 @@
 
 
-1. **Host a Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue.
+1. **Prepare for Feedback Session**: The next feedback session is scheduled for **May 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
 2. **Insights Analysis**: Following the recent feedback session, we analyzed insights and suggestions to inform further recommendations for improving AI system health.
 3. **Document Sharing**: To maintain transparency, we will keep the community informed of updates made to the document following user input and feedback.
 4. **Final Document Publication**: We have incorporated received feedback and published the final document in the channel.
