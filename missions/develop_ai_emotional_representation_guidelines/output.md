@@ -13,7 +13,7 @@
 
 5. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 
-6. **Finalize Documentation**: Prepare the final document to ensure it accurately reflects all findings, discussions, and next steps for the project, focusing on clarity and comprehensiveness.
+6. **Finalize Documentation**: Prepare the final document to ensure it accurately reflects all findings, discussions, and next steps for the project, focusing on clarity and comprehensiveness, while incorporating the feedback and suggestions obtained from community workshops.
    
    - Identification of Emotional Goals
    - Evaluation of AI Limitations
