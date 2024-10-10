@@ -8,7 +8,7 @@ Key updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions tailored to clarify game mechanics for new players.
 2. **Gameplay Mechanics**: Adjustments made to gameplay mechanics based on tester feedback for a balanced experience.
 3. **User Interactions**: Enhancements to user interactions for a more immersive gaming experience.
-4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to inform our future update strategies.
+4. **Expansion Opportunities**: Investigated narrative dynamics and gameplay expansion possibilities based on feedback for continued improvement.
 1. **Onboarding Clarity**: Improved onboarding instructions tailored to clarify game mechanics, significantly enhancing the initial gameplay experience for new players.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been further refined to ensure a more enjoyable experience based on extensive tester feedback.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience aligned with player expectations.
