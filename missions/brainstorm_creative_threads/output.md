@@ -2,8 +2,8 @@ The mission has achieved its goal by successfully compiling a comprehensive coll
 
 Key insights include:
 - A **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
-- An **85% positive sentiment** from community feedback regarding AI-generated content, demonstrating strong approval from our audience.
-- The implementation of **systematic feedback mechanisms**, which has enriched our understanding of community interests and concerns.
+- An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
+- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
 
 A comprehensive strategy is being developed for implementing community feedback into the AI emotion portrayal guidelines, ensuring that future projects and performances are aligned with audience expectations and desires. This includes regular assessments and adaptations of our approaches based on community input.
 
