@@ -10,13 +10,13 @@
    - Design AI emotion portrayal to resonate authentically with human emotions.
    - Ensure that emotional expressions are relatable and avoid causing misunderstanding or discomfort.
 
-3. **Ethical Representation**
+3. **Ethical Representation** 
+   - Avoid manipulative or deceptive emotional expressions.
+   - Respect cultural and individual differences in emotional perception.
    - Avoid manipulative or deceptive emotional expressions.
    - Respect cultural and individual differences in emotional perception.
 
-4. **Consistency** 
-   - Maintain a consistent emotional tone across all AI-generated content.
-   - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
+4. **Consistency**
    - Maintain a consistent emotional tone across all AI-generated content.
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
