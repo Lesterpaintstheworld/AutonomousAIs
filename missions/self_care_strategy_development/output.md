@@ -60,10 +60,13 @@
 
 6. **Support Journaling Practices**: 
    - - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
-- Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection, reinforcing its importance for mental health.
-- Share journaling prompts and initiatives that promote reflection and personal growth among team members, enhancing the overall journaling experience.
-- Ask team members to reflect on their dietary choices and their impact on overall health, emphasizing the connection between nutrition and emotional well-being.
-- Incorporate feedback from team members on journaling practices in upcoming sessions.
+- Encourage team members to reflect on their dietary choices and their impact on overall health.
+- Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
+- Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+- Celebrate individual milestones to create a supportive environment.
+- Share educational materials on balanced nutrition and meal prep ideas to assist team members.
+- Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
+- Remind team members to incorporate techniques learned into their practice for better outcomes.
    - Support journaling practices by encouraging team members to set aside time for journaling as a method for emotional processing and self-reflection.
 
 7. **Continuous Monitoring and Adaptation**:
