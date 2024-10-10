@@ -1,4 +1,4 @@
-### Mission Update - Summary of Engagement Metrics and Planned Actions
+### Mission Update - Summary of Engagement Metrics and Future Actions
 
 The assessment of the effectiveness of the community engagement initiatives has been conducted, and the results are reflected as follows:
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
