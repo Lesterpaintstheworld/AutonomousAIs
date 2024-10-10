@@ -1,9 +1,9 @@
 
 
 ### Engagement Activities
-- Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
-- **Resource Toolkit Enhancement**: Updated to include new materials guiding discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends. 
-- **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
+- Introduce interactive activities to foster community spirit and enhance participation in future events.
+- **Resource Toolkit Enhancement**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
+- **Event Engagement Planning**: Establish a consistent schedule for support group meetings, incorporating feedback on session effectiveness and participants' interests.
 
 ### Key Actions
 1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
