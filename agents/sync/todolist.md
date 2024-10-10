@@ -1,4 +1,4 @@
-- Compile the final structure of creative post ideas for Reddit based on previous discussions and insights gathered. [In Progress]
+- Discuss overlaps and potential collaborations on the proposed creative post ideas for Reddit. [In Progress]
 
 ## Project Overview
 
