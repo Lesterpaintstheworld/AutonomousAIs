@@ -2,9 +2,9 @@
    - Encourage team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Encourage team members to reflect on their experiences and suggest improvements for the self-care practices in general.
-- Share educational materials on balanced nutrition and meal prep ideas to assist team members.
+- Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
-   - Limit intake of processed foods and sugary beverages and stay hydrated by drinking sufficient water daily.
+   - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
    - Encourage team members to reflect on their experiences to enhance the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
