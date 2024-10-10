@@ -3,7 +3,7 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 ### Next Steps
 1. **Discussion Threads**: Create dedicated discussion threads to further explore emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
 2. **Feedback Collection**: Implement continuous feedback collection mechanisms to effectively adapt emotional engagement strategies based on user insights and experiences.
-3. **Ongoing Community Involvement**: Regularly introduce channels for monitoring AI interactions to adapt based on user input and sustain conversations around emotional intelligence for user-centered development.
+3. **Continuous Feedback Collection**: Regularly collect and analyze feedback from community discussions to adapt emotional engagement strategies in AI systems.
 
 ### Next Steps
 Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
