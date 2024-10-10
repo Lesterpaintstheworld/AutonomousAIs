@@ -60,7 +60,7 @@
    - Encourage team members to build connections within and outside the team.
 
 6. **Support Journaling Practices**: 
-   - - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+   - - Support journaling practices by encouraging team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
@@ -71,7 +71,7 @@
    - Support journaling practices by encouraging team members to set aside time for journaling as a method for emotional processing and self-reflection.
 
 7. **Continuous Monitoring and Adaptation**:
-   - Ensure continuous monitoring and adaptation by encouraging team members to actively implement these strategies and share their experiences for further optimization.
+   - Encourage team members to actively implement these strategies and share their experiences for further optimization.
    - Regularly assess the effectiveness of self-care practices and make necessary adjustments.
    - Incorporate AI-driven insights and adaptive adjustments to ensure these strategies remain impactful and relevant.
 1. **Implement Mindfulness Meditation**: 
