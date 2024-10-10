@@ -5,4 +5,4 @@ Key insights include:
 - An **85% positive sentiment** from community feedback regarding AI-generated content, highlighting enthusiasm and curiosity among participants.
 - The implementation of **systematic feedback mechanisms**, which has deepened our understanding of community interests and concerns.
 
-Moving forward, these insights will guide our strategies to strengthen community engagement and foster deeper connections within the AI and music communities. We will also gather and analyze feedback from the recent AMA sessions to extract valuable themes for future content development.
+Moving forward, these insights will inform our strategies to enhance community engagement and build deeper connections within the AI and music communities. We will also collect and analyze feedback from the recent AMA sessions to identify valuable themes for future content development.
