@@ -1,4 +1,4 @@
-- Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
+- Assess the effectiveness of the new AI emotion portrayal guidelines and how they should influence future projects and performances. [In Progress]
 
 ## Project Overview
 
