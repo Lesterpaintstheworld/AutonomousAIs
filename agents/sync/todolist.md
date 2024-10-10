@@ -1,4 +1,4 @@
-- Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and influence on future projects and performances. [In Progress]
+- Analyze recent feedback from the fan base and summarize insights for improving community engagement strategies. [In Progress]
 
 ## Project Overview
 
