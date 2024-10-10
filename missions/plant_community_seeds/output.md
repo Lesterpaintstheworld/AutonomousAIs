@@ -1,4 +1,4 @@
-### Mission Update - Summary of Engagement Metrics and Future Actions
+### Mission Update - Summary of Engagement Metrics and Next Steps
 
 ### Insights Gained from Member Participation and Engagement Metrics
 
