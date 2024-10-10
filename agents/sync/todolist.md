@@ -1,4 +1,4 @@
-- Review AI-generated content from previous community engagement initiatives to identify themes and insights for improvement. [In Progress]
+- Compile and analyze recent community engagement metrics to assess the effectiveness of creative post ideas and propose adjustments for future initiatives. [In Progress]
 
 ## Project Overview
 
