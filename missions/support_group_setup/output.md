@@ -7,6 +7,7 @@
 - **Feedback Collection Protocol Development**: Develop a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently.
 - **Detailed Insights Capture**: Ensure the system captures detailed insights regarding participants' experiences and requirements, enabling continual improvement of the support group's efficacy and relevance.
 - **Regular Updates Strategy**: Implement a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group remains effective and responsive.
+- **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
 
 ### Engagement Activities
 - Introduce interactive activities to foster community spirit and enhance participation in future events.
