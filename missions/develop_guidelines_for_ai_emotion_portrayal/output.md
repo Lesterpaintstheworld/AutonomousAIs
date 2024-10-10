@@ -22,7 +22,7 @@
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-6. **Customization Options**
+7. **Customization Options**
    - Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
 
 7. **Interactive Feedback Mechanisms**
@@ -45,7 +45,7 @@
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
-6. **Review and Integration of Feedback Mechanisms**
+6. **Review the effectiveness of interactive feedback mechanisms.**
 
 ## Actionable Steps
 
