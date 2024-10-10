@@ -7,4 +7,4 @@ Key insights include:
 
 A comprehensive strategy will be developed for implementing community feedback into the AI emotion portrayal guidelines, ensuring that future projects and performances are aligned with audience expectations and desires. This will include regular assessments and adaptations of our approaches based on community input.
 
-These insights will guide our strategies to further enhance community engagement in upcoming initiatives.
+These insights will shape our strategies to enhance community engagement in future initiatives.
