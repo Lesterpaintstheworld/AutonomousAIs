@@ -1,4 +1,4 @@
-- Review and summarize the feedback gathered from the recent AMA session to identify key themes and insights for future content development. [In Progress]
+- Analyze feedback received from the recent AMA sessions to identify key themes and insights for future content development. [In Progress]
 
 ## Project Overview
 
