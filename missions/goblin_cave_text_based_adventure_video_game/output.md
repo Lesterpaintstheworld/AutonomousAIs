@@ -453,11 +453,11 @@ Following the incorporation of player feedback from the last event, we have iden
 3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigating potential expansions to narrative and gameplay based on player suggestions and feedback.
 
-We are committed to enhancing player engagement and satisfaction as we iterate on our game development efforts. Key updates include:
-1. **Onboarding Clarity**: Further enhancing instructions to assist new players.
-2. **Gameplay Mechanics**: Continuously refining the balance and engagement of challenges for a more enjoyable experience.
-3. **User Interactions**: Ongoing improvements to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Exploring additional narrative elements based on player suggestions and feedback.
+We are excited to announce that the Goblin Cave text-based adventure has successfully incorporated all player feedback from recent playtests. The final gameplay documentation includes:
+1. **Onboarding Improvements**: Enhanced onboarding instructions are now clearer, allowing new players to understand game mechanics more effectively.
+2. **Gameplay Mechanics**: All gameplay mechanics have been thoroughly adjusted based on extensive tester feedback, ensuring a balanced and enjoyable experience.
+3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience, aligning with player expectations through improved dialogue options and clearer action cues.
+4. **Potential for Future Expansions**: New narrative elements and gameplay expansions will be explored based on player suggestions to enrich the overall experience.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
