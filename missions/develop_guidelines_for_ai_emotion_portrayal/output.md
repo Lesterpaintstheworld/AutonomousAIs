@@ -1,4 +1,4 @@
-## Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
+## Finalized Guidelines for AI Emotion Portrayal in Music
 
 ## Best Practices
 
@@ -22,7 +22,7 @@
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-## Key Insights from Community Feedback
+## Actionable Steps
 
 1. **Publish Guidelines**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
