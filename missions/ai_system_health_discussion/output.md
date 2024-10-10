@@ -100,7 +100,7 @@ We have gathered more insights from our recent feedback sessions to further enri
 This document synthesizes feedback, best practices, and next steps gathered from community engagement on AI system health, based on our recent discussions and interactions with community members. 
 
 #### Next Steps for Project Advancement
-1. **Host a Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue.
+1. **Host a Feedback Session**: Prepare for a new feedback session scheduled for **May 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
 2. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, informed by updated community insights and relevant research findings.
 3. **Share Updated Document**: Continue to keep the community informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 4. **Finalize Document**: Incorporate all recent feedback obtained and publish the final document in the channel.
