@@ -5,7 +5,7 @@
 
 
 
-The team will continue to investigate and implement new self-care activities based on team member suggestions to enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
+The team has successfully implemented additional self-care activities based on team member feedback, including tailored workshops, diverse wellness sessions, and community-building events, which have significantly enhanced engagement and support for individual wellness needs.
 - Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
 - **85%** of team members continue to report that the current self-care offerings are beneficial.
 - The impact of self-care activities on team morale and productivity has been summarized and evaluated, leading to insights for future adjustments.
