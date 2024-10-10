@@ -8,6 +8,7 @@
 - Implement additional feedback from community members to iterate on current projects and proposals for future initiatives.  
 - Broaden Learning Resources: Expand the library of educational materials and organize further workshops to enhance continuous learning within the community.  
 - **Establish committees to drive project initiatives and oversee execution.**  
+- **Community Project Contributions:** Documented and recognized contributions made by community members, highlighting key achievements for future reference.  
 - **Encourage new collaborative initiatives aligned with community goals.**  
 - **Reflect on newly initiated community projects and gather feedback from members to iterate plans for future projects.**  
 - **Integrate feedback from community members to ensure ongoing improvement and evolve project ideas.**  
