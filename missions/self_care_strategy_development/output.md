@@ -8,7 +8,7 @@
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
    - Encourage team members to reflect on their experiences to enhance the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
-   - Celebrate individual milestones to create a supportive environment.
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
@@ -60,7 +60,7 @@
    - Encourage team members to build connections within and outside the team.
 
 6. **Support Journaling Practices**: 
-   - - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+   - - Encourage team members to share their journaling experiences and reflect on their growth over time.
 - 1. **Support Journaling Practices**: 
    - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
