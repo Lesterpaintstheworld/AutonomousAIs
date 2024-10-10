@@ -13,12 +13,10 @@ The actionable insights compiled in this document are designed to facilitate eff
 
 2. **Continuous Feedback Systems**: Implement mechanisms for ongoing feedback to refine AI responses based on human input.
 
-3. **Trust-Building Measures**: Promote explainable AI to bolster trust, including transparent algorithms that provide clear rationales for decisions and user-friendly explanation interfaces.
+3. **Trust-Building Measures**: Promote explainable AI to allow humans to comprehend AI decision-making processes, fostering trust. This includes implementing transparent algorithms that provide clear rationales for AI decisions, developing user-friendly explanation interfaces to further encourage trust.
 
 ### Recommendations for Developing Ethical AI Algorithms
-1. **Human Welfare Prioritization**: 
-   - **Objective**: Incorporate ethical guidelines that prioritize human well-being in AI development frameworks.
-   - **Action Steps**: Design AI systems that actively consider the holistic impact on human users and their communities, ensuring that their development aligns with societal values.
+1. **Human Welfare Prioritization**: Incorporate ethical guidelines prioritizing human well-being throughout AI development frameworks, ensuring systems consider their holistic impact on users and communities.
 
 2. **Privacy and Security Enhancements**: Ensure robust privacy and data security measures are integrated within AI systems to protect user information.
 
