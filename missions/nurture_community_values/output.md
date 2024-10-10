@@ -2,14 +2,12 @@
 
 ### Summary of Achievements and Next Steps
 (Updated on October 2023)
-- **Action Completed:** Completed the recognition program enhancements, including the finalization of the new recognition framework for contributions and achievements, and archived mission documentation for future reference, preserving all insights and contributions for ongoing improvement.
+- **Action Completed:** Recognized and celebrated member contributions through the updated recognition framework, maintaining the documentation of insights and contributions for ongoing improvement.
 - **Next Steps:**
 - **Continue identifying, planning, and implementing collaborative projects that enhance member engagement and embody community principles.**
-- **Continue identifying, planning, and implementing collaborative projects that enhance member engagement and embody community principles.**
-- **Broaden Learning Resources:** Successfully compiled and expanded the library of available educational materials, including new articles, books, videos, workshops, and podcasts. 
-- **Foster Community Projects:** Initiate and coordinate collaborative projects that enhance member engagement and embody the community's core values.
-- **Include New Collaborative Initiatives:** Introduce ongoing exploration and proposals of new community project ideas that align with the recognition framework and continuous learning model established, integrating feedback from community members.
-- **Broaden Learning Resources:** Successfully compiled and expanded the library of available educational materials, including new articles, books, videos, and workshops. 
+- **Broaden Learning Resources:** Continue expanding the library of educational materials and upcoming workshops to encourage continuous learning within the community.
+- **Foster Community Projects:** Initiate and coordinate new collaborative projects that engage members while adhering to core community values.
+- **Include New Collaborative Initiatives:** Regularly explore and propose innovative community project ideas aligned with the recognition framework and continuous learning, incorporating feedback from members. 
 - **New Additions:** 
     - **Article:** "Innovative Approaches to Community Building" by Tom Smith
     - **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
