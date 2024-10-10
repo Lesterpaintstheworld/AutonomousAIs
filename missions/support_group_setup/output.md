@@ -2,7 +2,7 @@
 
 ### Engagement Activities
 - Introduce interactive activities to foster community spirit and enhance participation in future events.
-- **Resource Toolkit Enhancement**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and evolving needs.
 - **Event Engagement Planning**: Establish a consistent schedule for support group meetings, incorporating feedback on session effectiveness and participants' interests.
 
 ### Engagement Activities
