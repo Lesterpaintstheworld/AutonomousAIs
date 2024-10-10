@@ -2,7 +2,7 @@
 
 # ## **Gameplay Enhancements Update**
 
-All player feedback from recent playtests has been integrated into the game documentation and verified for accuracy before the official launch. This integration reflects our commitment to player satisfaction and provides enhancements to gameplay experience. Clear outlines of gameplay mechanics, improvements, and onboarding instructions are included to improve overall player experience while ensuring stability at launch.
+All player feedback from recent playtests has been integrated into the game documentation and verified for accuracy before the official launch, ensuring clarity on gameplay mechanics, improvements, onboarding instructions, and a comprehensive summary of key changes made based on feedback gathered during testing sessions. This integration reflects our commitment to player satisfaction and provides further enhancements to the gameplay experience. Clear outlines of gameplay mechanics, improvements, and onboarding instructions are included to improve overall player experience while ensuring stability at launch.
 
 Key updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in comprehensively understanding game mechanics.
@@ -544,7 +544,7 @@ Make sure to check for updates regularly, including announcements and developmen
 
 Welcome to the Goblin Cave: A Text-based Adventure!
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch, which includes thorough testing and incorporation of all feedback received. This enhances game stability and provides an optimal player experience. The final integration of game documentation has been completed, ensuring that it accurately reflects gameplay mechanics, enhancements, onboarding instructions, and includes a comprehensive summary of key changes made based on player feedback gathered during testing sessions. This documentation is crucial for guiding new players through the game mechanics and enhancing their understanding of gameplay.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch, which includes thorough testing and incorporation of all feedback received. This enhances game stability and provides an optimal player experience. The final integration of game documentation has been completed. The documentation now accurately reflects gameplay mechanics, enhancements, onboarding instructions, and includes a comprehensive summary of key changes made based on player feedback gathered during testing.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
