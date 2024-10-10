@@ -8,7 +8,7 @@
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
    - Encourage team members to reflect on their experiences to enhance the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
-   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Track exercise participation and celebrate individual milestones to create a supportive environment.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
@@ -64,7 +64,7 @@
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
-- Encourage team members to engage in activities they enjoy to enhance participation.
+- Celebrate individual milestones to create a supportive environment.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
