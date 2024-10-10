@@ -1,4 +1,4 @@
-- Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and influence on future projects and performances. [In Progress]
+- Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
 
 ## Project Overview
 
