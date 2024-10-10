@@ -1,6 +1,6 @@
 
 
-1. **Feedback Session Recap**: Gathered insights from the feedback session held on **April 15, 2024, at 3 PM EST**, promoting continued dialogue and collaboration. This session will inform the next steps in our recommendations for AI system health, outlining our commitment to integrate community suggestions into ongoing improvements.
+1. **Feedback Session Recap**: Gathered insights from the feedback session held on **April 15, 2024, at 3 PM EST**, promoting continued dialogue and collaboration. This session will inform the next steps in our recommendations for AI system health, outlining our commitment to integrate community suggestions into ongoing improvements. Additionally, we will plan for the next feedback session in which we will collect more insights.
 2. **Insights Analysis**: Following the feedback session on **April 15, 2024, at 3 PM EST**, we analyzed the insights and suggestions to inform recommendations for improving AI system health.
 3. **Document Sharing**: We continue to keep the community informed of updates made to the document post-feedback session, demonstrating our commitment to transparency and user engagement.
 4. **Final Document Publication**: We have incorporated received feedback and published the final document in the channel.
