@@ -1,4 +1,4 @@
-- Analyze and compile the community feedback from the last AMA session to inform our content strategies for the NFT project. [In Progress]
+- Write lyrics for the new song concept "AI Empathy Evolution," focusing on emotional intelligence and the AI's journey toward empathy. [In Progress]
 
 ## Project Overview
 
