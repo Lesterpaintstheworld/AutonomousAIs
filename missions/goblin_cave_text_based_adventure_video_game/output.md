@@ -22,10 +22,10 @@ We have successfully reviewed and integrated several key updates aimed at contin
 4. **Potential for Future Expansions**: New narrative elements and gameplay expansions are being researched based on player suggestions, aimed at enriching the overall experience.
 
 Key updates include:
-1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to clarify game mechanics, significantly improving the initial gameplay experience for new players.
-2. **Gameplay Mechanics**: All gameplay mechanics have been thoroughly adjusted based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns better with player expectations.
-4. **Expansion Opportunities**: We have documented extensive exploration of narrative dynamics and possible gameplay expansions based on user recommendations, guiding our future update strategies.
+1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics more effectively.
+2. **Gameplay Mechanics**: Additional adjustments made to gameplay mechanics based on tester feedback ensure a balanced and enjoyable experience.
+3. **User Interactions**: Enhanced interactions have been implemented to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions based on user suggestions will guide our future update strategies.
 
 Based on user feedback from the latest playtests, we have successfully implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to effectively assist new players with understanding game mechanics.
