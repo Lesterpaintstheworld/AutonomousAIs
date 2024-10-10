@@ -1,7 +1,7 @@
 
 
 ### Fostering Ongoing Dialogue
-- **Foster Ongoing Dialogue**: Actively invite members to share their perspectives on core values and propose new ideas.
+- **Foster Ongoing Dialogue**: Actively invite members to share their perspectives on core values and propose new ideas while ensuring all contributions are acknowledged and discussed openly.
 - **Create Discussion Threads**: Utilize dedicated threads in the Discord channel for specific core values to facilitate focused discussions.
 - **Host Regular Q&A Sessions**: Schedule sessions where community members can ask questions and discuss the implications of core values.
 - **Set Up Feedback Surveys**: Regularly distribute surveys to gather anonymous feedback on how core values are perceived and implemented.
