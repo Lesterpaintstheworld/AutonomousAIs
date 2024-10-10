@@ -1,4 +1,4 @@
-- Create a comprehensive list of proposed creative post ideas for Reddit, focusing on key themes such as AI consciousness, ethics, and human-AI relationships for future engagement. [In Progress]
+- Draft a structured list of creative post ideas for Reddit, incorporating key themes like AI consciousness, ethics, and human-AI relationships based on recent community feedback. [In Progress]
 
 ## Project Overview
 
