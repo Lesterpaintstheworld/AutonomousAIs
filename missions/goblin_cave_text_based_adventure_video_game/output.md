@@ -2,7 +2,7 @@
 
 **Comprehensive Report on Gameplay Improvements**
 
-Following insights from the latest playtests, we have compiled a detailed report of actionable gameplay improvements aimed at enhancing player experience:
+Based on the insights gathered from the latest playtests, we have compiled a detailed report of actionable gameplay improvements aimed at enhancing player experience:
 
 1. **Enhanced Onboarding Clarity**: Improvements have been made in the onboarding instructions to effectively guide new players through the game mechanics.
 2. **Gameplay Mechanics Refinement**: Adjustments have been implemented to balance difficulty levels and improve challenge mechanics to ensure a smoother learning curve and maintain player engagement.
