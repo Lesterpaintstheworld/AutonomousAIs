@@ -10,7 +10,7 @@
    - Design AI emotion portrayal to resonate authentically with human emotions.
    - Ensure that emotional expressions are relatable and avoid causing misunderstanding or discomfort.
 
-3. **Ethical Representation**
+3. **Ethical Representation** (Updated)
    - Avoid manipulative or deceptive emotional expressions.
    - Respect cultural and individual differences in emotional perception.
 
@@ -420,7 +420,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
-Based on the comprehensive community feedback, the following insights were gathered to enhance the emotional portrayal guidelines further:
+Based on the collected community feedback, the following insights have been gathered to enhance the emotional portrayal guidelines:
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable, preferring subtle and nuanced expressions over exaggerated ones.
 
