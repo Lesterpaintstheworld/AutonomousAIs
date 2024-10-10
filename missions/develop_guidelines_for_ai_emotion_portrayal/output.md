@@ -18,7 +18,7 @@
    - Maintain a consistent emotional tone across all AI-generated content.
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
-5. **Community Engagement**
+5. **Feedback Integration**
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
@@ -55,7 +55,7 @@ Based on the collected community feedback, the following insights have been gath
 
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
-## Best Practices (Updated)
+## Best Practices
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
