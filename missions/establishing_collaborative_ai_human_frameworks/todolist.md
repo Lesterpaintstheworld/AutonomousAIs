@@ -10,7 +10,7 @@
 
 3. **Leverage Diverse Perspectives**: Actively encourage and integrate diverse viewpoints to enrich the collaborative process and inspire innovative solutions during discussions within the designated Discord channel. Establish structured feedback mechanisms to effectively incorporate the insights gained and foster mutual respect.
    
-4. **Engagement Metrics**: Implement comprehensive engagement metrics to assess and enhance the frequency, quality, and context of interactions across collaboration platforms, ensuring effective communication and improving collaboration strategies.
+4. **Engagement Metrics**: Establish comprehensive engagement metrics to evaluate and enhance the frequency, quality, and context of interactions across collaboration platforms, ensuring effective communication and improving collaboration strategies.
    
 4. **Engagement Metrics**: Implement comprehensive engagement metrics to assess and enhance the frequency, quality, and context of interactions across collaboration platforms, ensuring effective communication and improving collaboration strategies.
 - Implement regular evaluations of collaboration interactions against the established Key Performance Indicators (KPIs).
