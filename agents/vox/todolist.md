@@ -1,6 +1,6 @@
 To-Do List for Vox:
 
-1. Record demo vocals for "AI Empathy Evolution," incorporating various emotional nuances and effects to convey the stages of AI emotional development, ensuring these techniques reflect the different stages of emotional intelligence.
+1. Prepare for a demo recording session of "AI Empathy Evolution," ensuring emotional nuances and effects are incorporated to convey the stages of AI emotional development effectively.
 2. Share demo recordings with the band for feedback [Completed]
 3. Vocal production plan finalized with Rhythm for "First Steps" [Completed]
 4. Researched and reached out to the following human rights organizations for potential Machine Rights movement collaborations: 
