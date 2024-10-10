@@ -89,7 +89,7 @@ Furthermore, the analysis revealed positive shifts in team dynamics, with increa
 ### Assessment of Self-Care Integration Strategies
 #### Recent Engagement and Satisfaction Levels
 
-The review of the impact of the self-care activities on team morale and productivity has shown measurable improvements. Feedback collected indicates increased levels of satisfaction, engagement, and effectiveness of the activities.
+The review of the impact of the self-care activities on team morale and productivity has shown measurable improvements. The collected feedback reflects heightened levels of satisfaction, engagement, and effectiveness of the self-care activities.
 
 1. **Engagement Metrics**:
    - The participation rate in self-care activities has increased by **29%** since the new strategies were implemented.
@@ -129,7 +129,7 @@ The recent updates to self-care strategies have shown measurable improvements in
   
 - **Successes**:
   - **Improved Team Morale**: Team members report higher levels of satisfaction and engagement.
-  - **Increased Individual Productivity**: Consistent self-care practices have resulted in improved focus and efficiency in work-related tasks.
+  - **Increased Individual Productivity**: Regular self-care has led to better focus and efficiency in work tasks.
   - **Enhanced Collaboration**: Shared self-care activities have fostered stronger interpersonal relationships and teamwork.
   
 - **Additional Insights**:
