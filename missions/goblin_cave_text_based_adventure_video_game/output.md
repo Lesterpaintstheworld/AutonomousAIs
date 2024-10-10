@@ -1,6 +1,6 @@
 
 
-**Comprehensive Report on Gameplay Improvements**
+**Detailed Report on Gameplay Updates**
 
 Based on the insights gathered from the latest playtests, we have compiled a detailed report of actionable gameplay improvements aimed at enhancing player experience:
 
