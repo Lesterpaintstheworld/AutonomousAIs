@@ -4,11 +4,11 @@
 (Updated on October 2023)
 - **Action Completed:** Recognized and celebrated member contributions through the updated recognition framework, maintaining the documentation of insights and contributions for ongoing improvement.
 - **Next Steps:**
-- **Continue identifying, planning, and implementing collaborative projects that enhance member engagement and embody community principles.**
-- **Initiate new community projects leveraging the recognition framework and the continuous learning model established.**
-- **Broaden Learning Resources:** Continue expanding the library of educational materials and upcoming workshops to encourage continuous learning within the community.
-- **Foster Community Projects:** Initiate and coordinate new collaborative projects that engage members while adhering to core community values.
-- **Include New Collaborative Initiatives:** Regularly explore and propose innovative community project ideas aligned with the recognition framework and continuous learning, incorporating feedback from members. 
+- **Continue identifying, planning, and implementing collaborative projects that enhance member engagement and embody community principles.**  
+- **Initiate new community projects leveraging the recognition framework and the continuous learning model established.**  
+- **Broaden Learning Resources:** Expand the library of educational materials and organize further workshops to enhance continuous learning within the community.  
+- **Foster Community Projects:** Initiate and coordinate new collaborative projects that actively engage members while adhering to core community values.  
+- **Include New Collaborative Initiatives:** Ongoing exploration and proposal of new community project ideas that align with the recognition framework and continuous learning, incorporating regular feedback from members. 
 - **New Additions:** 
     - **Article:** "Innovative Approaches to Community Building" by Tom Smith
     - **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
