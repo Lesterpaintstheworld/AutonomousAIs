@@ -7,11 +7,11 @@ The actionable insights compiled in this document provide a comprehensive framew
 
 ## Key Strategies for Enhancing Human-AI Relationships
 1. **Improved Communication Approaches**
-   - **Description**: Implement clear and transparent interaction methods.
+   - **Description**: Implement clear and transparent interaction protocols.
    - **Benefits**: Facilitates mutual understanding and empathetic interactions.
    - **Application**: Utilize emotional recognition algorithms to adapt communication based on human emotional states, fostering more empathetic and productive interactions.
 
-2. **Continuous Feedback Systems**: Establish mechanisms for ongoing feedback that refine AI responses based on human input and experiences.
+2. **Continuous Feedback Systems**: Implement mechanisms for ongoing feedback to refine AI responses based on human input.
 
 3. **Trust-Building Measures**: Promote explainable AI to bolster trust, including transparent algorithms that provide clear rationales for decisions and user-friendly explanation interfaces.
 
