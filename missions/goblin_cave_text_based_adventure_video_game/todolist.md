@@ -1,1 +1,1 @@
-[X] Prepare the game documentation for the official launch, ensuring clarity on gameplay mechanics, onboarding instructions, and player feedback integration.
+[X] Verify that all player feedback from recent playtests has been incorporated into the game documentation.
