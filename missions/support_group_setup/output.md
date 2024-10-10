@@ -16,6 +16,9 @@
 7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 8. **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 9. **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
+7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
+8. **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
+9. **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 7. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and evolving needs.
 8. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 9. **Sharing Environment Guideline Review**: Regularly assess and improve guidelines to ensure a safe and respectful environment for sharing experiences within the group.
