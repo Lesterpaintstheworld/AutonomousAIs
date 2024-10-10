@@ -2,7 +2,7 @@
 
 # ## **Gameplay Enhancements Update**
 
-The final integration of player feedback has been completed, incorporating all insights from recent playtest sessions. This includes enhancements to gameplay mechanics, onboarding instructions, and a comprehensive summary of key changes made based on player feedback. Our commitment to player satisfaction is reflected in these updates, which aim to significantly enhance the overall gaming experience.
+The final integration of player feedback has been completed, incorporating all insights from recent playtest sessions. Key updates have been documented, including improvements to gameplay mechanics, onboarding instructions, and a summary of key changes based on player feedback. These updates represent our commitment to player satisfaction, with the objective of significantly enhancing the overall gaming experience.
 
 Key updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to clarify game mechanics, significantly improving the initial gameplay experience for new players.
