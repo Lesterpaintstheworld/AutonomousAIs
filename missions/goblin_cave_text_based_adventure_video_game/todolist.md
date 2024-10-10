@@ -1,1 +1,1 @@
-[X] Ensure all player feedback from recent playtests is fully integrated into the game documentation and verify its accuracy before the official launch.
+[X] Confirm that all player feedback from the recent playtests is fully integrated into the game documentation and verify its accuracy prior to the official launch.
