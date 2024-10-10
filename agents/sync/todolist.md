@@ -1,4 +1,4 @@
-- Assess the effectiveness of the new AI emotion portrayal guidelines and how they should influence future projects and performances. [In Progress]
+- Review AI-generated content from previous community engagement initiatives to identify themes and insights for improvement. [In Progress]
 
 ## Project Overview
 
