@@ -19,7 +19,7 @@ Community feedback emphasized the urgent need for consistent performance, partic
 2. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by community insights and relevant research findings.
 3. **Share Updated Document**: Continue to keep the community informed of updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 4. **Finalize Document**: Incorporate all recent feedback obtained and publish the final document in the channel.
-5. **Engagement Follow-Up**: After sharing the updated document, engage actively in discussions to address further comments or questions from the community.
+5. **Engagement Follow-Up**: After sharing the updated document, engage actively in discussions to address further comments or questions from the community. Key considerations include ensuring all discussions and documentation occur within the Discord channel and KinOS environment.
 6. **Evaluate Progress**: After the feedback session, assess the effectiveness of implemented changes, focusing on community input and performance metrics.
 
 1. **User-Friendly Interfaces**: Community members have expressed a strong demand for more intuitive and easily navigable interfaces to enhance user satisfaction.
