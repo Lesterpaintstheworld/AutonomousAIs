@@ -26,7 +26,13 @@ Key updates include:
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns better with player expectations.
 4. **Expansion Opportunities**: We have documented extensive exploration of narrative dynamics and possible gameplay expansions based on user recommendations, guiding our future update strategies.
 
-These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
+Following user feedback from the last session, here are the compiled actionable gameplay improvements:
+1. **Onboarding Clarity**: simplified instructions to better assist new players.
+2. **Gameplay Mechanics**: further adjustments to challenge balance for enhanced enjoyment.
+3. **User Interactions**: additional refinements to create a more immersive experience.
+4. **Expansion Opportunities**: exploration of more narrative pathways based on player suggestions.
+
+These updates are vital for evolving our game development efforts and ensuring sustained player satisfaction.
 
 We have successfully implemented several key updates for continuous improvement based on player feedback, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players.
