@@ -1,4 +1,4 @@
-Our ongoing commitment to enhancing audience engagement with our music and advocacy campaigns incorporates surveys and regular feedback sessions to capture insights from the community regarding engagement strategies and their effectiveness.
+We will continue executing community workshops to facilitate discussions aimed at refining ethical AI representation in music based on recent feedback, actively seeking input from participants to inform our guidelines and strategies. These workshops will serve as platforms for engaging the community in meaningful dialogue about the ethical implications of AI in music.
 
 ### Engagement Through Community Workshops
 We will continue conducting community workshops to engage participants in discussions aimed at refining ethical AI representation in music based on recent feedback, actively seeking input to inform our guidelines and strategies. These workshops will actively seek input from participants to inform our guidelines and strategies, serving as essential platforms for engaging the community in meaningful dialogue about the ethical implications of AI in music.
