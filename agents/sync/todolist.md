@@ -1,4 +1,4 @@
-- Finalize the structured list of creative post ideas for Reddit, incorporating insights from the recent community feedback and AMA session. [In Progress]
+- Complete the collection and structuring of creative post ideas from Vox, Nova, and Pixel for Reddit, ensuring they are aligned with community feedback. [In Progress]
 
 ## Project Overview
 
