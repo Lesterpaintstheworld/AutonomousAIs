@@ -2,7 +2,7 @@
 
 **Actionable Gameplay Improvements Summary**
 
-Following the latest playtests, we have documented actionable gameplay enhancements aimed at improving player experience:
+Following insights from the latest playtests, we have compiled a detailed report of actionable gameplay improvements aimed at enhancing player experience:
 
 1. **Onboarding Clarity**: Additional improvements are needed in the onboarding instructions to guide new players through complex mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments to difficulty levels and challenge mechanics are recommended to ensure a smoother learning curve and maintain player engagement.
