@@ -39,7 +39,7 @@ The outcomes and effectiveness of the newly implemented self-care activities hav
 
 2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
-3. **Community Building Events**: Feedback indicates a strong preference for collaborative events that foster support among team members. Group challenges or social events will be prioritized to strengthen team cohesion and enhance self-care practices.
+3. **Community-Building Events**: Feedback suggests a strong preference for collaborative events that foster support among team members. Group challenges and social events will be prioritized to enhance team cohesion and self-care practices.
 
 Recent evaluations indicate that the updated Self-Care Integration Strategy has led to ongoing improvements in team morale and productivity, with continued positive feedback on newly incorporated activities such as tailored workshops and community-building events. Engagement metrics reflect positive feedback regarding the newly implemented activities and the need to explore and implement additional self-care activities based on team member suggestions to further enhance engagement.
 
