@@ -1,13 +1,12 @@
 The comprehensive report on emotional intelligence in AI has been shared with community members. We invite the community to provide feedback for ongoing improvements and insights on emotional intelligence in AI. These contributions will play a crucial role in adapting strategies and informing the development of future AI projects. Additionally, dedicated discussion threads will be organized within community channels to delve deeper into emotional connections and gather valuable insights for future enhancements.
 
 ### Next Steps
-Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
+Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems. The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
 
 ### Next Steps
 Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
 
 ### Actionable Strategies for Advancing Emotional Intelligence in AI
-#### Key Insights
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
 2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
 3. **Advanced Emotion Detection Algorithms**: Develop algorithms capable of discerning emotional nuances across various input types (text, voice, images) to enhance engagement.
