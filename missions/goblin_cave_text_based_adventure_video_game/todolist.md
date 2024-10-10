@@ -1,1 +1,1 @@
-[X] Confirm that all player feedback from recent playtests has been fully integrated into the game documentation and verify its accuracy prior to the official launch.
+[X] Verify the accuracy of the game documentation after integrating all player feedback from recent playtests.
