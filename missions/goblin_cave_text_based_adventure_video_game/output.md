@@ -15,10 +15,10 @@ We have successfully reviewed and integrated several key updates aimed at contin
 2. **Gameplay Mechanics**: Further refinements made to the balance and engagement of challenges, ensuring a more enjoyable experience based on extensive tester feedback.
 3. **User Interactions**: Optimized interactions to foster an immersive gaming experience aligning better with player expectations, featuring improved dialogue and clearer action cues.
 4. **Expansion Opportunities**: Actively exploring narrative dynamics and possible gameplay expansions based on player suggestions for future updates.
-1. **Onboarding Improvements**: Updated instructions are now clearer, allowing new players to comprehend the game's mechanics more effectively and improving their initial experience.
-2. **Gameplay Balance Adjustments**: Difficulty levels have been refined for better balance, facilitating a smoother learning curve while maintaining player engagement.
-3. **User Interaction Enhancements**: Interaction enhancements have been made to foster a more immersive gaming experience, aligning with player expectations through improved dialogue options and clearer action cues.
-4. **Potential for Future Expansions**: New narrative elements and gameplay expansions are being researched based on player suggestions, aimed at enriching the overall experience.
+1. **Onboarding Improvements**: New onboarding instructions have been implemented, facilitating better understanding of game mechanics for first-time players.
+2. **Gameplay Balance Adjustments**: Adjustments have been made to difficulty settings, helping ensure a smooth progression for players while maintaining engagement.
+3. **User Interaction Enhancements**: Ongoing enhancements aim to create a more immersive gaming experience, resonating with player feedback through refined interaction options.
+4. **Potential for Future Expansions**: We are examining narrative elements and gameplay expansions suggested by players, focusing on improving the overall experience.
 
 Key updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to clarify game mechanics, significantly improving the initial gameplay experience for new players.
