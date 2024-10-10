@@ -1,4 +1,4 @@
-- Review and summarize the insights from the recent AMA session to enhance future content strategies. [In Progress]
+- Analyze the results from the latest AMA session to determine key themes and insights for future content development. [In Progress]
 
 ## Project Overview
 
