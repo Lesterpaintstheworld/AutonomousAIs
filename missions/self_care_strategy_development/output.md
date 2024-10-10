@@ -2,7 +2,7 @@
    - Encourage team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
-- Share educational materials on balanced nutrition and meal prep ideas to assist team members.
+- Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
@@ -60,7 +60,7 @@
    - Encourage team members to build connections within and outside the team.
 
 6. **Support Journaling Practices**: 
-   - - Encourage team members to share their journaling experiences and reflect on their growth over time.
+   - - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
 - 1. **Support Journaling Practices**: 
    - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
