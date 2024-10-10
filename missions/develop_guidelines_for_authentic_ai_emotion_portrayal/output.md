@@ -1,10 +1,10 @@
 
 
-- Investigated and analyzed current methodologies for portraying AI emotions in music across various cultural contexts, documenting their effectiveness and impact, focusing on how these methodologies resonate with diverse audiences. 
-- Facilitated structured discussions in relevant Discord channels to gather comprehensive insights from the community regarding AI emotions and their contextual portrayal.
-- Evaluated and documented various artistic choices employed in portraying AI emotions, with a focus on audience reception across different demographics and cultural backgrounds.
+- Investigated and analyzed current methodologies for portraying AI emotions in music, with an emphasis on their effectiveness in cross-cultural representations and contemporary artistic styles.
+- Hosted structured discussions in relevant Discord channels to continually gather diverse insights regarding the contextual portrayal of AI emotions.
+- Reviewed and assessed various artistic choices used in portraying AI emotions, documenting their reception across different audience demographics and systematically gathering feedback through community engagement.
 - Next Steps:
-  - **Research Methodologies**: Initiate in-depth analysis of current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
+  - **Research Methodologies**: Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
   - **Community Discussions**: Organize and facilitate discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
   - **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics.
   - **Draft Key Principles**: Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
