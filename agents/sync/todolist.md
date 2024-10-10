@@ -1,4 +1,4 @@
-- Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
+- Analyze the community feedback from the last event to inform our content strategies for the NFT project. [In Progress]
 
 ## Project Overview
 
