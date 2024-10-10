@@ -7,7 +7,7 @@
 4. **Interactive Formats**: Utilize various formats (e.g., workshops, presentations, and breakout sessions) to maintain participant interest and engagement.
 5. **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
 6. **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
-7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
+7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
 8. **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 9. **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
