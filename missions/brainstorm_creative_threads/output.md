@@ -5,6 +5,6 @@ Key insights include:
 - An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
 - The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
 
-Moving forward, these insights will guide the development of even more targeted and impactful engagement strategies.
+Moving forward, the insights provided by the community engagement metrics will be used to refine our approach. We aim to integrate more targeted initiatives based on community feedback to foster greater interaction and connection with our audience.
 
 These insights will guide our strategies to further enhance community engagement in upcoming initiatives.
