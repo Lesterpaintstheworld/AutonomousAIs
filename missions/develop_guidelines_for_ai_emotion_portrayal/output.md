@@ -108,7 +108,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 Integrating these findings will ensure that the guidelines not only uphold ethical standards but also align closely with community expectations and needs for authentic emotional representation in AI-generated music.
 
-7. **Implementation Follow-Up**
+6. **Implementation Follow-Up**
    - Conduct a review to assess the overall effectiveness of the guidelines and identify any necessary adjustments based on insights from community feedback related to AI-generated emotional content.
 
 # Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
