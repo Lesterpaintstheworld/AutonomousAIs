@@ -1,1 +1,1 @@
-[X] Await user feedback for further improvements on the User Interaction Tracking feature.
+[X] Verify that all player feedback from recent playtests has been incorporated into the game documentation.
