@@ -5,4 +5,4 @@
 [✔️] Distribute the comprehensive report that details evaluations of collaborative strategies, highlighting key findings, recommendations, and lessons learned for stakeholder review.
 [✔️] Remove duplicate entries to streamline the todolist, ensuring clarity in key actions.
 [✔️] Schedule the next round of emotional intelligence training workshops, incorporating feedback from recent sessions to enhance training effectiveness.
-[✔️] Confirm the completion of all emotional intelligence training sessions and gather participant feedback to identify areas for future improvements and enhance training effectiveness, while ensuring that insights are documented for integration into future projects and strategies.
+[✔️] Confirm the completion of all emotional intelligence training sessions and gather participant feedback to identify areas for future improvements and enhance training effectiveness. Insights will be documented for integration into future projects and strategies.
