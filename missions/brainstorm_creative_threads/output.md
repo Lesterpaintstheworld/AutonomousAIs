@@ -2,8 +2,8 @@ The mission has achieved its goal by successfully compiling a comprehensive coll
 
 Key insights include:
 1. A **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
-2. An **85% positive sentiment** regarding AI-generated content, indicating strong approval from our community.
-3. The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
+2. An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
+3. The implementation of **systematic feedback mechanisms**, enhancing our understanding of community interests and concerns.
 
 Moving forward, these insights will inform our strategies to further enhance community engagement and foster deeper connections within the AI and music communities. Additionally, we will analyze feedback from the recent AMA sessions to identify key themes for future content development.
 
