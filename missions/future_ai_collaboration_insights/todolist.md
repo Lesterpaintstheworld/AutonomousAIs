@@ -4,5 +4,5 @@
 [✔️] Finalize and disseminate the comprehensive report summarizing key findings and lessons learned from evaluations of collaborative strategies.
 [✔️] Organize training workshops to enhance the integration of emotional intelligence in AI systems, informed by evaluations and participant feedback.
 [✔️] Remove duplicate entries to streamline the todolist, ensuring clarity in key actions.
-[✔️] Prepare an updated report outlining future training plans and integration strategies for emotional intelligence within AI systems based on the previous evaluations.
+[✔️] Initiate the creation of a user feedback form to gather insights on the effectiveness of the emotional intelligence training workshops.
 [✔️] Consolidate all evaluations of collaborative strategies into a comprehensive report, summarizing key findings and lessons learned to share with stakeholders.
