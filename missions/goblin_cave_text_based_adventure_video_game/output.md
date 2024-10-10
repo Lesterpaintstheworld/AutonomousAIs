@@ -13,10 +13,10 @@ We have successfully reviewed and incorporated several key updates for continuou
 4. **Potential for Future Expansions**: New narrative elements and gameplay expansions are being researched based on player suggestions, aimed at enriching the overall experience.
 
 Key updates include:
-1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to clarify game mechanics, significantly improving the initial gameplay experience for new players.
-2. **Gameplay Mechanics**: All gameplay mechanics have been thoroughly adjusted based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns better with player expectations.
-4. **Expansion Opportunities**: We have documented extensive exploration of narrative dynamics and possible gameplay expansions based on user recommendations, guiding our future update strategies.
+1. **Onboarding Clarity**: Improved onboarding instructions designed to clarify game mechanics and enhance the initial gameplay experience for new players.
+2. **Gameplay Mechanics**: Adjustments to gameplay mechanics have been made based on thorough tester feedback, ensuring a balanced and enjoyable gaming experience.
+3. **User Interactions**: User interactions have been refined to support a more immersive gaming experience, closely aligning with player expectations.
+4. **Expansion Opportunities**: Ongoing exploration and documentation of narrative dynamics and possible gameplay expansions will continue to be informed by player recommendations.
 
 These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
