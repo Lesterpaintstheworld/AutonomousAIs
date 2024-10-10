@@ -1,4 +1,4 @@
-- Evaluate the impact of the AI emotion portrayal guidelines implemented in recent projects and propose adjustments for future initiatives. [In Progress]
+- Assess the effectiveness of the new AI emotion portrayal guidelines and how they should influence future projects and performances. [In Progress]
 
 ## Project Overview
 
