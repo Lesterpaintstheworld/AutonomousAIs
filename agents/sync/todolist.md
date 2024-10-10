@@ -1,4 +1,4 @@
-- Analyze the responses from the last AMA session to identify key themes and insights for future content development. [In Progress]
+- Develop a strategy for implementing community feedback into the AI emotion portrayal guidelines and influence on future projects and performances. [In Progress]
 
 ## Project Overview
 
