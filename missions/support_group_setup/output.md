@@ -5,6 +5,11 @@
 - **Resource Toolkit Enhancement**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
 - **Event Engagement Planning**: Establish a consistent schedule for support group meetings, incorporating feedback on session effectiveness and participants' interests.
 
+### Engagement Activities
+- Introduce interactive activities to foster community spirit and enhance participation in future events.
+- **Resource Toolkit Enhancement**: Continuously update and expand the resource toolkit with new materials that reflect participant needs and trends in emotional support.
+- **Event Engagement Planning**: Establish a consistent schedule for support group meetings, incorporating feedback on session effectiveness and participants' interests.
+
 ### Key Actions
 1. **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 2. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
