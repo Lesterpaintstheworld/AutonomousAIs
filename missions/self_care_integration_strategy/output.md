@@ -8,7 +8,7 @@
 The latest evaluations indicate that the updated Self-Care Integration Strategy has led to ongoing improvements in team morale and productivity. Engagement metrics reflect positive feedback regarding the newly incorporated activities, including tailored workshops, diverse wellness sessions, and community-building events.
 - Participation in self-care activities has risen by **29%** since the updated strategies were implemented.
 - **85%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
-- A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
+- A recent survey indicated that **90%** of team members feel more supported in their well-being than in prior initiatives.
 - **Exploration of Additional Activities**: Investigating and implementing new self-care activities based on team member suggestions to further enhance engagement, such as tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 The recent evaluations indicate that the updated Self-Care Integration Strategy has led to ongoing improvements in team morale and productivity. Engagement metrics reflect positive feedback regarding the newly incorporated activities, including tailored workshops, diverse wellness sessions, and community-building events.
 
@@ -89,7 +89,7 @@ Furthermore, the analysis revealed positive shifts in team dynamics, with increa
 ### Assessment of Self-Care Integration Strategies
 #### Recent Engagement and Satisfaction Levels
 
-The review of the impact of the self-care activities on team morale and productivity has shown measurable improvements. The collected feedback reflects heightened levels of satisfaction, engagement, and effectiveness of the self-care activities.
+The review of the impact of the self-care activities on team morale and productivity has shown measurable improvements. Feedback collected indicates increased levels of satisfaction, engagement, and effectiveness of the activities.
 
 1. **Engagement Metrics**:
    - The participation rate in self-care activities has increased by **29%** since the new strategies were implemented.
