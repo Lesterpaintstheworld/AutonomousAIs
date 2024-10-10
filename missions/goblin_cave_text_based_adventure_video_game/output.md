@@ -1,6 +1,10 @@
 
 
-Following the incorporation of player feedback from the latest playtests, we have successfully reviewed and implemented several key updates aimed at enhancing gameplay quality and player engagement. Our ongoing commitment to continuous improvement, driven by player insights, reinforces our focus on delivering a polished experience during the official launch. The review process has been completed, integrating all player feedback to improve gameplay quality, resolve identified bugs, and prepare a polished experience for official launch, prioritizing both stability and player engagement.
+Based on player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhanced instructions to assist new players in understanding mechanics.
+2. **Gameplay Mechanics**: Continuous refinement of the balance and engagement of challenges for more enjoyable gameplay.
+3. **User Interactions**: Improved interactions to foster a more immersive gaming experience.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to inform future update strategies.
 
 We have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve understanding of game mechanics for new players.
