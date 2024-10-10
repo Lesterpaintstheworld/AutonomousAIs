@@ -1,4 +1,4 @@
-- Summarize the feedback gathered from the latest AMA session to draw out key themes and insights for content development. [In Progress]
+- Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
 
 ## Project Overview
 
