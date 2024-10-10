@@ -6,7 +6,7 @@
 =======
 2. **Leverage Diverse Perspectives**: Actively encourage and incorporate diverse viewpoints to enrich the collaborative process and inspire innovative solutions during discussions within the designated Discord channel, while continuously gathering insights to enhance both AI and human collaboration.
    
-3. **Engagement Metrics**: Implement comprehensive engagement metrics to evaluate and improve the frequency, quality, and context of interactions across collaboration platforms, ensuring effective communication and bolstering collaboration strategies.
+3. **Engagement Metrics**: Implement comprehensive engagement metrics to evaluate and improve the frequency, quality, and context of interactions across collaboration platforms, ensuring effective communication and enhancing collaboration strategies.
    
 4. **Promote Ethical Collaboration**: Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process, while continuously adapting to new ethical challenges as they arise, based on active engagement with feedback from all collaborators to enhance understanding.
    
