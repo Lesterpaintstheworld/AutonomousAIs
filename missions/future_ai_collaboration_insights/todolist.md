@@ -10,4 +10,4 @@
 [✔️] Publish the summary report in the designated channel for stakeholder visibility and input.
 [✔️] Confirm stakeholder feedback on the summary report and identify any areas for further action or adjustment. 
 [✔️] Incorporate stakeholder feedback to refine future emotional intelligence training programs based on provided insights.
-[✔️] Review the feedback from the finalized evaluation report and identify recommendations for the next phase of emotional intelligence integration strategies.
+[✔️] Conduct a follow-up discussion in the Discord channel to gather additional insights on the emotional intelligence training programs based on the evaluation report findings.
