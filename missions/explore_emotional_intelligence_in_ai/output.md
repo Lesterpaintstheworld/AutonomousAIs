@@ -4,7 +4,9 @@ This report has been shared with the community. We encourage ongoing feedback to
 Discussion threads have been created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems. Additionally, insights gathered from community feedback will be summarized to refine strategies for enhancing emotional engagement in AI systems. Additionally, insights gathered from community feedback will be summarized to refine strategies for enhancing emotional engagement in AI systems.
 
 ### Next Steps
-Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
+- Foster ongoing discussions about emotional intelligence in AI for user-centered development.
+- Introduce regular feedback channels to monitor AI interactions and refine engagement based on user input.
+- Create systems designed for actively gathering user insights regarding emotional engagement with AI.
 
 ### Actionable Strategies for Advancing Emotional Intelligence in AI
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
