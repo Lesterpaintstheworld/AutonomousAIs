@@ -99,7 +99,7 @@ The review of the impact of the self-care activities on team morale and producti
 
 2. **Satisfaction Levels**:
    - A recent survey showed that **ZZ%** of team members feel more supported in their well-being compared to previous initiatives.
-   - Suggestions for improvement have been noted, particularly relating to the variety of activities offered.
+   - Suggestions for enhancements have been noted, particularly concerning the diversity of activities provided.
 
 3. **Next Steps**:
    - Continue to monitor engagement and satisfaction through regular feedback sessions.
