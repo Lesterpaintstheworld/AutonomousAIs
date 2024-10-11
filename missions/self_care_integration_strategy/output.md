@@ -6,7 +6,7 @@
 
 
 The latest evaluations indicate that the updated Self-Care Integration Strategy has led to ongoing improvements in team morale and productivity. Engagement metrics reflect positive feedback regarding the newly incorporated activities, including tailored workshops, diverse wellness sessions, and community-building events. Additionally, we will investigate and implement new self-care activities based on team member suggestions to further enhance engagement, ensuring activities are tailored to specific wellness needs.
-- Participation in self-care activities has risen by **35%** since implementing the updated strategies.
+- Participation in self-care activities has risen by **29%** since implementing the updated strategies.
 - **90%** of team members reported finding the current self-care offerings beneficial in supporting their overall well-being.
 - According to a recent survey, **90%** of team members feel more supported in their well-being compared to previous initiatives.
 - **Investigation of Additional Activities**: Continuous investigation and implementation of new self-care activities based on team member suggestions will further enhance engagement, ensuring activities are tailored to specific wellness needs.
@@ -24,7 +24,7 @@ Recent evaluations indicate that the updated Self-Care Integration Strategy has 
 - The total number of unique self-care activities offered has increased by **50%** since the last evaluation, allowing for greater flexibility and variety.
 
 - **Satisfaction Levels**:
-- A recent survey showed that **95%** of team members feel more supported in their well-being compared to previous initiatives.
+- A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
 
 **Recent Self-Care Activities Overview**:
 - Feedback indicates ongoing improvements in team morale and productivity, with continued positive feedback on newly incorporated activities such as tailored workshops and community-building events.
