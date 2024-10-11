@@ -2,7 +2,9 @@
 
 ### Summary of Updates Based on Player Feedback
 
-**Summary of User Feedback:**
+**## Summary of Updates Based on Player Feedback
+
+**Summary of User Feedback:****
 Based on the analysis of player feedback from the last event, we have successfully reviewed and integrated several key updates for continuous improvement, focusing on enhancing gameplay quality and player engagement. The primary updates include:
 
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively, ensuring a smoother entry into the game.
