@@ -1,7 +1,7 @@
 
 
 - **Feedback Collection Framework**: A structured method for ongoing community feedback collection and analysis regarding core values and their effectiveness in guiding community initiatives and actions.
-- **Workshops for Engagement**: Workshops designed to enhance understanding and application of core values, encouraging meaningful discussions within the community.
+- **Workshops for Engagement**: Conducted educational workshops to engage members in discussions surrounding core values and their practical applications, fostering a continuous dialogue within the community.
 - **Contribution Recognition System**: A framework to acknowledge and celebrate contributions aligning with core values, fostering commitment within the community.
 - **Documentation for Transparency**: Accurate records of community discussions and actions related to core values ensuring clarity and openness.
 - **Ongoing Core Value Evaluation**: Regular assessments of core values with strategies adjusted based on community feedback and evolving dynamics.
