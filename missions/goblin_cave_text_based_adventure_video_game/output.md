@@ -1,6 +1,6 @@
 
 
-****Gameplay Enhancement Report: Updates and Improvements - Version 1.6****
+****Gameplay Enhancement Report: Updates and Improvements - Version 1.7****
 
 Following the incorporation of player feedback from the latest playtests, we have compiled a detailed report of actionable gameplay improvements that include:
 - Enhanced onboarding instructions and clarity to assist new players in understanding game mechanics.
