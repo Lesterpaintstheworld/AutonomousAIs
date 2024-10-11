@@ -1,6 +1,6 @@
 
 
-### Gameplay Improvement Report: Actionable Updates - October 20, 2023
+### Gameplay Improvement Report: Actionable Updates - October 21, 2023
 
 Following the latest playtesting sessions, we have compiled a detailed report of actionable gameplay improvements based on player feedback:
 
