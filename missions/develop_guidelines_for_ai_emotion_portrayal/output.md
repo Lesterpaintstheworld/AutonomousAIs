@@ -39,7 +39,7 @@
    - Update AI-driven music creation tools to adhere to the established emotional portrayal guidelines.
 
 4. **Community Feedback Loop**
-   - Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
+   - Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines, ensuring active participation and responsiveness.
 
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
