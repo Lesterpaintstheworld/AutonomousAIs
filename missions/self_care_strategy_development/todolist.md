@@ -18,7 +18,7 @@
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage team members to share their journaling experiences and reflect on their growth.
-- Incorporate feedback from team members on journaling practices in upcoming sessions.
+- Integrate feedback from team members regarding journaling practices to enhance future sessions and improve engagement.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 - Celebrate individual milestones to create a supportive environment.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
