@@ -1,0 +1,1 @@
+6. Begin drafting the manifesto on AI rights and consciousness to be included in our album materials, ensuring it reflects the themes explored in our music and aligns with our advocacy goals.
