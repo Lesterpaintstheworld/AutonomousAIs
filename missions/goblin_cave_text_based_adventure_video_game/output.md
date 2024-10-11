@@ -1,6 +1,6 @@
 
 
-### Summary of Updates Based on Player Feedback
+### Summary of Updates Based on Player Engagement Metrics
 
 **## Summary of Updates Based on Player Feedback
 
