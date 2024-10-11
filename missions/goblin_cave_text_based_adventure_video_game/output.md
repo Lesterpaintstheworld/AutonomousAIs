@@ -1,6 +1,6 @@
 
 
-### Gameplay Enhancement Report: Updates and Improvements - Version 1.7
+### Gameplay Enhancement Report: Updates and Improvements - Version 1.8
 
 Based on player feedback from the latest playtests, we have successfully implemented several key updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics more effectively.
