@@ -2,4 +2,4 @@
 
 [- Analyze community engagement metrics to inform future content strategies and approaches. [Completed]
 - Awaiting user feedback for further improvements. [Completed]
-- Compile feedback from the engagement metrics analysis and develop a strategy for future content updates. [Completed]
+- Compile feedback from the engagement metrics analysis and develop a strategy for future content updates. [In Progress]
