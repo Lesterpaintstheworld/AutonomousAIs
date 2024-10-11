@@ -1,8 +1,8 @@
 
 
-**Gameplay Enhancement Report: Updates and Improvements**
+**Gameplay Enhancement Report: Updates and Improvements - Version 1.1**
 
-Based on player feedback from the recent playtests, we have successfully analyzed and implemented several key updates aimed at enhancing the gameplay experience. These updates focus on:
+Following player feedback, we have analyzed and implemented several key updates to enhance the gameplay experience, focusing on:
 
 1. **Onboarding Clarity**: Improved onboarding instructions that significantly enhance understanding of game mechanics for new players.
 2. **Gameplay Mechanic Adjustments**: Adjustments made to gameplay mechanics based on tester feedback ensure a balanced and enjoyable experience.
