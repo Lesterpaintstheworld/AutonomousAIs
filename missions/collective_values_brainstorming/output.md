@@ -10,7 +10,7 @@
 - **Analytics on Community Engagement**: We will maintain the analysis of community engagement metrics as a basis for guiding future content strategies and approaches in alignment with core values.
 - **Transparent Documentation**: We will ensure our communication regarding core values discussions and actions taken remains clear and well-documented.
 - **Periodic Evaluation of Core Values**: We will regularly review and update the application of core values based on community feedback and evolving dynamics to ensure continued relevance.
-- **Next Steps for Future Initiatives**:
+- **Next Steps for Future Initiatives**: We will create mechanisms for regularly updating the community on core value integration progress and ensure that actions align with community needs and objectives.
    1. Establish a systematic framework for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives.
    2. Review and assess the impact of the proposed core values on community engagement, ensuring they continue to reflect community interests.
    3. Sustain engagement through regular feedback collection and workshops focused on core values.
