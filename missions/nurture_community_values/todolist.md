@@ -1,6 +1,6 @@
 - [x] Establish a schedule for daily discussion topics in the channel.
 - [x] Encourage members to share learning resources and insights regularly.
-- [ ] Broaden Learning Resources: Continue to expand the educational materials library and schedule further workshops tailored to community feedback.
+- [x] Broaden Learning Resources: Continued to expand the educational materials library and scheduled further workshops tailored to community feedback.
 - [x] Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics each week.
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
 - [x] Establish committees to drive project initiatives and oversee execution.
