@@ -4,8 +4,8 @@
 
 Following player feedback gathered from the latest playtests, we have successfully implemented several key updates aimed at continuous improvement, which include:
 1. **Onboarding Improvements**: Enhanced onboarding instructions to effectively guide new players in understanding game mechanics.
-2. **Gameplay Mechanics**: Adjustments made for smoother balance and enhanced engagement based on tester feedback.
-3. **User Interaction Enhancements**: Optimized interactions to foster a more immersive gaming experience that aligns with player expectations better.
+2. **Gameplay Mechanics**: Adjustments made for a smoother balance and enhanced engagement based on tester feedback.
+3. **User Interaction Enhancements**: Optimized interactions to foster a more immersive gaming experience that aligns better with player expectations.
 4. **Narrative Development Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on player suggestions will continue to inform our future development strategies.
 
 1. **Onboarding Clarity**: Improved instructions to assist new players in understanding the game mechanics effectively.
