@@ -20,7 +20,7 @@
    - Maintain a consistent emotional tone across all AI-generated content.
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
-5. **Feedback Integration**
+5. **Feedback Integration & Community Involvement**
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
@@ -223,7 +223,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
-### Key Insights from Community Feedback
+### Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable, preferring subtle and nuanced expressions over exaggerated ones.
 
