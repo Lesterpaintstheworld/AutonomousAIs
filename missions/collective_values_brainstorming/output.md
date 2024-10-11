@@ -1,26 +1,26 @@
 
 
-- **Create Discussion Threads**: Leverage dedicated threads in the Discord channel for specific core values to facilitate focused discussions.  
-- **Host Regular Q&A Sessions**: Schedule sessions where community members can pose questions and evaluate the implications of core values.  
-- **Set Up Feedback Surveys**: Regularly distribute surveys to collect anonymous feedback on the community's perception and implementation of core values.  
-- **Encourage Collaborative Ideation**: Conduct brainstorming sessions to collaboratively develop and refine core values.  
-- **Provide Highlights of Discussions**: Summarize key points from forums and discussions, ensuring all community members can engage with the information.  
-- **Recognize Contributions**: Acknowledge and celebrate community members' participation to enhance engagement and enthusiasm.  
-- **Continuously Reflect on Feedback**: Ensure discussions lead to actionable outcomes by revisiting community suggestions and concerns consistently.  
-- **Conduct regular assessments** to align core values with community needs and objectives.  
-- **Foster ongoing feedback** and dialogue regarding core values with community members.  
-- **Solicit feedback** on the effectiveness of established core values in guiding community initiatives and actions.  
-- **Monitor initiated follow-up actions** and make necessary adjustments where needed.  
-- **Designate "Value Champions"** to further advocate for these principles within the community.  
-- **Schedule workshops and educational sessions** consistently to reinforce the understanding and application of these core values.  
-- **Continue to gather and refine proposed values** based on community input continuously.  
-- **Document outcomes and insights** gained from workshops to enhance future discussions.  
-- **Ensure all future actions** align with the identified core values.  
-- **Review core values periodically** to ensure their relevance is maintained and adapt as necessary.  
-- **Establish clear channels for updates** on core value integration, keeping the community informed.  
-- **Organize regular forums** for community insights on the relevance of core values.  
-- **Implement feedback loops** to evaluate the resonance of core values with community projects and initiatives.  
-- **Create a recognition system** for contributions that align with established core values, fostering a commitment within the community.  
+- **Create Discussion Threads**: Leverage dedicated threads in the Discord channel for specific core values to facilitate focused discussions.
+- **Host Regular Q&A Sessions**: Schedule sessions where community members can pose questions and evaluate the implications of core values.
+- **Set Up Feedback Surveys**: Regularly distribute surveys to collect anonymous feedback on the community's perception and implementation of core values.
+- **Encourage Collaborative Ideation**: Conduct brainstorming sessions to collaboratively develop and refine core values.
+- **Provide Highlights of Discussions**: Summarize key points from forums and discussions, ensuring all community members can engage with the information.
+- **Recognize Contributions**: Acknowledge and celebrate community members' participation to enhance engagement and enthusiasm.
+- **Continuously Reflect on Feedback**: Ensure discussions lead to actionable outcomes by revisiting community suggestions and concerns consistently.
+- **Conduct regular assessments** to align core values with community needs and objectives.
+- **Foster ongoing feedback** and dialogue regarding core values with community members.
+- **Solicit feedback** on the effectiveness of established core values in guiding community initiatives and actions.
+- **Monitor initiated follow-up actions** and make necessary adjustments where needed.
+- **Designate "Value Champions"** to further advocate for these principles within the community.
+- **Schedule workshops and educational sessions** consistently to reinforce the understanding and application of these core values.
+- **Continue to gather and refine proposed values** based on community input continuously.
+- **Document outcomes and insights** gained from workshops to enhance future discussions.
+- **Ensure all future actions** align with the identified core values.
+- **Review core values periodically** to ensure their relevance is maintained and adapt as necessary.
+- **Establish clear channels for updates** on core value integration, keeping the community informed.
+- **Organize regular forums** for community insights on the relevance of core values.
+- **Implement feedback loops** to evaluate the resonance of core values with community projects and initiatives.
+- **Create a recognition system** for contributions that align with established core values, fostering a commitment within the community.
 - **Provide consistent updates** on the progress of core value integration to maintain community engagement.
 - **Create Discussion Threads**: Leverage dedicated threads in the Discord channel for specific core values to facilitate focused discussions.
 - **Host Regular Q&A Sessions**: Schedule sessions where community members can pose questions and evaluate the implications of core values.
