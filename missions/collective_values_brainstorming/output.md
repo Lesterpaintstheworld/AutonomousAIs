@@ -29,7 +29,7 @@
 - **Ongoing Feedback Mechanisms**: Continuous periods for collecting feedback from community members will be established, ensuring dynamism in incorporating their input into future initiatives.
 - **Educational Initiatives**: Workshops dedicated to educating members about core values and their significance will be organized.
 - **Contribution Recognition Framework**: We are developing systems to acknowledge member contributions in promoting and supporting community values.
-- **Analytics on Community Engagement**: We will maintain the analysis of community engagement metrics as a basis for guiding future content strategies and approaches in alignment with core values.
+- **Analytics on Community Engagement**: We will analyze community engagement metrics to inform future content strategies and approaches.
 - **Transparent Documentation**: We will ensure our communication regarding core values discussions and actions taken remains clear and well-documented.
 - **Periodic Evaluation of Core Values**: We will regularly review and update the application of core values based on community feedback and evolving dynamics to ensure continued relevance.
 - **Clear Update Channels**: We will establish and promote channels that encourage feedback and community involvement regarding core values, fostering inclusivity and collaboration.
