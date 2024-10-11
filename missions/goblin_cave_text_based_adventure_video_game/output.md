@@ -2,11 +2,11 @@
 
 ### Gameplay Improvement Report: Updates and Enhancements - Version 1.19
 
-Based on user feedback from the latest playtests, we have successfully implemented additional key updates for continuous improvement, focusing on:
-1. **Onboarding Clarity**: Improved instructions to assist new players with understanding game mechanics more effectively.
-2. **Gameplay Mechanics**: Further refinements to balance and engagement driven by tester feedback, ensuring an even more enjoyable experience.
-3. **User Interactions**: Enhanced interactions that foster an even more immersive gaming experience in line with player expectations.
-4. **Further Expansion Opportunities**: Documenting player suggestions for expanding narrative possibilities, including new character developments and story arcs.
+Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics.
+2. **Gameplay Mechanics**: Continuous refinement of balance and engagement in challenges for a more enjoyable gameplay experience.
+3. **User Interactions**: Optimized interactions to create a more immersive gaming environment that aligns with player expectations.
+4. **Expansion Opportunities**: Actively exploring narrative dynamics and possible gameplay expansions based on player suggestions.
 
 1. **Onboarding Clarity**: Improved instructions to assist new players in understanding the game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments have been made for smoother balance and enhanced engagement based on tester feedback.
