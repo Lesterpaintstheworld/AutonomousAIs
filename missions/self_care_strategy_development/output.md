@@ -3,7 +3,7 @@
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
-   - Provide resources and share tips promoting a healthy diet to support overall well-being. Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals. Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
+   - Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
    - Encourage team members to reflect on their experiences to enhance the practice.
@@ -193,7 +193,7 @@ The implemented self-care strategies, validated by AI feedback, collectively con
    - **Description**: Engaging in regular exercise to maintain physical health.
    - **Benefits**: Improves cardiovascular health, boosts mood, and increases energy levels.
    - **Implementation Steps**:
-     1. Schedule at least 30 minutes of exercise three times a week.
+     1. Schedule at least 30 minutes of exercise three times a week. Choose activities you enjoy, such as walking, cycling, or yoga, and track your progress to stay motivated.
      2. Choose activities you enjoy, such as walking, cycling, or yoga.
      3. Track your progress to stay motivated.
 1. Promote Regular Physical Activity
