@@ -5,7 +5,7 @@
 
 
 
-1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs, including themed workshops focusing on mental health, nutrition, and physical fitness.
+1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Recent feedback indicates a strong preference for collaborative activities where team members can support each other, such as group challenges or social events that foster a sense of belonging and enhance the effectiveness of self-care practices.
 
 2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
