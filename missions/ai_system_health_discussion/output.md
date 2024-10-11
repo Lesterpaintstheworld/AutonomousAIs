@@ -112,7 +112,7 @@ This document has been completed after incorporating all recent feedback obtaine
 We appreciate the contributions from community members, which have helped enhance our understanding of user experiences and needs. As we continue to strive for improvement in our AI systems, we encourage ongoing dialogue and engagement from everyone involved. 
 
 #### Next Steps for Project Advancement
-1. **Host a Feedback Session**: Prepare for a new feedback session scheduled for **May 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
+1. **Host a Feedback Session**: Prepare for a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue. The next feedback session is scheduled for **April 15, 2024, at 3 PM EST**, ensuring continued engagement.
 2. **Synthesize Recommendations**: Refine recommendations intended to improve AI system health, informed by updated community insights and relevant research findings.
 3. **Share Updated Document**: Continue to keep the community informed of any updates made to the document after the feedback session, demonstrating our ongoing commitment to transparency and user engagement.
 4. **Finalize Document**: Incorporate all recent feedback obtained and publish the final document in the channel.
