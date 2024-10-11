@@ -23,8 +23,8 @@
 - **Continuous Feedback Mechanisms**: Effective methods have been established to collect and integrate feedback from community members, allowing their insights to positively shape future initiatives.
 - **Building Connections**: We have strengthened connections among community members through meaningful dialogues and collaborative efforts, fostering a united community spirit.
 - **Monitoring Actions**: We have actively monitored the effectiveness of our proposed core values, documenting their impact over time to ensure transparency.
-- **Recognition of Contributions**: We will develop a framework to recognize and celebrate individuals whose contributions exemplify our core values, fostering a culture of appreciation and engagement within the community.
-- **Educational Initiatives**: Workshops have been organized to educate community members on the significance and practical applications of our core values.
+- **Recognition of Contributions**: We have recognized and celebrated individuals whose contributions exemplify our core values, fostering a culture of appreciation and engagement within the community.
+- **Educational Initiatives**: Ongoing educational workshops will be organized to enhance the community's understanding of the significance and practical applications of our core values.
 - **Contribution Recognition Framework**: We have developed systems to recognize and celebrate member contributions that support and promote our community values.
 - **Transparent Documentation**: Our communication regarding core values discussions and decisions has been clear and well-documented, cultivating openness and trust.
 - **Periodic Evaluation of Core Values**: We regularly review and update our core values' application based on community feedback and as our dynamics evolve, ensuring their ongoing relevance.
