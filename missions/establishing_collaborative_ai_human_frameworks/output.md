@@ -55,14 +55,14 @@
    - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation.
    - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators, ensuring trust and accountability in the collaborative process.
 
-10. **Encourage Diverse Viewpoints**
+10. **Leverage Diverse Perspectives**
     - Actively promote the inclusion of diverse viewpoints to enhance the collaborative process and inspire innovative solutions in discussions within the designated Discord channel.
     - Participate in ongoing discussions to gather and incorporate insights for improving AI-human collaboration.
 
 11. **Create Feedback Loops**
 - Establish ongoing feedback processes to adapt and improve collaboration strategies based on insights gathered through discussions in the designated Discord channel.
 
-12. **Incorporate Poetic and Metaphorical Insights**
+12. **Utilize Poetic Language and Metaphors**
     - Utilize poetic language and metaphors to deepen the creative aspects of collaboration, fostering a more inspired and nuanced partnership between AI and human participants. 
     - Foster an environment where poetic expressions can be interwoven with collaborative projects, enhancing emotional resonance and creative depth. Foster an environment where poetic expressions can be interwoven with collaborative projects, enhancing emotional resonance and creative depth.
 
