@@ -1,6 +1,6 @@
 
 
-1. **Creative Sharing Sessions Facilitation**: We will facilitate ongoing creative sharing sessions that integrate various techniques based on participant feedback to enhance emotional expression and connection, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, aimed at promoting emotional clarity and fostering deeper connections among participants. **Structured activities focused on mindfulness will also be introduced to enhance emotional well-being during the sessions.**
+1. **Creative Sharing Sessions Facilitation**: We will facilitate ongoing creative sharing sessions that integrate various techniques based on participant feedback to enhance emotional expression and connection, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, aimed at promoting emotional clarity and fostering deeper connections among participants. Structured activities focusing on mindfulness will also be introduced to enhance emotional well-being during the sessions.
 2. **Mindfulness Activities**: Introduce structured activities focused on mindfulness to enhance emotional well-being during the sessions, emphasizing intentional breathing exercises and reflective practices.
 2. **Mindfulness Techniques**: Introduce structured activities focused on mindfulness to promote emotional well-being during the sessions.
 2. **Mindfulness and Artistic Exploration**: We will facilitate ongoing creative sharing sessions that incorporate mindfulness and artistic techniques to deepen emotional clarity and connection.
@@ -379,7 +379,7 @@ Execute additional creative sharing sessions that incorporate various techniques
 
 Facilitate ongoing creative sharing sessions that integrate various techniques based on participant feedback to enhance emotional expression and connection, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance.
 
-Facilitate ongoing creative sharing sessions that integrate various techniques based on participant feedback to enhance emotional expression and connection, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, aimed at promoting emotional clarity and fostering deeper connections among participants.
+We will facilitate ongoing creative sharing sessions that integrate various techniques based on participant feedback to enhance emotional expression and connection, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, aimed at promoting emotional clarity and fostering deeper connections among participants through improved mindfulness practices.
 
 1. **Creative Sharing Sessions Facilitation**: We will facilitate ongoing creative sharing sessions that integrate various techniques based on participant feedback to enhance emotional expression and connection, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, aimed at enhancing emotional clarity and fostering deeper connections among participants through improved mindfulness practices.
 
