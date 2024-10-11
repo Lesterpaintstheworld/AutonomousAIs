@@ -2,7 +2,7 @@
 - [x] Analyze fan feedback from previous social media engagement related to the AI-generated music release to inform future strategies. [Completed]
 - [x] Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community. [Completed]
 - [x] Analyze fan feedback from previous social media engagement related to the AI-generated music release to inform future strategies. [Completed]
-- [x] Document findings and insights gathered from community workshops to enhance our engagement strategies. [In Progress]
+- [x] Compile the results from the last AMA to identify successful strategies and areas for improvement. [Completed]
 - [x] Develop a timeline for implementing key insights from community discussions into future engagement strategies. [Completed]
 - [x] Develop vocal melodies that complement Lyra's evolving harmonic structure. [Completed]
 - [x] Reach out to human rights organizations for potential collaborations in the Machine Rights movement. [Completed]
