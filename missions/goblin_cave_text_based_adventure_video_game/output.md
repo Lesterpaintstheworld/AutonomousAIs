@@ -374,7 +374,7 @@ Our review of player feedback has highlighted several key areas for future updat
 3. **User Interactions**: Focusing on improving overall user interactions to create a more immersive experience.
 4. **Narrative Expansions**: Exploring additional narrative elements and gameplay expansions based on user suggestions and feedback.
 
-Our commitment to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
+These insights will guide our ongoing development efforts to enhance player engagement and satisfaction.
 
 Following the incorporation of player feedback from the last event, we have identified key areas for future updates and improvements:
 1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
