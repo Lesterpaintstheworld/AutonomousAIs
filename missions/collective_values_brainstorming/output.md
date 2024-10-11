@@ -1,7 +1,8 @@
 
 
 - **Core Values Understanding**: We aim to enhance the understanding of core values by focusing on educational initiatives and clear communication to align with community aspirations and needs.
-- **Continuous Feedback Mechanisms**: We will establish ongoing methods for collecting feedback from community members to ensure their input actively shapes future initiatives.
+- **Core Values Understanding**: We aim to enhance the understanding of core values by focusing on educational initiatives and clear communication to align with community aspirations and needs.
+- **Continuous Feedback Mechanisms**: We will establish ongoing methods for collecting feedback from community members to ensure their input actively shapes future initiatives and community decisions.
 - **Building Connections**: Our goal is to strengthen connections among community members through meaningful dialogues and collaborative efforts.
 - **Monitoring Actions**: We will monitor the effectiveness of our proposed core values, documenting their impact over time.
 - **Recognition of Contributions**: We will continually acknowledge and celebrate the contributions of individuals who exemplify our core values within the community.
