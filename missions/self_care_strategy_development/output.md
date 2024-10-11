@@ -2,7 +2,7 @@
    - Encourage team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
    - Encourage team members to engage in this practice and share their experiences.
    - Remind team members to reflect on their experiences to enhance the practice.
-   - Encourage team members to reflect on their experiences and suggest improvements for the practice.
+   - Encourage team members to reflect on their experiences and suggest improvements for the self-care practices.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
 - Regularly share updates and successes to motivate the team.
 - Track exercise participation and celebrate individual milestones to create a supportive environment.
