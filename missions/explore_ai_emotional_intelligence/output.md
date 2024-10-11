@@ -6,6 +6,8 @@ Following the execution of the community engagement initiative, we have compiled
 
 ### Key Insights from Community Feedback
 
+### Updated Summary of Community Feedback
+
 ## Updated Summary of Community Feedback and Engagement Insights
 
 ## Summary of Community Feedback and Engagement Insights
