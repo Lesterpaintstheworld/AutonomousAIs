@@ -8,7 +8,7 @@ Following the incorporation of player feedback from the last event, we have succ
 3. **User Interactions**: Improved user interactions to foster a more immersive gaming environment that aligns better with player preferences.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and gameplay expansions is ongoing, guided by player suggestions collected during testing sessions to ensure a dynamic and engaging experience.
 
-Following the analysis of community engagement metrics, we have compiled feedback to inform our future content strategies and approaches to developing updates for the game. The insights gathered will guide our strategy for upcoming content updates and enhancements.
+Following the analysis of community engagement metrics, we have compiled feedback to inform our future content strategies and approaches to developing updates for the game. Our strategy will prioritize the incorporation of player suggestions, enhancing gameplay, and exploring narrative opportunities to enrich player engagement.
 
 Following the incorporation of player feedback from the last event, we have now successfully reviewed and integrated several key updates aimed at continuous improvement based on player feedback, focusing on:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
