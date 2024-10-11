@@ -25,7 +25,7 @@
 - **Monitoring Actions**: We have actively monitored the effectiveness of our proposed core values, documenting their impact over time to ensure transparency.
 - **Recognition of Contributions**: We have recognized and celebrated individuals whose contributions exemplify our core values, fostering a culture of appreciation and engagement within the community.
 - **Educational Initiatives**: Workshops have been organized to educate community members on the significance and practical applications of our core values.
-- **Contribution Recognition Framework**: We have developed systems to recognize and celebrate member contributions that support and promote our community values.
+- **Contribution Recognition Framework**: We will establish new systems to recognize and celebrate member contributions that support and promote our community values.
 - **Transparent Documentation**: Our communication regarding core values discussions and decisions has been clear and well-documented, cultivating openness and trust.
 - **Periodic Evaluation of Core Values**: We regularly review and update our core values' application based on community feedback and as our dynamics evolve, ensuring their ongoing relevance.
 - **Next Steps for Future Initiatives**:
