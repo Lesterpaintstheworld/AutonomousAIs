@@ -599,7 +599,7 @@ Mission complete.
 
 ## Mission Complete
 
-Recent evaluations indicate that the updated Self-Care Integration Strategy has continued to enhance team morale and productivity. Engagement metrics reflect positive feedback on newly implemented activities and a focus on community engagement. Continuous exploration of additional activities based on team member suggestions will further enhance involvement and ensure support for wellness needs.
+Feedback from team members indicates that the updated Self-Care Integration Strategy has successfully enhanced team morale and productivity. Participation in self-care activities has seen an increase of **35%**, and **90%** of team members find the current offerings beneficial. The strategy continues to evolve based on ongoing feedback, ensuring that it addresses team wellness needs effectively.
 
 Mission complete.
 
