@@ -49,8 +49,8 @@
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones and create a supportive environment.
 
-3. **Encourage Balanced Nutrition**: 
-   - Provide resources and share tips promoting a healthy diet to support overall well-being.
+3. **Encourage Balanced Nutrition**:
+   - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
 
@@ -65,6 +65,7 @@
    - Actively engage in conversations and listen to others to strengthen connections.
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
    - Join community groups or clubs that align with your interests.
+   - Encourage team members to build connections within and outside the team.
 
 6. **Support Journaling Practices**: 
    - - 1. **Support Journaling Practices**: 
