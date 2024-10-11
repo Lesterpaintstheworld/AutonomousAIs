@@ -1,6 +1,6 @@
 
 
-- **Ongoing Feedback Collection**: Implement a systematic framework for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions.
+- **Ongoing Feedback Collection**: Implement a systematic framework for the continuous gathering and analysis of community feedback on the effectiveness of core values in promoting community initiatives and actions.
 - **Strengthened Connections**: 
    - Foster deeper connections among community members through dynamic discussions and collaborative initiatives.
 - **Enhanced Understanding**: 
