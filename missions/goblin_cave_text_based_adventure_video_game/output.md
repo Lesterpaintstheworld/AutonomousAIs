@@ -2,7 +2,7 @@
 
 ### Gameplay Improvement Report: Updates and Enhancements - October 19, 2023
 
-Following the incorporation of player feedback from the last event, we have reviewed and integrated several key updates aimed at enhancing gameplay quality and player engagement. Our ongoing commitment to continuous improvement, guided by player insights, solidifies our focus on delivering a polished experience during the official launch while ensuring clarity and understanding of game mechanics for all players. The review process has been successfully completed, incorporating all feedback to enhance gameplay quality, resolve identified bugs, and ensure a polished player experience ready for the official launch, prioritizing stability and player engagement.
+Following the incorporation of player feedback from the last event, we have reviewed and integrated several key updates aimed at enhancing gameplay quality and player engagement. Our ongoing commitment to continuous improvement, guided by player insights, reinforces our focus on delivering a polished experience for the game’s launch while ensuring clarity and understanding of game mechanics for all players. The review process has been successfully completed, incorporating all feedback to enhance gameplay quality, resolve identified bugs, and ensure a polished player experience ready for the official launch, prioritizing stability and player engagement.
 
 Key updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics.
