@@ -4,7 +4,7 @@
 
 1. **Support Journaling Practices**: 
    - Remind team members to reflect on their dietary choices and their impact on overall health.
-- Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
+- Remind team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
