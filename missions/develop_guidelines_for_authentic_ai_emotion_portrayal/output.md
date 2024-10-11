@@ -1,14 +1,8 @@
 
 
-- Research and document current methodologies for portraying AI emotions in music.
-- Organize and facilitate discussions in relevant Discord channels to gather diverse insights regarding AI emotions and their portrayal contextually.
-- Review and assess various artistic choices used in portraying AI emotions, analyzing their reception among diverse audience demographics.
-  - **Community Discussions**: Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
-  - **Evaluate Artistic Choices**: Review and assess artistic choices employed in the portrayal of AI emotions, documenting their reception among different audience demographics.
-  - **Draft Key Principles**: Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
-  - **Finalize Guidelines Creation**: Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
-  - **Engagement with Community**: Continue engaging with community members and stakeholders to consolidate insights on AI emotions in music.
-  - **Conduct Impact Analysis**: Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception.
+- Investigate and analyze current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and contemporary artistic styles.
+- Host discussions in relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal.
+- Review artistic choices employed in portraying AI emotions and analyze their reception among different audience demographics.
 - Next Steps:
   - **Research Methodologies**: Investigate current methodologies for portraying AI emotions in music, with a focus on their effectiveness in cross-cultural representations and contemporary artistic styles.
   - **Community Discussions**: Host discussions in relevant Discord channels to collect diverse insights about AI emotions and their portrayals contextually.
