@@ -184,7 +184,7 @@ We have successfully reviewed and integrated several key updates aimed at contin
 3. **User Interactions**: User interactions have been optimized to foster a more immersive experience, aligning with player expectations through improved dialogue options and clearer action cues.
 4. **Potential for Future Expansions**: Actively exploring new narrative elements and gameplay expansions based on player suggestions to enrich the overall experience.
 
-We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts.
+We remain committed to enhancing player engagement and satisfaction by integrating final feedback and polishing the gameplay experience for the official launch.
 
 - The final review process has been successfully completed, and all player feedback has been integrated to enhance gameplay quality, resolve identified bugs, and ensure a polished player experience ready for the official launch, focusing on stability and player engagement.
 
@@ -571,7 +571,7 @@ Incorporating these insights will guide our ongoing development efforts to enhan
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience.
 
-Following the incorporation of player feedback from the last event, we have identified key areas for future updates and improvements, including gameplay mechanics, enhancements to user interactions, and opportunities for narrative expansion based on player suggestions.
+Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights have been documented for future reference, ensuring transparency and ongoing improvement of the game.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
