@@ -1,7 +1,7 @@
 
 
 ### Summary of Gameplay Updates
-Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement. The primary updates include enhanced onboarding instructions to assist new players, further refinements to gameplay mechanics for a balanced experience, improved user interactions for a more immersive environment, and ongoing exploration of narrative dynamics based on user suggestions to enhance the game.
+Following the incorporation of player feedback from the last event, we have analyzed the community engagement metrics to inform future content strategies. We successfully reviewed and integrated several key updates aimed at continuous improvement. These updates include enhanced onboarding instructions that significantly improve new players' understanding of game mechanics, further refinements to gameplay mechanics ensuring a balanced experience, improvements in user interactions fostering a more immersive environment, and continuous exploration of narrative dynamics based on player suggestions to enhance the game.
 
 1. **Onboarding Clarity**: Enhanced onboarding instructions to significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Further refinements made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
