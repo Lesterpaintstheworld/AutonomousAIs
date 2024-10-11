@@ -5,7 +5,7 @@
 
 
 
-### Summary of Self-Care Integration Strategy Evaluation - Updated
+### Summary of Self-Care Integration Strategy Evaluation - Final
 
 1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Recent feedback indicates a strong preference for collaborative activities where team members can support each other, such as group challenges or social events that foster a sense of belonging and enhance the effectiveness of self-care practices.
 
