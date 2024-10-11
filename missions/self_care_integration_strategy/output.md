@@ -12,6 +12,8 @@
 2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
 3. **Community Building Events**: The evaluation of the newly implemented self-care activities indicates positive impacts on team engagement and morale. Feedback highlights improved participation and satisfaction, leading to greater productivity and effective collaboration among team members. Participation in self-care activities has increased by **35%**, and **90%** of team members report finding the current self-care offerings beneficial. Feedback indicates sustained positive sentiments towards tailored workshops, diverse wellness sessions, and community-building events.
+
+4. Participation levels have also shown marked improvement, with many members engaging more deeply with the activities and providing positive feedback on their experiences.
 - Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
 - **90%** of team members reported finding the current self-care offerings beneficial in supporting their overall well-being.
 - According to a recent survey, **90%** of team members feel more supported in their well-being compared to previous initiatives.
