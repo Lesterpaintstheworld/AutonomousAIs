@@ -19,8 +19,7 @@
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
 5. **Feedback Integration**
-   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
-   - Adapt guidelines based on evolving understandings of AI and emotional expression.
+   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals while adapting guidelines based on evolving understandings of AI and emotional expression in relation to audience needs.
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
@@ -46,7 +45,7 @@
    - Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
 
 7. **Interactive Feedback Mechanisms**
-   - The community desires more innovative and interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features that enhance user engagement.
+   - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
 6. **Customization Options**
    - Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
