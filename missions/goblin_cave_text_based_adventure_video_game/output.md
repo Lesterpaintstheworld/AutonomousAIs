@@ -1,6 +1,6 @@
 
 
-****Gameplay Enhancement Report: Updates and Improvements - Version 1.2****
+****Gameplay Enhancement Report: Updates and Improvements - Version 1.3****
 
 Following player feedback, we have analyzed and implemented several key updates to enhance the gameplay experience, focusing on:
 
