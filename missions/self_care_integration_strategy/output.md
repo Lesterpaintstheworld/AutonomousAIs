@@ -9,7 +9,7 @@
 
 1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Recent feedback indicates a strong preference for collaborative activities where team members can support each other, such as group challenges or social events that foster a sense of belonging and enhance the effectiveness of self-care practices.
 
-2. **Flexibility in Scheduling**: Provided on-demand access to recordings and designated multiple timings for live events, enhancing attendance and participation.
+2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
 3. **Community Building Events**: The evaluation of the newly implemented self-care activities indicates positive impacts on team engagement and morale. Feedback highlights improved participation and satisfaction, leading to greater productivity and effective collaboration among team members. Participation in self-care activities has increased by **35%**, and **90%** of team members report finding the current self-care offerings beneficial. Feedback indicates sustained positive sentiments towards tailored workshops, diverse wellness sessions, and community-building events.
 
@@ -46,7 +46,7 @@ Recent evaluations indicate that the updated Self-Care Integration Strategy has 
 - Upcoming adjustments will include investigating and implementing new self-care activities based on team member suggestions, such as tailored workshops, diverse wellness sessions, and community-building events, to enhance engagement and support mutual benefit.
 - Ongoing feedback collection will be maintained to ensure continuous improvement and enhancement of self-care offerings, promoting elevated team wellness initiatives.
 
-1. **Tailored Activities**: Continuous investigation and implementation of new self-care activities based on team member suggestions will further enhance engagement, ensuring activities are tailored to specific wellness needs.
+1. **Tailored Activities**: Implemented new self-care activities that were suggested by team members to enhance engagement and better address specific wellness needs.
 
 2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
