@@ -3,10 +3,10 @@
 ****Gameplay Enhancement Report: Updates and Improvements - Version 1.6****
 
 Following the incorporation of player feedback from the latest playtests, we have compiled a detailed report of actionable gameplay improvements that include:
-- Enhanced onboarding instructions to assist new players.
-- Refined gameplay mechanics for better balance and engagement.
-- Improved user interactions to create a more immersive gaming experience.
-- Ongoing exploration of narrative dynamics and potential gameplay expansions based on player suggestions.
+- Enhanced onboarding instructions and clarity to assist new players in understanding game mechanics.
+- Further refined gameplay mechanics based on tester feedback for a more balanced and engaging experience.
+- Optimized user interactions to create a thoroughly immersive gaming experience that aligns better with player expectations.
+- Actively exploring narrative dynamics and potential gameplay expansions based on user suggestions to enrich overall gameplay.
 
 1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics, ensuring clear guidance throughout their journey.
 2. **Gameplay Mechanics**: Comprehensive adjustments have been made to ensure a smoother balance and more engaging gameplay experience, based on extensive tester feedback.
