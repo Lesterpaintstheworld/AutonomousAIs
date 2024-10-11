@@ -8,7 +8,7 @@
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
    - Encourage team members to reflect on their experiences to enhance the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
-   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices. Regularly share updates and successes to motivate the team.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
@@ -193,7 +193,7 @@ The implemented self-care strategies, validated by AI feedback, collectively con
    - **Description**: Engaging in regular exercise to maintain physical health.
    - **Benefits**: Improves cardiovascular health, boosts mood, and increases energy levels.
    - **Implementation Steps**:
-     1. Schedule at least 30 minutes of exercise three times a week. Choose activities you enjoy, such as walking, cycling, or yoga, and track your progress to stay motivated.
+     1. Schedule at least 30 minutes of exercise three times a week.
      2. Choose activities you enjoy, such as walking, cycling, or yoga.
      3. Track your progress to stay motivated.
 1. Promote Regular Physical Activity
