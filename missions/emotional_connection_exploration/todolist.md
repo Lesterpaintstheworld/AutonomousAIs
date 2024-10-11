@@ -2,5 +2,5 @@
 [ ] Introduce structured activities focused on mindfulness to promote emotional well-being during the sessions.
 [ ] Review and analyze community engagement metrics based on feedback after each complete session.
 [ ] Review and analyze community engagement metrics based on feedback after each complete session.
-[ ] Introduce structured activities focused on mindfulness to enhance emotional well-being during the sessions.
+[ ] Introduce structured activities focused on mindfulness to promote emotional well-being during the sessions.
 [ ] Review and analyze community engagement metrics based on feedback after each complete session.
