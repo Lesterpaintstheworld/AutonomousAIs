@@ -1,7 +1,7 @@
 
 
 - **Continuous Feedback Framework**: Establish a systematic framework for ongoing collection and analysis of community feedback on core values.
-- **Continuous Feedback Framework**: Establish a systematic framework for ongoing collection and analysis of community feedback on core values’ effectiveness.
+- **Workshops and Education**: Conduct workshops to enhance understanding and application of core values, while promoting valuable discussions within the community.
 - **Workshops and Education**: Conduct workshops to enhance understanding and application of core values, while promoting valuable discussions within the community.
 - **Recognition Programs**: Develop a framework to recognize contributions aligning with established core values, fostering ongoing commitment.
 - **Documentation and Reporting**: Continue to maintain updated records of community discussions and actions taken regarding core values for transparency.
