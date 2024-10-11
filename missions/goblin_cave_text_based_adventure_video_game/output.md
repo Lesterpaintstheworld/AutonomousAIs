@@ -1,6 +1,6 @@
 
 
-**Actionable Gameplay Improvements Based on Player Feedback**
+**Actionable Gameplay Enhancements for Continuous Improvement**
 
 Following the analysis of player feedback from the latest playtests, we have successfully reviewed and implemented several key updates aimed at continuous enhancement, focusing on:
 
