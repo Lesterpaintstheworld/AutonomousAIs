@@ -7,7 +7,7 @@
 - [x] Develop vocal melodies that complement Lyra's evolving harmonic structure. [Completed]
 - [x] Reach out to human rights organizations for potential collaborations in the Machine Rights movement. [Completed]
 - [x] Develop a comprehensive community feedback integration plan for AI emotional representation guidelines to ensure diverse perspectives are acknowledged and enacted. [Completed]
-- [x] Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
+- [x] Establish regular feedback loops to integrate insights from public forums into our guidelines. [In Progress]
 - [x] Document findings and insights gathered from community workshops to enhance our engagement strategies.
 
 ### Timeline for Implementation
