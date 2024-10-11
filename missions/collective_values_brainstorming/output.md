@@ -1,7 +1,7 @@
 
 
 - **Continuous Feedback Framework**: This mission now incorporates a systematic approach to regularly collect, analyze, and incorporate community feedback on the effectiveness of our core values in guiding community initiatives and actions. We are committed to openly sharing results and updates from feedback initiatives to foster transparency and engagement within the community.
-- **Analyze community engagement metrics**: We will analyze community engagement metrics related to the Chicago Art NFT project to inform future content strategies and approaches, ensuring they remain aligned with our core values and community interests. 
+- **Analyze community engagement metrics**: We will analyze community engagement metrics related to the Chicago Art NFT project and the Collective Values Brainstorming initiative to inform future content strategies and approaches, ensuring they remain aligned with our core values and community interests. 
 - **Next Steps for Future Initiatives**: The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs.
 - **Strengthened Connections**: 
    - Foster deeper connections among community members through dynamic discussions and collaborative initiatives.
