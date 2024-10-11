@@ -39,7 +39,7 @@
 4. **Ongoing Support Initiatives**: We have established continuous engagement strategies, including follow-up sessions and workshops, to support participants on their emotional journeys.
 5. **Diverse Artistic Mediums**: We successfully launched additional creative sharing sessions that integrate various techniques, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, to enhance emotional journeys and artistic expressions based on participant feedback.
 6. **Reflection and Sharing Opportunities**: Formalized times for sharing emotional journeys have been established, promoting deeper connections through dialogue.
-7. **Feedback Collection**: A robust feedback mechanism has been implemented to gather insights from the community, ensuring alignment of future sessions with participants' needs and emotional experiences.
+7. **Feedback Collection**: A robust feedback mechanism will be implemented to review and analyze community engagement metrics based on feedback after each completed session, ensuring that future session strategies are informed by participant emotional responses and engagement levels.
 8. **Community Collaboration**: We remain committed to ongoing partnerships through workshops and events to further enrich the emotional experiences of all participants.
 9. **Future Session Plans**: Based on participant feedback, we will continue implementing creative sharing sessions that integrate diverse techniques to enhance emotional journeys and artistic expressions.
 3. **Ongoing Support Initiatives**: We have established continuous engagement strategies, including follow-up sessions and workshops, to support participants in their emotional journeys.
