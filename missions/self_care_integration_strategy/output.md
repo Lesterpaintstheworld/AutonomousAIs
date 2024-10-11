@@ -136,7 +136,7 @@ The review of the impact of the self-care activities on team morale and producti
 
 ### Updated Evaluation of Self-Care Activities
 
-The recent updates to self-care strategies have shown measurable improvements in team morale, productivity, and engagement. Feedback collected from team members indicates a sustained increase in satisfaction levels with the newly implemented activities.
+The updated Self-Care Integration Strategy has led to ongoing improvements in team morale and productivity. Participation in self-care activities has risen by **35%** since the updated strategies were implemented. **90%** of team members reported finding the current self-care offerings beneficial, with detailed feedback highlighting the effectiveness of tailored workshops, diverse wellness sessions, and community-building events in enhancing overall engagement and morale.
 
 ## Implementation Plan
 
