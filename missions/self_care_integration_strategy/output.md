@@ -7,7 +7,7 @@
 
 ### Summary of Self-Care Integration Activities (Updated)
 
-The evaluations indicate that the updated Self-Care Integration Strategy has significantly enhanced team morale and productivity. Participation in self-care activities has increased by **35%** since the updated strategies were implemented, with **90%** of team members reporting that the current self-care offerings positively influence their overall well-being. Feedback highlights the effectiveness of tailored workshops, diverse wellness sessions, and community-building events in improving engagement and morale.
+The recent evaluations indicate that the updated Self-Care Integration Strategy has continued to enhance team morale and productivity. Participation in self-care activities has risen by **35%** since the updated strategies were implemented, with **90%** of team members reporting that the current self-care offerings support their overall well-being. Continuous feedback emphasizes the success of newly implemented activities, including tailored workshops, diverse wellness sessions, and community-building events, in improving engagement and morale.
 
 1. **Tailored Activities**: Continuous investigation and implementation of new self-care activities based on team member suggestions will further enhance engagement, ensuring activities are tailored to specific wellness needs.
 
