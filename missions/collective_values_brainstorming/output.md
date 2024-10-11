@@ -12,7 +12,7 @@
    - Cultivate relationships among community members based on shared commitments to established core values.
 - **Celebration of Member Contributions**: 
    - Continually recognize and honor the contributions of community members who integrate core values into their actions and initiatives.
-- **Encouraging Diverse Voices**: Solicit feedback from a broad spectrum of community members to ensure diverse perspectives are acknowledged during the core values proposal process.
+- **Ongoing Feedback Mechanisms**: Establish structured feedback collection periods to actively engage community members on core values, ensuring their reflections and adjustments are documented and integrated into future initiatives.
 - **Educational Initiatives**: Organize ongoing workshops to educate community members on the significance of core values and their practical applications within the AI community.
 - **Contribution Recognition Framework**: Develop and enhance methods to recognize members for their involvement and contributions to uphold community values.
 - **Analytics on Community Engagement**: Regularly analyze and review community engagement metrics to inform updates and modifications related to core values.
