@@ -12,9 +12,9 @@
 - **Transparent Documentation**: Our communication regarding core values discussions and decisions will be clear and well-documented to cultivate openness and trust.
 - **Periodic Evaluation of Core Values**: We will conduct regular reviews and updates of our core values' application based on community feedback and as our dynamics evolve, ensuring their ongoing relevance.
 - **Next Steps for Future Initiatives**:
-   1. Establish a systematic framework for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives.
-   2. Review and assess the impact of the proposed core values on community engagement, ensuring they continue to reflect community interests.
-   3. Sustain engagement through regular feedback collection and workshops focused on core values.
+   1. Implement a systematic framework for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions.
+   2. Regularly review and assess the impact of the proposed core values on community engagement, ensuring they continue to reflect community interests.
+   3. Sustain engagement through structured feedback collection and workshops focused on core values.
    4. Reinforce the role of Value Champions in promoting and advocating for core values within the community.
    5. Create structured pathways for documenting and analyzing the effectiveness of core value implementations, ensuring transparency.
    6. Foster ongoing dialogue to ensure core values remain relevant and resonate with community projects.
