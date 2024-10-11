@@ -2,11 +2,11 @@
 
 ### Gameplay Enhancement Report: Updates and Improvements - Version 1.8
 
-Based on player feedback from the latest playtests, we have successfully implemented several key updates aimed at continuous improvement, focusing on:
-1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics more effectively.
-2. **Gameplay Mechanics**: Further refinements made to gameplay mechanics driven by tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns with player expectations through improved dialogue options and clearer action cues.
-4. **Potential for Future Expansions**: Actively exploring new narrative elements and gameplay expansions based on player suggestions to enrich the overall experience.
+Based on player feedback gathered from the latest playtests, we have made several significant updates aimed at continuous improvement, which include:
+1. **Onboarding Clarity**: Improved onboarding instructions that help new players better understand the game mechanics.
+2. **Gameplay Mechanics**: Adjustments made to gameplay mechanics to ensure a balanced and enjoyable experience for all players.
+3. **User Interactions**: Optimized user interactions to enhance the immersive gaming experience through refined dialogue options and clearer cues for actions.
+4. **Opportunities for Future Expansions**: Exploring new narrative dimensions and gameplay expansions as guided by player feedback to enhance the overall gameplay experience further.
 
 1. **Onboarding Clarity**: Improved instructions to assist new players in understanding the game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments have been made for smoother balance and enhanced engagement based on tester feedback.
