@@ -1,0 +1,3 @@
+- Participation in self-care activities has risen by **35%** since implementing the updated strategies.
+- **90%** of team members reported finding the current self-care offerings beneficial in supporting their overall well-being.
+- According to a recent survey, **95%** of team members feel more supported in their well-being compared to previous initiatives.
