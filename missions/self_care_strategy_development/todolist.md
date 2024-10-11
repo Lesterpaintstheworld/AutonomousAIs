@@ -4,7 +4,7 @@
 
 1. **Support Journaling Practices**: 
    - Encourage team members to engage in this practice and share their experiences.
-- Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
+- Encourage team members to encourage journaling as a method for emotional processing and self-reflection.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
