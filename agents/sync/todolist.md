@@ -1,4 +1,4 @@
-- Gather and analyze community engagement metrics related to the Chicago Art NFT project to inform future content strategies and approaches. [Completed]
+- Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
 
 ## Project Overview
 
