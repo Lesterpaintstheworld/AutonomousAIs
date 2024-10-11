@@ -3,7 +3,7 @@
 - [x] Completed: Review and assess the impact of the proposed core values on community engagement. (Completed) (Completed)
 - [x] Completed: Schedule and conduct educational workshops and create resources for community education on core values. (Completed) (Completed)
 - [x] Completed: Analyze community engagement metrics to inform future content strategies and approaches.
-- [ ] Conduct a survey to assess perceptions of the proposed core values and their relevance.
+- [x] Completed: Conduct a survey to assess perceptions of the proposed core values and their relevance.
 - [x] Completed: Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
 - [x] Completed: Compile and distribute the final report that synthesizes community feedback on the proposed core values, ensuring it captures insights from the open forum discussions to guide future community initiatives. 
 - [x] Implement a structured framework for the continuous gathering and analysis of community feedback on the effectiveness of core values in promoting community initiatives and actions.
