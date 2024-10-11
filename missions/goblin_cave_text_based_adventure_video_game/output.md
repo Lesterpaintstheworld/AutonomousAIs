@@ -571,7 +571,7 @@ Incorporating these insights will guide our ongoing development efforts to enhan
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience.
 
-Prioritized updates based on user feedback have significantly enhanced gameplay quality and player engagement. Key refinements include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. All updates and actionable insights have been documented for future reference, ensuring transparency and ongoing improvement of the game.
+Following the incorporation of player feedback from the last event, we have identified key areas for future updates and improvements, including gameplay mechanics, enhancements to user interactions, and opportunities for narrative expansion based on player suggestions.
 
 **Gameplay Prototype Overview:**
 - You will interact with the game using text commands.
