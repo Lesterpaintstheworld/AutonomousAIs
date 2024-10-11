@@ -1,6 +1,6 @@
 
 
-### Gameplay Improvement Report: Updates and Enhancements - Version 1.13
+### Gameplay Improvement Report: Updates and Enhancements - Version 1.14
 
 Following player feedback from the latest playtests, we have successfully reviewed and integrated several critical updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to help new players comprehend game mechanics effectively.
