@@ -1,6 +1,6 @@
 - [x] Conduct a detailed review of the impact of the self-care activities on team morale and productivity, gathering specific feedback for future strategy adjustments.
 - [x] Implement the updated recommendations for new self-care activities based on team member feedback and follow up with the team on their effectiveness.
-- [ ] Conduct a detailed review of the impact of the self-care activities on team morale and productivity, gathering specific feedback for future strategy adjustments.
+- [ ] Review the impact of the self-care activities on team morale and productivity for future strategy adjustments.
 - [x] Summarize and evaluate the outcomes and effectiveness of the newly implemented self-care activities.
 - [x] Review the impact of the self-care activities on team morale and productivity for future strategy adjustments.
 - [x] Distribute summary reports of ongoing evaluations to the team to ensure transparency and engagement.
