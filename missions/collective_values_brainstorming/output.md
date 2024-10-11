@@ -1,6 +1,6 @@
 
 
-- **Ongoing Feedback Collection**: This mission now includes a structured framework for the continuous gathering and analysis of community feedback related to the effectiveness of core values in promoting community initiatives and actions.
+- **Ongoing Feedback Collection**: This mission includes a structured framework for the continuous gathering and analysis of community feedback on the effectiveness of core values in guiding community initiatives and actions.
 - **Strengthened Connections**: 
    - Foster deeper connections among community members through dynamic discussions and collaborative initiatives.
 - **Enhanced Understanding**: 
