@@ -4,8 +4,8 @@
 
 Based on player feedback from the latest playtests, we have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
 
-1. **Onboarding Clarity Enhancements**: Refined onboarding instructions significantly enhance new players' understanding of game mechanics.
-2. **Gameplay Mechanics Refinements**: Adjustments have been made to improve balance and ensure an enjoyable experience that keeps players engaged.
+1. **Onboarding Instructions Improvement**: Updated onboarding instructions to enhance clarity and assist new players in better understanding game mechanics.
+2. **Gameplay Mechanics Improvements**: Adjustments focus on achieving a balanced and enjoyable experience, ensuring optimal engagement levels for players.
 3. **User Interaction Improvements**: Optimized dialogue options and interaction cues contribute to a more immersive gameplay environment, enhancing player experience.
 4. **Opportunities for Narrative Expansion**: New story arcs and character options are actively explored to enrich overall narrative depth through player contributions.
 
