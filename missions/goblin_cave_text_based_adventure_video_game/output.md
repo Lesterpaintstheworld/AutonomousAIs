@@ -3,7 +3,7 @@
 ### Summary of Updates Based on Player Feedback
 
 **Summary of User Feedback:**
-After reviewing player feedback from recent playtesting sessions, we have successfully integrated several key improvements aimed at enhancing gameplay quality and player engagement, as documented in the To-Do List:
+Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement. The primary updates include:
 
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively, ensuring a smoother entry into the game.
 
