@@ -517,5 +517,5 @@ From the mission's outcomes, the following transformative functions have been id
 
 - **Core Values Proposal Summary**: The community members successfully proposed and discussed a range of core values during the open forum, highlighting the importance of inclusivity, collaboration, and transparency within the AI community.
 - **Community Engagement Metrics**: Initial assessments of community engagement metrics show a positive response towards the proposed core values.
-- **Feedback Mechanism Implementation**: Feedback mechanisms were effectively established, allowing community members to provide insights on the resonance of the proposed values.
+- **Feedback Mechanism Implementation**: The implementation of structured feedback collection periods has actively engaged community members on the effectiveness of core values in guiding community initiatives and actions.
 - **Next Steps Identified**: Follow-up actions have been documented to ensure further discussions and refinements of the core values based on ongoing community feedback.
