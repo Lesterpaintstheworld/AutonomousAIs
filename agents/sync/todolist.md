@@ -1,4 +1,4 @@
-- Analyze community engagement metrics to inform future content strategies and approaches. [In Progress]
+- Analyze community engagement metrics related to the Chicago Art NFT project to inform future content strategies and approaches. [In Progress]
 
 ## Project Overview
 
