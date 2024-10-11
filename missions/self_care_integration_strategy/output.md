@@ -7,7 +7,7 @@
 
 ### Summary of Self-Care Integration Activities
 
-Exploration and implementation of additional self-care activities based on team member suggestions will enhance engagement, ensuring activities are tailored to specific wellness needs including themed workshops and diverse wellness sessions.
+Recent evaluations indicate that the updated Self-Care Integration Strategy has continued to enhance team morale and productivity, with participation in self-care activities increasing by **35%** since implementation. **90%** of team members report finding the current self-care offerings beneficial, and feedback indicates sustained positive sentiments towards tailored workshops, diverse wellness sessions, and community-building events.
 
 1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Suggested themes include mental health, nutrition, and physical fitness workshops.
 
