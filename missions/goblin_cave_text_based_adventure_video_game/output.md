@@ -6,8 +6,8 @@ Following the incorporation of player feedback and community engagement metrics 
 
 1. **Onboarding Clarity**: Enhanced onboarding instructions significantly improve the understanding of game mechanics for new players, ensuring a smoother entry into the game.
 2. **Gameplay Mechanics**: Further adjustments have been made to gameplay mechanics, guaranteeing that challenges are engaging and well-balanced, reflecting tester feedback more effectively.
-3. **User Interactions**: Improved user interactions create a more immersive environment that meets player expectations, with enhanced dialogue options and clearer action cues.
-4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and gameplay expansions is based on player suggestions gathered during testing, ensuring the game continues to evolve according to user preferences.
+3. **User Interactions**: Enhanced user interactions foster a more immersive environment meeting player expectations, featuring improved dialogue options and clearer action cues.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and gameplay expansions continues to be informed by player suggestions collected during testing, ensuring the game dynamically evolves based on user preferences.
 
 These updates are vital for refining player experience and will guide our ongoing development strategies.
 
