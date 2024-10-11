@@ -2,7 +2,7 @@
 
 ### Gameplay Improvement Report: Actionable Updates - [INSERT DATE]
 
-Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement. The primary updates include:
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on enhancing instructions to assist new players, refining gameplay mechanics for better balance, and improving user interactions for a more immersive experience.
 
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively, ensuring a smoother entry into the game.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics ensure challenges are engaging and well-balanced, based on tester feedback.
