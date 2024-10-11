@@ -13,7 +13,7 @@ Based on the analysis of player feedback from the last event, we have successful
 
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and gameplay expansions based on player suggestions gathered during testing, ensuring the game continues to evolve to align with user preferences.
 
-**Next Steps for Enhancements:**
+****Next Steps for Enhancements:****
 Based on the feedback summarized, the following steps are ongoing:
 
 1. **Update Onboarding Instructions**: Continued refinement of onboarding materials to enhance clarity and aid new players effectively.
