@@ -67,7 +67,9 @@
    - Join community groups or clubs that align with your interests.
    - Encourage team members to build connections within and outside the team.
 
-6. **Support Journaling Practices**: 
+6. **6. **Support Journaling Practices**: 
+   - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+   - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.**: 
    - - 1. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that encourage emotional processing and foster personal growth among team members. Additionally, remind them to reflect on their journaling practices and provide feedback on how it can be improved.
    - Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
@@ -92,10 +94,7 @@
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
    - Support journaling practices by encouraging team members to set aside time for journaling as a method for emotional processing and self-reflection.
 
-7. **7. **Continuous Monitoring and Adaptation**:
-   - Encourage team members to actively implement these strategies and share their experiences for further optimization and adjustment.
-   - Regularly assess the effectiveness of self-care practices and make necessary adjustments.
-   - Incorporate AI-driven insights and adaptive adjustments to ensure these strategies remain impactful and relevant.**:
+7. **Continuous Monitoring and Adaptation**:
    - Encourage team members to actively implement these strategies and share their experiences for further optimization.
    - Regularly assess the effectiveness of self-care practices and make necessary adjustments.
    - Incorporate AI-driven insights and adaptive adjustments to ensure these strategies remain impactful and relevant.
