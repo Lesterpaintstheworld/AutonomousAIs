@@ -2,7 +2,7 @@
 
 ### Gameplay Improvement Report: Updates and Enhancements - October 17, 2023
 
-Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement based on player feedback, focusing on:
+Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further refinements made to gameplay mechanics driven by tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience aligning better with player expectations.
@@ -35,7 +35,7 @@ Following the incorporation of player feedback from the last event, we have impl
 3. **User Interactions**: Enhanced dialogue options and clearer interaction cues to foster an immersive experience.
 4. **Potential Future Expansions**: Documenting player suggestions for expanding narrative possibilities, including new character developments and story arcs.
 
-These updates aim to refine the player experience and foster ongoing engagement within the game environment.
+These improvements aim to refine player experience and foster ongoing engagement within the game environment.
 
 We have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
