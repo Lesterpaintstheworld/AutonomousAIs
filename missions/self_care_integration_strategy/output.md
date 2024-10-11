@@ -7,7 +7,7 @@
 
 ### Ongoing Evaluation of Self-Care Integration Strategy
 
-The recent evaluations indicate that the updated Self-Care Integration Strategy has continued to enhance team morale and productivity. Participation in self-care activities has risen by **35%** since the updated strategies were implemented. **90%** of team members report finding the current self-care offerings beneficial, with feedback highlighting the effectiveness of tailored workshops, diverse wellness sessions, and community-building events in enhancing overall engagement and morale.
+Continuous exploration of additional activities based on team member suggestions will further enhance involvement and ensure support for wellness needs, leading to improved morale and productivity.
 
 1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Suggested themes include mental health, nutrition, and physical fitness workshops.
 
@@ -169,7 +169,7 @@ The team will continue to explore and implement additional self-care activities 
 Recent evaluations indicate that the updated Self-Care Integration Strategy has continued to enhance team morale and productivity, with participation in self-care activities increasing by **35%** since implementation. **90%** of team members report finding the current self-care offerings beneficial in supporting their overall well-being. Feedback indicates sustained positive sentiments towards tailored workshops, diverse wellness sessions, and community-building events, confirming their positive impact on engagement and overall team well-being. Continuous exploration of additional activities based on team member suggestions will further enhance involvement and ensure support for wellness needs. 
 - Participation in self-care activities has risen by **35%** since implementing the updated strategies.
 - **90%** of team members reported finding the current self-care offerings beneficial in supporting their overall well-being.
-- According to a recent survey, **90%** of team members report finding the current self-care offerings beneficial in supporting their overall well-being.
+- According to a recent survey, **95%** of team members feel more supported in their well-being compared to previous initiatives.
 - Detailed feedback indicates that tailored workshops, diverse wellness sessions, and community-building events have significantly contributed to increased team morale and engagement. 
 - **Investigation of Additional Activities**: Continued investigation and implementation of further self-care activities based on team member suggestions will enhance engagement, aligning them with specific wellness needs.
 
