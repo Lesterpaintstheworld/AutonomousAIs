@@ -43,7 +43,7 @@ Based on summarized feedback, we will:
 
 4. **Explore Narrative Expansions**: Investigate new narrative elements and gameplay features based on player feedback.
 
-This report highlights our commitment to enhancing the gaming experience, ensuring player satisfaction, and leveraging community engagement insights for future development.
+This report highlights our commitment to enhancing the gaming experience and ensuring player satisfaction.
 
 Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement. The primary updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
