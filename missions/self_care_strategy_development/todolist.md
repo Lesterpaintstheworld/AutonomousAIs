@@ -14,7 +14,7 @@
 - Encourage team members to engage in this practice and share their experiences.
 - Encourage team members to reflect on their experiences and suggest improvements for the practice.
 - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
-- Remind team members to engage in this practice and share their experiences.
+- Encourage team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage team members to share their journaling experiences and reflect on their growth.
