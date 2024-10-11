@@ -12,8 +12,8 @@
 - **Periodic Evaluation of Core Values**: We regularly review and update our core values' application based on community feedback and as our dynamics evolve, ensuring their ongoing relevance.
 - **Next Steps for Future Initiatives**:
    1. Create mechanisms for regularly updating the community on core value integration progress.
-   2. Distribute periodic updates on how the core values have been integrated into community initiatives and actions taken based on them.
-   3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
+   2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
+   3. Conduct regular assessments of the core values to ensure they align with community needs and objectives.
    4. Foster channels for ongoing dialogue about core values with community members.
    5. Solicit feedback on the effectiveness of core values in guiding community initiatives.
    6. Monitor the effectiveness of initiated follow-up actions and adjust as necessary.
@@ -22,11 +22,11 @@
    9. Continue gathering and refining proposed values based on community input.
    10. Document the outcomes and insights gained from workshops to enhance future core values discussions.
    11. Ensure that all future actions and strategies align with the identified core values.
-   12. Review core values periodically to ensure their continued relevance.
+   12. Review core values periodically to ensure their ongoing relevance.
    13. Establish clear channels for updates on core value integration.
    14. Organize regular forums to encourage community insights regarding core values' relevance.
-   15. Implement feedback loops to evaluate the resonance of core values with community projects and initiatives.
-   16. Create a system for recognizing contributions that align with established core values, promoting sustained commitment to community principles.
+   15. Implement feedback loops to evaluate the alignment of core values with community projects.
+   16. Create a system for recognizing contributions that align with established core values, fostering commitment to community principles.
    17. Create mechanisms for providing regular updates on core value integration, enhancing community engagement.
    1. Implement a systematic framework for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions.
    2. Regularly review and assess the impact of the proposed core values on community engagement, ensuring they continue to reflect community interests.
