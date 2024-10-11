@@ -3,8 +3,8 @@
 ### Gameplay Improvement Report: Updates and Enhancements - Version 1.20
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
-1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics.
-2. **Gameplay Mechanics**: Further adjustments have been made to gameplay mechanics to ensure a better balance, improve engagement, and refine player challenges based on extensive tester feedback.
+1. **Onboarding Clarity**: Significantly improved onboarding instructions tailored to assist new players in comprehensively understanding game mechanics, ensuring a smoother initial experience.
+2. **Gameplay Mechanics**: Continuous refinement of balance and engagement in challenges for a more enjoyable gameplay experience.
 3. **User Interactions**: Optimized interactions to create a more immersive gaming environment that aligns with player expectations.
 4. **Expansion Opportunities**: Actively exploring narrative dynamics and possible gameplay expansions based on player suggestions.
 
