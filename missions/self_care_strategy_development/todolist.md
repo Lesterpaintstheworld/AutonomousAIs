@@ -5,7 +5,7 @@
 1. **Support Journaling Practices**: 
    - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
-- Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+- Remind team members to reflect on their dietary choices and their impact on overall health.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
 - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
