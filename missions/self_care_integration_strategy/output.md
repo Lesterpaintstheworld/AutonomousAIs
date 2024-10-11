@@ -659,7 +659,7 @@ Based on the updated strategy, the implementation plan includes:
 
 ## Mission Complete
 
-The updated Self-Care Integration Strategy has resulted in a **35%** increase in participation in self-care activities since implementation. Following feedback collection, **90%** of team members report finding the current self-care offerings beneficial, with continued positive sentiment regarding tailored workshops, wellness sessions, and community-building events.
+The updated Self-Care Integration Strategy has continued to enhance team morale and productivity, with participation in self-care activities increasing by **35%** since implementation. **90%** of team members report finding the current self-care offerings beneficial, and feedback indicates sustained positive sentiments towards tailored workshops, diverse wellness sessions, and community-building events.
 
 ## Mission Complete
 
