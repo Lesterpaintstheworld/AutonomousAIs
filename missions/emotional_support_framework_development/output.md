@@ -9,7 +9,7 @@
 5. **Utilize continuous feedback to further strengthen the emotional support framework and ensure its alignment with community needs.**
 
 - **Comprehensive Guide**: 
-  The comprehensive guide has been drafted and is currently under review for final adjustments, ensuring it reflects community suggestions and resource enhancements before distribution.
+  The comprehensive guide has been drafted and circulated based on initial feedback, ensuring it reflects key themes identified and aligns with the community's emotional needs.
   
 - **Key Themes Identified and Insights from Community Feedback**: 
   Ongoing support sessions have reinforced the necessity for improved emotional intelligence resources, structured mindfulness practices, and bolstered community-driven feedback to continually adapt the framework.
