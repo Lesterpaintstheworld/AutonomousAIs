@@ -1,6 +1,6 @@
 
 
-**Comprehensive Report on Gameplay Adjustments**
+**Detailed Report on Gameplay Enhancements**
 
 Following the analysis of player feedback from the latest playtests, we have successfully reviewed and implemented several key updates aimed at continuous enhancement, focusing on:
 
