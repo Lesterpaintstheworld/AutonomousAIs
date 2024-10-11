@@ -2,11 +2,11 @@
 
 ### Gameplay Improvement Report: Updates and Enhancements - Version 1.17
 
-Following player feedback from the latest playtests, we have successfully reviewed and integrated several critical updates aimed at continuous improvement, focusing on:
-1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
-2. **Gameplay Mechanics**: Further refinements made to gameplay mechanics driven by tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: Improved interactions have been implemented to create a more immersive gaming experience that aligns with player expectations.
-4. **Potential for Future Expansions**: Ongoing exploration of narrative dynamics and potential gameplay expansions based on player suggestions to enrich overall gameplay.
+Based on user feedback from the latest playtests, we have successfully implemented several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhanced instructions to assist new players in understanding game mechanics.
+2. **Gameplay Mechanics**: Continuous refinements to balance and engagement driven by tester feedback, ensuring an enjoyable experience.
+3. **User Interactions**: Optimized interactions that foster a more immersive gaming experience aligning with player expectations.
+4. **Expansion Opportunities**: Actively exploring new narrative elements and gameplay expansions based on player suggestions for future updates.
 
 1. **Onboarding Clarity**: Improved instructions to assist new players in understanding the game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments have been made for smoother balance and enhanced engagement based on tester feedback.
