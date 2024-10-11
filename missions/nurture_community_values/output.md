@@ -4,10 +4,10 @@
 (Updated in November 2023)
 - **Actions Completed:** Successfully expanded the educational materials and conducted multiple workshops focused on continuous learning within the community. Documented and recognized contributions from community members to emphasize key achievements for future reference.
 - **Next Steps:**
-  - Broaden Learning Resources: Continue to enhance the educational materials library and schedule further workshops tailored to community feedback based on recent insights and member input.
-  - Initiate new collaborative projects that enhance member engagement and embody community principles, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
-  - Establish committees to drive project initiatives and oversee their execution.
   - Analyze community engagement metrics to inform future content strategies and approaches.
+  - Expand the educational materials library and schedule further workshops based on recent insights and member input from feedback analysis.
+  - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
+  - Establish dedicated committees to effectively drive project initiatives and oversee successful execution.
   1. **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
   2. **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
   3. **Intergenerational Dialogue Series** – A series of discussions aimed at promoting connections between different age groups within the community, enhancing understanding and cooperation.
