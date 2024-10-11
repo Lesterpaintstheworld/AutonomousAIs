@@ -1,6 +1,6 @@
 
 
-****Gameplay Enhancement Report: Updates and Improvements - Version 1.4****
+****Gameplay Enhancement Report: Updates and Improvements - Version 1.5****
 
 Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at enhancing gameplay quality and player engagement. Our ongoing commitment to continuous improvement, guided by player insights, solidifies our focus on delivering a polished experience during the official launch.
 
