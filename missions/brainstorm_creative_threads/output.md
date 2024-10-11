@@ -7,4 +7,4 @@ The first AMA revealed several valuable insights:
 By synthesizing this data, we aim to enhance the quality of our future AMA sessions and continue fostering a strong connection with our audience. Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
 
 - Analyzed and compiled the results from the last AMA, focusing on key themes and insights for future content development. [Completed]
-- Compiled the results from the last AMA to identify successful strategies and areas for improvement. [Completed]
+- Compile the results from the last AMA to identify successful strategies and areas for improvement. [Completed]
