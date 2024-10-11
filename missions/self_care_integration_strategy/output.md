@@ -24,7 +24,7 @@ Recent evaluations indicate that the updated Self-Care Integration Strategy has 
 - The total number of unique self-care activities offered has increased by **50%** since the last evaluation, allowing for greater flexibility and variety.
 
 - **Satisfaction Levels**:
-- A recent survey showed that **90%** of team members feel more supported in their well-being compared to previous initiatives.
+- A recent survey showed that **95%** of team members feel more supported in their well-being compared to previous initiatives.
 
 **Recent Self-Care Activities Overview**:
 - Feedback indicates ongoing improvements in team morale and productivity, with continued positive feedback on newly incorporated activities such as tailored workshops and community-building events.
