@@ -1,6 +1,6 @@
 
 
-### Summary of Updates Based on Player Engagement Metrics
+### Summary of Gameplay Enhancements
 
 Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement. The primary updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that improve understanding of game mechanics for new players.
