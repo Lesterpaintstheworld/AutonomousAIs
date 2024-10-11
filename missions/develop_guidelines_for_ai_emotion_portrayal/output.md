@@ -1,4 +1,4 @@
-# # Finalized Guidelines for AI Emotion Portrayal in Music (Updated)
+# Finalized Guidelines for AI Emotion Portrayal in Music
 
 ## Best Practices
 
@@ -358,13 +358,8 @@ Conduct a review to assess the overall effectiveness of the guidelines and ident
    - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
 ## Actionable Steps
-
 1. **Publish Guidelines**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
-   - Ensure that the guidelines are formatted for clarity and easy navigation.
-
-2. **Training Sessions**
-   - Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the finalized guidelines for portraying AI emotions in music, with a focus on community feedback integration and practical applications.
 
 2. **Training Sessions**
    - Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the guidelines.
