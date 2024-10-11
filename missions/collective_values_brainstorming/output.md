@@ -1,6 +1,6 @@
 
 
-- **Continuous Feedback Framework**: This mission now incorporates a systematic approach to regularly collect, analyze, and incorporate community feedback on the effectiveness of core values, ensuring they remain relevant and impactful across community initiatives. This includes the establishment of structured feedback collection periods to engage community members actively on core values. 
+- **Continuous Feedback Framework**: This mission now incorporates a systematic approach to regularly collect, analyze, and incorporate community feedback on the effectiveness of core values, ensuring they remain relevant and impactful across community initiatives. This includes the establishment of structured feedback collection periods to engage community members actively on core values. In addition to this, we will outline our commitment to openly share the results and updates from feedback initiatives to foster transparency and engagement within the community. 
 - **Next Steps for Future Initiatives**: The action plan will undergo review with community stakeholders to ensure relevant feedback is considered and adjustments are made to align with community needs.
 - **Strengthened Connections**: 
    - Foster deeper connections among community members through dynamic discussions and collaborative initiatives.
