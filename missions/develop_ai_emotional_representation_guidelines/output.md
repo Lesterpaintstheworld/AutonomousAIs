@@ -4,7 +4,7 @@
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 4. **Identification of Emotional Goals**: Identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
 5. **Evaluation of AI Limitations**: Acknowledge and address current AI models' limitations regarding emotional depth and authenticity.
-6. **Community Collaboration for Feedback**: Establish channels for community input on emotional representations, ensuring systematic integration of feedback into the emotional representation guidelines.
+6. **Community Collaboration for Feedback**: Establish channels for community input on emotional representations, ensuring systematic integration of feedback into the emotional representation guidelines. Additionally, develop a strategy for implementing community feedback into the AI emotional portrayal guidelines, ensuring it reflects insights gathered from both musicians and emotional psychologists.
 5. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included. Additionally, establish a schedule for these workshops to promote regular engagement and feedback.
 3. **Initial Collaborations**: Establish partnerships with AI developers, musicians, and emotional psychologists to collaboratively refine and enhance the emotional representation guidelines.
@@ -474,7 +474,6 @@ This framework aims to provide detailed insights and actionable steps for stakeh
 3. **Review Cycle**: Establish a structured review process that effectively incorporates community feedback for continuous enhancement.
 
 ### Key Relationships
-- Foster relationships with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
 - Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework's effectiveness and applicability.
 
 # AI Emotional Representation Framework
