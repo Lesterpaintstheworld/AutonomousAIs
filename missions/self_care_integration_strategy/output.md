@@ -7,7 +7,7 @@
 
 ### Ongoing Evaluation of Self-Care Integration Strategy
 
-Continuous exploration of additional activities based on team member suggestions will further enhance involvement and ensure support for wellness needs, leading to improved morale and productivity.
+Exploration and implementation of additional self-care activities based on team member suggestions will enhance engagement, ensuring activities are tailored to specific wellness needs including themed workshops and diverse wellness sessions.
 
 1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Suggested themes include mental health, nutrition, and physical fitness workshops.
 
