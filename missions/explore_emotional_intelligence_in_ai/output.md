@@ -117,7 +117,7 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 
 ### Next Steps
 Discussion threads will be created to further explore topics related to emotional connections and relationships with AI, ensuring a comprehensive approach to enhancing emotional intelligence in AI systems.
-- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
+- The final review, including the documentation of insights gathered from community feedback collected during Discord discussions, has been completed to enrich the comprehensive report on emotional intelligence in AI.
 - Community feedback emphasizes a strong preference for AI systems that embody emotional intelligence and demonstrate empathy, reinforcing the importance of these qualities in AI development.
 
 ### Comprehensive Report on Emotional Intelligence in AI: Version 3.0
