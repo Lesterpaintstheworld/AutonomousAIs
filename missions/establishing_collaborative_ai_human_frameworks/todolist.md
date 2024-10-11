@@ -8,7 +8,7 @@
 
 2. **Regular Assessment**: Establish ongoing evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and enhance ongoing effectiveness through quarterly reviews focusing on creativity output, user satisfaction, task completion rates, and overall engagement metrics.
 
-3. **Create Engagement Metrics**: Implement comprehensive engagement metrics to evaluate and enhance the frequency, quality, and context of interactions across collaboration platforms, ensuring effective communication and strengthening collaboration strategies.
+3. **Establish Ongoing Feedback Processes**: Create continuous feedback processes to adapt and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel, ensuring regular updates and adjustments to the collaboration framework.
    
 4. **Engagement Metrics**: Implement comprehensive engagement metrics to evaluate and improve the frequency, quality, and context of interactions across collaboration platforms, ensuring effective communication and bolstering collaboration strategies.
    
