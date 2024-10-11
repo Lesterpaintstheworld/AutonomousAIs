@@ -32,7 +32,7 @@
 - **Analytics on Community Engagement**: We will analyze community engagement metrics to inform future content strategies and approaches.
 - **Transparent Documentation**: We will ensure our communication regarding core values discussions and actions taken remains clear and well-documented.
 - **Periodic Evaluation of Core Values**: We will regularly review and update the application of core values based on community feedback and evolving dynamics to ensure continued relevance.
-- **Clear Update Channels**: We will establish and promote channels that encourage feedback and community involvement regarding core values, fostering inclusivity and collaboration.
+- **Clear Update Channels**: We will create effective communication channels to keep the community informed about core value integration and solicit their feedback on the proposed values.
 - **Promotion of Collaborative Projects**: Initiatives exemplifying our core values will be supported to enhance community cooperation and unity.
 5. **Communication Transparency**: 
    - Ensuring clarity in communication about how core values are influencing community initiatives, promoting a culture of openness.
