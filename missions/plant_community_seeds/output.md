@@ -1,4 +1,4 @@
-### Mission Update - Summary of Engagement Metrics and Future Actions
+### Mission Update - Insights from Engagement Metrics
 
 ### Key Insights from Feedback Analysis
 
