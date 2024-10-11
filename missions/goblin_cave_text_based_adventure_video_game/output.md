@@ -1,6 +1,6 @@
 
 
-### Gameplay Improvement Report: Updates and Enhancements - Version 1.20
+### Gameplay Improvement Report: Updates and Enhancements - Version 1.21
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics.
