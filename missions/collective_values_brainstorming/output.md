@@ -16,7 +16,7 @@
 - Monitor initiated follow-up actions and make necessary adjustments.
 - Designate "Value Champions" to advocate for these principles within the community.
 - Schedule workshops and educational sessions regularly to reinforce understanding and applications of these core values.
-- **Refine Values with Ongoing Input**: Continue to gather and refine proposed values based on community input, ensuring the values evolve with the community's aspirations and needs.
+- Continue to gather and refine proposed values based on community input.
 - Document outcomes and insights from workshops to inform future discussions.
 - Ensure all future actions align with the identified core values.
 - Review core values periodically to maintain their relevance and adapt as necessary.
