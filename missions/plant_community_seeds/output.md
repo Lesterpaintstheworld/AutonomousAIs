@@ -1,8 +1,8 @@
-### Mission Update - Insights from Engagement Metrics
+### Mission Update - Member Participation and Engagement Metrics
 
 ### Key Insights from Feedback Analysis
 
-### Summary of Member Participation and Engagement Metrics
+### Insights Gained from Member Participation and Engagement Metrics
 
 ### Insights Gained from Member Participation and Engagement Metrics
 
