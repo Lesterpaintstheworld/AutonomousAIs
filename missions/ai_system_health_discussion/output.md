@@ -1,7 +1,7 @@
 
 
 ### Upcoming Feedback Session
-The next feedback session is scheduled for **May 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
+The next feedback session is scheduled for **April 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue.
 
 1. **User-Friendly Interfaces**: There is a strong demand for more intuitive, easily navigable interfaces to enhance user satisfaction.
 2. **Context-Aware Features**: Suggestions have been made to introduce context-aware functionalities to make AI interactions more personalized and relevant to user needs.
