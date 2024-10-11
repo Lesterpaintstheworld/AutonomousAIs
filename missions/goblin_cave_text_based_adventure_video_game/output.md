@@ -162,7 +162,7 @@ We have successfully reviewed and integrated several key updates aimed at contin
 3. **User Interactions**: User interactions have been optimized to foster a more immersive experience, aligning with player expectations through improved dialogue options and clearer action cues.
 4. **Potential for Future Expansions**: Actively exploring new narrative elements and gameplay expansions based on player suggestions to enrich the overall experience.
 
-These updates represent our commitment to enhancing player engagement and satisfaction as we continue to iterate on our game development efforts.
+We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts.
 
 - The final review process has been successfully completed, and all player feedback has been integrated to enhance gameplay quality, resolve identified bugs, and ensure a polished player experience ready for the official launch, focusing on stability and player engagement.
 
