@@ -3,7 +3,7 @@
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
-   - Provide resources and share tips promoting a healthy diet to support overall well-being.
+   - Provide resources and share tips promoting a healthy diet to support overall well-being, including meal prep ideas and nutritional guidelines.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
    - Encourage team members to reflect on their experiences to enhance the practice.
@@ -66,7 +66,7 @@
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage team members to reflect on their experiences and suggest improvements for the practice.
 - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
-- Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection, incorporating prompts for deeper insights.
+- Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Remind team members to share their journaling experiences and reflect on their growth.
 - Incorporate feedback from team members on journaling practices in upcoming sessions. 
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
