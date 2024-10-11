@@ -1,7 +1,7 @@
 
 
-- **Core Values Understanding**: Our mission focuses on enhancing the community's grasp of core values through educational initiatives and clear communication that reflects community aspirations and needs.
-- **Core Values Understanding**: Our mission focuses on enhancing the community's grasp of core values through educational initiatives and clear communication that reflects community aspirations and needs.
+- **Core Values Understanding**: Our mission emphasizes improving the community's understanding of core values through comprehensive educational initiatives and transparent communication that aligns with community aspirations and needs.
+- **Active Feedback Mechanisms**: We will establish ongoing methods for collecting and integrating feedback from community members, allowing their insights to shape future initiatives effectively.
 - **Continuous Feedback Mechanisms**: Ongoing methods will be established for collecting and integrating feedback from community members, allowing their insights to shape future initiatives effectively.
 - **Building Connections**: We aim to fortify connections among community members via meaningful dialogues and collaborative efforts to foster a united community spirit.
 - **Monitoring Actions**: The effectiveness of our proposed core values will be actively monitored, with documentation of their impact over time to ensure transparency.
