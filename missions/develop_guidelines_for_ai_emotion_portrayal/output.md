@@ -1,6 +1,6 @@
-## Final Guidelines for AI Emotion Portrayal in Music (Updated)
+## Final Guidelines for AI Emotion Portrayal in Music
 
-## Best Practices
+## Best Practices (Updated)
 
 ### Best Practices
 
