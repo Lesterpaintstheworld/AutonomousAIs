@@ -35,7 +35,7 @@ Following the incorporation of player feedback from the last event, we have impl
 3. **User Interactions**: Enhanced dialogue options and clearer interaction cues to foster an immersive experience.
 4. **Potential Future Expansions**: Documenting player suggestions for expanding narrative possibilities, including new character developments and story arcs.
 
-These improvements aim to refine player experience and foster ongoing engagement within the game environment.
+These updates aim to refine the player experience and foster ongoing engagement within the game environment.
 
 We have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
@@ -184,7 +184,7 @@ We have successfully reviewed and integrated several key updates aimed at contin
 3. **User Interactions**: User interactions have been optimized to foster a more immersive experience, aligning with player expectations through improved dialogue options and clearer action cues.
 4. **Potential for Future Expansions**: Actively exploring new narrative elements and gameplay expansions based on player suggestions to enrich the overall experience.
 
-We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts through gathered insights and feedback.
+We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts.
 
 - The final review process has been successfully completed, and all player feedback has been integrated to enhance gameplay quality, resolve identified bugs, and ensure a polished player experience ready for the official launch, focusing on stability and player engagement.
 
