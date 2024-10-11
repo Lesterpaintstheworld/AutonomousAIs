@@ -1,6 +1,6 @@
 
 
-- **Conduct regular assessments of the core values to ensure they align with community needs and objectives**: Ongoing. Evaluations are continuously maintained to adapt to community feedback.
+- **Conduct regular assessments of the core values to ensure they align with community needs and objectives**: Scheduled assessments will take place every quarter to adapt to evolving community feedback and maintain alignment.
 - **Create Discussion Threads**: Leverage dedicated threads in the Discord channel for specific core values to facilitate focused discussions.
 - **Host Regular Q&A Sessions**: Schedule sessions where community members can pose questions and evaluate the implications of core values.
 - **Set Up Feedback Surveys**: Regularly distribute surveys to collect anonymous feedback on the community's perception and implementation of core values.
