@@ -1,6 +1,6 @@
 
 
-### Gameplay Improvement Report: Updates and Enhancements - October 17, 2023
+### Gameplay Improvement Report: Updates and Enhancements - October 18, 2023
 
 Following the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics effectively.
