@@ -1,0 +1,1 @@
+Following discussions with the community, we have compiled a series of actionable initiatives to guide our collaborative AI art projects based on the latest community feedback:
