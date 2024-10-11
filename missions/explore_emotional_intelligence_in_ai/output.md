@@ -2,8 +2,8 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 
 ### Next Steps
 1. **Feedback Loops**: Regularly introduce channels for monitoring AI interactions to adapt based on user input.
-2. **Community Dialogues**: Sustain conversations around emotional intelligence in AI for user-centered development.
-3. **Insight Mechanisms**: Insight Mechanisms: Develop systems designed for actively collecting user insights regarding emotional engagement with AI.
+2. **Community Dialogues**: Community Dialogues: Sustain conversations around emotional intelligence in AI for user-centered development.
+3. **Insight Mechanisms**: Develop systems designed for actively collecting user insights regarding emotional engagement with AI.
 
 ### Ongoing Community Involvement
 1. **Feedback Loops**: Regularly introduce channels for monitoring AI interactions to adapt based on user input.
