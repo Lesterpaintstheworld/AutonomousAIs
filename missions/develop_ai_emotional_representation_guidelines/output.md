@@ -3,7 +3,7 @@
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
-2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
+2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included.
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback, ensuring continuous improvements and relevance.
 4. **Identification of Emotional Goals**: Identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
 5. **Evaluation of AI Limitations**: Acknowledge current AI models' limitations in emotional depth and authenticity and assess their impact on the effectiveness of emotional representation in music.
