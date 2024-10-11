@@ -7,7 +7,7 @@
 
 ### Summary of Self-Care Integration Strategy Evaluation - Final
 
-1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Recent feedback indicates a strong preference for collaborative activities where team members can support each other, such as group challenges or social events that foster a sense of belonging and enhance the effectiveness of self-care practices.
+1. **Tailored Activities**: Continued exploration of additional activities based on team member suggestions will further enhance involvement and ensure support for wellness needs.
 
 2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
@@ -50,7 +50,7 @@ Recent evaluations indicate that the updated Self-Care Integration Strategy has 
 
 2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
-3. **Community Building Events**: The updated self-care integration strategy has successfully led to improvements in team collaboration and overall satisfaction with the diverse self-care offerings, focusing on tailored workshops and community-building events.
+3. **Community Building Events**: Feedback indicates a strong preference for collaborative events that foster support among team members. Group challenges or social events will be prioritized to strengthen team cohesion and enhance self-care practices.
 
 Recent evaluations indicate that the updated Self-Care Integration Strategy has led to ongoing improvements in team morale and productivity, with continued positive feedback on newly incorporated activities such as tailored workshops and community-building events. Engagement metrics reflect positive feedback regarding the newly implemented activities and the need to explore and implement additional self-care activities based on team member suggestions to further enhance engagement.
 
