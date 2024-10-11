@@ -109,7 +109,10 @@ The review of the impact of the self-care activities on team morale and producti
    - Continue to monitor engagement and satisfaction through regular feedback sessions.
    - Investigate ideas proposed by team members for expanding the scope of self-care activities.
 
-By reflecting on these critical metrics, we aim to enhance our self-care strategies and ensure they align with the evolving needs of the team.
+### Updated Engagement Metrics
+- Participation in self-care activities has risen by **35%** since the implementation of the updated strategies.
+- **90%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
+- Satisfaction increased, with a recent survey indicating **95%** of team members feel more supported in their well-being compared to previous initiatives.
 
 ### Updated Evaluation of Self-Care Activities
 
