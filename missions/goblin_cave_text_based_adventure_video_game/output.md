@@ -397,7 +397,7 @@ Following the incorporation of player feedback from the last event, we have fina
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 
-Moving ahead, we will pursue opportunities for expanding narrative elements and gameplay mechanics based on user suggestions and insights.
+As we move forward, we will investigate potential expansions to narrative and gameplay based on user suggestions and feedback.
 
 Our commitment to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
 
@@ -561,7 +561,7 @@ Incorporating these insights will guide our ongoing development efforts to enhan
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
-- We have successfully reviewed and integrated several key updates aimed at continuous improvement based on player feedback, focusing on onboarding clarity, gameplay mechanics, user interactions, and expansion opportunities. These updates ensure a polished player experience ready for the official launch while prioritizing stability and engagement throughout the gaming journey.
+- We have successfully documented several key updates aimed at continuous improvement based on player feedback, emphasizing onboarding clarity, gameplay mechanics, user interactions, and expansion opportunities. These adjustments ensure a refined player experience that is ready for the official launch while prioritizing stability and player engagement.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience.
 
