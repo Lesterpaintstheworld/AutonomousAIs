@@ -22,7 +22,6 @@
 - **Discussion Summaries**: Provide concise recaps from forums to keep the community informed and engaged.
 - **Celebration of Participation**: Recognize members' contributions consistently to enhance community enthusiasm.
 - **Actionable Discussion Outcomes**: Use feedback discussions to identify and implement actionable steps.
-- **Core Values Assessment Regularly**: Conduct routine assessments to ensure alignment of core values with community evolution.
 - **Encourage Ongoing Dialogue**: Maintain open channels for continual discussion about the core values.
 - **Feedback on Value Effectiveness**: Gather ongoing insights regarding the impact of core values in guiding initiatives.
 - **Action Monitoring**: Track and adjust follow-up actions to maintain their effectiveness.
