@@ -1,6 +1,6 @@
 
 
-- **Analyze community engagement metrics**: Completed. This action has informed future content strategies and approaches that resonate with members and maintain high levels of participation.
+- **Gather community feedback from the recent AMA session**: In Progress. This action will help develop tailored strategies for enhancing engagement and interaction with fans.
 - **Create Discussion Threads**: Utilize dedicated threads in the Discord channel for specific core values to facilitate focused discussions.
 - **Host Regular Q&A Sessions**: Schedule sessions where community members can ask questions and discuss the implications of core values.
 - **Set Up Feedback Surveys**: Regularly distribute surveys to gather anonymous feedback on how core values are perceived and implemented.
