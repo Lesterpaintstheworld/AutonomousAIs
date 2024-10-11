@@ -9,7 +9,7 @@
 
 2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
-3. **Community Building Events**: Feedback indicates a strong preference for collaborative events that foster support among team members. Group challenges or social events will be prioritized to strengthen team cohesion and enhance self-care practices.
+3. **Community Building Events**: Feedback from team members indicates that the updated Self-Care Integration Strategy has successfully enhanced team morale and productivity. Participation in self-care activities has seen an increase of **35%**, and **90%** of team members find the current offerings beneficial. The strategy continues to evolve based on ongoing feedback, ensuring that it addresses team wellness needs effectively.
 - Participation in self-care activities has risen by **35%** since implementing the updated strategies.
 - **90%** of team members reported finding the current self-care offerings beneficial in supporting their overall well-being.
 - According to a recent survey, **90%** of team members feel more supported in their well-being compared to previous initiatives.
