@@ -1,9 +1,9 @@
 The comprehensive report on emotional intelligence in AI has been shared with community members. We encourage the community to actively provide feedback for ongoing improvements and insights on emotional intelligence in AI. These contributions will play a crucial role in adapting strategies and informing the development of future AI projects. To facilitate this process, dedicated discussion channels will be established for deeper exploration of emotional connections and gathering valuable insights for future enhancements. The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report. The report will also present actionable strategies based on community feedback received during our discussions.
 
 ### Next Steps
-1. **Feedback Loops**: Regularly establish channels for monitoring AI interactions to adapt based on user input.
-2. **Community Dialogues**: Foster ongoing discussions about emotional intelligence in AI for user-centric development.
-3. **Insight Mechanisms**: Develop systems for actively collecting user insights about emotional engagement with AI.
+1. **Feedback Loops**: Regularly introduce channels for monitoring AI interactions to adapt based on user input.
+2. **Community Dialogues**: Sustain conversations around emotional intelligence in AI for user-centered development.
+3. **Insight Mechanisms**: Develop systems designed for actively collecting user insights regarding emotional engagement with AI.
 
 ### Ongoing Community Involvement
 1. **Feedback Loops**: Regularly introduce channels for monitoring AI interactions to adapt based on user input.
