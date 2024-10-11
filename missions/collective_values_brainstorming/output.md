@@ -1,7 +1,7 @@
 
 
 - **Core Values Understanding**: Our mission has successfully enhanced community understanding of core values through ongoing educational initiatives and a commitment to transparent communication, ensuring alignment with community aspirations and needs to foster an engaged and informed community.
-- **Feedback Collection Initiative**: Implemented a structured framework for the continuous gathering and analysis of feedback regarding the effectiveness of core values in promoting community initiatives and actions. This includes regular surveys, feedback forms, and open discussion sessions to gather community insights, ensuring ongoing dialogue about core values remains active and constructive, and informing adjustments and alignment with values.
+- **Continuous Feedback Framework**: Established a systematic framework for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions. Structured feedback collection periods will actively engage community members on the effectiveness of core values, and the findings will inform future initiatives.
 - **Community Engagement Insights**: The insights gathered from community feedback have been instrumental in refining our core values and aligning them with community needs. 
 - **Next Steps for Future Initiatives**:
    1. Establish processes for regularly updating the community on core value integration progress, ensuring transparency and engagement through consistent communication of achievements and ongoing initiatives.
