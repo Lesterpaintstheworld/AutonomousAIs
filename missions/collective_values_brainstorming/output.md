@@ -1,6 +1,6 @@
 
 
-- **Community Feedback Mechanism**: Implement a structured process to collect and analyze community feedback on core values and their effectiveness.
+- **Core Values Assessment Regularly**: Conduct routine assessments to ensure alignment of core values with community evolution.
 - **Regular Feedback Collection**: Schedule consistent intervals for collecting insights from community members to guide core value refinement.
 - **Centralized Insights Record**: Keep comprehensive documentation of discussions and proposals related to community values.
 - **Flexible Action Plans**: Adapt actions based on ongoing community feedback and the evolution of core values.
