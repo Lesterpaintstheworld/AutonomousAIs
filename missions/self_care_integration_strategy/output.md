@@ -12,7 +12,7 @@
 3. **Community Building Events**: The updated Self-Care Integration Strategy has been successfully implemented. All team members are now able to engage in flexible self-care activities integrated into their daily workflows, resulting in improved morale, increased productivity, and enhanced collaboration. Participation in self-care activities has increased by **35%**, and **90%** of team members report finding the current self-care offerings beneficial. Feedback indicates sustained positive sentiments towards tailored workshops, diverse wellness sessions, and community-building events.
 - Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
 - **90%** of team members reported finding the current self-care offerings beneficial in supporting their overall well-being.
-- According to a recent survey, **95%** of team members feel more supported in their well-being compared to previous initiatives.
+- According to a recent survey, **90%** of team members feel more supported in their well-being compared to previous initiatives.
 - ### Implementation Plan
 1. **Integrate Flexible Self-Care Options**: Introduce a variety of self-care activities to cater to diverse preferences.
 2. **Embed Self-Care into Daily Workflows**: Allocate dedicated time for self-care within daily schedules to encourage participation.
