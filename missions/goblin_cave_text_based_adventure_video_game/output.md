@@ -27,7 +27,7 @@ These updates will direct our ongoing development efforts to maintain and elevat
 
 Following the incorporation of player feedback from the last event, we have now successfully reviewed and integrated several key updates aimed at continuous improvement based on player feedback, focusing on:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
-2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
+2. **Gameplay Mechanics**: Adjustments to gameplay mechanics were made based on tester feedback, further enhancing game balance and enjoyment.
 3. **User Interactions**: Enhanced user interactions foster a more immersive gaming experience that aligns better with player expectations through improved dialogue options and clearer action cues.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and possible gameplay expansions will be informed by player suggestions gathered during testing sessions to enrich the overall experience.
 
@@ -405,7 +405,7 @@ Our dedication to improvement is ongoing, and we will maintain a transparent rec
 Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates to enhance gameplay quality and player engagement. The primary updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: Improved interactions have been implemented to create a more engaging and immersive gaming experience.
+3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
