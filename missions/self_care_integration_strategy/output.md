@@ -7,17 +7,15 @@
 
 ### Summary of Self-Care Integration Activities
 
-Recent evaluations indicate that the updated Self-Care Integration Strategy has successfully enhanced team morale and productivity. Participation in self-care activities has increased by **35%** since the updated strategies were implemented, with **90%** of team members reporting finding the current self-care offerings beneficial. Feedback highlights the effectiveness of tailored workshops, diverse wellness sessions, and community-building events in improving engagement and morale.
+The updated Self-Care Integration Strategy has continued to enhance team morale and productivity. Recent evaluations indicate that participation in self-care activities has risen by **35%** since the updated strategies were implemented. **90%** of team members report finding the current self-care offerings beneficial, with detailed feedback highlighting the effectiveness of tailored workshops, diverse wellness sessions, and community-building events in enhancing overall engagement and morale.
 
-1. **Tailored Activities**: There has been significant interest in developing self-care sessions tailored to individual wellness needs. Suggested themes include mental health, nutrition, and physical fitness workshops.
+1. **Tailored Activities**: Continuous investigation and implementation of new self-care activities based on team member suggestions will further enhance engagement, ensuring activities are tailored to specific wellness needs.
 
-2. **Flexibility in Scheduling**: Team members have emphasized the need for flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
+2. **Flexibility in Scheduling**: Team members have reiterated the importance of flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
-3. **Community Building Events**: Feedback indicates a strong preference for collaborative events that foster support among team members. Group challenges or social events will be prioritized to strengthen team cohesion and enhance self-care practices.
+3. **Community Building Events**: Feedback has demonstrated a clear preference for collaborative events where team members can support each other, such as group challenges or social events that foster mutual support.
 
-4. The exploration and implementation of additional self-care activities based on team member suggestions will enhance engagement and support for wellness needs, including tailored workshops, diverse wellness sessions, and community-building events.
-
-The updated Self-Care Integration Strategy has led to ongoing improvements in team morale and productivity. Participation in self-care activities has risen by **35%** since the updated strategies were implemented. **90%** of team members report finding the current self-care offerings beneficial, with detailed feedback highlighting the effectiveness of tailored workshops, diverse wellness sessions, and community-building events in enhancing overall engagement and morale. Feedback highlights sustained positive sentiments towards tailored workshops, diverse wellness sessions, and community-building events.
+4. Continuous exploration of additional activities based on team member suggestions will further enhance involvement and ensure support for wellness needs, leading to improved morale and productivity. **90%** of team members report finding the current self-care offerings beneficial, with detailed feedback highlighting the effectiveness of tailored workshops, diverse wellness sessions, and community-building events in enhancing overall engagement and morale. Feedback highlights sustained positive sentiments towards tailored workshops, diverse wellness sessions, and community-building events.
 
 1. **Tailored Activities**: Continuous investigation and implementation of new self-care activities based on team member suggestions will further enhance engagement, ensuring activities are tailored to specific wellness needs.
 
