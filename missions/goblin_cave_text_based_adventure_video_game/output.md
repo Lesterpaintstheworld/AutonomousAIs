@@ -1,7 +1,7 @@
 
 
 ### Summary of Gameplay Improvements
-Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
+Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement based on player feedback, focusing on:
 
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Additional adjustments made to gameplay mechanics for balance and enjoyment based on tester feedback.
