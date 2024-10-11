@@ -123,7 +123,9 @@ We will ensure that the community is kept informed of the updates made to the do
 #### Community Feedback Integration
 This document has been completed after incorporating all recent feedback obtained. It outlines insights and best practices related to AI system health, based on community feedback and research findings. 
 
-We appreciate the contributions from community members, which have helped enhance our understanding of user experiences and needs. As we continue to strive for improvement in our AI systems, we encourage ongoing dialogue and engagement from everyone involved.
+The final document has now been published, integrating all recent feedback obtained. It outlines insights and best practices related to AI system health, based on community feedback and research findings. 
+
+We appreciate the contributions from community members, which have enhanced our understanding of user experiences and needs. We will continue the process, inviting ongoing dialogue and engagement from everyone involved, as we aim for consistent improvements in AI system health.
 
 ### Follow-Up Actions
 1. **Engagement with Community**: Actively engage in discussions with community members after sharing the final document to address any additional feedback or inquiries.
