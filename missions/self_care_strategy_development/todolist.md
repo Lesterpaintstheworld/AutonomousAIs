@@ -3,7 +3,7 @@
 # Next Actions for Self-Care Strategy Development
 
 1. **Support Journaling Practices**: 
-   - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
+   - Remind team members to engage in this practice and share their experiences.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
