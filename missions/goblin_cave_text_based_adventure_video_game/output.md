@@ -32,7 +32,7 @@ Following the incorporation of player feedback from the last event, we have now 
 
 4. **Expansion Opportunities**: We are actively exploring narrative dynamics and potential gameplay expansions based on user suggestions gathered during testing sessions.
 
-**Next Steps for Enhancements:**
+**Future Enhancements Plan:**
 Based on summarized feedback, we will:
 
 1. **Update Onboarding Instructions**: Continue refining onboarding materials to improve clarity for new players.
