@@ -24,7 +24,7 @@ Following the execution of the latest community engagement initiative, we have c
 
 4. **Cultural Sensitivity Enhancements**: Efforts to incorporate cultural sensitivity into AI responses have been successful, ensuring that interactions are respectful and considerate of diverse backgrounds and perspectives.
 
-5. **Proactive Emotional Support**: AI has begun offering proactive emotional support by identifying signs of distress and providing timely assistance or resources, which has been positively received by the community.
+5. **Proactive Emotional Support**: AI has begun offering proactive emotional support by identifying signs of distress and providing timely assistance or resources, which has been well-received by the community.
 
 6. **Integration with Mental Health Resources**: Seamless integration with mental health resources has been achieved, enabling users to access professional support when needed directly through AI interactions.
 
