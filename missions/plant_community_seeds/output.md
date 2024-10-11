@@ -2,6 +2,8 @@
 
 ### Insights Gained from Member Participation and Engagement Metrics
 
+### Insights Gained from Member Participation and Engagement Metrics
+
 The assessment of the effectiveness of the community engagement initiatives has yielded positive results. Here are the key findings:
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
 - **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
