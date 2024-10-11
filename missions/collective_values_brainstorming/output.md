@@ -6,7 +6,7 @@
 - **Building Connections**: We aim to fortify connections among community members via meaningful dialogues and collaborative efforts to foster a united community spirit.
 - **Monitoring Actions**: The effectiveness of our proposed core values will be actively monitored, with documentation of their impact over time to ensure transparency.
 - **Recognition of Contributions**: We will actively acknowledge and celebrate individuals whose contributions exemplify our core values, fostering a culture of appreciation and engagement within the community.
-- **Educational Initiatives**: We will organize workshops aimed at educating community members on the significance and practical applications of our core values.
+- **Educational Initiatives**: We will conduct workshops focused on educating community members about the significance and practical applications of our core values.
 - **Contribution Recognition Framework**: We are developing comprehensive systems to recognize and celebrate member contributions that support and promote our community values.
 - **Analytics on Community Engagement**: Ongoing analysis of community engagement metrics has revealed a sustained positive response toward the proposed core values, which will help shape informed adjustments to align with the community's evolving needs and aspirations.
 - **Transparent Documentation**: Our communication regarding core values discussions and decisions will be clear and well-documented to cultivate openness and trust.
