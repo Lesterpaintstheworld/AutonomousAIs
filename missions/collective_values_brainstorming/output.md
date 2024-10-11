@@ -16,9 +16,9 @@
    12. Review core values periodically to ensure their continued relevance.
    13. Establish clear channels for updates on core value integration.
    14. Organize regular forums to encourage community insights regarding core values' relevance.
-   15. Implement feedback loops to evaluate the resonance of core values with community projects and initiatives.
-   16. Create a system for recognizing contributions that align with established core values, promoting sustained commitment to community principles.
-   17. Create mechanisms for providing regular updates on core value integration, enhancing community engagement.
+   15. Implement feedback loops to evaluate how well core values resonate with community projects and initiatives.
+   16. Create a system for recognizing contributions that align with established core values, promoting ongoing commitment to community principles.
+   17. Provide consistent updates on core value integration progress to engage the community.
   
 - **Next Steps for Future Initiatives**: 
    - Regular updates on core value integration progress will be provided to the community.
