@@ -4,10 +4,10 @@
 
 Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at enhancing gameplay quality and player engagement. Our ongoing commitment to continuous improvement, guided by player insights, solidifies our focus on delivering a polished experience during the official launch.
 
-1. **Onboarding Clarity**: Improved onboarding instructions that significantly enhance understanding of game mechanics for new players.
-2. **Gameplay Mechanic Adjustments**: Adjustments made to gameplay mechanics based on tester feedback ensure a balanced and enjoyable experience.
-3. **User Interaction Enhancements**: Enhanced dialogue options and interaction cues foster a more immersive gameplay experience that aligns with player expectations.
-4. **Expansions of Narrative Depth**: New story arcs and character paths are being examined to broaden the overall narrative richness in response to player suggestions.
+1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics, ensuring clear guidance throughout their journey.
+2. **Gameplay Mechanics**: Comprehensive adjustments have been made to ensure a smoother balance and more engaging gameplay experience, based on extensive tester feedback.
+3. **User Interactions**: Continued enhancements to dialogue options and interaction cues, aiming for a thoroughly immersive experience that meets player expectations.
+4. **Potential Future Expansions**: Actively documenting player suggestions for expanding narrative possibilities, including additional character developments and story arcs.
 
 These improvements aim to refine the player experience and foster ongoing engagement within the game environment.
 
