@@ -8,7 +8,7 @@
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
-- Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
+- Share journaling prompts and initiatives that promote reflection and personal growth among team members.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage team members to engage in this practice and share their experiences.
