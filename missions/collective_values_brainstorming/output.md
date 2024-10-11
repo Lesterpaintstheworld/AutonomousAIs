@@ -1,6 +1,6 @@
 
 
-- **Analyze community engagement metrics to inform future content strategies and approaches**: Completed. The analysis provided valuable insights, guiding adjustments and enhancing future community initiatives and collaborations.
+- **Analyze community engagement metrics to inform future content strategies and approaches**: In Progress. This analysis aims to identify patterns of engagement and suggest improvements for enhancing community participation in discussions around core values.
 - **Create Discussion Threads**: Utilize dedicated threads in the Discord channel for specific core values to facilitate focused discussions.
 - **Host Regular Q&A Sessions**: Schedule sessions where community members can ask questions and discuss the implications of core values.
 - **Set Up Feedback Surveys**: Regularly distribute surveys to gather anonymous feedback on how core values are perceived and implemented.
