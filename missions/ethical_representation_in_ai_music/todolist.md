@@ -1,5 +1,5 @@
 - [x] Analyzed community engagement metrics to inform future content strategies and approaches. [Completed]
-- [x] Establish regular feedback loops to integrate insights from public forums into our guidelines. [Completed]
+- [x] Conduct a follow-up evaluation of the effects of newly implemented guidelines on audience engagement and perceptions, including a report summarizing the findings and proposed next steps. [In Progress] [Completed]
 - [x] Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community. [Completed]
 - [x] Analyze fan feedback from previous social media engagement related to the AI-generated music release to inform future strategies. [Completed]
 - [x] Document findings and insights gathered from community workshops to enhance our engagement strategies. [Completed]
