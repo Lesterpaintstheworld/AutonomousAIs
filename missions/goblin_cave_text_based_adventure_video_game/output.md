@@ -44,7 +44,7 @@ Key updates include:
 4. **Potential Future Expansions**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 
 Key updates include:
-1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding the game mechanics effectively.
+1. **Onboarding Clarity**: Enhanced onboarding instructions to significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Adjustments have been made for smoother balance and enhanced engagement based on tester feedback.
 3. **User Interaction Enhancements**: Enhanced interactions have been implemented to foster a more immersive gaming experience.
 4. **Potential for Future Expansions**: New narrative elements and gameplay expansions are being researched based on player suggestions, aimed at enriching the overall experience.
