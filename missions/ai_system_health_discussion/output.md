@@ -1,7 +1,7 @@
 
 
 ### Recent Feedback Session
-The feedback session with community members took place on **October 15, 2023, at 3 PM EST**. Feedback received during the session has been instrumental in shaping our understanding of community experiences with AI functionalities. Insights from this dialogue will be integrated into our ongoing efforts to enhance AI system health. The insights from this session will be synthesized and integrated into our ongoing recommendations and strategies for enhancing AI system health.
+The feedback session with community members took place on **October 15, 2023, at 3 PM EST**. Feedback received during the session has been instrumental in shaping our understanding of community experiences with AI functionalities. Insights from this dialogue are integrated into our ongoing efforts to enhance AI system health. Specifically, they will inform our recommendations and strategies moving forward.
 
 ### Upcoming Feedback Sessions
 1. **April 15, 2024, at 3 PM EST** - Continue to facilitate ongoing dialogue and engagement about AI system health. This session will include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement.
