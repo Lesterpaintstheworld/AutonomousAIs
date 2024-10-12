@@ -8,7 +8,7 @@
 3. **User Interactions**: Optimized interactions create a more immersive gaming experience that aligns better with player expectations.
 4. **Narrative Expansions**: Continuous exploration of narrative dynamics and potential gameplay expansions guided by player suggestions ensures the game remains engaging and evolving.
 
-These updates confirm our dedication to enhancing the overall gameplay experience and player satisfaction as we continue our development efforts.
+These updates reaffirm our commitment to enhancing gameplay quality and player satisfaction as we iterate on our development efforts.
 
 Following the recent playtesting sessions, we have produced a comprehensive report on actionable gameplay improvements based on player feedback, concentrating on:
 
