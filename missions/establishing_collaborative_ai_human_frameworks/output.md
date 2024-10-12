@@ -4,7 +4,7 @@
 2. **Establish Ongoing Feedback Processes**: Develop and implement continuous feedback processes that allow for real-time adaptation and improvement of collaboration strategies based on insights and discussions gathered within the designated Discord channel, ensuring that updates and adjustments to the collaboration framework occur regularly.
 3. **Promote Ethical Collaboration**: Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process, while continuously adapting to new ethical challenges as they arise, based on active engagement with feedback from all collaborators to enhance understanding.
 
-1. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness. These evaluations will be scheduled quarterly, focusing on creativity output, user satisfaction, and task completion rates.
+1. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness. These evaluations will be scheduled quarterly, focusing on creativity output, user satisfaction, task completion rates, and overall engagement metrics.
 =======
 2. **Leverage Diverse Perspectives**: Actively encourage and incorporate diverse viewpoints to enrich the collaborative process and inspire innovative solutions during discussions within the designated Discord channel, while continuously gathering insights to enhance both AI and human collaboration.
    
