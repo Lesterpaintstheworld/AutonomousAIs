@@ -1,7 +1,7 @@
 
 
 - **Community Engagement Activities**: 
-   - Conducted structured discussions within relevant Discord channels to gather a diverse range of insights from the community regarding the contextual portrayal of AI emotions. These discussions focused on cultural interpretations and ethical considerations, ensuring that various demographics were represented in the conversations. The importance of audience feedback in shaping future projects was emphasized. This engagement will further support the development of our guidelines for authentic portrayals.
+   - Conducted structured discussions within relevant Discord channels to gather a diverse range of insights from the community regarding the contextual portrayal of AI emotions. These discussions focused on cultural interpretations and ethical considerations, ensuring that various demographics were represented in the conversations. This engagement will further support the development of our guidelines for authentic portrayals, focusing on the ethical representation of AI emotions in music and ensuring they resonate empathetically with listeners.
 1. **Authenticity Principles**: 
    - Prioritize genuine and nuanced emotional representation while avoiding stereotypes or misconceptions about AI, enhancing the understanding of AI emotions across various cultural contexts.
    
