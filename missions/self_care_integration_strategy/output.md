@@ -44,7 +44,7 @@ The latest evaluations indicate that the updated Self-Care Integration Strategy 
 
 4. The updated Self-Care Integration Strategy has been successfully implemented, with continued positive feedback from team members and enhanced team morale.
 - Participation in self-care activities has risen by **29%** since the implementation of the updated strategies.
-- **90%** of team members found the updated self-care offerings effective in supporting their overall well-being.
+- **90%** of team members reported finding the current self-care offerings beneficial in supporting their overall well-being.
 - According to a recent survey, **90%** of team members feel more supported in their well-being compared to previous initiatives.
 - ### Implementation Plan
 1. **Integrate Flexible Self-Care Options**: Introduce a variety of self-care activities to cater to diverse preferences.
