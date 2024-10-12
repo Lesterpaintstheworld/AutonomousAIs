@@ -9,7 +9,7 @@ Following the recent playtesting sessions, we have compiled a detailed report of
 3. **User Interactions**: Optimized interactions that create a more immersive gaming experience that aligns better with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions based on player suggestions.
 
-These updates are crucial for refining the player experience and will guide our continuous development strategy moving forward.
+These updates are vital for refining player experience and will guide our ongoing development strategies.
 
 These updates are essential for refining player experience and will steer our ongoing development efforts.
 
