@@ -8,8 +8,8 @@
 - **Recognition of Contributions**: We will recognize and celebrate contributions exemplifying our core values, fostering a culture of appreciation and engagement within the community.
 - **Continuous Feedback Framework**: We have established a framework for ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions. Feedback collection periods will actively engage community members regarding core values, and findings will inform future initiatives.
 - **Community Engagement Insights**: Insights from community feedback have been crucial for refining our core values and aligning them with community needs. 
-- **Next Steps for Future Initiatives**:
-   1. Create mechanisms for regularly updating the community on core value integration progress.
+- **Future Initiative Steps**:
+   1. Establish channels for providing regular updates on the progress of core value integration.
    2. Distribute periodic updates on how the core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
    4. Foster channels for ongoing dialogue about core values with community members.
