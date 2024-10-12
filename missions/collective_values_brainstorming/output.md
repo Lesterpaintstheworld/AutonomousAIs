@@ -1,6 +1,16 @@
 
 
-- **Proposed Core Values Summary**: The mission's objective was to engage community members in proposing and collaboratively defining core values that reflect their beliefs and interests. 
+- **Compiled Core Values Summary**: The mission successfully engaged community members in proposing and collaboratively defining core values that reflect their beliefs and interests. The key values gathered include:
+   1. **Inclusivity**: Ensuring that all voices are welcomed and valued in community discussions to promote a sense of belonging.
+   2. **Collaboration**: Actively engaging community members to strengthen bonds and promote joint efforts.
+   3. **Transparency**: Committing to open communication regarding value proposals, their development, and applications within the community.
+   4. **Empathy**: Fostering an environment where all members feel heard and appreciated, validating their contributions.
+   5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow our core values to evolve alongside community needs.
+   6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
+   7. **Action Monitoring**: Tracking the effectiveness of our proposed values over time and documenting the outcomes.
+   8. **Advocacy Roles**: Designating "Value Champions" to actively promote core values within the community.
+   9. **Educational Enhancements**: Creating workshops and resources to educate members on the practical applications of our core values.
+   10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant. 
 - **Community Engagement Metrics**: Indications from the community engagement metrics suggest a favorable reception towards the proposed core values.
 - **Feedback Mechanism Implementation**: Structured feedback collection periods have been rolled out, resulting in heightened engagement among community members regarding the effectiveness of core values in guiding community initiatives.
 - **Next Steps Identified**: Future actions will focus on continual community engagement, iterative refinement of core values based on feedback gathered during workshops and discussions, and ensuring that community needs are met through regular assessments and dialogues about core values. 
