@@ -1,4 +1,4 @@
-### Mission Update - Summary of Engagement Results and Upcoming Actions
+### Mission Update - Summary of Engagement Results and Next Steps
 
 ### Key Insights from Feedback Analysis
 
