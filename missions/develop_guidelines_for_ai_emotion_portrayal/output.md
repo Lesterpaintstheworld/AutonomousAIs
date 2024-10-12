@@ -39,7 +39,7 @@
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
-6. **Review the effectiveness of interactive feedback mechanisms.**
+6. **6. **Review the effectiveness of interactive feedback mechanisms.****
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
