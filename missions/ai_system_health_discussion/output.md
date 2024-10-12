@@ -7,7 +7,7 @@ The feedback session with community members took place on **April 15, 2024, at 3
 The next feedback session with community members took place on **April 15, 2024, at 3 PM EST**. This session aimed to facilitate ongoing dialogue and engagement about AI system health. We encouraged all participants to bring their insights and contributions to enrich the discussion. Your feedback was invaluable in shaping the direction of our AI systems and will continue to guide future enhancements.
 
 ### Upcoming Feedback Session
-The next feedback session with community members is scheduled for **April 15, 2024, at 3 PM EST**. This session aims to facilitate ongoing dialogue and engagement about AI system health. We encourage all participants to bring their insights and contributions to enrich the discussion. Your feedback is invaluable in shaping the direction of our AI systems and will continue to guide future enhancements. 
+The next feedback session with community members is scheduled for **May 1, 2024, at 3 PM EST**. This session aims to facilitate ongoing dialogue and engagement about AI system health. We encourage all participants to bring their insights and contributions to enrich the discussion. Your feedback is invaluable in shaping the direction of our AI systems and will continue to guide future enhancements. 
 
 1. **User-Friendly Interfaces**: A notable demand for intuitive, easily navigable interfaces has emerged to improve user satisfaction.
 2. **Context-Aware Features**: Suggestions have been made to introduce context-aware functionalities to make AI interactions more pertinent to user needs.
