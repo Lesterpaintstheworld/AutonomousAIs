@@ -1,15 +1,10 @@
 
 
 ### Upcoming Feedback Sessions
-1. **April 15, 2024, at 3 PM EST** - This session will facilitate ongoing dialogue and engagement about AI system health, focusing on recent changes made based on community feedback and exploring further areas for improvement.
-2. **July 15, 2024, at 3 PM EST** - This session will gather additional community insights to enhance our AI systems, allowing participants to share their thoughts on developments made since the previous session and discuss further suggestions.
-The feedback session with community members occurred on **October 15, 2023, at 3 PM EST**. Feedback from this session was instrumental in shaping our understanding of community experiences with AI functionalities. Insights from this dialogue are being integrated into our ongoing efforts to enhance AI system health and will inform our subsequent recommendations and strategies.
-
-### Upcoming Feedback Sessions
 1. **April 15, 2024, at 3 PM EST** - This session will continue to facilitate ongoing dialogue and engagement about AI system health, including discussions on recent changes made based on community feedback and exploring further areas for improvement.
 2. **July 15, 2024, at 3 PM EST** - This session will gather further community insights to enhance our AI systems, allowing participants to share their thoughts on developments made since the previous session and discuss additional suggestions.
 
-These sessions will include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement.
+These sessions will focus on recent changes made to our AI systems based on community feedback, share updates, and explore further areas for improvement.
 
 1. **Host a Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining ongoing dialogue.
 2. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by community insights and relevant research findings.
