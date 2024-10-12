@@ -35,7 +35,7 @@
 4. **Community Feedback Loop**
    - Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
 
-5. **Regular Reviews**
+5. **Regular Reviews and Community Feedback Sessions**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
 6. **Review the effectiveness of interactive feedback mechanisms.**
@@ -168,7 +168,7 @@ Based on the collected community feedback, the following insights have been gath
 
 5. **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
-Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with community expectations for authentic emotional representation in AI-generated music, fostering a stronger connection between AI and human emotions in music creation.
+Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
 ## Best Practices
 
