@@ -5,7 +5,7 @@
 Following the recent playtesting sessions, we have compiled a detailed report of actionable gameplay improvements based on player feedback, focusing on:
 
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players with understanding the game mechanics.
-2. **Gameplay Mechanics**: Additional refinements were made to ensure gameplay mechanics are well-balanced and engaging, incorporating tester feedback effectively.
+2. **Gameplay Mechanics**: Further refinements have been made to gameplay mechanics for better balance and engagement based on tester feedback.
 3. **User Interactions**: Enhanced interactions implemented to foster a more immersive gaming experience.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and possible gameplay expansions will be informed by player suggestions gathered during testing.
 
@@ -103,7 +103,7 @@ Following the incorporation of player feedback from the last event, we have impl
 These improvements aim to refine player experience and foster ongoing engagement within the game environment.
 
 We have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
-1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
+1. **Onboarding Clarity**: Improved onboarding instructions tailored to better assist new players in understanding the game mechanics.
 2. **Gameplay Mechanics**: Further refinements made to the balance and engagement of challenges, ensuring a more enjoyable experience based on extensive tester feedback.
 3. **User Interactions**: Optimized interactions to foster an immersive gaming experience aligning better with player expectations, featuring improved dialogue and clearer action cues.
 4. **Expansion Opportunities**: Actively exploring narrative dynamics and possible gameplay expansions based on player suggestions for future updates.
