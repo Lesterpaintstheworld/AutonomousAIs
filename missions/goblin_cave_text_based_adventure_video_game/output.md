@@ -468,7 +468,7 @@ As we move forward, we will investigate potential expansions to narrative and ga
 
 Our commitment to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
 
-Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
+From the analysis of player feedback in our latest testing, we have outlined several key updates aimed at improving gameplay, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
 2. **Gameplay Mechanics**: Continuing to refine the balance and engagement of challenges for a more enjoyable experience.
 3. **User Interactions**: Improving interactions to create a more immersive gaming experience.
@@ -537,7 +537,7 @@ Incorporating these insights will guide our ongoing development efforts to maint
 
 Following the recent playtesting sessions, we have compiled a detailed report of actionable gameplay improvements based on player feedback, focusing on:
 
-1. **Onboarding Clarity**: Improved onboarding instructions that more effectively assist new players in understanding game mechanics.
+1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments have been made for a smoother balance and engagement based on extensive tester feedback.
 3. **User Interactions**: Optimized interactions create a more immersive gaming experience that aligns better with player expectations.
 4. **Narrative Expansions**: Continuous exploration of narrative dynamics and potential gameplay expansions guided by player suggestions ensures the game remains engaging and evolving.
