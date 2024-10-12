@@ -10,4 +10,4 @@
 [✔️] Publish the summary report in the designated channel for stakeholder visibility and input. [Complete]
 [✔️] Confirm stakeholder feedback on the summary report and identify any areas for further action or adjustment, ensuring all insights are integrated into future emotional intelligence training programs. [Complete] [Complete] 
 [✔️] Incorporate stakeholder feedback to refine future emotional intelligence training programs based on provided insights. [Complete]
-[✔️] Confirm the successful execution of workshops for emotional intelligence training and gather initial feedback to identify further areas for enhancement. [Complete]
+[✔️] Draft actionable insights based on the feedback gathered from the emotional intelligence training workshops, focusing on improvements for future training initiatives. [Complete]
