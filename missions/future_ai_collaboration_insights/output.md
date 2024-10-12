@@ -316,10 +316,10 @@ The actionable insights compiled in this document have been updated to reflect s
 - **Case Study C: Building Confidence in Financial AI Systems** 
   - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake.
 
-- **Case Study D: Transparent AI in Education** 
+- **Expanded Case Study D: Transparent AI in Education** 
   - *Outcome*: Improved learning outcomes drove by tailored feedback led to a 25% increase in overall course completion rates.
 
-- **Expanded Case Study E: Trustworthy AI in Public Services** 
+- **Case Study E: Trustworthy AI in Public Services** 
   - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery.
 
 - **Case Study F: Explainable AI in Autonomous Vehicles** 
