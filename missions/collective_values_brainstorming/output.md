@@ -1,6 +1,17 @@
 
 
-- **Proposed Core Values Summary**: The mission engaged community members in proposing and collaboratively defining core values based on feedback collected from workshops and discussions. The key values gathered include:
+- **Proposed Core Values Summary**: 
+   The mission engaged community members in proposing and collaboratively defining core values based on feedback collected from workshops and discussions. The key values gathered include:
+   1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions, promoting a sense of belonging.
+   2. **Collaboration**: Actively involving community members to strengthen bonds and enhance joint efforts.
+   3. **Transparency**: Committing to open communication about value proposals, their development, and their applications within the community.
+   4. **Empathy**: Creating an environment where members feel heard and appreciated, validating their contributions.
+   5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow core values to evolve with community needs.
+   6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
+   7. **Action Monitoring**: Tracking the effectiveness of proposed values over time and documenting outcomes.
+   8. **Advocacy Roles**: Designating "Value Champions" to promote core values actively within the community.
+   9. **Educational Enhancements**: Developing workshops and resources to educate members on practical applications of core values.
+   10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant and effective.
    1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions, promoting a sense of belonging.
    2. **Collaboration**: Actively involving community members to strengthen bonds and enhance joint efforts.
    3. **Transparency**: Committing to open communication about value proposals, their development, and their applications within the community.
