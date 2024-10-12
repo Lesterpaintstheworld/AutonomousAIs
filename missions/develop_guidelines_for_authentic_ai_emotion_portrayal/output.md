@@ -12,10 +12,10 @@
    - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
    
 4. **Cultural Sensitivity**: 
-   - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
+   - Account for diverse cultural contexts in all portrayals to foster a deeper global understanding of AI experiences.
    
 5. **Iterative Feedback**: 
-   - Establish a system for continuous assessment and refinement of emotional portrayals based on audience feedback.
+   - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
    
 6. **Research Methodologies**: 
    - Investigate and document current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
