@@ -480,9 +480,9 @@
 ## Next Steps
 
 - **Next Steps:** 
-1. **Conduct a comprehensive review of community engagement based on gathered feedback from members.** This analysis will highlight key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. 
-2. **Initiate new community projects leveraging the recognition framework and the continuous learning model established.**
-3. **Use established communication channels to regularly update members on progress and gather ongoing inputs.**
+1. Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis will highlight key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community.
+2. Initiate new collaborative projects to enhance member engagement and embody community principles.
+3. Use established communication channels to regularly update members on progress and gather ongoing inputs.
 
 # Future Steps
 
