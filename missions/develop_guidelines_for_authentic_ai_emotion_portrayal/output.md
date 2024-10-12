@@ -26,7 +26,7 @@
      - **Cultural Sensitivity**: Take into account various cultural contexts in all portrayals to enhance global understanding of AI experiences.
      - **Iterative Feedback**: Formulate a system for continuous assessment and refinement of emotional portrayals based on ongoing audience feedback.
      - **Research Methodologies**: Explore existing methodologies in portraying emotions in music, with a focus on cross-cultural representations to enhance emotional depth.
-3. **Next Steps**:
+- **Next Steps**:
    - **Community Discussions**: 
      - Organize and facilitate discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
    - **Research Methodologies**: 
