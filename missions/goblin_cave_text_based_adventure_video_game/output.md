@@ -7,7 +7,7 @@ Following the recent playtesting sessions, we have compiled a detailed report of
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments made for a smoother balance and engagement based on extensive tester feedback.
 3. **User Interactions**: Optimized interactions that foster a more immersive gaming experience and align better with player expectations.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions informed by player suggestions ensures the game remains engaging and evolving.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions based on player suggestions will guide our future update strategies.
 
 These updates are vital for refining player experience and will guide our ongoing development efforts.
 
@@ -20,7 +20,7 @@ These updates are essential for refining player experience and will steer our on
 
 These updates are essential for evolving player experience and will steer our ongoing development efforts.
 
-1. **Onboarding Clarity**: Updated onboarding instructions to effectively guide new players through game mechanics.
+1. **Onboarding Clarity**: Updated onboarding instructions to improve clarity for new players, ensuring they comprehend game mechanics smoothly.
 2. **Gameplay Mechanics**: Further adjustments have been made to gameplay mechanics, guaranteeing that challenges are engaging and well-balanced, reflecting tester feedback more effectively.
 3. **User Interactions**: Improved user interactions create a more immersive environment that meets player expectations, with enhanced dialogue options and clearer action cues.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and gameplay expansions continues to be informed by player suggestions collected during testing, ensuring the game dynamically evolves based on user preferences.
