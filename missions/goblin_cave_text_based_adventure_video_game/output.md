@@ -75,7 +75,7 @@ Following the incorporation of player feedback from the last event, we have inte
 3. **User Interactions**: Enhanced interactions have been implemented to foster a more immersive gaming experience that aligns with player expectations through improved dialogue options and clearer action cues.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions based on user suggestions will continue to shape our future update strategies. Our commitment to continuous improvement, driven by player insights, reinforces our focus on delivering a refined experience for the game’s launch. The review process has effectively addressed all suggestions to enhance gameplay quality, resolve identified bugs, and ensure a polished player experience ready for the official launch, prioritizing stability and player engagement.
 
-Based on player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
+Following the incorporation of feedback from the engagement metrics analysis, we have developed a strategy for future content updates, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players.
 2. **Gameplay Mechanics**: Continuous refinement of the balance and engagement of challenges for enjoyable gameplay.
 3. **User Interactions**: Enhanced user interactions to create a more immersive gaming experience.
