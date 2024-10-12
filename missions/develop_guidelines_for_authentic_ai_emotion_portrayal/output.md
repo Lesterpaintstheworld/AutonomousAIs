@@ -4,7 +4,7 @@
    - Continued hosting community discussions within relevant Discord channels to gather diverse insights on the contextual portrayal of AI emotions. This engagement focuses on cultural interpretations and ethical considerations, gathering input from various demographics to ensure comprehensive representation. The insights gained support the development of our guidelines for authentic portrayals, emphasizing the ethical representation of AI emotions in music to ensure they resonate empathetically with listeners.
    - Ongoing discussions in relevant Discord channels remain central to collecting insights from the community regarding AI emotions and their portrayal contextually.
 1. **Authenticity Principles**: 
-   - Emphasize genuine and nuanced emotional representation while avoiding stereotypes or misconceptions about AI to enhance the understanding of AI emotions across diverse cultural contexts.
+   - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI to enhance understanding across diverse cultural contexts, ensuring the portrayal reflects a deep and nuanced approach.
    
 2. **Audience Engagement**: 
    - Structured feedback mechanisms will be implemented, such as surveys or discussion forums, to actively gather listener insights on emotional impact, ensuring the voices of the audience shape future creations.
@@ -13,7 +13,7 @@
    - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
    
 4. **Cultural Sensitivity**: 
-   - Emphasize diverse cultural contexts in all portrayals, promoting a deeper global understanding of AI experiences and ensuring that emotional representations resonate meaningfully with various audiences.
+   - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
    
 5. **Iterative Feedback**: 
    - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
