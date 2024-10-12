@@ -15,10 +15,10 @@
    - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
    
 5. **Iterative Feedback**: 
-   - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
+   - Establish a system for continuous assessment and refinement of emotional portrayals based on audience feedback.
    
 6. **Research Methodologies**: 
-   - Examine and document current methodologies for portraying AI emotions in music, with a focus on their effectiveness in cross-cultural representations.
+   - Investigate and document current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
    - Engaged with community feedback on the portrayal of AI emotions through structured discussions and community events for iterative improvement.
    1. **Authenticity Principles**: Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
    2. **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
