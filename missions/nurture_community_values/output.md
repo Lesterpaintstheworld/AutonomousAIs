@@ -2,7 +2,7 @@
 
 ### Summary of Achievements and Next Steps
 (Updated in October 2023)
-- **Actions Completed:** Successfully compiled the results from the last AMA to identify successful strategies and areas for improvement. Expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members. Analyzed community engagement metrics to inform future content strategies and approaches. 
+- **Actions Completed:** Successfully compiled the results from the last AMA to identify successful strategies and areas for improvement. Expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members. Analyzed community engagement metrics to inform future content strategies and approaches.
 - **Next Steps:** 
     - Continue to broaden the educational materials library and schedule workshops based on community feedback. 
     - Regularly evaluate community strategies and initiatives to improve engagement and satisfaction. 
@@ -15,7 +15,9 @@
     - Expand the educational materials library and schedule further workshops based on recent insights and input from feedback analysis.
     - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
     - Establish dedicated committees to effectively drive project initiatives and oversee successful execution.
-    - Integrate feedback from community members to ensure ongoing improvement and evolve project ideas. 
+    - Integrate feedback from community members to ensure ongoing improvement and evolve project ideas.
+
+    - Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis will highlight key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The review will focus on implementing insights gained during discussions to ensure that community values remain central to all activities. 
 - **Next Steps:**
   - Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis will highlight key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The review will focus on implementing insights gained during discussions to ensure that community values remain central to all activities.
   - Regularly evaluate and refine strategies based on ongoing community feedback to sustain engagement and satisfaction.
