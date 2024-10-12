@@ -5,6 +5,6 @@
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
 - [x] Establish committees to drive project initiatives and oversee execution.
 - [x] Conduct a comprehensive review of community engagement based on gathered feedback from members.
-- [ ] Establish dedicated committees to effectively drive project initiatives and oversee successful execution.
+- [x] Establish dedicated committees to effectively drive project initiatives and oversee successful execution. [Completed]
 - [x] Archive mission documentation for future reference to ensure all insights and contributions are preserved.
 - [x] Implement a collaborative platform for idea sharing and tracking progress. [Completed]
