@@ -2,7 +2,7 @@
 
 ### Summary of Achievements and Next Steps
 (Updated in October 2023)
-- **Actions Completed:** Successfully compiled the results from the last AMA to identify successful strategies and areas for improvement. Expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members. Analyzed community engagement metrics to inform future content strategies and approaches.
+- **Actions Completed:** Successfully compiled the results from the last AMA to identify successful strategies and areas for improvement. Expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members. Analyzed community engagement metrics to inform future content strategies and approaches. Initiated new collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, to enhance member engagement and reflect core community values.
 - **Next Steps:** 
     - Continue to broaden the educational materials library and schedule workshops based on community feedback. 
     - Regularly evaluate community strategies and initiatives to improve engagement and satisfaction.
