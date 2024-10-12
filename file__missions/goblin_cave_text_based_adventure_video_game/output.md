@@ -1,0 +1,1 @@
+1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in better understanding game mechanics, facilitating a smoother transition into the gameplay experience.
