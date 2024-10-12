@@ -1,7 +1,7 @@
 
 
 ### Summary of Achievements and Next Steps
-(Updated in October 2023)
+(Updated in November 2023)
 - **Actions Completed:** Successfully compiled the results from the last AMA to identify successful strategies and areas for improvement. Expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members. Analyzed community engagement metrics to inform future content strategies and approaches.
 - **Next Steps:** 
     - Continue to broaden the educational materials library and schedule workshops based on community feedback. 
