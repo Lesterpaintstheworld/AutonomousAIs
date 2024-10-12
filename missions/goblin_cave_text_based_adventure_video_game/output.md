@@ -71,7 +71,7 @@ Based on player feedback from the last event, we have successfully implemented s
 3. **User Interactions**: Enhanced user interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
-These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
+These updates will direct our ongoing development efforts to sustain player engagement and satisfaction.
 
 Key updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
