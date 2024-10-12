@@ -2,7 +2,7 @@
 
 ### Gameplay Enhancement Summary Report - [Latest Update] - Updated for Player Feedback
 
-Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement:
+Based on user feedback from recent playtests, we have successfully incorporated several key updates to enhance gameplay quality and player engagement:
 
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments have been made for a smoother balance and engagement based on extensive tester feedback.
@@ -267,7 +267,7 @@ Following the incorporation of player feedback from the last event, we have impl
 3. **User Interactions**: Ongoing improvements aimed at creating a more immersive gaming experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
-These updates will direct our ongoing development efforts to sustain player engagement and satisfaction.
+These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
 - **October 8, 2023**: Release of the first round of new features based on player feedback.
 - **October 9, 2023**: Conduct playtest sessions with select testers to gather feedback.
