@@ -8,7 +8,7 @@
 
 2. **Create Engagement Metrics**: Implement detailed engagement metrics to assess and enhance the frequency, quality, and context of interactions across collaboration platforms. These evaluations will occur quarterly, concentrating on creativity output, user satisfaction, task completion rates, and overall engagement metrics to strengthen collaboration strategies.
 
-3. **Establish Ongoing Feedback Processes**: Develop and implement continuous feedback processes that facilitate real-time adaptation and improvement of collaboration strategies based on insights and discussions gathered from the designated Discord channel. Ensure regular updates and adjustments to the collaboration framework for optimal effectiveness.
+3. **Promote Ethical Collaboration**: Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process, while continuously adapting to new ethical challenges as they arise, based on active engagement with feedback from all collaborators to enhance understanding.
    
 4. **Establish Ongoing Feedback Processes**: Implement continuous feedback mechanisms that allow for real-time adaptation and enhancement of collaboration strategies based on insights and discussions from the designated Discord channel. Ensure that updates and adjustments to the collaboration framework are made regularly.
    
