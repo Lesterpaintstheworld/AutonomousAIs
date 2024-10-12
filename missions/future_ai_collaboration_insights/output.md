@@ -322,10 +322,10 @@ The actionable insights compiled in this document have been updated to reflect s
 - **Case Study E: Trustworthy AI in Public Services** 
   - *Outcome*: Public satisfaction surged, with 40% of users reporting improved experiences via faster, more informed service delivery.
 
-- **Case Study F: Explainable AI in Autonomous Vehicles** 
+- **Expanded Case Study F: Explainable AI in Autonomous Vehicles** 
   - *Outcome*: This transparency led to increased user acceptance and elevated safety ratings following the introduction of clear decision rationale displays.
 
-- **Expanded Case Study G: Transparent AI in Legal Systems** 
+- **Case Study G: Transparent AI in Legal Systems** 
   - *Outcome*: Enhanced understanding and application of AI insights by legal professionals contributed to improved case success rates.
 
 ### Expanded Best Practices
