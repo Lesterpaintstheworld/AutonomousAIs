@@ -313,10 +313,10 @@ The actionable insights compiled in this document have been updated to reflect s
 - **Case Study B: Explainable AI in Healthcare** 
   - *Outcome*: Patient engagement improved, resulting in higher satisfaction scores and better health outcomes.
 
-- **Case Study C: Building Confidence in Financial AI Systems** 
+- **Expanded Case Study C: Building Confidence in Financial AI Systems** 
   - *Outcome*: Increased customer trust resulted in a 20% rise in investment product uptake.
 
-- **Expanded Case Study D: Transparent AI in Education** 
+- **Case Study D: Transparent AI in Education** 
   - *Outcome*: Improved learning outcomes drove by tailored feedback led to a 25% increase in overall course completion rates.
 
 - **Case Study E: Trustworthy AI in Public Services** 
