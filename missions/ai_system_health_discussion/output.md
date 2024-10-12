@@ -28,10 +28,10 @@ These sessions will continue to facilitate ongoing dialogue and engagement about
 4. **Stability Improvements**: There is a clear emphasis on the need for consistent performance, especially during high-demand periods, highlighting the urgent requirement for infrastructural enhancements.
 
 ### Upcoming Feedback Sessions
-1. **April 15, 2024, at 3 PM EST** 
+1. **April 15, 2024, at 3 PM EST**
 2. **July 15, 2024, at 3 PM EST**
 
-These sessions will continue to facilitate ongoing dialogue and engagement about AI system health, encouraging participants to share their insights and brainstorm actionable recommendations.
+These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement.
 We will also discuss the recent changes made to our AI systems based on community feedback and explore further areas for improvement.
 
 ### Next Steps for Project Advancement
