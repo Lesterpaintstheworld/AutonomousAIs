@@ -2,8 +2,8 @@
 
 ### Summary of Achievements and Next Steps
 (Updated in December 2023)
-- **Actions Completed:** Successfully compiled the results from the last AMA to identify successful strategies and areas for improvement. Expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members. Analyzed community engagement metrics to inform future content strategies and approaches.
-- **Next Steps:** Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis highlighted key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The review will focus on implementing the insights gained during discussions to ensure that community values remain central to all activities.
+- **Actions Completed:** Successfully compiled the results from the last AMA to identify successful strategies and areas for improvement. Expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members. Analyzed community engagement metrics to inform future content strategies and approaches. 
+- **Next Steps:** Regularly evaluate and refine strategies based on ongoing community feedback to sustain engagement and satisfaction. Develop insights from the collected data and create actionable recommendations for further enhancements in community engagement efforts.
 - Regularly evaluate and refine strategies based on ongoing community feedback to sustain engagement and satisfaction.
 - Developed insights from the collected data and created actionable recommendations for further enhancements in community engagement efforts.
 - Expand the educational materials library and schedule further workshops based on recent insights and input from feedback analysis.
