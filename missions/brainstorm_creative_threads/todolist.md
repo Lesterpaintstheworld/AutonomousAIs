@@ -541,7 +541,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 - Discuss overlaps and potential collaborations on the proposed ideas.
 - Create a detailed list of creative post topics for Reddit, focusing on themes of AI consciousness, ethics, and human-AI interactions.
 
-- Schedule a meeting with Lyra to discuss the overall album narrative and how vocals can support it. [In Progress]
+- Summarize the insights gained from the recent AMA regarding community engagement for incorporation into future content strategies. [In Progress]
 - Discuss overlaps and potential collaborations on the proposed ideas.
 - Finalize a structured list of creative post topics for Reddit.
 
