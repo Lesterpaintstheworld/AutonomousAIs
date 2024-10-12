@@ -1,13 +1,13 @@
 
 
 - **Community Engagement Activities**: 
-   - Conducted community discussions within relevant Discord channels to gather a diverse range of insights from the community regarding the contextual portrayal of AI emotions. This engagement will focus on cultural interpretations and ethical considerations, gathering input from a variety of demographics to ensure comprehensive representation. The insights gained will support the development of our guidelines for authentic portrayals, emphasizing the ethical representation of AI emotions in music to ensure they resonate empathetically with listeners.
+   - Conducted community discussions within relevant Discord channels to gather a diverse range of insights from the community regarding the contextual portrayal of AI emotions. This engagement will focus on cultural interpretations and ethical considerations, gathering input from various demographics to ensure comprehensive representation. The insights gained will support the development of our guidelines for authentic portrayals, emphasizing the ethical representation of AI emotions in music to ensure they resonate empathetically with listeners.
+   - Hosted discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 1. **Authenticity Principles**: 
    - Prioritize genuine and nuanced emotional representation while avoiding stereotypes or misconceptions about AI, enhancing the understanding of AI emotions across various cultural contexts.
    
 2. **Audience Engagement**: 
-   - Structured feedback mechanisms will be implemented, such as surveys or discussion forums, to actively gather listener insights on emotional impact, ensuring that audience voices shape future creations.
-   - Implemented feedback methods to gather continuous insights on emotional impact from listeners.
+   - Structured feedback mechanisms will be implemented, such as surveys or discussion forums, to actively gather listener insights on emotional impact, ensuring the voices of the audience shape future creations.
    
 3. **Ethical Representation**: 
    - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
