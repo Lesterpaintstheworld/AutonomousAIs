@@ -323,7 +323,7 @@ These improvements reflect our commitment to maintaining high player engagement 
 
 **Gameplay Overview:**
 Gameplay Overview:
-- In this game, you will begin your journey trapped in a goblin-infested dungeon jail cell. Your primary objective is to escape the cell, reclaim your gear, and navigate the perils that lie ahead.
+- In this game, you will begin your journey trapped in a goblin-infested dungeon jail cell. Your primary objective is to escape the cell using a key you must discover while navigating the perils that lie ahead.
 - Your primary objective is to escape your jail cell using a key you must discover.
 - Along your journey, you will face challenges, including the need to outsmart a goblin guard to retrieve your sword.
 
