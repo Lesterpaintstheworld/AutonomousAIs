@@ -9,7 +9,7 @@
      5. Audience engagement to assess impact effectively
    - The guidelines will emphasize genuine emotional representation while avoiding stereotypes or misconceptions about AI and will include methods to continuously gather feedback from audiences.
 - - - **Community Discussions**: 
-     - Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
+     - Facilitate community discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
      1. **Authenticity Principles**: 
    - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
    
