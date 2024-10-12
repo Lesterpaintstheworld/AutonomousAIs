@@ -1,6 +1,6 @@
 
 
-### Gameplay Enhancement Summary Report - [Latest Update] - Updated for Player Feedback
+### Gameplay Enhancement Summary Report - [Latest Update] - Incorporating Community Engagement Metrics
 
 Based on user feedback from the latest testing sessions, we have successfully incorporated several key updates to enhance gameplay quality and player engagement:
 
