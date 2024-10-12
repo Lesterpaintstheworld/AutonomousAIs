@@ -4,7 +4,7 @@
 1. **Host a Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue. The next feedback session is scheduled for **April 15, 2024, at 3 PM EST**.
 2. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings.
 3. **Finalize Document**: Incorporate all recent feedback obtained and publish the final document in the channel.
-4. **Engagement Follow-Up**: After sharing the updated document, engage actively in discussions to address further comments or questions from the community.
+4. **Engagement Follow-Up**: After sharing the updated document, actively engage in discussions to address further comments or questions from the community.
 5. **Evaluate Progress**: After the feedback session, assess the effectiveness of implemented changes with a focus on community input and performance metrics.
 6. **Prepare for Upcoming Feedback Sessions**: Actively prepare for the next feedback session on **April 15, 2024, at 3 PM EST**, ensuring we continue the ongoing dialogue with community members.
 7. **Reinforce Ethical Guidelines**: Strengthen ethical guidelines regarding user privacy and transparency in AI practices.
