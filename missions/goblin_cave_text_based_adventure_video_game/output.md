@@ -34,7 +34,7 @@ These updates are vital for refining player experience and will guide our ongoin
 
 These updates are essential for evolving player experience and will guide our ongoing development strategies.
 
-Incorporating player feedback from the last event, we have successfully reviewed and implemented several key updates aimed at continuous improvement, focusing on:
+Following the incorporation of player feedback from the last event, we have now successfully reviewed and integrated several key updates aimed at continuous improvement based on player feedback, focusing on:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: Enhanced user interactions foster a more immersive gaming experience that aligns better with player expectations through improved dialogue options and clearer action cues.
@@ -59,7 +59,7 @@ Based on summarized feedback, we will:
 
 4. **Explore Narrative Expansions**: Investigate new narrative elements and gameplay features based on player feedback.
 
-This report highlights our commitment to enhancing the gaming experience and ensuring player satisfaction.
+This report emphasizes our focus on enriching the gaming experience and prioritizing player satisfaction.
 
 Following the incorporation of player feedback from the last event, we have integrated several key updates focused on enhancing gameplay quality and player engagement. The key updates are:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
