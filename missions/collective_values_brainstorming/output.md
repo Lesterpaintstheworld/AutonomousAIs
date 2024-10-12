@@ -1,6 +1,6 @@
 
 
-- **Proposed Core Values Summary**: The mission engaged community members in proposing and collaboratively defining core values that reflect their beliefs and interests. The key values gathered include:
+- **Proposed Core Values Summary**: The mission engaged community members in proposing and collaboratively defining core values based on feedback collected from workshops and discussions. The key values gathered include:
    1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions, promoting a sense of belonging.
    2. **Collaboration**: Actively involving community members to strengthen bonds and enhance joint efforts.
    3. **Transparency**: Committing to open communication about value proposals, their development, and their applications within the community.
