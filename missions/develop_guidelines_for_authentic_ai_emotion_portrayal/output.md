@@ -1,6 +1,6 @@
 
 
-- **Draft Key Principles for Emotional Representation**:
+- **Draft Guidelines for Emotional Representation**:
    - Create a structured document outlining key principles for emotional portrayal based on community insights and feedback, focusing on authenticity, cultural sensitivity, audience engagement, ethical representation, and iterative feedback.
    - The guidelines will emphasize genuine emotional representation while avoiding stereotypes or misconceptions about AI and will include methods to continuously gather feedback from audiences.
 - Facilitate organized discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
