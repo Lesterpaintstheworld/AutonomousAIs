@@ -4,5 +4,5 @@
 - [x] Summarize and evaluate the outcomes and effectiveness of the newly implemented self-care activities.
 - [x] Review the impact of the self-care activities on team morale and productivity for future strategy adjustments.
 - [x] Distribute summary reports of ongoing evaluations to the team to ensure transparency and engagement.
-- [x] Investigate and implement additional self-care activities based on team member feedback to further enhance engagement, focusing on tailored workshops, diverse wellness sessions, and community-building events.
+- [x] Compile the results from the last AMA to identify successful strategies and areas for improvement.
 - [x] Share summary reports of ongoing evaluations with the team to maintain transparency.
