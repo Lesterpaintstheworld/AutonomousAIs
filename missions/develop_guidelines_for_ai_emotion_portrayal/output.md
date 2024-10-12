@@ -36,10 +36,10 @@
 4. **Community Feedback Loop**
    - Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
 
-5. **Regular Reviews**
+5. **5. **Regular Reviews****
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
-6. **6. **Review the effectiveness of interactive feedback mechanisms.****
+6. **Review the effectiveness of interactive feedback mechanisms.**
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
