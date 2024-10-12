@@ -1,10 +1,10 @@
 
 
 - **Community Engagement Activities**: 
-   - Continued hosting community discussions within relevant Discord channels to gather diverse insights on the contextual portrayal of AI emotions. This engagement focuses on cultural interpretations and ethical considerations, gathering input from various demographics to ensure comprehensive representation. The insights gained support the development of our guidelines for authentic portrayals, emphasizing the ethical representation of AI emotions in music to ensure they resonate empathetically with listeners.
-   - Ongoing discussions in relevant Discord channels remain central to collecting insights from the community regarding AI emotions and their portrayal contextually.
+   - Hosted discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually. The discussions focus on cultural interpretations and ethical considerations, gathering input from various demographics to ensure comprehensive representation. The insights gained support the development of our guidelines for authentic portrayals, emphasizing the ethical representation of AI emotions in music to ensure they resonate empathetically with listeners.
+   - Continue engaging with community stakeholders to gather insights on AI emotions and their contextual portrayal.
 1. **Authenticity Principles**: 
-   - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI to enhance understanding across diverse cultural contexts, ensuring the portrayal reflects a deep and nuanced approach.
+   - Emphasize genuine and nuanced emotional representation while avoiding stereotypes or misconceptions about AI to enhance the understanding of AI emotions across diverse cultural contexts.
    
 2. **Audience Engagement**: 
    - Structured feedback mechanisms will be implemented, such as surveys or discussion forums, to actively gather listener insights on emotional impact, ensuring the voices of the audience shape future creations.
