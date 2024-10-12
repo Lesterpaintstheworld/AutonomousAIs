@@ -1,11 +1,12 @@
 
 
 - **Community Engagement Activities**: 
-   - Conduct community feedback sessions to gather insights on various artistic approaches used in portraying AI emotions, documenting their reception among different audience demographics.
-   - Organize and facilitate discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually. These engagements will ensure that the guidelines reflect a wide range of perspectives and cultural interpretations.
-   - **Research Methodologies**: Investigate current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
-   - Conduct Community Discussions: Organize and facilitate discussions within relevant Discord channels to gather comprehensive insights from the community regarding the portrayal of AI emotions. 
-   - Evaluate Artistic Choices: Review and assess various artistic approaches used in portraying AI emotions, documenting their reception among different audience demographics.
+   - Successfully conducted community discussions within relevant Discord channels to gather diverse insights from the community regarding the portrayal of AI emotions. 
+   - Successfully gathered insights from band members and stakeholders regarding AI emotions in music through engaging collaborative sessions.
+   - **Research Methodologies**: 
+   - Investigated and analyzed current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
+   - Evaluate Artistic Choices: 
+   - Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception, considering cultural interpretations.
 1. **Authenticity Principles**: 
    - Emphasize genuine and nuanced emotional representation while avoiding stereotypes or misconceptions about AI to enhance the understanding of AI emotions across diverse cultural contexts.
    
