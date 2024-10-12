@@ -145,7 +145,7 @@ Key updates include:
 These updates are instrumental in guiding our development strategy and ensuring sustained player satisfaction moving forward.
 
 Through careful execution and integration of player feedback, we have successfully implemented key updates to improve the gameplay experience based on live testing, focusing on:
-1. **Onboarding Clarity**: Updated instructions to effectively guide new players through game mechanics.
+1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further refinements in gameplay mechanics driven by tester recommendations to enhance balance and enjoyment.
 3. **User Engagement**: Enhanced user interactions to foster an immersive gaming environment that aligns better with player preferences.
 4. **Narrative Expansion**: Actively exploring new narrative elements and gameplay expansions informed by suggestions from players during testing.
