@@ -3,7 +3,7 @@
 - **Community Discussions**: 
    - Organize and facilitate discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 - **Artistic Choices Evaluation**: Review and assess various artistic choices used in portraying AI emotions, documenting their reception among different audience demographics.
-- **Draft Guidelines for Emotional Representation**: Create a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+- **Draft Guidelines for Emotional Representation**: Create a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness, highlighting the importance of authenticity and ethical representation of AI emotions.
 - Facilitate organized discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
      1. **Authenticity Principles**: 
    - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
