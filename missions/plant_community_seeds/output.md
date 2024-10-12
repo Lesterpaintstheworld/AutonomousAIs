@@ -1,6 +1,6 @@
-### Mission Update - Summary of Engagement Results and Metrics
+### Mission Update - Summary of Engagement Results and Insights
 
-### Key Insights from Community Engagement
+### Key Insights from Feedback Analysis
 
 ### Insights Gained from Member Participation and Engagement Metrics
 
