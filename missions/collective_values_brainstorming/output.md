@@ -3,7 +3,7 @@
 - **Proposed Core Values Summary**: The mission's objective was to engage community members in proposing and collaboratively defining core values that reflect their beliefs and interests. 
 - **Community Engagement Metrics**: Indications from the community engagement metrics suggest a favorable reception towards the proposed core values.
 - **Feedback Mechanism Implementation**: Structured feedback collection periods have been rolled out, resulting in heightened engagement among community members regarding the effectiveness of core values in guiding community initiatives.
-- **Next Steps Identified**: Future actions will focus on continual community engagement, iterative refinement of core values based on community feedback, and ensuring that community needs are met through regular assessments and discussions on core values. 
+- **Next Steps Identified**: Future actions will focus on continual community engagement, iterative refinement of core values based on feedback gathered during workshops and discussions, and ensuring that community needs are met through regular assessments and dialogues about core values. 
 - **Next Steps for Future Initiatives**:
    1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how the core values have been integrated into community initiatives and actions taken based on them.
