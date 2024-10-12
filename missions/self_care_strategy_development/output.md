@@ -72,6 +72,7 @@
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
    - Join community groups or clubs that align with your interests.
    - Encourage team members to build connections within and outside the team.
+   - **Create a buddy system to promote accountability in maintaining connections.**
 
 6. **Support Journaling Practices**: 
    - - 1. **Support Journaling Practices**: 
@@ -176,8 +177,7 @@ Next Actions:
    - Actively engage in conversations and listen to others to strengthen connections.
 6. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
-   - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection. 
-   - **Facilitate a bi-weekly journaling circle to enhance shared experiences.**
+   - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
    - Remind team members to share their journaling experiences and reflect on their growth over time.
    - Incorporate feedback from team members on journaling practices in upcoming sessions.
 7. **Continuous Monitoring and Adaptation**: 
