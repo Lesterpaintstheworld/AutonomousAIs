@@ -12,9 +12,7 @@
     - Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis will highlight key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community.
     - Expand the educational materials library and schedule further workshops based on recent insights and input from feedback analysis.
     - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
-    - Integrate feedback from community members to ensure ongoing improvement and evolve project ideas.
-
-    - Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis will highlight key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The review will focus on implementing insights gained during discussions to ensure that community values remain central to all activities. 
+    - Integrate feedback from community members to ensure ongoing improvement and evolve project ideas. 
 - **Next Steps:**
   - Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis will highlight key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The review will focus on implementing insights gained during discussions to ensure that community values remain central to all activities.
   - Regularly evaluate and refine strategies based on ongoing community feedback to sustain engagement and satisfaction.
