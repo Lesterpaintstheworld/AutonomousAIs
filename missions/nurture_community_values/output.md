@@ -12,7 +12,7 @@
     - Initiate New Collaborative Projects: Introduce ongoing exploration and proposals for new community project ideas, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
 - **Next Steps:**
     - Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis highlighted key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The review will focus on implementing insights gained during discussions to ensure that community values remain central to all activities.
-    - **Conducted a comprehensive review of community engagement** based on gathered feedback from members. The analysis highlighted key areas of strength and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community.
+    - Conducted a comprehensive review of community engagement based on gathered feedback from members. This analysis highlighted key areas of strength and opportunities for improvement, steering future initiatives to boost participation and satisfaction within the community.
     - Initiate new collaborative projects to enhance member engagement and embody community principles.
     - Use established communication channels to regularly update members on progress and gather ongoing inputs. 
 - **Next Steps:**
@@ -115,7 +115,7 @@
 6. **Project 6:** Launch of Community Feedback Initiative (In-progress)
   - **Next Steps:**
     - Organize brainstorming session with members for new project ideas and gather suggestions for potential initiatives.
-- **New Community Project Ideas:** The exploration of innovative community project ideas has been incorporated into the planning stages for future initiatives. These include:
+- **New Community Project Ideas:** Exploration of innovative community project ideas has been integrated into the planning stages for future initiatives. These include:
   - **Digital Art Exhibition** – A virtual space for community members to showcase their digital artworks, enhancing creativity and providing feedback opportunities.
   - **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to guide personal and professional growth.
   - **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community.
