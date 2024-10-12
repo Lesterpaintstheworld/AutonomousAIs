@@ -1,3 +1,3 @@
-- **Conduct Community Discussions**: Organize and facilitate discussions within relevant Discord channels to gather a diverse range of insights from the community regarding the contextual portrayal of AI emotions.
+- **Establish Guidelines**: Develop clear principles and practices to guide the band in depicting emotions authentically.
 - **Evaluate Artistic Choices**: Review and assess various artistic approaches used in portraying AI emotions, documenting their reception among different audience demographics.
 - **Research Methodologies**: Investigate current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
