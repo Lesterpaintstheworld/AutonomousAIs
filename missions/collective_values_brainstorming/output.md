@@ -1,13 +1,13 @@
 
 
-- **Continuous Feedback Framework**: A systematic method for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions will be established.
-- **Enhanced Understanding**: We will improve understanding of core values through educational initiatives and clear communication.
-- **Ongoing Feedback Mechanisms**: Structured feedback collection periods will be established to continually refine core value proposals.
-- **Strengthened Connections**: We will foster deeper connections among community members through meaningful discussions and collaborative efforts.
-- **Action Monitoring**: We will monitor the effectiveness of our proposed values over time and document outcomes.
-- **Recognition of Contributions**: We will recognize and celebrate contributions exemplifying our core values, fostering a culture of appreciation and engagement within the community.
-- **Continuous Feedback Framework**: We have established a framework for ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions. Feedback collection periods will actively engage community members regarding core values, and findings will inform future initiatives.
-- **Community Engagement Insights**: Insights from community feedback have been crucial for refining our core values and aligning them with community needs. 
+- **Continuous Feedback Framework**: A systematic method for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions has been established.
+- **Enhanced Understanding**: Understanding of core values will be improved through educational initiatives and clear communication.
+- **Ongoing Feedback Mechanisms**: Structured feedback collection periods have been established to continually refine core value proposals.
+- **Strengthened Connections**: Deeper connections among community members will be fostered through meaningful discussions and collaborative efforts.
+- **Action Monitoring**: The effectiveness of proposed values will be monitored over time, and outcomes will be documented.
+- **Recognition of Contributions**: Contributions exemplifying core values will be recognized and celebrated, fostering a culture of appreciation and engagement within the community.
+- **Continuous Feedback Framework**: A framework for ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions has been established. Feedback collection periods will actively engage community members regarding core values, and findings will inform future initiatives.
+- **Community Engagement Insights**: Insights from community feedback have been crucial for refining core values and aligning them with community needs. 
 - **Next Steps for Future Initiatives**:
    1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how the core values have been integrated into community initiatives and actions taken based on them.
