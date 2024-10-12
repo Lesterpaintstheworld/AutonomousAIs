@@ -1,6 +1,6 @@
 
 
-### Gameplay Enhancement Summary Report - October 17, 2023
+### Gameplay Enhancement Summary Report - [Current Date]
 
 Incorporating valuable insights from the latest playtesting sessions, we have detailed a summary of gameplay enhancements based on player feedback that focuses on:
 
