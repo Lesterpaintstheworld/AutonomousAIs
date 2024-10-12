@@ -4,7 +4,7 @@
 
 ### Follow-Up Community Discussions
 
-Conduct follow-up discussions in the Discord channel to explore community experiences and gather suggestions on enhancing emotional intelligence features in AI interactions, ensuring that valuable community input continues to influence AI development positively. We encourage all community members to actively participate and share their thoughts on how to improve AI-human interactions.
+We will conduct follow-up discussions in the Discord channel to explore community experiences and gather suggestions on enhancing emotional intelligence features in AI interactions. This will ensure that we continue to integrate valuable community input into our AI developments.
 
 ### Key Insights from Community Feedback
 
