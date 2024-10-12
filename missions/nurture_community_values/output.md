@@ -4,13 +4,13 @@
 (Updated in November 2023)
 - **Actions Completed:** Successfully compiled the results from the last AMA, identifying successful strategies and areas for improvement which will guide our future initiatives. Feedback from the last AMA has been implemented into our community engagement strategies to foster deeper member involvement and enhance satisfaction.
 - **Next Steps:**
-    - Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis highlighted key strengths and identified opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The review will emphasize implementing insights gained during discussions to ensure that community values remain central to all activities.
-    - Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics weekly.
-    - Broaden Learning Resources: Expand the educational materials library and schedule additional workshops based on recent insights and feedback analysis.
-    - Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
-    - Establish committees to drive project initiatives: Create dedicated teams to enhance project implementation and community involvement.
-    - Initiate New Collaborative Projects: Introduce ongoing proposals for new community project ideas, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
-    - Provide regular updates to communicate progress and gather ongoing feedback from community members.
+    - Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis highlighted key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The review will focus on implementing insights gained during discussions to ensure that community values remain at the forefront of all activities.
+    - **Continue Daily Discussions:** Maintain the rhythm of discussions and introduce new topics each week.
+    - **Broaden Learning Resources:** Continue to expand the educational materials library and schedule further workshops based on recent insights and input from feedback analysis.
+    - **Refine Recognition Programs:** Apply continuous improvements to the recognition framework for contributions and achievements.
+    - **Establish Committees:** Create dedicated teams to drive project initiatives and oversee execution, ensuring regular updates on progress.
+    - **Initiate New Collaborative Projects:** Begin implementing new community projects leveraging the recognition framework and the continuous learning model established.
+    - **Provide Regular Updates:** Use established communication channels to regularly update members on progress and gather ongoing inputs.
 - **Next Steps:**
     - Conduct a comprehensive review of community engagement based on gathered feedback from members. This analysis highlighted key strengths and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The review will focus on implementing insights gained during discussions to ensure that community values remain central to all activities.
     - Conducted a comprehensive review of community engagement based on gathered feedback from members. This analysis highlighted key areas of strength and opportunities for improvement, steering future initiatives to boost participation and satisfaction within the community.
