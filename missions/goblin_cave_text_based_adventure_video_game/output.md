@@ -9,7 +9,7 @@ Following the recent playtesting sessions, we have compiled a detailed report of
 3. **User Interactions**: Enhanced user interactions foster a more immersive environment meeting player expectations, featuring improved dialogue options and clearer action cues.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions is based on player suggestions gathered during testing, ensuring the game continues to evolve according to user preferences.
 
-These updates are essential for evolving player experience and will inform our ongoing development strategies.
+These updates are vital for refining player experience and will guide our ongoing development strategies.
 
 1. **Onboarding Clarity**: Enhanced instructions that significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Adjustments made for better balance and engagement based on extensive tester feedback.
