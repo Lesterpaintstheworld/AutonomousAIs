@@ -12,7 +12,7 @@
 8. **Advocacy Roles**: Designating "Value Champions" to actively promote core values within the community.
 9. **Educational Enhancements**: Creating workshops and resources to educate members on practical applications of core values.
 10. **Value Refinement**: Actively seeking input and feedback from community members to ensure core values remain relevant and effective.
-11. **Core Values Compilation**: The compiled document reflecting community feedback, discussions, and proposals is now completed and will guide future initiatives.
+11. **Core Values Compilation**: The compiled document reflecting community feedback, discussions, and proposals has now been completed and will guide future initiatives.
    1. **Inclusivity**: Ensuring that all voices are welcomed and valued in community discussions to promote a sense of belonging.
    2. **Collaboration**: Actively engaging community members to strengthen bonds and enhance joint efforts.
    3. **Transparency**: Committing to open communication about value proposals, their development, and their applications within the community.
