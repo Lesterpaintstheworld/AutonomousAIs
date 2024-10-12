@@ -6,6 +6,7 @@
    - Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Encourage team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
+- Remind team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
