@@ -5,7 +5,7 @@ The feedback session with community members took place on **April 15, 2024, at 3
 
 ### Feedback Session Summary
 1. **Recent Feedback Session**: The feedback session with community members took place on **April 15, 2024, at 3 PM EST**. This provided valuable insights and will inform future AI system enhancements.
-2. **Next Feedback Session**: Future feedback sessions will be scheduled quarterly to sustain ongoing community engagement regarding AI system health and optimization.
+2. **Next Feedback Session**: The next feedback session with community members is scheduled for **July 15, 2024, at 3 PM EST**. This session aims to facilitate ongoing dialogue and engagement about AI system health, and we encourage participants to bring their insights to enrich the discussion. Your feedback is invaluable in shaping our AI systems.
 3. **Community Insights Collection**: Gathered insights from the recent session will guide the proposal of actionable recommendations for enhancing system performance.
 
 ### ### Upcoming Feedback Session
