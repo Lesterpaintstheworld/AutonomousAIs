@@ -1,4 +1,4 @@
-- [ ] Summarize and evaluate the outcomes and effectiveness of the newly implemented self-care activities.
+- [ ] Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
 - [x] Implement the updated recommendations for new self-care activities based on team member feedback and follow up with the team on their effectiveness.
 - [x] Conduct a detailed review of the impact of the self-care activities on team morale and productivity, gathering specific feedback for future strategy adjustments.
 - [x] Summarize and evaluate the outcomes and effectiveness of the newly implemented self-care activities.
