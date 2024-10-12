@@ -1,4 +1,4 @@
-- Compile the results from the last AMA to identify successful strategies and areas for improvement. [Completed]
+- Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
 
 ## Project Overview
 
