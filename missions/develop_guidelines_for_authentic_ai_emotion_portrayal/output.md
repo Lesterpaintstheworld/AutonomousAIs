@@ -1,7 +1,7 @@
 
 
 - **Community Engagement Activities**: 
-   - Conducted community discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their contextual portrayal.
+   - Organized and facilitated discussions within relevant Discord channels to collect comprehensive insights from the community regarding the portrayal of AI emotions.
 1. **Authenticity Principles**: 
    - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
    
