@@ -10,5 +10,5 @@
 - [x] Evaluate the impact of the implemented feedback from the last AMA on community engagement strategies. [Completed]
 - [x] Plan additional educational resources and workshops to foster continuous learning within the community. [Completed]
 - [x] Organize and schedule follow-up workshops based on the feedback received from previous sessions. [Completed]
-- [x] Gather additional feedback from recent workshops to inform future sessions. [Completed]
+- [ ] Gather additional feedback from recent workshops to inform future sessions.
 - [x] Organize and schedule upcoming workshops based on community interests and feedback. [Completed]
