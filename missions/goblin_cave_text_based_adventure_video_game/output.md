@@ -98,7 +98,7 @@ Key updates include:
 
 The focus remains on iterating and enhancing the gameplay experience while ensuring stability and engagement throughout the gaming journey.
 
-Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
+Based on player feedback, we have successfully implemented several key updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics.
 2. **Gameplay Mechanics**: Continuous refinement of balance and engagement in challenges for a more enjoyable gameplay experience.
 3. **User Interactions**: Optimized interactions to create a more immersive gaming environment that aligns with player expectations.
@@ -556,7 +556,7 @@ Incorporating these insights will guide our ongoing development efforts to maint
 
 **Gameplay Improvement Report: Actionable Updates - [October 17, 2023]**
 
-After incorporating player feedback collected during testing, we have successfully reviewed and integrated several key updates aimed at continuous enhancement. The primary updates include:
+Following the incorporation of player feedback from the last event, we have now successfully reviewed and integrated several key updates aimed at continuous improvement. The primary updates include:
 
 1. **Onboarding Clarity**: Updated onboarding instructions to better assist new players in understanding the game mechanics.
 2. **Gameplay Mechanics**: Made adjustments to ensure smoother balance and increased engagement based on tester feedback.
