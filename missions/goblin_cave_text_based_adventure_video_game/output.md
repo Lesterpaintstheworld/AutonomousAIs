@@ -9,7 +9,7 @@ Following the incorporation of player feedback from the last event, we have revi
 3. **User Interactions**: Enhanced interactions have been optimized to create a more immersive gaming experience aligning with player expectations.
 4. **Narrative Expansions**: Exploring new narrative dynamics and potential gameplay expansions inspired by player suggestions to keep the game engaging.
 
-These enhancements are vital for improving the player experience and will inform our continuous development efforts moving forward.
+These enhancements are crucial for elevating the player experience and will guide our ongoing development initiatives.
 
 Following the recent playtesting sessions, we have produced a comprehensive report on actionable gameplay improvements based on player feedback, concentrating on:
 
@@ -98,7 +98,7 @@ Key updates include:
 
 The focus remains on iterating and enhancing the gameplay experience while ensuring stability and engagement throughout the gaming journey.
 
-Based on player feedback, we have successfully implemented several key updates aimed at continuous improvement, focusing on:
+Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics.
 2. **Gameplay Mechanics**: Continuous refinement of balance and engagement in challenges for a more enjoyable gameplay experience.
 3. **User Interactions**: Optimized interactions to create a more immersive gaming environment that aligns with player expectations.
