@@ -13,4 +13,4 @@ With these insights, we aim to enhance the quality and effectiveness of our futu
 By synthesizing this data, we aim to enhance the quality of our future AMA sessions and continue fostering a strong connection with our audience. Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
 
 - Analyzed the results from the latest AMA session to determine key themes and insights for future content development.
-- Analyze the results from the latest AMA session to determine key themes and insights for future content development.
+- Analyze community engagement feedback from the last AMA and identify key themes for future content strategies.
