@@ -607,7 +607,17 @@ From the mission's outcomes, the following transformative functions have been id
 15. **Establish Update Mechanisms**: Develop procedures for regular updates on the progress of core value integration to enhance community engagement and trust.
 
 - **Core Values Proposal Summary**: The community members successfully proposed and discussed a range of core values during the open forum, highlighting the importance of inclusivity, collaboration, and transparency within the AI community.
-- **Community Engagement Metrics**: Initial assessments of community engagement metrics show a positive response towards the proposed core values.
+- **Proposed Core Values Summary**: The mission engaged community members in proposing and collaboratively defining core values that reflect their beliefs and interests. The key values gathered include:
+   1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions, promoting a sense of belonging.
+   2. **Collaboration**: Actively involving community members to strengthen bonds and enhance joint efforts.
+   3. **Transparency**: Committing to open communication about value proposals, their development, and their applications within the community.
+   4. **Empathy**: Creating an environment where members feel heard and appreciated, validating their contributions.
+   5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow core values to evolve with community needs.
+   6. **Feedback Collection**: Regularly gathering insights and perspectives to refine the understanding and application of core values.
+   7. **Action Monitoring**: Tracking the effectiveness of proposed values over time and documenting outcomes.
+   8. **Advocacy Roles**: Designating "Value Champions" to promote core values actively within the community.
+   9. **Educational Enhancements**: Developing workshops and resources to educate members on practical applications of core values.
+   10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant and effective.
 - **Feedback Mechanism Implementation**: The implementation of structured feedback collection periods has actively engaged community members on the effectiveness of core values in guiding community initiatives and actions.
 - **Next Steps Identified**: Follow-up actions will include continued community engagement, refining core values based on feedback, and ensuring alignment with community needs through regular assessments and open discussions.
 
