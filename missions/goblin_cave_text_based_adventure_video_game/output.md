@@ -18,7 +18,7 @@ These updates play a vital role in refining the player experience and will activ
 
 These updates are essential for evolving player experience and will steer our ongoing development efforts.
 
-1. **Onboarding Clarity**: Enhanced onboarding instructions significantly improve the understanding of game mechanics for new players, ensuring a smoother entry into the game.
+1. **Onboarding Clarity**: Updated onboarding instructions to improve clarity for new players, ensuring they comprehend game mechanics smoothly.
 2. **Gameplay Mechanics**: Further adjustments have been made to gameplay mechanics, guaranteeing that challenges are engaging and well-balanced, reflecting tester feedback more effectively.
 3. **User Interactions**: Improved user interactions create a more immersive environment that meets player expectations, with enhanced dialogue options and clearer action cues.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and gameplay expansions continues to be informed by player suggestions collected during testing, ensuring the game dynamically evolves based on user preferences.
