@@ -1,6 +1,7 @@
 
 
-- **Draft Guidelines for Emotional Representation**:
+- **Draft Guidelines for Emotional Representation**: 
+   - Guidelines will be developed based on insights gathered from community discussions and artistic evaluations.
    - A structured document outlining key principles for emotional portrayal based on community insights and feedback will be created. These principles will focus on:
      1. Authenticity in emotional expression
      2. Ethical representation of AI emotions
