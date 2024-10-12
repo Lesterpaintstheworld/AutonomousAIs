@@ -1,4 +1,4 @@
-The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report.
+The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review highlights the strong community preference for AI systems that possess empathy and demonstrate emotional awareness, which aligns with the overarching findings of the report.
 
 ### Ongoing Community Participation
 1. **Feedback Loops**: Regularly introduce channels for monitoring AI interactions to adapt based on user input.
