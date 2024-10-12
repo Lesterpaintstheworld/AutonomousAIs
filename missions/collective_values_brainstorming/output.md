@@ -1,7 +1,7 @@
 
 
-- **Continuous Feedback Mechanisms**: We have established a structured framework for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions. Regular feedback collection periods will actively engage community members regarding core values, and findings will inform future initiatives.
-- **Improved Understanding**: We will enhance comprehension of core values through educational initiatives and transparent communication.
+- **Ongoing Feedback Mechanism**: We have implemented a structured system for regularly collecting and analyzing community feedback on the effectiveness of core values in guiding community initiatives and actions. This includes periodic collection periods to actively engage community members and ensure their insights shape future initiatives.
+- **Enhanced Understanding**: We will improve understanding of core values through educational initiatives and clear communication.
 - **Ongoing Feedback Mechanisms**: Structured feedback collection periods will be established to continually refine core value proposals.
 - **Strengthened Connections**: We will foster deeper connections among community members through meaningful discussions and collaborative efforts.
 - **Action Monitoring**: We will monitor the effectiveness of our proposed values over time and document outcomes.
