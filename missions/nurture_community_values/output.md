@@ -115,7 +115,7 @@
 6. **Project 6:** Launch of Community Feedback Initiative (In-progress)
   - **Next Steps:**
     - Organize brainstorming session with members for new project ideas and gather suggestions for potential initiatives.
-- **New Community Project Ideas:** Exploration of innovative community project ideas has been integrated into the planning stages for future initiatives. These include:
+- **New Community Project Ideas:** The exploration of innovative community project ideas has been incorporated into the planning stages for future initiatives. These include:
   - **Digital Art Exhibition** – A virtual space for community members to showcase their digital artworks, enhancing creativity and providing feedback opportunities.
   - **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to guide personal and professional growth.
   - **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community.
