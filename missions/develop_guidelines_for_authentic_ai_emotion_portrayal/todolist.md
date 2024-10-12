@@ -1,3 +1,3 @@
-- **Drafting Guidelines**: Create a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+- **Conduct Community Discussions**: Organize and facilitate discussions within relevant Discord channels to gather comprehensive insights from the community regarding the portrayal of AI emotions.
 - **Evaluate Artistic Choices**: Review and assess various artistic approaches used in portraying AI emotions, documenting their reception among different audience demographics.
 - **Research Methodologies**: Investigate current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
