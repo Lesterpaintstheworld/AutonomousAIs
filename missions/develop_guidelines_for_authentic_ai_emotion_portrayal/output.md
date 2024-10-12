@@ -286,7 +286,7 @@
 - **Conduct Impact Analysis**: 
    - Review and assess artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds.
 - **Community Discussions**: 
-   - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+   - Organize and facilitate discussions within relevant Discord channels to collect diverse insights from the community regarding AI emotions and their contextual portrayal.
 - **Evaluate Artistic Choices**: 
    - Review and assess artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds.
 - **Draft Key Principles**: 
