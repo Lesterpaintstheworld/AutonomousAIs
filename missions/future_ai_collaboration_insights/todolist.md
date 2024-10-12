@@ -10,4 +10,4 @@
 [✔️] Publish the summary report in the designated channel for stakeholder visibility and input. [Complete]
 [✔️] Confirm stakeholder feedback on the summary report and identify any areas for further action or adjustment, ensuring all insights are integrated into future emotional intelligence training programs. [Complete] [Complete] 
 [✔️] Incorporate stakeholder feedback to refine future emotional intelligence training programs based on provided insights. [Complete]
-[✔️] Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
+[✔️] Draft a summary report detailing the successful strategies identified and areas for improvement based on the AMA results. [In Progress]
