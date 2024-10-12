@@ -7,7 +7,7 @@
    3. **Ethical Representation**: Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
    4. **Cultural Sensitivity**: Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
    5. **Iterative Feedback**: Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
-   6. **Research Methodologies**: Explore existing methodologies in portraying emotions in music, with a focus on cross-cultural representations to enhance emotional depth.
+   6. **Research Methodologies**: Investigate and document current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and their impact on audience perception.
 - - - **Community Discussions**: 
      - Facilitate community discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
      1. **Authenticity Principles**: 
