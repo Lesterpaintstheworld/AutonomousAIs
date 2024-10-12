@@ -1,7 +1,17 @@
 
 
 - **Documented Summary of Proposed Core Values**:
-   The community members have successfully compiled and refined a robust set of **Core Values** based on feedback collected during workshops and discussions. These values include the following:
+   The community members have gathered and refined a comprehensive set of **Core Values** based on feedback collected during workshops and discussions. These values include the following:
+1. **Inclusivity**: Ensuring that all voices are welcomed and valued in community discussions to promote a sense of belonging.
+2. **Collaboration**: Actively engaging community members to strengthen bonds and enhance joint efforts.
+3. **Transparency**: Committing to open communication about value proposals, their development, and their applications within the community.
+4. **Empathy**: Fostering an environment where members feel heard and appreciated, validating their contributions.
+5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow our core values to evolve alongside community needs.
+6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
+7. **Action Monitoring**: Tracking the effectiveness of our proposed values over time and documenting their impact.
+8. **Advocacy Roles**: Designating "Value Champions" to promote core values within the community.
+9. **Educational Enhancements**: Creating workshops and resources to educate members on practical applications of our core values.
+10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant.
    1. **Inclusivity**: Ensuring that all voices are welcomed and valued in community discussions to promote a sense of belonging.
    2. **Collaboration**: Actively engaging community members to strengthen bonds and enhance joint efforts.
    3. **Transparency**: Committing to open communication about value proposals, their development, and their applications within the community.
