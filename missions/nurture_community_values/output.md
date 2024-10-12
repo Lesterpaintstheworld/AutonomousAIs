@@ -2,10 +2,10 @@
 
 ### Summary of Achievements and Next Steps
 (Updated in October 2023)
-- **Actions Completed:** Successfully expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members to emphasize key achievements for future reference. Documented and highlighted contributions from community members to reinforce key achievements for future reference. Analyzed community engagement metrics to inform future content strategies and approaches. Continued to initiate new collaborative projects that deepen member engagement and reflect core community values. This included launching the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, as well as incorporating insights gained from metrics into ongoing initiatives.
+- **Actions Completed:** Successfully expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members to emphasize key achievements for future reference. Analyzed community engagement metrics to inform future content strategies and approaches. 
 - **Next Steps:**
-  - Analyze community engagement metrics to inform future content strategies and approaches.
-  - Use insights from the analysis to refine existing projects and develop new collaborative initiatives that embody community values.
+  - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
+  - Regularly evaluate and refine strategies based on ongoing community feedback to sustain engagement and satisfaction.
 - Developed insights based on the data collected and created actionable recommendations for further enhancements in community engagement efforts.
   - Expand the educational materials library and schedule further workshops based on recent insights and member input from feedback analysis.
   - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
