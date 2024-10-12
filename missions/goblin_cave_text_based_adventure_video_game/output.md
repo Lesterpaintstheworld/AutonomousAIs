@@ -7,7 +7,7 @@ Following the recent playtesting sessions, we have compiled a detailed report of
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players with understanding the game mechanics.
 2. **Gameplay Mechanics**: Further refinements have been made to gameplay mechanics for better balance and engagement based on tester feedback.
 3. **User Interactions**: Enhanced interactions implemented to foster a more immersive gaming experience.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and possible gameplay expansions will be informed by player suggestions gathered during testing.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions will be shaped by player input collected during testing.
 
 These updates are vital for refining player experience and will guide our ongoing development strategies.
 
