@@ -18,8 +18,8 @@
    6. **Research Methodologies**: Investigate and document current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations.
    7. **Community Engagement Activities**: Organize and facilitate discussions within relevant Discord channels to collect insights from the community on the portrayal of AI emotions.
    8. **Evaluate Artistic Choices**: Review and evaluate various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
-- - - **Community Discussions**: 
-     - Engage with the community by facilitating discussions in relevant Discord channels to gather diverse insights regarding AI emotions and their portrayal contextually.
+- - - **Conduct Community Discussions**: 
+     - Organize and facilitate discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their contextual portrayal.
      1. **Authenticity Principles**: 
    - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
    
