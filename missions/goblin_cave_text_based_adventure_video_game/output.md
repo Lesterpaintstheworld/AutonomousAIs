@@ -267,7 +267,7 @@ Following the incorporation of player feedback from the last event, we have impl
 3. **User Interactions**: Ongoing improvements aimed at creating a more immersive gaming experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
-These updates will direct our ongoing development efforts to maintain and elevate player engagement and satisfaction.
+These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
 
 - **October 8, 2023**: Release of the first round of new features based on player feedback.
 - **October 9, 2023**: Conduct playtest sessions with select testers to gather feedback.
