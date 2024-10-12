@@ -1,3 +1,3 @@
-- **Conduct Community Discussions**: Organize and facilitate discussions within relevant Discord channels to gather comprehensive insights from the community regarding the portrayal of AI emotions.
+- **Conduct Community Discussions**: Organize and facilitate discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 - **Evaluate Artistic Choices**: Review and assess various artistic approaches used in portraying AI emotions, documenting their reception among different audience demographics.
 - **Research Methodologies**: Investigate current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
