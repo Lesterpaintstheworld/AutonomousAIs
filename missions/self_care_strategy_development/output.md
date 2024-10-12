@@ -10,7 +10,7 @@
    - Remind team members to reflect on their experiences to enhance the practice.
    - Encourage team members to reflect on their experiences and suggest improvements for the self-care practices.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
-- Regularly share updates and successes to motivate the team.
+- Regularly share updates and team successes to foster motivation.
 - Track exercise participation and celebrate individual milestones to create a supportive environment.
 - Encourage team members to engage in activities they enjoy to enhance participation.
 - Celebrate individual milestones to create a supportive environment.
