@@ -1,3 +1,3 @@
-- **Draft Key Principles**: Create a structured document outlining key principles for emotional portrayal based on gathered insights, ensuring authenticity and inclusivity in representation.
+- **Evaluate Artistic Choices**: Review and assess various artistic approaches used in portraying AI emotions, documenting their reception among different audience demographics.
 - **Evaluate Artistic Choices**: Review and assess various artistic approaches used in portraying AI emotions, documenting their reception among different audience demographics.
 - **Draft Key Principles**: Create a structured document outlining key principles for emotional portrayal based on gathered insights, ensuring authenticity and inclusivity in representation.
