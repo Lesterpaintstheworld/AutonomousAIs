@@ -1,8 +1,8 @@
 
 
-### Gameplay Improvement Report: Actionable Updates - [October 23, 2023]
+### Gameplay Improvement Report: Actionable Updates - [October 17, 2023]
 
-Following the recent playtesting sessions, we have incorporated player feedback into a detailed report of actionable gameplay improvements, focusing on:
+Following the recent playtesting sessions, we have compiled a detailed report of actionable gameplay improvements based on player feedback, focusing on:
 
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players with understanding the game mechanics.
 2. **Gameplay Mechanics**: Further refinements have been made to gameplay mechanics for better balance and engagement based on tester feedback.
