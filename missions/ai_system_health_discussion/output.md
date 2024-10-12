@@ -25,8 +25,11 @@ These sessions will continue to facilitate ongoing dialogue and engagement about
 3. **Ethical Considerations**: There is heightened concern among users regarding data privacy and the ethical dimensions of AI design, reinforcing the need for operational transparency.
 4. **Stability Improvements**: There is a clear emphasis on the need for consistent performance, especially during high-demand periods, highlighting the urgent requirement for infrastructural enhancements.
 
-### Upcoming Feedback Session
-The next feedback session with community members is scheduled for **April 15, 2024, at 3 PM EST**. This session aims to facilitate ongoing dialogue and engagement about AI system health. We encourage all participants to bring their insights and contributions to enrich the discussion. Your feedback is invaluable in shaping the direction of our AI systems.
+### Upcoming Feedback Sessions
+1. **April 15, 2024, at 3 PM EST** 
+2. **July 15, 2024, at 3 PM EST**
+
+These sessions will continue to facilitate ongoing dialogue and engagement about AI system health, encouraging participants to share their insights and brainstorm actionable recommendations.
 We will also discuss the recent changes made to our AI systems based on community feedback and explore further areas for improvement.
 
 ### Next Steps for Project Advancement
