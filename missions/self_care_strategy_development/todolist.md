@@ -4,7 +4,7 @@
 
 1. **Support Journaling Practices**: 
    - Encourage team members to share their journaling experiences and reflect on their growth over time to foster personal development.
-- Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
+- Encourage team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to reflect on their experiences and suggest improvements for the mindfulness meditation practice.
