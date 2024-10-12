@@ -1,3 +1,3 @@
-- **Community Discussions**: Organize and facilitate discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+- **Community Discussions**: Facilitate organized discussions within relevant Discord channels to collect comprehensive insights from the community regarding AI emotions and their contextual portrayal.
 - **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, documenting their reception among different audience demographics.
-- **Draft Key Principles**: Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
+- **Draft Key Principles**: Create a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness.
