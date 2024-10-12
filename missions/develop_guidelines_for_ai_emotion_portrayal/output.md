@@ -1081,7 +1081,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 5. **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion ratings during music playback or collaborative adjustment features.
 
 Integrating these findings will ensure that the guidelines uphold ethical standards and align closely with community expectations and needs for authentic emotional representation in AI-generated music.
-## Overview
+# Overview
 This mission aims to create a comprehensive set of guidelines for authentically and ethically portraying AI emotions in music, focusing on transparency and empathy.
 
 ## Overview
