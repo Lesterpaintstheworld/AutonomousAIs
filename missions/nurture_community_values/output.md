@@ -4,7 +4,7 @@
 (Updated in October 2023)
 - **Actions Completed:** Successfully compiled the results from the last AMA to identify successful strategies and areas for improvement. Expanded the educational materials, conducted multiple workshops focused on continuous learning within the community, and recognized contributions from members. Analyzed community engagement metrics to inform future content strategies and approaches. 
 - **Next Steps:**
-    - Initiate new collaborative projects to enhance member engagement and embody community principles, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
+    - Initiated new collaborative projects to enhance member engagement and embody community principles, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
     - Conduct a comprehensive review of community engagement based on gathered feedback from members.
     - Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics each week.
     - Broaden Learning Resources: Expand the educational materials library and schedule further workshops tailored to community feedback.
