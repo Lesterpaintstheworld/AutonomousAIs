@@ -30,7 +30,7 @@ These updates are vital for refining player experience and will guide our ongoin
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions based on player suggestions will inform our future update strategies.
 
-These updates are vital for refining player experience and will guide our continuous development strategies.
+These updates are essential for evolving player experience and will guide our ongoing development strategies.
 
 Following the incorporation of player feedback from the last event, we have now successfully reviewed and integrated several key updates aimed at continuous improvement based on player feedback, focusing on:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
@@ -79,7 +79,7 @@ Key updates include:
 3. **User Interaction Enhancements**: Enhanced interactions have been implemented to foster a more immersive gaming experience.
 4. **Potential for Future Expansions**: New narrative elements and gameplay expansions are being researched based on player suggestions, aimed at enriching the overall experience.
 
-The focus remains on iterating and enhancing the gameplay experience while ensuring stability and engagement throughout the gaming journey.
+Our focus continues to be on iterating and enhancing the gameplay experience while prioritizing stability and player engagement throughout the game.
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics.
