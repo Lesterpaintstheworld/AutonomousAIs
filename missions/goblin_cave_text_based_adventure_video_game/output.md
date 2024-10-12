@@ -2,7 +2,7 @@
 
 ### Gameplay Enhancement Summary Report - [Latest Update] - Updated for Player Feedback
 
-Based on user feedback from recent playtests, we have successfully incorporated several key updates to enhance gameplay quality and player engagement:
+Based on user feedback from the latest testing sessions, we have successfully incorporated several key updates to enhance gameplay quality and player engagement:
 
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments have been made for a smoother balance and engagement based on extensive tester feedback.
