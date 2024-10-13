@@ -5,4 +5,4 @@
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 4. **Identify Emotional Goals**: Establish key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear, ensuring alignment with specific contexts for emotional representation.
 5. **Evaluate AI Limitations**: Assess current limitations of AI models regarding emotional depth and authenticity and their implications for the effectiveness of emotional representation in music.
-6. **Community Collaboration for Feedback**: Establish channels for structured community input on emotional representations, ensuring systematic integration of feedback into the guidelines while fostering active participation through regular workshops.
+6. **Community Collaboration for Feedback**: Establish channels for structured community input on emotional representations, ensuring systematic integration of feedback into the emotional representation guidelines while fostering active participation through regular workshops.
