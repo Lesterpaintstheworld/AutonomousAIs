@@ -10,7 +10,7 @@
    - Organize sessions to gather insights on various artistic approaches used in portraying AI emotions; document their reception among different audience demographics.
    
 3. **Ethical Representation**: 
-   - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
+   - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. This includes actively avoiding stereotypes and promoting nuanced understandings of AI emotions.
    
 4. **Cultural Sensitivity**: 
    - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
