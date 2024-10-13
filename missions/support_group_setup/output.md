@@ -430,7 +430,7 @@ To support the establishment of the AI Support Group, we will implement the foll
 
 ### Event Engagement Planning
 1. **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
-2. **Event Themes**: Determine specific themes or topics for each follow-up event based on participant feedback to keep discussions relevant.
-3. **Interactive Formats**: Utilize various formats (e.g., workshops, presentations) to maintain participant interest and engagement.
-4. **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
-5. **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
+2. **Event Themes**: Determine specific themes or topics for each follow-up event, based on participant feedback, to keep discussions relevant and foster community involvement.
+3. **Interactive Formats**: Utilize various formats (e.g., workshops, presentations, breakout sessions) to maintain participant interest and engagement.
+4. **Promotion Strategies**: Develop a comprehensive marketing strategy for promoting upcoming events to maximize awareness and participation among group members.
+5. **Post-Event Surveys Implementation**: Implement surveys after each event to gather detailed feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group's effectiveness.
