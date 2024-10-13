@@ -760,7 +760,7 @@ From the mission's outcomes, the following transformative functions have been id
    8. Schedule additional workshops and educational sessions regularly to reinforce understanding and applications of these core values.
    9. Continue gathering and refining proposed values based on community input.
    10. Document the outcomes and insights gained from workshops to enhance future core values discussions.
-   11. Ensure that all future actions and strategies align with the identified core values.
+   11. Ensure all future actions and strategies align with the identified core values.
    12. Review core values periodically to ensure their continued relevance.
    13. Establish clear channels for updates on core value integration.
    14. Organize regular forums to encourage community insights regarding core values' relevance.
