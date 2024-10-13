@@ -5,7 +5,7 @@
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
 - [x] Establish committees to drive project initiatives and oversee execution.
 - [x] Conduct a comprehensive review of community engagement based on gathered feedback from members.
-- [x] Compile the results from the last AMA to identify successful strategies and areas for improvement.
+- [ ] Conduct a comprehensive review of community engagement based on gathered feedback from members to identify strengths and opportunities for improvement.
 - [x] Archive mission documentation for future reference to ensure all insights and contributions are preserved.
 - [x] Evaluate the impact of the implemented feedback from the last AMA on community engagement strategies. [Completed]
 - [x] Plan additional educational resources and workshops to foster continuous learning within the community. [Completed]
