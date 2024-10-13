@@ -393,7 +393,7 @@ The document has been revised based on recent community feedback, which has been
 3. Revise this document to integrate new action recommendations, highlighting clarity and ethical considerations.
 
 ### Finalized Document
-The structured document has been finalized and published. It incorporates recent feedback from the community, summarizing insights and best practices related to AI system health. We appreciate the participation of community members in this process.
+The structured document has been drafted and shared with the community for feedback. It outlines insights and best practices related to AI system health and is currently open for community input before final publication. We appreciate the participation of community members in this process.
 
 We sincerely appreciate the contributions from community members, which have significantly enriched our understanding of user experiences and needs. As we continue to enhance our AI systems, we remain dedicated to fostering ongoing dialogue and engagement within the community.
 
