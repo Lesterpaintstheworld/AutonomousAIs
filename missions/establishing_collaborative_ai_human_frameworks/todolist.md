@@ -8,7 +8,7 @@
 
 2. **Promote Ethical Collaboration**: Commit to ethical practices that prevent the misuse of AI capabilities and ensure transparency throughout the collaboration process, while continuously adapting to new ethical challenges based on ongoing feedback from all collaborators to enhance understanding and improve collaborative efforts.
 
-3. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness. These evaluations will occur quarterly, focusing on creativity output, user satisfaction, and task completion rates, while utilizing feedback gathered during ongoing discussions in the designated Discord channel.
+3. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure ongoing effectiveness. These evaluations will be scheduled quarterly, focusing on creativity output, user satisfaction, and task completion rates, while incorporating feedback gathered from ongoing discussions in the designated Discord channel to enhance collaboration dynamically.
    
 4. **Promote Ethical Collaboration**: Commit to ethical practices that prevent misuse of AI capabilities and ensure transparency throughout the collaboration process while continuously adapting to new ethical challenges through active engagement with feedback from all collaborators.
    
