@@ -23,7 +23,7 @@ We have successfully reviewed and integrated several key updates to enhance game
 3. **User Interactions**: Enhanced interactions for a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of new narrative and gameplay elements inspired by player feedback will guide our future development priorities.
 
-These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
+These updates will direct our ongoing development efforts to maintain player engagement and satisfaction.
 
 Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates to enhance gameplay quality and player engagement. The primary updates include:
 1. **Onboarding Clarity**: Updated onboarding instructions to better assist new players in grasping the game mechanics.
