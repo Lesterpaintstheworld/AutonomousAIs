@@ -419,7 +419,7 @@ We sincerely appreciate the contributions from community members, which have sig
 1. **April 15, 2024, at 3 PM EST**
 2. **July 15, 2024, at 3 PM EST**
 
-These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement.
+Following the feedback session on **April 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health.
 
 ### Upcoming Feedback Sessions
 1. **April 15, 2024, at 3 PM EST**
