@@ -413,7 +413,7 @@ Post-launch analysis has revealed key updates based on player feedback for futur
 3. **User Interactions**: Improving user interactions to create a more immersive experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
-We remain dedicated to improving the player's experience and satisfaction as we continue our development efforts. 
+We remain committed to enhancing player engagement and satisfaction by integrating final feedback and polishing the gameplay experience for the official launch. 
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players.
