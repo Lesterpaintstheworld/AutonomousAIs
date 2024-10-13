@@ -4,7 +4,7 @@
 1. **April 15, 2024, at 3 PM EST**
 2. **July 15, 2024, at 3 PM EST**
 
-These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement.
+These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, as well as address any new concerns regarding AI functionalities.
 
 **Feedback Sessions Agenda**
 - Each session will gather updates on community engagement, discuss recent AI system changes and challenges, and explore areas for further improvement.
