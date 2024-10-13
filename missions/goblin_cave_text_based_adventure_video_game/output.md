@@ -5,7 +5,7 @@
 Following the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: Optimized interactions to foster a deeply immersive gaming experience that better aligns with player feedback and expectations.
+3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies. The primary updates include:
 1. **Onboarding Clarity**: Updated onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further updates were made for smoother balance and increased engagement based on tester feedback.
@@ -586,7 +586,7 @@ Incorporating these insights will guide our ongoing development efforts to maint
 
 Based on player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
 
-1. **Onboarding Clarity**: Enhanced onboarding instructions that improve new players' understanding of game mechanics.
+1. **Onboarding Clarity**: Refined onboarding instructions that significantly enhance new players' comprehension of game mechanics and user experience.
 2. **Gameplay Mechanics**: Additional adjustments have been made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and engaging experience.
 3. **User Interactions**: User interactions have been further optimized to create a more immersive gaming experience that meets player expectations.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions will be informed by player suggestions gathered during testing sessions.
