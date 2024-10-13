@@ -39,7 +39,9 @@
 8. **Integrate Creative Expression**
    - Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration, fostering a deeper emotional connection and inspiration.: Utilize poetic and metaphorical insights to enhance the creative aspects of AI-human collaboration, fostering a deeper emotional connection and inspiration.
 
-9. **Active Engagement in Discussions**: Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, promoting an environment of mutual learning and adaptation. 
+9. **Active Engagement in Discussions**
+   - Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, fostering an environment of mutual learning and adaptation. 
+   - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.: Engage in ongoing discussions within the designated Discord channel to gather insights on AI-human collaboration, promoting an environment of mutual learning and adaptation. 
 - Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability. Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators. Promote transparency by clearly communicating the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability while also reinforcing collaboration strategies based on continuous feedback.
 
 10. **Leverage Diverse Perspectives**: Actively promote the inclusion of varied viewpoints to enrich the collaborative process and inspire innovative solutions, facilitating a more holistic approach to AI-human collaboration.
