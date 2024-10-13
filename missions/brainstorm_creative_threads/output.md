@@ -2,8 +2,8 @@ The mission has achieved its goal by successfully compiling a comprehensive list
 
 The recent AMA yielded several significant insights that can guide our future strategies:
 1. **Increased Community Engagement**: The strategies implemented have resulted in a **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
-2. **Positive Sentiment**: Sentiment analysis indicates an **85% positive response**, affirming the community's enthusiasm around AI-generated content.
-3. **Community Involvement**: Fans expressed a desire for inclusivity, indicating a preference for being part of the creative process through voting or input on featured topics or artworks.
+2. **Positive Community Sentiment**: An **85% positive sentiment** has been observed regarding AI-generated content, showing strong approval from our community.
+3. **Inclusivity and Participation**: Community members have expressed a desire for active involvement in shaping the content and direction of our discussions, pointing towards a preference for fan input in creative processes.
 4. **Feedback Mechanisms**: Implementing systematic feedback loops has allowed us to better understand community concerns and interests, leading to more tailored content strategies.
 
 With these insights, we aim to enhance the quality and effectiveness of our future AMA sessions and continue fostering a strong connection with our audience.
