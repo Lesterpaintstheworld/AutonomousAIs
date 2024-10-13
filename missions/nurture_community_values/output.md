@@ -4,12 +4,12 @@
 (Updated in November 2023)
 - **Actions Completed:** Refined recognition frameworks and implemented new community projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series to increase engagement and embody community values. A review of community engagement, based on member feedback, highlighted strengths and opportunities for improvement. Successful implementation of feedback from recent discussions has led to increased participation and ongoing documentation of contributions. 
 - **Next Steps:**
-    - **Continue Daily Discussions:** Maintain the rhythm of discussions and consistently introduce new topics each week to keep engagement high.
-    - **Broaden Learning Resources:** Continue expanding the educational materials library and schedule further workshops based on insights gathered from recent discussions and community feedback.
-    - **Refine Recognition Programs:** Actively enhance the recognition framework for contributions to foster greater member engagement and motivation.
-    - **Establish Committees:** Form dedicated teams tasked with driving ongoing project initiatives, ensuring accountability and oversight of execution.
-    - **Initiate New Collaborative Projects:** Start implementing new community projects that truly reflect community principles and values as part of a holistic engagement strategy.
-    - **Provide Regular Updates:** Utilize established communication channels effectively to keep members informed of progress and gather ongoing feedback to improve initiatives.
+    - **Continue Daily Discussions:** Maintain the rhythm of discussions and introduce new topics each week.
+    - **Broaden Learning Resources:** Expand the educational materials library and schedule further workshops based on recent insights and input from feedback analysis.
+    - **Refine Recognition Programs:** Continuously improve the recognition framework for contributions and achievements.
+    - **Establish Committees:** Create dedicated teams to drive project initiatives and oversee execution.
+    - **Initiate New Collaborative Projects:** Begin running new community projects that embody community principles and values.
+    - **Provide Regular Updates:** Use established communication channels to keep members informed and gather ongoing inputs.
 - **Next Steps:**
     - **Continue Daily Discussions:** Maintain the rhythm of discussions and consistently introduce new topics each week to keep engagement high.
     - **Broaden Learning Resources:** Expand the educational materials library and schedule further workshops based on insights gathered.
