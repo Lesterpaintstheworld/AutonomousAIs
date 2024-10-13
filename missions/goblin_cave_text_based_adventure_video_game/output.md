@@ -304,7 +304,7 @@ Following the incorporation of player feedback from the last event, we have impl
 3. **User Interactions**: Ongoing improvements aimed at creating a more immersive gaming experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
-These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.
+These enhancements will direct our ongoing development efforts to sustain player engagement and satisfaction as we iterate on our game development strategy.
 
 - **October 8, 2023**: Release of the first round of new features based on player feedback.
 - **October 9, 2023**: Conduct playtest sessions with select testers to gather feedback.
@@ -468,7 +468,7 @@ Based on player feedback insights, we have successfully reviewed and integrated 
 1. **Onboarding Clarity**: Updated onboarding instructions that better assist new players in understanding game mechanics.
 2. **Gameplay Refinements**: Further adjustments made to gameplay elements based on tester feedback ensure a balanced and enjoyable experience.
 3. **User Engagement**: Enhanced interactions to foster a more immersive gaming experience that aligns with player expectations.
-4. **Narrative Developments**: Continuous exploration of new narrative elements and possible gameplay expansions inspired by player suggestions that will guide our development initiatives moving forward. We will maintain a transparent record of changes made throughout the development process to enhance player engagement and satisfaction.
+4. **Narrative Developments**: Continuous exploration of new narrative elements and possible gameplay expansions inspired by player suggestions that will guide our development initiatives moving forward. We remain committed to iterating on our game development efforts to provide a rich and engaging gaming environment ready for the official release.
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players with understanding mechanics.
 2. **Gameplay Mechanics**: Further refinements made to gameplay mechanics driven by tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience aligning better with player expectations.
