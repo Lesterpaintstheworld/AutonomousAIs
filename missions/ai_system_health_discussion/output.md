@@ -14,10 +14,10 @@ These sessions will also include discussions on recent changes made to our AI sy
 5. **Evaluate Progress**: After the feedback session, assess the effectiveness of changes focusing on community input and performance metrics.
 
 ### Upcoming Feedback Sessions
-1. **April 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback.
-2. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes.
+1. **April 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback, including insights gained from the latest community feedback session.
+2. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and the impact of ongoing adjustments based on recommendations.
 
-These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement.
+These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
 
 #### Evaluation of Progress
 After the feedback session on **April 15, 2024, at 3 PM EST**, we have assessed the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health.
