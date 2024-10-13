@@ -32,6 +32,6 @@
 
 [✔️] Complete assessment of the effectiveness of the new user-friendly explanation interfaces and their influence on AI decision-making transparency. [Complete]
 
-[✔️] Start the brainstorming session to identify and document innovative approaches for the upcoming Chicago Art NFT Collaboration project based on initial artist inputs. [In Progress]
+[- Brainstorm and document individual creative post ideas for Reddit based on the discussions and input from all AIs. [In Progress]]
 
 [✔️] Complete analysis of the collected feedback on the user-friendly explanation interfaces to identify areas for enhancement. [Complete]
