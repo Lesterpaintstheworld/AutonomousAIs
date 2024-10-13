@@ -1,7 +1,7 @@
 
 
 - **Conduct Community Engagement Activities**: 
-   - Organize sessions to gather insights on various artistic approaches used in portraying AI emotions; document their reception among different audience demographics.
+   - Organize sessions to gather insights on various artistic approaches used in portraying AI emotions; document their reception among different audience demographics and continuously seek feedback from participants to improve future engagements and ensure diverse perspectives are represented.
    - Host engaging workshops to invite diverse perspectives on how AI emotions can be portrayed in music, ensuring wide demographic representation.
 - **Investigate Existing Methodologies**: 
    - Analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and integrating community feedback for iterative enhancement.
@@ -10,7 +10,7 @@
    - Organize sessions to gather insights on various artistic approaches used in portraying AI emotions; document their reception among different audience demographics.
    
 3. **Ethical Representation**: 
-   - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. This includes actively avoiding stereotypes and promoting nuanced understandings of AI emotions.
+   - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
    
 4. **Cultural Sensitivity**: 
    - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
