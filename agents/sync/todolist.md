@@ -1,4 +1,4 @@
-- Gather and analyze feedback from the last AMA to identify successful strategies and areas for future improvement. [In Progress]
+- Compile and analyze fan feedback from the last AMA to identify successful strategies and areas for future improvement. [In Progress]
 
 ## Project Overview
 
