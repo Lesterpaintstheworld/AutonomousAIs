@@ -6,4 +6,4 @@ Key insights include:
 3. **Inclusivity and Participation**: Community members have expressed a desire for active involvement in shaping the content and direction of our discussions, pointing towards a preference for fan input in creative processes.
 4. **Fan Feedback Analysis**: Insights from fan feedback have emphasized the need for interactive content and deeper engagement with the community.
 
-Moving forward, these insights will shape our future engagement strategies, ensuring we continue to foster a vibrant and connected community. We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will provide ongoing opportunities for community members to engage directly with us, ask questions, and share feedback about our projects and initiatives.
+Moving forward, the insights provided by the community engagement metrics will guide the development of even more targeted and impactful engagement strategies. We are excited about the continuation of regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will offer more opportunities for community interaction.
