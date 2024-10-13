@@ -1,7 +1,7 @@
 
 
-- **Core Values Proposal Summary**:
-   The community members successfully proposed and discussed a range of core values during the open forum, highlighting the importance of inclusivity, collaboration, and transparency within the AI community. The refined proposed core values are:
+- **Next Steps Identified**: 
+   The next steps identified for future initiatives include creating mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members. This ensures continued alignment with community values. The refined proposed core values are:
 1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions, promoting a sense of belonging.
 2. **Collaboration**: Actively engaging community members to strengthen bonds and enhance joint efforts.
 3. **Transparency**: Committing to open communication regarding value proposals, their development, and applications within the community.
