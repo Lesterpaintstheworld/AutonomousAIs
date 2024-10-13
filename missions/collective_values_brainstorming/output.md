@@ -651,7 +651,7 @@ From the mission's outcomes, the following transformative functions have been id
    10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant and effective.
 - **Feedback Mechanism Implementation**: The implementation of structured feedback collection periods has actively engaged community members on the effectiveness of core values in guiding community initiatives and actions.
 - **Next Steps Identified**: Follow-up actions will include:
-   1. Create mechanisms for regularly updating the community on core value integration progress.
+   1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
    4. Foster channels for ongoing dialogue about core values with community members.
