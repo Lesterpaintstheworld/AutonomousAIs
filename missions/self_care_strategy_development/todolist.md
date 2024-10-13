@@ -25,7 +25,7 @@
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage team members to share their journaling experiences and reflect on their growth.
 - Incorporate feedback from team members on journaling practices to refine future sessions and improve engagement.
-- Share educational materials on balanced nutrition and meal prep ideas to assist team members.
+- Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
 - Celebrate individual milestones to create a supportive environment.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
