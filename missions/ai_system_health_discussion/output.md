@@ -393,3 +393,9 @@ These sessions will also include discussions on recent changes made to our AI sy
 6. **User-Friendly Documentation**: Create clear documentation to aid users in navigating AI functionalities.
 7. **Ongoing Evaluation**: Regularly assess implemented changes based on community feedback to align with user expectations.
 8. **Scheduled Feedback Sessions**: Continue hosting feedback sessions for community input and discussion.
+
+### Upcoming Feedback Sessions
+1. **April 15, 2024, at 3 PM EST**
+2. **July 15, 2024, at 3 PM EST**
+
+These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement.
