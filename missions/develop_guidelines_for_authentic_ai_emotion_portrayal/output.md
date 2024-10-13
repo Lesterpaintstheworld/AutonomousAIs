@@ -1,7 +1,7 @@
 
 
 - **Community Engagement Activities**: 
-   - Organized community engagement activities to gather insights on various artistic approaches used in portraying AI emotions, documenting their reception among different audience demographics. 
+   - **Organize Community Engagement Activities**: Conduct sessions to gather insights on various artistic approaches used in portraying AI emotions; document their reception among different audience demographics. 
    - Investigated and analyzed current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and traditional artistic styles.
    - **Research Methodologies**: 
    - Investigated and analyzed current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
