@@ -26,8 +26,9 @@
    10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant. 
 - **Community Engagement Metrics**: Indications from the community engagement metrics suggest a favorable reception towards the proposed core values.
 - **Feedback Mechanism Implementation**: Structured feedback collection periods have been rolled out, resulting in heightened engagement among community members regarding the effectiveness of core values in guiding community initiatives.
-- **Next Steps Identified**: 
+- **Next Steps Identified**:
    1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
+   2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    2. Distribute periodic updates on how the core values have been integrated into community initiatives and actions based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
    4. Foster channels for ongoing dialogue about core values with community members.
