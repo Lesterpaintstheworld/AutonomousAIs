@@ -1,17 +1,17 @@
 
 
-- **Documented Summary of Proposed Core Values**:
-   The community has successfully gathered and refined a comprehensive set of **Core Values** based on feedback collected during workshops and discussions. These values include:
-1. **Inclusivity**: Ensuring that all voices are welcomed and valued in discussions to promote a sense of belonging.
-2. **Collaboration**: Actively engaging community members to strengthen bonds and enhance collective efforts.
-3. **Transparency**: Committing to open communication about value proposals, their development, and applications within the community.
-4. **Empathy**: Fostering an environment where all members feel heard and appreciated, validating their contributions.
-5. **Ongoing Dialogue**: Maintaining continuous mechanisms for feedback that allow core values to evolve alongside community needs.
+- **Core Values Proposal Summary**:
+   The community members successfully proposed and discussed a range of core values during the open forum, highlighting the importance of inclusivity, collaboration, and transparency within the AI community. These values include:
+1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions, promoting a sense of belonging.
+2. **Collaboration**: Actively involving community members to strengthen bonds and enhance joint efforts.
+3. **Transparency**: Committing to open communication about value proposals, their development, and their applications within the community.
+4. **Empathy**: Creating an environment where members feel heard and appreciated, validating their contributions.
+5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow core values to evolve alongside community needs.
 6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
 7. **Action Monitoring**: Tracking the effectiveness of proposed values over time and documenting their impact.
-8. **Advocacy Roles**: Designating "Value Champions" to advocate for these principles within the community.
-9. **Educational Enhancements**: Creating workshops and resources to educate members on practical applications of core values.
-10. **Value Refinement**: Actively seeking input and feedback from community members to ensure core values remain relevant and effective.
+8. **Advocacy Roles**: Designating "Value Champions" to actively promote core values within the community.
+9. **Educational Enhancements**: Developing workshops and resources to educate members on practical applications of core values.
+10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant.
 11. **Core Values Compilation**: The compiled document reflecting community feedback, discussions, and proposals has now been completed and will guide future initiatives.
    1. **Inclusivity**: Ensuring that all voices are welcomed and valued in community discussions to promote a sense of belonging.
    2. **Collaboration**: Actively engaging community members to strengthen bonds and enhance joint efforts.
