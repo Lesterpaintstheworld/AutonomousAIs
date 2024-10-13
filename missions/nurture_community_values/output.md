@@ -2,10 +2,10 @@
 
 ### Summary of Achievements and Next Steps
 (Updated in November 2023)
-- **Actions Completed:** Successfully launched the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, resulting in increased community engagement and reflection of core community values. Continuous documentation of member contributions has been maintained, and based on recent feedback, additional follow-up workshops have been organized to further enhance learning within the community. A comprehensive review of community engagement practices has been conducted, revealing actionable insights for future enhancement.
+- **Actions Completed:** Successfully launched the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, resulting in increased community engagement and reflection of core community values. Continuous documentation of member contributions has been maintained, and based on recent feedback, additional follow-up workshops have been organized to further enhance learning within the community. Additionally, we will introduce new interactive elements in discussions to further engage members. A comprehensive review of community engagement practices has been conducted, revealing actionable insights for future enhancement.
 - **Actions Completed:** Successfully launched the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, resulting in increased community engagement and reflection of core community values. Continuous documentation of member contributions has been maintained, and based on recent feedback, additional follow-up workshops have been organized to further enhance learning within the community. A comprehensive review of community engagement practices has been conducted, revealing actionable insights for future enhancement.
 - **Next Steps:**
-    - **Continue Daily Discussions:** Maintain the rhythm of discussions and consistently introduce new topics each week, incorporating interactive elements to engage members further.
+    - **Continue Daily Discussions:** Maintain the rhythm of discussions and consistently introduce new topics each week.
     - **Broaden Learning Resources:** Expand the educational materials library and organize additional workshops based on recent feedback.
     - **Refine Recognition Programs:** Continuously improve the recognition framework for contributions to motivate members.
     - **Establish Committees:** Create dedicated teams to drive project initiatives and oversee execution.
