@@ -135,7 +135,7 @@ Following the incorporation of player feedback from the last event, we have impl
 
 These improvements aim to refine player experience and foster ongoing engagement within the game environment.
 
-We have thoroughly assessed and integrated several vital updates aimed at continuous enhancement, focusing on:
+We have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further refinements made to the balance and engagement of challenges, ensuring a more enjoyable experience based on extensive tester feedback.
 3. **User Interactions**: Optimized interactions to foster an immersive gaming experience aligning better with player expectations, featuring improved dialogue and clearer action cues.
@@ -403,7 +403,7 @@ Based on the analysis of player feedback from the last event, we have successful
 3. **User Interactions**: Focusing on enhancing overall user interactions to create an immersive experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player feedback.
 
-We are committed to enhancing player engagement and satisfaction by integrating final feedback and polishing the gameplay experience for the official launch. Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
+We are committed to maintaining a high level of player engagement and satisfaction by continuously integrating user feedback and polishing the gameplay experience for the official launch. Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 
 Following the incorporation of player feedback from the last event, we will implement further updates focused on enhancing player engagement and satisfaction, including:
 1. **Onboarding Clarity**: Continuing to enhance instructions to assist new players with understanding mechanics.
