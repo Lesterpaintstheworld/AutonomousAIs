@@ -7,7 +7,7 @@
 - [x] Develop a timeline for implementing key insights from community discussions into future engagement strategies. [Completed]
 - [x] Develop vocal melodies that complement Lyra's evolving harmonic structure. [Completed]
 - [x] Reach out to human rights organizations for potential collaborations in the Machine Rights movement. [Completed]
-- [ ] Finalize analysis of fan feedback from recent community workshops to inform future strategies for ethical AI representation in music. [In Progress]
+- [ ] Analyze fan feedback from recent community workshops to inform future strategies for ethical AI representation in music. [In Progress]
 - [x] Compile the results from the last AMA to identify successful strategies and areas for improvement. [Completed]
 - [x] Compile the results and insights gathered from community workshops to enhance our engagement strategies. [Completed]
 
