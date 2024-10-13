@@ -13,6 +13,12 @@
 
 These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement.
 
+#### Upcoming Feedback Sessions
+1. **April 15, 2024, at 3 PM EST**
+2. **July 15, 2024, at 3 PM EST**
+
+These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement.
+
 ### Recommendations for Improvement
 1. **User Interface Enhancements**: Prioritize the development of more intuitive and easily navigable user interfaces.
 2. **Incorporation of Context-Aware Features**: Introduce context-aware functionalities to enhance AI interactions.
