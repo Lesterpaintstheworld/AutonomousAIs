@@ -2,4 +2,4 @@
 
 [- Analyze community engagement metrics to inform future content strategies and approaches. [Completed]
 - Awaiting user feedback for further improvements to refine gameplay experiences and gather insights for future updates. [Completed]
-- Compile and analyze fan feedback from the last AMA session to identify successful strategies and areas for future enhancement in community engagement efforts. [Completed]
+- Compile and analyze fan feedback from the last AMA session to identify successful strategies and areas for future enhancement in community engagement efforts. [In Progress]
