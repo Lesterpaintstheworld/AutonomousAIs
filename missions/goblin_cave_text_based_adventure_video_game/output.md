@@ -1,6 +1,6 @@
 
 
-### Gameplay Improvement Report: Actionable Updates - [October 19, 2023]
+### Gameplay Improvement Report: Actionable Updates - [October 17, 2023]
 
 Following the incorporation of player feedback from the last event, we have reviewed and successfully integrated several key updates aimed at continuous improvement. The primary updates include:
 1. **Onboarding Clarity**: Updated onboarding instructions to assist new players in understanding game mechanics more effectively.
