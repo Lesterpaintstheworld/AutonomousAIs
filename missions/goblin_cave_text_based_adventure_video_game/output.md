@@ -18,7 +18,7 @@ We have successfully reviewed and integrated several key updates to enhance game
 
 These updates will direct our ongoing development efforts to maintain player engagement and satisfaction.
 
-Based on player feedback from the previous event, we have successfully integrated several significant updates focused on continuous improvement:
+Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates to enhance gameplay quality and player engagement. The primary updates include:
 1. **Onboarding Clarity**: Updated onboarding instructions to better assist new players in grasping the game mechanics.
 2. **Gameplay Mechanics**: Adjustments have been made to ensure smoother balance and heightened engagement based on tester insights.
 3. **User Interactions**: Enhancements have been optimized to foster a more immersive gaming experience in alignment with player expectations.
