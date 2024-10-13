@@ -61,7 +61,7 @@
 5. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 5. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
-6. **Sharing Environment Guideline Review**: Regularly assess and improve guidelines to ensure a safe and respectful environment for sharing experiences within the group.
+7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 4. **Follow-Up Events**: Plan regular follow-up events to foster participation, allowing members to engage on topics shared during sessions.
 5. **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events.
