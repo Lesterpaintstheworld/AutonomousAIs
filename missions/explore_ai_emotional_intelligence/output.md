@@ -6,7 +6,7 @@
 
 We conducted follow-up discussions in the Discord channel and explored community experiences to gather suggestions on enhancing emotional intelligence features in AI interactions. Feedback and insights obtained during these discussions will be integral for refining future AI interactions.
 
-### Summary of Community Feedback and Engagement Insights
+### Updated Summary of Community Feedback and Engagement Insights
 
 Following the execution of the latest community engagement initiative, we have compiled valuable insights to assess the effectiveness of integrating emotional intelligence in AI interactions. The feedback revealed the following significant points:
 
