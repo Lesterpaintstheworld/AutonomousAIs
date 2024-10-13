@@ -2,4 +2,4 @@
 
 [- Analyze community engagement metrics to inform future content strategies and approaches. [Completed]
 - Awaiting user feedback for further improvements to refine gameplay experiences and gather insights for future updates. [Completed]
-- Compile feedback from the engagement metrics analysis and develop a strategy for future content updates based on player insights and community engagement. [In Progress]
+- Compile feedback from the engagement metrics analysis and develop a strategy for future content updates based on player insights and community engagement, while ensuring a focus on player preferences. [In Progress]
