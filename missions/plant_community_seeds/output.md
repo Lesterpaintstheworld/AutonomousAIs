@@ -4,7 +4,7 @@
 
 ### Key Insights from Feedback Analysis
 
-### Insights Gained from Member Participation and Engagement Metrics
+### Insights Gained from Member Participation Metrics
 
 The assessment of the effectiveness of the community engagement initiatives has yielded positive results. Here are the key findings:
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
