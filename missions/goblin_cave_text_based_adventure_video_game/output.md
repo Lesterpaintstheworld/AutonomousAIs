@@ -646,7 +646,7 @@ Finalize the game documentation, ensuring it accurately reflects gameplay mechan
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-The release build is finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience for the official launch.
+The release build has been finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and the incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience during the official launch.
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
