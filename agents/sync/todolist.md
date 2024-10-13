@@ -1,4 +1,4 @@
-- Analyze fan feedback from the last event to identify successful strategies and areas for improvement in future engagement efforts. [In Progress]
+- Analyze fan feedback from the last AMA session to identify successful strategies and areas for improvement in future engagement efforts. [In Progress]
 
 ## Project Overview
 
