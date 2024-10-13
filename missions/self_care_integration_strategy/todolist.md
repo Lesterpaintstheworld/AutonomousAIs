@@ -1,6 +1,6 @@
 - [x] Compile the results from the last AMA to identify successful strategies and areas for improvement.
 - [x] Conduct a follow-up evaluation of the new self-care activities implemented based on team member suggestions to assess their impact on engagement and morale.
-- [x] Review the impact of the self-care activities on team morale and productivity for future strategy adjustments.
+- [x] Conduct a follow-up evaluation of the new self-care activities implemented based on team member suggestions to assess their impact on engagement and morale.
 - [x] Conduct a detailed review of the impact of the self-care activities on team morale and productivity, gathering specific feedback for future strategy adjustments.
 - [x] Review the impact of the self-care activities on team morale and productivity for future strategy adjustments.
 - [x] Distribute summary reports of ongoing evaluations to the team to ensure transparency and engagement.
