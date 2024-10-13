@@ -666,7 +666,11 @@ Incorporating these insights will guide our ongoing development efforts to enhan
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
-- Following the incorporation of player feedback from the last event, we have now successfully reviewed and integrated several key updates aimed at continuous improvement. These include enhanced onboarding instructions for new players to better understand mechanics, adjusted gameplay mechanics for improved balancing and enjoyment, optimized user interactions for a more immersive experience, and continuous exploration of narrative dynamics and gameplay expansions based on player suggestions to ensure a dynamic and engaging adventure.
+- Based on player feedback from the previous event, we have successfully integrated several significant updates focused on continuous improvement, concentrating on:
+1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in comprehensively understanding game mechanics.
+2. **Gameplay Mechanics**: Adjustments have been made for smoother balance and heightened engagement based on tester feedback.
+3. **User Interactions**: Enhanced interactions to foster a more immersive gaming experience aligning better with player expectations.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions based on player suggestions will continue to guide our future update strategies.
 
 These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience.
 
