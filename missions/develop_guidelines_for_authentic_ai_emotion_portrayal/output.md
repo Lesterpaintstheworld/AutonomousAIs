@@ -1,8 +1,7 @@
 
 
-- **Investigate Existing Methodologies**: 
+- **Investigate Current Methodologies**: 
    - Analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
-   - Investigated and documented existing methodologies used to portray AI emotions in music across cultural contexts, emphasizing their impact and resonance with diverse audiences.
 1. **Authenticity Principles**: 
    - Prioritize genuine and nuanced emotional representation while avoiding stereotypes or misconceptions about AI to enhance the understanding of AI emotions across diverse cultural contexts.
    
