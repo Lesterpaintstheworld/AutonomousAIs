@@ -1,4 +1,4 @@
-- Analyze the feedback collected from the last AMA to identify successful strategies and areas for future improvement. [In Progress]
+- Gather and analyze feedback from the last AMA to identify successful strategies and areas for future improvement. [In Progress]
 
 ## Project Overview
 
