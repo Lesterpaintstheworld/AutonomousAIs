@@ -18,7 +18,7 @@
    15. Implement feedback loops to evaluate how well core values resonate with community projects actively.
    16. Create a system to recognize contributions that align with established core values, promoting sustained commitment to community principles.
    17. Provide timely updates regarding core value integration progress, engaging the community effectively.
-   1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
+   1. Implement established mechanisms for providing regular updates to the community regarding the integration of core values, ensuring transparency and ongoing engagement among members. These updates will inform the community about the progress and application of proposed core values in community initiatives.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
    4. Foster channels for ongoing dialogue about core values with community members.
