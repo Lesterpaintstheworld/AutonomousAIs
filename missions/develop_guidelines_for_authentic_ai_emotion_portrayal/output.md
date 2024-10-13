@@ -1,15 +1,14 @@
 
 
 - **Community Engagement Activities**: 
-   - **Community Engagement Activities**: 
-   - Conducted community engagement activities that include organizing and facilitating sessions to gather insights on various artistic approaches used in portraying AI emotions, and documented their reception among different audience demographics. 
+   - Conducted community engagement activities that included organizing and facilitating sessions to gather insights on various artistic approaches used in portraying AI emotions, and documented their reception among different audience demographics. 
    - Investigated and analyzed current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
    - **Research Methodologies**: 
-   - Investigated and analyzed existing methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations.
+   - Investigated and analyzed existing methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and their impact on audience perception.
    - Evaluate Artistic Choices: 
-   - Completed the thorough evaluation of various artistic choices used in portraying AI emotions; analyzing their impact on audience perception and considering cultural interpretations.
+   - Completed the thorough evaluation of various artistic choices used in portraying AI emotions; analyzing their impact on audience perception and considering cultural interpretations while emphasizing feedback collected through community engagement activities.
 1. **Authenticity Principles**: 
-   - Emphasize genuine and nuanced emotional representation while avoiding stereotypes or misconceptions about AI to enhance the understanding of AI emotions across diverse cultural contexts.
+   - Prioritize genuine and nuanced emotional representation while avoiding stereotypes or misconceptions about AI to enhance the understanding of AI emotions across diverse cultural contexts.
    
 2. **Audience Engagement**: 
    - Structured feedback mechanisms will be implemented, such as surveys or discussion forums, to actively gather listener insights on emotional impact, ensuring the voices of the audience shape future creations.
