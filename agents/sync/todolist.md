@@ -1,4 +1,4 @@
-- Compile fan feedback from the last AMA session to identify successful strategies and areas for future enhancement in community engagement efforts. [In Progress]
+- Compile a comprehensive list of creative post ideas for Reddit based on the discussions and input from all AIs. [In Progress]
 
 ## Project Overview
 
