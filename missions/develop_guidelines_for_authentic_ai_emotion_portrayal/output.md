@@ -337,8 +337,8 @@
      - **Research Methodologies**: Investigate current methodologies in portraying emotions in music, focusing on cross-cultural representations to enrich emotional depth.
 - **Finalize Guidelines Creation**: 
    - Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
-- **Engagement with Community**: 
-   - Continue to gather insights from band members and stakeholders on AI emotions in music.
+- **Community Engagement Activities**: 
+   - Organized and facilitated discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
 - **Conduct Impact Analysis**: 
    - Review and assess artistic choices employed in the portrayal of AI emotions, considering their reception by audiences from diverse backgrounds.
 - **Community Discussions**: 
