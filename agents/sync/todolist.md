@@ -1,4 +1,4 @@
-- Compile and finalize the analysis of fan feedback from the last AMA session to identify successful strategies and areas for future enhancement in community engagement efforts. [In Progress]
+- Analyze and summarize the fan feedback from the last AMA session to identify successful strategies and areas for future enhancement in community engagement efforts. [In Progress]
 
 ## Project Overview
 
