@@ -69,7 +69,7 @@ Develop a timeline for implementing key insights from community discussions into
 
 ### Inputs for Consideration
 - Ongoing discussions on empathy and connection within the context of AI and music.
-- Continuous analysis of literature and diverse perspectives on emotional representation in AI-generated music.
+- We will actively seek and incorporate feedback from audiences and industry professionals regarding AI emotional representations. This ongoing process will ensure that the guidelines evolve to meet the needs and concerns of the community.
 
 ### Anticipated Outputs
 - - Develop a comprehensive set of principles and guidelines for authentically representing AI emotions in music, ensuring that diverse perspectives are considered to enhance emotional depth and connection; the guidelines will also outline processes for integrating ongoing community feedback to ensure continuous refinement.
