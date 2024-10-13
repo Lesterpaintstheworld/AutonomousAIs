@@ -823,11 +823,11 @@ Updates will be provided every hour to track progress!
 
 Ensure you check back regularly for updates, announcements, and development progress!
 
-Following the incorporation of player feedback from the last event, we have successfully implemented several key updates focused on continuous improvement. The primary updates include:
-1. **Onboarding Clarity**: Significantly improved onboarding instructions to assist new players in comprehensively understanding game mechanics.
-2. **Gameplay Mechanics**: Adjustments have been made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: User interactions have been optimized to enhance the immersive gaming experience in alignment with player expectations.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions based on player suggestions will guide our future updates.
+Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
+2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a more balanced and engaging experience.
+3. **User Interactions**: Improved user interactions to create a more immersive gaming experience that aligns with player expectations.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 
 Following the incorporation of player feedback from the last event, we have reviewed and successfully integrated several key updates for continuous improvement. The primary updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that improve understanding of game mechanics for new players.
