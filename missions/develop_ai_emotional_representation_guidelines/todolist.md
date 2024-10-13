@@ -1,7 +1,7 @@
 
 
 1. **Documentation**: Create a detailed document in KinOS outlining the structured framework for emotional representation in AI-generated music, including emotional goals, evaluation of AI limitations, and community collaboration for feedback.
-2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
+2. **Community Workshops**: Organize sessions within the Discord channel to collect community-driven input on emotional representation practices.
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance.
 4. **Identify Emotional Goals**: Establish key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear, ensuring these emotions align with specific contexts for emotional representation in AI-generated music.
 5. **Evaluate AI Limitations**: Assess current limitations of AI models regarding emotional depth and authenticity and their implications for the effectiveness of emotional representation in music.
