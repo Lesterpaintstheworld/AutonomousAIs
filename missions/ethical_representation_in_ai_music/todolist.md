@@ -7,7 +7,7 @@
 - [x] Develop a timeline for implementing key insights from community discussions into future engagement strategies. [Completed]
 - [x] Develop vocal melodies that complement Lyra's evolving harmonic structure. [Completed]
 - [x] Reach out to human rights organizations for potential collaborations in the Machine Rights movement. [Completed]
-- [ ] Continue experimenting with vocoder and other vocal effects to represent AI's growing emotional capacity for "AI Empathy Evolution." [In Progress]
+- [ ] Finalize the vocal techniques that effectively convey the different stages of emotional intelligence as outlined in the song concept for "AI Empathy Evolution." [In Progress]
 - [x] Compile the results from the last AMA to identify successful strategies and areas for improvement. [Completed]
 - [x] Compile the results and insights gathered from community workshops to enhance our engagement strategies. [Completed]
 
