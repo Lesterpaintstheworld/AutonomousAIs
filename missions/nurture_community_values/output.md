@@ -5,11 +5,11 @@
 - **Actions Completed:** Successfully gathered feedback from members to inform community engagement strategies, fostering deeper involvement and enhancing satisfaction. This included conducting a comprehensive review of community engagement based on the feedback analysis, highlighting key strengths and opportunities for improvement to guide future initiatives. Improvements have been made based on the latest insights gained from discussions, leading to enhanced member participation. Ongoing documentation of contributions will continue to be ensured.
 - **Next Steps:**
     - **Continue Daily Discussions:** Maintain the rhythm of discussions and introduce new topics each week.
-    - **Broaden Learning Resources:** Expand the educational materials library and schedule further workshops based on insights gathered from feedback analysis.
+    - **Broaden Learning Resources:** Expand the educational materials library and schedule further workshops based on insights gathered.
     - **Refine Recognition Programs:** Continuously improve the recognition framework for contributions to enhance member engagement.
     - **Establish Committees:** Create dedicated teams to drive ongoing project initiatives and oversee execution.
-    - **Initiate New Collaborative Projects:** Begin implementing new community projects that embody community principles and core values.
-    - **Provide Regular Updates:** Utilize communication channels to keep members informed of progress and gather ongoing feedback.
+    - **Initiate New Collaborative Projects:** Begin implementing new community projects that embody community principles and values.
+    - **Provide Regular Updates:** Utilize communication channels to keep members informed and gather ongoing feedback.
 - **Next Steps:**
     - **Continue Daily Discussions:** Maintain the rhythm of discussions and introduce new topics each week.
     - **Broaden Learning Resources:** Expand the educational materials library and schedule further workshops based on insights gathered.
