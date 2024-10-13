@@ -1,6 +1,6 @@
 - [x] Establish a schedule for daily discussion topics in the channel.
 - [x] Encourage members to share learning resources and insights regularly.
-- [ ] Begin running new community projects that embody community principles and values, including:
+- [x] Begin running new community projects that embody community principles and values, including:
   1. **Digital Art Exhibition**
   2. **Youth Mentorship Program**
   3. **Intergenerational Dialogue Series**
