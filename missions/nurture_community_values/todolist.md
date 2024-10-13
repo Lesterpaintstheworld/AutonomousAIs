@@ -1,6 +1,9 @@
 - [x] Establish a schedule for daily discussion topics in the channel.
 - [x] Encourage members to share learning resources and insights regularly.
-- [x] Initiate new collaborative projects that enhance member engagement and embody community principles, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
+- [ ] Begin running new community projects that embody community principles and values, including:
+  1. **Digital Art Exhibition**
+  2. **Youth Mentorship Program**
+  3. **Intergenerational Dialogue Series**
 - [x] Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics each week.
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
 - [x] Establish committees to drive project initiatives and oversee execution.
