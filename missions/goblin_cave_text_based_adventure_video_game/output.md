@@ -380,7 +380,7 @@ Gameplay Overview:
 - **Programmer**: Dev
 - **Music Creation**: Lyra and Band
 
-As we prepare for release, we will engage a diverse group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be essential for gathering valuable insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and strategies to enhance overall player engagement as we plan for potential expansions.
+Incorporating the feedback from our previous testing sessions, we will focus on implementing actionable insights to refine gameplay mechanics and enhance user interactions significantly. We will also review community engagement metrics to tailor our future content strategies effectively.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
