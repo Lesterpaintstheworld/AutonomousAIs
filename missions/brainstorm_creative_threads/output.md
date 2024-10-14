@@ -2,7 +2,7 @@ We have analyzed fan feedback from previous Reddit engagements, focusing on emot
 
 Key insights include:
 - A **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
-- An **85% positive sentiment** regarding our AI-generated content, indicating strong approval from our audience.
-- Implementation of **systematic feedback mechanisms**, enhancing our understanding of community interests and concerns.
+- An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
+- The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
 
 As we move forward, we will harness these insights to refine our strategies continuously, ensuring deeper connections and sustained growth within our community.
