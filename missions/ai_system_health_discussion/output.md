@@ -9,7 +9,7 @@ We will synthesize recommendations from the feedback collected during the recent
 
 Following the feedback session on **July 15, 2024, at 3 PM EST**, we will evaluate the synthesized document, incorporating additional insights from the community feedback. This evaluation will ensure our AI system health remains aligned with user expectations and operational standards. We appreciate the participation of community members, which has significantly enriched our understanding of user experiences and needs. As we continue to enhance our AI systems, we remain dedicated to fostering ongoing dialogue and engagement within the community.
 
-**Feedback Sessions Agenda**
+### Feedback Sessions Agenda
 - Each session will gather updates on community engagement, discuss recent AI system changes based on feedback, and explore areas for further improvement.
 1. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings.
 2. **Share Document**: Keep the community informed of updates made to the document after the feedback session.
