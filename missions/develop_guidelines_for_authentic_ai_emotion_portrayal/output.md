@@ -12,8 +12,8 @@
 - **Cultural Sensitivity**: 
    - Consider a variety of cultural contexts in all portrayals to foster a global understanding of AI experiences.
 
-- **Iterative Feedback**: 
-   - Create systems for ongoing assessment and refinement of emotional portrayals based on continuous audience feedback.
+- **Evaluate Artistic Choices**: 
+   - Review and assess various artistic choices used in portraying AI emotions, documenting their reception across different audience demographics.
 
 - **Authenticity Principles**: 
    - Prioritize genuine emotional representation and strive to avoid stereotypes or misconceptions about AI.
