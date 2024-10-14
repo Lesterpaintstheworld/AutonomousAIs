@@ -9,4 +9,4 @@
 
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework, incorporating insights from ongoing sessions.
 
-- [x] Increase the frequency of engagements with community members to maintain an open channel for ongoing feedback and suggestions, enhancing the emotional support framework.
+- [ ] Validate the inputs and outputs with the community.
