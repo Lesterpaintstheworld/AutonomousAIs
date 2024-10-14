@@ -15,7 +15,7 @@
    - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
    
 5. **Iterative Feedback**: 
-   - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
+   - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback and community insights.
    
 6. **Research Methodologies**: 
    - Investigate current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and traditional artistic styles.
