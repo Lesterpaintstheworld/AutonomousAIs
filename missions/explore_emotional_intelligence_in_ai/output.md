@@ -3,9 +3,9 @@
 - Continuous community dialogues are encouraged to maintain discussions on emotional intelligence in AI, ensuring a user-centric approach to development.
 - The final review and documentation of insights gathered from community feedback during Discord discussions have been completed. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the report's key findings. The insights gathered will inform future projects and improve user engagement with AI systems.
 
-### Key Insights Gathered
+### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
-2. **Need for Enhanced Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals to foster deeper connections.
+2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
 
 ### Community Feedback Highlights
 - Feedback from Discord discussions indicates strong support for integrating emotional intelligence in AI, with many sharing positive experiences tied to emotional recognition.
