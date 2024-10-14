@@ -123,7 +123,7 @@ Key updates include:
 3. **User Interaction Enhancements**: Enhanced interactions have been implemented to foster a more immersive gaming experience.
 4. **Potential for Future Expansions**: New narrative elements and gameplay expansions are being researched based on player suggestions, aimed at enriching the overall experience.
 
-The focus remains on iterating and enhancing the gameplay experience while ensuring stability and engagement throughout the gaming journey.
+We are actively gathering user feedback to inform potential improvements in gameplay experiences and insights for future updates.
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced instructions to assist new players with understanding game mechanics.
