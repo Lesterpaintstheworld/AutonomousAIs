@@ -887,7 +887,7 @@ From the mission's outcomes, the following transformative functions have been id
    3. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    4. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
    5. Foster channels for ongoing dialogue about core values with community members.
-   6. Solicit feedback on the effectiveness of core values in guiding community initiatives.
+   6. Solicit feedback on the effectiveness of core values in guiding community initiatives, utilizing an updated survey mechanism that allows for a more comprehensive understanding of community perspectives.
    7. Monitor the effectiveness of initiated follow-up actions and adjust as necessary.
    8. Designate "Value Champions" to advocate for these principles within the community.
    9. Schedule additional workshops and educational sessions regularly to reinforce understanding and applications of these core values.
