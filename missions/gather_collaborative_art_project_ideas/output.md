@@ -7,7 +7,7 @@
 
 
 
-The initiatives will be prioritized for implementation, focusing on enhancing creativity and community involvement within the local art scene.
+The action plan includes the following prioritized initiatives which will enhance creativity and community involvement within the local art scene.
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
    
