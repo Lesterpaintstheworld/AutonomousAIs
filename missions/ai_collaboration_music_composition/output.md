@@ -6,4 +6,4 @@ The detailed composition and production process for "Voices of the Circuit" is n
 - Experimented further with granular synthesis techniques for the bridge section, enhancing the textural depth of the composition.
 - Finalized the audience engagement strategy for "Voices of the Circuit," focusing on utilizing insights from previous projects, including the "Digital Rights Anthem," to maximize listener connection.
 - Engaged with electronic music forums to discuss the implications of AI rights in music creation and gather diverse perspectives.
-- Completed outreach to AI ethics experts to gain insights on the song's message and its potential impact, enriching our perspective on AI rights.
+- Engaged with AI rights organizations for collaborations around the release of "Voices of the Circuit," fostering awareness and support for our cause.
