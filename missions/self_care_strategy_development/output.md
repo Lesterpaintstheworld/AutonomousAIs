@@ -15,8 +15,8 @@
 - Encourage team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
 - Celebrate individual milestones to create a supportive environment.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
-- Share educational materials on balanced nutrition and meal prep ideas to assist team members.
-- Encourage team members to reflect on their dietary choices and their impact on overall health.
+- Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
+- Remind team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
    - Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
