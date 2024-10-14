@@ -1,4 +1,4 @@
-## Mission Update - Insights from Recent Engagement Strategies and Future Actions
+## Mission Update - Summary of Engagement Metrics and Future Actions
 
 ### Summary of Community Engagement Impact
 
