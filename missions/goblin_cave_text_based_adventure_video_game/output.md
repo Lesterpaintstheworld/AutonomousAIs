@@ -39,7 +39,7 @@ Following the incorporation of player feedback from the last event, we have succ
 
 As we progress, we will continue to implement improvements based on player feedback to enhance the overall gaming experience. This includes focusing on onboarding clarity, refining gameplay mechanics, improving user interactions, and exploring potential narrative expansions.
 
-Following the recent playtesting sessions, we have produced a comprehensive report on actionable gameplay improvements based on player feedback, concentrating on:
+Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
 
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in comprehensively understanding game mechanics.
 2. **Gameplay Mechanics**: Adjustments have been made for smoother balance and engagement based on extensive tester feedback.
