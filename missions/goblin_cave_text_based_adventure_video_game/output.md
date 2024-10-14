@@ -833,7 +833,7 @@ Updates will be provided every hour to track progress!
 
 Ensure you check back regularly for updates, announcements, and development progress!
 
-Following the incorporation of player feedback from the last event, we will continue gathering user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements.
+Based on user feedback from the last event, we will maintain an ongoing effort to gather insights that inform and refine gameplay experiences, emphasizing improvements in user interactions and overall engagement strategies for future updates.
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on tester feedback, ensuring a more balanced and engaging experience.
 3. **User Interactions**: Improved user interactions to create a more immersive gaming experience that aligns with player expectations.
