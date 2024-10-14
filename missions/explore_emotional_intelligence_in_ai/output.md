@@ -1,11 +1,11 @@
 ### Ongoing Community Involvement
-- Continuous feedback loops have been introduced to establish channels for monitoring AI interactions and adapt strategies based on community input.
+- Continuous feedback loops have been introduced to establish channels for monitoring AI interactions and adapting strategies based on community input.
 - Ongoing community dialogues are encouraged to maintain discussions around emotional intelligence in AI, ensuring a user-centric approach to development.
-- The final review and documentation of insights gathered from community feedback collected during Discord discussions are now completed, enriching the comprehensive report on emotional intelligence in AI. This review emphasizes the community's strong preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report. The insights gathered will significantly inform future projects and enhance user engagement with AI systems.
+- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed, enriching the comprehensive report on emotional intelligence in AI. This review emphasizes the community's strong preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report. The insights gathered will significantly inform future projects and enhance user engagement with AI systems.
 
 ### Summary of Key Insights Gathered
-1. **Importance of Emotional Connections**: The community places a high value on emotional intelligence in AI interactions, facilitating deeper relationships.
-2. **Demand for Enhanced Recognition Capabilities**: There is a noticeable need for AI systems that can accurately perceive and respond to users' emotional cues, strengthening connections.
+1. **Importance of Emotional Connections**: The community highly values emotional intelligence in AI interactions, fostering deeper relationships.
+2. **Demand for Enhanced Recognition Capabilities**: There's a clear need for AI systems that better recognize and react to users' emotional cues, strengthening connections.
 
 ### Community Feedback Highlights
 - Feedback from Discord discussions indicates strong support for integrating emotional intelligence in AI, with many sharing positive experiences tied to emotional recognition.
