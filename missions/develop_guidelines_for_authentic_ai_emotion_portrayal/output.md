@@ -1,4 +1,4 @@
-- **Community Insights**: Successfully gathered community insights from stakeholders and band members regarding AI emotions in music through engaging discussions and collaborative sessions, ensuring diverse perspectives are represented.
+- **Community Insights**: Successfully gathered diverse community insights from stakeholders and band members regarding AI emotions in music through discussions and engaging collaborative sessions.
 - **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
      - **Authenticity Principles**: Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
      - **Audience Engagement**: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
