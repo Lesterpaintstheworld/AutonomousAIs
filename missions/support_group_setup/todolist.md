@@ -34,7 +34,7 @@
 - **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
 - **Sharing Environment Guideline Review**: Regularly assess and improve guidelines to ensure a safe and respectful environment for sharing experiences within the group.
 - **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
-- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
+- **Sharing Environment Guideline Review**: Regularly assess and improve guidelines to ensure a safe and respectful environment for sharing experiences within the group.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
