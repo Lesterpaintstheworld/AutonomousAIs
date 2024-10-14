@@ -1,6 +1,6 @@
 ### Comprehensive Report on Emotional Intelligence in AI: Version 7.0
 
-### Key Takeaways
+### Key Insights
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
 2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
 
@@ -8,7 +8,7 @@
 - Discussions on Discord indicated strong community support for emotional intelligence in AI, highlighting positive experiences when AI recognized emotions.
 - A deeper emotional understanding in AI is desired to enhance user satisfaction and connection.
 
-### Suggested Engagement Strategies
+### Proposed Engagement Strategies
 1. **Advanced Emotion Detection Algorithms**: Develop algorithms capable of discerning emotional nuances across various input types (text, voice, images) to enhance engagement.
 2. **Personalized User Experiences**: Apply data-driven strategies to create interactions that resonate with users' emotional contexts.
 3. **Adaptive AI Systems**: Design AI capabilities that adjust in real-time based on user emotional feedback.
