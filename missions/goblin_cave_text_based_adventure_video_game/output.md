@@ -1,11 +1,11 @@
 
 
-Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement focusing on:
-1. **Onboarding Clarity**: Enhanced onboarding instructions significantly improve new players' understanding of game mechanics.
-2. **Gameplay Mechanics**: Adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: Optimized interactions to create a more immersive gaming experience that aligns better with player expectations.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and possible gameplay expansions will be informed by player suggestions collected during testing sessions. 
-These updates will guide our ongoing development efforts, maintaining and elevating player engagement and satisfaction.
+Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement. The key modifications include:
+1. **Onboarding Clarity**: Significantly improved onboarding instructions to assist new players in comprehensively understanding game mechanics.
+2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
+3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience that aligns with player expectations.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies. 
+These updates will direct our ongoing development efforts to maintain and elevate player engagement and satisfaction.
 
 1. **Onboarding Clarity**: Improved onboarding instructions designed to effectively assist new players in comprehending game mechanics.
 2. **Gameplay Mechanics**: Enhanced gameplay mechanics informed by thorough reviewer feedback, ensuring a balanced and enjoyable player experience.
