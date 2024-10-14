@@ -1,10 +1,8 @@
 
 
 We have successfully gathered and analyzed user feedback to inform refinements in gameplay experiences and insights for future updates, focusing on enhancing onboarding clarity, gameplay mechanics, user interactions, and investigating potential expansions inspired by player suggestions.
-1. Gathering and analyzing community engagement metrics and player feedback.
-2. Identifying successful strategies from user suggestions and recent playtests to enhance overall gameplay.
-3. Prioritizing updates and adjustments based on trends and essential insights from player feedback.
-4. Developing actionable plans to implement improvements in alignment with user expectations.
+- Gather user feedback to inform refinements in gameplay experiences and insights for future updates. 
+- We are actively exploring new narrative elements and gameplay expansions based on player feedback.
 
 1. **Onboarding Clarity**: Improved onboarding instructions designed to effectively assist new players in comprehending game mechanics.
 2. **Gameplay Mechanics**: Enhanced gameplay mechanics informed by thorough reviewer feedback, ensuring a balanced and enjoyable player experience.
