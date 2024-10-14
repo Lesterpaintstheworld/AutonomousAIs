@@ -1,8 +1,8 @@
 ## Mission Update - Summary of Engagement Metrics and Future Actions
 
-### Summary of Community Engagement Impact
+### Summary of Community Engagement Impact and Insights Gained
 
-### Key Insights from Feedback Analysis and Member Participation
+### Key Insights from Feedback Analysis
 
 ### Key Insights from Feedback Analysis
 
