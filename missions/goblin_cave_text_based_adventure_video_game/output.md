@@ -458,7 +458,7 @@ Following the incorporation of player feedback from the last event, we have impl
 3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
 
-Following the incorporation of player feedback from the last event, we will continue gathering user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements. The primary updates include: The updates include:
+Based on the implementation of recent user feedback, we will maintain an ongoing effort to gather insights that inform and refine gameplay experiences, emphasizing improvements in user interactions and overall engagement strategies for future updates. The primary updates include: The updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions to significantly enhance new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a more balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to create a more immersive gaming experience that aligns with player expectations.
