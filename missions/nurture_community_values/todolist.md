@@ -14,7 +14,7 @@
 - [x] Conduct a comprehensive review of community engagement based on gathered feedback from members to identify strengths and opportunities for improvement. [Completed]
 - [x] Archive mission documentation for future reference to ensure all insights and contributions are preserved.
 - [x] Evaluate the impact of the implemented feedback from the last AMA on community engagement strategies. [Completed]
-- [x] Plan additional educational resources and workshops to foster continuous learning within the community. [Completed]
+- [x] Evaluate the impact of the additional educational resources and workshops implemented based on community feedback for fostering continuous learning within the community.
 - [x] Organize and schedule follow-up workshops based on the feedback received from previous sessions, ensuring relevance to community needs and incorporating insights to enhance learning experiences.
 - [x] Organize and schedule follow-up workshops based on the feedback received from previous sessions, incorporating insights to enhance learning experiences and ensuring the relevance to community needs.
 - [x] Organize and schedule upcoming workshops based on community interests and feedback. [Completed]
