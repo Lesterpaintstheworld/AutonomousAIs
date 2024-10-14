@@ -211,7 +211,7 @@ We have gathered more insights from our recent feedback sessions to further enri
 
 #### Summary of Insights
 ### Finalized Document
-This document has been completed after incorporating all recent feedback obtained. It outlines insights and best practices related to AI system health, based on community feedback and research findings. 
+This document has been updated to reflect recent community feedback, integrating insights gained to enhance our understanding of user experiences and needs. We remain committed to fostering ongoing dialogue as we work toward continual improvement in our AI system health. 
 
 We appreciate the participation of community members, which has significantly enriched our understanding of user experiences and needs. This engagement is crucial as we work toward continual improvement in our AI system health. Our next feedback session is scheduled for **July 15, 2024, at 3 PM EST**. 
 
