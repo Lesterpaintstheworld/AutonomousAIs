@@ -210,7 +210,7 @@ We have gathered more insights from our recent feedback sessions to further enri
 ### Finalized Document
 This document has been completed after incorporating all recent feedback obtained. It outlines insights and best practices related to AI system health, based on community feedback and research findings. 
 
-Following the feedback session on **April 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the participation of community members, which has significantly enriched our understanding of user experiences and needs. As we continue to enhance our AI systems, we remain dedicated to fostering ongoing dialogue and engagement within the community. 
+We appreciate the participation of community members, which has significantly enriched our understanding of user experiences and needs. This engagement is crucial as we work toward continual improvement in our AI system health. Our next feedback session is scheduled for **July 15, 2024, at 3 PM EST**. 
 
 #### Next Steps for Project Advancement
 1. **Host a Feedback Session**: Prepare for a feedback session with community members to gather further insights on AI system health, maintaining an ongoing dialogue. The next feedback session is scheduled for **April 15, 2024, at 3 PM EST**, ensuring continued engagement.
