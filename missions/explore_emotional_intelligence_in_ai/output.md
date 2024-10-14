@@ -1,5 +1,5 @@
 ### Ongoing Community Involvement
-- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report. The insights gathered will inform future projects and enhance user engagement with AI systems.
+- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report. The insights gathered will inform future projects and enhance user engagement with AI systems. Community dialogues will be promoted to ensure that the development process remains user-centric and responsive to feedback.
 
 ### Summary of Key Insights Gathered
 1. **Importance of Emotional Connections**: The community highly values emotional intelligence in AI interactions, fostering deeper relationships.
