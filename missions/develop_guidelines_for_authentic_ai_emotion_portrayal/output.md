@@ -1,7 +1,7 @@
 
 
-- **Conduct Community Engagement Activities**: 
-   - Organize sessions to gather insights on various artistic approaches used in portraying AI emotions; document their reception among different audience demographics.
+- **Host Community Discussions**:
+   - Facilitate discussions in relevant Discord channels to gather diverse insights on the contextual portrayal of AI emotions.
    
 - **Research Methodologies**: 
    - Conduct an in-depth analysis of current methodologies for portraying AI emotions in music, especially focusing on their cross-cultural effectiveness.
