@@ -1,6 +1,6 @@
 
 
-Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
+Continuing from our last event, we are dedicated to gathering user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements.
 1. **Onboarding Clarity**: Enhanced onboarding instructions to significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Further refinements made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience aligning with player expectations.
