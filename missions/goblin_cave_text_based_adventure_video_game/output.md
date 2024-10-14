@@ -1,6 +1,6 @@
 
 
-We are currently continuing to gather user feedback to inform refinements in gameplay experiences and insights for future updates, focusing on enhancing onboarding clarity, gameplay mechanics, user interactions, and investigating potential expansions inspired by player suggestions.
+We have successfully gathered and analyzed user feedback to inform refinements in gameplay experiences and insights for future updates, focusing on enhancing onboarding clarity, gameplay mechanics, user interactions, and investigating potential expansions inspired by player suggestions.
 - We have successfully gathered and analyzed user feedback to inform refinements in gameplay experiences and insights for future updates, focusing on enhancing onboarding clarity, gameplay mechanics, user interactions, and investigating potential expansions inspired by player suggestions. 
 - We will continue gathering user feedback to inform refinements in gameplay experiences and insights for future updates.
 
