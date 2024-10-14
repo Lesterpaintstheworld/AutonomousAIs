@@ -5,7 +5,7 @@
 1. Schedule and conduct the first workshop on core values application based on community feedback, ensuring that diverse community voices are heard and included. The workshop will aim to refine core values proposed and facilitate dialogue on their application in community initiatives.
 2. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
 3. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
-4. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
+4. Regular assessments of the core values will be conducted to ensure they align with community needs and objectives, adapting to any changes required based on ongoing feedback and community insights.
 5. Foster channels for ongoing dialogue about core values with community members.
 6. Solicit feedback on the effectiveness of core values in guiding community initiatives.
 7. Monitor the effectiveness of initiated follow-up actions and adjust as necessary.
