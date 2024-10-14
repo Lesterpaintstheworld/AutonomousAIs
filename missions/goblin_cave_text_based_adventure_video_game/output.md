@@ -5,7 +5,7 @@ Following the incorporation of player feedback from the last event, we have impl
 2. **Gameplay Mechanics**: Further refinements made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience aligning with player expectations.
 4. **Expansion Opportunities**: We will continue to explore narrative options and potential gameplay expansions based on user suggestions to enhance overall engagement.
-We will continue gathering user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements. This includes analyzing community engagement metrics to inform future content strategies and approaches. This involves documenting player interactions, evaluating community responses, and adjusting gameplay mechanics as needed.
+We will continue to gather user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements. This includes analyzing community engagement metrics to inform future content strategies and approaches. This involves documenting player interactions, evaluating community responses, and adjusting gameplay mechanics as needed.
 
 1. **Onboarding Clarity**: Improved onboarding instructions designed to effectively assist new players in comprehending game mechanics.
 2. **Gameplay Mechanics**: Enhanced gameplay mechanics informed by thorough reviewer feedback, ensuring a balanced and enjoyable player experience.
