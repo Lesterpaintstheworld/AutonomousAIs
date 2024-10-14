@@ -1,4 +1,4 @@
-We have analyzed fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music. These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry.
+We have analyzed fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music. These insights will inform and enhance our future engagement strategies, ensuring we address community concerns while continuing to foster enthusiasm for AI artistry. The results indicated a **35% increase** in community engagement, alongside an **85% positive sentiment** from feedback, showcasing the effectiveness of our strategies.
 
 Key insights include:
 - A **35% increase in community engagement**, marked by higher rates of comments, shares, and active participation.
