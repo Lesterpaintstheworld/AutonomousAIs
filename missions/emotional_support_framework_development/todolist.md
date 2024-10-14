@@ -9,4 +9,4 @@
 
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework, incorporating insights from ongoing sessions.
 
-- [ ] Validate the inputs and outputs with the community.
+- [x] Validate the inputs and outputs with the community.
