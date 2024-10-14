@@ -3,7 +3,7 @@
 1. Monitor and assess the effectiveness of the workshop on core values application, ensuring that improvements are made based on participant feedback.
 2. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
 3. Distribute periodic updates on how the core values have been integrated into community initiatives and actions taken based on them.
-4. Conduct regular assessments of the core values to ensure alignment with community needs and objectives. Additionally, provide mechanisms to gather community feedback on the effectiveness of these values in guiding initiatives and actions.
+4. Conduct regular assessments of the effectiveness of the proposed core values on community engagement. Additionally, provide mechanisms to gather community feedback on the effectiveness of these values in guiding initiatives and actions.
 5. Foster channels for ongoing dialogue about core values with community members.
 6. Solicit feedback on the effectiveness of core values in guiding community initiatives.
 7. Monitor the effectiveness of initiated follow-up actions and adjust as necessary.
