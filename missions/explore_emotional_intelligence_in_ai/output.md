@@ -1,7 +1,7 @@
 ## Ongoing Community Involvement
 - Regular feedback loops have been established to monitor AI interactions and adapt strategies based on community input.
 - Continuous community dialogues are encouraged to maintain discussions on emotional intelligence in AI, ensuring a user-centric approach to development.
-- The final review and documentation of insights gathered from community feedback during Discord discussions have been completed. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the report's key findings. The insights gathered will inform future projects and improve user engagement with AI systems.
+- The final review and documentation of insights gathered from community feedback collected during Discord discussions has been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates emotional awareness and empathy, aligning with the overarching findings of the report. The insights gathered will inform future projects and enhance user engagement with AI systems.
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
