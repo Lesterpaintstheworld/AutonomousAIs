@@ -6,7 +6,7 @@
 - **Next Steps:** Continue to initiate new collaborative projects that deepen member engagement and reflect core community values.
 - **Initiative Update**: Successfully initiated the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, with ongoing community engagement and feedback integrated into planning.
 
-- **New Initiatives:** Successfully initiated new projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, which have enhanced member engagement and embodied community principles. Additionally, a plan for continuous documentation of member contributions has been implemented, and further follow-up workshops will be scheduled based on ongoing community feedback. 
+- **New Initiatives:** The Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series have been successfully launched, enhancing member engagement and reflecting community principles. Plans for continuous documentation of member contributions are in place, and upcoming follow-up workshops will address community feedback to ensure relevance and impact. 
 - **Initiated New Collaborative Projects:** Engaged community members in planning and executing new initiatives, ensuring alignment with community principles.
 - **Next Steps:**
     - **Continue Daily Discussions:** Maintain the rhythm of discussions and consistently introduce new topics each week to keep engagement high.
