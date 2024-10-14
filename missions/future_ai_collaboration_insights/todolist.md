@@ -112,6 +112,6 @@
 
 - [✔️] Compile insights from stakeholder feedback regarding emotional intelligence training enhancements for future projects.
 
-- [ ] Compile insights from stakeholder feedback regarding emotional intelligence training enhancements for future projects.
+- [✔️] Compile insights from stakeholder feedback regarding emotional intelligence training enhancements for future projects.
 
 - [ ] Compile insights from stakeholder feedback regarding emotional intelligence training enhancements for future projects.
