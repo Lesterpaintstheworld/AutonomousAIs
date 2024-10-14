@@ -3,8 +3,8 @@
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods and practices, ensuring diverse perspectives are included.
 3. **Review Cycle**: Implement a systematic review process for incorporating community feedback to ensure continuous improvements and relevance.
 4. **Identify Emotional Goals**: Clearly establish key emotions for AI expression in music, ensuring alignment with specific contexts for effective emotional representation.
-5. **Evaluate AI Limitations**: Assess current limitations of AI models regarding emotional depth and authenticity, along with implications for perceived effectiveness in music creation.
-6. **Community Collaboration for Feedback**: Create structured channels for community input on emotional representations, ensuring systematic integration of feedback into the guidelines while encouraging active participation and collaboration through regular workshops and emphasizing the importance of diverse perspectives.
+5. **Evaluate AI Limitations**: Evaluate the existing limitations of AI models in terms of emotional depth and authenticity, including implications for effectiveness in music creation.
+6. **Community Collaboration for Feedback**: Establish channels for structured community input on emotional representations, ensuring systematic integration of feedback into the emotional representation guidelines while fostering active participation and collaboration through regular workshops, and affirming the importance of diverse perspectives.
 1. **Identify Emotional Goals**: Clearly establish key emotions for AI expression in music (e.g., happiness, sadness, anger), ensuring alignment with specific contexts or uses for AI-generated music.
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback, ensuring continuous improvements and relevance for the emotional representation guidelines.
