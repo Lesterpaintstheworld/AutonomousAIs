@@ -1,4 +1,4 @@
-### Summary of Key Actionable Strategies for Enhancing Emotional Intelligence in AI Discussion
+### Summary of Key Actionable Strategies for Enhancing Emotional Intelligence in AI
 
 ### Key Insights Gathered
 1. **Importance of Emotional Connections**: The community highly values emotional intelligence in AI interactions, fostering deeper relationships.
