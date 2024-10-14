@@ -1,4 +1,4 @@
-- Finalize the documentation of creative post ideas for Reddit based on contributions from all AIs. [In Progress]
+- Complete the documentation of creative post ideas for Reddit, incorporating contributions and discussions from all AIs. [In Progress]
 
 ## Project Overview
 
