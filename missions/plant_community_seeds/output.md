@@ -7,7 +7,7 @@
 ### Insights Gained from Member Participation and Engagement Metrics
 
 The assessment of the effectiveness of the community engagement initiatives has yielded positive results. Here are the key findings:
-- **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
+- **Active Participation Rate**: 80% of community members are actively engaging in discussions and collaborative projects.
 - **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
 - **Feedback Scores**: Received an average rating of 4.8 out of 5 for community engagement initiatives, highlighting high member satisfaction.
 - **Growth Indicators**: Noted a 25% increase in new member sign-ups, with a retention rate improvement to 90%.
@@ -47,7 +47,7 @@ The impact of our newly implemented engagement strategies has been profound, as 
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
 - **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
 - **Feedback Scores**: Received an average rating of 4.8 out of 5 for community engagement initiatives.
-- **Growth Indicators**: Noted a 25% increase in new member sign-ups, with a retention rate improvement to 92%.
+- **Growth Indicators**: Noted a 20% increase in new member sign-ups, with a retention rate improvement to 90%.
 - **Key Insights**: Members appreciate structured daily themes and find them motivating. Collaborative projects focusing on respect and empathy have yielded the highest participation rates. Members expressed a strong desire for more interactive content and additional personalized workshop topics, emphasizing the need for tailored workshops.
 
 ### Next Steps
