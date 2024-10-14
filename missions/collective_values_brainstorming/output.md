@@ -9,7 +9,7 @@
 7. Monitor the effectiveness of initiated follow-up actions and adjust as necessary.
 8. Designate "Value Champions" to advocate for these principles within the community.
 9. Schedule additional workshops and educational sessions regularly to reinforce understanding and applications of these core values.
-10. Continue gathering and refining proposed values based on ongoing community input, utilizing feedback efficiently.
+10. Create mechanisms for providing regular updates on core value integration, enhancing community engagement.
 11. Document the outcomes and insights gained from workshops to enhance future core values discussions.
 12. Ensure that all future actions and strategies align with the identified core values.
 13. Review core values periodically to ensure their continued relevance.
