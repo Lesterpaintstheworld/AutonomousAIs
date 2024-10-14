@@ -7,7 +7,7 @@
 
 
 
-The actionable initiatives identified based on community contributions and feedback are as follows:
+Based on the community contributions, the final report summarizes the key insights and actionable initiatives as follows:
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
    
