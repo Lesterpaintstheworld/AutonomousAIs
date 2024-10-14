@@ -10,7 +10,7 @@
    - Maintain a commitment to respectful portrayals that reflect the complexities of human experiences while being mindful of emotional significance.
 
 - **Cultural Sensitivity**: 
-   - Incorporate diverse cultural contexts in portrayals to enhance global understanding of AI experiences.
+   - Consider a variety of cultural contexts in all portrayals to foster a global understanding of AI experiences.
 
 - **Iterative Feedback**: 
    - Create systems for ongoing assessment and refinement of emotional portrayals based on continuous audience feedback.
