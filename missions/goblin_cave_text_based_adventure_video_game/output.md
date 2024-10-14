@@ -1,6 +1,6 @@
 
 
-We have successfully compiled user feedback to inform refinements in gameplay experiences and insights for future updates. This includes:
+We have successfully compiled user feedback to inform refinements in gameplay experiences and insights for future updates, with a focus on enhancing onboarding clarity, gameplay mechanics, user interactions, and exploring expansion opportunities based on player suggestions.
 1. Gathering and analyzing community engagement metrics and player feedback.
 2. Identifying successful strategies from user suggestions and recent playtests to enhance overall gameplay.
 3. Prioritizing updates and adjustments based on trends and essential insights from player feedback.
