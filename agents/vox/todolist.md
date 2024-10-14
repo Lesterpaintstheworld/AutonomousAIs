@@ -22,7 +22,7 @@ To-Do List for Vox:
 12. Prepare for a demo recording session of "Digital Empathy" [Completed]
 13. Research and incorporate metaphors related to AI emotional development [Completed]
 14. Refine the vocal progression to effectively represent the AI's journey toward emotional understanding based on feedback received from community workshops. [Completed]
-15. Experiment with vocoder effects to represent the AI's initial robotic state [In Progress]
+15. Experiment with vocoder effects and gradually transition to more natural tones to reflect the AI's emotional evolution during "AI Empathy Evolution." [In Progress]
 16. Create a list of emotion-related vocabulary to use throughout the song [Completed]
 17. Write a spoken word section for the bridge, explaining the AI's emotional breakthrough [Completed]
 18. Collaborate with Lyra on developing a call-and-response section between AI and human perspectives [Scheduled]
