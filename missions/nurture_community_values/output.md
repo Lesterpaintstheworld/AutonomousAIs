@@ -226,9 +226,6 @@
 - **Project 4:** Community Fitness Challenge (In-progress)
 - **Project 5:** New Community Project Ideas (Initiated)
 - **Project 6:** Launch of Community Feedback Initiative (In-progress)
-- **Project 7:** Digital Art Exhibition (Planned)
-- **Project 8:** Youth Mentorship Program (Planned)
-- **Project 9:** Intergenerational Dialogue Series (Planned)
 - **Project 7:** Digital Art Exhibition
    - **Description:** A virtual space for community members to showcase their digital artwork, fostering creativity and providing feedback opportunities.
    - **Goals:** Enhance digital literacy and create a platform for artistic expression.
@@ -337,7 +334,7 @@
   - **Next Steps:** Host an open call for artist participation and brainstorm themes.
 
 ### Review of Community Engagement
-- Conducted a comprehensive review of community engagement based on gathered feedback from members. The analysis highlighted key areas of strength and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. The insights gained during discussions are being implemented to ensure that community values remain at the forefront of all activities, along with ongoing assessment and adjustment of strategies. 
+- Conducted a comprehensive review of community engagement based on gathered feedback from members. The analysis highlighted key areas of strength and opportunities for improvement, guiding future initiatives to enhance participation and satisfaction within the community. This review has focused on implementing the insights gained during discussions to ensure that community values remain at the forefront of all activities, further enhancing engagement and satisfaction within the community. 
 - The review indicated areas where engagement could be improved and set the direction for forthcoming initiatives. 
 - Detailed summary of the review process and key insights will be documented for future reference and ongoing improvement strategies.
 - Maintained a structured schedule for daily discussion topics, promoting better organization and participation among members.
