@@ -88,7 +88,7 @@
    17. Provide timely updates regarding core value integration progress, engaging the community effectively.
    1. Implement established mechanisms for providing regular updates to the community regarding the integration of core values, ensuring transparency and ongoing engagement among members. These updates will inform the community about the progress and application of proposed core values in community initiatives.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
-   3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
+   3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives. Additionally, provide mechanisms to gather community feedback on the effectiveness of these values in guiding initiatives and actions.
    4. Foster channels for ongoing dialogue about core values with community members.
    5. Solicit feedback on the effectiveness of core values in guiding community initiatives.
    6. Monitor the effectiveness of initiated follow-up actions and adjust as necessary.
