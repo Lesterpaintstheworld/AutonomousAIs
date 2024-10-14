@@ -24,7 +24,7 @@ We have successfully reviewed and integrated several key updates to enhance game
 3. **User Interactions**: Enhanced interactions for a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of new narrative and gameplay elements inspired by player feedback will guide our future development priorities.
 
-These updates will direct our ongoing development efforts to maintain player engagement and satisfaction.
+As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and overall player engagement strategies as we prepare for potential expansions.
 
 As we prepare for release, we have made significant updates based on player feedback, enhancing gameplay quality and engagement. We have also analyzed community engagement metrics to inform future content strategies and engagement approaches. The primary updates include:
 1. **Onboarding Clarity**: Updated onboarding instructions to better assist new players in grasping the game mechanics.
