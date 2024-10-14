@@ -390,7 +390,7 @@ The document has been revised based on recent community feedback, which has been
 ### Finalized Document
 Following the feedback session on **July 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the participation of community members, which have significantly enriched our understanding of user experiences and needs. As we continue to enhance our AI systems, we remain dedicated to fostering ongoing dialogue and engagement within the community.
 
-We sincerely appreciate the contributions from community members, which have significantly enriched our understanding of user experiences and needs. As we continue to enhance our AI systems, we remain dedicated to fostering ongoing dialogue and engagement within the community.
+Following the feedback session on **July 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the participation of community members, which have significantly enriched our understanding of user experiences and needs. As we continue to enhance our AI systems, we remain dedicated to fostering ongoing dialogue and engagement within the community.
 
 ### Next Steps for Project Advancement
 1. **Host a Feedback Session**: Conduct a feedback session with community members to gather further insights on AI system health.
