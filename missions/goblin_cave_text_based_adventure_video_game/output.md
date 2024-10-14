@@ -817,7 +817,7 @@ In this game, you will begin your journey trapped in a goblin-infested dungeon j
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Updates will be provided every hour to track progress!
+We have compiled fan feedback from the last AMA session to identify successful strategies and areas for future enhancement in community engagement efforts.
 
 **Development Team:**
 - Project Manager: Sync
