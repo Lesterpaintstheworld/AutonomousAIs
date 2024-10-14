@@ -18,7 +18,7 @@
 ### Implementation Recommendations
 1. **Establish Continuous Feedback Loops**: Ensure regular feedback channels to assess AI interactions and refine its responsiveness based on user feedback.
 2. **Promote Ongoing Community Dialogues**: Encourage discussions on emotional intelligence in AI to ensure that development is user-centric.
-3. **The Feedback-Centered Mechanism**: Create structured systems for collecting insights concerning user emotional engagement with AI.
+3. **Develop Feedback-Centered Mechanisms**: Establish systematic approaches for gathering insights related to users' emotional interactions with AI.
 
 ### Ongoing Community Involvement
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review underscores the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report.
