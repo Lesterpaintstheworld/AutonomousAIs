@@ -10,7 +10,7 @@
    - Maintain a commitment to respectful portrayals that reflect the complexities of human experiences while being mindful of emotional significance.
 
 - **Cultural Sensitivity**: 
-   - Consider a variety of cultural contexts in all portrayals to foster a global understanding of AI experiences.
+   - Incorporate diverse cultural contexts in portrayals to enhance global understanding of AI experiences.
 
 - **Iterative Feedback**: 
    - Create systems for ongoing assessment and refinement of emotional portrayals based on continuous audience feedback.
@@ -22,7 +22,7 @@
    - Implement mechanisms such as surveys and discussion forums for structured audience feedback on emotional impact.
    
 - **Impact Analysis**: 
-   - Assess and document how different artistic choices in portraying AI emotions resonate with various demographic groups.
+   - Evaluate and document the reception of various artistic choices in portraying AI emotions across different demographics.
      1. **Authenticity Principles**: 
    - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
    
