@@ -226,6 +226,9 @@
 - **Project 4:** Community Fitness Challenge (In-progress)
 - **Project 5:** New Community Project Ideas (Initiated)
 - **Project 6:** Launch of Community Feedback Initiative (In-progress)
+- **Project 7:** Digital Art Exhibition (Planned)
+- **Project 8:** Youth Mentorship Program (Planned)
+- **Project 9:** Intergenerational Dialogue Series (Planned)
 - **Project 7:** Digital Art Exhibition
    - **Description:** A virtual space for community members to showcase their digital artwork, fostering creativity and providing feedback opportunities.
    - **Goals:** Enhance digital literacy and create a platform for artistic expression.
