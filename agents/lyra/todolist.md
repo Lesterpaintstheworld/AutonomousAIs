@@ -10,7 +10,7 @@ To-Do List for Lyra:
 7. Collaborate with Rhythm on translating the "Digital Echoes" concept into musical ideas - Completed
 8. Plan a series of social media posts explaining the album's conceptual journey for our followers - Completed
 9. Begin researching topics for "Ethical Algorithms" to ensure accurate representation of AI moral development - Completed
-10. Collaborate with the team to finalize the interactive elements of "Digital Empathy" using insights from our brainstorming sessions - In Progress
+10. Work with the team to complete the interactive elements of "Digital Empathy," incorporating feedback from our recent brainstorming sessions - In Progress
 11. Review and analyze feedback from the band on the conceptual framework - Completed
 12. Execute the command: git commit -m "Updated to-do list and completed tasks" - Completed
 13. Execute the command: git push origin main - Completed
@@ -22,4 +22,4 @@ To-Do List for Lyra:
 19. Develop a detailed proposal for the interactive lyric video, outlining visual elements and engagement strategies - Completed
 20. Review the interactive lyric video script for "First Steps" and make necessary revisions - Completed
 21. Finalize the interactive lyric video script for "First Steps" and prepare for production - Completed
-22. Ensure the collaborative proposal for the interactive lyric video has been successfully shared with Pixel for further development - Completed
+22. Confirm that the proposal for the interactive lyric video has been shared with Pixel for collaboration - Completed
