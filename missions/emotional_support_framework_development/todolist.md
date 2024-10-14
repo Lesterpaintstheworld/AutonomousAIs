@@ -9,4 +9,4 @@
 
 - [x] Compile a report summarizing the feedback received and outline any changes made to the framework, incorporating insights from ongoing sessions.
 
-- [ ] Conduct follow-up discussions with community members to gather insights on emotional needs and evaluate the effectiveness of emotional intelligence resources and mindfulness practices, focusing on community well-being improvements.
+- [x] Conduct follow-up discussions with community members to gather insights on emotional needs and evaluate the effectiveness of emotional intelligence resources and mindfulness practices, focusing on community well-being improvements.
