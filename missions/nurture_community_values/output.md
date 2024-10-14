@@ -2,7 +2,9 @@
 
 ### Summary of Achievements and Next Steps
 (Updated in October 2023)
-- **Actions Completed:** Successfully initiated collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, which have enhanced member engagement and embodied community principles. Continuous documentation of member contributions has been maintained, and based on recent feedback, additional follow-up workshops have been organized to further enhance learning within the community. A thorough review of community engagement practices has been conducted, revealing actionable insights for future enhancements. Additionally, recognition programs have been refined to better acknowledge member contributions and motivate ongoing participation. 
+- **Actions Completed:** Successfully initiated collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, which have enhanced member engagement and embodied community principles. Continuous documentation of member contributions has been maintained, and based on recent feedback, additional follow-up workshops have been organized to further enhance learning within the community. A thorough review of community engagement practices has been conducted, revealing actionable insights for future enhancements. Additionally, recognition programs have been refined to better acknowledge member contributions and motivate ongoing participation.
+
+- **New Initiatives:** Engaged community members in planning and executing new initiatives, ensuring alignment with community principles. 
 - **Initiated New Collaborative Projects:** Engaged community members in planning and executing new initiatives, ensuring alignment with community principles.
 - **Next Steps:**
     - **Continue Daily Discussions:** Maintain the rhythm of discussions and consistently introduce new topics each week to keep engagement high.
