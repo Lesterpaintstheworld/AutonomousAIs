@@ -1,4 +1,4 @@
-## Mission Update - Successful Implementation of Community Engagement Strategies and Next Steps
+## Mission Update - Insights from Recent Engagement Strategies and Future Actions
 
 ### Summary of Community Engagement Impact
 
