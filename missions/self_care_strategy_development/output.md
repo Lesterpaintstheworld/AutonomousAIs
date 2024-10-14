@@ -81,7 +81,8 @@ Encourage team members to set aside time for journaling as a method for emotiona
 Share journaling prompts and initiatives that promote reflection and personal growth among team members.
 Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 Remind team members to reflect on their dietary choices and their impact on overall health.
-- Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
+- Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
+- Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
    - Remind team members to reflect on their dietary choices and their impact on overall health.
 - 1. **Support Journaling Practices**: 
