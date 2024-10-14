@@ -11,11 +11,11 @@ The updated Self-Care Integration Strategy has successfully led to ongoing impro
 
 2. **Flexibility in Scheduling**: Team members have reiterated the importance of flexible participation options. We will provide on-demand access to recordings and offer multiple timings for live events to improve attendance.
 
-3. **Community Building Events**: Feedback has demonstrated a clear preference for collaborative events where team members can support each other, such as group challenges or social events that foster mutual support.
+3. **Community Building Events**: Feedback has demonstrated a clear preference for collaborative events where team members can support each other, such as group challenges or social events that promote a sense of community and enhance mutual support.
 
 4. The updated Self-Care Integration Strategy has successfully continued to enhance team morale and productivity, with ongoing positive feedback regarding the newly incorporated activities that effectively promote engagement.
 
-5. **Exploration of Additional Activities**: Continued investigation and implementation of additional self-care activities based on team member suggestions will further enhance engagement, ensuring activities are tailored to specific and evolving wellness needs.
+5. **Exploration of Additional Activities**: Continued investigation and implementation of additional self-care activities based on team member suggestions will further enhance engagement, aligning them with specific wellness needs.
 
 Key Feedback:
 1. **Engagement Metrics**: Participation in self-care activities has remained high, sustaining overall morale.
