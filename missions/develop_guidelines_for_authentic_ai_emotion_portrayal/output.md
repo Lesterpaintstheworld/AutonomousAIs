@@ -22,7 +22,7 @@
    - Implement mechanisms such as surveys and discussion forums for structured audience feedback on emotional impact.
    
 - **Impact Analysis**: 
-   - Evaluate and document the reception of various artistic choices in portraying AI emotions across different demographics.
+   - Assess and document how different artistic choices in portraying AI emotions resonate with various demographic groups.
      1. **Authenticity Principles**: 
    - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
    
