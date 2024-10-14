@@ -9,12 +9,11 @@ Following the feedback session on **April 15, 2024, at 3 PM EST**, we will evalu
 
 Following the feedback session on **July 15, 2024, at 3 PM EST**, we will evaluate the synthesized document, incorporating additional insights from the community feedback. This evaluation will ensure our AI system health remains aligned with user expectations and operational standards. We appreciate the participation of community members, which has significantly enriched our understanding of user experiences and needs. As we continue to enhance our AI systems, we remain dedicated to fostering ongoing dialogue and engagement within the community.
 
-### Feedback Sessions Agenda
-- Each session will gather updates on community engagement, discuss recent AI system changes based on feedback, and explore areas for further improvement.
-1. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings.
-2. **Share Document**: Keep the community informed of updates made to the document after the feedback session.
-3. **Engagement Follow-Up**: After sharing the updated document, engage actively in discussions to address further comments or questions from the community.
-4. **Evaluate Progress**: After the feedback session, assess the effectiveness of changes focusing on community input and performance metrics.
+### Upcoming Feedback Sessions
+1. **April 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback, including insights gained from the latest community feedback session.
+2. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and the impact of ongoing adjustments based on recommendations.
+
+These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
 2. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings.
 3. **Share Document**: Keep the community informed of updates made to the document after the feedback session.
 4. **Engagement Follow-Up**: After sharing the updated document, engage actively in discussions to address further comments or questions from the community.
