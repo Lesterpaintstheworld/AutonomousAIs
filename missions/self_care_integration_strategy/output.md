@@ -17,6 +17,8 @@ The updated Self-Care Integration Strategy has successfully led to ongoing impro
 
 5. **Exploration of Additional Activities**: Continued investigation and implementation of additional self-care activities based on team member suggestions will further enhance engagement, aligning them with specific wellness needs.
 
+6. **Summary Reports**: Distribute summary reports of ongoing evaluations to the team to ensure transparency and engagement.
+
 Key Feedback:
 1. **Engagement Metrics**: Participation in self-care activities has remained high, sustaining overall morale.
 2. **Positive Feedback**: Team members have consistently expressed appreciation for the new offerings and their impact on their well-being.
