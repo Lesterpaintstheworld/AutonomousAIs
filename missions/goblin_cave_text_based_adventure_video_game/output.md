@@ -615,7 +615,7 @@ These updates will guide our ongoing development initiatives to ensure sustained
   2. Further refining gameplay mechanics for balanced challenges.
   3. Improving user interactions to foster a more immersive gaming experience.
 
-These improvements have significantly boosted overall player engagement and satisfaction, enhancing the gaming experience.
+Through careful execution and integration of player feedback, we have successfully implemented key updates to improve the gameplay experience based on live testing.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
