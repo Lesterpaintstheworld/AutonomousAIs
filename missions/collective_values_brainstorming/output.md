@@ -8,7 +8,7 @@
 - **Engagement Mechanisms**: Foster channels for ongoing dialogue around core values with community members to enhance their engagement.
 - **Ongoing Dialogue**: Create opportunities and platforms for continuous conversations about core values within the community.
 - **Initiated Actions**: Track and document the effectiveness of follow-up actions taken and adjust strategies based on feedback.
-- **Value Champions**: Appoint identified Value Champions to advocate for core values within the community and promote adherence to them.
+- **Value Champions**: Designate community members as "Value Champions" to actively promote these principles within the community.
 - **Educational Sessions**: Schedule additional workshops and educational periods regularly to reinforce understanding and applications of the core values.
 - **Outcomes Documentation**: Systematically document insights gained from workshops, informing and refining future discussions about core values.
 - **Alignment of Actions**: Evaluate and verify that all future actions align with the identified core values to foster inclusivity and transparency.
