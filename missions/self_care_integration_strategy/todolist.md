@@ -1,5 +1,5 @@
 - [x] Distribute summary reports of ongoing evaluations to the team to ensure transparency and engagement.
-- [x] Continue to explore and implement additional self-care activities based on team member suggestions, focusing on tailored workshops, diverse wellness sessions, and community-building events to further enhance engagement.
+- [x] Continue to explore and implement additional self-care activities based on team member suggestions, emphasizing on-demand access to recordings and flexible scheduling to enhance overall participation and effectiveness.
 - [x] Review the effectiveness of specific self-care initiatives based on team member feedback.
 - [x] Compile the results from the last AMA to identify successful strategies and areas for improvement.
 - [x] Evaluate the outcomes of previous self-care initiatives to identify areas for improvement.
