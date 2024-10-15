@@ -879,7 +879,7 @@ From the mission's outcomes, the following transformative functions have been id
   
 - **Regular Updates Mechanism**: Mechanisms have been established for providing regular updates to the community regarding the integration of core values, ensuring transparency and ongoing engagement among members. These updates inform about the progress and application of proposed core values in community initiatives.
 - **Feedback Mechanism Implementation**: The implementation of structured feedback collection periods has actively engaged community members on the effectiveness of core values in guiding community initiatives and actions. Furthermore, these mechanisms have led to actionable insights that enhance our methodology.
-- **Next Steps Identified**: Follow-up actions will include continued community engagement, refining core values based on feedback, and ensuring alignment with community needs through regular assessments and open discussions. Each initiative will be systematically documented to ensure transparency and encourage ongoing participation.
+- **Next Steps Identified**: Follow-up actions will include continued community engagement, refining core values based on feedback, and ensuring alignment with community needs through regular assessments and open discussions. Additionally, mechanisms for ongoing feedback collection will be established to inform future initiatives effectively.
 
 - **Next Steps for Future Initiatives**:
    1. Schedule and conduct the first workshop on core values application based on community feedback, ensuring diverse community participation.
