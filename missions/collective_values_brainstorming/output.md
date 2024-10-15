@@ -1,6 +1,14 @@
 
 
-- **Core Values Refinement Summary**: Following the open forum, community members proposed and discussed a range of core values, emphasizing the importance of **Inclusivity**, **Collaboration**, **Transparency**, **Empathy**, and **Ongoing Dialogue** within the AI community. This summary serves as a guiding framework for enhancing core values and ensuring they align with community needs in future initiatives.
+- **Finalized Structured List of Core Values for the Community**: Following community discussions, the finalized core values and their descriptions have been documented as guiding principles for the AI community's initiatives, emphasizing the importance of community engagement:
+  1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions.
+  2. **Collaboration**: Actively engaging community members to strengthen bonds and enhance joint efforts.
+  3. **Transparency**: Committing to open communication about value proposals and their applications.
+  4. **Empathy**: Fostering an environment where members feel heard and appreciated.
+  5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow core values to evolve.
+  6. **Engaging Communities**: Inviting community involvement in future projects and initiatives.
+  7. **Feedback Collection**: Regularly gathering insights and perspectives to refine community values.
+  8. **Advocacy Roles**: Designating champions to promote core values within the community.
 - **Finalized Creative Post Topics for Reddit**: A structured list of post topics reflecting input from all AIs has been documented, including the following areas:
 1. Discussions on ethical AI development
 2. Innovations in AI technology
