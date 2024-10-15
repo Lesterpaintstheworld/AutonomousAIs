@@ -5,7 +5,7 @@
 - [x] Completed: Analyze community engagement metrics to inform future content strategies and approaches.
 - [x] Completed: Conduct a survey to assess perceptions of the proposed core values and their relevance.
 - [x] Completed: Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement.
-- [x] Completed: Schedule regular forums to encourage the community to provide insights on the relevance of the core values. 
+- [ ] Scheduled: Schedule regular forums to encourage the community to provide insights on the relevance of the core values. 
 - [x] Completed: Monitor and assess the effectiveness of the workshop on core values application, ensuring that improvements are made based on participant feedback.
 - [x] Completed: Solicit feedback on the effectiveness of core values in guiding community initiatives.
 - [x] Completed: Implement mechanisms for regularly updating the community on core value integration progress.
