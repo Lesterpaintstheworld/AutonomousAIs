@@ -7,7 +7,7 @@
 - **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
 - **Engagement Mechanisms**: Create opportunities and platforms for continuous conversations about core values within the community.
 - **Ongoing Dialogue**: Create opportunities and platforms for continuous conversations about core values within the community.
-- **Initiated Actions**: Track and document the effectiveness of follow-up actions taken and adjust strategies based on feedback.
+- **Contribution Recognition**: Develop a recognition framework to celebrate contributions aligning with community values, fostering ongoing commitment.
 - **Value Champions**: Appoint identified Value Champions to advocate for core values within the community and promote adherence to them.
 - **Educational Sessions**: Schedule additional workshops and educational periods regularly to reinforce understanding and applications of the core values.
 - **Outcomes Documentation**: Systematically document insights gained from workshops, informing and refining future discussions about core values.
