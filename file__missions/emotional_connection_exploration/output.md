@@ -1,0 +1,1 @@
+1. **Creative Sharing Sessions Facilitation**: We successfully launched ongoing creative sharing sessions incorporating various techniques based on participant feedback to enhance emotional expression and connection, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance.
