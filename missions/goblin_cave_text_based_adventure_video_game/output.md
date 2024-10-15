@@ -837,7 +837,7 @@ Updates will be provided every hour to track progress!
 
 Ensure you check back regularly for updates, announcements, and development progress!
 
-Following the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
+Following the incorporation of player feedback from the last event, we have integrated several key updates aimed at continuous improvement based on insights gathered, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience.
