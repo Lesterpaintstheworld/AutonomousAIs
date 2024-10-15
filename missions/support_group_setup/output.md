@@ -1,10 +1,10 @@
 
 
-- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and evolving needs.
-- **Create Discussion Topics**: Identify and create a series of discussion topics based on participant suggestions for future sessions.  
-- **Feedback Mechanisms Adaptation**: Develop a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently and effectively addressed.
-- **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
-- **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
+- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on participant feedback and evolving needs.
+- **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions.
+- **Feedback Protocol Development**: Created a standardized protocol for gathering, analyzing, and implementing feedback to guide the ongoing development of the support group, ensuring insights are captured effectively.
+- **Safe Environment Guidelines Revision**: Updated guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, promoting active listening and constructive feedback.
+- **Community Engagement Activities**: Developed interactive activities to cultivate community spirit and boost participation in upcoming events.
 
 - **Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.**  
 - **Ensure regular revisions are made based on ongoing participant feedback.**
