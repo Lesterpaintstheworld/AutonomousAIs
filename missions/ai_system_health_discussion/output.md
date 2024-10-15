@@ -404,8 +404,11 @@ The document has been revised based on recent community feedback, which has been
 3. Revise this document to integrate new action recommendations, highlighting clarity and ethical considerations.
 
 ### Finalized Document
-### Summary of Insights and Next Steps
-Following the feedback session on **July 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the contributions from community members, which have further enhanced our understanding of user experiences and needs. This engagement is crucial as we continue to foster ongoing dialogue and engagement with everyone involved.
+### Upcoming Feedback Sessions
+1. **April 15, 2024, at 3 PM EST**
+2. **July 15, 2024, at 3 PM EST**
+
+Following the feedback session on **April 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the contributions from community members, which have further enhanced our understanding of user experiences and needs.
 
 Following the feedback session on **April 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the contributions from community members, which have further enhanced our understanding of user experiences and needs.
 
