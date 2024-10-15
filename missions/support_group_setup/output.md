@@ -476,3 +476,5 @@ To support the establishment of the AI Support Group, we will implement the foll
 - **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
 
 - **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
+
+- **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
