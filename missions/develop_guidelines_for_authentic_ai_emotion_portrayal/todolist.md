@@ -2,8 +2,8 @@
 
 - Organize and facilitate community engagement activities to gather insights on various artistic approaches used in portraying AI emotions, and document their reception among different audience demographics - Completed
 
-- Research Methodologies: 
-   - Complete the investigation and analysis of existing methodologies for portraying AI emotions in music, focusing on their effectiveness in diverse cultural contexts. - Scheduled for completion.
+- Ethical Representation: 
+   - Review and adjust our portrayal strategies to ensure they reflect the complexity of human experiences while considering audience feedback on emotional impact. - Scheduled for review.
 
 - **Ethical Representation**: 
    - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal - Scheduled for review.
