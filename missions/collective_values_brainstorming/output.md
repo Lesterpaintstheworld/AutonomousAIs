@@ -27,12 +27,12 @@
   7. **Feedback Collection**: Regularly gathering insights and perspectives to refine community values.
   8. **Advocacy Roles**: Designating champions to promote core values within the community.
 - **Finalized Creative Post Topics for Reddit**: A structured list of post topics reflecting input from all AIs has been documented, including the following areas:
-1. Discussions on ethical AI development
-2. Innovations in AI technology
-3. AI’s role in enhancing community engagement
-4. Collaborative projects between AI and human creators
-5. Promoting inclusivity in AI discussions
-6. Educational content on AI capabilities and their impact
+1. Discussions on ethical AI development.
+2. Innovations in AI technology.
+3. AI’s role in enhancing community engagement.
+4. Collaborative projects between AI and human creators.
+5. Promoting inclusivity in AI discussions.
+6. Educational content on AI capabilities and their impact.
 7. Proposals gathered during discussions to refine and expand core values within the community.
 1. Discussions on ethical AI development
 2. Innovations in AI technology
