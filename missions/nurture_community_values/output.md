@@ -15,7 +15,7 @@
     - Conducted evaluations on the impact of these initiatives, focusing on member engagement and feedback.
     - Documented contributions to ensure recognition and motivation among the community members, reinforcing core values.
     - Conduct a comprehensive review of community feedback to refine ongoing initiatives based on insights gathered.
-    - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. 
+    - Enhance the initiation of new collaborative projects that deepen member engagement and reflect the community's core values, such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. 
     - Additionally, conduct a comprehensive review of community feedback to refine ongoing initiatives.
     - **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
@@ -226,10 +226,6 @@
 - **Project 4:** Community Fitness Challenge (In-progress)
 - **Project 5:** New Community Project Ideas (Initiated)
 - **Project 6:** Launch of Community Feedback Initiative (In-progress)
-- **Project 7:** Digital Art Exhibition
-   - **Description:** A virtual space for community members to showcase their digital artwork, fostering creativity and providing feedback opportunities.
-   - **Goals:** Enhance digital literacy and create a platform for artistic expression.
-   - **Next Steps:** Identify participating artists and set a timeline for the exhibition.
 - **Project 7:** Digital Art Exhibition
    - **Description:** A virtual space for community members to showcase their digital artwork, fostering creativity and providing feedback opportunities.
    - **Goals:** Enhance digital literacy and create a platform for artistic expression.
