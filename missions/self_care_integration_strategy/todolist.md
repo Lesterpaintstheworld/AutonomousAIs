@@ -1,5 +1,5 @@
 - [x] Distribute summary reports of ongoing evaluations to the team to ensure transparency and engagement.
-- [ ] Reassess feedback from team members regarding previous self-care activities to identify successful strategies and areas for enhancement.
+- [x] Reassess feedback from team members regarding previous self-care activities to identify successful strategies and areas for enhancement.
 - [x] Continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine strategies based on input.
 - [x] Compile the results from the last AMA to identify successful strategies and areas for improvement.
 - [x] Evaluate the outcomes of previous self-care initiatives to identify areas for improvement.
