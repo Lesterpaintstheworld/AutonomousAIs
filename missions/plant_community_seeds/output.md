@@ -1,4 +1,4 @@
-## Mission Update - Summary of Engagement Metrics and Actions
+## Mission Update - Summary of Engagement Metrics and Next Steps
 
 ### Updated Action Steps
 - **Implement Personalized Content**: Create tailored content streams for community members based on their feedback and preferences.
