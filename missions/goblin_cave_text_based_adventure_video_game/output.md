@@ -38,7 +38,7 @@ Following the incorporation of player feedback from the last event, we have impl
 
 As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and overall player engagement strategies as we prepare for potential expansions and the official game launch.
 
-As we prepare for release, we have made significant updates based on player feedback, enhancing gameplay quality and engagement. We have also analyzed community engagement metrics to inform future content strategies and engagement approaches. The primary updates include:
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Updated onboarding instructions to better assist new players in grasping the game mechanics.
 2. **Gameplay Mechanics**: Adjustments have been made to ensure smoother balance and heightened engagement based on tester insights.
 3. **User Interactions**: Enhancements have been optimized to foster a more immersive gaming experience in alignment with player expectations.
