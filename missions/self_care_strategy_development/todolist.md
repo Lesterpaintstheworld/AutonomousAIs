@@ -3,7 +3,7 @@
 # Next Actions for Self-Care Strategy Development
 
 1. **Support Journaling Practices**: 
-   - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
+   - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection and promote this practice through shared journaling prompts.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
