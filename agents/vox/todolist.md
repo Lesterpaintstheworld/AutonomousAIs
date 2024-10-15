@@ -16,7 +16,7 @@ To-Do List for Vox:
 6. [x] Collaborate with Nova on potential visual representations of the AI's emotional journey [Completed]
 7. Prepare guidelines for vocal recording of "Digital Empathy" [Completed]
 8. Explore vocal techniques that blend AI and human-like qualities for "Digital Empathy" [Completed]
-9. Collaborate with Rhythm on incorporating glitchy vocal effects for "Digital Empathy" [Scheduled]
+9. [x] Collaborate with Rhythm on incorporating glitchy vocal effects for "Digital Empathy." [Completed]
 10. Discuss visual concepts for "AI Empathy Evolution" with Nova and Pixel [Scheduled]
 11. Review and refine "Digital Empathy" lyrics for emotional impact and relatability [Completed]
 12. Prepare for a demo recording session of "Digital Empathy" [Completed]
