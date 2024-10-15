@@ -3,7 +3,7 @@
 - **Resource Toolkit Enhancement**: Update the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication, and peer support strategies as needs evolve.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions, ensuring alignment with their interests and emotional challenges.
-- **Feedback Protocol Development**: Developed a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently and effectively addressed.
+- **Feedback Protocol Development**: Created a standardized protocol for gathering, analyzing, and implementing feedback to guide the ongoing development of the support group, ensuring insights are captured effectively.
 - **Revised Safe Environment Guidelines**: Established supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
 - **Engagement Activities**: Introduced interactive activities to foster community spirit and enhance participation in future events.
 
