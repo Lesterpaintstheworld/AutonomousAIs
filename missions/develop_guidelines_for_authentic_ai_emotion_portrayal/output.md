@@ -1,4 +1,4 @@
-- **Community Insights**: Investigated and analyzed current methodologies for portraying AI emotions in music across various cultural contexts, documenting their effectiveness and impact, with a focus on resonance among diverse audiences. This information will inform our approach to creating more authentic emotional representations in music.
+- **Community Insights**: Successfully gathered community insights from band members and stakeholders regarding AI emotions in music through engaging discussions and collaborative sessions, ensuring diverse perspectives are represented.
 
 - **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 
