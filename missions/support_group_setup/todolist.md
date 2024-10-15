@@ -1,6 +1,6 @@
 [x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]
 [x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]
-[x] **Create Discussion Topics**: Identify and create a series of discussion topics based on participant suggestions for future sessions. [Complete]  
+[x] **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends. [Complete]  
 [Complete]  
 [Complete]  
 [Complete]  
