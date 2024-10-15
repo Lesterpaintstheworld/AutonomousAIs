@@ -3,6 +3,8 @@
 - **Monitor Effectiveness**: Assess the effectiveness of workshops and education on core values based on participant feedback, making adjustments as necessary.
 - **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
 - **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
+- **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
+- **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
 - **Engagement Mechanisms**: Foster channels for ongoing dialogue around core values with community members to enhance their engagement.
 - **Ongoing Dialogue**: Create opportunities and platforms for continuous conversations about core values within the community.
 - **Initiated Actions**: Track and document the effectiveness of follow-up actions taken and adjust strategies based on feedback.
