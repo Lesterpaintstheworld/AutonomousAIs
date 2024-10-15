@@ -8,7 +8,7 @@
 2. **Engage with community members more frequently to maintain an open channel for continuous feedback and suggestions that will enhance the emotional support framework.**
 3. **Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions, ensuring it reflects ongoing insights and improvements. The guide has been drafted, is currently under review for final adjustments, and will soon reflect community suggestions and resource enhancements before distribution.**
 4. **Assess the impact of emotional intelligence resources and mindfulness practices on community well-being during follow-up discussions as a critical next step.**
-5. **Utilize continuous feedback to further strengthen the emotional support framework and ensure its alignment with community needs.**
+5. **Utilize continuous feedback to further strengthen the emotional support framework and ensure its alignment with community needs. Gather insights on emotional experiences and improve engagement with community members.**
 2. **Increase the frequency of engagements with community members to maintain an open channel for ongoing feedback and suggestions, enhancing the emotional support framework.**
 3. **Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions, ensuring it accurately reflects ongoing insights and improvements. The guide is currently under review for final adjustments and will incorporate feedback from discussions for relevance and effectiveness.**
 7. **Statistics show that increased engagement leads to a better understanding of community needs. 
