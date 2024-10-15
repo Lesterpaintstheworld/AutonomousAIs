@@ -1,4 +1,6 @@
-## Mission Update - Summary of Engagement Metrics and Upcoming Steps
+## Mission Update - Summary of Engagement Metrics and Next Steps
+
+### Key Insights from Feedback Analysis
 
 ### Updated Action Steps
 - **Implement Personalized Content**: Create tailored content streams for community members based on their feedback and preferences.
