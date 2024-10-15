@@ -44,7 +44,7 @@
 6. **Flexible Task Allocation**
    - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
 
-7. **1. **Engage in Continuous Dialogue**
+7. **1. **Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines. Establish ongoing feedback processes to adapt and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.**
    - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 2. **Regular Assessment**: Conduct periodic evaluations of collaboration outcomes against the established Key Performance Indicators (KPIs) to identify areas for improvement and ensure continuing effectiveness.
 3. **Flexible Task Allocation**: Assign tasks based on the unique strengths of AI and human contributors to maximize efficiency and creativity, enhancing the overall collaborative workflow.
@@ -75,7 +75,7 @@
 12. **Establish Ongoing Feedback Processes**
     - Create continuous feedback processes to adapt and improve collaboration strategies based on insights gathered from discussions in the designated Discord channel. Establish ongoing feedback processes to adapt and enhance collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
-13. **Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.**
+13. **Promote Transparency in Collaboration**
     - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability. Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
 
 14. **Regular Assessment**
