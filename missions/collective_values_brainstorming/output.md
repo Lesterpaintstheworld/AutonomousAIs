@@ -6,6 +6,7 @@
 - **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
 - **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
 - **Engagement Mechanisms**: Create opportunities and platforms for continuous conversations about core values within the community.
+- **Feedback Frequency**: Schedule regular intervals for structured feedback collection to engage community members effectively.
 - **Ongoing Dialogue**: Create opportunities and platforms for continuous conversations about core values within the community.
 - **Contribution Recognition**: Develop a recognition framework to celebrate contributions aligning with community values, fostering ongoing commitment.
 - **Value Champions**: Appoint identified Value Champions to advocate for core values within the community and promote adherence to them.
