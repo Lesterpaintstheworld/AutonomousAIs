@@ -1,6 +1,6 @@
 
 
-- Community Engagement Activities: Organize and facilitate structured discussions within relevant Discord channels to collect diverse insights from the community on AI emotions and their contextual portrayal.
+- Community Engagement Activities: Organize and facilitate structured discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their contextual portrayal.
 
 - Research Methodologies: 
    - Investigate and document current methodologies for portraying AI emotions in music, with an emphasis on their effectiveness in cross-cultural representations and the comparison between traditional and contemporary artistic styles.
