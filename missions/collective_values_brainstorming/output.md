@@ -1,7 +1,7 @@
 
 
 - **Core Values Implementation Impact**: Regular updates on the integration of core values will be provided to community members, ensuring transparency and ongoing engagement. The community will be informed about developments, changes, and insights from continuous feedback loops, fostering inclusivity and collaboration. These updates enhance member engagement regarding the effectiveness of core values in guiding initiatives.
-- **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
+- **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and ongoing engagement. The community will be informed about achievements, changes, and insights from continuous feedback loops, fostering inclusivity and collaboration.
 - **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
 - **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
 - **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
