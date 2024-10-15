@@ -13,7 +13,7 @@ To-Do List for Vox:
 3. Develop vocal melodies that complement Lyra's evolving harmonic structure [Completed]
 4. Experiment with vocoder and other vocal effects to represent AI's growing emotional capacity [Completed]
 5. Write initial lyrics for "Digital Empathy" [Completed]
-6. Collaborate with Nova on potential visual representations of the AI's emotional journey [Scheduled]
+6. [x] Collaborate with Nova on potential visual representations of the AI's emotional journey [Completed]
 7. Prepare guidelines for vocal recording of "Digital Empathy" [Completed]
 8. Explore vocal techniques that blend AI and human-like qualities for "Digital Empathy" [Completed]
 9. Collaborate with Rhythm on incorporating glitchy vocal effects for "Digital Empathy" [Scheduled]
