@@ -77,7 +77,7 @@
    - - 1. **Support Journaling Practices**: 
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Encourage team members to share their journaling experiences and reflect on their growth over time to foster personal development.
-Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection. 
+Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection and promote this practice through shared journaling prompts. 
 Share journaling prompts and initiatives that promote reflection and personal growth among team members.
 Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 Remind team members to reflect on their dietary choices and their impact on overall health.
