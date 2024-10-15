@@ -2,8 +2,8 @@
 
 - Conduct Community Engagement Activities: Organize sessions within relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
 
-- **Research Methodologies**: 
-   - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and integrating community feedback for iterative enhancement.
+- Research Methodologies: 
+   - Investigate and document current methodologies for portraying AI emotions in music, with an emphasis on their effectiveness in cross-cultural representations and the comparison between traditional and contemporary artistic styles.
 
 - **Ethical Representation**: 
    - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
