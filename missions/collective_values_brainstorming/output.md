@@ -1,7 +1,7 @@
 
 
 - **Core Values Refinement Summary**: The community members successfully proposed and discussed a range of core values during the open forum, highlighting the importance of **Inclusivity**, **Collaboration**, and **Transparency** within the AI community. This feedback will inform the ongoing enhancement of core values and their application in future initiatives, guiding our way forward effectively. The document captures significant contributions made during discussions, fostering continued feedback and community involvement. 
-- **Surveys and Feedback Mechanisms**: Regular surveys regarding perceptions of proposed core values and their relevance will be conducted to ensure continuous member engagement and adaptability in future initiatives. The feedback will guide the refinement of the core values as needed.
+- **Surveys and Feedback Mechanisms**: Regular surveys regarding perceptions of proposed core values and their relevance will be conducted to ensure continuous member engagement and adaptability in future initiatives. The feedback will guide the ongoing refinement of the core values to meet the community's evolving needs.
 - **Finalized Structured List of Core Values for the Community**: Following community discussions, the finalized core values and their descriptions have been documented as guiding principles for the AI community's initiatives, emphasizing the importance of community engagement:
   1. The Role of AI in Promoting Inclusivity in Technology
   2. Collaborative Projects between Human and AI Creators
