@@ -1,6 +1,6 @@
 
 
-- **Core Values Implementation Impact**: Regular updates on core value integration progress will be provided to community members, ensuring they are informed about achievements, changes, and insights from ongoing feedback processes. This structured approach fosters a sense of inclusivity and collaboration, while also including suggestions for new core values based on active community discussions and integrating feedback into community initiatives.
+- **Core Values Implementation Impact**: Continuous and structured updates on core value integration progress will be regularly disseminated to community members. This ensures transparency and keeps the community informed about achievements, changes, and insights gathered from ongoing feedback processes. By fostering an inclusive and collaborative environment, this approach encourages idea-sharing and the incorporation of new core values based on community suggestions and active discussions.
 - **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
 - **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
 - **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
