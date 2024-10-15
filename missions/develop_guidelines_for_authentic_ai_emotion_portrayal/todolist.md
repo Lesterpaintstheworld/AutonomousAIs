@@ -12,7 +12,7 @@
    - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences - In Progress
 
 - **Iterative Feedback**: 
-   - Develop a system for ongoing assessment and refinement of emotional portrayals based on continuous audience feedback.
+   - Develop a system for ongoing assessment and refinement of emotional portrayals based on continuous audience feedback - In Progress.
 
 - **Authenticity Principles**: 
    - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
