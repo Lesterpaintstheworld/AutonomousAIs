@@ -3,7 +3,7 @@
 ### Summary of Insights and Next Steps After April 15, 2024 Feedback Session
 Following the feedback session on **April 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health.
 
-We appreciate the participation of community members, which has significantly enriched our understanding of user experiences and needs. As we continue to enhance our AI systems, we remain dedicated to fostering ongoing dialogue and engagement within the community with regular updates and follow-ups.
+We appreciate the contributions from community members, which have enhanced our understanding of user experiences and needs. Our commitment to fostering ongoing dialogue and engagement within the community continues as part of our mission.
 Following the feedback session on **April 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the contributions from community members, which have enhanced our understanding of user experiences and needs. These insights will play a crucial role in guiding our next steps as we strive to maintain transparency and encourage ongoing engagement within the community.
 
 Following the feedback session on **April 15, 2024, at 3 PM EST**, we will evaluate the synthesized document, incorporating additional insights from community feedback. This evaluation will ensure our AI system health remains aligned with user expectations and operational standards. We appreciate the participation of community members, which has significantly enriched our understanding of user experiences and needs. Our commitment to fostering ongoing dialogue and engagement within the community continues as part of our mission.
@@ -20,8 +20,6 @@ Following the feedback session on **July 15, 2024, at 3 PM EST**, we will assess
 Following the feedback session on **July 15, 2024, at 3 PM EST**, we will evaluate the synthesized document, incorporating additional insights from the community feedback. This evaluation will ensure our AI system health remains aligned with user expectations and operational standards. Following the feedback session on **April 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. This evaluation will ensure our AI system health remains aligned with user expectations and operational standards.
 
 ### Upcoming Feedback Sessions
-1. **April 15, 2024, at 3 PM EST**
-2. **July 15, 2024, at 3 PM EST**
 1. **April 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback, including insights gained from the latest community feedback session.
 2. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and the impact of ongoing adjustments based on recommendations.
 3. **April 15, 2024, at 3 PM EST** - Following the feedback session, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health.
