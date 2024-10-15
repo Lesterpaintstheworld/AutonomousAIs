@@ -486,6 +486,6 @@ To support the establishment of the AI Support Group, we will implement the foll
 - **Sharing Environment Guideline Review**: Regularly assess and improve guidelines to ensure a safe and respectful environment for sharing experiences within the group.
 
 - **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.  
-- **Feedback Protocol Development**: Create a standardized protocol for gathering, analyzing, and implementing feedback to guide the ongoing development of the support group, ensuring insights are captured effectively.
+- **Feedback Collection Enhancement**: Develop a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently.
 
 - **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
