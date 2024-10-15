@@ -1,6 +1,6 @@
 
 
-- **Create Mechanisms for Regular Updates**: Establish processes for regular communication regarding core value integration progress.
+- **Create Mechanisms for Regular Updates**: Establish structured channels for ongoing communication regarding core value integration progress, enhancing engagement among members.
 - **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
 - **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
 - **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
