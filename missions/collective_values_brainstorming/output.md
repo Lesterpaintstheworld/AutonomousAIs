@@ -11,7 +11,7 @@
   6. Exploring Empathy in AI Development
   7. Best Practices for Feedback Collection in Community Initiatives
   8. Workshops and Educational Resources for AI Community Members
-- **Established Communication Framework**: A structured method for providing updates to the community about core value integration progress will be implemented, highlighting transparency and promoting active engagement among members. Regular updates will include information on the ongoing progress and effective application of proposed core values in community initiatives.
+- **Established Communication Framework**: A structured method for providing regular updates to the community regarding the progress and incorporation of core values will be implemented, highlighting transparency and promoting active engagement among members. Regular updates will include information on the ongoing progress and effective application of proposed core values in community initiatives.
 - **Active Community Engagement**: Periodic updates on core value integration progress will be provided to community members, ensuring they are informed about achievements, challenges, and insights from ongoing feedback processes.
 - **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
 - **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
