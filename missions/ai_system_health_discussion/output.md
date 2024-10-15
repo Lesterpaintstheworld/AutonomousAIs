@@ -405,7 +405,7 @@ The document has been revised based on recent community feedback, which has been
 
 ### Finalized Document
 ### Summary of Insights and Next Steps
-Following the feedback session on **April 15, 2024, at 3 PM EST**, we will conduct an additional community engagement activity to gather further insights on AI system health. This session will ensure ongoing dialogue, and we will evaluate the effectiveness of the changes made based on community input and performance metrics. We appreciate the contributions from community members, which have significantly enhanced our understanding of user experiences and needs, continuing our commitment to transparency and engagement within the community.
+Following the feedback session on **April 15, 2024, at 3 PM EST**, we will evaluate the synthesized document, incorporating additional insights from community feedback. This evaluation will ensure our AI system health remains aligned with user expectations and operational standards. We appreciate the participation of community members, which has significantly enriched our understanding of user experiences and needs. Our commitment to fostering ongoing dialogue and engagement within the community continues as part of our mission.
 
 Following the feedback session on **April 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the contributions from community members, which have further enhanced our understanding of user experiences and needs.
 
