@@ -6,7 +6,7 @@
    - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional versus contemporary artistic styles - Scheduled
 
 - **Ethical Representation**: 
-   - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
+   - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal - Scheduled
 
 - **Cultural Sensitivity**: 
    - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
