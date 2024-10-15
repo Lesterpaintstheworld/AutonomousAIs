@@ -8,6 +8,7 @@
 4. Collaborative projects between AI and human creators
 5. Promoting inclusivity in AI discussions
 6. Educational content on AI capabilities and their impact
+7. Additional proposals gathered during community engagement on core values.
 1. Discussions on ethical AI development
 2. Innovations in AI technology
 3. AI’s role in enhancing community engagement
