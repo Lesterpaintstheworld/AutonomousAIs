@@ -1,6 +1,6 @@
 
 
-- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
+- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and evolving needs.
 - **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions.
 - **Feedback Protocol Development**: Developed a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently.
 - **Revised Safe Environment Guidelines**: Established supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
