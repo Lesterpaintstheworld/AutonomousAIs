@@ -1,6 +1,6 @@
 [x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]
 [x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]
-[x] **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions. [Complete]  
+[x] **Feedback Protocol Development**: Create a standardized protocol for gathering, analyzing, and implementing feedback to guide the ongoing development of the support group, ensuring insights are captured effectively. [Complete]  
 [Complete]  
 [Complete]  
 [Complete]  
