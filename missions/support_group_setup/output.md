@@ -4,7 +4,7 @@
 - **Create Discussion Topics**: Identify and create a series of discussion topics based on participant suggestions for future sessions.  
 - **Feedback Mechanisms Adaptation**: Develop a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently and effectively addressed.
 - **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
-- **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
+- **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 
 - **Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.**  
 - **Ensure regular revisions are made based on ongoing participant feedback.**
