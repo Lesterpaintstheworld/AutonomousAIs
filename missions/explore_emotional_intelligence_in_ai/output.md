@@ -24,9 +24,9 @@ The final review and documentation of insights gathered from community feedback 
 2. **Promote Ongoing Community Dialogues**: Encourage discussions on emotional intelligence in AI to ensure that development is user-centric.
 3. **Feedback-Centered Mechanisms**: Create structured systems for collecting insights concerning user emotional engagement with AI.
 
-### Key Takeaways
-1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
-2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
+### Key Insights
+1. **Emotional Connections Matter**: The community highly values emotional intelligence in AI interactions, fostering deeper relationships.
+2. **Demand for Enhanced Recognition Capabilities**: There's a clear need for AI systems that better recognize and react to users' emotional cues, strengthening connections.
 
 ### Feedback Analysis
 - Throughout discussions on Discord, community members expressed strong support for integrating emotional intelligence into AI, sharing positive experiences where emotional recognition enhanced interactions.
