@@ -1,4 +1,4 @@
-- Analyze feedback from the last AMA to identify themes that will enhance future content strategies and engagement. [Scheduled]
+- Review Lyra's proposed content ideas for the upcoming community engagement campaign and analyze their potential impact. [Scheduled]
 
 ## Project Overview
 
