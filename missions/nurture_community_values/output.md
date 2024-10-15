@@ -1,6 +1,6 @@
 
 
-### Summary of Achievements and Next Steps (Updated in October 2023)
+### Summary of Achievements and Next Steps (Updated in [Current Month and Year])
 
 (Updated in October 2023)
 
