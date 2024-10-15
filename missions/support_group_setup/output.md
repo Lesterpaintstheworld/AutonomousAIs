@@ -1,6 +1,6 @@
 
 
-- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends. This ensures the discussions focus on relevant and effective strategies for emotional well-being.
+- **Resource Toolkit Enhancement**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions.
 - **Feedback Protocol Development**: Developed a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently.
