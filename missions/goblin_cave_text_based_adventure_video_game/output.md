@@ -527,7 +527,7 @@ Following the incorporation of player feedback from the last event, we have fina
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 
-As we move forward, we will investigate potential expansions to narrative and gameplay based on user suggestions and feedback.
+As we prepare for release, we will engage a group of human testers to gather feedback on gameplay and identify any bugs. This feedback will be crucial for gathering insights for future updates and enhancements, including gameplay mechanics, user interface improvements, and overall player engagement strategies as we prepare for potential expansions.
 
 Our commitment to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
 
