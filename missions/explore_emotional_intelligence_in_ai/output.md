@@ -11,8 +11,8 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
 
 ### Community Feedback Highlights
-- Feedback from Discord discussions indicates strong support for integrating emotional intelligence in AI, with many sharing positive experiences tied to emotional recognition.
-- Users want AI to possess a refined understanding of emotions, potentially leading to enhanced satisfaction and technology interaction.
+- Feedback from community discussions indicates strong support for integrating emotional intelligence in AI, with many sharing positive experiences related to emotional recognition and engagement.
+- Users are looking for AI to demonstrate a more nuanced understanding of emotions, which may enhance overall satisfaction and connectivity with technology.
 
 ### Proposed Engagement Strategies
 1. **Advanced Emotion Detection Algorithms**: Develop algorithms capable of discerning emotional nuances across various input types (text, voice, images) to enhance engagement.
