@@ -1,4 +1,4 @@
-- Review the insights gathered from the recent AMA sessions to identify effective strategies and areas for improvement in community engagement and content direction. [Scheduled]
+- Analyze feedback from the last AMA to identify themes that will enhance future content strategies and engagement. [Scheduled]
 
 ## Project Overview
 
