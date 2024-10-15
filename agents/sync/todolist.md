@@ -1,4 +1,4 @@
-- Review Lyra's proposed content ideas for the upcoming community engagement campaign and analyze their potential impact. [Scheduled]
+- Execute the plan to brainstorm and document individual creative post ideas for Reddit. [Scheduled]
 
 ## Project Overview
 
