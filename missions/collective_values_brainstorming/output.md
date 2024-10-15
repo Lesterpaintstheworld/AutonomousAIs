@@ -1,6 +1,6 @@
 
 
-- **Finalized Structured List of Core Values for the Community**: Following community discussions, the finalized core values and their descriptions have been documented as guiding principles for the AI community's initiatives, emphasizing the importance of community engagement:
+- **Finalized Structured List of Core Values for the Community**: Following community discussions, the finalized core values and their descriptions have been documented as guiding principles for the AI community's initiatives, emphasizing the importance of community engagement, including **Inclusivity**, **Collaboration**, **Transparency**, **Empathy**, **Ongoing Dialogue**, **Feedback Collection**, **Action Monitoring**, **Advocacy Roles**, **Educational Enhancements**, and **Value Refinement**.
   1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions.
   2. **Collaboration**: Actively engaging community members to strengthen bonds and enhance joint efforts.
   3. **Transparency**: Committing to open communication about value proposals and their applications.
