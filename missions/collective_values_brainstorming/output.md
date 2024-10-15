@@ -1,6 +1,6 @@
 
 
-- **Scheduled Educational Workshops**: Educational workshops have been organized to engage community members in discussions surrounding core values and their practical applications, fostering a continuous dialogue.
+- **Scheduled Educational Workshops**: Educational workshops have been organized to educate community members on the significance and practical applications of our core values, fostering a continuous dialogue.
 - **Established Communication Framework**: A structured method for providing updates to the community about core value integration progress will be implemented, highlighting transparency and promoting active engagement among members. Regular updates will include information on the ongoing progress and effective application of proposed core values in community initiatives.
 - **Periodic Updates**: Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
 - **Regular Updates**: Establish mechanisms for providing regular updates to the community regarding core value integration progress, ensuring transparency and engagement among members.
