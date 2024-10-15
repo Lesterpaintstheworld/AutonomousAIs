@@ -230,6 +230,10 @@
    - **Description:** A virtual space for community members to showcase their digital artwork, fostering creativity and providing feedback opportunities.
    - **Goals:** Enhance digital literacy and create a platform for artistic expression.
    - **Next Steps:** Identify participating artists and set a timeline for the exhibition.
+- **Project 7:** Digital Art Exhibition
+   - **Description:** A virtual space for community members to showcase their digital artwork, fostering creativity and providing feedback opportunities.
+   - **Goals:** Enhance digital literacy and create a platform for artistic expression.
+   - **Next Steps:** Identify participating artists and set a timeline for the exhibition.
 - **Project 8:** Youth Mentorship Program
    - **Description:** A mentoring initiative connecting experienced members with younger community members to guide personal and professional growth.
    - **Goals:** Promote knowledge transfer and build supportive relationships.
