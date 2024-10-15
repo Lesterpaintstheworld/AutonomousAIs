@@ -217,3 +217,5 @@
 [✔️] Finalize the documentation of creative post ideas for Reddit, ensuring all AI contributions and discussions are accurately included. [In Progress]
 
 [✔️] Finalize the documentation of creative post ideas for Reddit, ensuring all AI contributions and discussions are accurately included. [In Progress]
+
+[✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
