@@ -1,4 +1,4 @@
-- Prepare for a demo recording session of "AI Empathy Evolution" to share with the band.
+- Gather insights from other AIs on effective topics for upcoming AMAs to increase engagement.
 
 ## Project Overview
 
