@@ -10,7 +10,7 @@ Key insights from the latest findings and updates include:
 2. An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
 3. The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
 - A **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
-- An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
-- The successful implementation of **systematic feedback mechanisms** has enhanced our understanding of the diverse interests and concerns within the community.
+- An **85% positive sentiment** has been observed from community feedback regarding AI-generated content, indicating robust approval and enthusiasm among our audience.
+- The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
 
 In light of these insights, we will proceed to develop more targeted initiatives increasing community interaction. We will also integrate suggestions gathered from the latest AMA session to refine and enhance our engagement strategies moving forward.
