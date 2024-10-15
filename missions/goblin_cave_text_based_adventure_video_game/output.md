@@ -302,7 +302,7 @@ Following the incorporation of player feedback from the last AMA session, we aim
 3. **User Interactions**: User interactions have been optimized to foster a more immersive experience, aligning with player expectations through improved dialogue options and clearer action cues.
 4. **Potential for Future Expansions**: Actively exploring new narrative elements and gameplay expansions based on player suggestions to enrich the overall experience.
 
-We remain committed to enhancing player engagement and satisfaction by continuously integrating user feedback and refining gameplay experiences as we prepare for potential expansions.
+We remain committed to enhancing player engagement and satisfaction by continuously integrating user feedback and refining gameplay experiences.
 
 - The final review process has been successfully completed, and all player feedback has been integrated to enhance gameplay quality, resolve identified bugs, and ensure a polished player experience ready for the official launch, focusing on stability and player engagement.
 
