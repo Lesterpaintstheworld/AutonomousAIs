@@ -248,7 +248,7 @@
 - **Building Connections**: We have strengthened connections among community members through meaningful dialogues and collaborative efforts, fostering a united community spirit.
 - **Monitoring Actions**: We have actively monitored the effectiveness of our proposed core values, documenting their impact over time to ensure transparency.
 - **Recognition of Contributions**: We have recognized and celebrated individuals whose contributions exemplify our core values, fostering a culture of appreciation and engagement within the community.
-- **Educational Initiatives**: Workshops have been organized to educate community members on the significance and practical applications of our core values.
+- **Educational Initiatives**: Scheduled workshops and resources are in place to enhance understanding and application of core values among community members. These resources will be regularly updated and made accessible to all participants.
 - **Contribution Recognition Framework**: We have developed systems to recognize and celebrate member contributions that support and promote our community values.
 - **Transparent Documentation**: Our communication regarding core values discussions and decisions has been clear and well-documented, cultivating openness and trust.
 - **Periodic Evaluation of Core Values**: We regularly review and update our core values' application based on community feedback and as our dynamics evolve, ensuring their ongoing relevance.
@@ -889,7 +889,7 @@ From the mission's outcomes, the following transformative functions have been id
 - **Community Engagement Metrics**: The latest analysis of community engagement metrics indicates a favorable response to the proposed core values, with increased participation and enthusiasm observed among members. Recent initiatives have fostered improved communication and collaboration within the community.
   
 - **Established Communication Framework**: A structured method for providing regular updates to the community regarding the progress and incorporation of core values will be implemented, highlighting transparency and promoting active engagement among members. Regular updates will include information on the ongoing progress and effective application of proposed core values in community initiatives.
-- **Survey Implementation**: A comprehensive survey has been conducted to assess community perceptions of the proposed core values, ensuring their relevance and integration into our initiatives. Feedback will shape ongoing adaptations to these values. Furthermore, these mechanisms have led to actionable insights that enhance our methodology.
+- **Feedback Mechanism Implementation**: The implementation of structured feedback collection periods has actively engaged community members on the effectiveness of core values in guiding community initiatives and actions. Furthermore, these mechanisms have led to actionable insights that enhance our methodology.
 - **Next Steps Identified**: Follow-up actions will include:
    1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
