@@ -1,6 +1,6 @@
 
 
-- **Next Steps for Future Initiatives**: 
+- **Next Steps for Future Initiatives**:
    1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
