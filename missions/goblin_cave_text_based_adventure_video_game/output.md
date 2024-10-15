@@ -523,7 +523,7 @@ Based on player feedback from the last event, we have successfully implemented s
 
 Following the incorporation of player feedback from the last event, we will continue to gather user feedback to inform refinements in gameplay experiences and insights for future updates. Additionally, we will analyze community engagement metrics to inform future content strategies and approaches to enhance player engagement.
 
-These improvements will guide our ongoing development efforts to maintain player engagement and satisfaction.
+As we progress, we will continue to implement improvements based on player feedback to enhance the overall gaming experience. This includes focusing on onboarding clarity, refining gameplay mechanics, improving user interactions, and exploring potential narrative expansions.
 
 Following the incorporation of player feedback from the last event, we have finalized the integration of several key updates to enhance gameplay quality and player engagement. The primary updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
