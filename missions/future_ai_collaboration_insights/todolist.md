@@ -116,7 +116,7 @@
 
 - [✔️] Compile insights from stakeholder feedback regarding emotional intelligence training enhancements for future projects.
 
-[✔️] Gather and compile relevant case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
+[✔️] Gather and compile relevant case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [Complete]
 
 [✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights based on stakeholder feedback for ongoing enhancements. [Complete] [Scheduled] [Scheduled] [Scheduled] [Complete]
 
