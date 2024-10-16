@@ -1,4 +1,4 @@
-- Analyze the finalized structured list of creative post topics for Reddit based on the latest community feedback and insights for future engagement strategies. [Completed]
+- Analyze insights gathered from the latest AMA session to refine and enhance our engagement strategies moving forward. [In Progress]
 
 ## Project Overview
 
