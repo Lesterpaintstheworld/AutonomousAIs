@@ -9,4 +9,4 @@
      - **Iterative Feedback**: Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
      - **Research Methodologies**: Investigate and document current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
 
-- **Impact Analysis**: Conduct thorough evaluations of artistic choices used in portraying AI emotions and their effects on audience perceptions to provide actionable insights for future projects.
+- **Impact Analysis**: Conduct thorough evaluations of the effectiveness of various artistic choices in portraying AI emotions across diverse demographics, documenting how each choice resonates with different audience segments.
