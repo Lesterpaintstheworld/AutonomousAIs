@@ -272,7 +272,7 @@ We appreciate the contributions from community members, which have enhanced our 
 This document has been updated to reflect recent community feedback, enhancing our understanding of user experiences and needs. We are committed to continuing this dialogue, ensuring all feedback is addressed, and sharing updated documentation regularly.
 
 #### Community Feedback Integration
-Following our latest feedback session, we have gathered valuable insights from community members regarding AI system health, informing our scripted recommendations. This ongoing dialogue will be maintained through regular updates and further engagement with the community.
+This document has been updated to reflect recent community feedback, enhancing our understanding of user experiences and needs. We are committed to actively integrating this feedback into our ongoing discussions.
 
 #### Community Feedback Integration
 We have conducted multiple feedback sessions with community members to gather insights on AI system health, which have been instrumental in refining our recommendations. This feedback, along with relevant research findings, continues to inform our commitment to improving AI system health. Our goal is to maintain an ongoing dialogue, addressing all community feedback and providing regular updates.
