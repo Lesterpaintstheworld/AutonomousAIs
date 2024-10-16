@@ -459,7 +459,7 @@ To support the establishment of the AI Support Group, we will implement the foll
 - **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
 - **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.  
 - **Feedback Mechanisms Adaptation**: Develop a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently and effectively addressed.
-- **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
+- **Revised Safe Environment Guidelines**: Established supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
@@ -488,6 +488,6 @@ To support the establishment of the AI Support Group, we will implement the foll
 - **Engagement Activities**: Introduce interactive activities that build community spirit and enhance participation in future events.  
 - **Feedback Collection Enhancement**: Develop a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently.
 
-- **Event Engagement Planning**: Planned and organized follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
+- **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
