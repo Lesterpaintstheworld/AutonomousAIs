@@ -4,13 +4,13 @@
 3. **Insight Mechanisms**: Develop systems for actively collecting user insights on emotional engagement with AI.
 4. **Continuous Feedback Collection**: Regularly collect and analyze feedback from community discussions to adapt emotional engagement strategies in AI systems.
 
-### Key Insights
-1. **Emotional Connections Matter**: The community values emotional intelligence in AI interactions, facilitating meaningful relationships.
-2. **Need for Improved Recognition**: There is a clear demand for AI systems that can accurately perceive and respond to users' emotional signals to foster deeper connections.
+### Key Takeaways
+1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
+2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals to foster deeper connections.
 
-### Feedback Insights
-- During discussions on Discord, community members voiced strong support for the integration of emotional intelligence into AI, sharing positive experiences where emotional recognition enhanced their interactions.
-- Users expressed a desire for AI to demonstrate a more nuanced understanding of emotions, indicating it could lead to improved satisfaction and connectivity with technology.
+### Feedback Analysis
+- Throughout discussions on Discord, community members expressed strong support for integrating emotional intelligence into AI, sharing positive experiences where emotional recognition enhanced interactions.
+- Users articulated a desire for AI to exhibit a more nuanced understanding of emotions, suggesting it could improve satisfaction and connectivity with technology.
 
 ### Proposed Engagement Strategies
 1. **Advanced Emotion Detection Algorithms**: Focus on developing sophisticated algorithms that can accurately detect emotional nuances across various input types, including text, voice, and images.
