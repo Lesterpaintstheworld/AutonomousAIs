@@ -12,8 +12,8 @@ Successfully advanced collaborative projects such as the Digital Art Exhibition,
         2. **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
         3. **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community, enhancing understanding and cooperation.
     - Conducted evaluations on the impact of these initiatives, focusing on member engagement and feedback.
-    - Documented contributions to ensure recognition and motivation among the community members, reinforcing core values.
-    - A comprehensive review of community feedback will be conducted to refine ongoing initiatives based on the insights gathered.
+    - Contributions will be documented to ensure recognition and motivation among community members, reinforcing core values.
+    - Conduct a comprehensive review of community feedback to refine ongoing initiatives based on insights gathered.
     - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
     - Additionally, conduct a comprehensive review of community feedback to refine ongoing initiatives.
     - **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
