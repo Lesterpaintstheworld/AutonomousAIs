@@ -1,6 +1,6 @@
 
 
-- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and evolving needs.  
+- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.  
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions, ensuring alignment with their interests and emotional challenges.
