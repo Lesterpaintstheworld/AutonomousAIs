@@ -1,10 +1,10 @@
 
 
-- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.  
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and ongoing requirements.  
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions, ensuring alignment with their interests and emotional challenges.
-- **Feedback Protocol Development**: Created a standardized protocol for gathering, analyzing, and implementing feedback to guide the ongoing development of the support group, ensuring insights are captured effectively. This protocol will be iteratively refined based on participant feedback to enhance the support group’s effectiveness.
+- **Feedback Protocol Development**: Developed a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently. This protocol will be iteratively refined based on participant feedback to enhance the support group’s effectiveness.
 - **Revised Safe Environment Guidelines**: Established supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
 - **Engagement Activities**: Introduced interactive activities to foster community spirit and enhance participation in future events.
 
