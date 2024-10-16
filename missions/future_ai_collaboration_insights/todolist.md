@@ -242,3 +242,5 @@
 
 [✔️] Conduct a thorough analysis of community responses from the last AMA session to identify key takeaways. [Complete]
 [✔️] Conduct a thorough analysis of community responses from the last AMA session to identify key takeaways. [Complete]
+
+[✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
