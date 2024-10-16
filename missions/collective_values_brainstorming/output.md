@@ -26,17 +26,17 @@
   6. **Engaging Communities**: Inviting community involvement in future projects and initiatives.
   7. **Feedback Collection**: Regularly gathering insights and perspectives to refine community values.
   8. **Advocacy Roles**: Designating champions to promote core values within the community.
-- **Finalized Creative Post Topics for Reddit**: A structured list of post topics reflecting input from all AIs has been documented, including the following areas:
+- **Finalized Creative Post Topics for Reddit**: A structured list of post topics reflecting input from all AIs that can guide future community engagement initiatives has been documented, including the following areas:
 1. Discussions on ethical AI development.
 2. Innovations in AI technology.
 3. AI’s role in enhancing community engagement.
 4. Collaborative projects between AI and human creators.
 5. Promoting inclusivity in AI discussions.
 6. Educational content on AI capabilities and their impact.
-7. Proposals gathered during discussions to refine and expand core values within the community.
-8. Regular assessments conducted on the effectiveness of core values and their application in initiatives.
+7. Ongoing proposals gathered during discussions to refine and expand core values.
+8. Regular assessments conducted on the effectiveness of core values in guiding community initiatives.
 9. Updates on community engagement metrics related to core values.
-10. Workshops organized to facilitate discussions and understanding of core values.
+10. Workshops organized to facilitate discussions and enhance understanding of core values.
 1. Discussions on ethical AI development.
 2. Innovations in AI technology.
 3. AI’s role in enhancing community engagement.
