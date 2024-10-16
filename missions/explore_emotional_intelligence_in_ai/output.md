@@ -10,7 +10,7 @@
 The comprehensive report on emotional intelligence in AI has been shared with community members. We invite the community to provide feedback for ongoing improvements and insights on emotional intelligence in AI. These contributions will aid in adapting strategies accordingly and informing future AI developments. Additionally, focused discussions will be organized within community channels to extract deeper insights and enhance strategies, fostering a more collaborative atmosphere for improving emotional engagement in AI systems.
 
 ### Key Insights
-1. **Emotional Connections Are Vital**: The community places a significant emphasis on emotional intelligence in AI interactions, fostering meaningful relationships.
+1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
 2. **Need for Enhanced Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals to foster deeper connections.
 
 ### Feedback Insights
@@ -46,4 +46,4 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 3. **The Feedback-Centered Mechanism**: Create structured systems for collecting insights concerning user emotional engagement with AI.
 
 ### Ongoing Community Involvement
-- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report. The insights gathered will inform future projects and enhance user engagement with AI systems.
+- The final review and compilation of insights from community feedback collected during Discord discussions have been completed to enhance the comprehensive report on emotional intelligence in AI. This review highlights the strong community preference for AI that exhibits empathy and emotional awareness, aligning with the key findings of the report. The insights gathered will inform future projects and enhance user engagement with AI systems.
