@@ -18,7 +18,7 @@
 [Complete]  
 [Complete]
 [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete]
-[x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]
+[x] **Event Engagement Planning**: Organize follow-up events to enhance community participation, using feedback on session topics and effectiveness to inform planning. [Complete]
 [x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]
 [x] **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing. [Complete]
 [x] **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing. [Complete]
