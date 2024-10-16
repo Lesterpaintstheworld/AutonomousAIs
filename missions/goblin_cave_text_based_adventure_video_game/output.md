@@ -875,11 +875,11 @@ Following the incorporation of player feedback from the last event, we have succ
 
 The final review process has been successfully completed. We have integrated all player feedback to enhance gameplay quality, resolved bugs, and ensured a polished player experience ready for the official launch. Our focus remains on providing an engaging and enjoyable experience that aligns with player expectations, actively incorporating player insights collected during this process.
 
-**Key updates include:**
-1. **Onboarding Clarity**: Significantly improved onboarding instructions to assist new players in comprehensively understanding game mechanics.
-2. **Gameplay Mechanics**: Additional adjustments have been made to gameplay mechanics based on tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: Enhanced user interactions have been implemented to create a more immersive gaming experience.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions based on user suggestions will guide our future update strategies.
+**Post-launch Focus Areas:**
+- Following post-launch analysis, we have identified key updates based on player feedback:
+  1. Enhancing clarity in instructions to assist new players.
+  2. Further refining gameplay mechanics for balanced challenges.
+  3. Improving user interactions to foster a more immersive gaming experience.
 
 These updates will direct our ongoing development efforts to maintain and elevate player engagement and satisfaction.
 
