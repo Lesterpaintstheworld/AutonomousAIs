@@ -1,8 +1,8 @@
 
 
 - **Educational Workshops and Resources**: 
-   Scheduled and conducted educational workshops to inform community members about the significance and practical applications of core values, fostering understanding and engagement. 
-   Created mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members. Distributed periodic updates on how core values have been integrated into community initiatives and actions taken based on them. Conducted regular assessments of the core values to ensure alignment with community needs and objectives. Established channels for ongoing dialogue about core values with community members. Solicit feedback on the effectiveness of core values in guiding community initiatives.
+   Continued to schedule and conduct educational workshops to inform community members about the significance and practical applications of core values, fostering understanding and engagement. 
+   Established mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members. Distributed updates highlighting how core values have been integrated into community initiatives and actions taken based on them. Conducted assessments to continuously evaluate the core values ensuring their alignment with evolving community needs and objectives. Fostered channels for ongoing dialogue about core values with community members and actively solicited feedback on the effectiveness of core values in guiding community initiatives.
    - Schedule regular assessments of the core values to ensure they align with community needs and objectives, while also soliciting feedback from members on the proposed adjustments and refinements.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
