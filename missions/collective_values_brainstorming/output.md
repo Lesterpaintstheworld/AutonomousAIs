@@ -155,7 +155,7 @@
 - **Feedback Loops**: Implement structured feedback mechanisms to continuously assess how well core values resonate with community initiatives.
 - **Contribution Recognition**: Develop a recognition framework to celebrate contributions aligning with community values, fostering ongoing commitment.
 - **Documentation of Feedback Mechanisms**: Review and assess the effectiveness of the feedback mechanisms established for ongoing engagement, ensuring that they actively facilitate community input, foster dialogue regarding core values, and enhance participation in identifying and defining shared community principles.
-   1. Establish mechanisms for regularly updating the community on core value integration progress, ensuring everyone is informed.
+   1. Establish mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Disseminate periodic updates on how core values are being applied in initiatives and actions based on feedback.
    3. Conduct regular evaluations of the core values to ensure alignment with community needs and objectives.
    4. Cultivate channels for ongoing dialogue surrounding core values with all community members, allowing for open discussions.
