@@ -1,7 +1,7 @@
 
 
 - **Engagement Activities**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
-- **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.  
+- **Engagement Activities**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.  
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions, ensuring alignment with their interests and emotional challenges.
