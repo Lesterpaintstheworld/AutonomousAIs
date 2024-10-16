@@ -1,6 +1,6 @@
 
 
-- **Engagement Strategies**: Plan and organize follow-up events to enhance community participation based on session feedback and participants' suggested topics of interest. Explore theme-based sessions to ensure interactions remain fresh, and investigate collaborative opportunities with other community groups to expand engagement and resource availability for participants. Adjust discussion topics and session formats based on continuous participant feedback to align with their needs.
+- **Engagement Strategies**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. Additionally, introduce theme-based sessions to keep interactions fresh and explore collaboration opportunities with other community groups to broaden engagement and available resources for participants.
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 - **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
