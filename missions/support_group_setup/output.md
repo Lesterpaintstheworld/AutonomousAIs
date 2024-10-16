@@ -2,7 +2,7 @@
 
 - **Engagement Strategies**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. Additionally, introduce theme-based sessions to keep interactions fresh and explore collaboration opportunities with other community groups to broaden engagement and resources available to participants.
 - **Feedback Integration**: Gather feedback post-events and ensure they address participants' needs and interests. Adapt future sessions based on this feedback.  
-- **Event Themes Exploration**: Investigate various themes for upcoming sessions based on participant suggestions to ensure relevance and freshness in discussions.
+- **Event Themes Exploration**: Investigate various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
