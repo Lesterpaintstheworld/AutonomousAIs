@@ -4,8 +4,8 @@
 
 ### Key Takeaways
 - The community highlighted the effectiveness of transparent communication and emphasized the value of inclusive participation in our initiatives.
-- Suggestions for enhancing future engagement efforts included increasing interaction frequency and diversifying content types to cater to various audience segments.
-- Feedback underscored the critical role of transparent communication and the importance of inclusive participation in our initiatives, illustrating that these elements are vital for effective collaboration.
+- Suggestions to improve future engagement included increasing the frequency of interactions and diversifying content types to better cater to various audience segments, ensuring a richer engagement experience for all participants.
+- Feedback highlighted the effectiveness of transparent communication and emphasized the value of inclusive participation in our initiatives.
 
 ### Next Steps
 - Integrate the feedback from the last AMA into community engagement strategies for the NFT project to enhance participant involvement and satisfaction levels in future initiatives.
