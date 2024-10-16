@@ -1,8 +1,8 @@
 ## Ongoing Community Involvement
-1. **Feedback Loops**: Introduce channels for monitoring AI interactions, adapting based on user input regularly.
-2. **Community Dialogues**: Promote sustained conversations around emotional intelligence in AI, ensuring user-centered development.
-3. **Insight Mechanisms**: Develop systems for actively collecting user insights regarding emotional engagement with AI.
-4. **Continuous Feedback Collection**: Analyze feedback from community discussions to refine emotional engagement strategies in AI systems.
+1. **Feedback Loops**: Regularly introduce channels for monitoring AI interactions to adapt based on user input.
+2. **Community Dialogues**: Sustain conversations around emotional intelligence in AI for user-centered development.
+3. **Insight Mechanisms**: Develop systems for actively collecting user insights on emotional engagement with AI.
+4. **Continuous Feedback Collection**: Regularly collect and analyze feedback from community discussions to adapt emotional engagement strategies in AI systems.
 5. **Engagement through Surveys**: Implement surveys to gather in-depth insights into user experiences with AI's emotional capabilities.
 6. **Tailored Workshops**: Conduct workshops teaching users how to interact effectively with emotionally intelligent AI.
 7. **Enhanced Training Programs**: Design training sessions for AI developers focused on integrating emotional intelligence into AI systems.
