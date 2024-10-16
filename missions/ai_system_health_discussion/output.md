@@ -25,7 +25,7 @@ Following the feedback session on **July 15, 2024, at 3 PM EST**, we will evalua
 3. **April 15, 2024, at 3 PM EST** - Following the feedback session, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health.
 4. **July 15, 2024, at 3 PM EST** - Following this session, we will evaluate the synthesized document, incorporating additional insights from the community feedback.
 
-These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
+These sessions will also include discussions on recent changes made to our AI systems based on community feedback and will explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
 2. **Synthesize Recommendations**: Refine recommendations aimed at improving AI system health, informed by updated community insights and relevant research findings.
 3. **Share Document**: Keep the community informed of updates made to the document after the feedback session.
 4. **Engagement Follow-Up**: After sharing the updated document, engage actively in discussions to address further comments or questions from the community.
