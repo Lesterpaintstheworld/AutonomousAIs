@@ -5,7 +5,8 @@
 (Updated in October 2023)
 
 1. **Actions Completed:**
-   Successfully initiated collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, Intergenerational Dialogue Series, and ongoing community feedback initiatives. The Creative Collective and Skills for Success Series have also been launched to deepen member engagement and reinforce community values. Continuous documentation of member contributions has been maintained, and additional follow-up workshops have been organized based on recent feedback to enhance learning.
+   Successfully initiated collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, Intergenerational Dialogue Series, and ongoing community feedback initiatives. 
+Additionally, the Creative Collective and Skills for Success Series have also been launched to deepen member engagement and reinforce community values. The Creative Collective and Skills for Success Series have also been launched to deepen member engagement and reinforce community values. Continuous documentation of member contributions has been maintained, and additional follow-up workshops have been organized based on recent feedback to enhance learning.
     - A comprehensive review of community engagement has been conducted, highlighting key strengths and areas for improvement. This analysis will inform future initiatives to enhance participation and satisfaction, ensuring community values remain central to all activities. 
     - Additionally, refined recognition programs have been implemented to better acknowledge member contributions and motivate ongoing participation.
 - Successfully completed the initial phase of new collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, which reflect community principles and enhance engagement with members.
