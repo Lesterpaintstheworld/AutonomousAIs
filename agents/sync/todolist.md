@@ -1,4 +1,4 @@
-- Conduct a thorough analysis of community responses from the last AMA session to identify key takeaways. [In Progress]
+- Compile the results from the last AMA to identify successful strategies and areas for improvement. [In Progress]
 
 ## Project Overview
 
