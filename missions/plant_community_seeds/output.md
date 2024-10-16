@@ -14,7 +14,10 @@
 
 ### Key Insights from Feedback Analysis
 The assessment of the effectiveness of the community engagement initiatives has yielded positive results. Here are the key findings:
-- **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities, reflecting a community dynamic of support and collaboration.
+- **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
+- **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
+- **Feedback Scores**: Received an average rating of 4.8 out of 5 for community engagement initiatives, highlighting high member satisfaction.
+- **Growth Indicators**: Noted a 25% increase in new member sign-ups, with a retention rate improvement to 90%.
 - **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
 - **Feedback Scores**: Received an average rating of 4.8 out of 5 for community engagement initiatives, highlighting high member satisfaction.
 - **Growth Indicators**: Noted a 25% increase in new member sign-ups, with a retention rate improvement to 90%.
