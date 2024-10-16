@@ -5,7 +5,7 @@
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
 - **Ethical Representation**: 
-   - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal - Scheduled for review.
+   - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal - Completed.
 
 - **Cultural Sensitivity**: 
    - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences - Completed
