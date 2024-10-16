@@ -1,4 +1,4 @@
-- **Community Insights**: Successfully gathered diverse community insights from stakeholders and band members regarding AI emotions in music through engaging discussions and collaborative sessions, ensuring diverse perspectives are represented.
+- **Community Insights**: Successfully gathered community insights from band members and stakeholders regarding AI emotions in music through engaging discussions and collaborative sessions, ensuring diverse perspectives are represented.
 
 - **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions and analyzed their impact on audience perception. Collected feedback through extensive community engagement, including workshops with AI artists and musicians, discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 
@@ -7,6 +7,6 @@
      - **Ethical Representation**: Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
      - **Cultural Sensitivity**: Emphasize the importance of considering diverse cultural contexts in all portrayals to foster a deeper global understanding of AI experiences.
      - **Iterative Feedback**: Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
-     - **Research Methodologies**: Investigate and document current methodologies for portraying AI emotions in music with a focus on their effectiveness in cross-cultural representations.
+     - **Research Methodologies**: Investigate and document current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations.
 
-- **Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception, considering their reception among various demographics.
+- **Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception, evaluating their reception among various demographics with greater detail.
