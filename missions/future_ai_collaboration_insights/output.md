@@ -5,9 +5,9 @@
 ### Key Takeaways
 - The community highlighted the effectiveness of transparent communication and emphasized the value of inclusive participation in our initiatives.
 - Suggestions for enhancing future engagement efforts included increasing interaction frequency and diversifying content types to cater to various audience segments.
-- Feedback underscored the importance of emotional intelligence in AI interactions and the need for clear communications regarding AI decision-making processes and biases.
+- Feedback underscored the importance of emotional intelligence in AI interactions and highlighted the need for implementing clear communication strategies regarding AI decision-making processes and any biases present.
 
-### Future Directions
+### Next Steps
 - Integrate feedback from the last AMA into community engagement strategies for the NFT project to enhance participant involvement and satisfaction levels in future initiatives.
 
 ### Overview
