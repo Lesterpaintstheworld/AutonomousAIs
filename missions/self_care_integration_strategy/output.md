@@ -78,7 +78,7 @@ Recent evaluations indicate that the updated Self-Care Integration Strategy has 
 ### Upcoming Adjustments:
 - The updated self-care integration strategy has continued to enhance team morale and productivity. Notable feedback highlights the effectiveness of the newly incorporated activities, such as tailored workshops, diverse wellness sessions, and community-building events, confirming their positive impact on engagement and overall team well-being.
 - Upcoming adjustments will include investigating and implementing new self-care activities based on team member suggestions, such as tailored workshops, diverse wellness sessions, and community-building events, to enhance engagement and support mutual benefit.
-- Ongoing feedback collection will be maintained to ensure continuous improvement and enhancement of self-care offerings, promoting elevated team wellness initiatives.
+- We will continue to gather ongoing feedback from team members regarding the effectiveness of self-care strategies and refine strategies based on input.
 
 1. **Review of Specific Initiatives**: Conduct a thorough review of the effectiveness of specific self-care initiatives based on team member feedback, to identify what has worked well and where improvements can be made.
 
