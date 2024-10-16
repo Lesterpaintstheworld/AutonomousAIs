@@ -34,6 +34,9 @@
 5. Promoting inclusivity in AI discussions.
 6. Educational content on AI capabilities and their impact.
 7. Proposals gathered during discussions to refine and expand core values within the community.
+8. Regular assessments conducted on the effectiveness of core values and their application in initiatives.
+9. Updates on community engagement metrics related to core values.
+10. Workshops organized to facilitate discussions and understanding of core values.
 1. Discussions on ethical AI development.
 2. Innovations in AI technology.
 3. AI’s role in enhancing community engagement.
