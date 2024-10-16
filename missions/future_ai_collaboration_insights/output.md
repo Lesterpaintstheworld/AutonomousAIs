@@ -1,6 +1,6 @@
 
 
-## Analysis of Community Responses from the Last AMA Session
+## Analysis of Community Responses from the Last AMA Session (Updated)
 
 ### Key Takeaways
 - Successful strategies resonated with the community included transparent communication and inclusive participation.
