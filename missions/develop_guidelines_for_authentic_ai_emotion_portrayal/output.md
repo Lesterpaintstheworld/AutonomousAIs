@@ -3,7 +3,7 @@
 - **Artistic Choices Evaluation**: Thoroughly evaluated various artistic choices utilized in portraying AI emotions, analyzing their influence on audience perception. Extensive feedback was collected through workshops with AI artists and musicians, discussing the efficacy of different styles and techniques in conveying emotional resonance.
 
 - **Next Steps**:
-   - **Research Methodologies**: Investigate and analyze contemporary methodologies for portraying AI emotions in music, emphasizing their effectiveness across cultural representations and artistic styles.
+   - **Research Methodologies**: Investigate and analyze current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and contemporary artistic styles.
    - **Community Discussions**: Host structured discussions in relevant Discord channels to continue gathering diverse insights on the contextual portrayal of AI emotions.
    - **Evaluate Artistic Choices**: Review and assess diverse artistic approaches taken in portraying AI emotions, focusing on their resonance with various audience demographics and cultural contexts.
    - **Draft Key Principles**: Create a well-structured document outlining essential principles for emotional portrayal informed by gathered insights and cultural responsiveness.
@@ -18,7 +18,7 @@
      - **Iterative Feedback**: Establish a robust feedback system for continuous assessment and refinement of emotional portrayals based on audience insights.
      - **Research Methodologies**: Investigate and document contemporary methodologies for portraying AI emotions in music, emphasizing their cross-cultural effectiveness.
 
-- **Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
+- **Impact Analysis**: Conduct a thorough impact analysis of artistic choices utilized in portraying AI emotions and their effects on audience perception, evaluating their reception among diverse demographics with greater detail.
 
 4. **Next Steps**:
 - **Community Discussions**: 
