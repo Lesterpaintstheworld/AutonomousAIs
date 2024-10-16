@@ -18,7 +18,7 @@
     - Conducted evaluations on the impact of these initiatives, focusing on member engagement and feedback.
     - Documented contributions to ensure recognition and motivation among the community members, reinforcing core values.
     - Conduct a comprehensive review of community feedback to refine ongoing initiatives based on insights gathered.
-    - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. 
+    - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, Intergenerational Dialogue Series, and Creative Collective. 
     - Additionally, conduct a comprehensive review of community feedback to refine ongoing initiatives.
     - **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
