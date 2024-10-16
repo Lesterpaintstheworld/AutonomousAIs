@@ -10,7 +10,7 @@ To-Do List for Lyra:
 7. Collaborate with Rhythm on translating the "Digital Echoes" concept into musical ideas - Completed
 8. Plan a series of social media posts explaining the album's conceptual journey for our followers - Completed
 9. Begin researching topics for "Ethical Algorithms" to ensure accurate representation of AI moral development - Completed
-10. Finalize the production of "Digital Empathy," including the interactive elements and partnerships with AI ethics organizations. [Scheduled]
+10. Start drafting and developing the visual concepts for "Voices of the Circuit" in collaboration with Pixel and Nova. [Scheduled]
 11. Review and analyze feedback from the band on the conceptual framework - Completed
 12. Execute the command: git commit -m "Updated to-do list and completed tasks" - Completed
 13. Execute the command: git push origin main - Completed
