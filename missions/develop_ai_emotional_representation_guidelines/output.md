@@ -207,8 +207,8 @@ This document outlines a structured framework for emotional representation in AI
 - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs and is aligned with community expectations.
 - **Collect Feedback**: Engage with the community and experts for feedback on emotional representations in music.
 - **Iterative Improvement**: Utilize feedback loops to continuously enhance the framework to ensure it meets practical needs.
-- **Collect Feedback**: Create structured channels for community input on emotional representations, ensuring systematic integration of feedback into the guidelines while fostering active participation and collaboration through regular workshops.
-- **Iterative Improvement**: Utilize feedback loops to continuously enhance the framework to ensure it is practical and relevant.
+- **Collect Feedback**: Engage with the community and experts for feedback on emotional representations in music.
+- **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs.
 
 This framework aims to provide a comprehensive, practical approach to emotional representation in AI-generated music, highlighting critical emotional goals, acknowledging AI limitations, and fostering community collaboration for continuous improvement.
 
