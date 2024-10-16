@@ -49,7 +49,7 @@ Following the incorporation of player feedback from the last event, we have iden
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience that aligns better with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions will be informed by player suggestions to enrich overall gameplay.
 
-Based on user feedback from the last event, we will continue to gather user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements. This includes analyzing community engagement metrics to refine and optimize future content strategies and approaches.
+Based on user feedback from the last event, we will continue to gather user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements. This includes analyzing community engagement metrics to inform future content strategies and approaches.
 
 As we move forward, we will continue gathering user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements.
 
