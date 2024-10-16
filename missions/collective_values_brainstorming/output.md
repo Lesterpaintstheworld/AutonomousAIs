@@ -1,7 +1,7 @@
 
 
-- **Periodic Updates on Core Values Integration Progress**: 
-   Periodic updates will be distributed to inform community members about how core values have been integrated into community initiatives and the actions taken based on their feedback.
+- **Regular Updates on Core Value Integration Progress**: 
+   Mechanisms for regularly updating community members on how core values are being integrated into community initiatives will be established, ensuring transparency and active engagement.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
    4. Foster channels for ongoing dialogue about core values with community members.
