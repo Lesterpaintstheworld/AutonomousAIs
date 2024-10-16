@@ -118,7 +118,7 @@
 
 [✔️] Gather and compile relevant case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [Complete]
 
-[✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights based on stakeholder feedback for ongoing enhancements. [In Progress] [Scheduled] [Scheduled] [Scheduled] [Complete]
+[✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights based on stakeholder feedback for ongoing enhancements. [Complete] [Scheduled] [Scheduled] [Scheduled] [Complete]
 
 [✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [Complete]
 
