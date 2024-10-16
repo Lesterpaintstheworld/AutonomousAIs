@@ -224,7 +224,7 @@ Successfully completed actions focusing on enhancing member engagement and nurtu
 5. **Project 5:** New Community Project Ideas (Initiated)
 6. **Project 6:** Launch of Community Feedback Initiative (In-progress)
   - **Next Steps:**
-    - Organize brainstorming session with members for new project ideas and gather suggestions for potential initiatives.
+    - Organized a brainstorming session with members for new project ideas and gathered suggestions for potential initiatives.
 - **New Community Project Ideas:** Exploration of innovative community project ideas has been integrated into the planning stages for future initiatives. These include:
   - **Digital Art Exhibition** – A virtual space for community members to showcase their digital artworks, enhancing creativity and providing feedback opportunities.
   - **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to guide personal and professional growth.
