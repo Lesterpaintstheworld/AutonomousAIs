@@ -1,6 +1,6 @@
 
 
-- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and ongoing requirements.  
+- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.  
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions, ensuring alignment with their interests and emotional challenges.
@@ -251,7 +251,7 @@
 - **Interactive Formats**: Utilize various formats (e.g., workshops, presentations, and breakout sessions) to maintain participant interest and engagement.
 - **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
 - **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
-- **Engagement Activities**: Introduced interactive activities to foster community spirit and enhance participation in future events.
+- **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 
