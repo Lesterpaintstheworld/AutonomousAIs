@@ -16,7 +16,7 @@ Successfully completed actions focusing on enhancing member engagement and nurtu
     - Conduct a comprehensive review of community feedback to refine ongoing initiatives based on insights gathered.
     - Continue to initiate new collaborative projects that deepen member engagement and reflect core community values, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
     - Additionally, conduct a comprehensive review of community feedback to refine ongoing initiatives.
-    - **Creative Collective** – A new project focused on bringing together community artists to collaborate on works, share techniques, and host joint exhibitions.
+    - **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 
 (Updated in December 2023)
