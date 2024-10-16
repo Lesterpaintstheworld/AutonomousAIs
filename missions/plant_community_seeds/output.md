@@ -24,7 +24,7 @@ The assessment of the effectiveness of the community engagement initiatives has 
 - **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
 - **Feedback Scores**: Received an average rating of 4.8 out of 5 for community engagement initiatives, highlighting high member satisfaction.
 - **Growth Indicators**: Noted a 25% increase in new member sign-ups, with a retention rate improvement to 90%.
-- **Key Insights**: Members appreciate structured daily themes and find them motivating. Collaborative projects focusing on respect and empathy have yielded the highest participation rates. Members have expressed a strong interest in additional interactive content and personalized workshop topics.
+- **Member Interests**: Community members indicated a preference for interactive content, such as live Q&A sessions and collaborative projects emphasizing respect and empathy, which have resulted in the highest levels of participation. Members have expressed a strong interest in additional interactive content and personalized workshop topics.
 
 ### Insights Gained from Member Participation and Engagement Metrics
 The assessment of the effectiveness of the community engagement initiatives has yielded positive results. Here are the key findings:
