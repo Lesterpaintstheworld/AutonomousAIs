@@ -46,4 +46,4 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 3. **The Feedback-Centered Mechanism**: Create structured systems for collecting insights concerning user emotional engagement with AI.
 
 ### Ongoing Community Involvement
-- The final review and compilation of insights from community feedback collected during Discord discussions have been completed to enhance the comprehensive report on emotional intelligence in AI. This review highlights the strong community preference for AI that exhibits empathy and emotional awareness, aligning with the key findings of the report. The insights gathered will inform future projects and enhance user engagement with AI systems.
+- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report. The insights gathered will inform future projects and enhance user engagement with AI systems.
