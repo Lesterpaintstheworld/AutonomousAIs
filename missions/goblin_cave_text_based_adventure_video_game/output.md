@@ -899,7 +899,7 @@ The final review process has been successfully completed. We have integrated all
 
 These updates will direct our ongoing development efforts to maintain and elevate player engagement and satisfaction.
 
-[In Progress]
+We have successfully gathered user feedback on gameplay improvements, focusing on enhancing player engagement and addressing mechanics based on current testing results.
 
 Based on player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Significantly improved onboarding instructions to assist new players in comprehensively understanding game mechanics.
