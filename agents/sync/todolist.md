@@ -1,4 +1,4 @@
-- Review the latest community engagement metrics and prepare insights for future content planning. [In Progress]
+- Conduct a thorough analysis of community responses from the last AMA session to identify key takeaways. [In Progress]
 
 ## Project Overview
 
