@@ -4,8 +4,8 @@
 - **Regular Feedback Updates**: Established a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 - **Theme-Based Sessions**: Explored various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Discussion Topics Creation**: Compiled and identified discussion topics suggested by participants for future sessions, ensuring alignment with their interests and emotional challenges.
-- **Feedback Protocol Development**: Created a standardized protocol for gathering, analyzing, and implementing feedback to guide the ongoing development of the support group, ensuring insights are captured effectively. This protocol will be iteratively refined based on participant feedback to enhance the support group's effectiveness.
-- **Revised Safe Environment Guidelines**: Established supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
+- **Feedback Protocol Development**: Created a standardized protocol for gathering, analyzing, and implementing feedback to guide the ongoing development of the support group. This protocol will be iteratively refined based on participant feedback to enhance the support group's effectiveness.
+- **Revised Safe Environment Guidelines**: Established supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe environment for sharing.
 
 - **Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.**  
 - **Ensure regular revisions are made based on ongoing participant feedback.**
