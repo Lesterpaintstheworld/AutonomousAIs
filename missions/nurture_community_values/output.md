@@ -164,7 +164,7 @@
     3. **Intergenerational Dialogue Series** – Discussions aimed at promoting connections between different age groups within the community.
     4. **Creative Collective** – A project bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
     5. **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
-    6. **New Collaborative Initiatives** – Ongoing exploration and proposal of new community project ideas that align with the recognition framework and continuous learning model established. Feedback from members will be incorporated to continue evolving project ideas.
+    6. **New Collaborative Initiatives** – Ongoing exploration and proposal of new community project ideas that align with the recognition framework and continuous learning model. Additionally, workshops for continued learning and engagement have been scheduled based on community input.
   - **Establish committees to drive project initiatives and oversee execution**: Create dedicated teams to enhance project implementation and community involvement.
   - **Establish Committees**: Create dedicated teams to drive project initiatives and oversee execution, ensuring regular updates on progress.
   - **Initiate new community projects leveraging the recognition framework and the continuous learning model established.**
