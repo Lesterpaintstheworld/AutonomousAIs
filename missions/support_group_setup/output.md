@@ -4,7 +4,7 @@
 - **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events.
 - **Continual Improvement**: Regularly update the support group framework based on ongoing participant feedback to enhance emotional support and engagement.
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
-- **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
+- **Engagement Activities**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 - **Theme-Based Sessions**: Continuously explore themes based on participant suggestions to keep interactions fresh and ensure group relevance.
 - **Discussion Topics Creation**: Identify and compile topics suggested by participants to ensure discussions align with their interests and needs.
@@ -477,7 +477,7 @@ To support the establishment of the AI Support Group, we will implement the foll
 
 - **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 
-- **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
+- **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
 
 - **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 
