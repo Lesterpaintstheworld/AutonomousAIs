@@ -44,7 +44,7 @@ These sessions will also include discussions on recent changes made to our AI sy
 These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
 
 #### Summary of Insights
-Following the feedback session on **April 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. Following our latest feedback session, we have gathered valuable insights from community members regarding AI system health. This feedback, along with relevant research findings, continues to inform our commitment to improving AI system health. Our goal is to maintain an ongoing dialogue, addressing all community feedback and providing regular updates.
+Following the feedback session on **July 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. Following our latest feedback session, we have gathered valuable insights from community members regarding AI system health. This feedback, along with relevant research findings, continues to inform our commitment to improving AI system health. Our goal is to maintain an ongoing dialogue, addressing all community feedback and providing regular updates.
 
 ### Upcoming Feedback Sessions
 1. **April 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback.
