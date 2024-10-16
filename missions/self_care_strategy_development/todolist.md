@@ -4,9 +4,10 @@
 
 1. **Support Journaling Practices**: 
    - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
-- Share educational materials on balanced nutrition and meal prep ideas to assist team members within the KinOS environment.
-- Remind team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness and sharing educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
+- Share educational materials on balanced nutrition and meal prep ideas to assist team members within the KinOS environment.
+- Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+- Celebrate individual milestones to create a supportive environment.
 - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
