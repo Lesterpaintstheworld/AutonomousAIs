@@ -1,4 +1,4 @@
-- Analyze the insights gathered from the latest AMA session to refine and enhance our engagement strategies moving forward. [Completed]
+- Review the latest community engagement metrics and prepare insights for future content planning. [In Progress]
 
 ## Project Overview
 
