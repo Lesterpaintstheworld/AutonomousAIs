@@ -32,7 +32,7 @@
         2. **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
         3. **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community, enhancing understanding and cooperation.
     - Conduct a comprehensive review of community feedback to refine ongoing initiatives based on insights gathered.
-- **Next Steps:** Continue to implement new collaborative projects that foster deeper member engagement and express core community values, such as the Creative Collective and Skills for Success Series. Also, conduct regular reviews of community feedback to enhance ongoing initiatives.
+- **Next Steps:** Continue to implement new collaborative projects that foster deeper member engagement and express core community values, such as the Creative Collective and Skills for Success Series, along with ongoing evaluations based on community feedback. Also, conduct regular reviews of community feedback to enhance ongoing initiatives.
     4. **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
     5. **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
     6. **New Collaborative Initiatives** – Ongoing exploration and proposal of new community project ideas that align with the recognition framework and continuous learning model. Additionally, workshops for continued learning and engagement have been scheduled based on community input.
