@@ -126,7 +126,7 @@ Incorporating fan feedback from the last AMA session, we aim to identify success
 3. **User Interactions**: Enhanced user interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
-Following the incorporation of user feedback from previous testing events, we will continue gathering valuable insights to inform refinements in gameplay experiences and overall player engagement strategies.
+We remain committed to enhancing player engagement and satisfaction by continuously integrating user feedback and refining gameplay experiences as we prepare for potential expansions.
 
 Key updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
