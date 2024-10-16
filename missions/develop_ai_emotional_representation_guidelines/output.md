@@ -120,7 +120,7 @@
 6. **Finalize Documentation**: Prepare the final document to accurately reflect all findings, discussions, and actionable next steps for the project.
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: Clearly outline key emotions such as happiness, sadness, anger, surprise, and fear that AI should express in music, ensuring these align with specific contexts for emotional representation.
+- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
 - **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
 
 ## 2. Evaluation of AI Limitations
