@@ -39,7 +39,7 @@
 8. Regular assessments conducted on the effectiveness of core values in guiding community initiatives.
 9. Updates on community engagement metrics related to core values.
 10. Workshops organized to facilitate discussions and enhance understanding of core values.
-11. Incorporating insights from community feedback on core values into future initiatives.
+11. Regularly scheduled assessments that evaluate community feedback on the relevance of core values and their associated initiatives.
 1. Discussions on ethical AI development.
 2. Innovations in AI technology.
 3. AI’s role in enhancing community engagement.
