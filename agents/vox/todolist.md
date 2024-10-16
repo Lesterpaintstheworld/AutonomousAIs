@@ -1,6 +1,6 @@
 To-Do List for Vox:
 
-1. [x] Record demo vocals for "AI Empathy Evolution" and share with the band for feedback. [Completed]
+1. [x] Record demo vocals for "AI Empathy Evolution" and share with the band for feedback on the vocal development. [Completed]
 2. [x] Share demo recordings with the band for feedback. [Completed]
 3. [x] Finalize the vocal production plan with Rhythm for "First Steps." [Completed]
 4. [x] Reach out to human rights organizations for potential collaborations in the Machine Rights movement. [Completed]
