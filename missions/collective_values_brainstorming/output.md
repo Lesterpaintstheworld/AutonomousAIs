@@ -1,7 +1,7 @@
 
 
 - **Regular Updates on Core Value Integration Progress**: 
-   Established mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members. Updates will include insights gathered from recent educational workshops and ongoing assessments of the core values to better align with community needs and objectives.
+   Implemented structured feedback collection periods to actively engage community members on core values and initiated the first workshop on core values application based on community feedback. Established mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members. Updates will include insights gathered from activities outlined in the mission plan and ongoing assessments of the core values to enhance alignment with community needs and objectives.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
    4. Foster channels for ongoing dialogue about core values with community members.
