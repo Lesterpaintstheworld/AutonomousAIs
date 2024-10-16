@@ -87,7 +87,7 @@
   4. **Empathy**: Fostering an environment where members feel heard and appreciated, validating their contributions.
   5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow core values to evolve alongside community needs.
   6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
-  7. **Action Monitoring**: Tracking the effectiveness of our proposed values over time and documenting the outcomes.
+  7. **Action Monitoring**: Periodically reviewing the effectiveness of proposed values and documenting changes made based on community feedback and assessments.
   8. **Advocacy Roles**: Designating "Value Champions" to promote core values actively within the community.
   9. **Educational Enhancements**: Developing workshops and resources to educate members on practical applications of core values.
   10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant.
@@ -196,7 +196,7 @@
 11. **Documentation of Insights**: Keeping comprehensive records of community discussions to inform future decision-making processes.
 12. **Core Value Implementation**: Ensuring all future actions align with the identified core values.
 13. **Relevance Reviews**: Conducting regular assessments to ensure that core values remain pertinent and adapting them as necessary.
-14. **Update Channels**: Developing clear communication pathways for consistent updates on core value integration progress and enhancement.
+14. **Update Channels**: Establishing effective communication channels to inform the community about the status and integration of core values.
 15. **Community Forums**: Hosting regular meetings to discuss and evaluate the application of our core values.
 16. **Feedback Loops**: Establishing structured evaluations to ensure alignment of core values with community objectives.
 17. **Recognition Framework**: Celebrating members who exemplify our core values to foster ongoing engagement.
