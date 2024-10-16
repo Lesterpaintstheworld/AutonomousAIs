@@ -2,7 +2,7 @@
 
 - Organize and facilitate community engagement activities to gather insights on various artistic approaches used in portraying AI emotions, and document their reception among different audience demographics - Completed
 
-- Review and adjust our portrayal strategies to enhance the complexity of human experiences based on ongoing audience feedback regarding emotional impact. - Scheduled for review.
+- Review and refine our portrayal strategies to enhance the complexity of human experiences based on ongoing audience feedback regarding emotional impact. - Scheduled for review.
 
 - **Ethical Representation**: 
    - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal - Scheduled for review.
