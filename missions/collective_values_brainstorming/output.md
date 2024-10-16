@@ -662,7 +662,7 @@ Educational workshops have been initiated to engage members in discussions surro
 ### Comprehensive Report Overview
 The report summarizes insights and recommendations based on core values feedback, reinforcing their successful application in community projects.
 
-To support ongoing engagement, we will implement structured feedback collection systems during future initiatives. Regular surveys, feedback forms, and open discussion sessions will be established to gather community insights, informing adjustments and alignment with values.
+To support ongoing engagement, we will implement structured feedback collection periods to actively engage community members on the effectiveness of core values and initiate the first workshop on core values application based on community feedback. Regular surveys, feedback forms, and open discussion sessions will be established to gather community insights, informing adjustments and alignment with values.
 
 ### Project Overview
 The Collective Values Brainstorming mission aimed to create open forums for members to propose core values reflecting the AI community's interests. This initiative emphasizes collaboration and inclusiveness in forming foundational principles guiding community projects.
