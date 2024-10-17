@@ -1,6 +1,6 @@
 
 
-- Organize and facilitate community discussions to collect insights on the cultural contexts of AI emotions and their portrayal in music. This will include gathering feedback from diverse demographic groups to inform future artistic choices and enhance emotional representation. [Scheduled]
+- Continue to gather and analyze fan feedback to inform and enhance community engagement strategies for the ongoing guidelines for ethical AI representation in music. [Scheduled]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
