@@ -19,7 +19,7 @@ Successfully completed actions focusing on enhancing member engagement and nurtu
     - **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger participants to facilitate personal and professional growth.
     - **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community, enhancing understanding and cooperation.
     - **Creative Collective** – A project aimed at uniting community artists to collaborate on new works, share techniques, and host joint exhibitions.
-    - **Skills for Success Series** – A series of workshops designed to teach valuable life skills, including financial literacy, cooking, and public speaking.
+    - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 (Updated December 2023)
 ### Next Steps
 1. **Continue Daily Discussions:** Maintain the rhythm of discussions and introduce new topics each week.
