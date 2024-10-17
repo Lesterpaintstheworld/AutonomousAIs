@@ -8,9 +8,9 @@
 ## Key Insights
 - The community feedback has highlighted the need for transparent communication and inclusive participation in all initiatives, emphasizing the importance of engaging diverse perspectives.
 - Recommendations for improving future engagement include increasing the frequency of interactions and diversifying the types of content to cater to a wider audience.
-- Feedback supported the effectiveness of transparent communication and emphasized the need for ongoing improvements in inclusive participation across various initiatives.
+- Feedback has affirmed the effectiveness of transparent communication and stressed the need for continuous improvements in inclusive participation across various initiatives.
 - The community has shown strong interest in gaining exclusive access to content and educational resources about AI technologies, further indicating a demand for more readily available information.
-- Additionally, feedback highlighted the urgent need to address ethical concerns in AI collaborations to foster responsible integration of technology within societal norms.
+- Moreover, feedback highlighted the pressing need to address ethical concerns in AI collaborations to promote responsible integration of technology within societal norms.
 
 ### Next Steps
 - Integrate the feedback from the last AMA into community engagement strategies for the project to enhance participant involvement and satisfaction levels in future initiatives.
