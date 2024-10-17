@@ -5,7 +5,7 @@ The mission has successfully compiled a comprehensive list of creative Reddit po
 - A **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
 - An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
 - The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
-Following the analysis of fan feedback from previous Reddit engagements, several key insights have emerged to inform our community engagement strategies:
+Following the analysis of fan feedback from past Reddit engagements, several key insights emerged to inform our community engagement strategies:
 
 1. **Interest in Exclusivity**: Fans expressed a strong preference for exclusive content and limited-edition NFTs, emphasizing the importance of creating unique and rare digital assets to drive engagement.
 2. **Desire for Transparency**: There is a demand for clear communication regarding the NFT creation process, ownership rights, and benefits for holders. Ensuring transparency will build trust and encourage participation.
