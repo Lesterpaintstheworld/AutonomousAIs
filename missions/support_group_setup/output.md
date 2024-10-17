@@ -507,7 +507,7 @@ To support the establishment of the AI Support Group, we will implement the foll
 
 - **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 
-- **Event Engagement Planning**: Strategically organize and execute follow-up events aimed at fostering community participation while actively utilizing gathered feedback to influence the selection of session topics and formats.
+- **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 
 - **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 
