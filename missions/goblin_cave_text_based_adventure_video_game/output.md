@@ -330,9 +330,9 @@ We remain committed to enhancing player engagement and satisfaction by continuou
 
 - The final review process has been successfully completed, and all player feedback has been integrated to enhance gameplay quality, resolve identified bugs, and ensure a polished player experience ready for the official launch, focusing on stability and player engagement.
 
-- **October 17, 2023**: Incorporated final player feedback from recent playtests and made necessary adjustments to gameplay mechanics.
-- **October 15, 2023**: Update complete with a detailed timeline for future feature releases and playtesting sessions, incorporating player feedback.
-- **October 16, 2023**: Prepare the next round of updates based on insights gathered and begin planning for future enhancements.
+- **October 18, 2023**: Successfully gathered player feedback during the recent playtests, leading to important adjustments in gameplay mechanics.
+- **October 19, 2023**: The update was completed with a comprehensive overview of the new features added based on player insights.
+- **October 20, 2023**: Official launch preparations are underway, focusing on final testing and bug resolution.
 
 The final review process has been successfully completed, and all player feedback has been integrated to enhance gameplay, address identified bugs, and ensure a polished player experience. We remain committed to engaging testers for future updates and continuous improvement while prioritizing stability and player satisfaction.
 
