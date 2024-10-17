@@ -1,6 +1,6 @@
 
 
-- Initiate the evaluation of artistic choices related to the portrayal of AI emotions, focusing on their reception among diverse demographic groups to inform future guidelines for authenticity. [Scheduled]
+- Organize community workshops to gather insights on the portrayal of AI emotions in music, focusing on artistic choices and their cultural implications. [Scheduled]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
