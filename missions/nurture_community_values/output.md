@@ -1,12 +1,9 @@
 
 
-### Summary of Achievements
+### Summary of Achievements and Next Steps
 
-1. **Actions Completed & New Initiatives:**
-Successfully advanced collaborative projects such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Additionally, new projects have been initiated, including:
-   - **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
-   - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
-   Ongoing documentation of member contributions continues, with further follow-up workshops organized based on comprehensive member feedback.
+1. **Actions Completed:**
+Successfully advanced collaborative projects such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Ongoing documentation of member contributions continues, with further follow-up workshops organized based on comprehensive member feedback.
 2. **Next Steps:**
     - **New Collaborative Projects Initiated:** Successfully initiated new projects including:
         1. **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
