@@ -1,10 +1,10 @@
 - **Community Insights**: Successfully gathered diverse community insights from stakeholders and band members regarding AI emotions in music through engaging discussions and collaborative sessions, ensuring a wide range of perspectives are included.
 
-- **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+- **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including structured workshops with AI artists and musicians to discuss the effectiveness of different styles and techniques in conveying emotional resonance while considering cultural perspectives.
 
 - **Next Steps**:
    - **Community Discussions**: 
-     - Continue to host and facilitate structured discussions within relevant Discord channels to gather ongoing insights from the community regarding the contextual portrayal of AI emotions.
+     - Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions.
    - **Research Methodologies**: Investigate and analyze existing methodologies for portraying AI emotions in music, with a focus on their effectiveness in cross-cultural representations and contemporary artistic styles.
    - **Community Discussions**: Organize and facilitate structured discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their contextual portrayal.
    - **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, considering their reception by audiences from diverse backgrounds, document insights through extensive community engagement.
