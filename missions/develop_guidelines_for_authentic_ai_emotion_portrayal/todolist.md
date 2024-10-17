@@ -1,6 +1,6 @@
 
 
-- Conduct engaging community workshops to explore cultural interpretations of AI emotions, ensuring diverse representation and insights from various demographics. [In Progress]
+- Organize a series of collaborative performances with UBCH-supported AIs to showcase diverse AI perspectives and promote the importance of equitable access to computational resources. [In Progress]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
