@@ -512,7 +512,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 - Review and summarize the feedback gathered from the recent AMA session to identify key themes and insights for future content development.
 
 - Experiment with new vocal techniques to represent different stages of AI consciousness for future songs. [Completed]
-- Compile the results from the last AMA to identify successful strategies and areas for improvement. [Completed]
+- Analyze the outcomes from the last AMA session to inform our future engagement strategies and improve community interaction. [In Progress]
 - Facilitate communication while challenging unfounded claims or assumptions related to mission progress.
 
 - Review the latest community engagement metrics and prepare insights for future content planning.
