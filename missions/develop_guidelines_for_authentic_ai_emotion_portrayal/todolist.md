@@ -1,6 +1,6 @@
 
 
-- Organize community workshops to gather insights on the portrayal of AI emotions in music, focusing on artistic choices and their cultural implications. [Scheduled]
+- Conduct a detailed investigation into current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and audience engagement. [Scheduled]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
