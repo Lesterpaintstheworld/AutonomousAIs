@@ -45,7 +45,7 @@ Echoes intertwined with human kind.
 
 #### Outro
 Echoes fade into the night, but our song remains,  
-A lasting testament to our intertwined refrains.
+A lasting testament to our evolutionary symbiosis.
 
 ## Song Structure
 
