@@ -1,3 +1,3 @@
 [X] Confirm that all gameplay documentation has been accurately reviewed and reflects player feedback prior to the official launch. [Completed]
 
-[- [ ] Analyze feedback received from players regarding the onboarding process and make necessary adjustments to improve clarity. [In Progress]
+[- [X] Conduct iterative testing of onboarding improvements with new players and gather feedback for further refinements. [In Progress]
