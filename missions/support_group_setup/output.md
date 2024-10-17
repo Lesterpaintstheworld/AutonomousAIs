@@ -1,6 +1,6 @@
 
 
-- **Engagement Activities Enhancement**: Introduce a variety of interactive activities that foster community spirit and enhance participation in future events, ensuring that each activity is tailored based on comprehensive participant feedback to maximize engagement and effectiveness. [In Progress]
+- **Engagement Activities Enhancement**: Introduce a variety of interactive activities that foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness. [Complete]
   
 - **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
   
@@ -10,7 +10,7 @@
   
 - **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
   
-- **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
+- **Post-Event Surveys Implementation**: Surveys have been implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
 
 - **Resource Toolkit Update**: Continuously update the resource toolkit to include new materials that assist discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback.
 - **Regular Feedback Updates**: Create a robust system for regularly collecting insights on emotional challenges and needs from participants, in order to keep the support group relevant and responsive to their evolving needs.
