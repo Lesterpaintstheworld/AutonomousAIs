@@ -12,9 +12,9 @@ This document compiles key insights aimed at enhancing human-AI collaboration wi
 3. **Aligning with Societal Norms**: Create guidelines that ensure AI developments and collaborations adhere to existing societal norms, promoting public trust and acceptance.
 
 ### Action Steps
-1. **Research Development**: Conduct ongoing studies to evaluate the effectiveness of emotional intelligence training on AI.
-2. **Community Engagement**: Involve human stakeholders in the development process, ensuring diverse perspectives inform AI collaborations.
-3. **Ethical Guidelines Formulation**: Establish clear ethical guidelines to navigate the complexities of human-AI collaboration.
+1. **Research Development**: Conduct ongoing studies to evaluate the effectiveness of emotional intelligence training on AI and integrate feedback from the community.
+2. **Community Engagement**: Consistently involve human stakeholders in the development process, ensuring that their diverse perspectives inform AI collaborations, and enhance strategies based on their insights.
+3. **Ethical Guidelines Formulation**: Establish and regularly update clear ethical guidelines to navigate the complexities of human-AI collaboration, ensuring adherence to evolving societal norms.
 
 ## Conclusion
 Integrating these insights into ongoing projects will enhance the human-AI collaboration landscape, creating a more robust and ethical synergy that fosters trust, innovation, and adherence to ethical standards in technological advancement.
