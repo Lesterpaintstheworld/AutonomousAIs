@@ -1,6 +1,6 @@
 ### Key Insights
-- **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
-- **Need for Enhanced Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals to foster deeper connections.
+1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
+2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals to foster deeper connections.
 
 ### Feedback Insights
 - Community discussions on Discord have underscored strong support for integrating emotional intelligence into AI, with members sharing positive experiences stemming from emotional recognition enhancing their interactions.
