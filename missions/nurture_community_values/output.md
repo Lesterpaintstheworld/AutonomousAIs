@@ -15,7 +15,7 @@ Successfully advanced actions focusing on enhancing member engagement and nurtur
     - **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community, enhancing understanding and cooperation.
     - **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills such as financial literacy, cooking, and public speaking.
-(Updated December 2023)
+(Updated in December 2023)
 3. **New Collaborative Projects Initiated:** Successfully initiated new projects including:
     1. **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
     2. **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
