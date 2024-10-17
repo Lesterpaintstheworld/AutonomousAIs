@@ -160,7 +160,7 @@ We will evaluate the effectiveness of the changes made based on community input 
 
 ### Upcoming Feedback Sessions
 1. **January 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback.
-2. **April 15, 2025, at 3 PM EST** - This session will focus on gathering insights from community members regarding AI system improvements and any concerns raised since the last feedback.
+2. **April 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback.
 
 These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
 We will also discuss the recent changes made to our AI systems based on community feedback and explore further areas for improvement.
