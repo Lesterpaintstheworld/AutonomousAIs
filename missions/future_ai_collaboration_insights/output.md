@@ -9,7 +9,8 @@
 - Additionally, feedback has underscored the necessity of addressing ethical considerations in AI collaborations to ensure responsible technology integration.
 
 ### Next Steps
-- Integrate the feedback from the last AMA into community engagement strategies for the project to enhance participant involvement and satisfaction levels in future initiatives. This will include developing tailored communication approaches for specific user segments.
+(Next steps will be guided by the findings of the analysis above.)
+- Integrate the feedback from the last AMA into community engagement strategies for the project to enhance participant involvement and satisfaction levels in future initiatives.
 - Develop and implement educational resources related to emotional intelligence and AI technologies to address community interest and knowledge gaps.
 
 ### Overview
