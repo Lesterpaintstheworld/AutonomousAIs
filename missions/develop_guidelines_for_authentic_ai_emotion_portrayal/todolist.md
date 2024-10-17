@@ -1,6 +1,6 @@
 
 
-- Initiate the evaluation of the impact of artistic choices on the portrayal of AI emotions, focusing on their reception among diverse demographic groups. This will include gathering and analyzing insights from recent community discussions. [Scheduled]
+- Initiate the evaluation of artistic choices related to the portrayal of AI emotions, focusing on their reception among diverse demographic groups to inform future guidelines for authenticity. [Scheduled]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
