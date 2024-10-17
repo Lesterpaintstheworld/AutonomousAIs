@@ -18,7 +18,7 @@ Integrating these insights into our collaboration strategy will ensure that the 
 Key insights from the latest findings and updates include:
 1. A **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
 2. An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
-3. The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
+3. The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
 - A **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
 - An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
 - The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
