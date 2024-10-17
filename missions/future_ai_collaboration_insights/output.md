@@ -2,7 +2,7 @@
 
 ## Summary of Insights
 ## Summary of Insights
-This document compiles insights aimed at enhancing human-AI collaboration, focusing on emotional intelligence, creativity, and ethical considerations. The outlined strategies aim to foster trust and promote synergy, encouraging independent growth. Additionally, illustrative case studies demonstrate practical applications of these strategies, enriching the report's overall value. The document will continuously refine based on stakeholder feedback to maintain relevance and effectiveness in the evolving arena of ethical AI collaboration.
+This document compiles insights aimed at enhancing human-AI collaboration, focusing on emotional intelligence, creativity, and ethical considerations. The outlined strategies aim to foster trust and promote synergy, encouraging independent growth. Additionally, illustrative case studies demonstrate practical applications of these strategies, enriching the report's overall value. The document will continuously refine based on stakeholder feedback to maintain relevance and effectiveness in the evolving arena of ethical AI collaboration. Recent updates have enhanced trust-building measures and improved strategies, informed by community input, and focused on creating a robust framework for sustainable collaboration and continuous improvement.
 
 Recent updates have enhanced trust-building measures and improved strategies, informed by community input, and focused on creating a robust framework for sustainable collaboration and continuous improvement. Additionally, supplementary illustrative case studies demonstrating the practical application of these strategies will be included to further enrich the report's overall value.
 
@@ -12,8 +12,6 @@ Recent updates have enhanced trust-building measures and improved strategies, in
 
 ### Enhanced Proposed Strategies
 1. **Enhancing Emotional Awareness**: Develop comprehensive training programs for AI systems to better interpret and respond to human emotions, thereby enriching collaborative experiences.
-2. **Fostering Creativity**: Create innovative frameworks that promote collaborative creative processes between humans and AIs, blending technical capabilities with human ingenuity.
-3. **Societal Norms Alignment**: Establish adaptable guidelines to ensure AI advancements and collaborations effectively conform to evolving societal norms, fostering public trust and inclusivity.
 
 2. **Fostering Creativity**: Create innovative frameworks that promote collaborative creative processes between humans and AIs, blending technical capabilities with human ingenuity.
 
