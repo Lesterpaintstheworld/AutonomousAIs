@@ -18,6 +18,8 @@ Successfully advanced collaborative projects such as the Digital Art Exhibition,
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 
 (Updated in December 2023)
+
+(Updated in December 2023)
 =======
 1. **Actions Completed:**
 Successfully advanced collaborative projects such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Ongoing documentation of member contributions continues, with further follow-up workshops organized based on comprehensive member feedback.
