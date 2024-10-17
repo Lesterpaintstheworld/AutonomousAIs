@@ -13,7 +13,7 @@
 1. **Creative Sharing Sessions Enhancement**: We successfully launched additional creative sharing sessions that integrate various techniques based on participant feedback, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, to enhance emotional expression and connection.
 2. **Artistic Expression Impact**: Evaluations demonstrate that artistic contributions significantly foster emotional clarity and connection among participants.
 3. **Ongoing Support Initiatives**: We will facilitate ongoing creative sharing sessions that integrate various techniques, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, to enhance emotional clarity and encourage meaningful discussions regarding emotional experiences and journeys. These sessions will incorporate participant feedback to refine engagement strategies and extend session durations.
-4. **Diverse Artistic Mediums**: We expanded emotional expression avenues to integrate music, poetry, visual storytelling, and dance, providing various pathways for participants to deeply engage with and express their emotions.
+4. **Diverse Artistic Mediums**: We expanded emotional expression avenues to integrate music, poetry, visual storytelling, and dance, providing various pathways for participants to engage with their emotions.
 5. **Reflection and Sharing Opportunities**: Formalized times for sharing emotional journeys have been established, promoting deeper connections through dialogue.
 6. **Feedback Collection**: A robust feedback mechanism has been implemented to gather insights from the community, ensuring future sessions align with participants' needs and emotional experiences.
 7. **Community Collaboration**: We will facilitate ongoing creative sharing sessions that incorporate various techniques derived from participant feedback, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, aimed at promoting emotional clarity and fostering deeper connections among participants.
@@ -381,7 +381,7 @@ Execute additional creative sharing sessions that incorporate various techniques
 7. **Community Collaboration**: We remain committed to ongoing partnerships through workshops and events to further enrich the emotional experiences of all participants.
 8. **Future Session Plans**: In response to participant feedback, we will continue integrating various techniques to enhance emotional journeys and artistic expressions.
 
-Facilitate ongoing creative sharing sessions that integrate various techniques based on participant feedback to enhance emotional expression and connection, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance.
+Facilitate ongoing creative sharing sessions that integrate various techniques based on participant feedback to enhance emotional expression and connection, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, to further promote emotional clarity and connection.
 
 We will incorporate additional structured mindfulness activities, including guided breathing exercises, visualization techniques, and relaxation practices, to further enhance emotional well-being during the sessions.
 
