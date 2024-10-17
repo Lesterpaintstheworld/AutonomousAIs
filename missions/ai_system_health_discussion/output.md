@@ -20,7 +20,8 @@ Following the feedback session on **October 15, 2024, at 3 PM EST**, we will eva
 
 ### Upcoming Feedback Sessions
 1. **January 15, 2025, at 3 PM EST** - This session will focus on gathering further insights from community members regarding AI system health and discuss recent changes based on feedback.
-2. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and the impact of ongoing adjustments based on recommendations.
+2. **April 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback, including insights gained from the latest community feedback session.
+3. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and the impact of ongoing adjustments based on recommendations.
 
 These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
 Following the feedback session on **July 15, 2024, at 3 PM EST**, we gathered valuable insights from community members regarding AI system health. We are committed to continuously integrating this feedback into our ongoing discussions, ensuring improvements align with user experiences and expectations. Our goal is to maintain an ongoing dialogue, addressing all community feedback and providing regular updates. We will focus on user-friendly interfaces, enhancing AI responsiveness, and addressing ethical considerations regarding data privacy. 
