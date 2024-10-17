@@ -1,10 +1,10 @@
 - **Community Insights**: Successfully gathered diverse community insights from stakeholders and band members regarding AI emotions in music through engaging discussions and collaborative sessions, ensuring a wide range of perspectives are included. Ongoing engagement with the community will be essential for continually refining these insights, especially through structured discussions within relevant Discord channels.
 
-- **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+- **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance. Additionally, evaluation included the impact of these choices across diverse demographics and cultural interpretations.
 
 - **Next Steps**:
    - **Community Discussions**:
-     - Host structured discussions in relevant Discord channels to continually gather diverse insights regarding the contextual portrayal of AI emotions, and to explore cultural interpretations of AI emotions among different demographics and backgrounds.
+     - Host structured discussions in relevant Discord channels to continually gather diverse insights regarding the contextual portrayal of AI emotions.
    - **Research Methodologies**: Investigate and analyze existing methodologies for portraying AI emotions in music, with a focus on their effectiveness in cross-cultural representations and contemporary artistic styles.
    - **Community Discussions**: Organize and facilitate structured discussions within relevant Discord channels to gather diverse insights from the community regarding AI emotions and their contextual portrayal.
    - **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, considering their reception by audiences from diverse backgrounds, document insights through extensive community engagement.
