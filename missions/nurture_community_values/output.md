@@ -2,7 +2,7 @@
 
 ## Updated Summary of Achievements and Overall Impact
 1. **Actions Completed:**
-Actions have been successfully completed to enhance member engagement and nurture core community values. Collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, continue to progress, with thorough documentation of member contributions maintained and new workshops organized based on member feedback.
+Actions have been successfully completed to enhance member engagement and nurture core community values. Collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, have been initiated and are progressing with thorough documentation of member contributions maintained and new workshops organized based on member feedback.
 2. **New Project:** Continued to initiate and refine new collaborative projects that deepen member engagement and reflect core community values.
 ### Next Steps
 1. **Continue Daily Discussions:** Sustain the pace of discussions and introduce diverse topics each week.
