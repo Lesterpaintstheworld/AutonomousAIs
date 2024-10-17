@@ -17,7 +17,8 @@
 3. **Feedback-Centered Mechanisms**: Establish structured systems to collect insights on emotional engagement with AI.
 
 ### Ongoing Community Involvement
-The comprehensive report on emotional intelligence in AI has been shared with community members. We invite the community to provide feedback for ongoing improvements and insights on emotional intelligence in AI systems. These contributions will help adapt strategies accordingly and inform future AI developments. Additionally, focused discussions will be organized within community channels to extract deeper insights and improve strategies, fostering a more collaborative atmosphere for enhancing emotional engagement in AI systems.
+- The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI. This review emphasizes the strong community preference for AI that demonstrates empathy and emotional awareness, aligning with the overarching findings of the report.
+- Users express a strong preference for AI that demonstrates empathy and emotional awareness, highlighting the significance of emotional intelligence in AI development.
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
