@@ -1,12 +1,12 @@
 
 
-- **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
+- **Engagement Activities**: Introduce interactive activities that build community spirit and enhance participation in future events.
   
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
   
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
   
-- **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
+- **Feedback Integration**: Gather feedback post-events to adapt future sessions and ensure they address participants' needs and interests.
   
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and evolving needs.
 
