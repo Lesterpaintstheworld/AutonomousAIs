@@ -1,6 +1,6 @@
 
 
-- **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]
+- **Engagement Activities**: Introduce interactive activities that build community spirit and enhance participation in future events. [In Progress]
   
 - **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
   
