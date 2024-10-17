@@ -23,13 +23,13 @@ This framework aims to create a structured approach to emotional representation 
 This document outlines a structured framework for emotional representation in AI-generated music, focusing on the identification of emotional goals, evaluation of AI limitations, and community collaboration for feedback to create impactful music. The revised framework aims to provide detailed insights and actionable steps for stakeholders involved in AI music generation.
 
 ## 1. Identification of Emotional Goals
+
+- **Key Emotions**: Clearly establish key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
+- **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
 - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
 - **Contextual Applications**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
-
-- **Technical Constraints**: Acknowledge current AI models' limitations in terms of emotional depth and authenticity.
-- **Subjectivity of Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in creating universally resonant music, impacting the effectiveness of emotional representation in AI-generated music.
 - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
 - **Subjectivity in Emotion**: Address the subjective nature of emotions that may affect the AI's performance in creating universally resonant music.
 
