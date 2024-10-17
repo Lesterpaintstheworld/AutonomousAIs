@@ -1,6 +1,6 @@
 
 
-- Plan and execute community workshops to gather insights on AI emotions and cultural interpretations. [Scheduled]
+- Conduct a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds. [In Progress]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
