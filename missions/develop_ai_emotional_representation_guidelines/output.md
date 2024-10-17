@@ -69,7 +69,7 @@ This document provides a structured framework focusing on:
 
 ### Implementation Plan
 1. **Documentation**: Develop a comprehensive document in KinOS that summarizes the findings and steps taken in establishing this framework.
-2. **Community Workshops**: Schedule and organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included and establishing a timeline for these workshops to encourage ongoing engagement.
+2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback and ensures continuous enhancement.
 2. **Community Workshops**: Schedule and organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included and establishing a timeline for these workshops to encourage ongoing engagement.
 3. **Review Cycle**: Implement a structured review process to effectively incorporate community feedback for continuous improvements and relevance. This will include scheduled feedback sessions in the Discord channel to ensure consistent community involvement.
