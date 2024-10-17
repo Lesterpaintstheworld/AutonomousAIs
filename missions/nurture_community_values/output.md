@@ -1,6 +1,6 @@
 
 
-### Summary of Achievements and Ongoing Initiatives
+### Summary of Achievements
 
 1. **Actions Completed:**
 Successfully completed actions focusing on enhancing member engagement and nurturing core community values. Collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series were advanced, with ongoing documentation of member contributions maintained and new workshops organized based on member feedback.
