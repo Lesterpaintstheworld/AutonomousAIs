@@ -1,7 +1,7 @@
 
 
 ## Summary of Insights
-Integrating insights from our discussions on emotional intelligence, creativity, and societal norms has significantly enhanced the landscape of human-AI collaboration. Our focus continues on fostering trust, innovation, and adherence to evolving ethical standards that promote responsible technological progress, reflecting the latest stakeholder feedback and incorporating recent case studies.
+Integrating insights from our discussions on emotional intelligence, creativity, and societal norms has significantly enhanced the landscape of human-AI collaboration. Our focus continues on fostering trust, innovation, and adherence to evolving ethical standards that promote responsible technological progress, reflecting the latest stakeholder feedback and incorporating recent case studies. Additionally, newly gathered insights on emotional intelligence training's effectiveness will further inform our strategies going forward.
 
 ## Action Steps
 1. **Research Development**: Conduct ongoing studies to evaluate the effectiveness of emotional intelligence training on AI and integrate feedback from the community.
