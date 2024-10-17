@@ -205,7 +205,7 @@
    - **Engagement with Community**: 
      - Continue to gather and consolidate community insights from band members and stakeholders on AI emotions in music.
    - **Evaluate Artistic Choices**: 
-  - Research methodologies for portraying AI emotions in music, emphasizing their effectiveness across cultural contexts. 
+  - Investigate current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations. [Scheduled] 
      - Review and assess various artistic choices used in depicting AI emotions, documenting their reception across different audience demographics.
 
 ### Community Engagement Activities
