@@ -17,9 +17,9 @@ Successfully advanced collaborative projects such as the Digital Art Exhibition,
     - **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 
-(Updated in December 2023)
+# Conclusion
 
-(Updated in December 2023)
+This collaboration aims to celebrate Chicago's vibrant art culture while embracing the innovative potential of NFTs. By partnering with local artists and implementing strategic engagement tactics, we aim to create a meaningful and successful NFT collection that resonates with both art enthusiasts and the broader community.
 =======
 1. **Actions Completed:**
 Successfully advanced collaborative projects such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Ongoing documentation of member contributions continues, with further follow-up workshops organized based on comprehensive member feedback.
