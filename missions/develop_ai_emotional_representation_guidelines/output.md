@@ -1,6 +1,6 @@
-### Comprehensive Framework for Emotional Representation in AI-Generated Music (Updated)
+### Updated Comprehensive Framework for Emotional Representation in AI-Generated Music
 
-### Comprehensive Framework for Emotional Representation in AI-Generated Music
+### Structured Framework for Emotional Representation in AI-Generated Music
 
 #### 1. Identification of Emotional Goals
 - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
