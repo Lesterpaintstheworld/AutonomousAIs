@@ -2,7 +2,7 @@
 
 ## Summary of Achievements and Future Directions
 1. **Actions Completed:**
-Successfully completed actions focusing on enhancing member engagement and nurturing core community values. Collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series were advanced, with ongoing documentation of member contributions maintained and new workshops organized based on member feedback.
+Successfully completed actions focusing on enhancing member engagement and nurturing core community values. Collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series have been further developed, with ongoing documentation of member contributions maintained, and follow-up workshops organized based on comprehensive member feedback.
 ### Next Steps
 1. **Continue Daily Discussions:** Maintain the rhythm of discussions while introducing new topics each week to keep engagement high.
 2. **Broaden Learning Resources:** Expand the educational materials library and organize additional workshops reflecting community interests and feedback.
@@ -38,7 +38,7 @@ Successfully completed actions focusing on enhancing member engagement and nurtu
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 (Updated December 2023)
 ### Next Steps
-1. **Continue Daily Discussions:** Sustain the pace of discussions and introduce diverse topics each week.
+1. **Continue Daily Discussions:** Maintain the rhythm of discussions and introduce new topics each week.
 2. **Broaden Learning Resources:** Expand the library of available educational materials and organize further workshops based on recent insights and input from feedback analysis.
 3. **Refine Recognition Programs:** Continuously improve the recognition framework for contributions and achievements.
 4. **Establish Committees:** Create dedicated teams to drive ongoing project initiatives and oversee execution, ensuring regular updates on progress.
