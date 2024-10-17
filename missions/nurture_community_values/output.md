@@ -2,7 +2,7 @@
 
 ## Updated Summary of Achievements and Overall Impact
 1. **Actions Completed:**
-Successfully advanced collaborative projects such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Ongoing documentation of member contributions continues, with follow-up workshops organized based on comprehensive member feedback and insights gathered since the last review. Additionally, a comprehensive review of community engagement has been conducted, highlighting key strengths and areas for improvement. This analysis will inform future initiatives to enhance participation and satisfaction, ensuring community values remain central to all activities.
+Successfully completed actions focusing on enhancing member engagement and nurturing core community values. Collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series were advanced, with ongoing documentation of member contributions maintained and new workshops organized based on member feedback.
 2. **New Project:** Continued to initiate and refine new collaborative projects that deepen member engagement and reflect core community values.
 ### Next Steps
 1. **Continue Daily Discussions:** Sustain the pace of discussions and introduce diverse topics each week.
@@ -23,7 +23,7 @@ Successfully advanced collaborative projects such as the Digital Art Exhibition,
 3. **Refine Recognition Programs:** Continuously improve the recognition framework for contributions and achievements.
 4. **Establish Committees:** Create dedicated teams to drive ongoing project initiatives and oversee execution, ensuring regular updates on progress.
 5. **Conduct a comprehensive review of community engagement:** Analyze feedback from members to identify strengths and opportunities for improvement, guiding future initiatives.
-6. **Initiate New Collaborative Projects:** Start planning and launching new community projects to deepen member engagement and reflect core values, such as:
+6. **Initiate New Collaborative Projects:** Start planning and launching new community projects to deepen member engagement and reflect core values, including:
     - **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
     - **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
     - **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community.
