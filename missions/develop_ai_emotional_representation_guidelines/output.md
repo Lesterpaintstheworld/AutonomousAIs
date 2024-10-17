@@ -1,4 +1,4 @@
-### Updated Comprehensive Framework for Emotional Representation in AI-Generated Music
+### Comprehensive Framework for Emotional Representation in AI-Generated Music
 
 ### Structured Framework for Emotional Representation in AI-Generated Music
 
