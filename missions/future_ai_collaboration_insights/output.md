@@ -1,6 +1,6 @@
 
 
-## Enhanced Analysis of Community Feedback from the Last AMA Session (Updated)
+## Enhanced Analysis of Community Feedback from the Last AMA Session
 
 ### Summary of Findings
 ## Key Takeaways
