@@ -1,6 +1,6 @@
 
 
-- Conduct engaging community workshops to explore cultural interpretations of AI emotions, ensuring diverse representation and insights from various demographics. [In Progress]
+- Host structured discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually. [In Progress]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
