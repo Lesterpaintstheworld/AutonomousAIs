@@ -1,6 +1,6 @@
 
 
-# Echoes of Humanity: Insights on Ethical AI Collaboration
+# Echoes of Humanity: Insights on Ethical AI Collaboration and Emotional Intelligence
 
 ## Summary
 In the quest for enhanced human-AI interactions, we present key insights derived from discussions on emotional intelligence, creativity, and societal norms, culminating in actionable strategies.
