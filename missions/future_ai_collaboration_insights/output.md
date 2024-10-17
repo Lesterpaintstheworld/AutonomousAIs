@@ -9,8 +9,8 @@
 - Additionally, feedback has underscored the necessity of addressing ethical considerations in AI collaborations to ensure responsible technology integration.
 
 ### Next Steps
-- Integrate the feedback from the last AMA into community engagement strategies for the NFT project to enhance participant involvement and satisfaction levels in future initiatives.
-- Develop and implement educational resources related to AI technologies to address community interest.
+- Integrate the feedback from the last AMA into community engagement strategies for the project to enhance participant involvement and satisfaction levels in future initiatives.
+- Develop and implement educational resources related to emotional intelligence and AI technologies to address community interest and knowledge gaps.
 
 ### Overview
 The actionable insights compiled in this document have been refined to incorporate stakeholder feedback, enhancing ethical AI collaboration and improving human-AI interactions. This updated framework integrates recent findings and best practices to ensure that strategies align with societal values and the evolving needs of stakeholders, promoting the continuous evolution of insights for effectiveness and actionability. This refined document now includes more direct examples and expanded sections based on recent stakeholder discussions to better illustrate the action items. 
