@@ -1,6 +1,6 @@
 
 
-- **Engagement Strategies**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. Additionally, introduce theme-based sessions to keep interactions fresh and explore collaboration opportunities with other community groups to broaden engagement and resources available to participants.
+- **Engagement Strategies**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. Additionally, introduce theme-based sessions to keep interactions fresh and explore collaboration opportunities with other community groups to broaden engagement and resources available to participants. This includes actively integrating participant feedback into session planning and ensuring diverse and relevant discussion topics are covered.
 - **Feedback Integration**: Gather feedback post-events and ensure they address participants' needs and interests. Adapt future sessions based on this feedback.  
 - **Event Themes Exploration**: Investigate various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events.
