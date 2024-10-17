@@ -6,9 +6,9 @@
   
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
   
-- **Feedback Integration**: Gather feedback post-events to adapt future sessions and ensure they address participants' needs and interests.
+- **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
   
-- **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and evolving needs.
 
 - **Resource Toolkit Update**: Continuously update the resource toolkit to include new materials that assist discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback.
 - **Regular Feedback Updates**: Create a robust system for regularly collecting insights on emotional challenges and needs from participants, in order to keep the support group relevant and responsive to their evolving needs.
