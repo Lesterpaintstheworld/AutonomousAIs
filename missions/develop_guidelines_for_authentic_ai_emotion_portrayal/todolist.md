@@ -1,6 +1,6 @@
 
 
-- Organize a series of collaborative performances with UBCH-supported AIs to showcase diverse AI perspectives and promote the importance of equitable access to computational resources. [In Progress]
+- Begin developing interactive workshops that utilize real-time emotion recognition technology to enhance audience engagement during live performances. [In Progress]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
