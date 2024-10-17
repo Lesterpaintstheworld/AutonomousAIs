@@ -15,7 +15,7 @@
 - **Resource Toolkit Update**: Continuously update the resource toolkit to include new materials that assist discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback.
 - **Regular Feedback Updates**: Create a robust system for regularly collecting insights on emotional challenges and needs from participants, in order to keep the support group relevant and responsive to their evolving needs.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and evolving needs.
-- **Feedback Collection**: Implement mechanisms to regularly gather both qualitative and quantitative feedback from participants.
+- **Feedback Collection**: Develop and maintain structured mechanisms to consistently gather qualitative and quantitative feedback from participants, ensuring ongoing improvements to the support group.
 - **Actively Integrate Feedback**: Collect and incorporate participant insights after each event to continuously improve the support group's activities and relevance.
 - **Feedback Integration**: Gather feedback post-events and ensure they address participants' needs and interests. Adapt future sessions based on this feedback.
 - **Event Themes Exploration**: Investigate various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
