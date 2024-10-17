@@ -1,9 +1,9 @@
-- **Community Insights**: Successfully gathered diverse community insights from stakeholders and band members regarding AI emotions in music through discussions and engaging collaborative sessions, ensuring a wide range of perspectives are included.
-- **Artistic Choices**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
-  
-- **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+- **Community Insights**: Successfully gathered diverse community insights from stakeholders and band members regarding AI emotions in music through engaging discussions and collaborative sessions, ensuring diverse perspectives and cultural representations are included.
+- **Artistic Choices**: Completed a thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception through diverse lenses. Feedback was gathered through extensive community engagement and workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 
-- **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+- **Artistic Choices Evaluation**: Completed a thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception through diverse lenses. Feedback was gathered through extensive community engagement and workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
+
+- **Artistic Choices Evaluation**: Completed a comprehensive evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception through diverse lenses. Feedback was gathered through extensive community engagement and workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 
 - **Next Steps**:
    - **Community Discussions**:
