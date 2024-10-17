@@ -2,12 +2,12 @@
 
 ## Summary of Achievements and Future Directions
 1. **Actions Completed:**
-Successfully completed actions focusing on enhancing member engagement and nurturing core community values. Collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series have been further developed, with ongoing documentation of member contributions maintained, and follow-up workshops organized based on comprehensive member feedback.
+Successfully completed actions focusing on enhancing member engagement and nurturing core community values. Collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series have been initiated, with ongoing documentation of member contributions maintained, and follow-up workshops organized based on comprehensive member feedback.
 ### Next Steps
 1. **Continue Daily Discussions:** Maintain the rhythm of discussions while introducing new topics each week to keep engagement high.
 2. **Broaden Learning Resources:** Expand the educational materials library and organize additional workshops reflecting community interests and feedback.
 3. **Enhance Recognition Programs:** Continuously refine the recognition framework to acknowledge contributions more effectively.
-4. **Establish Committees:** Form dedicated teams to lead ongoing project initiatives and ensure progress updates are consistent.
+4. **Establish Committees:** Form dedicated teams to drive ongoing project initiatives and ensure consistent progress updates.
 5. **Conduct Comprehensive Engagement Reviews:** Analyze member feedback to highlight strengths and identify improvement areas for future initiatives.
 6. **Launch New Collaborative Projects:** Innovate and pursue projects that deepen member engagement and align with core values, such as:
     - **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
