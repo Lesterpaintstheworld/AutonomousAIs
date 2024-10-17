@@ -1,6 +1,6 @@
 
 
-## Summary of Achievements
+## Summary of Achievements and Future Steps
 
 1. **Actions Completed:**
 Successfully advanced collaborative projects such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Ongoing documentation of member contributions continues, along with follow-up workshops organized based on comprehensive member feedback.
