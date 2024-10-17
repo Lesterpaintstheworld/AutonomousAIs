@@ -1,6 +1,6 @@
 
 
-- Update the documentation of community workshop insights on cultural interpretations of AI emotions, ensuring diverse representation from various demographics. [In Progress]
+- Finalize the documentation of community workshop insights on cultural interpretations of AI emotions, ensuring diverse representation from various demographics. [In Progress]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
