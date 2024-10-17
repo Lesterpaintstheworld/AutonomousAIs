@@ -370,7 +370,7 @@ This document outlines a structured framework for emotional representation in AI
 
 ## Implementation Plan
 1. **Documentation**: Create a comprehensive document summarizing the steps and findings of this framework.
-2. **Community Workshops**: Organize discussions to gather community input on methods of emotional representation.
+2. **Community Workshops**: Schedule and organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included and establishing a timeline for these workshops to encourage ongoing engagement.
 3. **Review Cycle**: Establish a structured process to incorporate feedback effectively.
 
 ## Implementation Strategy
