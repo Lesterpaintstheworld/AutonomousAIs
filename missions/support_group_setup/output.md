@@ -10,7 +10,7 @@
   
 - **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
   
-- **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
+- **Post-Event Surveys Implementation**: Surveys have been implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
 
 - **Resource Toolkit Update**: Continuously update the resource toolkit to include new materials that assist discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback.
 - **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
