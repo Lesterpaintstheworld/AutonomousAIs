@@ -98,6 +98,8 @@ Successfully advanced collaborative projects such as the Digital Art Exhibition,
         1. **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
         2. **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
         3. **Intergenerational Dialogue Series** – A series of discussions aimed at building connections between different age groups within the community, enhancing understanding and cooperation.
+        4. **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
+        5. **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
    - Evaluated the impact of these initiatives, emphasizing member engagement and feedback.
    - Continued documentation of contributions to ensure recognition and motivation among community members, further reinforcing core values.
    - Conducted a comprehensive review of community feedback to refine ongoing initiatives based on insights gathered.
