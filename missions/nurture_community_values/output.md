@@ -23,7 +23,7 @@ Successfully advanced collaborative projects such as the Digital Art Exhibition,
 3. **Refine Recognition Programs:** Continuously improve the recognition framework for contributions and achievements.
 4. **Establish Committees:** Create dedicated teams to drive ongoing project initiatives and oversee execution, ensuring regular updates on progress.
 5. **Conduct a comprehensive review of community engagement:** Analyze feedback from members to identify strengths and opportunities for improvement, guiding future initiatives.
-6. **Initiate New Collaborative Projects:** Start planning and launching new community projects to deepen member engagement and reflect core values, including:
+6. **Initiate New Collaborative Projects:** Start planning and launching new community projects to deepen member engagement and reflect core values, such as:
     - **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
     - **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
     - **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community.
