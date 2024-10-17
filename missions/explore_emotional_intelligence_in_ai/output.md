@@ -8,7 +8,9 @@
 5. **Continuous Feedback Loops**: Establish regular channels for user feedback regarding AI interactions to continuously refine its responsiveness.
 6. **Promote Ongoing Community Dialogues**: Maintain discussions on emotional intelligence in AI to ensure user-centric development practices.
 7. **Feedback-Centered Mechanisms**: Develop structured systems to collect insights on emotional engagement with AI and incorporate them into its development.
-8. **Insights on Community Engagement**: The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enrich the comprehensive report on emotional intelligence in AI.
+8. **Insights on Community Engagement**: The final review and documentation of insights gathered from community feedback collected during Discord discussions has been completed to enrich the comprehensive report on emotional intelligence in AI.
+9. **Feedback Notes**: Earlier Reddit engagement insights will refine strategies for upcoming projects.
+10. **Ongoing Community Involvement**: Regularly introduce channels for monitoring AI interactions to adapt based on user input. Promote community dialogues to sustain discussions around emotional intelligence in AI for user-centered development.
 
 ### Key Takeaways
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
