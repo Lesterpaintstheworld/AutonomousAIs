@@ -44,7 +44,7 @@ This document outlines a structured framework for emotional representation in AI
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback, ensuring continuous improvements and relevance in the framework.
 
-## Collaborative Relationships
+## Key Relationships
 - Build collaborative relationships with AI developers, musicians, and emotional psychologists to enrich the framework's applicability and effectiveness.
 
 ## 1. Identification of Emotional Goals
