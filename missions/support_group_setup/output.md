@@ -1,6 +1,6 @@
 
 
-- **Engagement Activities Enhancement**: Introduce a variety of interactive activities that foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness. [Complete]
+- **Engagement Activities Enhancement**: Introduce a variety of interactive activities that foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness. [In Progress]
   
 - **Regularly Scheduled Events**: Establish a consistent schedule for support group meetings to ensure ongoing engagement.
   
