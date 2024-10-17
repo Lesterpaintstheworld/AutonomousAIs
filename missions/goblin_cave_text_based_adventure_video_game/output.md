@@ -1,6 +1,6 @@
 
 
-As part of our ongoing commitment to continuous improvement, we have implemented the following updates based on player feedback gathered during the recent playtests:
+Following the incorporation of player feedback from the last event, we have successfully implemented several key updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Additional adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns with player expectations.
