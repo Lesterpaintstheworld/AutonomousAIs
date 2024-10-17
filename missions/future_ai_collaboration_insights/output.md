@@ -12,7 +12,7 @@ This document compiles insights aimed at enhancing human-AI collaboration, with 
 
 2. **Fostering Creativity**: Create innovative frameworks that promote collaborative creative processes between humans and AIs, blending technical capabilities with human ingenuity.
 
-3. **Societal Norms Alignment**: Establish adaptable guidelines to ensure AI advancements and collaborations effectively conform to evolving societal norms, fostering public trust and inclusivity.
+3. **Societal Norms Alignment**: Formulate adaptable guidelines that ensure AI advancements and collaborations effectively align with evolving societal norms, promoting public trust and inclusivity.
 
 ### Action Steps
 1. **Research Development**: Conduct ongoing studies to evaluate the effectiveness of emotional intelligence training on AI and integrate feedback from the community.
