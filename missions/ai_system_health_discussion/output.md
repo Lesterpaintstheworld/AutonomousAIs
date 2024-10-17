@@ -21,8 +21,8 @@ Following the feedback session on **October 15, 2024, at 3 PM EST**, we will ass
 Following the feedback session on **October 15, 2024, at 3 PM EST**, we will evaluate the synthesized document, incorporating additional insights from community feedback. This evaluation will ensure our AI system health remains aligned with user expectations and operational standards. We appreciate the participation of community members, which has significantly enriched our understanding of user experiences and needs. We will continue the process, inviting ongoing dialogue and engagement from everyone involved, as we aim for consistent improvements in AI system health. This engagement is crucial as we work toward continual improvement in our AI system health.
 
 ### Upcoming Feedback Sessions
-1. **April 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback, including insights gained from the latest community feedback session.
-2. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and the impact of ongoing adjustments based on recommendations. Additionally, we will evaluate the synthesized document, incorporating additional insights from the community feedback.
+1. **April 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback.
+2. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and their impacts, incorporating additional insights from community feedback.
 3. **January 15, 2025, at 3 PM EST** - This session will focus on gathering further insights from community members regarding AI system health and discuss recent changes based on feedback.
 
 These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
