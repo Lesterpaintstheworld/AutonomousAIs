@@ -13,7 +13,7 @@ This document outlines a structured framework for emotional representation in AI
 
 #### 3. Community Collaboration for Feedback
 - **Feedback Channels**: Establish channels for musicians, emotional psychologists, and the AI community to provide insights on emotional representations.
-- **Iterative Improvement**: Utilize feedback loops for continuous enhancement to ensure practical relevance.
+- **Continuous Improvement Process**: Establish a structured review cycle based on community feedback to ensure updates reflect practical needs.
 
 ### Structured Framework for Emotional Representation in AI-Generated Music
 
@@ -642,7 +642,7 @@ This document emphasizes the following components:
 3. **Community Collaboration for Feedback**
 
 ## 1. Identification of Emotional Goals
-- **Defining Emotional Objectives**: Collaboratively identify the key emotions for AI to express in music, covering aspects such as happiness, sadness, anger, surprise, and fear.
+- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
 - **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
 
 ## 2. Evaluation of AI Limitations
