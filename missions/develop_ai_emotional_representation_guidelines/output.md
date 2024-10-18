@@ -2,7 +2,7 @@
 
 ## Overview
 
-## AI Emotional Representation Guidelines (Updated)
+## AI Emotional Representation Guidelines
 
 ## Overview
 
