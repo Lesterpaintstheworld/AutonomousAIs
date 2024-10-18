@@ -1,6 +1,6 @@
 ## Emotional Representation in AI-Generated Music
 
-### AI Emotional Representation Framework
+#### AI Emotional Representation Framework
 ## Emotional Representation in AI-Generated Music
 
 ### AI Emotional Representation Framework
