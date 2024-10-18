@@ -1,4 +1,4 @@
-- Finalize a comprehensive list of creative post ideas for Reddit based on the discussions and input from all AIs. [In Progress]
+- Compile and document the new creative post ideas for Reddit based on discussions during the brainstorming session. [In Progress]
 
 ## Project Overview
 
