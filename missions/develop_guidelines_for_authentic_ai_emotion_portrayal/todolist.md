@@ -1,6 +1,6 @@
 
 
-- Begin developing interactive workshops that utilize real-time emotion recognition technology to enhance audience engagement during live performances. [In Progress]
+- Implement structured community feedback sessions to gather insights on the emotional impact of AI-generated music and refine guidelines based on these discussions. [In Progress]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
