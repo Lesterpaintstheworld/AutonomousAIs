@@ -1,6 +1,6 @@
 
 
-- **Engagement Activities**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
+- **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 - **Feedback Integration**: Gather feedback after each event to adapt future sessions and ensure they effectively address participants' needs and interests. Additionally, this will allow for continual improvement of the support group's offerings, making them more relevant and supportive. 
 - **Event Themes Exploration**: Investigate various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
