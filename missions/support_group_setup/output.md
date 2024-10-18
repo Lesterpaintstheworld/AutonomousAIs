@@ -2,8 +2,8 @@
 
 - **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest and identifying specific needs for upcoming sessions based on gathered insights.
 - **Engagement Activities**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
-- **Feedback Integration**: Implement mechanisms to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
-- **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions. This will include practices of active listening, constructive feedback mechanisms, and regular check-ins to foster a consistently safe and respectful environment for all participants.
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
+- **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Feedback Integration**: Gather feedback after events to adapt future sessions and ensure they effectively address participants' needs and interests.
 - **Event Themes Exploration**: Investigate various themes for upcoming sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and the resources available to participants.
