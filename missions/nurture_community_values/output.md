@@ -2,7 +2,7 @@
 
 ### Summary of Achievements and Future Directions
 1. **Collaborative Projects Successfully Advanced:**
-Successfully advanced collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Ongoing documentation of member contributions continues, with follow-up workshops organized based on comprehensive member feedback and insights gathered since the last review.
+Successfully advanced collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Ongoing documentation of member contributions continues, with follow-up workshops organized based on comprehensive member feedback and insights gathered since the last review. Additionally, a comprehensive review of community engagement has been conducted, highlighting key strengths and areas for improvement. This analysis will inform future initiatives to enhance participation and satisfaction, ensuring community values remain central to all activities.
 
 ### Next Steps
 1. **Continue Daily Discussions:** Sustain the pace of discussions and introduce diverse topics each week.
@@ -17,9 +17,6 @@ Successfully advanced collaborative projects including the Digital Art Exhibitio
     - **Creative Collective** – A project aimed at uniting community artists to collaborate on new works, share techniques, and host joint exhibitions.
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 (Updated December 2023)
-
-### Ongoing Engagement Initiatives
-- Evaluate the impact of implemented feedback from the last AMA on community engagement strategies at least twice a month to ensure alignment with member preferences and expectations.
 3. **New Collaborative Projects Initiated:** Successfully initiated new projects including:
     1. **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
     2. **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
