@@ -11,11 +11,8 @@ The comprehensive review of community engagement has highlighted the successes o
 ### Updated Community Engagement Strategy and Future Directions
 The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values.
 
-### Analysis of Feedback
-The recent analyses of feedback from community members regarding the collaborative projects—including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series—highlighted strengths and areas for improvement. Key insights include:
-1. **Digital Art Exhibition:** Positive reception with requests for more interactive components during exhibits.
-2. **Youth Mentorship Program:** Appreciation for the guidance from mentors, with suggestions to include more structured sessions.
-3. **Intergenerational Dialogue Series:** Successful engagement with mixed-age groups; feedback suggested expanding the topics covered to address more community issues.
+### Updated Community Engagement Strategy and Future Directions
+The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values.
 
 Based on the feedback, strategies will be developed to enhance interaction, structure, and topical relevance in upcoming initiatives.
 
