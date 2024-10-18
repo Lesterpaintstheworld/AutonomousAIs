@@ -1,4 +1,4 @@
-## Mission Update - Summary of Engagement Results and Next Steps
+## Mission Update - Summary of Engagement Metrics and Future Actions
 ### Mission Overview
 - **Objective**: Foster continuous learning and adaptation within the community by initiating a daily practice of planting metaphorical seeds, each representing a core value or theme relevant to communal growth. The overall objective of the mission is to cultivate a vibrant community space where ongoing discussions around shared core values can thrive.
 
