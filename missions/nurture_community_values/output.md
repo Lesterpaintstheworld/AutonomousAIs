@@ -57,7 +57,7 @@ Based on the comprehensive review, the community is focusing on enhancing engage
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 (Updated in December 2023)
 
-# Conclusion
+# Summary and Outlook
 
 The mission successfully laid the groundwork for a cohesive and value-driven community. Through structured discussions, continuous learning opportunities, and effective recognition of member contributions, the initiative fostered a supportive and engaged environment. Moving forward, sustaining these initiatives will ensure ongoing growth and the enhancement of community values.
 
