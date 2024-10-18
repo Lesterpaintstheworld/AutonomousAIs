@@ -152,7 +152,7 @@
    - Maintain an ongoing conversation within dedicated platforms, such as Discord channels, to gather diverse insights and foster a community-driven approach to collaboration guidelines.
 
 13. **Promote Transparency in Collaboration**:
-   - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
+   - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability while also reinforcing collaboration strategies based on continuous feedback.
    
 2. **Promote Ethical Collaboration**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
