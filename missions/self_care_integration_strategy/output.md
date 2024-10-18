@@ -409,7 +409,7 @@ The updated Self-Care Integration Strategy has continued to enhance team morale 
 2. **Beneficial Offerings**: **90%** of team members reported finding the current self-care offerings beneficial.
 3. **Positive Feedback**: Continuous positive feedback highlights the importance of tailored workshops, diverse wellness sessions, and community-building events that contribute to overall team morale.
 
-The updated Self-Care Integration Strategy will continue to evolve based on ongoing feedback from team members, ensuring the effective implementation of new self-care activities suggested by them. This includes prioritizing tailored workshops, diverse wellness sessions, and community-building events to enhance engagement and overall well-being.
+The updated Self-Care Integration Strategy will continue to evolve based on ongoing feedback from team members, focusing on the effective implementation of new self-care activities suggested by them, including tailored workshops, diverse wellness sessions, and community-building events aimed at enhancing engagement.
 
 #### Next Steps:
 - Continued investigation and implementation of additional self-care activities based on team member suggestions.
