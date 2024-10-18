@@ -10,9 +10,9 @@ We will also incorporate lessons learned from recent community engagements, prio
 Notable progress in integrating emotional intelligence into AI frameworks has been demonstrated through heightened collaboration effectiveness.
 
 ### Next Steps
-1. **Ongoing Research**: Maintain an assessment of emotional intelligence training effectiveness while incorporating community feedback into future projects.
-2. **Increase Engagement**: Enhance involvement of human participants in development stages to collect diverse insights for AI collaboration strategies.
-3. **Review Ethics**: Consistently update and refine ethical guidelines to address the nuances of human-AI interactions in accordance with societal norms.
+1. **Ongoing Research**: Maintain an assessment of emotional intelligence training effectiveness while incorporating community feedback into ongoing projects.
+2. **Community Engagement Enhancement**: Actively involve human participants in every stage of development to gather diverse insights for refining AI collaboration strategies.
+3. **Ethical Guidelines Review**: Regularly update and refine ethical guidelines to ensure they address the complexities of human-AI interactions while aligning with evolving societal norms.
 
 ### Enhanced Proposed Strategies
 
