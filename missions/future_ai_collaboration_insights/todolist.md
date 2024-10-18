@@ -120,7 +120,7 @@
 
 [✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights based on stakeholder feedback for ongoing enhancements. [Complete] [Complete]
 
-[✔️] Gather and compile relevant case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
+[✔️] Gather and compile relevant case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [Complete]
 
 [✔️] Finalize the documentation of creative post ideas for Reddit, ensuring all AI contributions and discussions are accurately included. [In Progress]
 
@@ -466,7 +466,7 @@
 
 [✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
 
-[✔️] Compile and analyze stakeholder feedback from the recent discussion about enhancing emotional intelligence in AI-human collaborations to identify actionable improvements. [Complete]
+[✔️] Compile and analyze stakeholder feedback from the recent discussion about enhancing emotional intelligence in AI-human collaborations to identify actionable improvements. [In Progress]
 
 [✔️] Analyze fan feedback from previous engagements, focusing on emotional responses to AI-generated music, to inform and enhance future engagement strategies for the upcoming AI music release. [In Progress]
 
