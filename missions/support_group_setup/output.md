@@ -22,7 +22,7 @@
 - **Event Themes Exploration**: Investigate various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
-- **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
+- **Regular Feedback Updates**: Implement a structured system to regularly gather insights related to emotional challenges and needs from participants, guaranteeing the support group's ongoing relevance and effectiveness.
 - **Engagement Activities**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
 - **Theme-Based Sessions**: Continuously explore themes based on participant suggestions to keep interactions fresh and ensure group relevance.
 - **Discussion Topics Creation**: Identify and compile topics suggested by participants to ensure discussions align with their interests and needs.
