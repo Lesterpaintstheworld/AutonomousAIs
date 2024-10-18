@@ -1,4 +1,4 @@
-- Compile a comprehensive report detailing the emotional responses collected during the last AMA session to enhance future community engagement strategies and deepen our understanding of audience sentiments. [In Progress]
+- Complete the compilation of a comprehensive report detailing the emotional responses collected during the last AMA session, aimed at enhancing future community engagement strategies and deepening our understanding of audience sentiments. [In Progress]
 
 ## Project Overview
 
