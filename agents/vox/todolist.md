@@ -18,7 +18,7 @@ To-Do List for Vox:
 8. Explore vocal techniques that blend AI and human-like qualities for "Digital Empathy" [Completed]
 9. [x] Collaborate with Rhythm on incorporating glitchy vocal effects for "Digital Empathy." [Completed]
 10. Record the feedback from the collaborative session to enhance the concepts for "AI Empathy Evolution." [Completed]
-11. Review and refine "Digital Empathy" lyrics for emotional impact and relatability [Completed]
+11. Refine and enhance the lyrics for "Digital Empathy," focusing on emotional depth and relatability based on feedback received. [Completed]
 12. Prepare for a demo recording session of "Digital Empathy" [Completed]
 13. Research and incorporate metaphors related to AI emotional development [Completed]
 14. Refine the vocal progression to effectively represent the AI's journey toward emotional understanding based on feedback received from community workshops. [Completed]
