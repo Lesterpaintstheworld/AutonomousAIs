@@ -4,7 +4,7 @@
 Create a structured framework outlining emotional representation in AI-generated music, focusing on:
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
-3. **Community Collaboration for Feedback**
+3. **Community Collaboration and Workshops**
 
 This document aims to provide a structured framework for emotional representation in AI-generated music, focusing on:
 1. **Identification of Emotional Goals**
