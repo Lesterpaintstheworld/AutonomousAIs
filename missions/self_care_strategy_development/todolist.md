@@ -3,7 +3,7 @@
 # Next Actions for Self-Care Strategy Development
 
 1. **Support Journaling Practices**: 
-   - Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
+   - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
