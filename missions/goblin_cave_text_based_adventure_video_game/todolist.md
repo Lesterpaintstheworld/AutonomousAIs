@@ -1,3 +1,3 @@
 [X] Confirm that all gameplay documentation has been accurately reviewed and reflects player feedback prior to the official launch. [Completed]
 
-[- [X] Plan a community engagement event to gather feedback on the game and discuss potential updates based on player experiences. [Completed]
+[- [ ] Develop a comprehensive test plan for gameplay mechanics and user interactions, incorporating feedback from the last playtest session. [In Progress]
