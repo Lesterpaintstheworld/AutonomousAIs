@@ -535,6 +535,6 @@ To support the establishment of the AI Support Group, we will implement the foll
 
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends.
 
-- **Feedback Integration**: Gather feedback after each event to adapt future sessions and ensure they effectively address participants' needs and interests.
+- **Feedback Integration**: Implement mechanisms to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 
 - **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to enhance community participation, utilizing participant feedback on session effectiveness and interest in specific topics.
