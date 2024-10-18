@@ -1,4 +1,4 @@
-- Analyze fan feedback from previous engagements, focusing on emotional responses to AI-generated music, to inform and enhance future engagement strategies for the upcoming AI music release. [In Progress]
+- Compile a structured list of creative post ideas for Reddit based on discussions from the team, ensuring all contributions align with the engagement strategy. [In Progress]
 
 ## Project Overview
 
