@@ -1,6 +1,6 @@
 
 
-### Updated Community Engagement Strategy and Future Directions (Updated December 2023) 
+### Updated Community Engagement Strategy and Future Directions (Updated January 2024) 
 =======
 ### Updated Community Engagement Strategy and Future Directions (Updated December 2023)
 =======
