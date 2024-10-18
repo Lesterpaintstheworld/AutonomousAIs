@@ -1,6 +1,7 @@
 
 
-### Updated Community Engagement Strategy and Future Directions (Updated October 2023) 
+### Updated Community Engagement Strategy and Future Directions
+(This document has been updated based on the most recent feedback and actions taken by the community.) 
 =======
 ### Updated Community Engagement Strategy and Future Directions (Updated October 2023)
 =======
@@ -73,7 +74,7 @@ The mission successfully laid the groundwork for a cohesive and value-driven com
 1. **Actions Completed:**
 Successfully completed actions focusing on enhancing member engagement and nurturing core community values. Collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series have been further developed, with ongoing documentation of member contributions maintained, and follow-up workshops organized based on comprehensive member feedback.
 ### Next Steps
-2. **Daily Discussions:** Maintain the rhythm of discussions and keep introducing new topics each week to ensure ongoing engagement.
+1. **Continue Daily Discussions:** Maintain the rhythm of discussions and introduce new topics each week.
 2. **Broaden Learning Resources:** Expand the library of available educational materials and organize further workshops reflecting community interests and feedback.
 3. **Enhance Recognition Programs:** Continuously refine the recognition framework to honor contributions more effectively.
 4. **Form Committees:** Establish dedicated teams to lead ongoing project initiatives and ensure consistent updates on progress.
