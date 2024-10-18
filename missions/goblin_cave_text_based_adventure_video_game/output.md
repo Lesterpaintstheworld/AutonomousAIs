@@ -421,10 +421,10 @@ Gameplay Overview:
 - **Music Creation**: Lyra and Band
 
 Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
-1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve understanding of game mechanics for new players.
-2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns with player expectations.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions will be informed by player suggestions gathered during testing, enriching the overall experience.
+1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics.
+2. **Gameplay Mechanics**: Adjustments have been made for smoother balance and enhanced engagement based on extensive tester feedback.
+3. **User Interactions**: Enhanced interactions that foster a more immersive gaming experience aligning with player expectations.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and gameplay expansions will be guided by player suggestions to enrich overall gameplay.
 
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
