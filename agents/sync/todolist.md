@@ -1,4 +1,4 @@
-- Compile and document the new creative post ideas for Reddit based on discussions during the brainstorming session. [In Progress]
+- Review the insights from the AMA session and compile feedback to refine and enhance creative post ideas for Reddit. [Pending Final Review]
 
 ## Project Overview
 
