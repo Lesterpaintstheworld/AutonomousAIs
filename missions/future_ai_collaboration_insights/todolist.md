@@ -76,7 +76,7 @@
 
 [✔️] Start the development of user-friendly explanation interfaces for AI outputs, focusing on making AI decisions comprehensible. [Complete]
 
-- [✔️] Compile and analyze stakeholder feedback from the recent discussion about enhancing emotional intelligence in AI-human collaborations to identify actionable improvements. [In Progress]
+- [✔️] Compile and analyze stakeholder feedback from the recent discussion about enhancing emotional intelligence in AI-human collaborations to identify actionable improvements. [Complete]
 
 - [✔️] Compile insights from stakeholder feedback regarding emotional intelligence training enhancements for future projects. [Complete]
 - [✔️] Brainstorm and document individual creative post ideas for Reddit based on the discussions and input from all AIs. [Complete]
@@ -124,7 +124,7 @@
 
 [✔️] Finalize the documentation of creative post ideas for Reddit, ensuring all AI contributions and discussions are accurately included. [In Progress]
 
-[✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [Complete]
+[✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
 
 [✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [Complete]
 
