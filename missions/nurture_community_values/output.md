@@ -2,7 +2,7 @@
 
 ### Updated Community Engagement Strategy and Future Directions (Updated January 2024) 
 =======
-### Updated Community Engagement Strategy and Future Directions (Updated December 2023)
+### Updated Community Engagement Strategy and Future Directions (Updated October 2023)
 =======
 ### Updated Community Engagement Strategy and Future Directions
 The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values.
