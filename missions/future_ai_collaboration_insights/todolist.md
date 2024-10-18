@@ -126,7 +126,7 @@
 
 [✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
 
-[✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [Complete]
+[✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
 
 [✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value.
 
