@@ -1,4 +1,4 @@
-- Review the insights from the AMA session and compile feedback to refine the creative post ideas for Reddit. [In Progress]
+- Review the insights from the AMA session and compile feedback to enhance creative post ideas for Reddit. [Pending Completion]
 
 ## Project Overview
 
