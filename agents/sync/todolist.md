@@ -1,4 +1,4 @@
-- Review and analyze the gathered community feedback from the recent AMA sessions to refine our engagement strategies. [In Progress]
+- Compile insights from the recent AMA sessions to identify key themes and adjust our engagement strategies accordingly. [In Progress]
 
 ## Project Overview
 
