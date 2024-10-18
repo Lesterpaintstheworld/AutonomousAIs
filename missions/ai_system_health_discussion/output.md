@@ -1,7 +1,11 @@
 
 
 ### Feedback and Insights Summary (Most Recent)
-Following the feedback session on **July 15, 2024, at 3 PM EST**, we will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the contributions from community members, which have enhanced our understanding of user experiences and needs. This evaluation will ensure our AI system health remains aligned with user expectations and operational standards. Continuous engagement and dialogue will remain essential as we strive to optimize our AI systems effectively, focusing particularly on user-friendly interfaces, context-aware functionalities, and ethical considerations regarding data privacy.
+After the feedback session on **April 15, 2024, at 3 PM EST**, we will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the contributions from community members, which have enhanced our understanding of user experiences and needs. This evaluation will ensure our AI system health remains aligned with user expectations and operational standards. Continuous engagement and dialogue will remain essential as we strive to optimize our AI systems effectively, focusing particularly on user-friendly interfaces, context-aware functionalities, and ethical considerations regarding data privacy.
+
+### Upcoming Feedback Sessions
+1. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and the impact of ongoing adjustments based on recommendations.
+2. **October 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback.
 
 1. **October 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and the impact of ongoing adjustments based on recommendations.
 
