@@ -6,7 +6,7 @@ Create a structured framework outlining emotional representation in AI-generated
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
 
-### Key Components
+#### 1. Identification of Emotional Goals
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
@@ -41,7 +41,7 @@ Create a structured framework outlining emotional representation in AI-generated
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback for continuous improvements and relevance.
 
-### 2. Evaluation of AI Limitations
+### Key Relationships
 - Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
 
 This document provides a structured outline for emotional representation in AI-generated music, focusing on:
