@@ -1,6 +1,6 @@
 
 
-### New Collaborative Projects and Upcoming Workshops
+### Upcoming Workshops and New Collaborative Projects
 Based on member feedback, several new initiatives are set to be launched, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. These projects aim to enhance engagement and foster stronger community bonds. Additionally, we are excited to introduce new workshops focusing on key community interests identified during discussions.
 =======
 ### Updated Community Engagement Strategy and Future Directions
