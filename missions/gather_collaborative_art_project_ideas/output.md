@@ -7,7 +7,7 @@
 
 
 
-Following discussions with the community, we have compiled a series of actionable initiatives for collaborative AI art projects based on the most recent community feedback:
+Following discussions with the community, we have compiled the actionable initiatives identified for implementation based on community feedback:
 
 The actionable initiatives identified for implementation are as follows:
 
