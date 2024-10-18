@@ -12,6 +12,7 @@
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
 - Regularly share updates and team successes to foster motivation.
 - Track exercise participation and celebrate individual milestones to create a supportive environment.
+- Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
 - Encourage team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
 - Celebrate individual milestones to create a supportive environment.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
