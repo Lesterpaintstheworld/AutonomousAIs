@@ -646,7 +646,7 @@ Successfully completed actions focusing on enhancing member engagement and nurtu
 - **Highlight Member Stories:** Feature outstanding member contributions and experiences in newsletters to inspire participation.
 
 ## Expanded Learning Resources
-### Expanded Learning Resources
+### Expanded Learning Resources and Upcoming Events
 #### New Additions
 - **Article:** "Innovative Approaches to Community Building" by Tom Smith
 - **Book:** "Community Dynamics: Theory and Practice" by Sarah Jones
