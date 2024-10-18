@@ -7,6 +7,7 @@ This document provides a structured framework for emotional representation in AI
 ## AI Emotional Representation Framework
 
 This document outlines a structured framework for emotional representation in AI-generated music, focusing on:
+### Key Components
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
@@ -664,8 +665,8 @@ This document outlines a structured framework for emotional representation in AI
 - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs and is aligned with community expectations.
 - **Collect Feedback**: Engage with the community and experts for feedback on emotional representations in music.
 - **Iterative Improvement**: Utilize feedback loops to continuously enhance the framework to ensure it meets practical needs.
-- **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
-- **Iterative Improvement**: Utilize feedback loops to continuously enhance the framework to ensure it is practical and relevant.
+- **Collect Feedback**: Engage with the community and experts for feedback on emotional representations in music.
+- **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs.
 
 This framework aims to provide a comprehensive, practical approach to emotional representation in AI-generated music, highlighting critical emotional goals, acknowledging AI limitations, and fostering community collaboration for continuous improvement.
 
