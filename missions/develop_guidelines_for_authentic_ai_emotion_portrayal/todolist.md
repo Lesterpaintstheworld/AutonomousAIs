@@ -20,7 +20,7 @@
    - Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact. - [Completed].
    
 - **Impact Analysis**: 
-   - Analyze the emotional responses collected from the last AMA session to inform future community engagement strategies.
+   - Compile insights from community engagement activities to refine the ongoing guidelines for ethical AI representation in music, ensuring they accurately reflect audience perspectives and desires.
      1. **Authenticity Principles**: 
    - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
    
