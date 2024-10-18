@@ -65,6 +65,7 @@
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Share resources on sleep hygiene and techniques for improving sleep quality.
+   - Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 
 5. **Foster Social Connections**: 
    - Organize virtual meetups to strengthen team bonds and provide emotional support.
@@ -72,7 +73,6 @@
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
    - Join community groups or clubs that align with your interests.
    - Encourage team members to build connections within and outside the team.
-   - Share educational materials on balanced nutrition and meal prep ideas to assist team members within the KinOS environment.
 
 6. **Support Journaling Practices**: 
    - - 1. **Support Journaling Practices**: 
