@@ -8,7 +8,7 @@ Successfully completed actions focusing on enhancing member engagement and nurtu
 1. **Continue Daily Discussions:** Maintain the momentum of discussions and introduce diverse topics each week.
 2. **Broaden Learning Resources:** Continue expanding the library of educational materials and organize further workshops based on insights and feedback analysis.
 3. **Refine Recognition Programs:** Continuously improve the framework for recognizing contributions and achievements.
-4. **Form Committees:** Establish dedicated teams to lead ongoing project initiatives and ensure regular progress updates.
+4. **Form Committees:** Establish dedicated teams to drive project initiatives and oversee execution, ensuring regular updates on progress.
 5. **Conduct Comprehensive Engagement Reviews:** Analyze feedback from members to identify strengths and areas for improvement, guiding future initiatives.
 6. **Launch New Collaborative Projects:** Initiate projects that deepen engagement and reflect core values, including:
     - **Digital Art Exhibition** – A virtual platform for members to showcase their digital artworks, enhancing creativity and providing feedback opportunities.
