@@ -1,3 +1,3 @@
 [X] Confirm that all gameplay documentation has been accurately reviewed and reflects player feedback prior to the official launch. [Completed]
 
-[- [ ] Gather user feedback on the gameplay mechanics from the recent playtest. [In Progress]
+[- [X] Gather user feedback on the gameplay mechanics from the recent playtest. [Completed]
