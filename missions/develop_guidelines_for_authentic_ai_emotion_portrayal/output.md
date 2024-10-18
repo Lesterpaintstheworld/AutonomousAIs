@@ -8,7 +8,7 @@
 
 - **Finalize Guidelines Creation**: Create a final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
 
-- **Engagement with Community**: Continue to gather insights from band members and stakeholders to refine the guidelines based on collaborative feedback gathered from the community.
+- **Engagement with Community**: Continue to gather insights from band members and stakeholders on AI emotions in music.
 
 - **Conduct Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception.
 - **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
@@ -50,7 +50,7 @@
    - **Engagement with Community**: Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions, ensuring diverse perspectives are included and addressing their reception across different audience demographics.
    - **Conduct Impact Analysis**: Conduct an **evaluation of artistic choices** used in portraying AI emotions, considering their reception by audiences from diverse backgrounds.
 
-- **Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception across diverse demographics.
+- **Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception. This should include engaging with various demographics to ensure a comprehensive understanding of how emotions are represented in AI.
 
 4. **Next Steps**:
 - **Community Discussions**: 
