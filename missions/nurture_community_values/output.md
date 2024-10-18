@@ -573,7 +573,7 @@ Successfully completed actions focusing on enhancing member engagement and nurtu
 - **New Categories and Quarterly Awards**: Introducing additional categories such as "Innovator of the Month," "Learning Advocate," "Engagement Leader," and "Community Contributor." Established quarterly awards selected through community voting for notable contributions.
 - **Member Stories in Newsletters**: Spotlighting outstanding member contributions and experiences in newsletters to inspire participation.
   
-#### Foster Community Projects and Initiatives
+#### Foster Community Projects
 
 - **Description:** Encourage collaborative projects that align with the community's core values and goals.
 - **Actions:**
