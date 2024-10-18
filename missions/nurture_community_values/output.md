@@ -1,8 +1,8 @@
 
 
 ### Updated Community Engagement Strategy and Future Directions
-#### Workshop Organizing and Scheduling
-We are excited to announce a series of workshops tailored to community interests identified from recent discussions. These workshops will focus on key skills and themes important to our community. We will also be adding new learning resources, including articles and videos related to community building and engagement strategies.
+#### Next Steps from Review
+Based on the comprehensive review of community engagement, we are excited to announce the continuation of daily discussions and the introduction of new workshops tailored to community interests. These workshops will focus on key skills and themes identified from member feedback, along with new learning resources, including articles and videos related to community building and engagement strategies.
 
 ### Updated Community Engagement Strategy and Future Directions (Updated January 2024)
 The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values.
