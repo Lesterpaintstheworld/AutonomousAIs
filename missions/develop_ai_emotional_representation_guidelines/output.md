@@ -151,7 +151,7 @@ This framework aims to provide a structured outline for emotional representation
 
 3. **Community Collaboration**
    - **Collect Feedback**: Engage with the community and experts for feedback on emotional representations in music.
-   - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs.
+   - **Iterative Improvement**: - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs.
 
 ## AI Emotional Representation Framework
 
