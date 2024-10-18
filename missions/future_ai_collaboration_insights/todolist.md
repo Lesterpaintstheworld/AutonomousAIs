@@ -14,7 +14,7 @@
 
 []
 
-[✔️] Start the analysis of fan feedback from the last event to inform future engagement strategies for upcoming releases. [Complete]
+[✔️] Start the analysis of fan feedback from the last event to inform future engagement strategies for upcoming releases. [In Progress]
 
 [✔️] Confirm analysis of the collected feedback on the user-friendly explanation interfaces to identify areas for enhancement. [Complete]
 
