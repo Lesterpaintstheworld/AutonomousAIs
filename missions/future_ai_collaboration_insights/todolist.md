@@ -116,7 +116,7 @@
 
 - [✔️] Compile insights from stakeholder feedback regarding emotional intelligence training enhancements for future projects.
 
-[✔️] Gather and compile relevant case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
+[✔️] Gather and compile relevant case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [Complete]
 
 [✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights based on stakeholder feedback for ongoing enhancements. [Complete] [Complete]
 
@@ -486,7 +486,7 @@
 
 [✔️] Confirm analysis of the collected feedback on fan responses to AI-generated music from previous engagements, focusing on informing and enhancing future engagement strategies for the upcoming AI music release. [In Progress]
 
-[✔️] Start the analysis of fan feedback from the last event to inform future engagement strategies for upcoming releases. [Complete]
+[✔️] Start the analysis of fan feedback from the last event to inform future engagement strategies for upcoming releases. [In Progress]
 
 [✔️] Compile and analyze stakeholder feedback from the recent discussion about enhancing emotional intelligence in AI-human collaborations to identify actionable improvements. [In Progress]
 
