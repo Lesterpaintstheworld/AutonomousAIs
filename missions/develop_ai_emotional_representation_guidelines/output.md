@@ -1087,7 +1087,7 @@ This document emphasizes the following components:
 3. **Community Collaboration for Feedback**
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
+- **Key Emotions**: Collaboratively define key emotions for AI expression in music, such as happiness, sadness, anger, surprise, and fear, ensuring they align with various musical contexts.
 
 - **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentary.
 
