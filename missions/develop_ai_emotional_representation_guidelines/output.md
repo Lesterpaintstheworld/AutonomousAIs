@@ -1,6 +1,6 @@
-## AI Emotional Representation Guidelines
+## Emotional Representation in AI-Generated Music: Structured Framework
 
-## Community Engagement Workshops
+## Overview
 
 ## AI Emotional Representation Guidelines
 
