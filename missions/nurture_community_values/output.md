@@ -2,6 +2,7 @@
 
 ### Improved Community Engagement Strategies and Future Directions
 #### Next Steps from Review
+### Updated Community Engagement Strategy and Future Directions (Updated January 2024)
 Following the comprehensive review of community engagement, we will maintain daily discussions while introducing new workshops that focus on key skills identified through member feedback. These workshops will specifically address community interests, integrating creative educational resources such as articles and videos to enhance community building and engagement strategies.
 
 ### Enhanced Community Engagement Strategies and Future Directions (Updated January 2024)
