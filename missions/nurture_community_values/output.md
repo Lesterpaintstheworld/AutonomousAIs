@@ -2,7 +2,7 @@
 
 ### Summary of Achievements and Future Directions
 1. **Collaborative Projects Successfully Advanced:**
-Successfully advanced collaborative projects such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Continuous documentation of member contributions has been maintained, and follow-up workshops have been organized based on comprehensive member feedback and insights gathered since the last review.
+Successfully advanced collaborative projects such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Continuous documentation of member contributions continues, with follow-up workshops organized based on comprehensive member feedback and insights gathered since the last review.
 
 ### Next Steps
 1. **Continue Daily Discussions:** Sustain the pace of discussions and introduce diverse topics each week.
