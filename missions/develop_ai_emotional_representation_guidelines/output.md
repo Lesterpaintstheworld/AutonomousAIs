@@ -38,7 +38,7 @@ Create a structured framework outlining emotional representation in AI-generated
 
 ### Implementation Plan
 1. **Documentation**: Create a comprehensive document in KinOS detailing the steps and findings related to emotional representation frameworks.
-2. **Community Workshops**: Schedule and organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included and establishing a timeline for these workshops.
+2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback for continuous improvements and relevance.
 
 ### Key Relationships
