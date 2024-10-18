@@ -84,7 +84,7 @@ This framework aims to provide a structured outline for emotional representation
 ### Key Relationships
 - Collaborate closely with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and applicability.
 
-## AI Emotional Representation Framework (Updated)
+## AI Emotional Representation Framework
 
 ## Objective
 Create a structured framework outlining emotional representation in AI-generated music, focusing on:
