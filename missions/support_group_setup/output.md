@@ -3,7 +3,7 @@
 - **Follow-Up Events**: Plan regular events to foster participation, allowing members to engage on topics shared during sessions.
 - **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events.
 - **Feedback Integration**: Gather feedback post-events to adapt future sessions and ensure they address participants' needs and interests.
-- **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
+- **Theme-Based Sessions**: Investigate various themes for future sessions based on participant suggestions to ensure interactions remain fresh and relevant.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
   
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
