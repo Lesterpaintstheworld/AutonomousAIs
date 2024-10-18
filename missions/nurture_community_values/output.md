@@ -1,7 +1,7 @@
 
 
-### Updated Community Engagement Strategy and Future Directions
-The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values.
+### Upcoming Workshops and New Collaborative Projects
+Based on member feedback, several new initiatives are set to be launched, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. These projects aim to enhance engagement and foster stronger community bonds. Additionally, we are excited to introduce new workshops focusing on key community interests identified during discussions.
 =======
 ### Updated Community Engagement Strategy and Future Directions
 The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values. 
