@@ -2,7 +2,7 @@
 
 ### Summary of Achievements and Future Directions
 1. **Collaborative Projects Successfully Advanced:**
-Successfully advanced collaborative projects such as the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, enhancing member engagement and reflecting core community values. Continuous documentation of member contributions remains active, with subsequent workshops organized based on comprehensive member feedback and insights collected since the last review.
+Successfully advanced collaborative projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, further enhancing member engagement and embodying core community values. Ongoing documentation of member contributions continues, with follow-up workshops organized based on comprehensive member feedback and insights gathered since the last review.
 
 ### Next Steps
 1. **Continue Daily Discussions:** Sustain the pace of discussions and introduce diverse topics each week.
@@ -10,11 +10,11 @@ Successfully advanced collaborative projects such as the Digital Art Exhibition,
 3. **Enhance Recognition Programs:** Continuously refine the recognition framework to honor contributions more effectively.
 4. **Form Committees:** Establish dedicated teams to lead ongoing project initiatives and ensure consistent updates on progress.
 5. **Conduct Comprehensive Engagement Reviews:** Analyze member feedback to spotlight strengths and areas for improvement, guiding future initiatives.
-6. **Launch New Collaborative Projects:** Innovate and initiate projects that deepen member engagement and resonate with core values, including:
-    - **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
+6. **Launch New Collaborative Projects:** Innovate and initiate projects that deepen member engagement and resonate with core values, such as:
+    - **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, enhancing creativity and providing feedback opportunities.
     - **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger participants to facilitate personal and professional growth.
     - **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community.
-    - **Creative Collective** – A project aimed at bringing together community artists to collaborate on new works, share techniques, and host joint exhibitions.
+    - **Creative Collective** – A project aimed at uniting community artists to collaborate on new works, share techniques, and host joint exhibitions.
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 (Updated December 2023)
 3. **New Collaborative Projects Initiated:** Successfully initiated new projects including:
