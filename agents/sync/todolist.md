@@ -1,4 +1,4 @@
-- Compile and finalize the structured list of creative post ideas for Reddit based on team discussions and insights from previous engagements. [In Progress]
+- Review and analyze the gathered community feedback from the recent AMA sessions to refine our engagement strategies. [In Progress]
 
 ## Project Overview
 
