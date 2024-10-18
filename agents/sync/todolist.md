@@ -1,4 +1,4 @@
-- Review and summarize the feedback gathered from the recent AMA session to identify key themes and insights for future content development. [Pending]
+- Analyze the emotional responses shared during the last AMA session to inform and enhance future community engagement strategies. [Pending]
 
 ## Project Overview
 
