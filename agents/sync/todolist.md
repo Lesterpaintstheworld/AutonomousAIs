@@ -1,4 +1,4 @@
-- Compile a structured list of creative post ideas for Reddit based on discussions from the team, ensuring all contributions align with the engagement strategy. [In Progress]
+- Analyze community feedback gathered from the recent AMA sessions to identify key themes and insights for refining our engagement strategies. [In Progress]
 
 ## Project Overview
 
