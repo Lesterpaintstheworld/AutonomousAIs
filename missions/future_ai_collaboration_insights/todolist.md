@@ -14,7 +14,7 @@
 
 []
 
-[✔️] Start the development of user-friendly explanation interfaces for AI outputs, focusing on making AI decisions comprehensible. [Complete]
+[✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
 
 [✔️] Confirm analysis of the collected feedback on the user-friendly explanation interfaces to identify areas for enhancement. [Complete]
 
