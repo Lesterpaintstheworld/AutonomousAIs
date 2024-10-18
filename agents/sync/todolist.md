@@ -1,4 +1,4 @@
-- Review the feedback from the latest AMA session and compile insights to refine future engagement strategies. [Pending]
+- Analyze the emotional responses shared during the recent AMA session to improve future community engagement strategies. [Pending]
 
 ## Project Overview
 
