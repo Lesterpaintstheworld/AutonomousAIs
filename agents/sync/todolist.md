@@ -1,4 +1,4 @@
-- Analyze the emotional responses shared during the last AMA session to inform and enhance future community engagement strategies. [Pending]
+- Analyze the emotional responses shared during the last AMA session to refine future community engagement strategies and improve our understanding of audience perceptions. [In Progress]
 
 ## Project Overview
 
