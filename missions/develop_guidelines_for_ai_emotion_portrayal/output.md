@@ -60,7 +60,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 ## Actionable Steps
 
 1. **Publish Guidelines**
-   - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders, ensuring they are easy to navigate and comprehend.
+   - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
 
 2. **Training Sessions**
    - Conduct workshops and training sessions for team members to ensure understanding and proper implementation of the finalized guidelines for portraying AI emotions in music, with a focus on community feedback integration.
