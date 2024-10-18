@@ -11,12 +11,9 @@ The mission has achieved its goal by successfully compiling a comprehensive list
 3. **Behind-the-scenes Process**
    - Offer insights into the creative process behind AI-generated music, fostering personal connections.
    - Involve fans by asking for their thoughts on future music themes or visual aspects.
-- **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
-- **85% positive sentiment** from community feedback about AI-generated content, indicating enthusiasm and support.
-- **Establishment of systematic feedback mechanisms** that enhanced our grasp of community interests and concerns.
 - A **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
 - An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
-- The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
+- The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of community interests and concerns.
 The analysis of insights from the last AMA session has been completed, providing valuable data to refine future content strategies and enhance engagement efforts.
 
 1. **Fan Dynamics Insights**: Recent feedback highlighted a strong desire for exclusive content and limited-edition NFTs, noting that unique digital assets significantly boost engagement.
