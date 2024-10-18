@@ -651,11 +651,11 @@ Continuing with our iterative process, we have gathered valuable user feedback r
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and possible gameplay expansions based on user suggestions will guide our future update strategies.
 
-We have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
+Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns with player expectations.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions will be guided by player suggestions collected during testing to enrich the overall experience.
+3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns closely with player expectations.
+4. **Expansion Opportunities**: Continuous exploration of narrative elements and potential gameplay expansions will continue to be guided by player suggestions collected from testing to enrich the overall experience.
 
 **Post-launch Focus Areas:**
 - Following post-launch analysis, we have identified key updates based on player feedback:
