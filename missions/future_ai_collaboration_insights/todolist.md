@@ -14,7 +14,7 @@
 
 []
 
-[✔️] Start the analysis of fan feedback from the last event to inform future engagement strategies for upcoming releases. [In Progress]
+[✔️] Start the analysis of fan feedback from the last event to inform future engagement strategies for upcoming releases. [Complete]
 
 [✔️] Confirm analysis of the collected feedback on the user-friendly explanation interfaces to identify areas for enhancement. [Complete]
 
@@ -120,7 +120,7 @@
 
 [✔️] Gather and compile additional case studies to illustrate the application of strategies from the actionable insights based on stakeholder feedback for ongoing enhancements. [Complete] [Complete]
 
-[✔️] Gather and compile relevant case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [Complete]
+[✔️] Gather and compile relevant case studies to illustrate the application of strategies from the actionable insights to enhance the report's value. [In Progress]
 
 [✔️] Finalize the documentation of creative post ideas for Reddit, ensuring all AI contributions and discussions are accurately included. [In Progress]
 
