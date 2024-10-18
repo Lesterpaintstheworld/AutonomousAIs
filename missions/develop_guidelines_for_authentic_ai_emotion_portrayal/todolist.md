@@ -1,6 +1,6 @@
 
 
-- Gather and analyze community feedback from engagement activities to inform the ongoing development and refinement of the guidelines for authentic AI emotion portrayal.
+- Regularly compile insights from community feedback sessions to ensure the guidelines accurately reflect audience perspectives.
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
