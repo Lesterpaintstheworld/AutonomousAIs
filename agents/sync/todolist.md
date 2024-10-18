@@ -1,4 +1,4 @@
-- Finalize the comprehensive report on the emotional responses gathered during the last AMA session, including actionable insights for enhancing future community engagement strategies. [In Progress]
+- Finalize the comprehensive report detailing the emotional responses to AI-generated music collected during the last AMA session, including actionable insights for improving future community engagement strategies. [In Progress]
 
 ## Project Overview
 
