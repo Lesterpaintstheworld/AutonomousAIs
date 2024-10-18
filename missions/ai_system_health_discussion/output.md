@@ -160,8 +160,8 @@ We will evaluate the effectiveness of the changes made based on community input 
 4. **Stability Improvements**: There is a clear emphasis on the need for consistent performance, especially during high-demand periods, highlighting the urgent requirement for infrastructural enhancements.
 
 ### Upcoming Feedback Sessions
-1. **January 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback.
-2. **April 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback.
+1. **January 15, 2025, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health.
+2. **April 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss further insights on AI system health.
 
 These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
 We will also discuss the recent changes made to our AI systems based on community feedback and explore further areas for improvement.
