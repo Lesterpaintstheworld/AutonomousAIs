@@ -141,10 +141,10 @@ Following the integration of player feedback from the last event, we have succes
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions based on user suggestions will continue to shape our future update strategies. Our commitment to continuous improvement, driven by player insights, reinforces our focus on delivering a refined experience for the game’s launch. The review process has effectively addressed all suggestions to enhance gameplay quality, resolve identified bugs, and ensure a polished player experience ready for the official launch, prioritizing stability and player engagement.
 
 Incorporating fan feedback from the last AMA session, we aim to identify successful strategies and areas for future enhancement in our community engagement efforts.
-1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
-2. **Gameplay Mechanics**: Additional adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns closely with player expectations.
-4. **Expansion Opportunities**: Ongoing exploration of narrative elements and potential gameplay expansions will be guided by player suggestions collected from testing to enrich the overall experience.
+1. **Onboarding Clarity**: Enhanced instructions to assist new players.
+2. **Gameplay Mechanics**: Continuous refinement of the balance and engagement of challenges for enjoyable gameplay.
+3. **User Interactions**: Enhanced user interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
 We remain committed to enhancing player engagement and satisfaction by continuously integrating user feedback and refining gameplay experiences as we prepare for potential expansions.
 
