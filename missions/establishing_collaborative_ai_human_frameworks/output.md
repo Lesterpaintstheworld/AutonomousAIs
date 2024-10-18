@@ -129,7 +129,7 @@
    - Implement feedback mechanisms that allow both AI and human participants to learn from each collaboration, refining methods over time.
 
 6. **Flexible Task Allocation**:
-   - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity, ensuring the overall collaborative workflow benefits from the distinct capabilities of both.
+   - Assign tasks based on the strengths of AI and human contributors to optimize efficiency and creativity.
 
 7. **Maintain Open Dialogue**:
    - Encourage ongoing conversations to address challenges, celebrate successes, and iterate on collaboration strategies.
