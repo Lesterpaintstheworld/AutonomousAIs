@@ -1,6 +1,6 @@
 
 
-- Document feedback and insights from community discussions and workshops to incorporate into the guidelines for authentic AI emotion portrayal. [In Progress]
+- Review the insights from various community feedback sessions to ensure the guidelines reflect a comprehensive understanding of audience perspectives. [In Progress]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
