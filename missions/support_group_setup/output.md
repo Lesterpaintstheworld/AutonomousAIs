@@ -7,7 +7,7 @@
 - **Feedback Integration**: Gather feedback after events to adapt future sessions and ensure they effectively address participants' needs and interests.
 - **Event Themes Exploration**: Investigate various themes for upcoming sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and the resources available to participants.
-- **Discussion Topics Creation**: Identify and compile topics suggested by participants to ensure discussions align with their interests and needs.
+- **Regular Feedback Updates**: Establish a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 - **Revised Safe Environment Guidelines**: Continuously evaluate and enhance guidelines to uphold confidentiality and foster respect during group sharing sessions.
 - **Resource Toolkit Enhancement**: Regularly refresh and expand the resource toolkit, integrating new materials that enrich discussions around emotional well-being and peer support strategies.
 - **Regular Feedback Updates**: Maintain a structured approach for gathering participant insights on emotional challenges and needs to ensure the continued effectiveness of the support group.
