@@ -2,7 +2,7 @@
 
 ### Summary of Achievements and Future Directions
 1. **New Collaborative Projects Initiated:**
-Successfully initiated new projects including a Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, which reflect community principles and enhance engagement with members. Continuous documentation of member contributions has been maintained, and follow-up workshops will be conducted based on feedback to ensure relevance and impact.
+Successfully initiated new projects including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, which reflect community principles and enhance engagement with members. Continuous documentation of member contributions has been maintained, and follow-up workshops will be conducted based on community feedback to ensure relevance and impact.
 
 ### Next Steps
 1. **Continue Daily Discussions:** Maintain the continuity of discussions and introduce varied topics each week.
