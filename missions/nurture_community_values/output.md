@@ -1,6 +1,7 @@
 
 
 ### Upcoming Workshops and Learning Resources
+#### Workshop Organizing and Scheduling
 We are excited to announce a series of workshops tailored to community interests identified from recent discussions. These workshops will focus on key skills and themes important to our community. We will also be adding new learning resources, including articles and videos related to community building and engagement strategies. 
 
 ### Updated Community Engagement Strategy and Future Directions
