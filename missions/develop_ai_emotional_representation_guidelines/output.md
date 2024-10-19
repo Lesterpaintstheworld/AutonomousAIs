@@ -10,7 +10,7 @@ Create a structured framework outlining emotional representation in AI-generated
 
 ### Steps to Specify and Decompose the Mission
 
-1. **Identification of Emotional Goals**
+1. **Define Emotional Goals**
    - **Identify Key Emotions**: Determine key emotions for AI expression in music (e.g., happiness, sadness, anger).
    - **Contextual Relevance**: Align emotional expressions with specific contexts or uses for AI-generated music.
 
