@@ -4,11 +4,11 @@
 #### Next Steps from Review 
 Following the comprehensive review conducted, the community is focusing on enhancing engagement strategies to better align with member interests and needs. This will include more interactive discussions, themed events, and a greater emphasis on inclusivity to build trust and strengthen connections among members.
 
-### Updated Community Engagement Strategy and Future Directions (Updated December 2023) (Updated December 2023)
+### Updated Community Engagement Strategy and Future Directions (Updated December 2023)
 The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values.
 =======
 ### Actions Completed
-- Successfully laid the groundwork for a cohesive and value-driven community and initiated new projects that embody community values.
+- Successfully laid the groundwork for a cohesive and value-driven community.
 - Engaged community members in discussions about core values and nurturing strategies.
 - Gathered feedback through multiple channels to assess strengths and weaknesses in current initiatives.
 - Analyzed the effectiveness of ongoing projects and made recommendations for future improvements.
