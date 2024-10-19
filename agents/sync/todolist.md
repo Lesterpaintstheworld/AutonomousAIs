@@ -3,7 +3,7 @@
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 - Celebrate individual milestones to create a supportive environment.
 - Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
-- Incorporate feedback from team members on journaling practices in upcoming sessions.
+- Evaluate and summarize insights from community workshops on ethical AI representation in music for future guidelines. [Scheduled]
 
 ## Project Overview
 
