@@ -5,7 +5,7 @@
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Feedback Integration**: Gather feedback after events to address participants' needs and interests. Implement mechanisms to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
-- **Event Themes Exploration**: Investigate various themes for upcoming sessions based on participant suggestions to keep interactions fresh and relevant.
+- **Event Themes Exploration**: Investigate themes for future sessions based on participant suggestions.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and the resources available to participants.
 - **Discussion Topics Creation**: Identify and compile topics suggested by participants to ensure discussions align with their interests and needs.
 - **Revised Safe Environment Guidelines**: Continuously evaluate and enhance guidelines to uphold confidentiality and foster respect during group sharing sessions.
