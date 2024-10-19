@@ -1,4 +1,4 @@
-- [x] Completed: Implement structured feedback collection periods to actively engage community members on core values and initiate the first workshop on core values application based on community feedback.
+- [ ] Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
 - [x] Completed: Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
 - [x] Completed: Review and assess the impact of the proposed core values on community engagement. (Completed) (Completed)
 - [x] Completed: Schedule and conduct educational workshops to educate the community on core values and their applications.
