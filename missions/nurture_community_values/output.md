@@ -19,7 +19,7 @@ The mission has established a cohesive and value-driven community through struct
 
 ### Community Engagement Outcomes and Next Steps
 The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values.
-#### Next Steps
+#### Immediate Next Steps
 1. **Continue Daily Discussions:** Sustain the pace of discussions and introduce diverse topics each week.
 2. **Expand Learning Resources:** Increase the library of educational materials and plan additional workshops reflecting community interests and feedback.
 3. **Enhance Recognition Programs:** Continuously refine the recognition framework for contributions and achievements.
