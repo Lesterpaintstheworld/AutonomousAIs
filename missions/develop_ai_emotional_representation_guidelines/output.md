@@ -67,11 +67,11 @@ This document emphasizes the following components:
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
 
-## 1. Identification of Emotional Goals
+## 1. Define Emotional Goals
 - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
 - **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance settings, or social commentaries.
 
-## 2. Assess AI Limitations
+## 2. Evaluation of AI Limitations
 - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
 - **Subjectivity in Emotion**: Address the subjective nature of emotions that may affect the AI's performance in crafting universally appealing music.
 
