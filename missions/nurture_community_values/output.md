@@ -863,7 +863,7 @@ With the completion of the "Nurture Community Values" mission, the next steps wi
 3. **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community, enhancing understanding and cooperation.
 - Use established communication channels to regularly update members on progress and gather ongoing inputs.
 
-## Summary of Findings
+## Conclusion
 
 The mission has established a cohesive and value-driven community through structured discussions, ongoing learning, and effective recognition of member contributions. This initiative has fostered a supportive and engaged environment, ensuring a sustainable future for community values. **Next Steps:** 
 1. **Continue Daily Discussions:** Maintain the rhythm of discussions and introduce new topics each week.
