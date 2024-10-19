@@ -68,7 +68,7 @@ This document emphasizes the following components:
 3. **Community Collaboration for Feedback**
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
+- **Key Emotions**: [Through collaborative discussions, identify and define key emotions that AIs should express in music…]
 - **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance settings, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
@@ -301,7 +301,7 @@ This framework aims to offer actionable insights and steps for stakeholders invo
 ## Key Components
 1. **Identification of Emotional Goals**
    - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
-   - **Contextual Applications**: Ensure alignment with specific contexts for AI-generated music, including storytelling, ambiance, or social commentaries.
+   - **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance, or social commentaries.
 
 2. **Evaluation of AI Limitations**
    - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
