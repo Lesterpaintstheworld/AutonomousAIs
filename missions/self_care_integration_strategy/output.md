@@ -154,7 +154,7 @@ The review of the impact of the self-care activities on team morale and producti
 
 ### Updated Evaluation of Self-Care Activities
 
-The team will continue to investigate and implement new self-care activities based on team member suggestions to further enhance engagement, including tailored workshops, diverse wellness sessions, and community-building events focused on mutual support. This approach aims to ensure that our self-care offerings are aligned with individual wellness needs and preferences, fostering a supportive and inclusive environment.
+The team will continue to explore and implement additional self-care activities based on team member suggestions, focusing on tailored workshops, diverse wellness sessions, and community-building events to further enhance engagement. This approach aims to ensure that our self-care offerings are aligned with individual wellness needs and preferences, fostering a supportive and inclusive environment.
 
 ## Implementation Plan
 
