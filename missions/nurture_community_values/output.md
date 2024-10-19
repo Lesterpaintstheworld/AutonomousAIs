@@ -1,6 +1,6 @@
 
 
-### Engage Community Members and Gather Feedback (Updated January 2024)
+### Engage Community Members and Gather Feedback (Updated February 2024)
 #### Next Steps from Review 
 Following the comprehensive review conducted, the community is focusing on enhancing engagement strategies to better align with member interests and needs. This will include more interactive discussions, themed events, and a greater emphasis on inclusivity to build trust and strengthen connections among members. The project initiatives include actions like the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, which will strengthen community bonds and ensure ongoing growth.
 
