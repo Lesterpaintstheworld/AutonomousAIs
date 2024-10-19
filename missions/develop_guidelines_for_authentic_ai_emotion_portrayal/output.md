@@ -1,4 +1,4 @@
-- **Community Discussions**: Host structured discussions in relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal, ensuring ongoing engagement and effective feedback collection.
+- **Community Discussions**: Organize and facilitate structured discussions within relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal.
 
 - **Community Discussions**: Organize and facilitate structured discussions within relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal.
 
