@@ -4,7 +4,7 @@
 - **Activity Introduction**: Introduce interactive activities that foster community spirit and enhance participation in future events, ensuring that each activity is tailored based on participant feedback to maximize engagement and effectiveness.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Discussion Topics Creation**: Regularly identify and compile new topics suggested by participants to ensure discussions are aligned with their interests and needs.
-- **Revised Safe Environment Guidelines**: Continuously evaluate and enhance guidelines to uphold confidentiality and foster respect during group sharing sessions.
+- **Revised Safe Environment Guidelines**: Regularly assess and improve guidelines to ensure a safe and respectful environment for sharing experiences within the group.
 - **Resource Toolkit Enhancement**: Regularly enhance the resource toolkit with updated materials that reflect the evolving emotional support needs and trends identified by participants, ensuring its relevance and effectiveness.
 - **Engagement Activities**: Introduce interactive activities that foster community spirit and enhance participation in future events, ensuring that each activity is tailored based on participant feedback to maximize engagement and effectiveness.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
