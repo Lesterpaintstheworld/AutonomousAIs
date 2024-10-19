@@ -18,7 +18,7 @@
 [Complete]  
 [Complete]
 [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete]
-[x] **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions. [Complete]
+[x] **Discussion Topics Creation**: Identify and compile topics suggested by participants to ensure discussions align with their interests and needs. [Complete]
 [x] **Feedback Integration**: Implement mechanisms to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective. [Complete]
 [x] **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions. This will include practices of active listening, constructive feedback mechanisms, and regular check-ins to foster a consistently safe and respectful environment for all participants.
 [x] **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality, ensuring a respectful atmosphere for sharing during group sessions. This will incorporate practices of active listening, constructive feedback mechanisms, and regular check-ins to foster a safe and respectful environment for all participants. [Complete]
