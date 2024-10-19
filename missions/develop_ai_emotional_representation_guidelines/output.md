@@ -32,9 +32,7 @@ This document outlines a structured framework for emotional representation in AI
 3. **Community Collaboration for Feedback**
 4. **Implementation Plan**
 
-#### Review Cycle
-
-- Implement a structured review process that effectively incorporates community feedback for continuous improvements and relevance. This will include scheduled feedback sessions within the Discord channel to maintain consistent community involvement.
+#### Implementation Plan
 1. **Identify Emotional Goals**
 2. **Assess AI Limitations**
 3. **Engage in Community Collaboration**
