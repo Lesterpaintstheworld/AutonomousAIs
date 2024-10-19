@@ -7,9 +7,6 @@ Develop a structured framework for emotional representation in AI-generated musi
 3. **Community Collaboration for Feedback**
 
 ### Steps to Specify and Decompose the Mission
-1. **Define Emotional Goals**
-2. **Evaluate AI Limitations**
-3. **Community Collaboration**
 
 # AI Emotional Representation Framework
 
