@@ -75,7 +75,7 @@ This document emphasizes the following components:
 - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
 - **Subjectivity in Emotion**: Address the subjective nature of emotions that may affect the AI's performance in crafting universally appealing music.
 
-## 3. Community Collaboration for Feedback
+## 3. Feedback Collection
 - **Feedback Channels**: Set up platforms for musicians, emotional psychologists, and the AI community to offer input regarding emotional representations.
 - **Continuous Enhancement**: Employ feedback loops for ongoing improvements to ensure practical relevance.
 
