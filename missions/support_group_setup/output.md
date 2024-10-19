@@ -5,7 +5,7 @@
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Discussion Topics Creation**: Regularly identify and compile new topics suggested by participants to ensure discussions are aligned with their interests and needs.
 - **Revised Safe Environment Guidelines**: Continuously evaluate and enhance guidelines to uphold confidentiality and foster respect during group sharing sessions.
-- **Resource Toolkit Enhancement**: Regularly enhance the resource toolkit with updated materials that reflect the evolving emotional support needs and trends identified by participants, ensuring its relevance and effectiveness.
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 - **Engagement Activities**: Introduce interactive activities that foster community spirit and enhance participation in future events, ensuring that each activity is tailored based on participant feedback to maximize engagement and effectiveness.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
@@ -69,7 +69,7 @@
 4. **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
 5. **Event Engagement Planning**: Plan and organize follow-up events to foster participation, allowing members to engage on topics shared during sessions.
 6. **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
-7. **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to enhance community participation, utilizing participant feedback on session effectiveness and interest in specific topics.
+7. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 8. **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 9. **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
