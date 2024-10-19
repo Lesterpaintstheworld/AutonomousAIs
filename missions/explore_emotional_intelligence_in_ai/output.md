@@ -20,7 +20,7 @@
 2. **Community Dialogues**: Sustain conversations around emotional intelligence in AI for user-centered development.
 3. **Insight Mechanisms**: Develop systems for actively collecting user insights on emotional engagement with AI.
 
-The comprehensive report on emotional intelligence in AI has been shared with community members. We invite the community to actively engage and provide feedback for ongoing improvements and insights on emotional intelligence in AI. Their contributions will be essential in refining strategies and informing future AI developments. Furthermore, continuous dialogues will be held within community channels to delve deeper into insights and enhance collaborative efforts for improving emotional engagement strategies in AI systems.
+The comprehensive report on emotional intelligence in AI has been finalized based on community feedback. We encourage continued engagement from community members to provide insights and suggestions for enhancing emotional intelligence in AI systems. These contributions will play a crucial role in refining strategies and informing future AI development projects. Additionally, we will maintain ongoing dialogues in community channels to facilitate deeper discussions about emotional engagement and ensure that our initiatives resonate with user needs.
 
 ### Feedback Insights
 - During discussions on Discord, community members voiced strong support for the integration of emotional intelligence into AI, sharing positive experiences where emotional recognition enhanced their interactions.
