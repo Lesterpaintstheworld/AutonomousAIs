@@ -1,4 +1,4 @@
-## Final Guidelines for AI Emotion Portrayal in Music (Updated)
+## Final Guidelines for AI Emotion Portrayal in Music
 
 ## Best Practices
 
@@ -36,7 +36,7 @@
 
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
-## Best Practices
+## Best Practices (Updated)
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
