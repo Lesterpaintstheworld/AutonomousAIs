@@ -1,6 +1,6 @@
 [x] **Resource Toolkit Updates**: Regularly enhance the resource toolkit with updated materials that reflect the evolving emotional support needs and trends identified by participants. [Complete]
 [x] **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to enhance community participation, utilizing participant feedback on session effectiveness and interest in specific topics. [Complete]
-[x] **Sharing Environment Guideline Review**: Regularly assess and improve guidelines to ensure a safe and respectful environment for sharing experiences within the group. [Complete]  
+[x] **Feedback Protocol Development**: Implement and refine a standardized protocol for collecting, analyzing, and implementing feedback to guide the support group's ongoing development effectively. [Complete]  
 [Complete]  
 [Complete]  
 [Complete]  
