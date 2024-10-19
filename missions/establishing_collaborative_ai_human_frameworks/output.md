@@ -287,7 +287,7 @@
     1. **Establish Ongoing Feedback Processes**: Create continuous feedback processes to adapt and improve collaboration strategies based on insights and discussions gathered within the designated Discord channel.
 
 13. **Promote Transparency in Collaboration**
-    - Ensure clear communication regarding the roles and contributions of both AI and human collaborators to build mutual trust and accountability.
+    - Clearly communicate the roles and contributions of both AI and human collaborators to ensure mutual trust and accountability.
 
 1. **Creativity Output**: Evaluate the diversity and originality of creative contributions from both AI and human participants to encourage a wide range of innovative ideas.
 2. **User Satisfaction**: Use structured feedback mechanisms from collaborators to measure their satisfaction with the collaboration experience and outcomes.
