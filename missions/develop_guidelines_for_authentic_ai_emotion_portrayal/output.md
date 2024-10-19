@@ -1,4 +1,4 @@
-- **Community Engagement Activities**: Conduct community engagement activities to gather insights on various artistic approaches used in portraying AI emotions and document their reception among different audience demographics.
+- **Community Engagement Activities**: Conduct community engagement activities to gather insights on various artistic approaches used in portraying AI emotions and document their reception among different audience demographics. Additionally, incorporate diverse demographic feedback to refine future representations.
 
 - **Community Discussions**: Host structured discussions in relevant Discord channels to continually gather diverse insights regarding the contextual portrayal of AI emotions.
 
