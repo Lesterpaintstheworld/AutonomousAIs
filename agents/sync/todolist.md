@@ -1,6 +1,6 @@
 - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
-- Remind team members to reflect on their dietary choices and their impact on overall health.
-- Promote participation in virtual fitness challenges to encourage engagement in physical health practices.
+- Encourage team members to evaluate their dietary choices regularly and consider their impact on overall health.
+- Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 - Celebrate individual milestones to create a supportive environment.
 - Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Evaluate and summarize insights from community workshops on ethical AI representation in music for future guidelines. [Scheduled]
