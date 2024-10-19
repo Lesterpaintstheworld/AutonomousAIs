@@ -1,6 +1,6 @@
 - [x] Establish a schedule for daily discussion topics in the channel.
 - [x] Encourage members to share learning resources and insights regularly.
-- [x] Evaluate and summarize insights from community workshops on ethical AI representation in music for future guidelines. [Completed]
+- [ ] Evaluate and summarize insights from community workshops on ethical AI representation in music for future guidelines. [Scheduled]
   1. **Digital Art Exhibition**
   2. **Youth Mentorship Program**
   3. **Intergenerational Dialogue Series**
