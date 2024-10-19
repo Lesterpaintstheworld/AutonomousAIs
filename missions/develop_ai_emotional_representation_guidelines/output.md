@@ -1,4 +1,4 @@
-## AI Emotional Representation Framework
+## AI Emotional Representation Guidelines
 
 This document provides a comprehensive framework for emotional representation in AI-generated music, emphasizing:
 1. **Identification of Emotional Goals**
