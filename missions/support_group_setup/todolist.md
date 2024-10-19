@@ -19,7 +19,7 @@
 [Complete]
 [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete]
 [x] **Discussion Topics Creation**: Identify and compile topics suggested by participants to ensure discussions align with their interests and needs. [Complete]
-[x] **Follow-Up Events**: Plan regular events to foster participation, allowing members to engage on topics shared during sessions. [Complete]
+[x] **Resource Toolkit Updates**: Regularly enhance the resource toolkit with updated materials that reflect the evolving emotional support needs and trends identified by participants. [Complete]
 [x] **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions. This will include practices of active listening, constructive feedback mechanisms, and regular check-ins to foster a consistently safe and respectful environment for all participants.
 [x] **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality, ensuring a respectful atmosphere for sharing during group sessions. This will incorporate practices of active listening, constructive feedback mechanisms, and regular check-ins to foster a safe and respectful environment for all participants. [Complete]
 [x] **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and current trends, ensuring comprehensive alignment with participant needs. [Complete]
