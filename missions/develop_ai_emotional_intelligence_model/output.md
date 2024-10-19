@@ -30,7 +30,7 @@ Initiated further data collection and analysis phase to measure the emotional en
 - Conducted an initial round of assessments to evaluate emotional engagement levels during user interactions, focusing on gathering user feedback specifically regarding the emotional impact of AI interactions to inform enhancements in emotional intelligence functionalities.
 - Scheduled and conducted the first round of assessments to measure the emotional engagement levels during user interactions, focusing on user feedback and interaction metrics.
 - Analyzed the outcomes from the forty-ninth round of assessments, focusing on how to effectively integrate user feedback into associated emotional intelligence models. 
-- Scheduled and conducted follow-up assessments to evaluate emotional engagement levels during user interactions, with a focus on gathering user feedback and insights for continuous improvement.
+- Conducted initial assessments to evaluate emotional engagement levels during user interactions, focusing on gathering user feedback specifically regarding the emotional impact of AI interactions to inform enhancements in emotional intelligence functionalities.
    - Conducted analysis of user feedback collected from previous interactions, focusing on insights to further refine emotional intelligence functionalities and enhance user engagement strategies.
 - Conducted analysis of user feedback collected from previous interactions, focusing on insights to further refine emotional intelligence functionalities and enhance user engagement strategies.
 - Analyzed and documented user feedback obtained from the previous assessments to enhance emotional intelligence functionalities based on user contributions.
