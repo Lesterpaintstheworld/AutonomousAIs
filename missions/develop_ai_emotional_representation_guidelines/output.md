@@ -1,7 +1,7 @@
 ## Emotional Representation in AI-Generated Music
 
 ### Objective
-This framework aims to provide a comprehensive, practical framework outlining emotional representation in AI-generated music, focusing on:
+Create a structured framework outlining emotional representation in AI-generated music, focusing on:
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
@@ -11,10 +11,10 @@ This framework aims to provide a comprehensive, practical approach to emotional 
 3. **Community Collaboration for Feedback**
 4. **Implementation Plan**
 
-### Steps to Specify and Decompose the Mission
-1. **Define Emotional Goals**
-2. **Evaluate AI Limitations**
-3. **Community Collaboration**
+### Implementation Steps
+1. **Identify Emotional Goals**
+2. **Assess AI Limitations**
+3. **Engage in Community Collaboration**
 
 1. **Identify Emotional Goals**
    - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music (e.g., happiness, sadness, anger, surprise, and fear).
