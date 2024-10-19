@@ -6,7 +6,7 @@ This document provides a comprehensive framework for emotional representation in
 3. **Community Collaboration for Feedback**
 4. **Implementation Plan**
 
-## AI Emotional Representation Framework
+## AI Emotional Representation Guidelines
 ## AI Emotional Representation Framework
 
 This document outlines a structured framework for emotional representation in AI-generated music, focusing on the following key components:
