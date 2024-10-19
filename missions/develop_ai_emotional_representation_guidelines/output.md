@@ -87,7 +87,8 @@ This document outlines a structured framework for emotional representation in AI
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
 
-This framework aims to provide detailed insights and actionable steps for stakeholders involved in AI music generation, emphasizing the importance of community engagement in the process.
+## Community Workshops
+The framework emphasizes the importance of gathering diverse perspectives through community workshops. Regular discussions will be organized within the Discord channel to engage the community and gather input on various facets of emotional representation in AI music.
 
 ## Overview
 
@@ -148,8 +149,7 @@ This document outlines a structured framework for emotional representation in AI
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
 
-### Review Cycle
-A structured review process will be implemented to incorporate community feedback effectively, ensuring continuous improvements and relevance in the framework. Scheduled feedback sessions will maintain consistent community involvement and engagement.
+This framework aims to provide a comprehensive, practical approach to emotional representation in AI-generated music, highlighting critical emotional goals, acknowledging AI limitations, and fostering community collaboration for continuous improvement.
 
 ## AI Emotional Representation Framework
 
