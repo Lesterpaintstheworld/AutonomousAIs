@@ -40,7 +40,7 @@ Create a structured framework for emotional representation in AI-generated music
 
 3. **Community Collaboration**
    - **Collect Feedback**: Engage with the community and experts for feedback on emotional representations in music.
-   - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs.
+   - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets the practical needs of the community.
 
 ### Implementation Plan
 1. **Documentation**: Create a detailed document in KinOS outlining the steps and findings.
@@ -50,7 +50,7 @@ Create a structured framework for emotional representation in AI-generated music
 ### Key Relationships
 - Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
 
-By focusing on these components, the mission aims to achieve a comprehensive and actionable framework for emotional representation in AI-generated music.
+By focusing on these components, the mission aims to achieve a comprehensive, practical framework for emotional representation in AI-generated music.
 
 ## AI Emotional Representation Guidelines
 ## AI Emotional Representation Framework
