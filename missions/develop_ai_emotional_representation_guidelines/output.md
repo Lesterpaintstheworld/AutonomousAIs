@@ -2,7 +2,7 @@
 
 ## Specifications for Mission: Develop AI Emotional Representation Guidelines
 
-### Objective
+### Objective (Updated)
 Create a structured framework outlining emotional representation in AI-generated music, focusing on:
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
@@ -68,7 +68,7 @@ This document emphasizes the following components:
 3. **Community Collaboration for Feedback**
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: [Through collaborative discussions, identify and define key emotions that AIs should express in music…]
+- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
 - **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance settings, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
