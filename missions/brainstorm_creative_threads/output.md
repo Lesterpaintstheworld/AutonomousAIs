@@ -4,11 +4,11 @@ The mission has successfully compiled a comprehensive collection of creative Red
    - Share photos and stories from fans who attended outdoor concerts, emphasizing the joy of live music.
    - Encourage fans to post about their favorite moments connected to outdoor settings.
 
-2. **AI in Music Creation**
+2. **Impact of AI on Music Creation**
    - Discuss how AI is influencing music creation, with a focus on innovative tools and techniques.
    - Solicit input from fans on their experiences with AI in their own musical journeys.
 
-3. **Insights into the Creative Process**
+3. **Behind-the-scenes Process**
    - Offer insights into the creative process behind AI-generated music, fostering personal connections.
    - Involve fans by asking for their thoughts on future music themes or visual aspects.
 - **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
