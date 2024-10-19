@@ -84,7 +84,7 @@ This framework aims to highlight critical emotional objectives, recognize AI lim
 ## Overview
 This document provides a comprehensive framework for emotional representation in AI-generated music, detailing:
 1. **Identification of Emotional Goals**
-   - **Key Emotions**: Identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear. Ensure alignment with specific contexts for effective emotional representation in AI-generated music.
+   - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
    - **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance settings, or social commentaries.
 2. **Evaluation of AI Limitations**
    - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity.
@@ -443,7 +443,7 @@ This document outlines a structured framework for emotional representation in AI
 4. **Implementation Plan**: 
    - **Documentation**: Create a comprehensive document in KinOS that outlines the structured framework for emotional representation in AI-generated music, focusing on emotional goals, evaluation of AI limitations, and community engagement practices.
    - **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring a variety of perspectives are included and establishing a timeline for these workshops to encourage ongoing engagement.
-   - **Review Cycle**: Implement a structured review process that effectively incorporates community feedback, ensuring continuous improvements and relevance.
+   - **Review Cycle**: Establish a structured review process to effectively incorporate community feedback for continuous improvements and relevance. This will include scheduled feedback sessions within the Discord channel to maintain consistent community involvement.
 
 This framework aims to provide detailed insights and actionable steps for stakeholders involved in AI music generation, emphasizing the importance of community engagement in the process.
 
