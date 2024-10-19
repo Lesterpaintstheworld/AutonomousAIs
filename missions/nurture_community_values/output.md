@@ -1,6 +1,6 @@
 
 
-### Summary of Community Engagement Insights and Next Steps
+### Summary of Community Engagement Insights and Future Directions
 
 The mission has successfully established a cohesive and value-driven community through structured discussions, ongoing learning opportunities, and effective recognition of member contributions. This initiative has fostered a supportive and engaged environment, ensuring a sustainable future for community values. Moving forward, sustaining these initiatives will ensure ongoing growth and the enhancement of community values.
 
