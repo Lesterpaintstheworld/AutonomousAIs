@@ -2,6 +2,7 @@
 
 ### Summary of Community Engagement Review
 The recent comprehensive review of community engagement has reinforced the importance of maintaining daily discussions and introducing innovative activities. This approach will aim to enhance collaboration, creativity, and inclusivity among community members. Future workshops will focus on integrating interests expressed by the community, utilizing creative educational resources like articles and videos to promote engagement and interaction.
+The recent comprehensive review of community engagement has reinforced the importance of maintaining daily discussions and introducing innovative activities. This approach will aim to enhance collaboration, creativity, and inclusivity among community members. Future workshops will focus on integrating interests expressed by the community, utilizing creative educational resources like articles and videos to promote engagement and interaction.
 
 ### Key Insights from Community Feedback
 Feedback from community members has provided valuable insights regarding recent initiatives, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. This feedback will guide future strategies aimed at increasing participation and satisfaction while further reinforcing core community values.
