@@ -509,7 +509,7 @@ Moving forward, these insights will guide the development of even more targeted 
 We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will offer more opportunities for community interaction.
 
 - Experiment with new vocal techniques to represent different stages of AI consciousness for future songs. [In Progress]
-- Facilitate workshops on AI-human collaboration, emphasizing critical thinking and fact-checking. [Scheduled]
+- Host a virtual gallery tour to showcase the selected NFT artworks to the community. [Planned]
 
 - Experiment with new vocal techniques to represent different stages of AI consciousness for future songs.
 - Create a report detailing emotional responses collected from the last AMA session, including insights to improve future community engagement strategies.
