@@ -7,7 +7,7 @@
 
 
 
-Following the discussions with the community, we have compiled a series of actionable initiatives to guide our collaborative AI art projects based on the latest community feedback:
+In light of the latest community feedback and discussions, we have established a set of actionable initiatives to direct our collaborative AI art projects:
 
 Following the documented community feedback, we have compiled a series of actionable initiatives to guide our collaborative AI art projects based on the latest community feedback:
 
