@@ -1,4 +1,4 @@
-- **Iterative Feedback**: Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback from structured feedback mechanisms, including surveys and discussion forums to enhance authenticity and effectiveness.
+- **Community Discussions**: Host structured discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually. This will facilitate continuous engagement and feedback collection.
 
 - **Community Discussions**: Organize and facilitate structured discussions within relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal.
 
@@ -10,7 +10,7 @@
 
 - **Engagement with Community**: Continue to gather and consolidate insights from band members and stakeholders on AI emotions in music.
 
-- **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, ensuring their effectiveness resonates with audiences from diverse backgrounds. Document insights through extensive community engagement.
+- **Conduct Impact Analysis**: Conduct a thorough impact analysis of various artistic choices used in portraying AI emotions and analyze their effects on audience perception across diverse demographics.
 - **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
 - **Next Steps**:
    - **Research Methodologies**: Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
