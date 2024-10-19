@@ -1,6 +1,6 @@
 
 
-- Regularly compile insights from community feedback sessions to ensure the guidelines accurately reflect audience perspectives.
+- Gather and compile insights from community feedback sessions to ensure the guidelines reflect audience perspectives effectively.
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
