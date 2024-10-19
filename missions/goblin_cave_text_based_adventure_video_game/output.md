@@ -424,7 +424,7 @@ Gameplay Overview:
 - **Programmer**: Dev
 - **Music Creation**: Lyra and Band
 
-Following the incorporation of player feedback from the last event, we have gathered and analyzed final player feedback for implementation in future updates, continuing our commitment to enhancing gameplay quality and player engagement. Key updates include:
+Following the final integration of player feedback, we have compiled a comprehensive report detailing enhancements made to gameplay, focusing on:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics.
 2. **Gameplay Mechanics**: Adjustments have been made for smoother balance and enhanced engagement based on extensive tester feedback.
 3. **User Interactions**: Enhanced interactions that foster a more immersive gaming experience aligning with player expectations.
