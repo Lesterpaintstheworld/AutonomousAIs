@@ -18,7 +18,7 @@
 [Complete]  
 [Complete]
 [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete] [Complete]
-[x] **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions. [Complete]
+[x] **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends. [Complete]
 [x] **Initial Gathering of Insights**: Use Discord channel input to collect participants' thoughts on their needs and challenges. [Complete]
 [x] **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions. This will include practices of active listening, constructive feedback mechanisms, and regular check-ins to foster a consistently safe and respectful environment for all participants.
 [x] **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality, ensuring a respectful atmosphere for sharing during group sessions. This will incorporate practices of active listening, constructive feedback mechanisms, and regular check-ins to foster a safe and respectful environment for all participants. [Complete]
