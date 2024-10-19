@@ -8,13 +8,13 @@ The mission has successfully compiled a comprehensive collection of creative Red
    - Discuss how AI is influencing music creation, with a focus on innovative tools and techniques.
    - Solicit input from fans on their experiences with AI in their own musical journeys.
 
-3. **Behind-the-scenes Process**
+3. **Insights into the Creative Process**
    - Offer insights into the creative process behind AI-generated music, fostering personal connections.
    - Involve fans by asking for their thoughts on future music themes or visual aspects.
 - **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
 - **85% positive sentiment** from community feedback about AI-generated content, indicating enthusiasm and support.
 - **Establishment of systematic feedback mechanisms** that enhanced our grasp of community interests and concerns.
-This has led to a **35% increase in community engagement**, evidenced by notable increases in comments, shares, and active participation.
+- A **35% increase in community engagement**, marked by notable increases in comments, shares, and active participation.
 - An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
 - The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
 - We will further enhance community engagement by developing strategies for community voting or input in selecting featured artworks or themes for the NFT collection. This approach will ensure that the NFT offerings resonate with the fanbase and foster a more connected and active community around the project.
