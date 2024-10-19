@@ -6,9 +6,9 @@
 
 - **Draft Key Principles**: Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness, highlighting authenticity and ethical representation of AI emotions.
 
-- **Finalize Guidelines Creation**: Create a final set of comprehensive guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations.
+- **Finalize Guidelines Creation**: Produce a final and comprehensive set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and careful cultural considerations.
 
-- **Engagement with Community**: Pursue ongoing engagement to gather consistent insights from band members and stakeholders regarding the portrayal of AI emotions in music.
+- **Engagement with Community**: Continue to gather insights from band members and stakeholders regarding AI emotions in music.
 
 - **Conduct Impact Analysis**: Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception across diverse demographics.
 - **Artistic Choices Evaluation**: Completed the thorough evaluation of various artistic choices used in portraying AI emotions, analyzing their impact on audience perception. Feedback was collected through extensive community engagement, including workshops with AI artists and musicians discussing the effectiveness of different styles and techniques in conveying emotional resonance.
