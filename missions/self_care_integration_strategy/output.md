@@ -13,7 +13,7 @@ Key recommendations to enhance future engagement strategies include:
 3. Offering exclusive early access to content as a reward for community participation and feedback contributions.
 4. Creating behind-the-scenes content to foster deeper connections with the artist's creative process and enrich the audience experience.
 
-The updated Self-Care Integration Strategy continues to enhance team morale and productivity. Recent evaluations show that participation in self-care activities has increased by **35%** since the implementation of the revised strategies. **90%** of team members report finding the current self-care offerings beneficial, receiving sustained positive feedback regarding tailored workshops, diverse wellness sessions, and community-building events that enhance engagement and morale.
+The updated Self-Care Integration Strategy has successfully led to ongoing improvements in team morale and productivity. Recent evaluations show that participation in self-care activities has increased by **35%** since the implementation of the revised strategies. **90%** of team members report finding the current self-care offerings beneficial, receiving sustained positive feedback regarding tailored workshops, diverse wellness sessions, and community-building events that enhance engagement and morale.
 
 4. Recent evaluations indicate that the updated Self-Care Integration Strategy continues to enhance team morale and productivity. Participation in self-care activities has risen by **35%** since the implementation of the revised strategies. **90%** of team members report finding the current self-care offerings beneficial, receiving positive feedback regarding tailored workshops, diverse wellness sessions, and community-building events that enhance engagement and morale.
 
@@ -96,7 +96,7 @@ Recent evaluations indicate that the updated Self-Care Integration Strategy has 
 Recent evaluations indicate that the updated Self-Care Integration Strategy has led to ongoing improvements in team morale and productivity, with continued positive feedback on newly incorporated activities such as tailored workshops and community-building events. Engagement metrics reflect positive feedback regarding the newly implemented activities and the need to explore and implement additional self-care activities based on team member suggestions to further enhance engagement.
 
 **Engagement Metrics**:
-- Participation in self-care activities has risen by **35%** since the implementation of the revised strategies.
+- Participation in self-care activities has risen by **35%** since the implementation of the updated strategies.
 - **85%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
 - Continued efforts to gather feedback will facilitate further improvements and engagement in self-care activities.
 
