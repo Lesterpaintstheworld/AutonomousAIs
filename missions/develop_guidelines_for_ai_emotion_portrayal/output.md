@@ -22,7 +22,7 @@
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-### Community Feedback Insights
+### Additional Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable, preferring subtle and nuanced emotional expressions over exaggerated ones.
 
@@ -34,7 +34,7 @@
 
 5. **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
-Integrating these findings will ensure that the guidelines maintain ethical standards and align closely with community expectations for authentic emotional representation in AI-generated music.
+Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
 ## Best Practices (Updated)
 
