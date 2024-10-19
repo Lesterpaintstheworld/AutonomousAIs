@@ -1,7 +1,7 @@
 
 
 ### Summary of Community Engagement Review and Insights
-The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Insights from feedback collected show strengths and opportunities, guiding future initiatives aimed at enhancing participation and ensuring community values are central to our activities.
+The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values. Furthermore, discussions on core values have led to new strategies for continuous learning and contribution recognition within the community.
 The comprehensive review of community engagement has highlighted the success of maintaining daily discussions and introducing innovative activities that promote creativity and inclusivity among community members. This approach will aim to enhance collaboration, creativity, and inclusivity among community members. Future workshops will focus on integrating interests expressed by the community, utilizing creative educational resources like articles and videos to promote engagement and interaction.
 
 ### Updated Community Engagement Strategy and Future Directions
