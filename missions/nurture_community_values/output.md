@@ -1,6 +1,6 @@
 
 
-### Engage Community Members and Gather Feedback
+### Engage Community Members and Gather Feedback (Updated January 2024)
 #### Next Steps from Review 
 Based on the comprehensive review conducted, the community will continue enhancing engagement strategies to better align with member interests and needs. This will involve ongoing interactive discussions, themed events, and a continuous focus on inclusivity to foster trust and strengthen connections among members.
 
