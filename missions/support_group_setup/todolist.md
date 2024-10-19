@@ -1,6 +1,6 @@
 [x] **Resource Toolkit Updates**: Regularly enhance the resource toolkit with updated materials that reflect the evolving emotional support needs and trends identified by participants. [Complete]
 [x] **Feedback Integration**: Implement mechanisms to ensure consistent collection of insights on emotional challenges and needs from participants, ensuring the support group remains relevant and effective. [Complete]
-[x] **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends. [Complete]  
+[x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]  
 [Complete]  
 [Complete]  
 [Complete]  
