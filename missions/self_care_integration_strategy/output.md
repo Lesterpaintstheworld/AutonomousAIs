@@ -528,9 +528,9 @@ Key recommendations for enhancing future engagement strategies include:
 4. Creating behind-the-scenes content to deepen connections with the artist's creative process.
 
 ### Summary of Key Insights  
-1. **Enhanced Engagement**: Participation in self-care activities has risen by **35%** since the revised strategies were implemented, demonstrating the effectiveness of newly integrated initiatives.
-2. **Overall Satisfaction**: An impressive **90%** of team members affirm that the current self-care offerings significantly contribute to their well-being and job satisfaction.
-3. **Impactful Activities**: The newly introduced tailored workshops, inclusive wellness sessions, and community-building events have greatly enhanced team morale and unity.
+1. **Enhanced Engagement**: Participation in self-care activities has increased by **35%** since the updated strategies were implemented, reflecting the effectiveness of the newly incorporated initiatives.
+2. **Overall Satisfaction**: A strong **90%** of team members confirm that the current self-care offerings positively contribute to their well-being and job satisfaction.
+3. **Impactful Activities**: The introduction of tailored workshops, diverse wellness sessions, and community-building events has significantly improved team morale and cohesion.
 
 ### Next Steps
 The team will continue to explore and implement additional self-care activities based on team member feedback, focusing on enhancing engagement through tailored workshops and community-building events, as well as refining and expanding the current offerings to meet diverse wellness needs.
