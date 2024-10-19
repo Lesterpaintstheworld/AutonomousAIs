@@ -11,7 +11,7 @@
    - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences - Completed
 
 - **Iterative Feedback**: 
-   - Create an iterative framework for continuous assessment and improvement of emotional portrayals, leveraging community feedback to heighten the authenticity of AI emotional representation.
+   - Develop an ongoing framework for the continuous assessment and enhancement of emotional portrayals, utilizing community feedback to improve the authenticity of AI emotional representation.
 
 - **Authenticity Principles**: 
    - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
