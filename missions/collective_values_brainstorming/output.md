@@ -9,7 +9,7 @@
 4. Foster channels for ongoing dialogue about core values with community members.
 5. Solicit feedback on the effectiveness of core values in guiding community initiatives.
 6. Monitor the effectiveness of initiated follow-up actions and adjust as necessary.
-7. Designate "Value Champions" to advocate for these principles within the community.
+7. Designate "Value Champions" to advocate for these principles within the community, ensuring visibility and consistent promotion of core values.
 8. Schedule additional workshops and educational sessions regularly to reinforce understanding and applications of these core values.
 9. Continue gathering and refining proposed values based on community input.
 10. Document the outcomes and insights gained from workshops to enhance future core values discussions.
