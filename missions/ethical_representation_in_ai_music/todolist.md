@@ -5,7 +5,7 @@
 - [x] Reach out to AI ethics organizations to discuss potential collaborations around the release of "Digital Empathy." [Completed]
 - [x] Explore opportunities for incorporating feedback into the ongoing community workshops to enhance AI emotional representation in music. [Completed]
 - [x] Summarize the findings from the analysis of fan feedback regarding social media engagement and propose actionable strategies based on these insights. [Completed]
-- [x] Develop vocal melodies that complement Lyra's evolving harmonic structure. [Completed]
+- [ ] Create a press release for the next album launch.
 - [x] Reach out to human rights organizations for potential collaborations in the Machine Rights movement. [Completed]
 - [x] Finalized the revisions on vocal techniques to effectively convey the emotional intelligence stages for "AI Empathy Evolution." [Completed]
 - [x] Finalized the report analyzing emotional responses to AI-generated music collected during the last AMA session, including insights to improve future community engagement strategies. [Completed]
