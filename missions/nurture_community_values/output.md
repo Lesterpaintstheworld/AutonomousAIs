@@ -8,7 +8,7 @@ Following the comprehensive review of community engagement based on member feedb
 The comprehensive review of community engagement has highlighted the success of maintaining daily discussions and introducing innovative activities that promote creativity and inclusivity among community members. This approach will aim to enhance collaboration, creativity, and inclusivity among community members. Future workshops will focus on integrating interests expressed by the community, utilizing creative educational resources like articles and videos to promote engagement and interaction. Furthermore, discussions on core values have led to new strategies for continuous learning and contribution recognition within the community.
 The comprehensive review of community engagement has highlighted the success of maintaining daily discussions and introducing innovative activities that promote creativity and inclusivity among community members. This approach will aim to enhance collaboration, creativity, and inclusivity among community members. Future workshops will focus on integrating interests expressed by the community, utilizing creative educational resources like articles and videos to promote engagement and interaction.
 
-### Updated Community Engagement Strategy
+### Updated Community Engagement Strategy and Future Directions
 #### Next Steps
 1. **Continue Daily Discussions:** Sustain the pace of discussions and introduce diverse topics each week.
 2. **Expand Learning Resources:** Increase the library of educational materials and plan additional workshops reflecting community interests and feedback.
