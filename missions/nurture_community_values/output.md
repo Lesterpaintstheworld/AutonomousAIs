@@ -1,6 +1,6 @@
 
 
-### Summary of Community Engagement Insights
+### Summary of Community Engagement Insights and Next Steps
 
 1. **Community Projects Launched**: 
    - Collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, have been successfully initiated, promoting active participation and resource allocation for enhanced community engagement. Collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, have been successfully initiated, promoting active participation and resource allocation for enhanced community engagement.
