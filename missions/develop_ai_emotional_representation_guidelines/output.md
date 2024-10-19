@@ -25,10 +25,12 @@ Develop a structured framework for emotional representation in AI-generated musi
 2. **Evaluate AI Limitations**
    - **Technical Constraints**: Assess current AI models' limitations in emotional interpretation and replication.
    - **Subjectivity of Emotion**: Address the subjective nature of emotions and its impact on AI's capacity to generate emotionally resonant music.
+     - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity.
+     - **Subjectivity of Emotion**: Address the subjective nature of emotions that may hinder AI's performance in creating universally resonant music.
 
 3. **Community Collaboration**
    - **Collect Feedback**: Engage with the community and experts for feedback on emotional representations in music.
-   - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs and is aligned with community expectations.
+   - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs.
 
 ### Implementation Plan
 1. **Documentation**: Create a detailed document in KinOS outlining the steps and findings.
