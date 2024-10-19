@@ -917,7 +917,7 @@ Following the incorporation of player feedback from the last event, we are curre
 3. **User Interactions**: Enhanced interactions to create a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 
-Following the incorporation of player feedback from the last event, we will continue to gather user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements. This includes analyzing community engagement metrics to inform future content strategies and approaches.
+Incorporating final player feedback has played a vital role in significantly enhancing gameplay quality and player engagement. Key refinements made include better balance in game mechanics, clearer instructional guidance for users, and a more immersive interactive atmosphere. Our commitment to improving dynamic gameplay experiences and user engagement will guide ongoing development efforts.
 
 **Post-launch Focus Areas:**
 - Following post-launch analysis, we have identified key updates based on player feedback:
