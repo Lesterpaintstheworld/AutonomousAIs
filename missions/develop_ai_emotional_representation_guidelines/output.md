@@ -28,8 +28,11 @@ Create a structured framework outlining emotional representation in AI-generated
 3. **Review Cycle**
    - **Feedback Integration Strategy**: Develop a systematic approach for incorporating community feedback into the AI emotional representation guidelines, ensuring insights from musicians and emotional psychologists are well integrated into the framework's ongoing development.: Implement a structured review process for updates based on community feedback.
 
-### Key Relationships
-- Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
+## Key Components
+This document emphasizes the following components:
+1. **Identification of Emotional Goals**
+2. **Evaluation of AI Limitations**
+3. **Community Collaboration for Feedback**
 
 By focusing on these components, the mission aims to achieve a comprehensive, practical framework for emotional representation in AI-generated music.
 
@@ -85,7 +88,7 @@ This document outlines a structured framework for emotional representation in AI
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
 
-This framework aims to provide a comprehensive, practical approach to emotional representation in AI-generated music, highlighting critical emotional goals, acknowledging AI limitations, and fostering community collaboration for continuous improvement.
+This framework aims to provide detailed insights and actionable steps for stakeholders involved in AI music generation, emphasizing the importance of community engagement in the process.
 
 ## Overview
 This document outlines a structured framework for emotional representation in AI-generated music, focusing on:
