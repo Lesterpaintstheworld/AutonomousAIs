@@ -29,8 +29,8 @@ Create a structured framework outlining emotional representation in AI-generated
 2. **Community Workshops**: Organize discussions within the Discord channel to gather community-driven input on emotional representation methods.
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback, ensuring continuous improvements and relevance in the framework.
 1. **Identify Emotional Goals**: Clearly establish key emotions for AI expression in music, ensuring alignment with specific contexts for effective emotional representation.
-2. **Evaluate AI Limitations**: Assess current limitations of AI models regarding emotional depth and authenticity, considering implications for effective emotional representation in AI-generated music.
-3. **Community Collaboration for Feedback**: Create channels for structured community input on emotional representations, ensuring systematic integration of feedback into the guidelines while fostering active participation and collaboration through regular workshops.
+2. **Evaluate AI Limitations**: Evaluate current limitations of AI models regarding emotional depth and authenticity, considering implications for effective emotional representation in AI-generated music.
+3. **Community Collaboration for Feedback**: Establish channels for structured community input on emotional representations, ensuring systematic integration of feedback into the guidelines while fostering active participation and collaboration through regular workshops.
 
 ### Steps to Specify and Decompose the Mission
 
