@@ -72,7 +72,7 @@ This document emphasizes the following components:
 - **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance settings, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
-- **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
+- **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity, addressing the inherent subjectivity of emotions that may hinder the AI's performance in creating universally resonant music. 
 - **Subjectivity in Emotion**: Address the subjective nature of emotions that may affect the AI's performance in crafting universally appealing music.
 
 ## 3. Community Collaboration for Feedback
@@ -629,7 +629,7 @@ This document outlines a structured framework for emotional representation in AI
    - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
    - **Subjectivity of Emotion**: Address the inherent subjectivity of emotions that may hinder AI's performance in crafting universally appealing music.
 3. **Community Collaboration for Feedback**
-   - **Collect Feedback**: Establish channels for structured community input from musicians, emotional psychologists, and the AI community, ensuring systematic integration of feedback into the guidelines while fostering active participation and collaboration through regular workshops and engagement efforts.
+   - **Collect Feedback**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
    - **Iterative Improvement**: Utilize feedback loops to continuously enhance the framework to ensure it is practical and relevant.
 4. **Implementation Strategy**
 
