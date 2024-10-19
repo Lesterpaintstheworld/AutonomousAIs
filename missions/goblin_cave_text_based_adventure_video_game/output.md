@@ -903,7 +903,7 @@ We are committed to maintaining high player engagement and satisfaction by conti
 3. **User Interactions**: Improved user interactions to create a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and possible gameplay expansions based on user suggestions will continue to guide our future update strategies.
 
-Following the incorporation of player feedback from the last event, we are currently gathering and analyzing final player feedback for implementation in future updates, focusing on optimizing gameplay experiences and user interactions. The primary updates include:
+Gather and analyze final player feedback for implementation in future updates. Focus on optimizing gameplay experiences and user interactions based on feedback gathered during playtesting.
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns with player expectations.
