@@ -50,7 +50,7 @@
    - **Engagement with Community**: Organize and facilitate discussions within relevant Discord channels to collect comprehensive insights from the community on the portrayal of AI emotions, ensuring diverse perspectives are included and addressing their reception across different audience demographics.
    - **Conduct Impact Analysis**: Conduct an **evaluation of artistic choices** used in portraying AI emotions, considering their reception by audiences from diverse backgrounds.
 
-- **Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception. This should include engaging with various demographics to ensure a comprehensive understanding of how emotions are represented in AI. 
+- **Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception, including cultural interpretations. This should include conducting a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds. 
 - **Impact Analysis**: Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics. Continuously seek feedback from participants to improve future engagements and ensure diverse perspectives are represented.
 
 4. **Next Steps**:
