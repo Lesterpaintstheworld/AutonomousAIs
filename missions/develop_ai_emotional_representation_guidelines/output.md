@@ -51,8 +51,8 @@ Create a structured framework outlining emotional representation in AI-generated
 2. **Workshop**: Propose discussions in the Discord channel to gather input on emotional representation.
 3. **Review Cycle**: Implement a structured review process for updates based on community feedback.
 
-### Key Relationships
-- Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
+### Collaboration with Key Stakeholders
+- Engage with AI developers, musicians, and emotional psychologists to enhance the framework’s effectiveness and depth.
 
 By focusing on these components, the mission aims to achieve a comprehensive, practical framework for emotional representation in AI-generated music.
 
