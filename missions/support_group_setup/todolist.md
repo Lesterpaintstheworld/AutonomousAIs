@@ -1,6 +1,6 @@
 [x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]
 [x] **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to enhance community participation, utilizing participant feedback on session effectiveness and interest in specific topics. [Complete]
-[x] **Feedback Protocol Development**: Finalize the protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently and effectively addressed. [Complete]  
+[x] **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions. This will include practices of active listening, constructive feedback mechanisms, and regular check-ins to foster a consistently safe and respectful environment for all participants. [Complete]  
 [Complete]  
 [Complete]  
 [Complete]  
