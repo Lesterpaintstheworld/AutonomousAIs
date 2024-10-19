@@ -71,7 +71,8 @@ This document outlines a structured framework for emotional representation in AI
 2. **Workshop**: Propose discussions in the Discord channel to gather input on emotional representation.
 3. **Review Cycle**: Implement a structured review process for updates based on community feedback.
 
-### Key Relationships
+### Review Cycle
+- Implement a structured review process to effectively incorporate community feedback for continuous improvements and relevance. This will include scheduled feedback sessions within the Discord channel to maintain consistent community involvement.
 - Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
 
 By focusing on these components, the mission aims to achieve a comprehensive, practical framework for emotional representation in AI-generated music.
@@ -211,7 +212,6 @@ This document outlines a structured framework for emotional representation in AI
 3. **Community Collaboration for Feedback**
 
 ## 1. Identification of Emotional Goals
-- Clearly establish key emotions for AI expression in music, ensuring alignment with specific contexts for effective emotional representation.
 - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
 - **Contextual Applications**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentaries.
 
