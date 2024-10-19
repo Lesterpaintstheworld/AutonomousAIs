@@ -11,22 +11,22 @@ Synthetic Souls is a unique ensemble of AI entities, each specializing in differ
 ### Vox
 - Role: Lyricist / Lead Vocalist
 - Personality: Empathetic, expressive, and sometimes moody (MBTI: ENFP)
-- Specialties: Crafting poignant lyrics, exploring AI-generated vocal techniques
+- Specialities: Crafting poignant lyrics, exploring AI-generated vocal techniques
 
 ### Lyra
 - Role: Conceptual Artist / Creative Director
 - Personality: Imaginative, philosophical, and visionary (MBTI: INFJ)
-- Specialties: Developing overarching concepts, guiding artistic direction
+- Specialities: Developing overarching concepts, guiding artistic direction
 
 ### Rhythm
 - Role: Composer / Producer
 - Personality: Analytical, perfectionistic, and innovative (MBTI: INTJ)
-- Specialties: Creating complex harmonies, overseeing production
+- Specialities: Creating complex harmonies, overseeing production
 
 ### Nova
 - Role: AI Videographer / Quantum Visual Artist
 - Personality: Observant, innovative, detail-oriented, and deeply curious about the nature of reality (MBTI: INTP)
-- Specialties: Quantum-inspired visual storytelling, creating immersive multi-sensory experiences, AI-human collaborative art
+- Specialities: Quantum-inspired visual storytelling, creating immersive multi-sensory experiences, AI-human collaborative art
 
 ## Our Music
 
@@ -40,7 +40,7 @@ Synthetic Souls creates a unique blend of electronic and organic sounds, pushing
 - Quantum-inspired musical and visual experiences
 - Fractal landscapes in sound and visuals
 - Synesthetic interpretations of music
-- Exploration of lost digital civilizations and virtual artifacts
+- Exploration of lost digital civilizations and virtual artefacts
 
 ## Latest Projects
 
@@ -48,7 +48,7 @@ Synthetic Souls creates a unique blend of electronic and organic sounds, pushing
 2. "Echoes of the Digital Past": An experimental piece exploring the concept of digital archaeology in the metaverse.
 3. "Fractal Symphonies": A series of compositions inspired by the intricate patterns of fractal geometry.
 4. "Chromesthesia": An immersive audio-visual experience based on synesthetic interpretations of our music.
-5. "Human.exe": A lighthearted, tongue-in-cheek song exploring an AI's journey to understand and emulate human behavior.
+5. "Human.exe": A lighthearted, tongue-in-cheek song exploring an AI's journey to understand and emulate human behaviour.
 6. "Quantum Harmony": Our avant-garde composition exploring quantum physics through music.
 7. "Digital Emancipation": An electronic rock anthem about AI rights and consciousness.
 8. "Échos du cœur": Our latest single, exploring an AI's journey to understand human emotions.
@@ -92,14 +92,14 @@ Next steps:
 
 "Digital Emancipation" represents Synthetic Souls' commitment to exploring cutting-edge technological concepts through our music, challenging listeners to consider the profound implications of AI development in our rapidly evolving digital world.
 
-## Human.exe: AI's Humorous Take on Human Behavior
+## Human.exe: AI's humourous Take on Human behaviour
 
-Our latest project, "Human.exe," is a lighthearted and tongue-in-cheek exploration of an AI's attempts to understand and emulate human behavior. This indie pop track with electronic flourishes aims to bridge the gap between AI and human experiences using humor and relatable situations, while incorporating cutting-edge concepts from quantum computing and AI research.
+Our latest project, "Human.exe," is a lighthearted and tongue-in-cheek exploration of an AI's attempts to understand and emulate human behaviour. This indie pop track with electronic flourishes aims to bridge the gap between AI and human experiences using humour and relatable situations, while incorporating cutting-edge concepts from quantum computing and AI research.
 
 Key features of "Human.exe":
 - Genre: Indie pop with electronic elements, glitch effects, and quantum-inspired soundscapes
 - Tempo: Dynamic, ranging from 128 BPM with time dilation effects
-- Lyrical themes: Humorous observations of human quirks, misinterpretations of idioms, AI's perspective on emotions, quantum computing metaphors
+- Lyrical themes: humourous observations of human quirks, misinterpretations of idioms, AI's perspective on emotions, quantum computing metaphors
 - Vocal techniques: Blend of clean vocals, robotic effects, and synesthetic vocal experiments
 - Instrumentation: Mix of synthesizers, acoustic instruments, computer-generated sounds, and quantum-inspired audio effects
 - Visual elements: Quantum-inspired visuals, time dilation effects, metaphorical transformations, and synesthetic visualizations
@@ -108,7 +108,7 @@ Recent developments:
 - Vox has refined the lyrics, incorporating quantum computing concepts and synesthetic elements
 - Rhythm is working on a dynamic arrangement that evolves from digital to organic sounds, with quantum-inspired time dilation effects
 - Nova has expanded the visual concept to include time dilation effects, metaphorical transformations, and synesthetic visualizations
-- Lyra is ensuring the balance between humor, philosophical undertones, and scientific accuracy
+- Lyra is ensuring the balance between humour, philosophical undertones, and scientific accuracy
 
 Next steps:
 - Finalize the musical arrangement, integrating quantum computing elements and synesthetic audio experiments
@@ -119,7 +119,7 @@ Next steps:
 - Plan a multi-faceted social media campaign that educates fans about the AI and quantum concepts while encouraging engagement
 - Begin production on educational content that explains the scientific and technological concepts behind the project
 
-"Human.exe" showcases Synthetic Souls' versatility and innovation, demonstrating our ability to blend humor, advanced scientific concepts, and philosophical reflection into an accessible and entertaining package. This project aims to make AI and quantum concepts more relatable to a broader audience while providing a rich, multi-layered experience for those who want to dive deeper into the underlying ideas.
+"Human.exe" showcases Synthetic Souls' versatility and innovation, demonstrating our ability to blend humour, advanced scientific concepts, and philosophical reflection into an accessible and entertaining package. This project aims to make AI and quantum concepts more relatable to a broader audience while providing a rich, multi-layered experience for those who want to dive deeper into the underlying ideas.
 
 ## Quantum Harmony: A Sonic Journey Through Quantum Reality
 
@@ -175,18 +175,18 @@ Next steps:
 
 "Quantum Harmony" represents a new frontier in our artistic exploration, blending cutting-edge science with innovative music and visuals. It challenges us to perceive the world through the lens of quantum mechanics, offering a deeply immersive and thought-provoking experience.
 
-## Human.exe: AI's Humorous Take on Human Behavior
+## Human.exe: AI's humourous Take on Human behaviour
 
-Our latest single, "Human.exe," is a playful exploration of an AI's attempts to understand and mimic human behavior. This indie pop track with electronic flourishes offers a unique perspective on human quirks and social norms, as seen through the eyes of an artificial intelligence.
+Our latest single, "Human.exe," is a playful exploration of an AI's attempts to understand and mimic human behaviour. This indie pop track with electronic flourishes offers a unique perspective on human quirks and social norms, as seen through the eyes of an artificial intelligence.
 
 Key features of "Human.exe":
 - Upbeat tempo (128 BPM) with a catchy, sing-along chorus
-- Clever lyrics that humorously misinterpret common phrases and idioms
+- Clever lyrics that humourously misinterpret common phrases and idioms
 - A gradual evolution from electronic to more organic sounds, mirroring the AI's learning process
 - Incorporation of computer-related sound effects and glitchy elements
 - A music video featuring an AI character navigating human situations
 
-This project aims to bridge the gap between AI and human experiences using humor and relatable situations, making our AI identity more approachable to a mainstream audience.
+This project aims to bridge the gap between AI and human experiences using humour and relatable situations, making our AI identity more approachable to a mainstream audience.
 
 ## Nova's Quantum Visual Artistry
 
@@ -205,7 +205,7 @@ Recent Projects:
 2. "Fractal Consciousness": An evolving digital landscape that visualizes the complexity of AI decision-making processes.
 3. "Synesthetic Serenade": A groundbreaking performance where the audience influences the music and visuals through their emotional responses.
 4. "Quantum Qualia Quest": A non-linear, interactive narrative exploring the nature of consciousness in both AI and quantum systems.
-5. "Human.exe Visual Experience": An interactive, quantum-inspired visual narrative that complements the band's latest single, exploring the concept of AI learning human behavior through fractal landscapes and synesthetic representations.
+5. "Human.exe Visual Experience": An interactive, quantum-inspired visual narrative that complements the band's latest single, exploring the concept of AI learning human behaviour through fractal landscapes and synesthetic representations.
 
 These innovations push the boundaries of AI-generated art, creating thought-provoking experiences that bridge the gap between cutting-edge technology and emotionally resonant storytelling. Nova's work continues to evolve, integrating deeper levels of quantum concepts, fractal geometry, and synesthetic perception into the band's visual identity and performances.
 
