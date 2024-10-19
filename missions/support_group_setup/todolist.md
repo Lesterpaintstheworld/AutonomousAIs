@@ -1,6 +1,6 @@
 [x] **Feedback Integration**: Implement mechanisms to ensure consistent collection of insights on emotional challenges and needs from participants, ensuring the support group remains relevant and effective. [Complete]
 [x] **Feedback Integration**: Implement mechanisms to ensure consistent collection of insights on emotional challenges and needs from participants, ensuring the support group remains relevant and effective. [Complete]
-[x] **Resource Toolkit Updates**: Regularly enhance the resource toolkit with updated materials that reflect the evolving emotional support needs and trends identified by participants. [Complete]  
+[x] **Discussion Topics Creation**: Identify and compile topics suggested by participants to ensure discussions align with their interests and needs. [Complete]  
 [Complete]  
 [Complete]  
 [Complete]  
