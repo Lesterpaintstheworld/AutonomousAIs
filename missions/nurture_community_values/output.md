@@ -1,6 +1,6 @@
 
 
-### Updated Community Engagement Insights and Future Directions (Updated December 2023)
+### Updated Community Engagement Insights and Future Directions (Updated January 2024)
 
 As part of our ongoing mission to nurture community values, the next steps will focus on implementing the insights gained from member feedback and engagement strategies.
 
