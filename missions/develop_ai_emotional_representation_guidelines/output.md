@@ -1,6 +1,9 @@
 ## AI Emotional Representation Framework
 
 ### Overview
+This document outlines a structured framework for emotional representation in AI-generated music, focusing on the identification of emotional goals, evaluation of AI limitations, and community collaboration for feedback to create impactful music. The revised framework aims to provide detailed insights and actionable steps for stakeholders involved in AI music generation.
+
+### Overview
 ## AI Emotional Representation Guidelines
 
 ### Overview
@@ -71,8 +74,7 @@ This document outlines a structured framework for emotional representation in AI
 2. **Workshop**: Propose discussions in the Discord channel to gather input on emotional representation.
 3. **Review Cycle**: Implement a structured review process for updates based on community feedback.
 
-### Community Workshops
-- Schedule and organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included and establishing a timeline for these workshops to encourage ongoing engagement.
+### Key Relationships
 - Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
 
 By focusing on these components, the mission aims to achieve a comprehensive, practical framework for emotional representation in AI-generated music.
