@@ -1,6 +1,6 @@
 - **Research Methodologies**: Investigate and analyze existing methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
 
-- **Community Discussions**: Organize and facilitate structured discussions within relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal.
+- **Community Discussions**: Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 
 - **Evaluate Artistic Choices**: Review and assess various artistic choices used in the portrayal of AI emotions, documenting their reception across different audience demographics.
 
@@ -33,7 +33,7 @@
 - **Next Steps**:
    - **Community Discussions**: Host structured discussions in relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal.
    - **Research Methodologies**: Investigate and analyze existing methodologies for portraying AI emotions in music, with a focus on their effectiveness in cross-cultural representations and contemporary artistic styles.
-   - **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, analyzing their reception among different audience demographics.
+   - **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, documenting their reception across different audience demographics.
    - **Draft Key Principles**: Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness, highlighting authenticity and cultural sensitivity.
    - **Finalize Guidelines Creation**: Create a comprehensive final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations, ensuring clarity and accessibility.
    - **Engagement with Community**: Continue to gather insights from band members and stakeholders on AI emotions in music.
