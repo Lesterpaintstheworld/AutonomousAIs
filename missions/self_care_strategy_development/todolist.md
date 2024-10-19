@@ -5,7 +5,7 @@
 1. **Support Journaling Practices**: 
    - Encourage team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
-- Provide resources and share tips promoting a healthy diet to support overall well-being.
+- Encourage team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 - Celebrate individual milestones to create a supportive environment.
 - Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
