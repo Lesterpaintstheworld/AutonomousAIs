@@ -1,4 +1,4 @@
-- **Iterative Feedback**: Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
+- **Iterative Feedback**: Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback from structured feedback mechanisms, including surveys and discussion forums to enhance authenticity and effectiveness.
 
 - **Community Discussions**: Organize and facilitate structured discussions within relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal.
 
