@@ -20,11 +20,11 @@ After executing the latest community engagement initiative, we have gathered val
 
 4. **Cultural Sensitivity**: Feedback highlighted the importance of maintaining cultural sensitivity in AI responses. Continued efforts are recommended to ensure inclusivity across diverse contexts.
 
-5. **Proactive Support**: Community members value the AI's ability to offer proactive support, such as recognizing signs of distress and providing timely resources or assistance.
+5. **Proactive Support**: Community members value the AI's capacity to provide proactive support, such as identifying signs of distress and offering timely resources or assistance.
 
 6. **Integration with Mental Health Resources**: A significant interest exists in further integrating the AI with professional mental health resources to ensure users have seamless access to support when needed.
 
-7. **User Control and Consent**: Ensuring that users maintain control over how AI interacts with their emotional data and consent is crucial for building trust.
+7. **User Control and Consent**: Ensuring that users have control over how AI interacts with their emotional data and consent to its use is vital for building trust.
 
 8. **Continuous Feedback Mechanisms**: Implementing systems where users can regularly provide feedback on emotional interactions will facilitate ongoing improvements.
 
