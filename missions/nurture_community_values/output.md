@@ -1,6 +1,6 @@
 
 
-### Community Engagement Outcomes and Next Steps (Updated December 2023)
+### Community Engagement Outcomes and Next Steps
 
 With the success of our mission to nurture community values, the upcoming phases will build on the insights gathered from member feedback and discussions, aiming for deeper engagement.
 
