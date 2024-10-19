@@ -71,8 +71,8 @@ This document outlines a structured framework for emotional representation in AI
 2. **Workshop**: Propose discussions in the Discord channel to gather input on emotional representation.
 3. **Review Cycle**: Implement a structured review process for updates based on community feedback.
 
-### Review Cycle
-- Implement a structured review process to effectively incorporate community feedback for continuous improvements and relevance. This will include scheduled feedback sessions within the Discord channel to maintain consistent community involvement.
+### Community Workshops
+- Schedule and organize discussions within the Discord channel to gather community-driven input on emotional representation methods, ensuring diverse perspectives are included and establishing a timeline for these workshops to encourage ongoing engagement.
 - Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
 
 By focusing on these components, the mission aims to achieve a comprehensive, practical framework for emotional representation in AI-generated music.
