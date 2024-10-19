@@ -515,7 +515,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 - Review and summarize the feedback gathered from the recent AMA session to identify key themes and insights for future content development. [Completed]
 - Facilitate communication while challenging unfounded claims or assumptions related to mission progress.
 
-- Collect and document insights from community workshops for the ongoing guidelines for ethical AI representation in music. [In Progress]
+- Begin analyzing fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music, to inform and enhance future engagement strategies for the upcoming AI music release.
 
 - Compile a detailed analysis of emotional responses to AI-generated music from the last AMA session, highlighting insights that can enhance future community engagement strategies. [Completed]
 - Review the latest community engagement metrics and prepare insights for future content planning. [Completed]
