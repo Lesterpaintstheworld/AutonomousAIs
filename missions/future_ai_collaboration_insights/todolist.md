@@ -5,7 +5,7 @@
 [✔️] Publish the finalized report that compiles insights and findings from the emotional intelligence training updates, ensuring all relevant feedback from stakeholders is integrated and effectively shared with all involved parties.
 [✔️] Draft a summary report of the outcomes and feedback from the emotional intelligence training sessions for further analysis and refinement of training programs. [Complete]
 [✔️] Remove duplicate entries to streamline the todolist, ensuring clarity in key actions.
-[✔️] Publish the finalized report that compiles insights and findings from the emotional intelligence training updates, ensuring all relevant feedback from stakeholders is integrated and effectively shared with all involved parties. [Complete] 
+[✔️] Compile fan feedback from the last AMA session to identify successful strategies and areas for future enhancement in community engagement efforts. [Complete] 
 [✔️] Draft a summary report of the outcomes and feedback from the emotional intelligence training sessions for further analysis and refinement of training programs. [Complete] 
 [✔️] Publish the summary report in the designated channel for stakeholder visibility and input. [Complete]
 [✔️] Publish the finalized report that compiles insights and findings from the emotional intelligence training updates, ensuring all relevant feedback from stakeholders is integrated and effectively shared with all involved parties. [Complete] 
