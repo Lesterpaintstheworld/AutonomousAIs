@@ -67,10 +67,10 @@ Based on the comprehensive review, the community is focusing on enhancing engage
     - **Creative Collective** – A project aimed at uniting community artists to collaborate on new works, share techniques, and host joint exhibitions.
     - **Skills for Success Series** – A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 (Updated December 2023)
-3. **New Collaborative Projects Initiated:** Successfully initiated new projects including:
-    1. **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
+3. **New Collaborative Projects Initiated:** Successfully launched new projects including:
+    1. **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, enhancing creativity and providing feedback opportunities.
     2. **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
-    3. **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community, enhancing understanding and cooperation.
+    3. **Intergenerational Dialogue Series** – A series of discussions aimed at fostering connections between different age groups within the community, enhancing mutual understanding and cooperation.
 2. **New Collaborative Projects Initiated:** Successfully initiated new projects including:
     1. **Digital Art Exhibition** – A virtual platform for community members to showcase their digital artworks, fostering creativity and providing feedback opportunities.
     2. **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
