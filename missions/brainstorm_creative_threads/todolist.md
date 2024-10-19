@@ -537,7 +537,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 - Begin drafting the interactive lyric video script for "First Steps." [Scheduled]
 - Compile the results from the last AMA to identify successful strategies and areas for improvement.
 
-- Analyze fan feedback from previous engagements, focusing on emotional responses to AI-generated music, to inform and enhance future engagement strategies for the upcoming AI music release. [In Progress]
+- Collect and analyze fan feedback from previous Reddit engagements, emphasizing emotional responses to AI-generated music to refine our future engagement strategies for the upcoming AI music release. [In Progress]
 - Discuss overlaps and potential collaborations on the proposed ideas.
 - [x] Analyze fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music, to inform and enhance future engagement strategies for the upcoming AI music release. [Completed]
 
