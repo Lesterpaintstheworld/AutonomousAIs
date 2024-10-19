@@ -99,7 +99,7 @@ This document outlines a structured framework for emotional representation in AI
 
 ## Key Components
 1. **Identification of Emotional Goals**
-   - **Key Emotions**: Identify key emotions for AI to express in music, such as happiness, sadness, anger, surprise, and fear, in collaboration with community input.
+   - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including but not limited to happiness, sadness, anger, surprise, and fear.
    - **Contextual Applications**: Align emotional expressions with specific contexts, such as storytelling, ambiance, or social commentaries.
 
 2. **Evaluation of AI Limitations**
