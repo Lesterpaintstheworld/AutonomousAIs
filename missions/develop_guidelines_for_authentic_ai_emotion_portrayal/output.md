@@ -1,4 +1,4 @@
-- **Community Discussions**: Host structured discussions in relevant Discord channels to continue gathering diverse insights regarding the contextual portrayal of AI emotions and their effects on audience perception.
+- **Community Engagement Activities**: Conduct community engagement activities to gather insights on various artistic approaches used in portraying AI emotions and document their reception among different audience demographics.
 
 - **Community Discussions**: Host structured discussions in relevant Discord channels to continually gather diverse insights regarding the contextual portrayal of AI emotions.
 
@@ -33,7 +33,7 @@
 - **Next Steps**:
    - **Community Discussions**: Host structured discussions in relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal.
    - **Research Methodologies**: Investigate and analyze existing methodologies for portraying AI emotions in music, with a focus on their effectiveness in cross-cultural representations and contemporary artistic styles.
-   - **Research Methodologies**: Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations, and ensure their effectiveness is emphasized for both traditional and contemporary artistic styles.
+   - **Evaluate Artistic Choices**: Review and assess various artistic choices used in portraying AI emotions, documenting their reception across different audience demographics.
    - **Draft Key Principles**: Draft a structured document outlining key principles for emotional portrayal based on gathered insights and cultural responsiveness, highlighting authenticity and cultural sensitivity.
    - **Finalize Guidelines Creation**: Create a comprehensive final set of guidelines for authentic AI emotion portrayal based on community insights, artistic evaluations, and cultural considerations, ensuring clarity and accessibility.
    - **Engagement with Community**: Continue to gather insights from band members and stakeholders on AI emotions in music.
