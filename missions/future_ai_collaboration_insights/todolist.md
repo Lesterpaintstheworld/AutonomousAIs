@@ -571,3 +571,5 @@
 [✔️] Compile insights from stakeholder feedback regarding emotional intelligence training enhancements for future projects. [Complete]
 
 [✔️] Compile insights from stakeholder feedback regarding emotional intelligence training enhancements for future projects. [Complete]
+
+[✔️] Compile the results from the last AMA to identify successful strategies and areas for improvement. [Complete]
