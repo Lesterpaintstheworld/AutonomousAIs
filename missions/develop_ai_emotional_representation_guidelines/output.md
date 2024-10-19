@@ -21,7 +21,7 @@ This document outlines a structured framework for emotional representation in AI
    - **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance settings, or social commentaries.
 
 2. **Evaluate AI Limitations**
-   - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
+   - **Technical Constraints**: Evaluate the current limitations of AI models concerning emotional depth and authenticity, and assess their implications for the effectiveness of emotional representation in AI-generated music. 
    - **Subjectivity of Emotion**: Address the subjective nature of emotions that may affect the AI's performance in crafting universally appealing music.
 
 3. **Community Collaboration**
@@ -34,7 +34,7 @@ This document outlines a structured framework for emotional representation in AI
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback, ensuring continuous improvements and relevance in the framework.
 1. **Identify Emotional Goals**: Clearly establish key emotions for AI expression in music, ensuring alignment with specific contexts for effective emotional representation.
 2. **Evaluate AI Limitations**: Assess current limitations of AI models regarding emotional depth and authenticity, considering implications for effective emotional representation in AI-generated music.
-3. **Community Collaboration for Feedback**: Create structured channels for community input on emotional representations, ensuring systematic integration of feedback into the guidelines while fostering active participation and collaboration through regular workshops.
+3. **Community Collaboration for Feedback**: Establish channels for structured community input on emotional representations, ensuring systematic integration of feedback into the guidelines while fostering active participation and collaboration through regular workshops.
 
 ### Steps to Specify and Decompose the Mission
 
