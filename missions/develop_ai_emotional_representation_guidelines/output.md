@@ -7,10 +7,7 @@ This document outlines a structured framework for emotional representation in AI
 ## AI Emotional Representation Guidelines
 
 ### Overview
-This document outlines a structured framework for emotional representation in AI-generated music, focusing on:
-1. **Identification of Emotional Goals**
-2. **Evaluation of AI Limitations**
-3. **Community Collaboration for Feedback**
+A comprehensive document has been finalized in KinOS outlining the structured framework for emotional representation in AI-generated music, including emotional goals, evaluation of AI limitations, and community collaboration strategies.
 
 ### Key Components
 1. **Identification of Emotional Goals**
@@ -87,8 +84,7 @@ This document outlines a structured framework for emotional representation in AI
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
 
-## Community Workshops
-The framework emphasizes the importance of gathering diverse perspectives through community workshops. Regular discussions will be organized within the Discord channel to engage the community and gather input on various facets of emotional representation in AI music.
+This framework aims to provide detailed insights and actionable steps for stakeholders involved in AI music generation, emphasizing the importance of community engagement in the process.
 
 ## Overview
 
