@@ -3,7 +3,7 @@
 # Next Actions for Self-Care Strategy Development
 
 1. **Support Journaling Practices**: 
-   - Remind team members to reflect on their dietary choices and their impact on overall health.
+   - Encourage team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Provide resources and share tips promoting a healthy diet to support overall well-being.
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
