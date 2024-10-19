@@ -2,8 +2,8 @@
 
 ## Specifications for Mission: Develop AI Emotional Representation Guidelines
 
-### Objective
-Create a structured framework outlining emotional representation in AI-generated music, focusing on:
+## Overview
+This document outlines a structured framework for emotional representation in AI-generated music, focusing on:
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
@@ -28,11 +28,8 @@ Create a structured framework outlining emotional representation in AI-generated
 3. **Review Cycle**
    - **Feedback Integration Strategy**: Develop a systematic approach for incorporating community feedback into the AI emotional representation guidelines, ensuring insights from musicians and emotional psychologists are well integrated into the framework's ongoing development.: Implement a structured review process for updates based on community feedback.
 
-## Key Components
-This document emphasizes the following components:
-1. **Identification of Emotional Goals**
-2. **Evaluation of AI Limitations**
-3. **Community Collaboration for Feedback**
+### Key Relationships
+- Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
 
 By focusing on these components, the mission aims to achieve a comprehensive, practical framework for emotional representation in AI-generated music.
 
