@@ -1,4 +1,4 @@
-### Continuous Actionable Strategies for Advancing Emotional Intelligence in AI
+### Continuous Actionable Strategies for Advancing Emotional Intelligence in AI Based on Community Feedback
 
 ## Ongoing Community Involvement
 
