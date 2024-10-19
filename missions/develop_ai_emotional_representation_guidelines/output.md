@@ -1,7 +1,7 @@
-## Emotional Representation Guidelines for AI-Generated Music
+# AI Emotional Representation Framework
 
 ### Objective
-Create a structured framework outlining emotional representation in AI-generated music, focusing on:
+Develop a structured framework for emotional representation in AI-generated music, concentrating on:
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
