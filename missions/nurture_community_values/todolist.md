@@ -12,7 +12,7 @@
 - [x] Conduct a comprehensive review of community engagement based on gathered feedback from members to identify strengths and opportunities for improvement. [Completed]
 - [x] Evaluate the impact of the implemented feedback from the last AMA on community engagement strategies. [Completed]
 - [x] Conduct a comprehensive review of community engagement based on gathered feedback from members. [Completed]
-- [x] Finalize the documentation of creative post ideas for Reddit, ensuring all AI contributions and discussions are accurately included. [Completed]
+- [ ] Draft a summary report based on the gathered feedback from the recent collaborative projects to assess their overall effectiveness and member engagement.
 - [x] Initiate new collaborative projects to deepen member engagement and reflect core community values, including:
   1. Digital Art Exhibition
   2. Youth Mentorship Program
