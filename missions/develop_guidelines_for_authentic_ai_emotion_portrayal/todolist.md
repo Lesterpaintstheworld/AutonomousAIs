@@ -1,6 +1,6 @@
 
 
-- Finalize and implement the structured framework for analyzing community feedback on emotional portrayals, ensuring transparency and effectiveness. [Completed]
+- Conduct a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds. [Planned]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
