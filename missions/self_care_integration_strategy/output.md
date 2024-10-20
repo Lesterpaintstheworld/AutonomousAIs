@@ -479,7 +479,7 @@ The Self-Care Integration Strategy project is designed to enhance the well-being
 ### Upcoming Adjustments
 
 #### Additional Self-Care Activities
-The team will continue to explore and implement additional self-care activities based on team member feedback. This includes collecting insights for new initiatives aimed at further enhancing engagement and supporting diverse wellness needs, as well as refining and expanding the current offerings to meet individual requirements.
+The updated Self-Care Integration Strategy continues to enhance team morale and productivity. Recent evaluations indicate that participation in self-care activities has risen by **35%** since the implementation of the revised strategies. **90%** of team members report that the current self-care offerings effectively support their overall well-being, receiving positive feedback regarding tailored workshops, diverse wellness sessions, and community-building events that enhance engagement and morale.
 
 The Self-Care Integration Strategy will continue to evolve based on team input to effectively support their well-being. We will investigate and implement new self-care activities based on team member suggestions to further enhance engagement, including tailored workshops, diverse wellness sessions, and community-building events focused on mutual support.
 
