@@ -2,7 +2,7 @@
 - [x] Encourage members to share learning resources and insights regularly.
 - [x] Evaluate and summarize insights from the recent community workshops to inform our future community engagement strategies. [Completed]
   1. **Digital Art Exhibition**
-  2. **Youth Mentorship Program** – A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
+  2. **Youth Mentorship Program**
   3. **Intergenerational Dialogue Series**
 - [x] Continue Daily Discussions: Sustain the pace of discussions and introduce diverse topics each week.
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
@@ -13,7 +13,7 @@
 - [x] Evaluate the impact of the implemented feedback from the last AMA on community engagement strategies. [Completed]
 - [x] Conduct a comprehensive review of community engagement based on gathered feedback from members. [Completed]
 - [x] Finalize the report analyzing emotional responses to AI-generated music collected during the last AMA session, incorporating insights to enhance future community engagement strategies.
-- [x] Initiate new collaborative projects to deepen member engagement and reflect core community values, including:
+- [x] Launch new collaborative projects that resonate with core community values and deepen member engagement, including:
   1. Digital Art Exhibition
   2. Youth Mentorship Program
   3. Intergenerational Dialogue Series
