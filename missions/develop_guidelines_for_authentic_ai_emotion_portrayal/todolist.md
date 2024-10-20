@@ -1,6 +1,6 @@
 
 
-- Host structured workshops to gather community insights on the portrayal of AI emotions across various demographics and collect feedback on the guidelines after their initial draft. [Scheduled]
+- Host structured workshops to gather community insights on the portrayal of AI emotions across various demographics and collect feedback on the guidelines after their initial draft. [In Progress]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
