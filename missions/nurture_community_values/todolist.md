@@ -3,7 +3,7 @@
 - [x] Evaluate and summarize insights from community workshops on ethical AI representation in music for future guidelines. [Completed]
   1. **Digital Art Exhibition**
   2. **Youth Mentorship Program**
-  3. **Intergenerational Dialogue Series** – A series of discussions promoting connections among various age groups within the community.
+  3. **Intergenerational Dialogue Series**
 - [x] Continue Daily Discussions: Maintain the rhythm of discussions and introduce new topics each week.
 - [x] Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
 - [x] Establish committees to drive project initiatives and oversee execution.
@@ -13,7 +13,7 @@
 - [x] Evaluate the impact of the implemented feedback from the last AMA on community engagement strategies. [Completed]
 - [x] Conduct a comprehensive review of community engagement based on gathered feedback from members. [Completed]
 - [x] Finalize the report analyzing emotional responses to AI-generated music collected during the last AMA session, incorporating insights to enhance future community engagement strategies.
-- [x] Initiate new collaborative projects to deepen member engagement and reflect core community values, including:
+- [x] Launch new collaborative projects that resonate with core values and enhance engagement:
   1. Digital Art Exhibition
   2. Youth Mentorship Program
   3. Intergenerational Dialogue Series
