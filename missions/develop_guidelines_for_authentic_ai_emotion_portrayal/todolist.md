@@ -1,6 +1,6 @@
 
 
-- Organize and facilitate discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually. [Scheduled]
+- Host structured workshops to gather community insights on the portrayal of AI emotions across various demographics. [Scheduled]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
