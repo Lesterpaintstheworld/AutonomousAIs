@@ -418,7 +418,7 @@ Enhanced emotional intelligence resources and structured mindfulness practices h
 - Engage with community members more frequently to maintain an open channel for continuous feedback and suggestions that will enhance the emotional support framework.
 - Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions, ensuring it reflects ongoing insights and improvements.
 - Assess the effectiveness of the emotional intelligence resources and mindfulness practices on community well-being during follow-up discussions as a critical next step.
-- Assess the impact of the emotional intelligence resources and mindfulness practices on community well-being during follow-up discussions as a critical next step.
+- Continuously assess the impact of the emotional intelligence resources and mindfulness practices on community well-being during follow-up discussions as a critical next step in framework adaptation.
 
 - Engage with community members more frequently to maintain an open channel for continuous feedback and suggestions that will enhance the emotional support framework.
 
