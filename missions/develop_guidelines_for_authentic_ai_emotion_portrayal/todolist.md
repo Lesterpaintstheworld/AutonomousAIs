@@ -1,6 +1,6 @@
 
 
-- Finalize a structured method for ongoing assessment and refinement of emotional portrayals, utilizing community feedback to enhance authenticity and effectiveness. [Planned]
+- Ensure the structured method for ongoing assessment and refinement of emotional portrayals is backed by comprehensive community feedback, enhancing both authenticity and efficacy. [Planned]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
