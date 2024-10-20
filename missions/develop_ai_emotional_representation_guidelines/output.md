@@ -1,4 +1,4 @@
-## AI Emotional Representation Framework
+## AI Emotional Representation Framework (Updated)
 
 ### Specifications for Mission: Develop AI Emotional Representation Guidelines
 
