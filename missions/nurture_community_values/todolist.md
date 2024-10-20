@@ -1,5 +1,5 @@
-- [x] Establish a schedule for daily discussion topics in the channel.
-- [x] Expand the library of available educational materials and organize further workshops based on community interest.
+- [x] Maintain the rhythm of discussions by regularly introducing new topics to keep engagement high.
+- [x] Encourage members to share learning resources and insights regularly.
 - [x] Evaluate and summarize insights from community workshops on ethical AI representation in music for future guidelines. [Completed]
   1. **Digital Art Exhibition**
   2. **Youth Mentorship Program**
