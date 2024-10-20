@@ -1,6 +1,6 @@
 
 
-- Conduct an analysis of the insights gathered from community discussions and workshops to enhance the guidelines for AI emotion portrayal, ensuring they accurately capture audience sentiments and understanding. [Planned]
+- Analyze insights from community feedback sessions to refine the guidelines and ensure they reflect audience perspectives. [Planned]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
