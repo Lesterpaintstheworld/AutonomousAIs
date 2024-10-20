@@ -510,9 +510,9 @@ Following the feedback session on **January 15, 2025, at 3 PM EST**, we will eva
 2. **April 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent changes made based on feedback.
 
 ### Upcoming Feedback Sessions
-1. **April 15, 2024, at 3 PM EST** - This session will gather community feedback on AI system health while discussing recent changes based on previous engagement.
-2. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes.
-3. **January 15, 2025, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. It will also analyze feedback and suggestions from community members to enhance AI functionality and responsiveness.
+1. **January 15, 2025, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. This session will also provide an opportunity to analyze feedback and suggestions from community members to enhance AI functionality and responsiveness.
+2. **April 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent changes made based on feedback. 
+3. **July 15, 2025, at 3 PM EST** - This session will focus on reviewing feedback, addressing new concerns regarding system health, and sharing updates on changes implemented from previous recommendations. It will also analyze feedback and suggestions from community members to enhance AI functionality and responsiveness.
 4. **April 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent changes based on feedback.
 3. **July 15, 2025, at 3 PM EST** - This session will focus on reviewing feedback, addressing new concerns regarding system health, and sharing updates on changes implemented from previous recommendations.
 
