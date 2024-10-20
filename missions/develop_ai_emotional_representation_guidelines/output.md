@@ -27,7 +27,7 @@ Develop a structured framework for emotional representation in AI-generated musi
    - **Subjectivity of Emotion**: Address the subjective nature of emotions and its impact on AI's capacity to generate emotionally resonant music.
 
 3. **Community Collaboration**
-   - **Collect Feedback**: Collect Feedback: Engage with the community and experts for feedback on emotional representations in music.
+   - **Collect Feedback**: Engage with the community and experts for feedback on emotional representations in music.
    - **Iterative Improvement**: Establish feedback loops to enhance the framework, ensuring it meets practical needs.
 
 ### Implementation Plan
