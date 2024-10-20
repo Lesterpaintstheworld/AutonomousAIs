@@ -32,8 +32,8 @@ Key insights from the latest findings and updates include:
 1. A **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
 2. An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
 3. The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
-- A **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
-- An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
-- The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
+- A **35% increase in community engagement**, indicated by notable increases in comments, shares, and active participation.
+- An **85% positive sentiment** from community feedback regarding AI-generated content, highlighting strong approval and enthusiasm from our audience.
+- The effective establishment of **systematic feedback mechanisms**, which have deepened our understanding of varied interests and concerns within the community.
 
 We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives.
