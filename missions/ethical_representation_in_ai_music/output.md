@@ -1,4 +1,4 @@
-- Continued the execution of community workshops to engage participants in discussions refining ethical AI representation in music based on recent feedback, actively seeking input from participants to inform our guidelines and strategies. Integrated learnings from community feedback to enhance understanding of emotional representations in AI music.
+- Continued conducting community workshops to facilitate discussions aimed at refining ethical AI representation in music based on recent feedback. These workshops actively sought input from participants to inform our guidelines and strategies, integrating insights from community feedback to enhance understanding of emotional representations in AI music.
 - Incorporate the findings from the follow-up action plan into the guidelines for AI emotional representation to ensure continuous improvement and relevance.
 - Provided additional recommendations for authenticity standards in emotional representation, incorporating feedback from community engagements.
 - Identified effective strategies to enhance audience engagement with our music and advocacy efforts for future initiatives.
