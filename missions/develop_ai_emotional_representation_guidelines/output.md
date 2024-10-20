@@ -83,8 +83,8 @@ Create a structured framework outlining emotional representation in AI-generated
 5. **Evaluate AI Limitations**: Assess current limitations of AI models regarding emotional depth and authenticity, considering implications for effective emotional representation in AI-generated music.
 6. **Encourage Community Collaboration**: Establish channels for structured community input on emotional representations, ensuring systematic integration of feedback into the guidelines while fostering active participation and collaboration through regular workshops.
 
-### Encourage Community Collaboration
-Establish channels for structured community input on emotional representations, ensuring systematic integration of feedback into the guidelines while fostering active participation and collaboration through regular workshops.
+### Evaluate AI Limitations
+Assess current limitations of AI models regarding emotional depth and authenticity, considering implications for effective emotional representation in AI-generated music.
 
 ## Overview
 This document provides a comprehensive framework for emotional representation in AI-generated music. It includes:
