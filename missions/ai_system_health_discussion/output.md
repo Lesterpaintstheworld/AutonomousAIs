@@ -507,8 +507,8 @@ Following the feedback session on **April 15, 2024, at 3 PM EST**, we evaluated 
 ### Additional Feedback and Insights
 Following the feedback session on **January 15, 2025, at 3 PM EST**, we will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. This session will focus on analyzing feedback and suggestions from community members to enhance AI functionality and responsiveness. We appreciate the valuable contributions from community members, which have greatly enriched our understanding of user experiences and needs. Continuous engagement and dialogue will remain essential as we strive to optimize our AI systems effectively, particularly focusing on user-friendly interfaces, context-aware functionalities, and robust ethical considerations regarding data privacy.
 ### Upcoming Feedback Sessions
-1. **April 15, 2025, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. This session will focus on analyzing feedback and suggestions from community members to enhance AI functionality and responsiveness.
-2. **July 15, 2025, at 3 PM EST** - This session will focus on reviewing feedback, addressing new concerns regarding system health, and sharing updates on changes implemented based on previous recommendations.
+1. **October 15, 2024, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. This session will focus on analyzing feedback and suggestions from community members to enhance AI functionality and responsiveness.
+2. **January 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent changes made based on feedback.
 2. **April 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent changes made based on feedback.
 
 ### Upcoming Feedback Sessions
