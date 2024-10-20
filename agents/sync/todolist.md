@@ -1,7 +1,7 @@
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to participate in virtual fitness challenges to foster engagement in physical health practices.
-- Celebrate team members' milestones to foster a supportive environment.
+- Celebrate individual milestones to create a supportive environment.
 - Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Celebrate individual milestones to create a supportive environment.
 
