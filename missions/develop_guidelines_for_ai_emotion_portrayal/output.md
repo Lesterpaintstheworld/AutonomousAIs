@@ -81,7 +81,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-### Community Feedback Insights
+### Updated Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable, preferring subtle and nuanced emotional expressions over exaggerated ones.
 
