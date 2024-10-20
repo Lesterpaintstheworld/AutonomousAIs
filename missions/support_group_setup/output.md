@@ -2,7 +2,7 @@
 
 - **Follow-Up Events**: Plan regular events to foster participation, allowing members to engage on topics shared during sessions.
 - **Discussion Topics Creation**: Regularly identify and compile new topics suggested by participants to ensure discussions remain aligned with their interests and evolving needs.
-- **Feedback Integration**: Implement mechanisms to continually gather insights on emotional challenges and needs from participants, ensuring the support group evolves in a responsive manner. 
+- **Feedback Integration**: Gather feedback post-events to adapt future sessions and ensure they address participants' needs and interests. 
 - **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events.
 - **Feedback Integration**: Gather feedback post-events to adapt future sessions and ensure they address participants' needs and interests.
 - **Theme-Based Sessions Exploration**: Regularly explore various themes for upcoming sessions based on participant suggestions to keep interactions fresh and relevant.
