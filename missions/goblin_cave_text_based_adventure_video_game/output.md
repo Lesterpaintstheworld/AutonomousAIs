@@ -1,6 +1,6 @@
 
 
-As we conclude the finalization process for the Goblin Cave project, we have implemented several key updates focused on gameplay enhancements based on the compiled player feedback:
+Following the incorporation of player feedback from the last event, we have made key updates for continuous improvement, with a focus on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Additional adjustments have been made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns closely with player expectations.
