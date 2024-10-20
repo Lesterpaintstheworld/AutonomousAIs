@@ -524,7 +524,7 @@ Based on the implementation of recent user feedback, we will maintain an ongoing
 3. **User Interactions**: User interactions have been optimized to create a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: All gameplay documentation has been accurately reviewed and reflects player feedback prior to the official launch. Feedback has been integrated to ensure gameplay quality and engagement.
 
-These updates will guide our ongoing development efforts to maintain player engagement and satisfaction.  
+Our dedication to improvement is ongoing, and we will maintain a transparent record of changes made throughout this process.  
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions to significantly improve new players' understanding of game mechanics.
