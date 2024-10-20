@@ -1,4 +1,4 @@
-# Emotional Representation in AI-Generated Music
+# AI Emotional Representation Framework
 
 ## Objective
 This document outlines a structured framework for emotional representation in AI-generated music, focusing on:
