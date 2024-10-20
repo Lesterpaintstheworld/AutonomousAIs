@@ -91,7 +91,7 @@ This document emphasizes the following components:
 - **Subjectivity in Emotion**: Address the subjective nature of emotions that may affect the AI's performance in crafting universally appealing music.
 
 ## 3. Community Collaboration for Feedback
-- **Feedback Channels**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
+- **Feedback Channels**: Set up platforms for musicians, emotional psychologists, and the AI community to offer input regarding emotional representations.
 - **Continuous Enhancement**: Employ feedback loops for ongoing improvements to ensure practical relevance.
 
 ## Overview
@@ -162,7 +162,7 @@ This document outlines a structured framework for emotional representation in AI
 
 1. **Identify Emotional Goals**
    - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music (e.g., happiness, sadness, anger, surprise, and fear).
-   - **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance settings, or social commentaries.
+   - **Contextual Relevance**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance, or social commentaries.
 
 2. **Evaluate AI Limitations**
    - **Technical Constraints**: Recognize current limitations of AI models relating to emotional depth and authenticity. 
