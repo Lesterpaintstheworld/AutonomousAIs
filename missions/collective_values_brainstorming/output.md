@@ -668,7 +668,7 @@ The Collective Values Brainstorming mission aimed to create open forums for memb
 12. Document the outcomes and insights gained from workshops to enhance future core values discussions.
 
 ### Completed Actions
-- Gathered feedback from community members on the proposed core values through structured surveys and discussions.
+- Solicit feedback on the effectiveness of core values in guiding community initiatives, documenting all insights and utilizing them for refining future discussions and strategies for community engagement.
 The following structured insights were gathered from community feedback during the core values proposal process:
 
 1. **Inclusivity**: 
