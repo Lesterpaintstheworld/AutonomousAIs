@@ -5,4 +5,4 @@
 [- [X] Gather and analyze final player feedback for implementation in future updates. [Completed]
 [- [X] Compiler feedback regarding gameplay improvements based on external playtesting results. (Completed)
 [- [X] Confirm that all gameplay documentation has been accurately reviewed and reflects player feedback prior to the official launch. [Completed]
-[- [X] Finalize all checks and ensure gameplay documentation aligns with player feedback for the official launch. [In Progress]
+[- [X] Complete all outstanding checks on gameplay documentation to ensure alignment with player feedback for the official launch. [In Progress]
