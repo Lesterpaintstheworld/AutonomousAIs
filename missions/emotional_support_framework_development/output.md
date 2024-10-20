@@ -392,7 +392,7 @@ Enhanced emotional intelligence resources and structured mindfulness practices h
 - **Continue to strengthen the emotional support framework to ensure it aligns with community needs based on ongoing feedback and insights from recent follow-up discussions.**
 
 - Validate the inputs and outputs with the community to ensure alignment and relevance.
-- Engage with community members regularly to ensure continuous feedback and suggestions enhance the emotional support framework, fostering ongoing improvement and responsiveness to community needs.
+- Engage with community members more frequently to maintain an open channel for continuous feedback and suggestions that will enhance the emotional support framework.
 - Compile a report summarizing the feedback received and outline any changes made to the framework, incorporating insights from ongoing sessions.
 - Assess the impact of emotional intelligence resources and mindfulness practices on community well-being during follow-up discussions as a critical next step.
 - Compile a report summarizing the feedback received, detailing any changes made to the framework, and integrating insights from ongoing sessions.
