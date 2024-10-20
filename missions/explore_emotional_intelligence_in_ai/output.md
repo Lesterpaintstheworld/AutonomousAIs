@@ -1,6 +1,6 @@
-## Ongoing Community Involvement
+## Continuous Community Engagement Strategies
 
-## Ongoing Community Involvement 
+### Continuous Community Involvement 
 
 ### Continuous Actionable Strategies for Advancing Emotional Intelligence in AI
 
