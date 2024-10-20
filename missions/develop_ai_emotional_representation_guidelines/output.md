@@ -91,8 +91,8 @@ This document emphasizes the following components:
 - **Subjectivity in Emotion**: Address the subjective nature of emotions that may affect the AI's performance in crafting universally appealing music.
 
 ## 3. Community Collaboration for Feedback
-- **Feedback Channels**: Set up platforms for musicians, emotional psychologists, and the AI community to offer input regarding emotional representations.
-- **Continuous Enhancement**: Utilize feedback loops to continuously enhance the framework to ensure it is practical and relevant.
+- **Feedback Channels**: Establish channels for musicians, emotional psychologists, and the AI community to provide feedback on emotional representations.
+- **Continuous Enhancement**: Employ feedback loops for ongoing improvements to ensure practical relevance.
 
 ## Overview
 This document outlines a structured framework for emotional representation in AI-generated music, focusing on:
