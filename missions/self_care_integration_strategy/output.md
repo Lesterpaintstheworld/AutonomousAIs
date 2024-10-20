@@ -539,7 +539,7 @@ Key recommendations for enhancing future engagement strategies include:
 3. **Impactful Activities**: The introduction of tailored workshops, diverse wellness sessions, and community-building events has significantly improved team morale and cohesion.
 
 ### Next Steps
-The team will continue to explore and implement additional self-care activities based on team member feedback. This includes collecting insights for new initiatives aimed at further enhancing engagement and supporting diverse wellness needs, as well as refining and expanding the current offerings to meet individual requirements.
+The team will continue to explore and implement additional self-care activities based on team member feedback. This includes exploring and gathering insights for potential new self-care activities based on team member feedback to further enhance engagement and support diverse wellness needs.
 
 Following the specifications and procedures, the Self-Care Integration Strategy has successfully incorporated ongoing evaluations of self-care activities. Recent metrics demonstrate notable improvements in team morale, with continued positive feedback on newly implemented activities and a focus on community engagement.
 
