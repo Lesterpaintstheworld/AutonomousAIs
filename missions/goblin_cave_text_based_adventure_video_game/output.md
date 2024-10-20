@@ -1,10 +1,10 @@
 
 
-Following the incorporation of final player feedback from playtesting, we have successfully integrated several key updates aimed at enhancing gameplay quality and player engagement, focusing on:
-1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
-2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns closely with player expectations.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and possible gameplay expansions based on player suggestions will guide our future update strategies.
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
+2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and engaging experience.
+3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that meets player expectations.
+4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions will guide our future updates based on user suggestions collected from testing.
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a more balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns closely with player expectations.
