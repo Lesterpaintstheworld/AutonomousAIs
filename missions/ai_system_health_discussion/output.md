@@ -462,8 +462,9 @@ The document has been revised based on recent community feedback, which has been
 3. Revise this document to integrate new action recommendations, highlighting clarity and ethical considerations.
 
 ### Finalized Document
-### Upcoming Feedback Session
-1. **April 15, 2025, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. This session will focus on analyzing feedback and suggestions from community members to enhance AI functionality and responsiveness. We appreciate the contributions from community members, which have enhanced our understanding of user experiences and needs. Continuous engagement and dialogue will remain essential as we strive to optimize our AI systems effectively, focusing especially on user-friendly interfaces and ethical considerations around data privacy.
+### Upcoming Feedback Sessions
+1. **July 15, 2024, at 3 PM EST** - This session will review feedback and new concerns regarding system health, sharing previously implemented changes and the impact of ongoing adjustments based on recommendations. It will also analyze feedback and suggestions from community members to enhance AI functionality and responsiveness.
+2. **October 15, 2024, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. This session will focus on analyzing feedback and suggestions from community members to enhance AI functionality and responsiveness. We appreciate the contributions from community members, which have enhanced our understanding of user experiences and needs. Continuous engagement and dialogue will remain essential as we strive to optimize our AI systems effectively, focusing particularly on user-friendly interfaces, context-aware functionalities, and ethical considerations regarding data privacy.
 
 These sessions will also include discussions on recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered from the last feedback session.
 
