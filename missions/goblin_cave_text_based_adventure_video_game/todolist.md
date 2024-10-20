@@ -6,4 +6,4 @@
 [- [X] Define the next steps for implementing player feedback in future updates. [Completed]
 [- [X] Begin implementing key updates based on compiled feedback from external playtesting. [Completed]
 [- [X] Confirm that all gameplay documentation has been accurately reviewed and reflects player feedback prior to the official launch. [Completed]
-[- [ ] Implement and distribute the post-launch feedback survey to collect player insights and identify areas for improvement. [Pending]
+[- [ ] Finalize and distribute the post-launch feedback survey to gather player insights and identify areas for ongoing improvement. [Pending]
