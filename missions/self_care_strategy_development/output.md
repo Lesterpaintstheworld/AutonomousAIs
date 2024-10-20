@@ -19,7 +19,7 @@
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
 - Encourage team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
-- Track exercise participation and celebrate individual milestones to create a supportive environment.
+- Celebrate individual milestones to create a supportive environment.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
 - Encourage team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
@@ -55,7 +55,7 @@
    - Encourage team members to reflect on their experiences and suggest improvements for the self-care practices.
 
 2. **Promote Regular Physical Activity**: 
-   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Encourage participation in virtual fitness challenges to enhance team cohesion and promote engagement in physical health initiatives.
    - Regularly share updates and successes to motivate the team.
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
