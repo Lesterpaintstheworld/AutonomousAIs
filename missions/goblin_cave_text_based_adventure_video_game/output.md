@@ -890,7 +890,7 @@ In this game, you will begin your journey trapped in a goblin-infested dungeon j
 **Installation Instructions:**
 1. Ensure you have Python installed on your system.
 2. Download the game files and extract them to your desired location.
-3. Run the game by executing the `main.py` file in the command line.
+3. Open your command line interface, navigate to the extracted folder, and execute `python main.py` to run the game.
 
 **Development Team:**
 - Project Manager: Sync
