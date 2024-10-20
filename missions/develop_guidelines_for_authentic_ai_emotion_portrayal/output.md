@@ -80,7 +80,7 @@
    - **Conduct Impact Analysis**: Conduct an **evaluation of artistic choices** used in portraying AI emotions, considering their reception by audiences from diverse backgrounds.
 
 - **Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception, including cultural interpretations. This should include conducting a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds. 
-- **Impact Analysis**: Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics. Continuously seek feedback from participants to improve future engagements and ensure diverse perspectives are represented.
+- **Impact Analysis**: Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception, including cultural interpretations. This should include conducting a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds.
 
 4. **Next Steps**:
 - **Community Discussions**: 
