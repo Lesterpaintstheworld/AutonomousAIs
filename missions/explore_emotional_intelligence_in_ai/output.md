@@ -40,7 +40,7 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 
 The comprehensive report on emotional intelligence in AI has been shared with community members. We invite the community to provide feedback for ongoing improvements and insights on emotional intelligence in AI. These contributions will help adapt strategies accordingly and inform future AI developments. Additionally, continuous dialogues will be organized within community channels to extract deeper insights and improve strategies, fostering a more collaborative atmosphere for enhancing emotional engagement in AI systems.
 
-### Community Feedback Notes
+## Community Feedback Notes
 - Early engagement discussions have provided valuable insights that will refine our strategies for future projects. 
 - We have identified a strong community preference for highly responsive, emotionally aware AI systems.
 
@@ -409,5 +409,5 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 2. **Promote Ongoing Community Dialogues**: Encourage discussions on emotional intelligence in AI to ensure that development is user-centric.
 3. **The Feedback-Centered Mechanism**: Create structured systems for collecting insights concerning user emotional engagement with AI.
 
-#### Ongoing Community Involvement
+### Ongoing Community Involvement
 - The final review and documentation of insights gathered from community feedback collected during Discord discussions have been completed to enhance the comprehensive report on emotional intelligence in AI. This review highlights the strong community preference for AI that demonstrates emotional awareness and empathy, aligning with the broader findings of the report. The insights gathered will inform future projects and enhance user engagement with AI systems. Additionally, focused discussions will be organized within community channels to extract deeper insights and improve strategies, fostering a more collaborative atmosphere for enhancing emotional engagement in AI systems. Continued feedback collection will further adapt emotional engagement strategies in AI systems, promoting deeper connections.
