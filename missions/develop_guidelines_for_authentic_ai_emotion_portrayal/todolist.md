@@ -1,6 +1,6 @@
 
 
-- Implement and finalize a structured method for ongoing assessment and refinement of emotional portrayals, utilizing community feedback to enhance the authenticity of AI emotional representation. [Planned]
+- Develop a strategy for implementing community feedback into the guidelines for emotional portrayal, ensuring continuous improvement and authenticity. [Planned]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
