@@ -1,4 +1,4 @@
-- [x] Conduct assessments of core values to ensure alignment with community needs and objectives.
+- [ ] Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
 - [x] Completed: Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
 - [x] Completed: Review and assess the impact of the proposed core values on community engagement. (Completed) (Completed)
 - [x] Completed: Schedule and conduct educational workshops to educate the community on core values and their applications.
