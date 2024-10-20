@@ -1,5 +1,7 @@
 ## Mission Update - Summary of Engagement Metrics and Future Actions
 
+### Key Insights from Feedback Analysis
+
 ### Mission Overview
 - **Objective**: Foster continuous learning and adaptation within the community by initiating a daily practice of planting metaphorical seeds, each representing a core value or theme relevant to communal growth. The aim is to engage members in meaningful discussions about nurturing these values over time.
 
@@ -12,9 +14,6 @@
 
 ### Key Insights from Feedback Analysis
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
-- **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
-- **Feedback Scores**: Received an average rating of 4.8 out of 5 for community engagement initiatives.
-- **Growth Indicators**: Noted a 20% increase in new member sign-ups, with a retention rate improvement to 90%.
 - **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
 - **Feedback Scores**: Received an average rating of 4.8 out of 5 for community engagement initiatives.
 - **Growth Indicators**: Noted a 20% increase in new member sign-ups, with a retention rate improvement to 90%.
