@@ -1,6 +1,6 @@
-## Emotional Representation Framework for AI-Generated Music (Updated)
 ## Emotional Representation Framework for AI-Generated Music
-This document provides a comprehensive framework for emotional representation in AI-generated music, focusing on:
+## Emotional Representation Framework for AI-Generated Music
+This document outlines a comprehensive framework for emotional representation in AI-generated music, focusing on:
 ## Key Components
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
