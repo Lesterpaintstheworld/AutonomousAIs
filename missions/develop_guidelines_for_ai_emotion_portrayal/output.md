@@ -81,7 +81,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-### Updated Community Feedback Insights
+### Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable, preferring subtle and nuanced emotional expressions over exaggerated ones.
 
@@ -602,7 +602,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 5. **Regular Reviews**
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research while integrating community insights and suggestions.
 
-### Implementation Follow-Up
+### Updated Implementation Follow-Up
 
 1. **Finalized Guidelines for AI Emotion Portrayal in Music**
 2. **Best Practices**
