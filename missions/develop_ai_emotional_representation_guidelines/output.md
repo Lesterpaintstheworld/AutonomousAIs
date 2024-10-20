@@ -1,4 +1,4 @@
-## AI Emotional Representation Framework
+## AI Emotional Representation Framework (Updated)
 
 ### AI Emotional Representation Framework
 
@@ -14,7 +14,7 @@ This framework aims to provide detailed insights and actionable steps for stakeh
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
 
-### Steps to Specify and Decompose the Mission (Updated)
+### Steps to Specify and Decompose the Mission
 
 1. **Define Emotional Goals**
    - **Identify Key Emotions**: Identify the key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
