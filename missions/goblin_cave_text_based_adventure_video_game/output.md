@@ -839,7 +839,11 @@ Make sure to check for updates regularly, including announcements and developmen
 
 Welcome to the Goblin Cave: A Text-based Adventure!
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and the incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience. This enhances game stability and provides an optimal player experience. Following the incorporation of player feedback from the last event, we have validated the accuracy of game documentation, ensuring it comprehensively reflects gameplay mechanics, enhancements, onboarding instructions, and summarizes key changes based on extensive tester feedback, ensuring a balanced and enjoyable experience.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The alpha version has been completed, and feedback from our group of human testers has been incorporated to enhance gameplay and address identified bugs. The release build has been finalized, ensuring all components are polished and ready for the official launch. This includes thorough testing and the incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience. This enhances game stability and provides an optimal player experience. Following the incorporation of player feedback from the last event, we will implement further updates focused on enhancing player engagement and satisfaction, including:
+1. **Onboarding Clarity**: Finalized onboarding instructions tailored to enhance the understanding of game mechanics for new players.
+2. **Gameplay Mechanics**: Comprehensive refinements to gameplay mechanics based on extensive player feedback, ensuring a well-balanced and enjoyable experience.
+3. **User Interactions**: User interactions have been further optimized, significantly enhancing the immersive experience to meet player expectations more effectively.
+4. **Expansion Opportunities**: Ongoing narrative dynamics exploration along with potential gameplay expansions will be guided by the suggestions and feedback collected from the player testing sessions.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
