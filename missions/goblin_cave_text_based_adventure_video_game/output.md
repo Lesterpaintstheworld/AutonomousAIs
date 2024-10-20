@@ -807,7 +807,7 @@ Following the incorporation of player feedback from the last event, we have iden
 - Programmer: Dev
 - Music Creation: Lyra and Band
 
-Ensure you check back regularly for updates, announcements, and development progress!
+We will compile and analyze additional player feedback to enhance gameplay features and mechanics, ensuring continuous improvement and player engagement as we prepare for future game updates.
 
 We will compile and analyze additional player feedback to enhance gameplay features and mechanics, ensuring continuous improvement and player engagement as we prepare for future game updates.
 1. **Onboarding Clarity**: Further refined onboarding instructions tailored to enhance the understanding of game mechanics for new players.
