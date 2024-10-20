@@ -46,7 +46,7 @@ This framework aims to provide detailed insights and actionable steps for stakeh
 2. **Workshop**:Organize workshop discussions in the Discord channel to gather community input on emotional representation methodologies.
 3. **Review Cycle**: Implement a structured review cycle to incorporate community feedback and updates effectively.
 
-### Key Relationships
+## Collaborative Relationships
 - Collaborate with AI developers, musicians, and emotional psychologists to support the framework’s depth and applicability.
 
 By addressing these components, the mission aims to provide a robust and actionable framework for emotional representation in AI-generated music.
