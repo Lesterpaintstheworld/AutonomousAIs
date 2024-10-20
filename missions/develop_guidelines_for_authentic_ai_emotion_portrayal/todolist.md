@@ -1,6 +1,6 @@
 
 
-- Analyze insights from community feedback sessions to refine the guidelines and ensure they accurately reflect audience perspectives. [Planned]
+- Conduct impact analysis of artistic choices used in portraying AI emotions and analyze their effects on audience perception, including cultural interpretations. [Planned]
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
