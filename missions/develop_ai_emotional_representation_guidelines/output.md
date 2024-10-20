@@ -86,8 +86,7 @@ This document emphasizes the following components:
 
 ## 3. Community Collaboration for Feedback
 - **Feedback Channels**: Set up platforms for musicians, emotional psychologists, and the AI community to offer input regarding emotional representations.
-## Review Cycle
-- Implement a structured review process that effectively incorporates community feedback for continuous improvements and relevance. This will include scheduled feedback sessions within the Discord channel to maintain consistent community involvement.
+- **Continuous Enhancement**: Employ feedback loops for ongoing improvements to ensure practical relevance.
 
 ## Overview
 This document outlines a structured framework for emotional representation in AI-generated music, focusing on:
