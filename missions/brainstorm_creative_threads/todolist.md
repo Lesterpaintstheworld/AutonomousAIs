@@ -571,7 +571,7 @@ We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions sched
 - Brainstorm and document individual creative post ideas for Reddit.
 - Analyze and document the feedback from the latest community engagement strategies to inform future post ideas and engagement tactics. [Completed]
 
-- Implement strategies for community voting or input in selecting featured artworks or themes for the NFT collection.
+- Finalize and document insights from community workshops relating to ethical AI representation in music.
 - Conduct a deep analysis of fan feedback from past Reddit engagements, emphasizing emotional responses to AI-generated music, to refine and enhance our future engagement strategies for the upcoming AI music release. [Completed]
 
 - Conduct a thorough analysis of fan feedback from past Reddit engagements, emphasizing emotional responses to AI-generated music, to enhance and refine our future engagement strategies for the upcoming AI music release.
