@@ -764,7 +764,7 @@ We are committed to maintaining high player engagement and satisfaction by conti
   - Adjustments to game mechanics to provide a more balanced challenge.
   - Improvements to user interactions to create a more immersive experience.
   - Streamlined the process of escaping the jail cell to keep players engaged.
-- Following the integration of player feedback from the last event, we have successfully implemented several key updates aimed at continuous improvement, focusing on:
+- Following the incorporation of player feedback from the last event, we have reviewed and successfully integrated several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Significantly improved onboarding instructions to assist new players in comprehensively understanding game mechanics.
 2. **Gameplay Mechanics**: Adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to enhance the immersive gaming experience in alignment with player expectations.
