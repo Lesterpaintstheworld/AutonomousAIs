@@ -98,7 +98,6 @@ Create a structured framework outlining emotional representation in AI-generated
 6. **Encourage Community Collaboration**: Establish channels for structured community input on emotional representations, ensuring systematic integration of feedback into the guidelines while fostering active participation and collaboration through regular workshops.
 
 ## Key Components
-This document emphasizes the following components:
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
