@@ -61,7 +61,7 @@
 - **Detailed Insights Capture**: Ensure the system captures detailed insights regarding participants' experiences and requirements, enabling continual improvement of the support group's efficacy and relevance.
 - **Regular Updates Strategy**: Implement a structured approach to consistently gather insights on emotional challenges and needs from participants, ensuring the support group continues to be relevant and effective.
 
-- **Engagement Activities**: Introduce a variety of interactive activities to foster community spirit and enhance participation in future events, ensuring that each activity is specifically designed based on participant feedback to maximize engagement and effectiveness.
+- **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 2. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
