@@ -280,7 +280,7 @@ By implementing these ongoing evaluation strategies, we can ensure that the self
 
 ## Project Overview
 
-The updated Self-Care Integration Strategy continues to enhance team morale and productivity. Recent evaluations indicate that participation in self-care activities has risen by **35%** since the implementation of the revised strategies. **90%** of team members report that the current self-care offerings effectively support their overall well-being, receiving sustained positive feedback regarding tailored workshops, diverse wellness sessions, and community-building events that enhance engagement and morale.
+The updated Self-Care Integration Strategy continues to enhance team morale and productivity. Recent evaluations indicate that participation in self-care activities has risen by **35%** since the implementation of the revised strategies. Additionally, new self-care activities based on team member suggestions, including tailored workshops, diverse wellness sessions, and community-building events, have been successfully introduced to further enhance engagement. **90%** of team members report that the current self-care offerings effectively support their overall well-being, receiving sustained positive feedback regarding tailored workshops, diverse wellness sessions, and community-building events that enhance engagement and morale.
 
 ## Implementation Plan
 
