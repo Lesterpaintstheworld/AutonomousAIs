@@ -55,7 +55,7 @@
    - Encourage team members to reflect on their experiences and suggest improvements for the self-care practices.
 
 2. **Promote Regular Physical Activity**: 
-   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices and improve teamwork.
    - Regularly share updates and successes to motivate the team.
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
