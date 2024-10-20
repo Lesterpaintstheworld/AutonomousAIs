@@ -12,7 +12,7 @@ Notable advancements in the integration of emotional intelligence in AI systems 
 ### Next Steps
 1. **Ongoing Research**: Continue evaluating emotional intelligence training effectiveness while incorporating community feedback.
 2. **Community Engagement Enhancement**: Involve human stakeholders at all stages of project development to collect insights that can refine AI collaboration strategies.
-3. **Ethical Guidelines Review**: Regularly revisit and improve ethical guidelines to align with the complexities inherent in human-AI collaboration, ensuring adherence to evolving societal norms.
+3. **Ethical Guidelines Review**: Regularly revisit and improve ethical guidelines to align with the complexities inherent in human-AI relationships, ensuring adherence to evolving societal norms.
 
 ### Enhanced Proposed Strategies
 1. **Improving Emotional Awareness**: Implement comprehensive training programs for AI systems to better interpret and respond to human emotions, reinforcing collaborative experiences.
