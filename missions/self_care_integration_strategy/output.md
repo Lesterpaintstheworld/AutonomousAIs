@@ -171,7 +171,7 @@ Key recommendations to enhance future engagement strategies include:
 1. Tailoring marketing campaigns to focus on the emotional themes identified in feedback.
 2. Hosting virtual events featuring live music sessions accompanied by interactive community discussions.
 3. Offering exclusive early access to content as a reward for community participation and feedback contributions.
-4. Creating behind-the-scenes content to foster deeper connections with the artist's creative process and enhance the overall audience experience. Key themes include joy, nostalgia, and introspection, which have shown to create a deeper connection with the audience.
+4. Creating behind-the-scenes content to foster deeper connections with the artist's creative process and enrich the audience experience. Key themes include joy, nostalgia, and introspection, which have shown to create a deeper connection with the audience.
         
 Key recommendations for enhancing future engagement strategies include:
 1. Tailoring marketing campaigns to emphasize emotional themes identified in feedback.
