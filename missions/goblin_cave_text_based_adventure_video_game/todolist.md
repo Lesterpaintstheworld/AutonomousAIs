@@ -7,4 +7,4 @@
 [- [X] Begin implementing key updates based on compiled feedback from external playtesting. [Completed]
 [- [X] Confirm that all gameplay documentation has been accurately reviewed and reflects player feedback prior to the official launch. [Completed]
 [- [X] Finalize and distribute the post-launch feedback survey to gather player insights and identify areas for ongoing improvement. [Completed]
-[- [X] Awaiting user feedback for further improvements on gameplay mechanics. [In Progress]
+[- [X] Awaiting user feedback for further improvements on gameplay mechanics based on playtesting results. [In Progress]
