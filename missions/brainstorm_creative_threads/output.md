@@ -20,7 +20,7 @@ Following the successful analysis of fan feedback from previous Reddit engagemen
 3. **Behind-the-scenes Process**
    - Offer insights into the creative process behind AI-generated music, fostering personal connections.
    - Involve fans by asking for their thoughts on future music themes or visual aspects.
-- **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
+- **35% increase in community engagement**, marked by notable upticks in comments, shares, and active participation.
 - **85% positive sentiment** from community feedback about AI-generated content, indicating enthusiasm and support.
 - **Establishment of systematic feedback mechanisms** that enhanced our grasp of community interests and concerns.
 - A **35% increase in community engagement**, marked by notable increases in comments, shares, and active participation.
@@ -45,4 +45,4 @@ Key insights from the latest findings and updates include:
 - An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
 - The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
 
-We are excited to announce the initiation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, providing an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month.
+We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, providing an opportunity for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month.
