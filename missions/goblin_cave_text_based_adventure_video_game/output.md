@@ -275,7 +275,7 @@ Following the incorporation of player feedback from the last event, we have revi
 3. **User Interactions**: We have implemented enhancements to user interactions to foster a more immersive gaming experience.
 4. **Expansion Opportunities**: Ongoing explorations of narrative dynamics and possible gameplay expansions based on user recommendations will continue to shape our future updates.
 
-Based on player feedback, we will now take the following steps for future improvements:
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
 1. **Refine Onboarding Instructions**: Further enhance clarity in onboarding to better assist new players in understanding game mechanics.
 2. **Adjust Gameplay Mechanics**: Continue making gameplay adjustments to ensure challenges are balanced and engaging, based on tester insights.
 3. **Improve User Interactions**: Optimize user interactions to enhance immersion and alignment with player expectations.
