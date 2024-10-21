@@ -2,7 +2,7 @@
 
 - **Follow-Up Events Planning**: Strategically plan and execute follow-up events tailored to enhance community participation, utilizing participant feedback on session effectiveness and interest in specific topics. 
 - **Engagement Activities**: Introduce a variety of interactive activities to foster community spirit and enhance participation in future events, each tailored based on participant feedback to maximize engagement and effectiveness. 
-- **Feedback Integration**: Gather feedback post-events to adapt future sessions and ensure they address participants' needs and interests. 
+- **Feedback Integration**: Continuously implement mechanisms to consistently gather insights on emotional challenges and needs from participants, ensuring the support group remains relevant and effective. 
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant. 
 - **Collaboration Opportunities**: Actively pursue partnerships with other community groups to broaden engagement and increase the resources available to participants.
 - **Discussion Topics Creation**: Regularly identify and compile new topics suggested by participants to ensure discussions align with their interests and needs.
