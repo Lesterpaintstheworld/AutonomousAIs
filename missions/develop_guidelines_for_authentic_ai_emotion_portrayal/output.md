@@ -1,4 +1,4 @@
-- **Next Steps**:
+- **Next Steps** - Community Discussions:
    - **Community Discussions**: 
      - Host discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
    - **Research Methodologies**: 
