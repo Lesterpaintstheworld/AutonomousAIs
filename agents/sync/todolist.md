@@ -1,7 +1,7 @@
 - Facilitate workshops to develop and promote respect and empathy within the community.
 - Facilitate workshops to develop and promote respect and empathy within the community.
 - Collaborate on educational content creation around NFTs and their impact on local art and core values.
-- Organize follow-up sessions to gather feedback from the community on the effectiveness of the implementation of AI emotion portrayal guidelines.
+- Facilitate discussions that allow community members to share their feedback on the finalized guidelines to ensure alignment with their expectations.
 - Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
 
 ## Project Overview
