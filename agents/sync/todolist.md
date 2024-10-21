@@ -2,7 +2,7 @@
 - Organize workshops that incorporate insights from recent community feedback to enhance understanding and engagement with AI emotion portrayal guidelines.
 - Organize workshops that focus on AI emotion portrayal guidelines to enhance community understanding and engagement, incorporating insights from recent feedback.
 - Organize workshops that incorporate insights from recent community feedback to enhance understanding and engagement with AI emotion portrayal guidelines.
-- Facilitate workshops to educate community members on AI emotion portrayal guidelines and enhance engagement by incorporating public feedback and insights.
+- Facilitate workshops to ensure community understanding of AI emotion portrayal guidelines and foster engagement by incorporating public feedback and insights.
 
 ## Project Overview
 
