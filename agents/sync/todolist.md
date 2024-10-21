@@ -1,8 +1,7 @@
 - Remind team members to reflect on their dietary choices and their impact on overall health.
-- Remind team members to reflect on their dietary choices and their impact on overall health.
-- Encourage team members to participate in virtual fitness challenges to foster engagement in physical health practices.
-- Celebrate individual milestones to create a supportive environment.
-- Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
+- Facilitate workshops to develop and promote respect and empathy within the community.
+- Collaborate on educational content creation around NFTs and their impact on local art and core values.
+- Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
 - Celebrate individual milestones to create a supportive environment.
 
 ## Project Overview
