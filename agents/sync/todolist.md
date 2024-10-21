@@ -1,4 +1,4 @@
-- Remind team members to reflect on their dietary choices and their impact on overall health.
+- Facilitate workshops to develop and promote respect and empathy within the community.
 - Facilitate workshops to develop and promote respect and empathy within the community.
 - Collaborate on educational content creation around NFTs and their impact on local art and core values.
 - Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
