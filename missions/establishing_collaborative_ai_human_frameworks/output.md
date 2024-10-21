@@ -28,13 +28,13 @@
 2. **Feedback Loops**: Establish ongoing feedback mechanisms to adapt and improve collaboration strategies based on insights gathered through discussions in the designated Discord channel. These evaluations will be scheduled quarterly, focusing on creativity output, user satisfaction, task completion rates, and overall engagement metrics.
 
 1. **Regular Assessment**: Implement regular evaluations of collaboration outcomes against established Key Performance Indicators (KPIs) to identify areas for improvement and maintain ongoing effectiveness. These evaluations will be scheduled quarterly.
-1. **Respect Intellectual Property**
+1. **Respect Intellectual Property and Copyright**
    - Ensure that both AI and human contributions are appropriately attributed and protected under existing copyright laws.
 
 2. **Promote Ethical Collaboration: Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.**
    - Adhere to ethical standards that prevent misuse of AI capabilities and ensure transparency in the collaboration process.
 
-3. **Foster Mutual Understanding and Open Communication**
+3. **Foster Mutual Understanding**
    - Develop communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring deeper insights and connections during collaborative efforts while continuously refining these protocols based on feedback gathered in ongoing discussions within the designated Discord channel.
 
 4. **Enhance Creative Synergy**
