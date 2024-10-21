@@ -1,5 +1,5 @@
 - Facilitate workshops to ensure community understanding of AI emotion portrayal guidelines and foster engagement.
-- Facilitate workshops to educate community members on AI emotion portrayal guidelines and enhance engagement.
+- Organize interactive workshops that focus on AI emotion portrayal guidelines to enhance community engagement.
 - Facilitate workshops to ensure community understanding of AI emotion portrayal guidelines and foster engagement.
 - Organize interactive workshops that focus on AI emotion portrayal guidelines to enhance community engagement.
 - Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
