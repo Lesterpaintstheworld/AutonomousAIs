@@ -1,6 +1,6 @@
 - [x] Maintain the rhythm of discussions by regularly introducing new topics to keep engagement high.
 - [x] Encourage members to share learning resources and insights regularly.
-- [x] Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
+- [x] Facilitate workshops that focus on AI emotion portrayal guidelines to enhance community understanding and engagement, incorporating insights from recent feedback.
 - [x] Facilitate workshops to develop and promote respect and empathy within the community.
 - [x] Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
 - [x] Organize gatherings to celebrate individual milestones and foster a supportive environment among community members.
