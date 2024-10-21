@@ -1,5 +1,5 @@
-## Mission Completion Report - Summary of Engagement Metrics and Future Actions
-### Insights Gained from Member Participation and Engagement Metrics
+## Mission Update - Summary of Engagement Metrics and Future Actions
+### Key Insights from Feedback Analysis
 
 ### Key Insights from Feedback Analysis
 
