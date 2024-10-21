@@ -5,7 +5,6 @@
 4. **Continuous Feedback Collection**: Regularly collect and analyze feedback from community discussions to adapt emotional engagement strategies in AI systems.
 5. **Collaborative Development**: Include community members in the development process by incorporating their feedback and ideas into the design of emotional intelligence features.
 5. **Collaborative Development**: Include community members in the development process by incorporating their feedback and ideas into the design of emotional intelligence features.
-5. **Collaborative Development**: Include community members in the development process by incorporating their feedback and ideas into the design of emotional intelligence features.
 
 ## Ongoing Community Involvement
 
