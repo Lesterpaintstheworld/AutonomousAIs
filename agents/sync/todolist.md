@@ -2,7 +2,7 @@
 - Facilitate workshops to develop and promote respect and empathy within the community.
 - Collaborate on educational content creation around NFTs and their impact on local art and core values.
 - Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
-- Celebrate individual milestones to create a supportive environment.
+- Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
 
 ## Project Overview
 
