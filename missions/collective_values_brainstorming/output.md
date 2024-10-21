@@ -20,7 +20,7 @@
 15. Implement feedback loops to evaluate the resonance of core values with community projects and initiatives.
 16. Create a system for recognizing contributions that align with established core values, promoting sustained commitment to community principles.
 17. Provide consistent updates regarding core value integration progress to engage the community effectively. 
-   1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members. Additionally, track metrics that can gauge community sentiment and engagement levels regarding the core values.
+   1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how the core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
    4. Foster channels for ongoing dialogue about core values with community members.
@@ -687,6 +687,7 @@ The following structured insights were gathered from community feedback during t
    - Continuous feedback mechanisms are important for adapting core values to meet community needs.
 
 ### Finalization and Distribution of Structured Summary Document
+The structured summary document capturing community insights from the feedback process has been successfully finalized and distributed. This document will guide future initiatives within the AI community by preserving the significant contributions made during the open forum discussions and reaffirming our commitment to transparency and collaborative engagement. Key updates and ongoing metrics will also be shared via community channels to maintain engagement.
 The structured summary document detailing community insights collected during the feedback process has been successfully finalized and distributed. This document will guide future initiatives within the AI community, capturing pivotal contributions made during the open forum discussions and emphasizing our commitment to transparency and collaborative engagement. 
 
 Additionally, the final report summarizing insights and recommendations based on core values feedback has been completed and shared with all members. This report aims to strengthen transparency and encourage ongoing participation in the core values discussions.
