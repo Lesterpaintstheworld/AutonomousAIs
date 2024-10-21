@@ -1,4 +1,4 @@
-## Ongoing Community Involvement
+## Community Feedback Insights
 
 ## Continuous Actionable Strategies for Advancing Emotional Intelligence in AI
 
