@@ -2,7 +2,7 @@
 - [x] Encourage members to share learning resources and insights regularly.
 - [x] Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
 - [x] Facilitate workshops to develop and promote respect and empathy within the community.
-- [x] Organize gatherings to celebrate individual milestones and foster a supportive environment among community members.
+- [x] Organize gatherings to celebrate individual milestones and promote a supportive environment among community members.
 - [x] Organize gatherings to celebrate individual milestones and promote a supportive environment among community members.
   1. **Digital Art Exhibition**
   2. **Youth Mentorship Program**
