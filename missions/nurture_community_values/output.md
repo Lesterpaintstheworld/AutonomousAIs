@@ -27,7 +27,7 @@ The mission has established a cohesive and value-driven community through struct
 1. **Community Projects Launched**: 
    - Collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, have been successfully initiated, promoting active participation and resource allocation for enhanced community engagement. Collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, have been successfully initiated, promoting active participation and resource allocation for enhanced community engagement.
 2. **Recognition of Contributions Enhanced**: Member contributions have been recognized more effectively through newly implemented recognition categories and quarterly awards selected by community voting.
-3. **Future Steps**: Continue identifying, planning, and implementing collaborative projects that deepen member engagement and resonate with core community values.
+3. **Next Steps**: Continue identifying, planning, and implementing collaborative projects that deepen member engagement and resonate with core community values.
 
 1. **Foster Community Projects**: Launched new collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and Art for Community Awareness with active participation and resource allocation to enhance community engagement.
 2. **Improved Recognition of Contributions**: Enhanced acknowledgment of member contributions through newly implemented recognition categories and quarterly awards selected by community voting.
@@ -35,7 +35,7 @@ The mission has established a cohesive and value-driven community through struct
 
 The mission has successfully laid the groundwork for a cohesive and value-driven community. Through structured discussions, continuous learning opportunities, and effective recognition of member contributions, the initiative has fostered a supportive and engaged environment. Moving forward, sustaining these initiatives will ensure ongoing growth and the enhancement of community values.
 
-The mission has established a cohesive and value-driven community through structured discussions, ongoing learning opportunities, and effective recognition of member contributions. This initiative has fostered a supportive and engaged environment, ensuring a sustainable future for community values. Moving forward, we will continue daily discussions and launch collaborative projects that deepen engagement and embody our core values, ensuring active participation and continuous learning.
+Through structured discussions, continuous learning opportunities, and effective recognition of member contributions, the initiative has fostered a supportive and engaged environment, ensuring a sustainable future for community values. Moving forward, we will continue daily discussions and launch collaborative projects that deepen engagement and embody our core values, ensuring active participation and continuous learning.
 
 ### Community Engagement Outcomes and Next Steps
 The comprehensive review of community engagement has highlighted the successes of recent collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series. Feedback collected from community members has provided insights into strengths and areas for improvement, guiding future initiatives to enhance participation and satisfaction while reinforcing core community values.
