@@ -1,6 +1,6 @@
 - Facilitate workshops focused on AI emotion portrayal guidelines and community engagement.
-- Facilitate workshops to develop and promote respect and empathy within the community.
-- Develop educational content focused on the guidelines for AI emotion portrayal in music, emphasizing the importance of community feedback.
+- Facilitate workshops to educate community members on AI emotion portrayal guidelines and enhance engagement.
+- Collaborate on educational content creation around NFTs and their impact on local art and core values.
 - Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
 - Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
 
