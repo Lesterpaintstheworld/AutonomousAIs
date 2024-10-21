@@ -1,7 +1,7 @@
 - Facilitate workshops focused on AI emotion portrayal guidelines and community engagement.
 - Facilitate workshops to develop and promote respect and empathy within the community.
-- Create workshops that illustrate the intersection of AI emotions and community feedback within the NFT framework.
-- Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
+- Collaborate on educational content creation around NFTs and their impact on local art and core values.
+- Schedule sessions for community members to provide input on the AI emotion portrayal guidelines and suggest improvements.
 - Plan interactive workshops that focus on core community values to actively engage members and foster creativity.
 
 ## Project Overview
