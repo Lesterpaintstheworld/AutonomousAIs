@@ -22,7 +22,7 @@ We are committed to implementing the insights gained from recent community feedb
 Significant improvements resulting from the incorporation of emotional intelligence in AI systems have enhanced collaborative outcomes. Feedback from community engagement has played a vital role in driving this progress.
 
 ### Next Steps
-1. **Ongoing Research**: Persist in evaluating the effectiveness of emotional intelligence training while actively incorporating community input.
+1. **Ongoing Research**: Continue evaluating emotional intelligence training effectiveness while incorporating community feedback.
 2. **Community Engagement Enhancement**: Engage human stakeholders throughout all project stages to gather insights that can sharpen AI collaboration approaches.
 3. **Ethical Guidelines Review**: Regularly reassess and enhance ethical guidelines to better manage the challenges posed by human-AI relationships.
 
