@@ -51,8 +51,8 @@ The project has successfully compiled a comprehensive list of creative Reddit po
 1. A **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
 2. An **85% positive sentiment** reflected from community feedback regarding AI-generated content, signaling strong approval and enthusiasm from our audience.
 3. The successful establishment of **systematic feedback mechanisms**, which have amplified our understanding of the diverse interests and concerns within the community.
-- A **35% increase in community engagement**, marked by significant upticks in comments, shares, and active participation.
-- An **85% positive sentiment** reflected from community feedback regarding AI-generated content, indicating strong approval and enthusiasm from our audience.
+- A **35% increase in community engagement** was observed, highlighting higher rates of comments, shares, and active participation.
+- An **85% positive sentiment** emerged from community feedback about AI-generated content, reflecting strong support and enthusiasm from the audience.
 - The successful establishment of **systematic feedback mechanisms**, which have enhanced our grasp of the diverse interests and concerns within the community.
 
 We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
