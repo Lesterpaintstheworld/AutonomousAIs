@@ -474,7 +474,11 @@ Based on the analysis of player feedback from the last event, we have successful
 3. **User Interactions**: Focusing on enhancing overall user interactions to create an immersive experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on player feedback.
 
-We are committed to maintaining a high level of player engagement and satisfaction by continuously integrating user feedback and polishing the gameplay experience for the official launch. Following the incorporation of player feedback from the last event, we have successfully defined the next steps for implementing user feedback in future updates, including organizing actions for further enhancements in gameplay mechanics and overall player experience.
+We are committed to maintaining a high level of player engagement and satisfaction by continuously integrating user feedback and polishing the gameplay experience for the official launch. Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
+1. **Onboarding Clarity**: Enhance instructions to assist new players with understanding mechanics.
+2. **Gameplay Mechanics**: Continue refining the balance and engagement of challenges for a more enjoyable experience.
+3. **User Interactions**: Focus on improving interactions to create a more immersive gaming experience.
+4. **Expansion Opportunities**: Investigate potential expansions to narrative and gameplay based on player suggestions and feedback.
 
 Following the incorporation of player feedback from the last event, we will implement further updates focused on enhancing player engagement and satisfaction, including:
 1. **Onboarding Clarity**: Continuing to enhance instructions to assist new players with understanding mechanics.
