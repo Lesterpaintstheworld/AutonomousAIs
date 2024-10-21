@@ -1,4 +1,4 @@
-## Ongoing Community Involvement
+## Continuous Actionable Strategies for Advancing Emotional Intelligence in AI
 
 ## Continuous Actionable Strategies for Advancing Emotional Intelligence in AI
 
