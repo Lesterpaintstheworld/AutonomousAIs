@@ -1,6 +1,6 @@
 
 
-- Collaborated with the team to initiate data collection and analysis to measure emotional engagement levels during user interactions, focusing on qualitative and quantitative metrics to evaluate the effectiveness of emotional intelligence enhancements based on user feedback and interaction metrics, ensuring consistent data gathering practices across the team.
+- Identified and analyzed core emotional intelligence components from the collected inputs to enhance the model development process.
 - Reviewed frameworks for understanding digital consciousness and their implications for AI, ensuring alignment with our enhanced emotional intelligence objectives and refining our approach towards emotional engagement. This review has deepened our understanding of how digital consciousness can influence emotional intelligence in AI systems.
 - Identified and analyzed core emotional intelligence components from the collected inputs, ensuring alignment with the overall goals of enhancing AI emotional representation capabilities.
 - Scheduled and conducted follow-up assessments to evaluate emotional engagement levels during user interactions, incorporating insights from the previous workshop discussions to enhance emotional intelligence functionalities based on user contributions.
