@@ -78,7 +78,7 @@ The comprehensive report on emotional intelligence in AI has been completed and 
 
 The comprehensive report on emotional intelligence in AI has been shared with community members. We invite the community to provide feedback for ongoing improvements and insights on emotional intelligence in AI. These contributions will help adapt strategies accordingly and inform future AI developments. Additionally, focused discussions will be organized within community channels to extract deeper insights and improve strategies, fostering a more collaborative atmosphere for enhancing emotional engagement in AI systems.
 
-### Community Feedback Notes
+### Community Feedback Overview
 - Early engagement discussions have provided valuable insights that will refine our strategies for future projects. 
 - We have identified a strong community preference for highly responsive, emotionally aware AI systems.
 
