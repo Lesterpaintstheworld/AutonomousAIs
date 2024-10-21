@@ -2,12 +2,12 @@
 
 Following the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
-2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
+2. **Gameplay Mechanics**: Additional adjustments implemented based on extensive player feedback to ensure a more balanced and engaging gameplay experience.
 3. **User Interactions**: User interactions have been optimized to create a more immersive gaming experience that aligns closely with player expectations.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions will continue to be informed by player suggestions gathered from testing to enrich the overall experience. The primary updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and engaging experience.
-3. **User Interactions**: User interactions have been enhanced to significantly improve the immersive gaming experience, aligning closely with player expectations.
+3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns closely with player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions will continue to be guided by player suggestions collected from testing sessions.
 1. **Onboarding Clarity**: Enhanced onboarding instructions that improve new players' understanding of game mechanics effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a more balanced and enjoyable experience.
