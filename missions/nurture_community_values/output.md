@@ -24,10 +24,10 @@ The "Nurture Community Values" mission has successfully established a cohesive a
 
 The mission has established a cohesive and value-driven community through structured discussions, ongoing learning, and effective recognition of member contributions. This initiative has successfully built a cohesive and value-driven community through structured discussions, ongoing learning opportunities, and effective recognition of member contributions. This supportive and engaged environment ensures a sustainable future for community values. Moving forward, we will sustain these initiatives and launch collaborative projects that deepen member engagement and embody our core values.
 
-1. **Community Projects Launched**: 
-   - Collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, have been successfully initiated, promoting active participation and resource allocation for enhanced community engagement. Collaborative projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, have been successfully initiated, promoting active participation and resource allocation for enhanced community engagement.
-2. **Recognition of Contributions Enhanced**: Member contributions have been recognized more effectively through newly implemented recognition categories and quarterly awards selected by community voting.
-3. **Next Steps**: Continue identifying, planning, and implementing collaborative projects that deepen member engagement and resonate with core community values.
+1. **Collaborative Projects Launched**: 
+   - New projects, including the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series, are actively promoting participation and engagement. They have fostered member connection and reinforced the community values.
+2. **Enhanced Recognition of Contributions**: Member contributions are now recognized more effectively through implemented recognition categories and awards chosen by community voting.
+3. **Next Steps**: Identify and plan new collaborative projects that deepen member engagement while further aligning with our core values.
 
 1. **Foster Community Projects**: Launched new collaborative projects including a Community Garden Initiative, Monthly Skill-Sharing Workshops, and Art for Community Awareness with active participation and resource allocation to enhance community engagement.
 2. **Improved Recognition of Contributions**: Enhanced acknowledgment of member contributions through newly implemented recognition categories and quarterly awards selected by community voting.
