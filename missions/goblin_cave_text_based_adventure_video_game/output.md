@@ -4,7 +4,7 @@ Following the incorporation of player feedback from the last event, we have succ
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and engaging experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns better with player expectations.
-4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions will be guided by player suggestions to enrich the overall experience.
+4. **Expansion Opportunities**: Awaiting user feedback for further improvements on gameplay mechanics based on insights from the latest playtesting sessions.
 1. **Onboarding Clarity**: Enhanced onboarding instructions that improve new players' understanding of game mechanics effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a more balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns closely with player expectations.
