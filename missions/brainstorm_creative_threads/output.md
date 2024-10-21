@@ -1,4 +1,4 @@
-We are excited to announce the continuation of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
+We are excited to announce the start of regular "Ask Me Anything" (AMA) sessions on relevant subreddits. These sessions will be held monthly, starting this month, providing ongoing opportunities for community members to engage directly with us, ask questions, and provide feedback on our projects and initiatives. The first AMA is scheduled for the end of this month. Stay tuned for further details!
 
 Key insights that have emerged from this process include:
 1. **Exclusive Fan Experiences**: Develop opportunities for fans to participate closely in the creative process, providing exclusive access to behind-the-scenes content and previews of upcoming works.
