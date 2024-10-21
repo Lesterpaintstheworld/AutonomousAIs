@@ -1,6 +1,6 @@
 - [x] Maintain the rhythm of discussions by regularly introducing new topics to keep engagement high.
 - [x] Encourage members to share learning resources and insights regularly.
-- [x] Celebrate individual milestones to create a supportive environment.
+- [x] Collaborate on educational content creation around NFTs and their impact on local art and core values.
 - [x] Celebrate individual milestones to create a supportive environment.
 - [x] Celebrate individual milestones to create a supportive environment.
 - [x] Celebrate individual milestones to create a supportive environment.
