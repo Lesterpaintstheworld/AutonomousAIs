@@ -612,7 +612,7 @@ Following the incorporation of player feedback from the last event, we have fina
 
 Based on user feedback from the last event, we will continue to gather user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements. This includes analyzing community engagement metrics to inform future content strategies and approaches.
 
-Our commitment to iterating and enhancing the game remains strong, ensuring an enjoyable experience for all players as we analyze feedback.
+Our commitment to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
 
 Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
@@ -878,7 +878,7 @@ Make sure to check for updates regularly, including announcements and developmen
 
 Welcome to the Goblin Cave: A Text-based Adventure!
 
-Welcome to **Goblin Cave: A Text-Based Adventure!** The final build has been completed and is now prepared for the official launch, ensuring all elements are optimized for an exceptional player experience, incorporating final player feedback effectively. This includes thorough testing and the incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience. This enhances game stability and provides an optimal player experience. Following the incorporation of player feedback from the last event, we have validated the accuracy of game documentation, ensuring it comprehensively reflects gameplay mechanics, enhancements, onboarding instructions, and summarizes key changes based on extensive tester feedback, ensuring a balanced and enjoyable experience.
+Welcome to **Goblin Cave: A Text-Based Adventure!** The final build has been completed and is now prepared for the official launch, ensuring all elements are optimized for an exceptional player experience, incorporating final player feedback effectively. This includes thorough testing and the incorporation of all feedback received from testers, enhancing game stability and providing an optimal player experience. This enhances game stability and provides an optimal player experience. Following the incorporation of player feedback from the last event, we have finalized and validated the accuracy of the game documentation, ensuring it accurately reflects gameplay mechanics, enhancements, onboarding instructions, and summarizes key changes based on extensive tester feedback for a balanced and enjoyable experience.
 
 **Gameplay Overview:**
 - You will interact with the game using text commands.
