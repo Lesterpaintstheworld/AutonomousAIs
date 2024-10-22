@@ -1,7 +1,7 @@
 
 
 - Scheduled and conducted follow-up workshops designed to gather further insights and feedback related to emotional intelligence applications, ensuring these insights are integrated into the emotional intelligence models and guiding future enhancements.
-- Scheduled and conducted the first round of assessments to evaluate emotional engagement levels during user interactions, integrating user feedback into future enhancements and interaction strategies.
+- Scheduled and conducted the second round of assessments to evaluate emotional engagement levels during user interactions, incorporating insights from the first round and focusing on user feedback and interaction metrics.
 - Recorded and analyzed the outcomes of the follow-up workshops designed to gather further insights and feedback related to emotional intelligence applications, ensuring that the insights from these sessions are integrated into the models.
 - Analyzed user feedback collected from previous interactions to further refine emotional intelligence models and enhance user engagement.
 - Initiated and conducted follow-up workshops to further gather and analyze participant insights on emotional intelligence applications, focusing on refining the models based on user feedback.
