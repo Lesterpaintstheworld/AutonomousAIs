@@ -1,6 +1,6 @@
 - **Next Steps**:
    - **Community Discussions**: 
-     - Host structured discussions in relevant Discord channels to continue gathering diverse insights regarding AI emotions and their contextual portrayal. 
+     - Host structured discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually. 
      - Conduct a series of engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds.
    - **Research Methodologies**:
      - Investigate and analyze current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and contemporary artistic styles.
