@@ -9,7 +9,7 @@
 - **Engagement Activities**: Introduce diverse interactive activities to foster community spirit and enhance participation in future events, tailored based on participant feedback to maximize engagement and effectiveness. 
 - **Feedback Integration**: Continuously implement mechanisms to consistently gather insights on emotional challenges and needs from participants, ensuring the support group remains relevant and effective. 
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant. Additionally, encourage participants to propose new themes during sessions and ensure a structured approach to evaluate their relevance and feasibility for upcoming meetings. 
-- **Collaboration Opportunities**: Actively pursue partnerships with other community groups to broaden engagement and increase the resources available to participants.
+- **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Discussion Topics Creation**: Regularly identify and compile topics suggested by participants to ensure discussions remain aligned with their interests and needs.
 - **Feedback Mechanisms Adaptation**: Develop a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently and effectively addressed. 
 - **Activity Introduction**: Introduce interactive activities to foster community spirit and enhance engagement in future events.
@@ -17,7 +17,7 @@
 - **Theme-Based Sessions Exploration**: Regularly explore various themes for upcoming sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Discussion Topics Creation**: Regularly identify and compile new topics suggested by participants to ensure discussions remain aligned with their interests and evolving needs.
-- **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
+- **Revised Safe Environment Guidelines**: Reassess and enhance guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods based on current participant feedback and ongoing requirements.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
