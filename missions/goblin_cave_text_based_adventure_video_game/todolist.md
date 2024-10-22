@@ -1,6 +1,6 @@
 [X] Implement final revisions and adjustments based on feedback before the official launch. [Completed]
 
-[- [X] Conduct post-launch evaluations based on player feedback to inform updates.
+[- [X] Facilitate workshops focusing on community core values, encouraging discussions that incorporate feedback and insights from participants.
 [- [X] Implement final player feedback for gameplay improvements. [Completed]
 [- [X] Implement final player feedback for gameplay improvements. (Completed)
 [- [X] Define the next steps for implementing player feedback in future updates. [Completed]
