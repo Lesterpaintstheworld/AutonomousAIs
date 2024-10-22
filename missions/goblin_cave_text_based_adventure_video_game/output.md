@@ -184,7 +184,7 @@ Incorporating fan feedback from the last AMA session, we aim to identify success
 
 With each update, we reaffirm our commitment to improving gameplay quality and player engagement, enhancing the overall gaming experience.
 
-Following the incorporation of player feedback from the last event, we have successfully reviewed and integrated several key updates aimed at continuous improvement, focusing on:
+Following the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments made for smoother balance and enhanced engagement based on tester feedback.
 3. **User Interaction Enhancements**: Enhanced interactions have been implemented to foster a more immersive gaming experience.
