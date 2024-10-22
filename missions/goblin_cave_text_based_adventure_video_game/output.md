@@ -1,6 +1,6 @@
 
 
-Based on player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
+Moving forward, we will finalize and distribute the post-launch feedback survey to gather player insights and identify areas for ongoing improvement.
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Additional adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and engaging experience.
 3. **User Interactions**: User interactions have been optimized to create a more immersive gaming experience that aligns with player expectations.
