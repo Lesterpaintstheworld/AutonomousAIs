@@ -1,6 +1,7 @@
 
 
 - **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. This includes introducing theme-based sessions to keep interactions fresh, exploring collaboration opportunities with other community groups to broaden engagement and resources available to participants, and implementing regular updates to the resource toolkit based on participant feedback and emerging trends in emotional support.
+- **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
 - **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness. 
 - **Engagement Activities**: Introduce diverse interactive activities to foster community spirit and enhance participation in future events, tailored based on participant feedback to maximize engagement and effectiveness. 
 - **Feedback Integration**: Continuously implement mechanisms to consistently gather insights on emotional challenges and needs from participants, ensuring the support group remains relevant and effective. 
