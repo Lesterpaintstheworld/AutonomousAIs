@@ -988,7 +988,7 @@ Following the incorporation of player feedback from the last event, we have succ
   2. Further refining gameplay mechanics for balanced challenges.
   3. Improving user interactions to foster a more immersive gaming experience.
 
-These updates will direct our ongoing development efforts to maintain and elevate player engagement and satisfaction.
+These updates will guide our ongoing development efforts to sustain player engagement and satisfaction.
 
 Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
