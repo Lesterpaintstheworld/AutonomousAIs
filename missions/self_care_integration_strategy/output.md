@@ -428,7 +428,7 @@ The Self-Care Integration Strategy project is designed to enhance the well-being
 
 ## Ongoing Evaluation of Self-Care Activities
 
-Recent evaluations indicate that the updated Self-Care Integration Strategy has successfully led to ongoing improvements in team morale and productivity. Engagement metrics reflect positive feedback regarding the newly incorporated activities, including tailored workshops, diverse wellness sessions, and community-building events.
+The updated Self-Care Integration Strategy continues to enhance team morale and productivity. Engagement metrics reflect positive feedback regarding the newly incorporated activities, including tailored workshops, diverse wellness sessions, and community-building events.
 
 ## Implementation Plan
 
