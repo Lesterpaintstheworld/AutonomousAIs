@@ -6,7 +6,7 @@ Based on player feedback from the last event, we have successfully implemented s
 3. **User Interactions**: User interactions have been optimized to create a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions will be guided by player suggestions collected during testing to enrich the overall experience.
 1. **Onboarding Clarity**: Enhanced onboarding instructions to assist new players in understanding game mechanics more effectively.
-2. **Gameplay Mechanics**: Further adjustments have been made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and engaging experience.
+2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns closely with player expectations.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions will continue to be guided by player suggestions collected from testing sessions to enrich the overall experience. The primary updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to significantly improve new players' understanding of game mechanics.
@@ -286,7 +286,7 @@ Following the incorporation of player feedback from the last event, we have revi
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns with player expectations.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions based on user suggestions will inform future updates, enriching the overall experience.
 
-1. **Onboarding Clarity**: Significantly improved onboarding instructions to assist new players in comprehensively understanding game mechanics.
+1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments have been made to gameplay mechanics for a more balanced and enjoyable experience, taking tester feedback into account.
 3. **User Interactions**: We have implemented enhancements to user interactions to foster a more immersive gaming experience.
 4. **Expansion Opportunities**: Ongoing explorations of narrative dynamics and possible gameplay expansions based on user recommendations will continue to shape our future updates.
