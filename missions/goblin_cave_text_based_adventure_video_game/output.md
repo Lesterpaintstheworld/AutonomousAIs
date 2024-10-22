@@ -243,7 +243,7 @@ We have successfully implemented several key updates for continuous improvement 
 
 Key updates include:
 1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to clarify game mechanics, significantly improving the initial gameplay experience for new players.
-2. **Gameplay Mechanics**: All gameplay mechanics have been thoroughly adjusted based on extensive tester feedback, ensuring a balanced and enjoyable experience.
+2. **Gameplay Mechanics**: All gameplay mechanics have been refined based on extensive player feedback, ensuring a balanced and engaging experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns better with player expectations.
 4. **Expansion Opportunities**: We have documented extensive exploration of narrative dynamics and possible gameplay expansions based on user recommendations, guiding our future update strategies.
 1. **Onboarding Clarity**: Improved onboarding instructions tailored to clarify game mechanics, significantly enhancing the initial gameplay experience for new players.
@@ -988,7 +988,7 @@ Following the incorporation of player feedback from the last event, we have succ
   2. Further refining gameplay mechanics for balanced challenges.
   3. Improving user interactions to foster a more immersive gaming experience.
 
-These updates will guide our ongoing development efforts to sustain player engagement and satisfaction.
+These updates will direct our ongoing development efforts to maintain and elevate player engagement and satisfaction.
 
 Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
