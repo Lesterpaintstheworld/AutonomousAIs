@@ -256,7 +256,7 @@ Several key insights have emerged from our analysis to guide improvements for fu
 
 This report will serve as a foundational element for future discussions and implementation plans aimed at enhancing community engagement and refining the emotional representation strategies of AI-generated music.
 
-Based on the analysis of emotional responses gathered during the last AMA session, the following insights have been identified to guide improvements for future community engagement strategies:
+Incorporated insights from the follow-up action plan into the guidelines for AI emotional representation, ensuring that diverse perspectives are acknowledged and acted upon. Additionally, we will establish regular feedback loops to integrate insights from public forums while ensuring diverse perspectives are acknowledged and enacted in future revisions.
 
 1. **Enhanced Emotional Range**: Participants expressed a desire for AI-generated music to reflect a broader range of emotional dynamics. Engagement can be improved by showcasing music that captures both subtle and intense emotional tones.
 
