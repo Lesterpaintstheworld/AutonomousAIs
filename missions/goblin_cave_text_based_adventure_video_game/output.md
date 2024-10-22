@@ -94,7 +94,7 @@ Following the incorporation of player feedback from the last event, we have succ
 3. **User Interactions**: User interactions have been optimized to provide a more immersive gaming experience that meets player expectations.
 4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions will be informed by player suggestions to enrich the overall experience.
 
-Certainly! Here’s the modified content based on the most recent feedback:
+Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Updated onboarding instructions to better assist new players in grasping the game mechanics.
 2. **Gameplay Mechanics**: Adjustments have been made to ensure smoother balance and heightened engagement based on tester insights.
 3. **User Interactions**: Enhancements have been optimized to foster a more immersive gaming experience in alignment with player expectations.
@@ -184,7 +184,7 @@ Incorporating fan feedback from the last AMA session, we aim to identify success
 
 With each update, we reaffirm our commitment to improving gameplay quality and player engagement, enhancing the overall gaming experience.
 
-Key updates include:
+Following the incorporation of player feedback from the last event, we have successfully implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
 2. **Gameplay Mechanics**: Adjustments made for smoother balance and enhanced engagement based on tester feedback.
 3. **User Interaction Enhancements**: Enhanced interactions have been implemented to foster a more immersive gaming experience.
