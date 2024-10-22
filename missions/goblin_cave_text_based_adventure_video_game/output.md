@@ -302,7 +302,7 @@ Following the incorporation of player feedback from the last event, we have iden
 3. **User Interaction Enhancements**: Interaction enhancements have been made to foster a more immersive gaming experience, aligning with player expectations through improved dialogue options and clearer action cues.
 4. **Potential for Future Expansions**: New narrative elements and gameplay expansions are being researched based on player suggestions, aimed at enriching the overall experience.
 
-Overall, a robust system for continuous testing and player feedback integration guarantees that gameplay quality will evolve to meet player expectations and satisfaction.
+As we progress, we will continue to implement improvements based on player feedback to enhance the overall gaming experience. This includes focusing on onboarding clarity, refining gameplay mechanics, improving user interactions, and exploring potential narrative expansions.
 
 1. **Onboarding Clarity**: Enhanced onboarding instructions tailored to clarify game mechanics, improving the initial gameplay experience for new players.
 2. **Gameplay Mechanics**: The balance and engagement of challenges have been further refined to ensure a more enjoyable experience based on tester feedback.
@@ -512,7 +512,7 @@ Post-launch analysis has revealed key updates based on player feedback for futur
 3. **User Interactions**: Improving user interactions to create a more immersive experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
-We remain dedicated to improving gameplay quality and player engagement. Subsequent updates will focus on key areas identified through player insights. 
+We remain committed to enhancing player engagement and satisfaction by integrating final feedback and polishing the gameplay experience for the official launch. 
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players.
