@@ -1,4 +1,4 @@
-# # AI Emotional Representation Guidelines
+# # AI Emotional Representation Framework
 
 # AI Emotional Representation Framework
 
