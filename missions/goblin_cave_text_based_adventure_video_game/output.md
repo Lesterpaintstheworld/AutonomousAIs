@@ -182,7 +182,7 @@ Incorporating fan feedback from the last AMA session, we aim to identify success
 3. **User Interactions**: Enhanced user interactions to create a more immersive gaming experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
-We remain committed to enhancing player engagement and satisfaction by continuously integrating user feedback and refining gameplay experiences as we prepare for potential expansions.
+With each update, we reaffirm our commitment to improving gameplay quality and player engagement, enhancing the overall gaming experience.
 
 Key updates include:
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in comprehensively understanding game mechanics effectively.
