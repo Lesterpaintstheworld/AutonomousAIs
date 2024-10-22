@@ -192,7 +192,7 @@ This framework provides a comprehensive approach to emotional representation in 
 
 ### Overview
 This document provides a comprehensive framework for emotional representation in AI-generated music, detailing:
-### Key Components
+## Key Components
 1. **Identification of Emotional Goals**
    - **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
    - **Contextual Applications**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance settings, or social commentaries.
