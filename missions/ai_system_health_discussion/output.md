@@ -40,10 +40,10 @@ Additionally, following the feedback session on **July 15, 2024, at 3 PM EST**, 
 Following the feedback session on **April 15, 2025, at 3 PM EST**, we evaluated the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. Key contributions included insights that refined our understanding of user experiences and needs. This session allowed us to discuss the recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered. We appreciate the contributions from community members, which have enhanced our understanding of user experiences and needs. Continuous engagement and dialogue will remain essential as we strive to optimize our AI systems effectively, particularly focusing on user-friendly interfaces, context-aware functionalities, and strong ethical considerations regarding data privacy.
 ### Feedback and Insights Summary (Most Recent)
 
-### Next Feedback Sessions
-1. **April 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent changes made based on feedback and performance metrics to ensure continual improvement.
-2. **July 15, 2025, at 3 PM EST** - This session will focus on reviewing feedback, addressing new concerns regarding system health, and sharing updates on changes implemented from previous recommendations.
-3. **October 15, 2025, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. This session will focus on analyzing feedback and suggestions from community members to enhance AI functionality and responsiveness.
+### Upcoming Feedback Session
+1. **April 15, 2025, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health.
+2. **July 15, 2025, at 3 PM EST** - This session will focus on reviewing feedback, addressing any new concerns regarding system health, and sharing updates on changes implemented from previous recommendations.
+3. **October 15, 2025, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent changes made based on feedback.
 Following the feedback session on **July 15, 2024, at 3 PM EST**, we evaluated the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. Key contributions included insights that refined our understanding of user experiences and needs. This session allowed us to discuss the recent changes made to our AI systems based on community feedback and explore further areas for improvement, focusing on actionable insights gathered.
 
 ### Upcoming Feedback Sessions
