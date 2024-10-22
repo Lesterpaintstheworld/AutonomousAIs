@@ -1,6 +1,6 @@
 
 
-- **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
+- **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events, each specifically designed based on participant feedback to maximize engagement and effectiveness.
 - **Resource Toolkit Updates**: Regularly enhance the resource toolkit with updated materials that reflect the evolving emotional support needs and trends identified by participants, ensuring its relevance and effectiveness.
 - **Revised Safe Environment Guidelines**: Finalize and actively implement supportive guidelines to maintain confidentiality, ensuring a respectful atmosphere for sharing during group sessions. This will incorporate practices of active listening, constructive feedback mechanisms, and regular check-ins to foster a safe and respectful environment for all participants.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and ongoing requirements, ensuring comprehensive alignment with participant needs.
