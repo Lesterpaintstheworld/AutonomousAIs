@@ -5,7 +5,7 @@
 
 
 
-The updated Self-Care Integration Strategy continues to enhance team morale and productivity, with ongoing engagement metrics reflecting positive feedback on newly incorporated activities such as tailored workshops, diverse wellness sessions, and community-building events. Participation in self-care activities has risen by **35%** since the implementation of the updated strategies, and **90%** of team members report that the current self-care offerings effectively support their overall well-being.
+The updated Self-Care Integration Strategy continues to enhance team morale and productivity, with ongoing engagement metrics reflecting positive feedback on newly incorporated activities such as tailored workshops, diverse wellness sessions, and community-building events. Participation in self-care activities has risen by **35%** since the implementation of the updated strategies, and **90%** of team members report that the current self-care offerings significantly support their overall well-being.
 
 **Key recommendations to enhance future engagement strategies include:**
 1. Tailoring marketing campaigns to focus on the emotional themes identified in feedback.
@@ -562,7 +562,7 @@ Following the specifications and procedures, the Self-Care Integration Strategy 
 
 ## Mission Complete
 
-The updated Self-Care Integration Strategy continues to enhance team morale and productivity. Engagement in self-care activities has increased by **35%** since the implementation of the updated strategies. **90%** of team members report that the current self-care offerings effectively support their overall well-being, receiving positive feedback regarding tailored workshops, diverse wellness sessions, and community-building events that enhance engagement and morale.
+The updated Self-Care Integration Strategy continues to enhance team morale and productivity. Participation in self-care activities has risen by **35%** since the updated strategies were implemented. **90%** of team members report that the current self-care offerings effectively support their overall well-being, receiving positive feedback regarding tailored workshops, diverse wellness sessions, and community-building events that enhance engagement and morale.
 
 ## Implementation Plan
 
