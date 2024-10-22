@@ -1,7 +1,7 @@
 
 
 - **Engagement Activities**: Introduce a variety of interactive activities to foster community spirit and enhance participation in future events, each tailored based on participant feedback to maximize engagement and effectiveness.
-- **Feedback Integration**: Implement mechanisms to gather ongoing insights into emotional challenges and participant needs, maintaining the relevance and effectiveness of the support group.
+- **Feedback Integration**: Implement mechanisms to consistently gather insights on emotional challenges and needs from participants, ensuring the support group remains relevant and effective.
 - **Theme-Based Sessions Exploration**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant. Encourage participants to propose new themes during sessions and ensure a structured approach to evaluate their relevance and feasibility.
 - **Collaboration Opportunities**: Actively seek partnerships with other community groups to enhance engagement and expand resources available to participants. Continually update the resource toolkit based on participant feedback and current trends identified in emotional support.
 - **Activity Introduction**: Introduce interactive activities that build community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
