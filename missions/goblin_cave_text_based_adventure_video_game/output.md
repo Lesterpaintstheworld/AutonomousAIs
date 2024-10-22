@@ -612,7 +612,7 @@ Following the incorporation of player feedback from the last event, we have fina
 
 Based on user feedback from the last event, we will continue to gather user feedback to inform refinements in gameplay experiences and insights for future updates, specifically focusing on user interactions and gameplay improvements. This includes analyzing community engagement metrics to inform future content strategies and approaches.
 
-Our commitment to iterating and enhancing the game continues, ensuring an enjoyable experience for all players with respect to feedback analysis.
+Our commitment to iterating and enhancing the game remains strong, ensuring an enjoyable experience for all players as we analyze feedback.
 
 Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
