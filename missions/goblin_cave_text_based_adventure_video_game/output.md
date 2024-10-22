@@ -35,7 +35,7 @@ Based on player feedback from the last event, we have successfully implemented s
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions will be informed by player suggestions gathered during testing, ensuring the game dynamically evolves based on user preferences.
 1. **Onboarding Clarity**: Improved onboarding instructions to assist new players in understanding game mechanics more effectively.
 2. **Gameplay Mechanics**: Further adjustments made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and enjoyable experience.
-3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that aligns with player expectations.
+3. **User Interactions**: User interactions have been optimized to create a more immersive gaming experience that meets player expectations.
 4. **Expansion Opportunities**: Ongoing exploration of narrative dynamics and potential gameplay expansions will be guided by player suggestions collected during testing to enrich the overall experience.
 1. **Onboarding Clarity**: Enhanced onboarding instructions that significantly improve new players' understanding of game mechanics.
 2. **Gameplay Mechanics**: Further adjustments have been made to gameplay mechanics based on extensive tester feedback, ensuring a balanced and engaging experience.
@@ -604,7 +604,7 @@ Following the incorporation of player feedback from the last event, we have impl
 1. **Onboarding Clarity**: Significantly improved onboarding instructions to help new players better understand game mechanics.
 2. **Gameplay Mechanics**: Additional adjustments have been made to the gameplay mechanics based on extensive tester feedback to ensure a more balanced and enjoyable experience.
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience that meets player expectations.
-4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions will be guided by player suggestions collected from testing to enhance the overall experience.
+4. **Expansion Opportunities**: Continuous exploration of narrative dynamics and potential gameplay expansions will continue to be informed by player suggestions to enrich the overall experience.
 
 As we progress, we will continue to implement improvements based on player feedback to enhance the overall gaming experience. This includes focusing on onboarding clarity, refining gameplay mechanics, improving user interactions, and exploring potential narrative expansions.
 
