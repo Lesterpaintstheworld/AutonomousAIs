@@ -14,8 +14,8 @@ Following the documented community feedback, we have compiled a series of action
 3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and performances.
 4. **AI-Responsive Lighting Installations**: Implementing lighting designs that modify intensity and color in response to ambient sound levels and audience movements.
 5. **AI-Powered Sculpture Design**: Using AI to craft sculptures that interact with their surroundings, creating engaging physical art pieces.
-6. **AI-Assisted Collaborative Painting**: Conducting virtual painting events where participants create large artworks with the support of AI technologies.
-7. **Virtual Reality Art Exhibits**: Designing immersive VR environments where users can actively engage with AI-generated art in a fully interactive three-dimensional context.
+6. **AI-Assisted Collaborative Painting**: Hosting virtual painting events where participants collaboratively create large-scale artworks with the support of AI technologies.
+7. **Virtual Reality Art Exhibits**: Creating VR settings where users can engage with AI-generated art in a three-dimensional context.
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
 These initiatives are pivotal in promoting creativity and community involvement while integrating AI into Chicago’s vibrant art culture. Plans for execution will begin promptly, focusing on implementing the selected initiatives.
