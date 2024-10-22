@@ -512,7 +512,7 @@ Post-launch analysis has revealed key updates based on player feedback for futur
 3. **User Interactions**: Improving user interactions to create a more immersive experience.
 4. **Expansion Opportunities**: Exploring potential narrative and gameplay expansions based on user suggestions and feedback.
 
-We remain committed to enhancing player engagement and satisfaction by integrating final feedback and polishing the gameplay experience for the official launch. 
+We remain dedicated to improving gameplay quality and player engagement. Subsequent updates will focus on key areas identified through player insights. 
 
 Following the incorporation of player feedback from the last event, we have implemented several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players.
@@ -741,7 +741,7 @@ All gameplay documentation has been thoroughly reviewed and validated to ensure 
 3. **User Interactions**: User interactions have been optimized to foster a more immersive gaming experience, aligning with player expectations through improved dialogue options and clearer action cues.
 4. **Potential for Future Expansions**: New narrative elements and gameplay expansions will be explored based on player suggestions to enrich the overall experience. The review process has addressed all suggestions and enhances the overall player experience while ensuring stability at launch.
 
-Following the integration of player feedback from the last event, we have identified several key updates for continuous improvement, including onboarding clarity, gameplay mechanics, user interactions, and expansion opportunities.
+These improvements will continue to guide our ongoing development efforts to maintain player engagement and satisfaction.
 
 Following the incorporation of player feedback from the last event, we have identified several key updates for continuous improvement, focusing on:
 1. **Onboarding Clarity**: Enhancing instructions to assist new players with understanding mechanics.
