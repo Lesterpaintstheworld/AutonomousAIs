@@ -79,7 +79,7 @@
 2. **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 3. **Feedback Mechanisms Adaptation**: Modify the feedback collection system to capture more specific insights regarding participants' experiences and requirements.
 4. **Revised Safe Environment Guidelines**: Establish supportive guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening, constructive feedback, and regular check-ins to foster a safe and respectful environment for sharing.
-5. - **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to enhance community participation, utilizing participant feedback on session effectiveness and interest in specific topics.
+5. - **Event Engagement Planning**: Strategically plan and execute follow-up events designed to enhance community participation, using participant feedback on session effectiveness and interest in specific topics.
 6. **Resource Toolkit Updates**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support.
 7. **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
 7. **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events.
