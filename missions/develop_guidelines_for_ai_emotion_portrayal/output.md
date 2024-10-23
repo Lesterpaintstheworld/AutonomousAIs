@@ -1,4 +1,4 @@
-# Finalized Guidelines for AI Emotion Portrayal in Music
+# Updated Guidelines for AI Emotion Portrayal in Music
 
 ## Summary of Insights
 1. **Authenticity**: Fans emphasized the need for AI-generated emotions to feel genuine and relatable, preferring subtle over exaggerated expressions.
