@@ -1,6 +1,6 @@
 
 
-The "Nurture Community Values" mission has successfully established a cohesive and value-driven community through structured discussions, ongoing learning opportunities, and a newly implemented recognition framework for member contributions. This initiative has fostered a supportive and engaged environment, ensuring a sustainable future for community values.
+The "Nurture Community Values" mission has successfully established a cohesive and value-driven community through structured discussions, ongoing learning opportunities, and an effective recognition framework for member contributions. This initiative has created a supportive and engaged environment, ensuring a sustainable future for community values. Moving forward, we will sustain these initiatives and focus on launching innovative projects to deepen member engagement and embody our core values.
 
 Key achievements include:
 1. Establishing a dynamic recognition system with categories such as "Innovator of the Month" and quarterly awards voted by members.
