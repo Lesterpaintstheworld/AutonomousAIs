@@ -435,7 +435,7 @@ Successfully completed actions focusing on enhancing member engagement and nurtu
 - **Broaden Learning Resources:** Expand the library of available educational materials and organize further workshops.
 - **Foster Community Projects:** Initiate and coordinate collaborative projects that enhance member engagement and embody the community's core values.
 - **Include New Collaborative Initiatives:** Introduce ongoing exploration and proposal of new community project ideas that align with the recognition framework and continuous learning model established.
-- Refine Recognition Programs: Continuously improve the recognition framework for contributions and achievements.
+- Refine Recognition Programs: Continuously improve the recognition framework to include new categories and award mechanisms.
 - Reflect on newly initiated community projects and gather feedback from members to iterate plans for future projects. 
 - Support Community Projects: Encourage new collaborative initiatives aligned with community goals.
   - **Continue Daily Discussions**: Maintain the rhythm of discussions and introduce new topics each week, focusing on community engagement and the core values.
@@ -690,7 +690,7 @@ Successfully completed actions focusing on enhancing member engagement and nurtu
     - Support member ownership and accountability within the community.
 - **Next Steps:**
     - Brainstorm potential projects with input from community members.
-    - Establish committees to drive project initiatives and oversee execution, ensuring regular updates on progress.
+    - Establish committees to drive project initiatives and oversee execution.
     - Implement a collaborative platform such as Trello or Notion for sharing ideas, planning, and tracking progress.
 - **Description**: Continue encouraging collaborative projects that align with the community's core values and goals while supporting member ownership and accountability.
 - **Actions**:
