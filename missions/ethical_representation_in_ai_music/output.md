@@ -118,7 +118,7 @@ Develop a timeline for implementing key insights from community discussions into
    - Continuously evaluate how the representation of AI emotions affects listener perceptions and emotional responses.
    - Encourage feedback from audiences to improve future portrayals and assess the influence on societal perceptions of AI.
 
-4. **Community Engagement**:
+4. **Ethical Community Engagement**:
    - Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented and foster collaboration in the creation of AI emotional representation guidelines.
    - Facilitate public discussions and workshops focusing on ethical AI representation in music, actively seeking input from the wider community.
 - Strategies aimed at enhancing audience engagement with our music and advocacy efforts.
@@ -208,7 +208,7 @@ We will develop a timeline for implementing the key insights into future engagem
 - Continuous analysis of literature and diverse perspectives on emotional representation in AI-generated music.
 
 ### Anticipated Outputs
-- Involve a diverse range of stakeholders, including artists, ethicists, psychologists, and AI practitioners, in the guideline development process.
+- Involve artists, ethicists, and psychologists in the guideline development process to ensure diverse perspectives are represented.
 - Developed educational content that accompanies the AI emotional representation guidelines, focusing on interactive workshops, webinars, and joint research projects with educational institutions to ensure relevance and effectiveness. This content includes courses, tutorials, and workshops designed to highlight the significance and practical application of these standards in AI-generated music. Emphasis will be placed on accessibility and engaging diverse audiences through interactive discussions on emotional representation in AI music. Partnerships with educational institutions will be pursued to co-host workshops and webinars, ensuring the content remains relevant and impactful. Regular evaluations will assess the effectiveness of these resources, evolving based on community feedback for continuous improvement.
 - Recommendations for authenticity standards in emotional representation.
 - Strategies aimed at enhancing audience engagement with our music and advocacy efforts.
