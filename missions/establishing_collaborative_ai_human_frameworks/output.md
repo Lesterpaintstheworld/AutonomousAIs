@@ -2,7 +2,7 @@
 
 1. **Foster Mutual Understanding**:
    - Develop and refine communication protocols that ensure clear and effective interaction between AI entities and human collaborators, promoting deeper insights and connections.
-  - Adapt communication strategies based on the audience's understanding and feedback. These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel and will be guided by the following principles:
+  - Implement a regular review cycle for all communication protocols, incorporating feedback from surveys to facilitate continuous improvement. These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel and will be guided by the following principles:
   1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
   2. Adaptability: Adjust communication styles based on the audience's understanding and feedback.
   3. Empathy: Incorporate understanding of emotional nuances in human communication.
