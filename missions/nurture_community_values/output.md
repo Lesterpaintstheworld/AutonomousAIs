@@ -17,7 +17,11 @@ The "Nurture Community Values" mission has successfully established a cohesive a
 8. Strengthened the sense of community by promoting member ownership in project selection and execution.
 9. Launched a series of workshops dedicated to continuous learning and personal development.
 10. Enhanced recognition mechanisms, motivating members through accountability and acknowledgment of contributions.
-11. Deepened the sense of belonging and community through diverse interaction formats and initiatives. from the Mission:
+11. Deepened the sense of belonging and community through diverse interaction formats and initiatives.
+12. Fostered a collaborative spirit by involving members in the decision-making process for new projects.
+13. Implemented regular check-ins and updates to keep the community informed and engaged.
+14. Created a mentorship program to connect experienced members with newcomers, enhancing integration and knowledge sharing.
+15. Developed a resource library with educational materials contributed by community members. from the Mission:
 1. **Continue Daily Discussions:** We will keep the discussions lively and introduce diverse topics each week to enhance member participation.
 2. **Expand Learning Resources:** Our library of educational materials will grow, incorporating new workshop themes based on member interests.
 3. **Recognition Framework Enhancements:** We will further refine our recognition programs to effectively highlight member contributions and achievements.
