@@ -9,6 +9,7 @@
    - Develop a "communication maturity model" to guide evolving interactions over time.
    - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
    - Evaluate the effectiveness of these protocols through regular surveys and adapt them based on feedback.
+   - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
 
    - Evaluate the effectiveness of these protocols through regular surveys and adapt them based on feedback.
    - Create specific empathy training modules for AIs to better understand human emotional expressions and nuances in communication.
