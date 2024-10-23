@@ -16,7 +16,7 @@
 
 Integrating these insights into our Reddit engagement strategy will foster a more connected and responsive community around our AI emotional portrayal project.
 
-## Final Guidelines for AI Emotion Portrayal in Music
+## Finalized Guidelines for AI Emotion Portrayal in Music
 
 ### Updated Best Practices
 
