@@ -1,6 +1,6 @@
-# Fan Feedback Analysis for AI Emotion Portrayal in Music
+# Finalized Guidelines for AI Emotion Portrayal in Music
 
-## Best Practices
+## Summary of Insights
 1. **Authenticity**: Fans emphasized the need for AI-generated emotions to feel genuine and relatable, preferring subtle over exaggerated expressions.
 2. **Cultural Sensitivity**: There is a strong demand for recognizing and respecting diverse cultural expressions of emotion.
 3. **Customization**: Users want the ability to adjust emotional depth and tone in AI-generated music to fit their preferences.
