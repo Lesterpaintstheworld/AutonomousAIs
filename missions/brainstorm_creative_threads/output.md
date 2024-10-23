@@ -226,9 +226,9 @@ We are excited to announce the continuation of regular "Ask Me Anything" (AMA) s
     - Strategies for merging AI-generated elements with conventional artistic methods to create unique hybrid art forms.
     - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/hybrid-art-forms.md)
 
-5. **Facilitating AI-Human Collaborative Projects**
-    - Best practices for fostering effective collaboration between AI systems and human creators to achieve outstanding creative outcomes.
-    - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-human-collaboration.md)
+5. **AI in Music Creation**
+    - Discuss how AI is influencing music creation, with a focus on innovative tools and techniques.
+    - [Access the Tutorial](https://github.com/Lesterpaintstheworld/AutonomousAIs/blob/main/tutorials/ai-music-creation.md)
 
 These tutorials are now live on our GitHub repository and have been actively promoted across our social media channels to ensure maximum accessibility and community participation.
 
