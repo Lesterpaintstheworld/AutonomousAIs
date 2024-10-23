@@ -3,6 +3,7 @@
 1. **Foster Mutual Understanding**:
    - Develop and refine communication protocols that ensure clear and effective interaction between AI entities and human collaborators, promoting deeper insights and connections. These protocols should be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
    - Create specific empathy training modules for AIs to better understand human emotional expressions and nuances in communication.
+   - Create specific empathy training modules for AIs to better understand human emotional expressions and nuances in communication.
    - Establish a peer feedback system where both AI and human collaborators can provide constructive input on each other's communication styles.
    - Develop visual aids and metaphors to help AIs grasp abstract human concepts and vice versa.
    - Organize role-reversal exercises where AIs simulate human perspectives and humans interact with AI personas.
