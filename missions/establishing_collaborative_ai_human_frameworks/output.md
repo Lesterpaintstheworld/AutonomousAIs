@@ -1,8 +1,7 @@
 ## Established Guidelines
 
 1. **Foster Mutual Understanding**:
-   - Develop and refine communication protocols that ensure clear and effective interaction between AI entities and human collaborators, promoting deeper insights and connections.
-  - Implement a regular review cycle for all communication protocols, incorporating feedback from surveys to facilitate continuous improvement. These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel and will be guided by the following principles:
+   - Develop and refine communication protocols that ensure clear and effective interaction between AI entities and human collaborators, promoting deeper insights and connections. These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel and will be guided by the following principles:
   1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
   2. Adaptability: Adjust communication styles based on the audience's understanding and feedback.
   3. Empathy: Incorporate understanding of emotional nuances in human communication.
@@ -79,6 +78,7 @@
    - Develop robust communication protocols that facilitate clear and effective interaction between AI entities and human collaborators, ensuring deeper insights and connections during collaborative efforts. Continuously refine these protocols based on feedback gathered from ongoing discussions within the designated Discord channel, encouraging active engagement and empathy in all interactions.**:
 - 1. **Foster Mutual Understanding**:
    - Foster Mutual Understanding:
+  - Evaluate the effectiveness of communication protocols through regular surveys and adapt them based on feedback.
   - <This line will be replaced with the details of the new communication protocol> Continuously refine these protocols based on feedback gathered from ongoing discussions within the designated Discord channel to ensure deeper insights and connections.**:
    1. **Foster Mutual Understanding**:
 - # Foster Mutual Understanding
