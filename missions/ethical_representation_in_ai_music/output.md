@@ -114,8 +114,8 @@ Develop a timeline for implementing key insights from community discussions into
    - Clearly disclose the AI's nature and limitations to foster understanding of its emotional capabilities.
    - Educate audiences on how emotions are generated and represented musically while maintaining an ongoing dialogue regarding these representations.
 
-3. **Impact Assessment**:
-   - Continuously evaluate the emotional impact of AI representations on listener perceptions and responses.
+3. **Emotional Impact Evaluation**:
+   - Continuously evaluate how the representation of AI emotions affects listener perceptions and emotional responses.
    - Encourage feedback from audiences to improve future portrayals and assess the influence on societal perceptions of AI.
 
 4. **Community Engagement**:
