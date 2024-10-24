@@ -734,7 +734,7 @@ Mission complete.
 ## Mission Complete
 
 To further enhance engagement, new self-care activities based on team member suggestions will be implemented. These activities include:
-1. Increasing flexibility in self-care options to accommodate diverse preferences.
+1. Tailored workshops focusing on mental health, nutrition, and physical fitness.
 2. Diverse wellness sessions offering various approaches to self-care.
 3. Community-building events aimed at fostering mutual support and connection among team members.
 
