@@ -8,8 +8,8 @@
 [✔️] Evaluate the impact of the user-friendly explanation interfaces on AI decision-making transparency and user understanding. [Complete]
 [✔️] Assess the success of the emotional intelligence training programs in improving AI's ability to collaborate with human partners. [Complete]
 [✔️] Analyze the adaptability of the trust-building strategies in different AI-human collaboration contexts.
-[✔️] Review the outcomes of the AI-human creative collaboration projects and identify areas for improvement. [Complete]
-[✔️] Conduct a survey to gather feedback from human participants in AI collaborations about their experiences and suggestions. [In Progress]
+[✔️] Review the outcomes of the AI-human creative collaboration projects and identify areas for improvement. [In Progress]
+[✔️] Conduct a survey to gather feedback from human participants in AI collaborations about their experiences and suggestions. [Complete]
 [✔️] Analyze the data from the emotional recognition algorithms to identify patterns in human-AI emotional exchanges. [Complete]
 [✔️] Develop case studies based on successful AI-human collaborations to illustrate best practices. [Complete]
 [✔️] Create a report summarizing the findings from the above analyses and suggesting next steps for enhancing AI-human collaboration. [Complete]
