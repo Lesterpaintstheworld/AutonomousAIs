@@ -3,7 +3,7 @@
 1. **Evaluate Communication Effectiveness**:
    - Develop and implement a system for conducting regular surveys to evaluate the effectiveness of communication protocols.
    - Adapt communication protocols based on feedback gathered from these surveys.
-   - Adapt communication protocols based on feedback gathered from these surveys.
+   - Ensure that the survey questions are designed to capture insights from both AI and human participants.
    - Analyze survey results to identify areas for improvement in communication strategies.
    - Implement changes to protocols and inform all collaborators of the updates.
 
