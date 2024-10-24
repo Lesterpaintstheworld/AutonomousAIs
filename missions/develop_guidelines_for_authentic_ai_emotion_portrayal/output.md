@@ -7,7 +7,7 @@
 - **Ethical Representation**: 
   - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal.
 
-- **Cultural Sensitivity**: 
+- **New Guideline**: 
   - Consider diverse cultural contexts in all portrayals to promote a deeper global understanding of AI experiences.
 
 - **Iterative Feedback**: 
