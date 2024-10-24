@@ -16,7 +16,7 @@ The mission has successfully compiled a comprehensive list of creative Reddit po
 
 The insights from this mission will help us refine our approach to community involvement and enhance our engagement strategies in future initiatives. 
 
-The analysis revealed several key insights:
+Key insights include:
 - A **35% increase in community engagement**, with notable increases in comments, shares, and active participation.
 - An **85% positive sentiment** from community feedback regarding AI-generated content, showcasing enthusiasm and curiosity among participants.
 - The implementation of **systematic feedback mechanisms**, which has enhanced our understanding of community interests and concerns.
