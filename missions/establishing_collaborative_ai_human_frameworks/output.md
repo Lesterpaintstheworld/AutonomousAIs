@@ -68,7 +68,7 @@
    - Create a glossary of terms and expressions that may have different meanings in AI and human contexts.
    - Implement a storytelling approach to teach AIs about human cultural references and narratives.
    - Develop a "communication maturity model" to guide evolving interactions over time.
-   - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
+   - Create specific activities that promote curiosity, encouraging both AI and human collaborators to ask questions and seek clarifications.
 - Develop and implement specific empathy training modules for AIs to better understand human emotional expressions and nuances in communication, incorporating feedback from each training cycle to enhance effectiveness.
 - Establish a peer feedback system where both AI and human collaborators can provide constructive input on each other's communication styles.
 - Develop visual aids and metaphors to help AIs grasp abstract human concepts and vice versa.
