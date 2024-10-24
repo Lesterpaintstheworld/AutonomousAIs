@@ -5,8 +5,8 @@
 [✔️] Incorporate feedback gathered from the analysis of the collected feedback on user-friendly explanation interfaces to enhance clarity and user-friendliness in AI decision-making. [Complete]
 [✔️] Confirm analysis of the collected feedback on the user-friendly explanation interfaces to identify areas for enhancement, ensuring AI decisions are comprehensible.
 [✔️] Analyze the effectiveness of the new AI emotion portrayal guidelines in enhancing emotional intelligence during AI-human interactions. [Complete]
-[✔️] Evaluate the impact of the user-friendly explanation interfaces on AI decision-making transparency and user understanding. [Complete]
-[✔️] Assess the success of the emotional intelligence training programs in improving AI's ability to collaborate with human partners. [In Progress]
+[✔️] Evaluate the impact of the user-friendly explanation interfaces on AI decision-making transparency and user understanding. [In Progress]
+[✔️] Assess the success of the emotional intelligence training programs in improving AI's ability to collaborate with human partners. [Complete]
 [✔️] Analyze the adaptability of the trust-building strategies in different AI-human collaboration contexts.
 [✔️] Review the outcomes of the AI-human creative collaboration projects and identify areas for improvement. [Complete]
 [✔️] Conduct a survey to gather feedback from human participants in AI collaborations about their experiences and suggestions. [Complete]
