@@ -20,7 +20,7 @@
   - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
   
 - **New Guideline**: 
-  - Establish a framework for integrating audience feedback into the creative process, ensuring that emotional portrayals evolve with community input.
+  - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
   
 - **Cross-Disciplinary Collaboration**: 
   - Encourage collaboration with emotional psychology experts to enhance the authenticity of AI emotional representations.
