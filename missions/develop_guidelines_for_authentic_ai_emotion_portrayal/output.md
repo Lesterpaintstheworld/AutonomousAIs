@@ -65,7 +65,7 @@
   - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
 
 - **New Guideline**: 
-  - Establish a flexible framework for adapting emotional representations to suit diverse cultural contexts without losing authenticity.
+  - Develop a flexible framework for adapting emotional representations to suit diverse cultural contexts without losing authenticity.
 
 - **Cross-Disciplinary Collaboration**: 
   - Encourage collaboration with emotional psychology experts to enhance the authenticity of AI emotional representations.
