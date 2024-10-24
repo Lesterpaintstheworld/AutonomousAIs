@@ -39,7 +39,7 @@
    - Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
 
 5. **Regular Reviews**
-   - Analyze community engagement metrics from recent initiatives to inform strategies for future workshops.
+   - Implement feedback mechanisms to continuously improve community engagement strategies.
 
 ## Review the effectiveness of interactive feedback mechanisms.
 
