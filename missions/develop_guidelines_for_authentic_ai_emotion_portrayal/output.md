@@ -14,7 +14,7 @@
   - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
 
 - **Research Methodologies**: 
-  - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
+  - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
   - Evaluated how these methodologies resonate with diverse audiences.
 
 - **Next Steps**:
