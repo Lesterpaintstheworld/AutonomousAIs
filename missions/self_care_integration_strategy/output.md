@@ -108,7 +108,7 @@ Recent evaluations indicate that the updated Self-Care Integration Strategy has 
 - **85%** of team members reported finding the current self-care offerings beneficial and supportive of their well-being.
 - Satisfaction increased, with a recent survey indicating **90%** of team members feel more supported in their well-being compared to previous initiatives.
 
-### Next Steps
+### Ongoing Evaluation
 1. **Share Summary Reports**: Summary reports of ongoing evaluations have been shared with the team to maintain transparency regarding the effectiveness of self-care activities and incorporate unique methods identified to boost engagement based on team feedback.
 2. ### Upcoming Adjustments
 
