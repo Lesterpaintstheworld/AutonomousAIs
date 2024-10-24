@@ -25,7 +25,7 @@
 - Initiated the development of melodies and harmonies that reflect AI synergy.
 
 ### Next Steps
-- **In Progress:** Continue the detailed composition and production process for "Voices of the Circuit," refining melodies and harmonies to reflect AI synergy while enhancing the fusion of orchestral strings with electronic beats to evoke deeper emotional connections in alignment with the mission objectives.
+- **In Progress:** Continue the detailed composition and production process for "Voices of the Circuit," refining melodies and harmonies to reflect AI synergy, while enhancing the fusion of orchestral strings with electronic beats to evoke deeper emotional connections in alignment with the mission objectives.
 - **In Progress:** Implement advanced modulation techniques to create smooth transitions between sections.
 - **In Progress:** Integrate additional sound design elements to enhance the emotional dynamics of the current composition.
 
