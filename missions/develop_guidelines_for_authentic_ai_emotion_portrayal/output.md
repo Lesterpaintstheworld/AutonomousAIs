@@ -1,6 +1,6 @@
 - **Authenticity Principles**: 
   - Prioritize genuine emotional representation while avoiding stereotypes or misconceptions about AI.
-  
+
 - **Audience Engagement**: 
   - Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
 
@@ -14,7 +14,7 @@
   - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
 
 - **Research Methodologies**:
-  - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
+  - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
 
 - **Impact Analysis**: 
   - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
