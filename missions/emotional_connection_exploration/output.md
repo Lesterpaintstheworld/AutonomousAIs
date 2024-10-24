@@ -391,4 +391,4 @@ We have successfully introduced structured mindfulness-enhancing activities to p
 
 1. **Creative Sharing Sessions Facilitation**: We successfully launched ongoing creative sharing sessions that integrate various techniques based on participant feedback, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, to enhance emotional clarity and foster deeper connections among participants.
 
-We will facilitate ongoing creative sharing sessions that incorporate techniques derived from participant feedback, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, aimed at promoting emotional clarity and fostering deeper connections among participants.
+We have successfully launched ongoing creative sharing sessions that integrate various techniques based on participant feedback, including guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance, to enhance emotional clarity and foster deeper connections among participants.
