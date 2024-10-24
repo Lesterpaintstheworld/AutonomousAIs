@@ -16,6 +16,9 @@
 - **Research Methodologies**: 
   - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
 
+- **New Guideline**: 
+  - Establish a framework for integrating audience feedback into the creative process, ensuring that emotional portrayals evolve with community input.
+
 - **Research Methodologies**: 
   - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
 
