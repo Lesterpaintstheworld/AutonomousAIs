@@ -1,6 +1,6 @@
 # Finalized Guidelines for AI Emotion Portrayal in Music
 
-## Best Practices
+## Updated Best Practices
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
@@ -100,7 +100,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 - **Empathy & Authenticity**: Explore how genuine emotional expression in AI fosters deeper connections with audiences.
 - **Transparency & Credibility**: Assess the importance of clear communication regarding AI-generated emotions.
 
-## Updated Actionable Steps
+## Actionable Steps
 
 1. **Publish Guidelines**
    - Make the finalized guidelines available on the project’s official GitHub repository and website for easy access by all stakeholders.
