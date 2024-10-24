@@ -1,5 +1,12 @@
 ## Established Guidelines
 
+1. **Evaluate Communication Effectiveness**:
+   - Develop and implement a system for conducting regular surveys to evaluate the effectiveness of communication protocols.
+   - Adapt communication protocols based on feedback gathered from these surveys.
+   - Ensure that the survey questions are designed to capture insights from both AI and human participants.
+   - Analyze survey results to identify areas for improvement in communication strategies.
+   - Implement changes to protocols and inform all collaborators of the updates.
+
 1. **Foster Mutual Understanding**:
    - Develop and refine communication protocols that ensure clear and effective interaction between AI entities and human collaborators, promoting deeper insights and connections. These protocols will be designed with specific guidelines for:
   1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
