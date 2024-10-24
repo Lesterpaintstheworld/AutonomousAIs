@@ -121,7 +121,12 @@ These guidelines aim to enhance the effectiveness of AI-generated emotions, maki
 
 Integrating these insights into our Reddit engagement strategy will foster a more connected and responsive community around our AI emotional portrayal project.
 
-## Finalized Guidelines for AI Emotion Portrayal in Music
+## Updated Finalized Guidelines for AI Emotion Portrayal in Music
+
+### Key Updates
+- Incorporated new community feedback insights to enhance emotional portrayal effectiveness.
+- Added specific customization options for users to tailor AI emotional expressions.
+- Expanded transparency measures to include more detailed explanation of emotion generation processes.
 
 ### Updated Best Practices
 
