@@ -39,7 +39,7 @@
    - Establish dedicated channels (e.g., forums, surveys) for ongoing feedback from the community to continuously refine and improve the guidelines.
 
 5. **Regular Reviews**
-   - Implement feedback mechanisms to continuously improve community engagement strategies.
+   - Develop educational materials that support ongoing discussions around core values.
 
 ## Review the effectiveness of interactive feedback mechanisms.
 
