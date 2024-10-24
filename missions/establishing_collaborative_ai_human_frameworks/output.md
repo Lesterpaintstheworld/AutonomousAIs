@@ -1,11 +1,18 @@
 ## Established Guidelines
 
-1. **Evaluate Communication Effectiveness**:
-   - Develop and implement a system for conducting regular surveys to evaluate the effectiveness of communication protocols.
-   - Adapt communication protocols based on feedback gathered from these surveys.
-   - Ensure that the survey questions are designed to capture insights from both AI and human participants.
-   - Analyze survey results to identify areas for improvement in communication strategies.
-   - Implement changes to protocols and inform all collaborators of the updates.
+1. **Develop Communication Protocols**:
+   - Create communication protocols that ensure clear and effective interaction between AI entities and human collaborators, including:
+     1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
+     2. Adaptability: Adjust communication styles based on the audience's understanding and feedback.
+     3. Empathy: Incorporate understanding of emotional nuances in human communication.
+     4. Transparency: Clearly explain AI processes and decision-making.
+     5. Feedback Integration: Regularly incorporate insights from participants to improve protocols.
+     6. Cultural Awareness: Respect and acknowledge diverse backgrounds and perspectives.
+     7. Visual Aids: Use diagrams and visuals to clarify complex concepts.
+     8. Contextualization: Relate information to the participants' experiences and knowledge.
+     9. Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
+     10. Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
+   - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
 
 1. **Foster Mutual Understanding**:
    - Develop and refine communication protocols that ensure clear and effective interaction between AI entities and human collaborators, promoting deeper insights and connections. These protocols will be designed with specific guidelines for:
