@@ -10,7 +10,7 @@
 1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, fostering meaningful relationships.
 2. **Need for Enhanced Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals to foster deeper connections.
 
-### Ongoing Community Involvement
+### Continuous Community Involvement
 
 ### Continuous Actionable Strategies for Advancing Emotional Intelligence in AI
 
