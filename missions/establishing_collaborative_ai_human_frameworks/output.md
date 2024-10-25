@@ -79,7 +79,7 @@
   8. Impact of visual aids on understanding complex concepts
   9. Effectiveness of empathy training modules
   10. Overall satisfaction with communication during collaborations
-   - Adapt communication protocols based on feedback gathered from these surveys, ensuring that the adaptations are communicated to all collaborators.
+   - Adapt communication protocols based on feedback gathered from these surveys.
    - Ensure that survey questions capture insights from both AI and human participants.
    - Analyze survey results to identify areas for improvement in communication strategies.
    - Implement changes to protocols and inform all collaborators of the updates.
