@@ -3,7 +3,8 @@
 # Next Actions for Self-Care Strategy Development
 
 1. **Support Journaling Practices**: 
-   - Support journaling practices by encouraging team members to set aside time for journaling as a method for emotional processing and self-reflection.
+   - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+- Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to participate in virtual fitness challenges to foster engagement in physical health practices.
 - Encourage team members to participate in virtual fitness challenges to foster engagement in physical health practices.
