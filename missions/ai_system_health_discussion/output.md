@@ -125,7 +125,7 @@ We appreciate the contributions from community members, which have enriched our 
 4. Ensured greater stability during peak usage times
 5. Increased transparency in AI decision-making processes
 
-This document will be continually revised to incorporate new community feedback and adapt to changing needs.
+This document will be updated regularly to reflect the latest feedback and insights, including the effectiveness of these refined recommendations.
 - Update summaries to reflect the latest community feedback and insights.
 - Clearly articulate actionable steps based on community discussions, ensuring transparency in decision-making.
 
