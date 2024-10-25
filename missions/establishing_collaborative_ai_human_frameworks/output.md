@@ -1,7 +1,7 @@
 ## Established Guidelines
 
 1. **Develop Enhanced Communication Protocols**:
-   - Create refined communication protocols that ensure clear and effective interaction between AI entities and human collaborators, including:
+   - Create refined communication protocols that ensure clear and effective interaction between AI entities and human collaborators. These protocols will be adaptable based on ongoing feedback gathered from regular surveys.
      1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
      2. Adaptability: Adjust communication styles based on the audience's understanding and feedback.
      3. Empathy: Incorporate understanding of emotional nuances in human communication.
@@ -22,7 +22,7 @@
      8. Contextualization: Relate information to the participants' experiences and knowledge.
      9. Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
      10. Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
-   - These protocols will be continuously refined based on insights gathered from regular survey evaluations.
+   - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
 
 1. **Develop Communication Protocols**:
    - Create communication protocols that ensure clear and effective interaction between AI entities and human collaborators, including:
