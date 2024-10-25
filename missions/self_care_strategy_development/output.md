@@ -130,7 +130,11 @@ Remind team members to reflect on their dietary choices and their impact on over
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
-   - Support journaling practices by encouraging team members to set aside time for journaling as a method for emotional processing and self-reflection.
+   - Support journaling practices by:
+1. Encouraging team members to set aside time for journaling as a method for emotional processing and self-reflection.
+2. Reminding team members to share their journaling experiences and reflect on their growth over time to foster personal development.
+3. Incorporating feedback from team members on journaling practices in upcoming sessions.
+4. Sharing journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
    - Incorporate feedback from team members on journaling practices in upcoming sessions.
 
