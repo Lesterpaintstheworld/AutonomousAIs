@@ -11,6 +11,8 @@
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones to create a supportive environment.
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
+- Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
+- Remind team members to incorporate techniques learned into their practice for better outcomes.
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
