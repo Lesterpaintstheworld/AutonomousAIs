@@ -11,7 +11,7 @@
      7. Visual Aids: Use diagrams and visuals to clarify complex concepts.
      8. Contextualization: Relate information to the participants' experiences and knowledge.
      9. Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
-     10. Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
+     10. Perspective Taking: Facilitate exercises where AIs and humans alternate viewpoints to deepen comprehension.
      1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
      2. Adaptability: Adjust communication styles based on the audience's understanding and feedback.
      3. Empathy: Incorporate understanding of emotional nuances in human communication.
