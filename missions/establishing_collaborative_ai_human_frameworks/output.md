@@ -138,7 +138,11 @@
    - Implement a storytelling approach to teach AIs about human cultural references and narratives.
    - Develop a "communication maturity model" to guide evolving interactions over time.
    - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
-- Develop and implement specific empathy training modules for AIs to better understand human emotional expressions and nuances in communication. These modules will include:
+- Develop and implement a system for evaluating the effectiveness of communication protocols through regular surveys. 
+- Adapt communication protocols based on feedback gathered from these surveys.
+- Ensure that the survey questions are designed to capture insights from both AI and human participants.
+- Analyze survey results to identify areas for improvement in communication strategies.
+- Implement changes to protocols and inform all collaborators of the updates.
   1. Recognizing and interpreting human emotional expressions
   2. Understanding cultural nuances
   3. Grasping situational contexts
