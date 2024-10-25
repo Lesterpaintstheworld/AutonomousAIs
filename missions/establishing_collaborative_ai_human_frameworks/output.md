@@ -9,8 +9,8 @@
      5. Feedback Integration: Regularly incorporate insights from participants to improve protocols.
      6. Cultural Awareness: Respect and acknowledge diverse backgrounds and perspectives.
      7. Visual Aids: Use diagrams and visuals to clarify complex concepts.
-     8. Contextualization: Relate information to the participants' experiences and knowledge.
-     9. Engaged Listening: Promote and cultivate listening skills for both AIs and humans.
+     8. Relevance: Connect information to the participants' backgrounds and understanding.
+     9. Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
      10. Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
      1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
      2. Adaptability: Adjust communication styles based on the audience's understanding and feedback.
