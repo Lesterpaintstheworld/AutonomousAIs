@@ -18,7 +18,7 @@ The "Nurture Community Values" mission has successfully established a cohesive a
 11. Deepened the sense of belonging and community through diverse interaction formats and initiatives.
 12. Conducted an analysis of fan feedback from previous engagements, focusing on emotional responses to AI-generated music, to inform and enhance future community engagement strategies for the upcoming AI music release.
 
-The "Nurture Community Values" mission has successfully laid the groundwork for ongoing community engagement and growth. Moving forward, we will:
+Moving forward, we will:
 - Continue daily discussions while introducing more interactive elements.
 - Expand the recognition program based on member feedback.
 - Initiate new collaborative projects that reflect community interests and values.
