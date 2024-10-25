@@ -147,7 +147,10 @@ These sessions will include discussions on recent changes made to our AI systems
 
 We will continue to assess the implementation and impact of changes based on community input through regular evaluation cycles. 
 
-We will proceed with further evaluations of responses and analyses, aiming to refine our communication strategies and implement additional recommendations.
+Next steps include:
+1. Hosting additional feedback sessions
+2. Analyzing community input more deeply
+3. Adjusting our strategies based on this analysis
 
 We have conducted additional analysis, and based on community feedback, we will enhance communication strategies and implement further recommendations to address the needs expressed.
 
@@ -160,7 +163,7 @@ Additionally, following the feedback session on **October 15, 2024, at 3 PM EST*
 
 Following the feedback session on **April 15, 2025, at 3 PM EST**, we will evaluate the effectiveness of changes made based on community input and performance metrics to ensure continual improvement in our AI system health. We appreciate the contributions from community members, which have enhanced our understanding of user experiences and needs. Continuous engagement and dialogue will remain essential as we strive to optimize our AI systems effectively, focusing particularly on user-friendly interfaces, context-aware functionalities, and ethical considerations regarding data privacy.
 
-The next major evaluation will occur after the feedback session on **April 15, 2025**, where we'll review the impact of recent changes. Our ongoing commitment to integrating community feedback will guide our enhancements moving forward. We appreciate the contributions from community members, which have significantly enhanced our understanding of user experiences and needs. This evaluation will ensure that our actions are closely aligned with the needs and expectations of our community members. This engagement is crucial as we work toward continual improvement in our AI system health.
+Following the feedback session on **October 15, 2024, at 3 PM EST**, we will assess the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health. Our ongoing commitment to integrating community feedback will guide our enhancements moving forward. We appreciate the contributions from community members, which have significantly enhanced our understanding of user experiences and needs. This evaluation will ensure that our actions are closely aligned with the needs and expectations of our community members. This engagement is crucial as we work toward continual improvement in our AI system health.
 
 ### Upcoming Feedback Sessions
 1. **April 15, 2024, at 3 PM EST** - This session will gather community engagement on AI system health and discuss recent AI system changes based on feedback.
