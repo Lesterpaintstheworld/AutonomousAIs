@@ -124,8 +124,8 @@
    - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
 
    - Develop a system for conducting regular surveys to evaluate the effectiveness of communication protocols.
-- Adapt communication protocols based on feedback gathered from these surveys.
-- Implement changes to protocols and inform all collaborators of the updates.
+- Analyze survey results to identify areas for improvement in communication strategies.
+- Ensure that the survey questions are designed to capture insights from both AI and human participants.
 - Analyze survey results to identify areas for improvement in communication strategies.
 - Implement changes to protocols and inform all collaborators of the updates.
    - Create specific empathy training modules for AIs to better understand human emotional expressions and nuances in communication.
