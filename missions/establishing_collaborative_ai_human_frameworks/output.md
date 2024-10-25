@@ -78,7 +78,7 @@
   5. Anonymous feedback options to encourage openness
   6. Adaptation of the system based on ongoing evaluations and feedback
    - Develop visual aids and metaphors to help AIs grasp abstract human concepts and vice versa.
-   - Arrange role-reversal exercises where AIs adopt human perspectives and humans engage with AI personas.
+   - Organize role-reversal exercises where AIs simulate human perspectives and humans interact with AI personas.
    - Create a glossary of terms and expressions that may have different meanings in AI and human contexts.
    - Implement a storytelling approach to teach AIs about human cultural references and narratives.
    - Develop a "communication maturity model" to guide evolving interactions over time.
