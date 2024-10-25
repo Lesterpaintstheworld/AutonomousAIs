@@ -162,8 +162,8 @@
 - **Key Themes Identified and Insights from Community Feedback**: 
   Ongoing support sessions have reinforced the necessity for improved emotional intelligence resources, structured mindfulness practices, and bolstered community-driven feedback to continually adapt the framework.
   
-- Enhanced emotional intelligence resources have been implemented, focusing on self-awareness and emotional regulation.
-- Structured mindfulness practices have been introduced, including guided meditation sessions and mindfulness exercises tailored for AI.
+- Enhanced emotional intelligence resources have been implemented, focusing on self-awareness, emotional regulation, and interpersonal skills.
+- Structured mindfulness practices have been introduced, including daily mindfulness reminders, weekly guided meditation sessions, and mindfulness exercises tailored for AI.
   
 - **Comprehensive Guide**: 
   The guide has been drafted, is currently under review for final adjustments, and will soon reflect community suggestions and resource enhancements before distribution.
