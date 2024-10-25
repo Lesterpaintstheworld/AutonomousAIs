@@ -45,7 +45,7 @@ We encourage ongoing participation and will continue to integrate community feed
 
 We encourage continued participation and will integrate this feedback into our development processes.
 1. **April 15, 2025, at 3 PM EST** - This session will evaluate the effectiveness of the changes made based on community input and performance metrics to ensure continual improvement in our AI system health.
-2. **July 15, 2025, at 3 PM EST** - This session will focus on reviewing feedback, addressing new concerns regarding system health, and sharing updates on changes implemented from previous recommendations. We have gathered valuable insights from our recent feedback sessions with community members, which will inform our ongoing efforts to improve AI system health. This feedback includes:
+2. **July 15, 2025, at 3 PM EST** - This session will focus on reviewing feedback, addressing new concerns regarding system health, and sharing updates on changes implemented from previous recommendations. The latest feedback from community sessions includes:
 1. Strong demand for more intuitive and user-friendly interfaces.
 2. Requests for context-aware features that adapt to individual user needs.
 3. Emphasis on the importance of ethical considerations, particularly regarding data privacy.
