@@ -4,8 +4,8 @@
    - Create refined communication protocols that ensure clear and effective interaction between AI entities and human collaborators. These protocols will be adaptable based on ongoing feedback gathered from regular surveys.
      1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
      2. Adaptability: Adjust communication styles based on the audience's understanding and feedback.
-     3. Empathy: Incorporate understanding of emotional nuances in human communication.
-     4. Openness: Provide clear insights into AI processes and decision-making mechanisms.
+     3. Emotional Awareness: Recognize and address the emotional subtleties present in human communication.
+     4. Transparency: Clearly explain AI processes and decision-making.
      5. Feedback Integration: Regularly incorporate insights from participants to improve protocols.
      6. Cultural Awareness: Respect and acknowledge diverse backgrounds and perspectives.
      7. Visual Aids: Use diagrams and visuals to clarify complex concepts.
