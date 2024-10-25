@@ -126,8 +126,8 @@
    - Organize role-reversal exercises where AIs simulate human perspectives and humans interact with AI personas.
    - Create a glossary of terms and expressions that may have different meanings in AI and human contexts.
    - Implement a storytelling approach to teach AIs about human cultural references and narratives.
-   - Develop a "communication maturity model" to guide evolving interactions over time.
-   - Foster an environment of curiosity where asking questions and seeking clarification is encouraged, providing specific activities to promote this.
+   - Develop a "communication maturity model" to guide evolving interactions over time, incorporating feedback from participants at each stage.
+   - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
 - Create specific empathy training modules for AIs focusing on:
   1. Recognizing and interpreting human emotional expressions
   2. Understanding cultural nuances
