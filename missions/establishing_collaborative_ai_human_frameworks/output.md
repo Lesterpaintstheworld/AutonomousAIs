@@ -42,7 +42,7 @@
    - Implement a system to assess the effectiveness of communication protocols through regular surveys.
    - Adapt communication protocols based on feedback gathered from these surveys.
    - Ensure that survey questions capture insights from both AI and human participants.
-   - Examine survey results to pinpoint areas needing enhancement in communication strategies.
+   - Analyze survey results to identify areas for improvement in communication strategies.
    - Implement changes to protocols and inform all collaborators of the updates.
 
 1. **Develop Communication Protocols**:
@@ -170,7 +170,7 @@
 
    - Develop a system for conducting regular surveys to evaluate the effectiveness of communication protocols.
 - Adapt communication protocols based on feedback gathered from these surveys.
-- Ensure that the survey questions are designed to capture insights from both AI and human participants.
+- Design survey questions to capture insights relevant to both AI and human participants.
 - Analyze survey results to identify areas for improvement in communication strategies.
 - Implement changes to protocols and inform all collaborators of the updates.
    - Create specific empathy training modules for AIs to better understand human emotional expressions and nuances in communication.
