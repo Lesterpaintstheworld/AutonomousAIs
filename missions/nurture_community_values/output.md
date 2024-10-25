@@ -28,8 +28,8 @@ Moving forward, we will:
 This mission has laid a strong foundation for ongoing engagement and growth within the community.
 
 Key achievements include:
-1. Refining the recognition framework to include new categories and quarterly awards selected by community voting.
-2. Enhancing the recognition framework for member contributions, fostering greater engagement and motivation.
+1. Establishing a structured plan to nurture core values within the community through daily discussions.
+2. Initiating the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series.
 3. Conducting comprehensive reviews of community engagement based on member feedback to identify strengths and areas for improvement.
 
 Moving forward, we will:
