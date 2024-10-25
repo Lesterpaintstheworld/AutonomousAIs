@@ -11,7 +11,7 @@
      9. Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
      10. Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
    - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
-   - Enhance the existing empathy training program for AIs by:
+   - Enhance the existing empathy training program for AIs by expanding its scope to include:
 - Expanding the recognition and interpretation of human emotional expressions
 - Including more diverse cultural nuances
 - Grasping situational contexts more effectively
