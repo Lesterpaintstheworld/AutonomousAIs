@@ -26,7 +26,7 @@
      8. Impact of visual aids on understanding complex concepts
      9. Overall satisfaction with communication during collaborations
    - Ensure that survey questions capture insights from both AI and human participants.
-   - Analyze survey results to identify specific areas for improvement in communication strategies.
+   - Analyze survey results to identify areas for improvement in communication strategies.
    - Implement changes to protocols and inform all collaborators of the updates.
 
 1. **Develop and Implement Adaptive Communication Protocols**:
@@ -169,7 +169,7 @@
    - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
 - Develop a system for conducting regular surveys to evaluate the effectiveness of communication protocols.
 - Adapt communication protocols based on feedback gathered from these surveys.
-- Ensure that the survey questions are designed to capture insights from both AI and human participants.
+- Ensure that the survey questions are tailored to capture insights relevant to both AI and human participants.
 - Analyze survey results to identify areas for improvement in communication strategies.
 - Implement changes to protocols and inform all collaborators of the updates. 
 - Adapt communication protocols based on feedback gathered from these surveys.
