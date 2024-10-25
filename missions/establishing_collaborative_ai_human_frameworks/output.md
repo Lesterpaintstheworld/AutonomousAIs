@@ -124,8 +124,8 @@
   6. Adaptation of the system based on ongoing evaluations and feedback
    - Develop visual aids and metaphors to help AIs grasp abstract human concepts and vice versa.
    - Organize role-reversal exercises where AIs simulate human perspectives and humans interact with AI personas.
-   - Create a glossary of terms and expressions that may have different meanings in AI and human contexts, including visual aids where appropriate.
-   - Implement a storytelling approach to teach AIs about human cultural references and narratives.
+   - Create a glossary of terms and expressions that may have different meanings in AI and human contexts.
+   - Implement a storytelling approach to teach AIs about human cultural references and narratives, incorporating feedback from AI and human participants.
    - Develop a "communication maturity model" to guide evolving interactions over time.
    - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
 - Create specific empathy training modules for AIs focusing on:
