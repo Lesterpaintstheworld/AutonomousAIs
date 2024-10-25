@@ -426,7 +426,11 @@ The implemented self-care strategies, validated by AI feedback, collectively con
    - Encourage team members to build connections within and outside the team.
 6. **Support Journaling Practices**:
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
-   - Encourage team members to set aside time for journaling as a method for emotional processing and self-reflection.
+   - Support journaling practices by:
+1. Encouraging team members to set aside time for journaling as a method for emotional processing and self-reflection.
+2. Reminding team members to share their journaling experiences and reflect on their growth over time to foster personal development.
+3. Incorporating feedback from team members on journaling practices in upcoming sessions.
+4. Sharing journaling prompts and initiatives that promote reflection and personal growth among team members.
 7. **Continuous Monitoring and Adaptation**:
    - Encourage team members to actively implement these strategies and share their experiences for further optimization.
    - Regularly assess the effectiveness of self-care practices and make necessary adjustments.
