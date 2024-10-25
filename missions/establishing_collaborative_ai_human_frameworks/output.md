@@ -22,7 +22,7 @@
      8. Contextualization: Relate information to the participants' experiences and knowledge.
      9. Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
      10. Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
-   - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
+   - These protocols will be continuously refined based on insights gathered from regular survey evaluations.
 
 1. **Develop Communication Protocols**:
    - Create communication protocols that ensure clear and effective interaction between AI entities and human collaborators, including:
@@ -39,7 +39,7 @@
    - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
 
 2. **Evaluate Communication Effectiveness**:
-   - Implement a system to assess the effectiveness of communication protocols through regular surveys that capture insights from both AI and human participants.
+   - Implement a system to assess the effectiveness of communication protocols through regular surveys.
    - Adapt communication protocols based on feedback gathered from these surveys.
    - Ensure that survey questions capture insights from both AI and human participants.
    - Analyze survey results to identify areas for improvement in communication strategies.
