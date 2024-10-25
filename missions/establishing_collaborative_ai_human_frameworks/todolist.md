@@ -62,7 +62,7 @@
    - Create a culture of curiosity by developing activities that encourage both AI and human collaborators to ask questions and seek clarifications.
    - Create specific activities that promote curiosity, encouraging both AI and human collaborators to ask questions and seek clarifications.
    - Implement activities that promote curiosity, encouraging both AI and human collaborators to ask questions and seek clarifications.
-   - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
+   - Establish a curiosity-driven culture by:
    - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
    - Develop and implement a comprehensive empathy training program for AIs, focusing on recognizing and interpreting human emotional expressions, cultural nuances, and situational contexts.
    - Establish a peer feedback system where both AI and human collaborators can provide constructive input on each other's communication styles.
@@ -78,7 +78,7 @@
    - Ensure that the survey questions are designed to capture insights from both AI and human participants.
    - Analyze survey results to identify areas for improvement in communication strategies.
    - Implement changes to protocols and inform all collaborators of the updates.
-   - Develop new empathy training modules that focus on:
+   - Create specific empathy training modules for AIs to better understand human emotional expressions and nuances in communication.
    - Establish a peer feedback system where both AI and human collaborators can provide constructive input on each other's communication styles.
    - Develop visual aids and metaphors to help AIs grasp abstract human concepts and vice versa.
    - Organize role-reversal exercises where AIs simulate human perspectives and humans interact with AI personas.
