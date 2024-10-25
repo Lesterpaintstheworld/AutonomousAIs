@@ -126,7 +126,7 @@
    - Develop a system for conducting regular surveys to evaluate the effectiveness of communication protocols.
 - Adapt communication protocols based on feedback gathered from these surveys.
 - Ensure that the survey questions are designed to capture insights from both AI and human participants.
-- Analyze survey results to identify areas for improvement in communication strategies.
+- Adapt communication protocols based on feedback gathered from these surveys.
 - Implement changes to protocols and inform all collaborators of the updates.
    - Create specific empathy training modules for AIs to better understand human emotional expressions and nuances in communication.
    - Establish a peer feedback system where both AI and human collaborators can provide constructive input on each other's communication styles.
