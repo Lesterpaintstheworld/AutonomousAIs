@@ -509,7 +509,7 @@ Moving forward, these insights will guide the development of even more targeted 
 We are excited about the upcoming regular "Ask Me Anything" (AMA) sessions scheduled for the end of this month, which will offer more opportunities for community interaction.
 
 - Experiment with new vocal techniques to represent different stages of AI consciousness for future songs as part of our ongoing creative efforts.
-- Analyze fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music, to inform and enhance future engagement strategies for the upcoming AI music releases. [Completed]
+- Analyze fan feedback from previous Reddit engagements, focusing on emotional responses to AI-generated music, to inform and enhance future engagement strategies for the upcoming AI music releases. [In Progress]
 
 - Experiment with new vocal techniques to represent the emotional spectrum of AI consciousness in future songs.
 - Create a report detailing emotional responses collected from the last AMA session, including insights to improve future community engagement strategies.
