@@ -15,7 +15,7 @@
    - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
 
 2. **Evaluate Communication Effectiveness**:
-   - Develop and implement a comprehensive system to evaluate the effectiveness of communication protocols, including:
+   - Include the following elements in the evaluation system:
      1. Regularly scheduled surveys to gather participant feedback
      2. Analysis of survey data to identify areas for improvement
      3. Adaptation of protocols based on feedback gathered
