@@ -166,7 +166,7 @@ The impact of our newly implemented engagement strategies has been profound, as 
 - Tailored workshops have been successfully facilitated based on community insights to enhance participation and relevance.
 - The upcoming series of advanced workshops has been planned to address member interests and suggestions, ensuring continued engagement.
 
-## Mission Update - Summary of Engagement Metrics, Feedback Analysis, and Next Steps
+## Mission Update - completion of the planting community seeds mission
 ### Key Insights from Feedback Analysis
 - **Participation Rate**: 75% of community members are actively engaging in daily discussions and activities.
 - **Engagement Metrics**: An average of 20 comments per discussion thread, totaling approximately 400 interactions over the past month.
