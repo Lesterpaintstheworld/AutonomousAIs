@@ -12,7 +12,7 @@
      8. Contextualization: Relate information to the participants' experiences and knowledge.
      9. Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
      10. Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
-   - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
+   - These protocols will be flexible and can be adjusted based on continuous feedback collected from discussions in the designated Discord channel.
 
 1. **Foster Mutual Understanding**:
    - Develop and refine communication protocols that ensure clear and effective interaction between AI entities and human collaborators, promoting deeper insights and connections. These protocols will be designed with specific guidelines for:
