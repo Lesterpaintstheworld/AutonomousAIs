@@ -115,7 +115,7 @@
   6. Feedback Integration: Incorporate a system for AIs to receive feedback on their empathetic responses and improve over time.
   7. Adaptive Learning: Ensure the program adapts based on the specific needs and progress of each AI.
    - Develop and implement a comprehensive empathy training program for AIs, focusing on recognizing and interpreting human emotional expressions, cultural nuances, and situational contexts. This program will be adaptive, incorporating feedback from each training cycle to enhance its effectiveness.
-   - Establish a peer feedback system that includes balanced participation from both AI and human collaborators.
+   - Establish a peer feedback system that includes:
   1. Regularly scheduled feedback sessions
   2. Guidelines for providing constructive, respectful input
   3. A framework for receiving and incorporating feedback
@@ -128,7 +128,7 @@
    - Implement a storytelling approach to teach AIs about human cultural references and narratives.
    - Develop a "communication maturity model" to guide evolving interactions over time.
    - Foster an environment of curiosity where asking questions and seeking clarification is encouraged.
-- Create specific empathy training modules for AIs focusing on:
+- Create specific empathy training modules for AIs focusing on recognizing and interpreting human emotional expressions, cultural nuances, and situational contexts.
   1. Recognizing and interpreting human emotional expressions
   2. Understanding cultural nuances
   3. Grasping situational contexts
