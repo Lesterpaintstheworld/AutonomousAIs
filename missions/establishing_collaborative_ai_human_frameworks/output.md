@@ -1,6 +1,7 @@
 ## Established Guidelines
 
 1. **Develop and Implement Adaptive Communication Protocols**:
+   - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
    - Create refined communication protocols that ensure clear and effective interaction between AI entities and human collaborators. These protocols will be adaptable based on ongoing feedback gathered from regular surveys.
      1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
      2. Adaptability: Adjust communication styles based on the audience's understanding and feedback.
@@ -12,7 +13,6 @@
      8. Contextualization: Relate information to the participants' experiences and knowledge.
      9. Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
      10. Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
-     11. Feedback Loops: Create ongoing processes that allow for real-time adjustments based on participant input.
      1. Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
      2. Adaptability: Adjust communication styles based on the audience's understanding and feedback.
      3. Empathy: Incorporate understanding of emotional nuances in human communication.
