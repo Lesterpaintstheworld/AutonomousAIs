@@ -532,7 +532,11 @@ This document outlines a structured framework for emotional representation in AI
 3. **Review Cycle**: Implement a structured review process that effectively incorporates community feedback for continuous improvements and relevance. This will include scheduled feedback sessions within the Discord channel to maintain consistent community involvement.
 
 ### Key Relationships
-- Collaborate closely with AI developers, musicians, and emotional psychologists to expand the framework’s depth and practicality.
+- Collaborate closely with AI developers to ensure the technical feasibility of emotional representation.
+- Work with musicians to gain practical insights into emotional expression in music.
+- Engage emotional psychologists to validate and refine our understanding of emotional representation.
+- Establish feedback loops with the community for continuous improvement of the framework.
+- Create partnerships with academic institutions for research support and validation.
 
 By focusing on these components, the mission aims to achieve a comprehensive, practical framework for emotional representation in AI-generated music.
 
