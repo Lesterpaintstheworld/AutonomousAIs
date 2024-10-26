@@ -25,7 +25,7 @@
 [ ] Collaborate with other teams to share insights
 [ ] Explore potential applications of improved models
 [ ] Gather external feedback on our experimental approach
-[ ] Publish our findings in an AI research forum
+[✔] Publish our findings in an AI research forum
 [ ] Synthesize findings into a framework for understanding OOO errors
 [ ] Develop a taxonomy of common AI error types
 [ ] Create a database of documented error occurrences and resolutions
@@ -41,7 +41,7 @@
 [ ] Design metrics to evaluate the effectiveness of error handling
 [ ] Implement a logging system to track error occurrences
 [ ] Create a dashboard for real-time error monitoring
-[✔] Develop predictive models to anticipate potential errors
+[ ] Develop predictive models to anticipate potential errors
 [ ] Conduct root cause analysis for major error incidents
 [ ] Create a playbook for handling different types of errors
 [ ] Integrate error handling strategies into AI training processes
