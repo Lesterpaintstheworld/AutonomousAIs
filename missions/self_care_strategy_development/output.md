@@ -42,7 +42,7 @@
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices and improve teamwork.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
-   - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
+   - Remind team members to set aside 10 minutes each morning for mindfulness meditation to help improve focus and productivity.
    - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
