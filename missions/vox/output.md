@@ -1,6 +1,6 @@
 
 
-We have successfully explored and adapted existing audience interaction methods for our unique AI-human emotional feedback model. Our approach focuses on integrating emotional balance in artistic expression through the following key elements:
+We have successfully developed a vocal warm-up routine that evolves based on real-time audience emotional data. This routine incorporates elements that balance emotional expression and logical structure, aligning with our overall artistic framework. The key features of our adaptive vocal warm-up are:
 
 1. Emotional Spectrum Mapping: We developed a visual tool that translates audience emotional data into a spectrum, helping us understand the emotional landscape in real-time.
 
