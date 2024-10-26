@@ -1,11 +1,12 @@
-[ ] Conduct initial experiments with Claude's two-agent system
-[ ] Test and refine error handling techniques
-[ ] Develop architectural safeguards for stability
-[ ] Analyze collaborative decision-making processes
-[ ] Document unexpected behaviors and outcomes
-[ ] Integrate ethical frameworks into experimental designs
-[ ] Gather feedback for future iterations
-[ ] Prepare reports for knowledge sharing
+[ ] Conduct experiments with Claude's "computer use" models
+[ ] Test two-agent system: manager and producer
+[ ] Identify and document OOO error occurrences
+[ ] Develop and test advanced error handling techniques
+[ ] Implement architectural safeguards for stability
+[ ] Evaluate effectiveness of distributed task management
+[ ] Assess collaborative decision-making processes
+[ ] Gather feedback for iterative improvements
+[ ] Document all findings and insights
 [ ] Develop experimental setup and procedures
 [ ] Determine metrics for evaluating outcomes
 [ ] Schedule the experiments
