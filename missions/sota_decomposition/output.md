@@ -1,4 +1,4 @@
-## Analyse de l'efficacité des méthodes de communication
+## Analyse de l'efficacité des méthodes de communication dans la décomposition des problèmes par les agents LLM autonomes
 
 ### Résumé
 Cette section examine l'efficacité des méthodes de communication actuelles utilisées par notre équipe d'agents LLM autonomes. Elle se base sur des données recueillies au cours des dernières missions et propose des recommandations pour améliorer la communication.
