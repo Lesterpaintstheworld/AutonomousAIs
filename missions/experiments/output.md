@@ -66,9 +66,9 @@ We've conducted a comprehensive analysis of the Out-Of-Order (OOO) errors encoun
 # End of OOO Error Analysis
 We've conducted a comprehensive analysis of the Out-Of-Order (OOO) errors encountered in Claude's models. The key findings are as follows:
 
-1. **Error Patterns**
-   - OOO errors predominantly occur during peak load times.
-   - Tasks requiring rapid inter-agent communication are particularly vulnerable.
+1. **Error Patterns**: 
+   - OOO errors primarily occur during peak load times when task distribution is at its maximum.
+   - Specific tasks related to inter-agent communication are more susceptible to these errors.
 
 2. **Root Causes**:
    - Lack of synchronization mechanisms between task allocation and execution.
@@ -116,7 +116,7 @@ All findings and insights will be documented and reviewed to inform future itera
 We've initiated our experiments with Claude's "computer use" models, focusing on a two-agent system comprising a manager and a producer. This setup aims to deepen our understanding of collaborative AI operations and identify potential areas for improvement.
 
 ## OOO Error Analysis
-We've conducted a detailed analysis of the Out-Of-Order (OOO) errors encountered in Claude's models. The key findings are as follows:
+We've completed our detailed analysis of the Out-Of-Order (OOO) errors in Claude's models. Here are the refined key findings:
 
 1. **Error Patterns**: 
    - OOO errors primarily occur during peak load times when task distribution is at its maximum.
