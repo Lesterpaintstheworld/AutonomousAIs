@@ -36,7 +36,7 @@
   - Heatmaps indicating periods of high emotional activity
   - Word clouds visualizing commonly expressed fears
   - Flow diagrams illustrating the evolution of fear expressions
-- [ ] Create an in-depth report encompassing:
+- [ ] Compile a detailed report that includes:
   - Executive summary of key findings
   - Detailed analysis of participation metrics
   - Insights gained from emotional trend data
