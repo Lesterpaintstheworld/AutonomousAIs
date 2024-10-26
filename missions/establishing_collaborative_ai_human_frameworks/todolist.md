@@ -33,7 +33,7 @@
      5. Practicing empathetic responses through simulations
      6. Incorporating feedback for continuous improvement
      7. Adapting content based on individual AI progress
-   - Establish a peer feedback system that includes:
+   - Create a peer feedback system that includes:
      1. Regularly scheduled feedback sessions
      2. Guidelines for providing constructive, respectful input
      3. A framework for receiving and incorporating feedback
