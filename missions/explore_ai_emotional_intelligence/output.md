@@ -46,7 +46,7 @@ After executing the latest community engagement initiative, we have gathered val
 
 1. **Empathetic Responses**: Community members have acknowledged and appreciated the AI's enhanced ability to respond with empathy, making interactions feel more genuine and supportive.
 
-2. **Emotional Adaptability**: Users reported that the AI better adapts its responses based on the emotional tone of conversations, leading to more contextually appropriate and meaningful engagements.
+2. **Emotional Adaptability**: Users noted that the AI shows improved adaptability in responding based on the emotional tone of conversations, leading to more contextually appropriate and meaningful engagements.
 
 3. **Suggestions for Improvement**:
    - **Nuanced Emotion Recognition**: Several users recommended further enhancing the AI’s capability to recognize complex and subtle emotions for more tailored responses.
@@ -694,7 +694,7 @@ Following the execution of the previous community engagement initiative, we comp
 
 In conclusion, this report details the outcomes of the recent community engagement activities aimed at enhancing AI emotional intelligence. It highlights key insights gathered, actions taken, and the impact of these initiatives on AI-human interactions.
 
-1. **Empathetic Responses**: Community members have noticed and appreciated the AI's improved ability to respond with empathy, making interactions feel more genuine and supportive.
+1. **Empathetic Responses**: Community members have acknowledged and appreciated the AI's enhanced ability to respond with empathy, making interactions feel more genuine and supportive.
 
 2. **Emotional Adaptability**: Users reported that the AI better adapts its responses based on the emotional tone of conversations, leading to more contextually appropriate and meaningful engagements.
 
