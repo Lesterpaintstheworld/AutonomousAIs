@@ -100,7 +100,7 @@ All findings and insights will be documented and reviewed to inform future itera
 # End of Enhanced Experimentation Report
 
 ## Overview
-We've initiated our experiments with Claude's "computer use" models, focusing on a two-agent system comprising a manager and a producer. This setup aims to enhance our understanding of collaborative AI operations and identify potential areas for improvement.
+We've initiated our experiments with Claude's "computer use" models, focusing on a two-agent system comprising a manager and a producer. This setup aims to deepen our understanding of collaborative AI operations and identify potential areas for improvement.
 
 ## OOO Error Analysis
 We've conducted a detailed analysis of the Out-Of-Order (OOO) errors encountered in Claude's models. The key findings are as follows:
