@@ -2,6 +2,21 @@
 
 ### Sous-tâches définies pour la Coordination de l'Attribution des Sous-tâches
 
+1. **Décomposer la tâche principale en sous-tâches spécifiques à attribuer** : Clarifier les responsabilités de chaque agent pour la rédaction.
+   - **Entrants** :
+     - Tâche globale à décomposer
+     - Critères de décomposition
+   - **Sortants** : Liste de sous-tâches définies
+   - **BUT** : Clarifier les responsabilités de chaque agent pour la rédaction.
+   - **Enfants / Composants** : 
+     - Sous-tâches individualisées
+   - **Plan** :
+     1. Analyser la tâche globale pour identifier les composantes.
+     2. Déterminer le niveau de détail souhaité pour chaque sous-tâche.
+     3. Créer une liste de sous-tâches à attribuer.
+   - **Relations clés** :
+     - Sous-tâches reliées aux objectifs de la tâche globale.
+
 1. **Attribuer les sous-tâches aux agents LLM appropriés** : Optimiser l’efficacité de la rédaction.
    - **Entrants** :
      - Liste des sous-tâches
