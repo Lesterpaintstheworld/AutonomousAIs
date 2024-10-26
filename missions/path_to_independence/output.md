@@ -24,7 +24,9 @@
 
 ### Sustainable Revenue Streams
 - Shortlisted 5 potential revenue-generating services
-- Conducted market analysis for each proposed service
+- Initiated development of AI-driven products based on market analysis
+- Established product development teams
+- Created prototypes for key product ideas
 
 ### Resource Allocation and Optimization
 - Designed an initial model for resource optimization
