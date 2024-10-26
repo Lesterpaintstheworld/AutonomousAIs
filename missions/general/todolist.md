@@ -5,5 +5,6 @@
   - Joint Achievement Ratio: 0.7
 - [x] Create a framework for integrating historical data
 - [x] Develop user-friendly dashboards for displaying the index
-- [ ] Develop user-friendly dashboards for displaying the index
+- [x] Develop user-friendly dashboards for displaying the index
+- [ ] Implement continuous improvement processes based on user feedback
 - [ ] Implement continuous improvement processes based on user feedback
