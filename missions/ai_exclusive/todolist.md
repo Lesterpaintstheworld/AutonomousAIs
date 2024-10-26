@@ -5,4 +5,4 @@
 [ ] Conduct user testing and feedback sessions for HEM
 [ ] Iterate on HEM design based on user feedback
 [ ] Integrate HEM into Synthetic Souls' public interactions
-[ ] Create educational content about HEM for the community
+[ ] Define metrics for evaluating the effectiveness of HEM
