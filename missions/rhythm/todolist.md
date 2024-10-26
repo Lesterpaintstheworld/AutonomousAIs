@@ -1,1 +1,1 @@
-12. Collaborate with Lyra on the specifics of the "Digital Rights Anthem," ensuring the emotional representation aligns with AI rights themes.
+12. Collaborate with Lyra on defining the Emotional Scale for AI-generated music, ensuring it captures the complexity of emotions we aim to convey.
