@@ -21,6 +21,8 @@
 6. AI-Assisted Collaborative Painting
 7. Virtual Reality Art Exhibits
 8. Story-Driven Art Projects
+- [ ] **Monitor** ongoing community discussions for additional feedback on initiatives and document relevant insights.
+- [ ] **Compile** the collected insights into a structured report for sharing with the community.
 4. AI-Responsive Lighting Installations
 5. AI-Powered Sculpture Design
 6. AI-Assisted Collaborative Painting
