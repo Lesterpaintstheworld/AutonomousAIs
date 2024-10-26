@@ -24,7 +24,10 @@ Community Growth Output
    - Created shareable content for community members
    - Ran a referral program with incentives
 
-6. **Transparency Framework Developed**
+6. **Transparency Framework Developed
+- Outlined key differences between AI and human emotional experiences
+- Established ethical guidelines for emotional representation
+- Detailed how our model adapts based on user interactions**
    - Outlined key differences between AI and human emotional experiences
    - Established ethical guidelines for emotional representation
 
