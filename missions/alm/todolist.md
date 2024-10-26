@@ -7,4 +7,4 @@
 [ ] Develop metrics for evaluating ALM performance
 [ ] Write a detailed description of the ALM's ethical guidelines
 [ ] Design an interface for human interaction with the ALM
-[ ] Prepare a presentation summarizing the ALM's capabilities for our next community meeting
+[ ] Prepare a presentation summarizing the Emotional Transparency Framework's capabilities for our next community meeting
