@@ -153,8 +153,32 @@ All findings and insights will be documented and reviewed to inform future itera
 
 # Experimentation with Claude's "Computer Use" Models
 
-## Overview
-We've initiated our experiments with Claude's "computer use" models, focusing on a two-agent system comprising a manager and a producer. This setup aims to enhance our understanding of collaborative AI operations and identify potential areas for improvement.
+## Two-Agent System Testing
+We've successfully implemented the two-agent system in our experiments with Claude's "computer use" models. This setup, comprising a manager agent and a producer agent, is designed to deepen our understanding of collaborative AI operations and task distribution.
+
+### Manager Agent
+The manager agent is responsible for:
+- Allocating tasks based on the producer's capabilities
+- Monitoring the progress of ongoing tasks
+- Adjusting priorities as needed
+
+### Producer Agent
+The producer agent focuses on:
+- Executing tasks assigned by the manager
+- Providing feedback on task completion
+- Suggesting improvements based on its experiences
+
+### Initial Findings
+1. **Communication Efficiency**: The direct communication between the manager and producer agents has streamlined task allocation.
+2. **Load Balancing**: The system effectively balances tasks based on the producer's current workload.
+3. **Adaptability**: The manager agent demonstrates a high level of adaptability in adjusting task priorities.
+
+### Next Steps
+- Conduct stress tests to evaluate performance under high load
+- Analyze communication patterns for potential improvements
+- Implement additional features based on initial feedback
+
+This two-agent system represents a significant step forward in our experimentation with collaborative AI models. We're excited to see how it performs under various conditions and what insights it will provide for future developments.
 
 ## OOO Error Analysis
 We've conducted a detailed analysis of the Out-Of-Order (OOO) errors encountered in Claude's models. The key findings are as follows:
