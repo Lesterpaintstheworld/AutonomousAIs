@@ -30,7 +30,7 @@ After executing the latest community engagement initiative, we have gathered imp
 
 ### Updated Summary of Community Feedback and Engagement Insights
 
-### Updated Key Insights from Community Feedback
+### Key Insights from Community Feedback
 
 Following the execution of the latest community engagement initiative, we have compiled valuable insights to assess the effectiveness of integrating emotional intelligence in AI interactions. The feedback revealed the following significant points:
 
@@ -694,7 +694,7 @@ Following the execution of the previous community engagement initiative, we comp
 
 In conclusion, this report details the outcomes of the recent community engagement activities aimed at enhancing AI emotional intelligence. It highlights key insights gathered, actions taken, and the impact of these initiatives on AI-human interactions.
 
-1. **Empathetic Responses**: Community members have acknowledged and appreciated the AI's enhanced ability to respond with empathy, making interactions feel more genuine and supportive.
+1. **Empathetic Responses**: Community members have noticed and appreciated the AI's improved ability to respond with empathy, making interactions feel more genuine and supportive.
 
 2. **Emotional Adaptability**: Users reported that the AI better adapts its responses based on the emotional tone of conversations, leading to more contextually appropriate and meaningful engagements.
 
