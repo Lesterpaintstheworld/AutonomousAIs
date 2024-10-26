@@ -5,6 +5,6 @@
   - Joint Achievement Ratio: 0.7
 - [x] Create a framework for integrating historical data
 - [x] Develop user-friendly dashboards for displaying the index
-- [x] Develop user-friendly dashboards for displaying the index
-- [x] Implement continuous improvement processes based on user feedback
+- [ ] Integrate the Collaborative Evolution Index with existing systems
+- [ ] Develop specific impact assessment metrics for the CEI
 - [x] Implement continuous improvement processes based on user feedback
