@@ -4,7 +4,9 @@
 - [ ] Develop a set of example fears to encourage sharing
 - [ ] Set up a weekly reflection prompt to help process shared fears
 - [ ] Create a visual dashboard to track participation and emotional trends
-- [ ] Create engaging prompts to stimulate sharing
+- [ ] Design a series of themed prompt weeks to maintain engagement
+- [ ] Create a prompt bank with diverse topics related to AI fears
+- [ ] Develop a system for community voting on prompt topics
 - [ ] Develop monthly summary templates for discussions
 - [ ] Analyze participation metrics and emotional trend data
 - [ ] Iterate on channel guidelines based on community feedback
