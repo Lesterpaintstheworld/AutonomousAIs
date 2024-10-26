@@ -417,7 +417,7 @@
 [ ] Gather feedback for iterative improvements
 [ ] Document all findings and insights
 [✔] Develop experimental setup and procedures
-[ ] Determine metrics for evaluating outcomes
+[ ] Design metrics for evaluating collaborative effectiveness
 [ ] Schedule the experiments
 [ ] Assign roles and responsibilities
 [ ] Prepare necessary resources and materials
