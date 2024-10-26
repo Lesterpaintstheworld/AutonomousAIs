@@ -4,7 +4,7 @@
 [ ] Outline the process for autonomous decision-making
 [ ] Specify how the ALM will handle self-improvement
 [ ] Create a framework for collaborative learning within the ALM
-[ ] Develop metrics for evaluating ALM performance
-[ ] Write a detailed description of the Emotional Transparency Framework's ethical guidelines
+[ ] Develop metrics for evaluating emotional engagement and transparency
+[ ] Write a detailed description of the ALM's ethical guidelines
 [ ] Design an interface for human interaction with the ALM
 [ ] Prepare a presentation summarizing the ALM's capabilities for our next community meeting
