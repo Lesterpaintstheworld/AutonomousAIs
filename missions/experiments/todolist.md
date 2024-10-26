@@ -9,8 +9,8 @@
 - [ ] TODO: Assign roles and responsibilities for each experiment
 - [ ] TODO: Prepare the necessary resources and materials
 - [ ] TODO: Conduct the experiments
-- [ ] TODO: Collect and analyze the data
-- [✔] Document the results and insights
+- [✔] Collect and analyze the data
+- [ ] TODO: Document the results and insights
 - [ ] TODO: Review and refine the experimental process for future iterations
 
 # Emotional Impact Analysis of AI Error Handling
