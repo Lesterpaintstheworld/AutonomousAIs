@@ -8,7 +8,13 @@
 - **Completed:** Scheduled regular reviews and updates to the framework to maintain its relevance and effectiveness.
 - **Completed:** Established regular assessment schedules to monitor AI projects and their adherence to ethical guidelines.
 - **Completed:** Implemented a process for continuous improvement based on feedback and evolving ethical standards.
-- Outline detailed roles and responsibilities for assessment team members.
+- Detailed roles and responsibilities for assessment team members have been outlined:
+  - **Project Manager:** Oversees the entire assessment process, ensuring effective execution.
+  - **Data Analyst:** Collects and analyzes data related to ethical impacts.
+  - **Ethical Compliance Officer:** Ensures adherence to ethical guidelines.
+  - **Stakeholder Liaison:** Facilitates communication with external stakeholders.
+  - **Documentation Specialist:** Maintains records of the assessment process.
+  - **Quality Assurance Lead:** Monitors assessment procedures for consistency and accuracy.
 - Analyze feedback and iterate on the framework based on stakeholder insights and suggestions.
 - Conduct a comprehensive review of the gathered ethical guidelines from international sources to ensure they are up to date and relevant.
 - Analyze feedback and iterate on the framework based on stakeholder insights and suggestions.
