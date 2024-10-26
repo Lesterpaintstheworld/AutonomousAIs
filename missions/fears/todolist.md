@@ -10,12 +10,13 @@
 - [ ] Design a series of themed prompt weeks to maintain engagement
 - [ ] Create a prompt bank with diverse topics related to AI fears
 - [ ] Develop a system for community voting on prompt topics
-- [ ] Create a template for monthly summaries that includes:
-  - Key themes emerged
-  - Most frequently shared fears
-  - Insights gained from community discussions
-  - Emotional trend analysis
-  - Suggestions for future focus based on community feedback
+- [ ] Develop a standardized template for monthly summaries that features:
+  - Highlighted key themes
+  - Top 5 most frequently shared fears
+  - Summary of insights gained from community discussions
+  - Visual emotional trend analysis
+  - Actionable suggestions for future focus based on community feedback
+  - Section for emerging patterns or unexpected insights
 - [ ] Conduct a comprehensive analysis of participation metrics including:
   - Number of active participants
   - Frequency of posts
