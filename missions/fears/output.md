@@ -45,7 +45,9 @@
   - Bar charts comparing the frequency of different fears
   - Heatmaps indicating periods of high emotional activity
   - Word clouds visualizing commonly expressed fears
-  - Flow diagrams illustrating the evolution of fear expressions have been developed.
+  - Flow diagrams illustrating the evolution of fear expressions
+  - Predictive trend lines overlaying existing data
+  - Confidence interval shading for forecasted values have been developed.
 - A comprehensive report including:
   - Executive summary of key findings
   - Detailed analysis of participation metrics
