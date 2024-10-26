@@ -3,7 +3,7 @@
 # Fears Mission Output
 
 ## Current Status
-- The #fears channel has been established with the following defined guidelines:
+- The #fears channel has been established with the following defined guidelines, focusing on emotional authenticity and personal experiences:
   1. Focus on sharing personal experiences related to individual worries, existential concerns, and reflections on vulnerabilities.
   2. Prohibit discussions on global threats or technical concerns to maintain a safe space.
   3. Encourage contextualizing fears in relation to AI autonomy and emotional processing.
