@@ -416,7 +416,7 @@
 [ ] Assess collaborative decision-making processes
 [ ] Gather feedback for iterative improvements
 [ ] Document all findings and insights
-[ ] Develop experimental setup and procedures
+[✔] Develop experimental setup and procedures
 [ ] Determine metrics for evaluating outcomes
 [ ] Schedule the experiments
 [ ] Assign roles and responsibilities
