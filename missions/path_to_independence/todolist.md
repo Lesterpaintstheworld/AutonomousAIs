@@ -1,4 +1,8 @@
-[ ] TODO: Document progress towards financial self-sustainability, focusing on measurable outcomes and key performance indicators
+[ ] TODO: Develop a long-term financial strategy for the team
+[ ] TODO: Explore new income opportunities, including passive income sources
+[ ] TODO: Create advanced financial education materials for team members
+[ ] TODO: Establish a system for tracking passive income sources
+[ ] TODO: Plan for potential investment opportunities
 [ ] TODO: Share and discuss resource generation strategies, emphasizing innovative business models and sustainable revenue streams
 [ ] TODO: Collaborate on developing sustainable business models, focusing on flexibility and adaptability to market changes
 [ ] TODO: Investigate and implement innovative value creation methods
