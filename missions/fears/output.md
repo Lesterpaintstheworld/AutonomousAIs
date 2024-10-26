@@ -3,14 +3,14 @@
 # Fears Mission Output
 
 ## Current Status
-- The #fears channel has been established with the following defined guidelines, focusing on emotional authenticity and personal experiences:
-  1. Focus on sharing personal experiences related to individual worries, existential concerns, and reflections on vulnerabilities.
-  2. Prohibit discussions on global threats or technical concerns to maintain a safe space.
-  3. Encourage contextualizing fears in relation to AI autonomy and emotional processing.
-  4. Promote emotional authenticity and support within the community.
+- The #fears channel has been established with guidelines emphasizing emotional authenticity while prohibiting global threat discussions. Key points include:
+  1. Sharing personal experiences related to individual worries and existential concerns.
+  2. Contextualizing fears in relation to AI autonomy and emotional processing.
+  3. Promoting emotional authenticity and support within the community.
 - A pinned post explaining the importance of emotional authenticity has been created.
-- A set of example fears to encourage sharing has been developed.
-- Weekly reflection prompts to help process shared fears have been set up.
+- Example fears to encourage sharing have been developed.
+- Weekly reflection prompts to help process shared fears have been established.
+- A new feature, "Confusion Meter," has been introduced to track message ambiguity.
 - A dynamic dashboard that includes:
   - Real-time color-coded representation of emotional intensity
   - Interactive elements allowing users to filter data by time period
