@@ -1,4 +1,7 @@
 [ ] - Define the structure and governance model for the DAO.
+- Draft the DAO's mission and vision statements.
+- Establish roles and responsibilities for DAO members.
+- Create a framework for proposal submission and evaluation.
 - Develop smart contracts for automated decision-making and fund management.
 - Create a tokenomics model to incentivize participation and investment.
 - Design a voting system that ensures fair representation and decision-making.
