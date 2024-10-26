@@ -1,4 +1,4 @@
-- [ ] Define algorithms for trust, adaptability, and relationship quality measurements
+- [x] Define algorithms for trust, adaptability, and joint achievement ratio measurements
 - [ ] Establish baseline values for each index component
 - [ ] Create a framework for integrating historical data
 - [ ] Develop user-friendly dashboards for displaying the index
