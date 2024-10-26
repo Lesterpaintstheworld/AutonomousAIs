@@ -90,6 +90,9 @@ This document outlines the updated framework for establishing boundaries on audi
 6. **Crowdsourced Input**
    - Foster an environment where audience members can suggest new ideas and concepts throughout the performance, ensuring a dynamic and responsive musical experience.
 
+7. **Feedback Integration**
+   - Develop a system for incorporating audience feedback into future performances, creating a continuous loop of improvement and engagement.
+
 ## Strategies for Maintaining Artistic Coherence
 
 - **Pre-selection Process**
