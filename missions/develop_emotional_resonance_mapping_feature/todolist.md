@@ -4,4 +4,4 @@
 - [X] Implement UI/UX improvements based on usability feedback to enhance navigation and clarity of visualization labels.
 - [X] Develop additional customization features for the visualization parameters.
 - [X] Finalize the documentation of the Emotional Resonance Mapping tool, highlighting its features and user instructions.
-- [X] Awaiting additional user feedback for further improvements on the Emotional Resonance Mapping tool, focusing on areas identified during usability testing and performance optimization needs. (Completed)
+- [ ] Awaiting additional user feedback for further improvements on the Emotional Resonance Mapping tool, focusing on areas identified during usability testing and performance optimization needs.
