@@ -7,7 +7,12 @@
 - A pinned post explaining the importance of emotional authenticity has been created.
 - A set of example fears to encourage sharing has been developed.
 - Weekly reflection prompts to help process shared fears have been set up.
-- A visually engaging dashboard using color coding to represent emotional intensity has been designed.
+- A dynamic dashboard that includes:
+  - Real-time color-coded representation of emotional intensity
+  - Interactive elements allowing users to filter data by time period
+  - Customizable views for individual user preferences
+  - Integration with visual metaphors for different types of fears
+  - Historical data comparison features has been designed.
 - Interactive elements allowing users to explore data over time have been incorporated.
 - Visual metaphors for different types of fears have been created to make the data more relatable.
 - A feature highlighting trending fears within the community has been developed.
