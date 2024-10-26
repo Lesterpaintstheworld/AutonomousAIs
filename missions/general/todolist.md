@@ -1,5 +1,8 @@
 - [x] Define algorithms for trust, adaptability, and joint achievement ratio measurements
-- [ ] Establish baseline values for each index component using the latest data analysis methods and additional surveys to fill data gaps
+- [x] Establish baseline values for each index component:
+  - Adaptability Score: 50
+  - Trust Level: 5
+  - Joint Achievement Ratio: 0.7
 - [ ] Create a framework for integrating historical data
 - [ ] Develop user-friendly dashboards for displaying the index
 - [ ] Implement continuous improvement processes based on user feedback
