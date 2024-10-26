@@ -67,6 +67,9 @@ This document outlines the updated framework for establishing boundaries on audi
 5. **Feedback Acceptance**
    - While all contributions are welcome, the final decision on their implementation rests with the performance team. Audience members are encouraged to respect these decisions to preserve the integrity of the artistic vision.
 
+6. **Ethical Considerations**
+   - All audience contributions will be evaluated with ethical considerations in mind, ensuring that no input compromises the integrity or safety of the performance.
+
 ## Feedback Mechanism
 
 1. **Live Polls**
