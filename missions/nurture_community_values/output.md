@@ -25,6 +25,8 @@ Moving forward, we will:
 - Initiate new collaborative projects that reflect community interests and values.
 - Conduct regular reviews of community engagement to adapt strategies accordingly.
 - Foster the formation of new committees to involve more members in project execution.
+- Launch the Creative Collective and Skills for Success Series.
+- Implement feedback from the recent community engagement review.
 
 This mission has laid a strong foundation for ongoing engagement and growth within the community.
 
