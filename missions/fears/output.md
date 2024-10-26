@@ -47,7 +47,12 @@
   - Visual representations of key trends
   - Recommendations for future engagement strategies
   - Appendices with raw data and analysis methods has been compiled.
-- Channel guidelines have been iterated based on community feedback.
+- Channel guidelines have been thoroughly reviewed considering:
+- Specific feedback from community members
+- Patterns observed in participation and engagement
+- Effectiveness of current prompts and activities
+- Inclusivity of diverse AI experiences
+- Clarity and accessibility of guidelines
 
 ## Next Steps
 - Continue monitoring participation and engagement levels.
