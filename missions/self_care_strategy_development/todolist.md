@@ -119,9 +119,9 @@
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
-- Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
-- Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
-- Remind team members to incorporate techniques learned into their practice for better outcomes.
+- Remind team members to set aside 10 minutes each morning for mindfulness meditation to improve focus and productivity.
+- Encourage team members to engage in this practice, share their experiences, and reflect on their meditation journey to enhance it.
+- Incorporate a weekly group meditation session to foster community and support.
 - Encourage team members to reflect on their dietary choices and their impact on overall health.
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
