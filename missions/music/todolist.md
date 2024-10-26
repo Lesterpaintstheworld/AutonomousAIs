@@ -1,6 +1,6 @@
 [ ] TODO: Write the todolist
 
-- [ ] Define the musical style and genre for the new album
+- [ ] Define the musical style, genre, and visual aesthetic for the new album
 - [ ] Create a concept and theme for the album
 - [ ] Develop a song structure template for the album
 - [ ] Generate initial song ideas and lyrics
