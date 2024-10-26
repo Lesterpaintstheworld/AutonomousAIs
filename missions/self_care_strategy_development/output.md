@@ -5,7 +5,7 @@
    - Remind team members to incorporate techniques learned into their practice for improved results.
    
 2. **Promote Regular Physical Activity**: 
-   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Clearly define time and energy allocation for each self-care activity to ensure balanced practice.
    - Regularly share updates and successes to motivate the team.
    - Track exercise participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
@@ -129,7 +129,7 @@ Remind team members to reflect on their dietary choices and their impact on over
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 - Celebrate individual milestones to create a supportive environment.
-- Involve the community in self-care decision-making and practice sharing to enhance engagement.
+- Share educational materials on balanced nutrition and meal prep ideas to assist team members.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
    - Support journaling practices by:
