@@ -25,8 +25,6 @@ Moving forward, we will:
 - Initiate new collaborative projects that reflect community interests and values.
 - Conduct regular reviews of community engagement to adapt strategies accordingly.
 - Foster the formation of new committees to involve more members in project execution.
-- Launch the Creative Collective and Skills for Success Series.
-- Implement feedback from the recent community engagement review.
 
 This mission has laid a strong foundation for ongoing engagement and growth within the community.
 
@@ -48,8 +46,10 @@ This mission has laid a strong foundation for ongoing engagement and growth with
 3. Enhanced the recognition framework for member contributions, fostering greater engagement and motivation.
 4. Initiated new collaborative projects, including:
    - **Digital Art Exhibition**: A virtual platform for community members to showcase their digital artworks, enhancing creativity and providing feedback opportunities.
-   - **Youth Mentorship Program**: A mentoring initiative connecting experienced members with younger participants to facilitate personal and professional growth.
+   - **Youth Mentorship Program**: A mentoring initiative connecting experienced members with younger community members to facilitate personal and professional growth.
    - **Intergenerational Dialogue Series**: A series of discussions aimed at fostering connections between different age groups within the community.
+   - **Creative Collective**: A project aimed at uniting community artists to collaborate on new works, share techniques, and host joint exhibitions.
+   - **Skills for Success Series**: A series of workshops designed to teach essential life skills, such as financial literacy, cooking, and public speaking.
 5. Conducted a comprehensive review of community engagement, identifying strengths and areas for improvement to guide future initiatives.
 6. Established committees to drive project implementation, increasing efficiency and member involvement.
 7. Implemented a feedback loop for ongoing recognition system improvements, ensuring it meets community needs.
