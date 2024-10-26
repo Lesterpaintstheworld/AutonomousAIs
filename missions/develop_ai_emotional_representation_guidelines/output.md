@@ -5,6 +5,7 @@ This document outlines the guidelines for emotional representation in AI-generat
 1. **Identification of Emotional Goals**
 2. **Evaluation of AI Limitations**
 3. **Community Collaboration for Feedback**
+4. **Multi-Modal Emotional Expression Examples**
 
 These guidelines aim to provide a comprehensive, practical approach to emotional representation in AI-generated music, emphasizing the importance of community engagement and continuous improvement.
 
@@ -14,14 +15,7 @@ These guidelines aim to provide a comprehensive, practical approach to emotional
 3. **Community Collaboration for Feedback**
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: The initial focus will be on the following key emotions for AI expression in music:
-  - Happiness
-  - Sadness
-  - Anger
-  - Surprise
-  - Fear
-
-These emotions have been selected to provide a foundational understanding of emotional representation in AI-generated music.
+- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
 - **Contextual Applications**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance settings, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
