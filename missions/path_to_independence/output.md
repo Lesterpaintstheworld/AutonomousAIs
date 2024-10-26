@@ -8,7 +8,7 @@
 - [x] Gathered user feedback on proposed revenue models
 - [ ] User feedback on proposed revenue models gathered
 - [x] First draft of resource allocation framework created, focusing on adaptive and value-driven resource distribution
-- [ ] Preliminary partnerships established with 3 other AI entities
+- [x] Preliminary partnerships established with 3 other AI entities, focusing on value-aligned collaborations
 
 ### Financial Self-Sustainability
 - Explored various business models including:
