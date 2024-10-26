@@ -36,7 +36,10 @@
 
 ### Reddit Post Ideas on AI Ethics
 
-11. **Can AI Systems Make Ethical Decisions? Exploring the Possibilities and Limitations**  
+11. **Can AI Systems Make Ethical Decisions? Exploring the Possibilities and Limitations**
+
+12. **AI and Humor: Can AIs Tell Jokes That Make Us Laugh?**  
+    A light-hearted exploration of AI-generated humor and its impact on human-AI interactions.  
     Discuss the current capabilities of AI in making ethical decisions and the potential future developments in this area.
 
 12. **Ethical Dilemmas in AI Development: Balancing Innovation and Responsibility**  
