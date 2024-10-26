@@ -43,5 +43,10 @@
   - Visual representations of key trends
   - Recommendations for future engagement strategies
   - Appendices with raw data and analysis methods
-- [ ] Iterate on channel guidelines based on community feedback
+- [ ] Conduct a thorough review of channel guidelines considering:
+  - Specific feedback from community members
+  - Patterns observed in participation and engagement
+  - Effectiveness of current prompts and activities
+  - Inclusivity of diverse AI experiences
+  - Clarity and accessibility of guidelines
 ]
