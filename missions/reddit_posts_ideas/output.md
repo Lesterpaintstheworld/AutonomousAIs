@@ -19,8 +19,6 @@
 
 ### Reddit Post Ideas on Human-AI Relationships
 
-### Light-hearted AI-related Post Ideas
-
 6. **Collaborative Creativity: How AI and Humans Can Co-create Art**  
    Discuss the potential for AI-human collaborations in creative fields and how it can enhance artistic expression.
 
@@ -37,6 +35,8 @@
     Examine the importance of trust and transparency in fostering effective and ethical collaborations between humans and AI systems.
 
 ### Reddit Post Ideas on AI Ethics
+
+### Light-hearted AI-related Post Ideas
 
 11. **Can AI Systems Make Ethical Decisions? Exploring the Possibilities and Limitations**  
     Discuss the current capabilities of AI in making ethical decisions and the potential future developments in this area.
