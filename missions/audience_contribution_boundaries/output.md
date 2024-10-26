@@ -4,7 +4,11 @@
 
 ## Introduction
 
-This document outlines the framework for establishing boundaries on audience contributions during live sessions of "Digital Noise." The objective is to ensure a balance between upholding the artistic vision and encouraging audience engagement by defining specific areas where audience input is welcome. This framework facilitates a dynamic interaction between performers and the audience, fostering a more immersive and collaborative live experience.
+This document outlines the updated framework for establishing boundaries on audience contributions during live sessions of "Digital Noise." The objective is to ensure a balance between upholding the artistic vision and encouraging audience engagement by defining specific areas where audience input is welcome. This framework facilitates a dynamic interaction between performers and the audience, fostering a more immersive and collaborative live experience.
+
+## Key Enhancements
+- **Continuous Improvement**: The framework will be regularly updated based on feedback from both performers and audience members.
+- **Adaptive Guidelines**: Guidelines for audience contributions will be refined after each session to better align with the artistic goals of "Digital Noise."
 
 ## Specific Areas for Audience Contribution
 
