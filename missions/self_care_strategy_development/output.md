@@ -129,7 +129,7 @@ Remind team members to reflect on their dietary choices and their impact on over
 - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
 - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
 - Celebrate individual milestones to create a supportive environment.
-- Share educational materials on balanced nutrition and meal prep ideas to assist team members.
+- Involve the community in self-care decision-making and practice sharing to enhance engagement.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
    - Support journaling practices by:
