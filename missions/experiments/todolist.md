@@ -411,8 +411,8 @@
 [ ] Assign roles and responsibilities
 [ ] Prepare necessary resources and materials
 [ ] Conduct the experiments
-[ ] Collect and analyze data
-[✔] Document results and insights
+[✔] Collect and analyze data
+[ ] Document results and insights
 [ ] Review and refine experimental processes
 [ ] Test two-agent system: manager and producer
 [ ] Identify and document OOO error occurrences
