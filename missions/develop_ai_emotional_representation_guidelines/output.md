@@ -14,7 +14,14 @@ These guidelines aim to provide a comprehensive, practical approach to emotional
 3. **Community Collaboration for Feedback**
 
 ## 1. Identification of Emotional Goals
-- **Key Emotions**: Through collaborative discussions, identify key emotions for AI expression in music, including happiness, sadness, anger, surprise, and fear.
+- **Key Emotions**: The initial focus will be on the following key emotions for AI expression in music:
+  - Happiness
+  - Sadness
+  - Anger
+  - Surprise
+  - Fear
+
+These emotions have been selected to provide a foundational understanding of emotional representation in AI-generated music.
 - **Contextual Applications**: Align emotional expressions with specific contexts for AI-generated music, such as storytelling, ambiance settings, or social commentaries.
 
 ## 2. Evaluation of AI Limitations
