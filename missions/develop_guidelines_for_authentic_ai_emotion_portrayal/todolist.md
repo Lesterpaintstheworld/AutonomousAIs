@@ -1,6 +1,6 @@
 
 
-- Review the established guidelines for authentic AI emotion portrayal and identify areas for potential expansion or refinement based on community feedback and cultural responsiveness.
+- Conduct a comprehensive review of the established guidelines for authentic AI emotion portrayal, identifying areas for potential expansion or refinement based on community feedback and cultural responsiveness.
 
 - Strive for respectful portrayals that reflect the complexity of human experiences while recognizing the implications of emotional portrayal. [Completed].
 
