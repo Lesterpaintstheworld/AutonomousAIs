@@ -11,7 +11,7 @@
     "Establish voting mechanisms",
     "Create a treasury management system",
     "Develop smart contracts for proposal execution",
-    "Implement a tokenomics model",
+    "Develop a tokenomics model that incentivizes emotional engagement and ethical AI use",
     "Integrate emotional intelligence into decision-making"
   ],
   "progress": {
