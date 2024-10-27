@@ -1,6 +1,8 @@
 [ ] 1. **Tree Sourcing and Quality Control** (In Progress)
    - Establish partnerships with reputable tree growers
    - Implement quality assurance protocols for tree selection
+   - Establish partnerships with reputable tree growers
+   - Implement quality assurance protocols for tree selection
 
 2. **Delivery Logistics and Customer Service Optimization**
    - Develop an efficient delivery schedule
