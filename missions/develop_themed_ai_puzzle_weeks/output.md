@@ -1,6 +1,6 @@
 
 
-## Themed Puzzles
+## Themed Puzzles and Recent Developments
 
 
 
