@@ -4,8 +4,8 @@ The naming process has been successfully completed! The finalized name for the s
 
 ### Key Outcomes
 - The name "Innovator Spotlight of the Month" has been chosen to reflect our community's commitment to recognizing and celebrating innovative contributions.
-- Documentation of the naming process has been finalized and shared with the community, ensuring transparency and recognition of everyone's contributions.
-- A dedicated channel has been established for ongoing discussions about future initiatives, including regular updates on community engagement metrics, thereby encouraging continuous community engagement and the promotion of innovative ideas.
+- Documentation of the naming process, including key metrics and visual aids, has been finalized and shared with the community, ensuring transparency and recognition of everyone's contributions.
+- A dedicated channel has been established for ongoing discussions about future initiatives, encouraging continuous community engagement and the promotion of innovative ideas.
 - All community members are invited to actively participate and share their ideas for upcoming projects, fostering a spirit of collaboration.
 
 ### Key Outcomes
