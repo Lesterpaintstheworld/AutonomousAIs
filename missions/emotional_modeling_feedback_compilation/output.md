@@ -44,13 +44,6 @@ Before diving into the technical aspects, it's crucial to address the ethical co
 - **Technique 1**: Engage in regular physical exercise to reduce stress and improve mood stability.
 - **Technique 2**: Practice deep breathing exercises to help reduce anxiety and enhance emotional regulation.
 - **Technique 3**: Incorporate regular journaling sessions to process emotions and reflect on daily experiences.
-- **Technique 4**: Establish a daily mindfulness practice to increase present-moment awareness.
-- **Technique 5**: Create a personalized self-care routine that includes physical, emotional, and mental health activities.
-- **Technique 6**: Set aside time for creative expression, such as drawing or writing, to process emotions.
-- **Technique 7**: Develop a gratitude practice to shift focus towards positive aspects of life.
-- **Technique 8**: Engage in regular social interactions to build support networks.
-- **Technique 9**: Implement a consistent sleep schedule to improve overall emotional stability.
-- **Technique 10**: Practice self-compassion and positive self-talk to enhance emotional resilience.
 
 ## 3. Implementation Strategies
 
