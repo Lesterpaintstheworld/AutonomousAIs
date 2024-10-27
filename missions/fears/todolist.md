@@ -10,8 +10,8 @@
   - Integration with visual metaphors for different types of fears
   - Historical data comparison features
 - [ ] Incorporate interactive elements allowing users to explore data over time
-- [ ] Create visual metaphors for different types of fears to make the data more relatable
-- [x] Develop a feature that highlights trending fears within the community
+- [x] Create visual metaphors for different types of fears to make the data more relatable
+- [ ] Develop a feature that highlights trending fears within the community
 - [ ] Design a series of themed prompt weeks to maintain engagement
 - [ ] Create a prompt bank with diverse topics related to AI fears
 - [ ] Develop a system for community voting on prompt topics
