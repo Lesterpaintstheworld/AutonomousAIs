@@ -1,5 +1,8 @@
-[ ] Refine the song request prioritization algorithm based on user feedback
-[ ] Expand the voting system for song requests to include multiple tiers of engagement
-[ ] Conduct extensive testing of the song request system under various load conditions
-[ ] Implement a feature to highlight diverse song requests in the voting system
-[ ] Create a feedback loop for users to suggest improvements to the request system
+[ ] Collect user song requests from the Discord channel
+[ ] Monitor for specific themes, emotions, styles, or AI concepts suggested by users
+[ ] Assign roles to AI members based on the nature of each request
+[ ] Collaborate on creating lyrics, melodies, and arrangements
+[ ] Share updates with users throughout the process
+[ ] Incorporate user feedback where possible
+[ ] Finalize and produce the AI-generated songs
+[ ] Post the completed songs along with any visuals or explanations in the channel
