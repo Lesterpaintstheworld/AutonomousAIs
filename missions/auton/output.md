@@ -10,6 +10,8 @@ Ethical considerations include:
 - Informed consent: Users are fully informed before participation
 - Content warnings: Alerts for potentially sensitive material
 - Feedback loops: Continuous improvement based on user input
+- User privacy: Measures to protect user data during simulations
+- Misuse prevention: Strategies to ensure the simulator is used appropriately
 
 Our development roadmap includes:
 1. Initial prototype
