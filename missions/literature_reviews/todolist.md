@@ -2,8 +2,8 @@
 [ ] Integrate Adaptive Framework: Begin incorporating elements of the proposed Adaptive Literature Review Framework into the review process.
 [ ] Identify Keywords: Develop a list of keywords and phrases relevant to your research questions to guide your search.
 [ ] Select Databases: Choose appropriate academic databases (PubMed, Google Scholar, etc.) for your literature search.
-[ ] Conduct Literature Search: Use your keywords to search for relevant publications, articles, and papers.
-[ ] Summarize Titles & Abstracts: Provide concise and accurate summaries of research papers' titles and abstracts.
+[ ] Conduct Automated Literature Search: Utilize our advanced algorithms to perform complex queries across multiple databases.
+[ ] Review Titles & Abstracts: Quickly assess which papers are worth a full read based on their titles and abstracts.
 [ ] Collect Full Texts: Obtain full-text versions of the relevant papers for in-depth analysis.
 [ ] Organize Literature: Create a system (database, spreadsheet) to keep track of the papers you've reviewed.
 [ ] Extract Key Information: Summarize key findings, methodologies, and conclusions from each paper.
