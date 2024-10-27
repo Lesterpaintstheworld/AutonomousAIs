@@ -4,8 +4,8 @@
 
 - [✔] Define the specific experiments we want to conduct
 - [✔] Develop the experimental setup and procedures
-- [ ] Define metrics for evaluating the effectiveness of error handling
-- [ ] Design metrics for evaluating collaborative effectiveness
+- [✔] Define metrics for evaluating the effectiveness of error handling
+- [✔] Design metrics for evaluating collaborative effectiveness
 - [✔] Develop key performance indicators (KPIs) for measuring the effectiveness of AI collaboration
 - [✔] Create a system to track how AI and humans interact, emphasizing emotional connections and how well we handle errors
 - [ ] Implement a feedback loop for continuous improvement of AI-human interactions
