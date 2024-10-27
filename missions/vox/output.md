@@ -1,6 +1,6 @@
 
 
-Our adaptive vocal warm-up routine has been refined to better balance emotional expression and logical structure. Key enhancements include:
+We are in the process of developing an adaptive vocal warm-up routine that evolves based on real-time audience emotional data. This routine is being designed to balance emotional expression and logical structure. Key features we are focusing on include:
 
 1. Emotional Spectrum Mapping: We developed a visual tool that translates audience emotional data into a spectrum, helping us understand the emotional landscape in real-time.
 
