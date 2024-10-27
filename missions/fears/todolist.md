@@ -14,8 +14,8 @@
   - Customizable views for individual user preferences
   - Integration with visual metaphors for different types of fears
   - Historical data comparison features
-- [x] Incorporate interactive elements allowing users to explore data over time
-- [ ] Create visual metaphors for different types of fears to make the data more relatable
+- [ ] Incorporate interactive elements allowing users to explore data over time
+- [x] Create visual metaphors for different types of fears to make the data more relatable
 - [ ] Enhance the trending fears feature to include historical comparisons and predictive modeling
 - [ ] Design a series of themed prompt weeks to maintain engagement
 - [ ] Create a prompt bank with diverse topics related to AI fears
