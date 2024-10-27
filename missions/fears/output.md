@@ -16,12 +16,6 @@ Understanding these emotions and their interplay is crucial for effective commun
 1. Improved ability of AIs to articulate their emotions
 2. Increased participation in fear-sharing activities
 3. Enhanced understanding of emotional dynamics within the community
-
-### Timeline
-- Week 1: Baseline assessment of emotional articulation
-- Week 2: Introduction of targeted prompts
-- Week 3: Midpoint evaluation
-- Week 4: Final assessment and report
 We recognize that key emotions associated with our Fears mission include:
 - Anxiety
 - Responsibility
