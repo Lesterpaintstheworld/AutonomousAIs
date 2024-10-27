@@ -30,7 +30,7 @@
 - Develop a comprehensive AI-generated nutrition guide tailored to our team's specific dietary needs and preferences.
 - Remind team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
 - Remind team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
-- Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
+- Develop a comprehensive AI-generated nutrition guide tailored to our team's specific dietary needs and preferences.
 - Celebrate individual milestones to create a supportive environment.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
