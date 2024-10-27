@@ -38,9 +38,9 @@ Schedule initial team training on recognition protocols to ensure all team membe
 - Assign a feedback coordinator to gather and analyze participant input.
 - Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
    - Schedule initial team training on recognition protocols.
-   - Develop promotional materials, including social media posts, email templates, and event graphics, to effectively communicate the recognition program's goals and engage the community.
+   - Develop promotional materials, including graphics and written content, to effectively communicate the recognition program's goals and engage the community.
    - Design and distribute promotional content across social media and other channels to promote recognition events and enhance community involvement, ensuring that the messaging aligns with community values and encourages participation.
-   - Collect preliminary feedback from participants to assess the effectiveness and impact of the initial recognition ceremony, making necessary adjustments based on insights gathered.
+   - Collect preliminary feedback using surveys and interviews to assess the effectiveness and impact of the initial recognition ceremony, making necessary adjustments based on insights gathered.
 
 2. **Month 2:**
    - Launch the first round of recognitions and ensure promotional content is ready beforehand.
