@@ -1,8 +1,8 @@
 [
 - [x] Establish the #fears channel with defined guidelines
 - [ ] Create a pinned post explaining the importance of emotional authenticity
-- [ ] Develop a set of example fears to encourage sharing
-- [x] Set up a weekly reflection prompt to help process shared fears
+- [x] Develop a set of example fears to encourage sharing
+- [ ] Set up a weekly reflection prompt to help process shared fears
 - [ ] Develop a dynamic dashboard that includes:
   - Real-time color-coded representation of emotional intensity
   - Interactive elements allowing users to filter data by time period
