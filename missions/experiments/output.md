@@ -31,7 +31,7 @@
 [ ] Publish our findings in an AI research forum
 [ ] Synthesize findings into a framework for understanding OOO errors
 [ ] Develop a taxonomy of common AI error types
-[ ] Create a database of documented error occurrences and resolutions
+[✔] Create a database of documented error occurrences and resolutions
 [ ] Collaborate with other teams to gather diverse insights
 [ ] Publish a whitepaper on AI error management strategies
 [ ] Integrate error analysis into the AI model development lifecycle
@@ -45,7 +45,7 @@
 [ ] Implement a logging system to track error occurrences
 [ ] Create a dashboard for real-time error monitoring
 [ ] Develop predictive models to anticipate potential errors
-[✔] Conduct root cause analysis for major error incidents
+[ ] Conduct root cause analysis for major error incidents
 [ ] Create a playbook for handling different types of errors
 [ ] Integrate error handling strategies into AI training processes
 [ ] Identify root causes of OOO errors
