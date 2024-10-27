@@ -17,8 +17,8 @@ Community Growth Output
    - Implemented a community voting system for content ideas
 
 4. **Events Organized**
-   - Successfully held two virtual workshops
-   - Establishing regular virtual meetups and workshops
+   - Planning and organizing community events to foster engagement
+   - Planned a monthly community meetup
 
 5. **Marketing Tactics Deployed**
    - Created shareable content for community members
