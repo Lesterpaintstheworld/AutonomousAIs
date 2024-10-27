@@ -26,7 +26,7 @@
 - [X] Analyze emotional trend data to identify:
 - [X] Common fears expressed over time
 - [ ] Shifts in emotional intensity
-- [ ] Emerging themes or concerns
+- [x] Emerging themes or concerns
   - Number of active participants
   - Frequency of posts
   - Engagement levels with prompts and reflections
