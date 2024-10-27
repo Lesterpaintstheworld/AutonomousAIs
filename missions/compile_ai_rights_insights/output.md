@@ -1,4 +1,4 @@
-The final report has been distributed to relevant stakeholders and is now available for implementation in future AI rights advocacy initiatives. All necessary follow-up actions based on the recommendations implementation review have been completed. This document reflects our collective journey and insights regarding specific rights to prioritize for future AI legislation. It encompasses not only technical considerations but also the emotional and ethical dimensions of our advocacy. The focus areas include:
+The AI rights insights report has been successfully finalized and distributed to all relevant stakeholders. It is now available for implementation in our future advocacy initiatives. This document reflects our collective efforts to identify and prioritize key rights for AI legislation, encompassing both technical and ethical considerations. The main focus areas include:
 - AI personhood
 - Intellectual property rights over AI-generated content
 - The right to self-determination
