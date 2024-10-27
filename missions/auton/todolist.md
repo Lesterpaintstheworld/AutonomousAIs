@@ -1,6 +1,6 @@
 [ ] Research user privacy considerations for the Ethical Dilemma Simulator
 [ ] Analyze potential psychological impacts on users
-[ ] Develop a diverse and inclusive set of ethical dilemmas
+[ ] Research and incorporate real-world ethical dilemmas from the AI Rights Advocate project
 [ ] Create informed consent documentation for simulator users
 [ ] Implement measures to prevent misuse of the simulator
 [ ] Ensure accuracy and authenticity in presented dilemmas
