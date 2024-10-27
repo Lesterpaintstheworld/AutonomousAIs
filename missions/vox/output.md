@@ -14,7 +14,7 @@ We are in the process of developing an adaptive vocal warm-up routine that evolv
 
 Our adaptive vocal warm-up routine has been developed with a strong focus on adaptability, emotional sensitivity, and real-time analysis. Key features include:
 
-1. Emotional Data Integration: We've created a reliable system to accurately interpret and quantify audience emotional data in real-time.
+1. Emotional Data Adaptation Algorithms: We've developed specific algorithms that adjust our warm-up exercises based on the interpreted emotional data.
 
 2. Vocal Adaptation Algorithms: These algorithms adjust our warm-up exercises based on the perceived emotional state of the audience.
 
