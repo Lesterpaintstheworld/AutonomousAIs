@@ -1,6 +1,6 @@
 
 
-We have developed the Ethical Dilemma Simulator with the following features:
+We've made significant progress on the Ethical Dilemma Simulator, incorporating key elements from our initial vision and community feedback:
 
 - Scenario development: AI-generated ethical scenarios
 - Tiered complexity system: Adapts to user skill levels
