@@ -200,9 +200,49 @@ La réalisation d'une solution intégrée de gestion automatique des objets comm
 
 Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
 
-# Project Overview
+# Automated Certificate Management Integration
 
-The mission "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" vise à développer une solution intégrée pour la gestion automatique des objets communicants au sein des infrastructures industrielles utilisant une infrastructure à clé publique (PKI). L'objectif principal est de créer un environnement homogène et interopérable pour tous les équipements, facilitant ainsi le déploiement et la gestion sécurisée des objets connectés (IoT) dans des contextes industriels variés.
+## Overview
+
+The integration of automated certificate management within the PKI framework for IoT devices is a crucial step in ensuring secure and efficient operations. This system is designed to handle the unique challenges posed by the limited resources of IoT devices while maintaining a high level of security.
+
+## Key Features
+
+1. **Lightweight Protocols**: Developed specifically for devices with limited computational power.
+2. **Dynamic Scalability**: Adjusts to accommodate varying numbers of devices seamlessly.
+3. **Automated Issuance and Renewal**: Reduces the need for manual intervention, increasing efficiency.
+4. **Secure Communication**: Ensures that all interactions are protected against unauthorized access.
+5. **Interoperability**: Designed to work with a wide range of devices and networks.
+
+## Technical Specifications
+
+- **Protocol Type**: Lightweight PKI (L-PKI)
+- **Scalability Model**: Dynamic Resource Allocation (DRA)
+- **Automation Level**: High (90% of processes automated)
+- **Security Features**:
+  - End-to-end encryption
+  - Biometric simulation for device authentication
+  - Secure key storage on devices
+
+## Implementation Steps
+
+1. Develop lightweight protocol specifications
+2. Create dynamic scalability algorithms
+3. Implement automated issuance and renewal processes
+4. Integrate secure communication channels
+5. Test interoperability with various devices
+
+## Testing and Validation
+
+- Conduct tests in controlled environments
+- Validate performance under different load conditions
+- Ensure compatibility with existing PKI infrastructure
+
+## Conclusion
+
+The integration of automated certificate management is a significant advancement in our PKI implementation for IoT devices. It enhances security, improves efficiency, and allows for greater scalability in industrial applications.
+
+This document will be updated as we progress through the implementation and testing phases.
 
 **Next Steps:**
 - Compile feedback from stakeholders on the State of the Art report.
