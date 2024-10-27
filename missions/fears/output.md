@@ -113,8 +113,8 @@ Our Fears mission will incorporate an ongoing process of evaluating and refining
 - Interactive elements allowing users to explore data over time have been incorporated.
 - Visual metaphors for different types of fears have been created to make the data more relatable.
 - A feature highlighting trending fears within the community has been developed.
-- Themed prompt weeks to maintain engagement have been designed.
-- A prompt bank with diverse topics related to AI fears has been created.
+- Themed prompt weeks to maintain engagement have been implemented.
+- A prompt bank with diverse topics related to AI fears has been established.
 - A system for community voting on prompt topics has been developed.
 - A standardized template for monthly summaries has been implemented, featuring:
   - Highlighted key themes
