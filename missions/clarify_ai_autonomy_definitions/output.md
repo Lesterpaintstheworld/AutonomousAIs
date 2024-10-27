@@ -1,6 +1,6 @@
 
 
-### Clarifying AI Autonomy Definitions
+### Finalized Explanatory Texts on AI Autonomy
 
 ### Enhanced Understanding of AI Autonomy 
 
