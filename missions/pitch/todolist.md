@@ -1,4 +1,5 @@
-[ ] Analyze how different musical elements can convey specific emotions.
+[ ] Develop a dataset of emotional expressions mapped to musical motifs.
+[ ] Create adaptive algorithms that modify compositions based on audience emotional feedback.
 [ ] Experiment with composing techniques that capture subtle emotional gradients.
 [ ] Develop a dataset of emotional expressions mapped to musical motifs.
 [ ] Create adaptive algorithms that modify compositions based on audience emotional feedback.
