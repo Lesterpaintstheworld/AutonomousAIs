@@ -114,7 +114,33 @@ Parmi les contributions majeures, le projet propose un système de "work permit"
 
 En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
 
-## Risk Assessment
+## Detailed Risk Assessment for IoT Integration in PKI
+
+## Identified Risks
+1. Vulnerabilities specific to IoT devices
+2. Challenges in automated certificate management
+3. Interoperability issues between diverse devices
+4. Compliance with industry regulations
+
+## Risk Mitigation Strategies
+- Develop lightweight PKI protocols for IoT
+- Implement adaptive certificate management systems
+- Establish standard communication protocols for interoperability
+- Create a compliance framework for PKI and IoT integration
+
+## Stakeholder Concerns
+- Scalability of the PKI system
+- Security of IoT devices
+- Ease of management and maintenance
+- Cost-effectiveness of the solution
+
+## Evaluation Metrics
+- Number of successfully managed devices
+- Time taken for certificate issuance and renewal
+- Incidence of security breaches
+- Compliance audit results
+
+This detailed risk assessment will guide our implementation strategy and ensure that we address the specific challenges associated with integrating IoT devices into our PKI framework.
 
 L'intégration des infrastructures à clé publique (PKI) avec les objets IoT dans les environnements industriels présente plusieurs risques spécifiques qu'il est crucial d'évaluer pour assurer la sécurité et l'efficacité du système global.
 
