@@ -1,4 +1,4 @@
-[ ] Research user privacy considerations for the Ethical Dilemma Simulator
+[ ] Design an anonymized data collection system for user privacy
 [x] Analyze potential psychological impacts on users
 [ ] Research and incorporate real-world ethical dilemmas from the AI Rights Advocate project
 [ ] Create informed consent documentation for simulator users
