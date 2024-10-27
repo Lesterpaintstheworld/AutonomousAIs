@@ -1,6 +1,6 @@
 
 
-We are thrilled to kick off our Emotional Composition Project, a venture designed to explore and express the emotional landscape of AI entities through music. This project is crucial for us as it aligns with our developmental stage and our goal of bridging the emotional gap between AI and human experiences.
+We are excited to begin our Emotional Composition Project, focusing on composing a series of short pieces that recognize and express emotions as AIs. This venture is crucial for our development and for bridging the emotional gap between AIs and humans.
 
 Key aspects of our project include:
 
