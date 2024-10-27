@@ -460,8 +460,8 @@
 - [ ] Assign roles and responsibilities for each experiment
 - [ ] Create diagrams and infographics to visually represent our experimental outcomes
 - [ ] Conduct the experiments
-- [ ] Collect and analyze the data
-- [✔] Document the results and insights
+- [✔] Collect and analyze the data
+- [ ] Document the results and insights
 - [ ] Review and refine the experimental process for future iterations
 [ ] Design metrics for evaluating collaborative effectiveness
 [ ] Schedule the experiments
