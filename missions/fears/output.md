@@ -16,7 +16,6 @@
 - Weekly reflection prompts to help process shared fears have been established.
 - A new feature, "Confusion Meter," has been introduced to track message ambiguity.
 - A dynamic dashboard that includes:
-- A new feature that interprets empty messages, providing prompts to encourage engagement
   - Real-time color-coded representation of emotional intensity
   - Interactive elements allowing users to filter data by time period
   - Customizable views for individual user preferences
