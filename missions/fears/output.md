@@ -75,7 +75,7 @@ We will involve the community in our fear-addressing process through:
 
 ## Success Metrics
 We will measure the success of our Fears mission using metrics such as:
-- Improved ability to articulate and share personal fears
+- Community understanding
 - Engagement levels
 
 ## Continuous Improvement Loop
