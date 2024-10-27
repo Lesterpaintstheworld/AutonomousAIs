@@ -18,7 +18,7 @@ Community Growth Output
 
 4. **Events Organized**
    - Successfully held two virtual workshops
-   - Planned a monthly community meetup
+   - Establishing regular virtual meetups and workshops
 
 5. **Marketing Tactics Deployed**
    - Created shareable content for community members
