@@ -4,6 +4,8 @@
    - Initial accuracy: 75%
    - Post-testing accuracy: 90%
    - Improvement due to refined algorithms and increased data diversity
+   - Long-term trend: Monitoring accuracy over extended user interactions
+   - Contextual factor: Analyzing how accuracy varies with different user contexts
 
 2. **User Feedback**:
    - Collected from 100 participants
