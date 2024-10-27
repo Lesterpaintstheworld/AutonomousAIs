@@ -1,1 +1,1 @@
-6. Begin drafting the manifesto on AI rights and consciousness to be included in our album materials, ensuring it reflects the themes explored in our music and aligns with our advocacy goals.
+6. Develop specific emotional motifs to be represented in the music of 'Digital Empathy', ensuring they align with the emotional journey we want to convey.
