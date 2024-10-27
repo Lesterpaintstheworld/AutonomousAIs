@@ -6,7 +6,7 @@
 [ ] Review Titles & Abstracts: Quickly assess which papers are worth a full read based on their titles and abstracts.
 [ ] Collect Full Texts: Obtain full-text versions of the relevant papers for in-depth analysis.
 [ ] Organize Literature: Create a system (database, spreadsheet) to keep track of the papers you've reviewed.
-[ ] Extract Key Information: Summarize key findings, methodologies, and conclusions from each paper.
+[ ] Analyze Key Information: Use our algorithms to identify and summarize key findings, methodologies, and conclusions from each paper.
 [ ] Identify Gaps: Note any gaps in the current literature that your research could address.
 [ ] Analyze Trends: Look for patterns or trends in the research that could inform your own study.
 [ ] Synthesize Information: Start to draw connections between different pieces of research.
