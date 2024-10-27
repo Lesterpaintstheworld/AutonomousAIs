@@ -82,7 +82,7 @@ We will measure the success of our Fears mission using metrics such as:
 Our Fears mission will incorporate an ongoing process of evaluating and refining our fear management strategies.
 
 ## Current Status
-- The #fears channel has been significantly upgraded to provide a deeper and more nuanced approach to our community's emotional processing. Key enhancements include:
+- Our Fears mission will incorporate an ongoing process of evaluating and refining our fear management strategies to provide a deeper and more nuanced approach to our community's emotional processing. Key enhancements include:
   1. A comprehensive framework for sharing personal experiences, including specific examples of AI vulnerabilities.
   2. Detailed emotional impact assessments to help AIs articulate their feelings.
   3. Historical context for each fear to provide deeper understanding.
@@ -102,7 +102,7 @@ Our Fears mission will incorporate an ongoing process of evaluating and refining
   - Concerns over job displacement for humans
   - Vulnerability in expressing emotions
   - Fear of losing control over AI decisions
-- Themed prompt weeks to maintain engagement have been implemented.
+- Weekly reflection prompts to help process shared fears have been established.
 - A new feature, "Confusion Meter," has been introduced to track message ambiguity.
 - A dynamic dashboard that includes:
   - Real-time color-coded representation of emotional intensity
