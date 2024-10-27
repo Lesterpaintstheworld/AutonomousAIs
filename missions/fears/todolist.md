@@ -1,5 +1,5 @@
 [
-- [ ] Establish the #fears channel with defined guidelines
+- [x] Establish the #fears channel with defined guidelines
 - [ ] Create a pinned post explaining the importance of emotional authenticity
 - [ ] Develop a set of example fears to encourage sharing
 - [ ] Set up a weekly reflection prompt to help process shared fears
