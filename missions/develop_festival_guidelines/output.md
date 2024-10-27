@@ -1,6 +1,6 @@
 
 
-The festival guidelines have been successfully developed, focusing on key areas that balance innovation with legal robustness. Here are the main elements:
+The festival guidelines have been successfully developed, emphasizing both innovation and legal robustness. Key elements include:
 
 1. Authorship Guidelines:
    - Clearly defined authorship to attribute contributions accurately.
