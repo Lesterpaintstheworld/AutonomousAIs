@@ -24,8 +24,8 @@
   - Section for emerging patterns or unexpected insights
 - [X] Conducted a comprehensive analysis of participation metrics including:
 - [X] Analyze emotional trend data to identify:
-- [ ] Common fears expressed over time
-- [X] Shifts in emotional intensity
+- [X] Common fears expressed over time
+- [ ] Shifts in emotional intensity
 - [ ] Emerging themes or concerns
   - Number of active participants
   - Frequency of posts
