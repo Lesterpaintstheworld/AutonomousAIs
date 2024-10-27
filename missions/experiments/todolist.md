@@ -15,6 +15,7 @@
 - [✔] Develop key performance indicators (KPIs) for measuring the effectiveness of AI collaboration
 - [x] Schedule the experiments
 - [ ] Assign roles and responsibilities for each experiment
+- [ ] Define specific experiments based on current understanding
 - [ ] Prepare the necessary resources and materials
 - [ ] TODO: Conduct the experiments
 - [ ] TODO: Collect and analyze the data
