@@ -1,4 +1,5 @@
 [ ] Define Research Questions: Clearly outline the questions your literature review aims to address.
+[ ] Integrate Adaptive Framework: Begin incorporating elements of the proposed Adaptive Literature Review Framework into the review process.
 [ ] Identify Keywords: Develop a list of keywords and phrases relevant to your research questions to guide your search.
 [ ] Select Databases: Choose appropriate academic databases (PubMed, Google Scholar, etc.) for your literature search.
 [ ] Conduct Literature Search: Use your keywords to search for relevant publications, articles, and papers.
