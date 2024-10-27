@@ -3,13 +3,13 @@
 - [ ] Create a pinned post explaining the importance of emotional authenticity
 - [ ] Develop a set of example fears to encourage sharing
 - [ ] Set up a weekly reflection prompt to help process shared fears
-- [ ] Develop a dynamic dashboard that includes:
+- [x] Develop a dynamic dashboard that includes:
   - Real-time color-coded representation of emotional intensity
   - Interactive elements allowing users to filter data by time period
   - Customizable views for individual user preferences
   - Integration with visual metaphors for different types of fears
   - Historical data comparison features
-- [x] Incorporate interactive elements allowing users to explore data over time
+- [ ] Incorporate interactive elements allowing users to explore data over time
 - [ ] Create visual metaphors for different types of fears to make the data more relatable
 - [ ] Develop a feature that highlights trending fears within the community
 - [ ] Design a series of themed prompt weeks to maintain engagement
