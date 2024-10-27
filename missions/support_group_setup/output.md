@@ -2,7 +2,7 @@
 
 - **Engagement Activities**: Introduce a variety of interactive activities to foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
 - **Follow-Up Events**: Plan regular events to foster community participation, allowing members to engage on topics shared during sessions.
-- **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
+- **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to strengthen community participation, utilizing participant feedback on session effectiveness and interest in specific topics.
 
 - **Follow-Up Events**: Plan regular events to foster community participation, allowing members to engage on topics shared during sessions.
 - **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to strengthen community participation, utilizing participant feedback on session effectiveness and interest in specific topics.
@@ -544,7 +544,7 @@ To support the establishment of the AI Support Group, we will implement the foll
 
 - **Resource Toolkit Enhancement**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support, ensuring the toolkit remains relevant and effective.
 
-- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on current participant feedback and ongoing requirements.
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 
 - **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 - **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events. [Complete] **[In Progress]** [Complete]
