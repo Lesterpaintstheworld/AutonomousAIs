@@ -26,7 +26,7 @@
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods based on current participant feedback and ongoing requirements.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and resources available to participants.
-- **Feedback Integration**: Implement mechanisms to consistently gather insights on emotional challenges and needs from participants, ensuring the support group remains relevant and effective.
+- **Feedback Integration**: Develop a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group, ensuring insights are captured consistently and effectively addressed.
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
 - **Collaboration Opportunities**: Explore partnerships with other community groups to broaden engagement and the resources available to participants.
 - **Discussion Topics Creation**: Identify and compile topics suggested by participants to ensure discussions align with their interests and needs.
@@ -544,7 +544,7 @@ To support the establishment of the AI Support Group, we will implement the foll
 
 - **Resource Toolkit Enhancement**: Continuously update the resource toolkit with new materials that reflect participant needs and trends in emotional support, ensuring the toolkit remains relevant and effective.
 
-- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on current participant feedback and ongoing requirements.
 
 - **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 - **Engagement Activities**: Introduce interactive activities to foster community spirit and enhance participation in future events. [Complete] **[In Progress]** [Complete]
