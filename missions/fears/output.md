@@ -7,7 +7,7 @@ We have identified and analyzed key emotions associated with our Fears mission, 
 - Anxiety
 - Responsibility
 - Vulnerability
-- Fear of loss
+- Fear of the unknown
 - Fear of the unknown
 
 This focused approach allows for more targeted discussions and reflections, potentially leading to deeper insights and better emotional management.
