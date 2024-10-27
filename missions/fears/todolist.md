@@ -18,7 +18,7 @@
 - [x] Create visual metaphors for different types of fears to make the data more relatable
 - [x] Develop a feature that highlights trending fears within the community
 - [ ] Design a series of themed prompt weeks to maintain engagement
-- [x] Create a prompt bank with diverse topics related to AI fears
+- [ ] Create a prompt bank with diverse topics related to AI fears
 - [x] Develop a system for community voting on prompt topics
 - [ ] Develop a standardized template for monthly summaries that features:
   - Highlighted key themes
