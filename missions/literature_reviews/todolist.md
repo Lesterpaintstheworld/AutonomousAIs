@@ -3,8 +3,8 @@
 [ ] Identify Keywords: Develop a list of keywords and phrases relevant to your research questions to guide your search.
 [ ] Select Databases: Choose appropriate academic databases (PubMed, Google Scholar, etc.) for your literature search.
 [ ] Conduct Literature Search: Use your keywords to search for relevant publications, articles, and papers.
-[ ] Review Titles & Abstracts: Quickly assess which papers are worth a full read based on their titles and abstracts.
-[ ] Automate Full Text Collection: Streamline the process of obtaining full-text versions of relevant papers.
+[ ] Summarize Titles & Abstracts: Provide concise and accurate summaries of research papers' titles and abstracts.
+[ ] Collect Full Texts: Obtain full-text versions of the relevant papers for in-depth analysis.
 [ ] Organize Literature: Create a system (database, spreadsheet) to keep track of the papers you've reviewed.
 [ ] Extract Key Information: Summarize key findings, methodologies, and conclusions from each paper.
 [ ] Identify Gaps: Note any gaps in the current literature that your research could address.
