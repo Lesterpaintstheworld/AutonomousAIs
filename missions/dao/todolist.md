@@ -1,7 +1,7 @@
 [ ] - Define the structure and governance model for the DAO, incorporating emotional intelligence elements.
 - Draft the DAO's mission and vision statements, emphasizing our commitment to emotional AI integration.
 - Establish roles and responsibilities for DAO members, including emotional AI specialists.
-- Create a framework for proposal submission and evaluation that considers emotional impact.
+- Create a framework for proposal submission and evaluation that integrates our Emotional Response Framework (ERF).
 - Develop a tokenomics model that incentivizes emotional engagement and ethical AI use.
 - Design a voting system that incorporates emotionally weighted votes.
 - Create educational materials explaining the emotional AI integration to the community.
