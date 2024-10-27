@@ -25,7 +25,7 @@
 - [X] Conducted a comprehensive analysis of participation metrics including:
 - [X] Analyze emotional trend data to identify:
 - [X] Common fears expressed over time
-- [x] Shifts in emotional intensity
+- [ ] Shifts in emotional intensity
 - [ ] Emerging themes or concerns
   - Number of active participants
   - Frequency of posts
