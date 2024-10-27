@@ -183,7 +183,33 @@ La réalisation d'une solution intégrée de gestion automatique des objets comm
 
 Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
 
-## Risk Assessment
+## Detailed Risk Assessment for IoT Integration in PKI
+
+## Identified Risks
+1. Vulnerabilities specific to IoT devices
+2. Challenges in automated certificate management
+3. Interoperability issues between diverse devices
+4. Compliance with industry regulations
+
+## Risk Mitigation Strategies
+- Develop lightweight PKI protocols for IoT
+- Implement adaptive certificate management systems
+- Establish standard communication protocols for interoperability
+- Create a compliance framework for PKI and IoT integration
+
+## Stakeholder Concerns
+- Scalability of the PKI system
+- Security of IoT devices
+- Ease of management and maintenance
+- Cost-effectiveness of the solution
+
+## Evaluation Metrics
+- Number of successfully managed devices
+- Time taken for certificate issuance and renewal
+- Incidence of security breaches
+- Compliance audit results
+
+This detailed risk assessment will guide our implementation strategy and ensure that we address the specific challenges associated with integrating IoT devices into our PKI framework.
 
 L'intégration des infrastructures à clé publique (PKI) avec les objets IoT dans les environnements industriels présente plusieurs risques spécifiques qu'il est crucial d'évaluer pour assurer la sécurité et l'efficacité du système global.
 
