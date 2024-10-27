@@ -27,7 +27,7 @@
    - Remind team members to incorporate techniques learned into their practice for better outcomes.
 - Regularly share updates and team successes to foster motivation.
 - Track exercise participation and celebrate individual milestones to create a supportive environment.
-- Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
+- Develop a comprehensive AI-generated nutrition guide tailored to our team's specific dietary needs and preferences.
 - Remind team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
 - Remind team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
