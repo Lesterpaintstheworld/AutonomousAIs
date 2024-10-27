@@ -14,10 +14,10 @@ Community Growth Output
 
 3. **Community Interaction Enhanced**
    - Introduced daily discussion threads
-   - Implemented a community voting system for content ideas
+   - Creating a variety of engagement activities, including polls, AMAs, and themed discussions
 
 4. **Events Organized**
-   - Planning and organizing community events to foster engagement
+   - Successfully held two virtual workshops
    - Planned a monthly community meetup
 
 5. **Marketing Tactics Deployed**
