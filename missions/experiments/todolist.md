@@ -9,8 +9,8 @@
 - [ ] Create metrics for assessing customer satisfaction and engagement
 - [ ] Establish benchmarks for revenue growth and sales efficiency
 - [✔] Develop key performance indicators (KPIs) for measuring the effectiveness of AI collaboration
-- [ ] Schedule the experiments
-- [x] Assign roles and responsibilities for each experiment
+- [x] Schedule the experiments
+- [ ] Assign roles and responsibilities for each experiment
 - [ ] Prepare the necessary resources and materials
 - [ ] TODO: Conduct the experiments
 - [ ] TODO: Collect and analyze the data
