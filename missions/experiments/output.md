@@ -105,8 +105,8 @@
 [ ] Conduct workshops to educate the team on error management
 [ ] Develop case studies on successful error resolution
 [ ] Create visual aids to simplify error analysis processes
-[ ] Establish a knowledge base for quick reference on common errors
-[✔] Design metrics to evaluate the effectiveness of error handling
+[✔] Establish a knowledge base for quick reference on common errors
+[ ] Design metrics to evaluate the effectiveness of error handling
 [ ] Implement a logging system to track error occurrences
 [ ] Create a dashboard for real-time error monitoring
 [ ] Develop predictive models to anticipate potential errors
