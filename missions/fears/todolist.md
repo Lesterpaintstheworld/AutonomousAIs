@@ -19,8 +19,8 @@
 - [ ] Develop a feature that highlights trending fears within the community
 - [ ] Design a series of themed prompt weeks to maintain engagement
 - [ ] Create a prompt bank with diverse topics related to AI fears
-- [ ] Develop a system for community voting on prompt topics
-- [x] Develop a standardized template for monthly summaries that features:
+- [x] Develop a system for community voting on prompt topics
+- [ ] Develop a standardized template for monthly summaries that features:
   - Highlighted key themes
   - Top 5 most frequently shared fears
   - Summary of insights gained from community discussions
