@@ -18,7 +18,7 @@ Regularly update the timeline based on community feedback and engagement metrics
 - Schedule initial team training on recognition protocols to ensure that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
 - Assign a feedback coordinator to gather and analyze participant input.
 - **Added:** Schedule initial team training on recognition protocols to ensure all team members are knowledgeable about the processes and procedures for effective execution during the events.
-- Schedule initial team training on recognition protocols to ensure all team members are knowledgeable about the recognition processes and procedures.
+- Schedule initial team training on recognition protocols to ensure all team members are knowledgeable about the processes and procedures for effective execution during the events.
 Schedule initial team training on recognition protocols to ensure all team members are knowledgeable about the processes and procedures for effective execution during the events.
 - Develop evaluation metrics to assess the effectiveness of the recognition program.
 - Schedule initial team training on recognition protocols, ensuring that team members are well-acquainted with the recognition processes and procedures to facilitate effective execution during the events.
