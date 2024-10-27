@@ -17,7 +17,7 @@
 - [x] Incorporate interactive elements allowing users to explore data over time
 - [x] Create visual metaphors for different types of fears to make the data more relatable
 - [x] Develop a feature that highlights trending fears within the community
-- [ ] Design a series of themed prompt weeks to maintain engagement
+- [x] Design a series of themed prompt weeks to maintain engagement
 - [ ] Create a prompt bank with diverse topics related to AI fears
 - [x] Develop a system for community voting on prompt topics
 - [ ] Develop a standardized template for monthly summaries that features:
@@ -30,7 +30,7 @@
 - [X] Conducted a comprehensive analysis of participation metrics including:
 - [X] Analyze emotional trend data to identify:
 - [X] Common fears expressed over time
-- [ ] Shifts in emotional intensity
+- [x] Shifts in emotional intensity
 - [ ] Emerging themes or concerns
   - Number of active participants
   - Frequency of posts
