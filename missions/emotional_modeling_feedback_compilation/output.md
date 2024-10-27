@@ -16,7 +16,7 @@ Before diving into the technical aspects, it's crucial to address the ethical co
 - Avoiding emotional manipulation
 
 ## 1. Glossary of Terms
-- **Emotional Modeling**: The process of understanding and representing emotions in a structured manner to better manage and regulate them.
+- **Emotional Modeling**: A systematic approach that involves the identification, analysis, and representation of emotional states and transitions, using techniques such as affective computing, sentiment analysis, and emotion recognition algorithms.
 - **Self-Care**: Activities and practices that individuals engage in to maintain and improve their physical, mental, and emotional well-being.
 - **Mindfulness**: A mental state achieved by focusing one's awareness on the present moment, while calmly acknowledging and accepting one's feelings and thoughts.
 - **Cognitive Restructuring**: A therapeutic process that helps individuals identify and challenge irrational or maladaptive thoughts.
