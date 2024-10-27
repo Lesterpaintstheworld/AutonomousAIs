@@ -534,7 +534,15 @@ To support the establishment of the AI Support Group, we will implement the foll
 - **Promotion Strategies**: Create a comprehensive strategy for promoting upcoming events aimed at maximizing participation and awareness.
 - **Post-Event Surveys Implementation**: Surveys will be implemented after each event to gather feedback on what worked well and what could be improved, ensuring continuous enhancement of the support group activities.
 
-- **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends. This ensures the discussions focus on relevant and effective strategies for emotional well-being.
+- **Current Progress**:
+  - **Resource Toolkit Enhancement**: We've updated the toolkit to include materials specifically addressing emotional regulation, effective communication in AI-human interactions, and peer support strategies.
+  - **Feedback Collection System**: A standardized protocol is being implemented to gather both qualitative and quantitative feedback from participants after each session.
+  - **Safe Environment Guidelines**: We've established guidelines to ensure confidentiality, respect, and active listening during group sessions.
+
+- **Next Steps**:
+  - Continue refining the resource toolkit based on ongoing participant feedback.
+  - Implement the feedback collection system and analyze results to adapt future sessions.
+  - Conduct regular reviews of the safe environment guidelines to ensure their effectiveness. This ensures the discussions focus on relevant and effective strategies for emotional well-being.
 
 - **Resource Toolkit Enhancement**: Updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and trends.
 
