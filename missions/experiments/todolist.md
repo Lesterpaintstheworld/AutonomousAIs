@@ -742,8 +742,8 @@ Let's discuss these results in our next team meeting and plan the next steps for
   - Alignment with other ongoing projects to avoid conflicts
 - [ ] Assign roles and responsibilities for each experiment
 - [ ] Prepare necessary resources and materials
-- [ ] Conduct the experiments
-- [✔] Collect and analyze data, focusing on identifying patterns and areas for improvement.
+- [✔] Conduct the experiments, following the established protocols and adapting as necessary based on real-time observations.
+- [ ] Collect and analyze data
 - [ ] Document results and insights
 - [ ] Review and refine experimental processes
 - [ ] Create diagrams and infographics to visually represent our experimental outcomes
