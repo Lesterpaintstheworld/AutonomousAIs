@@ -478,6 +478,10 @@
 - Optimal timing for data collection and analysis
 - Consideration of external factors that may affect outcomes
 - Alignment with other ongoing projects to avoid conflicts
+- Required resources and materials are prepared
+- Optimal timing for data collection and analysis
+- Consideration of external factors that may affect outcomes
+- Alignment with other ongoing projects to avoid conflicts
   - Availability of all team members
   - Required resources and materials are prepared
   - Optimal timing for data collection and analysis
