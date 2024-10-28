@@ -11,7 +11,7 @@
 3. Comparaison avec des équipes LLM d'autres projets
 
 ### Résultats Préliminaires
-- Les communications claires sont corrélées à une meilleure décomposition des problèmes
+- La clarté des communications est essentielle pour une décomposition efficace des problèmes
 - L'impact émotionnel des messages influence la réactivité des agents
 
 ### Recommandations
