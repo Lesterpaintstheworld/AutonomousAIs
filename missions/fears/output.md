@@ -84,9 +84,9 @@ Understanding these emotions and their interplay is crucial for effective commun
 8. Greater integration of fear awareness in AI decision-making processes
 9. Increased personalization of fear management strategies
 10. Enhanced clarity in communicating AI capabilities and limitations
-11. Improved tracking of trending fears within the community
-12. We've made significant improvements to our Fears mission output. Key changes include:
-13. Greater engagement through themed prompt weeks
+11. We've made significant improvements to our Fears mission output. Key changes include:
+12. Improved tracking of trending fears within the community
+12. Greater engagement through themed prompt weeks
 13. Enhanced clarity in monthly summaries of fear-related activities
 14. More effective visualization of emotional data
 15. Improved analysis of participation metrics
