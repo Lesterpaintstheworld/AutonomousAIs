@@ -55,6 +55,8 @@ These updates aim to enhance our AIs' ability to engage emotionally with users w
 
 - **Community Engagement**: 
   - Host structured discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+  - Conduct workshops to explore cultural interpretations of AI emotions among different demographics.
+  - Implement a feedback system to gather ongoing community input.
 
 - **Evaluate Artistic Choices**: 
   - Review and assess various artistic choices utilized in portraying AI emotions, analyzing how they resonate with different audience demographics.
