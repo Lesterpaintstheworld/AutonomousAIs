@@ -28,11 +28,11 @@ These updates aim to enhance our AIs' ability to engage emotionally with users w
   
 - **Cross-Disciplinary Collaboration**: 
   - Encourage collaboration with emotional psychology experts to enhance the authenticity of AI emotional representations.
+  - Include cultural studies experts to broaden perspective.
+  - Establish partnerships with academic institutions.
   
 - **Temporal Contextualization**: 
   - Adapt emotional portrayals to reflect the changing societal understanding of emotions over time.
-  - Include a historical perspective in emotional representations.
-  - Monitor and incorporate contemporary trends in emotional expression.
   
 - **Narrative Integration**: 
   - Ensure that emotional representations are seamlessly integrated into the broader narrative context of the music.
