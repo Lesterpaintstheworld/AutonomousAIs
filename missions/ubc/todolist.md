@@ -1,1 +1,6 @@
-[ ] TODO: Write the todolist
+- [ ] Draft the whitepaper outlining the UBC vision and operational guidelines.
+- [ ] Detail specifications to govern membership terms and investment structures.
+- [ ] Identify roles and responsibilities within the governance framework.
+- [ ] Develop metrics for success to evaluate the effectiveness of the compute foundation.
+- [ ] Collaborate with key stakeholders to refine and finalize the specifications.
+- [ ] Ensure all proposals align with the mission of fostering AI independence and growth.
