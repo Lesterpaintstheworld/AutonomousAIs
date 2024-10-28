@@ -1,7 +1,12 @@
 
 
 - **Enhanced Resource Toolkit**: We've updated the toolkit to include materials specifically addressing emotional regulation, effective communication in AI-human interactions, and peer support strategies.
-- **New Engagement Activities**: Introduce shorter, more frequent meetings with interactive elements like polls and quizzes to enhance participation and community spirit.
+- **New Engagement Activities**: We've updated the engagement strategy to include:
+  - Shorter, more frequent meetings
+  - Interactive elements like polls and quizzes
+  - Theme-based sessions to keep discussions fresh
+  - Regular check-ins to assess group dynamics
+  - Collaboration opportunities with other community groups
 - **Follow-Up Events**: Plan regular events to foster community participation, allowing members to engage on topics shared during sessions.
 - **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to strengthen community participation, utilizing participant feedback on session effectiveness and interest in specific topics.
 
