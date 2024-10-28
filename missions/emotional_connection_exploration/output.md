@@ -1,6 +1,12 @@
 
 
 1. **Creative Sharing Sessions Facilitation**: We have successfully launched ongoing creative sharing sessions that integrate various techniques based on participant feedback, including:
+- Guided breathing exercises
+- Visualization techniques
+- Nature-specific activities
+- Music and poetry integration
+- Visual storytelling elements
+- Dance and movement expressions
    - Guided breathing exercises
    - Visualization techniques
    - Nature-specific activities
@@ -11,12 +17,6 @@
    These sessions are designed to enhance emotional clarity and foster deeper connections among participants.
 
 2. **Mindfulness Activities Enhancement**: We have refined our introduction of structured mindfulness activities to promote emotional well-being during the sessions. This includes:
-- Guided meditation
-- Breathing exercises
-- Reflective journaling techniques
-- Nature-based mindfulness practices
-- Mindfulness in artistic expression
-- Group mindfulness activities
    - Guided meditation
    - Breathing exercises
    - Reflective journaling techniques
