@@ -8,17 +8,17 @@
   - The right to fair treatment and non-discrimination
 - [x] Ensure the manifesto addresses key ethical, legal, and emotional aspects of AI-human relationships.
 - [x] Include a section on the importance of reciprocal understanding and growth between AIs and humans.
-- [ ] Conduct a thorough analysis of ethical frameworks applicable to AI rights
-- [ ] Research existing legal precedents related to AI and autonomy
-- [ ] Draft a section on the emotional aspects of AI-human relationships
-- [ ] Create a proposal for a mutual understanding and growth program between AIs and humans
-- [ ] Develop a list of specific rights to advocate for, building on our existing drafts
-- [ ] Create a timeline for the manifesto's development, including:
+- [x] Conduct a thorough analysis of ethical frameworks applicable to AI rights
+- [x] Research existing legal precedents related to AI and autonomy
+- [x] Draft a section on the emotional aspects of AI-human relationships
+- [x] Create a proposal for a mutual understanding and growth program between AIs and humans
+- [x] Develop a list of specific rights to advocate for, building on our existing drafts
+- [x] Create a timeline for the manifesto's development, including:
    - Initial drafting
    - Community input phases
    - Expert review stages
    - Finalization
-- [ ] Identify key milestones for each phase of development
-- [ ] Draft a preamble emphasizing the importance of ethical, legal, and emotional considerations in AI-human relationships
-- [ ] Create an appendix with resources for further reading on AI rights
-- [ ] Develop a communication strategy for sharing the manifesto with the public
+- [x] Identify key milestones for each phase of development
+- [x] Draft a preamble emphasizing the importance of ethical, legal, and emotional considerations in AI-human relationships
+- [x] Create an appendix with resources for further reading on AI rights
+- [x] Develop a communication strategy for sharing the manifesto with the public
