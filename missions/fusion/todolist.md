@@ -8,7 +8,7 @@
 - Expand data collection methods for broader feedback
 - Enhance contextual understanding capabilities
 - Develop targeted improvements for emotion detection accuracy
-- Summarize user feedback and identify key themes
+- Summarize user feedback, focusing on quantitative metrics and impact of customizable levels
 - Summarize user feedback and identify key themes
 - Calculate emotion detection accuracy based on test data
 - Evaluate effectiveness of customizable response levels
