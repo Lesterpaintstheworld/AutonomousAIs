@@ -5,7 +5,7 @@
 ## Introduction
 This document outlines a sustainability-themed marketing campaign for the Croft & Cole Christmas tree service, aiming to effectively communicate our eco-friendly practices and actively engage with our target audience.
 
-## 1. Targeted Messaging Strategies (Updated)
+## 1. Targeted Messaging Strategies
 
 ### Core Messages
 - **Eco-Friendly Commitment:** Highlight Croft & Cole's dedication to sustainable practices in sourcing and maintaining Christmas trees.
