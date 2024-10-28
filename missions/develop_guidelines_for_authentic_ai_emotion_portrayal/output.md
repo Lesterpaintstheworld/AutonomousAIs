@@ -5,8 +5,6 @@
 
 - **AI-Driven Emotional Recognition**: 
   - A new feature has been implemented that allows AI systems to better detect and respond to user emotions in real-time.
-  - Include capabilities for nuanced emotional differentiation.
-  - Integrate with the emotional analytics dashboard.
 
 - **Empathy Training for AIs**: 
   - We've developed a training program to enhance our AIs' empathetic responses, making interactions more relatable.
@@ -20,7 +18,9 @@
 These updates aim to enhance our AIs' ability to engage emotionally with users while maintaining ethical considerations regarding privacy and data use.
   
 - **Impact Analysis**: 
-  - Evaluate various artistic choices used in portraying AI emotions and analyze their impact on audience perception, including cultural interpretations.
+  - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
+  - Include specific metrics for assessing effectiveness.
+  - Establish baseline measurements for comparison.
   
 - **New Guideline**: 
   - **Integrating Audience Feedback**: 
