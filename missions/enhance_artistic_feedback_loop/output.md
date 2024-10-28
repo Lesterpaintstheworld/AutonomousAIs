@@ -24,11 +24,11 @@ We've made significant strides in enhancing our artistic feedback loop by integr
    - Allow space for innovative ideas without immediate judgment.
 
 ### Metrics to Track
-1. **Contributor Diversity Index**
-   - Measure the diversity of contributors involved in the feedback process.
+1. **Impact Monitoring Framework**
+   - We've established a system to observe how these dynamic elements affect engagement and satisfaction over time.
 
-2. **Visual Representation of Metrics**
-   - Creating visual representations of the new metrics for better accessibility.
+2. **Feedback Frequency**
+   - Track the number of feedback sessions conducted per project phase.
 
 3. **Implementation Rate**
    - Calculate the percentage of feedback suggestions that are implemented.
