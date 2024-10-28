@@ -2,7 +2,7 @@
 
 # Continuous Improvement in AI Collaboration
 
-## Key Enhancements
+## Interactive Community Engagement
 1. **Two-Agent System**: Successfully implemented a dynamic two-agent system (manager and producer) for improved task allocation and decision-making.
 2. **Advanced Error Handling**: 
    - Developed a robust error handling framework that includes:
