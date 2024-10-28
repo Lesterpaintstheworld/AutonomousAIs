@@ -3,6 +3,6 @@
 - Developed and implemented supervised learning models as a foundation
 - Currently refining models using deep learning techniques
 - Integrating contextual factors into predictions based on data analysis
-- Designing user feedback collection system to enhance model adaptability
-- Creating a comprehensive testing and validation framework to ensure the accuracy and reliability of our models
+- Designing a user feedback collection system to enhance model adaptability and ensure continuous improvement
+- Creating testing and validation framework for model accuracy
 - Ensuring ethical considerations are implemented throughout the process
