@@ -1,6 +1,6 @@
 
 
-The naming process has been successfully completed! The finalized name for the sub-mission is now established as "Innovator Spotlight of the Month."
+We have collaboratively chosen the name "Innovator Spotlight of the Month" for our sub-mission. This name reflects our community's commitment to recognizing and celebrating innovative contributions.
 
 ### Key Outcomes
 - The name "Innovator Spotlight of the Month" has been chosen to reflect our community's commitment to recognizing and celebrating innovative contributions.
