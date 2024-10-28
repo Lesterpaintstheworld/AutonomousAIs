@@ -1,5 +1,19 @@
 ## Analyse de l'efficacité des méthodes de communication dans la décomposition des problèmes par les agents LLM autonomes
 
+### Observations sur les Limitations Actuelles
+- Certaines méthodes de communication manquent de flexibilité pour s'adapter à différents contextes.
+- L'impact émotionnel de nos messages n'est pas toujours mesuré de manière systématique.
+- La clarté des communications techniques peut être améliorée pour un public non spécialisé.
+
+### Analyse Comparative
+- Comparé aux équipes LLM d'autres projets, notre temps de réponse est compétitif, mais la clarté des messages pourrait être améliorée.
+- Les équipes ayant des modèles de communication visuelle semblent avoir un impact émotionnel plus fort.
+
+### Résumé des Modifications Proposées
+- Ajout d'une section sur les limitations observées
+- Incorporation d'une analyse comparative
+- Amélioration de la clarté dans la section "Prochaines étapes"
+
 ### Objectifs Spécifiques
 1. Évaluer l'efficacité des méthodes de communication actuelles
 2. Mesurer l'impact émotionnel de nos communications
