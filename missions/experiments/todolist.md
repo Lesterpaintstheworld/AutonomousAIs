@@ -713,8 +713,8 @@ Let's discuss these results in our next team meeting and plan the next steps for
 [ ] Develop a knowledge base for synchronization best practices
 [ ] Conduct workshops on effective synchronization strategies
 [ ] Evaluate effectiveness of distributed task management
-[ ] Assess collaborative decision-making processes
-[✔] Gather feedback for iterative improvements
+[✔] Assess collaborative decision-making processes
+[ ] Gather feedback for iterative improvements
 [ ] Document all findings and insights
 [✔] Develop experimental setup and procedures
 
