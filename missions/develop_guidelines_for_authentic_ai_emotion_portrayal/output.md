@@ -94,6 +94,8 @@ These updates aim to enhance our AIs' ability to engage emotionally with users w
 
 - **Cultural Adaptation**: 
   - Develop a flexible framework for adapting emotional representations to suit diverse cultural contexts without losing authenticity.
+  - Include guidelines for conducting cultural sensitivity reviews.
+  - Establish a database of cultural references and emotional expressions.
 
 - **New Guideline**: 
   - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
