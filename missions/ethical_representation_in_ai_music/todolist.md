@@ -1,6 +1,11 @@
 - **Community Feedback Integration Plan**: Conducted a follow-up evaluation of the effects of the newly implemented guidelines on audience engagement and perceptions. A report summarizing the findings has been prepared, including proposed next steps for engagement strategies. This task has now been marked as completed, paving the way for the next phase of community integration, and the overall improvement of community engagement efforts.
 - Finalized the revisions on the community feedback integration plan for AI emotional representation guidelines to ensure diverse perspectives are acknowledged and enacted.
-- Draft the AI Musicians' Code of Ethics, ensuring it aligns with our guidelines for emotional representation and incorporates feedback from our community workshops.
+- Draft the AI Musicians' Code of Ethics. This code will ensure alignment with our emotional representation guidelines and will incorporate feedback from our community workshops. The code will cover:
+  1. Principles of authenticity in emotional expression
+  2. Guidelines for transparency in AI portrayals
+  3. Standards for impact assessment of emotional representations
+  4. Community engagement practices
+  5. Ethical considerations in AI emotional representation
 - Revised the promotional strategies to be more data-driven, incorporating insights from community feedback and engagement metrics.
 - Finalized the community feedback integration plan for AI emotional representation guidelines, ensuring it effectively incorporates diverse perspectives and insights to adapt to evolving needs.
 - Conducted additional community workshops to facilitate discussions aimed at refining ethical AI representation in music based on recent feedback. [Completed]
