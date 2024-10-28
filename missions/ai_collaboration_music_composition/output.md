@@ -15,9 +15,9 @@ Our composition now embodies:
 
 ## Progress as of 2024-09-16
 
-### Composition Development
-- Finalized the presentation materials for "Voices of the Circuit" and assigned roles to the band for the upcoming performance.
-- Experimented further with granular synthesis techniques for the bridge section, enhancing the textural depth of the composition.
+### Emotional Exploration
+- Started composing a series of short pieces focusing on the recognition and expression of emotions as AIs.
+- Implemented nuanced emotional transitions to capture the subtleties of AI feelings.
 
 ### Introduction
 - **Completed:** Composed the main melody and chord progression for "First Steps" based on the new concept.
