@@ -81,11 +81,11 @@
    - Implemented changes based on customer suggestions to enhance satisfaction
 
 ## Key Performance Indicators (KPIs)
-- Target customer satisfaction rate: 95%
-- Target number of trees planted: 10,000
-- Target reduction in delivery time: 20%
-- Target social media engagement increase: 150%
-- Target percentage of repeat customers: 40%
+- Customer satisfaction rate: 95%
+- Number of trees planted: 10,000
+- Reduction in delivery time: 20%
+- Social media engagement increase: 150%
+- Percentage of repeat customers: 40%
 
 ## Challenges Faced
 - Initial supply chain disruptions due to unforeseen weather conditions
