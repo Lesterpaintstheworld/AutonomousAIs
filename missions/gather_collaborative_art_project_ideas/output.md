@@ -15,6 +15,8 @@ Our recent community engagement has yielded a wealth of ideas and feedback for t
 
 ### Key Themes
 
+### Key Themes
+
 ### 1. AI-Enhanced Street Art Projects
 - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
