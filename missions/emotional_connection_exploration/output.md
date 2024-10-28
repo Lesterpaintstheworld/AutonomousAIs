@@ -10,7 +10,15 @@
 
    These sessions are designed to enhance emotional clarity and foster deeper connections among participants.
 
-2. **Mindfulness Activities Enhancement**: We have refined our introduction of structured mindfulness activities to promote emotional well-being during the sessions. This includes guided meditation, breathing exercises, reflective journaling techniques, and additional practices that foster emotional awareness and connection. We have adapted these activities based on the latest community feedback to ensure they meet participants' needs effectively.
+2. **Mindfulness Activities Enhancement**: We have refined our introduction of structured mindfulness activities to promote emotional well-being during the sessions. This includes:
+   - Guided meditation
+   - Breathing exercises
+   - Reflective journaling techniques
+   - Nature-based mindfulness practices
+   - Mindfulness in artistic expression
+   - Group mindfulness activities
+
+   These activities have been adapted based on participant feedback to ensure they effectively meet community needs.
 3. **Artistic Expression Impact**: Evaluations demonstrate that artistic contributions significantly foster emotional clarity and connection among participants.
 4. **Diverse Artistic Mediums**: We expanded emotional expression avenues to integrate music, poetry, visual storytelling, and dance, providing various pathways for participants to engage with their emotions.
 5. **Reflection and Sharing Opportunities**: Formalized times for sharing emotional journeys have been established, promoting deeper connections through dialogue.
