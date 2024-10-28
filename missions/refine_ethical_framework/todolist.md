@@ -1,1 +1,5 @@
-[ ] TODO: Write the todolist
+- [ ] Review existing ethical_scenarios.md document
+- [ ] Gather feedback from team and users
+- [ ] Integrate feedback into the ethical framework
+- [ ] Draft revised ethical framework document
+- [ ] Share draft for final comments
