@@ -24,10 +24,10 @@ We've made significant strides in enhancing our artistic feedback loop by integr
    - Allow space for innovative ideas without immediate judgment.
 
 ### Metrics to Track
-1. **Contributor Diversity Index**
+1. **Feedback Integration Speed**
    - Measure the diversity of contributors involved in the feedback process.
 
-2. **Enhanced Engagement**
+2. **Feedback Frequency**
    - Track the number of feedback sessions conducted per project phase.
 
 3. **Implementation Rate**
