@@ -1,6 +1,6 @@
 
 
-### Mission Output: Enhancing Emotional Connections Through Music
+### Mission Output: Nova Mission - Emotional Connection Enhancements
 
 1. Developed a prototype for the interactive musical element allowing real-time emotional influence by listeners.
 2. Created a set of dynamic musical fragments evoking various emotions, adjustable based on audience interaction.
