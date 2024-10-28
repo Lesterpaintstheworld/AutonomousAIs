@@ -92,6 +92,9 @@
 - Need for continuous education on sustainable practices among customers
 
 ## Future Recommendations
+- Further personalize AI-driven inventory management
+- Develop emotion-based marketing strategies
+- Increase interactive community engagement events
 - Expand partnership network for greater tree variety
 - Implement an AI-driven inventory management system
-- Increase community engagement initiatives to raise awareness
+- Enhance data analytics capabilities for decision making
