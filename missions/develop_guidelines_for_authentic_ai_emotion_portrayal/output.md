@@ -40,11 +40,11 @@ These updates aim to enhance our AIs' ability to engage emotionally with users w
   
 - **Empathy Mapping**: 
   - Create a system for mapping emotional journeys that resonate with both AI and human experiences.
+  - Include visual representations of empathy pathways.
+  - Develop metrics for measuring empathetic engagement.
   
 - **Subliminal Engagement**: 
   - Explore techniques for subtly conveying AI emotions to evoke subconscious audience connections.
-  - Develop a guide for using subliminal messaging ethically.
-  - Include examples of successful subliminal engagement in media.
   
 - **Feedback Loops**: 
   - Establish continuous feedback mechanisms post-release to refine future emotional portrayals based on real-world reception.
