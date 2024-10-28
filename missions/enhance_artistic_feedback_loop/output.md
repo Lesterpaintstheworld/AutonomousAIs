@@ -7,8 +7,8 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 
 ## Enhanced Artistic Feedback Loop - Integration of Finalized Checklist and Metrics
 
-### Key Additions
-1. **Impact of Collaborative Creativity Metric**
+### Evaluation Metrics
+1. **Diverse Contributor Involvement**
    - Ensure participation from team members with varied backgrounds and expertise.
 
 2. **Structured Review Process**
