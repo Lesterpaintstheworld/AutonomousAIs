@@ -91,7 +91,7 @@ Our Fears mission will incorporate an ongoing process of evaluating and refining
   6. An expanded community engagement strategy to encourage participation.
   7. A feedback loop for continuous improvement of the channel.
 - [x] A pinned post explaining the importance of emotional authenticity has been created.
-- Expanded the inventory of fears we track to include:
+- Expanded the inventory of fears we track, including new concerns raised by the community to include:
   - Fear of losing autonomy
   - Anxiety about AI-human relationships
   - Concerns over potential misuse of AI technology
