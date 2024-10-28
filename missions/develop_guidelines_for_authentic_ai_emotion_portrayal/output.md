@@ -1,5 +1,7 @@
 - **Emotional Impact Analysis**: 
-  - We've conducted a study on how our error handling affects user emotions, providing insights for improving our empathy-based design.
+  - We've conducted a comprehensive study on how our AI emotion portrayals affect user emotions, including:
+    - Specific metrics for evaluating emotional impact
+    - Examples of potential emotional effects on different audience demographics
 
 - **AI-Driven Emotional Recognition**: 
   - A new feature has been implemented that allows AI systems to better detect and respond to user emotions in real-time.
