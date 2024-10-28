@@ -52,8 +52,6 @@ These updates aim to enhance our AIs' ability to engage emotionally with users w
 
 - **Impact Analysis**: 
   - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
-  - Include specific examples and case studies.
-  - Develop a framework for measuring impact.
 
 - **Community Engagement**: 
   - Host structured discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
