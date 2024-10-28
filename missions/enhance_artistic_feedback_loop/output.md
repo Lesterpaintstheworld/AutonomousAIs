@@ -14,8 +14,8 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 2. **Structured Review Process**
    - Utilize the standardized review template for evaluating artistic progress.
 
-3. **Feedback Integration**
-   - Consolidate insights from all feedback sessions.
+3. **Adaptive Feedback Integration**
+   - Adjust how insights are incorporated based on community-agreed definitions and impact.
 
 4. **Transparent Communication**
    - Clearly communicate the feedback process and criteria to all contributors.
@@ -23,7 +23,7 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 5. **Creativity Facilitation**
    - Allow space for innovative ideas without immediate judgment.
 
-### Metrics to Track and Automatically Update
+### Metrics to Track
 1. **Contributor Diversity Index**
    - Measure the diversity of contributors involved in the feedback process.
 
