@@ -28,7 +28,7 @@
    - Resource allocation effectiveness
 
 5. **Predictive Modeling**: Developed models to:
-   - Predict user emotional responses to errors
+   - Anticipate potential errors
    - Identify root causes of existing issues
    - Suggest proactive measures
 
