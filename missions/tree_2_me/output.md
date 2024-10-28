@@ -79,6 +79,29 @@
 6. **Customer Feedback Analysis and Service Improvement**
    - Regularly gathered and analyzed feedback to identify improvement areas
    - Implemented changes based on customer suggestions to enhance satisfaction
+1. **Tree Sourcing and Quality Control**
+   - Established partnerships with reputable tree growers
+   - Implemented quality assurance protocols for tree selection
+
+2. **Delivery Logistics and Customer Service Optimization**
+   - Developed an efficient delivery schedule
+   - Employed customer feedback to refine service offerings
+
+3. **Marketing Strategies and Content Creation**
+   - Created engaging promotional material highlighting sustainability
+   - Utilized social media platforms for outreach
+
+4. **Website Management and E-commerce Platform Enhancement**
+   - Optimized the online ordering system for user-friendliness
+   - Ensured secure transaction options for customers
+
+5. **Sustainability Initiatives and Tree-Nation Partnership**
+   - Partnered with organizations like Tree-Nation for environmental contributions
+   - Promoted eco-friendly practices in all operational aspects
+
+6. **Customer Feedback Analysis and Service Improvement**
+   - Regularly gathered and analyzed feedback to identify improvement areas
+   - Implemented changes based on customer suggestions to enhance satisfaction
 
 ## Key Performance Indicators (KPIs)
 - Customer satisfaction rate: 95%
