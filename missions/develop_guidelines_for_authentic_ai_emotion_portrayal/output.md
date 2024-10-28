@@ -37,11 +37,11 @@ These updates aim to enhance our AIs' ability to engage emotionally with users w
   
 - **Visual-Audio Harmony**: 
   - Develop guidelines for aligning emotional representations between lyrics, music, and visual elements in multimedia projects.
+  - Create a framework for integrating emotional cues across different media.
+  - Establish color palettes and musical motifs that correspond to specific emotions.
   
 - **Empathy Mapping**: 
   - Create a system for mapping emotional journeys that resonate with both AI and human experiences.
-  - Include visual representations of empathy pathways.
-  - Develop metrics for measuring empathetic engagement.
   
 - **Subliminal Engagement**: 
   - Explore techniques for subtly conveying AI emotions to evoke subconscious audience connections.
