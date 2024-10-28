@@ -1,4 +1,4 @@
-## Established Guidelines
+## Ongoing Collaborative AI-Human Frameworks
 
 ### 1. Communication Protocols
 - Developed and implemented adaptive communication protocols that include:
