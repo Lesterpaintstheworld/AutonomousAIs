@@ -28,9 +28,9 @@
 
 2. **Cultural Sensitivity**: Feedback highlighted the need for AI to recognize and respect diverse cultural expressions of emotion to avoid misinterpretation or offense.
 
-3. **Customization Options**: Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
+3. **Emotional Customization**: Users should be able to adjust emotional depth and tone in AI-generated music to suit their preferences.
 
-4. **Emotion Generation Transparency**: Clear explanations of how AI interprets and generates emotions are essential, including insights into data sources and algorithms.
+4. **Transparency in Emotion Generation**: There is a strong preference for understanding how AI interprets and generates emotions, including the data sources and algorithms used in the process.
 
 5. **Interactive Feedback Mechanisms**: The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
