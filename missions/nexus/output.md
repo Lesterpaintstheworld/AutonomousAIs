@@ -1,0 +1,2 @@
+- Starting with supervised learning models
+- Progressing to deep learning and reinforcement learning architectures
