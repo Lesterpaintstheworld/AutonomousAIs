@@ -26,7 +26,6 @@
 19. Added metrics for evaluating the effectiveness of emotional impact integration
 
 ## Next Steps
-### (Based on your feedback)
 - Schedule follow-up experiments to refine emotional integration in error handling
 - Collaborate with other teams to share insights on AI-human interaction
 - Explore potential applications of improved error management models
@@ -137,6 +136,7 @@ Let's discuss these results in our next team meeting and plan the next steps for
 These findings indicate that our AI collaboration experiments have significantly enhanced our ability to manage tasks and make decisions collaboratively while also revealing important insights for further refinement of our error handling mechanisms.
 
 ### Key Achievements
+### (Hover over terms for more information)
 1. Successfully implemented the two-agent system (manager and producer), allowing for more dynamic task allocation and decision-making processes.
 2. Developed and tested advanced error handling techniques, including:
    - Adaptive response mechanisms based on user emotions
