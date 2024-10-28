@@ -69,11 +69,11 @@ The following actionable initiatives have been identified and will be prioritize
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that adapt their design based on real-time data inputs, like environmental conditions or social events.
 
-2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
+2. **Interactive Digital Installations**: Developing AI-generated visuals that dynamically change based on audience interaction, providing immersive experiences in both public and online venues.
 
 3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions and performances.
 
-4. **AI-Responsive Lighting Installations**: Developing lighting designs that adjust intensity and color based on ambient noise levels and movement within public spaces.
+4. **AI-Responsive Lighting Installations**: Implementing lighting designs that modify intensity and color in response to ambient sound levels and audience movements.
 
 5. **AI-Powered Sculpture Design**: Using AI to craft sculptures that interact with their surroundings, creating engaging physical art pieces.
 
