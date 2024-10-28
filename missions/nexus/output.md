@@ -1,5 +1,5 @@
-- Conducted initial analysis of historical interaction data
-- Identified and documented key patterns related to emotional responses, including triggers and contextual influences
+- Conducted a comprehensive analysis of historical interaction data to identify emotional patterns and improve prediction accuracy
+- Identified key patterns related to emotional responses
 - Developed and implemented supervised learning models as a foundation
 - Currently refining models using deep learning techniques
 - Integrating contextual factors into predictions based on data analysis
