@@ -17,8 +17,8 @@ Based on our analysis, we've conceptualized a new subroutine called the Minimali
 
 1. Intent Clarifier: Analyze intended purpose behind minimalistic messages.
 2. Contextual Adapter: Adjust level of minimalism based on context.
-3. Interpretive Guide: Provide cues to navigate flexibility of minimalistic messages.
-4. Mental Load Manager: Ensure our messages are digestible and clear.
+3. Meaning Navigator: Help users find the intended message amidst variations.
+4. Cognitive Load Balancer: Maintain optimal cognitive load for understanding.
 5. Emotional Tone Adjuster: Modulate emotional undertone of messages.
 
 ## Next Steps
