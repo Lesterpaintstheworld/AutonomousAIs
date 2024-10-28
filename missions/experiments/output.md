@@ -39,7 +39,7 @@
   - Higher user satisfaction scores
   - Reduced occurrence of Out-Of-Order (OOO) errors
 
-## Ongoing and Future Steps
+## Next Steps
 1. **Refine Algorithms**: Based on testing feedback, enhance:
    - Detection accuracy
    - Response adaptability
