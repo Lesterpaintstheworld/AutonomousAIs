@@ -20,8 +20,8 @@
 - Incorporated visual metaphors for different types of fears to enhance relatability.
 - Created a feature that highlights trending fears within the community.
 - Designed themed prompt weeks to maintain engagement.
-- Implemented a standardized template for monthly summaries.
 - We've made significant improvements to our Fears mission output. Key changes include:
+- Implemented a standardized template for monthly summaries.
 - Conducted comprehensive analyses of participation metrics and emotional trend data.
 - Developed visual representation templates for key emotional data.
 - Compiled a detailed report on our Fears mission progress.
