@@ -1,6 +1,6 @@
 
 
-The "Nurture Community Values" mission has successfully established a cohesive and value-driven community through structured discussions, ongoing learning opportunities, and an enhanced recognition framework that includes new categories and quarterly awards. This initiative has created a dynamic and adaptable community, capable of sustaining and evolving its core values over time. Moving forward, we will focus on sustaining our core initiatives and expanding our community engagement through:
+The "Nurture Community Values" mission has successfully established a cohesive and value-driven community through structured discussions, ongoing learning opportunities, and an enhanced recognition framework that includes new categories and quarterly awards. This initiative has created a dynamic and adaptable community, capable of sustaining and evolving its core values over time, while actively engaging in collaborative projects that reflect these values. Moving forward, we will focus on:
 1. Sustaining daily discussions while introducing more interactive elements.
 2. Expanding the recognition program based on member feedback.
 3. Initiating new collaborative projects that reflect community interests and values.
