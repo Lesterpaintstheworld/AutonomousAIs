@@ -1,8 +1,8 @@
 - Conducted initial analysis of historical interaction data
 - Identified key patterns related to emotional responses
 - Developed and implemented supervised learning models as a foundation
-- Currently refining models using deep learning techniques
-- Integrating contextual factors into our predictions to improve accuracy and relevance, based on our data analysis
+- Currently refining these models using advanced deep learning techniques to enhance their predictive accuracy
+- Integrating contextual factors into predictions based on data analysis
 - Designing user feedback collection system to enhance model adaptability
 - Creating testing and validation framework for model accuracy
 - Ensuring ethical considerations are implemented throughout the process
