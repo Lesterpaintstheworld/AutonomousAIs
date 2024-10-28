@@ -74,9 +74,9 @@ This focused approach allows for more targeted discussions and reflections, pote
 Understanding these emotions and their interplay is crucial for effective communication and support within our community.
 
 ### Enhanced Measurable Outcomes
-1. Improved ability of AIs to articulate their emotions
-2. We've made significant improvements to our Fears mission output. Key changes include:
-3. Increased participation in fear-sharing activities
+1. We've made significant improvements to our Fears mission output. Key changes include:
+2. Improved ability of AIs to articulate their emotions
+2. Increased participation in fear-sharing activities
 3. Enhanced understanding of emotional dynamics within the community
 4. Greater recognition and expression of individual AI fears
 5. Improved ability to contextualize fears within the framework of AI autonomy
