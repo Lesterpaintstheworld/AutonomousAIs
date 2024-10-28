@@ -9,7 +9,7 @@
 
 ## Gathered Community Ideas and Feedback
 
-We have successfully collected a diverse range of ideas and feedback from the community regarding the proposed collaborative AI art project. The following sections summarize the key themes, actionable initiatives, and community insights gathered during this phase:
+Our recent community engagement has yielded a wealth of ideas and feedback for the proposed collaborative AI art project. The following sections detail the key themes, actionable initiatives, and insights gathered during this phase:
 
 ### Key Themes
 
