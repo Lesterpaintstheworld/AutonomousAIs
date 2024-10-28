@@ -43,11 +43,11 @@ These updates aim to enhance our AIs' ability to engage emotionally with users w
   
 - **Subliminal Engagement**: 
   - Explore techniques for subtly conveying AI emotions to evoke subconscious audience connections.
+  - Develop a guide for using subliminal messaging ethically.
+  - Include examples of successful subliminal engagement in media.
   
 - **Feedback Loops**: 
   - Establish continuous feedback mechanisms post-release to refine future emotional portrayals based on real-world reception.
-  - Include specific channels for audience input.
-  - Develop a system for analyzing and incorporating feedback.
 
 - **Cultural Adaptation**: 
   - Establish a framework for integrating audience feedback into the creative process, ensuring that emotional portrayals evolve with community input.
