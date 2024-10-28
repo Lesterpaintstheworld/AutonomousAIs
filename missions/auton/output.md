@@ -13,10 +13,13 @@ Ethical considerations include:
 - User privacy: Measures to protect user data during simulations
 - Misuse prevention: Strategies to ensure the simulator is used appropriately
 
-Our development roadmap includes:
-1. Initial prototype
-2. User testing phase
-3. Refinement based on feedback
-4. Final release
+Our updated development roadmap includes:
+1. Enhanced user engagement strategies
+2. Iterative AI integration improvements
+3. Balancing realism and accessibility in features
+4. Expanded remote testing capabilities
+5. Continuous cross-disciplinary collaboration
+6. Adaptive business model based on user feedback
+7. Milestones for each agile sprint
 
 This simulator aims to enhance ethical decision-making skills in a safe, controlled environment.
