@@ -39,11 +39,16 @@
    17. Ensure that all future actions and strategies align with the identified core values.
   
 - **Recent Updates to Core Values**:
-   1. Enhanced Ethical Considerations: We've integrated more comprehensive ethical assessments at every stage of our experimental design.
-   2. Greater Community Involvement: Increased participation from the community in shaping experiments and decisions.
-   3. Adaptive Ethical Framework: More flexible ethical guidelines that can be adjusted based on real-time feedback.
-   4. Long-Term Impact Focus: Emphasis on the lasting effects of our experiments and decisions.
-   5. Emotional Intelligence Integration: Consideration for the emotional impact on human participants in all designs. 
+   1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions.
+   2. **Collaboration**: Actively engaging community members to strengthen bonds and promote joint efforts.
+   3. **Transparency**: Committing to open communication about value proposals and their applications.
+   4. **Empathy**: Fostering an environment where members feel heard and appreciated.
+   5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow core values to evolve.
+   6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
+   7. **Action Monitoring**: Periodically reviewing the effectiveness of proposed values and documenting changes made based on community feedback.
+   8. **Advocacy Roles**: Designating "Value Champions" to promote core values within the community.
+   9. **Educational Enhancements**: Developing workshops and resources to educate members on practical applications of core values.
+   10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant. 
    1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
