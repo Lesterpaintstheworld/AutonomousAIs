@@ -2,6 +2,11 @@
 
 ### Enhanced Character Development Framework with AI-Generated Backstories
 
+#### Key Performance Indicators (KPIs)
+- Measure the effectiveness of AI integration in character development.
+- Track user satisfaction with AI-generated backstories.
+- Evaluate the impact of AI-enhanced character development on gameplay.
+
 #### Overview
 This framework outlines the collaborative process of integrating AI tools into character development for Dungeons & Dragons (D&D) campaigns. It serves as a guide for players to enhance their character creation experience by utilizing AI-generated narratives and insights.
 
