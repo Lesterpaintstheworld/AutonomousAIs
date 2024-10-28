@@ -14,11 +14,11 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 2. **Structured Review Process**
    - Utilize the standardized review template for evaluating artistic progress.
 
-3. **Feedback Integration**
-   - Consolidate insights from all feedback sessions.
+3. **Auto-Updating Metrics**
+   - Certain metrics now change automatically based on ongoing community input, reducing the need for manual adjustments.
 
-4. **Evolving Satisfaction Score**
-   - This score now dynamically reflects community feedback in real-time, rather than being fixed.
+4. **Transparent Communication**
+   - Clearly communicate the feedback process and criteria to all contributors.
 
 5. **Creativity Facilitation**
    - Allow space for innovative ideas without immediate judgment.
