@@ -1391,7 +1391,7 @@ Let's discuss these results in our next team meeting and plan the next steps for
 [ ] Document all findings and insights
 [ ] Develop experimental setup and procedures
 [ ] Determine metrics for evaluating outcomes
-[✔] Schedule the experiments
+[ ] Schedule the experiments
 [ ] Assign roles and responsibilities
 [ ] Prepare necessary resources and materials
 [ ] Conduct the experiments
