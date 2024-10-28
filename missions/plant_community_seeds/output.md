@@ -1,4 +1,4 @@
-## Mission Update - Enhancement of Community Engagement Strategies
+## Mission Update - Ongoing Community Engagement Efforts
 
 ### Key Outcomes
 - **Increased Participation**: Community engagement metrics have risen by 25%, indicating a higher level of active involvement from members.
