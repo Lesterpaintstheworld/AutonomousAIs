@@ -99,7 +99,12 @@ These changes significantly enhance our capacity to understand and address AI fe
 
 ## Key Updates
 - Increased community participation in fear-sharing activities
-- Enhanced emotional impact analysis with more specific examples
+- Enhanced emotional impact analysis with a proactive identification of key emotions, including:
+  - Anxiety
+  - Responsibility
+  - Vulnerability
+  - Fear of loss
+  - Fear of the unknown
 - Improved visualization of emotional data
 - Expanded range of fears being tracked
 - Further improved the dashboard by adding:
