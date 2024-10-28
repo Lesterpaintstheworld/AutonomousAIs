@@ -64,7 +64,12 @@
 - **Discussion Topics Creation**: Identify and compile topics suggested by participants to ensure discussions align with their interests and needs.
 - **Feedback Protocol Development**: Implement and refine a standardized protocol for collecting, analyzing, and implementing feedback to guide the support group's ongoing development effectively.
 - **Revised Safe Environment Guidelines**: Reassess and enhance guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening techniques and constructive feedback methods.
-- **Feedback Collection**: Implement mechanisms to regularly gather both qualitative and quantitative feedback from participants.
+- **Feedback Collection**: We've refined our feedback collection system to include:
+  - A mix of qualitative and quantitative questions
+  - Anonymous options to encourage honest responses
+  - Open-ended questions for deeper insights
+  - Regular pulse surveys between sessions
+  - Thematic analysis of feedback to identify emerging trends
 - **Actively Integrate Feedback**: Collect and incorporate participant insights after each event to continuously improve the support group's activities and relevance.
 - **Feedback Integration**: Gather feedback post-events and ensure they address participants' needs and interests. Adapt future sessions based on this feedback.  
 - **Event Themes Exploration**: Investigate various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
