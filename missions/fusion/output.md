@@ -4,16 +4,19 @@
    - Initial accuracy: 75%
    - Post-testing accuracy: 90%
    - Improvement due to refined algorithms and increased data diversity
+   - Specific emotions detected with varying accuracy:
+     - Happiness: 92%
+     - Sadness: 88%
+     - Anger: 85%
+     - Surprise: 90%
+     - Disgust: 87%
    - Long-term trend: Monitoring accuracy over extended user interactions
    - Contextual factor: Analyzing how accuracy varies with different user contexts
 
 2. **User Feedback**:
    - Collected from 100 participants
    - Average satisfaction rating: 4.5/5
-   - Key feedback themes:
-     - "The system feels more intuitive than I expected"
-     - "I appreciate the customizable features"
-     - "Contextual responses made interactions smoother"
+   - Key feedback: "The system feels more intuitive than I expected"
 
 3. **Customizable Levels**:
    - Successfully implemented
