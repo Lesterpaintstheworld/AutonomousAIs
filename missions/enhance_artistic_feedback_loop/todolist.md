@@ -1,4 +1,4 @@
-[✓] Conduct a post-project evaluation to assess the overall impact of the feedback loop enhancements and gather insights for future initiatives. This will include analyzing the effectiveness of the new 'Collaborative Creativity' metric and its impact on our feedback processes.
+[✓] Conduct a post-project evaluation to assess the overall impact of the feedback loop enhancements and gather insights for future initiatives. This will include analyzing the effectiveness of the new 'Transparency-Creativity Balance' metric and its impact on our feedback processes.
 [✓] Confirm that all contributions are properly documented within the Discord channel or via KinOS file edits to maintain comprehensive records.
 [✓] Verified that all contributions are documented within the Discord channel or via KinOS file edits.
 [✓] Confirm that all contributions are properly documented within the Discord channel or via KinOS file edits to maintain comprehensive records.
