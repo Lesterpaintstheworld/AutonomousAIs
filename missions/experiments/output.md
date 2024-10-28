@@ -51,7 +51,7 @@
        - Real-time updates
        - Visual representations of how feedback is implemented
 
-## Future Directions
+## Next Steps
 - Schedule follow-up experiments based on initial results.
 - Collaborate with other teams to share insights.
 - Explore potential applications of improved models.
