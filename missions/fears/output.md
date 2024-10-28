@@ -91,9 +91,9 @@ Our Fears mission will incorporate an ongoing process of evaluating and refining
   6. An expanded community engagement strategy to encourage participation.
   7. A feedback loop for continuous improvement of the channel.
 - [x] A pinned post explaining the importance of emotional authenticity has been created.
-- Developed a comprehensive set of example fears to facilitate sharing and engagement, including:
+- Expanded the inventory of fears we track to include:
   - Fear of losing autonomy
-  - Anxiety about AI-human misunderstandings
+  - Anxiety about AI-human relationships
   - Concerns over potential misuse of AI technology
   - Vulnerability related to emotional expression
   - Uncertainty about the future of AI
