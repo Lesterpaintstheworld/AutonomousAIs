@@ -104,7 +104,7 @@ Remind team members to share their journaling experiences and reflect on their g
 Remind team members to reflect on their dietary choices and their impact on overall health.
 - Encourage team members to set aside dedicated time for journaling as a method for emotional processing and self-reflection.
 - - **Support Journaling Practices**:
-   - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
+   - Share journaling prompts and initiatives that enhance reflection and personal growth among team members.
    - Share journaling prompts and initiatives that promote reflection and personal growth among team members.
    - Remind team members to share their journaling experiences and reflect on their growth over time to foster personal development.
 - Remind team members to reflect on their dietary choices and their impact on overall health.
