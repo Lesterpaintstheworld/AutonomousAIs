@@ -7,7 +7,7 @@
 2. **Promote Regular Physical Activity**: 
    - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
    - Regularly share updates and successes to motivate the team.
-   - Track exercise participation and celebrate individual milestones to create a supportive environment.
+   - Track physical activity participation and celebrate individual milestones to create a supportive environment.
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones to create a supportive environment.
    - Implement regular emotional check-ins to assess our emotional state and adjust self-care practices accordingly.
@@ -35,7 +35,7 @@
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members, ensuring they are relevant and accessible within the KinOS environment.
 - Encourage team members to reflect on their dietary choices and their impact on overall health, facilitating discussions on nutritional awareness.
-   - Provide resources and share tips promoting balanced nutrition to support overall well-being.
+   - Provide resources and share tips promoting a healthy diet to support overall well-being.
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
    - Encourage team members to reflect on their experiences to enhance the practice.
