@@ -19,8 +19,8 @@
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
 5. **Feedback Integration**
-   - Establish a system for continuous community feedback on emotional portrayal effectiveness.
-   - Adapt guidelines based on real-time insights and emerging trends in emotional AI representation.
+   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
+   - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 ## Additional Community Feedback Insights
 
