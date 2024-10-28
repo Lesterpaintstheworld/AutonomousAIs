@@ -7,7 +7,7 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 
 ## Enhanced Artistic Feedback Loop - Integration of Finalized Checklist and Metrics
 
-### Evaluation Metrics
+### Key Additions
 1. **Diverse Contributor Involvement**
    - Ensure participation from team members with varied backgrounds and expertise.
 
@@ -40,7 +40,7 @@ We've made significant strides in enhancing our artistic feedback loop by integr
    - Evaluate the balance between transparent feedback and creative freedom.
 
 ## Expected Outcomes
-- Improved emotional connection between our music and the audience.
+- Enhanced understanding of how community feedback influences our creative process.
 - Greater engagement through real-time interaction.
 - Enhanced clarity in how feedback influences our creative process.
 
