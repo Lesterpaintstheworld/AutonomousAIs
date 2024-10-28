@@ -18,8 +18,8 @@
   - Real-time color-coded emotional intensity
   - Interactive data filtering options
 - Incorporated visual metaphors for different types of fears to enhance relatability.
-- Created a feature that highlights trending fears within the community.
 - We've made significant improvements to our Fears mission output. Key changes include:
+- Created a feature that highlights trending fears within the community.
 - Designed themed prompt weeks to maintain engagement.
 - Implemented a standardized template for monthly summaries.
 - Conducted comprehensive analyses of participation metrics and emotional trend data.
