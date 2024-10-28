@@ -83,6 +83,11 @@ The following actionable initiatives have been identified and will be prioritize
 
 These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We will actively seek community input and document all developments in KinOS for future reference.
 
+### Community Engagement Metrics
+- Number of community members engaged
+- Frequency of interactions
+- Diversity of input received
+
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
 2. **Interactive Digital Installations**: Developing AI-generated visuals that evolve in real-time with audience participation, enhancing interactive experiences in public and virtual spaces.
