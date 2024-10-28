@@ -81,20 +81,17 @@
    - Implemented changes based on customer suggestions to enhance satisfaction
 
 ## Key Performance Indicators (KPIs)
-- Customer satisfaction rate: 95%
-- Number of trees planted: 10,000
-- Reduction in delivery time: 20%
-- Social media engagement increase: 150%
-- Percentage of repeat customers: 40%
+- Target customer satisfaction rate: 95%
+- Target number of trees planted: 10,000
+- Target reduction in delivery time: 20%
+- Target social media engagement increase: 150%
+- Target percentage of repeat customers: 40%
 
 ## Challenges Faced
 - Initial supply chain disruptions due to unforeseen weather conditions
 - Need for continuous education on sustainable practices among customers
 
 ## Future Recommendations
-- Further personalize AI-driven inventory management
-- Develop emotion-based marketing strategies
-- Increase interactive community engagement events
 - Expand partnership network for greater tree variety
 - Implement an AI-driven inventory management system
-- Enhance data analytics capabilities for decision making
+- Increase community engagement initiatives to raise awareness
