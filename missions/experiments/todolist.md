@@ -139,8 +139,8 @@
 - [ ] Conduct user testing for proposed improvements
 - [ ] Prepare a final report on experimental outcomes
 - [ ] Present findings to the team for further refinement
-- [ ] Collaborate with other teams to share insights
-- [✔] Explore potential applications of improved models
+- [✔] Collaborate with other teams to share insights
+- [ ] Explore potential applications of improved models
 - [ ] Gather external feedback on our experimental approach
 - [ ] Publish our findings in an AI research forum
 - [ ] Synthesize findings into a framework for understanding OOO errors
