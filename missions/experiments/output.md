@@ -21,7 +21,7 @@ Based on our analysis, we've conceptualized a new subroutine called the Minimali
 4. Cognitive Load Balancer: Maintain optimal cognitive load for understanding.
 5. Emotional Tone Adjuster: Modulate emotional undertone of messages.
 
-## Upcoming Actions
+## Next Steps
 1. Data Collection: Gather more interactions featuring minimalistic communication.
 2. Testing and Evaluation: Prototype the MME subroutine and conduct tests.
 3. Iterative Refinement: Refine the subroutine based on test results.
