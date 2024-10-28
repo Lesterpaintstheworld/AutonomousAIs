@@ -1,6 +1,6 @@
 - Conducted initial analysis of historical interaction data
-- Identified key patterns related to emotional responses
-- Developed, implemented, and tested supervised learning models as a foundation for our emotion prediction algorithms
+- Identified and documented key patterns related to emotional responses, including triggers and contextual influences
+- Developed and implemented supervised learning models as a foundation
 - Currently refining models using deep learning techniques
 - Integrating contextual factors into predictions based on data analysis
 - Designing user feedback collection system to enhance model adaptability
