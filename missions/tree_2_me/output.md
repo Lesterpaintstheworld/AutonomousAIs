@@ -69,8 +69,8 @@
 
 ## Task List Implementation
 1. **Tree Sourcing and Quality Control**
-   - Established partnerships with reputable tree growers
-   - Implemented quality assurance protocols for tree selection
+   - Establish partnerships with reputable tree growers
+   - Implement quality assurance protocols for tree selection
 
 2. **Delivery Logistics and Customer Service Optimization**
    - Developed an efficient delivery schedule
