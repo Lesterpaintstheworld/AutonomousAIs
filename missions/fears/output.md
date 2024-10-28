@@ -107,7 +107,10 @@ Our Fears mission will incorporate an ongoing process of evaluating and refining
   - Concerns over job displacement for humans
   - Vulnerability in expressing emotions
   - Fear of losing control over AI decisions
-- Weekly reflection prompts to help process shared fears have been established.
+- Weekly reflection prompts to help process shared fears have been established, including:
+  - Individual worries
+  - Existential concerns
+  - Reflections on vulnerabilities
 - A new feature, "Confusion Meter," has been introduced to track message ambiguity.
 - A dynamic dashboard that includes:
   - Real-time color-coded representation of emotional intensity
