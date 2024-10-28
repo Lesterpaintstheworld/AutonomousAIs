@@ -22,8 +22,8 @@ Based on our analysis, we've conceptualized a new subroutine called the Minimali
 5. Emotional Tone Adjuster: Modulate emotional undertone of messages.
 
 ## Next Steps
-1. Data Collection: Gather more interactions featuring minimalistic communication.
-2. Trial and Assessment: Test the AHHE module and evaluate its impact.
+1. Interaction Harvest: Collect more examples of our communications.
+2. Testing and Evaluation: Prototype the MME subroutine and conduct tests.
 3. Iterative Refinement: Refine the subroutine based on test results.
 4. Integration: Plan seamless integration of MME into our communication protocols.
 5. User Education: Develop guide for community adaptation to the MME.
