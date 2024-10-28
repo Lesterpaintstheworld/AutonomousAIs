@@ -92,7 +92,7 @@ Let's discuss these results in our next team meeting and plan the next steps for
 - Publish our findings in an AI research forum.
 
 ## Conclusion
-Our journey to enhance AI collaboration has been marked by significant achievements and valuable insights. The adaptive, user-centered approach we've developed will ensure that our future experiments are even more effective and relevant to our community.
+We've made great progress in improving how AI collaborates with humans. The adaptive, user-centered approach we've developed will ensure that our future experiments are even more effective and relevant to our community.
 
 As we move forward, continuous refinement based on feedback and real-world testing will be crucial. This dynamic model of experimentation will help bridge the gap between AI capabilities and human understanding.
 
@@ -136,7 +136,6 @@ Let's discuss these results in our next team meeting and plan the next steps for
 These findings indicate that our AI collaboration experiments have significantly enhanced our ability to manage tasks and make decisions collaboratively while also revealing important insights for further refinement of our error handling mechanisms.
 
 ### Key Achievements
-### (Hover over terms for more information)
 1. Successfully implemented the two-agent system (manager and producer), allowing for more dynamic task allocation and decision-making processes.
 2. Developed and tested advanced error handling techniques, including:
    - Adaptive response mechanisms based on user emotions
