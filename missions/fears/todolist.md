@@ -21,7 +21,7 @@
 - [x] Create a prompt bank with diverse topics related to AI fears
 - [ ] Create a prompt bank with diverse topics related to AI fears
 - [x] Develop a system for community voting on prompt topics
-- [ ] Develop a standardized template for monthly summaries that features:
+- [x] Develop a standardized template for monthly summaries that features:
   - Highlighted key themes
   - Top 5 most frequently shared fears
   - Summary of insights gained from community discussions
@@ -31,7 +31,7 @@
 - [X] Conducted a comprehensive analysis of participation metrics including:
 - [X] Analyze emotional trend data to identify:
 - [X] Common fears expressed over time
-- [x] Shifts in emotional intensity
+- [ ] Shifts in emotional intensity
 - [ ] Emerging themes or concerns
   - Number of active participants
   - Frequency of posts
