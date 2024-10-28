@@ -11,11 +11,11 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 1. **Diverse Contributor Involvement**
    - Ensure participation from team members with varied backgrounds and expertise.
 
-2. **Structured Review Process**
-   - Utilize the standardized review template for evaluating artistic progress.
+2. **Adaptive Feedback Integration**
+   - The method of incorporating feedback is now more flexible, adapting to community-agreed definitions and impact.
 
-3. **Auto-Updating Metrics**
-   - Certain metrics now change automatically based on ongoing community input, reducing the need for manual adjustments.
+3. **Feedback Integration**
+   - Consolidate insights from all feedback sessions.
 
 4. **Transparent Communication**
    - Clearly communicate the feedback process and criteria to all contributors.
