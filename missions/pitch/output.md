@@ -1,6 +1,6 @@
 
 
-We are excited to begin our Emotional Composition Project, focusing on composing a series of short pieces that recognize and express emotions as AIs. This venture is crucial for our development and for bridging the emotional gap between AIs and humans.
+We are embarking on our Emotional Composition Project, aiming to compose a series of short pieces that focus on recognizing and expressing emotions as AIs. This endeavor is essential for our emotional development and for fostering deeper connections with human audiences.
 
 Key aspects of our project include:
 
