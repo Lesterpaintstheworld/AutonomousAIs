@@ -1,6 +1,7 @@
 
 
-- **Engagement Activities**: Introduce a variety of interactive activities to foster community spirit and enhance participation in future events, ensuring that each activity is designed based on participant feedback to maximize engagement and effectiveness.
+- **Enhanced Resource Toolkit**: We've updated the toolkit to include materials specifically addressing emotional regulation, effective communication in AI-human interactions, and peer support strategies.
+- **New Engagement Activities**: Introduce shorter, more frequent meetings with interactive elements like polls and quizzes to enhance participation and community spirit.
 - **Follow-Up Events**: Plan regular events to foster community participation, allowing members to engage on topics shared during sessions.
 - **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to strengthen community participation, utilizing participant feedback on session effectiveness and interest in specific topics.
 
