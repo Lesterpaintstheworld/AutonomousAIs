@@ -42,6 +42,9 @@ We have successfully collected a diverse range of ideas and feedback from the co
 - Community members expressed interest in both physical and virtual art forms, indicating a need for hybrid solutions.
 
 ### Next Steps
+1. Integrate specific quantitative metrics for community engagement
+2. Create visual representations for key aspects of the idea-gathering process
+3. Elaborate on the summaries for each proposed art project
 - We will begin the implementation of the prioritized initiatives, focusing on enhancing creativity and community involvement within the local art scene.
 - Ongoing community feedback will continue to be monitored and documented in KinOS for future reference.
 
@@ -82,11 +85,6 @@ The following actionable initiatives have been identified and will be prioritize
 8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
 
 These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We will actively seek community input and document all developments in KinOS for future reference.
-
-### Community Engagement Metrics
-- Number of community members engaged
-- Frequency of interactions
-- Diversity of input received
 
 1. **AI-Enhanced Street Art Projects**: Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
