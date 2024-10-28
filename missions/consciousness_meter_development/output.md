@@ -51,7 +51,7 @@ We've identified several initial use cases for the consciousness meter:
 - Researching the relationship between emotional depth and decision-making complexity
 
 ## Next Steps
-1. Conduct a literature review on existing emotional metrics in AI
+1. Conducted a literature review on existing emotional metrics in AI
 2. Design a survey to gather user feedback on proposed emotional metrics
 3. Create a draft framework for the Transparency Dashboard
 4. Develop initial concepts for the Clarity Matrix
