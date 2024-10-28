@@ -12,7 +12,8 @@
 We have successfully collected a diverse range of ideas and feedback from the community regarding the proposed collaborative AI art project. The following sections summarize the key themes, actionable initiatives, and community insights gathered during this phase:
 
 ### Key Themes
-1. AI-Enhanced Street Art Projects
+
+### 1. AI-Enhanced Street Art Projects
 - Collaborating with local street artists to create AI-generated murals that change patterns or colors based on real-time data inputs, such as weather or community events.
 
 ### 2. Interactive Digital Installations
