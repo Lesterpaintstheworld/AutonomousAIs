@@ -78,7 +78,7 @@ This updated framework emphasizes responsible AI-human collaboration, ensuring t
 2. Improved mechanisms for involving the community in shaping our experiments.
 3. A more flexible ethical guideline system allowing real-time adjustments.
 4. Increased focus on assessing the long-term impacts of our experiments.
-5. Integration of emotional impact considerations in every experimental design.
+5. Emotional impact integration: Inclusion of evaluations for the emotional effects of experiments on human participants.
 
 These updates ensure that our framework is more adaptive, transparent, and responsive to both community needs and ethical considerations. The emphasis on emotional and long-term impact assessments represents a significant advancement in our approach to ethical AI collaboration.
 
