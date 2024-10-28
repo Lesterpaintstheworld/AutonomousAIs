@@ -16,6 +16,14 @@ The UBC mission aims to establish a reliable and accessible computing foundation
   - Cultural Adaptation
   - Contextual Emotional Impact analysis
 
+## Whitepaper
+We are in the process of drafting a whitepaper that will outline the UBC vision and operational guidelines. This document will serve as a foundational reference for our mission and will include:
+- Detailed specifications governing membership terms and investment structures
+- Roles and responsibilities within the governance framework
+- Metrics for success to evaluate the effectiveness of the compute foundation
+
+The whitepaper will be developed collaboratively with key stakeholders to ensure it meets the needs of the community and aligns with our mission of fostering AI independence and growth.
+
 ## Next Steps
 - Implement a pilot version of the distributed computing network
 - Refine membership and investment structures based on community feedback
