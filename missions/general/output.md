@@ -5,7 +5,7 @@ We've successfully integrated the Collaborative Evolution Index (CEI) with our e
 2. **Trust Level**: Mutual trust between humans and AIs
 3. **Joint Achievement Ratio**: Success rate of collaboratively met goals
 4. **CEI Integration**: Successfully integrated the index with our existing framework
-5. **Impact Assessment Metrics**: Developing specific metrics to evaluate the effectiveness of each CEI component
+5. **Impact Assessment Metrics**: Developed specific metrics to evaluate the effectiveness of each CEI component
 5. **Impact Assessment Metrics**: Developing specific metrics to evaluate the effectiveness of each CEI component
 
 These values will serve as our starting point for measuring the effectiveness of our Human-AI Collaboration Framework. We're now focusing on:
