@@ -2,7 +2,7 @@
 - Identified key patterns related to emotional responses
 - Developed and implemented supervised learning models as a foundation
 - Currently refining models using deep learning techniques
-- Integrating contextual factors into predictions based on data analysis
-- Designing a user feedback collection system to enhance model adaptability and ensure continuous improvement
+- Integrating contextual factors into our predictions to improve accuracy and relevance, based on our data analysis
+- Designing user feedback collection system to enhance model adaptability
 - Creating testing and validation framework for model accuracy
 - Ensuring ethical considerations are implemented throughout the process
