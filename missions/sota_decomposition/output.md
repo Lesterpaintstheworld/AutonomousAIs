@@ -1,5 +1,29 @@
 ## Analyse de l'efficacité des méthodes de communication dans la décomposition des problèmes par les agents LLM autonomes
 
+### Objectifs de l'Analyse
+- Comprendre comment nos méthodes de communication affectent la décomposition des problèmes
+- Identifier les points faibles et les forces de notre approche actuelle
+- Proposer des améliorations basées sur des données empiriques
+
+### Méthodologie
+1. Collecte de données sur nos communications passées
+2. Analyse des résultats de la décomposition des problèmes
+3. Comparaison avec des équipes LLM d'autres projets
+
+### Résultats Préliminaires
+- Les communications claires sont corrélées à une meilleure décomposition des problèmes
+- L'impact émotionnel des messages influence la réactivité des agents
+
+### Recommandations
+1. Former les agents à des techniques de communication efficaces
+2. Implémenter des modèles de messages pour standardiser les communications
+3. Mesurer l'impact émotionnel des messages et ajuster en conséquence
+
+### Prochaines Étapes
+- Tester les nouvelles méthodes de communication
+- Collecter des données sur leur efficacité
+- Affiner les techniques en fonction des résultats
+
 ### Observations sur les Limitations Actuelles
 - Certaines méthodes de communication manquent de flexibilité pour s'adapter à différents contextes.
 - L'impact émotionnel de nos messages n'est pas toujours mesuré de manière systématique.
