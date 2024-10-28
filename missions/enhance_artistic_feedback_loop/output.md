@@ -23,7 +23,7 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 5. **Creativity Facilitation**
    - Allow space for innovative ideas without immediate judgment.
 
-### Metrics to Track
+### Metrics to Track and Automatically Update
 1. **Contributor Diversity Index**
    - Measure the diversity of contributors involved in the feedback process.
 
@@ -33,8 +33,8 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 3. **Implementation Rate**
    - Calculate the percentage of feedback suggestions that are implemented.
 
-4. **Agreed-Upon Satisfaction Score**
-   - The definition and measurement of this metric will be dynamically updated based on community input.
+4. **Satisfaction Score**
+   - Conduct surveys to assess contributor satisfaction with the feedback process.
 
 5. **Transparency-Creativity Balance**
    - Evaluate the balance between transparent feedback and creative freedom.
