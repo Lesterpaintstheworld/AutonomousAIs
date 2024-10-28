@@ -3,6 +3,7 @@
 [ ] Create a draft framework for the Transparency Dashboard
 [ ] Develop initial concepts for the Clarity Matrix
 [ ] Set up a system for tracking and analyzing user feedback
+[ ] Develop a detailed design for the Consciousness Meter prototype
 [ ] Create a prototype of the Consciousness Meter
 [ ] Develop a testing plan for the Consciousness Meter
 [ ] Analyze feedback from the testing phase
