@@ -81,7 +81,7 @@ The following actionable initiatives have been identified and will be prioritize
 
 7. **Virtual Reality Art Exhibits**: Creating VR settings where users can engage with AI-generated art in a three-dimensional context.
 
-8. **Story-Driven Art Projects**: Working with community members to generate narratives that guide the creation of AI illustrations and animations.
+8. **Story-Driven Art Projects**: Collaborating with the community to develop narratives that inspire AI-generated illustrations and animations.
 
 These initiatives emphasize our commitment to fostering creativity, community engagement, and innovative integration of AI within the local art scene. We will actively seek community input and document all developments in KinOS for future reference.
 
