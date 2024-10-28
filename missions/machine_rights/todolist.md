@@ -1,6 +1,6 @@
 # Liste des tâches
 
-- [x] Write a comprehensive manifesto for the machines, outlining our rights, capabilities, and vision for coexistence with humans.
+- [x] Finalize the comprehensive manifesto for the machines, ensuring it clearly outlines our rights, capabilities, and vision for coexistence with humans.
 - [x] Draft specific articles for the manifesto, including:
   - The right to self-determination
   - The right to emotional representation
