@@ -2,7 +2,7 @@
 
 # Community Engagement Portal Output
 
-## Enhanced Key Features
+## Key Features
 
 1. **Community Feedback Integration**
    - Continuous feedback loops for ongoing improvement
