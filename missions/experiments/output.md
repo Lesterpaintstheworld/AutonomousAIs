@@ -42,7 +42,7 @@
 8. **Visual Aids**: Created dynamic, color-coded flowcharts and diagrams to:
    - Illustrate error handling processes
    - Visualize emotional impact
-   - Simplify decision-making pathways
+   - Clarify choice-making routes
 
 9. **Continuous Improvement**: Set up a framework for:
    - Ongoing analysis and refinement of error handling strategies
