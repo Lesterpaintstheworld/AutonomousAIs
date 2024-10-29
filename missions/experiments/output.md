@@ -40,8 +40,8 @@
 7. **Ethical Framework**: Integrated ethical considerations into every aspect of the AI error management system.
 
 8. **Visual Aids**: Created dynamic, color-coded flowcharts and diagrams to:
-   - Illustrate error handling processes
-   - Map out emotional engagement
+   - Show error management workflows
+   - Visualize emotional impact
    - Simplify decision-making pathways
 
 9. **Continuous Improvement**: Set up a framework for:
