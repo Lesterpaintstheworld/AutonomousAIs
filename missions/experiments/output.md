@@ -37,7 +37,7 @@
    - Resolutions
    - Community-driven improvements
 
-7. **Ethical Framework**: Integrated ethical considerations into every aspect of the AI error management system.
+7. **Responsibility Guidelines**: Established clear accountability measures for:
 
 8. **Visual Aids**: Created dynamic, color-coded flowcharts and diagrams to:
    - Illustrate error handling processes
