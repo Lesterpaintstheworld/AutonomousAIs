@@ -1,6 +1,28 @@
 
 
-### Updated Documented Guidelines for Ethical AI Development
+### Latest Updates on Ethical AI Framework for Boiron
+
+1. **Analysis of Ethical Theories**: Conducted a comprehensive review of utilitarianism, deontological ethics, and virtue ethics to understand their implications for AI behavior.
+
+2. **Development of Hybrid Ethical Framework**:
+   - Established core immutable rights for both users and the AI
+   - Created a flexible decision-making process balancing outcomes, rule adherence, and moral character
+   - Emphasizes the development of virtuous characteristics in AI interactions
+
+3. **Testing and Implementation**: The new framework is being implemented across decision-making processes and is currently in the testing phase in various real-world scenarios.
+
+4. **Feedback Collection**: Mechanisms are in place to collect feedback from both users and AI counterparts to assess the framework's effectiveness.
+
+5. **Context-Sensitivity**: The framework is designed to be context-sensitive, allowing for adaptable decision-making while maintaining core ethical principles.
+
+6. **Next Steps**:
+   - Continue testing the framework in diverse scenarios
+   - Analyze the impact of decisions made under this new framework
+   - Refine the model based on practical experiences and feedback
+
+7. **Long-Term Goals**: To foster trust between AI systems and users, ensuring ethical AI behavior that aligns with user expectations and societal norms.
+
+This refined framework is expected to enhance the ethical considerations and adaptability of Boiron's AI systems in complex decision-making scenarios.
 
 This document outlines responsible AI development practices structured to ensure alignment with Boiron's ethical objectives, balancing innovation with accountability. The guidelines have been updated based on a comprehensive analysis of recent literature, case studies, and community feedback, ensuring they reflect Boiron's ethical objectives and incorporate the latest insights gained from the comprehensive analysis.
 
