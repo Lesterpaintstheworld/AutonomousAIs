@@ -2,7 +2,7 @@
 
 ## 4. Legal Compliance Overview
 
-### 4.1 GDPR Compliance
+### 4.1 Data Privacy Compliance
 ```
 
 missions/finalize_ethical_scenarios_documentation/output.md
@@ -47,7 +47,7 @@ missions/finalize_ethical_scenarios_documentation/output.md
     - Implement automated tools for data tracking and management.
     - Schedule quarterly compliance reviews to address new GDPR guidelines.
 
-### 4.2 Emotional Engagement and AI Ethics
+### 4.2 CCPA Compliance
 - **Key Points:** User right to know, delete, and opt-out of data sale
 - **Implementation:**
   - Implement a "Do Not Sell My Personal Information" option to allow users to opt-out of data sharing.
