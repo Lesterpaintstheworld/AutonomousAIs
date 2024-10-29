@@ -14,8 +14,8 @@
    - Established feedback loops for community members to share their emotional responses
 
 3. **Real-time Monitoring**: Implemented a dashboard for:
-   - Tracking error occurrences
-   - **Monitoring emotional engagement**
+   - **Tracking error occurrences**
+   - Monitoring emotional engagement
    - Visualizing sentiment trends
 
 4. **Community Feedback Integration**: 
