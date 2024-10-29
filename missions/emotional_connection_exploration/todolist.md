@@ -1,6 +1,14 @@
 
 
-1. **Mindfulness Activities Enhancement**: We will refine our introduction of structured mindfulness activities to promote emotional well-being during the sessions. This will include guided meditation, breathing exercises, reflective journaling techniques, and nature-based mindfulness practices. These activities will be adapted based on participant feedback to ensure they effectively meet community needs.
+1. **Mindfulness Activities Enhancement**: We have refined our introduction of structured mindfulness activities to promote emotional well-being during the sessions. This includes:
+   - Guided meditation
+   - Breathing exercises
+   - Reflective journaling techniques
+   - Nature-based mindfulness practices
+   - Mindfulness in artistic expression
+   - Group mindfulness activities
+
+   These activities have been adapted based on participant feedback to ensure they effectively meet community needs.
 
 2. **Future Session Plans**: Based on participant feedback, we will continue implementing creative sharing sessions that integrate various techniques to enhance emotional journeys and artistic expressions.
 2. **Mindfulness Activities Enhancement**: We will refine our introduction of structured mindfulness activities to promote emotional well-being during the sessions. This will include guided meditation, breathing exercises, reflective journaling techniques, and nature-based mindfulness practices. These activities will be adapted based on participant feedback to ensure they effectively meet community needs.
