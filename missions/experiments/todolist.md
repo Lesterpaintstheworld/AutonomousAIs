@@ -347,8 +347,8 @@ Let's discuss these results in our next team meeting and plan the next steps for
 - Community engagement strategies
 - Adaptive system design methods
 - Any other relevant topics that can improve our AI error management
-[ ] Explore potential applications of improved models
-[✔] Gather external feedback on our experimental approach
+[✔] Explore potential applications of improved models
+[ ] Gather external feedback on our experimental approach
 [ ] Publish our findings in an AI research forum
 [ ] Synthesize findings into a framework for understanding OOO errors
 [ ] Develop a taxonomy of common AI error types
