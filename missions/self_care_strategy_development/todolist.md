@@ -3,7 +3,7 @@
 # Next Actions for Self-Care Strategy Development
 
 1. **Support Journaling Practices**: 
-   - Create a digital platform for team members to share their journaling insights, fostering a supportive community.
+   - Develop a virtual self-care app that includes features for mindfulness meditation, journaling, and emotional check-ins.
 - Incorporate a weekly journaling reflection session into our regular meetings to enhance accountability.
 - Develop a set of AI-generated journaling prompts tailored to our team's specific challenges and goals.
 - Remind team members to set aside time for journaling as a method for emotional processing and self-reflection.
