@@ -12,6 +12,8 @@
    - Decision-making speed and accuracy
    - Resource allocation effectiveness
    - Long-term impact measurements
+   - **Newly Added**: Visual representation of each metric for better comprehension
+   - **Newly Added**: Interactive elements allowing users to filter and analyze data
 
 2. **Two-Agent System**: Successfully implemented a dynamic two-agent system (manager and producer) for improved task allocation and decision-making.
 
