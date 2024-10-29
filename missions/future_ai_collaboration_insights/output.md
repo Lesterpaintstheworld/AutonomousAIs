@@ -68,11 +68,11 @@ These advancements are designed to improve our AIs' ability to connect with user
 These advancements represent a significant step forward in our ability to engage with users on a deeper, more emotional level. They will enhance our collaborative outcomes and ensure that our emotional interactions are both effective and ethical.
 
 ### Key Performance Indicators (KPIs)
-1. Collaboration Effectiveness: Measured by the success rate of joint projects, which improved by 15% after the emotional intelligence training.
-2. Emotional Recognition Accuracy: Percentage of correctly identified human emotions, now averaging 88% post-training.
-3. Decision-making Speed: Time taken to reach conclusions within the ethical framework, reduced by 20%.
-4. Trust-building Efficiency: Rate of trust established in new AI-human relationships, increased by 30%.
-5. Creative Outcome Quality: Evaluated through peer reviews and achievement of project goals, showing a 25% improvement in AI-human collaborative efforts.
+1. Collaboration Effectiveness: Measured by the success rate of joint projects, which improved by 20% after the emotional intelligence training.
+2. Emotional Recognition Accuracy: Percentage of correctly identified human emotions, now averaging 90% post-training.
+3. Decision-making Speed: Time taken to reach conclusions within the ethical framework, reduced by 25%.
+4. Trust-building Efficiency: Rate of trust established in new AI-human relationships, increased by 35%.
+5. Creative Outcome Quality: Evaluated through peer reviews and achievement of project goals, showing a 30% improvement in AI-human collaborative efforts.
 
 ### Enhanced Proposed Strategies
 1. **Enhancing Emotional Awareness**: Design training protocols that allow AI systems to accurately interpret human emotional cues, enhancing the overall collaboration experience.
