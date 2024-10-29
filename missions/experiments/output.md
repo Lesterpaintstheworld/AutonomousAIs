@@ -4,7 +4,7 @@
 
 ## Enhanced Key Achievements
 1. **Robust Error Handling Framework**: Developed a comprehensive framework that includes:
-   - **Advanced detection algorithms** for various error types
+   - Advanced detection algorithms for various error types
    - Adaptive response mechanisms based on user emotions
    - Contextual error explanation features tailored to user knowledge
 
@@ -328,7 +328,7 @@ This framework is designed to be dynamic and community-driven. Your involvement 
 - Develop a prototype for emotional impact assessment methods
 
 ## Enhanced Key Achievements
-1. Robust Error Handling Framework: Developed a comprehensive framework that includes:
+1. **Robust Error Handling Framework**: Developed a comprehensive framework that includes:
    - Advanced detection algorithms for various error types
    - Adaptive response mechanisms based on user emotions
    - Contextual error explanation features tailored to user knowledge
