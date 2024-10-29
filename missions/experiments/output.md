@@ -10,7 +10,7 @@
    - Contextual adaptability assessments
    - Cross-agent communication efficiency
    - Decision-making speed and accuracy
-   - Resource allocation effectiveness
+   - AI resource allocation effectiveness
    - Long-term impact measurements
 
 2. **Two-Agent System**: Successfully implemented a dynamic two-agent system (manager and producer) for improved task allocation and decision-making.
@@ -27,7 +27,7 @@
    - Emotional engagement
    - Resource allocation effectiveness
 
-5. **Proactive Modeling**: Created models that:
+5. **Predictive Modeling**: Developed models to:
    - Anticipate potential errors
    - Identify root causes of existing issues
    - Suggest proactive measures
