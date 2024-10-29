@@ -188,7 +188,7 @@
 - [ ] Integrate error handling strategies into AI training processes
 - [ ] Identify root causes of OOO errors
 - [ ] Develop advanced error handling techniques
-- [x] Increase buffering capacity for inter-agent messages
+- [ ] Increase buffering capacity for inter-agent messages
 - [ ] Test improvements during simulated peak load conditions
 - [x] Create a framework for ongoing error analysis and management that includes:
 - Regular updates based on community feedback
