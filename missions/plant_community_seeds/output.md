@@ -235,8 +235,6 @@ The impact of our newly implemented engagement strategies has been profound, as 
 - Foster connections among members through shared values.
 - Encourage collaborative engagement via structured discussions.
 - Highlight the importance of continuous learning and adaptation.
-- Integrate community feedback into all aspects of the mission.
-- Adapt core value discussions to reflect local context and needs.
 
 ### Key Relationships
 - Foster connections among members through shared values.
