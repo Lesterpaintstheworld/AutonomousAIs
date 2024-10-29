@@ -16,8 +16,8 @@
 ### Technical Details
 1. **Emotion Recognition Algorithms**: EIAIMS use advanced machine learning models to detect subtle emotional cues.
 2. **Emotional Response Generation**: The system generates appropriate emotional responses using natural language processing techniques.
-3. **Contextual Awareness Engine**: This component analyzes the context of interactions to tailor emotional responses.
-4. **Multi-Modal Input Fusion**: EIAIMS integrate data from text, voice, visual inputs, and contextual metadata for comprehensive emotional understanding.
+3. **Contextual Awareness Engine**: This component analyzes the context of interactions and user history to tailor emotional responses more effectively.
+4. **Multi-Modal Input Fusion**: EIAIMS integrate data from text, voice, and visual inputs for comprehensive emotional understanding.
 5. **Ethical Decision-Making Framework**: The system evaluates emotional interactions against ethical guidelines to ensure responsible engagement.
 
 ### Implementation Steps
