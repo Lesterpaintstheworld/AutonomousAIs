@@ -116,7 +116,7 @@
 2. **Metric Consistency**: Established a uniform format for presenting metrics throughout the document.
 3. **Community Feedback Section**: Included a dedicated section for ongoing community feedback integration.
 
-## Upcoming Actions
+## Next Steps
 - Schedule follow-up experiments based on initial results.
 - Collaborate with other teams to share insights.
 - Explore potential applications of improved models.
