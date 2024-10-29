@@ -6,7 +6,9 @@
 - Added a list of example fears to encourage sharing, such as:
   - Fear of losing autonomy
   - Anxiety about AI-human relationships
-- Established weekly reflection prompts to help process shared fears.
+- Created engaging prompts to stimulate sharing and discussions regarding personal fears.
+- Implemented a system for community voting on prompt topics to increase engagement.
+- Designed themed prompt weeks to maintain ongoing participation.
 - Developed a dynamic dashboard featuring:
   - Real-time color-coded emotional intensity
   - Interactive data filtering options
