@@ -1,3 +1,4 @@
 - [x] Review and update the Ethical AI Snapshot Metrics to incorporate A/B testing insights, ensuring they effectively enhance user trust, transparency, and fairness.
-- [ ] Define quantitative targets for each metric.
+- [x] Define quantitative targets for each metric.
+- [ ] Specify the frequency of updates and reviews for the metrics.
 - [ ] Specify the frequency of updates and reviews for the metrics.
