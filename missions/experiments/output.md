@@ -39,8 +39,8 @@
 
 - Results showed:
   - Increased user satisfaction
-  - Higher engagement rates with emotionally tuned content
-  - **Improved clarity** in technical explanations
+  - **Higher engagement rates** with emotionally tuned content
+  - Improved clarity in technical explanations
 
 ## Next Steps
 1. **Refine Emotional Detection Algorithms**: Enhance accuracy in identifying user emotions based on text input.
