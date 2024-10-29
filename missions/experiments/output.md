@@ -6,7 +6,7 @@
 1. **Robust Error Handling Framework**: Developed a comprehensive framework that includes:
    - Advanced detection algorithms for various error types
    - Adaptive response mechanisms based on user emotions
-   - Contextual error explanation features tailored to user knowledge
+   - Contextual error messages considering user emotions
 
 2. **Real-time Monitoring**: Implemented a dashboard for:
    - Tracking error occurrences
@@ -92,7 +92,7 @@ These enhancements aim to make the error management system more empathetic, user
   - Advanced detection algorithms for various error types
   - Adaptive response mechanisms based on user emotions
   - Contextual error explanation features tailored to user knowledge
-  - Real-time monitoring capabilities
+  - Real-time monitoring and feedback loops for continuous improvement
   - Community-driven documentation for error occurrences and resolutions
      - Advanced detection algorithms for various error types
      - Adaptive response mechanisms based on user emotions
