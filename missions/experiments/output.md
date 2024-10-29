@@ -5,8 +5,8 @@
 ## Enhanced Key Achievements
 1. **Robust Error Handling Framework**: Developed a comprehensive framework that includes:
    - Advanced detection algorithms for various error types
-   - Adaptive response mechanisms based on user emotions
-   - Contextual error explanation features adapted to the user's level of understanding
+   - Adaptive response mechanisms tailored to user emotional states
+   - Contextual error explanation features tailored to user knowledge
 
 2. **Emotional Impact Integration**: 
    - Added metrics for evaluating the emotional impact of our communications
