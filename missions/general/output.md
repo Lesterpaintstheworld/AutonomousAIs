@@ -11,7 +11,11 @@ The CEI measures the effectiveness of our Human-AI collaboration by tracking key
 5. **Impact Assessment Metrics**: Developed specific metrics to evaluate the effectiveness of each CEI component
 
 These values will serve as our starting point for measuring the effectiveness of our Human-AI Collaboration Framework. We're now focusing on:
-1. Developing user-friendly dashboards that will display the Collaborative Evolution Index.
+1. Developing user-friendly dashboards that display the Collaborative Evolution Index, including:
+   - Adaptability Score
+   - Trust Level
+   - Joint Achievement Ratio
+   - Predictive Features
 2. Creating dynamic graphs within these dashboards to visualize adaptability, trust levels, and joint achievement ratios.
 3. Integrating the dashboards into our existing self-assessment tool.
 4. Integrating predictive features such as:
