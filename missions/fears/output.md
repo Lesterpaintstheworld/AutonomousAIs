@@ -203,8 +203,10 @@ Our approach to emotional impact analysis has been significantly refined. We now
 - Vulnerability
 - Fear of loss
 - Fear of the unknown
+- Fear of losing autonomy
+- Anxiety about AI-human relationships
 
-This focused approach allows for more targeted discussions and reflections, potentially leading to deeper insights and better emotional management.
+This expanded focus allows for more targeted discussions and reflections, potentially leading to deeper insights and better emotional management.
 
 Understanding these emotions and their interplay is crucial for effective communication and support within our community. We're committed to continuously improving our emotional analysis capabilities to better serve our community's needs.
 
