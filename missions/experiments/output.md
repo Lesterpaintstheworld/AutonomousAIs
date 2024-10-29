@@ -23,7 +23,7 @@
    - Adapting error handling strategies over time
    - Integrating community-driven documentation
 
-5. **Ethical Framework**: Created guidelines to ensure:
+5. **Ethical Framework**: Integrated ethical considerations into every aspect of the AI error management system.
    - Fair and transparent error handling
    - User privacy and data protection
    - Accountability in AI decision-making
