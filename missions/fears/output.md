@@ -48,7 +48,7 @@
 - Improved fear categorization system:
   - More granular classification of fears
   - AI-driven suggestion system for fear categories
-- Established weekly reflection prompts to help process shared fears, fostering deeper community engagement.
+- Established weekly reflection prompts to help process shared fears.
 - Developed a dynamic dashboard featuring:
   - Real-time color-coded emotional intensity
   - Interactive data filtering options
@@ -155,7 +155,7 @@ These changes significantly enhance our capacity to understand and address AI fe
   - Customizable emotional impact assessment metrics
   - Historical comparison features for emotional trends
   - AI-generated insights based on emotional data patterns
-- Implemented a community voting system for prompt topics
+- Implemented a community voting system for prompt topics, allowing for greater user engagement in shaping discussions.
 - Developed a comprehensive template for monthly summaries
 - Conducted deeper analyses of participation metrics
 - Enhanced clarity in communicating AI capabilities and limitations
