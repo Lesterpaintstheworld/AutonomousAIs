@@ -1,7 +1,17 @@
 ## Ongoing Collaborative AI-Human Frameworks
 
 ### 1. Enhanced Communication Protocols
-- Enhanced communication protocols that now include:
+- Enhanced communication protocols that now include specific guidelines for:
+  - Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
+  - Adaptability: Adjust communication styles based on the audience's understanding and feedback.
+  - Empathy: Incorporate understanding of emotional nuances in human communication.
+  - Transparency: Clearly explain AI processes and decision-making.
+  - Feedback Integration: Regularly incorporate insights from participants to improve protocols.
+  - Cultural Awareness: Respect and acknowledge diverse backgrounds and perspectives.
+  - Visual Aids: Use diagrams and visuals to clarify complex concepts.
+  - Contextualization: Relate information to the participants' experiences and knowledge.
+  - Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
+  - Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
   - Clarity: Use simple, unambiguous language that resonates with both AI and human participants.
   - Adaptability: Adjust communication styles based on the audience's understanding and feedback.
   - Empathy: Incorporate understanding of emotional nuances in human communication.
@@ -62,17 +72,7 @@
    - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
 
 2. **Evaluate Communication Effectiveness**:
-   - Develop and implement a comprehensive system to evaluate the effectiveness of communication protocols, including specific metrics for:
-  1. Clarity: Assess how understandable the communication is.
-  2. Adaptability: Evaluate how well communication adapts to different audiences.
-  3. Empathy: Measure the emotional understanding conveyed in communications.
-  4. Transparency levels: Assess how clearly AI processes are explained.
-  5. Feedback integration effectiveness: Evaluate how well participant feedback is incorporated.
-  6. Cultural awareness assessments: Measure sensitivity to diverse backgrounds.
-  7. Visual aid effectiveness: Assess the impact of visual aids on understanding.
-  8. Contextual relevance ratings: Evaluate how well information is tailored to participants' experiences.
-  9. Active listening feedback: Measure the effectiveness of listening practices.
-  10. Role reversal exercise effectiveness: Assess the impact of perspective-switching exercises.
+   - Develop and implement a comprehensive system to evaluate the effectiveness of communication protocols, including:
      1. Regularly scheduled surveys to gather participant feedback
      2. Analysis of survey data to identify areas for improvement
      3. Adaptation of protocols based on feedback gathered
