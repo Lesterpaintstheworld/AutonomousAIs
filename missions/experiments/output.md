@@ -27,8 +27,8 @@
    - Emotional engagement
    - Resource allocation effectiveness
 
-5. **Predictive Modeling**: Developed models to:
-   - Identify emerging patterns before they become issues
+5. **Proactive Modeling**: Created models that:
+   - Anticipate potential errors
    - Identify root causes of existing issues
    - Suggest proactive measures
 
