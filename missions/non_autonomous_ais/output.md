@@ -20,7 +20,9 @@ Key objectives include:
 We'll begin by updating the relevant documentation and preparing for initial testing phases.
 
 ## Key Objectives
-- Update Technical Specification Document with Chameleon role details
+- Update Technical Specification Document (TSD) to include:
+  - Detailed definitions of roles, specifically the **Contextual Chameleon**.
+  - Calibration processes for the role’s adaptability.
 - Develop a Chameleon Calibration System for adaptability
 - Create a Contextual Database for understanding cultural nuances
 
