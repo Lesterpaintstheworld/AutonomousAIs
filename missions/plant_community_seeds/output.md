@@ -1,4 +1,4 @@
-## Mission Update - Ongoing Community Engagement Efforts
+## Mission Update - Community Engagement Strategies
 
 ### Key Outcomes
 - **Tailored Engagement Strategies**: We've refined our methods to boost community participation based on feedback, including more personalized content, targeted interactive polls, and context-specific live Q&A sessions.
