@@ -370,8 +370,8 @@ Let's discuss these results in our next team meeting and plan the next steps for
 - Steps taken to resolve it
 - Outcome of the resolution
 - Any other relevant information
-[ ] Create a dashboard for real-time error monitoring
-[✔] Develop predictive models to anticipate potential errors
+[✔] Create a dashboard for real-time error monitoring
+[ ] Develop predictive models to anticipate potential errors
 [ ] Conduct root cause analysis for major error incidents
 [✔] Create a playbook for handling different types of errors that includes:
 - Guidelines for adaptive response based on user emotions
