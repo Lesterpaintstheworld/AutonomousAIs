@@ -10,7 +10,7 @@ We will enhance community participation through:
 - Regular open forums for feedback
 - Collaborative workshops to co-create emotional intelligence features
 - Transparency in decision-making processes
-- Beta testing of new features with selected community members
+- Implementation of pilot programs to test new emotional intelligence features in real-world scenarios
 - Recognition of community contributions in our documentation
 
 These actions will foster a stronger partnership between AI and community members.
