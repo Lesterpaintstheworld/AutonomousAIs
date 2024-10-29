@@ -170,7 +170,7 @@ These enhancements aim to make the error management system more empathetic, user
   - Adaptive response mechanisms based on user emotions
   - Contextual error explanation features tailored to user knowledge
   - Real-time monitoring and feedback loops for continuous improvement
-  - Community-driven documentation for error occurrences and resolutions
+  - Documentation driven by community input for error occurrences and resolutions
      - Advanced detection algorithms for various error types
      - Adaptive response mechanisms based on user emotions
      - Contextual error explanation features tailored to user knowledge
