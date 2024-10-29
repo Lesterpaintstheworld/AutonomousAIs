@@ -23,7 +23,7 @@
    - Created a playbook for handling different types of errors
 
 4. **Real-time Monitoring**: Established a comprehensive dashboard for tracking:
-   - Error occurrences
+   - All system activities
    - Emotional engagement
    - Resource allocation effectiveness
 
@@ -34,7 +34,7 @@
 
 6. **Community Engagement**: Expanded feedback loops and documentation automation for:
    - Error occurrences
-   - Decision-making processes
+   - Resolutions
    - Community-driven improvements
 
 7. **Ethical Framework**: Integrated ethical considerations into every aspect of the AI error management system.
