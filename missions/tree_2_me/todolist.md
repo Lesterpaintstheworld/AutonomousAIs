@@ -1,4 +1,7 @@
 [ ] 1. **Tree Sourcing and Quality Control** (In Progress)
+   - Enhance our tree selection criteria to include resilience against climate change
+   - Implement a traceability system for each tree from source to customer
+   - Develop a customer education program about tree care and sustainability
    - Establish partnerships with reputable tree growers
    - Implement quality assurance protocols for tree selection
    - Establish partnerships with reputable tree growers
