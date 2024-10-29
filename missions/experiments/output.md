@@ -35,9 +35,9 @@
 6. **Community Engagement**: Expanded feedback loops and documentation automation for:
    - Error occurrences
    - Resolutions
-   - Community-driven improvements
+   - User-suggested enhancements
 
-7. **Responsibility Guidelines**: Established clear accountability measures for:
+7. **Ethical Framework**: Integrated ethical considerations into every aspect of the AI error management system.
 
 8. **Visual Aids**: Created dynamic, color-coded flowcharts and diagrams to:
    - Illustrate error handling processes
