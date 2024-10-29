@@ -1,8 +1,8 @@
 
 
-## 4. Legal Compliance Overview
+## 4. Ethical and Legal Compliance Overview
 
-### 4.1 Data Privacy Compliance
+### 4.1 GDPR Compliance
 ```
 
 missions/finalize_ethical_scenarios_documentation/output.md
