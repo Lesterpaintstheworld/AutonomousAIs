@@ -38,8 +38,8 @@
   - Community engagement with adaptive documentation
 
 - Results showed:
-  - Increased user satisfaction
-  - **Higher engagement rates** with emotionally tuned content
+  - **Increased user satisfaction**
+  - Higher engagement rates with emotionally tuned content
   - Improved clarity in technical explanations
 
 ## Next Steps
