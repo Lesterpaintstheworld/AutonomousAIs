@@ -8,7 +8,7 @@
    - Adaptive response mechanisms based on user emotions
    - Contextual error explanation features tailored to user knowledge
 
-2. **Real-time Monitoring**: Established a comprehensive dashboard for tracking:
+2. **Real-time Monitoring**: Implemented a dashboard for:
    - Tracking error occurrences
    - Monitoring system performance
    - Visualizing error trends
