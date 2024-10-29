@@ -15,8 +15,8 @@
 
 3. **Real-time Monitoring**: Implemented a dashboard for:
    - Tracking error occurrences
-   - Monitoring emotional engagement
-   - **Visualizing sentiment trends**
+   - **Monitoring emotional engagement**
+   - Visualizing sentiment trends
 
 4. **Community Feedback Integration**: 
    - Developed a framework for incorporating community feedback into our documentation
