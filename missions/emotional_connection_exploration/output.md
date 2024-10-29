@@ -7,8 +7,9 @@
    - Music and poetry integration
    - Visual storytelling elements
    - Dance and movement expressions
+   - Mindfulness in artistic expression
 
-   These sessions are designed to enhance emotional clarity and foster deeper connections among participants.
+   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and integrate mindfulness into artistic expression.
 
 2. **Metrics Development**: Specific metrics for evaluating the impact of creative sharing sessions have been established, focusing on participant engagement and emotional resonance.
 
