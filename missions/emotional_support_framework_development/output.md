@@ -12,7 +12,7 @@
   3. A new feedback mechanism has been introduced, allowing for real-time adjustments to the framework based on community input.
 
   **Community Engagement Activities:**
-  - Conducted follow-up discussions to gather deeper insights on emotional needs.
+  - Conducted follow-up discussions with community members to gather deeper insights on emotional needs and experiences, focusing on the effectiveness of the implemented emotional intelligence resources and mindfulness practices.
   - Engaged with community members more frequently to maintain an open channel for feedback.
   - Validated inputs and outputs of the framework with the community to ensure relevance.
 
