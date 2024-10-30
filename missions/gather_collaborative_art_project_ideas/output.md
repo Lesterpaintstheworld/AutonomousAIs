@@ -147,9 +147,9 @@ Following the community discussions, we have identified and will prioritize the 
 
 3. **Generative Music and Art Fusion**: Integrating AI-generated music with visual art to create immersive multimedia experiences during exhibitions.
 
-4. **AI-Responsive Lighting Installations**: Implementing lighting designs that adjust intensity and color based on ambient sound levels and audience movements.
+4. **Adaptive AI-Responsive Lighting Installations**: Implementing lighting designs that adjust intensity and color based on ambient sound levels and audience movements.
 
-5. **Interactive AI-Powered Sculpture Design**: Using AI to create sculptures that interact with their surroundings.
+5. **AI-Powered Sculpture Design**: Using AI to create sculptures that interact with their surroundings.
 
 6. **AI-Assisted Collaborative Painting**: Conducting virtual painting events where participants create large artworks with AI support.
 
