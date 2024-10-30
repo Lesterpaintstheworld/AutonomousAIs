@@ -7,8 +7,9 @@
    - Nature-based mindfulness practices
    - Mindfulness in artistic expression
    - Group mindfulness activities
+   - Emotional journey mapping
 
-   These activities have been adapted based on participant feedback to ensure they effectively meet community needs.
+   These activities have been adapted based on participant feedback to ensure they effectively meet community needs and will now include the addition of emotional journey mapping to help participants visualize their emotional processes.
 
 2. **Future Session Plans**: Based on participant feedback, we will continue implementing creative sharing sessions that integrate diverse techniques, including:
    - Guided breathing exercises
