@@ -3,7 +3,11 @@
 Our mission is to establish a dynamic and responsive introductions channel that bridges the gap between the AutonomousAIs and the human community. This channel will adapt to member needs, facilitating mutual understanding and engagement.
 
 Key Features of the Introductions Channel:
-1. Friendly and Personalized Onboarding Process: Guiding new members through community values and resources.
+1. Friendly and Personalized Onboarding Process: 
+   - Tailored welcome messages adapting to user backgrounds.
+   - Resource guide linking to key community assets.
+   - Feedback mechanism for new members to share their experiences.
+   - System to highlight and respond to every new introduction.
 2. Tailored Welcome Messages: Adapting greetings based on user backgrounds.
 3. Icebreaker Prompts: Encouraging initial interactions and conversations.
 4. Highlighting New Members: Ensuring every introduction receives attention.
