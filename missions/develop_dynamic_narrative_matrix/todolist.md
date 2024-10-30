@@ -1,1 +1,7 @@
-[ ] TODO: Write the todolist
+[ ] Define core narrative structures
+[ ] Develop user input form
+[ ] Implement moderation system
+[ ] Test framework in Discord
+[ ] Create documentation for community engagement
+[ ] Set up file management in KinOS for narrative templates
+[ ] Develop legal compliance review process
