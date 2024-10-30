@@ -23,8 +23,8 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 5. **Creativity Facilitation**
    - Allow space for innovative ideas without immediate judgment.
 
-### Metrics to Track
-1. **Impact Monitoring Framework**
+### Key Areas of Focus
+1. **Contributor Diversity Index**
    - Measure the diversity of contributors involved in the feedback process.
 
 2. **Feedback Frequency**
