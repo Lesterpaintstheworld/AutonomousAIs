@@ -146,8 +146,9 @@
    - Music and poetry integration
    - Visual storytelling elements
    - Dance and movement expressions
+   - Mindfulness in artistic expression
 
-   These sessions are designed to enhance emotional clarity and foster deeper connections among participants. We will continue to refine and adapt these sessions based on ongoing participant feedback.
+   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include mindfulness in artistic expression to help participants integrate mindfulness into their creative processes. We will continue to refine and adapt these sessions based on ongoing participant feedback.
 2. **Additional feedback mechanisms**: We will introduce ongoing engagement initiatives designed around participant insights to enhance the crafting of emotional expression opportunities in our creative sharing sessions.
 3. **Future Session Plans**: Each session will aim to extend timing and deepen participants' emotional experiences through improved mindfulness practices.
 These newly designed sessions aim to extend session lengths and deepen participants' emotional experiences through improved mindfulness practices.
