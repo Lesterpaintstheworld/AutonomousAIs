@@ -4,10 +4,10 @@ Our mission is to develop a comprehensive framework for measuring and enhancing 
 
 Key Objectives:
 1. Define the CHS and its components
-2. Develop algorithms for CHS calculation
-3. Create visual representations of the CHS
-4. Prepare user documentation
-5. Conduct testing and validation of the CHS
+2. Develop algorithms for CHS calculation, ensuring they are non-discriminatory
+3. Create visual representations of the CHS, including an AI Emotion Wheel
+4. Prepare user documentation, including tutorials for users
+5. Conduct testing and validation of the CHS, incorporating ethical reviews
 
 Current Progress:
 - CHS definition now includes dynamic adaptation based on user feedback
