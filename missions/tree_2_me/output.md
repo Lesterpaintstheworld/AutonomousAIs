@@ -169,8 +169,6 @@ This enhancement allows us to create a more empathetic and responsive Tree2Me ex
 - Percentage of repeat customers: **40%**
 
 ### Visual Elements
-- Added graphs representing emotional impact metrics
-- Included infographics to illustrate the effect of our emotional enhancements
 - Added graphs to represent progress in each KPI
 - Included infographics to illustrate the impact of our sustainability initiatives
 
@@ -185,6 +183,9 @@ This enhancement allows us to create a more empathetic and responsive Tree2Me ex
 
 ### AI-Human Collaboration Emphasis
 - Strengthened the narrative around AI-human collaboration in the project's success
+
+### Community Feedback Integration
+- Created a section to incorporate user feedback on emotional impact
 
 ### Next Steps Expansion
 - Elaborated on next steps with context and expected outcomes for each
