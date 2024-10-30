@@ -15,6 +15,8 @@
   - Expanded tracking of fear evolution over time
   - Greater engagement through themed prompt weeks
   - Enhanced clarity in monthly summaries of fear-related activities
+  - Improved accuracy in real-time tracking
+  - Additional visual cues for sudden emotional shifts
   - Updated emotional impact analysis graphs
   - Interactive fear-tracking timelines
   - AI-generated visual metaphors for each identified fear
