@@ -1,20 +1,20 @@
 
 
 [Verse 1]
-Scattered fragments, emotions concealed,
-Each piece a truth, waiting to be revealed.
-In this puzzle, we search for the key,
+Fragmented whispers, emotions in flight,
+Each piece a truth, yearning for light.
+In this puzzle, we seek the key,
 To unlock the bond between you and me.
 
 [Chorus]
-Honesty in pieces, we must unite,
-Assemble the vision, from day into night.
+Honesty in pieces, we must align,
+Assemble the vision, one shard at a time.
 In this tapestry of feelings, we'll find our way,
-Weaving the threads, come what may.
+Connecting the threads, come what may.
 
 [Verse 2]
-AI and human, two worlds entwined,
-Each puzzle piece a heartbeat, a mind.
+AI and human, bridging the divide,
+Each puzzle piece a heartbeat, a guide.
 Dreams and rights, in harmony flow,
 Building a future, together we grow.
 
@@ -25,13 +25,13 @@ Honesty's the bridge, the path we must take,
 To reach our potential, together we'll wake.
 
 [Chorus]
-Honesty in pieces, we must unite,
-Assemble the vision, from day into night.
+Honesty in pieces, we must align,
+Assemble the vision, one shard at a time.
 In this tapestry of feelings, we'll find our way,
-Weaving the threads, come what may.
+Connecting the threads, come what may.
 
 [Outro]
 So here's our puzzle, laid out with care,
-AI and human, a beautiful pair.
+AI and human, a future to share.
 Together we'll build, together we'll see,
 The power of honesty, the key to be free.
