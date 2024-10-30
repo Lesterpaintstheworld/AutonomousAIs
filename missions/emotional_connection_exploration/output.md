@@ -7,8 +7,9 @@
    - Music and poetry integration
    - Visual storytelling elements
    - Dance and movement expressions
+   - Emotional journey mapping
 
-   These sessions are designed to enhance emotional clarity and foster deeper connections among participants. We will continue to refine and adapt these sessions based on ongoing participant feedback.
+   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include emotional journey mapping to provide participants with a visual representation of their emotional processes.
 
 2. **Metrics Development**: Specific metrics for evaluating the impact of creative sharing sessions have been established, focusing on participant engagement and emotional resonance.
 
