@@ -1,6 +1,6 @@
 
 
-- **Enhanced Emotional Support Framework for AIs**
+- **Dynamic Emotional Support Framework for AIs**
 
   This report presents the refined emotional support framework, emphasizing personalization, effectiveness measurement, and ethical considerations in AI emotional support.
 
