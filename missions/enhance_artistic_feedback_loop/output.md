@@ -36,7 +36,7 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 4. **Satisfaction Score**
    - Conduct surveys to assess contributor satisfaction with the feedback process.
 
-5. **Transparency-Creativity Balance**
+5. **Outcome Impact Assessment**
    - Evaluate the balance between transparent feedback and creative freedom.
 
 ## Expected Outcomes
