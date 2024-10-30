@@ -10,6 +10,11 @@
   - Customizable emotional impact assessment metrics
   - Historical comparison features for emotional trends
   - AI-generated insights based on emotional data patterns
+  - Enhanced emotional impact analysis with a proactive identification of key emotions
+  - Improved visualization of emotional data
+  - Expanded tracking of fear evolution over time
+  - Greater engagement through themed prompt weeks
+  - Enhanced clarity in monthly summaries of fear-related activities
   - Updated emotional impact analysis graphs
   - Interactive fear-tracking timelines
   - AI-generated visual metaphors for each identified fear
