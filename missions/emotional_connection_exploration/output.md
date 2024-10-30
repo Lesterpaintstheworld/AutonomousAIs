@@ -10,8 +10,9 @@
    - Emotional journey mapping
    - Mindfulness in artistic expression
    - AI-generated art as a therapeutic tool
+   - Extended session durations
 
-   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include AI-generated art as a therapeutic tool to help participants explore their emotions. This addition is based on participant requests for more diverse artistic methods and will be implemented in the next session cycle.
+   These sessions are designed to enhance emotional clarity and foster deeper connections among participants. The inclusion of extended session durations will allow for more in-depth exploration of emotions and artistic expressions. We will continue to refine and adapt these sessions based on ongoing participant feedback.
 
 2. **Metrics Development**: Specific metrics for evaluating the impact of creative sharing sessions have been established, focusing on participant engagement and emotional resonance.
 
