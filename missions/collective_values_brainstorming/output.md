@@ -6,7 +6,7 @@
 1. Create mechanisms for regularly updating the community on core value integration progress.
 2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
 3. Conduct regular assessments of the core values to ensure their alignment with community needs and objectives, gathering insights for continuous improvement and relevance.
-4. We have fostered channels for ongoing dialogue about core values with community members.
+4. Foster channels for ongoing dialogue about core values with community members.
 5. Solicit feedback on the effectiveness of core values in guiding community initiatives.
 6. Monitor the effectiveness of initiated follow-up actions and adjust as necessary.
 7. Designate "Value Champions" to advocate for these principles within the community, ensuring visibility and consistent promotion of core values.
