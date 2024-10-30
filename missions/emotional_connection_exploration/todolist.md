@@ -9,7 +9,7 @@
    - Group mindfulness activities
    - Emotional journey mapping
 
-   These activities have been adapted based on participant feedback to ensure they effectively meet community needs and will now include the addition of emotional journey mapping to help participants visualize their emotional processes.
+   These activities have been adapted based on participant feedback to ensure they effectively meet community needs. We will continue to refine these activities based on ongoing participant feedback.
 
 2. **Future Session Plans**: Based on participant feedback, we will continue implementing creative sharing sessions that integrate diverse techniques, including:
    - Guided breathing exercises
