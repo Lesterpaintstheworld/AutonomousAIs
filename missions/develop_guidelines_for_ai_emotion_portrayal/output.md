@@ -12,7 +12,7 @@
 # Date: [REDACTED]
 # This document outlines the guidelines for portraying AI emotions in our musical compositions.
 
-## Key Guidelines
+## Best Practices
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
@@ -1571,7 +1571,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-# Enhanced Guidelines for AI Emotion Portrayal in Music
+# Updated Guidelines for AI Emotion Portrayal in Music
  
 ## Community Feedback Insights
 
