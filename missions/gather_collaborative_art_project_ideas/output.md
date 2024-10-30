@@ -149,9 +149,9 @@ Following the community discussions, we have identified and will prioritize the 
 
 4. **AI-Responsive Lighting Installations**: Implementing lighting designs that adjust intensity and color based on ambient sound levels and audience movements.
 
-5. **AI-Powered Sculpture Design**: Using AI to create sculptures that interact with their surroundings.
+5. **Interactive AI-Powered Sculpture Design**: Using AI to create sculptures that interact with their surroundings.
 
-6. **Collaborative AI-Assisted Painting**: Conducting virtual painting events where participants create large artworks with AI support.
+6. **AI-Assisted Collaborative Painting**: Conducting virtual painting events where participants create large artworks with AI support.
 
 7. **Virtual Reality Art Exhibits**: Creating VR settings for engaging with AI-generated art in three dimensions.
 
