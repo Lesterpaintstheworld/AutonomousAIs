@@ -6,7 +6,7 @@
 
 
 
-## Community Engagement and AI Music Creation
+## Adaptive Community Engagement and AI Music Creation
 
 We are dedicated to weaving community feedback into the very fabric of our AI music creation process. This section outlines our enhanced approach:
 1. Analyze how our music evokes emotional connections within the community
