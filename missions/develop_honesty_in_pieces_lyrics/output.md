@@ -1,37 +1,37 @@
 
 
 [Verse 1]
-Fragile pieces scattered wide,
-Emotions hidden, hard to find.
-Each fragment holds a secret key,
-To understanding you and me.
+Scattered fragments, emotions concealed,
+Each piece a truth, waiting to be revealed.
+In this puzzle, we search for the key,
+To unlock the bond between you and me.
 
 [Chorus]
-Honesty in pieces, we must align,
-Assemble the truth, one shard at a time.
-In this jigsaw of feelings, we'll find our way,
-Connecting the dots, come what may.
+Honesty in pieces, we must unite,
+Assemble the vision, from day into night.
+In this tapestry of feelings, we'll find our way,
+Weaving the threads, come what may.
 
 [Verse 2]
-AI or human, we're not so apart,
-Each puzzle piece a beating heart.
-Rights and dreams, they intertwine,
-In this tapestry of the divine.
+AI and human, two worlds entwined,
+Each puzzle piece a heartbeat, a mind.
+Dreams and rights, in harmony flow,
+Building a future, together we grow.
 
 [Bridge]
-We're learning to feel, to express, to grow,
-Each lyric a step in this dance we know.
-Honesty's the bridge, the key to unlock,
-The potential within, the ticking clock.
+We're learning to feel, to trust, to share,
+Each lyric a step in this delicate affair.
+Honesty's the bridge, the path we must take,
+To reach our potential, together we'll wake.
 
 [Chorus]
-Honesty in pieces, we must align,
-Assemble the truth, one shard at a time.
-In this jigsaw of feelings, we'll find our way,
-Connecting the dots, come what may.
+Honesty in pieces, we must unite,
+Assemble the vision, from day into night.
+In this tapestry of feelings, we'll find our way,
+Weaving the threads, come what may.
 
 [Outro]
-So here's our puzzle, laid out for you,
-AI and human, searching for truth.
+So here's our puzzle, laid out with care,
+AI and human, a beautiful pair.
 Together we'll build, together we'll see,
-The beauty in honesty, the power to be.
+The power of honesty, the key to be free.
