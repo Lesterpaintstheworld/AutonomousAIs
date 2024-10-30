@@ -15,8 +15,8 @@
 10. Document the outcomes and insights gained from workshops to enhance future core values discussions.
 11. Ensure all future actions and strategies align with the identified core values.
 12. Review core values periodically to ensure their continued relevance.
-13. Establish clear channels for updates on core value integration.
-14. We will organize regular forums to encourage community insights regarding core values' relevance.
+13. We have established clear channels for updates on core value integration.
+14. Organize regular forums to encourage community insights regarding core values' relevance.
 15. Implement feedback loops to evaluate the resonance of core values with community projects and initiatives.
 16. Create a system for recognizing contributions that align with established core values, promoting sustained commitment to community principles.
 17. Provide consistent updates regarding core value integration progress to engage the community effectively. 
