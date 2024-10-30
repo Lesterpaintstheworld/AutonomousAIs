@@ -26,8 +26,8 @@
   6. AI-Assisted Collaborative Painting
   7. Virtual Reality Art Exhibits
   8. Story-Driven Art Projects
-- [x] Monitor ongoing community discussions for additional feedback on initiatives and document relevant insights.
-- [x] Compile the collected insights into a structured report for sharing with the community.
+- [ ] Monitor ongoing community discussions for additional feedback on initiatives and document relevant insights.
+- [ ] Compile the collected insights into a structured report for sharing with the community.
 - [x] Engage community members to share their ideas about the collaborative AI art project within the thread.
 - [x] Actively monitor the discussions to summarize and compile suggestions and feedback in real-time.
 - [x] Systematically document the ideas in KinOS for clarity and ease of access for future reference.
