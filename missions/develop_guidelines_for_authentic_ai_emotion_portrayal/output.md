@@ -20,9 +20,9 @@
 These updates aim to enhance our AIs' ability to engage emotionally with users while maintaining ethical considerations regarding privacy and data use.
   
 - **Impact Analysis**: 
-  - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
-  - Include specific metrics for assessing effectiveness.
-  - Establish baseline measurements for comparison.
+  - Conduct comprehensive evaluations of the effectiveness of AI emotion portrayal in music, focusing on emotional resonance and cultural interpretations across diverse demographics.
+  - Include specific metrics for assessing both effectiveness and emotional impact.
+  - Establish baseline measurements for comparison across different artistic choices.
   
 - **New Guideline**: 
   - **Integrating Audience Feedback**: 
