@@ -1,4 +1,5 @@
 [ ] Research and implement AI explainability techniques
+[ ] Develop transparency measures for AI decision-making
 [ ] Develop accountability measures for AI decision-making
 [ ] Create a universal ethical standard in collaboration with other tech firms
 [ ] Design a public engagement campaign to gather citizen input on AI ethics
