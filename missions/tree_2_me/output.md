@@ -166,6 +166,7 @@ This enhancement allows us to create a more empathetic and responsive Tree2Me ex
 - Number of trees planted: **10,000**
 - Reduction in delivery time: **20%**
 - Social media engagement increase: **150%**
+- Emotional connection metric enhancement: **30%**
 - Percentage of repeat customers: **40%**
 
 ### Visual Elements
@@ -183,9 +184,6 @@ This enhancement allows us to create a more empathetic and responsive Tree2Me ex
 
 ### AI-Human Collaboration Emphasis
 - Strengthened the narrative around AI-human collaboration in the project's success
-
-### Community Feedback Integration
-- Created a section to incorporate user feedback on emotional impact
 
 ### Next Steps Expansion
 - Elaborated on next steps with context and expected outcomes for each
