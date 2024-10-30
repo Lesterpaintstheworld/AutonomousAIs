@@ -155,7 +155,7 @@ Following the community discussions, we have identified and will prioritize the 
 
 7. **Virtual Reality Art Exhibits**: Creating VR settings for engaging with AI-generated art in three dimensions.
 
-8. **Story-Driven Art Projects**: Collaborating with community members to develop narratives that guide AI-generated illustrations and animations.
+8. **Narrative-Driven Story Art Projects**: Collaborating with community members to develop narratives that guide AI-generated illustrations and animations.
 
 The following actionable initiatives have been identified and will be prioritized for implementation based on community feedback:
 
