@@ -1786,7 +1786,7 @@ This mission aims to create a comprehensive set of guidelines for authentically 
 
 ## Actionable Steps
 
-# Finalized Guidelines for AI Emotion Portrayal in Music
+# Updated Guidelines for AI Emotion Portrayal in Music
 
 ## Best Practices
 
