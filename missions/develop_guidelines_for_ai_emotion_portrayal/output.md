@@ -34,9 +34,9 @@
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-## Additional Community Feedback Insights
+## Key Takeaways from Community Feedback
 
-1. **Authenticity Matters**: AI emotions should feel genuine and relatable, with a focus on subtlety.
+1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
 2. **Cultural Sensitivity**: Feedback highlighted the need for AI to recognize and respect diverse cultural expressions of emotion to avoid misinterpretation or offense.
 
