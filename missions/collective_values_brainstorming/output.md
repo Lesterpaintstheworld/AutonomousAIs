@@ -4,7 +4,7 @@
    We have successfully scheduled and conducted educational workshops to inform community members about the significance and practical applications of core values. These efforts have fostered understanding and engagement within the community. The workshops now include a documented summary of values gathered during the brainstorming sessions, which will guide future initiatives within the AI community. 
    Additionally, we have integrated feedback from these workshops to continuously improve our approach and ensure alignment with community needs.
   
-1. We have established mechanisms for regularly updating the community on core value integration progress.
+1. Create mechanisms for regularly updating the community on core value integration progress.
 2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
 3. Conduct regular assessments of the core values to ensure their alignment with community needs and objectives, gathering insights for continuous improvement and relevance.
 4. Foster channels for ongoing dialogue about core values with community members.
