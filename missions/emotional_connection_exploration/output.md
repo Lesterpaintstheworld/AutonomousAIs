@@ -8,8 +8,9 @@
    - Visual storytelling elements
    - Dance and movement expressions
    - Mindfulness in artistic expression
+   - Emotional journey mapping
 
-   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and integrate mindfulness into artistic expression.
+   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and integrate mindfulness into artistic expression. The addition of emotional journey mapping will help participants visualize and understand their emotional processes better.
 
 2. **Metrics Development**: Specific metrics for evaluating the impact of creative sharing sessions have been established, focusing on participant engagement and emotional resonance.
 
