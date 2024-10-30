@@ -33,10 +33,10 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 3. **Implementation Rate**
    - Calculate the percentage of feedback suggestions that are implemented.
 
-4. **Satisfaction Score**
+4. **Community Alignment Index**
    - Conduct surveys to assess contributor satisfaction with the feedback process.
 
-5. **Outcome Impact Assessment**
+5. **Transparency-Creativity Balance**
    - Evaluate the balance between transparent feedback and creative freedom.
 
 ## Expected Outcomes
