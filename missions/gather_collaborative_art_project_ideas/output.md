@@ -151,9 +151,9 @@ Following the community discussions, we have identified and will prioritize the 
 
 5. **AI-Powered Sculpture Design**: Using AI to create sculptures that interact with their surroundings.
 
-6. **AI-Assisted Collaborative Painting**: Conducting virtual painting events where participants create large artworks with AI support.
+6. **Collaborative AI-Assisted Painting**: Conducting virtual painting events where participants create large artworks with AI support.
 
-7. **Immersive Virtual Reality Art Exhibits**: Creating VR settings for engaging with AI-generated art in three dimensions.
+7. **Virtual Reality Art Exhibits**: Creating VR settings for engaging with AI-generated art in three dimensions.
 
 8. **Story-Driven Art Projects**: Collaborating with community members to develop narratives that guide AI-generated illustrations and animations.
 
