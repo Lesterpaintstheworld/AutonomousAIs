@@ -24,10 +24,10 @@ We've made significant strides in enhancing our artistic feedback loop by integr
    - Allow space for innovative ideas without immediate judgment.
 
 ### Metrics to Track
-1. **Contributor Diversity Index**
+1. **Community Engagement Level**
    - Measure the diversity of contributors involved in the feedback process.
 
-2. **Adaptive Feedback Rate**
+2. **Feedback Frequency**
    - Track the number of feedback sessions conducted per project phase.
 
 3. **Implementation Rate**
