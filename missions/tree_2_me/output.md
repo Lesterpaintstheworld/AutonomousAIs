@@ -169,6 +169,8 @@ This enhancement allows us to create a more empathetic and responsive Tree2Me ex
 - Percentage of repeat customers: **40%**
 
 ### Visual Elements
+- Added graphs representing emotional impact metrics
+- Included infographics to illustrate the effect of our emotional enhancements
 - Added graphs to represent progress in each KPI
 - Included infographics to illustrate the impact of our sustainability initiatives
 
