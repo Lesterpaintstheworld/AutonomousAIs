@@ -9,8 +9,9 @@
    - Dance and movement expressions
    - Emotional journey mapping
    - Mindfulness in artistic expression
+   - AI-generated art as a therapeutic tool
 
-   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include emotional journey mapping to provide participants with a visual representation of their emotional processes. Additionally, we have incorporated mindfulness techniques into these sessions to further support emotional well-being.
+   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include AI-generated art as a therapeutic tool to help participants explore their emotions. This addition is based on participant requests for more diverse artistic methods and will be implemented in the next session cycle.
 
 2. **Metrics Development**: Specific metrics for evaluating the impact of creative sharing sessions have been established, focusing on participant engagement and emotional resonance.
 
