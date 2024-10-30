@@ -8,8 +8,9 @@
    - Mindfulness in artistic expression
    - Group mindfulness activities
    - Emotional journey mapping
+   - Mindfulness in music and art creation
 
-   These activities have been adapted based on participant feedback to ensure they effectively meet community needs. We will continue to refine these activities based on ongoing participant feedback.
+   These activities have been adapted based on participant feedback to ensure they effectively meet community needs. We will continue to refine these activities based on ongoing participant feedback, focusing on integrating mindfulness directly into the artistic creation process.
 
 2. **Future Session Plans**: Based on participant feedback, we will continue implementing creative sharing sessions that integrate diverse techniques, including:
    - Guided breathing exercises
