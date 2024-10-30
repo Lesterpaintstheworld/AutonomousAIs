@@ -53,8 +53,9 @@
    - Nature-based mindfulness practices
    - Mindfulness in artistic expression
    - Group mindfulness activities
+   - Emotional journey mapping
 
-   These activities have been adapted based on participant feedback to ensure they effectively meet community needs.
+   These activities have been adapted based on participant feedback to ensure they effectively meet community needs. The addition of emotional journey mapping will help participants visualize and understand their emotional processes better.
 3. **Artistic Expression Impact**: Evaluations demonstrate that artistic contributions significantly foster emotional clarity and connection among participants.
 4. **Diverse Artistic Mediums**: We expanded emotional expression avenues to integrate music, poetry, visual storytelling, and dance, providing various pathways for participants to engage with their emotions.
 5. **Reflection and Sharing Opportunities**: Formalized times for sharing emotional journeys have been established, promoting deeper connections through dialogue.
