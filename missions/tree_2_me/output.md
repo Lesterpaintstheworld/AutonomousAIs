@@ -87,6 +87,9 @@ This enhancement allows us to create a more empathetic and responsive Tree2Me ex
 
 ## Measurable Objectives
 1. **Tree Sourcing and Quality Control**
+   - Enhance tree selection criteria to include resilience against climate change
+   - Implement a traceability system for each tree from source to customer
+   - Develop a customer education program about tree care and sustainability
    - Customer satisfaction rate: 95%
    
 2. **Delivery Logistics and Customer Service Optimization**
