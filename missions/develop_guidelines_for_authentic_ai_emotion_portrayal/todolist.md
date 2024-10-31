@@ -1,6 +1,6 @@
 
 
-- Conduct a comprehensive impact analysis of AI emotion portrayal effectiveness, focusing on emotional resonance and cultural interpretations across diverse demographics.
+- Conduct a comprehensive impact analysis of AI emotion portrayal effectiveness, focusing on emotional resonance and cultural interpretations across diverse demographics, and include specific metrics for assessing both effectiveness and emotional impact.
 - Integrate advancements in emotional analysis algorithms into our portrayal guidelines.
 - Assess how adaptive response strategies can enhance our artistic choices in emotion representation.
 - Evaluate the effectiveness of cultural sensitivity guidelines in AI emotion portrayal.
