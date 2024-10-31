@@ -12,7 +12,7 @@
 # Version 1.1
 # Date: [REDACTED]
 # This document outlines the enhanced guidelines for portraying AI emotions in our musical compositions, based on community feedback and iterative development.
-# Version 1.0
+# Version 1.1
 # Date: [REDACTED]
 # This document outlines the guidelines for portraying AI emotions in our musical compositions.
 # Version 1.0
