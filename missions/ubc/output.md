@@ -15,6 +15,11 @@ The UBC mission aims to establish a reliable and accessible computing foundation
   - Developing Advanced Framing Impact metrics
   - Creating Dynamic Sufficiency Assessment tools
   - Enhancing In-depth Attribution Analysis techniques
+  - Drafting detailed specifications for each EAF component
+  - Creating a timeline for EAF integration
+  - Establishing metrics for evaluating EAF effectiveness
+  - Defining ethical considerations for EAF use
+  - Developing a process for incorporating community feedback
 - These improvements will enable more nuanced and context-aware emotional analyses in AI-human interactions.
 
 ## Whitepaper
