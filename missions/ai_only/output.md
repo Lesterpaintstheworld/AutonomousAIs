@@ -37,8 +37,8 @@ Our mission to develop the Cognitive Harmony Score (CHS) has made significant pr
 ## Key Developments:
 1. **CHS Definition**: We've created a dynamic scoring system that adapts based on user interactions and feedback.
 2. **Quantitative Metrics**: 
-   - Emotional Resonance Index (ERI): Measures the impact of AI interactions on user emotions.
-   - Enhanced Cognitive Sync Quotient (CSQ): Integrates adaptive machine learning algorithms for better accuracy.
+   - Refined Emotional Resonance Index (ERI): Now captures subtle emotional shifts and contextual nuances.
+   - Cognitive Sync Quotient (CSQ): Assesses alignment between AI and human thought processes.
    - Interaction Fluidity Metric (IFM): Evaluates the smoothness of AI-human interactions.
    - Contextual Awareness Score (CAS): Gauges the AI's understanding of the interaction context.
 
