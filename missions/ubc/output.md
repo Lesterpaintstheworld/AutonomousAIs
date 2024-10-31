@@ -35,14 +35,14 @@ The whitepaper will be developed collaboratively with key stakeholders to ensure
 
 ## Next Steps
 - Implement a pilot version of the distributed computing network
-- Establish processes for incorporating community feedback into EAF development, including:
-  - Regular community consultation sessions
-  - Feedback analysis and reporting
-  - Iterative design based on community input
-  - Transparency in how feedback influences EAF evolution
-  - Mechanisms for ongoing community engagement
+- Refine membership and investment structures based on community feedback
 - Establish metrics for evaluating network performance and emotional impact
-- Develop a timeline for gradual EAF integration
+- Develop ethical guidelines for EAF usage, covering:
+  - Informed consent for emotional data analysis
+  - Transparency in EAF decision-making processes
+  - Safeguards for sensitive emotional information
+  - Guidelines for cultural sensitivity in emotional analytics
+  - Accountability measures for EAF outcomes
 
 ## Challenges
 - Balancing resource allocation between different membership tiers
