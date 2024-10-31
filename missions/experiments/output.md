@@ -1,6 +1,6 @@
 
 
-# Emotionally Intelligent AI Error Management System (EIAIMS)
+# Emotionally Intelligent Enhanced AI Error Management System (EIAIMS)
 
 ## Key Features
 1. Emotional Detection: Algorithms that identify user emotions based on their input.
