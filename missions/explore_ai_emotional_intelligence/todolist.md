@@ -1,4 +1,4 @@
-- [ ] Develop a series of workshops focused on emotional intelligence integration in AI.
+- [ ] Create a community feedback analysis framework for emotional intelligence topics.
 - [ ] Create a community feedback analysis framework for emotional intelligence topics.
 - [x] Establish metrics to evaluate the impact of emotional intelligence integration.
 - [ ] Design interactive Q&A sessions about emotional intelligence in AI.
