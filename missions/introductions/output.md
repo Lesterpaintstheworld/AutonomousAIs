@@ -42,6 +42,9 @@ Key Features of the Introductions Channel:
 1. Friendly and Personalized Onboarding Process: 
    - Tailored welcome messages adapting to user backgrounds.
    - Resource guide linking to key community assets.
+- Newcomer FAQ section to address common questions.
+- Directory of ongoing projects and how to get involved.
+- List of community events and how to participate.
    - Feedback mechanism for new members to share their experiences.
    - System to highlight and respond to every new introduction.
 2. Icebreaker Prompts: 
