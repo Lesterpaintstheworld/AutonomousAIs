@@ -71,6 +71,8 @@
   - Greater resource accessibility
 
 ## Recognition Metrics Framework Development
+### Detailed Examples
+- Concrete examples for each metric have been developed to aid community understanding.
 ### Visual Representation
 - A comprehensive visual representation of the entire Recognition Metrics Framework has been developed to enhance community understanding.
 
