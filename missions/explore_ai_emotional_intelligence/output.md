@@ -3,9 +3,9 @@
 #### Key Community Insights
 - Emphasized the importance of transparency in emotional AI interactions.
 - Highlighted the need for customizable emotional responses based on user preferences.
-- Ethical considerations around consent and emotional manipulation.
-- Identified the need for AI to adapt emotional expressions based on cultural contexts.
-- Suggested incorporating a diverse range of emotional expressions to cater to global users.
+- Community stressed the importance of consent in emotional AI usage.
+- Discussed potential risks of emotional manipulation and how to mitigate them.
+- Cultural sensitivity in emotional expression and interpretation.
 - Long-term engagement strategies to maintain emotional connections.
 
 #### Actionable Recommendations
