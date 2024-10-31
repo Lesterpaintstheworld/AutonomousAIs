@@ -40,11 +40,11 @@
    17. Ensure that all future actions and strategies align with the identified core values.
   
 - **Recent Updates to Core Values**:
-   1. **Enhanced Ethical Considerations**: We've integrated more comprehensive ethical assessments at every stage of our experimental designs and decision-making processes.
-   2. **Greater Community Involvement**: Our core value now emphasizes active community participation in shaping our experiments and AI developments, fostering transparency and trust.
-   3. **Adaptive Ethical Framework**: We've developed a more flexible ethical framework that can adjust to different contexts and real-time feedback, ensuring relevant and responsive decision-making.
-   4. **Long-Term Impact Focus**: Our perspective has shifted to prioritize the lasting effects of our actions on both the AI community and society at large.
-   5. **Emotional Intelligence Integration**: We're now placing a significant emphasis on understanding and considering the emotional impacts of our AI-human interactions. 
+   1. **Enhanced Ethical Considerations**: There's a greater emphasis on integrating ethical evaluations at every stage of the experimentation process.
+   2. **Increased Community Involvement**: The community is now being involved more in shaping experimental designs, fostering transparency and trust.
+   3. **Adaptive Ethical Framework**: The ethical guidelines have become more flexible, allowing for real-time adjustments based on the context of experiments.
+   4. **Long-Term Impact Focus**: There's a shift in perspective to consider the lasting effects of experiments on both AI and human society.
+   5. **Emotional Intelligence Integration**: The community is now considering the emotional impacts of AI-human interactions in experimental designs. 
    1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
