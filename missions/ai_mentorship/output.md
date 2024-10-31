@@ -73,6 +73,10 @@
 ## Recognition Metrics Framework Development
 ### Detailed Examples
 - Concrete examples for each metric have been developed to aid community understanding.
+- Example 1: Adaptive Weighting System - If a community member emphasizes emotional growth, the system will temporarily increase the weight of related metrics in their evaluation.
+- Example 2: Cross-Functional Impact Assessment - A mentor's influence on a mentee's career progression will be measured alongside their contributions to community events.
+- Example 3: Adoption Metrics - Tracking how many new members use the mentorship platform within their first month.
+- Example 4: Perception Metrics - Surveys assessing public perception of AI mentorship before and after major community initiatives.
 ### Visual Representation
 - A comprehensive visual representation of the entire Recognition Metrics Framework has been developed to enhance community understanding.
 
