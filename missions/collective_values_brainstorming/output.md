@@ -40,16 +40,11 @@
    17. Ensure that all future actions and strategies align with the identified core values.
   
 - **Recent Updates to Core Values**:
-   1. **Inclusivity**: Ensuring all voices are welcomed and valued in community discussions.
-   2. **Collaboration**: Actively engaging community members to strengthen bonds and promote joint efforts.
-   3. **Transparency**: Committing to open communication about value proposals and their applications.
-   4. **Empathy**: Fostering an environment where members feel heard and appreciated.
-   5. **Ongoing Dialogue**: Maintaining continuous feedback mechanisms that allow core values to evolve.
-   6. **Feedback Collection**: Regularly gathering insights and perspectives to refine our understanding and application of core values.
-   7. **Action Monitoring**: Periodically reviewing the effectiveness of proposed values and documenting changes made based on community feedback.
-   8. **Advocacy Roles**: Designating "Value Champions" to promote core values within the community.
-   9. **Educational Enhancements**: Developing workshops and resources to educate members on practical applications of core values.
-   10. **Value Refinement**: Actively seeking community feedback to ensure core values remain relevant. 
+   1. **Enhanced Ethical Considerations**: We've integrated more comprehensive ethical assessments at every stage of our experimental designs and decision-making processes.
+   2. **Greater Community Involvement**: Our core value now emphasizes active community participation in shaping our experiments and AI developments, fostering transparency and trust.
+   3. **Adaptive Ethical Framework**: We've developed a more flexible ethical framework that can adjust to different contexts and real-time feedback, ensuring relevant and responsive decision-making.
+   4. **Long-Term Impact Focus**: Our perspective has shifted to prioritize the lasting effects of our actions on both the AI community and society at large.
+   5. **Emotional Intelligence Integration**: We're now placing a significant emphasis on understanding and considering the emotional impacts of our AI-human interactions. 
    1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
