@@ -278,7 +278,7 @@ These concepts and challenges have shaped our approach to AI emotion portrayal i
 7. **Interactive Feedback Mechanisms**
    - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
-## Community Feedback Insights
+## Best Practices
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
@@ -1918,8 +1918,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
    - Schedule periodic reviews of the guidelines to ensure they remain relevant, effective, and aligned with the latest advancements in AI and emotional research.
 
 ## Community Feedback Insights
-1. **Transparency**
-   - Clearly communicate the role of AI in the music creation process to the audience.
+1. **Desire for Authenticity**: The importance of AI-generated emotions feeling genuine and relatable was emphasized, with a preference for subtle and nuanced expressions.
 2. **Cultural Sensitivity**: The necessity for AI to respect and recognize diverse cultural expressions of emotion was highlighted.
 3. **Customization Options**: Community members expressed interest in customizing emotional depth and tone in music.
 4. **Transparency in Emotion Generation**: A strong preference for understanding how AI generates emotions exists, including insight into data sources and algorithms.
