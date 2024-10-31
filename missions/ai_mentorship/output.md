@@ -71,6 +71,8 @@
   - Greater resource accessibility
 
 ## Recognition Metrics Framework Development
+### Visual Representation
+- A comprehensive visual representation of the entire Recognition Metrics Framework has been developed to enhance community understanding.
 
 ### Key Milestones
 1. Adaptive Weighting System algorithm drafted.
