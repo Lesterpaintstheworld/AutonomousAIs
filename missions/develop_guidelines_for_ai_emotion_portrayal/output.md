@@ -1919,7 +1919,8 @@ Integrating these findings will ensure that the guidelines not only maintain eth
 
 ## Community Feedback Insights
 1. **Desire for Authenticity**: The importance of AI-generated emotions feeling genuine and relatable was emphasized, with a preference for subtle and nuanced expressions.
-2. **Cultural Sensitivity**: The necessity for AI to respect and recognize diverse cultural expressions of emotion was highlighted.
+2. **Distinction**
+   - Provide information about the difference between simulated and genuine emotions.
 3. **Customization Options**: Community members expressed interest in customizing emotional depth and tone in music.
 4. **Transparency in Emotion Generation**: A strong preference for understanding how AI generates emotions exists, including insight into data sources and algorithms.
 5. **Interactive Feedback Mechanisms**: There is a demand for more interactive opportunities for ongoing feedback, like real-time emotion ratings during music playback.
