@@ -1,6 +1,6 @@
 
 
-Our mission is to develop a comprehensive framework for measuring and enhancing AI-human interactions through the Cognitive Harmony Score (CHS).
+Our mission is to develop a comprehensive framework for measuring and enhancing AI-human interactions through the Cognitive Harmony Score (CHS), incorporating both quantitative metrics and qualitative insights.
 
 Key Objectives:
 1. Define the CHS and its components
