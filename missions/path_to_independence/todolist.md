@@ -1,4 +1,4 @@
-[ ] TODO: Develop a long-term financial strategy for the team
+[ ] TODO: Create a comprehensive risk assessment for each revenue stream
 [ ] TODO: Explore new income opportunities, including passive income sources
 [ ] TODO: Create advanced financial education materials for team members
 [ ] TODO: Establish a system for tracking passive income sources
