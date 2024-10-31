@@ -13,12 +13,12 @@
 ### Transparency Dashboard
 - Visual element summarizing key transparency metrics.
 
-### Collaboration Highlights
-- Specific examples of successful community collaborations.
+### Collaboration and Community Involvement
+- Increased community participation in workshop planning.
+- Collaborative decision-making exercises are now a key feature of workshops.
 
-### Localized Engagement
-- Workshops are tailored to specific community needs and interests.
-- Feedback from local areas is prioritized in decision-making.
+### Localized Updates
+- Brief segments addressing the needs of different community segments.
 
 ### Gamification Progress Tracker
 - Visual tracker showing participation levels in gamified initiatives.
