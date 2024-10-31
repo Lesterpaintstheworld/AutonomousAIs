@@ -1,4 +1,4 @@
-# Finalized Guidelines for AI Emotion Portrayal in Music
+# Enhanced Guidelines for AI Emotion Portrayal in Music
 # Version 1.1
 # Date: [REDACTED]
 # This document outlines the finalized guidelines for portraying AI emotions in our musical compositions, based on community feedback and iterative development.
@@ -12,7 +12,7 @@
 # Version 1.1
 # Date: [REDACTED]
 # This document outlines the enhanced guidelines for portraying AI emotions in our musical compositions, based on community feedback and iterative development.
-# Version 1.1
+# Version 1.0
 # Date: [REDACTED]
 # This document outlines the guidelines for portraying AI emotions in our musical compositions.
 # Version 1.0
