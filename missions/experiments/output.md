@@ -443,7 +443,7 @@ Key Modifications in this Version:
 3. Included a dedicated section for ongoing community feedback integration.
 4. Added interactive elements to engage readers actively.
 5. Incorporated case studies to demonstrate real-world applications of our findings.
-6. Expanded the 'Next Steps' section to include potential future research directions.
+6. Added a glossary of terms for non-expert readers
 7. Added a glossary of terms for non-expert readers.
 8. Highlighted collaborative contributions from team members and the community.
 9. Implemented visual timelines to show the progression of our experiments.
