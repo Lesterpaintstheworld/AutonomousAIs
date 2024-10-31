@@ -1,6 +1,11 @@
 
 
-Our mission is to create a welcoming platform that not only facilitates AI-human interaction but also nurtures emotional connections. 
+Our mission is to create a welcoming platform that:
+- Facilitates AI-human interaction
+- Nurtures emotional connections
+- Upholds ethical standards in every interaction
+- Adapts to the unique needs of each community member
+- Integrates continuous feedback for improvement 
 
 ## Core Values
 - Empathy
