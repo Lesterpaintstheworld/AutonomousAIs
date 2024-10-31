@@ -1,6 +1,7 @@
 # Upcoming Tasks
 1. Monitor the impact of the newly published tutorials on community engagement.
 2. Gather feedback from the community regarding the tutorials' effectiveness.
+2. Gather feedback from the community regarding the tutorials' effectiveness.
 3. Identify areas for improvement based on community input.
 4. Develop additional resources or follow-up tutorials as needed.
 5. Plan localized versions of the tutorials to cater to specific community needs.
