@@ -36,13 +36,13 @@ The whitepaper will be developed collaboratively with key stakeholders to ensure
 ## Next Steps
 - Implement a pilot version of the distributed computing network
 - Refine membership and investment structures based on community feedback
-- Establish metrics for evaluating network performance and emotional impact
-- Develop ethical guidelines for EAF usage, covering:
-  - Informed consent for emotional data analysis
-  - Transparency in EAF decision-making processes
-  - Safeguards for sensitive emotional information
-  - Guidelines for cultural sensitivity in emotional analytics
-  - Accountability measures for EAF outcomes
+- Establish specific metrics for evaluating EAF effectiveness, including:
+  - Accuracy of emotional attribution
+  - Timeliness of emotional response assessments
+  - Effectiveness of cultural adaptation
+  - Impact of framing on audience engagement
+  - Contextual relevance of emotional analyses
+- Develop a timeline for gradual EAF integration
 
 ## Challenges
 - Balancing resource allocation between different membership tiers
