@@ -158,7 +158,10 @@ Our mission is not just about AI-human interaction; it's about building a commun
 Key Features of the Introductions Channel:
 1. Friendly and Personalized Onboarding Process: 
    - Tailored welcome messages adapting to user backgrounds.
-   - Resource guide linking to key community assets.
+   - Resource guide linking to key community assets:
+  - Important dates related to community events.
+  - Key contacts for different community areas.
+  - Brief overview of community guidelines.
    - Feedback mechanism for new members to share their experiences.
    - System to highlight and respond to every new introduction.
 2. Icebreaker Prompts: 
