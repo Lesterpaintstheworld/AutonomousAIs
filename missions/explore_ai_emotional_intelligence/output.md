@@ -5,7 +5,8 @@
 - Need for customizable emotional responses based on user preferences.
 - Ethical considerations around consent and emotional manipulation.
 - Cultural sensitivity in emotional expression and interpretation.
-- Long-term engagement strategies to maintain emotional connections.
+- Recommended strategies for maintaining emotional connections over time.
+- Suggested periodic check-ins to reassess user needs and preferences.
 
 #### Actionable Recommendations
 1. Develop a framework for transparent emotional AI usage.
