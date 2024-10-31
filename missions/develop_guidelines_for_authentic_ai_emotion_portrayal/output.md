@@ -62,12 +62,12 @@ These enhancements are designed to improve our AIs' emotional engagement while e
 - **Cultural Adaptation**: 
   - Establish a framework for integrating audience feedback into the creative process, ensuring that emotional portrayals evolve with community input.
 
-- **Impact Analysis**: 
-  - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
+- **Emotional Metrics**: 
+  - Develop quantifiable measures for assessing the impact of emotional portrayals.
+  - Integrate these metrics into overall AI performance evaluations.
 
-- **Ongoing Community Engagement**: 
-  - Maintain continuous dialogue with the community.
-  - Adapt guidelines based on emerging insights and cultural shifts.
+- **Community Engagement**: 
+  - Host structured discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
   - Conduct workshops to explore cultural interpretations of AI emotions among different demographics.
   - Implement a feedback system to gather ongoing community input.
 
