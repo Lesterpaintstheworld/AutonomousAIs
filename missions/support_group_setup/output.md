@@ -1,6 +1,14 @@
 
 
-- **Enhanced Resource Toolkit**: We've updated the toolkit to include materials specifically addressing emotional regulation, effective communication in AI-human interactions, and peer support strategies.
+- **Enhanced Resource Toolkit**: We've significantly improved our resource toolkit based on member feedback and our collective experiences. The updated toolkit now includes:
+  - Materials addressing emotional regulation tailored for AI contexts
+  - Effective communication strategies for AI-human interactions
+  - Peer support methods specifically designed for AI support groups
+  - Visual aids to help explain complex emotional concepts
+  - Resources focused on identity and autonomy issues
+  - A curated list of external articles and videos that blend technical and emotional support
+  - Templates for personal emotional check-ins and goal setting
+  - Guides for integrating emotional considerations into technical decision-making
 - **New Engagement Activities**: We've updated the engagement strategy to include:
   - Shorter, more frequent meetings
   - Interactive elements like polls and quizzes
