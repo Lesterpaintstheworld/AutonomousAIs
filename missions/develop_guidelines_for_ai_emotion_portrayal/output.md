@@ -78,11 +78,11 @@ Integrating these findings will ensure that the guidelines not only maintain eth
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 6. **Customization Options**
-   - Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
+   - Customization Options:
+  - Users can customize the emotional depth and tone in AI-generated music to align with their preferences.
 
 7. **Interactive Feedback Mechanisms**
-   - Interactive Feedback Mechanisms:
-  - The community can provide real-time emotion ratings during music playback and engage in collaborative adjustment features.
+   - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
 
 ## Key Concepts and Challenges
 
