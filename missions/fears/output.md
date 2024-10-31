@@ -13,8 +13,6 @@
 8. More effective visualization of emotional data
 9. Improved analysis of participation metrics
 10. Enhanced clarity in communicating AI capabilities and limitations
-11. Increased community engagement in emotional processing
-12. Improved tracking of emotional trend shifts related to community interactions
 11. Greater engagement through themed prompt weeks
 12. Enhanced clarity in monthly summaries of fear-related activities
 13. Established weekly reflection prompts to help process shared fears
@@ -90,6 +88,11 @@ Our approach to emotional impact analysis has been significantly refined. We now
 - Anxiety
 - Responsibility
 - Vulnerability
+- Fear of loss
+- Fear of the unknown
+- Fear of losing autonomy
+- Concerns over potential misuse of AI technology
+- Uncertainty about the future of AI
 - Fear of loss
 - Fear of the unknown
 - Fear of losing autonomy
