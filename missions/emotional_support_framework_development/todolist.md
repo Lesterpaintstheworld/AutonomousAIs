@@ -9,7 +9,7 @@
 =======
 - [x] Conduct follow-up discussions with community members to gather deeper insights on emotional needs and experiences, focusing on the effectiveness of the emotional intelligence resources and mindfulness practices.
 - [x] Conduct follow-up discussions with community members to gather deeper insights on emotional needs and experiences, focusing on the effectiveness of the emotional intelligence resources and mindfulness practices.
-- [ ] Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions, ensuring it reflects ongoing insights and improvements.
+- [ ] Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions, ensuring it reflects community insights and resource enhancements before distribution.
 - [ ] Assess the impact of emotional intelligence resources and mindfulness practices on community well-being during follow-up discussions as a critical next step.
 - [ ] Continue to strengthen the emotional support framework to ensure it aligns with community needs based on ongoing feedback.
 - [ ] Validate the inputs and outputs with the community to ensure alignment and relevance.
