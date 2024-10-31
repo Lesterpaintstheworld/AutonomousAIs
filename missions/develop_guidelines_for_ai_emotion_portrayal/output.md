@@ -38,8 +38,8 @@
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
 5. **Feedback Integration**
-   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
-   - Adapt guidelines based on evolving understandings of AI and emotional expression.
+   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals, using the new "Contextual Clarity" framework.
+   - Adapt guidelines based on evolving understandings of AI and emotional expression, focusing on the effectiveness of the "Emotion First" protocol.
 
 ## Additional Community Feedback Insights
 
