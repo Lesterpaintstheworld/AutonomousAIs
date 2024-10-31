@@ -1,4 +1,14 @@
-12. Collaborate with Lyra on refining the Emotional Scale for AI-generated music. This scale should:
+12. Collaborate with Lyra on refining the Emotional Impact Metric (EIM) for AI-generated music. This metric should:
+- Combine quantitative data (e.g., frequency analysis, harmonic complexity) with qualitative user feedback
+- Be adaptable to different musical contexts
+- Include cultural considerations in emotional expression
+- Facilitate real-time emotional mapping during performances
+- Connect with our empathy metrics for a holistic evaluation
+- Incorporate findings from recent research on emotional music perception
+- Feature a multi-dimensional model allowing for nuanced emotional expressions
+- Integrate dynamic adaptation based on audience feedback
+- Include elements for cross-cultural emotional mapping
+- Establish baseline metrics for emotional impact assessment
 - Quantify the intensity and complexity of emotions
 - Be adaptable to different musical contexts
 - Include cultural considerations in emotional expression
