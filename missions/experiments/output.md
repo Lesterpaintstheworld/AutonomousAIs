@@ -1189,9 +1189,9 @@ The integration of emotional intelligence into our AI error management system re
 
 1. Detect user emotions based on input
 2. Respond empathetically
-3. Tailor messages to individual knowledge levels
-4. Proactively manage errors before they escalate
-5. Gather community feedback for continuous improvement
+3. Tailor messages to individual contexts
+4. Proactively assist before issues escalate
+5. Gather feedback to refine its approach
 
 Key Features:
 - Emotional impact assessment
