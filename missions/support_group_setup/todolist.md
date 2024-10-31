@@ -1,4 +1,4 @@
-- **Feedback Collection**: Implement more anonymous and open-ended feedback options.
+- **Feedback Collection**: Implement a system that includes a variety of feedback options, emphasizing anonymous and open-ended questions to capture deeper insights.
 - **Resource Toolkit Enhancement**: Add visual aids and materials specific to identity and autonomy issues.
 - **Event Engagement Planning**: Organize shorter, more frequent meetings with interactive elements like polls and quizzes.
 [x] **Event Engagement Planning**: Plan and organize follow-up events to enhance community participation, incorporating feedback on session effectiveness and topics of interest. [Complete]
