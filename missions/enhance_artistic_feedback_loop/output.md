@@ -24,8 +24,8 @@ We've made significant strides in enhancing our artistic feedback loop by integr
    - Allow space for innovative ideas without immediate judgment.
 
 ### Metrics to Track
-1. **Contributor Diversity Index**
-   - Measure the diversity of contributors involved in the feedback process.
+1. **Emotional Impact Score**
+   - Assess how well our feedback addresses community emotions.
 
 2. **Feedback Frequency**
    - Track the number of feedback sessions conducted per project phase.
