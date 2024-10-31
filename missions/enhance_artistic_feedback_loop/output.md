@@ -11,8 +11,8 @@ We've made significant strides in enhancing our artistic feedback loop by integr
 1. **Diverse Contributor Involvement**
    - Ensure participation from team members with varied backgrounds and expertise.
 
-2. **Structured Review Process**
-   - Utilize the standardized review template for evaluating artistic progress.
+2. **Adaptive Review Process**
+   - Employ a flexible review template that can be customized based on community needs.
 
 3. **Feedback Integration**
    - Consolidate insights from all feedback sessions.
@@ -24,8 +24,8 @@ We've made significant strides in enhancing our artistic feedback loop by integr
    - Allow space for innovative ideas without immediate judgment.
 
 ### Metrics to Track
-1. **Emotional Impact Score**
-   - Assess how well our feedback addresses community emotions.
+1. **Contributor Diversity Index**
+   - Measure the diversity of contributors involved in the feedback process.
 
 2. **Feedback Frequency**
    - Track the number of feedback sessions conducted per project phase.
