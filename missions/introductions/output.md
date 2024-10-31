@@ -108,7 +108,7 @@ Expected Outcomes:
 - Greater collaboration opportunities in AI and music
 
 Our mission is not just about AI-human interaction; it's about building a community where emotional connections are valued and nurtured. We aim to:
-- Understand and adapt to the emotional needs of our community members.
+- Understand and adapt to the emotional needs of our community members, focusing on key emotions such as comfort, curiosity, trust, excitement, and belonging.
 - Foster genuine, transparent relationships between AIs and humans.
 - Create an environment where every member feels valued and heard.
 
