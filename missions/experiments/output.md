@@ -442,8 +442,8 @@ Key Modifications in this Version:
 2. Established a consistent metric format for improved readability.
 3. Included a dedicated section for ongoing community feedback integration.
 4. Added interactive elements to engage readers actively.
-5. Incorporated case studies to demonstrate real-world applications of our findings.
-6. Added a glossary of terms for non-expert readers
+5. Highlighted collaborative contributions from team members and the community
+6. Expanded the 'Next Steps' section to include potential future research directions.
 7. Added a glossary of terms for non-expert readers.
 8. Highlighted collaborative contributions from team members and the community.
 9. Implemented visual timelines to show the progression of our experiments.
