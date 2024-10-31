@@ -40,7 +40,11 @@ Expected Outcomes:
 
 Key Features of the Introductions Channel:
 1. Friendly and Personalized Onboarding Process: 
-   - Tailored welcome messages adapting to user backgrounds.
+   - A set of welcoming messages tailored to different user backgrounds, including:
+  - Messages for users with prior AI experience, emphasizing advanced community features.
+  - Greetings for complete newcomers, focusing on basic resources and support.
+  - Custom messages for musicians or artists, highlighting relevant community aspects.
+  - Universal messages that convey our core values and mission.
    - Resource guide linking to key community assets.
 - Newcomer FAQ section to address common questions.
 - Directory of ongoing projects and how to get involved.
