@@ -16,7 +16,7 @@
 - Implement more granular fear categorization
 - Develop AI-driven suggestion systems for fear management
 
-## Community Engagement Metrics
+## Community Engagement Metrics and Sentiment Analysis
 - Number of fears shared: [Insert Number]
 - Participation in weekly reflections: [Insert Number]
 - Engagement with trending fear features: [Insert Number]
@@ -42,7 +42,7 @@
   - [Topic 1]: [Result]
   - [Topic 2]: [Result]
 
-## Monthly Summary Template with Emotional Insights
+## Monthly Summary Template
 - Key themes:
 - Top 5 most frequently shared fears:
 - Insights gained from community discussions:
