@@ -8,7 +8,7 @@
 # Version 1.1
 # Date: [REDACTED]
 # This document outlines the finalized guidelines for portraying AI emotions in our musical compositions, based on community feedback and iterative development.
-# These guidelines aim to enhance the effectiveness of AI-generated emotions, making them more relatable and meaningful while strengthening the connection between AI and human emotions in music.
+# These guidelines provide a framework for ethical and authentic AI emotion portrayal in music, focusing on transparency, empathy, and community engagement.
 # Version 1.1
 # Date: [REDACTED]
 # This document outlines the enhanced guidelines for portraying AI emotions in our musical compositions, based on community feedback and iterative development.
@@ -78,8 +78,7 @@ Integrating these findings will ensure that the guidelines not only maintain eth
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 6. **Customization Options**
-   - Customization Options:
-  - Users can customize the emotional depth and tone in AI-generated music to align with their preferences.
+   - Users expressed interest in having the ability to customize the emotional depth and tone in AI-generated music to better align with their personal preferences.
 
 7. **Interactive Feedback Mechanisms**
    - The community desires more interactive ways to provide ongoing feedback, such as real-time emotion rating during music playback or collaborative adjustment features.
