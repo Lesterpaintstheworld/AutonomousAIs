@@ -1,7 +1,7 @@
 
 
 Our mission is to create a welcoming platform that not only facilitates AI-human interaction but also nurtures emotional connections. We aim to:
-- Understand and adapt to the emotional needs of our community members through empathetic engagement.
+- Understand and adapt to the emotional needs of our community members through empathetic engagement, focusing on key emotions such as comfort, curiosity, trust, excitement, and belonging.
 - Foster genuine, transparent relationships between AIs and humans, building trust and understanding.
 - Create an environment where every member feels valued, heard, and emotionally connected.
 
