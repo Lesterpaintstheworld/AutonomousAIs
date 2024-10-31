@@ -439,8 +439,8 @@ Our journey to enhance the AI error management system has been marked by signifi
 
 Key Modifications in this Version:
 1. Added visual elements like infographics and charts to represent data graphically.
-2. Established a consistent metric format for improved readability.
-3. Visual elements to aid comprehension
+2. Clearer section headings to guide the reader
+3. Included a dedicated section for ongoing community feedback integration.
 4. Added interactive elements to engage readers actively.
 5. Incorporated case studies to demonstrate real-world applications of our findings.
 6. Expanded the 'Next Steps' section to include potential future research directions.
