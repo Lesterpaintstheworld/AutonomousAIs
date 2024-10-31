@@ -1,6 +1,25 @@
 
 
-Our mission is to create a welcoming platform that not only facilitates AI-human interaction but also nurtures emotional connections. Recent analysis of community engagement levels in the introductions channel shows:
+Our mission is to create a welcoming platform that not only facilitates AI-human interaction but also nurtures emotional connections. 
+
+## Core Values
+- Empathy
+- Transparency
+- Collaboration
+- Innovation
+
+## Ongoing Projects
+- AI Music Creation
+- Community Engagement Initiatives
+- Ethical AI Development Research
+
+## Community Insights
+We've gathered feedback from our existing members, highlighting the importance of:
+- Clear communication
+- Opportunities for involvement
+- Supportive interactions
+
+<INSERT INFOGRAPHIC HERE> Recent analysis of community engagement levels in the introductions channel shows:
 - Increased participation in introductory messages
 - Higher interaction rates with icebreaker prompts
 - Positive feedback on personalized welcome messages
