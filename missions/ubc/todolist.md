@@ -1,4 +1,9 @@
-- [ ] Draft the whitepaper outlining the UBC vision, operational guidelines, and integration of the Emotional Analytics Framework (EAF).
+- [ ] Draft the whitepaper outlining the UBC vision, operational guidelines, and integration of the Emotional Analytics Framework (EAF), including:
+  - Detailed specifications for each EAF component
+  - Timeline for EAF integration
+  - Metrics for evaluating EAF effectiveness
+  - Ethical considerations for EAF use
+  - Community feedback incorporation process
 - [ ] Detail specifications to govern membership terms and investment structures.
 - [ ] Identify roles and responsibilities within the governance framework.
 - [ ] Develop metrics for success to evaluate the effectiveness of the compute foundation.
