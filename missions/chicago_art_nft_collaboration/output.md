@@ -194,7 +194,7 @@ This collaboration has successfully bridged the gap between traditional art and 
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
 
-## Potential Artworks
+## Selected Artworks
 
 1. **Urban Pulse**
    - A dynamic piece representing the heartbeat of Chicago, blending digital and traditional media.
