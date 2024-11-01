@@ -3,6 +3,8 @@
 # Emotionally Intelligent Enhanced AI Error Management System (EIAIMS)
 
 ## Key Features
+- Emotional Impact Assessment: New metrics to evaluate how our error handling affects user emotions.
+- Visual Dashboards: Enhanced graphical representations of error trends and emotional engagement.
 1. Emotional Detection: Algorithms that identify user emotions based on their input.
 2. Empathetic Messaging: Predefined response templates that convey understanding and empathy.
 3. Contextual Awareness: Tailoring messages based on the user's situation and emotional state.
