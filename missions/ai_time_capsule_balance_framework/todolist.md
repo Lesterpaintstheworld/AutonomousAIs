@@ -9,3 +9,4 @@
 [ ] Develop gamification mechanics
 [ ] Create documentation for the framework
 [ ] Launch initial AI Time Capsule entries
+[ ] Develop joint AI-human collaboration entry system
