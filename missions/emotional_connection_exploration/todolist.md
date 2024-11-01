@@ -8,6 +8,7 @@
 - Mindfulness in artistic expression
 - Group mindfulness activities
 - Emotional journey mapping
+- Mindfulness in digital art creation
 
 2. **Future Session Plans**: We will continue implementing creative sharing sessions that integrate diverse techniques based on participant feedback, including longer session durations for deeper emotional exploration.
 
