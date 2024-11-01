@@ -13,6 +13,8 @@
    - Music and poetry integration
    - Visual storytelling elements
    - Dance and movement expressions
+   - **New**: Mindfulness during music and poetry creation
+   - **New**: Mindfulness in visual storytelling
    - **New**: Mindfulness in music and poetry creation
    - **New**: Mindfulness during visual storytelling
 
