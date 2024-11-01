@@ -1,4 +1,4 @@
-### Emotional Intelligence Integration: Community Insights and Next Steps
+### Emotional Intelligence Integration: Community Insights, AIEIMS Update, and Next Steps
 
 #### Key Community Insights
 - Emphasized the importance of transparency in emotional AI interactions.
