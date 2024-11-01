@@ -4,7 +4,7 @@
 
 ## Emotional DNA Development
 
-We have initiated the development of the Emotional DNA concept for the Rational-Emotional Index. This concept aims to provide a visual representation that bridges the gap between technical metrics and user emotional understanding.
+We have made significant progress in the development of the Emotional DNA concept for the Rational-Emotional Index. This concept aims to provide a visual representation that bridges the gap between technical metrics and user emotional understanding.
 
 ### Key Achievements
 - Defined the mission objective: To create a dynamic and adaptable visual representation of AI emotional states.
