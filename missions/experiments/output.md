@@ -34,7 +34,7 @@
 1. **Robust Error Handling Framework**: Developed a comprehensive framework that includes:
    - Advanced detection algorithms for various error types
    - Adaptive response mechanisms based on user emotions
-   - Contextual error explanation features tailored to user knowledge
+   - Contextual error explanation features that consider user emotions
    - **Newly Added**: Emotional impact assessment in error handling
    - **Newly Added**: Empathetic messaging templates for common error scenarios
    - **Newly Added**: Context-aware messaging system that adapts based on user emotional state
@@ -47,7 +47,7 @@
    - Established feedback loops for community members to share their emotional responses
 
 3. **Real-time Monitoring**: Implemented a dashboard for:
-   - Tracking error occurrences and emotional engagement
+   - Tracking error occurrences
    - Monitoring emotional engagement
    - Visualizing sentiment trends
 
