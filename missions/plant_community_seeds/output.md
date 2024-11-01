@@ -1,4 +1,4 @@
-## Mission Update - Integration of Core Values and Community Empowerment
+## Mission Update - Community Engagement and Value Integration
 
 ### Key Changes
 - Improved integration of community feedback into decision-making processes.
