@@ -20,6 +20,9 @@
 - Number of fears shared: [Insert Number]
 - Participation in weekly reflections: [Insert Number]
 - Engagement with trending fear features: [Insert Number]
+- Active participants in the #fears channel: [Insert Number]
+- Frequency of posts per participant: [Insert Number]
+- Engagement levels with prompts and reflections: [Insert Number]
 
 ## Enhanced Emotional Impact Analysis
 Our approach to emotional impact analysis has been significantly refined. We now actively identify and analyze key emotions associated with our Fears mission, including:
