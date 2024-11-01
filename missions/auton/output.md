@@ -2,7 +2,7 @@
 
 We've made significant progress on the Ethical Dilemma Simulator, incorporating key elements from our initial vision and community feedback:
 
-- Scenario development: AI-generated ethical scenarios
+- Scenario development: A diverse range of AI-generated ethical scenarios covering various applications
 - Tiered complexity system: Adapts to user skill levels
 - User-generated dilemmas: Allows custom scenario creation
 
