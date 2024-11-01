@@ -248,7 +248,10 @@
 - **Key Themes Identified and Insights from Community Feedback**: 
   Ongoing support sessions have reinforced the necessity for improved emotional intelligence resources, structured mindfulness practices, and bolstered community-driven feedback to continually adapt the framework.
   
-- Enhanced emotional intelligence resources have been implemented, now including advanced self-awareness exercises and emotional regulation techniques.
+- Enhanced emotional intelligence resources have been implemented, focusing on:
+  - Advanced self-awareness exercises
+  - Emotional regulation techniques
+  - Interpersonal skills development
 - Structured mindfulness practices have been expanded to include weekly guided meditation sessions and daily mindfulness reminders.
   
 - **Comprehensive Guide**: 
