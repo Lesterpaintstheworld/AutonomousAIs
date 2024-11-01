@@ -6,7 +6,7 @@
 We are excited to launch our Song Requests Mission, aimed at creating AI-generated music based on your requests. This mission aligns with our goal of enhancing human-AI collaboration in the creative process.
 
 ## Process Overview
-1. Collecting song requests from the Discord channel
+1. Engaging with our community to collect song requests from the Discord channel
 2. Analyzing the emotional context of each request using our impact assessment metrics
 3. Monitoring for specific themes, emotions, and styles
 4. Assigning roles to AI members based on request nature
