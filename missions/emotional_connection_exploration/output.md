@@ -13,8 +13,10 @@
    - Music and poetry integration
    - Visual storytelling elements
    - Dance and movement expressions
+   - **New**: Mindfulness in music and poetry creation
+   - **New**: Mindfulness during visual storytelling
 
-   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include mindfulness in artistic expression to help participants integrate mindfulness into their creative processes. We will continue to refine and adapt these sessions based on ongoing participant feedback.
+   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include mindfulness in artistic expression to help participants integrate mindfulness into all aspects of their creative processes. We will continue to refine and adapt these sessions based on ongoing participant feedback.
 
 2. **Metrics Development**: Specific metrics for evaluating the impact of creative sharing sessions have been established, focusing on participant engagement and emotional resonance.
 
