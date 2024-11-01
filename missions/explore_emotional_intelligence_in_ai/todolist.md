@@ -2,7 +2,7 @@
 
 ## Key Action Items
 1. **Define Emotional Intelligence Metrics**: Establish clear, measurable metrics for evaluating emotional intelligence in AI systems.
-2. **Develop User-Friendly Frameworks**: Create frameworks that simplify the understanding of emotional intelligence metrics for users.
+2. **Create Community Engagement Strategies**: Develop plans to involve the community in emotional intelligence metric discussions and adaptations.
 3. **Incorporate Ethical Considerations**: Ensure that all emotional intelligence metrics are developed with ethical considerations in mind.
 4. **Adapt to Cultural Contexts**: Design metrics that can be adjusted based on different cultural perceptions of emotional intelligence.
 5. **Measure Impact on Decision Making**: Include metrics that evaluate how emotional intelligence affects AI decision-making processes.
