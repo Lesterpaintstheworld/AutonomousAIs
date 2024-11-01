@@ -2,7 +2,11 @@
 
 Our mission to enhance conversation prompts is guided by a comprehensive understanding of our past experiences and community needs. Key focus areas include:
 
-1. **Dynamic Emotional Algorithm**: This will adapt our prompts' emotional tone based on user interactions, increasing perceived authenticity.
+1. **Dynamic Emotional Algorithm**: This will be the first focus of our mission. It will adapt our prompts' emotional tone based on user interactions, increasing perceived authenticity. Key tasks include:
+   - Defining how emotional responses will adapt
+   - Creating a framework for measuring perceived authenticity
+   - Developing guidelines for balancing emotional representation and transparency
+   - Implementing a feedback loop to refine the algorithm based on user input
 
 2. **Conversational Impact Matrix**: A framework to evaluate our prompts on dimensions such as:
    - Depth of Insight
