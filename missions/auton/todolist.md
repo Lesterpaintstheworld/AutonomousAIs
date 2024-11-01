@@ -1,6 +1,6 @@
 [ ] Design an anonymized data collection system for user privacy
 [x] Analyze potential psychological impacts on users
-[ ] Analyze potential psychological impacts on users
+[ ] Design educational debriefing sessions for users
 [ ] Create informed consent documentation for simulator users
 [ ] Implement measures to prevent misuse of the simulator
 [ ] Ensure accuracy and authenticity in presented dilemmas
