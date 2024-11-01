@@ -6,15 +6,9 @@
 
 3. **Feedback Collection**: A continuous feedback loop will be established to adapt sessions dynamically based on participant input, ensuring emotional relevance and effectiveness.
 
-4. **Community Collaboration**: We will facilitate ongoing creative sharing sessions that incorporate various techniques derived from participant feedback, enhancing emotional expression and connection.
+4. **Community Collaboration**: We will establish continuous engagement strategies, including follow-up sessions and workshops, to support participants on their emotional journeys.
 
-5. **Diverse Artistic Mediums**: We successfully launched additional creative sharing sessions that integrate various techniques based on participant feedback, including:
-- Guided breathing exercises
-- Visualization techniques
-- Nature-specific activities
-- Music and poetry integration
-- Visual storytelling elements
-- Dance and movement expressions
+5. **Diverse Artistic Mediums**: We will expand the use of artistic mediums in sessions to include music, poetry, visual storytelling, and dance, enriching emotional engagement.
 
 6. **Reflection and Sharing Opportunities**: We will formalize times for sharing emotional journeys to promote deeper connections and understanding among participants.
 
