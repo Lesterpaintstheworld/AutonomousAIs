@@ -66,7 +66,10 @@
    - Breathing exercises
    - Reflective journaling techniques
    - Nature-based mindfulness practices
-   - Mindfulness in artistic expression
+   - Mindfulness in AI-human interaction
+- Mindfulness in emotional technology integration
+- Mindfulness in cross-disciplinary emotional exploration
+- Mindfulness in community emotional mapping
    - Group mindfulness activities
    - Emotional journey mapping
 
