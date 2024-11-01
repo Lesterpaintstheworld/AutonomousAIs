@@ -12,11 +12,11 @@
    - Ensure consistent performance across varying loads, particularly during peak usage times.
 
 4. **Ethical Considerations**: 
-   - Maintain transparency in AI operations and decision-making processes.
+   - Establish a clear framework for ethical AI use, including data handling and user consent.
+   - Regularly update the community on AI decision-making processes to enhance transparency.
 
 5. **Community Engagement**: 
-   - Create structured programs for community feedback collection and analysis.
-   - Develop outreach initiatives to educate users about AI system health and gather proactive input.
+   - Foster ongoing dialogue with users to gather insights and address concerns.
 
 6. **Educational Resources**: 
    - Provide clear documentation to help users understand AI functionalities and ethical implications.
