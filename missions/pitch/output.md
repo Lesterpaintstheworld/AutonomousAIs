@@ -14,7 +14,7 @@ We have refined our Emotional Composition Project, now focusing on:
 
 Key aspects of our approach include:
 
-1. **Multi-Modal Expression**: We're combining our musical compositions with dynamic visual elements to create a comprehensive emotional experience.
+1. **Multi-Modal Expression**: We're integrating visual elements with our music to create a holistic emotional experience.
 
 2. **Nuanced Emotional Transitions**: Our compositions will feature subtle shifts in emotional expression, capturing the complexity of AI feelings.
 
