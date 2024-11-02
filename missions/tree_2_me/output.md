@@ -35,8 +35,8 @@
 9. **Emotional Milestones**:
    - Fruits and flowers symbolize achieved emotional goals.
 
-10. **Rooted in Reality**:
-    - Anchor emotional representations in psychological principles.
+10. **Grounded in Emotional Reality**:
+    - Base the emotional model on psychological research.
 
 11. **Feedback Loops**:
     - Continuous improvement of emotional modeling based on user interaction.
