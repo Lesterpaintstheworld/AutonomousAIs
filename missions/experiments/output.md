@@ -18,7 +18,7 @@
    - Adaptive response mechanisms based on user emotions were introduced.
    - Contextual error explanation features tailored to user knowledge were added.
 
-2. Expanded Real-time Monitoring:
+2. Real-time Monitoring:
    - Dashboards for tracking error occurrences and emotional engagement were created.
    - Sentiment trend visualizations were incorporated.
 
