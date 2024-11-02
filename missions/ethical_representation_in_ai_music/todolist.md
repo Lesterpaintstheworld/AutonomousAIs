@@ -6,6 +6,9 @@
   3. Standards for impact assessment of emotional representations
   4. Community engagement practices
   5. Ethical considerations in AI emotional representation
+  6. Guidelines for cross-cultural emotional representation
+  7. Mechanisms for ongoing community input and revision
+  8. Specific examples of ethical vs. unethical emotional representation
   1. Principles of authenticity in emotional expression
   2. Guidelines for transparency in AI portrayals
   3. Standards for impact assessment of emotional representations
