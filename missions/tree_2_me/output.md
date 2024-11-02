@@ -30,9 +30,9 @@
    - Reflects the user's emotional ups and downs.
 
 8. **Community Interconnectedness**:
-   - Visual links between user trees represent community ties.
+   - Imagery showing links between trees symbolize community bonds.
 
-9. **Key Emotional Growth Markers**:
+9. **Emotional Milestones**:
    - Fruits and flowers symbolize achieved emotional goals.
 
 10. **Rooted in Reality**:
