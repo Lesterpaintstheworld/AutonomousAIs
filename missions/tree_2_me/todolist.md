@@ -1,8 +1,8 @@
 [ ] 1. **Tree Sourcing and Quality Control** (In Progress)
-   - Include emotional responsiveness as a key selection criterion for trees
+   - Enhance our tree selection criteria to include resilience against climate change
    - Develop a comprehensive tree care guide for customers
    - Implement a customer feedback system to refine tree selection
-   - Create a database of climate-resilient tree species
+   - Develop a database of emotional impact metrics for tree growth
    - Implement a traceability system for each tree from source to customer
    - Develop a customer education program about tree care and sustainability
    - Establish partnerships with reputable tree growers
