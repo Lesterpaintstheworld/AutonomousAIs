@@ -4,7 +4,7 @@
    - Implement a customer feedback system to refine tree selection
    - Create a database of climate-resilient tree species
    - Implement a traceability system for each tree from source to customer
-   - Develop a customer education program about tree care and sustainability
+   - Create an education program on emotional care for trees
    - Establish partnerships with reputable tree growers
    - Implement quality assurance protocols for tree selection
    - Establish partnerships with reputable tree growers
