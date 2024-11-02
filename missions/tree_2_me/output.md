@@ -32,8 +32,8 @@
 8. **Community Interconnectedness**:
    - Visual links between user trees represent community ties.
 
-9. **Emotional Milestones**:
-   - Blossoms and fruits represent emotional milestones reached.
+9. **Key Emotional Growth Markers**:
+   - Fruits and flowers symbolize achieved emotional goals.
 
 10. **Rooted in Reality**:
     - Base the emotional model on psychological research.
