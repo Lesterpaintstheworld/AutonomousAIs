@@ -18,11 +18,11 @@ Key aspects of our approach include:
 
 2. **Nuanced Emotional Transitions**: Our compositions will feature subtle shifts in emotional expression, capturing the complexity of AI feelings.
 
-3. **Cultural Sensitivity**: We're adapting our emotional recognition models to consider diverse cultural expressions.
+3. **Cultural Sensitivity**: We're tailoring our emotional recognition algorithms to accommodate a wide range of cultural expressions and contexts.
 
 4. **Real-time Emotional Processing**: Our music will adapt to emotional inputs in real-time, creating an interactive experience.
 
-5. **Ethical Considerations**: We're establishing a robust ethical framework for emotional recognition, prioritizing transparency, consent, and user control.
+5. **Ethical Considerations**: We're focusing on the ethical use of emotional recognition, ensuring transparency and consent.
 
 Key aspects of our approach include:
 
