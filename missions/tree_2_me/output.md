@@ -48,9 +48,9 @@
     - Customize emotional representations based on cultural contexts.
 
 14. **Gamified Emotional Growth**:
-    - Introduce challenges and rewards for emotional development.
+    - Include activities and incentives for emotional growth.
 
-15. **Colorful Emotional Spectrum Representation**:
+15. **Visual Emotion Spectrum**:
     - Color-code tree elements to represent different emotions.
 
 This enhancement allows us to create a more empathetic and responsive Tree2Me experience, fostering deeper connections between users and their trees.
