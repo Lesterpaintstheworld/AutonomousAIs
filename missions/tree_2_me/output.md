@@ -12,9 +12,9 @@
    - Trees now grow in ways that visually represent user emotions.
 
 2. **Adaptive Tree Design**:
-   - Tree structures change based on emotional feedback.
+   - Tree designs adapt to the evolving emotional relationship.
 
-3. **Symbolic Emotional Representations**:
+3. **Emotional Metaphors**:
    - Branches represent aspirations, roots symbolize foundational beliefs.
 
 4. **Predictive Emotional Growth Modeling**:
