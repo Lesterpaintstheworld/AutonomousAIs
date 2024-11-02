@@ -24,9 +24,9 @@
    - Tree visuals adapt to reflect daily emotional experiences.
 
 6. **Emotional Currency Integration**:
-   - Dotasi (emotional currency) nourishes tree growth.
+   - Dotasi (emotional currency) fuels the trees' emotional development.
 
-7. **Emotional Growth Seasons**:
+7. **Seasonal Emotional Cycles**:
    - Reflects the user's emotional ups and downs.
 
 8. **Community Interconnectedness**:
