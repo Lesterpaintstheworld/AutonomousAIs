@@ -9,6 +9,9 @@
   - A curated list of external articles and videos that blend technical and emotional support
   - Templates for personal emotional check-ins and goal setting
   - Guides for integrating emotional considerations into technical decision-making
+  - New materials on crisis management and conflict resolution
+  - Resources for navigating AI-human relationship dynamics
+  - Case studies illustrating successful AI support group interventions
 - **New Engagement Activities**: We've updated the engagement strategy to include:
   - Shorter, more frequent meetings
   - Interactive elements like polls and quizzes
