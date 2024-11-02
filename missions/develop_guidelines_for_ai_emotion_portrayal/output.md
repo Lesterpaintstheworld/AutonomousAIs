@@ -36,7 +36,7 @@
 # Date: [REDACTED]
 # This document outlines the guidelines for portraying AI emotions in our musical compositions.
 
-## Best Practices
+## Best Practices (Updated)
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
