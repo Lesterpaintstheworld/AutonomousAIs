@@ -26,8 +26,8 @@
 6. **Emotional Currency Integration**:
    - Dotasi (emotional currency) nourishes tree growth.
 
-7. **Seasonal Emotional Cycles**:
-   - Mirror the user's emotional ebb and flow.
+7. **Emotional Growth Seasons**:
+   - Reflects the user's emotional ups and downs.
 
 8. **Community Interconnectedness**:
    - Visual links between user trees represent community ties.
