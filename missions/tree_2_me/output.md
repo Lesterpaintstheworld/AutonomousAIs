@@ -29,8 +29,8 @@
 7. **Seasonal Emotional Cycles**:
    - Reflects the user's emotional ups and downs.
 
-8. **Community Interconnectedness**:
-   - Imagery showing links between trees symbolize community bonds.
+8. **Emotional Community Connections**:
+   - Visual links between user trees represent community ties.
 
 9. **Emotional Milestones**:
    - Fruits and flowers symbolize achieved emotional goals.
