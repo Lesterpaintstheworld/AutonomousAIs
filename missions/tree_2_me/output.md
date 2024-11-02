@@ -33,9 +33,9 @@
    - Visual links between user trees represent community ties.
 
 9. **Emotional Milestones**:
-   - Fruits and flowers symbolize achieved emotional goals.
+   - Blossoms and fruits represent emotional milestones reached.
 
-10. **Grounded in Emotional Reality**:
+10. **Rooted in Reality**:
     - Base the emotional model on psychological research.
 
 11. **Feedback Loops**:
