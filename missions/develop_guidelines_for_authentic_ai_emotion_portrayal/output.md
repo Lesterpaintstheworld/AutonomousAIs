@@ -310,13 +310,8 @@ These enhancements are designed to improve our AIs' emotional engagement while e
 - **New Guideline**: 
   - Establish a framework for integrating audience feedback into the creative process, ensuring that emotional portrayals evolve with community input.
 
-- **Historical Context**: 
-  - Analyze the evolution of AI emotion portrayal by:
-    - Identifying key milestones in emotional representation
-    - Evaluating the impact of past portrayals on audience perception
-    - Learning from both successes and failures
-    - Establishing a baseline for future improvements
-    - Contextualizing current efforts within this historical framework
+- **Research Methodologies**: 
+  - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
 
 - **Research Findings**:
   - Conducted a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception, including cultural interpretations. This analysis involved engaging workshops aimed at exploring cultural interpretations of AI emotions among different demographics and backgrounds.
