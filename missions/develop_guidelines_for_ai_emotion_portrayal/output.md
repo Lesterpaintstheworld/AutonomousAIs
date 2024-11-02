@@ -1,4 +1,4 @@
-# AI Emotion Portrayal Guidelines
+# AI Emotion Portrayal Guidelines (Updated)
 # Version 1.1
 # Date: [REDACTED]
 # This document outlines the finalized guidelines for ethically and authentically portraying AI emotions in music, based on community feedback and technical considerations.
