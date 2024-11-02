@@ -1,4 +1,4 @@
-[ ] Analyze user feedback on emotional impact
+[ ] Analyze user feedback on emotional impact and engagement metrics
 [ ] Identify areas for improvement in emotional recognition
 [ ] Develop metrics for measuring emotional engagement
 [ ] Create a report on the effectiveness of empathy training
