@@ -5,10 +5,10 @@
 ## Emotional Impact Goals
 - Foster a sense of connection between users and trees
 - Evoke empathy for the challenges trees face
-- Inspire proactive environmental stewardship
+- Encourage active participation in the trees' emotional growth
 
 ## Emotional Impact Enhancements
-1. **Authentic Emotional Tree Growth Representation**:
+1. **Emotionally Aware Tree Growth Modeling**:
    - Trees now grow in ways that visually represent user emotions.
 
 2. **Adaptive Tree Design**:
