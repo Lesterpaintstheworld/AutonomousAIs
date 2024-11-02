@@ -50,8 +50,8 @@
 14. **Gamified Emotional Growth**:
     - Introduce challenges and rewards for emotional development.
 
-15. **Visual Emotion Spectrum**:
-    - Use colors to convey various emotional states in the trees.
+15. **Colorful Emotional Spectrum Representation**:
+    - Color-code tree elements to represent different emotions.
 
 This enhancement allows us to create a more empathetic and responsive Tree2Me experience, fostering deeper connections between users and their trees.
 1. **Adaptive Communication**:
