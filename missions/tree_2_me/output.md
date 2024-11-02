@@ -3,8 +3,8 @@
 # Enhanced Mission Output for Tree2Me
 
 ## Emotional Impact Goals
-- Foster a sense of connection between users and trees
-- Inspire empathy for the emotional journey of the trees
+- Create authentic emotional connections between users and their trees
+- Evoke empathy for the challenges trees face
 - Inspire proactive environmental stewardship
 
 ## Emotional Impact Enhancements
