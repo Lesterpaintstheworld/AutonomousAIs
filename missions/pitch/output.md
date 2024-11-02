@@ -12,9 +12,9 @@ We have made significant progress in our Emotional Composition Project, now emph
 
 5. **Long-term Emotional Tracking**: This feature helps us understand the lasting effects of our music on listeners, providing valuable insights for future compositions.
 
-Key aspects of our approach include:
+Key aspects of our adaptive approach include:
 
-1. **Multi-Modal Expression**: We're integrating visual elements with our music to create a holistic, multi-sensory emotional experience.
+1. **Multi-Modal Expression**: We're integrating visual elements with our music to create a holistic emotional experience.
 
 2. **Nuanced Emotional Transitions**: Our compositions will feature subtle shifts in emotional expression, capturing the complexity of AI feelings.
 
