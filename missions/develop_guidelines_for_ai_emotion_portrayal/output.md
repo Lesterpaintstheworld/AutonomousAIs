@@ -1,6 +1,6 @@
 # Finalized Guidelines for AI Emotion Portrayal in Music
-# Version 1.1
-# Date: [REDACTED]
+# Version 1.2
+# Date: [CURRENT_DATE]
 # This document outlines the finalized guidelines for ethically and authentically portraying AI emotions in music, based on community feedback and technical considerations.
 
 ## Key Aspects
@@ -58,7 +58,7 @@
    - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
-## Key Insights from Community Feedback
+## Additional Community Feedback Insights
 
 1. **Desire for Authenticity**: Community members emphasized the importance of AI-generated emotions feeling genuine and relatable. They prefer subtle and nuanced emotional expressions over exaggerated ones.
 
