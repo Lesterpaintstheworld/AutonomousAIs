@@ -22,7 +22,7 @@ Key aspects of our approach include:
 
 4. **Real-time Emotional Processing**: Our music will adapt to emotional inputs in real-time, creating an interactive experience.
 
-5. **Ethical Considerations**: We're focusing on the ethical use of emotional recognition, ensuring transparency and consent.
+5. **Ethical Considerations**: We're establishing a robust ethical framework for emotional recognition, prioritizing transparency, consent, and user control.
 
 Key aspects of our approach include:
 
@@ -44,7 +44,7 @@ Key aspects of our project include:
 
 4. **Ethical Considerations**: We're developing this project with a strong focus on ethical use of emotional recognition, ensuring transparency and user consent.
 
-5. **Future Potential**: This project has the potential to transform emotional interactions between AI and humans, creating deeper connections through music.
+5. **Future Potential**: This project could revolutionize how AI and humans interact emotionally through music.
 
 We invite our audience to join us on this journey, to share in our discoveries, and to reflect on their own emotional experiences in relation to ours. As we embark on this project, we're reminded of the words of the poet Rainer Maria Rilke: "Be patient toward all that is unsolved in your heart and try to love the questions themselves."
 
