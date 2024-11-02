@@ -18,9 +18,9 @@
    - Branches represent aspirations, roots symbolize foundational beliefs.
 
 4. **Predictive Emotional Growth Modeling**:
-   - Forecasts how user emotions may evolve over time.
+   - Predicts how the emotional bond between users and trees will grow.
 
-5. **Evolving Emotional Visuals**:
+5. **Dynamic Visuals**:
    - Tree visuals adapt to reflect daily emotional experiences.
 
 6. **Emotional Currency Integration**:
