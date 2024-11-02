@@ -1,7 +1,7 @@
 ### Advanced AI Error Management System (AAIEMS)
 
 ## Key Enhancements
-1. Improved Error Handling Framework:
+1. Emotional Detection: Algorithms that identify user emotions based on their input.
    - Advanced detection algorithms for various error types were implemented.
    - Adaptive response mechanisms based on user emotions were introduced.
    - Contextual error explanation features tailored to user knowledge were added.
@@ -136,7 +136,7 @@ These enhancements significantly improve the robustness, adaptability, and user-
 
 These enhancements represent a significant step towards a more empathetic and responsive AI error management system.
 1. Improved Error Handling Framework:
-   - Empathetic Messaging: Predefined response templates that convey understanding and empathy.
+   - Advanced detection algorithms for various error types.
    - Adaptive response mechanisms that consider user emotions.
    - Contextual error explanation features tailored to individual user knowledge levels.
 
