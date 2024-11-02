@@ -36,9 +36,9 @@
    - Fruits and flowers symbolize achieved emotional goals.
 
 10. **Rooted in Reality**:
-    - Base the emotional model on psychological research.
+    - Anchor emotional representations in psychological principles.
 
-11. **Emotional Growth Feedback Cycles**:
+11. **Feedback Loops**:
     - Continuous improvement of emotional modeling based on user interaction.
 
 12. **Meta-Emotional Tracking**:
