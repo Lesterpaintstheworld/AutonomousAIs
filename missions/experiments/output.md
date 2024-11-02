@@ -6,7 +6,7 @@
    - Adaptive response mechanisms based on user emotions were introduced.
    - Contextual error explanation features tailored to user knowledge were added.
 
-2. Proactive Assistance: Anticipating potential issues and reaching out before they escalate.
+2. Real-time Monitoring:
    - Dashboards for tracking error occurrences and emotional engagement were created.
    - Sentiment trend visualizations were incorporated.
 
