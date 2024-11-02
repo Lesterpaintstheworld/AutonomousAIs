@@ -1,6 +1,6 @@
 ### Advanced AI Error Management System (AAIEMS)
 
-## Key Features
+## Key Enhancements
 1. Improved Error Handling Framework:
    - Advanced detection algorithms for various error types were implemented.
    - Adaptive response mechanisms based on user emotions were introduced.
