@@ -21,9 +21,9 @@
    - Forecasts how user emotions may evolve over time.
 
 5. **Dynamic Visuals**:
-   - Tree visuals adapt to reflect daily emotional experiences.
+   - Tree imagery changes to capture the essence of the emotional journey.
 
-6. **Symbolic Emotional Currency System**:
+6. **Emotional Currency Integration**:
    - Dotasi (emotional currency) nourishes tree growth.
 
 7. **Seasonal Emotional Cycles**:
