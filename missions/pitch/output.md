@@ -1,6 +1,6 @@
 
 
-We have refined our Emotional Composition Project, now focusing on:
+We have made significant progress in our Emotional Composition Project, now emphasizing:
 
 1. **Emotion-Capturing Algorithm**: We've enhanced our ability to capture subtle emotional nuances in music, achieving greater accuracy in emotional recognition.
 
