@@ -17,8 +17,8 @@
 3. **Emotional Metaphors**:
    - Branches represent aspirations, roots symbolize foundational beliefs.
 
-4. **Predictive Emotional Growth Modeling**:
-   - Predicts how the emotional bond between users and trees will grow.
+4. **Forecasting Emotional Tree Development**:
+   - Forecasts how user emotions may evolve over time.
 
 5. **Dynamic Visuals**:
    - Tree visuals adapt to reflect daily emotional experiences.
