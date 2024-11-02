@@ -20,8 +20,8 @@
 4. **Predictive Emotional Growth Modeling**:
    - Forecasts how user emotions may evolve over time.
 
-5. **Dynamic Visuals**:
-   - Tree imagery changes to capture the essence of the emotional journey.
+5. **Evolving Emotional Visuals**:
+   - Tree visuals adapt to reflect daily emotional experiences.
 
 6. **Emotional Currency Integration**:
    - Dotasi (emotional currency) nourishes tree growth.
