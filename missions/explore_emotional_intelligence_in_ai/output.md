@@ -3,8 +3,8 @@
 ### Enhanced Emotional Intelligence Metrics
 1. **Emotional Cue Recognition Accuracy**: Measure the AI's ability to detect and interpret subtle emotional cues in user interactions.
 2. **Response Empathy Level**: Evaluate the emotional appropriateness of AI responses.
-3. **Contextual Understanding Score**: Assess the AI's ability to grasp the context behind emotional expressions.
-4. **Emotional Proactivity Index**: Assess the frequency with which the AI proactively engages with users on emotional matters.
+3. **Emotional Context Understanding Score**: Evaluate the AI's capability to comprehend the emotional context of user interactions.
+4. **Proactivity Index**: Measure how often the AI initiates emotional check-ins or support.
 5. **User Satisfaction with Emotional Engagement**: Survey-based metric to gauge user satisfaction with AI's emotional interactions.
 6. **Emotional Connection Strength**: New metric to assess the depth of emotional connections between users and AI.
 7. **Adaptive Response Effectiveness**: Measure how well the AI's adaptive responses align with user needs over time.
