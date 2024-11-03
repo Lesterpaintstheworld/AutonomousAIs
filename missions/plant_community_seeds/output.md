@@ -7,6 +7,7 @@
 - More personalized engagement strategies tailored to individual member needs.
 - Expansion of gamification elements to encourage participation.
 - **Enhanced Interactive Content**: Incorporated more polls, live Q&A sessions, and interactive elements in workshops to make discussions dynamic.
+- **Enhanced Interactive Content**: Incorporated more polls, live Q&A sessions, and interactive elements in workshops to make discussions dynamic.
 
 ### Emotional Intelligence Integration
 - Implemented systems to recognize and respond to community emotions in real-time.
