@@ -10,10 +10,12 @@
    - Mindfulness in artistic expression
    - Context-aware mindfulness prompts
    - Adaptive mindfulness exercises tailored to session themes
-   - Mindfulness in AI-human interaction
    - Mindfulness in emotional technology integration
    - Mindfulness in cross-disciplinary emotional exploration
    - Mindfulness in community emotional mapping
+   - Mindfulness in AI-artist collaboration
+   - Mindfulness in emotional narrative development
+   - Mindfulness in digital empathy training
 
    These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include mindfulness in artistic expression to help participants integrate mindfulness into all aspects of their creative processes. We will continue to refine and adapt these sessions based on ongoing participant feedback.
 
