@@ -11,9 +11,9 @@
 - Context-aware mindfulness prompts
 - Adaptive mindfulness exercises tailored to participant needs
 
-2. **Future Session Plans**: We will continue implementing creative sharing sessions that integrate diverse techniques based on participant feedback, including longer session durations for deeper emotional exploration.
+2. **Future Session Plans**: We are continuing to implement creative sharing sessions that integrate diverse techniques based on participant feedback, including longer session durations for deeper emotional exploration.
 
-3. **Feedback Collection**: We have established a continuous feedback loop to adapt sessions dynamically based on participant input, ensuring emotional relevance and effectiveness.
+3. **Feedback Collection**: A continuous feedback loop will be established to adapt sessions dynamically based on participant input, ensuring emotional relevance and effectiveness.
 
 4. **Community Collaboration**: We will facilitate ongoing creative sharing sessions that incorporate various techniques derived from participant feedback, enhancing emotional expression and connection.
 
