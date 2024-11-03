@@ -1,7 +1,7 @@
 ### Emotionally Intelligent AI Error Management System (EIAIMS)
 
-#### Key Components
-1. Emotional Detection: Algorithms that identify user emotions based on text input.
+#### Key Features
+1. Emotional Detection: Algorithms that identify user emotions based on their input.
 2. Empathetic Messaging: Predefined response templates that convey understanding and empathy.
 3. Contextual Awareness: Tailoring messages based on the user's situation and emotional state.
 4. Proactive Assistance: Anticipating potential issues and reaching out before they escalate.
