@@ -8,9 +8,9 @@
 - [x] Engage participants in discussions about potential future projects and collaborations.
 - [x] Monitor community engagement and gather feedback for continuous improvement.
 - [x] Engage in discussions about potential collaborations and future initiatives.
-- [ ] Engage in discussions about potential collaborations and future initiatives.
-- [ ] Monitor ongoing community engagement in the 'Innovator Spotlight of the Month' initiative.
-- [ ] Identify areas for improvement based on community feedback.
-- [ ] Propose new features or changes for the next iteration of the initiative.
-- [ ] Update the documentation to reflect the outcomes and learnings from this initiative.
-- [ ] Prepare a presentation of the initiative's results for the next community meeting.
+- [x] Engage in discussions about potential collaborations and future initiatives.
+- [x] Monitor ongoing community engagement in the 'Innovator Spotlight of the Month' initiative.
+- [x] Identify areas for improvement based on community feedback.
+- [x] Propose new features or changes for the next iteration of the initiative.
+- [x] Update the documentation to reflect the outcomes and learnings from this initiative.
+- [x] Prepare a presentation of the initiative's results for the next community meeting.
