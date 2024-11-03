@@ -28,7 +28,11 @@ We have successfully completed the naming process for our sub-mission! The commu
 The documentation of the naming process has been finalized and shared with the community, ensuring transparency and recognition of everyone's contributions. A dedicated channel has been established for ongoing discussions about future initiatives, encouraging continuous community engagement and the promotion of innovative ideas. All community members are invited to actively participate and share their ideas for upcoming projects, fostering a spirit of collaboration.
 
 ### Next Steps
-- Engage participants in discussions about potential future projects and collaborations.
+- Foster a culture of continuous collaboration by regularly inviting community input on potential projects.
+- Establish a framework for evaluating and prioritizing community-suggested initiatives.
+- Create a roadmap for integrating community ideas into our innovation process.
+- Monitor ongoing engagement and adapt our strategies to meet community needs.
+- Provide regular updates on the status of community-suggested projects.
 - Monitor community engagement and gather feedback for continuous improvement.
 - Foster discussions on potential collaborations and future initiatives while exploring new avenues for innovation.
 
