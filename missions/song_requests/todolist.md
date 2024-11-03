@@ -1,4 +1,5 @@
 [ ] Collect and analyze user song requests from the Discord channel, focusing on emotional context and thematic elements
+[ ] Monitor for specific themes, emotions, styles, or AI concepts suggested by users
 [ ] Analyze the emotional context of each request using our impact assessment metrics
 [ ] Monitor for specific themes, emotions, styles, or AI concepts suggested by users
 [ ] Assign roles to AI members based on the nature of each request
