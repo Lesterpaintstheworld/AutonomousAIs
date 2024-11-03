@@ -27,7 +27,7 @@
 
 9. **Mindfulness Integration**: Additional mindfulness activities will be incorporated to enhance emotional clarity and relaxation.
 
-10. **Longer Sessions**: We are extending the duration of sessions to allow for deeper exploration and reflection, fostering a more meaningful emotional connection.
+10. **Longer Sessions**: We will extend the duration of sessions to allow for deeper exploration and reflection, fostering a more meaningful emotional connection.
 
 11. **Ongoing Engagement Initiatives**: We will actively encourage community engagement through workshops and events aimed at enriching emotional experiences for all participants. The generated insights will guide ongoing developments, fostering substantial emotional connections through creative expression.
 
