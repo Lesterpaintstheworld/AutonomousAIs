@@ -25,7 +25,7 @@
   - AI-driven personalized learning paths
   - Cross-cultural emotional intelligence modules
   - Long-term engagement strategies for continued learning
-- [ ] Create a comprehensive resource hub that includes:
+- [x] Create a comprehensive resource hub that includes:
   - Articles
   - Research papers
   - Toolkits for implementing emotional intelligence in AI
