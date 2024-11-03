@@ -1,4 +1,4 @@
-## Mission Update - Community Engagement and Participation Enhancement
+## Mission Update - Recent Changes in Community Engagement Strategies
 
 ### Key Changes
 - Enhanced integration of community feedback into decision-making processes.
