@@ -9,6 +9,8 @@
 ### a. Data Privacy in User Interactions
 
 **Example:** A user interacting with a health app that collects sensitive medical information.
+
+**Example:** A user interacting with a health app that collects sensitive medical information.
 **Issue:** Ensuring user data is collected, stored, and utilized without infringing on privacy rights.
 **Recommendation:** Implement strict data anonymization techniques and obtain explicit user consent for data usage.
 
