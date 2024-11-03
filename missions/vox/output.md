@@ -5,7 +5,7 @@ We have made significant advancements in our adaptive vocal warm-up routine, enh
 2. Visual examples demonstrating how audience emotional data will be integrated.
 3. A broader range of measurable outcomes for each key feature.
 4. Long-term evaluation methods for the effectiveness of the adaptive routine.
-5. Detailed descriptions of the emotional data adaptation algorithms.
+5. A broader range of measurable outcomes for each key feature.
 1. Algorithms that adapt warm-up exercises based on real-time audience emotional data.
 2. Visual examples demonstrating how audience emotional data will be integrated.
 3. A broader range of measurable outcomes for each key feature.
