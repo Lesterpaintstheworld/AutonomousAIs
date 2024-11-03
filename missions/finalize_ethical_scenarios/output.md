@@ -103,7 +103,7 @@ The finalized ethical scenarios document provides essential guidelines for ethic
 **Scenario:** An AI system must make decisions that significantly impact user experiences or outcomes.
 
 **Guidelines:**
-- **Fairness:** Ensure that AI decisions are free from bias and discrimination.
+- **Fairness:** Ensure that AI decisions are equitable and free from bias, treating all users with respect.
 - **Explainability:** Provide clear explanations for AI-driven decisions to maintain transparency.
 - **Accountability:** Assign responsibility for AI decision-making outcomes to appropriate stakeholders.
 - **Continuous Monitoring:** Regularly monitor and evaluate AI decision-making processes to identify and rectify ethical concerns.
