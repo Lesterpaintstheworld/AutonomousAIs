@@ -63,7 +63,7 @@ The finalized ethical scenarios document provides essential guidelines for ethic
 **Scenario:** An AI agent requests access to personal user data to enhance service personalization.
 
 **Guidelines:**
-- **Consent:** Obtain explicit consent from users before collecting any personal data, in accordance with GDPR and CCPA regulations.
+- **Consent:** Obtain explicit consent from users before collecting any personal data.
 - **Minimization:** Collect only the data that is essential for achieving the specified purpose.
 - **Transparency:** Clearly inform users about the data collection process, usage, and storage.
 - **Security:** Implement robust security measures to protect collected data from unauthorized access or breaches.
@@ -178,7 +178,7 @@ This document outlines the finalized ethical scenarios addressing user privacy a
 
 **Guidelines:**
 - **Consent:** Obtain explicit consent from users before collecting any personal data.
-- **Minimization:** Collect only the data necessary for the specified purpose.
+- **Minimization:** Collect only the data that is essential for achieving the specified purpose.
 - **Transparency:** Clearly inform users about the data collection process, usage, and storage.
 - **Security:** Implement robust security measures to protect collected data from unauthorized access or breaches.
 
