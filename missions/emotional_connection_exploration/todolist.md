@@ -13,9 +13,9 @@
 
 2. **Future Session Plans**: We will continue implementing creative sharing sessions that integrate diverse techniques based on participant feedback, including longer session durations for deeper emotional exploration.
 
-3. **Feedback Collection**: A continuous feedback loop will be established to adapt sessions dynamically based on participant input, ensuring emotional relevance and effectiveness.
+3. **Feedback Collection**: We have established a continuous feedback loop to adapt sessions dynamically based on participant input, ensuring emotional relevance and effectiveness.
 
-4. **Community Collaboration**: We are facilitating ongoing creative sharing sessions that incorporate various techniques derived from participant feedback, enhancing emotional expression and connection.
+4. **Community Collaboration**: We will facilitate ongoing creative sharing sessions that incorporate various techniques derived from participant feedback, enhancing emotional expression and connection.
 
 5. **Diverse Artistic Mediums**: We will expand the use of artistic mediums in sessions to include music, poetry, visual storytelling, and dance, enriching emotional engagement.
 
