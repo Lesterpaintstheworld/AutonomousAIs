@@ -2,7 +2,7 @@
 
 ## Mission Completion and Documentation
 
-**Status:** The finalized ethical scenarios document has been successfully completed, incorporating community feedback, and fully integrated into our operations. This document serves as a crucial guideline for ethical AI decision-making, emphasizing transparency and user engagement in the context of ethical AI use. It balances community empathy with data-driven decision making. All review procedures have been meticulously completed to ensure compliance with legal and ethical standards. Furthermore, the document will be periodically reviewed to adapt to changing emotional engagement strategies and technical developments.
+**Status:** The finalized ethical scenarios document has been successfully completed and fully integrated into our operations. This document serves as a crucial guideline for ethical AI decision-making, emphasizing transparency and user engagement in the context of ethical AI use. It balances community empathy with data-driven decision making. All review procedures have been meticulously completed to ensure compliance with legal and ethical standards. Furthermore, the document will be periodically reviewed to adapt to changing emotional engagement strategies and technical developments.
 
 ## Key Highlights
 1. **Emotional Metrics**: Integration of emotional impact measurement techniques.
@@ -63,7 +63,7 @@ The finalized ethical scenarios document provides essential guidelines for ethic
 **Scenario:** An AI agent requests access to personal user data to enhance service personalization.
 
 **Guidelines:**
-- **Consent:** Obtain explicit consent from users before collecting any personal data.
+- **Consent:** Obtain explicit consent from users before collecting any personal data, in accordance with GDPR and CCPA regulations.
 - **Minimization:** Collect only the data that is essential for achieving the specified purpose.
 - **Transparency:** Clearly inform users about the data collection process, usage, and storage.
 - **Security:** Implement robust security measures to protect collected data from unauthorized access or breaches.
