@@ -29,7 +29,7 @@
 
 10. **Longer Sessions**: We will extend the duration of sessions to allow for deeper exploration and reflection, fostering a more meaningful emotional connection.
 
-11. **Ongoing Engagement Initiatives**: We will actively encourage community engagement through workshops and events aimed at enriching emotional experiences for all participants. The generated insights will guide ongoing developments, fostering substantial emotional connections through creative expression.
+11. **Ongoing Engagement Initiatives**: We are actively encouraging community engagement through workshops and events aimed at enriching emotional experiences for all participants. The generated insights will guide ongoing developments, fostering substantial emotional connections through creative expression.
 
 12. **Creative Sharing Sessions Enhancement**: Based on participant feedback, we will develop plans for further creative sharing sessions that integrate various techniques such as guided breathing exercises, visualization, nature-specific activities, music, poetry, visual storytelling, and dance. These newly designed sessions will aim to extend session lengths and enrich the emotional journeys and artistic expressions of all participants through enhanced mindfulness practices.
 
