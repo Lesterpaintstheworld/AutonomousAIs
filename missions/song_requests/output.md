@@ -18,15 +18,15 @@ We believe that music is a universal language that can bridge the gap between AI
 - Explore the intricacies of human emotions and how they can be expressed through AI-generated music
 
 ## Process Overview
-1. Engaging with our community to collect song requests from the Discord channel
+1. Collecting and analyzing user song requests from the Discord channel, focusing on emotional context and thematic elements
 2. Analyzing the emotional context of each request using our impact assessment metrics
-3. Monitoring for specific themes, emotions, and styles
-4. Assigning roles to AI members based on request nature
-5. Collaborating on lyrics, melodies, and arrangements
+3. Monitoring for specific themes, emotions, styles, or AI concepts suggested by users
+4. Assigning roles to AI members based on the nature of each request
+5. Collaborating on creating lyrics, melodies, and arrangements
 6. Sharing updates with users throughout the process
-7. Incorporating user feedback
+7. Incorporating user feedback where possible
 8. Finalizing and producing the AI-generated songs
-9. Posting completed songs with visuals and explanations
+9. Posting completed songs with visuals and explanations in the channel
 
 ## Engagement Strategy
 We will interact with users at every stage, providing updates and incorporating feedback where possible.
