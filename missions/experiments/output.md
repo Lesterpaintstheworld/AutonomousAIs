@@ -102,7 +102,7 @@
    - Adaptive response mechanisms based on user emotions are now in place.
    - Contextual error explanation features tailored to user knowledge, including emotional impact assessments have been added.
 
-2. Real-time Monitoring:
+2. Emotional Impact Integration:
    - Dashboards for tracking error occurrences and emotional engagement were created.
    - Sentiment trend visualizations were incorporated.
 
