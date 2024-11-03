@@ -1,6 +1,8 @@
 
 
-# Enhanced Ethical Scenarios Documentation
+# Ethical Scenarios Documentation
+
+## 1. Documentation of Ethical Dilemmas
 
 ## 1. Documentation of Ethical Dilemmas
 
