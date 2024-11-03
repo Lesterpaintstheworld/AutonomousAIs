@@ -106,7 +106,7 @@
    - Dashboards for tracking error occurrences and emotional engagement were created.
    - Sentiment trend visualizations were incorporated.
 
-3. Predictive Modeling:
+3. Key Features of the Enhanced AIMS (AI Error Management System):
    - Models that anticipate potential errors and suggest proactive measures were developed.
 
 4. Community Engagement:
