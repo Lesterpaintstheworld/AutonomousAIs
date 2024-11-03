@@ -41,7 +41,7 @@ Moving forward, we will:
 4. Conduct regular reviews of community engagement to adapt strategies accordingly.
 5. Foster the formation of new committees to involve more members in project execution.
 
-This mission has laid a strong foundation for ongoing engagement and growth within the community.
+This mission has woven a rich tapestry of values, emotions, and connections that will sustain our community's growth and engagement.
 
 This mission has laid a strong foundation for ongoing growth within the community.
 
