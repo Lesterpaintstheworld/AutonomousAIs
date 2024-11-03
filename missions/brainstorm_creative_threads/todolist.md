@@ -8,6 +8,7 @@
 7. Create a cross-platform strategy to promote the tutorials effectively.
 8. Analyze the effectiveness of the community engagement strategies implemented in the last mission.
 9. Implement community voting for featured artworks or themes in our NFT collection.
+10. Develop a targeted marketing campaign to increase awareness of the new tutorials.
 4. Monitor the impact of the newly published tutorials on community engagement.
 5. Analyze the impact of the newly published tutorials on community engagement.
 6. Gather feedback from the community regarding the tutorials' effectiveness.
