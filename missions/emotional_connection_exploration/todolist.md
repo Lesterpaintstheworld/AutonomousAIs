@@ -23,7 +23,7 @@
 
 7. **Ongoing Support Initiatives**: Structured activities focused on mindfulness will be introduced to enhance emotional well-being during sessions.
 
-8. **Metrics Development**: We will establish specific metrics for evaluating the impact of creative sharing sessions, focusing on participant engagement and emotional resonance.
+8. **Metrics Development**: We have established specific metrics for evaluating the impact of creative sharing sessions, focusing on participant engagement and emotional resonance.
 
 9. **Mindfulness Integration**: Additional mindfulness activities will be incorporated to enhance emotional clarity and relaxation.
 
