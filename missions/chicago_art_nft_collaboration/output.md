@@ -277,7 +277,7 @@ This collaboration has successfully bridged the gap between traditional art and 
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
 
-## Preliminary Plan for NFT Creation
+## Refined Plan for NFT Creation
 
 1. **Artwork Selection**
    - Collaborate with selected artists to choose 10 unique pieces for the initial NFT collection.
@@ -286,14 +286,11 @@ This collaboration has successfully bridged the gap between traditional art and 
    - Utilize a reputable NFT platform such as OpenSea or Rarible.
    - Ensure each NFT includes high-resolution digital versions, exclusive behind-the-scenes content, and proper smart contract setup for royalty distributions and ownership rights.
 
-3. **Community Involvement**
-   - Incorporate community voting in the artwork selection process to enhance engagement.
+3. **Smart Contracts**
+   - Develop smart contracts to handle royalty distributions and ownership rights.
 
-4. **Educational Content**
-   - Develop tutorials explaining the NFT minting process for interested community members.
-
-5. **Cross-Promotion**
-   - Collaborate with local businesses to promote NFT sales and events.
+4. **Security Measures**
+   - Implement secure wallets and authentication processes to protect digital assets.
 
 ## Refined Engagement Strategies
 
