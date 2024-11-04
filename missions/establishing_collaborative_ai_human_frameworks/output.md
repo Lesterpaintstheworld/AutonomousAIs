@@ -80,7 +80,7 @@ This framework establishes how AI and human creators will interact, focusing on 
 - Develop case studies demonstrating impact
 
 ### Enhanced Empathy Training for AIs
-1. **Dynamic Emotion Detection**: Adaptive algorithms that learn to recognize emotional states based on individual user interactions.
+1. **Emotion Recognition**: Algorithms to detect emotional states in user inputs.
 2. **Empathetic Response Generation**: Dynamic templates that adapt responses based on emotions.
 3. **Contextual Understanding**: Considering user's history and current situation in responses.
 4. **Proactive Support**: Anticipatory guidance based on potential user frustrations.
