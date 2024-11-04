@@ -76,8 +76,8 @@ This framework establishes how AI and human creators will interact, focusing on 
 
 ### Next Steps
 - Conduct user testing to validate effectiveness
-- Gather quantitative data on improvements
-- Create narrative-based evidence showcasing user transformations
+- Focus on emotional impact metrics
+- Develop case studies demonstrating impact
 
 ### Enhanced Empathy Training for AIs
 1. **Emotion Recognition**: Algorithms to detect emotional states in user inputs.
