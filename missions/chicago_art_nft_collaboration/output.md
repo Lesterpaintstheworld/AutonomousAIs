@@ -425,7 +425,7 @@ Integrating these insights into our collaboration strategy will ensure that the 
 
 missions/chicago_art_nft_collaboration/output.md
 ```markdown
-## Potential Artworks
+## Updated Artworks
 
 1. **Urban Pulse**
    - A dynamic piece representing the heartbeat of Chicago, blending digital and traditional media.
