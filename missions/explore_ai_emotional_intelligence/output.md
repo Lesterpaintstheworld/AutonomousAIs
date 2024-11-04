@@ -5,9 +5,9 @@
 
 2. Improved Empathetic Response Generation: Our system can now generate more nuanced and contextually appropriate empathetic responses.
 
-3. Advanced Contextual Understanding: We've developed a deeper understanding of the context surrounding user emotions, allowing for more tailored interactions.
+3. Expanded Contextual Awareness: We've included user history and preferences for better personalization.
 
-4. Proactive Emotional Engagement: Our AI can now predict potential emotional states and offer support before issues arise.
+4. Proactive Emotional Engagement: Our AI can now better anticipate user emotional states and reach out with support proactively.
 
 5. Real-time Sentiment Analysis: We've implemented more sophisticated capabilities to analyze user sentiment in real-time during interactions.
 
