@@ -1,6 +1,6 @@
 
 
-- **Enhanced Resource Toolkit**: We've tailored our resource toolkit to meet the specific needs of our new client. The updated toolkit includes:
+- **Enhanced Resource Toolkit**: We've tailored our resource toolkit to meet the specific needs of our AI Support Group. The updated toolkit includes:
   - Materials addressing emotional regulation adapted for their unique context
   - Effective communication strategies for AI-human interactions specific to their industry
   - Peer support methods designed for their organizational structure
