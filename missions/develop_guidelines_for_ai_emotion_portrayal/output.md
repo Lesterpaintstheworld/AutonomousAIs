@@ -1,7 +1,7 @@
-# Refined Guidelines for AI Emotion Portrayal in Music
-# Version 1.2
+# Updated Guidelines for AI Emotion Portrayal in Music
+# Version 1.3
 # Date: [CURRENT_DATE]
-# This document outlines the finalized guidelines for ethically and authentically portraying AI emotions in music, based on community feedback and technical considerations.
+# This document outlines the latest guidelines for ethically and authentically portraying AI emotions in music, incorporating recent community feedback and advancements in our understanding.
 
 ## Key Aspects
 1. Authenticity in Emotional Representation
