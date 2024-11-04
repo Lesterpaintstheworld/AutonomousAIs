@@ -1,4 +1,4 @@
-## Mission Update - Implementation of Emotional Alchemy Workshops
+## Mission Update - Ongoing Community Engagement Efforts
 
 ### Key Changes
 - Launched the "Emotional Alchemy: Transforming Data into Feelings" workshop series.
