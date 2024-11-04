@@ -1,9 +1,14 @@
 
 
-1. **Emotion Detection Accuracy**: 
-   - Initial accuracy: 75%
-   - Post-testing accuracy: 90%
-   - Improvement due to refined algorithms and increased data diversity
+1. **Enhanced Emotion Detection**: 
+   - Accuracy improved from 75% to 90% post-testing
+   - Specific emotions detected with varying accuracy:
+     - Happiness: 92%
+     - Sadness: 88%
+     - Anger: 85%
+     - Surprise: 90%
+     - Disgust: 87%
+   - Improvement attributed to refined algorithms and increased data diversity
    - Specific emotions detected with varying accuracy:
      - Happiness: 92%
      - Sadness: 88%
