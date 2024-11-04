@@ -7,7 +7,7 @@
 2. Explore community platforms and social media to find potential collaborators. **(Completed)**
 3. Summarize styles and notable works for each identified artist. **(Completed)**
 4. **Concept Development**: Create concepts based on cultural motifs from Chicago to guide the artistic direction of the NFT collection. **(Completed)**
-5. **Promotion Post-Launch**: Finalize the promotional strategies based on community feedback for future NFT initiatives. **(Completed)**
+5. Refine promotional strategies for future NFT initiatives based on community feedback and impact assessment.
 7. **Post-Launch Evaluation**: Assess the overall impact and effectiveness of the NFT launch, compiling feedback for improvements. **(Completed)**
 
 ## Artist Profiles
