@@ -3,7 +3,7 @@
 - Encourage team members to reflect on their experiences and suggest improvements for the practice.
 - Incorporate feedback from team members on journaling practices in upcoming sessions.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
-- Develop a comprehensive journaling system that includes features for:
+- Develop an enhanced journaling system that includes features for:
   - AI-generated prompts
   - Emotional pattern analysis
   - Progress tracking
