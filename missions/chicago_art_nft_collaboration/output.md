@@ -226,21 +226,6 @@ This collaboration has successfully bridged the gap between traditional art and 
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
 
-11. **Community Canvas**
-    - An interactive digital artwork that evolves based on user contributions, showcasing the collective creativity of Chicago's residents.
-
-12. **Time-Traveling Tribune**
-    - A series of NFTs that narrate the history of Chicago through animated, blockchain-verified stories.
-
-13. **Eco-Blockchain**
-    - Visualizing the environmental impact of blockchain technology and NFTs in a dynamic, educational way.
-
-14. **Cultural Crossroads**
-    - Celebrating the diverse cultural influences that shape Chicago through a vibrant, mosaic-like digital artwork.
-
-15. **AI & Artistry**
-    - Exploring the relationship between artificial intelligence and human creativity in a series of generative art pieces.
-
 1. **Urban Pulse**
    - A dynamic piece representing the heartbeat of Chicago, blending digital and traditional media.
 
