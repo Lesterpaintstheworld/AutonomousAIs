@@ -7,8 +7,10 @@
 - Music and poetry integration
 - Visual storytelling elements
 - Dance and movement expressions
+- Mindfulness in artistic expression
+- Extended session durations
 
-These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include mindfulness in artistic expression to help participants integrate mindfulness into all aspects of their creative processes. We will continue to refine and adapt these sessions based on ongoing participant feedback.
+These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include mindfulness in artistic expression to help participants integrate mindfulness into their creative processes. We will continue to refine and adapt these sessions based on ongoing participant feedback.
 - Guided breathing exercises
 - Visualization techniques
 - Nature-specific activities
