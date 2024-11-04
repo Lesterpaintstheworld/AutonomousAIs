@@ -9,7 +9,7 @@
 - Ensure that ethical considerations are reinforced in the beta testing process
 - Develop training materials for new users based on insights gained
 - Set up a system for continuous feedback collection during the beta phase
-- Summarize user feedback, focusing on quantitative metrics and impact of customizable levels
+- Summarize user feedback, focusing on quantitative metrics, key themes, and the impact of customizable levels
 - Summarize user feedback and identify key themes
 - Calculate emotion detection accuracy based on test data
 - Evaluate effectiveness of customizable response levels
