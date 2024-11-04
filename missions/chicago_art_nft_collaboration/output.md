@@ -402,7 +402,7 @@ Integrating these insights into our collaboration strategy will ensure that the 
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
 
-## Engagement Strategies
+## Enhanced Engagement Strategies
 
 1. **Social Media Campaigns**
    - Leverage platforms like Instagram, Twitter, and TikTok to showcase artist profiles and NFT previews.
