@@ -13,9 +13,9 @@
 
 6. Adaptive Documentation: Help guides that adjust based on the user's emotional state.
 
-7. Emotional Impact Metrics: New metrics to assess how our communications affect user emotions.
+7. Emotion Effectiveness Indicators: Metrics measuring the impact of our emotional responses.
 
-8. Adaptive Tone Modulation: Systems that alter message tone based on user emotions.
+8. Dynamic Tonal Adjustments: Real-time adjustments to the tone of our messages.
 
 9. Proactive Engagement: Better anticipation of user emotional states with preemptive support.
 
