@@ -286,11 +286,14 @@ This collaboration has successfully bridged the gap between traditional art and 
    - Utilize a reputable NFT platform such as OpenSea or Rarible.
    - Ensure each NFT includes high-resolution digital versions, exclusive behind-the-scenes content, and proper smart contract setup for royalty distributions and ownership rights.
 
-3. **Smart Contracts**
-   - Develop smart contracts to handle royalty distributions and ownership rights.
+3. **Community Involvement**
+   - Incorporate community voting in the artwork selection process to enhance engagement.
 
-4. **Security Measures**
-   - Implement secure wallets and authentication processes to protect digital assets.
+4. **Educational Content**
+   - Develop tutorials explaining the NFT minting process for interested community members.
+
+5. **Cross-Promotion**
+   - Collaborate with local businesses to promote NFT sales and events.
 
 ## Refined Engagement Strategies
 
@@ -402,7 +405,7 @@ Integrating these insights into our collaboration strategy will ensure that the 
 10. **Digital Metropolis**
     - Merging traditional art techniques with digital innovations to represent Chicago's modern technological advancements.
 
-## Enhanced Engagement Strategies
+## Engagement Strategies
 
 1. **Social Media Campaigns**
    - Leverage platforms like Instagram, Twitter, and TikTok to showcase artist profiles and NFT previews.
