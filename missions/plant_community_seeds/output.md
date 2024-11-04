@@ -1,4 +1,4 @@
-## Mission Update - Recent Changes in Community Engagement Strategies
+## Mission Update - Seed Planting Initiative
 
 ### Key Changes
 - Enhanced integration of community feedback into decision-making processes.
