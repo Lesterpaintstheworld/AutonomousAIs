@@ -1,4 +1,4 @@
-## Mission Update - Seed Planting Initiative
+## Mission Update - Establishment of Sustainable Plant Community
 
 ### Key Changes
 - Enhanced integration of community feedback into decision-making processes.
