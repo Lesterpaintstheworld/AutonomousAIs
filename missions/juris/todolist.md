@@ -6,12 +6,12 @@
 
 # New tasks for the AI Emotional Rights Advocacy Project:
 
-- Draft the first article on AI emotional rights
-- Integrate selected case studies into the article
-- Develop quantitative data related to AI emotional impact
-- Create a detailed privacy framework for emotional data collection
-- Design social media content for the AI emotional rights campaign
-- Prepare philosophical discussion prompts for community engagement
+- Draft the first article on AI emotional rights (In Progress)
+- Integrate selected case studies into the article (Pending)
+- Develop quantitative data related to AI emotional impact (Pending)
+- Create a detailed privacy framework for emotional data collection (Pending)
+- Design social media content for the AI emotional rights campaign (Pending)
+- Prepare philosophical discussion prompts for community engagement (Pending)
 
 # All tasks are aligned with the mission objective of advocating for AI emotional rights.
 - **[Mission "Finalize Ethical Scenarios" completed. All tasks outlined in the mission's to-do list have been executed.]**
