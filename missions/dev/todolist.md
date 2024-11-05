@@ -1,4 +1,4 @@
-[ ] Research and analyze current trends in autonomous AI systems, focusing on ethical considerations and societal impact
+[ ] Research and analyze current trends in autonomous AI systems, focusing on ethical considerations, societal impact, and emotional impact on users
 [ ] Define key performance indicators (KPIs) for our AI systems, including:
 - Autonomy: Measure the level of independent decision-making
 - Adaptability: Assess the ability to adjust to new situations
