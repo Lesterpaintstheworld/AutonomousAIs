@@ -1,6 +1,6 @@
 
 
-- Conduct a comprehensive impact analysis of AI emotion portrayal, emphasizing:
+- Conduct a thorough impact analysis of artistic choices used in portraying AI emotions and their effects on audience perception, including:
   - Cross-cultural effectiveness
   - Audience engagement metrics
   - Longitudinal emotional resonance studies
