@@ -45,12 +45,12 @@
    - Encourage team members to reflect on their experiences and suggest improvements for better outcomes.
    - Remind team members to incorporate techniques learned into their practice for improved results.
    
-2. **Foster Active Living**: 
-   - Embrace participation in virtual fitness challenges to build community and enhance physical health.
-   - Share updates and successes regularly to inspire collective motivation.
-   - Track engagement and celebrate each individual's progress to create a supportive atmosphere.
-   - Encourage activities that bring joy to each team member, enhancing overall participation.
-   - Create a culture of celebration for every milestone achieved.
+2. **Promote Regular Physical Activity**: 
+   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
+   - Regularly share updates and successes to motivate the team.
+   - Track exercise participation and celebrate individual milestones to create a supportive environment.
+   - Encourage team members to engage in activities they enjoy to enhance participation.
+   - Celebrate individual milestones to create a supportive environment.
    - Implement regular emotional check-ins to assess our emotional state and adjust self-care practices accordingly.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
