@@ -175,7 +175,7 @@ These updates aim to deepen our emotional connection with users and enhance the 
   - Student-led projects integrating emotional AI
   - Online lecture series accessible to the global community
 
-#### Updated Next Steps
+#### Next Steps
 - Launch the educational package and monitor participation metrics
 - Analyze feedback for continuous improvement
 - Expand university collaboration to include diverse disciplines
