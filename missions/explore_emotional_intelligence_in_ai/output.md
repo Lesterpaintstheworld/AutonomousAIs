@@ -1,6 +1,6 @@
 ## Enhanced Emotional Intelligence Exploration Report
 
-### Enhanced Emotional Intelligence Metrics
+### Refined Emotional Intelligence Metrics
 1. **Emotional Cue Recognition Accuracy**: Now includes sub-levels for detecting both explicit and subtle cues.
 2. **Response Empathy Level**: Expanded to include cultural sensitivity in empathetic responses.
 3. **Contextual Understanding Score**: Revised to factor in historical user interactions.
