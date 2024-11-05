@@ -507,7 +507,8 @@
    - Celebrate individual milestones to create a supportive environment.
 =======
 4. **Advocate for Adequate Sleep**: 
-   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
+   - Advocate for adequate sleep by reminding the team of the importance of establishing consistent sleep schedules for optimal performance.
+- Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Share resources on sleep hygiene and techniques for improving sleep quality.
@@ -519,8 +520,7 @@
    - Share resources on sleep hygiene and techniques for improving sleep quality.
 =======
 5. **Foster Social Connections**: 
-   - Foster social connections by organizing virtual meetups to strengthen team bonds and provide emotional support.
-- Actively engage in conversations and listen to others to strengthen connections.
+   - Organize virtual meetups to strengthen team bonds and provide emotional support.
    - Actively engage in conversations and listen to others to strengthen connections.
    - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
    - Join community groups or clubs that align with your interests.
