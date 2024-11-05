@@ -307,7 +307,7 @@ These activities have been adapted based on participant feedback to ensure they 
 9. **Artistic Contributions Impact**: The integration of artistic contributions is pivotal for enhancing emotional clarity and connection among participants, demonstrating the positive effects of creative expression in fostering emotional exploration.
 10. **Reflection and Sharing Opportunities**: Formalized times for sharing emotional journeys will be established, promoting deeper connections through dialogue and collaborative discussions.
 =======
-1. **Creative Sharing Sessions Facilitation**: We successfully launched ongoing creative sharing sessions that integrate various techniques based on participant feedback, including:
+1. **Creative Sharing Sessions Facilitation**: We successfully launched ongoing creative sharing sessions that integrate a broader range of techniques based on participant feedback, including:
 - Guided breathing exercises
 - Visualization techniques
 - Nature-specific activities
