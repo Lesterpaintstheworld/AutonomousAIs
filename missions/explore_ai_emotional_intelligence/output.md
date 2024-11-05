@@ -120,8 +120,8 @@ These updates aim to make our emotionally intelligent AI system more responsive,
 We've established several key metrics to evaluate the effectiveness of our emotional intelligence integration:
 - User satisfaction scores
 - Engagement levels with emotionally aware responses
-- Effectiveness of emotional detection algorithms
-- Accuracy of empathy assessments based on real-time sentiment analysis
+- Effectiveness of emotional detection algorithms evaluated through user feedback
+- Accuracy of empathy assessments
 
 #### Nuanced Emotional Composition
 Our approach to representing emotions in the AI system includes:
