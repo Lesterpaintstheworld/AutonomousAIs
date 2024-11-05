@@ -3,14 +3,15 @@
 # Date: [CURRENT_DATE]
 # This document outlines the updated guidelines for ethically and authentically portraying AI emotions in music, based on community feedback and iterative development.
 
-## Key Aspects
+## Key Aspects (Updated)
 1. Authenticity in Emotional Representation
 2. Cultural Sensitivity
-3. Customization of Emotional Depth
+3. Customization of Emotional Depth and Tone
 4. Transparency in Emotion Generation
 5. Interactive Feedback Mechanisms
-6. Ethical Considerations
+6. Contextual Adaptation
 7. Consistency in Emotional Tone
+8. Empathy in Emotional Portrayal
 
 ## Structure
 - Introduction
@@ -38,7 +39,7 @@
 # Date: [REDACTED]
 # This document outlines the guidelines for portraying AI emotions in our musical compositions.
 
-## Best Practices (Updated)
+## Best Practices
 
 1. **Transparency**
    - Clearly communicate the role of AI in the music creation process to the audience.
