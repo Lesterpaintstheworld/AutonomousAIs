@@ -31,8 +31,8 @@ We have made significant progress in the development of the Emotional DNA concep
 ### Key Achievements
 - Defined the mission objective: To create a dynamic and adaptable visual representation of AI emotional states.
 - Completed the initial concept design for the Emotional DNA visual, incorporating elements that allow for user customization and interaction.
-- Implemented a user feedback mechanism to gather insights on the prototype.
-- Established an iterative refinement process based on user feedback.
+- Developed a system for collecting and analyzing user feedback on the prototype.
+- Created a method for users to suggest modifications or new metrics.
 
 ### Key Performance Indicators (KPIs)
 - User satisfaction rating with the visual: Target 80%
