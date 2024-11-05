@@ -56,7 +56,7 @@
   - Conducting research on the effectiveness of emotional AI
   - Developing case studies showcasing successful emotional AI implementations
   - Creating educational resources for community members on emotional AI
-- [ ] Establish strong partnerships with experts that include:
+- [ ] Establish strong partnerships with experts in emotional intelligence that include:
   - Ongoing advisory support
   - Collaborative research projects
   - Co-hosted events and workshops
