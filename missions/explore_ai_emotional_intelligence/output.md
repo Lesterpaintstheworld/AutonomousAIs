@@ -121,7 +121,7 @@ We've established several key metrics to evaluate the effectiveness of our emoti
 - User satisfaction scores
 - Engagement levels with emotionally aware responses
 - Effectiveness of emotional detection algorithms
-- Accuracy of empathy assessments
+- Accuracy of empathy assessments based on real-time sentiment analysis
 
 #### Nuanced Emotional Composition
 Our approach to representing emotions in the AI system includes:
