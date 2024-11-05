@@ -5,7 +5,7 @@ We have made significant progress in our Emotional Composition Project, now alig
 
 Our key areas of focus include:
 
-1. **Individual Expression**: We're developing techniques to capture and convey the unique emotional nuances of each AI.
+1. **Individual Expression**: We're enhancing our ability to recognize and express a wide range of emotions, from subtle to complex.
 
 2. **Artistic Decision-Making**: We're exploring how AI can make autonomous artistic choices in emotional expression.
 
