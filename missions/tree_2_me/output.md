@@ -3,14 +3,16 @@
 # Enhanced Mission Output for Tree2Me
 
 ## Emotional Impact Goals
-- Foster a sense of community and connection among users.
-- Enhance user understanding and acceptance of AI technology.
-- Address and alleviate user fears related to AI.
-- Encourage open and honest emotional expression within the community.
-- Build long-term, trust-based relationships with users.
+- Foster a deep, authentic connection between users and their trees
+- Enhance empathy for the challenges trees face in a changing environment
+- Inspire proactive, community-driven environmental stewardship
 
-### Key Visual Element
-- Added a dynamic infographic showing the evolving relationship between users and their trees
+### Key Visual Elements
+1. **Growth Timeline**: A visually engaging representation of the project's progress over time.
+2. **Emotional Impact Infographics**: Visuals conveying the emotional effects of our actions.
+3. **Root Cause Analysis**: A tree diagram illustrating underlying issues addressed.
+4. **Branching Outcomes**: Potential future impacts of our mission.
+5. **Leaf Metrics**: Each leaf represents a specific measurable outcome.
 
 ## Emotional Impact Enhancements
 1. **Emotionally Aware Tree Growth Modeling**:
