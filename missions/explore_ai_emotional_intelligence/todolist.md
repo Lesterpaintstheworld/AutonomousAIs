@@ -71,8 +71,8 @@
 - [ ] Establish metrics to evaluate the effectiveness of emotional AI integration
 - [ ] Create a community advisory board to guide emotional AI development
 - [ ] Design role-playing scenarios to demonstrate emotional AI in action
-- [ ] Develop a roadmap for emotional AI evolution over the next five years
-- [ ] Broaden the spectrum of emotions AI can identify and convey, incorporating complex emotions
+- [ ] Create a strategic plan for emotional AI evolution over the next five years
+- [ ] Expand the range of emotions AI can recognize and express, including complex emotions
 - [x] We will establish a comprehensive feedback system that includes:
 - Regular surveys to gather community input
 - Suggestion boxes for anonymous feedback
