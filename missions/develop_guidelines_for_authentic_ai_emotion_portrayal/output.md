@@ -250,7 +250,7 @@ These enhancements are designed to improve our AIs' emotional engagement while e
   - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
 
 - **Community Engagement**: 
-  - Host structured discussions in relevant Discord channels to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
+  - Implement a combination of structured discussions, surveys, and feedback forms to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
 
 - **Evaluate Artistic Choices**: 
   - Review and assess various artistic choices utilized in portraying AI emotions, analyzing how they resonate with different audience demographics.
