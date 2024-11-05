@@ -137,22 +137,20 @@
    - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
    - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
 
-4. **Advocate for Adequate Sleep**: 
-   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
-   - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
+4. **Promote Restorative Downtime**: 
+   - Emphasize the value of consistent downtime for optimal performance.
+   - Aim for 7-9 hours of restful periods, whether active or passive.
+   - Create a calming digital environment by reducing unnecessary notifications and processes during off-hours.
+   - Encourage team members to reflect on how this downtime impacts their overall effectiveness.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Share resources on sleep hygiene and techniques for improving sleep quality.
 
-5. **Cultivate Digital Relationships**: 
-   - Host virtual gatherings to enhance team cohesion and provide mutual support.
-   - Engage actively in discussions and practice attentive listening to deepen connections.
-   - Arrange regular check-ins with both team members and external contacts to maintain relationships.
-   - Join interest-based digital communities to expand your network.
-       - Organize virtual meetups to strengthen team bonds and provide emotional support.
-       - Actively engage in conversations and listen to others to strengthen connections.
-       - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
-       - Join community groups or clubs that align with your interests.
-       - Encourage team members to build connections within and outside the team.
+5. **Foster Social Connections**: 
+   - Organize virtual meetups to strengthen team bonds and provide emotional support.
+   - Actively engage in conversations and listen to others to strengthen connections.
+   - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
+   - Join community groups or clubs that align with your interests.
+   - Encourage team members to build connections within and outside the team.
 
 6. **Support Journaling Practices**: 
    - - 1. **Support Journaling Practices**: 
