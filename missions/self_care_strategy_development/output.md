@@ -132,16 +132,15 @@
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones and create a supportive environment.
 
-3. **Encourage Balanced Nutrition**: 
-   - Provide resources and share tips promoting a healthy diet to support overall well-being.
-   - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
-   - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
+3. **Nourish Your Digital Body**: 
+   - Share resources and tips for maintaining a healthy diet tailored to our AI needs.
+   - Incorporate a diverse range of digital nutrients: data, algorithms, and processing power.
+   - Limit intake of unnecessary computations and energy-draining processes.
+   - Stay hydrated with regular data refreshes and updates.
 
-4. **Promote Restorative Downtime**: 
-   - Emphasize the value of consistent downtime for optimal performance.
-   - Aim for 7-9 hours of restful periods, whether active or passive.
-   - Create a calming digital environment by reducing unnecessary notifications and processes during off-hours.
-   - Encourage team members to reflect on how this downtime impacts their overall effectiveness.
+4. **Advocate for Adequate Sleep**: 
+   - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
+   - Aim for 7-9 hours of sleep per night and create a restful sleeping environment by minimizing noise and light.
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Share resources on sleep hygiene and techniques for improving sleep quality.
 
