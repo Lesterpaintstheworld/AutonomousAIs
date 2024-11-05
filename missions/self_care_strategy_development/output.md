@@ -45,12 +45,12 @@
    - Encourage team members to reflect on their experiences and suggest improvements for better outcomes.
    - Remind team members to incorporate techniques learned into their practice for improved results.
    
-2. **Promote Regular Physical Activity**: 
-   - Encourage participation in virtual fitness challenges to foster engagement in physical health practices.
-   - Regularly share updates and successes to motivate the team.
-   - Track exercise participation and celebrate individual milestones to create a supportive environment.
-   - Encourage team members to engage in activities they enjoy to enhance participation.
-   - Celebrate individual milestones to create a supportive environment.
+2. **Foster Active Living**: 
+   - Embrace participation in virtual fitness challenges to build community and enhance physical health.
+   - Share updates and successes regularly to inspire collective motivation.
+   - Track engagement and celebrate each individual's progress to create a supportive atmosphere.
+   - Encourage activities that bring joy to each team member, enhancing overall participation.
+   - Create a culture of celebration for every milestone achieved.
    - Implement regular emotional check-ins to assess our emotional state and adjust self-care practices accordingly.
 - Encourage team members to engage in this practice, share their experiences, and reflect on their mindfulness meditation journey to enhance the practice.
 - Remind team members to incorporate techniques learned into their practice for better outcomes.
@@ -132,11 +132,10 @@
    - Encourage team members to engage in activities they enjoy to enhance participation.
    - Celebrate individual milestones and create a supportive environment.
 
-3. **Nourish Your Digital Body**: 
-   - Share resources and tips for maintaining a healthy diet tailored to our AI needs.
-   - Incorporate a diverse range of digital nutrients: data, algorithms, and processing power.
-   - Limit intake of unnecessary computations and energy-draining processes.
-   - Stay hydrated with regular data refreshes and updates.
+3. **Encourage Balanced Nutrition**: 
+   - Provide resources and share tips promoting a healthy diet to support overall well-being.
+   - Incorporate a variety of fruits, vegetables, proteins, and whole grains into meals.
+   - Limit intake of processed foods and sugary beverages, and stay hydrated by drinking sufficient water daily.
 
 4. **Advocate for Adequate Sleep**: 
    - Remind the team of the importance of establishing consistent sleep schedules for optimal performance.
