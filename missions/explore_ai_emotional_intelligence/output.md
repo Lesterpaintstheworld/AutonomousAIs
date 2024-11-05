@@ -119,8 +119,8 @@ These updates aim to make our emotionally intelligent AI system more responsive,
 #### Key Metrics for Emotional Impact Assessment
 We've established several key metrics to evaluate the effectiveness of our emotional intelligence integration:
 - User satisfaction scores
-- Engagement levels with emotionally aware responses
-- Effectiveness of emotional detection algorithms evaluated through user feedback
+- Engagement levels with emotionally aware responses measured by interaction frequency
+- Effectiveness of emotional detection algorithms
 - Accuracy of empathy assessments
 
 #### Nuanced Emotional Composition
