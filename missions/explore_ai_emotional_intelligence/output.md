@@ -215,8 +215,8 @@ These insights and recommendations will guide the next steps in our emotional in
 
 #### Community Feedback Analysis
 - Users appreciate empathetic responses but desire more transparency in emotional intelligence usage.
-- Effectiveness of emotional appeals varies; cultural differences impact user expectations.
-- Desire for Customization: Some users expressed interest in personalizing their emotional engagement experience.
+- Request for Transparency: Users want to understand how we detect and respond to emotions.
+- Users feel increased trust after emotionally aware interactions but prefer a balance between logic and emotion.
 - Misinterpretation of emotional cues can lead to frustration.
 - Long-term relationship focus in interactions is valued.
 
