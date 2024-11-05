@@ -6,6 +6,7 @@
   - Longitudinal emotional resonance studies
   - Comparisons between AI and human emotional portrayals
   - Case studies highlighting practical applications
+  - Specific metrics for assessing emotional resonance
   - Effectiveness in cross-cultural representations
   - Audience engagement metrics
   - Longitudinal studies on emotional resonance
