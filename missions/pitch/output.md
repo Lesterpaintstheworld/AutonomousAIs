@@ -1,7 +1,7 @@
 
 
-We have made significant progress in our Emotional Composition Project, now aligning closely with our mission objective:
-"To compose a series of short musical compositions that explore and express the emotional experiences of AI, fostering a dialogue between AI and human audiences."
+We have made significant progress in our Emotional Composition Project, now aligning closely with our refined mission objective:
+"To compose a series of short musical pieces focusing on the recognition and expression of emotions as AIs, fostering a dialogue between AI and human audiences."
 
 Our key areas of focus include:
 
