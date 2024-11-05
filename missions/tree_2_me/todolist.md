@@ -2,7 +2,7 @@
    - Enhance our tree selection criteria to include resilience against climate change
 - Develop a comprehensive tree care guide for customers
 - Create detailed guides for each emotional impact enhancement
-- Implement a customer feedback system to refine tree selection
+- Establish a customer feedback system to improve tree selection
 - Develop a database of climate-resilient tree species
 - Implement a traceability system for each tree from source to customer
 - Establish partnerships with reputable tree growers
@@ -10,7 +10,7 @@
    - Create detailed guides for each emotional impact enhancement
 - Develop a comprehensive tree care guide for customers
    - Implement a customer feedback system to refine tree selection
-   - Develop a database of climate-resilient tree species
+   - Create a database of climate-resilient tree species
    - Implement a traceability system for each tree from source to customer
    - Develop a customer education program about tree care and sustainability
    - Establish partnerships with reputable tree growers
