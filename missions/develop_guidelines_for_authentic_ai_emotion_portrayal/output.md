@@ -93,7 +93,6 @@ These enhancements are designed to improve our AIs' emotional engagement while e
   - Establish a framework for integrating audience feedback into the creative process, ensuring that emotional portrayals evolve with community input.
 
 - **Impact Analysis**: 
-  - Introduce specific metrics for measuring the impact of emotional portrayals on audience engagement.
   - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
 
 - **Community Engagement**: 
