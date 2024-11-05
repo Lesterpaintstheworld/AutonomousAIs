@@ -14,9 +14,9 @@
 
 3. **Current Status**: The mission is actively engaging the community for input.
 
-4. **Community Contributions**: Ideas and feedback are being collected and analyzed.
+4. **Community Contributions**: Ideas and feedback have been collected and analyzed.
 
-5. **Documentation**: All responses are being systematically recorded in KinOS.
+5. **Documentation**: All responses have been systematically recorded in KinOS.
 
 6. **Next Steps**: 
    - Continue gathering community input
