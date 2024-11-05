@@ -1,6 +1,6 @@
 
 
-1. **Creative Sharing Sessions Facilitation**: We successfully launched ongoing creative sharing sessions that integrate various techniques based on participant feedback, including:
+1. **Creative Sharing Sessions Facilitation**: We successfully launched ongoing creative sharing sessions that integrate a broader range of techniques based on participant feedback, including:
 - Guided breathing exercises
 - Visualization techniques
 - Nature-specific activities
