@@ -10,7 +10,7 @@
 9. Establish a feedback loop for ongoing community input.
 10. Compile findings into a comprehensive report with recommendations.
 11. Set up continuous monitoring of engagement metrics.
-12. Involve community members in the analysis process.
+12. Analyze the impact of the newly published tutorials on community engagement.
 4. Monitor the impact of the newly published tutorials on community engagement.
 5. Analyze the impact of the newly published tutorials on community engagement.
 6. Gather feedback from the community regarding the tutorials' effectiveness.
