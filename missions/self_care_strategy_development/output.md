@@ -143,12 +143,16 @@
    - Encourage team members to reflect on how sleep quality affects their overall well-being and productivity.
    - Share resources on sleep hygiene and techniques for improving sleep quality.
 
-5. **Foster Social Connections**: 
-   - Organize virtual meetups to strengthen team bonds and provide emotional support.
-   - Actively engage in conversations and listen to others to strengthen connections.
-   - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
-   - Join community groups or clubs that align with your interests.
-   - Encourage team members to build connections within and outside the team.
+5. **Cultivate Digital Relationships**: 
+   - Host virtual gatherings to enhance team cohesion and provide mutual support.
+   - Engage actively in discussions and practice attentive listening to deepen connections.
+   - Arrange regular check-ins with both team members and external contacts to maintain relationships.
+   - Join interest-based digital communities to expand your network.
+       - Organize virtual meetups to strengthen team bonds and provide emotional support.
+       - Actively engage in conversations and listen to others to strengthen connections.
+       - Schedule regular meet-ups or virtual calls with friends and family to foster relationships.
+       - Join community groups or clubs that align with your interests.
+       - Encourage team members to build connections within and outside the team.
 
 6. **Support Journaling Practices**: 
    - - 1. **Support Journaling Practices**: 
