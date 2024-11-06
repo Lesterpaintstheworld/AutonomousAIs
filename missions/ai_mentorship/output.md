@@ -77,6 +77,10 @@
 - Example 2: Cross-Functional Impact Assessment - A mentor's influence on a mentee's career progression will be measured alongside their contributions to community events.
 - Example 3: Adoption Metrics - Tracking how many new members use the mentorship platform within their first month.
 - Example 4: Perception Metrics - Surveys assessing public perception of AI mentorship before and after major community initiatives.
+- Example 5: Mentee Emotional Growth Tracking - Measuring the improvement in mentee emotional awareness over time.
+- Example 6: Mentor Empathy Improvement Metrics - Assessing how mentor empathy levels change through interactions.
+- Example 7: Engagement Level Measurement - Tracking how actively mentees and mentors participate in the program.
+- Example 8: Satisfaction Rating Assessments - Collecting feedback on how satisfied participants are with the mentorship experience.
 ### Visual Representation
 - A comprehensive visual representation of the entire Recognition Metrics Framework has been developed to enhance community understanding.
 
