@@ -18,8 +18,8 @@ The development of the EII will follow an iterative process, including:
 2. **Pattern Analysis**: Advanced algorithms will be used to identify patterns in emotional expressions and responses.
 3. **Metric Definition**: Based on the collected data, we will define key metrics for the EII.
 4. **Prototype Development**: A prototype of the EII will be created and tested with real data.
-5. **User Feedback**: We will gather feedback from users to refine the EII.
-6. **EII Deployment**: The finalized EII will be implemented across all our platforms.
+5. **User Input Collection**: We'll solicit feedback from users to improve the EII.
+6. **Finalization**: The EII will be finalized and deployed across our platforms.
 
 ## Expected Impact
 The EII is expected to:
