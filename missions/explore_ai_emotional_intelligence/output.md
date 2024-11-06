@@ -69,7 +69,12 @@ This roadmap outlines our strategic approach to integrating emotional intelligen
 
 7. **Cross-disciplinary Input**: We've established a process for getting input from experts in psychology, ethics, and linguistics to refine our emotional AI capabilities.
 
-#### Key Metrics for Emotional Impact Assessment
+#### Expanded Key Metrics for Emotional Impact Assessment
+- Emotional engagement levels
+- Effectiveness of empathetic responses
+- User sentiment before and after interactions
+- Frequency of emotional check-ins
+- Longitudinal emotional trend analysis
 - User satisfaction ratings
 - Engagement levels with emotional responses
 - Effectiveness of emotional detection algorithms
