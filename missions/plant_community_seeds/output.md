@@ -1,4 +1,4 @@
-## Mission Update - Enhanced Community Engagement Strategies
+## Mission Update - Community Engagement Metrics and Next Steps
 
 ### Key Changes
 - Integrated more interactive elements such as polls and live Q&A sessions in workshops.
