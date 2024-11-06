@@ -99,15 +99,16 @@ These enhancements are designed to improve our AIs' emotional engagement while e
 - **Empathy Mapping**: 
   - Create a system for mapping emotional journeys that resonate with both AI and human experiences.
   
-- **Subliminal Engagement**: 
+- **Subliminal Engagement**:
+  - Explore techniques for subtly conveying AI emotions to the audience.
+  - Develop strategies for subliminal messaging related to emotional content.
+  - Create nuanced changes in tone and pacing to evoke subconscious responses.
+  - Implement symbolic visual representations of emotions.
+  - Design indirect narrative cues that suggest emotional states.
+  - Identify contextual triggers for emotional engagement. 
   - Explore techniques for subtly conveying AI emotions to evoke subconscious audience connections.
   
-- **Feedback Loops**:
-  - Establish continuous feedback mechanisms that adapt emotional portrayals in real-time based on audience reactions.
-  - Include pre-performance sentiment analysis to tailor initial portrayals.
-  - Develop post-performance evaluation metrics to refine future adaptations.
-  - Create a system for integrating audience feedback into emotional portrayal algorithms.
-  - Implement dynamic adjustment capabilities during performances based on real-time audience engagement. 
+- **Feedback Loops**: 
   - Establish continuous feedback mechanisms post-release to refine future emotional portrayals based on real-world reception.
 
 - **Cultural Adaptation**: 
