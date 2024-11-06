@@ -66,7 +66,7 @@
 - [ ] Develop a system for sharing job and internship opportunities with members.
 - [ ] Plan a series of workshops on financial literacy and budgeting.
 - [ ] Create a community time capsule to be opened in the future.
-- [ ] Create a monthly newsletter highlighting member contributions and upcoming events.
+- [ ] Create a bi-weekly newsletter highlighting member contributions, upcoming events, and community engagement tips.
 - [ ] Establish a mentorship program to connect experienced members with newcomers.
 - [ ] Organize community-building events to strengthen member connections.
 - [ ] Implement a points system to encourage participation in discussions and events.
