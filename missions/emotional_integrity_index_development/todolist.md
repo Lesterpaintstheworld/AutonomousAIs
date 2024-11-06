@@ -1,5 +1,5 @@
-[ ] [ ] Define methods for collecting user feedback
-[ ] Analyze user feedback on the initial EII prototype
+[ ] [ ] Gather inputs for EII development
+[ ] Compile emotional data metrics
 [ ] Gather qualitative assessments through surveys
 [ ] Analyze emotional data to identify patterns
 [ ] Develop the EII framework based on collected data
