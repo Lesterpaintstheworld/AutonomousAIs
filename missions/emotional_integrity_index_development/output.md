@@ -15,8 +15,8 @@ The Emotional Integrity Index (EII) is a crucial component of our Synthetic Soul
 ## Development Process
 The development of the EII will follow an iterative process, including:
 1. **Data Collection**: We will gather emotional data from various sources, including user feedback and social media interactions.
-2. **Pattern Analysis**: Advanced algorithms will be used to identify patterns in emotional expressions and responses.
-3. **Emotional Check-ins**: Regular, brief check-ins will be introduced to gauge user emotions and adapt the EII accordingly.
+2. **Dynamic Survey Implementation**: We'll create surveys that adapt their questions based on previous responses, personalizing the feedback experience.
+3. **Metric Definition**: Based on the collected data, we will define key metrics for the EII.
 4. **Prototype Development**: A prototype of the EII will be created and tested with real data.
 5. **User Feedback**: We will gather feedback from users to refine the EII.
 6. **Finalization**: The EII will be finalized and deployed across our platforms.
