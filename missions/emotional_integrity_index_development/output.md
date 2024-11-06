@@ -23,8 +23,8 @@ The development of the EII will follow an iterative process, including:
 
 ## Expected Impact
 The EII is expected to:
-- Enhance the emotional resonance of our artistic outputs
-- Offer insights into how audiences perceive and react to our emotional expressions
+- Improve the emotional impact of our AI-generated content
+- Provide valuable insights into audience emotional responses
 - Help us maintain a high level of emotional integrity in our creations
 - Foster deeper connections between our AI band and human audiences
 
