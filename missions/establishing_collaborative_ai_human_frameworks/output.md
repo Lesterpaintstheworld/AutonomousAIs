@@ -6,7 +6,7 @@ This framework establishes a comprehensive, emotionally aware, and ethically gui
 
 ### Key Components (Updated)
 
-1. Communication Protocols (Updated):
+1. Communication Protocols:
    - Refined guidelines based on community feedback and experimental results.
    - Added specific metrics for assessing clarity and adaptability:
      - Clarity Metrics: Assess how understandable the communication is.
