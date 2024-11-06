@@ -1,6 +1,6 @@
 [ ] [ ] Define methods for collecting user feedback
 [ ] Compile emotional data metrics
-[ ] Gather and analyze data from EII beta testing
+[ ] Gather qualitative assessments through surveys
 [ ] Analyze emotional data to identify patterns
 [ ] Develop the EII framework based on collected data
 [ ] Create the EII Dashboard for visualizing emotional data
@@ -10,5 +10,5 @@
 [ ] Implement ethical logging for emotional metric applications
 [ ] Develop the customizability module for user-defined metrics
 [ ] Test and validate the EII with real user data
-[ ] Iterate on the EII design based on user feedback
+[ ] Conduct workshops to educate users about the EII
 [ ] Document the EII development process and decisions
