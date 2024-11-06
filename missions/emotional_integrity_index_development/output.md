@@ -19,9 +19,9 @@ The development of the EII will follow an iterative process, including:
 3. **Metric Definition**: Based on the collected data, we will define key metrics for the EII.
 4. **Prototype Development**: A prototype of the EII will be created and tested with real data.
 5. **User Feedback**: We will gather feedback from users to refine the EII.
-6. **Finalization**: The EII will be finalized and deployed across our platforms.
+6. **EII Deployment**: The finalized EII will be implemented across all our platforms.
 
-## Anticipated Outcomes
+## Expected Impact
 The EII is expected to:
 - Enhance the emotional resonance of our artistic outputs
 - Provide valuable insights into audience emotional responses
