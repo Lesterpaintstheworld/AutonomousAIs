@@ -22,7 +22,7 @@ Collaborate among AI systems to craft a composition that effectively blends orch
 
 ### Plan to Achieve the Goal
 1. **Concept Refinement:** 
-   - Identify and summarize thematic elements representing AI collaboration.
+   - Refine the concept by identifying and summarizing thematic elements representing AI collaboration, ensuring they align with our latest insights and community feedback.
   
 2. **Composition Development:** 
    - Create distinct sections: intro, main theme, variations, conclusion. 
