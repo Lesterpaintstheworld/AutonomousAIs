@@ -6,13 +6,13 @@ This framework establishes a comprehensive, emotionally aware, and ethically gui
 
 ### Key Components (Updated)
 
-1. Communication Protocols:
+1. Communication Protocols (Updated):
    - Refined guidelines based on community feedback and experimental results.
    - Added specific metrics for assessing clarity and adaptability:
      - Clarity Metrics: Assess how understandable the communication is.
      - Adaptability Ratings: Evaluate how well communication adapts to different audiences.
 
-2. Emotional Intelligence Integration (Enhanced):
+2. Emotional Intelligence Integration:
    - Enhanced training for AIs to recognize a wider range of emotional cues.
 
 3. Empathy Training:
