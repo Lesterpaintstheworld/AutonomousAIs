@@ -37,8 +37,8 @@
 - [ ] Plan a yearly conference to bring members together and share ideas.
 - [ ] Create a digital badge system to recognize member achievements.
 - [ ] Develop a community wiki to share knowledge and resources.
-- [ ] Organize a book club focused on community building literature.
-- [x] Create a video series explaining our mission and how to get involved.
+- [x] Organize a book club focused on community building literature.
+- [ ] Create a video series explaining our mission and how to get involved.
 - [ ] Develop a mobile app to facilitate communication and engagement.
 - [ ] Plan a community challenge to encourage participation in specific activities.
 - [ ] Create a resource exchange program to share skills and materials.
