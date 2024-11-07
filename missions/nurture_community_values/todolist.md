@@ -45,8 +45,8 @@
 - [ ] Develop a system for rotating leadership roles in community projects.
 - [ ] Organize a series of webinars on relevant topics suggested by members.
 - [ ] Create a community garden to promote sustainability and collaboration.
-- [ ] Develop a scholarship program for members pursuing education in relevant fields.
-- [x] Plan a community festival to celebrate our achievements and values.
+- [x] Develop a scholarship program for members pursuing education in relevant fields.
+- [ ] Plan a community festival to celebrate our achievements and values.
 - [ ] Create a mentorship program to connect experienced members with newcomers.
 - [ ] Develop a system for recognizing and celebrating member milestones.
 - [ ] Organize regular social events to build relationships among members.
