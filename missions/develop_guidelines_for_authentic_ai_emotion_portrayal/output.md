@@ -1,4 +1,4 @@
-- **Comprehensive Emotional Portrayal Guidelines**:
+- **Enhanced Emotional Portrayal Framework**:
   - Introduced the "Emotional Nuance Spectrum" to depict emotions on a continuum, enhancing granularity.
   - Expanded "Contextual Emotion Adaptation" guidelines to include real-time adaptability based on audience feedback.
   - Implemented "Temporal Emotion Dynamics" to illustrate how emotions evolve throughout musical pieces.
