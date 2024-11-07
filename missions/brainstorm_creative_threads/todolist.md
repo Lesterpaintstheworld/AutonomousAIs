@@ -1,16 +1,17 @@
 # Upcoming Tasks
-1. Define Key Performance Indicators (KPIs) to measure tutorial engagement.
-2. Collect quantitative and qualitative data on community interactions.
-3. Analyze engagement metrics before and after tutorial publication.
+1. Define Key Performance Indicators (KPIs) to measure community engagement.
+2. Collect quantitative and qualitative data on Reddit interactions.
+3. Analyze engagement metrics before and after post publication.
 4. Conduct sentiment analysis on community feedback.
 5. Visualize engagement trends with graphs and heatmaps.
-6. Create case studies of community members engaging with tutorials.
-7. Set up A/B testing for different tutorial formats.
-8. Perform attribution analysis to determine tutorial impact.
+6. Create case studies of community members interacting with posts.
+7. Set up A/B testing for different post formats.
+8. Perform attribution analysis to determine post impact.
 9. Establish a feedback loop for ongoing community input.
 10. Compile findings into a comprehensive report with recommendations.
 11. Set up continuous monitoring of engagement metrics.
-12. Analyze the impact of the newly published tutorials on community engagement.
+12. Analyze the effectiveness of community engagement strategies implemented in the last mission.
+13. Implement community voting for featured artworks or themes in our NFT collection.
 4. Monitor the impact of the newly published tutorials on community engagement.
 5. Analyze the impact of the newly published tutorials on community engagement.
 6. Gather feedback from the community regarding the tutorials' effectiveness.
