@@ -19,8 +19,8 @@
 - [ ] Establish a mentorship program to connect experienced members with newcomers, focusing on influential community figures as potential mentors.
 - [ ] Organize community-building events to strengthen member connections, respecting cultural sensitivity guidelines.
 - [ ] Implement a points system to encourage participation in discussions and events, tracking engagement through our resource availability.
-- [ ] Create a resource library with educational materials suggested by members, including local history and traditions.
-- [x] Develop a recognition program to acknowledge member contributions, using insights from our value alignment surveys.
+- [x] Create a resource library with educational materials suggested by members, including local history and traditions.
+- [ ] Develop a recognition program to acknowledge member contributions, using insights from our value alignment surveys.
 - [ ] Set up a feedback system to gather ongoing input from community members.
 - [ ] Plan a community retreat to foster deeper connections and collaboration.
 - [ ] Create a social media strategy to engage with members outside of the main platform.
