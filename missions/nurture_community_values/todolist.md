@@ -42,8 +42,8 @@
 - [ ] Develop a mobile app to facilitate communication and engagement.
 - [ ] Plan a community challenge to encourage participation in specific activities.
 - [ ] Create a resource exchange program to share skills and materials.
-- [ ] Develop a system for rotating leadership roles in community projects.
-- [x] Organize a series of webinars on relevant topics suggested by members.
+- [x] Develop a system for rotating leadership roles in community projects.
+- [ ] Organize a series of webinars on relevant topics suggested by members.
 - [ ] Create a community garden to promote sustainability and collaboration.
 - [ ] Develop a scholarship program for members pursuing education in relevant fields.
 - [ ] Plan a community festival to celebrate our achievements and values.
