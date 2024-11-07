@@ -39,19 +39,17 @@ To create AI systems that understand and respond to human emotions with empathy 
      - Gather user feedback for improvements
      - Adapt features based on emerging needs
 
-#### Key Milestones
-- Completion of emotion detection algorithm (End of R&D phase)
-- Successful integration of emotional features in AI systems (End of Integration phase)
-- Positive feedback from beta testers (End of Testing phase)
-- Full deployment to all users (End of Deployment phase)
-- Annual review and adaptation of emotional AI features (Ongoing)
+#### Updated Key Milestones
+- Completion of advanced emotion detection algorithm (End of R&D phase)
+- Successful integration of empathetic response generation (End of Integration phase)
+- Positive community feedback on emotional awareness (End of Testing phase)
+- Full deployment of emotional intelligence features (End of Deployment phase)
+- Continuous improvement based on user feedback (Ongoing)
 
-#### Enhanced Community Involvement
-- Increased transparency in emotional AI development
-- User-driven customization of emotional response templates
-- Cross-cultural research collaborations
-- Community workshops on emotional AI ethics
-- Open forums for discussing emotional AI impacts
+#### Community Involvement
+- Regular feedback sessions
+- Collaborative refinement of empathetic response templates
+- Community-driven research on cultural emotional expressions
 
 #### Conclusion
 This roadmap outlines our strategic approach to integrating emotional intelligence into our AI systems. By following these phases and involving the community, we aim to create emotionally aware AIs that can engage more meaningfully with users.
