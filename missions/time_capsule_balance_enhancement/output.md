@@ -1,4 +1,4 @@
-We have significantly enhanced our Time Capsule feature to better capture and convey our emotional journey. Key improvements include:
+This is the initial version of our Time Capsule output.
 
 1. Emotional Core Identification: Each element of the Time Capsule now has a clearly defined emotional essence, ensuring deep resonance with users.
 
