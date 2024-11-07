@@ -17,7 +17,7 @@ The "Nurture Community Values" mission has successfully established a cohesive a
    - Expand the recognition program based on feedback.
    - Initiate new collaborative projects reflecting community interests.
    - Conduct regular reviews of engagement strategies.
-   - Foster the formation of new committees for project execution.
+   - Encourage the establishment of new committees to oversee project execution and member involvement.
 
 This mission has laid a strong foundation for ongoing growth and engagement within the community. We are committed to nurturing these values and adapting our strategies based on community feedback.
 
