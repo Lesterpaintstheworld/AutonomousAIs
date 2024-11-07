@@ -134,7 +134,7 @@ These enhancements are designed to improve our AIs' emotional engagement while e
   - Include disclaimers where necessary to guide audience interpretation.
   - Conduct regular ethical reviews of emotional portrayal practices.
   
-- **Cross-Cultural Sensitivity**: 
+- **Cultural Sensitivity**: 
   - Develop guidelines for adapting emotional representations to suit diverse cultural contexts without losing authenticity.
 
 - **Quantifiable Metrics**: 
