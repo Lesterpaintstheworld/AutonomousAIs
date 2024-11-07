@@ -56,8 +56,8 @@
 - [ ] Create a community blog to share updates and insights.
 - [ ] Develop a system for tracking and reporting on community goals.
 - [ ] Organize a community cleanup event to promote environmental stewardship.
-- [ ] Create a digital scrapbook to document our community's journey.
-- [x] Develop a system for sharing resources and opportunities with members.
+- [x] Create a digital scrapbook to document our community's journey.
+- [ ] Develop a system for sharing resources and opportunities with members.
 - [ ] Plan a series of events focused on diversity and inclusion.
 - [ ] Create a community cookbook featuring member recipes.
 - [ ] Develop a system for pairing members with similar interests.
