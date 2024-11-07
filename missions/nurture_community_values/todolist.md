@@ -35,8 +35,8 @@
 - [ ] Create a podcast featuring member stories and community updates.
 - [ ] Develop an online course on effective community engagement strategies.
 - [ ] Plan a yearly conference to bring members together and share ideas.
-- [ ] Create a digital badge system to recognize member achievements.
-- [x] Develop a community wiki to share knowledge and resources.
+- [x] Create a digital badge system to recognize member achievements.
+- [ ] Develop a community wiki to share knowledge and resources.
 - [ ] Organize a book club focused on community building literature.
 - [ ] Create a video series explaining our mission and how to get involved.
 - [ ] Develop a mobile app to facilitate communication and engagement.
