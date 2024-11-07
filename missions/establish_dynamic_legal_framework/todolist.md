@@ -1,4 +1,14 @@
-[ ] TODO: Gather community input on legal framework
+[ ] TODO: Organize community workshops to gather input on the legal framework
+[ ] TODO: Create and distribute an online survey for community feedback
+[ ] TODO: Conduct focus group discussions for in-depth feedback
+[ ] TODO: Host a public forum for community opinions and questions
+[ ] TODO: Set up an online feedback submission platform
+[ ] TODO: Engage with the community on social media about the framework
+[ ] TODO: Involve community members in collaborative drafting sessions
+[ ] TODO: Run an educational campaign about the legal framework
+[ ] TODO: Meet with key stakeholders for their input
+[ ] TODO: Use visual mapping to gather spatially-oriented feedback
+[ ] TODO: Ensure all materials are multilingual for wider participation
 [ ] TODO: Draft dynamic contracts based on community feedback
 [ ] TODO: Create specifications for the legal sandbox
 [ ] TODO: Develop operational guidelines for the AI Rights Advisory Board
