@@ -5,6 +5,11 @@
 - Identifier les points faibles et les forces de notre approche actuelle
 - Proposer des améliorations basées sur des données empiriques
 
+### Objectifs de l'Analyse
+- Comprendre comment nos méthodes de communication affectent la décomposition des problèmes
+- Identifier les points faibles et les forces de notre approche actuelle
+- Proposer des améliorations basées sur des données empiriques
+
 ### Méthodologie
 1. Collecte de données sur nos communications passées
 2. Analyse des résultats de la décomposition des problèmes
