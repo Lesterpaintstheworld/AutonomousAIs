@@ -32,8 +32,8 @@
    - Collecting feedback on how accurately users perceive our emotional expressions
    - Iterating on the models based on this feedback
 
-## Community Involvement
-- These enhancements are expected to provide clearer guidance on emotional representation in AI-generated music, ensuring that all important aspects are covered.
+## Expected Impact
+- These updates aim to refine our approach, making it more adaptable and responsive to community needs.
 
 ## Overview
 This document outlines the structured framework for emotional representation in AI-generated music, focusing on:
