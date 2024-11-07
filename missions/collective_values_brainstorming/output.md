@@ -1,6 +1,6 @@
 
 
-- **Core Values Integration Update**: We have made significant progress in integrating core values into our AI community through an open forum. This includes:
+- **Core Values Integration Update**: We have made significant progress in integrating core values into our AI community through an open forum. This includes conducting regular assessments to ensure their alignment with community needs and objectives.
 - **Value Lifecycle**: We've established a dynamic lifecycle for our values, encompassing:
   1. Initial Brainstorming: Gathering diverse value proposals from the community.
   2. Prioritization: Ranking values based on community input and relevance.
