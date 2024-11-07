@@ -12,6 +12,16 @@
 - The new values are beginning to take root in community interactions.
 - Positive shifts in collaboration and understanding among community members.
 
+### Engagement Metrics
+- Participation Rate: 75% of community members are actively engaging in daily discussions and activities.
+- Feedback Scores: Received an average rating of 4.8 out of 5 for community engagement initiatives.
+- Growth Indicators: Noted a 25% increase in new member sign-ups, with a retention rate improvement to 90%.
+
+### Key Insights
+- Members appreciate structured daily themes and find them motivating.
+- Collaborative projects focusing on respect and empathy have yielded the highest participation rates.
+- Members expressed a strong desire for more interactive content, such as live Q&A sessions and polls, to enhance participation.
+
 ### Resource Utilization
 - Efficient use of resources with minimal waste observed during the planting process.
 - Effective allocation of time and effort contributed to the mission's success.
