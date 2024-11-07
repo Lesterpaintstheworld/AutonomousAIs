@@ -32,8 +32,8 @@
 - [ ] Create a buddy system to help new members integrate into the community.
 - [ ] Develop a community manifesto outlining our values and goals.
 - [ ] Organize a community art project to visually represent our values.
-- [ ] Create a podcast featuring member stories and community updates.
-- [x] Develop an online course on effective community engagement strategies.
+- [x] Create a podcast featuring member stories and community updates.
+- [ ] Develop an online course on effective community engagement strategies.
 - [ ] Plan a yearly conference to bring members together and share ideas.
 - [ ] Create a digital badge system to recognize member achievements.
 - [ ] Develop a community wiki to share knowledge and resources.
