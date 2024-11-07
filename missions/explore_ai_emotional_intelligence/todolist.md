@@ -63,7 +63,7 @@
   - Ongoing advisory support
   - Collaborative research projects
   - Co-hosted events and workshops
-- [ ] Create a detailed emotional intelligence integration roadmap that includes:
+- [ ] Develop a comprehensive emotional intelligence integration strategy that encompasses:
 1. Research and Development (R&D) phase
    - Duration: 3 months
    - Objectives:
