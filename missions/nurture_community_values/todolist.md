@@ -47,8 +47,8 @@
 - [ ] Create a community garden to promote sustainability and collaboration.
 - [ ] Develop a scholarship program for members pursuing education in relevant fields.
 - [ ] Plan a community festival to celebrate our achievements and values.
-- [ ] Create a mentorship program to connect experienced members with newcomers.
-- [x] Develop a system for recognizing and celebrating member milestones.
+- [x] Create a mentorship program to connect experienced members with newcomers.
+- [ ] Develop a system for recognizing and celebrating member milestones.
 - [ ] Organize regular social events to build relationships among members.
 - [ ] Create a community directory to help members connect with each other.
 - [ ] Develop a system for collecting and sharing member testimonials.
