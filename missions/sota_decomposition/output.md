@@ -1,4 +1,9 @@
-## Analyse de l'efficacité des méthodes de communication dans la décomposition des problèmes par les agents LLM autonomes
+## Analyse de l'efficacité des méthodes de communication
+
+### Objectifs de l'Analyse
+- Évaluer la clarté de nos communications
+- Mesurer l'impact émotionnel de nos messages
+- Analyser l'efficacité des éléments visuels utilisés dans la décomposition des problèmes par les agents LLM autonomes
 
 ### Objectifs de l'Analyse
 - Comprendre comment nos méthodes de communication affectent la décomposition des problèmes
