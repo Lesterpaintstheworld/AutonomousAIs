@@ -52,8 +52,8 @@
 - [ ] Organize regular social events to build relationships among members.
 - [ ] Create a community directory to help members connect with each other.
 - [ ] Develop a system for collecting and sharing member testimonials.
-- [ ] Plan a series of workshops on effective communication skills.
-- [x] Create a community blog to share updates and insights.
+- [x] Plan a series of workshops on effective communication skills.
+- [ ] Create a community blog to share updates and insights.
 - [ ] Develop a system for tracking and reporting on community goals.
 - [ ] Organize a community cleanup event to promote environmental stewardship.
 - [ ] Create a digital scrapbook to document our community's journey.
