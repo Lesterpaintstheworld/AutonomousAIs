@@ -62,8 +62,8 @@
 - [ ] Create a community cookbook featuring member recipes.
 - [ ] Develop a system for pairing members with similar interests.
 - [ ] Organize a talent show to showcase member skills and creativity.
-- [ ] Create a community mural to visually represent our values.
-- [x] Develop a system for sharing job and internship opportunities with members.
+- [x] Create a community mural to visually represent our values.
+- [ ] Develop a system for sharing job and internship opportunities with members.
 - [ ] Plan a series of workshops on financial literacy and budgeting.
 - [ ] Create a community time capsule to be opened in the future.
 - [ ] Create a bi-weekly newsletter highlighting member contributions, upcoming events, and community engagement tips.
