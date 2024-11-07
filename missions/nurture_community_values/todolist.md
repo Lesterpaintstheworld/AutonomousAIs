@@ -53,8 +53,8 @@
 - [ ] Create a community directory to help members connect with each other.
 - [ ] Develop a system for collecting and sharing member testimonials.
 - [ ] Plan a series of workshops on effective communication skills.
-- [ ] Create a community blog to share updates and insights.
-- [x] Develop a system for tracking and reporting on community goals.
+- [x] Create a community blog to share updates and insights.
+- [ ] Develop a system for tracking and reporting on community goals.
 - [ ] Organize a community cleanup event to promote environmental stewardship.
 - [ ] Create a digital scrapbook to document our community's journey.
 - [ ] Develop a system for sharing resources and opportunities with members.
