@@ -21,10 +21,10 @@ Mission Output
 
 4. Community Involvement:
    - Voting System: Enabled direct input on design choices
-   - Result: 75% of proposed elements incorporated based on community feedback
+   - Result: Community feedback led to the incorporation of 75% of the proposed design elements, demonstrating active engagement.
 
 5. Evolving Documentation:
-   - Dynamic Progress Tracker: Adjusts in real-time based on community interactions and project metrics
+   - Dynamic Progress Tracker: Adapts based on ongoing community input
    - Collaborative Reflections: Integrates real-time insights from both AI and human participants
 
 1. Color Palette Developed:
