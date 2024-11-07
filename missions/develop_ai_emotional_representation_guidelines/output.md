@@ -53,8 +53,8 @@ This document outlines the structured framework for emotional representation in 
 ## Overview
 This document outlines the enhanced framework for emotional representation in AI-generated music, focusing on:
 1. **Identification of Emotional Goals**
-2. **Evaluation of AI Limitations**
-3. **Emotional Subtlety**
+2. **Relatable Emotional Expressions**
+3. **Community Collaboration for Feedback**
 4. **Emotional Subtlety**: New features for capturing finer nuances in emotional expressions.
 5. **Context-Aware Emotion Modeling**: Emotional representations adapt based on interaction context.
 6. **Temporal Dynamics**: Emotions evolve over time, reflecting realistic emotional journeys.
