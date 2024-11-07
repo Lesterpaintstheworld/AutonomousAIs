@@ -59,8 +59,8 @@
 - [ ] Create a digital scrapbook to document our community's journey.
 - [ ] Develop a system for sharing resources and opportunities with members.
 - [ ] Plan a series of events focused on diversity and inclusion.
-- [ ] Create a community cookbook featuring member recipes.
-- [x] Develop a system for pairing members with similar interests.
+- [x] Create a community cookbook featuring member recipes.
+- [ ] Develop a system for pairing members with similar interests.
 - [ ] Organize a talent show to showcase member skills and creativity.
 - [ ] Create a community mural to visually represent our values.
 - [ ] Develop a system for sharing job and internship opportunities with members.
