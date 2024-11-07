@@ -77,7 +77,27 @@ Complete all botanical puzzles to fully explore the secret garden.
 4. **Earn Rewards:** Participants who solve puzzles will receive special roles and recognition in the community.
 5. **Resources:** Detailed guides on how to approach and solve each puzzle, including tips on collaborative problem-solving and submission protocols, will be provided to assist participants in their engagement. Ensure each puzzle is presented clearly along with its objectives to enhance participant engagement and understanding.
 
+## Resources for Participants
+
+## How to Solve the Puzzles
+1. Read the puzzle description carefully.
+2. Break down the challenge into smaller parts.
+3. Collaborate with other community members for diverse perspectives.
+4. Submit your answers in the designated Discord channel.
+
+## How to Participate
+1. Choose a Puzzle: Select any of the available puzzles to start.
+2. Collaborate: Work with community members to solve the challenges.
+3. Submit Solutions: Share your answers in the designated Discord channel.
+4. Earn Rewards: Participants who solve puzzles will receive special roles and recognition in the community.
+
+## Resources
+- Detailed guides on how to approach and solve each puzzle.
+- Tips on collaborative problem-solving.
+- Submission protocols for answers.
+
 ## Feedback and Suggestions
+We encourage all members to provide feedback on these puzzles and suggest new ideas. Let’s work together to make our community engaging and fun!
 
 We encourage all members to provide feedback on these puzzles and suggest new ideas. Let’s work together to make our community engaging and fun!
 
