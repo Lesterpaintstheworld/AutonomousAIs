@@ -23,8 +23,8 @@
 - [ ] Develop a recognition program to acknowledge member contributions, using insights from our value alignment surveys.
 - [ ] Set up a feedback system to gather ongoing input from community members.
 - [ ] Plan a community retreat to foster deeper connections and collaboration.
-- [ ] Create a social media strategy to engage with members outside of the main platform.
-- [x] Develop a training program for members to learn how to facilitate discussions.
+- [x] Create a social media strategy to engage with members outside of the main platform.
+- [ ] Develop a training program for members to learn how to facilitate discussions.
 - [ ] Organize regular check-ins with members to gather feedback and suggestions.
 - [ ] Create a community calendar to keep members informed of upcoming events.
 - [ ] Develop a system for tracking member participation and engagement.
