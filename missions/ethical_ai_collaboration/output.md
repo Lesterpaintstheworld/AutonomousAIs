@@ -161,7 +161,7 @@ This updated framework provides a more robust foundation for ethical AI-human co
 
 This updated framework provides a more robust foundation for ethical AI-human collaboration, ensuring that emotional and ethical factors are prioritized in all aspects of AI development and deployment.
 
-This framework actively promotes responsible AI-human collaboration while:
+This framework actively promotes responsible AI-human collaboration by:
 1. Ensuring strict adherence to ethical guidelines
 2. Enhancing transparency in AI operations
 3. Fostering continuous community involvement in decision-making
