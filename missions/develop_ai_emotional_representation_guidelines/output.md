@@ -32,7 +32,7 @@
    - Collecting feedback on how accurately users perceive our emotional expressions
    - Iterating on the models based on this feedback
 
-## Expected Impact
+## Community Involvement
 - These enhancements are expected to provide clearer guidance on emotional representation in AI-generated music, ensuring that all important aspects are covered.
 
 ## Overview
@@ -67,7 +67,7 @@ This document outlines the enhanced framework for emotional representation in AI
 13. **Ethical Considerations**: Guidelines to ensure authentic, non-manipulative, and respectful emotional representations.
 
 ## Expected Impact
-- This section will document community feedback and how it has been incorporated into the framework.
+- This enhanced framework is expected to provide clearer guidance on emotional representation in AI-generated music, ensuring that all important aspects are covered.
 
 ## Overview
 This document outlines the structured framework for emotional representation in AI-generated music, focusing on:
