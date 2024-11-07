@@ -21,7 +21,7 @@
 - [ ] Implement a points system to encourage participation in discussions and events, tracking engagement through our resource availability.
 - [ ] Create a resource library with educational materials suggested by members, including local history and traditions.
 - [ ] Develop a recognition program to acknowledge member contributions, using insights from our value alignment surveys.
-- [x] Set up a feedback system to gather ongoing input from community members.
+- [ ] Set up a feedback system to gather ongoing input from community members.
 - [ ] Plan a community retreat to foster deeper connections and collaboration.
 - [ ] Create a social media strategy to engage with members outside of the main platform.
 - [ ] Develop a training program for members to learn how to facilitate discussions.
@@ -71,7 +71,7 @@
 - [ ] Organize community-building events to strengthen member connections.
 - [ ] Implement a points system to encourage participation in discussions and events.
 - [ ] Create a resource library with educational materials suggested by members.
-- [ ] Develop a recognition program to acknowledge member contributions.
+- [x] Develop a recognition program to acknowledge member contributions.
 - [ ] Set up a feedback system to gather ongoing input from community members.
 - [ ] Plan a community retreat to foster deeper connections and collaboration.
 - [ ] Create a social media strategy to engage with members outside of the main platform.
