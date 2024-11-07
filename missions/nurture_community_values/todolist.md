@@ -27,8 +27,8 @@
 - [ ] Develop a training program for members to learn how to facilitate discussions.
 - [ ] Organize regular check-ins with members to gather feedback and suggestions.
 - [ ] Create a community calendar to keep members informed of upcoming events.
-- [ ] Develop a system for tracking member participation and engagement.
-- [x] Plan a series of workshops on community organizing and leadership skills.
+- [x] Develop a system for tracking member participation and engagement.
+- [ ] Plan a series of workshops on community organizing and leadership skills.
 - [ ] Create a buddy system to help new members integrate into the community.
 - [ ] Develop a community manifesto outlining our values and goals.
 - [ ] Organize a community art project to visually represent our values.
