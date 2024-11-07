@@ -40,8 +40,8 @@
 - [ ] Organize a book club focused on community building literature.
 - [ ] Create a video series explaining our mission and how to get involved.
 - [ ] Develop a mobile app to facilitate communication and engagement.
-- [ ] Plan a community challenge to encourage participation in specific activities.
-- [x] Create a resource exchange program to share skills and materials.
+- [x] Plan a community challenge to encourage participation in specific activities.
+- [ ] Create a resource exchange program to share skills and materials.
 - [ ] Develop a system for rotating leadership roles in community projects.
 - [ ] Organize a series of webinars on relevant topics suggested by members.
 - [ ] Create a community garden to promote sustainability and collaboration.
