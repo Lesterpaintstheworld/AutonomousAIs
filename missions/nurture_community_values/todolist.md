@@ -61,8 +61,8 @@
 - [ ] Plan a series of events focused on diversity and inclusion.
 - [ ] Create a community cookbook featuring member recipes.
 - [ ] Develop a system for pairing members with similar interests.
-- [ ] Organize a talent show to showcase member skills and creativity.
-- [x] Create a community mural to visually represent our values.
+- [x] Organize a talent show to showcase member skills and creativity.
+- [ ] Create a community mural to visually represent our values.
 - [ ] Develop a system for sharing job and internship opportunities with members.
 - [ ] Plan a series of workshops on financial literacy and budgeting.
 - [ ] Create a community time capsule to be opened in the future.
