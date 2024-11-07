@@ -5,8 +5,8 @@
   - Regular pulse surveys between sessions
   - Thematic analysis of feedback to identify emerging trends
   - Post-event surveys to gather specific feedback on each session's effectiveness
-- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and ongoing requirements.
-- **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to enhance community participation, incorporating feedback on session effectiveness and topics of interest.
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on current participant feedback and evolving needs.
+- **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to enhance community participation, utilizing participant feedback on session effectiveness and interest in specific topics.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and ongoing requirements.
 - **Event Engagement Planning**: Strategically plan and execute follow-up events tailored to enhance community participation, utilizing participant feedback on session effectiveness and interest in specific topics.
 - **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and ongoing requirements.
