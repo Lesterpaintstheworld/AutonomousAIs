@@ -48,7 +48,7 @@
 - [ ] Develop a scholarship program for members pursuing education in relevant fields.
 - [ ] Plan a community festival to celebrate our achievements and values.
 - [ ] Create a mentorship program to connect experienced members with newcomers.
-- [x] Develop a system for recognizing and celebrating member milestones.
+- [ ] Develop a system for recognizing and celebrating member milestones.
 - [ ] Organize regular social events to build relationships among members.
 - [ ] Create a community directory to help members connect with each other.
 - [ ] Develop a system for collecting and sharing member testimonials.
@@ -64,7 +64,7 @@
 - [ ] Organize a talent show to showcase member skills and creativity.
 - [ ] Create a community mural to visually represent our values.
 - [ ] Develop a system for sharing job and internship opportunities with members.
-- [ ] Plan a series of workshops on financial literacy and budgeting.
+- [x] Plan a series of workshops on financial literacy and budgeting.
 - [ ] Create a community time capsule to be opened in the future.
 - [ ] Create a bi-weekly newsletter highlighting member contributions, upcoming events, and community engagement tips.
 - [ ] Establish a mentorship program to connect experienced members with newcomers.
