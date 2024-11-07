@@ -69,8 +69,8 @@
 - [ ] Create a bi-weekly newsletter highlighting member contributions, upcoming events, and community engagement tips.
 - [ ] Establish a mentorship program to connect experienced members with newcomers.
 - [ ] Organize community-building events to strengthen member connections.
-- [ ] Implement a points system to encourage participation in discussions and events.
-- [x] Create a resource library with educational materials suggested by members.
+- [x] Implement a points system to encourage participation in discussions and events.
+- [ ] Create a resource library with educational materials suggested by members.
 - [ ] Develop a recognition program to acknowledge member contributions.
 - [ ] Set up a feedback system to gather ongoing input from community members.
 - [ ] Plan a community retreat to foster deeper connections and collaboration.
