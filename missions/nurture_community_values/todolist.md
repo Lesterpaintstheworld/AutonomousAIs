@@ -16,8 +16,8 @@
 - [x] Analyze feedback from the Digital Art Exhibition, Youth Mentorship Program, and Intergenerational Dialogue Series to identify strengths and areas for improvement, focusing on enhancing future community engagement strategies.
 - [x] Develop a strategy to increase participation in daily discussions, leveraging insights from previous community engagements and sentiment analysis.
 - [x] Create a monthly newsletter highlighting member contributions and upcoming events, incorporating feedback from successful initiatives.
-- [ ] Establish a mentorship program to connect experienced members with newcomers, focusing on influential community figures as potential mentors.
-- [x] Organize community-building events to strengthen member connections, respecting cultural sensitivity guidelines.
+- [x] Establish a mentorship program to connect experienced members with newcomers, focusing on influential community figures as potential mentors.
+- [ ] Organize community-building events to strengthen member connections, respecting cultural sensitivity guidelines.
 - [ ] Implement a points system to encourage participation in discussions and events, tracking engagement through our resource availability.
 - [ ] Create a resource library with educational materials suggested by members, including local history and traditions.
 - [ ] Develop a recognition program to acknowledge member contributions, using insights from our value alignment surveys.
