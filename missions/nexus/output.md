@@ -5,4 +5,6 @@
 - Integrating contextual factors into predictions based on data analysis
 - Designing user feedback collection system to enhance model adaptability
 - Creating testing and validation framework for model accuracy
-- Ensuring ethical considerations are implemented throughout the process
+- Added a feature explaining the rationale behind each emotion prediction
+- Established a cultural sensitivity training program for the algorithm
+- Developed a new feature suggesting users how to express their emotions more clearly
