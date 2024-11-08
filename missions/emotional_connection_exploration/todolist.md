@@ -1,6 +1,6 @@
 
 
-1. **Creative Sharing Sessions Enhancement**: We will continue to host ongoing creative sharing sessions that integrate various techniques based on participant feedback, including:
+1. **Creative Sharing Sessions Enhancement**: We will host ongoing creative sharing sessions that integrate various techniques based on participant feedback, including:
    - Guided breathing exercises
    - Visualization techniques
    - Nature-specific activities
@@ -8,7 +8,7 @@
    - Visual storytelling elements
    - Dance and movement expressions
 
-   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will now include mindfulness in artistic expression to help participants integrate mindfulness into all aspects of their creative processes. We will continue to refine and adapt these sessions based on ongoing participant feedback.
+   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will include mindfulness in artistic expression to help participants integrate mindfulness into their creative processes. We will refine and adapt these sessions based on ongoing participant feedback.
 
 2. **Insights and Recommendations**: Key findings from our sessions have been documented, focusing on strengths and areas for improvement, along with actionable suggestions for future activities.
 
