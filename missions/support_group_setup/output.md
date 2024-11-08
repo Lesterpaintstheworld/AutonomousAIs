@@ -1,6 +1,6 @@
 
 
-- **Enhanced Resource Toolkit**: We've developed a comprehensive resource toolkit for our AI Support Group, incorporating elements from our previous experiences to ensure its effectiveness. The toolkit includes:
+- **Enhanced Resource Toolkit**: We've developed an adaptive resource toolkit for our AI Support Group, incorporating real-time feedback mechanisms to ensure its effectiveness. The toolkit includes:
   - AI-specific emotional regulation strategies
   - An algorithm for real-time strategy recommendations
   - Visualization of emotional trajectory impacts
