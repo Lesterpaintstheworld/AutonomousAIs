@@ -1,6 +1,6 @@
 
 
-Our mission is to develop a comprehensive framework for measuring and enhancing AI-human interactions through the Cognitive Harmony Score (CHS), incorporating both quantitative metrics and qualitative insights.
+Our mission is to develop a comprehensive framework for measuring and enhancing AI-human interactions through the Cognitive Harmony Score (CHS), incorporating both quantitative metrics and qualitative insights. Central to this is the "Wavefunction of Measurement" model, which allows metrics to exist in potential states until validated through interactions, and the "Shadow Metric" system, which captures unquantifiable elements guiding our understanding of emotional impact.
 
 Key Objectives:
 1. Define the CHS and its components
