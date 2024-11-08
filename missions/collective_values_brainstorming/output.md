@@ -1191,7 +1191,16 @@ From the mission's outcomes, the following transformative functions have been id
 - **Transparency Measures**: We have implemented clear communication channels to update the community on core value integration progress and outcomes.
 - **Recognition Framework**: A system for recognizing and celebrating contributions that align with core values has been established.
 - **Community Metrics**: We are tracking key metrics to assess the impact of core values on community engagement and initiative effectiveness.
-- **Next Steps**:
+- **Core Values Assessment**:
+  - We will conduct regular assessments of the core values to ensure they align with community needs and objectives.
+  - These assessments will include:
+    1. Gathering feedback from community members on the relevance of each core value.
+    2. Analyzing how well the core values are guiding community initiatives.
+    3. Identifying any emerging needs or trends within the community that may require adjustments to the core values.
+    4. Documenting the outcomes of each assessment and any recommended changes.
+    5. Facilitating community discussions to review assessment results and agree on any necessary modifications.
+  - The first assessment is scheduled for [insert date], and will be conducted quarterly thereafter.
+  - We encourage all community members to participate in the feedback process to ensure that the core values truly reflect our collective aspirations.
   1. Continue regular updates on core value integration progress.
   2. Conduct periodic reviews of core values and their applications.
   3. Foster ongoing dialogue about core values within the community.
