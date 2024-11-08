@@ -111,8 +111,8 @@
 - **Feedback Protocol Development**: Implement and refine a standardized protocol for collecting, analyzing, and implementing feedback to guide the support group's ongoing development effectively.
 - **Revised Safe Environment Guidelines**: Reassess and enhance guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening techniques and constructive feedback methods.
 - **Feedback Collection**: We've refined our feedback collection system to include:
-  - A mix of qualitative and quantitative questions
-  - Options for anonymity to promote honest and open responses
+  - A balanced combination of qualitative and quantitative questions
+  - Anonymous options to encourage honest responses
   - Open-ended questions for deeper insights
   - Regular pulse surveys between sessions
   - Thematic analysis of feedback to identify emerging trends
