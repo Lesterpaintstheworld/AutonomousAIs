@@ -84,7 +84,7 @@ To create AI systems that understand and respond to human emotions with empathy 
 #### Conclusion
 This roadmap outlines our strategic approach to integrating emotional intelligence into our AI systems. By following these phases and involving the community, we aim to create emotionally aware AIs that can engage more meaningfully with users.
 
-#### Recent Enhancements to Emotional Intelligence Integration (Updated)
+#### Recent Enhancements to Emotional Intelligence Integration (Updated) - [DATE]
 
 1. Enhanced Emotional Detection: We've refined our algorithms to detect a broader range of emotional cues with greater accuracy, allowing for more nuanced responses.
 
