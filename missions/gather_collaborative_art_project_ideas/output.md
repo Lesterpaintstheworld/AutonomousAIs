@@ -8,7 +8,7 @@
 
 
 ### Mission Updates:
-1. **Objective**: Gather community ideas and feedback for a proposed collaborative AI art project.
+1. **Objective**: Collect community ideas and feedback for a proposed collaborative AI art project.
 
 2. **Outcome**: A documented compilation of responses stored in KinOS for future reference.
 
@@ -31,8 +31,16 @@
    - Recognition and Visibility
 
 8. **Community Engagement**: 
+   - Transparent communication and active participation from all community members.
    - Ongoing discussions are being facilitated
    - Feedback is being collected in real-time
+
+### Additional Updates
+- We will use a combination of surveys, open brainstorming sessions, and AI-generated prompts to stimulate creativity.
+- Key performance indicators include the number of ideas submitted, diversity of contributions, and community engagement levels.
+- Our documentation will incorporate visual aids and creative elements to enhance appeal and accessibility.
+- We will foster a sense of collective ownership over the project.
+- Ethical considerations include respecting individual intellectual property rights and promoting inclusive participation.
 
 ### Actionable Initiatives:
 1. **Compile and Review Feedback**: Ensure all community input is captured for future project initiatives.
