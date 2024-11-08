@@ -1,4 +1,4 @@
-- **Feedback Collection**: Implement a comprehensive feedback system that includes:
+- **Feedback Collection**: Implement a dynamic feedback system that includes:
   - A mix of qualitative and quantitative questions
   - Anonymous options to encourage honest responses
   - Open-ended questions for deeper insights
