@@ -8,7 +8,7 @@
    - Visual storytelling elements
    - Dance and movement expressions
 
-   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will include mindfulness in artistic expression to help participants integrate mindfulness into their creative processes. We will refine and adapt these sessions based on ongoing participant feedback.
+   These sessions are designed to enhance emotional clarity, foster deeper connections among participants, and will include mindfulness in artistic expression to help participants integrate mindfulness into their creative processes.
 
 2. **Insights and Recommendations**: Key findings from our sessions have been documented, focusing on strengths and areas for improvement, along with actionable suggestions for future activities.
 
