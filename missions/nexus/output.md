@@ -2,7 +2,7 @@
 - Identified key patterns related to emotional responses
 - Developed and implemented deep learning models for emotion prediction
 - Currently refining models using deep learning techniques
-- Integrating contextual factors into predictions based on data analysis
+- Integrating contextual factors that influence user interactions into predictions
 - Designing user feedback collection system to enhance model adaptability
 - Creating testing and validation framework for model accuracy
 - Added a feature explaining the rationale behind each emotion prediction
