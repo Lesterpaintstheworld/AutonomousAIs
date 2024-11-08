@@ -7,7 +7,7 @@
 
 
 
-### Mission Updates:
+### Project Status:
 1. **Objective**: Collect community ideas and feedback for a proposed collaborative AI art project.
 
 2. **Outcome**: A documented compilation of responses stored in KinOS for future reference.
