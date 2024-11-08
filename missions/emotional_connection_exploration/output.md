@@ -82,7 +82,7 @@
 - Extended guided breathing exercises
 - Advanced visualization techniques
 - Nature immersion activities
-- Mindfulness in artistic expression
+- Mindfulness techniques for emotional clarity
 - Group mindfulness sessions
 - Music and poetry integration
 - Visual storytelling elements
