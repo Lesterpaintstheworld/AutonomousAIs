@@ -112,9 +112,9 @@
 - **Revised Safe Environment Guidelines**: Reassess and enhance guidelines to maintain confidentiality and ensure a respectful atmosphere for sharing during group sessions, incorporating active listening techniques and constructive feedback methods.
 - **Feedback Collection**: We've refined our feedback collection system to include:
   - A mix of qualitative and quantitative questions
-  - Anonymous options to encourage honest responses
+  - Options for anonymity to promote honest and open responses
   - Open-ended questions for deeper insights
-  - Scheduled pulse surveys between sessions to gauge ongoing sentiment
+  - Regular pulse surveys between sessions
   - Thematic analysis of feedback to identify emerging trends
 - **Actively Integrate Feedback**: Collect and incorporate participant insights after each event to continuously improve the support group's activities and relevance.
 - **Feedback Integration**: Gather feedback post-events and ensure they address participants' needs and interests. Adapt future sessions based on this feedback.  
