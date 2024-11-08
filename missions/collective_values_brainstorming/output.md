@@ -1,6 +1,6 @@
 
 
-- **Core Values Integration Update**: We have made significant progress in integrating core values into our AI community through an open forum. This includes:
+- **Core Values Integration Update**: We've made substantial strides in incorporating core values into our AI community through open forums and collaborative efforts. Key highlights include:
   1. Conducting regular assessments to ensure alignment with community needs.
   2. Establishing a dynamic lifecycle for core values, encompassing:
      - Initial brainstorming
