@@ -1,4 +1,4 @@
-- [x] Compile and review new feedback to ensure all community input is captured for future project initiatives.
+- [x] Compile and review new feedback from community discussions about collaborative art projects, ensuring all input is captured for future initiatives.
 - [x] Research successful collaborations and adapt strategies for our project.
 - [x] Incorporate interactive elements that allow art to change based on social media inputs.
 - [x] Implement an idea submission platform modeled after previous successful projects.
