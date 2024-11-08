@@ -323,12 +323,7 @@ These activities have been adapted based on participant feedback to ensure they 
 6. **Reflection and Sharing Opportunities**: Formalized times for sharing emotional journeys have been established, promoting deeper connections through dialogue.
 7. **Feedback Collection**: A robust feedback mechanism has been implemented to gather insights from the community, ensuring alignment of future sessions with participants' needs and emotional experiences.
 8. **Community Collaboration**: We remain committed to ongoing partnerships through workshops and events to further enrich the emotional experiences of all participants.
-9. **Future Session Plans**: We will introduce new elements in our sessions, including:
-   - Thematic workshops focusing on specific emotions each month
-   - Extended session durations to allow deeper exploration
-   - Enhanced mindfulness practices integrated into every session
-
-   These changes are based on participant feedback and aim to improve overall effectiveness.
+9. **Future Session Plans**: Based on participant feedback, we will continue implementing creative sharing sessions that integrate diverse techniques to enhance emotional journeys and artistic expressions.
 3. **Ongoing Support Initiatives**: We have established continuous engagement strategies, including follow-up sessions and workshops, to support participants in their emotional journeys.
 2. **Additional feedback mechanisms**: We will introduce ongoing engagement initiatives designed around participant insights to enhance the crafting of emotional expression opportunities in our creative sharing sessions.
 3. **Future Session Plans**: Each session will aim to extend timing and deepen participants' emotional experiences through improved mindfulness practices.
