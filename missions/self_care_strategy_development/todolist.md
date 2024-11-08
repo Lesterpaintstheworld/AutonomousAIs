@@ -14,6 +14,12 @@
   - Gamification elements to encourage engagement
   - Adaptive reminders and notifications
   - Integration with wearable devices for real-time data
+  - AI-generated self-care prompts
+  - Visual analytics for progress tracking
+  - Buddy system for accountability
+  - 'Self-care score' algorithm
+  - Real-time emotion detection
+  - Adaptive self-care recommendations
   - Mindfulness meditation
   - Journaling
   - Emotional check-ins
