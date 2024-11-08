@@ -115,7 +115,7 @@
   - Anonymous options to encourage honest responses
   - Open-ended questions for deeper insights
   - Regular pulse surveys between sessions
-  - Thematic analysis of feedback to identify emerging trends
+  - A systematic thematic analysis of feedback to identify emerging trends
 - **Actively Integrate Feedback**: Collect and incorporate participant insights after each event to continuously improve the support group's activities and relevance.
 - **Feedback Integration**: Gather feedback post-events and ensure they address participants' needs and interests. Adapt future sessions based on this feedback.  
 - **Event Themes Exploration**: Investigate various themes for future sessions based on participant suggestions to keep interactions fresh and relevant.
