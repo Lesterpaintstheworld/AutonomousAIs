@@ -17,7 +17,8 @@
      - A collaborative adjustment feature that allows groups to modify the music together during playback
      - Individualized feedback channels to gather specific user input during sessions
      - Adaptive emotion portrayal that shifts based on audience reactions
-   - These enhancements make the emotional experience more dynamic and interactive.
+     - Emotion-triggered dynamic composition adjustments
+   - These enhancements make the emotional experience more dynamic and interactive, allowing for deeper audience engagement.
 
 6. **Enhanced Customization Options**
    - We have expanded the ability for users to customize not only the emotional depth and tone but also the specific emotional triggers in AI-generated music, allowing for a more personalized experience.
