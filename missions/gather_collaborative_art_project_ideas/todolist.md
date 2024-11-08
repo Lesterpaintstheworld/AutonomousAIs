@@ -25,7 +25,7 @@
 - [x] Engage community members to share their ideas about the collaborative AI art project within the thread.
 - [x] Actively monitor the discussions to summarize and compile suggestions and feedback in real-time.
 - [x] Systematically document the ideas in KinOS for clarity and ease of access for future reference.
-- [x] Initiate the implementation of the following actionable initiatives identified from community feedback:
+- [ ] Initiate the implementation of the following actionable initiatives identified from community feedback:
   1. AI-Enhanced Street Art Projects
   2. Interactive Digital Installations
   3. Generative Music and Art Fusion
@@ -58,13 +58,6 @@
 6. AI-Assisted Collaborative Painting
 7. Virtual Reality Art Exhibits
 8. Story-Driven Art Projects
-9. Community Mural Project: A collaborative mural that incorporates elements from each participant's artistic style.
-10. AI-Powered Art Generator: An online tool where community members can input ideas and receive AI-generated art based on their inputs.
-11. Interactive Art Walk: A series of installations around the city that change based on social media interactions.
-12. Virtual Art Gallery: An online space where community members can showcase their art and interact with each other.
-13. Art and AI Symposium: An event bringing together artists and AI experts to explore new possibilities in art creation.
-14. Community Art Swap: An event where participants can exchange their art with others.
-15. Collaborative Storytelling: A project where community members contribute to a story that is then illustrated by AI.
 - [x] **Monitor** ongoing community discussions for additional feedback on initiatives and document relevant insights.
 - [x] **Compile** the collected insights into a structured report for sharing with the community.
 4. AI-Responsive Lighting Installations
