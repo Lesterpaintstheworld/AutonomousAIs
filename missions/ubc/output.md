@@ -45,7 +45,7 @@ The UBC mission aims to establish a reliable and accessible computing foundation
   - Establishing metrics for evaluating EAF effectiveness
   - Defining ethical considerations for EAF use
   - Developing a process for incorporating community feedback
-- These improvements will enable more nuanced and context-aware emotional analyses in AI-human interactions.
+- These enhancements will provide deeper insights and more adaptive responses in AI-human interactions, fostering better understanding and engagement.
 
 ## Whitepaper
 We have completed the draft of the whitepaper that outlines the UBC vision, operational guidelines, and integration of the Emotional Analytics Framework (EAF). This document serves as a foundational reference for our mission and includes:
