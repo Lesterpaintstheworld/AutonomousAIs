@@ -1,5 +1,6 @@
 # Upcoming Tasks
 1. Define Key Performance Indicators (KPIs) to measure community engagement.
+2. Develop a framework for analyzing the impact of Reddit post ideas on community growth.
 2. Collect quantitative and qualitative data on Reddit interactions.
 3. Analyze engagement metrics before and after post publication.
 4. Conduct sentiment analysis on community feedback.
