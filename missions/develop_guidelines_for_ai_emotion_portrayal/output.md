@@ -4,13 +4,12 @@
      - Cultural sensitivity in emotional representation
    - Adapt guidelines based on evolving understandings of AI, emotional expression, and community needs.
 
-6. **Advanced Customization Options**
-   - Users can now customize:
-     - The intensity and duration of emotional expressions
-     - Specific cultural references in emotional portrayals
-     - The level of abstraction in emotional representations
-     - Emotional transitions between different parts of the music
-   - These options provide a deeper level of personalization.
+6. **Enhanced Customization Options**
+   - We have expanded the ability for users to customize not only the emotional depth and tone but also:
+     - Specific emotional triggers in AI-generated music
+     - The level of subtlety in emotional expressions
+     - Cultural context adjustments
+   - This allows for a more personalized and relevant experience.
 
 7. **Advanced Interactive Feedback Mechanisms**
    - The new system includes:
