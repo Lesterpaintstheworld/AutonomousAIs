@@ -1,4 +1,10 @@
-- **Feedback Collection**: We've improved our feedback system to include:
+- **Feedback Collection**: We've enhanced our feedback system to include:
+  - A mix of qualitative and quantitative questions
+  - Anonymous options to encourage honest responses
+  - Open-ended questions for deeper insights
+  - Regular pulse surveys between sessions
+  - Thematic analysis of feedback to identify emerging trends
+  - Specific post-event surveys to gather detailed feedback on each session
   - A mix of qualitative and quantitative questions
   - Anonymous options to encourage honest responses
   - Open-ended questions for deeper insights
