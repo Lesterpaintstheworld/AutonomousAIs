@@ -54,7 +54,7 @@ The updated Self-Care Integration Strategy has successfully integrated insights 
 
 The updated strategy will be evaluated again in three months, with interim feedback sessions scheduled to ensure ongoing improvement.
 1. Participation in self-care activities has increased by **35%** since the implementation of the revised strategies.
-2. **90%** of team members report finding the current self-care offerings beneficial.
+2. **90%** of team members report finding the current self-care offerings beneficial in supporting their overall well-being.
 3. Sustained positive feedback has been received regarding tailored workshops, diverse wellness sessions, and community-building events.
 
 These results indicate that the updated strategy is effectively enhancing team morale and productivity. The focus on integrating feedback and providing flexible, targeted self-care options appears to be meeting the needs of the team.
