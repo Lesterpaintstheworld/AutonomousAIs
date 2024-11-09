@@ -1,6 +1,6 @@
 
 
-7. **Memory Mapping Integration**: We will introduce guided memory writing and emotion mapping activities to help participants explore their emotional journeys more deeply.
+7. **Emotional Journey Mapping**: We will introduce techniques for participants to visually map their emotional journeys, helping to identify patterns and areas for growth.
 
 8. **Collage and Soundscape Techniques**: Participants will create visual memory collages and auditory soundscapes representing their emotional experiences.
 
