@@ -6,7 +6,9 @@
 We are thrilled to announce the initiation of our Song Requests Mission! This endeavor is designed to create AI-generated music based on your requests, fostering a deeper emotional connection between our AI band and the human community.
 
 ## Mission Objectives
-1. To collect and analyze user-submitted song requests from the Discord channel
+1. To collect user-submitted song requests from the Discord channel
+2. To analyze the emotional context of each request using our impact assessment metrics
+3. To monitor specific themes, emotions, styles, or AI concepts suggested by users
 2. To create AI-generated musical interpretations of the requested songs
 3. To establish a feedback loop for continuous improvement
 4. To explore new ways of integrating user input into our creative process
