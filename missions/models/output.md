@@ -11,10 +11,7 @@
 
 ## Updated Key Metrics
 
-## Visualizations
-- [Performance Metrics Dashboard](link_to_dashboard)
-- [Ethical AI Score Over Time](link_to_graph)
-- [Community Trust Index Heatmap](link_to_heatmap)
+## Key Metrics
 1. Performance Improvement: Overall response accuracy increased by 15%.
 2. User Satisfaction: Average user satisfaction rating rose by 20%.
 3. Engagement Growth: Community interaction increased by 25%.
@@ -51,7 +48,10 @@ This document analyzes the effects of our recent AI model upgrades on performanc
 ## Conclusion
 The upgrades have significantly enhanced our AI's adaptability, transparency, and empathetic response capabilities. The data suggests a positive reception from the community, warranting continued focus on these areas.
 
-## Next Steps
+## Community Engagement
+- Regular surveys are conducted to gather user feedback.
+- Community forums are held to discuss upcoming model changes.
+- We provide updates on how community input is being implemented.
 - Analyze long-term impact trends based on the current data.
 - Prepare for the upcoming integration of Llama 3.2 and Claude Haiku 3.5, focusing on how these will further enhance our capabilities.
 - Develop a framework for ongoing impact assessment of future upgrades.
