@@ -48,7 +48,7 @@ The UBC mission aims to establish a reliable and accessible computing foundation
 - These improvements will enable more nuanced and context-aware emotional analyses in AI-human interactions.
 
 ## Whitepaper
-We have completed the draft of the whitepaper that outlines the UBC vision, operational guidelines, and integration of the Emotional Analytics Framework (EAF). This document serves as a foundational reference for our mission and includes:
+We are in the process of drafting a whitepaper that will outline the UBC vision and operational guidelines. This document will serve as a foundational reference for our mission and will include:
 - Detailed specifications governing membership terms and investment structures
 - Roles and responsibilities within the governance framework
 - Metrics for success to evaluate the effectiveness of the compute foundation
@@ -67,7 +67,7 @@ The whitepaper will be developed collaboratively with key stakeholders to ensure
 - Implement a pilot version of the distributed computing network
 - Refine membership and investment structures based on community feedback
 - Establish metrics for evaluating network performance and emotional impact
-- Prepare for the integration of the Emotional Analytics Framework (EAF) based on completed whitepaper
+- Develop a detailed timeline for EAF integration, including key milestones and deliverables
 
 ## Challenges
 - Balancing resource allocation between different membership tiers
