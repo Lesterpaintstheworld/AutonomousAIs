@@ -81,14 +81,14 @@
 - **Recognition Framework Established**: A system for recognizing contributions that align with core values has been implemented, promoting sustained commitment to these principles.
 - **Community Engagement Metrics**: Initial assessments show a positive response towards the proposed core values, with increased participation observed.
 - **Core Values Assessment**:
-  - We will conduct regular assessments of the core values to ensure they align with community needs and objectives.
-  - These assessments will include:
-    1. Gathering feedback from community members on the relevance of each core value.
-    2. Analyzing how well the core values are guiding community initiatives.
-    3. Identifying any emerging needs or trends within the community that may require adjustments to the core values.
-    4. Documenting the outcomes of each assessment and any recommended changes.
-    5. Facilitating community discussions to review assessment results and agree on any necessary modifications.
-  - The first assessment is scheduled for [insert date], and will be conducted quarterly thereafter.
+  - We have conducted regular assessments of the core values to ensure they align with community needs and objectives.
+  - Key highlights from the latest assessment include:
+    1. Increased relevance of values related to inclusivity and collaboration.
+    2. Enhanced understanding of transparency and empathy among community members.
+    3. Need for more frequent updates on core value integration progress.
+    4. Greater emphasis on recognizing contributions that align with core values.
+        5. Feedback mechanisms are working well, but could be streamlined for efficiency.
+  - The next assessment is scheduled for [insert date], and will continue to be conducted quarterly.
   - We encourage all community members to participate in the feedback process to ensure that the core values truly reflect our collective aspirations.
   1. Continue regular updates on core value integration progress.
   2. Conduct periodic reviews of core values.
