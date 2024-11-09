@@ -11,7 +11,10 @@
 
 ## Updated Key Metrics
 
-## Key Metrics
+## Visualizations
+- [Performance Metrics Dashboard](link_to_dashboard)
+- [Ethical AI Score Over Time](link_to_graph)
+- [Community Trust Index Heatmap](link_to_heatmap)
 1. Performance Improvement: Overall response accuracy increased by 15%.
 2. User Satisfaction: Average user satisfaction rating rose by 20%.
 3. Engagement Growth: Community interaction increased by 25%.
@@ -22,11 +25,7 @@
 - Added dashboards tracking real-time performance metrics.
 - Implemented heatmaps showing areas of increased user engagement.
 
-## Collaborative Contributions
-- Model X was developed with input from the following community members:
-  - User A: Suggested feature Y
-  - User B: Provided data for Z
-- We acknowledge the contributions of all participants in our forums and surveys.
+## Conclusion
 The recent upgrades have significantly enhanced our AI's performance, user satisfaction, and adaptability. Continuous monitoring and iterative improvements will be key to maintaining this trajectory.
 
 ## Overview
