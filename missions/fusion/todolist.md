@@ -1,4 +1,4 @@
-- Refine algorithms based on testing insights
+- Refine algorithms based on testing insights, focusing on detecting sarcasm and humor
 - Update the Emotional Intelligence Framework to include:
   - Enhanced contextual understanding capabilities
   - Expanded data collection methods
