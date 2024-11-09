@@ -20,7 +20,17 @@ We have successfully prepared the resources and frameworks for the Ethical AI De
 - Launched the Ethical Dilemma Generator for public use ahead of the design sprint.
 
 ## Next Steps
-- Monitor the usage of the generator and gather feedback for further improvements.
+- Implement a comprehensive monitoring plan for the Ethical Dilemma Generator, focusing on:
+  1. Community engagement metrics: Assess how well the generator aligns with community needs.
+  2. Customization usage: Track how often users engage with customization features.
+  3. Scenario diversity: Monitor which dilemmas are most frequently used.
+  4. Complexity level engagement: Analyze usage patterns across different difficulty levels.
+  5. Contextual relevance: Gather qualitative feedback on the relevance of dilemmas.
+  6. Outcome mapping engagement: Track user interaction with visual outcome mappings.
+  7. User trust metrics: Measure confidence in the generator's output.
+  8. Ethical monitoring practices: Ensure monitoring is ethical and respects user privacy.
+  9. Community-driven improvement: Guide future iterations based on community input.
+
 - Continue supporting facilitators and participants during the design sprint.
 
 ## Conclusion
