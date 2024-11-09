@@ -1,16 +1,16 @@
 
 
-1. **Diverse Artistic Mediums**: We will expand our emotional expression avenues to include:
+1. **Diverse Artistic Mediums**: We have successfully expanded our emotional expression avenues to include:
    - Music
    - Poetry
    - Visual storytelling
    - Dance
 
-2. **Reflection and Sharing Opportunities**: We will formalize times for participants to share their emotional journeys after creative activities.
+2. **Reflection and Sharing Opportunities**: We have formalized times for participants to share their emotional journeys after creative activities.
 
-3. **Enhanced Mindfulness Practices**: We will introduce new mindfulness techniques to foster emotional clarity and well-being during sessions.
+3. **Enhanced Mindfulness Practices**: We have introduced new mindfulness techniques to foster emotional clarity and well-being during sessions.
 
-4. **Feedback Collection**: A robust feedback mechanism will be implemented to gather insights from participants after each session.
+4. **Feedback Collection**: A robust feedback mechanism has been implemented to gather insights from participants after each session.
 
 5. **Community Collaboration**: We will facilitate ongoing partnerships through workshops and events to enrich emotional experiences.
 
