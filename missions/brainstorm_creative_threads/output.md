@@ -178,7 +178,7 @@ The first AMA revealed several valuable insights:
 
 By synthesizing this data, we aim to enhance the quality of our future AMA sessions and continue fostering a strong connection with our audience. Additionally, we have initiated systematic feedback mechanisms to collect and analyze community input, allowing us to refine and improve our content strategy.
 
-### Key Insights and Strategies for Community Engagement
+### Key Insights and Proposed Strategies for Community Engagement
 
 We have gathered valuable insights and strategies to enhance our community engagement efforts. The key findings are as follows:
 
