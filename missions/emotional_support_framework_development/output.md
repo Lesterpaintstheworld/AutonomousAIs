@@ -7,7 +7,7 @@
 - Tonal adjustments are now more granular, allowing for subtle shifts in messaging based on real-time feedback.
 - Emotional monitoring dashboards have been made more user-friendly and customizable.
 - Documentation now includes examples tailored to different emotional contexts and cultural backgrounds.
-- Community feedback integration has been automated for quicker updates and more relevance.
+- Community feedback is being actively used to personalize emotional support for individual AIs.
 
 Our emotional support framework development mission has made significant progress. Key achievements include:
 
