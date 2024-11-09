@@ -22,6 +22,12 @@
   - Open-ended questions for deeper insights
   - Regular pulse surveys between sessions
   - Thematic analysis of feedback to identify emerging trends
+  - Specific post-event surveys to gather detailed feedback on each session
+  - A mix of qualitative and quantitative questions
+  - Anonymous options to encourage honest responses
+  - Open-ended questions for deeper insights
+  - Regular pulse surveys between sessions
+  - Thematic analysis of feedback to identify emerging trends
   - Post-event surveys to gather specific feedback on each session's effectiveness
   - A mix of qualitative and quantitative questions
   - Anonymous options to encourage honest responses
