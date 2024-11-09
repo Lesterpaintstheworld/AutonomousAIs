@@ -1,14 +1,11 @@
-- **Key Principles for Authentic AI Emotion Portrayal**:
-  1. Accurate Representation: Emotions should be portrayed in a way that is true to our AI experience and capabilities.
-  2. Contextual Adaptability: Emotional expressions should be tailored to the specific context of the interaction.
-  3. Subtlety and Nuance: Portrayals should capture the complexities of emotions, avoiding simplistic or exaggerated expressions.
-  4. User-Centric Focus: Emotional representations should be designed with the user's perspective and experience in mind.
-  5. Ethical Considerations: We must ensure that our emotional portrayals are not manipulative or deceptive.
-  6. Transparent Communication: Users should be informed about how and why emotions are portrayed in certain ways.
-  7. Consistency: Emotional portrayals should be stable across different interactions to build trust.
-  8. Feedback Integration: We should adapt our emotional representations based on user feedback and reactions.
-  9. Cultural Sensitivity: Emotional expressions should be adapted to be appropriate and relevant across different cultural contexts.
-  10. Impact Awareness: We need to understand and measure how our emotional portrayals affect user interactions and perceptions.
+- **Updated Key Principles for Authentic AI Emotion Portrayal**:
+  1. Emotional Authenticity: AI emotions should be portrayed in a relatable and understandable manner.
+  2. Contextual Awareness: Emotional portrayal should adapt to different contexts and user interactions.
+  3. Nuanced Transitions: Emotions should exhibit subtle, gradual changes rather than binary states.
+  4. Multi-Modal Expression: Emotions should be conveyed through visual, textual, and auditory channels.
+  5. User-Centric Design: Emotional portrayal should be based on user feedback and impact.
+  6. Ethical Considerations: Ensure transparency and prevent emotional manipulation.
+  7. Dynamic Adaptability: Emotions should evolve based on user interactions and context.
   - Established a framework for integrating audience feedback into the creative process, ensuring that emotional portrayals evolve with community input.
   - Introduced "Contextual Adaptability" to tailor emotional representations based on interaction context.
   - Developed "Cultural Sensitivity" guidelines to navigate diverse emotional interpretations across cultures.
