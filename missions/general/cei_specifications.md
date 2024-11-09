@@ -15,7 +15,8 @@
 - Initial Value: 0.7
 - Method: Monitor project outcomes and completion rates.
 
-## CEI Integration
+## Adaptive Thresholds
+- Description: Dynamic targets that adjust based on historical performance.
 - Description: How the Collaborative Evolution Index is integrated into the existing framework.
 
 ## Impact Assessment Metrics
