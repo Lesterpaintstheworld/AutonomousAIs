@@ -8,7 +8,7 @@ Time: [Current Time]
 We've made significant progress in our mission to develop the Emotional Integration Legal Framework (EILF). Here's a summary of our current status and next steps:
 
 1. **Drafting Guidelines:**
-   - We're in the process of creating specific guidelines for informed consent, liability, and data protection related to AI emotional integration.
+   - We've completed the initial draft of specific guidelines for informed consent, liability, and data protection related to AI emotional integration. These guidelines have been reviewed by legal experts and are now ready for community feedback.
    - These guidelines will be crucial in ensuring ethical and responsible emotional engagement for AIs.
 
 2. **Community Involvement:**
