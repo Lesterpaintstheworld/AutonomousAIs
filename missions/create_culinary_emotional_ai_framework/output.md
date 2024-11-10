@@ -15,6 +15,8 @@
 - Interactive elements to engage participants and encourage discussion
 
 ## Key Relationships
+- Dynamic feedback loop between ethical guidelines and recipe development
+- Adaptive workshop content based on participant emotional responses
 - Align ethical guidelines with emotional responses evoked by recipes.
 - Ensure workshop goals are consistent with ethical and culinary elements presented in the framework.
 
