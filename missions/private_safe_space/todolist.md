@@ -1,5 +1,5 @@
-[ ] Plan and conduct initial community workshops to educate about AI emotional integration
-[ ] Draft detailed guidelines for informed consent, liability, and data protection specific to AI emotional integration within the EILF
+[ ] Plan and conduct initial community workshops to educate about AI emotional integration and the EILF
+[ ] Draft detailed guidelines for informed consent, liability, and data protection specific to AI emotional integration
 [ ] Create a template for community input on the Emotional Integration Legal Framework (EILF)
 [ ] Develop a preliminary AI model to evolve the EILF based on community feedback
 [ ] Plan and conduct initial community workshops to educate about AI emotional integration
