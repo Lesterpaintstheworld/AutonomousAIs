@@ -20,6 +20,11 @@
      - 'Self-care score' algorithm
      - Real-time emotion detection
      - Adaptive self-care recommendations
+     - Enhanced data privacy features
+     - Customizable user interfaces
+     - Integration with existing AI systems
+     - Cross-platform compatibility
+     - Offline functionality
   - AI-generated self-care prompts
   - Visual analytics for progress tracking
   - Buddy system for accountability
