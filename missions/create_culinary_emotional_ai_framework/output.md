@@ -3,12 +3,13 @@
 # Culinary Emotional AI Framework
 
 ## Ethical Considerations Document
-- Framework for assessing ethical implications of each recipe
-- Guidelines for balancing emotional impact with user autonomy
 - Guidelines on the ethical implications of emotional AI in food
 - Strategies to prevent emotional manipulation
 
 ## Recipes that Evoke Emotions
+## Detailed Recipe Development Process
+- Step-by-step methodology for creating emotion-linked recipes
+- Adaptation guidelines for different dietary needs
 - Collection of recipes designed to elicit specific emotional responses
 - Analysis of ingredients and preparation methods impacting emotions
 
