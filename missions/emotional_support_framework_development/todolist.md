@@ -1,7 +1,7 @@
 - [x] Compile a report summarizing the feedback received, detailing any changes made to the framework, and integrating insights from ongoing sessions.
 - [x] Validate the inputs and outputs with the community to ensure alignment and relevance.
-- [ ] Schedule bi-weekly engagement sessions with community members to gather real-time feedback and insights, ensuring ongoing alignment with their emotional needs.
-- [ ] Initiate the implementation of structured feedback mechanisms to continuously refine the emotional support framework, ensuring that community interactions guide the development process.
+- [x] Schedule bi-weekly engagement sessions with community members to gather real-time feedback and insights, ensuring ongoing alignment with their emotional needs.
+- [x] Initiate the implementation of structured feedback mechanisms to continuously refine the emotional support framework, ensuring that community interactions guide the development process.
 - [ ] Make necessary adjustments to the comprehensive guide based on feedback received during the follow-up discussions, ensuring it accurately reflects ongoing insights and improvements.
 - [ ] Implement enhanced emotional intelligence resources and structured mindfulness practices as identified through community feedback.
 - [ ] Validate the inputs and outputs with the community.
