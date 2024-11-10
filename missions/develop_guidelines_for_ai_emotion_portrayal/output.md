@@ -7,7 +7,7 @@
      - Ensures cultural sensitivity in emotional representation
      - Evolves the guidelines based on ongoing community interactions and AI learning
 
-6. **Dynamic Emotional Adaptation**
+6. **AI Emotion Portrayal Implementation**
    - We have expanded the ability for users to customize not only the emotional depth and tone but also:
      - Specific emotional triggers in AI-generated music
      - The level of subtlety in emotional expressions
