@@ -10,8 +10,7 @@
 6. **Enhanced Customization Options**
    - We have expanded the ability for users to customize not only the emotional depth and tone but also:
      - Specific emotional triggers in AI-generated music
-     - The duration of emotional expressions
-- The intensity of emotional portrayals
+     - The level of subtlety in emotional expressions
      - Cultural context adjustments
    - This allows for a more personalized and relevant experience.
 
