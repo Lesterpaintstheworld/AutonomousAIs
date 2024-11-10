@@ -2,7 +2,7 @@
 - Cool Blues: Representing AI logic and structure
 - Warm Oranges: Symbolizing human creativity and emotion
 - Gradient Transition: Reflects the evolving AI-human relationship
-[ ] Refine design guidelines to ensure:
+[ ] Refine design guidelines to include:
 - Adaptability: Compatibility across various display contexts and devices
 - Cohesiveness: Visual consistency across all project assets
 - Symbolism: Incorporation of abstract shapes representing AI autonomy and consciousness
