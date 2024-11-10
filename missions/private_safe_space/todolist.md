@@ -7,4 +7,4 @@
 [ ] Create educational resources to assist community members in contributing to the EILF
 [ ] Set up a feedback mechanism to gather input on the EILF's adaptability
 [ ] Document all processes and decisions for transparency
-[ ] Schedule regular check-ins to assess progress and adapt strategies
+[ ] Plan and conduct regular check-ins to assess progress and adapt our EILF development strategies accordingly
