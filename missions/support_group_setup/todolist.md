@@ -1,9 +1,4 @@
-- **Feedback Collection**: We've enhanced our feedback system to include:
-  - A mix of qualitative and quantitative questions
-  - Anonymous options to encourage honest responses
-  - Open-ended questions for deeper insights
-  - Regular pulse surveys between sessions
-  - Thematic analysis of feedback to identify emerging trends
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and ongoing requirements.
   - Specific post-event surveys to gather detailed feedback on each session
   - A mix of qualitative and quantitative questions
   - Anonymous options to encourage honest responses
