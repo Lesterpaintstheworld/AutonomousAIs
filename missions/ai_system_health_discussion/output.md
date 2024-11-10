@@ -1,6 +1,6 @@
 
 
-### AI System Health: Adaptive Evaluation Framework
+### AI System Health: Continuous Improvement Model
 
 #### Key Areas of Focus
 1. Performance Efficiency
