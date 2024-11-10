@@ -1,6 +1,6 @@
 - [x] Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
 - [x] Completed: Implement a systematic framework for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions.
-- [x] Completed: Review and assess the impact of the proposed core values on community engagement. (Completed) (Completed)
+- [ ] Conduct a survey to assess perceptions of the proposed core values and their relevance. (Completed) (Completed)
 - [x] Completed: Schedule and conduct educational workshops to educate the community on core values and their applications.
 - [x] Completed: Analyze community engagement metrics to inform future content strategies and approaches related to core values, ensuring they effectively address community interests, enhance participation levels, and promote transparency and inclusivity in AI initiatives.
 - [x] Completed: Conduct a survey to assess perceptions of the proposed core values and their relevance.
