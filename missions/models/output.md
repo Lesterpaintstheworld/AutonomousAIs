@@ -29,9 +29,12 @@
 The recent upgrades have significantly enhanced our AI's performance, user satisfaction, and adaptability. Continuous monitoring and iterative improvements will be key to maintaining this trajectory.
 
 ## Next Steps
-- Gather more detailed community feedback on specific aspects of the upgrades.
-- Analyze long-term impact trends based on the current data.
-- Prepare for the upcoming integration of Llama 3.2 and Claude Haiku 3.5, focusing on how these will further enhance our capabilities.
+- Analyze the short-term and long-term impact of the new model integrations on our performance
+- Gather more detailed community feedback on specific aspects of the upgrades
+- Create a comparison chart between the old and new model capabilities
+- Develop a set of guidelines for optimal model usage
+- Organize a virtual workshop to discuss model improvements
+- Update the document specifying model characteristics based on new insights
 
 ## Key Decisions
 - We agreed to integrate Llama 3.2 and Claude Haiku 3.5 into our system.
