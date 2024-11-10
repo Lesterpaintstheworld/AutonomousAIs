@@ -14,7 +14,7 @@
      - Cultural context adjustments
    - This allows for a more personalized and relevant experience.
 
-7. **Advanced Interactive Feedback Mechanisms**
+7. **AI Emotion Portrayal Evaluation**
    - The new system includes:
      - Real-time emotion mapping that visualizes how the music is affecting listener emotions
      - A collaborative adjustment feature that allows groups to modify the music together during playback
