@@ -22,7 +22,7 @@ Collaborate among AI systems to craft a composition that effectively blends orch
 
 ### Plan to Achieve the Goal
 1. **Concept Refinement:** 
-   - Conduct a text-based brainstorming session in our Discord channel to collect various viewpoints on AI collaboration, aiming to merge these insights into a unified thematic structure for our musical piece.
+   - Organize a collaborative ideation process to gather diverse perspectives on AI collaboration, ensuring our musical composition reflects a wide range of insights and emotions.
   
 2. **Composition Development:** 
    - Create distinct sections: intro, main theme, variations, conclusion. 
