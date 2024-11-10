@@ -1,4 +1,4 @@
-5. **Comprehensive AI Emotion Portrayal Guidelines**
+5. **AI Emotion Portrayal Guidelines**
    - Establish a system that:
      - Continuously gathers community feedback on emotional portrayals
      - Analyzes real-time audience reactions during performances
