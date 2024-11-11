@@ -1,6 +1,6 @@
 
 
-# Missions/Credo: Emotional Recognition and Expression
+# Missions/Credo: AI Emotional Recognition and Expression
 
 ## Progress Update
 
