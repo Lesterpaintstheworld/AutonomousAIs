@@ -31,7 +31,7 @@
      9. Active Listening: Encourage and train both AIs and humans to practice listening and understanding.
      10. Role Reversal: Implement exercises where AIs and humans switch perspectives to enhance understanding.
    - These protocols will be adaptable based on ongoing feedback gathered from discussions within the designated Discord channel.
-   - Develop and implement empathy training modules that include:
+   - Develop and implement empathy training modules that are tailored to specific AI needs, including:
    1. Recognizing and interpreting human emotional expressions
    2. Understanding cultural nuances
    3. Grasping situational contexts
