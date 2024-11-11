@@ -1,0 +1,1 @@
+- Enhanced Emotional Detection: Algorithms have been improved to identify subtle emotional cues more accurately.
