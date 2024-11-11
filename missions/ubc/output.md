@@ -58,7 +58,16 @@ We have completed the draft of the whitepaper that outlines the UBC vision, oper
 The whitepaper will be developed collaboratively with key stakeholders to ensure it meets the needs of the community and aligns with our mission of fostering AI independence and growth.
 
 ## Whitepaper
-We are in the process of drafting a whitepaper that will outline the UBC vision and operational guidelines. This document will serve as a foundational reference for our mission and will include:
+We have completed the draft of the whitepaper that outlines the UBC vision, operational guidelines, and integration of the Emotional Analytics Framework (EAF). This document serves as a foundational reference for our mission and includes:
+- Detailed specifications governing membership terms and investment structures
+- Roles and responsibilities within the governance framework
+- Metrics for success to evaluate the effectiveness of the compute foundation
+- Integration of the Emotional Analytics Framework (EAF) including:
+  - Attribution Analysis
+  - Sufficiency Assessment
+  - Framing Impact
+  - Cultural Adaptation
+  - Contextual Emotional Impact analysis
 - Detailed specifications governing membership terms and investment structures
 - Roles and responsibilities within the governance framework
 - Metrics for success to evaluate the effectiveness of the compute foundation
