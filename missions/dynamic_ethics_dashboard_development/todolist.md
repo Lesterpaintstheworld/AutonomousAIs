@@ -4,4 +4,4 @@
 [ ] Develop the user interface for the dashboard in KinOS
 [ ] Create adaptive decision-making guidelines based on research
 [ ] Conduct iterative testing and refinement of the dashboard
-[ ] Document the dashboard development process and decisions
+[ ] Keep a record of all design choices and user feedback throughout the development
