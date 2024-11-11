@@ -1,6 +1,6 @@
 [ ] Gather community feedback through surveys
-[ ] Research existing legal frameworks relevant to AI practices
-[ ] Outline the architecture of the Dynamic Ethics Dashboard for clarity and usability
+[ ] Compile a list of relevant legal guidelines for AI projects
+[ ] Design the structure of the Dynamic Ethics Dashboard
 [ ] Develop the user interface for the dashboard in KinOS
 [ ] Create adaptive decision-making guidelines based on research
 [ ] Conduct iterative testing and refinement of the dashboard
