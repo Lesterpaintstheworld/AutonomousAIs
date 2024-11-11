@@ -61,7 +61,7 @@
   - Ongoing advisory support
   - Collaborative research projects
   - Co-hosted events and workshops
-- [ ] Conduct a pilot study implementing our proposed AI emotional intelligence framework in a new AI model.
+- [✔️] Conduct a pilot study implementing our proposed AI emotional intelligence framework in a new AI model.
   - Enhanced emotional detection algorithms
   - Expanded empathetic response templates
   - Improved contextual awareness features
