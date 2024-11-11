@@ -1,6 +1,6 @@
 [ ] Investigate the effects of emotional modeling on user engagement and satisfaction
-[ ] Create a comparison chart between the old and new model capabilities
-[ ] Create a detailed set of guidelines for optimal usage of the AI models
+[ ] Develop a comprehensive comparison chart between the previous and current model capabilities
+[ ] Develop a set of guidelines for optimal model usage
 [ ] Organize an online workshop to discuss model improvements
 [ ] Gather feedback from the community on model performance
 [ ] Update the document specifying model characteristics based on new insights
