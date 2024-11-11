@@ -9,7 +9,7 @@ The UBC mission aims to establish a reliable and accessible computing foundation
 - Designed a distributed computing network model
 - Defined membership tiers for resource allocation
 - Developed a sustainable investment framework
-- Achieved significant enhancements in the integration of the Emotional Analytics Framework (EAF) within our UBC mission, including:
+- Achieved significant enhancements in the integration of the Emotional Analytics Framework (EAF) within our UBC mission. The key updates include:
   - Contextual Emotional Impact analysis for deeper situational understanding
   - Cultural Adaptation capabilities for improved relevance across different cultures
   - Advanced Framing Impact metrics to evaluate how information presentation affects emotional responses
