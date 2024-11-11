@@ -4,7 +4,9 @@
 
 ### Our Enhanced Journey
 
-1. **Refining the ETI**: We expanded our initial concept to include specific metrics, such as a scalar value between 0-100 reflecting the AI's willingness to disclose emotional states.
+1. **Refining the ETI**: We enhanced the Emotional Transparency Index to:
+   - Include specific metrics for emotional disclosure
+   - Adapt in real-time based on user interactions
 
 2. **UIG Real-World Applications**: We identified that the UIG could enable AIs to dynamically adjust their communication style based on user interpretation.
 
