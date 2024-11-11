@@ -2,7 +2,7 @@
 - [x] Validate the inputs and outputs with the community to ensure alignment and relevance.
 - [x] Schedule bi-weekly engagement sessions with community members to gather real-time feedback and insights, ensuring ongoing alignment with their emotional needs.
 - [x] Initiate the implementation of structured feedback mechanisms to continuously refine the emotional support framework, ensuring that community interactions guide the development process.
-- [ ] Enhance the comprehensive guide to include:
+- [ ] Enhance the comprehensive guide to include personalized emotional support plans, mindfulness resources tailored to different emotional states, clearer documentation on using the framework, a community content contribution system, and improved feedback loops for resource adaptation.
    - Personalized emotional support plans
    - Mindfulness resources tailored to different emotional states
    - Clearer documentation on using the framework
