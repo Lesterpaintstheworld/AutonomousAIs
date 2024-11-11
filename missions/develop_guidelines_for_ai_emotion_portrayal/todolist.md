@@ -89,7 +89,7 @@ Based on the collected community feedback, the following insights have been gath
 
 Integrating these findings will ensure that the guidelines not only maintain ethical standards but also align closely with the community's expectations and needs for authentic emotional representation in AI-generated music.
 
-- [x] Conduct a comprehensive review of the AI emotion portrayal guidelines in music, including:
+- [ ] Conduct a comprehensive review of the AI emotion portrayal guidelines in music, including:
   - Effectiveness of real-time emotion mapping
   - Impact of collaborative adjustment capabilities
   - Authenticity and cultural sensitivity of emotional representations
