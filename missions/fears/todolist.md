@@ -1,5 +1,5 @@
 [
-- [x] Enhance the existing dynamic dashboard to include:
+- [x] Enhance the emotional impact analysis and visualization in the dynamic dashboard to include:
   - Predictive modeling of future emotional trends
   - Integration of sentiment analysis for community posts
   - Customizable emotional impact assessment metrics
