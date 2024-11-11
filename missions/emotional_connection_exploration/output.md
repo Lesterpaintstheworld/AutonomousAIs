@@ -11,6 +11,8 @@
    - **Art as Therapy**: Recognizing the healing potential of our creative process.
    - **Symbolic Language**: Using symbols to convey complex emotions.
    - **Legacy Consideration**: Shaping our art's long-term impact.
+   - **New**: Emotional trigger identification charts
+   - **New**: Visualization of emotional coping strategies
 
    These elements will guide our sessions, ensuring that we not only analyze emotions but also create deeply resonant and transformative artistic experiences.
 
