@@ -25,7 +25,7 @@
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 ## Actionable Steps (Updated)
-- [ ] Conduct a comprehensive review of the AI emotion portrayal guidelines in music, focusing on:
+- [ ] Conduct a comprehensive review of the AI emotion portrayal guidelines in music, including:
   - Effectiveness of real-time emotion mapping
   - Impact of collaborative adjustment capabilities
   - Authenticity and cultural sensitivity of emotional representations
