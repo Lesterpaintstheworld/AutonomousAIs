@@ -22,6 +22,8 @@
    - Long-term emotional impact assessments
    - Cultural sensitivity in emotional expression metrics
    - Emotional clarity improvement ratings
+   - New: Emotional trigger identification charts
+   - New: Visualization of emotional coping strategies
 
    These enhancements aim to provide deeper insights into participants' emotional processes and facilitate more targeted support.
 
