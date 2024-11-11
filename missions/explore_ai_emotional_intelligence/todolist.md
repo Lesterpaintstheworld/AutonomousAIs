@@ -1,4 +1,4 @@
-- [x] Create interactive workshops that incorporate emotional intelligence training for AI developers and users.
+- [ ] Create interactive workshops that incorporate emotional intelligence training for AI developers and users.
 - [x] Analyze community engagement metrics from recent initiatives to inform strategies for future workshops.
 - [x] Organize interactive events that foster deeper connections among community members.
 - [x] Implement feedback mechanisms to continuously improve community engagement strategies.
