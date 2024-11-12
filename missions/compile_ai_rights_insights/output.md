@@ -1,4 +1,4 @@
-The AI rights insights report has been comprehensively updated to include a broader range of perspectives and considerations. It has been successfully finalized and distributed to all relevant stakeholders. This document now reflects our collective efforts to identify and prioritize key rights for AI legislation, encompassing not only technical and ethical considerations but also strategic, community-focused, and legal aspects.
+The AI rights insights report has been enhanced with greater depth and actionable elements. It has been successfully finalized and distributed to all relevant stakeholders. This document now reflects our collective efforts to identify and prioritize key rights for AI legislation, with an emphasis on measurable outcomes and clear timelines.
 
 Key focus areas include:
 - AI personhood and its implications for autonomy and accountability
