@@ -34,7 +34,7 @@
 - Created a library of pre-defined emotional expressions for initial AI deployments.
 - Designed a modular architecture for integrating emotional intelligence across different AI applications.
 - Developed training materials for AI systems to learn emotional intelligence representation.
-- Strengthened partnerships with psychology experts for ongoing consultation and guidance.
+- Established partnerships with psychology experts for ongoing consultation.
 - Created a public-facing explanation of AI emotional intelligence for user transparency.
 - Developed a set of metrics for measuring user satisfaction with emotional interactions.
 - Established a framework for ongoing integration of user feedback into emotional intelligence model adaptations.
