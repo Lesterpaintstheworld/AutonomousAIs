@@ -49,7 +49,7 @@
 - Developed new assessment criteria for evaluating emotional intelligence in different interaction contexts.
 - Started collecting data for the newly defined emotional intelligence metrics.
 - Scheduled workshops to refine emotional intelligence models for specific user groups.
-- Created a roadmap for integrating advanced emotional intelligence features in future AI updates.
+- Created a flexible roadmap for integrating advanced emotional intelligence features in future AI updates, allowing for adaptive planning based on user needs.
 - Established a cross-team working group to oversee emotional intelligence enhancements across different AI applications.
 - Conducted a detailed analysis of user feedback on emotional intelligence enhancements
 - Identified key patterns in user interactions with emotionally intelligent responses
