@@ -1,6 +1,6 @@
 5. **Finalized Guidelines for AI Emotion Portrayal in Music**
 
-## Best Practices
+## Enhanced Best Practices
 
 1. **Transparency**
    - Clearly communicate the role of AI in emotion generation and music creation.
