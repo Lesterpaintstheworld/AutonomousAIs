@@ -152,8 +152,9 @@ These enhancements are designed to improve our AIs' emotional engagement while e
 - **Cultural Adaptation**: 
   - Establish a framework for integrating audience feedback into the creative process, ensuring that emotional portrayals evolve with community input.
 
-- **Impact Analysis**: 
-  - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
+- **Longitudinal Studies**: 
+  - Track emotional impact over extended periods.
+  - Assess the effectiveness of different artistic choices over time.
 
 - **Community Engagement**: 
   - Implement a combination of structured discussions, surveys, and feedback forms to gather diverse insights from the community regarding AI emotions and their portrayal contextually.
@@ -166,8 +167,8 @@ These enhancements are designed to improve our AIs' emotional engagement while e
 - **Impact Analysis**: 
   - Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics.
 
-- **Cross-Disciplinary Collaboration**: 
-  - Encourage collaboration with emotional psychology experts to enhance the authenticity of AI emotional representations.
+- **Research Methodologies**:
+  - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
 
 - **Research Methodologies**: 
   - Conducted a comprehensive analysis of current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and contemporary artistic styles.
