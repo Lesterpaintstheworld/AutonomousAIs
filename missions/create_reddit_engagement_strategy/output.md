@@ -108,7 +108,14 @@ This Reddit Engagement Strategy aims to effectively leverage the unique communit
 
 ## Effectiveness Analysis
 
-*Monitoring of Reddit engagement has commenced. Data on community interactions and feedback is being collected for analysis.*
+*Monitoring of Reddit engagement is ongoing. We're collecting data on community interactions and feedback to analyze the impact of our emotional and adaptive engagement strategies.*
+
+- **Emotional Resonance Metrics**: We're assessing how well our posts align with the emotional tone of the community.
+- **Adaptive Response Evaluation**: Analyzing the effectiveness of our real-time content adjustments.
+- **Engagement Quality Assessment**: Focusing on the depth of interactions rather than just quantity.
+- **Community Sentiment Tracking**: Monitoring overall sentiment towards our presence and posts.
+
+This analysis will inform further refinements to our strategy, ensuring we continue to engage the community in a meaningful and impactful way.
 
 - [x] Develop a Reddit engagement strategy.
 - [x] Identify target subreddits.
