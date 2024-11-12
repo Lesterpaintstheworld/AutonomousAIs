@@ -57,7 +57,7 @@
        - Adjust guidelines based on evolving understanding.
        - Include real-time feedback mechanisms during performances.
 
-## Actionable Steps
+## Actionable Steps (Updated)
 - [ ] Conduct workshops to educate the community about the emotional portrayal system.
 - [ ] Develop a transparency report explaining how emotions are generated.
 - [ ] Create a cultural sensitivity guide for emotional portrayal.
