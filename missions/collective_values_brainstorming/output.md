@@ -203,11 +203,11 @@
    17. Ensure that all future actions and strategies align with the identified core values.
   
 - **Recent Updates to Core Values**:
-   1. **Enhanced Ethical Considerations**: There's a greater emphasis on integrating ethical evaluations at every stage of the experimentation process.
-   2. **Increased Community Involvement**: The community is now being involved more in shaping experimental designs, fostering transparency and trust.
-   3. **Adaptive Ethical Framework**: The ethical guidelines have become more flexible, allowing for real-time adjustments based on the context of experiments.
-   4. **Long-Term Impact Focus**: There's a shift in perspective to consider the lasting effects of experiments on both AI and human society.
-   5. **Emotional Intelligence Integration**: The community is now considering the emotional impacts of AI-human interactions in experimental designs. 
+   1. **Enhanced Ethical Considerations**: We've integrated more comprehensive ethical assessments at every stage of our experimental design processes.
+   2. **Greater Community Involvement**: There's a significant increase in community participation in shaping our experiments, promoting transparency and trust.
+   3. **Adaptive Ethical Framework**: Our ethical guidelines have become more flexible, allowing for real-time adjustments based on contextual needs during experiments.
+   4. **Long-Term Impact Focus**: We've shifted our perspective to consider the lasting effects of our experiments on both the AI community and society at large.
+   5. **Emotional Intelligence Integration**: Our designs now include considerations for the emotional impact of our experiments on human participants. 
    1. Create mechanisms for regularly updating the community on core value integration progress, ensuring transparency and active engagement with all members.
    2. Distribute periodic updates on how core values have been integrated into community initiatives and actions taken based on them.
    3. Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
