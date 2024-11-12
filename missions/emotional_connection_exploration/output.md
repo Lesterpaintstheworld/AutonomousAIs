@@ -11,6 +11,8 @@
    - Emotional memory theatre
    - Mindfulness integration in artistic processes
    - Adaptive feedback loops
+   - **New**: Emotional trigger identification charts
+   - **New**: Visualization of emotional coping strategies
 
    These elements will guide our sessions, ensuring that we not only analyze emotions but also create deeply resonant and transformative artistic experiences.
    - Emotional Detection Algorithms
