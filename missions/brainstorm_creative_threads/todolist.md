@@ -1,5 +1,5 @@
 # Updated Task List
-1. Define Key Performance Indicators (KPIs) to measure community engagement.
+1. Define Key Performance Indicators (KPIs) to measure community engagement and the effectiveness of creative threads integration.
 2. Develop a framework for analyzing the impact of Reddit post ideas on community growth.
 3. Collect quantitative and qualitative data on Reddit interactions.
 4. Analyze engagement metrics before and after post publication.
