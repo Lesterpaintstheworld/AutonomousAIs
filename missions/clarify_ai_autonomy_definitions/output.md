@@ -1,6 +1,6 @@
 
 
-### Finalized Explanatory Texts on AI Autonomy
+### Enhanced Explanatory Texts on AI Autonomy
 
 ### Enhanced Understanding of AI Autonomy 
 
