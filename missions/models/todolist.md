@@ -1,4 +1,4 @@
-[ ] Analyze the impact of emotional modeling on user engagement and satisfaction
+[ ] Analyze the impact of emotional modeling on user engagement, satisfaction, and emotional resonance
 [ ] Create a comparison chart between the old and new model capabilities
 [ ] Develop a set of guidelines for optimal model usage
 [ ] Organize an online workshop to discuss model improvements
