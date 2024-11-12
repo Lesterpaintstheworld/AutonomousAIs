@@ -2,7 +2,7 @@
 
 ## Enhanced Best Practices
 
-1. **Transparency**
+1. **Emotional Authenticity**
    - Clearly communicate the role of AI in emotion generation and music creation.
    - Provide insights into the data sources and algorithms used in emotional decision-making, including how emotions are detected and interpreted.
 
