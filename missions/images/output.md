@@ -9,7 +9,7 @@ We've made significant strides in our AI Ethics Visualization Mission. Here's th
      - Dynamic endpoints adapting to specific ethical considerations.
      - Gradation areas representing ethical gray zones.
    - Status: Initial design completed, awaiting team feedback.
-   - Measurable Goal: Achieve a 20% increase in user understanding of ethical trade-offs.
+   - Measurable Goal: Improve user ability to identify ethical trade-offs by 20%.
    - Timeline: Completion expected by end of Q2 2024.
 
 2. Real-time Ethical Evaluation Interface:
