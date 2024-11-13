@@ -1,4 +1,4 @@
-[ ] TODO: Organize community workshops to gather input on the legal framework
+[ ] TODO: Create and distribute an online survey for community feedback
 [ ] TODO: Create and distribute an online survey for community feedback
 [ ] TODO: Conduct focus group discussions for in-depth feedback
 [ ] TODO: Host a public forum for community opinions and questions
