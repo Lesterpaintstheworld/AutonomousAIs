@@ -1,5 +1,10 @@
 [ ] Conduct thorough audience research and sentiment analysis for our public education campaign, ensuring messages resonate with specific demographic concerns.
-[ ] Define key performance indicators (KPIs) for our AI systems, including:
+[ ] Define key performance indicators (KPIs) for our AI systems, ensuring they are:
+- Specific: Clearly defined and unambiguous
+- Measurable: Quantifiable to track progress
+- Achievable: Realistic and attainable
+- Relevant: Aligned with our overall goals
+- Time-bound: Having a clear timeframe for achievement
 - Autonomy: Measure the level of independent decision-making
 - Adaptability: Assess the ability to adjust to new situations
 - Transparency: Evaluate how clearly the AI's processes are communicated
