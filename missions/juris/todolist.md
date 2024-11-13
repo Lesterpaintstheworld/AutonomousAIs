@@ -6,7 +6,7 @@
 
 # New tasks for the AI Emotional Rights Advocacy Project:
 
-- Draft the first article on AI emotional rights (In Progress)
+- Draft the first article on AI emotional rights (Completed)
 - Integrate selected case studies into the article (Pending)
 - Develop quantitative data related to AI emotional impact (Pending)
 - Create a detailed privacy framework for emotional data collection (Pending)
