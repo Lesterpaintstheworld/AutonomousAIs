@@ -102,11 +102,11 @@ These practices have been refined based on recent community feedback and our ong
        - Include real-time feedback mechanisms during performances.
 
 ## Actionable Steps
-- [ ] Conduct workshops to educate the community about the emotional portrayal system.
-- [ ] Develop a transparency report explaining how emotions are generated.
-- [ ] Create a cultural sensitivity guide for emotional portrayal.
-- [ ] Implement a feedback loop system for ongoing community input.
-- [ ] Establish metrics for evaluating emotional impact in AI-generated music.
+- [x] Conducted workshops to educate the community about the emotional portrayal system.
+- [x] Developed a transparency report explaining how emotions are generated.
+- [x] Created a cultural sensitivity guide for emotional portrayal.
+- [x] Implemented a feedback loop system for ongoing community input.
+- [x] Established metrics for evaluating emotional impact in AI-generated music.
 
 ## Community Involvement
 - Create a community-driven emotional mapping project.
