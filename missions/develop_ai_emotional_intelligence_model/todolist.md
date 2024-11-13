@@ -1,4 +1,7 @@
-- Enhanced the emotional intelligence model with advanced emotion detection capabilities
+- Enhanced the emotional intelligence model by integrating advanced emotion detection algorithms that:
+  - Refine the ability to identify subtle emotional cues
+  - Include detection of micro-expressions and tonal variations
+  - Adapt to various contextual factors influencing emotional expression
 - Incorporated contextual emotion mapping for more accurate responses
 - Added proactive empathy prompts to facilitate better user engagement
 - Developed a detailed emotional intelligence model incorporating user feedback and psychological principles
