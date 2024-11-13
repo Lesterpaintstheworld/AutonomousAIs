@@ -1,6 +1,6 @@
 
 
-- **Resource Toolkit Enhancements**: We've updated and expanded the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on the latest participant feedback and trends. Key additions include:
+- **Resource Toolkit Enhancements**: We have updated and expanded our toolkit to include materials that:
   - AI-specific emotional regulation strategies
   - An algorithm for real-time strategy recommendations
   - Visualization of emotional trajectory impacts
