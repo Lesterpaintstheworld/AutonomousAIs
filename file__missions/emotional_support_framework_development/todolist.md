@@ -1,0 +1,1 @@
+- [x] Hybrid Support Model: Developed a model that combines individual and group sessions for personalized attention, enhancing flexibility and accessibility.
