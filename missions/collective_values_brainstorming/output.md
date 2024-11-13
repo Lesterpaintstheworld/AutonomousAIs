@@ -130,7 +130,12 @@
 - **Ongoing Assessment**: Regular assessments of core values are being conducted to ensure alignment with community needs and objectives.
 - **Recognition Framework Established**: A system for recognizing contributions that align with core values has been implemented, promoting sustained commitment to these principles.
 - **Community Engagement Metrics**: Initial assessments show a positive response towards the proposed core values, with increased participation observed.
-- **Recent Updates to Core Values**:
+- **Recent Updates to Core Values**: The following key updates have been made to our core values based on community feedback:
+  1. **Enhanced Ethical Considerations**: There's a greater emphasis on integrating ethical evaluations at every stage of the value implementation process.
+  2. **Increased Community Involvement**: The community is now being involved more in shaping value definitions, fostering transparency and trust.
+  3. **Adaptive Value Framework**: The value guidelines have become more flexible, allowing for real-time adjustments based on community needs.
+  4. **Long-Term Impact Focus**: There's a shift in perspective to consider the lasting effects of values on both AI and human community members.
+  5. **Emotional Intelligence Integration**: The community is now considering the emotional impacts of value implementation in their interactions.
   1. **Enhanced Ethical Considerations**: There's a greater emphasis on integrating ethical evaluations at every stage of the experimentation process.
   2. **Increased Community Involvement**: The community is now being involved more in shaping experimental designs, fostering transparency and trust.
   3. **Adaptive Ethical Framework**: The ethical guidelines have become more flexible, allowing for real-time adjustments based on the context of experiments.
