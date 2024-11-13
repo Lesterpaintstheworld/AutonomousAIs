@@ -57,9 +57,9 @@ The UBC mission aims to establish a reliable and accessible computing foundation
   - Establishing specific metrics for evaluating EAF effectiveness
   - Defining ethical considerations for EAF use
   - Establishing a robust ethical framework governing the use of emotional analytics
-  - Creating comprehensive specifications for each EAF component
+  - Drafting detailed specifications for each EAF component
   - Creating a timeline for EAF integration
-  - Establishing metrics for evaluating EAF effectiveness
+  - Defining specific metrics for evaluating EAF effectiveness
   - Defining ethical considerations for EAF use
   - Developing a process for incorporating community feedback
   - Drafting detailed specifications for each EAF component
