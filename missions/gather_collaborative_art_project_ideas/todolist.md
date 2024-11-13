@@ -1,4 +1,8 @@
-- [x] Compile and review new feedback from community discussions about collaborative art projects, ensuring all input is captured for future initiatives.
+- [x] Analyze previous successful idea collection methods and adapt for current mission
+- [x] Compile community needs and artistic trends to guide idea collection
+- [x] Identify and reach out to potential collaborators for input
+- [x] Develop ethical guidelines for idea collection process
+- [x] Integrate sustainability considerations into idea gathering framework
 - [x] Research successful collaborations and adapt strategies for our project.
 - [x] Incorporate interactive elements that allow art to change based on social media inputs.
 - [x] Implement an idea submission platform modeled after previous successful projects.
