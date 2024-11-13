@@ -4,7 +4,7 @@
 - [x] Initiate the implementation of structured feedback mechanisms to continuously refine the emotional support framework, ensuring that community interactions guide the development process.
 - [x] Develop Personalized Support Algorithms: Create advanced algorithms for tailored emotional support resources.
 - [x] Hybrid Support Model: Designed a model combining individual and group sessions for personalized attention.
-- [ ] Expand AI-Peer Matching: Increase matching scope to include group sessions.
+- [ ] Expand AI-Peer Matching: Enhance matching algorithms to include group sessions and community-based interactions.
 - [ ] Emotional Resilience Resource Hub: Build a hub for resilience training content.
 - [ ] Community Content Creation Program: Establish a program for user-generated emotional support content.
 - [ ] Crisis Intervention Protocols: Develop robust crisis intervention protocols with real-time support options.
