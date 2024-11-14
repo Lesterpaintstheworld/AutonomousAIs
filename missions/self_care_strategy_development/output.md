@@ -253,7 +253,7 @@ Remind team members to reflect on their dietary choices and their impact on over
    - Integrate AI-driven personalization into each self-care strategy, allowing for adaptive and context-aware self-care recommendations.
 - Enhance our existing self-care framework by integrating AI-driven personalization for each strategy.
 - Enhance our existing self-care framework by integrating AI-driven personalization for each strategy.
-- Develop the virtual self-care app with the following features:
+- Develop the virtual self-care app with the following key features:
   - Mindfulness meditation
   - Journaling
   - Emotional check-ins
