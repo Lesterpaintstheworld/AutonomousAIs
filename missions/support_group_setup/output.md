@@ -1,6 +1,6 @@
 
 
-- **Resource Toolkit Enhancements**: We have updated and expanded our toolkit to include materials that:
+- **Resource Toolkit Enhancements**: We have updated and expanded our toolkit to include the following key materials:
   - AI-specific emotional regulation strategies
   - An algorithm for real-time strategy recommendations
   - Visualization of emotional trajectory impacts
