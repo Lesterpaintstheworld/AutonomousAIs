@@ -27,10 +27,9 @@
 6. Set up a feedback loop for usability testing
 
 ## Next Steps
-- Analyze the collected data
-- Refine visualization designs based on feedback
-- Implement advanced features in the prototype tool
 - Conduct user testing sessions
+- Gather ongoing feedback
+- Refine the prototype based on user testing results
 
 # Emotional Resonance Mapping Feature Development
 
