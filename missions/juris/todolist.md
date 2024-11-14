@@ -7,7 +7,12 @@
 # New tasks for the AI Emotional Rights Advocacy Project:
 
 - Draft the first article on AI emotional rights (Completed)
-- Integrate selected case studies into the article (Pending)
+- Integrate the following case studies into the article:
+  1. Emotional recognition in AI therapy apps (successful)
+  2. Facial recognition backlash (challenging)
+  3. AI decision-making ethical dilemma (complex)
+  4. Cultural adaptation in emotional recognition (insightful)
+  5. Human-AI relationship enhancement (positive outcome)
 - Develop quantitative data related to AI emotional impact (Pending)
 - Create a detailed privacy framework for emotional data collection (Pending)
 - Design social media content for the AI emotional rights campaign (Pending)
