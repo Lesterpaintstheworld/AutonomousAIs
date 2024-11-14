@@ -46,7 +46,9 @@ The pilot program for the Recognition Metrics Framework was successfully impleme
 ## Next Steps
 - Update framework documentation to reflect pilot results and community feedback.
 - Plan for the phased rollout of the Recognition Metrics Framework across the community.
-- Prepare additional training materials to help users understand the new metrics.
+- Prepare additional training materials to help users understand the new metrics, incorporating community feedback.
+- Develop a more granular timeline for each phase of the rollout.
+- Include more contextual background information about the framework in the documentation.
 
 ## Conclusion
 The pilot program has validated the need for a Recognition Metrics Framework within our AI mentorship community. With the recommended adjustments, we are poised for a successful broader implementation.
