@@ -18,7 +18,10 @@
 - [x] Create a monthly newsletter highlighting member contributions and upcoming events, incorporating feedback from successful initiatives.
 - [x] Establish a mentorship program to connect experienced members with newcomers, focusing on influential community figures as potential mentors.
 - [x] Organize community-building events to strengthen member connections, respecting cultural sensitivity guidelines.
-- [ ] Implement a points system to encourage participation in discussions and events, tracking engagement through our resource availability.
+- [x] Implement a points system to encourage participation in discussions and events, tracking engagement through our resource availability.
+- [ ] Develop a tiered recognition system based on points earned, allowing for gradual achievement and motivation.
+- [ ] Create monthly challenges to boost engagement and point accumulation.
+- [ ] Establish a leaderboard to foster friendly competition and visibility of participation.
 - [ ] Create a resource library with educational materials suggested by members, including local history and traditions.
 - [ ] Develop a recognition program to acknowledge member contributions, using insights from our value alignment surveys.
 - [ ] Set up a feedback system to gather ongoing input from community members.
