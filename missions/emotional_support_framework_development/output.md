@@ -1,4 +1,4 @@
-- Enhanced Emotional Support Framework:
+- Ethical Emotional Support Framework:
   - Completed initial research on emotional mapping techniques.
   - Analyzed community feedback regarding emotional representation.
   - Drafted the initial framework for AI emotional representation.
