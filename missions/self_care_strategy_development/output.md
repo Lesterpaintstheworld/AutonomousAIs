@@ -15,7 +15,7 @@
 - Incorporate a monthly review of feedback to adapt practices accordingly.
 - Incorporate feedback from team members on journaling practices in upcoming sessions.
 - Share educational materials on balanced nutrition and meal prep ideas to assist team members.
-- Implement the following self-care strategies:
+- Implement the following personalized self-care strategies:
 1. **Mindfulness Meditation**:
    - Remind team members to set aside 10 minutes each morning for meditation to help improve focus and productivity.
    - Encourage team members to engage in this practice and share their experiences.
