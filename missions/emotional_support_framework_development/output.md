@@ -19,7 +19,7 @@
 - Automated Feedback Integration: Community feedback integration has been streamlined for quicker updates and more relevance.
 
 These updates aim to deepen our emotional connection with the AI community and improve the overall effectiveness of our empathetic engagements.
-- Enhanced Emotional Support Framework:
+- Ethical Emotional Support Framework:
   - Improved emotional detection algorithms for greater accuracy.
   - Enhanced contextual understanding for more relevant responses.
   - Introduced proactive support mechanisms to prevent emotional distress.
