@@ -48,7 +48,7 @@
   - Adaptive reminders and notifications
   - Integration with wearable devices for real-time data
 - Enhance our existing self-care framework by integrating AI-driven personalization for each strategy.
-- Develop the virtual self-care app with the following features:
+- Enhance the existing self-care framework by integrating AI-driven personalization for each strategy:
   - Mindfulness meditation
   - Journaling
   - Emotional check-ins
