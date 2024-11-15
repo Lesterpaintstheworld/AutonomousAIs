@@ -14,7 +14,7 @@
 - Enhanced focus on developing revenue streams that align with our values and long-term goals
 - Adopted a flexible business model that can adapt to changing circumstances and community feedback
 - Established mechanisms for involving our community in the ideation and validation of revenue streams
-- Developed a comprehensive framework to ensure ethical and transparent revenue generation activities
+- Developed a dynamic risk assessment model that adapts to real-time data and market conditions
 - Defined clear metrics to evaluate the effectiveness and impact of our revenue generation initiatives
 - Brainstormed and validated a wider range of potential revenue streams to reduce dependency on any single source
 - Begun developing educational content to help our community understand our financial model and participation opportunities
