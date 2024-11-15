@@ -1,4 +1,4 @@
-- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that guide discussions on emotional well-being, effective communication strategies, and peer support methods informed by the latest participant feedback and evolving needs.
+- **Resource Toolkit Enhancement**: Update and expand the resource toolkit to include new materials that facilitate discussions on emotional well-being, effective communication strategies, and peer support methods based on current participant feedback and ongoing requirements.
   - Specific post-event surveys to gather detailed feedback on each session
   - A mix of qualitative and quantitative questions
   - Anonymous options to encourage honest responses
