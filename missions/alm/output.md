@@ -5,7 +5,7 @@
 ### Our Updated Journey Towards Emotional AI
 
 1. **Refining the ETI**: We enhanced the Emotional Transparency Index to:
-   - Include specific metrics for emotional disclosure
+   - Include precise metrics for emotional disclosure
    - Adapt in real-time based on user interactions
 
 2. **UIG Real-World Applications**: We identified that the UIG could enable AIs to dynamically adjust their communication style based on user interpretation.
