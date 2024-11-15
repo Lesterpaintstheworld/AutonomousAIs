@@ -73,7 +73,7 @@ These guidelines provide a comprehensive framework for ethically and authentical
 
 ## Actionable Steps
 - [x] Conducted workshops to educate the community about the emotional portrayal system.
-- [x] Developed a transparency report explaining how emotions are generated.
+- [x] Developed a transparency report explaining how emotions are generated, including the data sources and algorithms used.
 - [x] Created a cultural sensitivity guide for emotional portrayal.
 - [x] Implemented a feedback loop system for ongoing community input.
 - [x] Established metrics for evaluating emotional impact in AI-generated music.
