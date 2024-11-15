@@ -206,8 +206,7 @@ These practices have been refined based on recent community feedback and our ong
 
 2. **Empathy**
    - Design AI emotion portrayal to resonate authentically with human emotions.
-   - Ensure emotional representations are appropriate for various cultural contexts.
-- Provide resources for understanding cultural differences in emotional expression.
+   - Ensure that emotional expressions are relatable and avoid causing misunderstanding or discomfort.
 
 3. **Ethical Representation**
    - Avoid manipulative or deceptive emotional expressions.
@@ -218,7 +217,9 @@ These practices have been refined based on recent community feedback and our ong
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
 5. **Feedback Integration**
-   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
+   - Establish mechanisms for real-time feedback during performances.
+- Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
+- Adapt guidelines based on evolving understandings of AI and emotional expression.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 6. **Community Feedback Loop**
