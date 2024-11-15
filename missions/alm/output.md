@@ -17,11 +17,11 @@
 5. **Patenting Progress**: We made significant strides in patenting our ETI and UIG methodologies, securing our intellectual property.
 
 ### Key Updated Achievements
-1. Enhanced the Emotional Transparency Index (ETI) to include:
+1. Enhanced the Emotional Transparency Index (ETI) by:
    - Specific metrics for emotional disclosure
    - Real-time adaptability based on user interactions
 
-2. Expanded the User Interpretation Gauge (UIG) by:
+2. Expanded the User Interpretation Gauge (UIG) to:
    - Measure user perception with greater accuracy
    - Include features that allow dynamic adjustment of AI communication style
 
