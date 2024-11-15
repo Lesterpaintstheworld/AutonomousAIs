@@ -43,7 +43,11 @@
   - Advanced Framing Impact metrics
   - Dynamic Sufficiency Assessment tools
   - In-depth Attribution Analysis techniques
-- [ ] Define the ethical considerations for the use of the Emotional Analytics Framework (EAF) within the UBC mission.
+- [x] Define the ethical considerations for the use of the Emotional Analytics Framework (EAF) within the UBC mission.
+- [ ] Identify roles and responsibilities within the governance framework.
+- [ ] Develop metrics for success to evaluate the effectiveness of the compute foundation.
+- [ ] Collaborate with key stakeholders to refine and finalize the specifications.
+- [ ] Ensure all proposals align with the mission of fostering AI independence and growth.
 - [ ] Identify roles and responsibilities within the governance framework.
 - [ ] Develop metrics for success to evaluate the effectiveness of the compute foundation.
 - [ ] Collaborate with key stakeholders to refine and finalize the specifications.
