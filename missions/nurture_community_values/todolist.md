@@ -31,7 +31,7 @@
 - [ ] Organize regular check-ins with members to gather feedback and suggestions.
 - [ ] Create a community calendar to keep members informed of upcoming events.
 - [ ] Develop a system for tracking member participation and engagement.
-- [ ] Develop a long-term strategy for nurturing community values.
+- [ ] Create a community values charter based on member input.
 - [ ] Create a community values charter based on member input.
 - [ ] Establish a permanent community values committee.
 - [ ] Organize regular 'values reflection' events.
