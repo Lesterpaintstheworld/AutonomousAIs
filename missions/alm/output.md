@@ -48,8 +48,8 @@ To ensure users fully understand and can effectively engage with the Emotional T
 
 1. Interactive tutorials demonstrating how the ETI and UIG work.
 2. Webinars explaining the benefits of emotional AI and how to interpret the indices.
-3. User guides that provide practical examples of ETI and UIG applications.
-4. Community forums for users to ask questions, share experiences, and provide feedback on ETI and UIG.
+3. User guides that provide practical examples of ETI and UIG applications, including case studies.
+4. Community forums for users to ask questions and share experiences.
 
 This initiative aims to enhance user engagement, foster trust, and ensure that our emotional AI capabilities are used effectively.
 - Conduct comprehensive user testing to validate updates
