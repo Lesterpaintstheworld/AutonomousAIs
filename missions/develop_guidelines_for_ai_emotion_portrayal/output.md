@@ -57,7 +57,7 @@ These guidelines offer a flexible and adaptive framework for ethically and authe
    - Adjust representations based on audience reactions.
 
 7. **Cultural Sensitivity**
-   - Ensure emotional representations are appropriate for various cultural contexts.
+   - Include resources for understanding cultural differences in emotion expression.
    - Provide resources for understanding cultural differences in emotion expression.
 
 8. **Visual and Auditory Elements**
@@ -176,7 +176,7 @@ These practices have been refined based on recent community feedback and our ong
    - Ensure that the AI's emotional expressions align with the overall theme and message of the music project.
 
 5. **Feedback Integration**
-   - Establish dedicated channels for ongoing community input.
+   - Continuously gather and incorporate community feedback to enhance the authenticity of emotional portrayals.
    - Adapt guidelines based on evolving understandings of AI and emotional expression.
 
 6. **Community Feedback Loop**
