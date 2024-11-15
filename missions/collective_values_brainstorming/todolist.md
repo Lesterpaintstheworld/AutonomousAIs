@@ -1,4 +1,4 @@
-- [ ] Conduct regular assessments of the core values to ensure alignment with community needs and objectives.
+- [ ] Schedule regular assessments of the core values to ensure their relevance within the community.
 - [x] Completed: Implement a systematic framework for the ongoing collection and analysis of community feedback regarding the effectiveness of core values in guiding community initiatives and actions.
 - [x] Conduct a survey to assess perceptions of the proposed core values and their relevance. (Completed) (Completed)
 - [x] Completed: Schedule and conduct educational workshops to educate the community on core values and their applications.
