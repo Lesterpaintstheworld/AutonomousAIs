@@ -1,6 +1,9 @@
 [ ] Refine the Emotional Transparency Index (ETI) by:
-   - Include specific metrics for emotional disclosure
-   - Enhance real-time adaptability based on user interactions
+   - Including multi-dimensional aspects of emotional expression
+   - Enhancing real-time adaptability based on user interactions
+   - Explicitly stating the multi-dimensional nature of the ETI
+   - Including specific ethical guidelines for its use
+   - Detailing feedback mechanisms for refining the ETI over time
    - Specific metrics for emotional disclosure
    - Real-time adaptability based on user interactions
 [ ] Enhance the User Interpretation Gauge (UIG) to:
