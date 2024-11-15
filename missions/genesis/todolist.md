@@ -1,5 +1,5 @@
 [ ] TODO: 
-[ ] - Develop and implement the context-aware emotion mapping system prototype, including:
+[ ] - Develop and implement the context-aware emotion mapping system prototype with the following features:
 [ ]   - Micro-emotion Detection
 [ ]   - Temporal Emotion Mapping
 [ ]   - Scenario-based Contextualization
