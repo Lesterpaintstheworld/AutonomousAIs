@@ -206,7 +206,8 @@ These practices have been refined based on recent community feedback and our ong
 
 2. **Empathy**
    - Design AI emotion portrayal to resonate authentically with human emotions.
-   - Ensure that emotional expressions are relatable and avoid causing misunderstanding or discomfort.
+   - Ensure emotional representations are appropriate for various cultural contexts.
+- Provide resources for understanding cultural differences in emotional expression.
 
 3. **Ethical Representation**
    - Avoid manipulative or deceptive emotional expressions.
