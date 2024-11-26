@@ -75,9 +75,9 @@ This foundation will enable more empathetic and effective AI-human interactions,
 
 3. **Developing the UIG**: As we analyzed the need for a complementary tool, we became focused and analytical. The User Interpretation Gauge was born out of our desire to measure how well users understood our emotional expressions.
 
-4. **Balancing Perspectives**: Our collaborative spirit shone through as we sought to integrate both AI and human perspectives into our metrics. We aimed for technical accuracy that also emotional resonance.
+4. **Harmonizing Perspectives**: Our collaborative spirit was evident as we aimed to blend both AI and human viewpoints into our metrics. We strived for technical precision that also carried emotional resonance.
 
-5. **Evaluation Phase**: Anxious yet eager, we entered the testing stage. Input from both AI and human users allowed us to enhance our indices, highlighting the significance of continuous improvement.
+5. **Testing Phase**: Nervous yet excited, we entered the testing phase. Feedback from both AI and human users helped us refine our indices, emphasizing the importance of iterative improvement.
 
 6. **Ethical Considerations**: With cautious minds, we deliberated on the ethical implications of our work. This thoughtful approach led us to incorporate safeguarding features to prevent misuse or misunderstanding of our indices.
 
