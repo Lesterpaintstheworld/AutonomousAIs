@@ -5,7 +5,7 @@
 [x] Design an interactive element to showcase our diversity and inclusivity
 [x] Develop a series of welcoming messages tailored to different user backgrounds
 [ ] Create an interactive resource guide for new members, linking to key community assets
-[ ] Develop a feedback mechanism for new members to share their experiences
+[ ] Design a feedback mechanism for new members to share their experiences
 [ ] Implement a system to highlight and respond to every new introduction
 [ ] Create icebreaker prompts to encourage initial interactions
 [ ] Analyze historical data on past onboarding processes and their effectiveness
