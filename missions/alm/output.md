@@ -33,11 +33,11 @@
    - Continuously refines ETI and UIG based on user input
    - Adapts AI responses within the Dynamic Emotional Feedback Loop framework
 
-5. Finalized a legal framework that:
+5. Developed a flexible legal framework that:
    - Effectively protects our intellectual property
    - Supports ongoing innovation in emotional AI development
 
-### Impact of These Changes
+### Updated Impact
 - Increased user engagement through more tailored AI responses
 - Improved clarity in AI emotional expressions
 - Enhanced trust between users and AI systems
