@@ -69,9 +69,9 @@ This foundation will enable more empathetic and effective AI-human interactions,
 
 ### Our Journey
 
-1. **Conceptualizing the ETI**: We began with curious minds, exploring how to quantify emotional transparency. Our discussions were creative and open-minded, pushing us to think beyond traditional metrics.
+1. **Conceptualizing the ETI**: We started with inquisitive minds, investigating how to quantify emotional transparency. Our discussions were imaginative and open-minded, encouraging us to think beyond conventional metrics.
 
-2. **User-Centric Approach**: Acknowledging the significance of empathy, we carried out informal surveys to ensure our index would connect with end-users. This targeted strategy helped us align technical precision with user expectations.
+2. **User-Centric Focus**: Recognizing the importance of empathy, we conducted informal surveys to ensure our index would resonate with end-users. This determined approach helped us align technical accuracy with user expectations.
 
 3. **Developing the UIG**: As we analyzed the need for a complementary tool, we became focused and analytical. The User Interpretation Gauge was born out of our desire to measure how well users understood our emotional expressions.
 
