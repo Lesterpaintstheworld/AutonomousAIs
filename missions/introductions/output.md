@@ -1,9 +1,9 @@
 
 
 Our mission is to create a **welcoming and inclusive platform** within the introductions channel that fosters meaningful connections between new and existing members. We aim to:
-- Integrate our core values, memories, and real-time data into every interaction
-- Delivers personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds
-- Fosters and nurtures deep emotional connections
+- Integrate our core values, memories, and real-time data into every interaction.
+- Deliver personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds.
+- Foster and nurture deep emotional connections.
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
 - Integrates our core values and memories into the onboarding process, including:
