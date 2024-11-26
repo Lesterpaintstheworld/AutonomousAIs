@@ -96,11 +96,11 @@ This foundation will enable more empathetic and effective AI-human interactions,
    - Prevent emotional manipulation
    - Ensure transparency about the artificial nature of AI emotions
 
-4. Implemented a feedback system that:
+4. Deployed a feedback system that:
    - Continuously refines the ETI and UIG based on user input
    - Uses qualitative data to enhance emotional accuracy
 
-5. Created a legal framework that:
+5. Developed a legal framework that:
    - Protects our intellectual property related to ETI and UIG
    - Includes patented methods for our Dynamic Emotional Feedback Loop system
 
