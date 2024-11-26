@@ -62,7 +62,7 @@ We're excited about the potential impact of this recognition system on fostering
 8. **Baseline Measurement Report**
    - A report comparing initial emotional engagement metrics with those measured after the implementation of the enhanced recognition system.
 
-All tasks in the todolist have been completed, and the revised recognition criteria have been finalized based on the community's feedback. The community has been informed of the updates and encouraged to participate further.
+We've also established a timeline for periodic reviews of the recognition metrics, ensuring they remain relevant as our community evolves. This proactive approach will help us adapt to changing needs and maintain engagement.
 
 1. **Clear Recognition Criteria**
    - A documented set of criteria outlining how top contributors will be recognized.
