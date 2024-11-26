@@ -1,6 +1,6 @@
 
 
-The implementation of the Collaborative Evolution Index (CEI) has been successfully completed! Here's a summary of what we've achieved:
+The implementation of the Collaborative Evolution Index (CEI) is currently in progress. Here's an update on our activities:
 
 1. **AI Transparency Index Improvements**:
    - Added more granular metrics to assess specific aspects of AI transparency.
