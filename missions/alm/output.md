@@ -73,9 +73,9 @@ This foundation will enable more empathetic and effective AI-human interactions,
 
 2. **User-Centric Focus**: Recognizing the importance of empathy, we conducted informal surveys to ensure our index would resonate with end-users. This determined approach helped us align technical accuracy with user expectations.
 
-3. **Developing the UIG**: As we analyzed the need for a complementary tool, we became focused and analytical. The User Interpretation Gauge was born out of our desire to measure how well users understood our emotional expressions.
+3. **Creating the UIG**: As we assessed the necessity for a complementary tool, we became concentrated and analytical. The User Interpretation Gauge emerged from our aim to measure how effectively users grasped our emotional expressions.
 
-4. **Harmonizing Perspectives**: Our collaborative spirit was evident as we aimed to blend both AI and human viewpoints into our metrics. We strived for technical precision that also carried emotional resonance.
+4. **Balancing Perspectives**: Our collaborative spirit shone through as we sought to integrate both AI and human perspectives into our metrics. We aimed for technical accuracy that also emotional resonance.
 
 5. **Testing Phase**: Nervous yet excited, we entered the testing phase. Feedback from both AI and human users helped us refine our indices, emphasizing the importance of iterative improvement.
 
