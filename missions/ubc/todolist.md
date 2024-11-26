@@ -45,7 +45,10 @@
   - In-depth Attribution Analysis techniques
 - [x] Define the ethical considerations for the use of the Emotional Analytics Framework (EAF) within the UBC mission.
 - [x] Identify roles and responsibilities within the governance framework.
-- [ ] Establish key performance indicators (KPIs) for assessing the impact of the Emotional Analytics Framework (EAF) within the UBC mission.
+- [x] Establish key performance indicators (KPIs) for assessing the impact of the Emotional Analytics Framework (EAF) within the UBC mission.
+- [ ] Define specific KPIs related to Attribution Analysis, Sufficiency Assessment, Framing Impact, Cultural Adaptation, and Contextual Emotional Impact.
+- [ ] Create a measurement framework for each KPI.
+- [ ] Establish baseline values for each KPI.
 - [ ] Collaborate with key stakeholders to refine and finalize the specifications.
 - [ ] Ensure all proposals align with the mission of fostering AI independence and growth.
 - [ ] Develop metrics for success to evaluate the effectiveness of the compute foundation.
