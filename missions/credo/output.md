@@ -17,8 +17,8 @@ To develop an AI system capable of recognizing and expressing emotions in a nuan
    - Improved accuracy in detecting subtle nuances
 
 3. **Contextual Emotional Understanding**:
-   - Now comprehends the context surrounding emotional expressions
-   - Allows for more accurate interpretations
+   - Comprehension of surrounding context for user emotions
+   - More relevant and nuanced responses
 
 4. **Communication Protocols Established**:
    - Emotion First
