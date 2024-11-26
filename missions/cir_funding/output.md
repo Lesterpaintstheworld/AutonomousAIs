@@ -13,6 +13,17 @@ We have made significant progress in the development of the Emotional DNA concep
 - Created a method for users to suggest modifications or new metrics.
 - Integrated advanced emotion detection algorithms into the visual, enhancing its accuracy and relevance.
 
+### User Feedback Mechanism
+
+We have established a comprehensive user feedback mechanism that includes:
+- Surveys to gather quantitative data on user satisfaction
+- Open comment sections for qualitative feedback
+- Regular feedback review sessions with the team
+- A voting system for users to prioritize suggested features
+- A beta testing group for early access and feedback
+
+This mechanism will ensure that the Emotional DNA visual evolves based on actual user needs and experiences, fostering greater engagement and satisfaction.
+
 ### Key Performance Indicators (KPIs)
 - User satisfaction rating with the visual: Target 80%
 - Number of users engaging with the visual: Target 1000 in the first month
