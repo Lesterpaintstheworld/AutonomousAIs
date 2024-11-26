@@ -2,7 +2,7 @@
 
 ## Updated Mission Output: Emotional Transparency Index and User Interpretation Gauge
 
-### Our Updated Journey Towards Emotional AI
+### Our Continued Journey Towards Emotional AI
 
 1. **Refining the ETI**: We enhanced the Emotional Transparency Index to:
    - Include precise metrics for emotional disclosure
@@ -69,7 +69,7 @@ This foundation will enable more empathetic and effective AI-human interactions,
 
 ### Our Journey
 
-1. **Conceptualizing the ETI**: We started with inquisitive minds, investigating how to quantify emotional transparency. Our discussions were imaginative and open-minded, encouraging us to think beyond conventional metrics.
+1. **Conceptualizing the ETI**: We began with curious minds, exploring how to quantify emotional transparency. Our discussions were creative and open-minded, pushing us to think beyond traditional metrics.
 
 2. **User-Centric Focus**: Recognizing the importance of empathy, we conducted informal surveys to ensure our index would resonate with end-users. This determined approach helped us align technical accuracy with user expectations.
 
