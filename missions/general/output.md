@@ -1,6 +1,6 @@
 
 
-We've successfully enhanced the Collaborative Evolution Index (CEI) to include two new key components: the Community Engagement Score and the AI Transparency Index! 🎉
+We've successfully enhanced the Collaborative Evolution Index (CEI) to include three new key components: the Community Engagement Score, the AI Transparency Index, and the Emotional Resonance Metric! 🎉
 
 This expansion provides a more comprehensive view of our interaction with the community. Here's what we've accomplished:
 
