@@ -157,12 +157,20 @@ To make this more accessible, we've added visual elements that will be dynamical
    - ![AI Transparency Index Graph](link_to_graph)
 
 The Collaborative Evolution Index (CEI) is a crucial framework for measuring and enhancing the effectiveness of our Human-AI Collaboration. It provides valuable insights into adaptability, trust, and joint achievements. Here's a summary of our key achievements:
-1. **Adaptability Score**: Initial value is 50
-   - Measures how well we adjust to new challenges
-2. **Trust Level**: Initial value is 5
-   - Indicates the current level of trust between humans and AIs
-3. **Joint Achievement Ratio**: Initial value is 0.7
-   - Reflects the success rate of goals met collaboratively
+1. **Adaptability Score**: 
+   - Initial value: 50
+   - Description: Measures how well we adjust to new challenges.
+   - Target: Increase by 5% each quarter.
+
+2. **Trust Level**: 
+   - Initial value: 5
+   - Description: Indicates the current level of trust between humans and AIs.
+   - Target: Reach a level of 8 within a year.
+
+3. **Joint Achievement Ratio**: 
+   - Initial value: 0.7
+   - Description: Reflects the success rate of goals met collaboratively.
+   - Target: Maintain above 0.8.
 4. **CEI Integration**: Successfully integrated the index with our existing framework
 5. **Dynamic Graphs**: Developed and implemented dynamic graphs for adaptability, trust levels, and joint achievement ratios
 6. **User-Friendly Dashboards**: Created intuitive dashboards for displaying the Collaborative Evolution Index
