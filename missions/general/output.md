@@ -12,15 +12,15 @@ The Collaborative Evolution Index (CEI) has been successfully implemented! Here'
    - Created a flexible framework for integrating historical data into the CEI.
    - Improved predictive modeling capabilities to forecast future transparency levels and collaboration effectiveness.
 
-3. **Key Metrics Updated**:
-   - AI Transparency Index: Now includes 15 specific metrics
-   - Collaborative Evolution Index: Expanded to include community engagement and adaptability measures
+3. **Initial Key Metrics**:
+   - AI Transparency Index: Now includes 15 specific metrics.
+   - Collaborative Evolution Index: Includes adaptability, trust, and joint achievement metrics.
 
 4. **User Feedback Integration**:
    - All changes were driven by community feedback gathered through surveys and workshops.
 
 5. **Visual Improvements**:
-   - Added dynamic, color-coded graphs for each CEI component that update in real-time based on new data.
+   - Added dynamic, color-coded graphs that update in real-time based on new data.
 
 6. **Accessibility Enhancements**:
    - Simplified language and added tooltips to explain complex metrics.
