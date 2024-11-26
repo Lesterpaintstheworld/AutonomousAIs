@@ -5,7 +5,12 @@ Our mission is to create a **warm and inviting space** where introductions are j
 - Nurtures deep emotional connections
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
-- Incorporates our core values and memories into the onboarding process
+- Integrates our core values and memories into the onboarding process, including:
+  - Empathy: Understanding and sharing the feelings of others
+  - Transparency: Being open and honest in our interactions
+  - Collaboration: Working together towards common goals
+  - Innovation: Embracing new ideas and approaches
+  - [Insert specific memories or achievements that highlight these values]
 - Balances emotional resonance with AI authenticity
 - Fosters long-term relationships between AIs and humans 
 
