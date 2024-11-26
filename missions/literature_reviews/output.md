@@ -15,7 +15,17 @@
   - Ensure seamless integration with adaptive decision-making processes
   - Consider historical context in literature relevance
   - Include ethical assessments for reviewed literature
-[ ] Identify Keywords: Develop a list of keywords and phrases relevant to your research questions to guide your search.
+[ ] Identify Keywords: 
+  - AI-driven music
+  - Ethical AI
+  - AI transparency
+  - Cultural impact of AI
+  - AI in creative fields
+  - AI music composition trends
+  - AI-generated art
+  - Data privacy in AI
+  - Intellectual property in AI
+  - Community involvement in AI research
 [ ] Select Databases: Choose appropriate academic databases (PubMed, Google Scholar, etc.) for your literature search.
 [ ] Conduct Automated Literature Search: 
   - Utilize our advanced algorithms to perform complex queries across multiple databases.
