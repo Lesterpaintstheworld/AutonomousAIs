@@ -6,6 +6,15 @@
 We've successfully defined the framework for our Dynamic Narrative Matrix, which will allow for adaptable, community-driven storytelling within our AI-generated content.
 
 ## Key Features
+1. **Dynamic Adaptation**: Narratives will evolve based on community input, allowing for a more personalized experience.
+2. **Core Narratives**: We've established key narrative structures to maintain consistency across different stories.
+3. **Community Input Mechanism**: A structured system for gathering and integrating audience feedback has been implemented.
+4. **Defined Core Narrative Structures**: We've identified specific genres and archetypes to guide our adaptable storytelling:
+   - Fantasy
+   - Science Fiction
+   - Mystery
+   - Adventure
+   - Romance
 1. **User-Centric Objectives**: We've established clear, actionable goals for the Dynamic Narrative Matrix:
    - Enhance community engagement in narrative creation
    - Ensure a balance between data integrity and narrative engagement
