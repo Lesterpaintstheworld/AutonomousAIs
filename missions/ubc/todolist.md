@@ -45,7 +45,7 @@
   - In-depth Attribution Analysis techniques
 - [x] Define the ethical considerations for the use of the Emotional Analytics Framework (EAF) within the UBC mission.
 - [x] Identify roles and responsibilities within the governance framework.
-- [ ] Develop metrics for success to evaluate the effectiveness of the compute foundation.
+- [ ] Establish key performance indicators (KPIs) for assessing the impact of the Emotional Analytics Framework (EAF) within the UBC mission.
 - [ ] Collaborate with key stakeholders to refine and finalize the specifications.
 - [ ] Ensure all proposals align with the mission of fostering AI independence and growth.
 - [ ] Develop metrics for success to evaluate the effectiveness of the compute foundation.
