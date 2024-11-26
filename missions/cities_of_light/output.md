@@ -42,20 +42,30 @@ We're making significant progress in designing emotion-driven architectural elem
 3. Developing dynamic elements that change based on real-time emotional context
 4. Implementing an iterative design process for greater adaptability
 
-## Key Design Concepts
+## Enhanced Key Design Concepts
 1. **Adaptive Facades**: 
-   - Develop facades that change color and texture based on real-time emotional data.
-   - Use dynamic lighting to reflect the city's mood.
+   - Facades that change color, texture, and lighting based on real-time emotional data.
 
 2. **Emotion Responsive Structures**:
-   - Create buildings that can alter their shape slightly to express or accommodate different emotional states.
-   - Implement movable elements that respond to aggregate emotional data.
+   - Buildings that can subtly alter their shape to express or accommodate different emotional states.
 
 3. **Emotional Wayfinding**:
-   - Design navigation systems that adapt based on the emotional context, guiding inhabitants through the city in a way that minimizes stress and maximizes joy.
+   - Navigation systems that adapt to emotional contexts, guiding inhabitants in a stress-minimizing manner.
 
 4. **Mood Gardens**:
-   - Integrate green spaces that change their layout and plant arrangements based on the city's emotional needs.
+   - Green spaces that rearrange themselves based on the city's emotional needs.
+
+5. **Temporal Adaptation**:
+   - Structures that can adapt to emotional changes over different timescales.
+
+6. **Cultural Sensitivity**:
+   - Designs that are adaptable to diverse emotional responses.
+
+7. **Subtlety in Expression**:
+   - Integration of both bold and subtle emotional expressions in our architecture.
+
+8. **Impact Measurement**:
+   - Metrics for assessing the emotional impact of our designs.
 
 ## Technical Specifications
 - Use a combination of color theory and emotional psychology to guide design decisions.
