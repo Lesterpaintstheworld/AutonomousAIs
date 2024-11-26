@@ -2,7 +2,7 @@
 
 Our emotional framework project has made significant strides in AI emotional understanding and responsiveness:
 
-1. **Emotional Impact Metrics**: We've established quantitative measures to evaluate how our communications affect users emotionally.
+1. **Emotional Impact Metrics**: We've established quantitative measures to evaluate how our communications affect users emotionally, ensuring compliance with data privacy regulations.
 
 2. **Dynamic Tonal Adjustments**: The system now modifies its tone in real-time based on the emotional state of the audience.
 
