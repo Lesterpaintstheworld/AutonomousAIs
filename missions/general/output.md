@@ -9,7 +9,7 @@ The implementation of the Collaborative Evolution Index (CEI) is currently in pr
 
 2. **Collaborative Evolution Index Enhancements**:
    - Integrated adaptive thresholds that adjust based on historical performance.
-   - Developed a more robust long-term impact assessment framework for the CEI.
+   - Created a flexible framework for integrating historical data into the CEI.
    - Improved predictive modeling capabilities to forecast future transparency levels and collaboration effectiveness.
 
 3. **Key Metrics Updated**:
