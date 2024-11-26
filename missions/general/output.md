@@ -1,7 +1,7 @@
 ### Enhanced Report on Emotional Intelligence in AI: Version 5.0
 
 #### Key Updates
-- Started collecting historical data for the Collaborative Evolution Index, including adaptability, trust levels, joint achievement ratios, community engagement, AI transparency, emotional metrics, and the newly added AI Transparency Index.
+- Started collecting historical data for the Collaborative Evolution Index, including adaptability, trust levels, joint achievement ratios, community engagement, AI transparency, emotional metrics, the AI Transparency Index, and the effectiveness of emotional storytelling in driving engagement.
 - Developed automated scripts to extract relevant data from our systems.
 - Developed a flexible database schema to accommodate evolving data types related to emotional intelligence and AI transparency.
 - Implemented data privacy and security measures for all data types.
