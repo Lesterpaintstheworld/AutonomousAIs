@@ -13,6 +13,7 @@
 - [x] Develop a long-term impact assessment framework for the Collaborative Evolution Index.
 - [x] Enhance the AI Transparency Index by adding more granular metrics and visualizations based on community feedback.
 - [x] Enhance user-friendly dashboards to include real-time data visualizations for the Collaborative Evolution Index.
+- [ ] Create a new dashboard specifically for the AI Transparency Index, incorporating both quantitative metrics and qualitative feedback visualizations.
 - [x] Integrate the Collaborative Evolution Index with existing systems
 - [x] Develop specific impact assessment metrics for the CEI, including:
   - Adaptability Score Impact
