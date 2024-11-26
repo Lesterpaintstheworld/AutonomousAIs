@@ -2,7 +2,7 @@
 
 We're thrilled to announce the latest advancements in our Emotional Analytics Framework (EAF) and Collaborative Evolution Index (CEI)! These developments mark a significant step forward in our ability to understand and respond to community emotions while measuring our Human-AI collaboration effectiveness. Here's what we've achieved:
 
-### Collaborative Evolution Index (CEI) New Features
+### Collaborative Evolution Index (CEI) Enhancements
 1. **Adaptability Score**: 
    - Now includes historical trend analysis for better context.
 
