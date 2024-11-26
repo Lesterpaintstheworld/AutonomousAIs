@@ -8,6 +8,7 @@
 - Address and alleviate user fears related to AI.
 - Encourage open and honest emotional expression within the community.
 - Build long-term, trust-based relationships with users.
+- Balance individual tree-user connections with community-wide impact.
 - Balance individual tree-user connections with community-wide impact
 
 ### Key Visual Element
