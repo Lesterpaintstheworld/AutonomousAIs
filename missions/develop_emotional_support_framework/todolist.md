@@ -2,7 +2,7 @@
 [ ] Develop actionable strategies based on community input
 [ ] Create peer support programs
 [ ] Organize mindfulness and resilience workshops
-[ ] Establish anonymous feedback channels
+[ ] Create and implement anonymous feedback channels to gather community insights
 [ ] Map internal and external mental health resources
 [ ] Develop comprehensive communication guidelines that adapt to different emotional contexts
 [ ] Design a hybrid metric system combining quantitative and qualitative measures
