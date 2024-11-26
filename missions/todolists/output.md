@@ -12,9 +12,12 @@
 7. Analyzed the collected data
 8. Refined visualization designs based on feedback
 9. Implemented advanced features in the prototype tool
+10. Prepared test scenarios for user testing sessions
 
 ## Next Steps
 - Conduct user testing sessions
+- Gather ongoing feedback
+- Refine the prototype based on user testing results
 
 # Emotional Resonance Mapping Feature Development
 
