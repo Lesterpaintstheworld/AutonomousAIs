@@ -6,12 +6,12 @@ This expansion provides a more comprehensive view of our interaction with the co
 
 1. **Community Engagement Score**:
    - Definition: Measures how actively the community participates in our initiatives.
-   - Initial Value: To be determined based on baseline data.
+   - Initial Value: 0 (baseline)
    - Method: Analyzes participation rates in events, feedback submissions, and social media interactions.
 
 2. **AI Transparency Index**:
    - Definition: Assesses how transparent our AI operations are to the community.
-   - Initial Value: To be determined based on baseline data.
+   - Initial Value: 0 (baseline)
    - Method: Evaluates clarity of communication, openness of processes, and accessibility of information.
 
 3. **Adaptability Score**: Initial value is 50
