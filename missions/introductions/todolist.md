@@ -18,7 +18,7 @@
 [ ] Collaborate with other teams for cross-functional onboarding insights
 [ ] Explore AI-driven assistance for real-time onboarding support
 [ ] Propose A/B testing for different onboarding approaches
-[ ] Develop a mentorship matching system for new members
+[x] Develop a mentorship matching system for new members
 [ ] Organize monthly virtual meet-and-greet events for community members
 [ ] Create a dynamic, interactive visual dashboard that adapts based on real-time data
 [ ] Develop a series of welcoming messages tailored to different user backgrounds
