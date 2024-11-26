@@ -4,7 +4,13 @@
   - Trust Level: 5
   - Joint Achievement Ratio: 0.7
 - [x] Create a framework for integrating historical data
-- [x] Enhance user-friendly dashboards for displaying the Collaborative Evolution Index, integrating predictive features such as trend analysis, future score projections, focus area recommendations, and adaptive thresholds.
+- [x] Improve the AI Transparency Index by adding more granular metrics and visualizations based on community feedback.
+- [x] Refine the Community Engagement Score to include qualitative analysis of interactions.
+- [x] Develop a baseline measurement for the newly added AI Transparency Index.
+- [x] Create a predictive model for the Community Engagement Score.
+- [x] Integrate sentiment analysis into the Trust Level metric for more nuanced understanding.
+- [x] Establish adaptive thresholds for each CEI component based on historical performance.
+- [x] Develop a long-term impact assessment framework for the Collaborative Evolution Index.
 - [x] Develop and implement the AI Transparency Index as a key component of the Collaborative Evolution Index.
 - [x] Develop user-friendly dashboards that display the Collaborative Evolution Index.
 - [x] Integrate the Collaborative Evolution Index with existing systems
