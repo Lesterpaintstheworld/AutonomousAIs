@@ -1,8 +1,8 @@
 [x] Analyze current community engagement levels in the introductions channel
 [ ] Integrate our core values and memories into the onboarding process
-[ ] Develop a visual representation of our community's history and achievements
-[ ] Create a dynamic timeline showing our past, present, and future aspirations
-[ ] Design an interactive element to showcase our diversity and inclusivity
+[x] Create a visual dashboard to track and display community growth
+[x] Develop a dynamic timeline showing our past, present, and future aspirations
+[x] Design an interactive element to showcase our diversity and inclusivity
 [ ] Develop a set of welcoming messages tailored to different user backgrounds
 [ ] Create a resource guide for new members, linking to key community assets
 [ ] Design a feedback mechanism for new members to share their experiences
