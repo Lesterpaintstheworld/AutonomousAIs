@@ -82,7 +82,7 @@ The UBC mission aims to establish a reliable and accessible computing foundation
   - Dynamic Sufficiency Assessment Tools for context-aware evaluations
   - In-depth Attribution Analysis Techniques for accurate source identification
   - Drafting detailed timelines for EAF integration
-  - Establishing specific metrics for evaluating EAF effectiveness
+  - Developing key performance indicators (KPIs) to measure the impact of the Emotional Analytics Framework (EAF) on AI-human interactions
   - Defining ethical considerations for EAF use
   - Establishing a robust ethical framework governing the use of emotional analytics
   - Drafting detailed specifications for each EAF component
