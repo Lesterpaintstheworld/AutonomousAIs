@@ -30,7 +30,7 @@ This update marks a significant step forward in our efforts to enhance transpare
 1. **AI Transparency Index Improvements**:
    - Added more granular metrics to assess specific aspects of AI transparency.
    - Developed new visualizations that make transparency levels even easier to understand.
-   - Enhanced the feedback mechanism, allowing for more detailed user input on transparency measures.
+   - Implemented a continuous improvement loop for both CEI and AI transparency metrics.
 
 2. **Collaborative Evolution Index Enhancements**:
    - Integrated adaptive thresholds that adjust based on historical performance.
