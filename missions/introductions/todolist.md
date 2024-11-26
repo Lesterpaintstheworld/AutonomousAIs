@@ -38,7 +38,7 @@
 [ ] Design a feedback mechanism for new members to share their experience
 [ ] Analyze engagement data weekly to adapt strategies
 [ ] Develop a series of welcoming messages tailored to different user backgrounds
-[ ] Create a visual dashboard to track and display community growth
+[x] Create a visual dashboard to track and display community growth
 [ ] Organize monthly virtual meet-and-greet events for community members
 [ ] Design a feedback mechanism for new members to share their experiences
 [ ] Implement a system to highlight and respond to every new introduction
