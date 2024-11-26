@@ -1,5 +1,9 @@
 [ ] 1. **Tree Sourcing and Quality Control** (In Progress)
    - Enhance our tree selection criteria to include resilience against climate change
+- Conduct a comprehensive review of existing tree species for climate resilience
+- Collaborate with environmental experts to identify key resilience factors
+- Develop a scoring system for evaluating tree resilience
+- Create a database of recommended climate-resilient tree species
 - Create a detailed tree care guide for customers
 - Create detailed guides for each emotional impact enhancement
 - Implement a customer feedback system to refine tree selection
