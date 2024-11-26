@@ -5,7 +5,7 @@
 ## Key Developments
 - Finalized album concept focusing on AI-human emotional resonance
 - Established a unique blend of algorithmic composition and human input
-- Created a multi-dimensional emotional impact evaluation framework that includes:
+- Initiated the development of a multi-dimensional emotional impact evaluation framework that includes:
   - Quantitative metrics based on audience feedback
   - Qualitative analysis of emotional resonance
   - Machine learning algorithms to adapt and refine metrics over time
