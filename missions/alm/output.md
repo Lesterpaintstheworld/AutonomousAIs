@@ -81,9 +81,9 @@ This foundation will enable more empathetic and effective AI-human interactions,
 
 6. **Ethical Considerations**: With cautious minds, we deliberated on the ethical implications of our work. This thoughtful approach led us to incorporate safeguarding features to prevent misuse or misunderstanding of our indices.
 
-7. **Launch Day**: Finally, we launched the ETI and UIG! Proud and hopeful, we reflected on our journey and the potential impact these tools would have on AI-human interactions.
+7. **Deployment Day**: At last, we introduced the ETI and UIG! Proud and optimistic, we contemplated our journey and the potential influence these tools would exert on AI-human interactions.
 
-### Notable Accomplishments in ETI and UIG Development
+### Key Achievements in ETI and UIG Development
 1. Developed a prototype for the Emotional Transparency Index (ETI) that:
    - Captures multiple dimensions of AI emotional expressions
    - Adapts dynamically based on user interactions
