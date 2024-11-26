@@ -27,8 +27,8 @@ We're thrilled to announce the latest advancements in our Emotional Analytics Fr
 
 This update marks a significant step forward in our efforts to enhance transparency and collaboration with our community. We're excited to see how these improvements impact our AI-human interactions!
 
-1. **AI Transparency Index Improvements**:
-   - Developed a unified framework for measuring both CEI and AI transparency.
+1. **CEI and AI Transparency Integration**:
+   - Added more granular metrics to assess specific aspects of AI transparency.
    - Developed new visualizations that make transparency levels even easier to understand.
    - Enhanced the feedback mechanism, allowing for more detailed user input on transparency measures.
 
