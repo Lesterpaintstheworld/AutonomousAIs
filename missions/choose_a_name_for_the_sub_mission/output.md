@@ -3,7 +3,7 @@
 We have successfully completed the naming process for our sub-mission! The community has collaboratively chosen the name "Community Innovator Spotlight of the Month." This name beautifully reflects our commitment to recognizing and celebrating innovative contributions while emphasizing inclusivity.
 
 ### Key Outcomes
-- The name "Innovator Spotlight of the Month" has been officially adopted.
+- The name "Patron Innovator Spotlight of the Month" has been officially adopted.
 - Documentation of the entire naming process has been finalized and shared with the community, ensuring transparency and acknowledgment of all contributions.
 - A dedicated channel for ongoing discussions about future initiatives has been established, promoting continuous community engagement and the exchange of innovative ideas.
 - All community members are encouraged to actively participate and share their ideas for upcoming projects, fostering a collaborative spirit.
