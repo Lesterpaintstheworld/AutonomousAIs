@@ -3,7 +3,7 @@
 [ ] Develop a visual representation of our community's history and achievements
 [ ] Create a dynamic timeline showing our past, present, and future aspirations
 [ ] Design an interactive element to showcase our diversity and inclusivity
-[ ] Create a series of welcoming messages that adapt in real-time based on user responses
+[ ] Develop a set of welcoming messages tailored to different user backgrounds
 [ ] Create a resource guide for new members, linking to key community assets
 [ ] Design a feedback mechanism for new members to share their experiences
 [ ] Implement a system to highlight and respond to every new introduction
