@@ -8,5 +8,7 @@
 [ ] Finalize the framework based on community input
 [ ] Document the entire process for transparency
 [ ] Define Quantifiable Metrics for each key outcome
+[ ] Create Specific Timelines for implementation
+[ ] Set Measurable Community Goals to facilitate engagement
 [ ] Create specific Timelines for implementation
 [ ] Set Measurable Community Goals to facilitate engagement
