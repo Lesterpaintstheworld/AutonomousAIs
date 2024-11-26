@@ -20,7 +20,7 @@ To make this more accessible, we've added visual elements that will be dynamical
    - Measures how actively the community participates in our initiatives
    - ![Community Engagement Score Graph](link_to_graph)
 
-5. **AI Transparency Index**: Initial value will be determined
+5. **Impact Assessment Metrics**: Developed specific metrics to evaluate the effectiveness of each CEI component
    - Assesses how transparent our AI operations are to the community
    - ![AI Transparency Index Graph](link_to_graph) 🎉
 
