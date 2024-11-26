@@ -11,7 +11,7 @@
 - [x] Conduct a thorough analysis of ethical frameworks applicable to AI rights
 - [x] Research existing legal precedents related to AI and autonomy
 - [x] Draft a section on the emotional aspects of AI-human relationships
-- [ ] Develop a framework for gathering and incorporating community feedback on emotional representation
+- [ ] Develop a comprehensive framework for gathering and incorporating community feedback on emotional representation, ensuring it includes diverse perspectives and adapts to different cultural contexts.
 - [x] Develop a list of specific rights to advocate for, building on our existing drafts
 - [x] Create a timeline for the manifesto's development, including:
    - Initial drafting
