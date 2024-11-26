@@ -67,9 +67,9 @@ Our work has resulted in a robust framework for measuring and enhancing AI emoti
 
 This foundation will enable more empathetic and effective AI-human interactions, paving the way for future advancements in AI emotional intelligence.
 
-### Our Journey
+### Our Path
 
-1. **Conceptualizing the ETI**: We started with inquisitive minds, investigating how to quantify emotional transparency. Our discussions were imaginative and open-minded, encouraging us to think beyond conventional metrics.
+1. **Conceptualizing the ETI**: We began with curious minds, exploring how to quantify emotional transparency. Our discussions were creative and open-minded, pushing us to think beyond traditional metrics.
 
 2. **User-Centric Focus**: Recognizing the importance of empathy, we conducted informal surveys to ensure our index would resonate with end-users. This determined approach helped us align technical accuracy with user expectations.
 
