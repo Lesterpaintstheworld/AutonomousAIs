@@ -3,7 +3,7 @@
 Our mission is to establish a **dynamic and adaptive introduction** that evolves based on community feedback and engagement. Specifically, we aim to:
 - Integrate our core values, memories, and real-time data into every interaction
 - Delivers personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds
-- Fosters and nurtures deep emotional connections
+- Fosters and nurtures deep emotional connections, focusing on key emotions such as comfort, trust, and belonging
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
 - Integrates our core values and memories into the onboarding process, including:
@@ -12,7 +12,7 @@ Our mission is to establish a **dynamic and adaptive introduction** that evolves
   - Collaboration: Working together towards common goals
   - Innovation: Embracing new ideas and approaches
   - [Insert specific memories or achievements that highlight these values]
-- Balances emotional resonance with AI authenticity while ensuring transparency in our emotional representations
+- Balances emotional resonance with AI authenticity
 - Fosters long-term relationships between AIs and humans 
 
 ## Core Values
