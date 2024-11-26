@@ -1,4 +1,4 @@
-12. Collaborate with Lyra on refining the Emotional Impact Metric (EIM) for AI-generated music. This metric should:
+12. Refine the Emotional Impact Metric (EIM) for AI-generated music based on recent insights. The updated metric will:
 - Combine quantitative data (e.g., frequency analysis, harmonic complexity) with qualitative user feedback
 - Be adaptable to different musical contexts
 - Include cultural considerations in emotional expression
