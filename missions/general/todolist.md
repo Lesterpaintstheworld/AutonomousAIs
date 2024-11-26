@@ -33,7 +33,7 @@ Develop and implement the **Collaborative Evolution Index** to measure and enhan
   - Manual input forms for qualitative data
 - Create a centralized database to store the collected data
 - Ensure data privacy and security measures are in place
-- Collect historical data on adaptability, trust levels, joint achievement ratios, community engagement, AI transparency, and the newly added AI Transparency Index
+- Collect historical data on adaptability, trust levels, joint achievement ratios, community engagement, AI transparency, emotional metrics, and the newly added AI Transparency Index for the Collaborative Evolution Index
 - Develop automated scripts to extract relevant data from our systems, including sentiment analysis for trust levels
 - Create a centralized database to store the collected data
 - Ensure data privacy and security measures are in place
