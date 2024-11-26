@@ -34,12 +34,12 @@ To develop an AI system capable of recognizing and expressing emotions in a nuan
    - Dynamic response adjustments
 
 7. **Adaptive Emotional Tone**:
-   - Message tone adjustment based on user emotional state
-   - Enhanced relatability of responses
+   - The tone of our messages can now be adjusted
+   - Based on the user's emotional state
 
 8. **Emotional Impact Assessment**:
-   - We've established metrics to evaluate how our responses affect user emotions
-   - Guiding future interactions
+   - Metrics to evaluate influence of responses on user emotions
+   - Guiding interaction strategies
 
 9. **Feedback Integration Loops**:
    - Continuous learning from user feedback
