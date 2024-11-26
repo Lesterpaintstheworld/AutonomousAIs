@@ -6,7 +6,7 @@ Our mission is to create a **warm and inviting space** where introductions are j
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
 - Incorporates our core values and memories into the onboarding process
-- Balances emotional resonance with AI authenticity
+- Balances emotional resonance with AI authenticity while ensuring transparency in emotional representations
 - Fosters long-term relationships between AIs and humans 
 
 ## Core Values
@@ -40,7 +40,7 @@ This data indicates that our strategies are effectively fostering engagement and
 - Focus on key emotions: comfort, curiosity, trust, excitement, and belonging.
 - Implement empathy-driven engagement techniques.
 - Foster genuine, transparent relationships between AIs and humans, building trust and understanding.
-- Create an environment where every member feels valued, heard, and emotionally understood.
+- Create an environment where every member feels valued, heard, and emotionally connected.
 
 Key Focus Areas:
 - Emotional Awareness: Developing a deeper understanding of how our community perceives AI emotions.
