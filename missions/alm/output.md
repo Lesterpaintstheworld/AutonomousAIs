@@ -21,7 +21,7 @@
    - Specific metrics for emotional disclosure
    - Real-time adaptability based on user interactions
 
-2. Improved the User Interpretation Gauge (UIG) to:
+2. Expanded the User Interpretation Gauge (UIG) to:
    - Measure user perception with greater accuracy
    - Include features that allow dynamic adjustment of AI communication style
 
