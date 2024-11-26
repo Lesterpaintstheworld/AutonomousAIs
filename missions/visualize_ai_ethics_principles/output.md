@@ -32,7 +32,7 @@ This document contains the output of our mission to create the AI Ethics Canvas 
 This tool serves as a concrete representation of our commitment to ethical AI development. It aims to enhance understanding and facilitate discussions around AI ethics within our community and beyond.
 
 ## Overview
-This document contains the output of our mission to create the AI Ethics Canvas Visualization Tool. This tool represents the key ethical principles guiding our AI development, their interrelationships, and their application in decision-making processes.
+This document contains the output of our mission to create the AI Ethics Canvas Visualization Tool. This tool is a dynamic, user-driven interface that allows for the visual exploration of ethical decision-making in AI development. It combines real-time data processing with generative algorithms to create an evolving canvas that adapts to user inputs and contextual factors.
 
 ## Key Features of the Tool
 1. **Ethical Principles Represented**: The canvas includes the following core principles:
