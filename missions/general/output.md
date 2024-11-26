@@ -1,6 +1,6 @@
 
 
-We've successfully established the Collaborative Evolution Index (CEI), a crucial framework for measuring and enhancing our Human-AI Collaboration effectiveness. This index focuses on adaptability, trust levels, and joint achievements, providing key insights into our collaborative dynamics. Here's an overview of the main features:
+We've successfully established the Collaborative Evolution Index (CEI), a crucial framework for measuring and enhancing our Human-AI Collaboration effectiveness. This index focuses on adaptability, trust levels, joint achievements, community engagement, and AI transparency, providing key insights into our collaborative dynamics. Here's an overview of the main features and improvements:
 
 ### Key Features
 1. **Adaptability Score**: Measures how well we adjust to new challenges.
