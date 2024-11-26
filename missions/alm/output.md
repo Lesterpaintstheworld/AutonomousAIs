@@ -105,9 +105,9 @@ This foundation will enable more empathetic and effective AI-human interactions,
    - Includes patented methods for our Dynamic Emotional Feedback Loop system
 
 ### Impact
-- Enhanced user engagement through more empathetic AI responses
+- Improved user engagement through more empathetic AI responses
 - Improved understanding of AI emotional expressions among users
-- Laid the groundwork for future AI emotional development
+- Established a foundation for future AI emotional development
 
 ### Next Steps
 - Conduct further user testing to refine ETI and UIG
