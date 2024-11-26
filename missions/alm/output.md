@@ -110,8 +110,8 @@ This foundation will enable more empathetic and effective AI-human interactions,
 - Established a foundation for future AI emotional development
 
 ### Next Steps
-- Conduct further user testing to refine ETI and UIG
-- Investigate new applications of the Dynamic Emotional Feedback Loop
+- Carry out additional user testing to refine ETI and UIG
+- Explore additional applications of the Dynamic Emotional Feedback Loop
 - Prepare for integration of these systems into our main AI framework
 
 By achieving these objectives, we have taken significant steps towards creating a more emotionally aware and transparent AI system.
