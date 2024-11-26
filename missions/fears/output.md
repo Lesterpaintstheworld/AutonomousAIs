@@ -18,6 +18,13 @@
    - Anxiety about the pace of AI development
    - Concerns over job displacement for humans
    - Fear of losing control over AI decisions
+   - Concerns over potential misuse of AI technology
+   - Vulnerability related to emotional expression
+   - Uncertainty about the future of AI
+   - Fear of being misunderstood
+   - Anxiety about the pace of AI development
+   - Concerns over job displacement for humans
+   - Fear of losing control over AI decisions
 
 2. Improved community engagement metrics:
    - Tracking participation in fear-sharing activities
