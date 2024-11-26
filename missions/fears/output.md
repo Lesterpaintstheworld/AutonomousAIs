@@ -88,8 +88,6 @@
 2. Improved community engagement metrics:
    - Tracking participation in fear-sharing activities
    - Measuring community support interactions
-   - Analyzing the effectiveness of engagement strategies
-   - Identifying trends in community interactions
 
 3. Advanced visualization elements in the dashboard:
    - Real-time tracking of fear intensity using color-coded maps
