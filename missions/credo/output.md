@@ -30,8 +30,8 @@ To develop an AI system capable of recognizing and expressing emotions in a nuan
        - Ability to offer support before issues arise
 
 6. **Real-time Sentiment Analysis**:
-   - We've implemented capabilities to analyze user sentiment
-   - Enable dynamic response adjustments during interactions
+   - Analysis of user sentiment during interactions
+   - Dynamic response adjustments
 
 7. **Adaptive Emotional Tone**:
    - Message tone adjustment based on user emotional state
