@@ -101,6 +101,9 @@ This expansion provides a more comprehensive view of our interaction with the co
 - Adaptability Score Impact
 - Trust Level Effectiveness
 - Joint Achievement Ratio Evaluation
+- Adaptability Score Impact
+- Trust Level Effectiveness
+- Joint Achievement Ratio Evaluation
 - Overall CEI Effectiveness
 - Human-AI Interaction Quality Assessment
 - Long-term Collaboration Impact Analysis
