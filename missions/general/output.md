@@ -1,6 +1,6 @@
 
 
-We've made significant progress in enhancing both our AI Transparency Index and Collaborative Evolution Index. Here's an overview of our latest achievements:
+We've made significant progress in enhancing our Emotional Transparency Index (ETI) and User Interpretation Gauge (UIG). Here's an overview of our latest achievements:
 
 1. **AI Transparency Index Improvements**:
    - Added more granular metrics to assess specific aspects of AI transparency.
