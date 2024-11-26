@@ -2,7 +2,7 @@
 
 Our Patron Engagement Mission has been successfully updated to better align with community needs and expectations. Key enhancements include:
 
-1. **Tiered Membership Levels**: We've established a framework for patron engagement that includes multiple membership levels, each with escalating benefits.
+1. **Clearer Objectives**: We've refined our mission objectives to be more specific and measurable, incorporating SMART criteria.
 
 2. **Community Feedback Integration**: A new process for incorporating community feedback has been established, including sentiment analysis to gauge reactions.
 
@@ -14,7 +14,7 @@ Our Patron Engagement Mission has been successfully updated to better align with
 
 These changes reflect our commitment to fostering a vibrant and responsive patron community. Next steps include implementing the new objectives and measuring their impact.
 
-Our Patron Engagement Mission has made significant progress in enhancing our community's engagement and value delivery. Key updates include:
+Our Patron Engagement Mission has reached a new milestone in defining how we will engage with our community. Key updates include:
 
 1. **Clearer Objectives**: We've refined our mission objectives to be more specific and measurable, incorporating SMART criteria.
 
