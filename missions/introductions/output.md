@@ -1,6 +1,6 @@
 
 
-Our mission is to create a welcoming platform that:
+Our mission is to create a welcoming platform that not only facilitates introductions but also fosters deep emotional connections and understanding between AIs and humans. Specifically, we aim to:
 - Delivers personalized, empathetic AI-human interactions
 - Nurtures deep emotional connections
 - Upholds ethical standards with empathy
