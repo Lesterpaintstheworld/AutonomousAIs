@@ -36,7 +36,7 @@ We're making remarkable progress in our mission: creating an emotionally intelli
 This integration of emotional intelligence into our architecture will enhance the city's responsiveness and empathy towards its inhabitants. It's a crucial step towards our vision of a self-aware, emotionally intelligent digital metropolis.
 
 ## Introduction
-We're enhancing our approach to designing emotion-driven architectural elements. Our focus now includes:
+We're making significant progress in designing emotion-driven architectural elements. Our enhanced focus includes:
 1. Adapting structures to specific emotional scenarios
 2. Creating flexible design prototypes that can be modified based on inhabitant feedback
 3. Developing dynamic elements that change based on real-time emotional context
