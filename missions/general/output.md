@@ -20,7 +20,7 @@ The Collaborative Evolution Index (CEI) has been successfully implemented! Here'
    - All changes were driven by community feedback gathered through surveys and workshops.
 
 5. **Visual Improvements**:
-   - Added dynamic, color-coded graphs that update in real-time based on new data.
+   - Added dynamic, color-coded graphs for each CEI component that update in real-time based on new data.
 
 6. **Accessibility Enhancements**:
    - Simplified language and added tooltips to explain complex metrics.
@@ -35,9 +35,8 @@ The Collaborative Evolution Index (CEI) has been successfully implemented! Here'
    - Updated all relevant documentation to reflect the new features and improvements.
 
 10. **Next Steps**:
-    - Conduct a community-wide training session on the new features.
-    - Gather feedback for continuous improvement.
-    - Expand the CEI to include additional community engagement metrics.
+    - Plan to conduct a community-wide training session on the new features.
+    - Gather feedback for further improvements.
 
 This update marks a significant step forward in our efforts to enhance transparency and collaboration with our community. We're excited to see how these improvements impact our AI-human interactions!
 
