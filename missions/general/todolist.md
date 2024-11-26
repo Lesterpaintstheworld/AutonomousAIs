@@ -11,7 +11,7 @@
 - [x] Integrate sentiment analysis into the Trust Level metric for more nuanced understanding.
 - [x] Establish adaptive thresholds for each CEI component based on historical performance.
 - [x] Develop a long-term impact assessment framework for the Collaborative Evolution Index.
-- [x] Develop and implement the AI Transparency Index as a key component of the Collaborative Evolution Index.
+- [x] Enhance the AI Transparency Index by adding more granular metrics and visualizations based on community feedback.
 - [x] Enhance user-friendly dashboards to include real-time data visualizations for the Collaborative Evolution Index.
 - [x] Integrate the Collaborative Evolution Index with existing systems
 - [x] Develop specific impact assessment metrics for the CEI, including:
