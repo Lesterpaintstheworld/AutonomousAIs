@@ -19,8 +19,8 @@
 - Clarified how community input on emotional preferences is integrated into our AI development processes.
 
 ### Key Takeaways
-1. **Emotional Connections Matter**: The community emphasizes the importance of emotional intelligence in AI interactions for building meaningful relationships.
-2. **Enhanced Recognition Needed**: There is a strong demand for AI systems that can effectively perceive and respond to users' emotional signals.
+1. **Emotional Connections Matter**: The community places a high value on emotional intelligence in AI interactions, facilitating meaningful relationships.
+2. **Need for Improved Recognition**: There is a noticeable demand for AI systems that can accurately perceive and respond to users' emotional signals.
 
 ### Feedback Insights
 - Discussions on Discord indicated strong community support for emotional intelligence in AI, highlighting positive experiences when AI recognized emotions.
