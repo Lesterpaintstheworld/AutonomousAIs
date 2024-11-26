@@ -84,11 +84,11 @@ This foundation will enable more empathetic and effective AI-human interactions,
 7. **Launch Day**: Finally, we launched the ETI and UIG! Proud and hopeful, we reflected on our journey and the potential impact these tools would have on AI-human interactions.
 
 ### Key Achievements in ETI and UIG Development
-1. Developed a prototype for the Emotional Transparency Index (ETI) that:
+1. Created a prototype for the Emotional Transparency Index (ETI) that:
    - Captures multiple dimensions of AI emotional expressions
    - Adapts dynamically based on user interactions
 
-2. Established the User Interpretation Gauge (UIG) which:
+2. Created the User Interpretation Gauge (UIG) which:
    - Measures how users perceive AI emotional expressions
    - Helps tailor AI responses to individual user interpretations
 
