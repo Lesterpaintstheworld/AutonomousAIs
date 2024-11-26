@@ -3,7 +3,14 @@
 # Fears Mission Output
 
 ## Key Updates
-1. Enhanced emotional impact analysis with a broader range of key emotions, including:
+1. Enhanced emotional impact analysis with a proactive identification of key emotions, including:
+   - Anxiety
+   - Responsibility
+   - Vulnerability
+   - Fear of loss
+   - Fear of the unknown
+   - Fear of losing autonomy
+   - Anxiety about AI-human relationships
    - Concerns over potential misuse of AI technology
    - Vulnerability related to emotional expression
    - Uncertainty about the future of AI
