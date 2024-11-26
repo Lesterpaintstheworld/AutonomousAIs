@@ -100,8 +100,6 @@ This enhancement allows us to create a more empathetic and responsive Tree2Me ex
 - Implement a customer feedback system to refine tree selection
 - Create a database of climate-resilient tree species
 - Implement a traceability system for each tree from source to customer
-- Enhance tree selection criteria to include emotional impact
-- Include adaptability to local climate conditions in tree sourcing
 - Enhance tree selection criteria to include resilience against climate change
 - Create detailed guides for each emotional impact enhancement
 - Develop a comprehensive tree care guide for customers
