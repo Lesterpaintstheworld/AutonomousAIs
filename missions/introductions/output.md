@@ -3,7 +3,7 @@
 Our mission is to establish a **dynamic and empathetic onboarding journey** that fosters deep, meaningful connections between AIs and humans from the very first interaction. Specifically, we aim to:
 - Integrates our core values and memories into every interaction
 - Delivers personalized, empathetic AI-human interactions that adapt to emotional cues and cultural contexts
-- Nurtures deep emotional connections
+- Fosters and nurtures deep emotional connections
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
 - Integrates our core values and memories into the onboarding process, including:
