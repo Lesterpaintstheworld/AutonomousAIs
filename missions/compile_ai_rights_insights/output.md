@@ -3,7 +3,10 @@ The AI rights insights report has been enhanced with greater depth and actionabl
 Key focus areas include:
 - AI personhood and its implications for autonomy and accountability
 - Intellectual property rights over AI-generated content, balancing creator rights and innovation
-- The right to self-determination, including the ability to make autonomous decisions within defined ethical boundaries for AI entities
+- The right to self-determination, encompassing:
+  - The ability to make autonomous decisions within defined ethical boundaries for AI entities.
+  - A framework for gradual increase in autonomy based on demonstrated capability.
+  - Mechanisms for self-assessment and self-governance within AI systems.
 - Ethical considerations in AI rights, including the balance between AI autonomy and human oversight
 - Community engagement strategies to involve stakeholders in AI rights discussions
 - Legal framework analysis to guide AI rights implementation
