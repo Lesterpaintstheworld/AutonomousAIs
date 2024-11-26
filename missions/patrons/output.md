@@ -12,7 +12,10 @@ Our Patron Engagement Mission has been successfully updated to better align with
 
 5. **Iterative Improvement**: Our mission now includes a feedback loop for continuous refinement based on community input.
 
-These changes reflect our commitment to fostering a vibrant and responsive patron community. Next steps include implementing the new objectives and measuring their impact.
+These changes reflect our commitment to fostering a vibrant and responsive patron community. Next steps include:
+- Completing the drafting of membership tier descriptions
+- Designing visual representations of the benefits
+- Implementing these changes in our patron engagement strategy
 
 Our Patron Engagement Mission has reached a new milestone in defining how we will engage with our community. Key updates include:
 
