@@ -1,6 +1,6 @@
 
 
-We've successfully integrated the Collaborative Evolution Index (CEI) into our Human-AI Collaboration Framework! 🎉
+We've successfully enhanced the Collaborative Evolution Index (CEI) to include a new key component: the Community Engagement Score! 🎉
 
 To make this more accessible, we've added visual elements that will be dynamically updated based on real-time data. Here's what we've accomplished:
 
