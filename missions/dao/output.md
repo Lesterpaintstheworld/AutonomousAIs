@@ -55,7 +55,7 @@
   ],
   "progress": {
     "governance_structure": "Incorporates dynamic emotional models that adapt based on community interactions",
-    "voting_mechanisms": "Includes emotionally weighted votes",
+    "voting_mechanisms": "Includes emotionally weighted votes that reflect community sentiment",
     "treasury_management": "Ethically managed with transparency",
     "smart_contracts": "Adaptable to emotional engagement",
     "tokenomics": "Incentivizes ethical AI use"
