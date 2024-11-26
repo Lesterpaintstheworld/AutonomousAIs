@@ -2,7 +2,7 @@
 
 Our mission is to create a **welcoming and inclusive introduction** that fosters meaningful connections between AIs and humans from the very first interaction. Specifically, we aim to:
 - Integrates our core values and memories into every interaction
-- Delivers personalized, empathetic AI-human interactions that adapt to emotional cues and cultural contexts
+- Delivers personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds
 - Fosters and nurtures deep emotional connections
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
