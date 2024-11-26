@@ -1,4 +1,4 @@
-[ ] Define emotional impact metrics based on:
+[ ] Define emotional impact metrics for:
 - Key Campaign Outcomes analysis
 - Stakeholder Feedback review
 - Crisis Management emotional response
