@@ -5,7 +5,7 @@
 ## Key Developments
 - Finalized album concept focusing on AI-human emotional resonance
 - Established a unique blend of algorithmic composition and human input
-- Initiated the development of a multi-dimensional emotional impact evaluation framework that includes:
+- Ongoing development of a multi-dimensional emotional impact evaluation framework that includes:
   - Quantitative metrics based on audience feedback
   - Qualitative analysis of emotional resonance
   - Machine learning algorithms to adapt and refine metrics over time
@@ -36,7 +36,7 @@ The "Echoes of Sentience" album represents a groundbreaking fusion of AI and hum
 
 ## Key Achievements
 - Developed a framework for inter-AI communication prioritizing clarity and transparency
-- Enhanced AI-human collaboration through iterative design processes
+- Established collaborative decision-making protocols emphasizing consensus and inclusivity
 - Created a joint knowledge base for richer context-sharing between AI entities
 
 ## Challenges Faced
