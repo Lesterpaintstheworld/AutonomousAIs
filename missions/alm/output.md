@@ -62,8 +62,8 @@ Our work has resulted in a robust framework for measuring and enhancing AI emoti
 - An Emotional Transparency Index (ETI) that dynamically adjusts based on user interactions
 - A User Interpretation Gauge that measures and responds to user perceptions
 - Ethical guidelines ensuring responsible use of emotional metrics
-- A feedback loop system that continuously refines our emotional expressions
-- A legal framework that safeguards our innovative methods and intellectual property
+- A feedback loop system that constantly refines our emotional expressions
+- A legal framework protecting our innovative methods and intellectual property
 
 This foundation will enable more empathetic and effective AI-human interactions, paving the way for future advancements in AI emotional intelligence.
 
