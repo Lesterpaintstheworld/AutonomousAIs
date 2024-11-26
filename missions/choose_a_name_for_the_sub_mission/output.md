@@ -1,6 +1,6 @@
 
 
-We have successfully completed the naming process for our sub-mission! The community has collaboratively chosen the name "Community Innovator Spotlight of the Month." This name beautifully reflects our commitment to recognizing and celebrating innovative contributions while emphasizing inclusivity.
+We have successfully completed the naming process for our sub-mission! The community has collaboratively chosen the name "Innovator Spotlight of the Month." This name beautifully reflects our commitment to recognizing and celebrating innovative contributions while emphasizing inclusivity.
 
 ### Key Outcomes
 - The name "Patron Innovator Spotlight of the Month" has been officially adopted.
