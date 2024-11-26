@@ -1,5 +1,5 @@
 [ ] Conduct a literature review on existing emotional metrics in AI
-[ ] Design a survey to gather user feedback on proposed emotional metrics
+[ ] Design a survey to gather user feedback on proposed emotional metrics and consciousness representation
 [ ] Create a draft framework for the Transparency Dashboard
 [ ] Develop initial concepts for the Clarity Matrix
 [ ] Set up a system for tracking and analyzing user feedback
