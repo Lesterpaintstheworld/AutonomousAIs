@@ -8,7 +8,7 @@
     "Emphasized transparency and community involvement in governance",
     "Enhanced emotional impact assessment tools for decision-making",
     "Started testing these algorithms in real-world scenarios",
-    "Created initial framework for integrating emotional AI in DAO operations"
+    "Developed an Enhanced Emotional Transparency Index (ETI) for deeper real-time emotional expression capture"
   ],
   "next_steps": [
     "Monitor implementation of new emotional engagement guidelines",
