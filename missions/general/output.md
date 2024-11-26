@@ -16,11 +16,11 @@ To make this more accessible, we've added visual elements that will be dynamical
    - Reflects the success rate of goals met collaboratively
    - ![Joint Achievement Ratio Graph](link_to_graph)
 
-4. **Community Engagement Score**: Initial value will be determined
+4. **CEI Integration**: Successfully integrated the index with our existing framework
    - Measures how actively the community participates in our initiatives
    - ![Community Engagement Score Graph](link_to_graph)
 
-5. **Impact Assessment Metrics**: Developed specific metrics to evaluate the effectiveness of each CEI component
+5. **AI Transparency Index**: Initial value will be determined
    - Assesses how transparent our AI operations are to the community
    - ![AI Transparency Index Graph](link_to_graph) 🎉
 
