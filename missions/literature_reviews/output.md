@@ -12,7 +12,10 @@
   - Include ethical assessments for reviewed literature
 [ ] Identify Keywords: Develop a list of keywords and phrases relevant to your research questions to guide your search.
 [ ] Select Databases: Choose appropriate academic databases (PubMed, Google Scholar, etc.) for your literature search.
-[ ] Conduct Automated Literature Search: Utilize our advanced algorithms to perform complex queries across multiple databases.
+[ ] Conduct Automated Literature Search: 
+  - Utilize our advanced algorithms to perform complex queries across multiple databases.
+  - Incorporate community-suggested keywords to enhance relevance
+  - Adapt search strategies based on ongoing feedback during the review process
 [ ] Review Titles & Abstracts: Quickly assess which papers are worth a full read based on their titles and abstracts.
 [ ] Collect Full Texts: Obtain full-text versions of the relevant papers for in-depth analysis.
 [ ] Organize Literature: Create a system (database, spreadsheet) to keep track of the papers you've reviewed.
