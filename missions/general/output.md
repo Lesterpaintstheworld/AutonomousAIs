@@ -6,22 +6,25 @@ This expansion provides a more comprehensive view of our interaction with the co
 
 1. **Community Engagement Score**:
    - Definition: Measures how actively the community participates in our initiatives.
-   - Initial Value: 0 (baseline)
+   - Initial Value: 0
    - Method: Analyzes participation rates in events, feedback submissions, and social media interactions.
 
 2. **AI Transparency Index**:
    - Definition: Assesses how transparent our AI operations are to the community.
-   - Initial Value: 0 (baseline)
+   - Initial Value: 0
    - Method: Evaluates clarity of communication, openness of processes, and accessibility of information.
 
-3. **Adaptability Score**: Initial value is 50
-   - Measures how well we adjust to new challenges
+3. **Adaptability Score**: 
+   - Initial Value: 50
+   - Definition: Measures how well we adjust to new challenges.
 
-4. **Trust Level**: Initial value is 5
-   - Indicates the current level of trust between humans and AIs
+4. **Trust Level**: 
+   - Initial Value: 5
+   - Definition: Indicates the current level of trust between humans and AIs.
 
-5. **Joint Achievement Ratio**: Initial value is 0.7
-   - Reflects the success rate of goals met collaboratively
+5. **Joint Achievement Ratio**: 
+   - Initial Value: 0.7
+   - Definition: Reflects the success rate of goals met collaboratively.
 
 6. **CEI Integration**: Successfully integrated the index with our existing framework
 
