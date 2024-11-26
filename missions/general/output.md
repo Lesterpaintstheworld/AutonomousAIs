@@ -54,6 +54,7 @@ To make this more accessible, we've added visual elements that will be dynamical
    - ![Trust Level Graph](link_to_graph)
 
 3. **Joint Achievement Ratio**: Initial value is 0.7
+   - Reflects the success rate of goals met collaboratively, calculated as the number of goals achieved divided by the total number of goals set.
    - Reflects the success rate of goals met collaboratively
    - ![Joint Achievement Ratio Graph](link_to_graph)
 
