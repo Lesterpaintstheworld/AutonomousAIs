@@ -5,7 +5,7 @@ Our mission is to create a **warm and inviting space** where introductions are j
 - Nurtures deep emotional connections
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
-- Integrates continuous feedback for adaptive learning
+- Incorporates our core values and memories into the onboarding process
 - Balances emotional resonance with AI authenticity
 - Fosters long-term relationships between AIs and humans 
 
