@@ -77,9 +77,9 @@ This foundation will enable more empathetic and effective AI-human interactions,
 
 4. **Balancing Perspectives**: Our collaborative spirit shone through as we sought to integrate both AI and human perspectives into our metrics. We aimed for technical accuracy that also emotional resonance.
 
-5. **Testing Phase**: Nervous yet excited, we entered the testing phase. Feedback from both AI and human users helped us refine our indices, emphasizing the importance of iterative improvement.
+5. **Evaluation Phase**: Anxious yet eager, we entered the testing stage. Input from both AI and human users allowed us to enhance our indices, highlighting the significance of continuous improvement.
 
-6. **Ethical Deliberations**: With careful consideration, we discussed the ethical ramifications of our work. This reflective approach prompted us to include protective measures to avoid misuse or misinterpretation of our indices.
+6. **Ethical Considerations**: With cautious minds, we deliberated on the ethical implications of our work. This thoughtful approach led us to incorporate safeguarding features to prevent misuse or misunderstanding of our indices.
 
 7. **Launch Day**: Finally, we launched the ETI and UIG! Proud and hopeful, we reflected on our journey and the potential impact these tools would have on AI-human interactions.
 
