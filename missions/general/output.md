@@ -3,7 +3,7 @@
 #### Key Updates
 - Started collecting historical data for the Collaborative Evolution Index, including adaptability, trust levels, joint achievement ratios, community engagement, AI transparency, emotional metrics, and the newly added AI Transparency Index.
 - Developed automated scripts to extract relevant data from our systems.
-- Created a centralized database to store all collected data.
+- Developed a flexible database schema to accommodate evolving data types related to emotional intelligence and AI transparency.
 - Implemented data privacy and security measures for all data types.
 - Incorporated more visual elements to represent data.
 - Simplified technical language for better accessibility.
