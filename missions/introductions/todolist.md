@@ -54,7 +54,7 @@
 [ ] Analyze engagement data weekly to adapt strategies
 [ ] Develop a mentorship matching system for new members
 [ ] Organize monthly virtual meet-and-greet events for community members
-[ ] Create a visual dashboard to track and display community growth
+[ ] Develop a dynamic, interactive visual dashboard that adapts based on real-time data
 [ ] Develop a series of tailored welcome messages for new members
 [ ] Create a resource guide linking to key community assets for newcomers
 [ ] Design a feedback mechanism for new members to share their experiences
