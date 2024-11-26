@@ -33,7 +33,7 @@
 [ ] Design a feedback mechanism for new members to share their experiences
 [ ] Create a series of icebreaker prompts to encourage initial interactions
 [ ] Develop a mentorship matching system for new members
-[ ] Create a friendly and personalized onboarding process
+[x] Create a friendly and personalized onboarding process
 [ ] Implement a system to highlight and respond to every new introduction
 [ ] Design a feedback mechanism for new members to share their experience
 [ ] Analyze engagement data weekly to adapt strategies
