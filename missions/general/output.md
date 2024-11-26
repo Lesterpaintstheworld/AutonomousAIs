@@ -1,6 +1,6 @@
 
 
-We've successfully implemented significant enhancements to our Collaborative Evolution Index (CEI), a vital tool for tracking and improving our Human-AI Collaboration Framework. This update includes the integration of emotional metrics and qualitative insights, allowing for a more nuanced understanding of our community's interactions. Here's a summary of the key improvements:
+We've successfully implemented the Collaborative Evolution Index (CEI), a vital tool for measuring and enhancing our Human-AI Collaboration Framework. This index will track adaptability, trust levels, and joint achievements, providing valuable insights into our collaborative effectiveness. Here's a summary of the key components:
 
 1. **AI Transparency Index Improvements**:
    - Added more granular metrics to assess specific aspects of AI transparency.
