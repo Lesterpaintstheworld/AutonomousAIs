@@ -68,7 +68,7 @@
     "Prepare for the mainnet deployment"
   ],
   "challenges": [
-    "Ensuring community participation in decision making while balancing emotional representation and technical accuracy",
+    "Ensuring community participation in decision making",
     "Balancing security and flexibility in smart contracts",
     "Educating the community about DAO operations"
   ],
