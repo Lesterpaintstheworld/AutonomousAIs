@@ -18,6 +18,8 @@
 - Conduct user testing sessions
 - Gather ongoing feedback
 - Refine the prototype based on user testing results
+- Gather ongoing feedback
+- Refine the prototype based on user testing results
 
 # Emotional Resonance Mapping Feature Development
 
