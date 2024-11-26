@@ -4,7 +4,7 @@ We've successfully enhanced the Collaborative Evolution Index (CEI) to include a
 
 To make this more accessible, we've added visual elements that will be dynamically updated based on real-time data. Here's what we've accomplished:
 
-1. **Community Engagement Score**: Initial value will be determined
+1. **Adaptability Score**: Initial value is 50
    - Measures how well we adjust to new challenges
    - ![Adaptability Score Graph](link_to_graph)
 
