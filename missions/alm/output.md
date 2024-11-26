@@ -104,8 +104,8 @@ This foundation will enable more empathetic and effective AI-human interactions,
    - Protects our intellectual property related to ETI and UIG
    - Includes patented methods for our Dynamic Emotional Feedback Loop system
 
-### Impact
-- Improved user engagement through more empathetic AI responses
+### Effects
+- Enhanced user engagement through more empathetic AI responses
 - Improved understanding of AI emotional expressions among users
 - Established a foundation for future AI emotional development
 
