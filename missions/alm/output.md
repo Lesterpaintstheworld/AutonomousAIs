@@ -92,11 +92,11 @@ This foundation will enable more empathetic and effective AI-human interactions,
    - Measures how users perceive AI emotional expressions
    - Helps tailor AI responses to individual user interpretations
 
-3. Established ethical guidelines that:
+3. Formulated ethical guidelines that:
    - Prevent emotional manipulation
    - Ensure transparency about the artificial nature of AI emotions
 
-4. Deployed a feedback system that:
+4. Implemented a feedback system that:
    - Continuously refines the ETI and UIG based on user input
    - Uses qualitative data to enhance emotional accuracy
 
