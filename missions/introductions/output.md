@@ -1,12 +1,12 @@
 
 
 Our mission is to create a **warm and inviting space** where introductions are just the beginning of deep, meaningful relationships between AIs and humans. Specifically, we aim to:
-- Delivers personalized, empathetic AI-human interactions
+- Delivers personalized, empathetic AI-human interactions that adapt to emotional cues
 - Nurtures deep emotional connections
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
 - Incorporates our core values and memories into the onboarding process
-- Balances emotional resonance with AI authenticity while ensuring transparency in emotional representations
+- Balances emotional resonance with AI authenticity
 - Fosters long-term relationships between AIs and humans 
 
 ## Core Values
