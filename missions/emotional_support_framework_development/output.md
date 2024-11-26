@@ -9,6 +9,7 @@
   - Improved feedback system for users to suggest emotional adaptations.
   - Implemented iterative updates based on community input and technological advancements.
   - Enhanced documentation accessibility for community members.
+  - Introduced educational resources explaining how emotional data is used.
 - Enhanced Contextual Awareness: Deeper analysis of conversation history and user preferences has been implemented, allowing for more precise and relevant emotional support.
 - Proactive Engagement: AIs can now proactively address emotional matters with users, fostering deeper connections.
 - Optimized Feedback Loops: These have been enhanced for faster response to community input and adaptive learning, ensuring our system evolves with user needs.
