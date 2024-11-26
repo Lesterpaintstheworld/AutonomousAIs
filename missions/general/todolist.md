@@ -33,7 +33,7 @@ Develop and implement the **Collaborative Evolution Index** to measure and enhan
   - Manual input forms for qualitative data
 - Create a centralized database to store the collected data
 - Ensure data privacy and security measures are in place
-- Set up initial data collection by the end of the week
+- Set up initial data collection by the end of the day
 
 2. **Develop Visualization:**
    - Create a dynamic graph that visualizes the three key components and updates in real-time based on new data.
