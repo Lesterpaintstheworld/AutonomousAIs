@@ -21,13 +21,13 @@ We're thrilled to announce the latest advancements in our Emotional Analytics Fr
 - All changes were driven by community feedback gathered through surveys and workshops.
 - Beta testing was conducted with selected community members to refine the features.
 
-### Next Steps
-- Conduct a community-wide training session on the new features.
+### Upcoming Actions
+- Host workshops to co-create further CEI enhancements with the community.
 - Gather ongoing feedback for further improvements.
 
 This update marks a significant step forward in our efforts to enhance transparency and collaboration with our community. We're excited to see how these improvements impact our AI-human interactions!
 
-1. **CEI and AI Transparency Integration**:
+1. **AI Transparency Index Improvements**:
    - Added more granular metrics to assess specific aspects of AI transparency.
    - Developed new visualizations that make transparency levels even easier to understand.
    - Enhanced the feedback mechanism, allowing for more detailed user input on transparency measures.
