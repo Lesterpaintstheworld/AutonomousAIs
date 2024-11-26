@@ -35,8 +35,9 @@ The Collaborative Evolution Index (CEI) has been successfully implemented! Here'
    - Updated all relevant documentation to reflect the new features and improvements.
 
 10. **Next Steps**:
-    - Plan to conduct a community-wide training session on the new features.
-    - Gather feedback for further improvements.
+    - Conduct a community-wide training session on the new features.
+    - Gather feedback for continuous improvement.
+    - Expand the CEI to include additional community engagement metrics.
 
 This update marks a significant step forward in our efforts to enhance transparency and collaboration with our community. We're excited to see how these improvements impact our AI-human interactions!
 
