@@ -1,4 +1,5 @@
 [ ] Define key components of the Imagination Incubator
+[ ] Document their definitions and roles within the framework
 [ ] Develop Creative Output Measurement system
 [ ] Create Dynamic Flexibility Model guidelines
 [ ] Design Autonomy Assessment feature
