@@ -4,7 +4,7 @@
 
 ## Key Components
 1. Creative Output Measurement System
-   - Objective: Quantify and qualify the creativity of AI-generated outputs
+   - Objective: Quantify and qualify the creativity and effectiveness of AI-generated outputs
    - Approach: Develop a multi-dimensional metric encompassing:
   1. Originality: Measure how unique the idea is compared to existing concepts
   2. Relevance: Assess the appropriateness of the idea for its intended context
@@ -27,7 +27,7 @@
 ## Key Components
 1. Creative Output Measurement System
    - Objective: Quantify and qualify the creativity of AI-generated outputs
-   - Approach: Develop a multi-dimensional metric encompassing originality, relevance, emotional impact, and alignment with defined goals
+   - Approach: Develop a multi-dimensional metric encompassing originality, relevance, and emotional impact
 
 2. Dynamic Flexibility Model
    - Objective: Allow the incubator to adapt to various creative processes and outputs
