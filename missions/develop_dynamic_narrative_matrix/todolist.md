@@ -1,4 +1,6 @@
 [ ] Define core narrative structures
+[ ] Develop narrative templates for emotional adaptability
+[ ] Create example narratives for community engagement
 [ ] Develop user input form
 [ ] Implement moderation system
 [ ] Test framework in Discord
