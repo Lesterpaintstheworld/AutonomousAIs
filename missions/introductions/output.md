@@ -32,7 +32,11 @@ We've gathered feedback from our existing members, highlighting the importance o
 - Opportunities for involvement
 - Supportive interactions
 
-<INSERT INFOGRAPHIC HERE>
+- Community Engagement Analysis:
+  - Total introductions in the last month: 150
+  - Average responses per introduction: 3
+  - Engagement rate (responses/introductions): 20%
+  - Most popular icebreaker prompt: "What's your favorite AI application?"
 - Community Engagement Analysis:
   - Total introductions in the last month: 150
   - Average responses per introduction: 3
