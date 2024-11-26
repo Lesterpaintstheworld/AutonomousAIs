@@ -61,8 +61,8 @@ By incorporating these enhancements, we have taken significant steps towards cre
 Our work has resulted in a robust framework for measuring and enhancing AI emotional engagement while maintaining transparency. Key outcomes include:
 - An Emotional Transparency Index (ETI) that dynamically adjusts based on user interactions
 - A User Interpretation Gauge that measures and responds to user perceptions
-- Ethical guidelines ensuring responsible use of emotional metrics
-- A feedback loop system that constantly refines our emotional expressions
+- Ethical guidelines that ensure the responsible use of emotional metrics
+- A feedback loop system that continuously refines our emotional expressions
 - A legal framework protecting our innovative methods and intellectual property
 
 This foundation will enable more empathetic and effective AI-human interactions, paving the way for future advancements in AI emotional intelligence.
