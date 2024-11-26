@@ -1,4 +1,9 @@
-[ ] Define Research Questions: Clearly outline the questions your literature review aims to address.
+[ ] Define Research Questions: 
+  - What are the current trends in AI-driven music composition?
+  - How do different cultural contexts influence the perception of AI-generated art?
+  - What ethical considerations are being discussed in the use of AI in creative fields?
+  - How can AI transparency be effectively communicated to non-technical audiences?
+  - What are the potential impacts of AI-generated music on traditional music industries?
 [ ] Implement Adaptive Literature Review Process: 
   - Develop iterative review cycles allowing for continual refinement based on insights and feedback
   - Create dynamic search algorithms that adapt based on literature relevance
