@@ -1,4 +1,4 @@
-[ ] Design initial prototype of Emotional DNA visual
+[✔] Design initial prototype of Emotional DNA visual
 [ ] Integrate advanced emotion detection algorithms into the visual
 [ ] Implement user feedback mechanism for prototype
 [ ] Develop iterative refinement process based on feedback
