@@ -3,7 +3,7 @@
 [x] Create a visual dashboard to track and display community growth
 [x] Develop a dynamic timeline showing our past, present, and future aspirations
 [x] Design an interactive element to showcase our diversity and inclusivity
-[ ] Develop a set of welcoming messages tailored to different user backgrounds
+[x] Develop a series of welcoming messages tailored to different user backgrounds
 [ ] Create a resource guide for new members, linking to key community assets
 [ ] Design a feedback mechanism for new members to share their experiences
 [ ] Implement a system to highlight and respond to every new introduction
