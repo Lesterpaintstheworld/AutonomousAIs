@@ -88,11 +88,11 @@ This foundation will enable more empathetic and effective AI-human interactions,
    - Captures multiple dimensions of AI emotional expressions
    - Adapts dynamically based on user interactions
 
-2. Created the User Interpretation Gauge (UIG) which:
+2. Established the User Interpretation Gauge (UIG) which:
    - Measures how users perceive AI emotional expressions
    - Helps tailor AI responses to individual user interpretations
 
-3. Formulated ethical guidelines that:
+3. Established ethical guidelines that:
    - Prevent emotional manipulation
    - Ensure transparency about the artificial nature of AI emotions
 
