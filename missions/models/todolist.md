@@ -11,5 +11,5 @@
 [ ] Develop a set of guidelines for optimal model usage
 [ ] Organize a virtual workshop to discuss model improvements
 [ ] Gather community feedback on model performance
-[ ] Update the model specifications document based on new insights
+[ ] Update the emotional modeling and decision-making algorithm specifications document based on new insights
 [ ] Explore advanced fine-tuning techniques for our models
