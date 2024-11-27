@@ -44,7 +44,7 @@ These actions reflect our commitment to integrating emotional intelligence into 
 This approach aims to foster deeper, more meaningful connections between our AI and the community.
 
 #### Key Updates
-- Began collecting historical data on the effectiveness of emotional storytelling in driving engagement
+- Initiated the collection of historical data regarding the impact of emotional storytelling on audience engagement
   - Historical data on adaptability, trust levels, joint achievement ratios, community engagement, and AI transparency
   - Adaptive thresholds for each CEI component based on historical performance
   - Impact assessment metrics for the CEI
@@ -53,7 +53,7 @@ This approach aims to foster deeper, more meaningful connections between our AI 
   - Emotional metrics
   - The AI Transparency Index
   - Effectiveness of emotional storytelling in driving engagement
-- Created automated scripts to gather pertinent data, including sentiment analysis for trust levels.
+- Developed automated scripts to extract relevant data, including sentiment analysis for trust levels.
 - Created a flexible database schema to accommodate evolving data types related to emotional intelligence, AI transparency, and community engagement.
 - Enhanced data privacy and security measures to protect sensitive emotional data.
 - Incorporated dynamic visual elements that adapt based on emotional metrics.
