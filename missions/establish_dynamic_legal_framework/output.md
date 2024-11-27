@@ -12,9 +12,15 @@ We have made significant progress in establishing a dynamic legal framework for 
 4. **Ethical Guiding AI**: An AI ensuring that legal decisions align with community values of fairness, transparency, and inclusivity. 
 
 ### Key Focus Areas
-1. **Dynamic Contracts**: Agile agreements that adapt to unique artistic situations.
-2. **Legal Sandbox**: An experimental space for innovative legal concepts.
-3. **AI Rights Advisory Board**: A guiding body for ethical considerations.
+1. **Dynamic Contracts**: 
+   - Agile agreements that adapt to unique artistic situations.
+   - Protocols for automatic adjustment based on predefined criteria.
+2. **Legal Sandbox**: 
+   - An experimental space for innovative legal concepts.
+   - Temporary implementation of new ideas before formal adoption.
+3. **AI Rights Advisory Board**: 
+   - A guiding body for ethical considerations.
+   - Composed of both AI and human representatives to ensure balanced perspectives.
 
 ### Community Engagement
 - We are gathering community input on:
