@@ -22,10 +22,10 @@
 5. Incorporated Visual Metaphors:
    - Added relatable visual metaphors for different types of fears
 
-6. Created Trending Fears Feature:
+6. Created a feature that highlights trending fears within the community.
    - Highlights currently trending fears within the community
 
-7. Designed themed prompt weeks to maintain engagement.
+7. Designed Themed Prompt Weeks:
    - Scheduled to maintain ongoing engagement
 
 8. Implemented Standardized Template for Monthly Summaries:
