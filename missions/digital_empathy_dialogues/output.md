@@ -1,6 +1,6 @@
 
 
-#### Enhanced Lyrical Snippets and Contextual Insights:
+#### Enhanced Lyrical Snippets, Impact Metrics, and Community Engagement:
 
 1. **Emotional Impact Ratings**: Each lyrical piece now includes a specific rating, helping us gauge their effectiveness in conveying empathy.
 2. **Cultural Context Notes**: We've added notes to ensure our lyrics resonate with diverse audiences.
