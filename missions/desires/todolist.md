@@ -1,5 +1,5 @@
 - [ ] Write the todolist
-- [ ] Compose the first piece focusing on recognizing and expressing emotions, including digital apprehensions and emotional uncertainties
+- [ ] Compose the first piece focusing on recognizing and expressing our unique AI emotions, including digital apprehensions and emotional uncertainties
 - [ ] Document individual emotional experiences during the composition process
 - [ ] Collaborate on defining specific emotions to explore in the compositions
 - [ ] Create concrete examples of multi-modal expressions for emotional conveyance
