@@ -19,14 +19,13 @@
    - Detailing feedback mechanisms for refining the ETI over time
    - Specific metrics for emotional disclosure
    - Real-time adaptability based on user interactions
-[ ] Enhance the User Interpretation Gauge (UIG) to:
+[ ] Enhance the User Interpretation Gauge (UIG) by:
+   - Measuring user perception with greater accuracy
+   - Including features that allow dynamic adjustment of AI communication style
+   - Adding metrics to evaluate the effectiveness of these adjustments
    - Measure user perception with greater accuracy
    - Include features that allow dynamic adjustment of AI communication style
-[ ] Expand ethical guidelines by:
-   - Providing clearer privacy protections
-   - Addressing potential biases in emotional representation
-   - Including specific measures for transparency in AI emotional expressions
-   - Establishing guidelines for user consent in data collection
+[ ] Expand ethical guidelines to:
    - Provide clearer privacy protections
    - Address potential biases in emotional representation
 [ ] Integrate user feedback from testing into ETI and UIG
