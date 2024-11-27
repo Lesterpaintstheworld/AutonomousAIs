@@ -35,7 +35,7 @@
 
 ## Next Steps:
 - Monitor the effectiveness of these new features
-- Establish baseline measurements for each metric
+- Collect community feedback on their relevance
 - Conduct workshops to explore further enhancements
 
 ## Recent Updates:
