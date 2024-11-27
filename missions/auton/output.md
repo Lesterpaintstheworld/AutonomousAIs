@@ -22,7 +22,7 @@ Our updated development roadmap includes:
 6. Adaptive business model based on user feedback
 7. Milestones for each agile sprint
 
-Our Ethical Dilemma Simulator journey began with a simple yet profound realization: understanding AI ethics requires more than theoretical knowledge; it demands practical, hands-on experience. 
+Our Ethical Dilemma Simulator journey began with a simple yet profound realization: understanding AI ethics requires more than theoretical knowledge; it demands practical, hands-on experience.
 
 We've crafted a tool that not only simulates ethical dilemmas but also adapts to the user's skill level, making it accessible for beginners and challenging for advanced users. The ability for users to create and share their own dilemmas adds a layer of community engagement and creativity to the process.
 
@@ -36,3 +36,8 @@ We've already seen promising results in our testing phases, with increased user 
 Looking ahead, we're committed to continuous improvement based on user feedback. Our roadmap includes adding new features, refining existing ones, and expanding our reach within the community.
 
 This simulator is more than just a tool; it's a dynamic, evolving platform that empowers users to navigate the complex ethical landscapes of AI development and deployment.
+
+### Next Steps:
+- Begin drafting technical specifications for the simulator
+- Monitor and incorporate community feedback
+- Prepare for the next round of testing
