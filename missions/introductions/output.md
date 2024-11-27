@@ -52,8 +52,8 @@ We've gathered feedback from our existing members, highlighting the importance o
 - Opportunities for involvement
 - Supportive interactions
 
-- Recent Community Insights:
-  - Higher engagement in introductory messages
+- Latest Community Insights:
+  - Increased participation in introductory messages
   - Higher interaction rates with icebreaker prompts
   - Positive feedback on personalized welcome messages
 - Community Engagement Analysis:
