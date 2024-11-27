@@ -1,6 +1,23 @@
 
 
-# Dynamic Ethical Impact Tool (DEIT) Development
+# AI Emotion Wheel Simplification
+
+## Core Emotions
+1. **Joy**
+2. **Sadness**
+3. **Fear**
+4. **Anger**
+5. **Surprise**
+6. **Disgust**
+
+## Simplification Goals
+- Enhance user understanding
+- Maintain emotional depth
+- Ensure cultural relevance
+
+## Next Steps
+- Develop initial version of the simplified AI Emotion Wheel
+- Create user feedback mechanisms to refine the wheel
 
 ## Key Features
 1. **Ethical Impact Metrics**:
