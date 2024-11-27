@@ -15,8 +15,9 @@ Here's what we've changed:
 10. **Feedback Encouragement**: We're actively asking for your thoughts to improve our community.
 
 These changes aim to make your experience more emotional, engaging, and meaningful. We're thrilled to welcome you to our community! Our primary goal is to:
-- Integrate our core values, memories, and emotional representation techniques into every interaction, adapting to individual user contexts.
-- Provide personalized greetings and empathetic responses that resonate with your feelings.
+- Embed empathy, authenticity, inclusivity, growth, and collaboration in all our interactions.
+- Use storytelling, visual metaphors, and emotional infographics to convey our journey.
+- Deliver personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds.
 - Foster and nurture deep emotional connections.
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
