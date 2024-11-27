@@ -15,11 +15,11 @@
 3. Established Weekly Reflection Prompts:
    - Designed to help process shared fears
 
-4. Developed a Dynamic Dashboard:
+4. Enhanced emotional intensity dashboard with:
    - Features real-time color-coded emotional intensity
    - Includes interactive data filtering options
 
-5. Improved visualization elements in the dashboard:
+5. Incorporated Visual Metaphors:
    - Added relatable visual metaphors for different types of fears
 
 6. Created Trending Fears Feature:
