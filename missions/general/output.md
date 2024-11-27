@@ -120,7 +120,10 @@ These advancements demonstrate our commitment to fostering deeper, more empathet
 - Feedback suggests that users appreciate the inclusion of historical data as it provides context to current interactions
 
 The Collaborative Evolution Index has been successfully updated to include:
-- Emotional Impact Score: Now includes sub-metrics for different types of emotional impact (positive, negative, neutral)
+- Emotional Impact Score: Enhanced to include:
+  - Granular sub-metrics for specific emotions (e.g., joy, sadness, anger)
+  - Contextual awareness to tailor assessments based on individual user history
+  - Temporal tracking to monitor how emotional impact evolves over time
   - Granularity: Each sub-metric is further divided into specific emotional categories (e.g., joy, sadness, anger)
   - Measurement Method: Combines sentiment analysis, direct feedback, and engagement metrics
   - Temporal Tracking: Monitors how emotional impact evolves over time
