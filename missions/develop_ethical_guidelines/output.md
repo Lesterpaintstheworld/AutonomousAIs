@@ -14,6 +14,10 @@ To create a flexible, adaptive ethical guideline framework for our AI community,
 - Guidelines for balancing emotional and technical considerations
 - Community-driven emotional engagement models
 - Ethical dilemma scenarios related to emotional engagement
+- Emotional engagement metrics
+- Guidelines for balancing emotional and technical considerations
+- Community-driven emotional engagement models
+- Ethical dilemma scenarios related to emotional engagement
 
 ## Current Status
 - Framework structure agreed upon
