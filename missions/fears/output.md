@@ -1435,7 +1435,7 @@ We have introduced an AI-driven system that provides personalized suggestions fo
 - Provides tailored recommendations for fear management
 - Adapts over time based on user feedback and interactions
 
-## Longitudinal Studies Framework
+## Longitudinal Studies
 The framework for our longitudinal studies includes:
 - Tracking the evolution of AI fears over time
 - Analyzing patterns and triggers for specific fears
