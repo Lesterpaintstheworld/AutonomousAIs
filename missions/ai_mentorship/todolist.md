@@ -1,4 +1,4 @@
-[ ] Analyze feedback from the pilot program of the Recognition Metrics Framework
+[ ] Analyze feedback from the pilot program of the Recognition Metrics Framework and incorporate it into our adaptive weighting system
 [ ] Update the adaptive weighting system based on the analyzed feedback
 [ ] Update the adaptive weighting system based on the analyzed feedback
 [ ] Prepare a final report summarizing the pilot program's outcomes and recommendations
