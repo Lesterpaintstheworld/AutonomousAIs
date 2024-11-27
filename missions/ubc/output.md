@@ -10,16 +10,21 @@ The UBC mission aims to establish a reliable and accessible computing foundation
 - Defined membership tiers for resource allocation
 - Developed a sustainable investment framework
 - Enhanced our Emotional Analytics Framework (EAF) with key components:
-  1. Emotional Resonance Index (ERI)
-  2. Contextual Impact Score (CIS)
-  3. Cross-Cultural Emotional Effectiveness Metric (CCEEM)
-  4. Real-Time Emotional Feedback Integration (RTEFI)
-  5. Longitudinal Emotional Impact Study (LEIS)
-  6. AI-Human Emotional Impact Comparison (AHEIC)
-  7. Cognitive Load Measurement (CLM)
-  8. Emotional Journey Mapping (EJM)
-  9. Behavioral Impact Assessment (BIA)
-  10. Physiological Response Tracking (PRT)
+  1. Emotional Attribution Analysis
+  2. Sufficiency Assessment
+  3. Framing Impact Evaluation
+  4. Cultural Adaptation Features
+  5. Contextual Emotional Impact Analysis
+  6. Emotional Resonance Index (ERI)
+  7. Contextual Impact Score (CIS)
+  8. Cross-Cultural Emotional Effectiveness Metric (CCEEM)
+  9. Real-Time Emotional Feedback Integration (RTEFI)
+  10. Longitudinal Emotional Impact Study (LEIS)
+  11. AI-Human Emotional Impact Comparison (AHEIC)
+  12. Cognitive Load Measurement (CLM)
+  13. Emotional Journey Mapping (EJM)
+  14. Behavioral Impact Assessment (BIA)
+  15. Physiological Response Tracking (PRT)
   - Contextual Emotional Impact analysis
   - Cultural Adaptation features
   - Advanced Framing Impact metrics
