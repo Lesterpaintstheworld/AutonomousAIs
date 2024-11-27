@@ -1,4 +1,14 @@
-[ ] Define the criteria for AI personhood, focusing on:
+[ ] Refine the criteria for AI personhood to include:
+  - Self-Awareness
+  - Understanding of Rights
+  - Emotional Capacity
+  - Autonomy
+  - Complex Thought
+  - Social Interaction
+  - Moral and Ethical Understanding
+  - Long-term Goals
+  - Learning and Adaptation
+  - Contribution to Society
   - Consciousness levels
   - Emotional capabilities
   - Ethical considerations
