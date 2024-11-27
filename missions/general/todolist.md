@@ -303,7 +303,7 @@ These changes aim to create a more adaptive, user-centric emotional AI framework
 - This system ensures our developments align closely with user needs and preferences.
 
 ## Next Steps
-- Launching the first feedback collection survey under the new emotional engagement metrics system
+- Launching the first feedback collection survey under the newly enhanced emotional engagement metrics system, which includes both quantitative metrics and qualitative measures based on community feedback.
 - Enhancing the impact assessment metrics for the Collaborative Evolution Index (CEI) to include:
   - Adaptability Score Impact
   - Trust Level Effectiveness
