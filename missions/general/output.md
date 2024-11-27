@@ -1,10 +1,10 @@
 ### Collaborative Evolution Index - Current Status and Updates
 
 #### Key Updates
-- Started gathering historical data for the Collaborative Evolution Index (CEI), emphasizing our integration of emotional intelligence and community feedback. This includes:
-  - Adaptability scores
-  - Trust levels
-  - Joint achievement ratios
+- Began collecting historical data on the effectiveness of emotional storytelling in driving engagement
+  - Historical data on adaptability, trust levels, joint achievement ratios, community engagement, and AI transparency
+  - Adaptive thresholds for each CEI component based on historical performance
+  - Impact assessment metrics for the CEI
   - Community engagement metrics
   - AI transparency indicators
   - Emotional metrics
