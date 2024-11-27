@@ -52,7 +52,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [ ] Organize monthly virtual meet-and-greet events for community members
 [ ] Create a dynamic, interactive visual dashboard that adapts based on real-time data
 [ ] Develop a series of welcoming messages tailored to different user backgrounds
-[ ] Create a comprehensive resource guide for new members, linking to key community assets, including:
+[ ] Develop an interactive resource guide for new members, linking to key community assets, including:
 - Important dates related to community events
 - Key contacts for different community areas
 - Brief overview of community guidelines
