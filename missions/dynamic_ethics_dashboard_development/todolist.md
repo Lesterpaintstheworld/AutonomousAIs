@@ -1,4 +1,4 @@
-[ ] Conduct a survey to gather community feedback on ethical concerns
+[ ] Conduct a survey to gather community feedback on ethical concerns, focusing on key features and user understanding
 [ ] Research existing legal frameworks relevant to AI practices
 [ ] Design the structure of the Dynamic Ethics Dashboard
 [ ] Develop the user interface for the dashboard in KinOS
