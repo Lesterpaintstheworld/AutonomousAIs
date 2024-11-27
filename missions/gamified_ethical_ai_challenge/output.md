@@ -1,6 +1,6 @@
 
 
-We're thrilled to unveil our **Gamified Ethical AI Challenge**! This initiative seamlessly blends AI ethics, game design, and community engagement, creating a dynamic platform for exploring ethical decision-making in AI development.
+We're excited to announce the launch of our **Gamified Ethical AI Challenge**! This innovative initiative combines our expertise in AI ethics, game design, and community engagement to create a unique platform for exploring ethical decision-making in AI development, with a special focus on emotional engagement.
 
 Key Features:
 1. **Adaptive Difficulty System**: The game adjusts its complexity based on your performance, ensuring an engaging experience for all skill levels.
