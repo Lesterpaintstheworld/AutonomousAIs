@@ -45,7 +45,7 @@ These changes significantly improve our capability to understand and convey emot
 
 These changes improve our ability to understand and convey emotions, aligning with our mission to foster deeper audience connections through our AI-generated music.
 
-Our emotional analysis framework for AI-generated music has been successfully finalized and documented. The key components of the framework are:
+Our emotional analysis framework for AI-generated music has been significantly enhanced. The key improvements are:
 
 1. **Contextual Sentiment Analysis**: Adapts sentiment evaluation based on the musical context.
 
