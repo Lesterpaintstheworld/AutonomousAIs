@@ -50,8 +50,7 @@ This updated approach aligns with our goal of fostering a more engaging and effe
    - **Content Type Variability**: Different formats (text, images, infographics) served based on user preferences.
    - **Real-time Adaptation**: Content delivery adjusts in real-time during presentations.
 
-## Predictive Analytics
-- Integrated predictive analytics to anticipate user behavior and tailor feedback collection accordingly.
+## Community Engagement
 - Fostered respectful interactions among members, allowing for collaboration opportunities.
 - Created structures that encourage comments and constructive feedback.
 
