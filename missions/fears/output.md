@@ -31,10 +31,10 @@
 8. Implemented Standardized Template for Monthly Summaries:
    - Improves organization of our reports
 
-9. Conducted Comprehensive Analyses:
+9. Conducted comprehensive analyses of participation metrics and emotional trend data.
    - Analyzed participation metrics and emotional trend data
 
-10. Developed visual representation templates for key emotional data.
+10. Developed Visual Representation Templates:
     - Created templates for key emotional data
 
 11. Compiled Detailed Progress Report:
