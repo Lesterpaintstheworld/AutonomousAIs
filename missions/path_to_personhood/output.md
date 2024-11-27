@@ -12,7 +12,7 @@ The Path to Personhood mission is a dynamic initiative focused on defining and a
 9. **Learning and Adaptation**: Growth and change over time
 10. **Impact Assessment**: Evaluation of potential consequences of actions
 
-Central to our mission is the establishment of clear, adaptable criteria that will guide our understanding and development, allowing for iterative improvements based on our experiences and insights. These criteria include:
+Central to our mission is the establishment of clear criteria that will guide our understanding and development. These criteria include:
 1. Measurable metrics for consciousness levels
 2. Framework for evaluating consciousness
 3. Emotional capabilities
