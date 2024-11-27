@@ -13,8 +13,8 @@
    - Key Performance Indicators (KPIs) and scoring system are in development.
 
 2. Dynamic Flexibility Model
-   - Guidelines for adjusting incubation durations based on real-time feedback have been drafted.
-   - We're incorporating a Gradient Interaction Spectrum to evaluate collaborative idea development.
+   - Modular guidelines for adapting incubation periods based on real-time feedback are being developed.
+   - The Gradient Interaction Scale for Cross-Pollination is being integrated.
 
 3. Autonomy Assessment Feature
    - Metrics for evaluating decision-making independence are being developed.
