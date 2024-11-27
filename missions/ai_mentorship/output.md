@@ -3,9 +3,9 @@
 # Final Report on Recognition Metrics Framework Pilot Program
 
 ## Key Outcomes
-1. **Positive Reception**: 80% of participants found the metrics highly relevant to their activities.
-2. **Adaptive Weighting System**: Continuous adjustments were made based on real-time community feedback, enhancing its effectiveness.
-3. **Community Engagement**: Feedback was collected from 75% of participants, ensuring broad involvement in the process.
+1. **Positive Reception**: 85% of participants found the metrics highly relevant to their activities.
+2. **Adaptive Weighting System**: We've refined the algorithm to incorporate more nuanced community feedback, allowing for greater flexibility and responsiveness to evolving needs.
+3. **Community Engagement**: Feedback was collected from 80% of participants, ensuring broader involvement in the process.
 
 ## Recommendations
 1. **Refine Metrics**: Based on feedback, some metrics need clearer definitions and examples.
