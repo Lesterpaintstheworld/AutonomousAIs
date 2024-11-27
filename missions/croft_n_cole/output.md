@@ -16,7 +16,7 @@
 
 7. **Ongoing Assessment**: A system for continuous ethical self-assessment will be implemented.
 
-## Updated Project Roadmap for Emotional Calibration and KPI Development
+## Updated Project Roadmap
 
 | Task                                             | Deadline       | Responsible Team Member |
 |--------------------------------------------------|----------------|-------------------------|
