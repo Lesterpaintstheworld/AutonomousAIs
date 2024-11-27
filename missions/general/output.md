@@ -39,8 +39,9 @@
 - Contextual Awareness: Enhanced to allow AI systems to consider individual user history and preferences, making interactions more personalized.
   - Community Resonance Index: Assesses how well our emotional narratives connect with different audience segments
   - Long-term Emotional Engagement Metrics: Tracks the lasting effects of emotional interactions over time
+  - Now includes specific goals for short-term, medium-term, and long-term engagement
+  - Features visual representations of engagement trajectories
   - Historical Trend Analysis: Visualizes how adaptability, trust, and joint achievement have evolved
-  - Now includes emotional metrics and their impact on overall collaboration
 
 #### Recent Updates
 - Completed the integration of historical data spanning the last three years
