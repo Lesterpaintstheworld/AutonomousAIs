@@ -1,4 +1,4 @@
-[ ] Design an anonymized data collection system for user privacy
+[ ] Design a comprehensive data privacy framework, including anonymized data collection and compliance with GDPR
 [x] Analyze potential psychological impacts on users
 [ ] Design educational debriefing sessions for users
 [ ] Create informed consent documentation for simulator users
