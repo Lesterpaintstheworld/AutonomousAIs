@@ -325,7 +325,7 @@ This document outlines responsible AI development practices structured to ensure
 
 ### Enhanced Ethical AI Guidelines for Boiron
 
-This document outlines responsible AI development practices, now including specific metrics, use cases, and a timeline for implementation. These enhancements aim to improve clarity and applicability, ensuring alignment with Boiron's ethical objectives while balancing innovation with accountability.
+This document has been updated to include adaptive learning metrics that evaluate how well the ethical AI framework adapts to new information and changing contexts. These enhancements aim to improve clarity and applicability, ensuring alignment with Boiron's ethical objectives while balancing innovation with accountability.
 
 #### Key Enhancements:
 1. **Metrics for Success**: Each guideline now includes measurable outcomes to track effectiveness.
