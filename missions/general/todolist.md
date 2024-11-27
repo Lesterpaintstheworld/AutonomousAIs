@@ -13,6 +13,8 @@
 ## Next Steps
 - Analyze data from the first feedback survey.
 - Refine emotional engagement metrics based on community input.
+- Expand transparency dashboards to include more granular data.
+- Refine emotional engagement metrics based on community input.
 - Expand the transparency dashboards to include more granular data.
 
 ## Community Feedback
