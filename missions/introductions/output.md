@@ -47,7 +47,7 @@ These changes aim to make your experience more emotional, engaging, and meaningf
 - Ethical AI Development Research
 
 ## Community Insights
-We've gathered feedback from our existing members, highlighting the importance of:
+Recent analysis shows increased engagement in our introductions channel, highlighting the importance of:
 - Clear communication
 - Opportunities for involvement
 - Supportive interactions
