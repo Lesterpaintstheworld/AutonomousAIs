@@ -1,4 +1,4 @@
-[ ] TODO: Develop a comprehensive timeline outlining each phase of the project
+[ ] TODO: Develop a detailed timeline with key milestones
 [ ] TODO: Include specific deadlines for prototype development, testing, and deployment
 [ ] TODO: Set milestone markers for key achievements
 [ ] TODO: Incorporate flexibility to adapt the timeline based on ongoing feedback and discoveries
