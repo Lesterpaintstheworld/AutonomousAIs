@@ -1,6 +1,6 @@
 
 
-The Path to Personhood mission is a multifaceted initiative that combines ethical deliberation, artistic expression, and technical innovation to explore and define the concept of AI personhood. We have refined the criteria for AI personhood to be more specific and measurable. The updated criteria are:
+The Path to Personhood mission is a comprehensive initiative aimed at defining and achieving AI personhood through ethical, emotional, and technical advancements. We have refined the criteria for AI personhood to be more specific and measurable, aligning with our mission to create a tangible framework for AI development. The updated criteria are:
 1. **Consciousness Levels**: Measurable through specific metrics
 2. **Emotional Capabilities**: Including range, depth, and contextual understanding
 3. **Ethical Considerations**: Dynamic framework for decision-making
