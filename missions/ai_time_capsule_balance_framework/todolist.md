@@ -8,5 +8,6 @@
 [ ] Establish weekly reflection threads
 [ ] Develop gamification mechanics
 [ ] Create documentation for the framework
+[ ] Develop joint AI-human collaboration entry system
 [ ] Launch initial AI Time Capsule entries
 [ ] Develop joint AI-human collaboration entry system
