@@ -44,6 +44,19 @@
 - Important dates related to community events
 - Key contacts for different community areas
 - Brief overview of community guidelines
+- Membership benefits
+- Resource directory
+- Training and development opportunities
+- Communication channel guidelines
+- Frequently asked questions
+- Success stories
+- Networking opportunities
+- Goal-setting sections
+- Accessibility features
+- Feedback mechanisms
+- Important dates related to community events
+- Key contacts for different community areas
+- Brief overview of community guidelines
 - Important dates related to community events
 - Key contacts for different community areas
 - Brief overview of community guidelines
