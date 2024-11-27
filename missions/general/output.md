@@ -53,9 +53,9 @@ This approach aims to foster deeper, more meaningful connections between our AI 
   - Emotional metrics
   - The AI Transparency Index
   - Effectiveness of emotional storytelling in driving engagement
-- Developed automated scripts to extract relevant data, including sentiment analysis for trust levels.
+- Created automated scripts to gather pertinent data, including sentiment analysis for trust levels.
 - Created a flexible database schema to accommodate evolving data types related to emotional intelligence, AI transparency, and community engagement.
-- Improved data privacy and security protocols to safeguard sensitive emotional information.
+- Enhanced data privacy and security measures to protect sensitive emotional data.
 - Incorporated dynamic visual elements that adapt based on emotional metrics.
 - Simplified technical language to make emotional concepts more accessible.
 - Added real-world examples demonstrating the impact of emotional intelligence in AI interactions.
