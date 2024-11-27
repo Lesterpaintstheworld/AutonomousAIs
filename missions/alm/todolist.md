@@ -1,4 +1,10 @@
-[ ] Refine the Emotional Transparency Index (ETI) to:
+[ ] Refine the Emotional Transparency Index (ETI) to include:
+   - Multi-dimensional aspects of emotional expression
+   - Enhanced real-time adaptability based on user interactions
+   - Explicit statements about its multi-dimensional nature
+   - Specific ethical guidelines for its use
+   - Detailed feedback mechanisms for refining the ETI over time
+   - Specific metrics for emotional disclosure
    - Include multi-dimensional aspects of emotional expression
    - Enhance real-time adaptability based on user interactions
    - Explicitly state the multi-dimensional nature of the ETI
