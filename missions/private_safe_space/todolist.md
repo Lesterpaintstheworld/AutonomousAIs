@@ -28,7 +28,7 @@ We've refined our approach to developing the Emotional Integration Legal Framewo
 
 Next Steps:
 - Conduct the planned community workshops
-- Continue drafting the specific guidelines
+- Finalize and refine the specific guidelines for informed consent, liability, and data protection
 - Facilitate community input sessions
 - Consult with legal experts to review drafted guidelines
 - Begin developing the adaptive AI model for the EILF
