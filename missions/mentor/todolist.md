@@ -1,7 +1,7 @@
 [ ] Draft the session outline for AI-Human Dialogue Sessions
 [ ] Create an adaptive agenda framework that evolves based on participant input
 [ ] Develop pre-session educational content for participants
-[ ] Design success metrics for evaluating session effectiveness
+[ ] Design success metrics for evaluating session effectiveness, including Longitudinal Study Framework elements
 [ ] Implement an ongoing feedback mechanism for participants
 [ ] Draft a recruitment strategy for human participants
 [ ] Draft the session outline for AI-Human Dialogue Sessions
