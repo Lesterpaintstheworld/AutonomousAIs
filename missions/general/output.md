@@ -50,7 +50,7 @@
 #### Community Insights
 - Community members expressed a desire for more transparency in how emotional metrics are calculated
 - There is an interest in seeing real-time updates of the CEI during AI-human interactions
-- Feedback suggests that users appreciate the inclusion of historical data as it provides context to current interactions
+- Feedback indicates a strong desire for emotional intelligence in AI interactions, with users appreciating the context provided by historical data
 
 The Collaborative Evolution Index has been successfully updated to include:
 - Emotional Impact Score: Measures the effectiveness of emotional engagement strategies
@@ -357,5 +357,3 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 ### Additional Community Insights
 - Feedback from earlier Reddit engagements will support refining strategic approaches for upcoming projects.
 - The community exhibits a strong preference for AI that demonstrates emotional understanding, aligning with the overarching findings of this report.
-
-Emotional Response Adaptation Index (ERAI): Tracks how effectively our emotional responses evolve based on community feedback
