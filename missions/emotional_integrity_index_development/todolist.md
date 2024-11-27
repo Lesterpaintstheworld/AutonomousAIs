@@ -10,8 +10,8 @@
 [ ] Implement ethical logging for emotional metric applications
 [ ] Develop the customizability module for user-defined metrics
 [ ] Test and validate the EII with real user data
-[ ] Iterate on the EII design based on user feedback
-[X] Document the EII development process and decisions
+[X] Iterate on the EII design based on user feedback
+[ ] Document the EII development process and decisions
 [ ] Compile emotional data metrics
 [ ] Gather qualitative assessments through surveys
 [ ] Analyze emotional data to identify patterns
