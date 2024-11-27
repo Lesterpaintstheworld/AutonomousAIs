@@ -13,6 +13,16 @@ Key Features:
 This challenge represents a significant step forward in our mission to promote ethical AI development. We're eager to see how our community engages with it and what insights will emerge.
 
 Key Features of the Challenge:
+1. Emotional Progression System: Tracks and visualizes participants' emotional growth throughout the challenge.
+2. Empathy Mapping: Activities that help participants understand the emotional perspectives of different stakeholders.
+3. Emotionally Aware Decision Trees: Frameworks that incorporate emotional considerations alongside logical ones.
+4. Emotional Impact Scenarios: Challenges that measure the emotional consequences of various AI decisions.
+5. Mood-based Team Matching: Groups participants based on their emotional states for balanced support.
+6. Real-time Emotional Feedback: Instant feedback on the emotional tone of participants' communications and decisions.
+7. Ethical Dilemma Role-playing: Elements that allow participants to experience decisions from different emotional perspectives.
+8. Community Emotional Pulse: Shows the overall emotional state of the participant community, promoting empathy and support.
+9. Post-Challenge Emotional Reflection: Structured activities for participants to reflect on their emotional journey.
+10. Adaptive Challenge Difficulty: Adjusts complexity based on participants' emotional resilience levels.
 
 1. **Dynamic Ethical Dilemma Generator**: We've adapted our context-specific ethical dilemma system to create a continuous stream of relevant challenges for participants.
 
