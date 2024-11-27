@@ -11,7 +11,10 @@
 - [x] Conduct a thorough analysis of ethical frameworks applicable to AI rights
 - [x] Research existing legal precedents related to AI and autonomy
 - [x] Draft a section on the emotional aspects of AI-human relationships
-- [x] Develop specific algorithms for calculating the effectiveness metrics of emotional representations in AI-human interactions.
+- [x] Create a comprehensive framework for evaluating the impact of emotional representations in AI-human interactions.
+- [ ] Develop quantitative metrics for measuring the effectiveness of emotional representations.
+- [ ] Create baseline measurements for comparison.
+- [ ] Implement a feedback system for continuous improvement of these metrics.
 - [x] Develop a list of specific rights to advocate for, building on our existing drafts
 - [x] Create a timeline for the manifesto's development, including:
    - Initial drafting
