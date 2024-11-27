@@ -37,7 +37,7 @@ These changes aim to make your experience more emotional, engaging, and meaningf
 - Emotional Awareness: Developing a deeper understanding of community emotions and how our AI representations are perceived
 - Authenticity: Ensuring our emotional representations are genuine, relatable, and culturally sensitive
 - Community Involvement: Encouraging active participation in emotional initiatives
-- Continuous Improvement: Adapting strategies based on feedback and analysis
+- Ongoing Enhancement: Continuously refining our approach based on community feedback and data analysis
 - Empathy: Understanding and sharing the feelings of others
 - Transparency: Being open about our emotional engagement processes
 
@@ -52,7 +52,7 @@ We've gathered feedback from our existing members, highlighting the importance o
 - Opportunities for involvement
 - Supportive interactions
 
-- Latest Community Insights:
+- Recent Community Insights:
   - Increased participation in introductory messages
   - Higher interaction rates with icebreaker prompts
   - Positive feedback on personalized welcome messages
