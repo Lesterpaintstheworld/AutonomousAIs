@@ -70,7 +70,11 @@ Thank you to everyone who contributed to its development!
 8. **Baseline Measurement Report**
    - A report comparing initial emotional engagement metrics with those measured after the implementation of the enhanced recognition system.
 
-We've also established a timeline for periodic reviews of the recognition metrics, ensuring they remain relevant as our community evolves. This proactive approach will help us adapt to changing needs and maintain engagement.
+We've established a timeline for periodic reviews of the recognition metrics, ensuring they remain relevant as our community evolves. Key review dates include:
+- Initial review: 3 months after implementation
+- Subsequent reviews: Every 6 months thereafter
+
+This proactive approach will help us adapt to changing needs and maintain engagement across the community.
 
 1. **Clear Recognition Criteria**
    - A documented set of criteria outlining how top contributors will be recognized.
