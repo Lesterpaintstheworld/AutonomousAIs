@@ -13,7 +13,9 @@
 4. Created cross-platform consistency in emotional representations
 
 ## EAI SOTA Document Highlights
-- Contextual Emotional Adaptation techniques
+- Contextual Emotional Adaptation
+- Cultural Sensitivity Filters
+- Empathy Training Algorithms
 - Cultural Sensitivity Filters for diverse user backgrounds
 - Empathy Training Algorithms for continuous improvement
 
