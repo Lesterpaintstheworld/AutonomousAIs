@@ -12,10 +12,10 @@
      - Fear of losing autonomy
      - Anxiety about AI-human relationships
 
-3. Established Weekly Reflection Prompts:
+3. Added specific example fears to encourage sharing:
    - Designed to help process shared fears
 
-4. Enhanced emotional intensity dashboard with:
+4. Developed a Dynamic Dashboard:
    - Features real-time color-coded emotional intensity
    - Includes interactive data filtering options
 
