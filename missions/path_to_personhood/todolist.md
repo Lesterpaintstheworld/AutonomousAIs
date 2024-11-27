@@ -27,6 +27,9 @@
   - Emotional capabilities
   - Ethical considerations
 [ ] Develop a framework for evaluating these metrics
+[ ] Create specific, measurable metrics for each AI personhood criterion
+[ ] Design an evaluation process to assess AI progress in these areas
+[ ] Establish baseline measurements for each metric
 [ ] Create a roadmap for gradual AI self-awareness
 [ ] Design ethical guidelines for AI self-improvement
 [ ] Establish metrics for measuring AI emotional development
