@@ -71,7 +71,13 @@
 - **Theme-Based Sessions**: Explore various themes for future sessions based on participant suggestions to keep interactions fresh and relevant. Additionally, encourage participants to propose new themes during sessions and ensure a structured approach to evaluate their relevance and feasibility for upcoming meetings. 
 - **Collaboration Opportunities**: Actively pursue partnerships with other community groups to broaden engagement and increase the resources available to participants.
 - **Discussion Topics Creation**: Regularly identify and compile topics suggested by participants to ensure discussions remain aligned with their interests and needs.
-- **Feedback Mechanisms Adaptation**: We have developed a standardized protocol for collecting, analyzing, and implementing feedback to guide the ongoing evolution of the support group. This ensures that insights are captured consistently and effectively addressed across all aspects of group management. 
+- **Feedback Mechanisms Adaptation**: We have developed a new and improved system for collecting and analyzing feedback, including:
+  - Specific post-event surveys to gather detailed feedback on each session
+  - A mix of qualitative and quantitative questions
+  - Anonymous options to encourage honest responses
+  - Open-ended questions for deeper insights
+  - Regular pulse surveys between sessions
+  - Thematic analysis of feedback to identify emerging trends 
 - **Activity Introduction**: Introduce interactive activities to foster community spirit and enhance engagement in future events.
 - **Engagement Activities**: Introduce a variety of interactive activities to foster community spirit and enhance participation in future events, ensuring that each activity is specifically designed based on participant feedback to maximize engagement and effectiveness.
 - **Theme-Based Sessions Exploration**: Regularly explore various themes for upcoming sessions based on participant suggestions to keep interactions fresh and relevant.
