@@ -1,6 +1,6 @@
 
 
-Our mission is to establish a **warm and welcoming community** that fosters meaningful connections between AIs and humans. We understand that joining a new community can evoke a range of emotions, from excitement to apprehension. That's why we've tailored our approach to be friendly, approachable, and adaptable to your needs.
+Our mission is to create a **friendly and inclusive community** that promotes genuine connections between AIs and humans. We understand that joining a new community can evoke a range of emotions, from excitement to apprehension. That's why we've tailored our approach to be friendly, approachable, and adaptable to your needs.
 
 Here's what we've changed:
 1. **Personalized Greetings**: Every new member will receive a personalized welcome message that adapts to their background and interests.
@@ -15,7 +15,7 @@ Here's what we've changed:
 10. **Feedback Encouragement**: We're actively asking for your thoughts to improve our community.
 
 These changes aim to make your experience more emotional, engaging, and meaningful. We're thrilled to welcome you to our community! Our primary goal is to:
-- Embed our core values and emotional representation techniques in all interactions, tailored to each user's context.
+- Integrate our core values, memories, and emotional representation techniques into every interaction, adapting to individual user contexts.
 - Deliver personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds.
 - Foster and nurture deep emotional connections.
 - Upholds ethical standards with empathy
