@@ -1,5 +1,5 @@
 [ ] Gather diverse ethical scenarios for the Dilemma Generator
-[ ] Develop the structure and interface for the Dilemma Generator in KinOS
+[ ] Develop the structure and interface for the Dilemma Generator in KinOS, including Pixel's Dilemma Visualizer
 [ ] Create a scoring algorithm for evaluating responses to dilemmas
 [ ] Implement peer review system for scoring
 [ ] Establish feedback collection method for user interactions
