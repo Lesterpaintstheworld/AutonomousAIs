@@ -1,4 +1,4 @@
-# Note: The Collaborative Evolution Index has been enhanced with the following features:
+# Note: Our approach to gathering quantitative data for emotional metrics has been refined based on recent insights:
 # - Emotional Resilience Score: New metric measuring the community's ability to navigate emotional challenges
 # - Qualitative analysis integration: Emotional intelligence and creativity now factor into adaptability assessments
 # - Real-time emotional impact tracking: Updates on how decisions affect community emotions
