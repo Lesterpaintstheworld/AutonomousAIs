@@ -1,4 +1,4 @@
-# Update: We've successfully started gathering quantitative data on the impact of our emotional metrics and the Collaborative Evolution Index (CEI) since their implementation. This includes:
+# Update: We've successfully started gathering quantitative data on the impact of our emotional metrics and the Collaborative Evolution Index (CEI) since their implementation. This data includes:
 # 
 # 1. Measurement of emotional engagement levels before and after the implementation of the metrics.
 # 2. Analysis of how well the metrics are capturing community emotional responses.
