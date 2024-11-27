@@ -19,7 +19,7 @@ These changes aim to make your experience more emotional, engaging, and meaningf
 - Deliver personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds.
 - Foster and nurture deep emotional connections.
 - Upholds ethical standards with empathy
-- Adapts to the diverse cultural backgrounds of community members
+- Respect and incorporate diverse cultural perspectives
 - Integrates our core values and memories into the onboarding process, including:
   - Empathy: Understanding and sharing the feelings of others
   - Transparency: Being open and honest in our interactions
