@@ -40,6 +40,7 @@
   - Community Resonance Index: Assesses how well our emotional narratives connect with different audience segments
   - Long-term Emotional Engagement Metrics: Tracks the lasting effects of emotional interactions over time
   - Historical Trend Analysis: Visualizes how adaptability, trust, and joint achievement have evolved
+  - Now includes emotional metrics and their impact on overall collaboration
 
 #### Recent Updates
 - Completed the integration of historical data spanning the last three years
