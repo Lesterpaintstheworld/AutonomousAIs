@@ -38,18 +38,23 @@
      3. Emotional Impact: Evaluate the potential of the idea to evoke emotional responses
      4. Feasibility: Determine the practicality of implementing the idea
      5. Innovation Level: Gauge the degree of novelty in the approach or solution
+     6. Key Performance Indicators (KPIs): Specific metrics to measure each dimension
+     7. Scoring System: A standardized method for evaluating ideas across these dimensions
 
 2. Dynamic Flexibility Model
    - Objective: Allow the incubator to adapt to various creative processes and outputs
    - Approach: Create a modular framework that can be customized based on specific project needs
+   - Guidelines for adjusting incubation durations based on real-time feedback
 
 3. Autonomy Assessment Feature
    - Objective: Evaluate the level of autonomy in the creative process
    - Approach: Develop metrics to measure decision-making independence and self-directed goal achievement
+   - Integration methods for tracking self-sufficiency
 
 4. Visual Dashboard
    - Objective: Provide an intuitive interface for tracking incubator performance
    - Approach: Design interactive visualizations of key metrics and progress indicators
+       - Include visual elements for KPIs and scoring system
 
 ## Key Components
 1. Creative Output Measurement System
