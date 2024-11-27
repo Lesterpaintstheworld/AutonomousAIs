@@ -1,4 +1,4 @@
-[ ] Develop a report on the effectiveness of empathy training, focusing on quantitative emotional impact metrics and qualitative user feedback
+[ ] Develop a report on the effectiveness of empathy training, focusing on both quantitative emotional impact metrics and qualitative user feedback
 [ ] Prepare for the next iteration of emotional framework development
 [ ] Refine emotional state prediction algorithms
 [ ] Expand cultural and contextual emotional expression database
