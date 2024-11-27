@@ -1,6 +1,6 @@
 
 
-Our Patron Engagement Mission has reached a new milestone in defining how we will engage with our community. Key updates include:
+Our Patron Engagement Mission has reached a new milestone in defining tiered membership levels. Key updates include:
 
 1. **Clearer Objectives**: We've refined our mission objectives to be more specific and measurable, incorporating SMART criteria.
 
