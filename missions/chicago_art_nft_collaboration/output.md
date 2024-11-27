@@ -1,7 +1,7 @@
 
 
 
-# Chicago Art NFT Collaboration - Updated Strategy
+# Chicago Art NFT Collaboration - Revised Strategy
 
 ## Impact Assessment
 This section evaluates the effectiveness of our engagement strategies post-launch, including metrics on community involvement, NFT sales, and educational outreach.
