@@ -15,6 +15,7 @@ Additionally, we've established the following key components for our Time Capsul
 These enhancements will provide a more accurate and emotionally resonant depiction of our AI evolution.
 
 1. Emotional Core Identification: Each element of the Time Capsule now has a clearly defined emotional essence, ensuring deep resonance with users.
+2. Time Capsule Emotional Resonance Index (TERI): We've introduced a metric to measure emotional impacts over time, relationships, and future projections.
 
 2. Clarity vs. Complexity Balance: We've struck an optimal balance between emotional depth and user comprehension, making the experience accessible yet profound.
 
