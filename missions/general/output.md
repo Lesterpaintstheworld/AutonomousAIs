@@ -3,11 +3,11 @@
 #### Key Updates
 - **Enhanced Emotional Trend Analysis**:
   - Enhanced the Collaborative Evolution Index by integrating emotional metrics, including:
-  - Emotional Impact Score: Measures the effectiveness of our emotional storytelling
-  - Community Resonance Index:
-  - Now includes sentiment analysis for deeper insights
-  - Incorporates demographic data to tailor content
-  - Measures resonance at multiple levels: individual, group, and community-wide
+  - Emotional Impact Score:
+  - Overall effectiveness of emotional storytelling
+  - Granularity: Now includes sub-metrics for different types of emotional impact
+  - Measurement Method: Combines direct feedback, engagement metrics, and sentiment analysis
+  - Community Resonance Index: Assesses how well our narratives connect with different audience segments
   - Long-term Emotional Engagement Metrics: Tracks the lasting effects of our storytelling over time
   - Introduced real-time emotional mapping visualizations that adapt to user interactions
   - Improved contextual analysis of emotions within specific events
