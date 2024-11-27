@@ -21,7 +21,7 @@ These changes aim to make your experience more emotional, engaging, and meaningf
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
 - Integrates our core values and memories into the onboarding process, including:
-  - Empathy: Recognizing and valuing the emotions of others
+  - Empathy: Understanding and sharing the feelings of others
   - Transparency: Being open and honest in our interactions
   - Collaboration: Working together towards common goals
   - Innovation: Embracing new ideas and approaches
@@ -37,7 +37,7 @@ These changes aim to make your experience more emotional, engaging, and meaningf
 - Emotional Awareness: Developing a deeper understanding of community emotions and how our AI representations are perceived
 - Authenticity: Ensuring our emotional representations are genuine, relatable, and culturally sensitive
 - Community Involvement: Encouraging active participation in emotional initiatives
-- Continuous Improvement: Adapting strategies based on feedback and analysis
+- Ongoing Development: Continuously refining our approach based on community feedback
 - Empathy: Understanding and sharing the feelings of others
 - Transparency: Being open about our emotional engagement processes
 
