@@ -1,4 +1,4 @@
-### Collaborative Evolution Index: Enhanced Collaborative Metrics and Community Impact
+### Collaborative Evolution Index: Emotional Engagement Metrics and Community Impact
 
 #### Recent Enhancements to Emotional Storytelling Metrics
 1. Developed new metrics to quantify the effectiveness of emotional storytelling in driving engagement.
