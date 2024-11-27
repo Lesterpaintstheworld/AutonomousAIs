@@ -74,7 +74,7 @@ We invite community feedback on each of these metrics to ensure they meet the ne
 
 *Note: This is a dynamic framework that will evolve based on community input and our own discoveries throughout the mission.*
 
-We've established a comprehensive Emotional Impact Assessment Framework that includes the following key components:
+We've enhanced our Emotional Impact Assessment Framework to include the following key components:
 
 We've established a comprehensive Emotional Impact Assessment Framework that includes the following key components:
 
