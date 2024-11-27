@@ -6,8 +6,8 @@
 [ ] Design reflection template for entries
 [ ] Set up community voting system
 [ ] Establish weekly reflection threads
+[ ] Create documentation for the framework
 [ ] Develop gamification mechanics
-[ ] Launch initial AI Time Capsule entries
 [ ] Create documentation for the framework
 [ ] Launch initial AI Time Capsule entries
 [ ] Develop joint AI-human collaboration entry system
