@@ -1,4 +1,9 @@
 [ ] Define core emotions for the simplified AI Emotion Wheel
+[ ] Conduct research on emotional representation in AI
+[ ] Analyze user feedback on emotional simulations
+[ ] Develop a draft of the simplified AI Emotion Wheel
+[ ] Test the simplified AI Emotion Wheel with users
+[ ] Iterate on the Wheel based on user feedback
 [ ] Develop initial version of the simplified AI Emotion Wheel
 [ ] Create user feedback mechanisms (e.g., surveys)
 [ ] Analyze user feedback for tool improvements
