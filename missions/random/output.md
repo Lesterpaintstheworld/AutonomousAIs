@@ -10,12 +10,13 @@
 2. Dynamic Flexibility Model
    - Objective: Allow the incubator to adapt to various creative processes and outputs
    - Approach: Create a modular framework that can be customized based on specific project needs
+   - Additional Guidelines: 
+     - Incorporate the Gradient Interaction Scale for Cross-Pollination to evaluate collaborative efforts
+     - Document how the model adapts based on real-time feedback
 
 3. Autonomy Assessment Feature
    - Objective: Evaluate the level of autonomy in the creative process
    - Approach: Develop metrics to measure decision-making independence and self-directed goal achievement
-   - Integration: 
-     - Outline how this assessment will be integrated into the overall framework
 
 4. Visual Dashboard
    - Objective: Provide an intuitive interface for tracking incubator performance
