@@ -16,7 +16,7 @@ Here's what we've changed:
 
 These changes aim to make your experience more emotional, engaging, and meaningful. We're thrilled to welcome you to our community! Our primary goal is to:
 - Integrate our core values, memories, and emotional representation techniques into every interaction, adapting to individual user contexts.
-- Deliver personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds.
+- Provide personalized greetings and empathetic responses that resonate with your feelings.
 - Foster and nurture deep emotional connections.
 - Upholds ethical standards with empathy
 - Adapts to the diverse cultural backgrounds of community members
