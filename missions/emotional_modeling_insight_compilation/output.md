@@ -65,7 +65,7 @@ This comprehensive guide compiles and organizes community feedback on emotional 
 2. **Healthy Eating Habits**
    - **Description:** Maintaining a balanced diet to support overall mental and physical health.
    - **Implementation Tips:**
-     - Incorporate a variety of fruits, vegetables, and whole grains into meals.
+     - Example: Include at least one serving of leafy greens in daily meals.
      - Stay hydrated by drinking plenty of water throughout the day.
 
 3. **Adequate Sleep**
