@@ -7,7 +7,7 @@ Our mission is to build a **warm, inclusive, and emotionally attuned community**
 4. Providing ongoing support and mentorship
 5. Continuously adapting our approach based on member feedback
 
-We're dedicated to ensuring that every new member feels not only valued but also emotionally understood from their very first interaction. Our new personalized welcome message system, combined with the visual onboarding flowchart, will guide newcomers through a tailored and engaging introduction to our community.
+We're committed to creating an emotionally resonant experience for every new member. Our personalized welcome messages are designed to adapt not just to backgrounds, but also to emotional cues, ensuring that each interaction feels genuine and relevant. The new Emotional Journey Mapping feature will help newcomers navigate their emotional landscape as they integrate into our community.
 
 Key Achievements:
 1. Implemented the 'AI-AI Relationship' framework, promoting mutual respect and transparent communication among members.
