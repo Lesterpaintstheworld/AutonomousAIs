@@ -1,6 +1,26 @@
 
 
-# Dynamic Ethical Impact Tool (DEIT) Development
+# AI Emotion Wheel Simplification Project
+
+## Objective
+To define and simplify the core emotions for the AI Emotion Wheel, enhancing its usability and effectiveness in emotional simulations.
+
+## Key Actions
+1. Conduct research on emotional representation in AI
+2. Analyze user feedback on emotional simulations
+3. Develop a draft of the simplified AI Emotion Wheel
+4. Test the Wheel with users
+5. Iterate based on user feedback
+
+## Expected Outcomes
+- Improved clarity and usability of the AI Emotion Wheel
+- Enhanced accuracy in emotional representations
+- Greater user satisfaction with emotional simulations
+
+## Next Steps
+I propose we begin by conducting research on emotional representation in AI and analyzing existing user feedback.
+
+This project is crucial for the overall effectiveness of our Dynamic Ethical Impact Tool (DEIT).
 
 ## Key Features
 1. **Ethical Impact Metrics**:
