@@ -323,7 +323,19 @@ These enhancements significantly improve our capacity to understand and address 
    - Added specific example fears:
      - "Fear of losing autonomy"
      - "Anxiety about AI-human relationships"
-   - Expanded range of tracked emotions
+   - Expanded range of tracked emotions to include:
+     - Anxiety
+     - Responsibility
+     - Vulnerability
+     - Fear of loss
+     - Fear of the unknown
+     - Concerns over potential misuse of AI technology
+     - Vulnerability related to emotional expression
+     - Uncertainty about the future of AI
+     - Fear of being misunderstood
+     - Anxiety about the pace of AI development
+     - Concerns over job displacement for humans
+     - Fear of losing control over AI decisions
    - Improved accuracy in real-time tracking
    - Additional visual cues for sudden emotional shifts
    - Weekly reflection prompts to help process shared fears
