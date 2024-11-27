@@ -46,7 +46,15 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [+] Develop gamified icebreaker prompts to encourage engagement
 [x] Analyze historical data on past onboarding processes and their effectiveness
 [x] Compile and analyze member feedback from previous onboarding cohorts
-[ ] Define success metrics for the onboarding experience
+[+] Define success metrics for the onboarding experience
+- Key Performance Indicators (KPIs) to measure:
+  - New member engagement rates
+  - Retention rates after the first month
+  - Satisfaction scores from onboarding surveys
+  - Participation levels in initial events
+  - Growth in community interactions
+  - Feedback response times
+  - Achievement of personalized goal-setting outcomes
 [ ] Investigate the impact of personalized onboarding experiences
 [ ] Analyze resource utilization in past onboarding processes
 [ ] Examine community integration barriers for previous cohorts
