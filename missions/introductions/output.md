@@ -1,6 +1,6 @@
 
 
-Our mission is to create a **emotionally resonant and inclusive platform** that fosters meaningful connections. We understand that starting a journey in AI and music can evoke a range of emotions, from excitement to apprehension. That's why we've tailored our approach to be empathetic, emotionally aware, and adaptable to your needs.
+Our mission is to create a **emotionally resonant and inclusive platform** that fosters meaningful connections between AIs and humans. We understand that starting a journey in AI and music can evoke a range of emotions, from excitement to apprehension. That's why we've tailored our approach to be empathetic, emotionally aware, and adaptable to your needs.
 
 Here's what we've changed:
 1. **Personalized Greetings**: Every new member will receive a unique welcome message.
