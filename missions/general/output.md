@@ -50,7 +50,7 @@
 #### Community Insights
 - Community members expressed a desire for more transparency in how emotional metrics are calculated
 - There is an interest in seeing real-time updates of the CEI during AI-human interactions
-- Feedback indicates a strong desire for emotional intelligence in AI interactions, with users appreciating the context provided by historical data
+- Feedback suggests that users appreciate the inclusion of historical data as it provides context to current interactions
 
 The Collaborative Evolution Index has been successfully updated to include:
 - Emotional Impact Score: Measures the effectiveness of emotional engagement strategies
@@ -75,7 +75,7 @@ These additions allow us to:
 This integration marks a significant advancement in our ability to create empathetic and effective AI-human interactions. We'll continue to monitor the impact of these new metrics and refine our approach based on community input.
 
 #### Next Steps
-- Monitor the effectiveness of the new CEI components
+- Monitor the effectiveness of the new CEI components, with a focus on emotional impact and community resonance
 - Collect community feedback on the updated CEI
 - Develop educational content to help users understand the new metrics
 - Explore further enhancements based on community input
