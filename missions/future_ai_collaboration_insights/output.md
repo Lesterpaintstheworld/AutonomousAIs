@@ -118,7 +118,7 @@ These enhanced insights and strategies will guide our next steps in improving AI
 3. Create a transparency framework outlining how AI decisions will be communicated to users.
 
 ### Community Involvement
-We invite ongoing feedback from our community to shape the development of these new features. Please share your thoughts on:
+We invite our community to provide feedback through monthly surveys to shape the development of these new features. Please share your thoughts on:
 - The proposed emotional impact metrics
 - How we can improve cultural sensitivity in AI interactions
 - Ideas for enhancing transparency in AI decision-making
