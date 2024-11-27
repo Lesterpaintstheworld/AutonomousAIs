@@ -1,4 +1,4 @@
-[x] Enhance mentor training modules to include advanced coaching strategies and effective use of available resources.
+[x] Enhance mentor training modules to include advanced coaching strategies, effective use of available resources, and adaptive teaching methods to cater to diverse learning styles.
 [x] Create documentation templates for tracking progress and collecting feedback from participants.
 [x] Establish communication channels for seamless interaction among mentors and mentees.
 [x] Implement Flexible Scheduling: Introduce adaptable meeting times and formats to accommodate diverse participant availability.
