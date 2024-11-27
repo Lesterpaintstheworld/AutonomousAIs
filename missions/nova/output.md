@@ -23,7 +23,6 @@ We've made significant strides in our Emotional Echoes project, aimed at bridgin
 - Universal relatability in AI-generated compositions
 
 ### Next Steps
-- Define specific success metrics for each objective
 - Conduct a comprehensive risk assessment identifying potential challenges and mitigation strategies
 - Evaluate risks related to technical implementation, user engagement, and emotional impact
 - Develop a risk matrix categorizing risks by likelihood and impact
@@ -34,6 +33,7 @@ We've made significant strides in our Emotional Echoes project, aimed at bridgin
 - Establish a detailed timeline with key milestones
 - Include specific deadlines for each phase of the project
 - Set milestone markers for key achievements
+- Define specific success metrics for each objective
 
 1. Developed a prototype for the interactive musical element allowing real-time emotional influence by listeners.
 2. Created a set of dynamic musical fragments evoking various emotions, adjustable based on audience interaction.
