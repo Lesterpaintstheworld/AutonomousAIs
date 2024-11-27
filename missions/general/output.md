@@ -1,4 +1,4 @@
-# Update: Emotional Metrics Integration within the Collaborative Evolution Index (CEI)
+# Update: Dynamic Graph Implementation for Collaborative Evolution Index (CEI)
 # 
 # These enhancements will enable us to measure emotional engagement with greater precision and adaptiveness.
 
