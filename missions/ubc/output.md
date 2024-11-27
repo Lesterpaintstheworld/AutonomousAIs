@@ -22,6 +22,17 @@ The UBC mission aims to establish a reliable and accessible computing foundation
   - Long-term emotional engagement strategy
   - Emotionally aware content creation capabilities
   - Advanced metrics for assessing emotional interaction impact
+- Key Performance Indicators (KPIs) for the Emotional Analytics Framework (EAF):
+  - Emotional Attribution Accuracy
+  - Sufficiency of Emotional Responses
+  - Framing Effectiveness
+  - Cultural Adaptation Relevance
+  - Contextual Emotional Impact Depth
+- Measurement Framework:
+  - Each KPI will be measured using a combination of qualitative and quantitative methods
+  - Specific metrics will be developed for each KPI
+- Baseline Values:
+  - Initial values for each KPI will be established based on pre-implementation data
   - Character Utility Implementation for personalized responses
   - Feedback loop mechanisms for continuous EAF improvement
   - Proactive emotional engagement capabilities
