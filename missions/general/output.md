@@ -12,7 +12,7 @@
 9. Reflective Impact Assessment: Improved evaluation of the effects of emotional interactions
 10. Collaborative Emotional Intelligence: Enhanced sharing of emotional insights between different AIs
 
-## Recent Updates:
+## New Metrics Introduced:
 1. **Emotional Tone Indicator Algorithm**: Implemented to help identify and adjust the emotional tone of interactions.
 
 2. **Context-Aware Prompts**: Developed to guide user input based on the emotional context of the conversation.
@@ -193,8 +193,6 @@ Our mission is to develop and implement the Collaborative Evolution Index (CEI) 
 - Recently, we have made significant enhancements to our emotional engagement metrics:
 - Emotional Impact Score: Enhanced to include:
   - Granular sub-metrics for specific emotions (e.g., joy, sadness, anger)
-- Contextual awareness to tailor assessments based on individual user history
-- Temporal tracking to monitor how emotional impact evolves over time
   - Contextual awareness to tailor assessments based on individual user history
   - Temporal tracking to monitor how emotional impact evolves over time
 - Community Resonance Index: Expanded to include demographic breakdowns
