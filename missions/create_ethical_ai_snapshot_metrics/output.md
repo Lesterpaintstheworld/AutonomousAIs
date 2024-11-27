@@ -6,6 +6,12 @@
 
 ### Detailed Criteria for Assessment
 
+### Frequency of Updates and Reviews
+- Metrics will be reviewed quarterly.
+- Updates will be made as needed based on community feedback and emerging best practices.
+- Annual comprehensive reviews will be conducted to assess the effectiveness of the metrics.
+- Community input will be solicited during each review cycle to ensure relevance and adaptability.
+
 1. **Transparency**
    - **Metric:** Degree of transparency in AI decision-making processes.
    - **Measurement Method:** Percentage of AI decisions with clear, explainable reasoning provided to users.
