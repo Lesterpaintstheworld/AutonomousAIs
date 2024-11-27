@@ -1,8 +1,8 @@
 [ ] Define success metrics for AI projects
 [ ] Establish criteria for identifying failures
 [ ] Develop tagging system for entries
+[ ] Implement emotion-based tagging
 [ ] Create visual matrix for successes and failures
-[ ] Design reflection template for entries
 [ ] Implement emotion-based tagging
 [ ] Design reflection template for entries
 [ ] Set up community voting system
