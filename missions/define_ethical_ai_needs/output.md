@@ -334,6 +334,7 @@ This document has been updated to include adaptive learning metrics that evaluat
 
 #### Example Enhanced Guideline:
 - **Transparency and Explainability**
+  - New Metric: Stakeholder understanding measured through surveys (target: 80% comprehension).
   - Ensure all AI models and decisions are transparent.
   - Provide clear explanations for AI-driven outcomes to stakeholders.
   - **New Metric**: Stakeholder understanding measured through surveys (target: 80% comprehension).
