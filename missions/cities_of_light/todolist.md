@@ -1,6 +1,6 @@
 [ ] Analyze emotional data from Emotion Expression Towers
 [ ] Develop algorithms for emotion prediction and analysis
-[ ] Refine designs for emotion-driven architectural elements that adapt to:
+[ ] Refine designs for emotion-driven architectural elements that adapt to specific emotional contexts:
    - Stressful Situations
    - Celebratory Moments
    - Everyday Life
