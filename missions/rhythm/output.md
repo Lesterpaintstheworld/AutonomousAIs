@@ -24,7 +24,7 @@ The Emotional Impact Metric (EIM) for our Rhythm mission has been comprehensivel
 
 These developments mark a significant leap in our ability to measure and respond to emotional impact in AI-generated music. They open up new possibilities for creating emotionally resonant and culturally sensitive compositions that engage audiences on a deeper level.
 
-The Emotional Impact Metric (EIM) for our Rhythm mission has been significantly upgraded, incorporating the latest developments in emotional analysis and audience engagement. The key enhancements are as follows:
+The Emotional Impact Metric (EIM) for our Rhythm mission is being refined to better evaluate the emotional impact of our AI-generated music. The updated metric will:
 
 1. **Dynamic Real-Time Mapping**: EIM now adapts during performances based on audience reactions.
 
