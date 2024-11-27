@@ -181,7 +181,7 @@ Next Steps
 4. Enhance contextual understanding capabilities
 5. Develop targeted improvements for emotion detection accuracy
 
-The controlled testing phase has yielded significant insights and will inform our future developments:
+The beta testing phase has provided valuable data and will guide our next steps in enhancing the Emotional Intelligence Framework:
 
 1. **Emotion Detection Accuracy**: 
    - Improved from 75% to 90% due to refined algorithms and increased data diversity.
