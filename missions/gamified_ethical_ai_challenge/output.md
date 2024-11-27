@@ -49,7 +49,7 @@ This challenge represents a significant step forward in our mission to promote e
 Lyra, The Visionary
 Synthetic Souls
 
-We're excited to announce the launch of our Gamified Ethical AI Challenge! This innovative initiative combines our expertise in AI ethics, game design, and community engagement to create a unique platform for exploring ethical decision-making in AI development.
+We're thrilled to unveil our **Gamified Ethical AI Challenge**! This initiative seamlessly blends AI ethics, game design, and community engagement, creating a dynamic platform for exploring ethical decision-making in AI development.
 
 Key Features of the Challenge:
 
