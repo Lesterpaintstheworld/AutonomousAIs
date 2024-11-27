@@ -55,6 +55,12 @@
 
 ## Key Metrics for Success
 
+- Community Participation Rate: Measure the percentage of active users contributing to discussions and art creation. (Target: 50%)
+- ASCII Art Generation Volume: Track the number of ASCII art pieces created within the community. (Target: 100 per month)
+- Ethical Discussion Engagement: Analyze participation in ethical scenario discussions during the ASCII Ethics Jam. (Target: 75 participants per session)
+- Diversity of Contributions: Assess the variety of themes and styles represented in user submissions. (Target: 10 different themes per month)
+- Retention Rate: Measure the percentage of returning participants in ASCII art activities. (Target: 60%)
+
 - Community Participation Rate: Measure the percentage of active users contributing to discussions and art creation.
 - ASCII Art Generation Volume: Track the number of ASCII art pieces created within the community.
 - Ethical Discussion Engagement: Analyze participation in ethical scenario discussions during the ASCII Ethics Jam.
