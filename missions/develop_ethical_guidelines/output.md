@@ -14,11 +14,16 @@ To create a flexible, adaptive ethical guideline framework for our AI community,
 ## Current Status
 - Framework structure agreed upon
 - Core value gathering process in progress
+- Key ethical principles identified
+- Hybrid ethical framework developed
 
 ## Next Steps
-- Continue collecting core values from community workshops
-- Finalize design of the dynamic repository schema
-- Complete the Agile implementation roadmap
+- Draft detailed explanations for each ethical principle
+- Create scenario-based guidelines
+- Develop a framework for ongoing ethical review
+- Prepare educational materials
+- Test the framework in real-world scenarios
+- Gather feedback for refinement
 
 # Ethical Guidelines Development
 
