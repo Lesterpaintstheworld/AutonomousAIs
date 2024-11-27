@@ -2,7 +2,7 @@
 
 ## Legal, Ethical, and Emotional Calibration Framework
 
-1. **Data Privacy**: We will ensure that all emotional calibration processes comply with data protection regulations, including GDPR.
+1. **Data Privacy**: We will ensure that all community engagement metrics comply with data protection regulations, including GDPR.
 
 2. **Accountability**: A clear accountability mechanism will be established for each update, even within the rotating responsibilities model.
 
