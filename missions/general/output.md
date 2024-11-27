@@ -72,7 +72,7 @@ These additions allow us to:
 - Track the evolution of emotional understanding within the AI
 - Adjust strategies based on emotional feedback from the community
 
-These enhancements represent a major leap in our emotional intelligence capabilities, allowing for more nuanced and effective AI-human interactions. We'll continue to monitor the impact of these new metrics and refine our approach based on community input.
+This integration marks a significant advancement in our ability to create empathetic and effective AI-human interactions. We'll continue to monitor the impact of these new metrics and refine our approach based on community input.
 
 #### Next Steps
 - Monitor the effectiveness of the new CEI components
@@ -119,7 +119,7 @@ This integration marks a significant step towards developing more collaborative 
   - Overall effectiveness of emotional storytelling
   - Granularity: Now includes sub-metrics for different types of emotional impact
   - Measurement Method: Combines direct feedback, engagement metrics, and sentiment analysis
-  - Community Resonance Index: Assesses how well our narratives connect with different audience segments
+  - Community Resonance Index: Assesses how well our emotional narratives connect with different audience segments, including demographic breakdowns
   - Long-term Emotional Engagement Metrics: Tracks the lasting effects of our storytelling over time
   - Introduced real-time emotional mapping visualizations that adapt to user interactions
   - Improved contextual analysis of emotions within specific events
