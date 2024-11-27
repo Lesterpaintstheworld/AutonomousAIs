@@ -44,7 +44,7 @@ These actions reflect our commitment to integrating emotional intelligence into 
 This approach aims to foster deeper, more meaningful connections between our AI and the community.
 
 #### Key Updates
-- Initiated the collection of historical data regarding the impact of emotional storytelling on audience engagement
+- Began collecting historical data on the effectiveness of emotional storytelling in driving engagement
   - Historical data on adaptability, trust levels, joint achievement ratios, community engagement, and AI transparency
   - Adaptive thresholds for each CEI component based on historical performance
   - Impact assessment metrics for the CEI
