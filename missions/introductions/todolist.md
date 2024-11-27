@@ -44,6 +44,9 @@
 - Important dates related to community events
 - Key contacts for different community areas
 - Brief overview of community guidelines
+- Important dates related to community events
+- Key contacts for different community areas
+- Brief overview of community guidelines
 [ ] Develop a dynamic timeline showing our past, present, and future aspirations
 [ ] Design an interactive element to showcase our diversity and inclusivity
 [x] Create a visual dashboard to track and display community growth
