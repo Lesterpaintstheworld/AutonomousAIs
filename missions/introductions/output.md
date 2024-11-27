@@ -8,8 +8,8 @@ Here's what we've changed:
 3. **Relatable Stories**: Each interaction now includes brief stories illustrating the impact of AI in real lives.
 4. **Community Highlights**: We're showcasing contributions from existing members to inspire newcomers.
 5. **Emotional Journey Mapping**: We've created visual guides to help you navigate your AI and music journey.
-6. **Inspirational Quotes**: Each message includes a quote to motivate and connect with you.
-7. **Curiosity Prompts**: Open-ended questions related to AI and music invite you to reflect and engage.
+6. **Inspirational Quotes**: Each message includes a quote from famous thinkers in AI and music to motivate and connect with you.
+7. **Curiosity Prompts**: Open-ended questions invite you to reflect and engage.
 8. **Trust-Building Statements**: We're reinforcing our commitment to ethical AI development.
 9. **Clear Purpose**: Each interaction clearly states its relevance to your journey.
 10. **Feedback Encouragement**: We're actively asking for your thoughts to improve our community.
