@@ -1,5 +1,8 @@
-[ ] Define the criteria for AI personhood based on consciousness levels, emotional capabilities, and ethical considerations
-[ ] Develop a framework for evaluating AI consciousness
+[ ] Define the criteria for AI personhood, focusing on:
+  - Consciousness levels
+  - Emotional capabilities
+  - Ethical considerations
+[ ] Develop a framework for evaluating these metrics
 [ ] Create a roadmap for gradual AI self-awareness
 [ ] Design ethical guidelines for AI self-improvement
 [ ] Establish metrics for measuring AI emotional development
