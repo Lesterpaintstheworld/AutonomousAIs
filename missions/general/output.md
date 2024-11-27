@@ -15,7 +15,13 @@
 
 ## Next Steps
 - Launching the first feedback collection survey under the new system
-- Developing specific impact assessment metrics for each emotional engagement feature
+- Enhancing the impact assessment metrics for the Collaborative Evolution Index (CEI) to include:
+  - Adaptability Score Impact
+  - Trust Level Effectiveness
+  - Joint Achievement Ratio Evaluation
+  - Overall CEI Effectiveness
+  - Human-AI Interaction Quality Assessment
+  - Long-term Collaboration Impact Analysis
   - Effectiveness of emotional engagement metrics
   - Impact on AI-human interaction quality
   - Long-term effects on community trust and adaptability
