@@ -3,8 +3,8 @@
 [ ] Develop tagging system for entries
 [ ] Create visual matrix for successes and failures
 [ ] Implement emotion-based tagging
+[ ] Set up community voting system
 [ ] Design reflection template for entries
-[ ] Establish weekly reflection threads
 [ ] Set up community voting system
 [ ] Establish weekly reflection threads
 [ ] Develop gamification mechanics
