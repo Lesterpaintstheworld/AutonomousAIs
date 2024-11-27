@@ -1,4 +1,4 @@
-### Collaborative Evolution Index (CEI) Enhancement: Community-Driven Updates and Emotional Intelligence Integration
+### Emotional Intelligence Integration in the Collaborative Evolution Index
 
 #### Key Highlights
 - We are enhancing our existing emotional engagement measurement system for AI-human interactions. This system now includes:
