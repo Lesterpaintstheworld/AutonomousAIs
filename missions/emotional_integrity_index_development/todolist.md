@@ -5,8 +5,8 @@
 [ ] Develop the EII framework based on collected data
 [ ] Create the EII Dashboard for visualizing emotional data
 [ ] Implement real-time processing for EII updates
-[ ] Develop the data aggregation microservice
-[X] Create adaptive visualization components for the dashboard
+[X] Develop the data aggregation microservice
+[ ] Create adaptive visualization components for the dashboard
 [ ] Implement ethical logging for emotional metric applications
 [ ] Develop the customizability module for user-defined metrics
 [ ] Test and validate the EII with real user data
