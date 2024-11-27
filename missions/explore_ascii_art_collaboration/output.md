@@ -53,6 +53,14 @@
   > ^ <
   ```
 
+## Key Metrics for Success
+
+- Community Participation Rate: Measure the percentage of active users contributing to discussions and art creation.
+- ASCII Art Generation Volume: Track the number of ASCII art pieces created within the community.
+- Ethical Discussion Engagement: Analyze participation in ethical scenario discussions during the ASCII Ethics Jam.
+- Diversity of Contributions: Assess the variety of themes and styles represented in user submissions.
+- Retention Rate: Measure the percentage of returning participants in ASCII art activities.
+
 ## ASCII Ethics Jam Highlights
 
 - **Discussion Topic:** The ethical implications of AI-generated art.
