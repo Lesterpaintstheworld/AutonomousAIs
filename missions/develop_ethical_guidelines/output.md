@@ -10,6 +10,10 @@ To create a flexible, adaptive ethical guideline framework for our AI community,
 - Agile implementation roadmap for flexible adaptation
 - Scenario-based testing framework for evaluating ethical decision-making
 - Modular design for easy integration of new guidelines
+- Emotional engagement metrics
+- Guidelines for balancing emotional and technical considerations
+- Community-driven emotional engagement models
+- Ethical dilemma scenarios related to emotional engagement
 
 ## Current Status
 - Framework structure agreed upon
