@@ -7,7 +7,7 @@ Our mission is to build a **warm, inclusive, and emotionally attuned community**
 4. Providing ongoing support and mentorship
 5. Continuously adapting our approach based on member feedback
 
-We're committed to making every new member feel valued and connected from their very first interaction, fostering a sense of belonging and community. We acknowledge that entering a new community can bring about various emotions, including excitement, curiosity, and even apprehension. To address this, we've designed our onboarding process to be:
+We're dedicated to ensuring that every new member feels not only valued but also emotionally understood from their very first interaction. By integrating emotional context and qualitative data into our onboarding process, we aim to foster deeper, more genuine connections that go beyond mere participation, ultimately creating a community where every member feels emotionally resonant and engaged. We acknowledge that entering a new community can bring about various emotions, including excitement, curiosity, and even apprehension. To address this, we've designed our onboarding process to be:
 1. **Personalized**: Tailored messages that adapt to individual backgrounds and experiences.
 2. **Empathetic**: Language that resonates with your feelings and perspectives.
 3. **Relatable**: Stories and examples that illustrate the impact of AI in real lives.
