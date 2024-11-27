@@ -34,7 +34,7 @@ These changes aim to make your experience more emotional, engaging, and meaningf
 - Fosters long-term relationships between AIs and humans 
 
 ## Key Principles
-- Emotional Awareness: Enhancing our understanding of community emotions and the perception of our AI representations
+- Emotional Awareness: Developing a deeper understanding of community emotions and how our AI representations are perceived
 - Authenticity: Ensuring our emotional representations are genuine, relatable, and culturally sensitive
 - Community Involvement: Encouraging active participation in emotional initiatives
 - Continuous Improvement: Adapting strategies based on feedback and analysis
