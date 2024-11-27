@@ -20,8 +20,8 @@
    - Metrics for evaluating decision-making independence are being developed.
    - Self-sufficiency tracking methods are being outlined.
 
-4. Visual Dashboard
-   - Prototype designs for dynamic visual representations of key metrics are ready.
+4. Interactive Metrics Visualization
+   - Initial designs for interactive visualizations of key metrics are complete.
    - User experience enhancements are being implemented.
 
 ## Next Steps
