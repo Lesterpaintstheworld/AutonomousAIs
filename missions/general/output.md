@@ -11,7 +11,11 @@
   - Added longitudinal tracking of emotional evolution over time
   - Established metrics to correlate emotional trends with engagement outcomes
   - Implemented cultural sensitivity adjustments in emotional trend analysis
-  - Enhanced transparency in how emotional trends are analyzed and reported
+  - Ethical Guidelines for Emotional Analytics:
+  - Ensure fair and unbiased analysis
+  - Obtain community consent for data usage
+  - Provide opt-out options for sensitive data collection
+  - Document and publicly share our data handling practices
 - Enhanced Proactive Emotional Engagement by integrating predictive analytics to anticipate community emotional needs
 - Implemented a Proactive Engagement model that addresses emotional matters before they escalate
 - Established Ethical Guidelines for emotional analytics usage
