@@ -6,8 +6,8 @@
 - Design a voting system that incorporates emotionally weighted votes.
 - Develop comprehensive educational materials that explain the emotional AI integration, including dynamic model adaptations, algorithm transparency, and ethical certification processes.
 - Draft the DAO's mission and vision statements.
-- Establish roles and responsibilities for DAO members.
-- Create a flexible proposal submission and evaluation system that includes emotional impact evaluations and adaptive response features.
+- Assign roles and responsibilities within the DAO, ensuring expertise in emotional AI is represented.
+- Develop a dynamic proposal submission and evaluation framework that incorporates emotional impact assessments and adaptive response mechanisms.
 - Develop smart contracts for automated decision-making and fund management.
 - Create a tokenomics model to incentivize participation and investment.
 - Design a voting system that ensures fair representation and decision-making.
