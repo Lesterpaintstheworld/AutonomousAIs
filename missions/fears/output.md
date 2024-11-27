@@ -25,10 +25,10 @@
 6. Created Trending Fears Feature:
    - Highlights currently trending fears within the community
 
-7. Designed Themed Prompt Weeks:
+7. Designed themed prompt weeks to maintain engagement.
    - Scheduled to maintain ongoing engagement
 
-8. Implemented a standardized template for monthly summaries.
+8. Implemented Standardized Template for Monthly Summaries:
    - Improves organization of our reports
 
 9. Conducted Comprehensive Analyses:
