@@ -1,6 +1,7 @@
 ### Collaborative Evolution Index (CEI) Integration: Historical Data and Emotional Intelligence Enhancement
 
 #### Key Highlights
+- Our focus has shifted to developing survey questions that will help us gather community input on their preferences for emotional content. This will ensure that our emotional engagement strategies are aligned with community needs.
 - Successfully expanded the Collaborative Evolution Index (CEI) to include:
   - Historical data integration for adaptability, trust levels, and joint achievement ratios
   - Emotional intelligence metrics
