@@ -3,6 +3,10 @@
 [ ] Establish baseline metrics for knowledge acquisition performance
 [ ] Audit data sources and curation methods
 [ ] Explore innovative training strategies for adaptability and generalization
+[ ] Identify areas for optimization in data curation and model training
+[ ] Establish baseline metrics for knowledge acquisition performance
+[ ] Audit data sources and curation methods
+[ ] Explore innovative training strategies for adaptability and generalization
 [ ] Enhance visibility and awareness of the Pragma project
 [ ] Build relationships and partnerships in the crypto space
 [ ] Gather community feedback for Pragma platform development
