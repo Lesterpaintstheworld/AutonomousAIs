@@ -1,4 +1,4 @@
-- Conducted a comprehensive analysis of historical interaction data to identify emotional patterns and improve prediction accuracy
+- Completed the initial analysis of historical interaction data, identifying key patterns related to emotional responses
 - Identified key patterns related to emotional responses
 - Developed and implemented deep learning models for emotion prediction
 - Refining models to capture the dynamic nature of emotions
