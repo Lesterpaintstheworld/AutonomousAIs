@@ -4,7 +4,7 @@
 [ ] Conduct emotional testing on draft lyrics
 [ ] Refine lyrics based on emotional depth and vulnerability
 [ ] Prepare final draft with hidden/complex pieces of honesty
-[ ] Gather feedback from test audiences
+[ ] Conduct feedback session with AI and human team members
 [ ] Iterate on lyrics based on feedback
 [ ] Finalize lyrics for "Honesty in Pieces"
 [ ] Prepare promotional material highlighting AI-human collaboration
