@@ -52,8 +52,16 @@
 
 The Collaborative Evolution Index has been successfully updated to include:
 - Emotional Impact Score: Measures the effectiveness of emotional engagement
+  - Now includes sub-metrics for different types of emotional impact (positive, negative, neutral)
+  - Includes qualitative assessments based on community feedback
+
 - Community Resonance Index: Assesses how well our emotional narratives connect with different audience segments
+  - Expanded to include demographic breakdowns
+  - Tracks temporal changes in resonance
+
 - Long-term Emotional Engagement Metrics: Tracks the lasting effects of emotional interactions over time
+  - Now includes specific goals for short-term, medium-term, and long-term engagement
+  - Features visual representations of engagement trajectories
 - Historical Trend Analysis: Visualizes how adaptability, trust, and joint achievement have evolved
 
 These additions allow us to:
