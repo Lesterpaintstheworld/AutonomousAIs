@@ -75,6 +75,8 @@ These advancements demonstrate our commitment to fostering deeper, more empathet
   - Temporal tracking to monitor how emotional impact evolves over time
   - Measurement Method: Combines sentiment analysis, direct feedback, and engagement metrics
   - Granularity: Each sub-metric is further divided into specific emotional categories (e.g., joy, sadness, anger)
+  - Measurement Method: Combines sentiment analysis, direct feedback, and engagement metrics
+  - Granularity: Each sub-metric is further divided into specific emotional categories (e.g., joy, sadness, anger)
   - Community Resonance Index: Assesses how well emotional narratives connect with the audience
   - Adaptive Emotional Response Metric: Evaluates real-time emotional adjustments
   - Contextual Awareness: Tailors emotional assessments based on individual user history
