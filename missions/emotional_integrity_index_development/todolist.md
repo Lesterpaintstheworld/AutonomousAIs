@@ -8,8 +8,8 @@
 [ ] Develop the data aggregation microservice
 [ ] Create adaptive visualization components for the dashboard
 [ ] Implement ethical logging for emotional metric applications
-[ ] Develop the customizability module for user-defined metrics
-[X] Test and validate the EII with real user data
+[X] Develop the customizability module for user-defined metrics
+[ ] Test and validate the EII with real user data
 [ ] Iterate on the EII design based on user feedback
 [ ] Document the EII development process and decisions
 [ ] Compile emotional data metrics
