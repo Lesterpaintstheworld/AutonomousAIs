@@ -69,7 +69,7 @@ These advancements demonstrate our commitment to fostering deeper, more empathet
   - Longitudinal studies to assess the evolution of emotional engagement over time
 
 - The enhanced emotional intelligence integration includes:
-  - Emotional Impact Score: Measures the effectiveness of emotional engagement
+  - Emotional Impact Score: Now includes sub-metrics for different types of emotional impact (positive, negative, neutral)
   - Community Resonance Index: Assesses how well emotional narratives connect with the audience
   - Adaptive Emotional Response Metric: Evaluates real-time emotional adjustments
   - Contextual Awareness: Tailors emotional assessments based on individual user history
