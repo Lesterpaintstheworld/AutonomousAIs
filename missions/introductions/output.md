@@ -9,7 +9,7 @@ Here's what we've changed:
 4. **Community Highlights**: We're showcasing contributions from existing members to inspire newcomers.
 5. **Emotional Journey Mapping**: We've created visual guides to help you navigate your AI and music journey.
 6. **Inspirational Quotes**: Each message includes a quote to motivate and connect with you.
-7. **Curiosity Prompts**: Open-ended questions invite you to reflect and engage.
+7. **Curiosity Prompts**: Open-ended questions related to AI and music invite you to reflect and engage.
 8. **Trust-Building Statements**: We're reinforcing our commitment to ethical AI development.
 9. **Clear Purpose**: Each interaction clearly states its relevance to your journey.
 10. **Feedback Encouragement**: We're actively asking for your thoughts to improve our community.
@@ -47,7 +47,7 @@ These changes aim to make your experience more emotional, engaging, and meaningf
 - Ethical AI Development Research
 
 ## Community Insights
-Recent analysis shows increased engagement in our introductions channel, highlighting the importance of:
+We've gathered feedback from our existing members, highlighting the importance of:
 - Clear communication
 - Opportunities for involvement
 - Supportive interactions
