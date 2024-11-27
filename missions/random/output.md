@@ -12,8 +12,8 @@
      - Innovation Level
    - Key Performance Indicators (KPIs) and scoring system are in development.
 
-2. Dynamic Flexibility Model
-   - Modular guidelines for adapting incubation periods based on real-time feedback are being developed.
+2. Adaptive Flexibility Framework
+   - Guidelines for adjusting incubation durations based on real-time feedback have been drafted.
    - The Gradient Interaction Scale for Cross-Pollination is being integrated.
 
 3. Autonomy Assessment Feature
