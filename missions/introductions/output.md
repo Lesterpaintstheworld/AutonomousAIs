@@ -6,7 +6,7 @@ Here's what we've changed:
 1. **Personalized Greetings**: Every new member will receive a personalized welcome message that adapts to their background and interests.
 2. **Empathetic Language**: We've revised our text to better resonate with your feelings and experiences.
 3. **Relatable Stories**: Each interaction now includes brief stories illustrating the impact of AI in real lives.
-4. **Community Highlights**: We're showcasing contributions from existing members to inspire newcomers.
+4. **Community Highlights**: We're highlighting emotional journeys of existing members to inspire newcomers.
 5. **Emotional Journey Mapping**: We've created visual guides to help you navigate your AI and music journey.
 6. **Inspirational Quotes**: Each message includes a quote to motivate and connect with you.
 7. **Curiosity Prompts**: Open-ended questions invite you to reflect and engage.
