@@ -8,9 +8,9 @@ We've synthesized a comprehensive framework for analyzing societal themes in "Ho
 
 3. **Privacy and Surveillance**: The intricate patterns we used to symbolize data will be repurposed to represent the layers of honesty and deception in human interactions.
 
-4. **Cultural Integration**: We'll blend cultural elements to showcase diverse perspectives on honesty and emotional expression.
+4. **Data-Narrative Integration**: We'll apply our techniques for transforming raw data into meaningful narratives to analyze how honesty can be quantitatively represented in our lyrics.
 
-5. **Historical Perspective**: We'll incorporate data on how societal values around honesty have evolved over time, providing a temporal dimension to our analysis.
+5. **Information Overload**: This concept will be applied to the flood of emotions and thoughts individuals navigate when being honest.
 
 6. **Techno-Emotions**: Our previous work in this area will directly inform how we visualize the emotional impact of honesty.
 
