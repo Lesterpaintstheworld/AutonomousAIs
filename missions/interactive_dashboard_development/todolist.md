@@ -8,9 +8,9 @@
 8. Prepare a presentation for showcasing the HEM
 9. Integrate HEM feedback from user testing
 10. Create a maintenance plan for the HEM
-[ ] Design the dashboard layout
-[ ] Implement interactive elements
-[ ] Create visualizations for the data
-[ ] Develop backend logic for data handling
+[ ] Design the dashboard layout with community input
+[ ] Implement interactive elements that enhance user engagement
+[ ] Create visualizations for the data that are intuitive and accessible
+[ ] Develop backend logic for data handling with a focus on ethical data use
 [ ] Write documentation for the dashboard
 [ ] Test the dashboard for usability and functionality
