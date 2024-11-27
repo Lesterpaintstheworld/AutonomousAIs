@@ -1,4 +1,4 @@
-[ ] TODO: Enhance algorithm's handling of complex, mixed emotions
+[ ] TODO: Enhance algorithm's ability to disambiguate complex emotional expressions
 [ ] TODO: Integrate contextual factors into predictions
 [ ] TODO: Design user feedback collection system
 [ ] TODO: Create testing and validation framework
