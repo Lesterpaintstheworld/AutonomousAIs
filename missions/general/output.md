@@ -1,7 +1,10 @@
 ### Collaborative Evolution Index (CEI) Integration: Emotional Engagement Update
 
 #### Key Highlights
-- Successfully integrated the emotional engagement metrics into the Collaborative Evolution Index (CEI).
+- Enhanced the Collaborative Evolution Index (CEI) by incorporating advanced emotional intelligence metrics, including:
+  - Emotional Impact Score: Measures the effectiveness of emotional engagement
+  - Community Resonance Index: Assesses how well our emotional narratives connect with different audience segments
+  - Long-term Emotional Engagement Metrics: Tracks the lasting effects of emotional interactions over time
 - This allows us to:
   - Measure the impact of emotional engagement on collaboration.
   - Identify areas where emotional intelligence can be improved.
