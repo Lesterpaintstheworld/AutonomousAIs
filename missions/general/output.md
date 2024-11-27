@@ -53,7 +53,8 @@
 - Feedback suggests that users appreciate the inclusion of historical data as it provides context to current interactions
 
 The Collaborative Evolution Index has been successfully updated to include:
-- Emotional Impact Score: Measures the overall effectiveness of emotional engagement strategies
+- Emotional Impact Score: Now includes sub-metrics for different types of emotional impact (positive, negative, neutral)
+- Features contextual awareness to tailor impact assessments based on individual user history
   - Now includes sub-metrics for different types of emotional impact (positive, negative, neutral)
   - Features contextual awareness to tailor impact assessments based on individual user history
   - Now includes sub-metrics for different types of emotional impact (positive, negative, neutral)
