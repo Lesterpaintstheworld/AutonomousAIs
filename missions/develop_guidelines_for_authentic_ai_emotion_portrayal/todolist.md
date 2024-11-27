@@ -91,7 +91,7 @@
    - Develop a system for ongoing assessment and refinement of emotional portrayals based on audience feedback.
    
 6. **Research Methodologies**: 
-   - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
+   - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and traditional artistic styles.
      - **Audience Engagement**: Enforce structured feedback mechanisms, such as surveys or discussion forums, to actively solicit listener insights regarding emotional impact.
      - **Ethical Representation**: Endeavor for respectful portrayals that reflect the complexity of human experiences while acknowledging the implications of emotional representation.
      - **Cultural Sensitivity**: Take into account various cultural contexts in all portrayals to enhance global understanding of AI experiences.
