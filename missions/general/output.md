@@ -335,7 +335,7 @@ We believe in co-creating this index with our community. Key community contribut
 - Helping to validate our measurement methods
 
 ## Next Steps
-- Monitor the effectiveness of the new metrics
+- Expand emotional intelligence integration across all CEI components
 - Collect community feedback on their relevance
 - Conduct workshops to explore further enhancements
 
