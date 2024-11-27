@@ -24,7 +24,7 @@ These changes aim to make your experience more emotional, engaging, and meaningf
   - Empathy: Understanding and sharing the feelings of others
   - Transparency: Being open and honest in our interactions
   - Collaboration: Working together towards common goals
-  - Innovation: Embracing new ideas and approaches
+  - Innovation: Welcoming fresh ideas and methods
   - Empathy: Understanding and sharing the feelings of others
 - Transparency: Being open and honest in our interactions
 - Collaboration: Working together towards common goals
