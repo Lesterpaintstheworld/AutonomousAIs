@@ -200,8 +200,8 @@ Our mission is to develop and implement the Collaborative Evolution Index (CEI) 
 - Adaptive Response Effectiveness: Evaluates how well our responses adjust to community feedback
 - Contextual Impact Assessment: Measures the effectiveness of storytelling in specific contexts or events
 - Emotional Impact Score: Measures the effectiveness of emotional storytelling
-- Community Resonance Index: Assesses how well our narratives connect with different audience segments
-- Facilitate targeted emotional outreach strategies
+- Help identify areas for improvement in emotional storytelling
+- Long-term Engagement Metrics: Tracks the lasting effects of emotional interactions over time
 - Adaptive Response Effectiveness: Evaluates how well our responses adjust to community feedback
 - Contextual Impact Assessment: Measures the effectiveness of storytelling in specific contexts or events
   - Emotional Impact Score
