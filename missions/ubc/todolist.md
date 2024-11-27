@@ -46,7 +46,7 @@
 - [x] Define the ethical considerations for the use of the Emotional Analytics Framework (EAF) within the UBC mission.
 - [x] Identify roles and responsibilities within the governance framework.
 - [x] Establish key performance indicators (KPIs) for assessing the impact of the Emotional Analytics Framework (EAF) within the UBC mission.
-- [ ] Define specific KPIs related to:
+- [x] Define specific KPIs related to:
   - Attribution Analysis
   - Sufficiency Assessment
   - Framing Impact
