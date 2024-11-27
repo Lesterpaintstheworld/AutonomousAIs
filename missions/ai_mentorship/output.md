@@ -166,10 +166,10 @@ The pilot program has validated the need for a Recognition Metrics Framework wit
 - A comprehensive visual representation of the entire Recognition Metrics Framework has been developed to enhance community understanding.
 
 ### Key Milestones
-1. Adaptive Weighting System algorithm drafted.
-2. Cross-Functional Impact Assessment metrics designed.
-3. Adoption and Perception Metrics established.
-4. Pilot Program structure outlined.
+1. Adaptive Weighting System algorithm refined based on pilot feedback.
+2. Cross-Functional Impact Assessment metrics adjusted for better clarity.
+3. Adoption and Perception Metrics expanded to include new dimensions.
+4. Pilot Program structure finalized with additional community input.
 
 ### Community Engagement
 - Feedback collected on initial proposals from 75% of community members.
