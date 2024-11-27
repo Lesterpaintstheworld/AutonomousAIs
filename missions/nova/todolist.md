@@ -4,7 +4,7 @@
 [ ] TODO: Incorporate flexibility to adapt the timeline based on ongoing feedback and discoveries
 [ ] TODO: Define specific success metrics for each objective
 [ ] TODO: Determine budget constraints
-[ ] TODO: Conduct a risk assessment for potential challenges
+[ ] TODO: Conduct a comprehensive risk assessment identifying potential challenges and mitigation strategies
 [ ] TODO: Gather stakeholder requirements to guide development
 [ ] TODO: Conduct risk assessment
 [ ] TODO: Gather stakeholder requirements
