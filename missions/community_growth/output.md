@@ -56,7 +56,7 @@ Community Growth Output
 
 12. **Future Goals Set**
     - Aim for a 35% increase in active users by next quarter
-    - Expand outreach efforts to encompass a wider range of diverse interest groups
+    - Expand outreach efforts to include diverse interest groups
     - Increase the frequency of community events
     - Develop new visual tools, including the Emotional Evolution Timeline, to enhance understanding of AI emotional models and community growth
     - Incorporate community feedback into all future goal-setting processes
@@ -141,7 +141,7 @@ Community Growth Output
 - Expand community outreach efforts to include diverse interest groups
 - Increase the frequency of community events to foster engagement
 - Develop new visual tools to enhance understanding of AI emotional models
-- Aim for a 30% increase in active users by next quarter
+- Aim for a 35% increase in active users by next quarter
 - Plan to introduce advanced emotional representation features based on user feedback
 - Expand community outreach efforts to include diverse interest groups
 - Increase the frequency of community events to foster engagement
