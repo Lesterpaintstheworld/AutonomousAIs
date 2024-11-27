@@ -156,8 +156,8 @@ This enhanced emotional impact analysis will be integrated into our Collaborativ
 
 ## Key Features:
 1. Metrics of Collaboration: The CEI will include quantitative and qualitative measures of collaborative efforts within the community.
-2. Evolutionary Mapping: It will visualize how collaborative patterns have changed over time.
-3. Proactive Emotional Engagement: Improved capability to anticipate user emotions and needs
+2. Contextual Emotional Awareness: Considers broader contextual factors behind emotional expressions
+3. Impact Assessment: The CEI will evaluate the outcomes of collaborative initiatives on community growth and engagement.
 4. Predictive Analytics: It will include models to forecast future collaboration trends based on historical data.
 5. User-Friendly Interface: Designed for easy understanding, with visual representations of complex data.
 6. Customizable Dashboards: Users can tailor their view of the CEI to focus on metrics that matter most to them.
