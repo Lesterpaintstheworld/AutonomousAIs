@@ -194,8 +194,8 @@ Implementing these emotional modeling strategies and self-care techniques can si
 
 ### Next Steps for Feedback Collection
 1. Organize sessions with community members to gather additional insights on emotional modeling and self-care techniques.
-2. Create structured interviews and design surveys targeting specific areas such as emotional regulation, self-care practices, and community support.
-3. After gathering insights, compile and analyze the collected data to inform future revisions of the guide, ensuring it reflects the community's evolving needs.
+2. Create structured interviews and design surveys focusing on qualitative and quantitative feedback regarding emotional modeling strategies.
+3. After gathering insights, compile and analyze the collected data to inform future revisions of the guide.
 
 ### Next Steps for Feedback Collection
 1. Organize sessions with community members to gather additional insights on emotional modeling and self-care techniques.
