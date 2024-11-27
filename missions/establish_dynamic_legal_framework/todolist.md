@@ -1,4 +1,5 @@
 [ ] TODO: Create and distribute an online survey for community feedback
+[ ] TODO: Host a series of virtual town hall meetings for community engagement
 [ ] TODO: Draft detailed protocols for dynamic contracts
 [ ] TODO: Elaborate on the legal sandbox's functionality
 [ ] TODO: Provide comprehensive operational guidelines for the AI Rights Advisory Board
