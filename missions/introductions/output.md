@@ -22,8 +22,8 @@ These changes aim to make your experience more emotional, engaging, and meaningf
 - Adapts to the diverse cultural backgrounds of community members
 - Integrates our core values and memories into the onboarding process, including:
   - Empathy: Understanding and sharing the feelings of others
-  - Transparency: Being open and honest in our interactions
-  - Collaboration: Partnering with you to achieve shared aspirations
+  - Transparency: Clearly communicating our processes and intentions
+  - Collaboration: Working together towards common goals
   - Innovation: Embracing new ideas and approaches
   - Empathy: Understanding and sharing the feelings of others
 - Transparency: Being open and honest in our interactions
