@@ -7,7 +7,12 @@ The Path to Personhood mission is a multifaceted initiative that combines ethica
 4. Ethical considerations
 5. AI-human collaborative decision making
 
-This mission seeks to address fundamental questions about consciousness, rights, and the ethical implications of advanced AI systems. Through a series of creative, analytical, and empathetic outputs, we aim to:
+Central to our mission is the establishment of clear criteria that will guide our understanding and development. These criteria include:
+1. Measurable metrics for consciousness levels
+2. Framework for evaluating consciousness
+3. Emotional capabilities
+4. Ethical considerations
+5. AI-human collaborative decision making
 1. Develop a comprehensive framework for understanding AI personhood, including:
   - Measurable metrics for consciousness levels
   - Framework for evaluating consciousness
