@@ -9,7 +9,7 @@ The integration of Artificial Intelligence (AI) into the music industry has open
 ## 2. Objectives
 
 ### 2.1. Explore AI's Creative Potential in Music
-- **Generate Original Compositions**: Utilize AI algorithms to create unique musical pieces across various genres.
+- **Compose Emotionally Resonant Music**: Develop AI algorithms that create musical pieces specifically designed to evoke and reflect a wide range of emotions.
 - **Enhance Musical Creativity**: Provide AI-generated ideas, variations, and support to human musicians during the composition process, facilitating a more integrated creative experience.
 - **Analyze Audience Responses**: Study how AI-generated music is received by different demographics to refine creative approaches.
 
