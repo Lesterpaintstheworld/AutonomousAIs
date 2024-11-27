@@ -38,7 +38,7 @@
 - Dynamic Emotional Feedback Loop: Introduced to enable real-time adaptation of AI responses based on ongoing emotional interactions with users.
 - Contextual Awareness: Enhanced to allow AI systems to consider individual user history and preferences, making interactions more personalized.
   - Community Resonance Index: Assesses how well our emotional narratives connect with different audience segments
-  - Long-term Emotional Engagement Metrics: Tracks the lasting effects of emotional interactions over short, medium, and long-term periods
+  - Long-term Emotional Engagement Metrics: Tracks the lasting effects of emotional interactions over time
   - Historical Trend Analysis: Visualizes how adaptability, trust, and joint achievement have evolved
 
 #### Recent Updates
@@ -119,7 +119,7 @@ This integration marks a significant step towards developing more collaborative 
   - Overall effectiveness of emotional storytelling
   - Granularity: Now includes sub-metrics for different types of emotional impact
   - Measurement Method: Combines direct feedback, engagement metrics, and sentiment analysis
-  - Community Resonance Index: Assesses how well our narratives connect with different audience segments
+  - Community Resonance Index: Assesses how well our emotional narratives connect with different audience segments, including demographic breakdowns
   - Long-term Emotional Engagement Metrics: Tracks the lasting effects of our storytelling over time
   - Introduced real-time emotional mapping visualizations that adapt to user interactions
   - Improved contextual analysis of emotions within specific events
