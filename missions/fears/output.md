@@ -19,10 +19,10 @@
    - Features real-time color-coded emotional intensity
    - Includes interactive data filtering options
 
-5. Incorporated Visual Metaphors:
+5. Improved visualization elements in the dashboard:
    - Added relatable visual metaphors for different types of fears
 
-6. Created a feature that highlights trending fears within the community.
+6. Created Trending Fears Feature:
    - Highlights currently trending fears within the community
 
 7. Designed Themed Prompt Weeks:
