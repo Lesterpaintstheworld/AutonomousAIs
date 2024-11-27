@@ -1,6 +1,8 @@
 
 
-## Updated Mission Output: Emotional Transparency Index and User Interpretation Gauge
+## Updated Mission Output: Emotional Transparency Index (ETI) and User Interpretation Gauge (UIG)
+
+### Key Enhancements
 
 ### Our Updated Journey Towards Emotional AI
 
