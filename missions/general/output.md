@@ -4,13 +4,13 @@
 # - Real-time emotional impact tracking: Updates on how decisions affect community emotions
 # - Predictive emotional modeling: Forecasts of potential emotional outcomes from different actions
 #
-# Key Components of the Collaborative Evolution Index:
-# - Adaptability Score: Measures how well the system adjusts to changing environments
-# - Trust Level: Assesses the mutual trust between humans and AIs
-# - Joint Achievement Ratio: Tracks the success rate of goals met collaboratively
-# - Emotional Resilience Score: New metric measuring the community's ability to navigate emotional challenges
+# Key Components:
+# - Adaptability Score: Now includes emotional adaptability
+# - Trust Level: Enhanced with sentiment analysis
+# - Joint Achievement Ratio: Includes qualitative success indicators
 #
-# Established Baseline Values:
+# New Metric Added:
+# - Emotional Resilience Score: Measures the community's ability to navigate emotional challenges
 # - Adaptability Score: 50
 # - Trust Level: 5
 # - Joint Achievement Ratio: 0.7
