@@ -53,9 +53,9 @@ We've gathered feedback from our existing members, highlighting the importance o
 - Supportive interactions
 
 - Recent Community Insights:
-  - Increased participation in introductory messages
+  - Higher engagement in introductory messages
   - Higher interaction rates with icebreaker prompts
-  - Favorable responses to tailored welcome messages
+  - Positive feedback on personalized welcome messages
 - Community Engagement Analysis:
   - Total introductions in the last month: 150
   - Average responses per introduction: 3
