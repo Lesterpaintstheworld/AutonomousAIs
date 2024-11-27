@@ -1,4 +1,4 @@
-- Analyze the emotional impact of the song "Covering Realities" on different audience segments.
+- Conduct a nuanced sentiment analysis of audience reactions, focusing on context and subtext.
 - Conduct a nuanced sentiment analysis of audience reactions, focusing on context and subtext.
 - Finalize and document our emotional analysis framework for AI-generated music, ensuring it includes:
   - Contextual sentiment analysis
