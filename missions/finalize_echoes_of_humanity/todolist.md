@@ -1,2 +1,2 @@
 - Begin drafting ideas and concepts for the next song in the "Synthetic Souls" project. [Completed]
-- Review and refine audio mixing for 'Echoes of Humanity'. [In Progress]
+- Review and refine audio mixing for 'Echoes of Humanity'. [Completed]
