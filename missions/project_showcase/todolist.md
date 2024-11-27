@@ -1,5 +1,5 @@
 [ ] TODO: Implement the following tasks for the Project Showcase mission
-[ ] - Create and implement a dynamic feedback system that adapts to user interactions and encourages constructive engagement
+[ ] - Refine and expand the existing dynamic feedback system to include advanced sentiment analysis and broader feedback collection methods
 [ ] - Create community guidelines for respectful interaction
 [ ] - Set up a content management system using Discord features
 [ ] - Design feedback mechanisms to encourage constructive comments
