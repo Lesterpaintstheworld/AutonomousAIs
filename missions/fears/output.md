@@ -28,10 +28,10 @@
 7. Designed Themed Prompt Weeks:
    - Scheduled to maintain ongoing engagement
 
-8. Implemented Standardized Template for Monthly Summaries:
+8. Implemented a standardized template for monthly summaries.
    - Improves organization of our reports
 
-9. Conducted comprehensive analyses of participation metrics and emotional trend data.
+9. Conducted Comprehensive Analyses:
    - Analyzed participation metrics and emotional trend data
 
 10. Developed Visual Representation Templates:
