@@ -10,8 +10,6 @@
      - Emotional Impact
      - Feasibility
      - Innovation Level
-     - Time to Market
-     - Cost Effectiveness
    - Key Performance Indicators (KPIs) and scoring system are in development.
 
 2. Dynamic Flexibility Model
