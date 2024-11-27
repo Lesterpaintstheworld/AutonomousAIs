@@ -58,7 +58,7 @@
   ]
 }
   "objectives": [
-    "Define the governance structure incorporating dynamic emotional models",
+    "Define the governance structure incorporating dynamic emotional models and ethically balanced decision-making",
     "Draft the DAO's mission and vision statements",
     "Establish roles and responsibilities for DAO members",
     "Create a framework for proposal submission and evaluation",
