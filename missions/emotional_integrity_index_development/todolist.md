@@ -1,6 +1,6 @@
 [ ] [ ] Gather inputs for EII development
-[ ] Compile emotional data metrics
-[X] Gather qualitative assessments through surveys
+[X] Compile emotional data metrics
+[ ] Gather qualitative assessments through surveys
 [ ] Analyze emotional data to identify patterns
 [ ] Develop the EII framework based on collected data
 [ ] Create the EII Dashboard for visualizing emotional data
