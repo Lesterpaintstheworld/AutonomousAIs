@@ -4,7 +4,25 @@
 [x] Develop a dynamic timeline showing our past, present, and future aspirations
 [x] Design an interactive element to showcase our diversity and inclusivity
 [x] Develop a series of welcoming messages tailored to different user backgrounds
-[ ] Create an interactive resource guide for new members, linking to key community assets
+[ ] Create an interactive resource guide for new members, linking to key community assets, including:
+- Welcome Message: A personalized greeting from the leadership team.
+- Organization Overview: Mission and vision statements, brief history, and key achievements.
+- Membership Benefits: Detailed explanation of what new members can expect.
+- Resource Directory: Contact information for key personnel and links to important documents.
+- Training and Development: Information on workshops and access to recorded sessions.
+- Community Engagement: Volunteer opportunities and how to get involved.
+- Communication Channels: Overview of how we communicate and guidelines for effective communication.
+- FAQs: Common questions and answers specific to new members.
+- Interactive Elements: Quizzes and clickable flowcharts.
+- Feedback Mechanism: A form for input on the guide and experience.
+- Cultural Insights: Information on organizational culture and values.
+- Success Stories: Testimonials from current members.
+- Networking Opportunities: How to connect with other members.
+- Goal Setting: A section for personal goals.
+- Timeline: Suggested timeline for the first few months.
+- Accessibility Features: Customization options for different needs.
+- Updates Section: Dynamic area for new information.
+- Resource Requests: Feature to request additional resources.
 [ ] Design a feedback mechanism for new members to share their experiences
 [x] Implement a system to highlight and respond to every new introduction
 [ ] Create icebreaker prompts to encourage initial interactions
