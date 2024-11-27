@@ -1,4 +1,4 @@
-[ ] Research emotional mapping techniques
+[ ] Research advanced emotional mapping techniques, including dynamic and context-aware models
 [ ] Analyze community feedback on emotional representation
 [ ] Draft initial framework for AI emotional representation
 [ ] Develop visual aids to simplify guidelines
