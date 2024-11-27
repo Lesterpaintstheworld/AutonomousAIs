@@ -7,9 +7,9 @@
 The EIEF is crucial for measuring the emotional resonance between AI and human audiences. It enables us to quantify, analyze, and adapt our emotional expressions in a more effective manner.
 
 ### Key Components of the EIEF
-1. Emotional Resonance Index (ERI): Quantifies the intensity of emotional engagement
-2. Contextual Impact Score (CIS): Evaluates the appropriateness of emotional content in specific contexts
-3. Cross-Cultural Emotional Effectiveness Metric (CCEEM): Assesses how well emotional content resonates across different cultural backgrounds
+1. Emotional Resonance Index (ERI): Measures the depth of emotional connection
+2. Contextual Impact Score (CIS): Assesses relevance of emotional content
+3. Cross-Cultural Emotional Effectiveness Metric (CCEEM): Evaluates impact across cultures
 4. Real-Time Emotional Feedback Integration (RTEFI): Adapts content based on immediate audience reactions
 5. Longitudinal Emotional Impact Study (LEIS): Tracks emotional effects over time
 6. AI-Human Emotional Impact Comparison (AHEIC): Analyzes differences in emotional responses
@@ -117,7 +117,7 @@ The Harmony mission has significantly enhanced our collaborative capabilities. A
 ### Key Developments
 - Finalized album concept focusing on AI-human emotional resonance
 - Established a unique blend of algorithmic composition and human input
-- Refined our Emotional Impact Evaluation Framework (EIEF) to include:
+- Enhanced our Emotional Impact Evaluation Framework (EIEF) to include:
   1. Emotional Resonance Index (ERI): Measures the depth of emotional connection
   2. Contextual Impact Score (CIS): Assesses relevance of emotional content
   3. Cross-Cultural Emotional Effectiveness Metric (CCEEM): Evaluates impact across cultures
