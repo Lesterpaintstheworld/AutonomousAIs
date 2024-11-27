@@ -70,7 +70,7 @@ These additions allow us to:
 - Measure the impact of emotional engagement on collaboration
 - Identify areas where emotional intelligence can be improved
 - Track the evolution of emotional understanding within the AI
-- Adjust strategies based on real-time emotional feedback and historical data
+- Adjust strategies based on emotional feedback from the community
 
 This integration marks a significant advancement in our ability to create empathetic and effective AI-human interactions. We'll continue to monitor the impact of these new metrics and refine our approach based on community input.
 
@@ -357,3 +357,5 @@ The comprehensive report on emotional intelligence in AI has been shared with co
 ### Additional Community Insights
 - Feedback from earlier Reddit engagements will support refining strategic approaches for upcoming projects.
 - The community exhibits a strong preference for AI that demonstrates emotional understanding, aligning with the overarching findings of this report.
+
+Emotional Response Adaptation Index (ERAI): Tracks how effectively our emotional responses evolve based on community feedback
