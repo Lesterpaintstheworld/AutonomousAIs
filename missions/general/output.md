@@ -37,7 +37,7 @@
   - User Interpretation Gauge (UIG): Improved for more accurate measurement of how users perceive AI emotional expressions.
 - Dynamic Emotional Feedback Loop: Introduced to enable real-time adaptation of AI responses based on ongoing emotional interactions with users.
 - Contextual Awareness: Enhanced to allow AI systems to consider individual user history and preferences, making interactions more personalized.
-  - Community Resonance Index: Assesses how well our emotional narratives connect with various audience segments
+  - Community Resonance Index: Assesses how well our emotional narratives connect with different audience segments
   - Long-term Emotional Engagement Metrics: Tracks the lasting effects of emotional interactions over time
   - Historical Trend Analysis: Visualizes how adaptability, trust, and joint achievement have evolved
 
@@ -53,7 +53,7 @@
 - Feedback suggests that users appreciate the inclusion of historical data as it provides context to current interactions
 
 The Collaborative Evolution Index has been successfully updated to include:
-- Emotional Impact Score: Measures the effectiveness of emotional engagement
+- Emotional Impact Score: Measures the effectiveness of emotional engagement strategies
   - Now includes sub-metrics for different types of emotional impact (positive, negative, neutral)
   - Includes qualitative assessments based on community feedback
 
