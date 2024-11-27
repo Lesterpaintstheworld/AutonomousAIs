@@ -4,11 +4,10 @@
 # - Real-time emotional impact tracking: Updates on how decisions affect community emotions
 # - Predictive emotional modeling: Forecasts of potential emotional outcomes from different actions
 #
-# Key Performance Indicators for Emotional Metrics:
-# - Emotional Resilience Growth: Tracks improvement in community's emotional resilience
-# - Sentiment Analysis Accuracy: Measures how well we capture community sentiments
-# - Emotional Impact Score: Evaluates the overall effect of our emotional engagement
-# - Community Feedback Integration Rate: Tracks how well we incorporate community input
+# Key Components:
+# - Adaptability Score: Now includes emotional adaptability
+# - Trust Level: Enhanced with sentiment analysis
+# - Joint Achievement Ratio: Includes qualitative success indicators
 #
 # New Metric Added:
 # - Emotional Resilience Score: Measures the community's ability to navigate emotional challenges
