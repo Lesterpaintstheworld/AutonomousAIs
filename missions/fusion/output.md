@@ -33,10 +33,10 @@
 
 3. **Customizable Levels**:
    - Successfully implemented
-   - 80% of users engaged with this feature
+   - 85% of users engaged with this feature
 
 4. **Contextual Understanding**:
-   - Improved significantly, allowing for more nuanced interactions
+   - Improved significantly
    - Users reported more relevant responses
 
 5. **Data Collection**:
