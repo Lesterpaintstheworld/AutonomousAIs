@@ -15,11 +15,11 @@
 - Refine emotional engagement metrics based on community input.
 - Expand the transparency dashboards to include more granular data.
 
-## Community Feedback
-We're actively gathering feedback on:
-- The clarity of our communication
-- The relevance of the emotional metrics being developed
-- The usability of the transparency dashboards
+## Feedback Areas
+We're focusing on collecting input about:
+- How clear our communications are
+- The appropriateness of the emotional metrics we're creating
+- The effectiveness of the transparency dashboards
 
 ## Future Directions
 - Integrating emotional engagement metrics with the CEI
