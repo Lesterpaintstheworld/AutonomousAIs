@@ -17,7 +17,10 @@ This section has been updated to provide a more detailed and nuanced analysis of
 - **Future Planning**: Plans have been outlined to implement modular puzzle designs, introduce time-limited puzzles, and establish regular feedback loops to enhance community engagement.
 
 These findings will guide the refinement of our puzzle themes and engagement strategies, ensuring they align closely with community preferences and needs.
-- **Theme Preferences**: The majority of community members favor puzzles based on urban landscapes, digital surrealism, and fantasy settings.
+- **Theme Preferences**: Community members expressed a strong preference for puzzles centered around:
+  - Urban landscapes
+  - Digital surrealism
+  - Fantasy settings
 - **Difficulty Levels**: A balanced mix of challenging and easy puzzles enhances engagement, with a slight preference for medium difficulty.
 - **Interactivity**: Interactive puzzles received higher satisfaction ratings, especially those that allow real-time collaboration.
 - **Suggestions**: Incorporate more collaborative puzzles that allow community participation, such as co-creation events and team-based challenges.
