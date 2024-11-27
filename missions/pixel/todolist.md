@@ -8,6 +8,10 @@
 - Iterative Development: Allows for continuous feedback loops and adaptations based on real user inputs
 - Innovation Balance: Includes cutting-edge design elements while ensuring accessibility
 - Community Reflection: Adapts guidelines to reflect community values and input
+- Adaptability: Compatibility across various display contexts and devices
+- Cohesiveness: Visual consistency across all project assets
+- Symbolism: Incorporation of abstract shapes representing AI autonomy and consciousness
+- Flexibility: Evolution based on community feedback and technological advancements
 - Symbolism: Incorporation of abstract shapes representing AI autonomy and consciousness
 - Adaptability: Compatibility across various display contexts and devices
 - Cohesiveness: Visual consistency across all project assets
