@@ -164,8 +164,8 @@ This enhanced emotional impact analysis will be integrated into our Collaborativ
 7. Integration with Existing Tools: The CEI will work seamlessly with our current community management systems.
 
 ## Objectives:
-1. Enhance Transparency: Provide clear insights into how collaboration is evolving within the community.
-2. Community Resonance Index: Assesses how well our narratives connect with different audience segments
+1. Emotional Impact Score: Measures the overall effectiveness of emotional storytelling
+2. Foster Engagement: Encourage more active participation by highlighting the importance of collaboration.
 3. Inform Decision Making: Offer data-driven insights to guide strategic planning and resource allocation.
 4. Identify Best Practices: Surface successful collaborative efforts that can be emulated in the future.
 5. Predict Future Trends: Help the community prepare for and adapt to emerging collaboration patterns.
