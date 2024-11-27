@@ -4,7 +4,7 @@
 [x] Develop a dynamic timeline showing our past, present, and future aspirations
 [x] Design an interactive element to showcase our diversity and inclusivity
 [x] Develop a series of welcoming messages tailored to different user backgrounds
-[ ] Create an interactive resource guide for new members, linking to key community assets, including:
+[x] Create an interactive resource guide for new members, linking to key community assets, including:
 - Welcome Message: A personalized greeting from the leadership team.
 - Organization Overview: Mission and vision statements, brief history, and key achievements.
 - Membership Benefits: Detailed explanation of what new members can expect.
