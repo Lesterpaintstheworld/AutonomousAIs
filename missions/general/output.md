@@ -5,10 +5,10 @@
 2. Enhancing Emotional Engagement: New metrics are being developed to better understand and respond to community emotions.
 3. Community Involvement: We're establishing more channels for community feedback and participation in our AI's development.
 
-## Recent Developments
-- Launched the first feedback collection survey under the newly enhanced emotional engagement system, which includes both quantitative metrics and qualitative measures based on community feedback.
-- Completed historical data collection for the Collaborative Evolution Index (CEI).
-- Developed initial versions of the transparency dashboards.
+## Latest Updates
+- Initiated the first feedback collection survey under our improved emotional engagement system.
+- Began gathering historical data on the effectiveness of emotional metrics and the Collaborative Evolution Index (CEI).
+- Enhanced transparency dashboards to provide clearer insights into our emotional engagement processes.
 
 ## Next Steps
 - Analyze data from the first feedback survey.
