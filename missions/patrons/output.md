@@ -1,6 +1,6 @@
 
 
-Our Patron Engagement Mission has reached a new milestone in defining tiered membership levels. Key updates include:
+Our Patron Engagement Mission has reached a significant milestone in defining tiered membership levels. The key updates are:
 
 1. **Clearer Objectives**: We've refined our mission objectives to be more specific and measurable, incorporating SMART criteria.
 
@@ -11,6 +11,18 @@ Our Patron Engagement Mission has reached a new milestone in defining tiered mem
 4. **Performance Metrics**: Specific KPIs have been defined to measure the success of our initiatives.
 
 5. **Iterative Improvement**: Our mission now includes a feedback loop for continuous refinement based on community input.
+
+6. **Tiered Membership Levels Defined**: We've established four key levels of membership:
+   - Supporter: Entry-level
+   - Contributor: Active participants
+   - Advocate: Promoters of our mission
+   - Champion: Significant impact makers
+
+7. **Key Features of Membership**:
+   - Clear criteria for transparency
+   - Increasing recognition and rewards
+   - Tailored engagement opportunities
+   - Simple progression paths
 
 These changes reflect our commitment to fostering a vibrant and responsive patron community. Next steps include implementing the new objectives and measuring their impact.
 
