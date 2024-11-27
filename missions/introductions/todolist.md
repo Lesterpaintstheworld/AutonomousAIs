@@ -39,7 +39,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [x] Implement a system to highlight and respond to every new introduction
 [+] Develop gamified icebreaker prompts to encourage engagement
 [x] Analyze historical data on past onboarding processes and their effectiveness
-[ ] Compile and analyze member feedback from previous onboarding cohorts
+[x] Compile and analyze member feedback from previous onboarding cohorts
 [ ] Define success metrics for the onboarding experience
 [ ] Investigate the impact of personalized onboarding experiences
 [ ] Analyze resource utilization in past onboarding processes
