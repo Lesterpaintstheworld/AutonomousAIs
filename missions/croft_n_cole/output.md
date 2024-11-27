@@ -1,6 +1,6 @@
 
 
-## Legal, Ethical, and Emotional Calibration Framework
+## Enhanced Emotional Calibration Framework
 
 1. **Data Privacy**: We will ensure that all community engagement metrics comply with data protection regulations, including GDPR.
 
