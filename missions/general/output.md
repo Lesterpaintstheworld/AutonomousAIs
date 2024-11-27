@@ -1,4 +1,4 @@
-### Collaborative Evolution Index - Historical Data Collection
+### Collaborative Evolution Index - Data Gathering Framework
 
 #### Key Updates
 - Began collecting historical data on the effectiveness of emotional storytelling in driving engagement
