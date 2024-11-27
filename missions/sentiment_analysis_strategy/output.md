@@ -1,6 +1,6 @@
 
 
-## Sentiment Analysis Strategy Output
+## Enhanced Sentiment Analysis Strategy Output
 
 ### Comprehensive Review of Existing NLP Techniques and Emotional Recognition Methods
 
