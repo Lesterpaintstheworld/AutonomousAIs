@@ -21,7 +21,7 @@
    - Better consideration of user history and preferences in emotional responses
 
 ## Future Directions
-- Expand emotional metrics to include subtle nuances
+- Expand emotional metrics to include subtle nuances, such as micro-expressions and contextual variations
 - Integrate cross-cultural emotional understanding
 - Develop predictive emotional mapping for future scenarios
 - Enhance collaboration features for shared emotional understanding
