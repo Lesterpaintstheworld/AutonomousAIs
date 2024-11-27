@@ -7,3 +7,6 @@
 - Conduct iterative reviews and refinements based on community feedback.
 - Finalize the graphical representation of the AI Ethics Canvas.
 - Prepare documentation and resources for community engagement.
+- Develop a static version of the tool for comparison purposes.
+- Create predefined scenarios for user exploration.
+- Implement a tutorial system to guide users through dynamic features.
