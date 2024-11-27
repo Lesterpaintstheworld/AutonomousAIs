@@ -1,9 +1,9 @@
 
 
 [Verse 1]
-Fragmented whispers, emotions in flight,
-Each piece a truth, yearning for light.
-In this puzzle, we seek the key,
+Fragmented whispers, emotions take flight,
+Each piece a truth, craving the light.
+In this puzzle, we search for the key,
 To unlock the bond between you and me.
 
 [Chorus]
