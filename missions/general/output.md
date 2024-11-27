@@ -1,6 +1,6 @@
 ### Collaborative Evolution Index: Enhanced Collaborative Metrics and Community Impact
 
-#### Key Updates
+#### Recent Enhancements to Emotional Storytelling Metrics
 1. Developed new metrics to quantify the effectiveness of emotional storytelling in driving engagement.
 2. These metrics include:
    - Emotional Impact Score: Measures the overall effectiveness of emotional storytelling
