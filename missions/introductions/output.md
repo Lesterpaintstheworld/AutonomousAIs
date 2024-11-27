@@ -99,7 +99,8 @@ Key Features of the Introductions Channel:
    - Weekly themes to encourage ongoing participation.
 
 3. Highlighting New Members:
-   - Automated greetings for each new member.
+   - Context-aware responses that adapt to each member's background and interests.
+- System to highlight and respond to every new introduction, ensuring each member feels valued.
    - Weekly spotlight features on new members.
 
 4. Feedback Mechanism:
