@@ -13,7 +13,7 @@
 [ ] Integrate user feedback into the CHS development process
 [ ] Create a visual dashboard to display CHS metrics in real-time
 [ ] Develop a mobile application for users to track their CHS over time
-[ ] Establish a community forum for users to share their experiences with the CHS
-[ ] Develop a certification program for organizations that successfully implement and use the CHS
+[ ] Create a community platform for users to share experiences, feedback, and best practices related to the CHS
+[ ] Create a certification program for organizations using the CHS
 [ ] Develop case studies demonstrating the impact of the CHS on AI-human interactions
 [ ] Conduct regular updates to the CHS model based on new research and user input
