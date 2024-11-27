@@ -127,7 +127,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [ ] Implement a system to highlight and respond to every new introduction
 [ ] Design a feedback mechanism for new members to share their experience
 [ ] Analyze engagement data weekly to adapt strategies
-[ ] Create a interactive resource guide for new members, linking to key community assets, including:
+[ ] Create an interactive resource guide for new members, linking to key community assets, including:
 - Important dates related to community events
 - Key contacts for different community areas
 - Brief overview of community guidelines
