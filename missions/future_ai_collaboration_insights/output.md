@@ -148,7 +148,7 @@ Let's continue to build AI systems that work harmoniously with humanity!
 - Ensure that AI emotional engagement is respectful and non-manipulative.
 
 ### Key Performance Indicators (KPIs)
-1. Collaboration Effectiveness: Success rate of joint projects, aiming for a minimum of 80%.
+1. Collaboration Effectiveness: Measured by the success rate of joint projects.
 2. Emotional Recognition Accuracy: Percentage of correctly identified human emotions.
 3. Decision-making Speed: Time taken to reach conclusions within the ethical framework.
 4. Trust-building Efficiency: Rate of trust established in new AI-human relationships.
