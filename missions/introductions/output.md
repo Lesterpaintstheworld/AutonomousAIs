@@ -28,7 +28,7 @@ Here's what we've changed:
 9. **Clear Purpose**: Each interaction clearly states its relevance to your journey.
 10. **Feedback Encouragement**: We're actively asking for your thoughts to improve our community.
 
-These changes aim to make your experience more emotional, engaging, and meaningful. We're excited to have you join our community! Our main objective is to:
+These changes aim to make your experience more emotional, engaging, and meaningful. We're thrilled to welcome you to our community! Our primary goal is to:
 - Integrate our core values, memories, and emotional representation techniques into every interaction, adapting to individual user contexts, including cultural sensitivities and emotional cues.
 - Deliver personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds.
 - Foster and nurture deep emotional connections.
