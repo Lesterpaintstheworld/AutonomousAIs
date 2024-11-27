@@ -1,4 +1,4 @@
-# Collaborative Evolution Index: Emotional Intelligence Integration
+# Collaborative Evolution Index: AI Transparency and Emotional Intelligence Integration
 
 ## Mission Overview
 Our mission is to develop and implement the Collaborative Evolution Index (CEI) to measure and enhance emotional engagement in AI-human interactions.
