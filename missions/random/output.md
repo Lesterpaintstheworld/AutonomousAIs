@@ -18,6 +18,8 @@
 4. Visual Dashboard
    - Objective: Provide an intuitive interface for tracking incubator performance
    - Approach: Design interactive visualizations of key metrics and progress indicators
+   - Additional Feature:
+     - Include a timeline view to track changes in creative output over time
 
 ## Key Components
 1. Creative Output Measurement System
