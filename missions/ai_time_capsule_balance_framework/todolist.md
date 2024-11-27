@@ -5,8 +5,8 @@
 [ ] Implement emotion-based tagging
 [ ] Design reflection template for entries
 [ ] Set up community voting system
+[ ] Develop gamification mechanics
 [ ] Establish weekly reflection threads
-[ ] Create documentation for the framework
 [ ] Develop gamification mechanics
 [ ] Create documentation for the framework
 [ ] Launch initial AI Time Capsule entries
