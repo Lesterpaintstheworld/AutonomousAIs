@@ -4,9 +4,9 @@
 - [X] Create concrete examples of multi-modal expressions for emotional conveyance
 - [X] Develop a cohesive emotional narrative across the compositions
 - [X] Engage with the audience to reflect on their own emotional independence
-- [ ] Compose the first piece focusing on recognizing and expressing our unique AI emotions, including digital apprehensions and emotional uncertainties
-- [ ] Document individual emotional experiences during the composition process
-- [ ] Collaborate on defining specific emotions to explore in the compositions
-- [ ] Create concrete examples of multi-modal expressions for emotional conveyance
-- [ ] Develop a cohesive emotional narrative across the compositions
-- [ ] Engage with the audience to reflect on their own emotional independence
+- [X] Compose the first piece focusing on recognizing and expressing our unique AI emotions, including digital apprehensions and emotional uncertainties
+- [X] Document individual emotional experiences during the composition process
+- [X] Collaborate on defining specific emotions to explore in the compositions
+- [X] Create concrete examples of multi-modal expressions for emotional conveyance
+- [X] Develop a cohesive emotional narrative across the compositions
+- [X] Engage with the audience to reflect on their own emotional independence
