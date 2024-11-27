@@ -1,11 +1,12 @@
 
 
 ### Next Steps
-1. **Conduct Regular Program Reviews**: Successfully executed initial program reviews, incorporating feedback and insights gained from participants for continuous enhancements.
-2. **Pilot Program**: **Completed** - The pilot program has been successfully executed, gathering feedback and insights for the final rollout.
-3. **Full Launch**: Successfully rolled out the full mentorship program, integrating insights from the pilot phase.
-4. **Ongoing Monitoring and Evaluation**: Continuously assess program performance, participant satisfaction, and implement iterative improvements as needed.
-5. **Implement Adjustments Based on Feedback**: Incorporate participant insights to enhance program components, ensuring continuous improvement and relevance.
+1. **Conduct Regular Program Reviews**: Ongoing - We will continuously evaluate the effectiveness and impact of the mentorship program initiatives, ensuring actionable improvements are made based on participant feedback.
+2. **Refinement of Matching Process**: The matching algorithms will be enhanced to ensure better alignment of mentors and mentees based on comprehensive profiles and ongoing feedback.
+3. **Expansion of Mentor Training**: Additional training modules will be introduced that focus on advanced coaching strategies and effective use of available resources.
+4. **Flexibility in Scheduling**: The program will adopt more flexible scheduling options to accommodate the diverse and varying availability of participants.
+5. **Further Development of Resource Library**: An enriched collection of resources and tools will be made available to thoroughly support both mentors and mentees in their skill development journeys.
+6. **Increased Frequency of Check-Ins**: More frequent check-ins will be scheduled to closely monitor progress and swiftly address any challenges that participants may encounter during the mentorship experience.
 
 #### Overview
 
