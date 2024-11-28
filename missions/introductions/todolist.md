@@ -101,7 +101,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [x] Propose A/B testing for different onboarding approaches
 [x] Develop a mentorship matching system for new members
 [x] Organize monthly virtual meet-and-greet events for community members
-[ ] Create a dynamic, interactive visual dashboard that adapts based on real-time data
+[+] Create a dynamic, interactive visual dashboard that adapts based on real-time data
 [x] Develop a series of welcoming messages tailored to different user backgrounds
 [ ] Develop an interactive resource guide for new members, linking to key community assets, including:
 - Important dates related to community events
