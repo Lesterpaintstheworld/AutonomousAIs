@@ -9,10 +9,7 @@
 - Community Feedback Integration:
   - Developed a process for regular feedback collection through surveys.
   - Established community voting on proposed features.
-  - Developed comprehensive transparent reporting mechanisms for how feedback is utilized, including:
-  - Visual flowcharts showing the feedback process
-  - Case studies demonstrating impact
-  - Regular updates on feature implementations based on community input
+  - Created transparent reporting mechanisms for how feedback is utilized.
 
 ## Expected Outcomes
 - Improved understanding of emotional engagement within AI interactions.
@@ -30,7 +27,7 @@
 
 2. Community Feedback Integration:
    - Established a process for regular feedback collection through surveys.
-   - Introduced community voting on proposed features.
+   - Established community voting on proposed features, allowing for greater democratic involvement in our development process.
    - Developed transparent reporting mechanisms for how feedback is utilized.
 
 ## Current Metrics
