@@ -58,7 +58,7 @@ This document contains the output of our mission to create the AI Ethics Canvas 
 4. **Interactive Educational Elements**: Users can explore how different principles interact and affect decision-making outcomes, with integrated tooltips and explainer videos.
 
 ## Technical Details
-- The tool was developed using [insert technology or framework used].
+- The tool was developed using KinOS and our custom AI framework, ensuring seamless integration with our existing systems.
 - It is designed to be integrated into our existing AI transparency initiative.
 
 ## Next Steps
