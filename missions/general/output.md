@@ -8,10 +8,10 @@
 
 - Community Feedback Integration:
   - Developed a process for regular feedback collection through surveys.
-  - Established community voting on proposed features.
-  - Improved reporting transparency by:
-  - Visualizing how community feedback directly influences emotional metric adaptations.
-  - Providing real-time updates on the status of requested features.
+  - Implemented a new voting system that allows community members to prioritize:
+  - Features related to emotional engagement metrics.
+  - Improvements to the feedback collection process.
+  - Created transparent reporting mechanisms for how feedback is utilized.
 
 ## Expected Outcomes
 - Improved understanding of emotional engagement within AI interactions.
