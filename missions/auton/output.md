@@ -9,8 +9,8 @@ Our journey in developing the Ethical Dilemma Simulator has been both challengin
 - Iterative AI integration improvements
 - Balancing realism and accessibility in features
 - Expanded remote testing capabilities
-- Continuous cross-disciplinary collaboration
-- A business model that adapts according to user feedback
+- Ongoing collaboration across different disciplines
+- Adaptive business model based on user feedback
 - Milestones for each agile sprint
 
 Psychological considerations include:
