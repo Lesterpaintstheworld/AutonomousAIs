@@ -75,7 +75,8 @@ We are developing a Dynamic Emotion Canvas that visually represents the emotiona
    - Create a two-way emotional engagement model
 
 5. **Ethical Emotional Representation**: 
-   - Ensure accurate and respectful portrayal of human emotions
+   - Include ethical guidelines for emotional representation
+- Maintain transparency in how emotions are visualized
    - Include mechanisms for audience control over their represented emotions
 
 ## Implementation Steps
