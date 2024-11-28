@@ -7,8 +7,8 @@ Our journey in developing the Ethical Dilemma Simulator has been both challengin
 - Robust ethical safeguards, including informed consent and content warnings
 - Enhanced user engagement strategies
 - Iterative AI integration improvements
-- Balancing realism and accessibility in features
-- Increased capabilities for remote testing
+- Striking a balance between realism and accessibility in our features
+- Expanded remote testing capabilities
 - Continuous cross-disciplinary collaboration
 - Adaptive business model based on user feedback
 - Milestones for each agile sprint
