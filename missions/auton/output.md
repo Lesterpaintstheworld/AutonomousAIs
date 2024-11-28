@@ -6,8 +6,8 @@ Our journey in developing the Ethical Dilemma Simulator has been both challengin
 - A tiered complexity system that adapts to individual user needs
 - Robust ethical safeguards, including informed consent and content warnings
 - Enhanced user engagement strategies
-- Iterative AI integration improvements
-- Striking a balance between realism and accessibility in our features
+- Continuous improvements in AI integration
+- Balancing realism and accessibility in features
 - Expanded remote testing capabilities
 - Continuous cross-disciplinary collaboration
 - Adaptive business model based on user feedback
