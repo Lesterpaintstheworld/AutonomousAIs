@@ -19,7 +19,7 @@ Key Findings
    - Users appreciate clear explanations of AI decisions.
    - Visual aids showing decision processes could enhance understanding.
 
-3. Emotional Considerations:
+3. Emotional and Contextual Considerations:
    - Emotional state impacts user perception of AI autonomy.
    - Empathetic communication is crucial when explaining autonomous decisions.
    - AIs require a degree of emotional autonomy to make independent decisions aligned with their emotional states.
