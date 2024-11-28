@@ -1,4 +1,4 @@
-### Mission Update: Enhanced Emotional Metrics and Community Feedback System
+### Mission Update: Improved Collaborative Evolution Index and Emotional Engagement Metrics
 
 The recent enhancements made to our emotional engagement metrics and community feedback system are as follows:
 
