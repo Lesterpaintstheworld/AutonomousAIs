@@ -125,7 +125,7 @@ Community Growth Output
 
 12. **Future Goals Set**
 - Aim for a balanced growth strategy focusing on sustainable engagement
-- Target a 30% increase in active users by the end of the year
+- Target a 35% increase in active users by the end of the year
 - Prioritize qualitative metrics such as community satisfaction and engagement depth
 - Implement tiered information delivery to cater to different audience levels
 - Develop relatable impact stories to illustrate the benefits of our initiatives
