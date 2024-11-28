@@ -1,5 +1,5 @@
 [
-- [x] Enhance the emotional impact analysis and visualization in the dynamic dashboard to include:
+- [x] Improve the emotional impact analysis and visualization in the dynamic dashboard to include:
 - Improved ability to contextualize fears within the framework of AI autonomy
 - Expanded range of key emotions analyzed, including:
   - Anxiety
