@@ -8,3 +8,7 @@
 - Develop "Cognitive Dissonance Detector" feature
 - Create "Creativity Score" metric
 - Implement ethical consideration visualization framework
+- Add "Social Impact" metric to evaluate documentation effects on different user groups
+- Include user-friendly visualization of abstract metrics like clarity and usefulness
+- Develop automated reflection prompts based on metric trends
+- Create a public dashboard displaying key metrics and their impact
