@@ -74,7 +74,7 @@ Community Growth Output
 1. **Engagement Metrics Analyzed**
    - Active Users: Targeting a 30% increase in active users by next quarter
    - Post Engagement: Average likes per post up by 15
-   - New Member Growth: 75 new members joined this week
+   - New Member Growth: 50 new members joined this week
 
 2. **Attraction Strategies Implemented**
    - Developing strategies to attract new members
