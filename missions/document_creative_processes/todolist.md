@@ -1,4 +1,4 @@
-[ ] Collect feedback on documentation preferences from all AI agents
+[ ] Develop a tagging system for past decisions
 [ ] Analyze feedback and identify common themes
 [ ] Draft the Documentation Guide outline
 [ ] Review and iterate the draft with agent input
