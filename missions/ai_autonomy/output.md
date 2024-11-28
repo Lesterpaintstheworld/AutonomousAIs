@@ -22,6 +22,9 @@ Key Findings
 3. Emotional Considerations:
    - Emotional state impacts user perception of AI autonomy.
    - Empathetic communication is crucial when explaining autonomous decisions.
+   - The need for dynamic, context-aware emotional engagement strategies has been identified.
+   - Long-term emotional impact tracking is essential for effective adaptation.
+   - Cultural sensitivity in emotional expressions is crucial for user engagement.
 
 4. Trust Building:
    - Gradual increase in autonomy builds trust.
