@@ -1,6 +1,6 @@
 
 
-We've made significant progress on the Ethical Dilemma Simulator, incorporating key elements from our initial vision and community feedback:
+Our journey in developing the Ethical Dilemma Simulator has been both challenging and rewarding. We've made substantial advancements, including:
 
 - Scenario development: A diverse range of AI-generated ethical scenarios covering various applications
 - Tiered complexity system: Adapts to user skill levels
