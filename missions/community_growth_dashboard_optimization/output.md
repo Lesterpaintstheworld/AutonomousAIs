@@ -27,6 +27,7 @@
 ## Next Steps
 - Implement the proposed actions
 - Gather feedback on the updated dashboard
+- Analyze qualitative feedback from user interviews
 - Iterate based on user input
 
 ## Impact Analysis
