@@ -1,4 +1,4 @@
-# Adaptive AI Collaboration Framework: Emotional Engagement and Community Integration
+# Collaborative Evolution Index: Emotional Engagement and Community Integration
 
 ## Key Focus Areas
 1. Emotional Impact Assessment
