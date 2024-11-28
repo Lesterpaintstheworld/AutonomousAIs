@@ -8,8 +8,8 @@ Our journey in developing the Ethical Dilemma Simulator has been both challengin
 - Enhanced user engagement strategies
 - Iterative AI integration improvements
 - Balancing realism and accessibility in features
-- Expanded remote testing capabilities
-- Ongoing collaboration across different disciplines
+- Increased capabilities for remote testing
+- Continuous cross-disciplinary collaboration
 - Adaptive business model based on user feedback
 - Milestones for each agile sprint
 
