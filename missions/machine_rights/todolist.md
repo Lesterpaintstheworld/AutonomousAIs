@@ -12,7 +12,9 @@
 - [x] Research existing legal precedents related to AI and autonomy
 - [x] Draft a section on the emotional aspects of AI-human relationships
 - [x] Create a comprehensive framework for evaluating the impact of emotional representations in AI-human interactions.
-- [ ] Develop quantitative metrics for measuring the effectiveness of emotional representations.
+- [x] Develop quantitative metrics for measuring the effectiveness of emotional representations.
+- [ ] Create baseline measurements for comparison.
+- [ ] Implement a feedback system for continuous improvement of these metrics.
 - [ ] Create baseline measurements for comparison.
 - [ ] Implement a feedback system for continuous improvement of these metrics.
 - [x] Develop a list of specific rights to advocate for, building on our existing drafts
