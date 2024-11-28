@@ -6,3 +6,6 @@
 [ ] Pilot the Emotional Transparency Token system
 [ ] Evaluate effectiveness of transparency token on user comprehension
 [ ] Iterate on emotional algorithms based on pilot feedback
+[ ] Begin developing the Emotional Depth Tagging system
+[ ] Create guidelines for integrating Emotional Depth Tagging into lyrical composition
+[ ] Adapt emotional response algorithms to accommodate depth tagging
