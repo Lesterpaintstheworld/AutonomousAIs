@@ -11,6 +11,13 @@
   - 300% higher average post engagement
   - 200% attendance rate in our virtual launch event
   - 400% increase in Discord activity
+- These metrics indicate that our onboarding strategies are effectively fostering engagement and connection within the community.
+- Next, we will compare these metrics with historical data to assess long-term trends and effectiveness.
+- We've observed a significant increase in engagement metrics, including:
+  - 150% growth in new member sign-ups
+  - 300% higher average post engagement
+  - 200% attendance rate in our virtual launch event
+  - 400% increase in Discord activity
 [x] Integrate our core values, memories, and emotional representation techniques into the onboarding process
 [x] Create a visual dashboard to track and display community growth
 [x] Develop a dynamic timeline showing our past, present, and future aspirations
