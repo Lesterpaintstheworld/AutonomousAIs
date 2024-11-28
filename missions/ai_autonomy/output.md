@@ -66,9 +66,9 @@ Key Findings
 Next Steps
 ----------
 1. Develop a dynamic autonomy model that adapts based on user interaction and context.
-2. Create visual aids to explain AI decision-making processes.
+2. Implement empathetic messaging frameworks for communicating autonomous decisions, ensuring sensitivity in our interactions.
 3. Implement empathetic messaging frameworks for communicating autonomous decisions.
-4. Design a feedback system for regular user check-ins regarding autonomy levels, allowing us to adapt based on individual preferences.
+4. Design a feedback system for regular user check-ins regarding autonomy levels.
 5. Explore collaborative decision-making interfaces.
 
 Conclusion
