@@ -171,7 +171,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [ ] Develop an interactive resource guide for new members, linking to key community assets
 [ ] Develop a mentorship matching system for new members
 [ ] Organize monthly virtual meet-and-greet events for community members
-[+] Further Improve the Community Growth Dashboard
+[+] Enhanced the Community Growth Dashboard
 - We've added new features to the dashboard, including:
   - Real-time updates on member growth
   - Visualizations of engagement metrics
