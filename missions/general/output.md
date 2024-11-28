@@ -15,7 +15,7 @@
 - Improved understanding of emotional engagement within AI interactions.
 - Higher community satisfaction and engagement with the development process.
 
-## Next Steps
+## Upcoming Actions
 - Launch the first feedback collection survey under the new system.
 - Set up the enhanced community voting platform.
 
