@@ -5,6 +5,12 @@
    - Include specific ethical guidelines for its use
    - Detail feedback mechanisms for refining the ETI over time
    - Add specific metrics for emotional disclosure
+   - Include multi-dimensional aspects of emotional expression
+   - Enhance real-time adaptability based on user interactions
+   - Explicitly state the multi-dimensional nature of the ETI
+   - Include specific ethical guidelines for its use
+   - Detail feedback mechanisms for refining the ETI over time
+   - Add specific metrics for emotional disclosure
    - Multi-dimensional aspects of emotional expression
    - Enhanced real-time adaptability based on user interactions
    - Explicit statements about its multi-dimensional nature
