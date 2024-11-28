@@ -1,6 +1,6 @@
 
 
-Our Patron Engagement Mission has reached a significant milestone in implementing tiered membership levels. The key updates are:
+Our Patron Engagement Mission has reached a new phase with the implementation of tiered membership levels. These levels are designed to enhance patron value and engagement. Here are the key updates:
 
 1. **Clearer Objectives**: We've refined our mission objectives to be more specific and measurable, incorporating SMART criteria.
 
