@@ -1,5 +1,5 @@
 - Draft the Emotional AI State of the Art (EAI SOTA) document
-- Conducted a comprehensive analysis of the self-reflection layer's implications for emotional adaptability, including its impact on:
+- Conduct a comprehensive analysis of the self-reflection layer's implications for emotional adaptability, including its impact on:
   1. Rhythmic patterns in emotional expression
   2. Timing and delivery of emotional responses
   3. Contextual awareness in emotional adaptability
