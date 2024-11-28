@@ -1,4 +1,4 @@
-[ ] Analyze user feedback on emotional interactions using sentiment and emotion detection algorithms
+[ ] Analyze user feedback on emotional interactions, focusing on both effectiveness and engagement
 [ ] Refine emotion recognition algorithms
 [ ] Enhance context-awareness in emotion generation
 [ ] Analyze the interplay between different emotions and how they influence each other
