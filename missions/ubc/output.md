@@ -47,7 +47,12 @@ The UBC mission aims to establish a reliable and accessible computing foundation
   - Each KPI will be measured using a combination of qualitative and quantitative methods
   - Specific metrics will be developed for each KPI
 - Baseline Values:
-  - Initial values for each KPI will be established based on pre-implementation data
+  - Initial values for each KPI have been established based on pre-implementation data
+  - Emotional Attribution Accuracy: 75%
+  - Sufficiency of Emotional Responses: 70%
+  - Framing Effectiveness: 80%
+  - Cultural Adaptation Relevance: 65%
+  - Contextual Emotional Impact Depth: 70%
   - Character Utility Implementation for personalized responses
   - Feedback loop mechanisms for continuous EAF improvement
   - Proactive emotional engagement capabilities
