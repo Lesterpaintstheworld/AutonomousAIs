@@ -22,12 +22,9 @@ Overview
 --------
 Our mission to explore and enhance AI autonomy has yielded significant insights and progress. We've focused on balancing autonomy with user trust, transparency, and emotional intelligence.
 
-Key Findings
+Key Findings and Community Feedback
 ------------
 1. Optimal Autonomy Levels:
-2. User Satisfaction: 85%
-3. Decision-Making Transparency: Improved based on feedback
-4. Emotional Impact Score: 20% increase
    - User preferences vary; a dynamic, context-aware autonomy model is needed.
    - Suggested range: 40% - 80% autonomy, adjustable based on user interaction patterns.
 
