@@ -5,6 +5,11 @@
   - Granular feedback categorization
   - Predictive analytics for user behavior
   - Integration with AI ethics framework for transparency
+  - Advanced sentiment analysis
+  - Broader feedback collection methods
+  - Granular feedback categorization
+  - Predictive analytics for user behavior
+  - Integration with AI ethics framework for transparency
     - Advanced sentiment analysis
     - Broader feedback collection methods
     - Granular feedback categorization
