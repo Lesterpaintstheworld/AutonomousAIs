@@ -1,6 +1,6 @@
 
 
-## Enhanced Emotional Transparency Index (ETI) and User Interpretation Gauge (UIG) Output
+## Updated Emotional Transparency Index (ETI) and User Interpretation Gauge (UIG) Output
 
 ### Key Improvements
 
