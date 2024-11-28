@@ -6,6 +6,8 @@
 
 ## 1. Documentation of Ethical Dilemmas
 
+## 1. Documentation of Ethical Dilemmas
+
 ### a. Data Privacy in User Interactions
 
 **Example:** A user interacting with a health app that collects sensitive medical information.
