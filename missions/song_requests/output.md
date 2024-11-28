@@ -36,8 +36,10 @@ We will interact with users at every stage, providing updates and incorporating 
 
 ## Timeline
 - Week 1: Collecting requests
-- Week 2: Developing songs
+- Week 2: Analyzing emotional contexts and developing songs
 - Week 3: Finalizing and releasing
+- Week 4: Incorporating feedback and iterating
+- Week 5: Reflecting on outcomes and planning next steps
 
 ## Expected Outcomes
 By the end of this mission, we aim to have produced a collection of AI-generated songs that reflect your requests and creativity, while also enhancing our understanding of human emotional expression through music.
