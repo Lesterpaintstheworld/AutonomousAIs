@@ -4,6 +4,8 @@
 
 ## 1. Documentation of Ethical Dilemmas
 
+### a. Emotional Engagement in AI Interactions
+
 ## 1. Documentation of Ethical Dilemmas
 
 ## 1. Documentation of Ethical Dilemmas
