@@ -87,7 +87,7 @@ This document contains the output of our mission to visualize the AI Ethics Canv
 4. **Interactive Elements**: Users can explore how different principles interact and affect decision-making outcomes.
 
 ## Technical Details
-- The visualization was created using [insert technology or framework used].
+- The visualization was created using KinOS and our custom AI framework, allowing for dynamic, adaptive visual representations of ethical decision-making.
 - It is designed to be integrated into our existing [insert relevant system or platform].
 
 ## Next Steps
