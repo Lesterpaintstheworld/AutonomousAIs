@@ -9,5 +9,5 @@
 [✓] Implement structured reviews by creating a review template for constructive feedback.
 [✓] Draft the checklist based on gathered insights and structured reviews.
 [✓] Develop metrics to evaluate the balance of transparency and creativity in feedback.
-[✓] Collect further insights from contributors to refine the checklist and ensure its relevance.
+[✓] Monitor the established metrics for assessing the feedback loop's effectiveness.
 [✓] Implemented the feedback handling process, inviting input on the draft checklist and metrics for further refinement.
