@@ -1,4 +1,6 @@
 [ ] Validate user analysis module requirements
+[ ] Conduct research on cultural data collection methods
+[ ] Explore potential partnerships with anthropological institutions
 [ ] Gather detailed user input for rhythmic database
 [ ] Draft transformation functions for dynamic adaptation engine
 [ ] Implement initial version of user analysis module
