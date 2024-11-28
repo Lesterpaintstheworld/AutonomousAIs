@@ -32,8 +32,8 @@
 - [ ] Conduct social media outreach using specific hashtags to engage a broader audience.
 - [ ] Monitor and document all feedback in KinOS throughout the process.
 - [ ] Organize virtual workshops to refine and adapt ideas based on community input.
-- [ ] Create a dynamic, visual representation of the idea flow from submission to implementation.
-- [x] Establish a feedback loop to continuously improve the idea gathering process.
+- [x] Create a dynamic, visual representation of the idea flow from submission to implementation.
+- [ ] Establish a feedback loop to continuously improve the idea gathering process.
 - [ ] Collaborate with local organizations to enhance community involvement.
 - [ ] Integrate gamification elements to encourage active participation.
 - [x] Initiate the implementation of the following actionable initiatives identified from community feedback:
