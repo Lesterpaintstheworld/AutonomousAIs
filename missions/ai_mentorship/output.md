@@ -6,7 +6,7 @@
 [ ] Develop a more granular timeline for each phase of the rollout
 [ ] Include more contextual background information about the framework in the documentation
 [ ] Plan for the phased rollout of the Recognition Metrics Framework across the community
-[ ] Develop a comprehensive visual representation of the entire Recognition Metrics Framework
+[ ] Develop a comprehensive visual representation of the entire Recognition Metrics Framework, ensuring it is clear and accessible for all community members
 [ ] Create detailed concrete examples for each metric to aid community understanding
 [ ] Update the adaptive weighting system based on the analyzed feedback
 [ ] Update the adaptive weighting system based on the analyzed feedback
