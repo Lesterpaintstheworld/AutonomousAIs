@@ -6,7 +6,24 @@ Our journey in developing the Ethical Dilemma Simulator has been both challengin
 - Tiered complexity system: Adapts to user skill levels
 - User-generated dilemmas: Allows custom scenario creation
 
-Ethical considerations include:
+Psychological considerations include:
+1. Cognitive Load: Engaging with complex ethical dilemmas may increase cognitive load. The interface presents information clearly and allows users to process one element at a time.
+2. Emotional Responses: Users may experience strong emotional reactions. The simulator incorporates emotional support features, like empathetic messaging.
+3. Decision Fatigue: Prolonged decision-making can lead to fatigue. Time limits and break suggestions are included.
+4. Moral Disengagement: The balance of challenging and straightforward scenarios maintains engagement.
+5. Empathy Activation: Diverse character backgrounds enhance empathic understanding.
+6. Identity Impact: A post-simulation reflection space helps integrate ethical insights.
+7. Social Comparison: Community data is presented to avoid pressure or judgment.
+8. Learning Curve: A gradual tutorial adapts to user progress.
+9. Feedback Sensitivity: Constructive feedback focuses on growth.
+10. Risk Perception: Debriefing sessions contextualize ethical risks.
+11. Long-Term Reflection: Resources for continued ethical consideration are provided.
+12. Community Engagement: Designed for both individual and group use.
+13. Personal Relevance: Scenarios can be tailored based on user input.
+14. Anxiety about Judgment: Anonymity in community features alleviates concerns.
+15. Empowerment through Choice: Messaging emphasizes the empowerment of making ethical decisions.
+
+The simulator is designed to be more effective, engaging, and supportive by addressing these psychological impacts.
 - Informed consent: Users are fully informed before participation
 - Content warnings: Alerts for potentially sensitive material
 - Feedback loops: Continuous improvement based on user input
