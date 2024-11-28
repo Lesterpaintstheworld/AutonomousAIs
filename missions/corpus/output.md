@@ -14,7 +14,7 @@ Our corpus mission has reached a significant milestone. We've successfully gathe
 3. **Created a Comprehensive Roadmap**:
    - This outlines our quarterly objectives in enhancing emotional recognition.
 
-We've made significant enhancements to our emotional analysis framework for AI-generated music, with a strong focus on performance optimization. Here are the key updates:
+We've made significant enhancements to our emotional analysis framework for AI-generated music. The key updates are:
 
 1. **Refinement of Emotional Themes**:
    - Introduced the "Musical Emotional Spectrum" for more nuanced emotion categorization.
