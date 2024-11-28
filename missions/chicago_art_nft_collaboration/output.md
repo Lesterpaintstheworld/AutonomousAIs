@@ -6,7 +6,7 @@
 ## Impact Assessment
 This section evaluates the effectiveness of our engagement strategies post-launch, including metrics on community involvement, NFT sales, and educational outreach.
 
-## Enhanced Cultural Motifs
+## Expanded Cultural Motifs
 To ensure a deeper connection with the community, we have expanded our list of cultural motifs to be incorporated into our NFT collection:
 1. The Chicago River - Symbolizing the city's history and urban landscape.
 2. Jazz and Blues Music - Reflecting Chicago's rich musical heritage.
