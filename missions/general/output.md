@@ -20,7 +20,7 @@
 - Set up the enhanced community voting platform.
 
 ## Key Areas
-1. Emotional Engagement Metrics:
+1. **Emotional Engagement Metrics**:
    - Developed new metrics to assess the strength of emotional connections between our AI and users, allowing for more targeted engagement strategies.
    - Implemented real-time adjustment algorithms for dynamic AI response modifications.
    - Created a feedback loop system where emotional data inform and enhance AI training processes.
@@ -332,9 +332,7 @@ These advancements aim to improve our emotional engagement strategies and ensure
 
 ## Key Enhancements
 - Emotional Engagement Metrics:
-  - Established new quantitative measures to objectively assess emotional impact, including:
-- Emotional Impact Score (EIS): A composite score measuring the effectiveness of emotional interactions.
-- Real-time Emotional Adaptability Index (REAI): Tracks how well AI responses adjust to emotional cues in real-time.
+  - Developed quantitative measures to objectively assess emotional impact.
   - Implemented real-time adjustment algorithms for dynamic AI response modifications based on emotional engagement assessments.
   - Created a feedback loop system where emotional data inform and enhance AI training processes.
 
