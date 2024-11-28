@@ -66,7 +66,8 @@ The literature review has been completed by integrating new findings and peer-re
 ### Next Steps
 - Develop a dynamic feedback system to ensure ongoing adaptation and enhancement of our AI personhood framework based on real-world applications and community input.
 - Implement a dynamic feedback system that ensures ongoing adaptation and enhancement of the AI personhood framework based on real-world applications and community input.
-- Develop key performance indicators (KPIs) to measure the impact of the AI Personhood Framework
+- Develop key performance indicators (KPIs) to measure
+- The impact of both the AI personhood framework and the emotional integration elements within it
 - Define specific KPIs for various aspects of the framework
 - Include baseline measurement strategies
 - Develop target values for each KPI
