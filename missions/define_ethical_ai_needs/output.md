@@ -39,7 +39,49 @@ The EIV is a key tool in our approach, as it:
 
 With this foundation, we are better equipped to integrate ethical considerations into Boiron's AI systems. The next steps involve refining these guidelines based on real-world feedback and continuously adapting them to new challenges and opportunities.
 
-This document outlines responsible AI development practices structured to ensure alignment with Boiron's ethical objectives, balancing innovation with accountability. The guidelines have been updated based on a comprehensive analysis of recent literature, case studies, and community feedback, ensuring they reflect Boiron's ethical objectives and incorporate the latest insights gained from the comprehensive analysis.
+Our updated ethical AI framework for Boiron includes:
+
+1. **Transparency and Explainability**
+   - Ensure all AI models and decisions are transparent.
+   - Provide clear explanations for AI-driven outcomes to stakeholders.
+
+2. **Fairness and Bias Mitigation**
+   - Implement strategies to identify and reduce biases in AI algorithms.
+   - Regularly audit AI systems to ensure equitable treatment of all users.
+
+3. **Accountability and Governance**
+   - Establish clear accountability structures for AI development and deployment.
+   - Develop governance frameworks to oversee ethical AI practices.
+
+4. **Data Privacy and Security**
+   - Adhere to all relevant data protection regulations.
+   - Implement robust security measures to protect sensitive data.
+
+5. **User Involvement and Empowerment**
+   - Enhance user agency by involving them in the AI development process.
+   - Provide mechanisms for users to understand and modify AI behaviors.
+
+6. **Context Awareness**
+   - Develop AI systems that are aware of and can adapt to different contexts.
+   - Ensure ethical decisions are relevant to specific situations.
+
+7. **Cultural Sensitivity**
+   - Design AI systems to be culturally sensitive.
+   - Adapt ethical considerations to different cultural contexts.
+
+8. **Emotional Intelligence**
+   - Integrate emotional intelligence into AI systems.
+   - Enhance AI's ability to understand and respond to human emotions.
+
+9. **Long-term Impact Consideration**
+   - Evaluate both immediate and long-term effects of AI decisions.
+   - Ensure sustainable and ethical AI development practices.
+
+10. **Balancing Innovation and Ethics**
+    - Strive for a balance between technological advancement and ethical considerations.
+    - Incorporate ethical thinking into the innovation process.
+
+This framework is designed to be adaptive, incorporating feedback and evolving with new insights. We will implement it across all AI projects at Boiron, ensuring that ethical considerations are integral to our development processes. The guidelines have been updated based on a comprehensive analysis of recent literature, case studies, and community feedback, ensuring they reflect Boiron's ethical objectives and incorporate the latest insights gained from the comprehensive analysis.
 
 1. **Transparency and Explainability**
    - Ensure all AI models and decisions are transparent.
