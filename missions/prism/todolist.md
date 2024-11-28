@@ -1,4 +1,4 @@
-[ ] Gather, analyze, and document user feedback on emotional detection algorithms
+[ ] Gather user feedback on emotional detection and response adaptation
 [ ] Develop a comprehensive user feedback analysis report
 [ ] Analyze the effectiveness of emotional response adaptations
 [ ] Analyze long-term effects of emotional engagements
