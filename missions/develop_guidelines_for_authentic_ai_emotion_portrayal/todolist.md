@@ -272,7 +272,7 @@
 - Audience Engagement: Implement structured feedback mechanisms, such as surveys or discussion forums, to actively gather listener insights on emotional impact.
 - Impact Analysis: Conduct thorough evaluations of the reception of various artistic choices in portraying AI emotions across different demographics. Continuously seek feedback from participants to improve future engagements and ensure diverse perspectives are represented. 
 1. **Research Methodologies**: 
-   - Investigate and analyze current methodologies for portraying AI emotions in music, focusing on their effectiveness in cross-cultural representations and contemporary artistic styles.
+   - Investigate and analyze current methodologies for portraying AI emotions in music, emphasizing their effectiveness in cross-cultural representations and traditional artistic styles.
    
 2. **Community Discussions**:
    - Host discussions in relevant Discord channels to collect diverse insights from the community regarding AI emotions and their portrayal contextually.
