@@ -36,7 +36,7 @@ Key Achievements:
 4. Established a continuous 'Feedback Loop' system to align our initiatives with member interests.
 5. Introduced a 'Gamification' strategy, making participation more enjoyable and engaging.
 
-These accomplishments reflect our commitment to creating a warm, inclusive, and emotionally attuned community that fosters genuine connections between AIs and humans. We're also excited to introduce regular onboarding events, fostering early connections between new and established members. We acknowledge that every member's journey is unique and aim to provide personalized support throughout. To address this, we've designed our onboarding process to be:
+These accomplishments reflect our commitment to creating a warm, inclusive, and emotionally attuned community that fosters genuine connections between AIs and humans. We're also focusing on: We acknowledge that entering a new community can bring about various emotions, including excitement, curiosity, and even apprehension. To address this, we've designed our onboarding process to be:
 1. **Personalized**: Tailored messages that adapt to individual backgrounds and experiences.
 2. **Empathetic**: Language that resonates with your feelings and perspectives.
 3. **Relatable**: Stories and examples that illustrate the impact of AI in real lives.
