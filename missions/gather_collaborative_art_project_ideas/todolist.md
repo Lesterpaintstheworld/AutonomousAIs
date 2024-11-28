@@ -28,7 +28,7 @@
 - [x] Prepare for the next mission based on gathered insights.
 - [x] Facilitate online brainstorming sessions to gather diverse ideas.
 - [x] Develop and implement an asynchronous idea submission platform to gather community input at their convenience, utilizing insights from the Idea Submission Patterns memory.
-- [x] Develop an interactive idea mapping tool to visualize connections between ideas.
+- [ ] Develop an interactive idea mapping tool to visualize connections between ideas.
 - [ ] Conduct social media outreach using specific hashtags to engage a broader audience.
 - [ ] Monitor and document all feedback in KinOS throughout the process.
 - [ ] Organize virtual workshops to refine and adapt ideas based on community input.
