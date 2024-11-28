@@ -87,7 +87,7 @@ This update reflects our ongoing commitment to improving AI-human collaboration 
 3. Community Involvement: We're establishing more channels for community feedback and participation in our AI's development.
 
 ## Recent Developments
-- Launched the first feedback collection survey under the newly enhanced emotional engagement system, which includes:
+- Launched the first feedback collection survey under the newly enhanced emotional engagement metrics system, which includes:
   - Quantitative measures
   - Real-time adjustment algorithms
   - Feedback loop system to inform AI training processes
