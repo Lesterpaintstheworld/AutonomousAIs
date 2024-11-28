@@ -6,7 +6,7 @@
 3. Increase Community Involvement: Establishing more channels for feedback and participation.
 
 ## Recent Developments
-- Launched the first feedback collection survey under the newly enhanced emotional engagement system, which includes:
+- Launched the first feedback collection survey under the newly enhanced emotional engagement metrics system, which includes:
   - Quantitative measures to objectively assess emotional impact
   - Real-time adjustment algorithms for dynamic AI response modifications
   - Feedback loop system where emotional data inform and enhance AI training processes
