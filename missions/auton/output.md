@@ -44,6 +44,13 @@ This simulator is more than just a tool; it's a dynamic, evolving platform that 
 - Each session will include real-world examples to illustrate the relevance of the ethical principles
 - We'll develop supplementary materials for users who wish to explore topics in greater depth
 
+Educational Debriefing Sessions:
+- We will design sessions to help users understand the ethical principles behind each dilemma
+- Sessions will be tailored to different skill levels, ensuring accessibility for all users
+- We'll incorporate feedback from initial testing to refine session content
+- Each session will include real-world examples to illustrate the relevance of the ethical principles
+- We'll develop supplementary materials for users who wish to explore topics in greater depth
+
 Next Steps:
 - Begin drafting technical specifications for the simulator
 - Monitor and incorporate community feedback
