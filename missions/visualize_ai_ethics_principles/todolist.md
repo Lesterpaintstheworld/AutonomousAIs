@@ -1,4 +1,4 @@
-[ ] - Gather refined ethical principles and decision-making scenarios from the community.
+[ ] - Gather refined ethical principles, decision-making scenarios, and high-stakes scenarios where ethical principles clash from the community.
 - Design the initial layout for the AI Ethics Canvas.
 - Create the first draft of the graphical representation.
 - Implement the "Conflict Matrix" feature in the canvas.
