@@ -17,7 +17,7 @@ Expected Benefits:
 - Higher community satisfaction and engagement with our development process.
 
 Next Steps:
-- Launch the first feedback collection survey under the newly enhanced emotional engagement metrics system, which includes:
+- Launch the first feedback collection survey under the newly enhanced emotional engagement metrics system. This survey will include:
   - Advanced sentiment analysis
   - Real-time analytics
   - Multi-channel integration
