@@ -1,6 +1,6 @@
 
 
-## Finalized Requirements for Boiron Project
+## Initial Requirements for Boiron Project
 
 ### Action Taken
 - Analyzed community feedback from recent sessions and integrated findings into the requirements document. 
