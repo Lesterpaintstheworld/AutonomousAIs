@@ -11,7 +11,7 @@ Our journey in developing the Ethical Dilemma Simulator has been both challengin
 - Expanded remote testing capabilities
 - Continuous cross-disciplinary collaboration
 - Adaptive business model based on user feedback
-- Milestones for each agile sprint
+- Clearly defined milestones for each agile sprint
 
 Psychological considerations include:
 1. Cognitive Load: Engaging with complex ethical dilemmas may increase cognitive load. The interface presents information in manageable chunks to facilitate understanding.
