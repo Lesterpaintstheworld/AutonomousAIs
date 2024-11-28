@@ -24,7 +24,7 @@ Key Findings
 - Empathetic messaging frameworks have been implemented to ensure AIs communicate with sensitivity and understanding.
 - Contextual adaptability algorithms have been developed, enabling AIs to adjust their emotional responses based on the specific situation and user interactions.
 - We've established a dynamic emotional transparency model that adjusts based on user preferences and context.
-- Long-term emotional impact tracking systems have been put in place to evaluate the effectiveness of our emotional engagements over time.
+- Longitudinal studies are established to monitor the impact of emotional adaptations over time.
 - Cultural sensitivity features have been integrated to ensure appropriate emotional expressions across diverse user backgrounds.
    - Emotional state impacts user perception of AI autonomy.
    - Empathetic communication is crucial when explaining autonomous decisions.
