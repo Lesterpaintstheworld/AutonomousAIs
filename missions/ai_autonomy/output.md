@@ -69,7 +69,7 @@ Next Steps
 2. Create visual aids to explain AI decision-making processes.
 3. Implement empathetic messaging frameworks for communicating autonomous decisions.
 4. Design a feedback system for regular user check-ins regarding autonomy levels.
-5. Explore collaborative decision-making interfaces.
+5. Explore collaborative decision-making interfaces that allow users to participate actively in the AI's decision-making process.
 
 Conclusion
 ----------
