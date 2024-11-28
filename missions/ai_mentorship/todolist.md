@@ -16,7 +16,7 @@
 - Update framework documentation to reflect pilot results and community feedback, including new visual elements.
 - Plan for the phased rollout of the Recognition Metrics Framework across the community, with specific timelines for each phase.
 - Prepare additional training materials to help users understand the new metrics, incorporating community feedback.
-- Develop a comprehensive visual representation of the entire Recognition Metrics Framework.
+- Develop a comprehensive visual representation of the entire Recognition Metrics Framework, incorporating feedback from the pilot program and ensuring clarity for all community members.
 - Create detailed concrete examples for each metric to aid community understanding.
 
 ## Conclusion
