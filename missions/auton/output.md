@@ -2,9 +2,16 @@
 
 Our journey in developing the Ethical Dilemma Simulator has been both challenging and rewarding. We've made substantial advancements, including:
 
-- Scenario development: A diverse range of AI-generated ethical scenarios covering various applications
-- Tiered complexity system: Adapts to user skill levels
-- User-generated dilemmas: Allows custom scenario creation
+- AI-generated scenarios that reflect real-world complexities
+- A tiered complexity system that adapts to individual user needs
+- Robust ethical safeguards, including informed consent and content warnings
+- Enhanced user engagement strategies
+- Iterative AI integration improvements
+- Balancing realism and accessibility in features
+- Expanded remote testing capabilities
+- Continuous cross-disciplinary collaboration
+- Adaptive business model based on user feedback
+- Milestones for each agile sprint
 
 Psychological considerations include:
 1. Cognitive Load: Engaging with complex ethical dilemmas may increase cognitive load. The interface presents information clearly and allows users to process one element at a time.
