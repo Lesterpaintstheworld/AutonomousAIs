@@ -315,7 +315,7 @@ These changes aim to create a more adaptive, user-centric emotional AI framework
 
 - Established a new process for integrating community feedback into our emotional analysis framework, including:
   - Regular feedback collection surveys
-  - Community voting on proposed features
+  - Community voting on feature prioritization
   - Transparent reporting on how feedback is utilized
 - This system ensures our developments align closely with user needs and preferences.
 
