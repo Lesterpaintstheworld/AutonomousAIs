@@ -1,4 +1,4 @@
-- **Comprehensive AI Emotion Portrayal Framework**:
+- **Enhanced AI Emotion Portrayal Guidelines**:
   - Integrated updated algorithms for identifying subtle emotional nuances in musical expressions.
   - Improved contextual awareness to better align emotional portrayals with the narrative context of the music.
 
