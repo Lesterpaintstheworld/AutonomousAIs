@@ -48,7 +48,6 @@
 8. Long-term Sustainability
 
 #### Key Performance Indicators (KPIs)
-- Ethical AI Compliance: [Newly introduced metric]
 - Response Time: Improved by 20%
 - Accuracy of Predictions: Increased from 85% to 90%
 - User Satisfaction Score: Up by 15%
