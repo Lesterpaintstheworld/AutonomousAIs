@@ -11,6 +11,8 @@
 
 We've made significant advancements in our Emotional Impact Assessment Framework, focusing on:
 
+We've made significant advancements in our Emotional Impact Assessment Framework, focusing on:
+
 1. **Title Enhancement**:
    - The framework has been renamed for improved clarity.
 
