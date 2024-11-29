@@ -3,8 +3,8 @@
 [ ] Analyze the impact of gamification on viewer engagement
 [ ] Identify areas for further improvement
 [ ] Integrate more qualitative feedback into our metrics
-[ ] Create visual representations of engagement data
-[ ] Create a resource library with sample packs and presets
+[ ] Develop a collaborative online platform for viewers to share their blending experiments
+[ ] Establish a consistent format for reporting outcomes
 [ ] Implement a voting system for suggested topics in the feedback mechanism
 [ ] Set clear goals for each tutorial
 [ ] Develop infographics summarizing key concepts in each tutorial
