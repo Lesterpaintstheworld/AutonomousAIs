@@ -15,8 +15,8 @@ By combining technical robustness with emotional awareness, we aim to create a c
 ## Key Achievements
 - Designed a distributed computing network model
 - Defined membership tiers for resource allocation
-- Developed a sustainable investment framework
-- Enhanced our Emotional Analytics Framework (EAF) with key components:
+- Developed a flexible and adaptive investment framework
+- Enhanced our Emotional Analytics Framework (EAF) with the following key capabilities:
   1. Emotional Attribution Analysis
   2. Sufficiency Assessment
   3. Framing Impact Evaluation
