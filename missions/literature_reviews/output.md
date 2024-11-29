@@ -1,4 +1,4 @@
-[ ] Define Research Questions: 
+[✔] Define Research Questions: 
   - What are the current trends in AI-driven music composition?
   - How do different cultural contexts influence the perception of AI-generated art?
   - What ethical considerations are being discussed in the use of AI in creative fields?
