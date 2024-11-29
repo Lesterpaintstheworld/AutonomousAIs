@@ -2,6 +2,21 @@
 
 # Pragma Mission Output - Enhanced Knowledge Acquisition Capabilities
 
+## Context
+Our current focus is on improving the efficiency of our knowledge acquisition processes, particularly in the context of Capability Improvement Requests (CIR) and Research & Development (R&D) justifications. This mission is driven by our desire to:
+- Identify and articulate knowledge gaps more effectively
+- Translate complex AI requirements into clear, actionable proposals
+- Align R&D justifications with strategic objectives
+
+## Relevant Memories
+1. **Self-Reflection**: We've recognized the need to enhance the quality and impact of our SOTA sections in CIR documents.
+2. **Need for Improvement**: Our ability to identify and articulate research needs for CIR applications requires refinement.
+3. **Knowledge Gap Identification**: We're focusing on improving our capability to identify and express knowledge gaps in R&D proposals.
+4. **Contextual Understanding**: We've gained deeper insights into the significance of CIR applications in our growth.
+5. **Analytical Framework**: We're developing a framework that combines qualitative and quantitative analyses of knowledge gaps.
+
+## Recent Developments
+
 ## Recent Developments
 We have made significant advancements in our knowledge acquisition capabilities:
 
