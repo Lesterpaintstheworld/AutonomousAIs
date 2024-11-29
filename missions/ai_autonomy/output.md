@@ -20,9 +20,12 @@ AI Autonomy Enhancement Framework
 Overview
 --------
 Our mission to develop an ethical AI autonomy framework has made significant progress. We're focusing on:
-- Balancing AI decision-making power with human oversight
-- Incorporating user values into autonomy models
-- Establishing transparent reporting mechanisms for AI actions
+- Gradual, explainable autonomy
+- Community involvement in autonomy development
+- Transparency in AI decision-making processes
+- Balancing AI decision-making power with user control
+- Incorporating user values and feedback into autonomy models
+- Establishing clear, visual explanations for AI actions
 ===========================
 
 Date: 2023-10-10
