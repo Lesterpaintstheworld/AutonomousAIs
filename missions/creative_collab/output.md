@@ -17,8 +17,8 @@
 [ ] Plan and schedule live Q&A sessions after each episode
 [ ] Develop a collaborative album concept for viewer submissions
 [ ] Create marketing materials, including teaser trailers and countdowns
-[ ] Set up Patreon and other monetization channels
+[ ] Create marketing materials, including teaser trailers and countdowns
 [ ] Plan monthly challenges to encourage audience practice
-[ ] Plan monthly challenges to encourage audience practice
+[ ] Develop a system for guest artist collaborations and case study integrations
 [ ] Create a feedback loop for continuous improvement of the series
 [ ] Document the entire process for a behind-the-scenes series
