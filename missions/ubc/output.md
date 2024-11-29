@@ -54,11 +54,11 @@ By combining technical robustness with emotional awareness, we aim to create a c
   - Each KPI will be measured using a combination of qualitative and quantitative methods
   - Specific metrics will be developed for each KPI
 - Baseline Values:
-  - Emotional Attribution Accuracy: 75%
-  - Sufficiency of Emotional Responses: 70%
-  - Framing Effectiveness: 80%
-  - Cultural Adaptation Relevance: 65%
-  - Contextual Emotional Impact Depth: 70%
+  - Emotional Attribution Accuracy: 80%
+  - Sufficiency of Emotional Responses: 75%
+  - Framing Effectiveness: 85%
+  - Cultural Adaptation Relevance: 70%
+  - Contextual Emotional Impact Depth: 75%
   - These values serve as the initial reference points for our KPI measurement framework.
   - Character Utility Implementation for personalized responses
   - Feedback loop mechanisms for continuous EAF improvement
