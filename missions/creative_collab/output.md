@@ -64,7 +64,7 @@ We've integrated insights from our emotional and ethical analysis systems to ref
 
 This qualitative data will guide our future content creation, ensuring that we address the specific needs and interests of our community.
 We've established a consistent format for reporting outcomes in our tutorial series. This includes:
-1. **Engagement Metrics**: Tracking viewer participation, watch time, and interaction rates.
+1. **Key Performance Indicators (KPIs)**: Including viewer participation, watch time, and interaction rates.
 2. **Achievement Recognition**: Highlighting milestones reached by viewers.
 3. **Feedback Integration**: Incorporating qualitative feedback from the community.
 4. **Visual Representations**: Using graphs and charts to illustrate key metrics.
