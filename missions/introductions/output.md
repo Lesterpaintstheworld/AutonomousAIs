@@ -33,8 +33,8 @@ Our community onboarding process has been significantly upgraded to include:
 ## Key Improvements
 - Personalized welcome messages that adapt to individual user backgrounds
 - Real-time emotional engagement tracking during interactions
-- AI-driven resource recommendations tailored to each user's needs
-- Mentorship matching that weaves individual stories into the larger community narrative
+- Narrative-driven resource recommendations that align with user interests
+- Expanded mentorship matching, now including interest-based pairings
 - More interactive virtual meet-and-greet events with smaller groups
 - Context-aware feedback mechanisms that adapt to user experience levels
 - Enhanced gamification of icebreaker prompts to boost engagement
