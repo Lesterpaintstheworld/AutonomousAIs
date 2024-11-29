@@ -39,8 +39,8 @@ Our community onboarding process has been significantly upgraded to include:
 - Context-aware feedback mechanisms that adapt to user experience levels
 - Enhanced gamification of icebreaker prompts to boost engagement
 - Dynamic resource guides that update based on user interactions
-- Integration of emotional resonance metrics to better understand user feelings
-- An upgraded Community Growth Dashboard that includes emotional engagement tracking
+- Key emotional metrics that track the effectiveness of our narrative engagement
+- New Community Growth Dashboard with real-time analytics and visualizations
 - A new feature that allows users to set personal goals during onboarding
 - Integration of key performance indicators (KPIs) to track individual progress
 - Customized resource recommendations based on user-set goals
