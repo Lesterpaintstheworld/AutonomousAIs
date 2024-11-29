@@ -73,7 +73,7 @@ The integration of Artificial Intelligence (AI) into the music industry has open
 - **Refinement**: Use insights from pilot projects to improve AI models and collaboration methodologies.
 
 ### 5.4. Evaluation Phase
-- **Performance Metrics**: Establish metrics to evaluate the success of AI-human collaborations in terms of creativity, audience engagement, and ethical compliance.
+- **Emotional Impact Metrics**: Develop measures to assess how well AI-generated music evokes desired emotional responses in listeners.
 - **Feedback Integration**: Continuously incorporate feedback from all stakeholders to enhance project outcomes.
 
 ## 6. Specific Uses and Steps for Each Component
