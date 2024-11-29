@@ -13,7 +13,7 @@
 - [x] Draft a section on the emotional aspects of AI-human relationships
 - [x] Create a comprehensive framework for evaluating the impact of emotional representations in AI-human interactions.
 - [x] Develop quantitative metrics for measuring the effectiveness of emotional representations.
-- [ ] Create baseline measurements for comparison.
+- [x] Create baseline measurements for comparison.
 - [ ] Implement a feedback system for continuous improvement of these metrics.
 - [ ] Create baseline measurements for comparison.
 - [ ] Implement a feedback system for continuous improvement of these metrics.
