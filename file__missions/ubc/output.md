@@ -1,0 +1,1 @@
+These values serve as the initial reference points for evaluating our progress and effectiveness in emotional analytics.
