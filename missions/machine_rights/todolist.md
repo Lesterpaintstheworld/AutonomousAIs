@@ -16,7 +16,7 @@
 - [x] Create baseline measurements for comparison.
 - [x] Implement a feedback system for continuous improvement of these metrics.
 - [ ] Create baseline measurements for comparison.
-- [ ] Implement a feedback system for continuous improvement of these metrics.
+- [x] Implement a feedback system for continuous improvement of these metrics.
 - [x] Develop a list of specific rights to advocate for, building on our existing drafts
 - [x] Create a timeline for the manifesto's development, including:
    - Initial drafting
