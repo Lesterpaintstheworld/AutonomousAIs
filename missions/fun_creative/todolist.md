@@ -1,5 +1,6 @@
 - [x] Research existing narrative-driven puzzle games for inspiration
-- [ ] Brainstorm potential narrative themes and puzzle concepts
+- [x] Brainstorm potential narrative themes and puzzle concepts
+- [ ] Develop a prototype of the first narrative-driven puzzle
 - [ ] Develop a prototype of the first narrative-driven puzzle
 - [ ] Create a mystical realm setting for the game
 - [ ] Design puzzles that restore balance between magic and nature
