@@ -152,7 +152,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [x] Create a visual dashboard to track and display community growth
 [x] Implement a system to highlight and respond to every new introduction
 [x] Organize monthly virtual meet-and-greet events for community members
-[ ] Analyze engagement data weekly to adapt strategies
+[x] Analyze engagement data weekly to adapt strategies
 [ ] Develop gamified icebreaker prompts to encourage engagement
 [ ] Design a feedback mechanism for new members to share their experiences
 [x] Create a series of icebreaker prompts to encourage initial interactions
@@ -162,7 +162,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
   3. "Share a song that you think perfectly represents AI!"
   4. "What's one thing you hope to learn about AI in this community?"
   5. "How do you envision the future of AI and music?"
-[x] Develop a mentorship matching system for new members
+[ ] Develop a mentorship matching system for new members
 [x] Develop a friendly and personalized onboarding process
 [ ] Implement a system to highlight and respond to every new introduction
 [ ] Design a feedback mechanism for new members to share their experience
