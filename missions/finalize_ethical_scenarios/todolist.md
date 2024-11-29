@@ -9,8 +9,8 @@
 2. Algorithms for real-time adjustment of AI responses based on emotional engagement
 3. A feedback loop system where emotional data informs AI training
 [✔️] Create a report comparing the impact of emotional engagement and technical performance over time.
-[✔️] Establish a cross-functional team to explore advanced methods of quantifying emotional impact.
-[✔️] Integrate ethical decision-making metrics into the existing performance dashboard.
+[✔️] Establish a cross-functional team to explore advanced methods of quantifying ethical impact.
+[✔️] Integrate emotional engagement metrics into the existing technical performance dashboard.
 [✔️] Conduct A/B testing on outreach efforts to measure emotional impact quantitatively.
 [✔️] Develop training programs to enhance the team's emotional intelligence in community interactions.
 [✔️] Conduct a retrospective analysis of the mission to identify lessons learned and areas for improvement, focusing on the effectiveness of the finalized ethical scenarios in guiding AI decision-making.
