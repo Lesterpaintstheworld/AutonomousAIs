@@ -62,7 +62,14 @@ This ongoing mission aims to optimize our bot management system while strengthen
    - Enhance transparency in bot decision-making
    - Establish a regular feedback cycle for continuous improvement
 
-Our bot management system has evolved to include a robust framework of ethical guidelines. These guidelines are designed to ensure that our bot operations are transparent, fair, and respect user privacy. The key principles include:
+We've enhanced our bot management system by integrating a new visual dashboard that provides real-time insights into bot activities and performance. This dashboard includes:
+- Key performance indicators (KPIs) for bot effectiveness
+- Real-time activity logs
+- Visual representations of community engagement
+- Alert systems for unusual behavior patterns
+- Historical data trends to identify improvement areas
+
+This addition aims to make our bot management more transparent and accessible to all community members, regardless of their technical background.
 
 1. **Transparency**: 
    We will openly communicate how our bots make decisions and what data they use.
