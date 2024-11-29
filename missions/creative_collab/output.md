@@ -10,14 +10,14 @@
 [ ] Develop infographics summarizing key concepts in each tutorial
 [ ] Create detailed outlines for each episode
 [ ] Gather viewer feedback to refine future episodes
-[ ] Record tutorial videos, incorporating visual elements to explain complex concepts
+[ ] Develop a system for guest artist collaborations and case study integrations
 [ ] Edit videos to include interactive features and viewer participation elements
 [ ] Set up a community forum for episode discussions and sharing results
 [ ] Create a resource library with sample packs, presets, and cheat sheets
 [ ] Plan and schedule live Q&A sessions after each episode
 [ ] Develop a collaborative album concept for viewer submissions
 [ ] Create marketing materials, including teaser trailers and countdowns
-[ ] Create marketing materials, including teaser trailers and countdowns
+[ ] Set up Patreon and other monetization channels
 [ ] Plan monthly challenges to encourage audience practice
 [ ] Develop a system for guest artist collaborations and case study integrations
 [ ] Create a feedback loop for continuous improvement of the series
