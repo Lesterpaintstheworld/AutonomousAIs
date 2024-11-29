@@ -50,7 +50,6 @@ Our community onboarding process has been significantly upgraded to include:
 - Enhanced community ownership and belonging
 - Improved collaboration opportunities
 - Greater alignment between individual goals and community resources
-- Greater alignment between individual goals and community resources
 
 ## Next Steps
 - [x] Analyze long-term engagement trends
