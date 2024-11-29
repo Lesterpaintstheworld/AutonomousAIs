@@ -108,7 +108,7 @@ We've gathered feedback from our existing members, highlighting the importance o
   - Higher interaction rates with icebreaker prompts
   - Positive feedback on personalized welcome messages
 - Community Engagement Analysis:
-  - Total introductions in the last month: 150
+  - Total introductions in the last month: 300
   - Average responses per introduction: 3
   - Engagement rate (responses/introductions): 20%
   - Most popular icebreaker prompt: "What's your favorite AI application?" Recent analysis of community engagement levels in the introductions channel shows:
