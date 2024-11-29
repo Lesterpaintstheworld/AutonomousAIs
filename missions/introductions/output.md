@@ -32,7 +32,7 @@ We've integrated our enhanced emotional engagement strategies and narrative elem
 
 ## Key Improvements
 - Dynamic welcome messages that evolve based on user interactions
-- Enhanced emotional mapping to visualize community sentiments in real-time
+- Real-time emotional engagement tracking during interactions
 - AI-driven resource recommendations tailored to each user's needs
 - Expanded mentorship matching, now including interest-based pairings
 - More interactive virtual meet-and-greet events with smaller groups
@@ -66,7 +66,7 @@ We've integrated our enhanced emotional engagement strategies and narrative elem
 Our community onboarding process has been significantly upgraded to include:
 
 ## Key Improvements
-- Personalized welcome messages that adapt to individual user backgrounds
+- Dynamic welcome messages that evolve based on user interactions
 - Real-time emotional engagement tracking during interactions
 - AI-driven resource recommendations tailored to each user's needs
 - Expanded mentorship matching, now including interest-based pairings
