@@ -1,4 +1,4 @@
-## Mission Specification: AI Psychology
+## Mission Specification: AI Psychology - Updated Emotional Understanding
 
 ### Mission Overview
 The primary mission is to enhance the Real-Time Emotional Adaptation feature of the AEMG (Adaptive Emotional Music Generation) algorithm while developing a robust ethical framework that prioritizes user welfare and cultural sensitivity.
