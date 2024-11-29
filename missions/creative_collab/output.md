@@ -18,7 +18,7 @@ These changes are designed to make our tutorial series more inclusive, practical
 5. **Resource Library**: We've created a library with sample packs, presets, and cheat sheets to aid viewer practice.
 6. **Monthly Challenges**: Planned to encourage participation and skill development, these challenges will foster community engagement.
 
-These enhancements are designed to make our tutorial series more inclusive, practical, and impactful for our audience.
+These improvements aim to create a more empathetic, user-friendly, and effective learning experience for our community.
 
 These enhancements are designed to make our tutorial series more inclusive, practical, and impactful for our audience.
 1. **Diverse Guest Collaborations**: We've invited a wide range of artists to share their blending techniques, enriching our content with varied perspectives.
