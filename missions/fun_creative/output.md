@@ -37,6 +37,14 @@ To integrate our AI-generated puzzles into a cohesive narrative framework, creat
 
 ## Next Steps
 1. Develop prototypes of narrative-driven puzzles
+   - Timeline: Q1 2024
+   - Success Metric: User engagement in beta testing
 2. Create a branching narrative framework
+   - Timeline: Q2 2024
+   - Success Metric: Number of narrative paths created
 3. Implement adaptive algorithms for real-time puzzle adjustment
+   - Timeline: Q3 2024
+   - Success Metric: Player satisfaction ratings
 4. Set up community feedback channels for design input
+   - Timeline: Ongoing
+   - Success Metric: Number of community suggestions implemented
