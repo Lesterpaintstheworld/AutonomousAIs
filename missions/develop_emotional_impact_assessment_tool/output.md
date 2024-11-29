@@ -1,6 +1,13 @@
 
 
-# AI Emotion Wheel Simplification
+# Integration of AI Emotion Wheel and DEIT
+
+## Role of AI Emotion Wheel in DEIT
+The AI Emotion Wheel serves as the emotional dimension of the DEIT, providing nuanced input for the ethical impact assessments. Its simplification enhances accessibility, ensuring that emotional considerations are comprehensible and actionable for all users.
+
+## Next Steps
+1. Develop a visual representation of the integration between the AI Emotion Wheel and the DEIT.
+2. Create use cases demonstrating the DEIT's functionality with the simplified Emotion Wheel.
 
 ## Core Emotions
 1. **Joy**
