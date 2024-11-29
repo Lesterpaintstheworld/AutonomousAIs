@@ -43,7 +43,7 @@ Our Emotional Echoes project has made remarkable progress in bridging the emotio
 - Establish a detailed timeline with key milestones
 - Include specific deadlines for each phase of the project
 - Set milestone markers for key achievements
-- Define specific success metrics for each objective
+- Define specific success metrics for each objective, including our new emotional impact metrics
 
 1. Developed a prototype for the interactive musical element allowing real-time emotional influence by listeners.
 2. Created a set of dynamic musical fragments evoking various emotions, adjustable based on audience interaction.
