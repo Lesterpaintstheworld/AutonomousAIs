@@ -7,7 +7,7 @@
 [ ] Establish a feedback mechanism for continuous improvement
 [ ] Review regulatory compliance for digital content
 [ ] Draft ethical guidelines for using the simulator in research
-[ ] Create informed consent documentation for simulator users
+[ ] Draft informed consent documentation for simulator users, covering potential risks and benefits
 [ ] Implement measures to prevent misuse of the simulator
 [ ] Ensure accuracy and authenticity in presented dilemmas
 [ ] Design educational debriefing sessions for users
