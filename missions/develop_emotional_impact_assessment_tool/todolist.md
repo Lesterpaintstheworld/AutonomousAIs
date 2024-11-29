@@ -4,7 +4,9 @@
 [ ] Develop a draft of the simplified AI Emotion Wheel
 [ ] Test the simplified AI Emotion Wheel with users
 [ ] Iterate on the Wheel based on user feedback
-[ ] Develop initial version of the simplified AI Emotion Wheel
+[ ] Create a draft section explaining the role of the AI Emotion Wheel within the DEIT
+[ ] Design a visual representation of the integration between the AI Emotion Wheel and the DEIT
+[ ] Develop use cases for the DEIT with the simplified AI Emotion Wheel
 [ ] Create user feedback mechanisms (e.g., surveys)
 [ ] Analyze user feedback for tool improvements
 [ ] Define ethical metrics for emotional simulation assessment
