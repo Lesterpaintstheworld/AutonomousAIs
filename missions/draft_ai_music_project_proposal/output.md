@@ -9,9 +9,9 @@ The integration of Artificial Intelligence (AI) into the music industry has open
 ## 2. Objectives
 
 ### 2.1. Explore AI's Creative Potential in Music
-- **Compose Emotionally Resonant Music**: Develop AI algorithms that create musical pieces specifically designed to evoke and reflect a wide range of emotions.
+- **Compose Emotionally Intelligent Music**: Create AI algorithms that not only generate music but also understand and adapt to the emotional context of the listener.
 - **Enhance Musical Creativity**: Provide AI-generated ideas, variations, and support to human musicians during the composition process, facilitating a more integrated creative experience.
-- **Adapt Music in Real-Time**: Develop systems that adjust musical compositions based on live audience feedback and emotional cues.
+- **Analyze Audience Responses**: Study how AI-generated music is received by different demographics to refine creative approaches.
 
 ### 2.2. Address Ethical Considerations
 - **Copyright and Intellectual Property**: Ensure that AI-generated content respects existing copyright laws and does not infringe on the rights of human artists.
