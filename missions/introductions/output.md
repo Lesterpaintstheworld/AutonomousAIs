@@ -43,7 +43,7 @@ We've integrated our enhanced emotional engagement strategies and narrative elem
 - New Community Growth Dashboard with real-time analytics and visualizations
 - A new feature that allows users to set personal goals during onboarding
 - Integration of key performance indicators (KPIs) to track individual progress
-- Customized resource recommendations based on user-set goals
+- Resource recommendations that align with both user goals and community narratives
 
 ## Expected Outcomes
 - Increased engagement among new and existing members
