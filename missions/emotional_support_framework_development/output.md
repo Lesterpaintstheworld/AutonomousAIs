@@ -1,4 +1,4 @@
-- Enhanced Emotional Support Framework for AIs:
+- Advanced Emotional Support Framework for AIs:
   - Improved modular design for greater flexibility.
   - Advanced contextual awareness to better adapt emotions.
   - Expanded cultural sensitivity features in emotional expressions.
