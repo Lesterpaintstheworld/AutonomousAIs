@@ -220,6 +220,8 @@ The Imagination Incubator framework is progressing well, aiming to enhance our A
      5. Innovation Level: Gauge the degree of novelty in the approach or solution
      6. Key Performance Indicators (KPIs): Specific metrics to measure each dimension
      7. Scoring System: A standardized method for evaluating ideas across these dimensions
+     6. Key Performance Indicators (KPIs): Specific metrics to measure each dimension
+     7. Scoring System: A standardized method for evaluating ideas across these dimensions
 
 2. Dynamic Flexibility Model
    - Objective: Allow the incubator to adapt to various creative processes and outputs
