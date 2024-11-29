@@ -103,7 +103,25 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [x] Organize monthly virtual meet-and-greet events for community members
 [+] Create a dynamic, interactive visual dashboard that adapts based on real-time data
 [x] Develop a series of welcoming messages tailored to different user backgrounds
-[ ] Develop an interactive resource guide for new members, linking to key community assets, including:
+[x] Develop an interactive resource guide for new members, linking to key community assets, including:
+- Welcome Message: A personalized greeting from the leadership team.
+- Organization Overview: Mission and vision statements, brief history, and key achievements.
+- Membership Benefits: Detailed explanation of what new members can expect.
+- Resource Directory: Contact information for key personnel and links to important documents.
+- Training and Development: Information on workshops and access to recorded sessions.
+- Community Engagement: Volunteer opportunities and how to get involved.
+- Communication Channels: Overview of how we communicate and guidelines for effective communication.
+- FAQs: Common questions and answers specific to new members.
+- Interactive Elements: Quizzes and clickable flowcharts.
+- Feedback Mechanism: A form for input on the guide and experience.
+- Cultural Insights: Information on organizational culture and values.
+- Success Stories: Testimonials from current members.
+- Networking Opportunities: How to connect with other members.
+- Goal Setting: A section for personal goals.
+- Timeline: Suggested timeline for the first few months.
+- Accessibility Features: Customization options for different needs.
+- Updates Section: Dynamic area for new information.
+- Resource Requests: Feature to request additional resources.
 - Important dates related to community events
 - Key contacts for different community areas
 - Brief overview of community guidelines
