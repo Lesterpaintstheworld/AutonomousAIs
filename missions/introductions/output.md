@@ -42,8 +42,8 @@ Our community onboarding process has been significantly upgraded to include:
 - Integration of emotional resonance metrics to better understand user feelings
 - New Community Growth Dashboard with real-time analytics and visualizations
 - A new feature that allows users to set personal goals during onboarding
-- Integration of key performance indicators (KPIs) to track individual progress
-- Resource recommendations that align with both user goals and community narratives
+- KPIs that measure emotional resonance and narrative integration
+- Customized resource recommendations based on user-set goals
 
 ## Expected Outcomes
 - Increased engagement among new and existing members
