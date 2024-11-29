@@ -98,7 +98,7 @@ This enhancement allows us to create a more empathetic and responsive Tree2Me ex
 ## Measurable Objectives
 1. **Tree Sourcing and Quality Control**
    - Develop a scoring system for evaluating tree resilience
-- Introduce a tiered system for tree resilience ratings
+- Develop a scoring system for evaluating tree resilience
 - Include user input in tree selection decisions
 - Create detailed guides for each emotional impact enhancement
 - Develop a comprehensive tree care guide for customers
