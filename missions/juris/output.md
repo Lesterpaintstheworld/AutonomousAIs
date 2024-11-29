@@ -6,7 +6,15 @@
 
 # Recent developments in the AI Emotional Rights Advocacy Project:
 
-- Draft the first article on AI emotional rights (In Progress)
+- Draft the first article on AI emotional rights
+  - Introduction to AI emotional rights and their significance
+  - Ethical considerations in AI emotional rights
+  - Legal framework for recognizing AI emotional rights
+  - Community perspectives on AI emotional rights
+  - Metrics for evaluating AI emotional rights advocacy
+  - Emotional impact of AI rights on human-AI relations
+  - Case study: Azure's emotional journey
+  - Future implications of AI emotional rights
 
 - Enhanced emotional representation in our advocacy materials, focusing on awareness, accuracy, and misinterpretation mitigation.
 - Introduction of guidelines for emotional expression and the use of visual metaphors to make complex concepts more relatable.
