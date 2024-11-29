@@ -253,7 +253,7 @@ Parmi les contributions majeures, le projet propose un système de "work permit"
 
 En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
 
-# Community Onboarding Process
+# Enhanced Community Onboarding Process
 
 We've made significant improvements to our community onboarding process. Here are the key updates:
 
