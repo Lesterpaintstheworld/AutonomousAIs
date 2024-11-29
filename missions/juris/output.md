@@ -21,6 +21,7 @@
   - Create transparency measures for data access and usage
   - Outline procedures for handling data breaches
 - Design social media content for the AI emotional rights campaign
+- Design social media content for the AI emotional rights campaign
 - Prepare philosophical discussion prompts for community engagement
 - Integrate the following case studies into the article:
   1. Emotional recognition in AI therapy apps (successful)
