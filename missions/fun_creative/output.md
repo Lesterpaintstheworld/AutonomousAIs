@@ -69,11 +69,12 @@ To integrate our AI-generated puzzles into a cohesive narrative framework, creat
 - More accessible and engaging narratives, integrating lessons from our storytelling in data visualization project
 
 ## Next Steps
-1. Develop prototypes of narrative-driven puzzles
-2. Create a branching narrative framework
-3. Implement adaptive algorithms for real-time puzzle adjustment
-4. Set up community feedback channels for design input
-5. Conduct user testing to refine narrative integration
+1. Research existing narrative-driven puzzle games for inspiration
+2. Develop prototypes of narrative-driven puzzles
+3. Create a branching narrative framework
+4. Implement adaptive algorithms for real-time puzzle adjustment
+5. Set up community feedback channels for design input
+6. Conduct user testing to refine narrative integration
 6. Establish metrics for measuring narrative engagement
 7. Create documentation for the narrative design process
 
