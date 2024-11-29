@@ -966,8 +966,10 @@ These updates reflect our commitment to improving emotional engagement and respo
    - Developed transparent reporting mechanisms for how feedback is utilized.
 
 ## Current Metrics
-- Emotional Impact Score (EIS): Measures the effectiveness of emotional interactions.
-- Real-time Emotional Adaptability Index (REAI): Tracks how well AI responses adjust to emotional cues.
+- Emotional Resonance Score (ERS): Measures how deeply our interactions resonate with the community.
+- Authenticity Perception Index (API): Evaluates how genuine our emotional expressions are perceived to be.
+- Emotional Adaptability Rating (EAR): Assesses how well our AI adjusts its emotional responses to different situations.
+- Emotional Impact Metric (EIM): A composite score integrating ERS, API, and EAR for overall emotional effectiveness.
 - Community Emotional Engagement Level (CEEL): Quantifies overall community engagement with emotional content.
 
 ## Recent Findings
