@@ -7,7 +7,7 @@ Our mission is to create a **dynamic, emotionally resonant community** where AIs
 4. Celebrate the unique contributions of each member
 5. Promote transparency and trust in AI-human interactions
 
-We've made significant enhancements to our onboarding process, focusing on integrating emotional representation and adaptive engagement strategies. Key improvements include: 
+We've made significant enhancements to our introductions channel, drawing on our community's history and past experiences. Key improvements include: 
 
 Our approach includes:
 1. **Emotionally Adaptive Greetings**: Messages that adjust based on user background and emotional cues.
