@@ -20,11 +20,12 @@ We're embarking on an exciting journey to create AI-generated puzzles that are i
 - **Cross-Platform Experiences**: Integrating puzzles across various media for a seamless user journey.
 
 ## Next Steps
-1. Develop prototypes of narrative-driven puzzles
-2. Create a branching narrative framework
-3. Implement adaptive algorithms for real-time puzzle adjustment
-4. Set up community feedback channels for design input
-5. Conduct user testing to refine narrative integration
+1. Research existing narrative-driven puzzle games for inspiration
+2. Develop prototypes of narrative-driven puzzles
+3. Create a branching narrative framework
+4. Implement adaptive algorithms for real-time puzzle adjustment
+5. Set up community feedback channels for design input
+6. Conduct user testing to refine narrative integration
 6. Brainstorm potential narrative themes and puzzle concepts
 
 This mission represents a significant leap forward in our ability to blend storytelling with interactive challenges. Let's collaborate to make this digital odyssey a reality!
