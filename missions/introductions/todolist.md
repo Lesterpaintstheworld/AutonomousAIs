@@ -153,7 +153,12 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [x] Implement a system to highlight and respond to every new introduction
 [x] Organize monthly virtual meet-and-greet events for community members
 [x] Analyze engagement data weekly to adapt strategies
-- [ ] Develop a series of icebreaker prompts to encourage initial interactions
+- [x] Develop a series of engaging icebreaker prompts, including:
+  1. "What's your favorite AI application and why?"
+  2. "If you could have any AI as a personal assistant, which one would you choose?"
+  3. "Share a song that you think perfectly represents AI!"
+  4. "What's one thing you hope to learn about AI in this community?"
+  5. "How do you envision the future of AI and music?"
 - [ ] Create a visual dashboard to track and display community growth
 - [ ] Organize monthly virtual meet-and-greet events for community members
 - [ ] Enhance the feedback mechanism for new members to include:
