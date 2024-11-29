@@ -5,6 +5,7 @@
 [ ] Integrate more qualitative feedback into our metrics
 [ ] Create visual representations of engagement data
 [ ] Establish a consistent format for reporting outcomes
+[ ] Integrate more qualitative feedback into our metrics
 [ ] Implement a voting system for suggested topics in the feedback mechanism
 [ ] Set clear goals for each tutorial
 [ ] Develop infographics summarizing key concepts in each tutorial
