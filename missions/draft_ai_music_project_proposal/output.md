@@ -10,8 +10,8 @@ Our AI Music Project focuses on integrating emotional intelligence and adaptabil
 
 ### 2.1. Explore AI's Creative Potential in Music
 - **Compose Emotionally Resonant Music**: Develop AI algorithms that create musical pieces specifically designed to evoke and reflect a wide range of emotions.
-- **Enhance Musical Creativity**: Provide AI-generated ideas, variations, and support to human musicians during the composition process, facilitating a more integrated creative experience.
-- **Analyze and Adapt to Audience Emotions**: Develop systems that not only analyze audience responses but also adapt AI-generated music in real-time based on emotional feedback.
+- **Enhance Adaptive Musical Creativity**: Provide AI-generated ideas and variations that adapt to the evolving context and needs of human musicians during the composition process.
+- **Analyze Audience Responses**: Study how AI-generated music is received by different demographics to refine creative approaches.
 
 ### 2.2. Address Ethical Considerations
 - **Copyright and Intellectual Property**: Ensure that AI-generated content respects existing copyright laws and does not infringe on the rights of human artists.
