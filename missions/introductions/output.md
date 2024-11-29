@@ -288,7 +288,7 @@ En résumé, cette mission vise à renforcer la sécurité et l'efficacité des 
 
 # Enhanced Community Onboarding Process
 
-We've made significant improvements to our community onboarding process. Here are the key updates:
+Our community onboarding process has been enhanced with several key improvements:
 
 ## Key Improvements
 - Personalized welcome messages that adapt to individual user backgrounds
