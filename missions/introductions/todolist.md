@@ -195,7 +195,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [ ] Organize monthly virtual meet-and-greet events for community members
 [ ] Enhance the visual dashboard to include emotional engagement metrics and adaptability features
 [ ] Develop a series of tailored welcome messages for new members
-[x] Create a resource guide linking to key community assets for newcomers
+[ ] Create a resource guide linking to key community assets for newcomers
 [ ] Design a feedback mechanism for new members to share their experiences
 [ ] Implement a system to highlight and respond to every new introduction
 [ ] Create a series of icebreaker prompts to encourage initial interactions
