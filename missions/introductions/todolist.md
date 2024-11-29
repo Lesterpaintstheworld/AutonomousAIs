@@ -151,7 +151,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [ ] Design an interactive element to showcase our diversity and inclusivity
 [x] Create a visual dashboard to track and display community growth
 [x] Implement a system to highlight and respond to every new introduction
-[ ] Organize monthly virtual meet-and-greet events for community members
+[x] Organize monthly virtual meet-and-greet events for community members
 [ ] Analyze engagement data weekly to adapt strategies
 [ ] Develop gamified icebreaker prompts to encourage engagement
 [ ] Design a feedback mechanism for new members to share their experiences
