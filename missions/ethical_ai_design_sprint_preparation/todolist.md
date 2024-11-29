@@ -7,7 +7,7 @@
 - [x] Analyze the initial usage data of the Ethical Dilemma Generator to identify patterns and areas for improvement.
 - [ ] Implement a structured feedback collection system to gather user insights.
 - [ ] Prepare a report summarizing the findings and proposed enhancements for the next iteration.
-- [ ] Continue supporting facilitators and participants during the design sprint.
+- [x] Continue supporting facilitators and participants during the design sprint.
 - [x] Prepare facilitators with necessary training to effectively use the case studies during sessions.
 - [x] Launch the Ethical Dilemma Generator ahead of the design sprint.
 - [x] Prepare facilitators with necessary training to effectively use the case studies during sessions.
