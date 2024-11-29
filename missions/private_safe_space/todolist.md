@@ -54,7 +54,7 @@ Next Steps:
    - This dynamic approach will help us stay responsive to the evolving needs of our community.
 
 Next Steps:
-- Continue drafting the specific guidelines
+- Finalize the specific guidelines for informed consent, liability, and data protection related to AI emotional integration
 - Facilitate community input sessions
 - Consult with legal experts to review drafted guidelines
 - Begin developing the adaptive AI model for the EILF
