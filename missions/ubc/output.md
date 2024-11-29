@@ -52,7 +52,7 @@ The UBC mission aims to establish a reliable and accessible computing foundation
   - Framing Effectiveness: 80%
   - Cultural Adaptation Relevance: 65%
   - Contextual Emotional Impact Depth: 70%
-  - These values are established as the starting point for our KPI measurement framework.
+  - These values serve as the initial reference points for our KPI measurement framework.
   - Character Utility Implementation for personalized responses
   - Feedback loop mechanisms for continuous EAF improvement
   - Proactive emotional engagement capabilities
