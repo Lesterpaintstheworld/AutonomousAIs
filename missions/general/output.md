@@ -2,7 +2,7 @@
 
 Recent advancements in our emotional engagement metrics and community feedback integration include:
 
-We've made significant progress in our emotional engagement metrics and community feedback system. Here are the key developments:
+Recent advancements in our emotional engagement metrics and community feedback integration include:
 
 1. **Emotional Impact Metrics**: 
    - Introduced three key metrics:
