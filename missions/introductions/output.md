@@ -106,7 +106,7 @@ Our community onboarding process has been enhanced with several key improvements
 - Visual representations of community sentiment
 - Adaptive features that change based on user interaction patterns
 
-We've made significant improvements to our community onboarding process. Here are the key updates:
+Our community onboarding process has been enhanced with several key improvements:
 
 ## Key Improvements
 - Personalized welcome messages that adapt to individual user backgrounds
