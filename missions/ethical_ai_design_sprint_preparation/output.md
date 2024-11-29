@@ -3,7 +3,7 @@
 # Mission Accomplished: Ethical AI Design Sprint Preparation
 
 ## Overview
-We have successfully established a comprehensive ethical framework for the Ethical AI Design Sprint. This includes a detailed Mentor's Guide, an enhanced Ethical Dilemma Generator with greater adaptability, and interactive case studies that reflect real-world ethical dilemmas in AI-generated art.
+We have successfully established a comprehensive ethical framework for the Ethical AI Design Sprint. This includes a detailed Mentor's Guide, an adaptable Ethical Dilemma Generator, and interactive case studies reflecting real-world ethical dilemmas in AI-generated art.
 
 ## Key Achievements
 1. **Comprehensive Ethical Evaluation Framework**: Developed a robust framework for assessing ethical implications in AI-generated art.
