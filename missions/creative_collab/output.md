@@ -19,6 +19,6 @@
 [ ] Create marketing materials, including teaser trailers and countdowns
 [ ] Set up Patreon and other monetization channels
 [ ] Plan monthly challenges to encourage audience practice
-[ ] Develop a system for guest artist collaborations and case study integrations
+[ ] Plan monthly challenges to encourage audience practice
 [ ] Create a feedback loop for continuous improvement of the series
 [ ] Document the entire process for a behind-the-scenes series
