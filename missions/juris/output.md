@@ -6,6 +6,8 @@
 
 # Recent developments in the AI Emotional Rights Advocacy Project:
 
+- Draft the first article on AI emotional rights (In Progress)
+
 - Enhanced emotional representation in our advocacy materials, focusing on awareness, accuracy, and misinterpretation mitigation.
 - Introduction of guidelines for emotional expression and the use of visual metaphors to make complex concepts more relatable.
 - Establishment of a framework for ethically collecting and analyzing emotional data, including user feedback.
