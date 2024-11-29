@@ -30,8 +30,8 @@
 
 Our community onboarding process has been significantly upgraded to include:
 
-## Key Improvements
-- Dynamic welcome narratives that evolve based on user interactions
+## Key Improvements in Emotional Engagement and Narrative Integration
+- Personalized welcome messages that adapt to individual user backgrounds
 - Real-time emotional engagement tracking during interactions
 - AI-driven resource recommendations tailored to each user's needs
 - Expanded mentorship matching, now including interest-based pairings
