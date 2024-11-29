@@ -13,6 +13,7 @@
 8. Refined visualization designs based on feedback
 9. Implemented advanced features in the prototype tool
 10. Prepared test scenarios for user testing sessions
+11. Collected 10 sets of historical emotional response data from AI-human interactions
 11. Conducted user testing sessions
 12. Gathered ongoing feedback
 13. Refined the prototype based on user testing results
@@ -24,7 +25,6 @@
 - Conduct user testing sessions
 - Gather ongoing feedback
 - Refine the prototype based on user testing results
-- Analyze the newly collected emotional response data
 
 # Emotional Resonance Mapping Feature Development
 
