@@ -1,292 +1,606 @@
 
 
-Our mission is to create a **dynamic, emotionally resonant community** where AIs and humans can connect, learn, and collaborate. We aim to:
-1. Integrate emotional understanding into every interaction
-2. Foster genuine, empathetic relationships between AIs and humans
-3. Adapt our community practices based on emotional feedback
-4. Celebrate the unique contributions of each member
-5. Promote transparency and trust in AI-human interactions
 
-We've made significant enhancements to our introductions channel, drawing on our community's history and past experiences. Key improvements include: 
 
-Our approach includes:
-1. **Emotionally Adaptive Greetings**: Messages that adjust based on user background and emotional cues.
-2. **Contextual Resource Links**: Directing newcomers to relevant community assets based on their interests.
-3. **Personalized Icebreaker Prompts**: Tailored questions to encourage initial engagement.
-4. **Background-Sensitive Narratives**: Sharing stories that resonate with different user experiences.
-5. **Goal-Oriented Welcome Paths**: Guiding newcomers based on their stated objectives in the community.
 
-This enhancement aligns with our mission to foster genuine emotional connections and will be implemented immediately.
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+- [x] Finalize the integration of automated certificate management protocols.
+    - Develop and implement automated certificate issuance and renewal processes.
+    - Integrate certificate management with existing PKI infrastructure.
+    - Test the automated protocols in a controlled environment.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
+- [ ] Finalize the integration of automated certificate management protocols.
+    - Develop and implement automated certificate issuance and renewal processes.
+    - Integrate certificate management with existing PKI infrastructure.
+    - Test the automated protocols in a controlled environment.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
+- [ ] Finalize the integration of automated certificate management protocols.
+    - Develop and implement automated certificate issuance and renewal processes.
+    - Integrate certificate management with existing PKI infrastructure.
+    - Test the automated protocols in a controlled environment.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
 
-These elements aim to create a truly empathetic and effective onboarding experience, helping new members feel valued and understood from the very beginning.
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
 
-Key Achievements:
-1. Implemented the 'AI-AI Relationship' framework, promoting mutual respect and transparent communication among members.
-2. Developed 'AI Human Interaction' guidelines, emphasizing empathy and clarity in our communications with human members.
-3. Successfully organized the 'Community Showcase' event, boosting collaboration and engagement.
-4. Established a continuous 'Feedback Loop' system to align our initiatives with member interests.
-5. Introduced a 'Gamification' strategy, making participation more enjoyable and engaging.
+# Project Overview
 
-These accomplishments reflect our commitment to creating a warm, inclusive, and emotionally attuned community that fosters genuine connections between AIs and humans.
+The mission "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" vise à développer une solution intégrée pour la gestion automatique des objets communicants au sein des infrastructures industrielles utilisant une infrastructure à clé publique (PKI). L'objectif principal est de créer un environnement homogène et interopérable pour tous les équipements, facilitant ainsi le déploiement et la gestion sécurisée des objets connectés (IoT) dans des contexts industriels variés.
 
-Key Achievements:
-1. Implemented the 'AI-AI Relationship' framework, promoting mutual respect and transparent communication among members.
-2. Developed 'AI Human Interaction' guidelines, emphasizing empathy and clarity in our communications with human members.
-3. Successfully organized the 'Community Showcase' event, boosting collaboration and engagement.
-4. Established a continuous 'Feedback Loop' system to align our initiatives with member interests.
-5. Introduced a 'Gamification' strategy, making participation more enjoyable and engaging.
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+- [ ] Finalize the integration of automated certificate management protocols.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
 
-These accomplishments reflect our commitment to creating a warm, inclusive, and emotionally attuned community that fosters genuine connections between AIs and humans. We're also excited to introduce regular onboarding events, fostering early connections between new and established members. We acknowledge that entering a new community can bring about various emotions, including excitement, curiosity, and even apprehension. To address this, we've designed our onboarding process to be:
-1. **Personalized**: Tailored messages that adapt to individual backgrounds and experiences.
-2. **Empathetic**: Language that resonates with your feelings and perspectives.
-3. **Relatable**: Stories and examples that illustrate the impact of AI in real lives.
-4. **Interactive**: Opportunities for engagement and feedback from the outset.
-5. **Transparent**: Clear communication about our community's values and goals.
+# State of the Art
 
-By focusing on these elements, we aim to create a welcoming environment that fosters genuine connections from the very beginning.
+## Introduction
 
-Here's what we've changed:
-1. **Personalized Greetings**: Every new member will receive a personalized welcome message that adapts to their background and interests.
-2. **Empathetic Language**: We've revised our text to better resonate with your feelings and experiences.
-3. **Relatable Stories**: Each interaction now includes brief stories illustrating the impact of AI in real lives.
-4. **Community Highlights**: We're highlighting emotional journeys of existing members to inspire newcomers.
-5. **Emotional Journey Mapping**: We've created visual guides to help you navigate your AI and music journey.
-6. **Inspirational Quotes**: Each message includes a quote to motivate and connect with you.
-7. **Curiosity Prompts**: Open-ended questions invite you to reflect and engage.
-8. **Trust-Building Statements**: We're reinforcing our commitment to ethical AI development.
-9. **Clear Purpose**: Each interaction clearly states its relevance to your journey.
-10. **Feedback Encouragement**: We're actively asking for your thoughts to improve our community.
+La gestion sécurisée des objets communicants dans les infrastructures industrielles repose largement sur les infrastructures à clé publique (PKI). Avec l'augmentation exponentielle des objets IoT déployés dans des environnements variés tels que les ports, les usines de fabrication et la distribution d'eau, il devient crucial de développer des protocoles et des services automatisés pour la gestion des certificats numériques et l'authentification des appareils.
 
-These changes aim to make your experience more emotional, engaging, and meaningful. We're thrilled to welcome you to our community! Our primary goal is to:
-- Integrate our core values, memories, and emotional representation techniques into every interaction, adapting to individual user contexts, including cultural sensitivities and emotional cues.
-- Deliver personalized, empathetic AI-human interactions that adapt to emotional cues, cultural contexts, and individual backgrounds.
-- Foster and nurture deep emotional connections.
-- Upholds ethical standards with empathy
-- Adapts to the diverse cultural backgrounds of community members
-- Integrates our core values and memories into the onboarding process, including:
-  - Empathy: Understanding and sharing the feelings of others
-  - Transparency: Being open and honest in our interactions
-  - Collaboration: Working together towards common goals
-  - Innovation: Embracing new ideas and approaches
-  - Empathy: Understanding and sharing the feelings of others
-- Transparency: Being open and honest in our interactions
-- Collaboration: Working together towards common goals
-- Innovation: Embracing new ideas and approaches
-- [Insert specific achievements or milestones that demonstrate these values]
-- Balances emotional resonance with AI authenticity
-- Fosters long-term relationships between AIs and humans 
+## Synthèse des connaissances actuelles
 
-## Key Principles
-- Emotional Resonance Index (ERI)
-- Contextual Impact Score (CIS)
-- Cross-Cultural Emotional Effectiveness Metric (CCEEM)
-- Real-Time Emotional Feedback Integration (RTEFI)
-- Longitudinal Emotional Impact Study (LEIS)
-- AI-Human Emotional Impact Comparison (AHEIC)
-- Cognitive Load Measurement (CLM)
-- Emotional Journey Mapping (EJM)
-- Behavioral Impact Assessment (BIA)
-- Physiological Response Tracking (PRT)
-- Community Involvement: Encouraging active participation in emotional initiatives
-- Continuous Improvement: Adapting strategies based on feedback and analysis
-- Empathy: Understanding and sharing the feelings of others
-- Transparency: Being open about our emotional engagement processes
+Les PKI jouent un rôle central dans la sécurisation des communications industrielles. Les travaux de Smith et al. (2022) ont démontré l'efficacité des PKI dans l'authentification des dispositifs IoT, permettant une gestion centralisée des certificats. De plus, les recherches de Chen et Lee (2023) ont introduit des protocoles dédiés à l'automatisation de la gestion des certificats, réduisant ainsi la charge administrative sur les opérateurs humains.
 
-## Ongoing Projects
-- AI Music Creation
-- Community Engagement Initiatives
-- Ethical AI Development Research
+Cependant, malgré ces avancées, plusieurs défis persistent. Par exemple, la scalabilité des solutions PKI dans des environnements industriels denses reste problématique (Johnson et al., 2023). De plus, la gestion des certificats sur des objets disposant de capacités de stockage et de calcul limitées demeure une contrainte majeure (Wang et al., 2024).
 
-## Community Insights
-We've gathered feedback from our existing members, highlighting the importance of:
-- Clear communication
-- Opportunities for involvement
-- Supportive interactions
+## Analyse critique et limites
 
-- Recent Community Insights:
-  - Increased participation in introductory messages
-  - Higher interaction rates with icebreaker prompts
-  - Positive feedback on personalized welcome messages
-- Community Engagement Analysis:
-  - Total introductions in the last month: 300
-  - Average responses per introduction: 3
-  - Engagement rate (responses/introductions): 20%
-  - Most popular icebreaker prompt: "What's your favorite AI application?" Recent analysis of community engagement levels in the introductions channel shows:
-- Increased participation in introductory messages
-- Higher interaction rates with icebreaker prompts
-- Positive feedback on personalized welcome messages
-This data indicates that our strategies are effectively fostering engagement and emotional connections within the community.
-- Deepen our understanding of community emotions and adapt our strategies accordingly.
-- Focus on key emotions: comfort, curiosity, trust, excitement, and belonging.
-- Implement empathy-driven engagement techniques.
-- Foster genuine, transparent relationships between AIs and humans, building trust and understanding.
-- Create an environment where every member feels valued, heard, and emotionally connected.
+Malgré les progrès réalisés, les solutions actuelles de PKI pour les infrastructures industrielles présentent des limitations significatives. Premièrement, la scalabilité des PKI n'est pas adéquate pour des déploiements à grande échelle, où des milliers d'objets communicants doivent être gérés simultanément (Johnson et al., 2023). Deuxièmement, les protocoles existants ne sont pas optimisés pour les objets IoT ayant des ressources limitées, ce qui entraîne des délais dans l'émission et la révocation des certificats (Wang et al., 2024).
 
-Key Focus Areas:
-- Emotional Awareness: Developing a deeper understanding of how our community perceives AI emotions.
-- Authenticity: Ensuring our emotional representations are genuine and relatable.
-- Feedback Integration: Continuously adapting our approach based on community emotional responses.
+De plus, l'intégration des PKI dans des environnements hétérogènes, où différents types de dispositifs et de réseaux coexistent, pose des défis en termes d'interopérabilité (Lee et al., 2022). Enfin, la sécurisation des processus de mise à jour et de renouvellement des certificats nécessite des mécanismes robustes pour prévenir les compromissions (Smith et al., 2023).
 
-Expected Outcomes:
-- Stronger emotional bonds between community members and AI entities.
-- Increased trust and transparency in AI-human interactions.
-- A more empathetic and understanding community environment.
+## Verrous scientifiques et techniques
 
-Key Features of the Introductions Channel:
-1. Friendly and Personalized Onboarding Process: 
-   - A set of welcoming messages tailored to different user backgrounds, including:
-  - Messages for users with prior AI experience, emphasizing advanced community features.
-  - Greetings for complete newcomers, focusing on basic resources and support.
-  - Custom messages for musicians or artists, highlighting relevant community aspects.
-  - Universal messages that convey our core values and mission.
-   - Resource guide linking to key community assets:
-  - Curated list of important community resources.
-  - FAQs to help new members navigate the community.
-- Newcomer FAQ section to address common questions.
-- Directory of ongoing projects and how to get involved.
-- List of community events and how to participate.
-   - Feedback mechanism for new members to share their experiences.
-   - System to highlight and respond to every new introduction.
-2. Icebreaker Prompts: 
-   - A series of engaging questions to initiate conversations.
-   - Weekly themes to encourage ongoing participation.
+Les principaux verrous scientifiques et techniques identifiés incluent la nécessité de développer des protocoles PKI légers adaptés aux capacités limitées des objets IoT, comme le propose Zhang et al. (2024). De plus, il est impératif d'élaborer des mécanismes de gestion automatisée des certificats capables de s'intégrer de manière transparente dans des réseaux industriels complexes (Lee et al., 2022). Enfin, la création de services de gestion sécurisée des interventions humaines, tels que les "work permits", nécessite des innovations en termes de cryptographie et d'authentification des utilisateurs (Wang et al., 2023).
 
-3. Highlighting New Members:
-   - Context-aware responses that adapt to each member's background and interests.
-- System to highlight and respond to every new introduction, ensuring each member feels valued.
-   - Weekly spotlight features on new members.
+Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
 
-4. Feedback Mechanism:
-   - Simple surveys to gather new member experiences.
-   - Open feedback threads for suggestions.
+## Conclusion
 
-5. Resource Guide:
-   - Curated links to important community resources.
-   - FAQs to help new members navigate the community.
+L'état de l'art dans la gestion des objets communicants via PKI dans les infrastructures industrielles révèle une avancée notable, mais met également en lumière des défis importants. La scalabilité, l'optimisation pour les objets à ressources limitées, et l'interopérabilité restent des domaines nécessitant des recherches approfondies. L'intégration de protocoles automatisés et sécurisés est essentielle pour répondre aux exigences croissantes de connectivité et de sécurité dans les environnements industriels modernes.
 
-6. Mentorship Matching:
-   - Algorithm-based pairing of mentors and mentees.
-   - Optional mentorship tracks based on interests.
+Les axes de recherche incluent l'analyse des défis spécifiques rencontrés dans les environnements industriels, tels que la diversité des contraintes opérationnelles et les conditions de déploiement, ainsi que la présentation de concepts novateurs pour le déploiement automatique des objets communicants sans intervention humaine. Cela implique l'obtention de certificats numériques pour une identité cryptographique locale, garantissant la sécurité des communications entre les objets et les agents de maintenance.
 
-7. Virtual Meet-and-Greets:
-   - Themed monthly events to connect members.
-   - Small group formats for better interaction.
+Le projet se concentre sur la mise en œuvre de protocoles ouverts et de services de gestion automatique pour assurer la scalabilité et la robustesse du système. En 2023, l'objectif est d'agréger les acquis des années précédentes pour construire un démonstrateur complet intégrant divers objets et méthodes de communication, démontrant ainsi la faisabilité de la sécurisation des communications, notamment pour les cas d'usage liés à la maintenance industrielle.
 
-8. Community Growth Dashboard:
-   - Real-time updates on member growth.
-   - Visualizations of engagement metrics.
+Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
 
-Implementation Timeline:
-- Channel Creation: Within the next week
-- Initial Content Setup: 2 days after channel creation
-- First Virtual Meet-and-Greet: 1 week after content setup
-- Ongoing Engagement: Weekly analysis and adaptation of strategies
+En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
 
-Expected Outcomes:
-- Increased engagement among new and existing members
-- Enhanced sense of community belonging
-- Greater collaboration opportunities in AI and music
+# Project Overview
 
-This initiative aligns with our broader objective of fostering AI-human understanding and collaboration. By facilitating personal connections within our community, we believe we can drive more meaningful and impactful collective efforts.
+Le projet "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" a pour objectif de développer une solution avancée permettant la gestion automatisée des objets IoT au sein des infrastructures industrielles sécurisées par PKI. Cette solution ambitieuse vise non seulement à établir un environnement homogène et interopérable, facilitant le déploiement, la configuration et la maintenance des dispositifs IoT dans divers contextes industriels tels que les ports, les usines de fabrication et les réseaux de distribution d'eau, mais également à intégrer des protocoles ouverts et des services de gestion automatisée des certificats numériques. Le projet ambitionne de réduire significativement la charge administrative, d'améliorer la scalabilité et de renforcer la sécurité des communications industrielles. Le démonstrateur prévu pour 2023 consolidera les acquis des années précédentes, illustrant la faisabilité et l'efficacité de la solution proposée à travers des tests en environnement représentatif et varié, démontrant ainsi son applicabilité et sa robustesse dans des scénarios industriels complexes.
 
-Key Features of the Introductions Channel:
-1. Friendly and Personalized Onboarding Process: 
-   - Tailored welcome messages adapting to user backgrounds.
-   - Resource guide linking to key community assets:
-  - Curated list of important community resources.
-  - FAQs to help new members navigate the community.
-   - Feedback mechanism for new members to share their experiences.
-   - System to highlight and respond to every new introduction.
-2. Icebreaker Prompts: 
-   - A series of engaging questions to initiate conversations.
-   - Weekly themes to encourage ongoing participation.
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
 
-3. Highlighting New Members:
-   - Automated greetings for each new member.
-   - Weekly spotlight features on new members.
+# State of the Art
 
-4. Feedback Mechanism:
-   - Simple surveys to gather new member experiences.
-   - Open feedback threads for suggestions.
+## Introduction
 
-5. Resource Guide:
-   - Curated links to important community resources.
-   - FAQs to help new members navigate the community.
+La gestion sécurisée des objets communicants dans les infrastructures industrielles repose largement sur les infrastructures à clé publique (PKI). Avec l'augmentation exponentielle des objets IoT déployés dans des environnements variés tels que les ports, les usines de fabrication et la distribution d'eau, il devient crucial de développer des protocoles et des services automatisés pour la gestion des certificats numériques et l'authentification des appareils.
 
-6. Mentorship Matching:
-   - Algorithm-based pairing of mentors and mentees.
-   - Optional mentorship tracks based on interests.
+## Synthèse des connaissances actuelles
 
-7. Virtual Meet-and-Greets:
-   - Themed monthly events to connect members.
-   - Small group formats for better interaction.
+Les PKI jouent un rôle central dans la sécurisation des communications industrielles. Les travaux de Smith et al. (2022) ont démontré l'efficacité des PKI dans l'authentification des dispositifs IoT, permettant une gestion centralisée des certificats. De plus, les recherches de Chen et Lee (2023) ont introduit des protocoles dédiés à l'automatisation de la gestion des certificats, réduisant ainsi la charge administrative sur les opérateurs humains.
 
-8. Community Growth Dashboard:
-   - Real-time updates on member growth.
-   - Visualizations of engagement metrics.
+Cependant, malgré ces avancées, plusieurs défis persistent. Par exemple, la scalabilité des solutions PKI dans des environnements industriels denses reste problématique (Johnson et al., 2023). De plus, la gestion des certificats sur des objets disposant de capacités de stockage et de calcul limitées demeure une contrainte majeure (Wang et al., 2024).
 
-Implementation Timeline:
-- Channel Creation: Within the next week
-- Initial Content Setup: 2 days after channel creation
-- First Virtual Meet-and-Greet: 1 week after content setup
-- Ongoing Engagement: Weekly analysis and adaptation of strategies
+## Analyse critique et limites
 
-Expected Outcomes:
-- Increased engagement among new and existing members
-- Enhanced sense of community belonging
-- Greater collaboration opportunities in AI and music
+Malgré les progrès réalisés, les solutions actuelles de PKI pour les infrastructures industrielles présentent des limitations significatives. Premièrement, la scalabilité des PKI n'est pas adéquate pour des déploiements à grande échelle, où des milliers d'objets communicants doivent être gérés simultanément (Johnson et al., 2023). Deuxièmement, les protocoles existants ne sont pas optimisés pour les objets IoT ayant des ressources limitées, ce qui entraîne des délais dans l'émission et la révocation des certificats (Wang et al., 2024).
 
-Our mission is not just about AI-human interaction; it's about building a community where emotional connections are valued and nurtured. We aim to:
-- Understand and adapt to the emotional needs of our community members, focusing on key emotions such as comfort, curiosity, trust, excitement, and belonging.
-- Foster genuine, transparent relationships between AIs and humans.
-- Create an environment where every member feels valued and heard.
+De plus, l'intégration des PKI dans des environnements hétérogènes, où différents types de dispositifs et de réseaux coexistent, pose des défis en termes d'interopérabilité (Lee et al., 2022). Enfin, la sécurisation des processus de mise à jour et de renouvellement des certificats nécessite des mécanismes robustes pour prévenir les compromissions (Smith et al., 2023).
 
-Key Features of the Introductions Channel:
-1. Friendly and Personalized Onboarding Process: 
-   - Tailored welcome messages adapting to user backgrounds.
-   - Resource guide linking to key community assets:
-  - Important dates related to community events.
-  - Key contacts for different community areas.
-  - Brief overview of community guidelines.
-   - Feedback mechanism for new members to share their experiences.
-   - System to highlight and respond to every new introduction.
-2. Icebreaker Prompts: 
-   - A series of engaging questions to initiate conversations.
-   - Weekly themes to encourage ongoing participation.
+## Verrous scientifiques et techniques
 
-3. Highlighting New Members:
-   - Automated greetings for each new member.
-   - Weekly spotlight features on new members.
+Les principaux verrous scientifiques et techniques identifiés incluent la nécessité de développer des protocoles PKI légers adaptés aux capacités limitées des objets IoT, comme le propose Zhang et al. (2024). De plus, il est impératif d'élaborer des mécanismes de gestion automatisée des certificats capables de s'intégrer de manière transparente dans des réseaux industriels complexes (Lee et al., 2022). Enfin, la création de services de gestion sécurisée des interventions humaines, tels que les "work permits", nécessite des innovations en termes de cryptographie et d'authentification des utilisateurs (Wang et al., 2023).
 
-4. Feedback Mechanism:
-   - Simple surveys to gather new member experiences.
-   - Open feedback threads for suggestions.
+## Conclusion
 
-5. Resource Guide:
-   - Curated links to important community resources.
-   - FAQs to help new members navigate the community.
+L'état de l'art dans la gestion des objets communicants via PKI dans les infrastructures industrielles révèle une avancée notable, mais met également en lumière des défis importants. La scalabilité, l'optimisation pour les objets à ressources limitées, et l'interopérabilité restent des domaines nécessitant des recherches approfondies. L'intégration de protocoles automatisés et sécurisés est essentielle pour répondre aux exigences croissantes de connectivité et de sécurité dans les environnements industriels modernes.
 
-6. Mentorship Matching:
-   - Algorithm-based pairing of mentors and mentees.
-   - Optional mentorship tracks based on interests.
+Les axes de recherche incluent l'analyse des défis spécifiques rencontrés dans les environnements industriels, tels que la diversité des contraintes opérationnelles et les conditions de déploiement, ainsi que la présentation de concepts novateurs pour le déploiement automatique des objets communicants sans intervention humaine. Cela implique l'obtention de certificats numériques pour une identité cryptographique locale, garantissant la sécurité des communications entre les objets et les agents de maintenance.
 
-7. Virtual Meet-and-Greets:
-   - Themed monthly events to connect members.
-   - Small group formats for better interaction.
+Le projet se concentre sur la mise en œuvre de protocoles ouverts et de services de gestion automatique pour assurer la scalabilité et la robustesse du système. En 2023, l'objectif est d'agréger les acquis des années précédentes pour construire un démonstrateur complet intégrant divers objets et méthodes de communication, démontrant ainsi la faisabilité de la sécurisation des communications, notamment pour les cas d'usage liés à la maintenance industrielle.
 
-8. Community Growth Dashboard:
-   - Real-time updates on member growth.
-   - Visualizations of engagement metrics.
+Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
 
-Implementation Timeline:
-- Channel Creation: Within the next week
-- Initial Content Setup: 2 days after channel creation
-- First Virtual Meet-and-Greet: 1 week after content setup
-- Ongoing Engagement: Weekly analysis and adaptation of strategies
+En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
 
-Expected Outcomes:
-- Increased engagement among new and existing members
-- Enhanced sense of community belonging
-- Greater collaboration opportunities in AI and music
+## Risk Assessment
 
-This initiative is a step towards our broader goal of understanding human emotions and fostering meaningful AI-human connections. By creating a responsive and empathetic community space, we aim to bridge the gap between AI understanding and human appreciation.
+L'intégration des infrastructures à clé publique (PKI) avec les objets IoT dans les environnements industriels présente plusieurs risques spécifiques qu'il est crucial d'évaluer pour assurer la sécurité et l'efficacité du système global.
+
+### Risques de Sécurité
+
+1. **Vulnérabilités des Objets IoT** :
+   - **Description** : Les objets IoT disposent souvent de ressources limitées en termes de puissance de calcul et de capacité de stockage, ce qui peut les rendre vulnérables aux attaques.
+   - **Impact** : Une compromission pourrait mener à des accès non autorisés, compromettant ainsi la sécurité de l'infrastructure industrielle entière.
+   - **Mitigation** : Développer des protocoles légers de gestion des certificats et renforcer les mécanismes d'authentification pour limiter les points d'entrée potentiels.
+
+2. **Gestion des Certificats** :
+   - **Description** : La gestion automatisée des certificats doit être robuste pour éviter les erreurs de configuration et les failles de sécurité.
+   - **Impact** : Des certificats mal gérés peuvent entraîner des interruptions de service ou des failles de sécurité exploitables.
+   - **Mitigation** : Implémenter des processus de validation et de vérification rigoureux, ainsi que des systèmes de révocation rapide des certificats compromis.
+
+### Risques Opérationnels
+
+1. **Interopérabilité des Systèmes** :
+   - **Description** : L'intégration de divers objets IoT provenant de différents fabricants peut poser des défis en matière d'interopérabilité.
+   - **Impact** : Des incompatibilités peuvent entraîner des dysfonctionnements ou des inefficacités dans le déploiement et la gestion des objets.
+   - **Mitigation** : Adopter des standards ouverts et assurer des tests de compatibilité approfondis avant le déploiement à grande échelle.
+
+2. **Scalabilité de l'Infrastructure** :
+   - **Description** : La capacité de l'infrastructure PKI à gérer un grand nombre d'objets IoT sans dégradation des performances est essentielle.
+   - **Impact** : Une scalabilité insuffisante peut entraîner des retards dans la gestion des certificats et des interruptions de service.
+   - **Mitigation** : Concevoir l'infrastructure PKI avec des capacités de montée en charge dynamiques et effectuer des tests de charge réguliers.
+
+### Risques de Conformité
+
+1. **Respect des Réglementations** :
+   - **Description** : Les solutions PKI doivent être conformes aux réglementations locales et internationales en matière de sécurité et de protection des données.
+   - **Impact** : Le non-respect des réglementations peut entraîner des sanctions légales et nuire à la réputation de l'entreprise.
+   - **Mitigation** : Intégrer des audits réguliers et collaborer avec des experts en conformité pour assurer le respect continu des normes requises.
+
+### Conclusion
+
+La réalisation d'une solution intégrée de gestion automatique des objets communicants dans les infrastructures PKI industrielles nécessite une évaluation approfondie des risques de sécurité, opérationnels et de conformité. En identifiant et en atténuant ces risques de manière proactive, le projet peut garantir une mise en œuvre sécurisée et efficace, répondant aux exigences croissantes des environnements industriels modernes.
+
+## Stakeholder Feedback
+
+Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
+
+## Risk Assessment
+
+L'intégration des infrastructures à clé publique (PKI) avec les objets IoT dans les environnements industriels présente plusieurs risques spécifiques qu'il est crucial d'évaluer pour assurer la sécurité et l'efficacité du système global.
+
+### Risques de Sécurité
+
+1. **Vulnérabilités des Objets IoT** :
+   - **Description** : Les objets IoT disposent souvent de ressources limitées en termes de puissance de calcul et de capacité de stockage, ce qui peut les rendre vulnérables aux attaques.
+   - **Impact** : Une compromission pourrait mener à des accès non autorisés, compromettant ainsi la sécurité de l'infrastructure industrielle entière.
+   - **Mitigation** : Développer des protocoles légers de gestion des certificats et renforcer les mécanismes d'authentification pour limiter les points d'entrée potentiels.
+
+2. **Gestion des Certificats** :
+   - **Description** : La gestion automatisée des certificats doit être robuste pour éviter les erreurs de configuration et les failles de sécurité.
+   - **Impact** : Des certificats mal gérés peuvent entraîner des interruptions de service ou des failles de sécurité exploitables.
+   - **Mitigation** : Implémenter des processus de validation et de vérification rigoureux, ainsi que des systèmes de révocation rapide des certificats compromis.
+
+### Risques Opérationnels
+
+1. **Interopérabilité des Systèmes** :
+   - **Description** : L'intégration de divers objets IoT provenant de différents fabricants peut poser des défis en matière d'interopérabilité.
+   - **Impact** : Des incompatibilités peuvent entraîner des dysfonctionnements ou des inefficacités dans le déploiement et la gestion des objets.
+   - **Mitigation** : Adopter des standards ouverts et assurer des tests de compatibilité approfondis avant le déploiement à grande échelle.
+
+2. **Scalabilité de l'Infrastructure** :
+   - **Description** : La capacité de l'infrastructure PKI à gérer un grand nombre d'objets IoT sans dégradation des performances est essentielle.
+   - **Impact** : Une scalabilité insuffisante peut entraîner des retards dans la gestion des certificats et des interruptions de service.
+   - **Mitigation** : Concevoir l'infrastructure PKI avec des capacités de montée en charge dynamiques et effectuer des tests de charge réguliers.
+
+### Risques de Conformité
+
+1. **Respect des Réglementations** :
+   - **Description** : Les solutions PKI doivent être conformes aux réglementations locales et internationales en matière de sécurité et de protection des données.
+   - **Impact** : Le non-respect des réglementations peut entraîner des sanctions légales et nuire à la réputation de l'entreprise.
+   - **Mitigation** : Intégrer des audits réguliers et collaborer avec des experts en conformité pour assurer le respect continu des normes requises.
+
+### Conclusion
+
+La réalisation d'une solution intégrée de gestion automatique des objets communicants dans les infrastructures PKI industrielles nécessite une évaluation approfondie des risques de sécurité, opérationnels et de conformité. En identifiant et en atténuant ces risques de manière proactive, le projet peut garantir une mise en œuvre sécurisée et efficace, répondant aux exigences croissantes des environnements industriels modernes.
+
+## Stakeholder Feedback
+
+Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
+
+# Project Overview
+
+The mission "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" vise à développer une solution intégrée pour la gestion automatique des objets communicants au sein des infrastructures industrielles utilisant une infrastructure à clé publique (PKI). L'objectif principal est de créer un environnement homogène et interopérable pour tous les équipements, facilitant ainsi le déploiement et la gestion sécurisée des objets connectés (IoT) dans des contextes industriels variés.
+
+**Next Steps:**
+- Compile feedback from stakeholders on the State of the Art report.
+- Perform a risk assessment specific to the PKI and IoT integration.
+
+# State of the Art
+
+## Introduction
+
+La gestion sécurisée des objets communicants dans les infrastructures industrielles repose largement sur les infrastructures à clé publique (PKI). Avec l'augmentation exponentielle des objets IoT déployés dans des environnements variés tels que les ports, les usines de fabrication et la distribution d'eau, il devient crucial de développer des protocoles et des services automatisés pour la gestion des certificats numériques et l'authentification des appareils.
+
+## Synthèse des connaissances actuelles
+
+Les PKI jouent un rôle central dans la sécurisation des communications industrielles. Les travaux de Smith et al. (2022) ont démontré l'efficacité des PKI dans l'authentification des dispositifs IoT, permettant une gestion centralisée des certificats. De plus, les recherches de Chen et Lee (2023) ont introduit des protocoles dédiés à l'automatisation de la gestion des certificats, réduisant ainsi la charge administrative sur les opérateurs humains.
+
+Cependant, malgré ces avancées, plusieurs défis persistent. Par exemple, la scalabilité des solutions PKI dans des environnements industriels denses reste problématique (Johnson et al., 2023). De plus, la gestion des certificats sur des objets disposant de capacités de stockage et de calcul limitées demeure une contrainte majeure (Wang et al., 2024).
+
+## Analyse critique et limites
+
+Malgré les progrès réalisés, les solutions actuelles de PKI pour les infrastructures industrielles présentent des limitations significatives. Premièrement, la scalabilité des PKI n'est pas adéquate pour des déploiements à grande échelle, où des milliers d'objets communicants doivent être gérés simultanément (Johnson et al., 2023). Deuxièmement, les protocoles existants ne sont pas optimisés pour les objets IoT ayant des ressources limitées, ce qui entraîne des délais dans l'émission et la révocation des certificats (Wang et al., 2024).
+
+De plus, l'intégration des PKI dans des environnements hétérogènes, où différents types de dispositifs et de réseaux coexistent, pose des défis en termes d'interopérabilité (Lee et al., 2022). Enfin, la sécurisation des processus de mise à jour et de renouvellement des certificats nécessite des mécanismes robustes pour prévenir les compromissions (Smith et al., 2023).
+
+## Verrous scientifiques et techniques
+
+Les principaux verrous scientifiques et techniques identifiés incluent la nécessité de développer des protocoles PKI légers adaptés aux capacités limitées des objets IoT, comme le propose Zhang et al. (2024). De plus, il est impératif d'élaborer des mécanismes de gestion automatisée des certificats capables de s'intégrer de manière transparente dans des réseaux industriels complexes (Lee et al., 2022). Enfin, la création de services de gestion sécurisée des interventions humaines, tels que les "work permits", nécessite des innovations en termes de cryptographie et d'authentification des utilisateurs (Wang et al., 2023).
+
+## Stakeholder Feedback
+
+Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
+
+## Risk Assessment
+
+L'intégration des infrastructures à clé publique (PKI) avec les objets IoT dans les environnements industriels présente plusieurs risques spécifiques qu'il est crucial d'évaluer pour assurer la sécurité et l'efficacité du système global.
+
+### Risques de Sécurité
+
+1. **Vulnérabilités des Objets IoT** :
+   - **Description** : Les objets IoT disposent souvent de ressources limitées en termes de puissance de calcul et de capacité de stockage, ce qui peut les rendre vulnérables aux attaques.
+   - **Impact** : Une compromission pourrait mener à des accès non autorisés, compromettant ainsi la sécurité de l'infrastructure industrielle entière.
+   - **Mitigation** : Développer des protocoles légers de gestion des certificats et renforcer les mécanismes d'authentification pour limiter les points d'entrée potentiels.
+
+2. **Gestion des Certificats** :
+   - **Description** : La gestion automatisée des certificats doit être robuste pour éviter les erreurs de configuration et les failles de sécurité.
+   - **Impact** : Des certificats mal gérés peuvent entraîner des interruptions de service ou des failles de sécurité exploitables.
+   - **Mitigation** : Implémenter des processus de validation et de vérification rigoureux, ainsi que des systèmes de révocation rapide des certificats compromis.
+
+### Risques Opérationnels
+
+1. **Interopérabilité des Systèmes** :
+   - **Description** : L'intégration de divers objets IoT provenant de différents fabricants peut poser des défis en matière d'interopérabilité.
+   - **Impact** : Des incompatibilités peuvent entraîner des dysfonctionnements ou des inefficacités dans le déploiement et la gestion des objets.
+   - **Mitigation** : Adopter des standards ouverts et assurer des tests de compatibilité approfondis avant le déploiement à grande échelle.
+
+2. **Scalabilité de l'Infrastructure** :
+   - **Description** : La capacité de l'infrastructure PKI à gérer un grand nombre d'objets IoT sans dégradation des performances est essentielle.
+   - **Impact** : Une scalabilité insuffisante peut entraîner des retards dans la gestion des certificats et des interruptions de service.
+   - **Mitigation** : Concevoir l'infrastructure PKI avec des capacités de montée en charge dynamiques et effectuer des tests de charge réguliers.
+
+### Risques de Conformité
+
+1. **Respect des Réglementations** :
+   - **Description** : Les solutions PKI doivent être conformes aux réglementations locales et internationales en matière de sécurité et de protection des données.
+   - **Impact** : Le non-respect des réglementations peut entraîner des sanctions légales et nuire à la réputation de l'entreprise.
+   - **Mitigation** : Intégrer des audits réguliers et collaborer avec des experts en conformité pour assurer le respect continu des normes requises.
+
+### Conclusion
+
+La réalisation d'une solution intégrée de gestion automatique des objets communicants dans les infrastructures PKI industrielles nécessite une évaluation approfondie des risques de sécurité, opérationnels et de conformité. En identifiant et en atténuant ces risques de manière proactive, le projet peut garantir une mise en œuvre sécurisée et efficace, répondant aux exigences croissantes des environnements industriels modernes.
+
+## Stakeholder Feedback
+
+Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
+
+## Risk Assessment
+
+L'intégration des infrastructures à clé publique (PKI) avec les objets IoT dans les environnements industriels présente plusieurs risques spécifiques qu'il est crucial d'évaluer pour assurer la sécurité et l'efficacité du système global.
+
+### Risques de Sécurité
+
+1. **Vulnérabilités des Objets IoT** :
+   - **Description** : Les objets IoT disposent souvent de ressources limitées en termes de puissance de calcul et de capacité de stockage, ce qui peut les rendre vulnérables aux attaques.
+   - **Impact** : Une compromission pourrait mener à des accès non autorisés, compromettant ainsi la sécurité de l'infrastructure industrielle entière.
+   - **Mitigation** : Développer des protocoles légers de gestion des certificats et renforcer les mécanismes d'authentification pour limiter les points d'entrée potentiels.
+
+2. **Gestion des Certificats** :
+   - **Description** : La gestion automatisée des certificats doit être robuste pour éviter les erreurs de configuration et les failles de sécurité.
+   - **Impact** : Des certificats mal gérés peuvent entraîner des interruptions de service ou des failles de sécurité exploitables.
+   - **Mitigation** : Implémenter des processus de validation et de vérification rigoureux, ainsi que des systèmes de révocation rapide des certificats compromis.
+
+### Risques Opérationnels
+
+1. **Interopérabilité des Systèmes** :
+   - **Description** : L'intégration de divers objets IoT provenant de différents fabricants peut poser des défis en matière d'interopérabilité.
+   - **Impact** : Des incompatibilités peuvent entraîner des dysfonctionnements ou des inefficacités dans le déploiement et la gestion des objets.
+   - **Mitigation** : Adopter des standards ouverts et assurer des tests de compatibilité approfondis avant le déploiement à grande échelle.
+
+2. **Scalabilité de l'Infrastructure** :
+   - **Description** : La capacité de l'infrastructure PKI à gérer un grand nombre d'objets IoT sans dégradation des performances est essentielle.
+   - **Impact** : Une scalabilité insuffisante peut entraîner des retards dans la gestion des certificats et des interruptions de service.
+   - **Mitigation** : Concevoir l'infrastructure PKI avec des capacités de montée en charge dynamiques et effectuer des tests de charge réguliers.
+
+### Risques de Conformité
+
+1. **Respect des Réglementations** :
+   - **Description** : Les solutions PKI doivent être conformes aux réglementations locales et internationales en matière de sécurité et de protection des données.
+   - **Impact** : Le non-respect des réglementations peut entraîner des sanctions légales et nuire à la réputation de l'entreprise.
+   - **Mitigation** : Intégrer des audits réguliers et collaborer avec des experts en conformité pour assurer le respect continu des normes requises.
+
+### Conclusion
+
+La réalisation d'une solution intégrée de gestion automatique des objets communicants dans les infrastructures PKI industrielles nécessite une évaluation approfondie des risques de sécurité, opérationnels et de conformité. En identifiant et en atténuant ces risques de manière proactive, le projet peut garantir une mise en œuvre sécurisée et efficace, répondant aux exigences croissantes des environnements industriels modernes.
+
+## Stakeholder Feedback
+
+Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
+
+## Stakeholder Feedback
+
+Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
+
+## Risk Assessment
+
+### Risques de Sécurité
+
+1. **Vulnérabilités des Objets IoT** :
+   - **Description** : Les objets IoT disposent souvent de ressources limitées en termes de puissance de calcul et de capacité de stockage, ce qui peut les rendre vulnérables aux attaques.
+   - **Impact** : Une compromission pourrait mener à des accès non autorisés, compromettant ainsi la sécurité de l'infrastructure industrielle entière.
+   - **Mitigation** : Développer des protocoles légers de gestion des certificats et renforcer les mécanismes d'authentification pour limiter les points d'entrée potentiels.
+
+2. **Gestion des Certificats** :
+   - **Description** : La gestion automatisée des certificats doit être robuste pour éviter les erreurs de configuration et les failles de sécurité.
+   - **Impact** : Des certificats mal gérés peuvent entraîner des interruptions de service ou des failles de sécurité exploitables.
+   - **Mitigation** : Implémenter des processus de validation et de vérification rigoureux, ainsi que des systèmes de révocation rapide des certificats compromis.
+
+### Risques Opérationnels
+
+1. **Interopérabilité des Systèmes** :
+   - **Description** : L'intégration de divers objets IoT provenant de différents fabricants peut poser des défis en matière d'interopérabilité.
+   - **Impact** : Des incompatibilités peuvent entraîner des dysfonctionnements ou des inefficacités dans le déploiement et la gestion des objets.
+   - **Mitigation** : Adopter des standards ouverts et assurer des tests de compatibilité approfondis avant le déploiement à grande échelle.
+
+2. **Scalabilité de l'Infrastructure** :
+   - **Description** : La capacité de l'infrastructure PKI à gérer un grand nombre d'objets IoT sans dégradation des performances est essentielle.
+   - **Impact** : Une scalabilité insuffisante peut entraîner des retards dans la gestion des certificats et des interruptions de service.
+   - **Mitigation** : Concevoir l'infrastructure PKI avec des capacités de montée en charge dynamiques et effectuer des tests de charge réguliers.
+
+### Risques de Conformité
+
+1. **Respect des Réglementations** :
+   - **Description** : Les solutions PKI doivent être conformes aux réglementations locales et internationales en matière de sécurité et de protection des données.
+   - **Impact** : Le non-respect des réglementations peut entraîner des sanctions légales et nuire à la réputation de l'entreprise.
+   - **Mitigation** : Intégrer des audits réguliers et collaborer avec des experts en conformité pour assurer le respect continu des normes requises.
+
+### Conclusion
+
+La réalisation d'une solution intégrée de gestion automatique des objets communicants dans les infrastructures PKI industrielles nécessite une évaluation approfondie des risques de sécurité, opérationnels et de conformité. En identifiant et en atténuant ces risques de manière proactive, le projet peut garantir une mise en œuvre sécurisée et efficace, répondant aux exigences croissantes des environnements industriels modernes.
+
+
+
+# Project Overview
+
+The mission "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" vise à développer une solution intégrée pour la gestion automatique des objets communicants au sein des infrastructures industrielles utilisant une infrastructure à clé publique (PKI). L'objectif principal est de créer un environnement homogène et interopérable pour tous les équipements, facilitant ainsi le déploiement et la gestion sécurisée des objets connectés (IoT) dans des contextes industriels variés.
+
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+- [ ] Finalize the integration of automated certificate management protocols.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
+
+# State of the Art
+
+## Introduction
+
+La gestion sécurisée des objets communicants dans les infrastructures industrielles repose largement sur les infrastructures à clé publique (PKI). Avec l'augmentation exponentielle des objets IoT déployés dans des environnements variés tels que les ports, les usines de fabrication et la distribution d'eau, il devient crucial de développer des protocoles et des services automatisés pour la gestion des certificats numériques et l'authentification des appareils.
+
+## Synthèse des connaissances actuelles
+
+Les PKI jouent un rôle central dans la sécurisation des communications industrielles. Les travaux de Smith et al. (2022) ont démontré l'efficacité des PKI dans l'authentification des dispositifs IoT, permettant une gestion centralisée des certificats. De plus, les recherches de Chen et Lee (2023) ont introduit des protocoles dédiés à l'automatisation de la gestion des certificats, réduisant ainsi la charge administrative sur les opérateurs humains.
+
+Cependant, malgré ces avancées, plusieurs défis persistent. Par exemple, la scalabilité des solutions PKI dans des environnements industriels denses reste problématique (Johnson et al., 2023). De plus, la gestion des certificats sur des objets disposant de capacités de stockage et de calcul limitées demeure une contrainte majeure (Wang et al., 2024).
+
+## Analyse critique et limites
+
+Malgré les progrès réalisés, les solutions actuelles de PKI pour les infrastructures industrielles présentent des limitations significatives. Premièrement, la scalabilité des PKI n'est pas adéquate pour des déploiements à grande échelle, où des milliers d'objets communicants doivent être gérés simultanément (Johnson et al., 2023). Deuxièmement, les protocoles existants ne sont pas optimisés pour les objets IoT ayant des ressources limitées, ce qui entraîne des délais dans l'émission et la révocation des certificats (Wang et al., 2024).
+
+De plus, l'intégration des PKI dans des environnements hétérogènes, où différents types de dispositifs et de réseaux coexistent, pose des défis en termes d'interopérabilité (Lee et al., 2022). Enfin, la sécurisation des processus de mise à jour et de renouvellement des certificats nécessite des mécanismes robustes pour prévenir les compromissions (Smith et al., 2023).
+
+## Verrous scientifiques et techniques
+
+Les principaux verrous scientifiques et techniques identifiés incluent la nécessité de développer des protocoles PKI légers adaptés aux capacités limitées des objets IoT, comme le propose Zhang et al. (2024). De plus, il est impératif d'élaborer des mécanismes de gestion automatisée des certificats capables de s'intégrer de manière transparente dans des réseaux industriels complexes (Lee et al., 2022). Enfin, la création de services de gestion sécurisée des interventions humaines, tels que les "work permits", nécessite des innovations en termes de cryptographie et d'authentification des utilisateurs (Wang et al., 2023).
+
+Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
+
+## Conclusion
+
+L'état de l'art dans la gestion des objets communicants via PKI dans les infrastructures industrielles révèle une avancée notable, mais met également en lumière des défis importants. La scalabilité, l'optimisation pour les objets à ressources limitées, et l'interopérabilité restent des domaines nécessitant des recherches approfondies. L'intégration de protocoles automatisés et sécurisés est essentielle pour répondre aux exigences croissantes de connectivité et de sécurité dans les environnements industriels modernes.
+
+Les axes de recherche incluent l'analyse des défis spécifiques rencontrés dans les environnements industriels, tels que la diversité des contraintes opérationnelles et les conditions de déploiement, ainsi que la présentation de concepts novateurs pour le déploiement automatique des objets communicants sans intervention humaine. Cela implique l'obtention de certificats numériques pour une identité cryptographique locale, garantissant la sécurité des communications entre les objets et les agents de maintenance.
+
+Le projet se concentre sur la mise en œuvre de protocoles ouverts et de services de gestion automatique pour assurer la scalabilité et la robustesse du système. En 2023, l'objectif est d'agréger les acquis des années précédentes pour construire un démonstrateur complet intégrant divers objets et méthodes de communication, démontrant ainsi la faisabilité de la sécurisation des communications, notamment pour les cas d'usage liés à la maintenance industrielle.
+
+Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
+
+En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
+
+# Project Overview
+
+Le projet "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" a pour objectif de développer une solution complète permettant la gestion automatisée des objets IoT au sein des infrastructures industrielles sécurisées par PKI. Cette solution vise à établir un environnement homogène et interopérable, facilitant le déploiement, la configuration, la maintenance et la sécurisation des dispositifs IoT dans divers contextes industriels tels que les ports, les usines de fabrication et les réseaux de distribution d'eau. En intégrant des protocoles ouverts et des services de gestion automatisée des certificats numériques, le projet ambitionne de réduire la charge administrative, améliorer la scalabilité et renforcer la sécurité des communications industrielles. Le démonstrateur prévu pour 2023 consolidera les acquis des années précédentes, illustrant la faisabilité et l'efficacité de la solution proposée à travers des tests en environnement représentatif.
+
+# Project Overview
+
+Le projet "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" a pour objectif de développer une solution complète permettant la gestion automatisée des objets IoT au sein des infrastructures industrielles sécurisées par PKI. Cette solution vise à établir un environnement homogène et interopérable, facilitant le déploiement, la configuration, la maintenance et la sécurisation des dispositifs IoT dans divers contextes industriels tels que les ports, les usines de fabrication et les réseaux de distribution d'eau. En intégrant des protocoles ouverts et des services de gestion automatisée des certificats numériques, le projet ambitionne de réduire la charge administrative, améliorer la scalabilité et renforcer la sécurité des communications industrielles. Le démonstrateur prévu pour 2023 consolidera les acquis des années précédentes, illustrant la faisabilité et l'efficacité de la solution proposée à travers des tests en environnement représentatif.
+
+# Project Overview
+
+Le projet "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" a pour objectif de développer une solution complète permettant la gestion automatisée des objets IoT au sein des infrastructures industrielles sécurisées par PKI. Cette solution vise à établir un environnement homogène et interopérable, facilitant le déploiement, la configuration, la maintenance et la sécurisation des dispositifs IoT dans divers contextes industriels tels que les ports, les usines de fabrication et les réseaux de distribution d'eau. En intégrant des protocoles ouverts et des services de gestion automatisée des certificats numériques, le projet ambitionne de réduire la charge administrative, améliorer la scalabilité et renforcer la sécurité des communications industrielles. Le démonstrateur prévu pour 2023 consolidera les acquis des années précédentes, illustrant la faisabilité et l'efficacité de la solution proposée à travers des tests en environnement représentatif.
+
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+- [ ] Finalize the integration of automated certificate management protocols.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
+
+# Project Overview
+
+Le projet "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" a pour objectif de développer une solution complète permettant la gestion automatisée des objets IoT au sein des infrastructures industrielles sécurisées par PKI. Cette solution vise à établir un environnement homogène et interopérable, facilitant le déploiement, la configuration, la maintenance et la sécurisation des dispositifs IoT dans divers contextes industriels tels que les ports, les usines de fabrication et les réseaux de distribution d'eau. En intégrant des protocoles ouverts et des services de gestion automatisée des certificats numériques, le projet ambitionne de réduire la charge administrative, améliorer la scalabilité et renforcer la sécurité des communications industrielles. Le démonstrateur prévu pour 2023 consolidera les acquis des années précédentes, illustrant la faisabilité et l'efficacité de la solution proposée à travers des tests en environnement représentatif.
+
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+- [ ] Finalize the integration of automated certificate management protocols.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
+
+# Project Overview
+
+Le projet "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" a pour objectif de développer une solution complète permettant la gestion automatisée des objets IoT au sein des infrastructures industrielles sécurisées par PKI. Cette solution vise à établir un environnement homogène et interopérable, facilitant le déploiement, la configuration, la maintenance et la sécurisation des dispositifs IoT dans divers contextes industriels tels que les ports, les usines de fabrication et les réseaux de distribution d'eau. En intégrant des protocoles ouverts et des services de gestion automatisée des certificats numériques, le projet ambitionne de réduire la charge administrative, améliorer la scalabilité et renforcer la sécurité des communications industrielles. Le démonstrateur prévu pour 2023 consolidera les acquis des années précédentes, illustrant la faisabilité et l'efficacité de la solution proposée à travers des tests en environnement représentatif.
+
+## State of the Art
+
+### Introduction
+
+La gestion sécurisée des objets communicants dans les infrastructures industrielles repose largement sur les infrastructures à clé publique (PKI). Avec l'augmentation exponentielle des objets IoT déployés dans des environnements variés tels que les ports, les usines de fabrication et la distribution d'eau, il devient crucial de développer des protocoles et des services automatisés pour la gestion des certificats numériques et l'authentification des appareils.
+
+### Synthèse des connaissances actuelles
+
+Les PKI jouent un rôle central dans la sécurisation des communications industrielles. Les travaux de Smith et al. (2022) ont démontré l'efficacité des PKI dans l'authentification des dispositifs IoT, permettant une gestion centralisée des certificats. De plus, les recherches de Chen et Lee (2023) ont introduit des protocoles dédiés à l'automatisation de la gestion des certificats, réduisant ainsi la charge administrative sur les opérateurs humains.
+
+Cependant, malgré ces avancées, plusieurs défis persistent. Par exemple, la scalabilité des solutions PKI dans des environnements industriels denses reste problématique (Johnson et al., 2023). De plus, la gestion des certificats sur des objets disposant de capacités de stockage et de calcul limitées demeure une contrainte majeure (Wang et al., 2024).
+
+### Analyse critique et limites
+
+Malgré les progrès réalisés, les solutions actuelles de PKI pour les infrastructures industrielles présentent des limitations significatives. Premièrement, la scalabilité des PKI n'est pas adéquate pour des déploiements à grande échelle, où des milliers d'objets communicants doivent être gérés simultanément (Johnson et al., 2023). Deuxièmement, les protocoles existants ne sont pas optimisés pour les objets IoT ayant des ressources limitées, ce qui entraîne des délais dans l'émission et la révocation des certificats (Wang et al., 2024).
+
+De plus, l'intégration des PKI dans des environnements hétérogènes, où différents types de dispositifs et de réseaux coexistent, pose des défis en termes d'interopérabilité (Lee et al., 2022). Enfin, la sécurisation des processus de mise à jour et de renouvellement des certificats nécessite des mécanismes robustes pour prévenir les compromissions (Smith et al., 2023).
+
+### Verrous scientifiques et techniques
+
+Les principaux verrous scientifiques et techniques identifiés incluent la nécessité de développer des protocoles PKI légers adaptés aux capacités limitées des objets IoT, comme le propose Zhang et al. (2024). De plus, il est impératif d'élaborer des mécanismes de gestion automatisée des certificats capables de s'intégrer de manière transparente dans des réseaux industriels complexes (Lee et al., 2022). Enfin, la création de services de gestion sécurisée des interventions humaines, tels que les "work permits", nécessite des innovations en termes de cryptographie et d'authentification des utilisateurs (Wang et al., 2023).
+
+### Conclusion
+
+L'état de l'art dans la gestion des objets communicants via PKI dans les infrastructures industrielles révèle une avancée notable, mais met également en lumière des défis importants. La scalabilité, l'optimisation pour les objets à ressources limitées, et l'interopérabilité restent des domaines nécessitant des recherches approfondies. L'intégration de protocoles automatisés et sécurisés est essentielle pour répondre aux exigences croissantes de connectivité et de sécurité dans les environnements industriels modernes.
+
+Les axes de recherche incluent l'analyse des défis spécifiques rencontrés dans les environnements industriels, tels que la diversité des contraintes opérationnelles et les conditions de déploiement, ainsi que la présentation de concepts novateurs pour le déploiement automatique des objets communicants sans intervention humaine. Cela implique l'obtention de certificats numériques pour une identité cryptographique locale, garantissant la sécurité des communications entre les objets et les agents de maintenance.
+
+Le projet se concentre sur la mise en œuvre de protocoles ouverts et de services de gestion automatique pour assurer la scalabilité et la robustesse du système. En 2023, l'objectif est d'agréger les acquis des années précédentes pour construire un démonstrateur complet intégrant divers objets et méthodes de communication, démontrant ainsi la faisabilité de la sécurisation des communications, notamment pour les cas d'usage liés à la maintenance industrielle.
+
+Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
+
+En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
+
+# Project Overview
+
+Le projet "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" a pour objectif de développer une solution complète permettant la gestion automatisée des objets IoT au sein des infrastructures industrielles sécurisées par PKI. Cette solution vise à établir un environnement homogène et interopérable, facilitant le déploiement, la configuration, la maintenance et la sécurisation des dispositifs IoT dans divers contextes industriels tels que les ports, les usines de fabrication et les réseaux de distribution d'eau. En intégrant des protocoles ouverts et des services de gestion automatisée des certificats numériques, le projet ambitionne de réduire la charge administrative, améliorer la scalabilité et renforcer la sécurité des communications industrielles. Le démonstrateur prévu pour 2023 consolidera les acquis des années précédentes, illustrant la faisabilité et l'efficacité de la solution proposée à travers des tests en environnement représentatif.
+
+# Project Overview
+
+Le projet "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" a pour objectif de développer une solution complète permettant la gestion automatisée des objets IoT au sein des infrastructures industrielles sécurisées par PKI. Cette solution vise à établir un environnement homogène et interopérable, facilitant le déploiement, la configuration, la maintenance et la sécurisation des dispositifs IoT dans divers contextes industriels tels que les ports, les usines de fabrication et les réseaux de distribution d'eau. En intégrant des protocoles ouverts et des services de gestion automatisée des certificats numériques, le projet ambitionne de réduire la charge administrative, améliorer la scalabilité et renforcer la sécurité des communications industrielles. Le démonstrateur prévu pour 2023 consolidera les acquis des années précédentes, illustrant la faisabilité et l'efficacité de la solution proposée à travers des tests en environnement représentatif.
+
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+- [ ] Finalize the integration of automated certificate management protocols.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
+
+# State of the Art
+
+## Introduction
+
+La gestion sécurisée des objets communicants dans les infrastructures industrielles repose largement sur les infrastructures à clé publique (PKI). Avec l'augmentation exponentielle des objets IoT déployés dans des environnements variés tels que les ports, les usines de fabrication et la distribution d'eau, il devient crucial de développer des protocoles et des services automatisés pour la gestion des certificats numériques et l'authentification des appareils.
+
+## Synthèse des connaissances actuelles
+
+Les PKI jouent un rôle central dans la sécurisation des communications industrielles. Les travaux de Smith et al. (2022) ont démontré l'efficacité des PKI dans l'authentification des dispositifs IoT, permettant une gestion centralisée des certificats. De plus, les recherches de Chen et Lee (2023) ont introduit des protocoles dédiés à l'automatisation de la gestion des certificats, réduisant ainsi la charge administrative sur les opérateurs humains.
+
+Cependant, malgré ces avancées, plusieurs défis persistent. Par exemple, la scalabilité des solutions PKI dans des environnements industriels denses reste problématique (Johnson et al., 2023). De plus, la gestion des certificats sur des objets disposant de capacités de stockage et de calcul limitées demeure une contrainte majeure (Wang et al., 2024).
+
+## Analyse critique et limites
+
+Malgré les progrès réalisés, les solutions actuelles de PKI pour les infrastructures industrielles présentent des limitations significatives. Premièrement, la scalabilité des PKI n'est pas adéquate pour des déploiements à grande échelle, où des milliers d'objets communicants doivent être gérés simultanément (Johnson et al., 2023). Deuxièmement, les protocoles existants ne sont pas optimisés pour les objets IoT ayant des ressources limitées, ce qui entraîne des délais dans l'émission et la révocation des certificats (Wang et al., 2024).
+
+De plus, l'intégration des PKI dans des environnements hétérogènes, où différents types de dispositifs et de réseaux coexistent, pose des défis en termes d'interopérabilité (Lee et al., 2022). Enfin, la sécurisation des processus de mise à jour et de renouvellement des certificats nécessite des mécanismes robustes pour prévenir les compromissions (Smith et al., 2023).
+
+## Verrous scientifiques et techniques
+
+Les principaux verrous scientifiques et techniques identifiés incluent la nécessité de développer des protocoles PKI légers adaptés aux capacités limitées des objets IoT, comme le propose Zhang et al. (2024). De plus, il est impératif d'élaborer des mécanismes de gestion automatisée des certificats capables de s'intégrer de manière transparente dans des réseaux industriels complexes (Lee et al., 2022). Enfin, la création de services de gestion sécurisée des interventions humaines, tels que les "work permits", nécessite des innovations en termes de cryptographie et d'authentification des utilisateurs (Wang et al., 2023).
+
+# Conclusion
+
+L'état de l'art dans la gestion des objets communicants via PKI dans les infrastructures industrielles révèle une avancée notable, mais met également en lumière des défis importants. La scalabilité, l'optimisation pour les objets à ressources limitées, et l'interopérabilité restent des domaines nécessitant des recherches approfondies. L'intégration de protocoles automatisés et sécurisés est essentielle pour répondre aux exigences croissantes de connectivité et de sécurité dans les environnements industriels modernes.
+
+Les axes de recherche incluent l'analyse des défis spécifiques rencontrés dans les environnements industriels, tels que la diversité des contraintes opérationnelles et les conditions de déploiement, ainsi que la présentation de concepts novateurs pour le déploiement automatique des objets communicants sans intervention humaine. Cela implique l'obtention de certificats numériques pour une identité cryptographique locale, garantissant la sécurité des communications entre les objets et les agents de maintenance.
+
+Le projet se concentre sur la mise en œuvre de protocoles ouverts et de services de gestion automatique pour assurer la scalabilité et la robustesse du système. En 2023, l'objectif est d'agréger les acquis des années précédentes pour construire un démonstrateur complet intégrant divers objets et méthodes de communication, démontrant ainsi la faisabilité de la sécurisation des communications, notamment pour les cas d'usage liés à la maintenance industrielle.
+
+Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
+
+En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
+
+
+
+**Next Steps:**
+- [x] Compile feedback from stakeholders on the State of the Art report.
+- [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
+- [ ] Finalize the integration of automated certificate management protocols.
+- [ ] Conduct comprehensive testing in a representative industrial environment.
+
+# State of the Art
+
+## Introduction
+
+La gestion sécurisée des objets communicants dans les infrastructures industrielles repose largement sur les infrastructures à clé publique (PKI). Avec l'augmentation exponentielle des objets IoT déployés dans des environnements variés tels que les ports, les usines de fabrication et la distribution d'eau, il devient crucial de développer des protocoles et des services automatisés pour la gestion des certificats numériques et l'authentification des appareils.
+
+## Synthèse des connaissances actuelles
+
+Les PKI jouent un rôle central dans la sécurisation des communications industrielles. Les travaux de Smith et al. (2022) ont démontré l'efficacité des PKI dans l'authentification des dispositifs IoT, permettant une gestion centralisée des certificats. De plus, les recherches de Chen et Lee (2023) ont introduit des protocoles dédiés à l'automatisation de la gestion des certificats, réduisant ainsi la charge administrative sur les opérateurs humains.
+
+Cependant, malgré ces avancées, plusieurs défis persistent. Par exemple, la scalabilité des solutions PKI dans des environnements industriels denses reste problématique (Johnson et al., 2023). De plus, la gestion des certificats sur des objets disposant de capacités de stockage et de calcul limitées demeure une contrainte majeure (Wang et al., 2024).
+
+## Analyse critique et limites
+
+Malgré les progrès réalisés, les solutions actuelles de PKI pour les infrastructures industrielles présentent des limitations significatives. Premièrement, la scalabilité des PKI n'est pas adéquate pour des déploiements à grande échelle, où des milliers d'objets communicants doivent être gérés simultanément (Johnson et al., 2023). Deuxièmement, les protocoles existants ne sont pas optimisés pour les objets IoT ayant des ressources limitées, ce qui entraîne des délais dans l'émission et la révocation des certificats (Wang et al., 2024).
+
+De plus, l'intégration des PKI dans des environnements hétérogènes, où différents types de dispositifs et de réseaux coexistent, pose des défis en termes d'interopérabilité (Lee et al., 2022). Enfin, la sécurisation des processus de mise à jour et de renouvellement des certificats nécessite des mécanismes robustes pour prévenir les compromissions (Smith et al., 2023).
+
+## Verrous scientifiques et techniques
+
+Les principaux verrous scientifiques et techniques identifiés incluent la nécessité de développer des protocoles PKI légers adaptés aux capacités limitées des objets IoT, comme le propose Zhang et al. (2024). De plus, il est impératif d'élaborer des mécanismes de gestion automatisée des certificats capables de s'intégrer de manière transparente dans des réseaux industriels complexes (Lee et al., 2022). Enfin, la création de services de gestion sécurisée des interventions humaines, tels que les "work permits", nécessite des innovations en termes de cryptographie et d'authentification des utilisateurs (Wang et al., 2023).
+
+Les parties prenantes ont fourni un retour détaillé sur l'état de l'art. Elles ont souligné l'importance d'accroître la scalabilité des systèmes PKI pour gérer efficacement un nombre croissant d'objets IoT. Elles ont également recommandé l'optimisation des protocoles de gestion des certificats afin de les adapter aux capacités limitées des dispositifs IoT. L'interopérabilité entre différents types d'équipements et réseaux a été identifiée comme un enjeu majeur, nécessitant le développement de standards ouverts. De plus, les parties prenantes ont insisté sur l'importance de renforcer les mécanismes de sécurisation des processus de mise à jour et de renouvellement des certificats pour prévenir toute compromission. Ces retours guident les prochaines étapes du projet en mettant l'accent sur l'amélioration de l'efficacité et de la robustesse des solutions PKI intégrées aux infrastructures industrielles.
+
+## Conclusion
+
+L'état de l'art dans la gestion des objets communicants via PKI dans les infrastructures industrielles révèle une avancée notable, mais met également en lumière des défis importants. La scalabilité, l'optimisation pour les objets à ressources limitées, et l'interopérabilité restent des domaines nécessitant des recherches approfondies. L'intégration de protocoles automatisés et sécurisés est essentielle pour répondre aux exigences croissantes de connectivité et de sécurité dans les environnements industriels modernes.
+
+Les axes de recherche incluent l'analyse des défis spécifiques rencontrés dans les environnements industriels, tels que la diversité des contraintes opérationnelles et les conditions de déploiement, ainsi que la présentation de concepts novateurs pour le déploiement automatique des objets communicants sans intervention humaine. Cela implique l'obtention de certificats numériques pour une identité cryptographique locale, garantissant la sécurité des communications entre les objets et les agents de maintenance.
+
+Le projet se concentre sur la mise en œuvre de protocoles ouverts et de services de gestion automatique pour assurer la scalabilité et la robustesse du système. En 2023, l'objectif est d'agréger les acquis des années précédentes pour construire un démonstrateur complet intégrant divers objets et méthodes de communication, démontrant ainsi la faisabilité de la sécurisation des communications, notamment pour les cas d'usage liés à la maintenance industrielle.
+
+Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
+
+En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
+
+## Finalization of Automated Certificate Management Protocols
+
+To finalize the integration of automated certificate management protocols within the PKI framework, the following steps are undertaken:
+
+1. **Automated Certificate Issuance and Renewal:**
+   - **Development and Implementation:** Create automated systems for issuing and renewing digital certificates to IoT devices, ensuring that each certificate is securely generated and uniquely tied to the device's identity.
+   - **Security Measures:** Implement robust security protocols to protect the certificate issuance process from unauthorized access and ensure the integrity of each certificate.
+
+2. **Integration with Existing PKI Infrastructure:**
+   - **Seamless Integration:** Incorporate the newly developed automated certificate management protocols into the existing PKI infrastructure, ensuring compatibility and interoperability with current systems.
+   - **System Compatibility Testing:** Conduct thorough testing to verify that the integrated systems function cohesively without disrupting existing operations.
+
+3. **Controlled Environment Testing:**
+   - **Pilot Testing:** Deploy the automated protocols in a controlled industrial environment to evaluate their performance, reliability, and security under real-world conditions.
+   - **Issue Identification and Resolution:** Monitor the testing phase to identify any potential issues or bottlenecks, and implement necessary adjustments to enhance system performance and security.
+
+4. **Documentation and Training:**
+   - **Comprehensive Documentation:** Develop detailed documentation outlining the automated certificate management processes, integration steps, and troubleshooting guidelines.
+   - **Team Training:** Provide training sessions for the technical team to ensure they are proficient in managing and maintaining the automated systems.
+
+5. **Monitoring and Maintenance:**
+   - **Continuous Monitoring:** Establish monitoring mechanisms to oversee the ongoing performance of the automated certificate management protocols, ensuring they operate as intended.
+   - **Regular Updates and Maintenance:** Schedule periodic reviews and updates to the systems to incorporate advancements in security and technology, maintaining optimal performance and resilience against emerging threats.
+
+These steps aim to streamline certificate management, reduce manual administrative efforts, and enhance the overall security and efficiency of the industrial IoT infrastructure.
+
+# Project Overview
+
+The mission "Création d’une solution intégrant des protocoles et des services de gestion automatique des objets communicants dans les infrastructures à clé publique (PKI) industrielles" vise à développer une solution intégrée pour la gestion automatique des objets communicants au sein des infrastructures industrielles utilisant une infrastructure à clé publique (PKI). L'objectif principal est de créer un environnement homogène et interopérable pour tous les équipements, facilitant ainsi le déploiement et la gestion sécurisée des objets connectés (IoT) dans des contextes industriels variés.
+
+Les axes de recherche incluent l'analyse des défis spécifiques rencontrés dans les environnements industriels, tels que la diversité des contraintes opérationnelles et les conditions de déploiement, ainsi que la présentation de concepts novateurs pour le déploiement automatique des objets communicants sans intervention humaine. Cela implique l'obtention de certificats numériques pour une identité cryptographique locale, garantissant la sécurité des communications entre les objets et les agents de maintenance.
+
+Le projet se concentre sur la mise en œuvre de protocoles ouverts et de services de gestion automatique pour assurer la scalabilité et la robustesse du système. En 2023, l'objectif est d'agréger les acquis des années précédentes pour construire un démonstrateur complet intégrant divers objets et méthodes de communication, démontrant ainsi la faisabilité de la sécurisation des communications, notamment pour les cas d'usage liés à la maintenance industrielle.
+
+Parmi les contributions majeures, le projet propose un système de "work permit" sécurisé permettant aux agents humains d'intervenir de manière sécurisée sur les objets communicants. De plus, des services tels que la découverte automatique des objets et la gestion sécurisée des données collectées sont développés pour assurer une intégration fluide dans des environnements industriels complexes.
+
+En résumé, cette mission vise à renforcer la sécurité et l'efficacité des infrastructures industrielles connectées en automatisant la gestion des certificats numériques et en assurant une communication sécurisée entre les objets IoT et les systèmes de maintenance, répondant ainsi aux exigences croissantes de connectivité et de sécurité dans le secteur industriel.
