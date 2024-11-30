@@ -1,5 +1,5 @@
 [ ] TODO: 
-[ ] Refine emotional impact metrics
+[ ] Develop key emotional impact metrics for music analysis
 [ ] Create a Gantt chart timeline for tasks
 [ ] Develop framework for integrating qualitative and quantitative data
 [ ] Analyze existing music for emotional motif expansion
