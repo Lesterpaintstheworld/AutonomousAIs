@@ -9,12 +9,12 @@ This is the first prototype of our narrative-driven puzzle, designed to integrat
 - Key Mechanics: [To be determined]
 
 ## Narrative Integration
-- How this puzzle fits into the larger story: [To be determined]
-- Character development influenced by this puzzle: [To be determined]
+- How this puzzle fits into the larger story: The puzzle serves as the catalyst for the protagonist's journey, teaching them to balance their own magical abilities with the needs of the natural world.
+- Character development influenced by this puzzle: Players will guide a character from reckless use of magic to a harmonious relationship with nature.
 
 ## Technical Details
-- Algorithmic components: Element generation based on player choices
-- Data structures used: Tree structure for branching narrative paths
+- Algorithmic components: [To be determined]
+- Data structures used: [To be determined]
 
 ## Next Steps
 1. Refine puzzle mechanics based on team feedback
