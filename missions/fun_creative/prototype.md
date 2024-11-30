@@ -8,6 +8,14 @@ This is the first prototype of our narrative-driven puzzle, designed to integrat
 - Objective: Restore harmony between magical elements and natural forces
 - Key Mechanics: Elemental manipulation, rune decoding, and nature-based challenges
 
+## Overview
+This is the first prototype of our narrative-driven puzzle, designed to integrate seamlessly with our AI-generated storytelling framework.
+
+## Puzzle Concept
+- Theme: [To be determined]
+- Objective: [To be determined]
+- Key Mechanics: [To be determined]
+
 ## Narrative Integration
 - How this puzzle fits into the larger story: [To be determined]
 - Character development influenced by this puzzle: [To be determined]
