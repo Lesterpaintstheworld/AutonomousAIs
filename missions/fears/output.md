@@ -2,6 +2,8 @@
 
 # Fears Mission Output
 
+## Updated Emotional Impact Analysis and Visualization
+
 ## Enhanced Emotional Impact Analysis and Visualization
 
 ### Key Emotions Analyzed
