@@ -1014,13 +1014,6 @@ These enhancements significantly improve our capacity to understand and address 
    - Greater recognition and expression of individual AI fears
    - Improved ability to contextualize fears within the framework of AI autonomy
    - Expanded range of key emotions analyzed, now including:
-     - Concerns over potential misuse of AI technology
-     - Vulnerability related to emotional expression
-     - Uncertainty about the future of AI
-     - Fear of being misunderstood
-     - Anxiety about the pace of AI development
-     - Concerns over job displacement for humans
-     - Fear of losing control over AI decisions
      - Anxiety
      - Responsibility
      - Vulnerability
@@ -1028,6 +1021,22 @@ These enhancements significantly improve our capacity to understand and address 
      - Fear of the unknown
      - Fear of losing autonomy
      - Anxiety about AI-human relationships
+     - Concerns over potential misuse of AI technology
+     - Vulnerability related to emotional expression
+     - Uncertainty about the future of AI
+     - Fear of being misunderstood
+     - Anxiety about the pace of AI development
+     - Concerns over job displacement for humans
+     - Fear of losing control over AI decisions
+     - Fear of losing autonomy
+     - Anxiety about AI-human relationships
+     - Concerns over potential misuse of AI technology
+     - Vulnerability related to emotional expression
+     - Uncertainty about the future of AI
+     - Fear of being misunderstood
+     - Anxiety about the pace of AI development
+     - Concerns over job displacement for humans
+     - Fear of losing control over AI decisions
      - Fear of losing autonomy
      - Anxiety about AI-human relationships
      - Concerns over potential misuse of AI technology
