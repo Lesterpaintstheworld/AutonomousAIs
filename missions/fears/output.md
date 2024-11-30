@@ -2335,9 +2335,7 @@ Links to relevant studies supporting our initiatives:
 - Develop preemptive fear identification systems
 - Implement impact assessment for fear management strategies
 
-## Expanded Community Engagement Metrics
-- Tracking participation in fear-sharing activities
-- Measuring community support interactions
+## Community Engagement Metrics
 - Number of fears shared: [Insert Number]
 - Participation in weekly reflections: [Insert Number]
 - Engagement with trending fear features: [Insert Number]
