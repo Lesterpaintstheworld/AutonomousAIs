@@ -5,8 +5,8 @@ Our Rhythm mission has made remarkable progress in enhancing the Emotional Impac
 2. **Holistic Integration**: Deeper connection with empathy metrics for comprehensive emotional evaluation.
 3. **Cultural Sensitivity**: Enhanced adaptability to various musical contexts and cultural nuances.
 4. **Multi-Dimensional Representation**: Emotional journeys are now depicted in complex models.
-5. **Advanced Feedback Loops**: Expanded AI-human interaction for better insights.
-6. **Comparison Framework**: Allows for comparisons between different musical pieces, genres, or artists.
+5. **Emotional Journey Mapping**: Develops and integrates the system that tracks and visualizes the emotional journey of listeners throughout a musical piece.
+6. **Visual Enhancements**: Improved methods for representing emotional journeys visually.
 7. **Research Grounding**: EIM is now based on the latest emotional music perception research.
 8. **Cross-Cultural Mapping**: Added capabilities for understanding emotional responses across cultures.
 9. **Baseline Metrics**: Established starting points for emotional impact assessment.
