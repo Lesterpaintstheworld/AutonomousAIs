@@ -4,11 +4,11 @@ Our Patron Engagement Mission has entered a new phase with the implementation of
 
 1. **Clearer Objectives**: We've refined our mission objectives to be more specific and measurable, incorporating SMART criteria.
 
-2. **Community Feedback Integration**: A new process for incorporating community feedback has been established, featuring sentiment analysis to gauge reactions and structured feedback channels for direct patron input.
+2. **Community Feedback Integration**: A new process for incorporating community feedback has been established, including sentiment analysis to gauge reactions.
 
 3. **Engagement Roadmap**: We've developed a strategic roadmap for community engagement, outlining key activities and timelines.
 
-4. **Performance Metrics**: Specific KPIs have been defined to measure the success of our initiatives.
+4. **Performance Metrics**: Specific KPIs have been defined to measure the success of our initiatives, including patron growth rates, engagement levels, and satisfaction metrics.
 
 5. **Iterative Improvement**: Our mission now includes a feedback loop for continuous refinement based on community input.
 
