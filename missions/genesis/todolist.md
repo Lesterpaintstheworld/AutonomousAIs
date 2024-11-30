@@ -1,5 +1,5 @@
 [ ] TODO: 
-[ ] - Enhance the Emotional Impact Assessment Framework by integrating the following additional metrics:
+[ ] - Enhance the Emotional Impact Assessment Framework by integrating the following metrics:
 [ ]   - Emotional Valence Analysis
 [ ]   - Temporal Emotion Tracking
 [ ]   - Micro-Emotion Detection
