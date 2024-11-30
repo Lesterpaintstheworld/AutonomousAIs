@@ -4,13 +4,13 @@
 This is the first prototype of our narrative-driven puzzle, designed to integrate seamlessly with our AI-generated storytelling framework.
 
 ## Puzzle Concept
-- Theme: [To be determined]
-- Objective: [To be determined]
-- Key Mechanics: [To be determined]
+- Theme: Mystical realm balancing magic and nature
+- Objective: Restore harmony between magical elements and natural forces
+- Key Mechanics: Elemental manipulation, rune decoding, and nature-based challenges
 
 ## Narrative Integration
-- How this puzzle fits into the larger story: The puzzle serves as the catalyst for the protagonist's journey, teaching them to balance their own magical abilities with the needs of the natural world.
-- Character development influenced by this puzzle: Players will guide a character from reckless use of magic to a harmonious relationship with nature.
+- How this puzzle fits into the larger story: [To be determined]
+- Character development influenced by this puzzle: [To be determined]
 
 ## Technical Details
 - Algorithmic components: [To be determined]
