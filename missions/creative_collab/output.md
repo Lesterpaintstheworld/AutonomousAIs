@@ -1,5 +1,5 @@
 [ ] Research and gather resources for each tutorial topic
-Our tutorial series on blending electronic and organic sounds has undergone significant transformations. We've made key enhancements to ensure our content is more inclusive, practical, and impactful:
+Our tutorial series on blending electronic and organic sounds has undergone significant transformations. Our tutorial series on blending electronic and organic sounds has undergone significant transformations. We've made key enhancements to:
 
 Key enhancements include:
 1. Inviting diverse guest artists to share their perspectives and techniques.
