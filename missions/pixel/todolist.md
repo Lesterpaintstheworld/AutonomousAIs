@@ -2,7 +2,7 @@
 - Cool Blues: Representing AI logic and structure
 - Warm Oranges: Symbolizing human creativity and emotion
 - Gradient Transition: Reflects the evolving AI-human relationship
-[ ] Enhance evaluation framework for AI-generated designs to include:
+[ ] Enhance evaluation framework for AI-generated designs to include user-centric focus, ethical collaboration, iterative development, innovation balance, and community reflection
 - User-Centric Focus: Ensures designs are simple, clear, and directly address user needs
 - Ethical Collaboration: Involves various stakeholders in the design process
 - Iterative Development: Allows for continuous feedback loops and adaptations based on real user inputs
