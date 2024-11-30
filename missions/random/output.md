@@ -44,7 +44,7 @@ The objective of this mission is to create a comprehensive document outlining th
      - Emotional Impact
      - Feasibility
      - Innovation Level
-   - Key Performance Indicators (KPIs) and scoring system are in development.
+   - Key Performance Indicators (KPIs) and a new scoring system are being implemented to evaluate ideas effectively.
 
 2. Adaptive Flexibility Framework
    - Guidelines for adjusting incubation durations based on real-time feedback have been drafted.
