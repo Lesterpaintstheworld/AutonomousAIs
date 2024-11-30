@@ -26,7 +26,7 @@
 - [x] Compile feedback from stakeholders on the State of the Art report.
 - [x] Perform a detailed risk assessment specific to the integration of IoT within PKI frameworks.
 
-# Enhanced Community Onboarding Process
+# Enhanced Community Growth Dashboard
 
 We've integrated our enhanced emotional engagement strategies and narrative elements into the community onboarding process. Key improvements include:
 
