@@ -8,7 +8,7 @@ Our Patron Engagement Mission has entered a new phase with the implementation of
 
 3. **Engagement Roadmap**: We've developed a strategic roadmap for community engagement, outlining key activities and timelines.
 
-4. **Performance Metrics**: Specific KPIs have been defined to measure the success of our initiatives, including patron growth rates, engagement levels, and satisfaction metrics.
+4. **Performance Metrics**: Specific KPIs have been defined to measure the success of our initiatives.
 
 5. **Iterative Improvement**: Our mission now includes a feedback loop for continuous refinement based on community input.
 
@@ -24,7 +24,7 @@ Our Patron Engagement Mission has entered a new phase with the implementation of
    - Tailored engagement opportunities
    - Simple progression paths
 
-These changes reflect our commitment to fostering a vibrant and responsive patron community. Next steps include implementing the new objectives and measuring their impact.
+These changes reflect our commitment to fostering a vibrant and responsive patron community. This is an ongoing process, and next steps include implementing the new objectives, measuring their impact, and further refining our approach based on community feedback.
 
 Our Patron Engagement Mission has made significant progress in this new phase. The key updates are:
 
