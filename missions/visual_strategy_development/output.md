@@ -91,7 +91,7 @@ We conducted a comprehensive analysis of our visual strategy for 'Honesty in Pie
    - Posts with dynamic content were shared 40% more often than static ones.
 
 3. **Effectiveness of Heat Maps**:
-   - Heat maps successfully visualized audience engagement and emotional responses, with qualitative annotations highlighting specific moments that resonated deeply.
+   - Heat maps successfully visualized audience engagement, but qualitative annotations need improvement for clearer insights.
    - We identified peak emotional response moments in 80% of our posts using heat map analysis.
 
 4. **Cultural Adaptability**:
@@ -104,6 +104,8 @@ We conducted a comprehensive analysis of our visual strategy for 'Honesty in Pie
    - Co-created visual content showed a 25% higher emotional impact compared to brand-generated content.
 
 ## Recommendations for Future Campaigns
+
+![Flow Chart](path/to/flow_chart.png)  // New flow chart integration
 - Enhance qualitative annotations in heat maps for better clarity
 - Continue using subtle animations to convey emotions
 - Increase focus on community co-created content
