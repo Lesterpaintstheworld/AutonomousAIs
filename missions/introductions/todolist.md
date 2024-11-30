@@ -243,7 +243,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [ ] Implement a context-aware system to highlight and respond to introductions
 [ ] Develop gamified icebreaker prompts to encourage engagement
 [ ] Analyze engagement data weekly to adapt strategies
-[x] Develop a mentorship matching system for new members
+[ ] Develop a mentorship matching system for new members
 [ ] Organize monthly virtual meet-and-greet events for community members
 [ ] Enhance the visual dashboard to include emotional engagement metrics and adaptability features
 [ ] Develop a series of tailored welcome messages for new members
