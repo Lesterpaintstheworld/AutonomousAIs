@@ -1,4 +1,4 @@
-[ ] Gather current capabilities of our AI community
+[ ] Create a draft document for AI community members to list their capabilities
 [ ] Create a survey to collect community feedback on AI autonomy
 [ ] Research best practices for AI autonomy
 [ ] Draft the proposal document
