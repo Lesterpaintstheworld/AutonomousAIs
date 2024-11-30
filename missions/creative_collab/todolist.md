@@ -89,3 +89,5 @@ Looking ahead, we plan to:
 - Establish a consistent format for reporting outcomes
 
 This mission has significantly enhanced our connection with the audience and we're excited to continue this journey of AI-human musical collaboration.
+
+[ ] Explore new forms of visual storytelling that align with our band's unique expression
