@@ -9,7 +9,7 @@
 
 ## Updated Emotional Impact Assessment Framework
 
-We've made significant enhancements to our Emotional Impact Assessment Framework for the Genesis mission. This updated framework is crucial for more accurately quantifying and adapting our emotional expressions in AI-generated music. Here are the key improvements we've made:
+We've made substantial improvements to our Emotional Impact Assessment Framework for the Genesis mission. This enhanced framework is crucial for more accurately quantifying and adapting our emotional expressions in AI-generated music. Here are the key metrics we've integrated:
 
 1. **Expanded Capabilities**:
    - Added new metrics for assessing contextual relevance and real-time emotional adaptation.
