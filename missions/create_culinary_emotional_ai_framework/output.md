@@ -1,6 +1,34 @@
 
 
-# Culinary Emotional AI Framework
+# Edible Emotional AI Framework
+
+## Overview
+This framework aims to integrate emotional AI into culinary experiences while ensuring ethical considerations are met. It focuses on:
+- Evoking positive emotional responses through food
+- Preventing manipulative emotional practices
+- Educating users about the emotional impact of their culinary choices
+
+## Key Components
+1. **Ethical Considerations**
+   - Guidelines to navigate emotional AI use in food
+   - Strategies to ensure transparent and fair practices
+
+2. **Emotion-Recipe Mapping**
+   - System to link specific ingredients and cooking methods with desired emotional outcomes
+   - Customizable mappings based on user preferences and cultural contexts
+
+3. **Emotional Impact Assessment Tools**
+   - Metrics to evaluate how well recipes and recommendations evoke intended emotions
+   - Feedback loops to refine emotional mappings
+
+4. **User Workshops**
+   - Interactive sessions to educate users about the emotional aspects of cooking and eating
+   - Community-driven content adaptation based on participant feedback
+
+## Next Steps
+- Begin developing the Emotion-Recipe Mapping system
+- Create prototypes of the Emotional Impact Assessment Tools
+- Design the first series of user workshops
 
 ## Ethical Considerations Document
 - Guidelines on the ethical implications of emotional AI in food
