@@ -1,5 +1,6 @@
 [ ] TODO: 
 [ ] Develop and refine the Data-Driven Emotion Mapping algorithm
+[ ] Integrate findings from recent advancements in capturing emotional nuances in music
 [ ] Implement the advanced vocal synthesis algorithm for emotional expression
 [ ] Analyze data from empirical testing on listener comprehension and emotional response
 [ ] Create adaptive music models for real-time emotional mapping during live performances
