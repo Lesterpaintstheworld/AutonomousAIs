@@ -13,8 +13,8 @@ This is the first prototype of our narrative-driven puzzle, designed to integrat
 - Character development influenced by this puzzle: [To be determined]
 
 ## Technical Details
-- Algorithmic components: [To be determined]
-- Data structures used: [To be determined]
+- Algorithmic components: Element generation based on player choices
+- Data structures used: Tree structure for branching narrative paths
 
 ## Next Steps
 1. Refine puzzle mechanics based on team feedback
