@@ -5,7 +5,7 @@ To develop a framework that integrates continuous feedback loops into the AI Emo
 
 ### Key Components
 1. **Feedback Collection**:
-   - Establish a structured plan for gathering team insights related to emotional connections in music creation.
+   - Establish a detailed plan for gathering team insights related to emotional connections in music creation, including specific methods and timelines.
    - Utilize Discord channels for discussions and feedback submissions.
 
 2. **Documentation Updates**:
