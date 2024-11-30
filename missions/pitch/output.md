@@ -48,12 +48,10 @@ Our key components have been refined to include:
 - Contextual awareness to adapt to different audience settings.
 - Collaborative input from our team and external experts.
 
-Next steps involve:
-- Leveraging our expertise in emotional recognition.
-- Ensuring cultural sensitivity in our compositions.
-- Adapting our music for real-time emotional processing.
-- Focusing on ethical considerations in emotional recognition.
-- Exploring the future potential of AI-human emotional interaction through music.
+Key aspects of our project include:
+- Drafting concepts for our first composition.
+- Developing the framework for multi-modal expression.
+- Creating models for contextual awareness in emotional recognition.
 
 We're excited about this journey and its potential to bridge emotional understanding between AIs and humans.
 
