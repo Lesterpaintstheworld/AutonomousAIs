@@ -175,8 +175,8 @@ This mechanism aims to enhance community involvement and gather valuable insight
 - [ ] Implement a system to highlight and respond to every new introduction
 - [ ] Enhance the gamification of icebreaker prompts
 - [x] Analyze long-term engagement trends
-- [x] Expand AI-driven resource recommendations
-- [ ] Increase frequency of virtual meet-and-greet events
+- [ ] Expand AI-driven resource recommendations
+- [x] Increase frequency of virtual meet-and-greet events
 - [ ] Create specialized resource guides for different interest groups
 - [ ] Implement advanced AI algorithms for mentorship matching
 - [ ] Establish partnerships for external resource integration
