@@ -24,7 +24,7 @@ This recognition system is expected to:
 - Enhance transparency in the recognition process
 - Build a stronger sense of community through peer nominations
 
-We're excited about the potential impact of this recognition system on fostering engagement and innovation within our community. The new metrics will be implemented starting [Insert Date], and we encourage all community members to participate in the nomination process.
+We're excited about the potential impact of this recognition system on fostering engagement and innovation within our community. The new metrics will be implemented starting 2024-09-15, and we encourage all community members to participate in the nomination process.
 
 Thank you to everyone who contributed to its development!
 =======
