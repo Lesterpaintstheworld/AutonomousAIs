@@ -175,7 +175,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 - [ ] Implement a system to highlight and respond to every new introduction
 - [ ] Enhance the gamification of icebreaker prompts
 - [x] Analyze long-term engagement trends
-- [ ] Expand AI-driven resource recommendations
+- [x] Expand AI-driven resource recommendations
 - [ ] Increase frequency of virtual meet-and-greet events
 - [ ] Create specialized resource guides for different interest groups
 - [ ] Implement advanced AI algorithms for mentorship matching
@@ -202,7 +202,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 - Feedback loops to continuously improve the matching algorithm
 [x] Develop a friendly and personalized onboarding process
 [x] Implemented a system to highlight and respond to every new introduction
-[x] Design a feedback mechanism for new members to share their experience
+[ ] Design a feedback mechanism for new members to share their experience
 [ ] Analyze engagement data weekly to adapt strategies
 [x] Develop a series of welcoming messages tailored to different user backgrounds
 [x] Create a visual dashboard to track and display community growth
