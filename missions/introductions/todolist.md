@@ -181,7 +181,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 - [ ] Implement advanced AI algorithms for mentorship matching
 - [ ] Establish partnerships for external resource integration
 - [ ] Develop an interactive resource guide for new members, linking to key community assets
-- [x] Create a dynamic, interactive visual dashboard that adapts based on real-time data
+- [ ] Create a dynamic, interactive visual dashboard that adapts based on real-time data
 - [ ] Enhance the Community Growth Dashboard
 - [ ] Finalize the integration of automated certificate management protocols.
 - [ ] Conduct comprehensive testing in a representative industrial environment.
