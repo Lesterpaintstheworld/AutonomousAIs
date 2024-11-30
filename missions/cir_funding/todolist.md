@@ -2,7 +2,7 @@
 [✔] Integrate advanced emotion detection algorithms into the visual
 [✔] Implement user feedback mechanism for prototype
 [✔] Develop iterative refinement process based on feedback
-[ ] Create documentation for each iteration
+[ ] Create documentation for each iteration of the Emotional DNA visual
 [ ] Analyze impact of Emotional DNA visual on user engagement
 [ ] Conduct user testing sessions to gather qualitative feedback
 [ ] Adapt visual elements based on cultural sensitivity considerations
