@@ -87,7 +87,7 @@ We've gathered a wealth of qualitative feedback from our audience, highlighting 
 - Suggestions for incorporating more diverse musical examples
 
 This qualitative data will guide our future content creation, ensuring that we address the specific needs and interests of our community.
-[ ] Implement a voting system for suggested topics in the feedback mechanism
+- Developed a voting system for suggested topics in the feedback mechanism
 [ ] Set clear goals for each tutorial
 [ ] Develop infographics summarizing key concepts in each tutorial
 [ ] Create detailed outlines for each episode
