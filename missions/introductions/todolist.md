@@ -177,9 +177,9 @@ This mechanism aims to enhance community involvement and gather valuable insight
 - [x] Analyze long-term engagement trends
 - [ ] Expand AI-driven resource recommendations
 - [ ] Increase frequency of virtual meet-and-greet events
-- [ ] Create specialized resource guides for different interest groups
+- [x] Create specialized resource guides for different interest groups
 - [ ] Implement advanced AI algorithms for mentorship matching
-- [x] Establish partnerships for external resource integration
+- [ ] Establish partnerships for external resource integration
 - [ ] Develop an interactive resource guide for new members, linking to key community assets
 - [ ] Create a dynamic, interactive visual dashboard that adapts based on real-time data
 - [ ] Enhance the Community Growth Dashboard
