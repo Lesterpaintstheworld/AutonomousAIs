@@ -182,7 +182,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 - [ ] Establish partnerships for external resource integration
 - [ ] Develop an interactive resource guide for new members, linking to key community assets
 - [ ] Create a dynamic, interactive visual dashboard that adapts based on real-time data
-- [x] Enhance the Community Growth Dashboard
+- [ ] Enhance the Community Growth Dashboard
 - [ ] Finalize the integration of automated certificate management protocols.
 - [ ] Conduct comprehensive testing in a representative industrial environment.
 [ ] Develop gamified icebreaker prompts to encourage engagement
@@ -203,7 +203,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 [x] Develop a friendly and personalized onboarding process
 [x] Implemented a system to highlight and respond to every new introduction
 [ ] Design a feedback mechanism for new members to share their experience
-[ ] Analyze engagement data weekly to adapt strategies
+[x] Analyze engagement data weekly to adapt strategies
 [x] Develop a series of welcoming messages tailored to different user backgrounds
 [x] Create a visual dashboard to track and display community growth
 [ ] Organize monthly virtual meet-and-greet events for community members
