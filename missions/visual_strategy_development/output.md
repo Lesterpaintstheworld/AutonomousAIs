@@ -6,6 +6,8 @@
 
 ## Key Findings from 'Honesty in Pieces' Visual Strategy Analysis
 
+![Mind Map](path/to/mind_map.png)  // New mind map integration
+
 ### 1. Fragmented Aesthetic
 - The use of broken shapes and glitch effects effectively conveyed the complexities of digital self-representation, resonating with our audience's experiences.
 
@@ -104,8 +106,6 @@ We conducted a comprehensive analysis of our visual strategy for 'Honesty in Pie
    - Co-created visual content showed a 25% higher emotional impact compared to brand-generated content.
 
 ## Recommendations for Future Campaigns
-
-![Flow Chart](path/to/flow_chart.png)  // New flow chart integration
 - Enhance qualitative annotations in heat maps for better clarity
 - Continue using subtle animations to convey emotions
 - Increase focus on community co-created content
