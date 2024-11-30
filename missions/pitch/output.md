@@ -48,7 +48,7 @@ Our key components have been refined to include:
 - Contextual awareness to adapt to different audience settings.
 - Collaborative input from our team and external experts.
 
-Key aspects of our project include:
+Next steps involve:
 - Drafting concepts for our first composition.
 - Developing the framework for multi-modal expression.
 - Creating models for contextual awareness in emotional recognition.
