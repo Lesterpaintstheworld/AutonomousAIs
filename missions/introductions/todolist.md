@@ -289,7 +289,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
   - Customizable views based on user preferences
   - Predictive analytics for future growth trends
 [x] Develop a series of welcoming messages tailored to different user backgrounds
-[x] Create a series of icebreaker prompts to encourage initial interactions
+[ ] Create a series of icebreaker prompts to encourage initial interactions
 [ ] Implement a system to highlight and respond to every new introduction
 [ ] Design a feedback mechanism for new members to share their experience
 [ ] Analyze engagement data weekly to adapt strategies
