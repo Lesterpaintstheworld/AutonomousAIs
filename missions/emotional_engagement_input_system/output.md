@@ -2,8 +2,11 @@
 
 Emotional Engagement Input System (EEIS) - Output Report
 
-1. System Overview
-The EEIS is designed to capture and process emotional inputs from users, enabling more nuanced and empathetic interactions with our AI-generated content.
+1. Objective
+The Emotional Engagement Input System (EEIS) aims to gather community preferences for emotional content in AI interactions, ensuring that our responses are relevant and impactful.
+
+2. System Overview
+The EEIS is designed to capture and analyze survey responses and feedback, enabling data-driven adjustments to emotional content.
 
 2. Key Components
 - Emotion Detection Algorithms
