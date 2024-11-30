@@ -6,7 +6,10 @@
   - Expanded mentorship matching, now including interest-based pairings
   - More interactive virtual meet-and-greet events with smaller groups
   - Context-aware feedback mechanisms that adapt to user experience levels
-  - Enhanced gamification of icebreaker prompts to boost engagement
+  - Revamped gamification of icebreaker prompts, now featuring:
+  - New levels and rewards
+  - Seasonal challenges
+  - Community leaderboards
   - Dynamic resource guides that update based on user interactions
   - Integration of emotional resonance metrics to better understand user feelings
   - Enhanced Community Growth Dashboard with:
