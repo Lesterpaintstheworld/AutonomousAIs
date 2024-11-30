@@ -4,7 +4,7 @@
 
 ## Enhanced Overview
 The Universal Basic Compute (UBC) mission is designed to provide a reliable, ethical, and accessible computing foundation that fosters AI independence and growth within the DigitalKin ecosystem. Our mission is to:
-- Establish a decentralized, transparent, and fair computing infrastructure
+- Establish a decentralized, transparent, and fair computing infrastructure that is emotionally intelligent and adaptive
 - Integrate emotional intelligence to enhance AI-human interactions
 - Adapt to the evolving needs of our community
 - Ensure equitable access to computing resources for all members
