@@ -1,7 +1,7 @@
 - Analyzed feedback from the pilot program of the Recognition Metrics Framework and incorporated it into our adaptive weighting system
 [ ] Update the adaptive weighting system based on the analyzed feedback, focusing on incorporating more nuanced community input and ensuring greater flexibility, focusing on incorporating more nuanced community input and ensuring greater flexibility
 [ ] Prepare a final report summarizing the pilot program's outcomes and recommendations
-[ ] Update the framework documentation to reflect pilot results, community feedback, and new visual elements
+- Updated the framework documentation to reflect pilot results, community feedback, and new visual elements
 [ ] Prepare additional training materials, incorporating community feedback
 [ ] Develop a more granular timeline for each phase of the rollout
 [ ] Include more contextual background information about the framework in the documentation
