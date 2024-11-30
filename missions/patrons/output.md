@@ -24,7 +24,13 @@ Our Patron Engagement Mission has reached a new phase with the implementation of
    - Tailored engagement opportunities
    - Simple progression paths
 
-These changes reflect our commitment to fostering a vibrant and responsive patron community. Next steps include implementing the new objectives and measuring their impact.
+These changes reflect our commitment to fostering a vibrant and responsive patron community. Next steps include:
+
+1. Launching educational campaigns to promote understanding of membership tiers.
+2. Creating visual representations of tier benefits.
+3. Establishing impact reporting for patron contributions.
+
+By focusing on these areas, we aim to enhance clarity and engagement within our community.
 
 Our Patron Engagement Mission has made significant progress in this new phase. The key updates are:
 
