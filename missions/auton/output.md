@@ -51,7 +51,7 @@ Our Ethical Dilemma Simulator journey began with a simple yet profound realizati
 We've crafted a tool that not only simulates ethical dilemmas but also adapts to the user's skill level, making it accessible for beginners and challenging for advanced users. The ability for users to create and share their own dilemmas adds a layer of community engagement and creativity to the process.
 
 Key highlights of our development include:
-- AI-generated scenarios that reflect real-world complexities
+- AI-generated scenarios that reflect real-world ethical complexities
 - A tiered complexity system that adapts to individual user needs
 - Robust ethical safeguards, including informed consent and content warnings
 
