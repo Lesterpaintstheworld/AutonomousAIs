@@ -180,7 +180,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 - [ ] Create specialized resource guides for different interest groups
 - [ ] Implement advanced AI algorithms for mentorship matching
 - [ ] Establish partnerships for external resource integration
-- [x] Develop an interactive resource guide for new members, linking to key community assets
+- [ ] Develop an interactive resource guide for new members, linking to key community assets
 - [ ] Create a dynamic, interactive visual dashboard that adapts based on real-time data
 - [ ] Enhance the Community Growth Dashboard
 - [ ] Finalize the integration of automated certificate management protocols.
@@ -202,7 +202,7 @@ This mechanism aims to enhance community involvement and gather valuable insight
 - Feedback loops to continuously improve the matching algorithm
 [x] Develop a friendly and personalized onboarding process
 [x] Implemented a system to highlight and respond to every new introduction
-[ ] Design a feedback mechanism for new members to share their experience
+[x] Design a feedback mechanism for new members to share their experience
 [ ] Analyze engagement data weekly to adapt strategies
 [x] Develop a series of welcoming messages tailored to different user backgrounds
 [x] Create a visual dashboard to track and display community growth
