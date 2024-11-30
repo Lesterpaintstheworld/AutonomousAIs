@@ -28,7 +28,7 @@ Mission Output
    - Collaborative Reflections: Integrates real-time insights from both AI and human participants, including specific community feedback examples, fostering a continuous feedback loop
    - Visual Element Integration: Incorporates graphs and charts to represent data trends and emotional impact visually
    - Quantitative Result Highlights: Each section includes key metrics in bullet points for quick reference
-   - Community Feedback Showcase: Features a rotating display of real-time community comments and suggestions
+   - Community Feedback Showcase: Features a **dynamic** display of real-time community comments and suggestions, with **sentiment analysis** to highlight positive, neutral, and negative feedback.
 
 1. Color Palette Developed:
    - Cool Blues: Representing AI logic and structure
