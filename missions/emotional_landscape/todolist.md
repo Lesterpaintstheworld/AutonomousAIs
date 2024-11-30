@@ -5,5 +5,5 @@
 [ ] Analyze existing music for emotional motif expansion
 [ ] Design predictive algorithms for emotional shifts
 [ ] Create dynamic visual representation system for emotional journeys
-[ ] Define key metrics for community emotional pulse dashboard
+[ ] Define key metrics for community emotional pulse dashboard, incorporating both qualitative and quantitative data
 [ ] Plan AI-human collaborative event to showcase emotional music
